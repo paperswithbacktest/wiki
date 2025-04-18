@@ -1,6 +1,7 @@
 ---
-title: "Cash Value Added: Concept and Functionality"
-description: "Discover how Cash Value Added (CVA) serves as a pivotal metric in algorithmic trading by evaluating a company's capacity to generate cash flow above capital costs enhancing profitability."
+title: Understanding Cash Value Added CVA For Business Cash Flow
+description: Cash Value Added shows cash profits after covering costs and capital
+  charges to help optimize cash flow Discover more inside
 ---
 
 

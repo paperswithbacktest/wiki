@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Guide To Portfolio Return Calculations
-description: Portfolio returns explained with practical formulas and expert tips to
-  help you assess performance and optimize your investments Discover more inside.
+title: Guide to Portfolio Return Calculations and Risk Assessment
+description: Portfolio return calculations combine capital gains dividends interest
+  and risk metrics to measure performance for informed investing Discover more inside.
 ---
 
 

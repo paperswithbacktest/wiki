@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Blind Pool Investments and Risks
-description: Blind pool investments offer investors a clear overview of how these
-  funds work their benefits risks and management approach Discover more inside.
+title: Comprehensive Guide to Blind Pool Investments for Investors
+description: Blind pool investing offers unique access to high potential real estate
+  and startup deals while leveraging manager expertise. Discover more inside.
 ---
 
 

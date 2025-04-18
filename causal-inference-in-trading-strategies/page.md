@@ -1,6 +1,7 @@
 ---
-title: "Causal Inference in Trading Strategies"
-description: "Discover the power of causal inference in algorithmic trading to develop robust trading strategies by identifying cause-and-effect relationships among financial variables."
+title: Exploring Causal Inference Methods for Trading Strategies
+description: Causal inference in trading reveals true market drivers by separating
+  causation from correlation and empowering smarter strategies Discover more inside.
 ---
 
 

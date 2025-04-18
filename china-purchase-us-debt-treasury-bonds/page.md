@@ -1,6 +1,7 @@
 ---
-title: "China's Purchase of U.S. Debt Through Treasury Bonds"
-description: "Explore the intricate dynamics of China's involvement in U.S. debt through the purchase of Treasury bonds. This page investigates into how these transactions influence global finance, including the role of China's economic strategies and the emergence of algorithmic trading in bond markets. Understand the implications of interdependencies among U.S. Treasury securities, China's fiscal maneuvers, and advanced trading technologies in shaping economic stability and investment landscapes."
+title: "China\u2019s Holdings of U.S. Treasury Bonds and Economic Implications"
+description: U.S. Treasury bonds held by China fund US projects shape interest rates
+  and expose strategic risks while influencing global finance Discover more inside.
 ---
 
 

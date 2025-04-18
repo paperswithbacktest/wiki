@@ -1,7 +1,7 @@
 ---
-title: Essential Buy Side Investing Strategies For Portfolio Growth
-description: Buy side investing offers expert insights and advanced strategies to
-  build diversified portfolios using deep research and risk tools Discover more inside.
+title: Comprehensive Guide To Buy Side Investing Strategies And Tools
+description: Buy side investing helps firms boost returns through strategic research
+  diversification and tools to optimize portfolios Discover more inside
 ---
 
 

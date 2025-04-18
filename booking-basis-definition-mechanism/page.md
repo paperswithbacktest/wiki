@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Booking the Basis in Commodity Trading
-description: Booking the Basis lets farmers lock in the difference between local cash
-  and futures prices to manage risk and capture gains Discover more inside.
+title: Booking the Basis Strategy for Agricultural Price Risk Management
+description: Booking the Basis helps farmers lock in the spread between cash and futures
+  prices to protect margins and seize market gains Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Classification models"
-description: Discover how classification models are transforming algorithmic trading by leveraging machine learning for precise market predictions. Explore popular models like Logistic Regression, SVM, and Random Forests to understand their impact on trading strategies and real-world applications. Learn about data preparation, model training, and optimization to enhance decision-making in dynamic financial markets.
+title: Classification Models for Financial Market Predictions
+description: Classification models help forecast market trends by sorting financial
+  data with SVM logistic regression and random forests to improve trading decisions
+  Discover more inside
 ---
 
 

@@ -1,8 +1,7 @@
 ---
-title: Ultimate Insider Guide to Managing Authorized Versus Issued Stock
-description: "Authorized vs issued stock shapes a company\u2019s capital strategy\
-  \ by defining share limits and issuance flexibility while guiding growth Discover\
-  \ more inside"
+title: Authorized and Issued Stock Explained for Corporate Financing
+description: Authorized stock sets a firm share limit and issued stock tracks shares
+  sold to investors creating capital planning flexibility Discover more inside.
 ---
 
 

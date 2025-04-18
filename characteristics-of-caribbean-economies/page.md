@@ -1,6 +1,7 @@
 ---
-title: "Characteristics of Caribbean Economies"
-description: "Explore the diverse economies of the Caribbean with insights into tourism financial services and algorithmic trading highlighting growth and resilience opportunities"
+title: Key Features and Growth Sectors Shaping Caribbean Economies
+description: Caribbean economies rely on tourism agriculture trade and finance with
+  detailed insights on challenges and growth opportunities Discover more inside.
 ---
 
 

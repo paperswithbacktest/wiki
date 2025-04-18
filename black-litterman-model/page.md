@@ -1,7 +1,7 @@
 ---
-title: "Essential Insights Into The Black\u2013Litterman Model For Investing"
-description: "Black\u2013Litterman model blends market equilibrium and investor views\
-  \ to optimize asset allocation with balanced risk and return Discover more inside"
+title: Black-Litterman Model for Balanced Portfolio Allocation
+description: Black-Litterman model offers a balanced blend of market equilibrium and
+  investor views to optimize portfolio allocation and risk Discover more inside
 ---
 
 

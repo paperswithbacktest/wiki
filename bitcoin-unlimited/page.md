@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bitcoin Unlimited Block Size Scalability
-description: Bitcoin Unlimited lets users vote on block size to boost transaction
-  speed and cut fees while balancing network security Discover more inside today
+title: Bitcoin Unlimited User Controlled Block Size and Scalability
+description: Bitcoin Unlimited lets users vote on block size to speed up transactions,
+  cut fees and maintain network flexibility and security Discover more inside
 ---
 
 

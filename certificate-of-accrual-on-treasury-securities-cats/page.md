@@ -1,6 +1,7 @@
 ---
-title: "Certificate of Accrual on Treasury Securities (CATS)"
-description: "Explore the features and historical relevance of Certificate of Accrual on Treasury Securities (CATS) in the context of zero-coupon bonds and algo trading strategies."
+title: Understanding Certificates of Accrual on Treasury Securities
+description: Certificates of Accrual on Treasury Securities offer government backed
+  zero coupon bonds with predictable lump sum returns at maturity Discover more inside
 ---
 
 

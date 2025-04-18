@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Bond Carrying Value Accurately
-description: Bond carrying value shows how face value adjustments premiums discounts
-  and amortization reflect true liability in financial statements Discover more inside
+title: Understanding the Carrying Value of a Bond and Its Amortization
+description: Carrying value of a bond reflects its book value after accounting for
+  premiums discounts and issuance costs through amortization. Discover more inside.
 ---
 
 

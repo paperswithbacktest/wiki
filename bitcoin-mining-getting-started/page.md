@@ -1,7 +1,7 @@
 ---
-title: Ultimate Bitcoin Mining Guide To Optimize Profitability
-description: Bitcoin mining secures transactions by solving puzzles with ASIC hardware
-  while optimizing energy costs to drive profitability Discover more inside.
+title: Comprehensive Guide to Bitcoin Mining Process and Profitability
+description: Bitcoin mining explained with comprehensive insights on equipment setup
+  costs and profitability to help you plan a secure operation Discover more inside
 ---
 
 

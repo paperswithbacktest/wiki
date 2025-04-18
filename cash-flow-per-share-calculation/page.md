@@ -1,6 +1,7 @@
 ---
-title: "Cash Flow Per Share Calculation"
-description: "Discover the power of Cash Flow Per Share CFPS for analyzing a company's financial health and enhancing algorithmic trading strategies with authentic insights."
+title: Cash Flow Per Share Explained For Informed Investment Decisions
+description: Cash Flow Per Share reveals how much actual cash a company generates
+  per share to assess financial health and investment potential Discover more inside
 ---
 
 

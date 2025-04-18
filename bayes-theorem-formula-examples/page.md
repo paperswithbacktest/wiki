@@ -1,7 +1,7 @@
 ---
-title: Essential Bayes' Theorem Explained for Practical Decision Making
-description: Bayes' Theorem helps update probability estimates with new evidence in
-  fields from medicine to AI improving decision making Discover more inside.
+title: Understanding Bayes' Theorem for Smarter Decision Making
+description: Bayes' Theorem updates probability estimates with new data in real time
+  driving smarter decisions in medicine AI and finance Discover more inside.
 ---
 
 

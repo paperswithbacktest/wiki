@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bowie Bonds and Music Royalty Securitization
-description: Bowie Bonds transformed artist finance by securitizing pre-1990 royalties
-  for upfront funding while exposing music industry risks. Discover more inside.
+title: 'Bowie Bonds: How David Bowie Monetized His Music Royalties'
+description: Bowie Bonds let David Bowie secure upfront cash by securitizing his music
+  royalties as a new funding model with investors earning interest Discover more inside
 ---
 
 

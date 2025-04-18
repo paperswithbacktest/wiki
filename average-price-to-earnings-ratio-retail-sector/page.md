@@ -1,8 +1,7 @@
 ---
-title: Essential Retail Price-to-Earnings Ratio Guide for Investors
-description: Price-to-Earnings ratio in the retail sector reveals valuation tips,
-  peer comparisons and growth indicators to guide your stock choices Discover more
-  inside
+title: Understanding Price-to-Earnings Ratio in Retail Investing
+description: Price-to-Earnings ratio offers retail investors insights on valuation
+  by comparing price and earnings per share within the sector Discover more inside
 ---
 
 

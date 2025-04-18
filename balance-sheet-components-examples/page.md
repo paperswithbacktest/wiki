@@ -1,7 +1,7 @@
 ---
-title: Essential Balance Sheet Guide for Algorithmic Trading
-description: Balance sheet analysis empowers traders with key ratios and insights
-  into company health for smarter algorithmic decisions. Discover more inside.
+title: Integrating Balance Sheet Data Into Algorithmic Trading Models
+description: Balance Sheet analysis powers algorithmic trading with liquidity and
+  debt ratios plus real time data to optimize strategies Discover more inside
 ---
 
 

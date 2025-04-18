@@ -1,7 +1,7 @@
 ---
-title: Essential CAIA Designation Insights for Alternative Investments
-description: CAIA designation delivers insights on hedge funds private equity real
-  estate and commodities to diversify portfolios and manage risk. Discover more inside
+title: CAIA Designation Guide for Alternative Investment Professionals
+description: CAIA designation empowers professionals in alternative investments by
+  covering hedge funds private equity real estate and commodities Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Average Down Strategy in Investing
-description: Average Down Strategy helps investors lower average cost per share by
-  buying more at reduced prices while managing risk effectively Discover more inside.
+title: Mastering the Average Down Strategy for Smarter Investing
+description: Average Down Strategy helps investors lower cost basis by buying more
+  during dips while managing risk for portfolio growth Discover more inside.
 ---
 
 

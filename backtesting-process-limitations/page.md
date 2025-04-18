@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Guide to Backtesting Trading Strategies
-description: Backtesting trading strategies with historical data helps you avoid costly
-  mistakes and build confidence before risking real capital Discover more inside.
+title: Guide to Backtesting Strategies for Trading and Investing
+description: Backtesting lets you evaluate your trading and investing strategies with
+  historical data to boost performance and reduce risk. Discover more inside.
 ---
 
 

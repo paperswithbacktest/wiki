@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bayesian Networks for Probability Modeling
-description: Bayesian Network reveals conditional dependencies and powers probabilistic
-  inference to improve decisions in medicine and finance Discover more inside
+title: Bayesian Networks Explained Insights Methods and Applications
+description: Bayesian Networks use nodes edges and conditional probabilities to model
+  uncertainty and drive inference in medicine and finance Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Mastering the Effective Tax Rate
-description: Effective tax rate reveals the true share of income paid after deductions
-  and credits to guide accurate planning and strategy. Discover more inside.
+title: Understanding Effective Tax Rate in Financial Statement Analysis
+description: Effective Tax Rate reveals your true tax burden by showing the actual
+  percentage of income paid in taxes and guides smarter planning Discover more inside.
 ---
 
 

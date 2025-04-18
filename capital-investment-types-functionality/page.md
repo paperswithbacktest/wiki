@@ -1,6 +1,7 @@
 ---
-title: "Capital Investment: Types and Functionality"
-description: "Explore the diverse types of capital investments that shape financial strategies and enhance portfolio diversification through algorithmic trading insights."
+title: Understanding Capital Investment Strategies for Business Growth
+description: Capital Investment empowers businesses to choose assets that boost future
+  returns via ROI risk assessment and competitive insights Discover more inside
 ---
 
 

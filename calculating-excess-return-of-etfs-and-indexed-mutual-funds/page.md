@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to ETF Excess Return and Mutual Fund Performance
-description: Excess return helps investors measure how ETFs and indexed mutual funds
-  outperform benchmarks by factoring in dividends and fees Discover more inside.
+title: Calculating Excess Return for ETFs and Indexed Funds
+description: Excess return measures how ETFs and indexed funds perform beyond benchmarks
+  by including price changes dividends and fees Discover more inside
 ---
 
 

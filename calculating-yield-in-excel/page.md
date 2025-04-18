@@ -1,7 +1,7 @@
 ---
-title: Essential Excel Techniques For Yield Calculation And Analysis
-description: Excel yield calculation lets you compute investment returns with built
-  in YIELD XIRR and EFFECT functions for accurate analysis Discover more inside
+title: Yield Calculation in Excel for Farming and Finance
+description: Yield calculation in Excel helps you compute crop yields and bond returns
+  using built in functions and automation with macros Discover more inside.
 ---
 
 

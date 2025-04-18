@@ -1,6 +1,7 @@
 ---
-title: "Capital in Business: Usage, Structure, and Types"
-description: "Explore the crucial role of various business capital types in financial markets and algorithmic trading to enhance strategic planning and economic growth."
+title: Complete Guide to Business Capital Types And Management
+description: Business Capital explained with definitions of types importance and strategies
+  for raising and allocating funds to support growth Discover more inside.
 ---
 
 

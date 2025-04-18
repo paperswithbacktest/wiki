@@ -1,6 +1,7 @@
 ---
-title: "Cash Flow-to-Debt Ratio"
-description: "Explore the importance of cash flow-to-debt ratio in algorithmic trading Understand how this metric aids investment strategies by assessing a firm's debt repayment capacity"
+title: Understanding Cash Flow-To-Debt Ratio for Financial Health
+description: Cash Flow-To-Debt Ratio helps investors assess a companys ability to
+  cover debt with operating cash flow and make informed decisions Discover more inside.
 ---
 
 

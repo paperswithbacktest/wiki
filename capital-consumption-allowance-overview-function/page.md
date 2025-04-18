@@ -1,6 +1,7 @@
 ---
-title: "Capital Consumption Allowance: Overview and Function"
-description: "Explore the interplay of capital consumption allowance depreciation and algorithmic trading in the modern economy and its impact on financial growth and stability."
+title: Understanding Capital Consumption Allowance for Business Planning
+description: Capital Consumption Allowance helps businesses set aside annual funds
+  for timely asset replacement and maintain financial stability. Discover more inside.
 ---
 
 

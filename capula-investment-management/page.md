@@ -1,6 +1,7 @@
 ---
-title: "Capula Investment Management"
-description: Capula Investment Management LLP, established in 2005, is a leading British hedge fund known for its expertise in algorithmic trading. With a strategic presence across major financial hubs globally, Capula manages over $27 billion in assets, reflecting its significant influence in the industry. The firm utilizes advanced algorithms and machine learning to optimize trading performance, exemplifying innovation in financial technology. Capula's diverse investment strategies, including absolute return and macro strategies, and its commitment to cutting-edge technology, position it as a pioneer, shaping modern finance and enhancing market dynamics through increased liquidity and efficiency.
+title: Capula Investment Management Fixed Income and Relative Value
+description: Capula Investment Management uses data-driven fixed income and relative
+  value approaches to deliver steady returns and manage risk Discover more inside.
 ---
 
 

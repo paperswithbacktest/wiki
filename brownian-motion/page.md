@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Brownian Motion in Science and Finance
-description: Brownian motion shows how particle collisions drive random movement in
-  fluids and gases across physics chemistry and finance. Discover more inside.
+title: Understanding Brownian Motion Applications and Modeling
+description: Brownian motion reveals random particle dynamics in fluids and guides
+  statistical and financial modeling with Python simulations Discover more inside
 ---
 
 

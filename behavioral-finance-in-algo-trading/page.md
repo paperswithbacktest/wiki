@@ -1,7 +1,7 @@
 ---
-title: Essential Behavioral Finance Strategies for Algorithmic Trading
-description: Behavioral finance drives algo trading solutions that cut losses, avoid
-  biases and execute data driven decisions for stronger returns Discover more inside
+title: Integrating Behavioral Finance Into Algorithmic Trading
+description: Behavioral finance empowers algo traders to design data driven strategies
+  that eliminate emotional biases and improve decision making Discover more inside.
 ---
 
 

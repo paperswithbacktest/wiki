@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Value at Risk Calculation in Excel and Python
-description: Value at Risk in Excel and Python shows how to measure and manage losses
-  with historical simulation variance covariance Discover more inside.
+title: Guide to Value at Risk Calculation in Excel and Python
+description: Value at Risk calculation methods for Excel and Python provide clear
+  steps for historical simulation parametric and Monte Carlo Discover more inside.
 ---
 
 

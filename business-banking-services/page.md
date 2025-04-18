@@ -1,7 +1,7 @@
 ---
-title: Essential Business Banking Services For Company Growth
-description: Business banking services help companies manage cash flow, process payments,
-  secure financing, and access advanced tools for growth Discover more inside.
+title: Comprehensive Guide to Business Banking Services and Tools
+description: Business Banking Services help companies manage accounts loans payments
+  and cash flow with secure tools payroll and merchant services Discover more inside.
 ---
 
 

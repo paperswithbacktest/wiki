@@ -1,7 +1,7 @@
 ---
-title: Essential Bloomberg Terminal Guide For Finance Professionals
-description: Bloomberg Terminal delivers real time market data and news to empower
-  traders and investors to make informed decisions fast. Discover more inside.
+title: Understanding Bloomberg Terminal And Its Role In Finance
+description: Bloomberg Terminal delivers real time market data and news tools to empower
+  traders and investors to make smarter decisions Discover more inside
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Ultimate Guide to Excel XNPV Function for Accurate NPV
-description: Excel XNPV Function calculates net present value with exact dates to
-  enhance investment decisions and compare projects effectively. Discover more inside.
+title: Optimizing NPV Calculations With XNPV Function In Excel
+description: XNPV function in Excel improves Net Present Value calculations using
+  exact cash flow dates with discount rates for accurate evaluation Discover more
+  inside
 ---
 
 

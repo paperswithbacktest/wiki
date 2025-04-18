@@ -1,7 +1,8 @@
 ---
-title: Ultimate Insight into Belvedere Trading Technology and Strategies
-description: Belvedere Trading uses advanced algorithms and high speed platforms to
-  optimize trading across global markets and manage risk Discover more inside
+title: Belvedere Trading Automated Strategies for Global Financial Markets
+description: Belvedere Trading uses advanced algorithmic trading strategies to streamline
+  stock options futures and forex transactions for global institutions Discover more
+  inside.
 ---
 
 

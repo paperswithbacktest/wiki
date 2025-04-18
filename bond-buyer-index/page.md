@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bond Buyer Index for Municipal Investors
-description: Bond Buyer Index delivers daily municipal bond insights that help investors
-  track interest rate trends and make informed decisions Discover more inside
+title: Understanding the Bond Buyer Index for Municipal Bonds
+description: Bond Buyer Index tracks daily yields of key municipal bonds to help investors
+  assess market trends and decide when to buy bonds Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital Formation and Its Significance"
-description: "Explore the impact of investment capital formation and algorithmic trading in driving economic growth and market efficiency Discover their crucial interplay and benefits"
+title: Understanding Capital Formation for Sustainable Economic Growth
+description: Capital formation drives economic growth by turning savings into productive
+  investments that create jobs and boost productivity Discover more inside.
 ---
 
 

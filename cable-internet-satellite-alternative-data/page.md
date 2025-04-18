@@ -1,7 +1,7 @@
 ---
-title: Essential Alternative Data Insights for Cable Internet Satellite
-description: Alternative data helps cable internet and satellite providers track social
-  trends imagery and online reviews to boost satisfaction Discover more inside
+title: Optimizing Cable Internet and Satellite Using Alternative Data
+description: Alternative data helps cable internet and satellite providers optimize
+  services by analyzing social media imagery to improve offerings Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Proven Strategies To Maximize Brokerage Account Purchasing Power
-description: Brokerage account management explained in clear terms so you can boost
-  your cash, account value and purchasing power effectively. Discover more inside.
+title: Maximizing Cash Value And Purchasing Power In Brokerage Accounts
+description: Brokerage account details show how to calculate account and cash value
+  manage purchasing power and leverage margin for smarter growth Discover more inside
 ---
 
 

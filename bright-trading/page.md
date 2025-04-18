@@ -1,7 +1,7 @@
 ---
-title: Ultimate Bright Trading Platform For Profit Splits And Training
-description: Bright Trading equips traders with expert training advanced technology
-  and a profit split model fostering sustainable growth Discover more inside.
+title: Bright Trading Platform Offers Cutting Edge Tools And Support
+description: Bright Trading equips traders with advanced tools training and profit
+  split to grow skills and manage risk while trading remotely Discover more inside
 ---
 
 

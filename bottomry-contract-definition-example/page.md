@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bottomry Contracts in Maritime Lending
-description: Bottomry contract funding lets ship owners secure capital using their
-  vessels as collateral while shifting voyage risk to lenders Discover more inside
+title: Understanding Bottomry Contract As Maritime Loan Guarantee
+description: Bottomry contract uses a ship as collateral for maritime financing outlining
+  its history risk factors and legal framework Discover more inside.
 ---
 
 

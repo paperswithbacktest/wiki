@@ -1,7 +1,7 @@
 ---
-title: Proven Investment Solutions from Boulder Hill Capital Management
-description: Boulder Hill Capital Management delivers tailored investment strategies
-  that safeguard growth optimize risk and align with ESG values Discover more inside
+title: Boulder Hill Capital Management Investment Services Overview
+description: Boulder Hill Capital Management helps clients grow and protect wealth
+  with tailored investment advice in stocks bonds ESG portfolios Discover more inside
 ---
 
 

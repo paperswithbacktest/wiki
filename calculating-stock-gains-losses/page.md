@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Stock Gains and Losses
-description: Stock gains and losses explained with clear formulas cost basis tax impact
-  and strategies to optimize returns while minimizing risks Discover more inside
+title: Calculating Stock Gains and Losses with Cost Basis Formula
+description: Stock gains and losses are explained in clear steps including cost basis
+  calculations tax implications and advanced strategies Discover more inside.
 ---
 
 

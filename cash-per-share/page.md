@@ -1,6 +1,7 @@
 ---
-title: "Cash Per Share"
-description: "Discover how Cash Per Share enhances investment strategies by providing insight into liquidity and operational potential, intersecting with algorithmic trading."
+title: Understanding Cash Per Share and Its Importance for Investors
+description: Cash Per Share reveals how much cash a company holds per stock unit helping
+  investors gauge liquidity and financial health Discover more inside.
 ---
 
 

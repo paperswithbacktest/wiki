@@ -1,6 +1,7 @@
 ---
-title: "Chinese Banking System"
-description: "Explore the rapidly evolving Chinese banking system and the impact of algorithmic trading as they reshape China's financial landscape with new opportunities."
+title: Understanding the Chinese Banking System and Its Evolution
+description: Chinese banking system overview reveals structure, PBOC functions, FinTech
+  innovations and risk management in a concise guide Discover more inside.
 ---
 
 

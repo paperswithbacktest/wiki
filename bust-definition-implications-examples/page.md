@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Economic Busts Causes Effects and Recovery
-description: Economic busts occur when markets sharply decline due to factors like
-  overborrowing and asset bubbles and can lead to recessions Discover more inside.
+title: Understanding Economic Bust Causes, Effects and Recovery
+description: Economic bust refers to sharp downturns after booms that hit markets
+  jobs and confidence explore causes impacts recovery strategies Discover more inside
 ---
 
 

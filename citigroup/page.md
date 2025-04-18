@@ -1,6 +1,7 @@
 ---
-title: "Citigroup"
-description: "Explore how Citigroup leverages algorithmic trading to enhance financial efficiency and investment strategies by automating processes and reducing costs."
+title: Citigroup Global Services And Strategic Transformation
+description: Citigroup streamlines global banking and investment services while driving
+  digital innovation and sustainable finance practices Discover more inside
 ---
 
 

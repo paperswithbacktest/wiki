@@ -1,6 +1,7 @@
 ---
-title: "Cash-on-Cash Yield: Calculation and Example"
-description: "Explore cash-on-cash yield calculations to optimize real estate investments and enhance algorithmic trading strategies. Understand real-world applications and potential insights."
+title: Cash-on-Cash Yield Explained for Real Estate Investors
+description: Cash-on-Cash Yield helps investors compare annual property cash flow
+  to initial investment for clear performance insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Carried Interest: Benefits and Mechanism"
-description: "Discover the benefits and mechanisms of carried interest in private equity and algorithmic trading exploring how these strategies can enhance investment returns."
+title: Understanding Carried Interest in Private Equity and Hedge Funds
+description: Carried interest gives fund managers profit shares only after investors
+  recoup capital plus hurdle rate and provides tax benefits Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Causes of Recession"
-description: "Discover how algo trading and economic forces intersect during recessions exploring the causes of downturns and the impact on market stability."
+title: Recession Explained A Professional Guide to Economic Downturn
+description: Recession explained with clear definitions indicators causes and impacts
+  so you understand economic signals and navigate downturns Discover more inside.
 ---
 
 

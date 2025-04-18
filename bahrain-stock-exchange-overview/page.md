@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to Bahrain Stock Exchange Trading
-description: Bahrain Stock Exchange trading explained with clear steps on account
-  setup research and market indices for savvy investing. Discover more inside.
+title: Comprehensive Investor Guide to the Bahrain Stock Exchange
+description: Bahrain Stock Exchange offers a rundown of its markets indices regulations
+  and trading strategies to help you invest confidently Discover more inside
 ---
 
 

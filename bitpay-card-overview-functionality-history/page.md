@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Using the Bitpay Card for Crypto Spending
-description: Bitpay Card lets you spend Bitcoin and other cryptocurrencies at millions
-  of Visa merchants worldwide with instant mobile app access Discover more inside.
+title: Comprehensive Guide to Using the Bitpay Card for Crypto Spending
+description: Bitpay Card unlocks seamless spending of Bitcoin and other cryptocurrencies
+  with a Visa debit interface and secure app management Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Business Economics Guide for Strategic Decision Making
-description: Business economics applies economic theory and tools to drive smarter
-  pricing, investment, and forecasts for market trends. Discover more inside.
+title: Business Economics Principles for Strategic Decision Making
+description: Business economics uses supply and demand, cost-benefit and forecasting
+  tools to optimize pricing resource allocation and strategy Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Burgernomics Guide To Understanding The Big Mac Index
-description: Burgernomics leverages Big Mac prices to simplify global currency comparisons
-  while highlighting purchasing power differences Discover more inside.
+title: Understanding Burgernomics Through the Big Mac Index
+description: Burgernomics uses the Big Mac Index to compare currency values by analyzing
+  global burger prices in a simple economic model Discover more inside.
 ---
 
 

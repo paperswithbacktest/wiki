@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Canadian Overnight Money Market Rate
-description: Canadian Overnight Money Market Rate CORRA shows how daily lending between
-  banks sets borrowing costs and impacts economic health Discover more inside.
+title: Understanding the Canadian Overnight Money Market Rate
+description: Canadian Overnight Money Market Rate CORRA sets bank borrowing costs
+  and shapes daily loan and mortgage rates across Canada Discover more inside
 ---
 
 

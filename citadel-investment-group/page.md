@@ -1,6 +1,7 @@
 ---
-title: "Citadel Investment Group"
-description: "Explore Citadel Investment Group's innovative use of algorithmic trading to improve market efficiency and speed. Learn how technology fuels their financial strategies."
+title: Citadel Investment Group Overview And Asset Management Strategy
+description: Citadel Investment Group leverages advanced technology and expert teams
+  to optimize investments and manage risk for clients Discover more inside.
 ---
 
 

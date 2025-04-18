@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Becoming a Mutual Fund Beneficiary
-description: Mutual fund beneficiaries gain access to professional management and
-  diversified assets that lower risk and boost savings growth. Discover more inside
+title: Guide to Types Risks and Benefits for Mutual Fund Beneficiaries
+description: Mutual Fund Beneficiaries gain insights on becoming part owners of diversified
+  portfolios with managed risk fees and taxes Discover more inside
 ---
 
 

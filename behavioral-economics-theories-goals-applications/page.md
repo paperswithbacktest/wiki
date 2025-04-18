@@ -1,7 +1,7 @@
 ---
-title: Ultimate Behavioral Economics Insights for Better Decision Making
-description: Behavioral Economics explores how emotions habits and biases shape decisions
-  and offers nudges to improve choices and results Discover more inside
+title: Behavioral Economics Insights Into Decision Making and Biases
+description: Behavioral economics shows how emotions habits and biases drive decisions
+  and offers practical policy marketing and finance tips Discover more inside.
 ---
 
 

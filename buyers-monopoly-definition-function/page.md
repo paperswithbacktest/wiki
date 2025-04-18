@@ -1,7 +1,7 @@
 ---
-title: "Essential Insights into Buyer\u2019s Monopoly and Monopsony Power"
-description: Buyer's monopoly shifts market power to one buyer limiting supplier options
-  and lowering prices and outlines tactics suppliers can use Discover more inside
+title: "Buyer\u2019s Monopoly Explained Market Power And Supplier Impact"
+description: "Buyer\u2019s Monopoly gives a single buyer power to lower prices while\
+  \ regulations and supplier alliances help restore market balance Discover more"
 ---
 
 

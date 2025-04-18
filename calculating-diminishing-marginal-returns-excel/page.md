@@ -1,7 +1,7 @@
 ---
-title: Essential Calculations for Diminishing Marginal Returns in Excel
-description: Diminishing marginal returns in Excel uses step-by-step formulas graphs
-  charts and Solver to optimize resource allocation. Discover more inside.
+title: Calculating Diminishing Marginal Returns Using Excel Spreadsheets
+description: Diminishing marginal returns in Excel shows when adding resources stops
+  boosting output so you can optimize inputs and save costs Discover more inside
 ---
 
 

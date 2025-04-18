@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Blank Check Companies and SPAC Structures
-description: Blank check company structures raise IPO capital into a trust and empower
-  investors with voting rights and capital protection Discover more inside
+title: Understanding Blank Check Companies and SPAC Structures
+description: Blank check company structures give investors a faster route to public
+  markets with funding safeguards and shareholder decision rights Discover more inside
 ---
 
 

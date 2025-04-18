@@ -1,6 +1,7 @@
 ---
-title: "CAPE Ratio: Shiller P/E Ratio Overview and Applications"
-description: "Explore the CAPE Ratio Shiller P/E Ratio and its applications in algorithmic trading to understand stock market valuations and potential investment strategies."
+title: Understanding the CAPE Ratio for Stock Market Valuations
+description: CAPE Ratio helps long term investors gauge market value by smoothing
+  earnings over ten years to reveal over or undervaluation Discover more inside.
 ---
 
 

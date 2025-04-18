@@ -1,6 +1,7 @@
 ---
-title: "Central Bank of Iraq: Structure and Functioning"
-description: "Explore the structure and role of the Central Bank of Iraq in stabilizing the economy while adapting international banking standards to foster financial growth."
+title: Guide to Central Bank of Iraq Structure and Economic Role
+description: Central Bank of Iraq manages monetary policy banking oversight and currency
+  reserves to ensure price stability support economic growth Discover more inside
 ---
 
 

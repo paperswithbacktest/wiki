@@ -1,7 +1,7 @@
 ---
-title: Ultimate C++ Programming Fundamentals for Modern Developers
-description: C++ programming essentials cover environment setup syntax rules classes
-  memory management templates and STL in a concise guide Discover more inside.
+title: Comprehensive Guide to C++ Programming Basics and Concepts
+description: C++ programming outlines setup, syntax, OOP, memory management and advanced
+  features to help you build efficient applications. Discover more inside.
 ---
 
 

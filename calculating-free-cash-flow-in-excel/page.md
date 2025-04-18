@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Calculating Free Cash Flow in Excel
-description: Free cash flow shows the cash left after expenses and investments so
-  you can evaluate financial health and fund growth Discover more inside now
+title: Practical Excel Guide for Free Cash Flow Calculation
+description: Free cash flow shows a companys cash health by calculating operating
+  cash flow minus capital expenditures in Excel with formula tips Discover more inside.
 ---
 
 

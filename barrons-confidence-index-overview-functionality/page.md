@@ -1,7 +1,7 @@
 ---
-title: Insider Insights On Barron's Confidence Index For Investors
-description: Barron's Confidence Index helps investors gauge market sentiment by comparing
-  yields on safe and riskier bonds and guiding decisions Discover more inside.
+title: Understanding Barron's Confidence Index for Investor Insights
+description: Barron's Confidence Index tracks investor sentiment by comparing bond
+  yields so you can gauge market confidence with weekly updates Discover more inside
 ---
 
 

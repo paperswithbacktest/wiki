@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Building Technical Indicators in Python
-description: Technical indicators in Python automate trend analysis with SMA EMA RSI
-  and custom metrics for smarter trading strategies Discover more inside
+title: Comprehensive Guide to Technical Indicators in Python
+description: Technical indicators in Python help traders automate trend analysis risk
+  management and backtesting using pandas numpy and TA Lib Discover more inside.
 ---
 
 

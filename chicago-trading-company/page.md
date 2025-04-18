@@ -1,6 +1,7 @@
 ---
-title: "Chicago Trading Company"
-description: "Explore the dynamic world of algorithmic trading with Chicago Trading Company a leader since 1995 known for innovation and integrity in financial markets."
+title: Chicago Trading Company Evolution and Impact on City Economy
+description: Chicago Trading Company streamlines efficient sustainable trading of
+  food apparel and machinery to strengthen the city economy Discover more inside
 ---
 
 

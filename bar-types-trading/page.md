@@ -1,8 +1,7 @@
 ---
-title: Ultimate Guide to Trading Bar Types for Confident Analysis
-description: Trading bar types reveal price trends from candlesticks to Renko bars
-  and range bars so you can make smarter decisions on market movements Discover more
-  inside.
+title: 'Understanding Trading Bars: Types, Uses, and Strategies'
+description: Trading bars guide explains how candlestick, OHLC, Heikin-Ashi, Renko
+  and range bars reveal market trends and improve trade decisions Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Beta for Investment Risk Management
-description: Beta measures how volatile an investment is versus the market and guides
-  risk management decisions for balanced portfolios Discover more inside.
+title: Understanding Investment Beta A Key Measure of Market Risk
+description: "Investment beta reveals how a stock\u2019s price moves with market trends\
+  \ to help investors manage risk and returns Discover more inside"
 ---
 
 

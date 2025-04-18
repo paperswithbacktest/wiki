@@ -1,6 +1,8 @@
 ---
-title: "Centiva Capital"
-description: "Centiva Capital leverages cutting-edge algorithmic strategies for efficient trading in financial markets minimizing human error and setting new industry standards."
+title: Centiva Capital Investment Strategies Combining Technology and Risk Management
+description: Centiva Capital uses advanced technology and data driven strategies to
+  optimize global market investments while managing risks effectively Discover more
+  inside.
 ---
 
 

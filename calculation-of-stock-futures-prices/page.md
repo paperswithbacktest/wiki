@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide To Stock Futures Pricing And Strategies
-description: Stock futures pricing explained clearly with cost of carry insights and
-  key risk factors to help you hedge effectively Discover more inside today.
+title: Understanding Cost Of Carry And Pricing In Stock Futures
+description: Stock futures pricing uses cost of carry interest rates and dividends
+  to help you manage risk and spot arbitrage opportunities. Discover more inside.
 ---
 
 

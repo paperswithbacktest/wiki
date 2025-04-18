@@ -1,7 +1,7 @@
 ---
-title: "Brian Deese\u2019s Essential Role at the National Economic Council"
-description: Brian Deese drove key economic reforms as NEC Director shaping relief
-  and climate measures to power recovery and stability. Discover more inside.
+title: Brian Deese Steering Biden Economic Policy as NEC Director
+description: Brian Deese led the NEC to deliver the American Rescue Plan and Inflation
+  Reduction Act driving recovery and clean energy growth Discover more inside
 ---
 
 

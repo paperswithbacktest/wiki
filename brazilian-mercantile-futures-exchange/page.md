@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Brazilian Mercantile and Futures Exchange
-description: BM&F shows how Brazils futures exchange supports secure trading, risk
-  management and market stability with diverse contracts Discover more inside
+title: Evolution of the Brazilian Mercantile and Futures Exchange
+description: Brazilian Mercantile and Futures Exchange now part of B3 offers futures
+  and stock trading to enhance liquidity and risk management Discover more inside
 ---
 
 

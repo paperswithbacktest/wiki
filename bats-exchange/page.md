@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to BATS Exchange and Its Market Innovations
-description: BATS Exchange redefined stock trading with lower fees faster electronic
-  platforms and expanded ETF and options markets Discover more inside today
+title: BATS Exchange Professional Guide To Trading And Technology
+description: BATS Exchange provides traders a cost-effective high-speed platform with
+  diverse instruments lower fees and transparent data. Discover more inside.
 ---
 
 

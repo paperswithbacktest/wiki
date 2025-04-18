@@ -1,7 +1,7 @@
 ---
-title: "Essential Guide to Understanding Back\u2011End Loads in Mutual Funds"
-description: Back-end load fees can cut into mutual fund returns Discover how this
-  deferred sales charge impacts your costs and investing strategy Discover more inside
+title: Understanding Back-End Loads in Mutual Fund Investments
+description: Back-End Load fees allow investors to invest fully upfront and reduce
+  exit charges the longer they hold their mutual funds Discover more inside
 ---
 
 

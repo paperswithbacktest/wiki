@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Mastering Bank Discount Basis Calculation
-description: Bank Discount Basis shows how to compute yield on short term securities
-  using face value pricing time to maturity and a 360 day year Discover more inside.
+title: "Understanding the Bank Discount Basis for Short\u2011Term Securities"
+description: Bank Discount Basis shows how Treasury bill yields are calculated using
+  face value for accurate comparisons and helps optimize returns Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Center for Research in Security Prices"
-description: "Explore how the Center for Research in Security Prices (CRSP) transforms financial markets with reliable historical data essential for algo trading and investment analysis."
+title: Center for Research in Security Prices Data and Insights
+description: CRSP data provides accurate historical stock prices and trading volumes
+  for in-depth market research and trend analysis Discover more inside.
 ---
 
 

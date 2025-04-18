@@ -1,6 +1,7 @@
 ---
-title: "Christmas Island Dollar"
-description: "Explore the evolution of Christmas Island's monetary system and the rise of algorithmic trading with the Australian Dollar uncovering opportunities and strategies in forex markets."
+title: Exploring the History and Design of the Christmas Island Dollar
+description: Christmas Island Dollar explores unique designs and economic impact on
+  the island until 1958 before switching to the Australian Dollar Discover more inside
 ---
 
 

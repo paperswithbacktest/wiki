@@ -1,7 +1,7 @@
 ---
-title: Proven Shareholders' Equity Insights for Financial Health
-description: Shareholders' equity reveals a company's net worth after subtracting
-  liabilities and highlights key metrics for financial health. Discover more inside.
+title: Comprehensive Shareholders Equity Guide for Financial Analysis
+description: Shareholders equity reveals a companys net worth and guides investors
+  through calculation methods core components and key ratios Discover more inside.
 ---
 
 

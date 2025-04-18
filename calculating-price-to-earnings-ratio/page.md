@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Price-to-Earnings Ratio for Investors
-description: Price-to-Earnings ratio offers investors a clear measure to assess stock
-  value and compare peers across sectors for smarter decisions Discover more inside.
+title: Understanding the Price-to-Earnings Ratio for Stock Valuation
+description: Price-to-Earnings ratio helps investors assess if a stock is overvalued
+  or undervalued by comparing price to earnings per share Discover more inside
 ---
 
 

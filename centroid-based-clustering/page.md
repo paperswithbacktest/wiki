@@ -1,6 +1,7 @@
 ---
-title: "Centroid-Based Clustering (Machine Learning)"
-description: "Explore centroid-based clustering in machine learning where data points form clusters around central points called centroids Learn about the K-means algorithm"
+title: Understanding Centroid Based Clustering for Machine Learning
+description: Centroid based clustering groups data by finding central points and iteratively
+  refining clusters for precise segmentation in machine learning Discover more inside
 ---
 
 ![Image](images/1.webp)

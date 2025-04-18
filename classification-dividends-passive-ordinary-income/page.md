@@ -1,6 +1,7 @@
 ---
-title: "Classification of Dividends as Passive or Ordinary Income"
-description: "Understand dividend income classification as passive or ordinary and how algorithmic trading optimizes this. Explore strategies that maximize financial gains."
+title: Understanding Dividend Classification and Tax Treatment
+description: Dividend classification covers passive versus ordinary income, qualified
+  dividend tax rules and tactics to improve after tax returns Discover more inside
 ---
 
 

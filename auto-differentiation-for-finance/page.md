@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Auto-Differentiation in Financial Modeling
-description: Auto-differentiation in finance offers fast precise sensitivity analysis
-  for option pricing risk management and portfolio optimization Discover more inside
+title: Auto-Differentiation in Finance for Accurate Pricing and Risk
+description: Auto-differentiation boosts finance precision by calculating sensitivities
+  for option pricing and risk management faster Discover more inside
 ---
 
 

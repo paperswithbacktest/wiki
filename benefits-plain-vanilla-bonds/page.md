@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Plain Vanilla Bonds for Predictable Income
-description: Plain vanilla bonds offer steady fixed interest and principal security
-  to balance your portfolio and generate predictable income Discover more inside.
+title: Plain Vanilla Bonds Guide For Stable Investment Income
+description: Plain vanilla bonds offer predictable income and help diversify your
+  portfolio with low risk plus strategies and tax insights. Discover more inside.
 ---
 
 

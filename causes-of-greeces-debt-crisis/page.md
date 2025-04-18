@@ -1,6 +1,7 @@
 ---
-title: "Causes of Greece's Debt Crisis"
-description: "Explore the causes and implications of Greece's debt crisis in the Eurozone with insights on fiscal policies, monetary challenges, and the role of algo trading."
+title: Understanding The Greek Debt Crisis Causes Impacts And Responses
+description: Greek debt crisis explained through causes impacts and responses from
+  overspending to austerity with key lessons for stability Discover more inside
 ---
 
 

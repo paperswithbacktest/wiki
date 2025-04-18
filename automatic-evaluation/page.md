@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Automatic Evaluation in Machine Learning
-description: Automatic evaluation in machine learning streamlines model testing with
-  clear metrics like accuracy precision recall and F1 score Discover more inside
+title: Automatic Evaluation in Machine Learning Systems and Metrics
+description: Automatic evaluation in machine learning uses metrics like accuracy precision
+  recall and F1 score to deliver consistent model insights Discover more inside
 ---
 
 ![Image](images/1.png)

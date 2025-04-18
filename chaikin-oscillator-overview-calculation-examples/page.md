@@ -1,6 +1,7 @@
 ---
-title: "Chaikin Oscillator: Overview, Calculation, and Examples"
-description: "Explore the Chaikin Oscillator a technical indicator by Marc Chaikin which measures momentum of the accumulation-distribution line for improved trading strategies."
+title: Understanding the Chaikin Oscillator in Technical Analysis
+description: Chaikin Oscillator reveals buying and selling pressure by comparing short
+  and long term volume flows for informed trading decisions Discover more inside.
 ---
 
 

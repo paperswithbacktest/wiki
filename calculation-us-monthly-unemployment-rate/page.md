@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the US Monthly Unemployment Rate
-description: BLS surveys calculate the US unemployment rate monthly providing clear
-  definitions methods seasonal adjustments and limitations Discover more inside.
+title: Key Insights into the U.S. Monthly Unemployment Rate
+description: U.S. monthly unemployment rate measures the share of Americans out of
+  work and seeking jobs each month and highlights economic trends Discover more inside.
 ---
 
 

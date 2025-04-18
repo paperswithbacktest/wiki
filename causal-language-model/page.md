@@ -1,6 +1,7 @@
 ---
-title: "Causal Language Model (Machine Learning)"
-description: "Discover how Causal Language Models in machine learning predict next words by learning from previous text enhancing applications like chatbots and text generation."
+title: Understanding Causal Language Models in Machine Learning
+description: Causal Language Models generate coherent text by predicting words one
+  at a time using past context and efficient architectures Discover more inside.
 ---
 
 ![Image](images/1.png)

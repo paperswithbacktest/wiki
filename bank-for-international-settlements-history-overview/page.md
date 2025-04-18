@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to the Bank for International Settlements
-description: Bank for International Settlements drives cooperation by uniting central
-  banks with research and guidance for financial stability Discover more inside
+title: Bank For International Settlements And Global Financial Stability
+description: Bank for International Settlements helps central banks coordinate research
+  and set global banking standards sustaining stability Discover more inside
 ---
 
 

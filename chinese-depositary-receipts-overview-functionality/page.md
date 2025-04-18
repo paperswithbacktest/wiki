@@ -1,6 +1,8 @@
 ---
-title: "Chinese Depositary Receipts: Overview and Functionality"
-description: "Explore the functionality of Chinese Depositary Receipts which enable foreign equity trading on Chinese exchanges aligning global markets with China's financial system."
+title: Understanding Chinese Depositary Receipts Benefits and Risks
+description: Chinese Depositary Receipts simplify investing in global companies for
+  China based investors by bridging markets and offering portfolio diversification
+  insights Discover more inside
 ---
 
 

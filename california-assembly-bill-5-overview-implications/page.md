@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to California AB5 Worker Classification Rules
-description: AB5 reshapes how California companies classify workers ensuring more
-  gig workers receive employee protections and benefits Discover more inside.
+title: California Assembly Bill 5 Worker Classification Changes
+description: California Assembly Bill 5 reshapes the gig economy and core industries
+  by enforcing the ABC test to secure benefits and fair pay Discover more inside
 ---
 
 

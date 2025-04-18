@@ -1,6 +1,7 @@
 ---
-title: "Case-Shiller Housing Index Overview"
-description: "Explore the Case-Shiller Index to gain insights into U.S. housing price trends. Learn how this essential tool aids economic analysis and algorithmic trading."
+title: Understanding the Case-Shiller Housing Index for Market Analysis
+description: Case-Shiller Housing Index tracks monthly home price changes across major
+  US cities and guides timely real estate decisions. Discover more inside.
 ---
 
 

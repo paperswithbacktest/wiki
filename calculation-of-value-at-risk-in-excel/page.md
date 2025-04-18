@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Value at Risk in Excel
-description: Value at Risk in Excel teaches parametric and Monte Carlo VaR calculation
-  with simple formulas for confident risk management Discover more inside
+title: Value at Risk in Excel Complete Guide to VaR Calculations
+description: Value at Risk in Excel guides you through parametric historical simulation
+  and Monte Carlo methods to calculate portfolio VaR Discover more inside.
 ---
 
 

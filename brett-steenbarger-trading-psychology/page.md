@@ -1,7 +1,8 @@
 ---
-title: Essential Trading Psychology Insights From Brett Steenbarger
-description: Trading Psychology expert Brett Steenbarger shares proven strategies
-  to manage emotions discipline and routines for smarter trading Discover more inside.
+title: Master Trading Psychology with Brett Steenbarger Principles
+description: Trading psychology expert Brett Steenbarger reveals proven strategies
+  to manage emotions discipline and routines for consistent performance Discover more
+  inside.
 ---
 
 

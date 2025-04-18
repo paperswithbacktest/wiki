@@ -1,7 +1,7 @@
 ---
-title: Essential Automated Trading Edge Analysis Techniques
-description: Automated trading edge analysis reveals how to test and refine algorithmic
-  strategies with statistical methods and risk controls Discover more inside.
+title: Automated Trading Edge Analysis for Improved Strategy Performance
+description: Automated trading edge analysis shows you data techniques risk controls
+  and strategy tests to refine algorithms and boost performance Discover more inside.
 ---
 
 

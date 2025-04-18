@@ -1,6 +1,7 @@
 ---
-title: "Capitalization Ratios: Types, Examples, and Significance"
-description: "Discover the significance of capitalization ratios in algorithmic trading Learn how these financial metrics evaluate leverage and guide strategic investment decisions"
+title: Understanding Capitalization Ratios to Assess Financial Leverage
+description: Capitalization ratios show how debt and equity shape company financial
+  stability and risk profile to improve investment decisions Discover more inside.
 ---
 
 

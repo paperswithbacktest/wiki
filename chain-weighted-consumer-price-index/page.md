@@ -1,6 +1,7 @@
 ---
-title: "Chain-Weighted Consumer Price Index"
-description: "Explore the impact of the Chain-Weighted Consumer Price Index on economic analysis and algorithmic trading by understanding its dynamic inflation measurement approach."
+title: The Chain-Weighted Consumer Price Index Explained and Compared
+description: Chain-Weighted CPI offers a precise measure of inflation by updating
+  the consumer basket monthly to mirror real spending shifts Discover more inside
 ---
 
 

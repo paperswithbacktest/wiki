@@ -1,7 +1,7 @@
 ---
-title: Essential Broad-Based Weighted Average Anti-Dilution Guide
-description: Broad-Based Weighted Average protects shareholders by adjusting share
-  prices in down rounds and balances new investor interests Discover more inside
+title: Broad-Based Weighted Average Anti-Dilution Explained Clearly
+description: Broad-Based Weighted Average protects shareholders by fairly adjusting
+  share prices in down rounds and balancing investor interests. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bancor Automated Market Maker Platform
-description: Bancor simplifies crypto trading with automated market makers and BNT
-  tokens that deliver stable liquidity and fair pricing Discover more inside.
+title: Bancor Liquidity Pools Explained For Secure Crypto Trading
+description: Bancor simplifies crypto trading with automated liquidity pools and BNT
+  to ensure stable token swaps and fair pricing for users Discover more inside
 ---
 
 

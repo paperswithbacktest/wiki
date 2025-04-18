@@ -1,7 +1,7 @@
 ---
-title: Essential Python Backtesting Guide for Trading Strategies
-description: Python backtesting helps traders test strategies with historical data
-  to evaluate performance, risk and costs before live trading. Discover more inside.
+title: Building a Python Framework for Backtesting Trading Strategies
+description: Backtesting trading strategies in Python uses Backtrader to test data,
+  evaluate risk, and refine your approach before live trading Discover more inside
 ---
 
 

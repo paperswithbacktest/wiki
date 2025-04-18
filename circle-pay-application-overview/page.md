@@ -1,6 +1,7 @@
 ---
-title: "Circle Pay Application Overview"
-description: "Explore the synergy of Circle Pay and algorithmic trading as they revolutionize financial transactions with blockchain security and efficiency in real-time fund management."
+title: Circle Pay App Guide for Secure and Easy Global Payments
+description: Circle Pay lets you send and receive money securely in multiple currencies
+  including bitcoin so you can transfer funds globally in seconds Discover more inside
 ---
 
 

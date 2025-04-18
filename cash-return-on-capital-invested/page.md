@@ -1,6 +1,7 @@
 ---
-title: "Cash Return on Capital Invested"
-description: "Explore the power of Cash Return on Capital Invested to enhance investment decisions by focusing on cash flows over accounting profits and boosting trading strategy effectiveness."
+title: Mastering Cash Return on Capital Invested for Smarter Investing
+description: Cash Return on Capital Invested shows how well companies turn investments
+  into cash profits. Get insights to boost returns Discover more inside
 ---
 
 

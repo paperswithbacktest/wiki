@@ -1,6 +1,7 @@
 ---
-title: "Chinese Yuan Renminbi: Overview and History"
-description: "Explore the evolution of the Chinese Yuan Renminbi and its strategic role in global finance and algorithmic trading offering opportunities for savvy investors."
+title: Understanding the Chinese Yuan Renminbi Currency System
+description: Chinese Yuan Renminbi underpins global trade and domestic stability by
+  balancing controlled policy with market flexibility. Discover more inside.
 ---
 
 

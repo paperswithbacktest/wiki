@@ -1,7 +1,7 @@
 ---
-title: Ultimate Raspberry Pi Cluster Guide for QSTrader Optimization
-description: Raspberry Pi cluster enables algorithmic trading with QSTrader and SLURM
-  for efficient resource management and performance Discover more inside
+title: Building a Raspberry Pi Cluster for QSTrader Using SLURM
+description: Raspberry Pi cluster tutorial shows how to set up SLURM and QSTrader
+  for cost-effective algorithmic trading on low-power devices Discover more inside.
 ---
 
 

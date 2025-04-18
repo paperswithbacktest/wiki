@@ -1,6 +1,7 @@
 ---
-title: "Christopher K. Hehmeyer Biography"
-description: "Explore the notable career of Christopher K. Hehmeyer in financial trading from his influential role in futures and crypto markets to leading Warwick Capital."
+title: Christopher K. Hehmeyer Leadership in Commodity Trading Firms
+description: Christopher K. Hehmeyer drives growth as CEO of Marex Spectron and Price
+  Futures Group with strategic leadership and industry insight Discover more inside.
 ---
 
 

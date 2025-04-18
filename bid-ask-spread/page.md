@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Bid-Ask Spread and Market Liquidity
-description: Bid-Ask Spread reveals trading costs and market liquidity so investors
-  can optimize trades with clear insights on spread calculation. Discover more inside.
+title: Understanding Bid-Ask Spread Calculation and Market Impact
+description: Bid-ask spread measures the cost to buy and sell securities highlighting
+  liquidity and trading expenses in active markets Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Bond Coupon Rate in Excel
-description: Bond coupon rate in Excel shows how to divide annual coupon payment by
-  face value then format the result for accurate interest returns Discover more inside
+title: Calculating Bond Coupon Rate in Excel for Investment Analysis
+description: Bond coupon rate in Excel calculates annual yield by dividing coupon
+  payment by face value then formatting as percentage Discover more inside
 ---
 
 

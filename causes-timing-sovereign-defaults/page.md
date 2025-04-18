@@ -1,6 +1,8 @@
 ---
-title: "Causes and Timing of Sovereign Defaults"
-description: "Explore the dynamic interplay of economic crises, sovereign defaults, and algorithmic trading's role in shaping global financial ecosystems and economic resilience."
+title: Understanding Sovereign Default Causes And Economic Impacts
+description: Sovereign default happens when a country fails to repay its debt due
+  to high borrowing or economic shocks Learn what triggers defaults and how they affect
+  stability Discover more inside
 ---
 
 

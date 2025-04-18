@@ -1,6 +1,7 @@
 ---
-title: "Ceteris Paribus in Economics"
-description: "Discover how the concept of ceteris paribus in economic theory is integrated into algorithmic trading to enhance strategies and predict market behaviors."
+title: 'Ceteris Paribus: Simplifying Economic Variable Analysis'
+description: Ceteris Paribus lets economists isolate one factor by holding other factors
+  constant for clearer supply and demand insights Discover more inside
 ---
 
 

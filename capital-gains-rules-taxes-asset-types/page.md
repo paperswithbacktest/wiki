@@ -1,6 +1,7 @@
 ---
-title: "Capital Gains: Rules, Taxes, and Asset Types"
-description: "Explore the complexities of capital gains tax in algorithmic trading Uncover strategies to optimize tax liabilities across diverse asset types like stocks and cryptocurrencies"
+title: Comprehensive Guide to Capital Gains Tax Rules and Strategies
+description: Capital Gains Tax explained with clear differences between short-term
+  and long-term rates exemptions and strategies for investors Discover more inside
 ---
 
 

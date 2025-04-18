@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Blockstack and Stacks Blockchain Ecosystem
-description: Blockstack lets devs build secure dApps on Stacks blockchain leveraging
-  Bitcoin security while giving users control of their data Discover more inside.
+title: Blockstack and Stacks Blockchain for Secure Decentralized Apps
+description: Blockstack and Stacks secure user data with Bitcoin powered blockchain
+  while enabling private decentralized apps and developer tools Discover more inside
 ---
 
 

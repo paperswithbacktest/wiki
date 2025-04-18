@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Automatic Exercise in Options Trading
-description: Automatic exercise in options trading executes in-the-money contracts
-  at expiration without manual action so you never miss profits Discover more inside
+title: Understanding Automatic Exercise in Options Trading Contracts
+description: Automatic Exercise simplifies options trading by ensuring in-the-money
+  contracts are exercised at expiration without manual action. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital Investment Factors and Their Functions"
-description: "Explore key factors influencing capital investments and the role of algorithmic trading in the evolving market to optimize financial strategies and improve returns."
+title: Capital Investment Strategies for Business Growth and Profit
+description: Capital investment guides businesses to evaluate ROI cost of capital
+  and risk factors for smarter long-term growth and efficiency Discover more inside
 ---
 
 

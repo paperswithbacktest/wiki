@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bond Coupon Rate and Yield to Maturity
-description: Bond coupon rate vs yield to maturity drives valuation so you can plan
-  returns value bonds and manage interest rate risk Discover more inside.
+title: Understanding Yield to Maturity and Coupon Rate in Bonds
+description: "Yield to Maturity provides a complete view of a bond\u2019s total return\
+  \ by factoring in price, coupon payments, and time to maturity Discover more inside."
 ---
 
 

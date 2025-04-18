@@ -1,6 +1,7 @@
 ---
-title: "Cash-Or-Nothing Call Options: Overview and Examples"
-description: "Explore the simplicity of Cash-or-Nothing call options in digital trading where payouts are predetermined making risk management straightforward for traders."
+title: Understanding Cash-Or-Nothing Call Options for Investors
+description: Cash-Or-Nothing Call Options provide a fixed cash payout if a stock closes
+  above the strike at expiration with limited risk Discover more inside
 ---
 
 

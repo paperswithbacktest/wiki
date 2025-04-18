@@ -1,7 +1,8 @@
 ---
-title: Essential BOBL Futures Contracts Guide for Informed Trading
-description: BOBL Futures Contracts offer traders a clear framework to hedge German
-  mid-term bond risks and implement proven strategies. Discover more inside.
+title: BOBL Futures Contracts Explained for Mid-Term Bond Investors
+description: "BOBL Futures Contracts help hedge and speculate on mid\u2011term German\
+  \ government bond prices while managing risk with clear strategies Discover more\
+  \ inside"
 ---
 
 

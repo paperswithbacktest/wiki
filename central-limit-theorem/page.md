@@ -1,6 +1,7 @@
 ---
-title: "Central Limit Theorem"
-description: "Explore the pivotal role of the Central Limit Theorem in enhancing algorithmic trading strategies by simplifying data analysis and predicting market trends."
+title: Central Limit Theorem for Accurate Statistical Inferences
+description: Central Limit Theorem enables normal distribution of sample means regardless
+  of data shape for accurate statistical inference Discover more inside
 ---
 
 

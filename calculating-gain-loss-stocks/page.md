@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Calculating Stock Gains And Losses
-description: Calculating stock gains and losses gives clear insight into your investment
-  performance and tax impact for smarter trades. Discover more inside.
+title: Comprehensive Guide to Calculating Stock Gains and Losses
+description: Stock gains and losses explained in steps to help you calculate realized
+  and unrealized profits percent changes and tax impacts Discover more inside
 ---
 
 

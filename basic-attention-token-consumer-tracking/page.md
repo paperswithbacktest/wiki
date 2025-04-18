@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Basic Attention Token Consumer Tracking
-description: Basic Attention Token rewards users for viewing ads while protecting
-  privacy and boosting ad relevance for advertisers. Discover more inside.
+title: 'Basic Attention Token: Transforming Consumer Tracking and Privacy'
+description: Basic Attention Token rewards user attention with privacy-safe ad tracking
+  to boost campaign performance while protecting data Discover more inside
 ---
 
 

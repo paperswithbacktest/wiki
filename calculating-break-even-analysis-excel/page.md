@@ -1,7 +1,7 @@
 ---
-title: Essential Break-Even Analysis Techniques in Excel Spreadsheets
-description: Break-even analysis in Excel calculates fixed and variable costs, runs
-  scenario tests and uses Goal Seek to find your break-even point Discover more inside
+title: Break-Even Analysis in Excel for Accurate Financial Planning
+description: Break-even analysis in Excel guides you through Goal Seek and data tables
+  to calculate units and sales needed to cover costs Discover more inside.
 ---
 
 

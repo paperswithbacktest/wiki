@@ -1,6 +1,7 @@
 ---
-title: "Cash Disbursement Journal"
-description: "Discover how cash disbursement journals enhance financial management accuracy by tracking outgoing payments and supporting efficient algo trading strategies."
+title: Mastering Cash Disbursement Journals For Effective Accounting
+description: Cash disbursement journal tracks outgoing payments with detailed entries
+  and bank reconciliation tips to keep expenses organized Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bullish Thrusting Candlestick Pattern
-description: Bullish thrusting candlestick pattern shows buyers pushing back in a
-  downtrend to signal reversals Confirm with volume and support Discover more inside
+title: Complete Guide to Bullish Thrusting Candlestick Pattern
+description: Bullish thrusting candlestick pattern signals buyers challenging a downtrend
+  and hinting at a reversal. Validate with indicators. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Bank Guarantees And Medium Term Notes
-description: Bank guarantees and medium term notes explain regulatory frameworks benefits
-  and risks for US banks foreign and domestic issuers Discover more inside.
+title: Regulatory Guide to US Bank Guarantees and Medium Term Notes
+description: Bank guarantees and Medium Term Notes help US banks meet regulatory approvals
+  manage financing risks and secure funding effectively Discover more inside
 ---
 
 

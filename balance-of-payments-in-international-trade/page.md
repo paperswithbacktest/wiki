@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Balance Of Payments Components And Impact
-description: Balance of Payments tracks all money flows from trade to investment to
-  show economic health and guide policy decisions Discover more inside.
+title: Understanding Balance Of Payments Components And Economic Impact
+description: Balance of Payments reveals how money flows impact the economy by tracking
+  current capital and financial accounts informing policy Discover more inside
 ---
 
 

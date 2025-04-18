@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Stocks Without Dividends for Long-Term Growth
-description: Stocks without dividends offer growth potential by reinvesting profits
-  into expansion and diversifying your portfolio for steady returns. Discover inside
+title: "Invest In Non\u2011Dividend Stocks for Long\u2011Term Portfolio Growth"
+description: "Non\u2011dividend stocks offer growth by reinvesting earnings into expansion\
+  \ and innovation while delaying taxes until sale. Discover more inside."
 ---
 
 

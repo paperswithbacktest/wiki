@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Brokerage Fees and How to Minimize Costs
-description: Brokerage fees erode investment returns. This guide outlines fee types,
-  shows their impact and offers practical tips to cut costs Discover more inside
+title: Understanding Brokerage Fees Impact on Investment Returns
+description: Brokerage fees reduce net returns by adding costs to every trade Compare
+  fee structures and choose low cost brokers today Discover more inside
 ---
 
 

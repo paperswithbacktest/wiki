@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Managing Current Liabilities in Excel
-description: Current liabilities tracking in Excel helps monitor short-term debts,
-  optimize cash flow and generate detailed reports. Discover more inside.
+title: Managing Current Liabilities in Excel for Financial Clarity
+description: Current liabilities tracking in Excel helps you calculate, format and
+  report short term debts to improve cash flow insights Discover more inside
 ---
 
 

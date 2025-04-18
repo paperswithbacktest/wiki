@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bernie Sanders Second Bill of Rights
-description: Second Bill of Rights explains Sanders proposal for guaranteed healthcare
-  education housing jobs and fair taxes to reduce inequality Discover more inside.
+title: Bernie Sanders Second Bill of Rights Economic Vision
+description: Second Bill of Rights sets out Sanders plan to secure jobs housing education
+  healthcare reducing inequality boosting opportunity Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Brokers and Brokerage Services
-description: Brokers explained in clear terms across stocks real estate insurance
-  and more helping you choose wisely and make smart deals Discover more inside.
+title: Complete Guide to Brokers Roles Services and Regulations
+description: Broker guide outlines key roles services fees and compliance to help
+  you select the right advisor manage risk and leverage technology Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Centre for European Economic Research"
-description: "Discover how the Centre for European Economic Research impacts economic policy and algorithmic trading through insightful analysis and expert data."
+title: Centre for European Economic Research ZEW Research and Impact
+description: Centre for European Economic Research delivers rigorous economic analysis
+  and sentiment indicators to inform policy decisions Discover more inside
 ---
 
 

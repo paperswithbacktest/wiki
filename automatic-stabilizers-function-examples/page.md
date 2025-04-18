@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Automatic Stabilizers for Economic Stability
-description: Automatic stabilizers adjust taxes and benefits to cushion downturns
-  and cool booms without new legislation keeping spending steady Discover more inside
+title: Understanding Automatic Stabilizers in Government Budgets
+description: Automatic stabilizers smooth economic cycles by adjusting taxes and spending
+  automatically to support growth and curb inflation. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to the BEER Ratio for Stock Vs Bond Investing
-description: Bond Equity Earnings Yield Ratio helps investors compare stock earnings
-  yields with bond returns to guide smarter portfolio choices. Discover more inside.
+title: Bond Equity Earnings Yield Ratio Explained for Investors
+description: Bond Equity Earnings Yield Ratio helps investors assess when stocks outperform
+  bonds by comparing yields for smarter allocations Discover more inside
 ---
 
 

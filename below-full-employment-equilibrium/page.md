@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Below Full Employment Equilibrium
-description: Below full employment equilibrium arises when job seekers exceed openings
-  causing an output gap and slower growth. Discover practical solutions inside.
+title: Understanding Below Full Employment Equilibrium and Output Gap
+description: Below full employment equilibrium occurs as job demand lags supply slowing
+  growth and raising unemployment Discover policy solutions to boost jobs inside
 ---
 
 

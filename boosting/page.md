@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Machine Learning Boosting Techniques
-description: Machine learning boosting transforms weak learners into a powerful model
-  by focusing on errors and iteratively improving accuracy. Discover more inside.
+title: Boosting Algorithms for Accurate Machine Learning Predictions
+description: Boosting algorithms combine weak learners to enhance predictive accuracy
+  by iteratively focusing on errors to improve performance Discover more inside
 ---
 
 

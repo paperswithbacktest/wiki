@@ -1,6 +1,7 @@
 ---
-title: "Cboe Global Markets Overview"
-description: "Cboe Global Markets leads in algorithmic trading technology fostering innovation and efficiency across financial markets enhancing trading speed and precision."
+title: Cboe Global Markets Overview of Trading Products and Innovations
+description: Cboe Global Markets offers an authoritative guide to its history products
+  and trading innovations ensuring market integrity Discover more inside.
 ---
 
 

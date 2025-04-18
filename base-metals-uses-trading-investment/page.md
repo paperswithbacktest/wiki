@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Base Metals Trading and Investment
-description: Base metals power industries from construction to green technology offering
-  essential insights on uses risks and proven market trends Discover more inside.
+title: Comprehensive Guide To Base Metals Market And Investment
+description: Base metals investing needs clear market insight industrial applications
+  risk awareness and green tech for informed decisions Discover more inside.
 ---
 
 

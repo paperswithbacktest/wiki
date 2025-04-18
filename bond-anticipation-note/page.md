@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Bond Anticipation Notes For Municipal Funding
-description: Bond Anticipation Notes give municipalities fast access to funds at lower
-  rates backed by future bond sales to jumpstart projects Discover more inside.
+title: Understanding Bond Anticipation Notes For Municipal Funding
+description: Bond Anticipation Notes give municipalities quick cash to launch projects
+  with lower interest rates and predictable terms Discover more inside.
 ---
 
 

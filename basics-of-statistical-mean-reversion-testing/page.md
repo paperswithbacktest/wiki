@@ -1,7 +1,7 @@
 ---
-title: Essential Mean Reversion Strategies and Statistical Techniques
-description: Mean reversion analysis shows how asset prices return to their averages
-  over time to guide smarter trading decisions. Discover more inside.
+title: Statistical Mean Reversion Testing And Strategies For Investors
+description: Mean reversion in finance helps investors spot price swings toward the
+  historical average with statistical tests and advanced models Discover more inside.
 ---
 
 

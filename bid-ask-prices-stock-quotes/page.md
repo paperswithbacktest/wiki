@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bid and Ask Prices in Stock Trading
-description: Bid and ask prices shape trading costs and liquidity by revealing buyer
-  and seller expectations and methods to reduce the spread. Discover more inside.
+title: Comprehensive Guide to Bid and Ask Prices in Stock Trading
+description: Bid and ask prices show stock liquidity and costs by displaying highest
+  bids and lowest asks so you can trade more efficiently Discover more inside.
 ---
 
 

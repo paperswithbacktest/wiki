@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Banking Sector Price to Earnings Ratio
-description: Price-to-Earnings Ratio in banking helps investors compare stock values
-  track industry trends and gauge growth potential Discover more inside.
+title: Understanding the Price-to-Earnings Ratio in the Banking Sector
+description: Price to Earnings Ratio in banking helps investors assess stock value
+  by comparing earnings per share to market price and peer banks Discover more inside.
 ---
 
 

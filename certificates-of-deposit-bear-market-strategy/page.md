@@ -1,6 +1,7 @@
 ---
-title: "Certificates of Deposit as a Bear Market Strategy"
-description: "Mitigate bear market risks with Certificates of Deposit and algorithmic trading for a balanced investment strategy that offers stability and opportunities."
+title: CDs and Algorithmic Trading Strategies for Bear Markets
+description: CDs in bear markets offer secure government insured returns and strategic
+  laddering options to protect capital and optimize yields Discover more inside
 ---
 
 

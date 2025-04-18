@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Becker-Parkinson Volatility Algorithm
-description: Becker-Parkinson volatility algorithm uses daily high low ranges and
-  advanced formulas to estimate stock movement more accurately Discover more inside.
+title: Understanding the Becker-Parkinson Volatility Algorithm
+description: Becker-Parkinson volatility algorithm offers a more precise measure of
+  intraday stock price swings by using high and low price ranges Discover more inside.
 ---
 
 

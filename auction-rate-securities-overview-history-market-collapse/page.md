@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to Auction Rate Securities Market
-description: Auction Rate Securities offer investors insight into short term interest
-  resets and liquidity risks with benefits and risks explained Discover more inside.
+title: Understanding Auction Rate Securities Risks And Benefits
+description: Auction Rate Securities offer a mix of higher yields and liquidity but
+  come with auction failure risks during market stress Discover more inside.
 ---
 
 

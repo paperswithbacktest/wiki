@@ -1,6 +1,7 @@
 ---
-title: "Cantor Futures Exchange"
-description: "Discover unique futures trading at CX Futures Exchange where algorithmic trading meets niche derivatives like weather and forex for innovative market strategies."
+title: Cantor Futures Exchange Guide to Futures on Movies and Events
+description: Cantor Futures Exchange offers trading on movie box office and event
+  outcomes with risk management and efficient settlement. Discover more inside.
 ---
 
 

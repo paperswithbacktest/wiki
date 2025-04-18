@@ -1,7 +1,7 @@
 ---
-title: Candle Makers' Petition Exposes the Folly of Protectionism
-description: Candle Makers' Petition uses satire to reveal how limiting competition
-  harms the economy and highlights opportunity cost Discover more inside.
+title: Candle Makers' Petition Exposes the Fallacy of Protectionism
+description: Candle Makers Petition illustrates Bastiat satire on protectionism and
+  shows how free trade principles still shape economic policy. Discover more inside.
 ---
 
 

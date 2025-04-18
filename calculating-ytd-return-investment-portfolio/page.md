@@ -1,7 +1,7 @@
 ---
-title: Essential YTD Return Calculation for Investment Portfolios
-description: YTD return tracks your portfolio growth since January 1 including dividends
-  and withdrawals to offer a clear performance snapshot Discover more inside.
+title: Calculating Year-To-Date Returns on Investment Portfolios
+description: Year-to-Date return lets investors track portfolio growth accurately
+  this year by including dividends interest and contributions. Discover more inside
 ---
 
 

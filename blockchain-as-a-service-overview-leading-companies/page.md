@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Blockchain as a Service for Enterprises
-description: Blockchain as a Service lets businesses deploy and manage blockchain
-  infrastructure and security so they can focus on innovation. Discover more inside.
+title: Understanding Blockchain-as-a-Service for Business Solutions
+description: Blockchain-as-a-Service empowers businesses to deploy blockchain without
+  managing infrastructure while ensuring security compliance. Discover more inside.
 ---
 
 

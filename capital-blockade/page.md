@@ -1,6 +1,7 @@
 ---
-title: "Capital Blockade"
-description: "Discover how capital blockades and economic sanctions shape global markets impact financial stability and challenge algorithmic trading systems in our interconnected world."
+title: Understanding Capital Blockade Impact on Global Economies
+description: Capital blockade disrupts a nations economy by cutting funds and resources
+  legal measures and technology help restore stability Discover more inside
 ---
 
 

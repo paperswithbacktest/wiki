@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Economic Cycle Phases and Influences
-description: Economic cycle dynamics unveil phases from expansion to trough with actionable
-  insights on durations factors and predictive models Discover more inside.
+title: Understanding Business Cycles Phases Booms and Busts
+description: Economic cycle breakdown covers phases expansions peaks contractions
+  troughs booms busts indicators and theories to guide planning Discover more inside
 ---
 
 

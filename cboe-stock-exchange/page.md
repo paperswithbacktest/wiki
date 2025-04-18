@@ -1,6 +1,7 @@
 ---
-title: "CBOE Stock Exchange"
-description: "Discover the impact and legacy of the CBOE Stock Exchange, a pioneer in electronic trading since 2007, shaping modern algorithmic trading strategies."
+title: CBOE Stock Exchange Overview Unlocking Options and VIX Insights
+description: CBOE Stock Exchange provides key insights into stocks options and the
+  VIX helping investors trade effectively with global access Discover more inside
 ---
 
 

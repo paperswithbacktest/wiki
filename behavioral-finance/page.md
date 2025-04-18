@@ -1,7 +1,7 @@
 ---
-title: Essential Insights into Behavioral Finance and Cognitive Biases
-description: Behavioral finance shows how emotions and biases impact investment choices
-  with actionable strategies to counter common biases Discover more inside
+title: Behavioral Finance Principles Influencing Investor Decisions
+description: Behavioral finance uncovers how emotions and mental biases impact financial
+  decisions so you can set smart rules and avoid mistakes Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bayesian Neural Networks for Uncertainty
-description: Bayesian Neural Networks provide uncertainty estimates through weight
-  distributions and integrated predictions for informed decisions Discover more inside
+title: Bayesian Neural Networks for Reliable Uncertainty Estimates
+description: Bayesian Neural Networks model weights as distributions to quantify prediction
+  uncertainty with variational inference and MCMC. Discover more inside.
 ---
 
 ![Image](images/1.png)

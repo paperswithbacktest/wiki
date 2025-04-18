@@ -1,7 +1,8 @@
 ---
-title: The Essential Big Mac Index Guide for Currency Valuation
-description: Big Mac Index measures currency value by comparing burger prices globally
-  and explains PPP insights and valuation in clear terms Discover more inside
+title: Understanding the Big Mac Index and Its Economic Insights
+description: Big Mac Index offers a relatable way to assess currency value across
+  nations by comparing burger prices and understanding PPP insights Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "ChoiceTrade Platform Overview"
-description: "Discover ChoiceTrade's low-cost options for algorithmic trading boosting market access and efficiency for both novice and experienced traders with innovative tools."
+title: Getting Started With ChoiceTrade Platform For Beginners
+description: ChoiceTrade platform provides intuitive trading tools real time data
+  and guided support to buy and sell stocks options and funds Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Black Thursday Stock Market Crash Effects
-description: Black Thursday jolted the 1929 stock market and triggered the Great Depression
-  leading to reforms and safeguards guiding markets today Discover more inside
+title: Black Thursday Stock Market Crash Origins Impacts and Legacy
+description: Black Thursday marked the 1929 stock market crash its causes economic
+  fallout government response and key lasting reforms Discover more inside
 ---
 
 

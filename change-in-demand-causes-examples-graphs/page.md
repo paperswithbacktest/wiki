@@ -1,6 +1,7 @@
 ---
-title: "Change in Demand: Causes, Examples, and Graphs"
-description: "Explore the impact of changing demand on trading with insights into demand graphs and shocks Discover how algorithmic trading leverages these dynamics"
+title: 'Change in Demand Explained: How Economic Factors Shift Curves'
+description: Change in demand shows how nonprice factors like income, preferences
+  and related goods move demand curves and shape market dynamics Discover more inside.
 ---
 
 

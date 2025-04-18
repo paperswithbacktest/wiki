@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Broad Money and Algorithmic Trading
-description: Broad money analysis and technical indicators merge to refine algorithmic
-  trading strategies with real-time economic insights Discover more inside.
+title: Understanding Broad Money Calculation and Economic Impact
+description: Broad money measures the total money supply from cash to savings and
+  securities to reveal economic health and guide policy decisions Discover more inside.
 ---
 
 

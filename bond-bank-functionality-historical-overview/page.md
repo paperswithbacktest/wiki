@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bond Bank Functions and Benefits
-description: Bond bank pools local government borrowing to efficiently secure lower
-  rates for projects like schools roads and water upgrades Discover more inside
+title: Benefits of Bond Banks for Small Municipal Borrowers
+description: Bond banks help small municipalities pool borrowing needs and secure
+  better rates and fund projects like schools and roads seamlessly Discover more inside
 ---
 
 

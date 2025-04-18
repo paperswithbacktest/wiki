@@ -1,6 +1,7 @@
 ---
-title: "Cash Flow to Capital Expenditures"
-description: "Explore the interplay between cash flow and capital expenditures in algo trading Analyze financial health through Free Cash Flow for smarter investments"
+title: Understanding Cash Flow to Capital Expenditures Ratio
+description: Cash flow to capital expenditures shows how companies fund growth and
+  operations with internal cash flow instead of external funding Discover more inside
 ---
 
 

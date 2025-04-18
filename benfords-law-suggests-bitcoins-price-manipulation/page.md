@@ -1,7 +1,7 @@
 ---
-title: Essential Benford's Law Guide to Bitcoin Price Analysis
-description: Benford's Law reveals Bitcoin price anomalies by comparing leading digit
-  patterns to market data and helps detect manipulation. Discover more inside.
+title: Detecting Bitcoin Price Manipulation with Benford's Law
+description: Benford's Law applies to Bitcoin price data to reveal digit patterns
+  that expose potential manipulation for auditors and analysts Discover more inside
 ---
 
 

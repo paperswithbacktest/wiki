@@ -1,6 +1,7 @@
 ---
-title: "Casino Mentality in Financial Trading"
-description: "Explore the psychology of financial trading and casino mentality. Discover how algorithmic trading can reduce emotional biases for more consistent success."
+title: Strategies to Overcome Casino Mentality in Financial Trading
+description: Casino Mentality in trading drives impulsive high risk choices that erode
+  wealth. Shift to disciplined strategies for steady growth Discover more inside
 ---
 
 

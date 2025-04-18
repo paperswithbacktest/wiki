@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to BERT Bidirectional NLP Model Fundamentals
-description: BERT leverages bidirectional context and pre-training to enhance NLP
-  tasks like search translation and question answering Discover more inside
+title: BERT Bidirectional Transformer Model Explained for NLP Tasks
+description: BERT enhances language understanding by processing words bidirectionally
+  to boost search relevance translate text and power chatbots Discover more inside.
 ---
 
 ![Image](images/1.gif)

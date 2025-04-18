@@ -1,6 +1,7 @@
 ---
-title: "Categorical Data (Machine Learning)"
-description: "Categorical data in machine learning helps in classifying variables into groups like fruits or colors. Learn key techniques like one-hot encoding for optimal data processing."
+title: Handling Categorical Data in Machine Learning Models
+description: Categorical data in machine learning boosts model accuracy by using encoding
+  methods like one-hot, label and target encoding. Discover more inside.
 ---
 
 ![Image](images/1.png)

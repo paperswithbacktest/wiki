@@ -1,7 +1,7 @@
 ---
-title: Essential Overview Of Bank Of America History And Services
-description: Bank of America shares its century old legacy global services and expert
-  guidance on accounts loans and CSR initiatives Discover more inside.
+title: Comprehensive Overview of Bank of America Corporation Services
+description: Bank of America delivers a global mix of checking savings loan and investment
+  services with secure online tools and expert support Discover more inside
 ---
 
 

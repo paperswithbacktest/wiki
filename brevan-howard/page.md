@@ -1,7 +1,7 @@
 ---
-title: Ultimate Brevan Howard Hedge Fund Company Overview
-description: Brevan Howard delivers active hedge fund strategies across stocks bonds
-  and currencies with risk management and worldwide reach Discover more inside
+title: Brevan Howard Hedge Fund Overview And Investment Strategies
+description: Brevan Howard delivers expert hedge fund insights on trading strategies
+  risk management and global expansion for confident investing Discover more inside.
 ---
 
 

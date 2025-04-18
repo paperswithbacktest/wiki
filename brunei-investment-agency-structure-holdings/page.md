@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To The Brunei Investment Agency's Structure
-description: Brunei Investment Agency manages and grows state oil and gas wealth through
-  global investments in stocks bonds and real estate Discover more inside.
+title: Brunei Investment Agency Securing National Wealth Growth
+description: Brunei Investment Agency manages oil revenue by diversifying investments
+  in stocks bonds and real estate to ensure lasting growth Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capitalization of Accrued Interest"
-description: "Explore key financial terms including accrued interest and capitalization, vital for investment strategies. Understand algorithmic trading's impact on markets."
+title: Capitalization of Accrued Interest for Loans and Investments
+description: Capitalization of accrued interest impacts loan balances by adding unpaid
+  interest to principal and influencing future costs. Discover more inside.
 ---
 
 

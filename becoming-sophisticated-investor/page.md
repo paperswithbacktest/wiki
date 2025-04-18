@@ -1,7 +1,7 @@
 ---
-title: Ultimate Investing Guide for Sophisticated Investors
-description: Investing starts with budgeting, diversification and risk management
-  and grows into advanced strategies for sophisticated investors Discover more inside
+title: Essential Investment Strategies for Sophisticated Investors
+description: Sophisticated investors get financial fundamentals risk management and
+  advanced strategies to diversify and grow their portfolios Discover more inside
 ---
 
 

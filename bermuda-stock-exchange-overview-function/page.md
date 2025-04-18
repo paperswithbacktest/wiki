@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to the Bermuda Stock Exchange
-description: Bermuda Stock Exchange provides a fully electronic offshore trading platform
-  with strict regulation to ensure fair securities trading Discover more inside.
+title: Bermuda Stock Exchange Guide for Investors and Companies
+description: Bermuda Stock Exchange offers an electronic platform for trading stocks
+  bonds and funds with transparent rules and global access Discover more inside
 ---
 
 

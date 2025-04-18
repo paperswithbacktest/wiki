@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to B-Shares Mutual Fund Fee Structures
-description: B-Shares offer no upfront sales load and an automatic fee reduction over
-  time while 12b-1 expenses apply for long-term investors Discover more inside.
+title: Understanding B-Share Mutual Fund Fees And Share Classes
+description: B-Shares avoid upfront loads and convert to lower cost shares while outlining
+  back end fees ongoing expenses for long term growth Discover more inside
 ---
 
 

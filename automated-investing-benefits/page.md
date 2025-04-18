@@ -1,8 +1,7 @@
 ---
-title: "Essential Guide to Automated Investing With AI\u2011Driven Portfolios"
-description: "Automated investing uses AI\u2011powered platforms to rebalance your\
-  \ portfolio based on goals and risk tolerance reducing time and fees Discover more\
-  \ inside"
+title: Automated Investing for Efficient Portfolio Management
+description: Automated investing uses smart algorithms to build and rebalance your
+  portfolio according to your goals and risk profile Discover more inside.
 ---
 
 

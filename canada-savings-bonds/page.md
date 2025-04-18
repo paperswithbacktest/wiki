@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Canada Savings Bonds for Secure Investing
-description: Canada Savings Bonds deliver a safe government backed savings option
-  with flexible cash in features and tax deferred interest Discover more inside.
+title: Canada Savings Bonds Guide To Safe Government Backed Returns
+description: Canada Savings Bonds delivered a secure investment option with flexible
+  early redemption and tax deferred interest planning Discover more inside.
 ---
 
 

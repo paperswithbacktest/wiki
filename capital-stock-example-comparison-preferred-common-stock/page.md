@@ -1,6 +1,7 @@
 ---
-title: "Capital Stock: Example and Comparison of Preferred and Common Stock"
-description: "Explore the differences between common and preferred stock and learn how algorithmic trading can enhance your investment strategy in this informative guide."
+title: Exploring Capital Stock Common And Preferred Shares
+description: Capital stock defines how companies raise equity through common and preferred
+  shares while balancing risk and returns for investors Discover more inside.
 ---
 
 

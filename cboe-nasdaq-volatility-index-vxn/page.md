@@ -1,6 +1,7 @@
 ---
-title: "Cboe Nasdaq Volatility Index (VXN): Function and Interpretation"
-description: "Explore the Cboe Nasdaq Volatility Index VXN and its significance in trading comprehend its function as a key tool for algorithmic trading and risk management."
+title: Understanding the Cboe Nasdaq Volatility Index VXN for Investors
+description: Cboe Nasdaq Volatility Index reveals expected 30-day swings in Nasdaq
+  100 so investors can manage risk and hedge positions Discover more inside.
 ---
 
 

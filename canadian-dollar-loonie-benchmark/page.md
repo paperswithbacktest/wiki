@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Canadian Dollar and Its Global Impact
-description: Canadian dollar performance is driven by oil prices, interest rates and
-  global trends, helping businesses understand currency shifts. Discover more inside.
+title: Canadian Dollar Loonie Benchmark Currency and Economic Impact
+description: Canadian dollar Loonie benchmarks oil prices interest rates and trade
+  balances guiding businesses through currency fluctuations Discover more inside
 ---
 
 

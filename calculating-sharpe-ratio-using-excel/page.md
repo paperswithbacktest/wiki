@@ -1,7 +1,8 @@
 ---
-title: Ultimate Guide To Calculating Sharpe Ratio In Excel
-description: Sharpe Ratio in Excel helps measure risk-adjusted returns using AVERAGE
-  and STDEV functions to enhance portfolio analysis Discover more inside.
+title: Calculating Sharpe Ratio in Excel for Risk-Adjusted Returns
+description: "Sharpe Ratio in Excel shows how to calculate risk\u2011adjusted returns\
+  \ with clear formulas automation tips to improve portfolio management Discover more\
+  \ inside"
 ---
 
 

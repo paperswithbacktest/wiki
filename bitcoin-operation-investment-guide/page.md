@@ -1,7 +1,6 @@
 ---
-title: Essential Guide to Bitcoin Investing and Security
-description: Bitcoin fundamentals explained in a comprehensive guide covering buying,
-  security, taxes, trading strategies and market analysis Discover more inside
+title: Professional Title Missing
+description: Meta description missing
 ---
 
 

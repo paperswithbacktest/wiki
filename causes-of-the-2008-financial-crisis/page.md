@@ -1,6 +1,7 @@
 ---
-title: "Causes of the 2008 Financial Crisis"
-description: "Explore the multifaceted causes of the 2008 financial crisis focusing on economic bubbles and algorithmic trading's role in market volatility."
+title: Causes Impacts and Lessons of the 2008 Financial Crisis
+description: 2008 Financial Crisis insights on how subprime loans deregulation and
+  global imbalances fueled economic collapse and led to reforms discover more inside
 ---
 
 

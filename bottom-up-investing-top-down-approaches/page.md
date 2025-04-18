@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Bottom-Up and Top-Down Investing Strategies
-description: Bottom-up investing and top-down analysis explained with clear comparisons
-  and practical steps to build a resilient portfolio. Discover more inside.
+title: "Bottom\u2011Up vs Top\u2011Down Investing Strategies Explained Clearly"
+description: "Bottom\u2011up investing hones in on individual company strengths through\
+  \ detailed analysis to uncover hidden value and build resilient portfolios Discover\
+  \ more inside."
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Blue-Chip Stocks for Beginner Investors
-description: Blue-Chip Stocks deliver stable growth reliable dividends and risk management
-  insights to help beginners build a balanced portfolio Discover more inside.
+title: Investing In Blue Chip Stocks For Stable Long Term Growth
+description: Blue chip stocks offer beginners a reliable way to build a stable investment
+  portfolio with steady dividends and growth. Discover more inside.
 ---
 
 

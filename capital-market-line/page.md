@@ -1,6 +1,7 @@
 ---
-title: "Capital market line"
-description: "Explore the optimal risk-return tradeoff with the Capital Market Line in modern portfolio theory Understand how algorithmic trading optimizes your investment strategy"
+title: 'Capital Market Line Explained: Understanding Risk and Return'
+description: Capital Market Line helps investors optimize risk return by combining
+  risk-free assets with market portfolios for efficient asset mix Discover more inside.
 ---
 
 

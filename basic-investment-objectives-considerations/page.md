@@ -1,7 +1,7 @@
 ---
-title: Essential Investing Fundamentals Guide for Smart Portfolio Growth
-description: Investing fundamentals empower you to grow wealth diversify risk and
-  beat inflation with tax efficient strategies for long term gains Discover more inside
+title: Essential Investment Fundamentals and Strategies for Success
+description: Investment fundamentals guide you to balance risk return and diversify
+  to beat inflation grow wealth and achieve financial goals Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Dividend Strategies for Maximizing Shareholder Income
-description: Dividend strategies help investors time ex-dividend, record, and payment
-  dates, manage risks, and use dividend capture to boost returns Discover more inside.
+title: Comprehensive Guide to Dividend Dates and Key Trading Strategies
+description: Dividend dates guide trading timing and tax planning. We break down ex
+  dividend and record dates with strategies to optimize returns. Discover more inside
 ---
 
 

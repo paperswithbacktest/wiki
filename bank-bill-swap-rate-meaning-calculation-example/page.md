@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding Bank Bill Swap Rate
-description: Bank Bill Swap Rate sets fair short-term loan benchmarks in Australia
-  by averaging trimmed bank rates reflecting market conditions Discover more inside.
+title: Understanding the Bank Bill Swap Rate BBSW in Australian Finance
+description: Bank Bill Swap Rate is a daily benchmark that shapes short term interest
+  pricing for loans and savings across Australia. Discover more inside.
 ---
 
 

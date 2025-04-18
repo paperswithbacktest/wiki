@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To Average Holding Period In Backtesting
-description: Average holding period in backtesting reveals how long trades stay open
-  and impacts costs risk and returns Discover optimization tips inside.
+title: Average Holding Period in Backtesting Trading Strategies
+description: Average holding period analysis shows how long trades stay open and its
+  effect on strategy risk return balance. Discover more inside.
 ---
 
 

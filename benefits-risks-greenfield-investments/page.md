@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Greenfield Investment Strategies and Benefits
-description: Greenfield investment enables companies to build new operations in strategic
-  locations and tap local markets efficiently Discover more inside.
+title: Understanding Greenfield Investments Benefits and Risks
+description: Greenfield investment offers full control over new facility design and
+  location highlighting key benefits challenges and risks Discover more inside
 ---
 
 

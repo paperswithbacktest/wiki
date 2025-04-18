@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bloomberg Aggregate Bond Index
-description: Bloomberg Aggregate Bond Index shows US bond market performance with
-  practical tracking strategies for informed investing Discover more inside.
+title: Understanding The Bloomberg Aggregate Bond Index And Its Benefits
+description: Bloomberg Aggregate Bond Index provides a clear gauge of US bond market
+  performance with diversification and lower costs. Discover more inside.
 ---
 
 

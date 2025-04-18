@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Boeing's Return on Equity Performance
-description: Return on Equity shows how Boeing's financial choices shape shareholder
-  profits and risk, with tips to boost ROE and manage debt. Discover more inside
+title: Comprehensive Analysis Of Boeing Return On Equity Performance
+description: Return on Equity analysis shows how Boeing uses shareholder equity to
+  generate profit and highlights key performance drivers Discover more inside
 ---
 
 

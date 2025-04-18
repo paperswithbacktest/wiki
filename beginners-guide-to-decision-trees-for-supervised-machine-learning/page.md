@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Decision Trees in Machine Learning
-description: Decision trees in machine learning simplify complex decisions with transparent
-  logic from construction to pruning and evaluation Discover more inside.
+title: Comprehensive Guide to Decision Trees in Machine Learning
+description: Decision Trees guide splitting data for classification and regression
+  with expert pruning evaluation and ensemble insights Discover more inside
 ---
 
 

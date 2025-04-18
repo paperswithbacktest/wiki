@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Barriers to Entry in Financial Services
-description: Barriers to Entry in Financial Services demand high capital strict compliance
-  and trusted brands Find out how to overcome them Discover more inside.
+title: Understanding Barriers to Entry in Financial Services
+description: Barriers to entry in financial services shape competition by showing
+  how high costs regulations and big banks limit new firms Discover more inside.
 ---
 
 

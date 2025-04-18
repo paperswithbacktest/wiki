@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bitcoin vs Gold Investment Dynamics
-description: Bitcoin vs Gold compares volatility security inflation hedge storage
-  investment performance to help investors make informed choices Discover more inside
+title: Comparing Bitcoin and Gold as Investments and Store of Value
+description: Bitcoin and Gold investment comparison shows how volatility, hedging,
+  supply and environmental factors shape portfolio risk and value Discover more inside
 ---
 
 

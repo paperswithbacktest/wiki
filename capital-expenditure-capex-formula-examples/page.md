@@ -1,6 +1,7 @@
 ---
-title: "Capital Expenditure (CapEx) Formula and Examples"
-description: "Explore the fundamentals of Capital Expenditure (CapEx) and its impact on business finance with algorithmic trading examples to optimize investment strategies."
+title: Capital Expenditure Guide for Strategic Business Investments
+description: Capital Expenditure supports business growth by investing in long term
+  assets streamlining budgets and enabling strategic financing Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Auction Types and Bidding Strategies
-description: Auction insights cover types roles strategies and precautions so you
-  can bid confidently secure unique items and avoid pitfalls Discover more inside
+title: Understanding Auction Mechanics and Bidding Strategies
+description: Auction insights cover various types strategies and rules from traditional
+  live events to online and algorithmic platforms Discover more inside
 ---
 
 

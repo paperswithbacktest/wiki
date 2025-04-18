@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Book-Entry Securities for Investors
-description: Book-entry securities streamline investing by recording ownership electronically,
-  making transactions faster and more secure. Discover more inside today
+title: Understanding Electronic Book-Entry Securities Management
+description: Book-Entry Securities record ownership electronically for faster secure
+  transactions eliminating paper certificates and reducing risk Discover more inside.
 ---
 
 

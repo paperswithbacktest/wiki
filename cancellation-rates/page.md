@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Cancellation Rate Management for Businesses
-description: Cancellation rate insights help businesses predict and adjust bookings
-  to minimize losses and boost customer satisfaction Discover more inside
+title: Understanding Cancellation Rates for Business Planning
+description: Cancellation rate tracking helps businesses optimize bookings reduce
+  empty seats improve satisfaction with analytics and policies Discover more inside
 ---
 
 

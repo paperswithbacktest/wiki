@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Mutual Fund Income Distributions
-description: Mutual fund income distributions show how dividends interest and capital
-  gains offer steady payouts with tax smart reinvestment tips Discover more inside.
+title: Mutual Fund Income Distributions Explained for Investors
+description: Mutual Fund Income Distributions deliver payouts from dividends bonds
+  and capital gains giving investors steady income and growth Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Black Monday Causes and Market Reforms
-description: Black Monday triggered a 22.6% one-day stock market plunge and reshaped
-  trading with program trading limits and circuit breakers Discover more inside.
+title: Black Monday Market Crash Impact and Regulatory Reforms
+description: Black Monday triggered a 22.6% market drop and spurred new trading safeguards
+  and circuit breakers to stabilize global markets Discover more inside.
 ---
 
 

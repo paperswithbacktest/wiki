@@ -1,6 +1,7 @@
 ---
-title: "CFP Franc: Overview and History"
-description: "Discover the significance of the CFP Franc in finance and its role in algorithmic trading. Explore strategies to effectively engage with XPF currency."
+title: Understanding CFP Franc Currency in French Pacific Territories
+description: CFP Franc provides a stable currency for French Pacific territories by
+  linking to the Euro for predictable trade and economic support Discover more inside
 ---
 
 

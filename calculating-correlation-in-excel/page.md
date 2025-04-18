@@ -1,7 +1,7 @@
 ---
-title: Ultimate Excel Correlation Guide for Better Data Insights
-description: Excel correlation reveals how data sets move together with CORREL and
-  charts with step by step instructions to inform decisions Discover more inside
+title: Excel Correlation Analysis With The CORREL Function
+description: Excel correlation measures the relationship between two data sets with
+  the CORREL function to reveal patterns and guide decisions Discover more inside.
 ---
 
 

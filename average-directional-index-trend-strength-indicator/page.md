@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Average Directional Index for Traders
-description: Average Directional Index shows traders how to gauge trend strength and
-  optimize entry and exit points using clear calculation steps Discover more inside.
+title: Understanding the Average Directional Index ADX for Trend Strength
+description: Average Directional Index ADX measures trend strength from 0 to 100 helping
+  traders time entries and exits with confidence Discover more inside
 ---
 
 

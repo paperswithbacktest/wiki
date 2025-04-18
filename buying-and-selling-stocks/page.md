@@ -1,7 +1,7 @@
 ---
-title: Essential Stock Investing Guide for Beginners and Beyond
-description: Stock investing essentials in one guide covering order types analysis
-  risk management market trends and proven strategies Discover more inside
+title: Comprehensive Stock Investing Guide for Beginners and Beyond
+description: Stock investing empowers new investors to grow wealth through strategic
+  buying, selling and analysis across market conditions. Discover more inside.
 ---
 
 

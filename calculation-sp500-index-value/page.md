@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to the S&P 500 Index Calculation
-description: Understand S&P 500 Index calculation with clear market cap weighting
-  and corporate action adjustments including dividends Discover more inside.
+title: Understanding The S&P 500 Index And Its Calculation Methodology
+description: S&P 500 Index explains how market cap weighting, divisors and corporate
+  actions shape index value for informed investment decisions Discover more inside.
 ---
 
 

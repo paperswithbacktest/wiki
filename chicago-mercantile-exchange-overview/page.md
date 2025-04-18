@@ -1,6 +1,7 @@
 ---
-title: "Chicago Mercantile Exchange Overview"
-description: "Explore the world of futures trading at the Chicago Mercantile Exchange, highlighting the significance of algorithmic trading in modern financial markets."
+title: Exploring The Chicago Mercantile Exchange Global Marketplace
+description: Chicago Mercantile Exchange sets global commodity currency and index
+  benchmarks while powering electronic futures and options trading Discover more inside.
 ---
 
 

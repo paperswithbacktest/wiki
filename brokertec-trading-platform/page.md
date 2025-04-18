@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to BrokerTec Trading Platform for Bond Markets
-description: BrokerTec trading platform streamlines bond and fixed income trades with
-  real time data security and protocols for professionals Discover more inside
+title: BrokerTec Trading Platform Explained for Fixed Income Markets
+description: BrokerTec Trading Platform streamlines fixed income trading with secure
+  protocols real time data and integrations for efficiency Discover more inside.
 ---
 
 

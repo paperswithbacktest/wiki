@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Utility Company Bankruptcy Explained
-description: Utility company bankruptcy covers causes effects prevention and recovery
-  processes to safeguard services and protect stakeholders. Discover more inside.
+title: Utility Company Bankruptcy Causes Effects And Prevention
+description: Utility company bankruptcy can disrupt services yet regulators ensure
+  continuity while firms restructure debt and repay creditors Discover more inside
 ---
 
 

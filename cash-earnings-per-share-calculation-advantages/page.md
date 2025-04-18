@@ -1,6 +1,7 @@
 ---
-title: "Cash Earnings Per Share: Calculation and Advantages"
-description: "Discover the importance of Cash Earnings Per Share in assessing a company's operational efficiency and financial health, crucial for informed investing decisions."
+title: Comprehensive Guide To Cash Earnings Per Share For Investors
+description: Cash Earnings Per Share highlights real cash flow per share so investors
+  can evaluate dividend capacity and financial health Discover more inside
 ---
 
 

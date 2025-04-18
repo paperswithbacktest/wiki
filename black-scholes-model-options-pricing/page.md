@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Black-Scholes Model for Option Pricing
-description: Black-Scholes Model calculates theoretical option values from volatility
-  time to expiration and interest rates to guide trades Discover more inside
+title: Understanding the Black-Scholes Model for Option Pricing
+description: Black-Scholes Model explains option pricing by combining asset price
+  time to expiration volatility and risk-free rates with inputs Discover more inside.
 ---
 
 

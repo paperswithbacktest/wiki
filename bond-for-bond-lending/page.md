@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Bond-for-Bond Lending Strategies and Benefits
-description: Bond-for-bond lending lets investors use bonds as collateral to borrow
-  new ones, enhancing portfolio agility while reducing costs. Discover more inside.
+title: "Optimizing Investment Flexibility With Bond\u2011For\u2011Bond Lending"
+description: "Bond\u2011for\u2011bond lending offers investors collateral\u2011based\
+  \ swaps to manage portfolios without selling bonds actively Discover more inside"
 ---
 
 

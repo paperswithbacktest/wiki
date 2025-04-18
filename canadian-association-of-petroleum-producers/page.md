@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Canadian Association of Petroleum Producers
-description: Canadian Association of Petroleum Producers drives research advocacy
-  and sustainability to empower Canadian oil and gas companies Discover more inside
+title: Canadian Association of Petroleum Producers Driving Growth
+description: Canadian Association of Petroleum Producers leads research collaboration
+  to drive sustainable oil and gas growth in Canada Discover more inside
 ---
 
 

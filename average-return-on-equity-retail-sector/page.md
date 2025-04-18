@@ -1,7 +1,7 @@
 ---
-title: Essential Retail Return on Equity Benchmarks and Insights
-description: Return on Equity highlights how retail companies use shareholder equity
-  to drive profits and benchmark industry performance Discover more inside.
+title: Guide To Return On Equity For Retail Sector Investors
+description: Return on Equity reveals how retail companies effectively use shareholder
+  funds to drive profits and compare industry performance Discover more inside.
 ---
 
 

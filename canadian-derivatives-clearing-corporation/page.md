@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Canadian Derivatives Clearing Corporation
-description: The Canadian Derivatives Clearing Corporation enhances market stability
-  by ensuring secure clearing of stock and derivatives trades Discover more inside.
+title: Understanding the Canadian Derivatives Clearing Corporation
+description: Canadian Derivatives Clearing Corporation protects markets by clearing
+  derivatives and managing risk for smooth trades and stability Discover more inside
 ---
 
 

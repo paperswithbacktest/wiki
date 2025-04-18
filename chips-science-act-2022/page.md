@@ -1,6 +1,7 @@
 ---
-title: "CHIPS and Science Act of 2022"
-description: "Explore the transformative impact of the CHIPS and Science Act of 2022 on algorithmic trading. Delve into how this major legislation reshapes US tech."
+title: CHIPS and Science Act 2022 Strengthening US Chip Manufacturing
+description: CHIPS and Science Act drives US chip self-reliance by funding new fabs
+  university research and tech development to boost innovation Discover more inside.
 ---
 
 

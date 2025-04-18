@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Stock Beta in Excel
-description: Calculate beta in Excel to assess stock risk and volatility with easy
-  step-by-step instructions using COVAR VAR and SLOPE functions Discover more inside.
+title: Calculate Stock Beta in Excel for Informed Investment Decisions
+description: Calculate beta in Excel using SLOPE and VAR functions to measure stock
+  volatility assess risk and optimize your portfolio Discover more inside.
 ---
 
 

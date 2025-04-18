@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Bitcoin Ordinals for Unique NFT Collectibles
-description: Bitcoin Ordinals let you inscribe unique digital items on trusted Bitcoin
-  blockchain transforming coins into collectibles to trade Discover more inside.
+title: Understanding Bitcoin Ordinal NFTs on the Bitcoin Blockchain
+description: Bitcoin Ordinal NFTs let you inscribe art and data on the secure Bitcoin
+  blockchain with trusted marketplaces and tools Discover more inside
 ---
 
 

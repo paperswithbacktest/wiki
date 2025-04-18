@@ -1,7 +1,7 @@
 ---
-title: Proven Benefits of Canadian-Originated Preferred Securities COPs
-description: Canadian-Originated Preferred Securities combine bond-like payouts with
-  equity conversion to balance income and growth managing risk Discover more inside
+title: Canadian-Originated Preferred Securities Explained for Investors
+description: Canadian-Originated Preferred Securities offer higher income yields with
+  equity conversion protection for balanced returns Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Class B Shares: Functionality and Voting Power"
-description: "Discover the dynamics of Class B shares and their role in algorithmic trading Understand how reduced voting power and accessibility impact investment strategies"
+title: Understanding Class B Shares Voting Rights Dividends and Growth
+description: Class B shares balance cost effective access with limited voting rights
+  dividend growth and founder control plus tax implications Discover more inside.
 ---
 
 

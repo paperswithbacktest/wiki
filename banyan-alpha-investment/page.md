@@ -1,7 +1,8 @@
 ---
-title: Proven Banyan Alpha Investment Strategies for Sustainable Growth
-description: Banyan Alpha Investment applies momentum and technical analysis to grow
-  portfolios while managing risk and ethical impact. Discover more inside.
+title: Banyan Alpha Investment Algorithmic Trading Strategy Insights
+description: Banyan Alpha Investment leverages momentum and technical analysis to
+  grow client portfolios while managing risk with advanced AI tools Discover more
+  inside
 ---
 
 

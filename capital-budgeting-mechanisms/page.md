@@ -1,6 +1,7 @@
 ---
-title: "Capital Budgeting and Its Mechanisms"
-description: "Explore the critical components of capital budgeting, investment appraisal, and algorithmic trading in this comprehensive guide. Delve into how these financial mechanisms work together to enhance decision-making capabilities, helping investors and businesses optimize financial performance and manage risks effectively. Understand the essential role of capital budgeting in evaluating long-term investments and learn about algorithmic trading's impact on modern financial markets. This article provides valuable insights into integrating these strategies for improved financial outcomes and sustained growth."
+title: Essential Capital Budgeting Techniques for Strategic Planning
+description: Capital budgeting guides strategic investment decisions by measuring
+  NPV and IRR while controlling risk and maximizing returns Discover more inside.
 ---
 
 

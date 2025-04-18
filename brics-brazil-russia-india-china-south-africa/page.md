@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to BRICS Global Influence and Economic Growth
-description: BRICS alliance shapes global economic growth by uniting five economies
-  in trade investment and a shared development bank Discover more inside.
+title: Understanding BRICS Collective Impact on the Global Economy
+description: BRICS cooperation drives trade and development across member economies
+  with insights on purpose global impact and future prospects Discover more inside.
 ---
 
 

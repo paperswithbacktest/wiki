@@ -1,6 +1,7 @@
 ---
-title: "Capula"
-description: "Explore Capula Investment Management's cutting-edge algorithmic trading strategies and innovative financial techniques that shape modern investment practices."
+title: Capula Company Overview and Mexican Town Travel Guide
+description: Capula combines financial technology expertise with a Mexican town guide
+  covering history culture attractions and development plans Discover more inside
 ---
 
 

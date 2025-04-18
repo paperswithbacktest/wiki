@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Backtesting.py for Effective Strategy Testing
-description: Backtesting.py helps traders validate and refine strategies on historical
-  market data to improve performance and reduce risk. Discover more inside.
+title: Mastering Backtesting.py for Effective Trading Strategy Testing
+description: Backtesting.py helps traders optimize strategies with historical market
+  data realistic costs slippage and visual analysis Discover more inside
 ---
 
 

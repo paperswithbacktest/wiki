@@ -1,6 +1,7 @@
 ---
-title: "Chartist: Meaning, Functionality, and Technical Systems"
-description: "Explore how chartism, technical analysis, and algorithmic trading come together to transform modern finance and optimize contemporary trading strategies."
+title: Understanding Chartist Strategies for Technical Market Analysis
+description: Chartist analysis leverages price patterns trend lines moving averages
+  and volume to guide trading with advanced algorithmic support Discover more inside
 ---
 
 

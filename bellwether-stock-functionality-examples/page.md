@@ -1,7 +1,7 @@
 ---
-title: Essential Bellwether Stocks Insights for Savvy Investors
-description: Bellwether stocks reveal market trends guiding investors to make informed
-  decisions, manage risk and seize opportunities. Discover more inside.
+title: Understanding Bellwether Stocks As Market Health Indicators
+description: Bellwether stocks reveal industry and economic trends by tracking leading
+  companies to guide smarter investment choices Discover more inside.
 ---
 
 

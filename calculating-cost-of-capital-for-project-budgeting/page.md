@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Cost of Capital for Project Budgeting
-description: Cost of capital guides your project budgeting by helping you weigh financing
-  options, adjust for risk premiums, and optimize WACC Discover more inside.
+title: Mastering Cost of Capital for Effective Project Budgeting
+description: Cost of Capital guides project budgeting by showing which investments
+  exceed financing costs and help optimize returns Discover more inside.
 ---
 
 

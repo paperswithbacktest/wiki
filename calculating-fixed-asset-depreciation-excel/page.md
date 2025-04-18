@@ -1,7 +1,7 @@
 ---
-title: Essential Excel Techniques for Asset Depreciation Management
-description: Asset depreciation in Excel lets you track fixed costs and calculate
-  value with SLN and DB functions for accurate reporting Discover more inside
+title: Excel Depreciation Methods for Fixed Asset Tracking
+description: Excel depreciation lets you track asset values with built-in formulas
+  and schedules to manage costs and optimize tax benefits Discover more inside.
 ---
 
 

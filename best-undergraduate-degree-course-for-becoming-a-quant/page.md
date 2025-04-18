@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Undergraduate Quantitative Finance Degrees
-description: Quantitative finance degree builds math statistics and programming skills
-  to model market trends and manage risk efficiently. Discover more inside.
+title: Undergraduate Guide to Becoming a Quantitative Analyst
+description: Quantitative Analysts build strong math, statistics and coding skills
+  via coursework and internships to gain real finance experience Discover more inside
 ---
 
 

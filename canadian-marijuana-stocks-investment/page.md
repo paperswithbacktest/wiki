@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Investing in Canadian Marijuana Stocks
-description: Canadian marijuana stocks offer insights on legal risks market dynamics
-  and financial metrics to guide informed investing Discover more inside.
+title: Comprehensive Guide to Canadian Marijuana Stocks and Investing
+description: Canadian marijuana stocks offer insights into legal considerations financial
+  metrics risks and growth prospects for informed investors Discover more inside
 ---
 
 

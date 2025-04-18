@@ -1,6 +1,7 @@
 ---
-title: "Carbon Disclosure Rating"
-description: "Explore the intersection of sustainability and algorithmic trading with insights into carbon disclosure and environmental impact in today's financial markets."
+title: Understanding Carbon Disclosure Ratings for Business Transparency
+description: Carbon Disclosure Rating helps companies showcase emissions and reduce
+  costs while attracting investors and boosting efficiency. Discover more inside.
 ---
 
 

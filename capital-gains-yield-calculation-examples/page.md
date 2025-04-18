@@ -1,6 +1,7 @@
 ---
-title: "Capital Gains Yield Calculation and Examples"
-description: "Discover how to calculate capital gains yield and understand the impact of algorithmic trading on investment returns to enhance your financial strategies."
+title: Understanding Capital Gains Yield for Investment Performance
+description: Capital gains yield shows how your investment grows from price changes
+  alone and helps compare assets for smarter portfolio choices Discover more inside.
 ---
 
 

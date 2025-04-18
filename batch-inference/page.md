@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Batch Inference in Machine Learning
-description: We delve into batch inference to show how processing large datasets all
-  at once boosts efficiency and scalability in your ML pipeline Discover more inside.
+title: Understanding Batch Inference In Machine Learning Pipelines
+description: Batch inference processes large datasets at once to reduce compute time
+  enhance efficiency and generate bulk predictions for analytics Discover more inside
 ---
 
 ![Image](images/1.jpeg)

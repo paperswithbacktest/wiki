@@ -1,6 +1,7 @@
 ---
-title: "China's Response to the 2015 Stock Market Crash"
-description: "Explore China's response to the 2015 stock market crash highlighting government interventions and the impact of algorithmic trading on market dynamics."
+title: Understanding the 2015 Chinese Stock Market Crash and Recovery
+description: 2015 Chinese stock market crash analysis reveals how state interventions
+  influenced investor trust and long term market stability Discover more inside.
 ---
 
 

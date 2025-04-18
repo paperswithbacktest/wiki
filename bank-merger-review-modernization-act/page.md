@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bank Merger Review Modernization Act
-description: Bank Merger Review Modernization Act strengthens transparency and competition
-  in bank mergers to protect consumers and the economy. Discover more inside.
+title: Bank Merger Review Modernization Act Strengthening Competition
+description: Bank Merger Review Modernization Act updates merger reviews with transparency
+  and competition safeguards to protect consumers Discover more inside.
 ---
 
 

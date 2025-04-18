@@ -1,6 +1,7 @@
 ---
-title: "Cannabis Alternative Data"
-description: Explore the intersection of cannabis alternative data and algorithmic trading to uncover unique insights and opportunities within the financial ecosystem. With the legalization of cannabis, a diverse range of data on sales and consumer behavior has become accessible, offering traders a competitive edge. Discover how the integration of this unconventional data source can enhance trading strategies and refine decision-making processes in the rapidly evolving cannabis market.
+title: Cannabis Alternative Data Strategies for Informed Investing
+description: Cannabis alternative data reveals consumer trends and farm growth insights
+  to support strategic investments and market decisions Discover more inside.
 ---
 
 

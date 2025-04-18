@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Essential Quantitative Finance Books
-description: Quantitative finance books showcase foundational math, coding, and modeling
-  methods to master trading and risk frameworks Discover more inside.
+title: Definitive Quantitative Finance Books for Aspiring Quants
+description: Quantitative finance books guide provides essential reading from foundational
+  math to advanced strategies and programming tools Discover more inside
 ---
 
 

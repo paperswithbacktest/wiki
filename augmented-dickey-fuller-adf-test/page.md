@@ -1,7 +1,8 @@
 ---
-title: Essential Augmented Dickey-Fuller Test Guide for Stationarity
-description: Augmented Dickey-Fuller test helps you determine if time series data
-  is stationary for accurate modeling and guides data preparation Discover more inside.
+title: Augmented Dickey-Fuller Test Guide For Stationary Time Series
+description: Augmented Dickey-Fuller Test checks stationarity in time series data
+  by testing for unit roots with clear steps and practical insights Discover more
+  inside
 ---
 
 

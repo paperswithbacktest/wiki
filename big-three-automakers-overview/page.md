@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Big Three Automakers Evolution
-description: Big Three automakers deliver a comprehensive view of their history evolution
-  EV and autonomous strategies plus market insights Discover more inside
+title: History And Future Outlook Of The Big Three Automakers
+description: Big Three automakers shape automotive innovation and growth by evolving
+  from early pioneers to electric and self driving leaders Discover more inside.
 ---
 
 

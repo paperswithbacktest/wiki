@@ -1,6 +1,7 @@
 ---
-title: "Cash Accounting: Overview and Limitations"
-description: "Discover the pros and cons of cash accounting and its impact on algorithmic trading Understand how this method can affect financial management and decision-making"
+title: Cash Accounting Guide for Small Business Financial Health
+description: Cash accounting records transactions when cash moves to give small business
+  owners clear real time insight on cash flow Discover more inside.
 ---
 
 

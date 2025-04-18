@@ -1,6 +1,7 @@
 ---
-title: "Chart of Accounts: Overview and Functionality"
-description: "Discover the crucial role of a Chart of Accounts in financial management and algorithmic trading, enhancing clarity in reporting and decision-making."
+title: Chart of Accounts Essentials for Business Financial Management
+description: Chart of Accounts organizes financial data into categories so businesses
+  can track assets liabilities revenue and expenses efficiently Discover more inside
 ---
 
 

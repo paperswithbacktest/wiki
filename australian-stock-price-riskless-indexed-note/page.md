@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Australian Stock Price Riskless Indexed Notes
-description: Australian Stock Price Riskless Indexed Notes let you smartly grow with
-  the market while protecting your initial investment Discover more inside.
+title: Australian Stock Price Riskless Indexed Notes Explained
+description: Australian Stock Price Riskless Indexed Notes let investors capture market
+  gains while protecting principal from losses Discover more inside
 ---
 
 

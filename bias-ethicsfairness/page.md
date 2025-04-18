@@ -1,7 +1,7 @@
 ---
-title: Essential Strategies for Mitigating Machine Learning Bias
-description: Machine Learning Bias skews model fairness and ethics by feeding on flawed
-  data and algorithms. Discover proven strategies to build fairer models inside.
+title: Mitigating Bias in Machine Learning for Fair and Ethical Use
+description: Bias in machine learning can lead to unfair decisions We explain sources
+  measurement and mitigation to build more equitable models Discover more inside.
 ---
 
 ![Image](images/1.png)

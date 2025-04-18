@@ -1,7 +1,7 @@
 ---
-title: Ultimate Brokerage API Guide For Seamless Trading Automation
-description: Brokerage API integration lets you automate trades, access real time
-  market data, and secure transactions with reliable endpoints Discover more inside.
+title: Brokerage API Guide to Automate Trading and Manage Investments
+description: Brokerage API lets you automate trades manage investments and access
+  real time data seamlessly and easily with secure integration Discover more inside
 ---
 
 

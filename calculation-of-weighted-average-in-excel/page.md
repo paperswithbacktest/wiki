@@ -1,8 +1,7 @@
 ---
-title: Essential Guide To Calculating Weighted Averages In Excel
-description: Weighted average in Excel helps you assign importance to data points
-  streamline calculations with SUMPRODUCT and avoid common mistakes Discover more
-  inside
+title: Calculating Weighted Average in Excel Using SUMPRODUCT
+description: Weighted average in Excel uses SUMPRODUCT and SUM functions to weight
+  your data accurately and deliver precise insights Discover more inside
 ---
 
 

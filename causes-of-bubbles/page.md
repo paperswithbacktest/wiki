@@ -1,6 +1,7 @@
 ---
-title: "Causes of Bubbles"
-description: "Explore the causes of economic bubbles focusing on speculative investing, economic policies, and how algorithmic trading influences market dynamics."
+title: Economic Bubbles Explained Causes Risks and Historical Lessons
+description: Economic bubbles form when prices outpace value driven by speculation
+  and low rates Spot warning signs early and safeguard investments Discover more inside
 ---
 
 

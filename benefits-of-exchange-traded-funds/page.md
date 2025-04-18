@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Exchange-Traded Funds for Smart Investing
-description: Exchange-Traded Funds offer cost-effective diversification by trading
-  like stocks with transparent holdings and tax advantages Discover more inside
+title: Exchange Traded Funds Explained Benefits Types and Strategies
+description: Exchange Traded Funds provide flexible cost efficient diversification
+  with low fees transparent holdings and intraday trading Discover more inside
 ---
 
 

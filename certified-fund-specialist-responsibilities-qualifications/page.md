@@ -1,6 +1,7 @@
 ---
-title: "Certified Fund Specialist: Responsibilities And Qualifications"
-description: "Certified Fund Specialists excel in mutual funds and algorithmic trading blending traditional finance skills with modern tech to enhance career prospects and client value."
+title: Certified Fund Specialist Qualifications And Responsibilities
+description: Certified Fund Specialists help clients select, monitor and optimize
+  mutual funds and ETFs with analysis and continuous learning Discover more inside.
 ---
 
 

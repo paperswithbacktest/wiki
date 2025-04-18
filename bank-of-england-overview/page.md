@@ -1,7 +1,7 @@
 ---
-title: "Essential Guide To The Bank Of England\u2019s Role In UK Economy"
+title: Understanding the Bank of England's Role in UK Finance
 description: Bank of England controls interest rates gold reserves and oversees financial
-  stability to ensure a balanced UK economy. Discover more inside.
+  stability to maintain a balanced economy at home Discover more inside
 ---
 
 

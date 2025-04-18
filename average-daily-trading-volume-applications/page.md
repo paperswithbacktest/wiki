@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Average Daily Trading Volume for Investors
-description: Average Daily Trading Volume helps investors gauge stock liquidity and
-  volatility and optimize trading strategies for smarter trades Discover more inside.
+title: Understanding Average Daily Trading Volume ADTV for Investors
+description: Average Daily Trading Volume ADTV reveals stock liquidity by showing
+  average shares traded daily over time helping investors make informed trade decisions
+  Discover more inside
 ---
 
 

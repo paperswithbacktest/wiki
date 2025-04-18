@@ -1,6 +1,7 @@
 ---
-title: "Capitalism: Varieties, History, Advantages and Disadvantages, and Comparison with Socialism"
-description: "Explore capitalism's history, varieties, advantages, and downsides, comparing it with socialism. Understand algo trading's role in modern economies."
+title: 'Capitalism Explained: History Types Features And Challenges'
+description: Capitalism powers economic growth with private enterprise and free markets
+  while exploring history pros cons and future challenges. Discover more inside.
 ---
 
 

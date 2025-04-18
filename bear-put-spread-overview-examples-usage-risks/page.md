@@ -1,7 +1,7 @@
 ---
-title: Ultimate Bear Put Spread Strategy for Controlled Profit
-description: Bear Put Spread limits your losses and locks in profit potential while
-  lowering cost and setting clear breakeven points. Discover more inside.
+title: Bear Put Spread Options Strategy Explained for Traders
+description: Bear Put Spread helps investors limit downside risk and define profit
+  and loss with puts at different strikes for bearish positions Discover more inside
 ---
 
 

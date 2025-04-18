@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Blockchain Block Structure and Security
-description: "Explore how blockchain block structure, security, rewards, block time\
-  \ and layer\u20112 solutions empower network performance Discover more inside"
+title: Comprehensive Overview of Blockchain Block Structure and Security
+description: Blockchain block structure and security explained including hashing mining
+  rewards and layer2 solutions for efficient transactions Discover more inside
 ---
 
 

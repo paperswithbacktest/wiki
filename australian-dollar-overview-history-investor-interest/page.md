@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into the Australian Dollar Currency System
-description: Australian Dollar insights on its history usage and value drivers from
-  RBA policy to commodity trends for confident currency decisions Discover more inside
+title: Understanding the Australian Dollar and Its Economic Impact
+description: Australian Dollar overview covers history usage and value factors to
+  guide understanding of currency fluctuations and economic impact Discover more inside
 ---
 
 

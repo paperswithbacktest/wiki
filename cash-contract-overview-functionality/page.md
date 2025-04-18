@@ -1,6 +1,7 @@
 ---
-title: "Cash Contract: Overview and Functionality"
-description: "Discover the essentials of cash contracts and algo trading in finance. Learn how these agreements impact market efficiency and industry supply chains."
+title: Understanding Cash Contracts for Immediate Payments
+description: Cash contracts simplify transactions by ensuring immediate payment and
+  clear terms while reducing payment risk for buyers and sellers Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Bank Lending Survey Insights for Economic Policy
-description: Bank Lending Survey shows how central banks adjust loan criteria to stabilize
-  growth and control risks in the economy Discover more inside today
+title: Comprehensive Bank Lending Survey Guide for Monetary Policy
+description: Bank Lending Survey reveals how central banks track loan standards and
+  guide monetary policy Discover key insights and methodology Discover more inside.
 ---
 
 

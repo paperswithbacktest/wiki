@@ -1,6 +1,7 @@
 ---
-title: "Capital Improvement Overview"
-description: "Explore how capital improvements and algorithmic trading intersect to create innovative investment strategies in real estate for optimal financial outcomes."
+title: Comprehensive Guide to Capital Improvement Projects
+description: Capital improvements increase property value and functionality through
+  smart planning funding technology and stakeholder engagement Discover more inside.
 ---
 
 

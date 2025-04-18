@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bond Coupon Calculations and Payments
-description: Bond coupon calculations help you compute interest payments accurately
-  while adjusting for frequency so you can optimize returns. Discover more inside.
+title: Comprehensive Guide to Bond Coupon Rates and Calculations
+description: Bond coupon calculations show how investors earn interest based on face
+  value and payment frequency with fixed or floating rates Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Accurate Base Year Economic Analysis
-description: Base year economic analysis shows how adjusting data to a reference year
-  reveals real inflation-adjusted growth for fair comparisons Discover more inside
+title: Understanding Base Year Selection in Economic Analysis
+description: Base year guides fair comparison of economic data by adjusting for inflation
+  and reflecting real growth with clear selection criteria Discover more inside.
 ---
 
 

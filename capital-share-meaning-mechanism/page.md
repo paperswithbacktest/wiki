@@ -1,6 +1,7 @@
 ---
-title: "Capital Share: Meaning and Mechanism"
-description: "Explore the impact of algorithmic trading on capital distribution and economic growth. Discover how it reshapes financial markets for investors and policymakers."
+title: Understanding Capital Share and Its Economic Impacts
+description: Capital share shows how company profits are split between owners and
+  workers and its impact on income distribution and growth Discover more inside.
 ---
 
 

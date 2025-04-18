@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bellman Equation in Reinforcement Learning
-description: Bellman Equation helps reinforcement learning agents break complex decisions
-  into immediate rewards and values for optimal policies Discover more inside.
+title: Understanding the Bellman Equation in Reinforcement Learning
+description: Bellman Equation helps agents efficiently break complex decisions into
+  state values for optimal policies in reinforcement learning Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

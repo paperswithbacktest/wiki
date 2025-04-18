@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to Autocorrelation and Autocovariance Analysis
-description: Autocorrelation and autocovariance explain how data relates over time
-  using lags and correlograms to reveal patterns and improve forecasts Discover more
-  inside.
+title: Understanding Autocorrelation and Autocovariance in Time Series
+description: Autocorrelation and autocovariance show how time series data relate over
+  lags and move together to improve forecasts and analysis Discover more inside.
 ---
 
 

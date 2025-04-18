@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to the Australian Securities Exchange
-description: Australian Securities Exchange helps investors navigate trading shares
-  bonds futures with clear steps rules and tech insights Discover more inside.
+title: Australian Securities Exchange ASX Trading and Market Overview
+description: Australian Securities Exchange overview explains trading hours indices
+  and listing rules so investors navigate markets with confidence Discover more inside
 ---
 
 

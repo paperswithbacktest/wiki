@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Maximizing Your Direct Cost Margin
-description: Direct Cost Margin shows how much revenue remains after materials and
-  labor to inform smarter pricing decisions and drive profit Discover more inside.
+title: Understanding Direct Cost Margin for Effective Pricing Strategies
+description: Direct cost margin shows how much revenue stays after direct production
+  costs so you can optimize pricing and boost profitability Discover more inside
 ---
 
 

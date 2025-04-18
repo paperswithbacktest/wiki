@@ -1,7 +1,7 @@
 ---
-title: Essential Bloomberg Terminal Guide for Powerful Financial Analysis
-description: Bloomberg Terminal delivers real time market data tools and analytics
-  for traders and analysts to make informed investment decisions Discover more inside.
+title: Essential Bloomberg Terminal Functions for Financial Analysis
+description: Bloomberg Terminal empowers professionals with real time market data
+  analytics tools for stocks bonds and portfolio risk management Discover more inside.
 ---
 
 

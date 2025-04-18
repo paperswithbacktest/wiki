@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Balyasny Asset Management Strategies
-description: Balyasny Asset Management uses advanced data technology to deliver strategic
-  global investment solutions while managing risk effectively Discover more
+title: Balyasny Asset Management Investment Strategies And Growth
+description: Balyasny Asset Management leverages advanced data driven strategies and
+  global insights to grow client portfolios effectively Discover more inside
 ---
 
 

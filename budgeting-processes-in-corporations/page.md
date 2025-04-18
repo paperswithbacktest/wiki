@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Corporate Budgeting Best Practices
-description: Corporate budgeting helps companies plan spending, forecast revenue,
-  control costs and align goals to stay on track. Discover more inside.
+title: Comprehensive Corporate Budgeting Process and Best Practices
+description: Corporate budgeting helps teams plan spending, set goals and track performance
+  with forecasting, variance analysis and advanced tools Discover more inside
 ---
 
 

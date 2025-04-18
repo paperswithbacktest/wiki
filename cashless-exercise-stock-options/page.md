@@ -1,6 +1,8 @@
 ---
-title: "Cashless Exercise and Stock Options"
-description: "Discover the benefits of cashless exercise of stock options and how algorithmic trading can help employees maximize profits with minimal financial risk."
+title: Cashless Exercise of Stock Options Explained for Employees
+description: Cashless exercise of stock options lets employees use options without
+  upfront cash by selling shares to cover costs and keeping the rest active guidance
+  inside
 ---
 
 

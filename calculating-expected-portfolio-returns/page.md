@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Expected Portfolio Returns
-description: Expected portfolio returns allow investors to forecast potential gains
-  by using weights and asset returns for smarter decision making Discover more inside.
+title: Calculating Expected Portfolio Returns for Smarter Investments
+description: Expected portfolio returns help investors project future gains and optimize
+  asset allocation for risk and reward with clear metrics. Discover more inside.
 ---
 
 

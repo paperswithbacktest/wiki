@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Evolution of IBM's Big Blue Nickname
-description: Big Blue nickname traces IBMs journey from blue branding to tech leader
-  covering products culture evolution and future vision Discover more inside
+title: The History and Evolution of IBM's Big Blue Nickname
+description: Big Blue traces how IBM's nickname grew from blue branding and products
+  like the System360 and IBM PC to reveal its enduring legacy Discover more inside
 ---
 
 

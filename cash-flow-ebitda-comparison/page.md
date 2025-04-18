@@ -1,6 +1,7 @@
 ---
-title: "Cash Flow and EBITDA Comparison"
-description: "Explore the essential financial metrics of EBITDA and cash flow in the context of algorithmic trading. Understand how these metrics inform investment strategies and enhance risk management by providing a realistic view of a company's financial health. Gain insights into how integrating traditional financial analysis with advanced trading algorithms can optimize performance and navigate the complexities of modern financial markets."
+title: Comparing Cash Flow And EBITDA For Financial Health Insights
+description: Cash flow and EBITDA reveal different aspects of business performance
+  so you can assess liquidity against operational earnings Discover more inside
 ---
 
 

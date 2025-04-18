@@ -1,7 +1,7 @@
 ---
-title: Essential BBSY Benchmark Guide for Australian Financial Markets
-description: BBSY shapes short term borrowing costs in Australia by providing a reliable
-  benchmark for loans derivatives and market stability Discover more inside.
+title: Bank Bill Swap Bid Rate Explained for Australian Finance
+description: Bank Bill Swap Bid Rate sets the daily benchmark for loans and derivatives
+  in Australia with transparent calculations and insights Discover more inside.
 ---
 
 

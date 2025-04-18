@@ -1,6 +1,7 @@
 ---
-title: "Capital Real Estate Investment Trust Overview"
-description: "Discover how algorithmic trading revolutionizes REIT investments by optimizing decision-making and enhancing strategies for income-focused portfolios."
+title: Capital Real Estate Investment Trust CREIT Basics and Benefits
+description: CREIT offers low cost access to income generating real estate with diversified
+  properties professionally managed and steady dividends Discover more inside
 ---
 
 

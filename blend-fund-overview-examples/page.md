@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Blend Funds for Balanced Investing
-description: Blend Funds balance growth and stability by mixing growth and value stocks
-  to simplify diversification and manage risk Discover more inside
+title: Investing in Blend Funds A Balanced Approach for Diversification
+description: Blend Funds mix growth and value stocks to balance returns and stability
+  in your portfolio while reducing risk with diversification Discover more inside
 ---
 
 

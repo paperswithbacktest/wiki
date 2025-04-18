@@ -1,7 +1,7 @@
 ---
-title: Essential BGM Model Guide for Interest Rate Derivative Pricing
-description: BGM Model pricing helps finance professionals forecast forward interest
-  rates using market data and manage derivative risk effectively Discover more inside
+title: Brace Gatarek Musiela Model Guide For Interest Rate Derivatives
+description: Brace Gatarek Musiela Model leverages forward rate data to price interest
+  rate derivatives and manage risk exposure across portfolios Discover more inside
 ---
 
 

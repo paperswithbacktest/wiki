@@ -1,6 +1,7 @@
 ---
-title: "Cash Flow Statement and Its Analysis"
-description: "Explore the intricacies of cash flow statements and their analysis within algorithmic trading on this page. Gain insights into a company's financial health, understand cash inflows and outflows, and how this data enhances trading decisions. This resource also covers the three primary components: operating activities, investing activities, and financing activities, to help investors create informed investment strategies."
+title: Understanding the Cash Flow Statement for Business Health
+description: Cash flow statement reveals how your business generates and uses cash
+  to maintain liquidity, invest in growth, and satisfy investors Discover more inside.
 ---
 
 

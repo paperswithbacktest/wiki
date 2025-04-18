@@ -1,6 +1,7 @@
 ---
-title: "Central America-Dominican Republic Free Trade Agreement"
-description: "Examine the impact of CAFTA-DR on Central America's economy and explore how it supports the integration of advanced technologies like algorithmic trading."
+title: Impacts of the CAFTA-DR Free Trade Agreement on Member Economies
+description: CAFTA-DR reduces tariffs between the US and Central American nations
+  to boost business growth create jobs and expand consumer choice Discover more inside.
 ---
 
 

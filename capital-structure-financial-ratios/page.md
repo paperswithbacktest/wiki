@@ -1,6 +1,7 @@
 ---
-title: "Capital Structure Financial Ratios"
-description: "Explore how financial ratios are crucial for assessing a company's financial health, with a focus on capital structure and their role in enhancing algorithmic trading strategies."
+title: Understanding Capital Structure Through Financial Ratios
+description: Capital structure optimization with key financial ratios shows how to
+  balance debt and equity to reduce risk and improve value Discover more inside
 ---
 
 

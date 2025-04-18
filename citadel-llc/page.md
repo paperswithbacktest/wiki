@@ -1,6 +1,7 @@
 ---
-title: "Citadel LLC"
-description: Citadel LLC is a leading force in the financial services industry, known for its innovative approach to algorithmic trading. Founded by Kenneth C. Griffin in 1990, the firm has grown to manage over $63 billion in assets, distinguishing itself through technology-driven strategies and rapid trade execution. Citadel's focus on algorithmic and high-frequency trading enhances market efficiency and liquidity, positioning it as a pivotal entity in global finance. With a commitment to cutting-edge technology and data analytics, Citadel continues to shape the future of financial markets, setting benchmarks for precision and speed in trading.
+title: Citadel LLC Investment Management and Securities Explained
+description: Citadel LLC uses advanced quantitative analysis and technology to maximize
+  investment returns and streamline trading processes Discover more inside.
 ---
 
 

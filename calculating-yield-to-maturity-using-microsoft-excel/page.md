@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Yield to Maturity in Excel
-description: Yield to Maturity in Excel guides you through using the YIELD function
-  and Goal Seek to calculate precise bond returns with confidence Discover more inside
+title: Mastering Yield to Maturity Calculation in Excel for Bonds
+description: Yield to Maturity in Excel guides you through calculating bond returns
+  with YIELD and XIRR functions for accurate results Discover more inside
 ---
 
 

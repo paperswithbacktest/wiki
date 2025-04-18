@@ -1,6 +1,7 @@
 ---
-title: "Cardboard Box Index"
-description: "Discover how the Cardboard Box Index serves as a unique economic indicator, providing insights into manufacturing activity and aiding algorithmic trading strategies."
+title: Understanding the Cardboard Box Index for Economic Insights
+description: Cardboard Box Index offers a quick snapshot of economic activity by tracking
+  box usage to gauge manufacturing and retail trends Discover more inside.
 ---
 
 

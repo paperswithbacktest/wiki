@@ -1,6 +1,7 @@
 ---
-title: "Capital and Financial Accounts in Balance of Payments"
-description: "Explore the integration of financial accounts, balance of payments, capital accounts, and algorithmic trading in shaping global finance and market dynamics."
+title: Capital and Financial Accounts Explained in Balance of Payments
+description: Capital and Financial Accounts show how asset transfers and cross border
+  investments affect economic balance and currency stability. Discover more inside
 ---
 
 

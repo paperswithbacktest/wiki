@@ -1,6 +1,7 @@
 ---
-title: "Cboe Europe Overview"
-description: "Discover Cboe Europe's pivotal role in algorithmic trading with advanced technologies and diverse services across 18 major European markets for optimal strategies."
+title: 'Understanding Cboe Europe Exchange: Trading Stocks ETFs and More'
+description: Cboe Europe simplifies trading of European stocks ETFs options and futures
+  with fast and reliable technology and transparent fees Discover more inside.
 ---
 
 

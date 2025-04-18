@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Ba2 and BB Credit Ratings Explained
-description: Ba2 and BB credit ratings reveal medium default risk and higher borrowing
-  costs outlining recovery outcomes and risk mitigation Discover more inside
+title: Understanding Ba2 and BB Credit Ratings for Investors
+description: Ba2 and BB credit ratings signal medium default risk and explain how
+  borrowing costs rise for issuers with these grades Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital Allocation Line: Definition and Calculation"
-description: "Explore the Capital Allocation Line definition and its application in algorithmic trading to optimize risk-return portfolios and enhance investment strategies."
+title: Capital Allocation Line For Optimal Risk Return Portfolios
+description: Capital Allocation Line helps investors balance risk free and risky assets
+  to achieve efficient risk return combinations Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate BRIC ETF Guide for Savvy Emerging Market Investors
-description: BRIC ETF investing offers diversified exposure to Brazil Russia India
-  and China emerging markets capturing growth while managing risk Discover more inside.
+title: Understanding BRIC ETF Investments For Emerging Markets Exposure
+description: BRIC ETF investments provide diversified exposure to Brazil Russia India
+  and China emerging markets and help manage volatility Discover more inside.
 ---
 
 

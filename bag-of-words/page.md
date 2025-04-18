@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to the Bag of Words Model in NLP
-description: Bag of Words model transforms text into frequency vectors for efficient
-  NLP tasks with clear explanations and Python code. Discover more inside.
+title: Bag of Words Model in NLP for Text Representation and Analysis
+description: Bag of Words model transforms text into numeric vectors for NLP tasks
+  like sentiment analysis and classification with Python examples Discover more inside
 ---
 
 

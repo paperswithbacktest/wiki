@@ -1,6 +1,7 @@
 ---
-title: "Caxton Associates"
-description: "Discover how Caxton Associates leverages algorithmic trading and global macro strategies to maintain its leadership in the hedge fund sector."
+title: Caxton Associates Hedge Fund Quantitative Trading Insights
+description: Caxton Associates uses quantitative trading to optimize investments across
+  stocks bonds and currencies while minimizing risk Discover more inside.
 ---
 
 

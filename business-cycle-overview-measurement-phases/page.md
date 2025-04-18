@@ -1,7 +1,7 @@
 ---
-title: Ultimate Business Cycle Guide to Phases and Indicators
-description: Business cycle insights help you understand expansions contractions and
-  key indicators to plan for economic ups and downs Discover more inside
+title: Understanding Business Cycles And Key Economic Indicators
+description: Business cycles influence expansions contractions and recessions through
+  four phases and vital indicators to guide strategic planning Discover more inside.
 ---
 
 

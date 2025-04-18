@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to BOE Per Day Energy Measurements
-description: BOE per Day provides clear insights on daily energy production by converting
-  oil gas and coal outputs into barrels of oil equivalent Discover more inside
+title: Understanding Barrel Of Oil Equivalent Energy Measurements
+description: Barrel Of Oil Equivalent lets energy professionals compare oil gas and
+  coal using a unified metric to simplify planning and reporting Discover more inside
 ---
 
 

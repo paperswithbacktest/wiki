@@ -1,6 +1,7 @@
 ---
-title: "Class C Shares: Overview and Investment Considerations"
-description: "Explore the benefits and drawbacks of investing in Class C shares alongside algorithmic trading strategies to optimize your investment portfolio for flexibility and growth."
+title: A Comprehensive Guide to Class C Shares Fees and Benefits
+description: Class C Shares offer no front end load and flexible short term access
+  but come with higher annual fees than other share classes Discover more inside
 ---
 
 

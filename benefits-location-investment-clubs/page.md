@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Investment Clubs for Beginners
-description: Investment club membership helps beginners pool resources learn from
-  peers and diversify their portfolio in a collaborative setting. Discover more inside.
+title: Comprehensive Guide to Starting and Managing an Investment Club
+description: Investment club membership gives beginners a collaborative way to diversify
+  assets, build financial knowledge, and boost confidence Discover more inside
 ---
 
 

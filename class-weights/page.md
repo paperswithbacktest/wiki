@@ -1,6 +1,7 @@
 ---
-title: "Class weights"
-description: Explore the role of class weights in algorithmic trading to enhance model accuracy and sensitivity. Delve into strategies for managing class imbalances in financial data and discover best practices for optimizing predictive models in fluctuating market conditions.
+title: Class Weights in Machine Learning for Imbalanced Data
+description: Class weights balance skewed datasets by giving more importance to rare
+  classes during model training for fairer predictions. Discover more inside.
 ---
 
 

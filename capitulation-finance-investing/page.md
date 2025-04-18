@@ -1,6 +1,7 @@
 ---
-title: "Capitulation in Finance and Investing"
-description: "Explore how capitulation and algorithmic trading intersect to provide strategic investment opportunities. Understand the market dynamics to enhance portfolio returns."
+title: Signs Of Market Capitulation And Investor Buying Opportunities
+description: Capitulation in markets marks peak fear-driven selling and sharp price
+  drops use volume and price signals to time lows and buy wisely Discover more inside
 ---
 
 

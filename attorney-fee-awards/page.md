@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Guide to Attorney Fee Awards and Their Impact
-description: Attorney fee awards show how courts determine and calculate legal fees
-  for prevailing parties ensuring fair litigation outcomes Discover more inside
+title: A Comprehensive Guide to Attorney Fee Awards in Litigation
+description: Attorney fee awards help winning parties recover legal costs through
+  statutory rules or discretionary decisions in various cases. Discover more inside
 ---
 
 

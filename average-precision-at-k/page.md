@@ -1,7 +1,8 @@
 ---
-title: Ultimate Guide to Average Precision at K in Machine Learning
-description: Average Precision at K evaluates how effectively your model ranks relevant
-  items in the top K results improving search recommendations Discover more inside
+title: Understanding Average Precision at K in Machine Learning
+description: Average Precision at K measures how effectively a model ranks relevant
+  items in the top K results for improved search and recommendations Discover more
+  inside
 ---
 
 ![Image](images/1.png)

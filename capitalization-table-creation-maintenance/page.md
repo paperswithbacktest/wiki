@@ -1,6 +1,7 @@
 ---
-title: "Capitalization Table: Creation and Maintenance"
-description: "Discover the essentials of managing cap tables in algo trading startups from equity allocation to market impacts for optimized growth and efficient scaling."
+title: Understanding Capitalization Tables for Equity Management
+description: Capitalization table tracking ensures clear equity ownership and helps
+  plan funding and dilution scenarios with precision Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital-To-Risk Weighted Assets Ratio Calculation in Excel"
-description: "Calculate the Capital-To-Risk Weighted Assets Ratio in Excel to assess bank stability and enhance algorithmic trading strategies using financial insights."
+title: Understanding Capital to Risk Weighted Assets Ratio in Excel
+description: Capital To Risk Weighted Assets Ratio explains how to calculate bank
+  capital adequacy in Excel step by step with practical examples Discover more inside.
 ---
 
 

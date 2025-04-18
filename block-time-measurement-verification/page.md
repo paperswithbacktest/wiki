@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Block Time in Blockchain Technology
-description: Block time determines how fast blockchain confirms transactions and balances
-  speed with security across Bitcoin Ethereum and others Discover more inside.
+title: Block Time in Blockchain Technology for Speed and Security
+description: Block time in blockchain determines how quickly transactions are confirmed
+  and secures the network by balancing speed and safety Discover more inside
 ---
 
 

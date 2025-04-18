@@ -1,6 +1,7 @@
 ---
-title: "Certificate of Deposit Index"
-description: "Explore the historical impact and continued influence of the Certificate of Deposit Index in algorithmic trading modern finance's fusion of traditional benchmarks and new strategies."
+title: Understanding Certificate Of Deposit Index For Rate Comparison
+description: Certificate of Deposit Index tracks average CD rates so you can compare
+  offers while timing deposits for optimal returns Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Chaebol Structures in South Korea"
-description: "Explore how South Korea's chaebols, such as Samsung and Hyundai, shape the economy and adopt algorithmic trading to stay competitive in global markets."
+title: Unpacking South Korea's Chaebol System and Economic Impact
+description: Chaebols drive South Koreas economy through diverse industries and job
+  creation while balancing power and regulation challenges Discover more inside.
 ---
 
 

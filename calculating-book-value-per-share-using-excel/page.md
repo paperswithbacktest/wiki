@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Book Value Per Share Using Excel
-description: Book Value Per Share is a key equity metric and our Excel guide shows
-  step by step setup and calculation tips for investors Discover more inside.
+title: Complete Guide to Calculating Book Value Per Share in Excel
+description: Book Value Per Share in Excel calculates per share equity by dividing
+  net assets by shares outstanding to help gauge stock value Discover more inside
 ---
 
 

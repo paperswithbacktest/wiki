@@ -1,6 +1,7 @@
 ---
-title: "Candlestick Pattern"
-description: "Discover the essential role of candlestick patterns in algo trading Learn how these historical chart patterns and automated strategies enhance market analysis"
+title: Understanding Candlestick Patterns for Effective Market Analysis
+description: Candlestick patterns reveal market sentiment through price charts helping
+  traders anticipate trends and refine strategies Discover more inside
 ---
 
 

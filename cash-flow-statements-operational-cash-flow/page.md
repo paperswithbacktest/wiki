@@ -1,6 +1,7 @@
 ---
-title: "Cash Flow Statements: Analysis of Operational Cash Flow"
-description: "Discover how operational cash flow impacts algorithmic trading strategies and financial health. Learn essential analysis tools to enhance trading decisions."
+title: Operational Cash Flow Analysis for Business Financial Health
+description: Operational cash flow shows how core activities generate cash and guides
+  you to optimize liquidity reduce expenses and plan growth Discover more inside
 ---
 
 

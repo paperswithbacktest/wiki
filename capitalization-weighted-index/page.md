@@ -1,6 +1,7 @@
 ---
-title: "Capitalization-Weighted Index"
-description: "Explore the intricacies of capitalization-weighted indices and algorithmic trading to grasp their influence on market performance and develop informed investment strategies."
+title: Understanding Capitalization-Weighted Stock Market Indices
+description: Capitalization-Weighted Index reveals how large caps drive market returns
+  and offers easy portfolio tracking with automated weighting Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Net Debt for Business Financial Health
-description: Net debt shows true obligations of a company after cash offsets and guides
-  investors on risk assessment and debt reduction Discover more inside.
+title: Understanding Net Debt Impact On Company Financial Health
+description: Net Debt reveals leverage by deducting cash from debt obligations to
+  evaluate financial health and inform investment decisions Discover more inside
 ---
 
 

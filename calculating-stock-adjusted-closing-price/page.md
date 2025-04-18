@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Adjusted Closing Price for Investors
+title: Understanding Adjusted Closing Price for Accurate Stock Analysis
 description: Adjusted closing price gives investors a clear view of stock performance
-  over time by accounting for dividends splits and mergers Discover more inside.
+  by factoring in dividends, splits and corporate actions Discover more inside.
 ---
 
 

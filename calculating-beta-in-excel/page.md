@@ -1,7 +1,7 @@
 ---
-title: Insider Essential Guide to Calculating Beta in Excel
-description: Beta in Excel simplifies risk analysis by showing how to gather return
-  data, use SLOPE and COVAR functions, and avoid common errors. Discover more inside.
+title: Calculate Beta in Excel to Assess Stock Volatility
+description: Beta in Excel lets you measure how a stock moves relative to the market
+  using SLOPE covariance and variance functions for risk analysis Discover more inside
 ---
 
 

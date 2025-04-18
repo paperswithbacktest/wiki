@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Away-From-the-Market Trades for Investors
-description: Away-from-the-market trades let large investors buy and sell shares privately
-  at negotiated prices to minimize market impact. Discover more inside.
+title: Understanding Away-From-The-Market Trades for Investors
+description: Away-from-the-market trades let big investors execute large orders without
+  shifting stock prices by agreeing privately on price Discover more inside.
 ---
 
 

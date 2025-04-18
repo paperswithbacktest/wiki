@@ -1,6 +1,7 @@
 ---
-title: "Certified Valuation Analyst: Role and Responsibilities"
-description: "Discover the crucial role of Certified Valuation Analysts in modern business Navigate mergers acquisitions and financial reporting with expert valuation insights"
+title: Certified Valuation Analyst Roles Responsibilities And Ethics
+description: Certified Valuation Analyst designation underscores expertise in income
+  market and asset valuation methods along with strict ethics. Discover more inside.
 ---
 
 

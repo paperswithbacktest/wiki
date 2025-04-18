@@ -1,7 +1,8 @@
 ---
-title: Ultimate Guide to the Bank of Central African States
-description: Bank of Central African States steers monetary policy and ensures CFA
-  franc stability across six nations and safeguards banks Discover more inside.
+title: BEAC Monetary Policy and Economic Stability in CEMAC
+description: Bank of Central African States manages the Central African CFA franc
+  to stabilize economies across six CEMAC countries with inflation control Discover
+  more
 ---
 
 

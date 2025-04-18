@@ -1,6 +1,7 @@
 ---
-title: "Cboe Volatility Index"
-description: "Explore the role of the Cboe Volatility Index in market sentiment analysis and algorithmic trading strategies for managing risk and leveraging market uncertainty."
+title: Understanding the Cboe Volatility Index and Market Volatility
+description: Cboe Volatility Index tracks S&P 500 option prices to reveal expected
+  30 day market volatility and guide risk management Discover more inside.
 ---
 
 

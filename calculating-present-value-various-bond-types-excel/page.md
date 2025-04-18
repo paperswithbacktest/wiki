@@ -1,7 +1,7 @@
 ---
-title: Essential Excel Guide to Calculating Bond Present Value
-description: Present value of a bond is crucial for smart investing using Excel PV
-  function and yield tools to evaluate and compare bond values Discover more inside
+title: Bond Present Value Calculation in Excel Using the PV Function
+description: Bond present value in Excel helps you assess investment worth by using
+  the PV function to discount cash flows and compare bond deals Discover more inside.
 ---
 
 

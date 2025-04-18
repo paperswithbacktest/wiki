@@ -1,7 +1,7 @@
 ---
-title: Essential Ethereum Byzantium Fork Update For Network Efficiency
-description: Byzantium Fork reduced gas costs and enhanced smart contract efficiency
-  while delaying the difficulty bomb for smoother upgrades. Discover more inside.
+title: Byzantium Fork Improves Ethereum Security And Efficiency
+description: Byzantium Fork lowered Ethereum gas costs, improved smart contract performance
+  and delayed the difficulty bomb to prepare for Casper Discover more inside
 ---
 
 

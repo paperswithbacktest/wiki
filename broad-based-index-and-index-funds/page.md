@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Broad-Based Index Funds for Investors
-description: Broad-based index funds offer diversified market exposure with low fees
-  and simple management for steady long-term growth. Discover more inside.
+title: Understanding Broad-Based Index Funds For Diversified Investing
+description: Broad-based index funds offer diversified market exposure and low costs
+  so you can invest in the overall economy with ease Discover more inside.
 ---
 
 

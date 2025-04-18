@@ -1,7 +1,8 @@
 ---
-title: Essential Insights Into the Big Bang Theory Explained
-description: Big Bang Theory explains how the universe evolved from a dense origin
-  through expansion and cosmic microwave background evidence. Discover more inside.
+title: Exploring the Big Bang Theory Foundations and Key Evidence
+description: Big Bang Theory shows the universe actively expanding from a hot dense
+  point into stars and galaxies with cosmic microwave background evidence Discover
+  more inside
 ---
 
 

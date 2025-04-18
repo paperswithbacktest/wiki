@@ -1,7 +1,7 @@
 ---
-title: Essential Brexodus Insights on UK Economic Impact and Beyond
-description: Brexodus reshaped the UK economy by triggering talent and business losses
-  in finance healthcare and slowing GDP growth. Discover more inside.
+title: Brexodus Impact On UK Economy Workforce And Growth
+description: Brexodus pushes UK businesses and workers abroad creating workforce gaps
+  industry shifts slower GDP growth and reducing tax revenues Discover more inside.
 ---
 
 

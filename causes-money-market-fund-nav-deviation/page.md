@@ -1,6 +1,7 @@
 ---
-title: "Causes of Money Market Fund NAV Deviation"
-description: "Dive into the causes of money market fund NAV deviations with algorithmic trading. Discover risks, benefits, and historical impacts on fund stability."
+title: Predicting and Managing NAV Stability in Money Market Funds
+description: Money market fund NAV shows share value and uses risk models stress tests
+  and liquidity buffers to maintain a stable $1 price Discover more inside
 ---
 
 

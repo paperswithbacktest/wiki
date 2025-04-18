@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Average Up Trading Strategy
-description: Average Up Trading Strategy shows how to buy more shares as prices climb
-  with stop-loss and exit signals to manage risk Discover more inside
+title: Implementing the Average Up Trading Strategy for Investors
+description: Average Up Trading Strategy guides you to increase positions as stocks
+  climb while using stop loss orders and clear exit signals Discover more inside
 ---
 
 

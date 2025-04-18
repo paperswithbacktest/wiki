@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to BLEU Score for Machine Translation
-description: BLEU Score explains how to measure machine translation quality using
-  n-gram precision and brevity penalty to benchmark models Discover more inside.
+title: Understanding BLEU Score for Machine Translation Quality
+description: BLEU score offers an automated way to assess machine translation by matching
+  n-grams to human references with a brevity penalty Discover more inside
 ---
 
 ![Image](images/1.png)

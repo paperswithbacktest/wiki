@@ -1,6 +1,7 @@
 ---
-title: "Characteristics of Monopolistic Markets"
-description: "Discover the critical characteristics of monopolistic markets and understand their impact on pricing and consumer choices in global economies."
+title: Understanding the Power and Competition in Monopolistic Markets
+description: Monopolistic market firms use pricing product differentiation and advertising
+  to compete actively while barriers restrict choice Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Charge and Discharge Statement: Overview and Historical Context"
-description: "Explore the historical evolution and significance of charge and discharge statements in algorithmic trading vital for ensuring reliable and transparent financial reporting."
+title: Charge and Discharge Statement Guide for Financial Accountability
+description: Charge and discharge statement shows how executors and trustees maintain
+  transparent asset management by tracking inflows and outflows Discover more inside
 ---
 
 

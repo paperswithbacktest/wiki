@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Overcoming Attribution Bias in Finance
-description: Attribution bias in finance can skew investment and risk decisions. Explore
-  proven tactics and expert steps to spot and reduce bias Discover more inside.
+title: The Impact of Attribution Bias on Financial Decision Making
+description: Attribution bias can skew financial judgments and risk assessments so
+  you learn its impact and make smarter investment choices Discover more inside
 ---
 
 

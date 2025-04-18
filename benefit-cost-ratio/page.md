@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Benefit-Cost Ratio for Project Success
-description: Benefit-Cost Ratio guides project evaluation by measuring benefits against
-  costs with clear calculation steps, examples and analysis Discover more inside.
+title: Understanding Benefit-Cost Ratio For Effective Project Evaluation
+description: Benefit-Cost Ratio provides a clear metric to compare project benefits
+  against costs and guide smart investment decisions. Discover more inside.
 ---
 
 

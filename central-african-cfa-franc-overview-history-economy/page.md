@@ -1,6 +1,7 @@
 ---
-title: "Central African CFA Franc: Overview, Historical Context, and Economic Impact"
-description: "Explore the Central African CFA Franc its economic significance in six Central African nations and the impact of algorithmic trading on regional financial markets."
+title: Understanding the Central African CFA Franc Monetary System
+description: Central African CFA Franc stabilizes prices across six nations by linking
+  to the Euro and easing regional trade with a consistent peg Discover more inside
 ---
 
 

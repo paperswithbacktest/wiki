@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Blockchain Technology Fundamentals
-description: Blockchain technology uses secure decentralized ledgers and consensus
-  to ensure transparency and immutability explained clearly. Discover more inside.
+title: How Blockchain Technology Works From Basics to Applications
+description: Blockchain technology secures data in linked blocks validated by network
+  consensus delivering transparency trust and immutability Discover more inside
 ---
 
 

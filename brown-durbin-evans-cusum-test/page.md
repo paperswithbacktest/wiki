@@ -1,7 +1,7 @@
 ---
-title: Essential Brown-Durbin-Evans CUSUM Test for Data Stability
-description: Brown-Durbin-Evans CUSUM test monitors subtle shifts in data stability
-  over time and alerts you to meaningful changes early Discover more inside.
+title: Brown-Durbin-Evans CUSUM Test for Monitoring Data Stability
+description: Brown-Durbin-Evans CUSUM Test checks data stability by detecting subtle
+  shifts over time in processes and forecasting models Discover more inside.
 ---
 
 

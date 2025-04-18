@@ -1,7 +1,7 @@
 ---
-title: Essential Attribution Analysis for Portfolio Management Insights
-description: Attribution analysis reveals how allocation selection and interaction
-  shape portfolio performance so investors can refine strategies; Discover more inside.
+title: Understanding Attribution Analysis in Portfolio Management
+description: Attribution analysis in portfolio management isolates allocation selection
+  and interaction drivers so investors refine strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "China's One-Child Policy: Implications and Significance"
-description: "Explore the profound implications of China's One-Child Policy, introduced in 1979, which reshaped its demographic landscape causing gender imbalances and an aging population. Delve into how these shifts, along with China's surge in algorithmic trading driven by technological advances, are impacting economic strategies. Discover the critical intersections between demographic policies and economic trends in China and the world."
+title: China's One-Child Policy Effects on Population and Society
+description: China One-Child Policy reshaped population by enforcing strict birth
+  limits and causing lasting demographic shifts across families Discover more inside
 ---
 
 

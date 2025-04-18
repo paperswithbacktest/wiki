@@ -1,6 +1,7 @@
 ---
-title: "China-Africa Development Fund: Overview and Objectives"
-description: "Explore how the China-Africa Development Fund (CADFund) enhances China-Africa economic ties through strategic investments in key sectors for sustainable growth."
+title: China-Africa Development Fund Strategic Overview and Impact
+description: China-Africa Development Fund backs Chinese investments in agriculture
+  infrastructure and resource projects to boost African growth Discover more inside
 ---
 
 

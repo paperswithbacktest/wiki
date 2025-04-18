@@ -1,6 +1,7 @@
 ---
-title: "Carrying Value in Accounting"
-description: "Explore the key concepts of accounting carrying value algorithmic trading and balance sheets to enhance your understanding of the financial ecosystem and make informed decisions"
+title: Understanding Carrying Value in Accounting and Reporting
+description: Carrying value shows asset worth after accounting for depreciation amortization
+  and impairment to improve financial reporting accuracy Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital Losses and Reporting Requirements"
-description: "Understand capital losses impact and IRS compliance in algo trading. Optimize tax strategies with Form 8949 while leveraging algorithmic trading advantages."
+title: Comprehensive Guide to Capital Loss Tax Reporting Strategies
+description: Capital loss reduces your tax bill by offsetting gains reducing AGI and
+  unlocking carryovers with expert tips on reporting rules Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to the SPAN Margin System for Risk Management
-description: SPAN Margin System explains how portfolio-based margin calculations can
-  lower your funding needs and enhance trading safety Discover more inside.
+title: Understanding the SPAN Margin System for Risk Management
+description: SPAN Margin System calculates portfolio risk to set precise margin requirements
+  for futures and options to reduce required deposits Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Biodiesel Production Benefits and Challenges
-description: Biodiesel turns waste oils into renewable fuel that cuts emissions and
-  boosts economy while tackling production and engine challenges Discover more inside.
+title: Understanding Biodiesel Production Benefits and Challenges
+description: Biodiesel turns plant and waste oils into a cleaner burning renewable
+  fuel that cuts emissions and supports energy independence Discover more inside.
 ---
 
 

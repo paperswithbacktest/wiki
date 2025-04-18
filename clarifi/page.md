@@ -1,6 +1,8 @@
 ---
-title: "Clarifi"
-description: Explore the transformative power of Clarifi in algorithmic trading. Harnessing advanced machine learning, Clarifi enhances trading efficiency and accuracy with real-time data analysis. It empowers traders by identifying actionable patterns and optimizing strategies while supporting robust risk management and improved decision-making. Discover how Clarifi revolutionizes trading strategies and offers a competitive edge in the fast-paced financial markets.
+title: Clarifi Personal Finance Tool Simplifies Money Management
+description: Clarifi personal finance tool integrates all your accounts in one place
+  to help set money goals and offer tailored advice for smarter budgeting Discover
+  more inside.
 ---
 
 

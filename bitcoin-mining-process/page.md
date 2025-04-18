@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bitcoin Mining Process and Profitability
-description: Bitcoin mining explained step by step highlights the process hardware
-  requirements energy impact profitability and pool options Discover more inside.
+title: Comprehensive Guide to Bitcoin Mining and Its Challenges
+description: Bitcoin mining explains the full process from hardware setup and proof-of-work
+  to profitability and environmental impact Discover more inside
 ---
 
 

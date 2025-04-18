@@ -1,7 +1,7 @@
 ---
-title: Essential Bayes Net Toolbox Guide for Probabilistic Modeling
-description: Bayes Net toolbox lets you build and analyze Bayesian networks compute
-  outcome probabilities and guide informed decisions Discover more inside
+title: Bayes Net Toolbox Guide for Building and Using Bayesian Networks
+description: Bayes Net Toolbox simplifies building Bayesian networks with node edge
+  setup inference parameter learning and data-driven predictions Discover more inside
 ---
 
 

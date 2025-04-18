@@ -1,7 +1,7 @@
 ---
-title: Ultimate Excel Guide for Gordon Growth Model Stock Valuation
-description: Gordon Growth Model lets you calculate stock value in Excel using dividend
-  growth and discount rate inputs to generate valuations Discover more inside
+title: Implementing the Gordon Growth Model in Excel for Stock Valuation
+description: Gordon Growth Model helps you calculate intrinsic stock value in Excel
+  using clear dividend growth and discount rate inputs Discover more inside
 ---
 
 

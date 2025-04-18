@@ -1,6 +1,7 @@
 ---
-title: "Celtic Tiger: History and Economic Impact"
-description: "Explore the economic boom of the Celtic Tiger era in Ireland and its lasting impact Discover key factors like low corporate tax and foreign investments"
+title: Ireland's Celtic Tiger Economic Rise and Lasting Legacy
+description: Celtic Tiger era drove rapid growth in Ireland via low taxes and foreign
+  investment but revealed housing market risks for steady recovery Discover more
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Automated Market Maker Models and Mechanics
-description: Automated market maker technology explores liquidity pools bonding curves
-  impermanent loss governance and decentralized trading Discover more inside
+title: Understanding Automated Market Makers in Decentralized Exchanges
+description: Automated Market Makers use smart contract liquidity pools to set fair
+  crypto prices and ensure continuous trading with low barriers Discover more inside
 ---
 
 

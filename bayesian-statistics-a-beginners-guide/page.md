@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bayesian Statistics for Algorithmic Trading
-description: Bayesian statistics empowers you to update beliefs with new data and
-  improve decision making in fields from medicine to trading Discover more inside.
+title: Understanding Bayesian Statistics for Adaptive Trading Strategies
+description: Bayesian statistics empowers trading strategies by updating beliefs with
+  real-time data and priors for accurate decisions. Discover more inside.
 ---
 
 

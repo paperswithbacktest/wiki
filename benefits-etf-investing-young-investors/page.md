@@ -1,7 +1,7 @@
 ---
-title: Essential ETF Investing for Young Investors and Portfolio Growth
-description: ETF Investing empowers young investors to diversify portfolios with low
-  fees liquidity and tax advantages for long term growth Discover more inside.
+title: Essential ETF Investing Guide for Aspiring Young Investors
+description: ETF investing helps young investors diversify portfolios with low fees
+  and high liquidity for long term growth and reduced risk. Discover more inside
 ---
 
 

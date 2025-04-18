@@ -1,6 +1,7 @@
 ---
-title: "Chain-Of-Thought Prompting (Machine Learning)"
-description: "Explore Chain-of-Thought prompting in machine learning a technique that enhances model performance by guiding them through problems in clear step-by-step reasoning."
+title: Enhancing AI Reasoning With Chain-of-Thought Prompting
+description: Chain-of-Thought prompting helps machine learning models break down complex
+  tasks into clear reasoning steps for more accurate results Discover more inside
 ---
 
 ![Image](images/1.png)

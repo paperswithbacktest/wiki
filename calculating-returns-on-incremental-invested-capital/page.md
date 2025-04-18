@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Incremental Invested Capital Returns
-description: Incremental invested capital tracks additional funding by measuring new
-  investments against incremental profits to gauge performance Discover more inside.
+title: Understanding Returns on Incremental Invested Capital and ROIIC
+description: Incremental invested capital shows how new investments drive profit.
+  Calculate ROIIC accurately to optimize your capital allocation. Discover more inside
 ---
 
 

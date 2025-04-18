@@ -1,6 +1,7 @@
 ---
-title: "Capital Investment Analysis and Techniques"
-description: "Unlock the complexities of modern investing with insights on capital investment strategies and algorithmic trading techniques to optimize financial returns."
+title: Comprehensive Capital Investment Analysis for Business Growth
+description: Capital investment analysis guides businesses through ROI payback period
+  NPV IRR and sensitivity methods to optimize decision making Discover more inside.
 ---
 
 

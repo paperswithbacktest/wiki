@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Basel I Capital Requirements Framework
-description: Basel I capital requirements ensure banks maintain an 8% risk weighted
-  buffer to boost stability and fair global competition Discover more inside.
+title: Basel I Capital Requirements Explained for Global Banking
+description: Basel I sets an 8% minimum capital requirement on risk-weighted assets
+  to strengthen bank stability and manage credit risk effectively Discover more inside.
 ---
 
 

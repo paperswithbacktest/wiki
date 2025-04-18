@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Average True Range for Risk Management
-description: Average True Range helps traders manage volatility and refine stop loss
-  and position sizing for smarter trades and risk control Discover more inside.
+title: Using Average True Range ATR to Manage Trading Volatility
+description: Average True Range ATR helps traders gauge market volatility and set
+  precise stop-loss levels for smarter risk management Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Causes of the 1987 Black Monday Stock Market Crash"
-description: "Explore the causes of the 1987 Black Monday stock market crash by examining the role of algorithmic trading and technological advancements. Discover how program trading, particularly strategies like portfolio insurance, contributed to the unprecedented market decline and highlighted systemic risks associated with automated trading. This analysis investigates into the economic context and the impact of macroeconomic policies, providing insights into one of the most significant financial disruptions of the 20th century."
+title: Analyzing the 1987 Black Monday Crash Causes and Aftermath
+description: Black Monday stock market crash insights explain how program trading
+  margin debt and global factors fueled the 1987 crash and shaped stronger regulations
+  Discover more inside.
 ---
 
 

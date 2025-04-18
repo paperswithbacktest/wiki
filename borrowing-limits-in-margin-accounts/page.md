@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Margin Account Borrowing Limits
-description: Margin account limits define initial and maintenance margin requirements
-  to help you effectively manage borrowing risk proactively Discover more inside
+title: Understanding Key Borrowing Limits in Margin Accounts
+description: Margin account borrowing limits help you leverage safely and prevent
+  margin calls with initial and maintenance margins Discover more inside
 ---
 
 

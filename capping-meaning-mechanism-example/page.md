@@ -1,6 +1,7 @@
 ---
-title: "Capping: Meaning, Mechanism, and Example"
-description: "Explore the intricacies of capping in algorithmic trading a strategy to influence market prices safeguarding investments and addressing regulatory challenges."
+title: Understanding Capping Strategies in Financial Markets
+description: Capping in financial markets explains how interest rate caps trading
+  limits and market cap metrics manage risk and guide investments Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding Basic Earnings Per Share EPS
-description: Basic Earnings Per Share EPS reveals net income divided by shares to
-  offer a clear profitability metric informs investor decisions Discover more inside.
+title: Basic Earnings Per Share (EPS) Explained for Investors
+description: Basic Earnings Per Share reveals how much profit a company earns per
+  share and guides investors in making informed stock decisions Discover more inside.
 ---
 
 

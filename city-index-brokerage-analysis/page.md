@@ -1,6 +1,7 @@
 ---
-title: "City Index Brokerage Analysis"
-description: "Explore City Index Brokerage renowned for exceptional support in algorithmic trading with advanced tools extensive market coverage and user-friendly platforms"
+title: City Index Trading Platform Review Services Tools and Security
+description: City Index offers competitive fees, user friendly trading platforms and
+  robust security to help you manage risk confidently Discover more inside
 ---
 
 

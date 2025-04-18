@@ -1,6 +1,7 @@
 ---
-title: "Choosing Mutual Funds Over Individual Stocks"
-description: "Explore the benefits of choosing mutual funds over individual stocks for a balanced and diversified investment portfolio. Ideal for passive investors seeking professional management."
+title: Understanding Mutual Funds Versus Individual Stock Investments
+description: Mutual funds offer a professionally managed way to diversify across stocks
+  bonds and assets with lower risk and lower minimums Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Differences Between Biotechnology and Pharmaceuticals
-description: Biotechnology and Pharmaceuticals comparison reveals key differences
-  in product research and regulations shaping healthcare Discover more inside.
+title: Key Differences Between Biotechnology And Pharmaceuticals
+description: Biotechnology and pharmaceuticals comparison highlights key differences
+  in products research regulations and future collaboration Discover more inside
 ---
 
 

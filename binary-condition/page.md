@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Binary Classification in Machine Learning
-description: Binary classification helps you build models define decision boundaries
-  evaluate metrics and improve accuracy with ensemble methods Discover more inside
+title: Key Concepts of Binary Classification in Machine Learning
+description: Binary classification in machine learning applies clear boundaries and
+  metrics to sort data into two categories Discover more inside.
 ---
 
 ![Image](images/1.png)

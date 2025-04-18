@@ -1,6 +1,7 @@
 ---
-title: "Cash Plus Fund: Definition, Benefits, and Risks"
-description: "Explore the intricacies of Cash Plus Funds and algorithmic trading Discover how these strategies balance risk and rewards in today's dynamic investment landscape"
+title: Cash Plus Funds Preserve Capital And Enhance Short Term Returns
+description: Cash Plus Funds deliver safe capital preservation and higher yields through
+  short term government bonds and commercial paper. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Proven Blockchain Solution for Digital Piracy Prevention
-description: Blockchain technology tracks digital content ownership on a transparent
-  decentralized ledger and automates direct creator payments Discover more inside
+title: Blockchain Solutions to Prevent Digital Content Piracy
+description: Blockchain secures digital content with unique codes and smart contracts
+  ensuring creators are paid and pirates are exposed Discover more inside.
 ---
 
 

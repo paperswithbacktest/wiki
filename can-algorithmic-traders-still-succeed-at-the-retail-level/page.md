@@ -1,8 +1,7 @@
 ---
-title: Ultimate Guide to Algorithmic Trading for Retail Traders
-description: Algorithmic trading empowers retail traders with automated strategies
-  faster than human decisions We explore tools steps and risk management Discover
-  more inside
+title: Essential Guide To Retail Algorithmic Trading Strategies
+description: Algorithmic trading allows retail traders to automate trades using robust
+  platforms with risk controls and backtesting Discover more insights inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital Surplus and Its Creation"
-description: "Discover the world of corporate finance with insights into company equity, capital surplus, and the impact of algorithmic trading on financial stability and growth."
+title: Understanding Capital Surplus in Corporate Financial Management
+description: Capital surplus shows how extra funds from stock sales boost company
+  equity and fuel growth or act as a financial safety net. Discover more inside.
 ---
 
 

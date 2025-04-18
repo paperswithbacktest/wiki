@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Basecoin Stablecoin Mechanics
-description: Basecoin maintains a stable value via smart contracts tied to the US
-  dollar to curb volatility and secure global transactions Discover more inside.
+title: 'Basecoin Stablecoin: How It Maintains Consistent Value'
+description: Basecoin uses smart contracts to maintain a stable value tied to the
+  US dollar enabling safe saving and spending in volatile markets Discover more inside.
 ---
 
 

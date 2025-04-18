@@ -1,6 +1,7 @@
 ---
-title: "CAPM Formula in Excel: Analyzing Risk and Reward"
-description: "Analyze risk and reward using the CAPM formula in Excel with insights into algorithmic trading enabling precision in financial decisions and portfolio management."
+title: How to Calculate Expected Return with the CAPM Formula in Excel
+description: CAPM formula simplifies calculating expected returns using risk free
+  rate beta and market premium in Excel for scenario analysis Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Chicago Trading Company Overview"
-description: "Chicago Trading Company excels in algorithmic trading and market-making, enhancing market liquidity since 1995 with innovative trading strategies and advanced technologies."
+title: Chicago Trading Company Fundamentals and Market Impact
+description: Chicago Trading Company provides a reliable platform for trading agricultural
+  commodities and precious metals in futures markets Discover more inside.
 ---
 
 

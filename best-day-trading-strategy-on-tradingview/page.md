@@ -1,7 +1,7 @@
 ---
-title: Ultimate TradingView Day Trading Strategies and Tools
-description: TradingView day trading guides you through real-time charts indicators
-  alerts and risk management to build disciplined strategies Discover more inside
+title: Day Trading Strategies and Tools on TradingView Explained
+description: Day trading on TradingView offers real-time charts indicators and alerts
+  to help you make informed trades with defined risk management Discover more inside.
 ---
 
 

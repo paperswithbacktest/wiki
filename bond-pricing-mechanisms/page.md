@@ -1,7 +1,7 @@
 ---
-title: The Ultimate Professional Guide to Bond Pricing and Valuation
-description: Bond pricing insights help you gauge true investment value by decoding
-  interest rate impacts credit ratings and duration sensitivity Discover more inside.
+title: A Comprehensive Guide to Bond Pricing and Valuation
+description: Bond pricing explained in clear terms so you can master how interest
+  rates credit ratings and yields affect bond values Discover more inside.
 ---
 
 

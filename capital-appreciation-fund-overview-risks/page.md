@@ -1,6 +1,7 @@
 ---
-title: "Capital Appreciation Fund: Overview and Risks"
-description: "Explore capital appreciation funds and algorithmic trading to maximize financial growth. Learn the risks and strategies to align with your investment goals."
+title: "Understanding Capital Appreciation Funds for Long\u2011Term Growth"
+description: "Capital appreciation fund strategies grow wealth by targeting high\u2011\
+  growth assets and balancing risk in a long\u2011term portfolio Discover more inside"
 ---
 
 

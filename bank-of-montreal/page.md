@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bank of Montreal and Its Services
-description: Bank of Montreal combines a 200-year heritage with modern banking and
-  sustainability to empower customers across Canada and US Discover more inside
+title: Bank of Montreal Guide to History, Services, and Global Expansion
+description: Bank of Montreal delivers reliable personal commercial and investment
+  solutions with global reach and community focus. Discover more inside now.
 ---
 
 

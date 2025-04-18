@@ -1,6 +1,7 @@
 ---
-title: "Classification of Mutual Funds as Equity Securities"
-description: "Explore how mutual funds are classified as equity securities and the role of algorithmic trading in investing to make informed financial decisions."
+title: Understanding Equity Mutual Funds and Their Investment Role
+description: Equity mutual funds offer professional portfolio management and diversified
+  stock exposure to balance risk and reward. Discover more inside today.
 ---
 
 

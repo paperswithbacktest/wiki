@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Managing Order Cancellations Effectively
-description: Order cancellation involves fees, delays and costs; discover proven strategies
-  to streamline cancellations and reduce expenses Discover more inside
+title: Effective Order Cancellation Strategies for E-Commerce Stores
+description: Order cancellation rules help businesses and customers navigate fees
+  delays and returns with clear policies and efficient processes Discover more inside
 ---
 
 

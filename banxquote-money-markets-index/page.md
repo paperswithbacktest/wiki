@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the BanxQuote Money Markets Index
-description: BanxQuote Money Markets Index tracks bank money market rates to help
-  you compare interest yields and make smarter savings choices Discover more inside.
+title: In-Depth Analysis of the BanxQuote Money Markets Index
+description: BanxQuote Money Markets Index tracks weekly averages of money market
+  account rates to help savers compare opportunities effectively Discover more inside.
 ---
 
 

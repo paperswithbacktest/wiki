@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Business Cycle Indicators for Forecasting
-description: Business cycle indicators reveal signals of economic shifts through growth
-  and recession so you can plan strategies proactively Discover more inside.
+title: Understanding Business Cycle Indicators And Economic Phases
+description: Business cycle indicators reveal economic ups and downs through leading
+  lagging and coincident metrics to guide smarter decisions. Discover more inside.
 ---
 
 

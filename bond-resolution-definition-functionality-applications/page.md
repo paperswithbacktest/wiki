@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Bond Resolution for Effective Borrowing
-description: Bond resolution sets clear borrowing terms including amounts interest
-  rates and repayment schedules to build investor confidence Discover more inside
+title: Understanding Bond Resolutions in Public and Corporate Finance
+description: Bond resolution clarifies borrowing rules for governments companies ensuring
+  investors know interest rates repayment schedules Discover more inside.
 ---
 
 

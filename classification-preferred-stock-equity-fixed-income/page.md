@@ -1,6 +1,7 @@
 ---
-title: "Classification of Preferred Stock as Equity or Fixed-Income Security"
-description: "Explore the classification of preferred stock as equity or fixed-income security and discover how algorithmic trading can optimize returns in volatile markets."
+title: Preferred Stock Classification As Equity Or Fixed Income
+description: Preferred Stock classification clarifies equity versus fixed income features
+  shaping dividends priority and tax impact Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Christine Lagarde's Role at the European Central Bank"
-description: "Explore Christine Lagarde's influential role at the European Central Bank as she navigates economic challenges, shaping monetary policies impacting algorithmic trading."
+title: "Christine Lagarde\u2019s Leadership at the European Central Bank"
+description: Christine Lagarde leads the ECB with transparent policy and climate conscious
+  bond buying to support Eurozone stability and growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Characteristics of Capitalist Economies"
-description: "Explore the dynamics of capitalist economies and algorithmic trading by examining how private ownership and free markets interact with technological innovation to shape today's global economy."
+title: 'Understanding Capitalist Economies: Principles and Impacts'
+description: Capitalist economy leverages private ownership and competition to drive
+  sustainable innovation growth while managing inequality Discover more inside
 ---
 
 

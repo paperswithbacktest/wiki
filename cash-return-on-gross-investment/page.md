@@ -1,6 +1,7 @@
 ---
-title: "Cash Return on Gross Investment"
-description: "Explore the significance of Cash Return on Gross Investment (CROGI) in evaluating capital efficiency for investors and its application in algorithmic trading strategies."
+title: Cash Return on Gross Investment CROGI Explained for Investors
+description: Cash Return on Gross Investment measures how efficiently companies convert
+  capital into cash flow relative to their total assets Discover more inside
 ---
 
 

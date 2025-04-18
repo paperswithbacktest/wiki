@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Germany's Bundesbank Functions and Roles
-description: Bundesbank ensures stable prices, liquidity and bank safety in Germany
-  by overseeing monetary policy and financial supervision Discover more inside.
+title: Bundesbank Functions and Impact on German Financial Stability
+description: Bundesbank ensures German price stability and banking soundness through
+  interest rate policy cash management and oversight Discover more inside.
 ---
 
 

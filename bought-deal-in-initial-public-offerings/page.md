@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bought Deal IPOs for Issuing Companies
-description: Bought deal IPO gives companies guaranteed funding and speed while underwriters
-  manage risk Explore key benefits and insights Discover more inside
+title: Bought Deal IPOs Explained How They Guarantee Company Funding
+description: Bought deal IPOs secure upfront funding by shifting sales risk to underwriters
+  and speeding capital access for companies Discover more inside.
 ---
 
 

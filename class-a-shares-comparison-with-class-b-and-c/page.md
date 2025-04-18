@@ -1,6 +1,7 @@
 ---
-title: "Class A Shares: Comparison with Class B and Class C"
-description: "Explore the key differences between Class A and Class B shares, their impact on corporate governance and how algorithmic trading leverages these distinctions."
+title: Understanding Class A Shares Compared to Class B and C Stock
+description: Class A Shares offer more voting rights and lower yearly fees enhancing
+  long term returns compared to Class B and C shares Discover more inside.
 ---
 
 

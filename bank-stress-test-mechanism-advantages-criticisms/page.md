@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Bank Stress Tests For Financial Stability
-description: Bank stress tests confirm banks hold enough capital to absorb economic
-  shocks and guide policy for financial stability Discover more inside.
+title: Understanding Bank Stress Tests for Financial Stability
+description: Bank stress tests evaluate capital strength during tests to ensure resilience
+  against economic shocks and maintain stability. Discover more inside.
 ---
 
 

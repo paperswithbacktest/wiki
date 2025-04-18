@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Average Propensity to Save in Economics
-description: Average Propensity to Save measures the share of income households save
-  and shows its impact on economic growth financial stability Discover more inside.
+title: Average Propensity to Save Explained for Economic Insights
+description: Average propensity to save shows how much income households channel into
+  savings and why it matters for economic stability and growth Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Algorithmic Trading Guide From Basics to Advanced
-description: Algorithmic trading breaks down key concepts from basic strategies to
-  advanced machine learning methods with book recommendations. Discover more inside.
+title: Essential Algorithmic Trading Books And Key Concepts
+description: Algorithmic Trading beginners can explore top books and core concepts
+  from backtesting to machine learning and quant methods Discover more inside.
 ---
 
 

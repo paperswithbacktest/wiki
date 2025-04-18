@@ -1,6 +1,7 @@
 ---
-title: "China Foreign Exchange Trade System Overview"
-description: "Explore the pivotal role of the China Foreign Exchange Trade System as it drives algorithmic trading and innovation in China's currency markets."
+title: Understanding the CFETS China Foreign Exchange Trade System
+description: China Foreign Exchange Trade System CFETS streamlines currency trading
+  by ensuring fair pricing efficient risk management clear rules Discover more inside
 ---
 
 

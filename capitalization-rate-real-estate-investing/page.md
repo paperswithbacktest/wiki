@@ -1,6 +1,7 @@
 ---
-title: "Capitalization Rate in Real Estate Investing"
-description: "Explore the evolving landscape of real estate investing by understanding cap rates and algorithmic trading Discover how these concepts enhance valuation techniques"
+title: Understanding Capitalization Rate in Real Estate Investing
+description: Capitalization Rate shows property profitability by comparing net operating
+  income to value and helps investors make informed choices Discover more inside
 ---
 
 

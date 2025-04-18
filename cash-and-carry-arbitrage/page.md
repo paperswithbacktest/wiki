@@ -1,6 +1,7 @@
 ---
-title: "Cash-And-Carry Arbitrage"
-description: "Explore the intricacies of cash-and-carry arbitrage in algo trading, a strategy exploiting price inefficiencies between spot and futures markets for profit."
+title: Understanding Cash-and-Carry Arbitrage in Futures Trading
+description: Cash-and-Carry Arbitrage lets traders secure low-risk profits by buying
+  assets and selling futures while covering carrying costs Discover more inside
 ---
 
 

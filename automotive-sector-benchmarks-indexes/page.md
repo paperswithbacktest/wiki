@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Automotive Sector Benchmarks and Indexes
-description: Automotive sector benchmarks and indexes reveal insights on car company
-  performance versus industry averages Guide investments Discover more inside
+title: Understanding Automotive Sector Benchmarks and Indexes
+description: Automotive sector benchmarks and indexes help analysts and investors
+  compare company performance in sales profits and stock trends Discover more inside
 ---
 
 

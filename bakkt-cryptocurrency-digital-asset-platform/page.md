@@ -1,7 +1,7 @@
 ---
-title: Essential Bakkt Platform for Secure Cryptocurrency Trading
-description: Bakkt bridges finance and cryptocurrency with a secure platform for trading
-  custody and converting assets with institutional security Discover more inside
+title: Bakkt Platform for Secure Digital Asset Trading and Custody
+description: Bakkt offers a secure platform that bridges digital assets and traditional
+  finance for seamless cryptocurrency trading and custody Discover more inside
 ---
 
 

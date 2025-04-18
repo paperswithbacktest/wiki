@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Macaulay Duration in Excel
-description: Macaulay Duration in Excel lets you pinpoint bond risk by calculating
-  weighted time to cash flows with built in functions Discover more inside.
+title: Calculating Macaulay Duration In Excel For Bond Analysis
+description: Macaulay Duration in Excel shows how to calculate bond cash flow timings
+  and assess interest rate risk with automated formulas Discover more inside
 ---
 
 

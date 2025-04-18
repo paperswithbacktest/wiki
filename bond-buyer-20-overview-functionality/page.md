@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bond Buyer 20 Municipal Bond Index
-description: Bond Buyer 20 tracks weekly yields of 20-year general obligation bonds
-  to benchmark municipal rates and guide informed investments Discover more inside
+title: Understanding the Bond Buyer 20 Municipal Bond Benchmark
+description: Bond Buyer 20 index tracks yields of 20 municipal bonds with 20-year
+  maturity to reveal interest rate trends and serve as a benchmark Discover more inside.
 ---
 
 

@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to Building a Bond Portfolio for Diversification
-description: Bond portfolio management combines government corporate and international
-  bonds to diversify risk and secure income streams for stable returns. Discover more
-  inside.
+title: Balancing Risk and Reward in a Diversified Bond Portfolio
+description: Bond portfolio strategies deliver steady income and reduce risk through
+  bond diversification interest rate and duration management. Discover more inside.
 ---
 
 

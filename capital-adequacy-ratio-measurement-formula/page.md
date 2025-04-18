@@ -1,6 +1,7 @@
 ---
-title: "Capital Adequacy Ratio: Measurement and Formula"
-description: "Explore the intricacies of the Capital Adequacy Ratio an essential banking metric reflecting financial stability through regulatory compliance and risk management."
+title: Understanding Capital Adequacy Ratio to Strengthen Bank Stability
+description: Capital Adequacy Ratio guides banks to maintain sufficient capital buffers
+  against losses and support risk management and stability Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Canadian Income Trust Benefits and Risks
-description: Canadian Income Trust investments offer steady income and predictable
-  returns while navigating post-2011 tax rules and market risks Discover more inside.
+title: Canadian Income Trusts Explained for Steady Investor Returns
+description: Canadian Income Trusts provide predictable distributions from real estate
+  assets after tax reforms for steady investor returns Discover more inside
 ---
 
 

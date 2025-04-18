@@ -1,6 +1,7 @@
 ---
-title: "Capital Asset Pricing Model in Security Market Line"
-description: "Explore CAPM and SML in algorithmic trading as they assess risk and optimize returns Understanding these models aids in making informed financial decisions"
+title: Capital Asset Pricing Model Explained for Smart Investing
+description: Capital Asset Pricing Model offers a clear framework for evaluating asset
+  risk versus expected return using beta and market premiums Discover more inside.
 ---
 
 

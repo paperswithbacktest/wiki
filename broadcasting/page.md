@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Broadcasting in Machine Learning with NumPy
-description: Broadcasting in machine learning streamlines array math by matching shapes
-  without extra memory Use this technique for efficient code Discover more inside.
+title: Efficient Broadcasting in Machine Learning with NumPy Arrays
+description: Broadcasting in machine learning enables efficient array operations on
+  mismatched shapes saving memory and accelerating performance Discover more inside
 ---
 
 ![Image](images/1.png)

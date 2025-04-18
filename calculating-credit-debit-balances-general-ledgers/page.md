@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to General Ledger Credit And Debit Balances
-description: General ledger credit and debit balances explained in clear terms to
-  help you record transactions accurately and ensure compliance Discover more inside
+title: Understanding Credit and Debit Balances in the General Ledger
+description: General ledger explains how to record and balance credit and debit transactions
+  to ensure accurate records and informed decisions Discover more inside.
 ---
 
 

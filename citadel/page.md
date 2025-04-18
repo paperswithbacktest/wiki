@@ -1,6 +1,7 @@
 ---
-title: "Citadel"
-description: "Discover Citadel's prowess in algorithmic trading where high-speed, data-driven strategies enhance market efficiency through advanced technology and innovation."
+title: Citadel Investment Firm Overview And Core Services
+description: Citadel helps investors maximize returns through data driven strategies
+  efficient trading solutions and disciplined risk management Discover more inside.
 ---
 
 

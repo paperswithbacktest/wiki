@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to Achieving Balance in Body and Everyday Life
-description: Balance in everyday life relies on vestibular vision and proprioception.
-  Discover practical exercises and rehab tech insights to stay steady Discover more
-  inside
+title: Comprehensive Guide to Balance in Life, Body, and Economy
+description: Balance affects life body health and finances this guide explains types
+  disorders assessments exercises and new rehab tech Discover more inside
 ---
 
 

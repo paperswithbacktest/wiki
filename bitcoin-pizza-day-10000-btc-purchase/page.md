@@ -1,7 +1,7 @@
 ---
-title: Essential Bitcoin Pizza Day Insights Into Cryptocurrency History
-description: Bitcoin Pizza Day marks the first real world Bitcoin purchase and traces
-  its journey from 10k BTC pizzas to global currency status Discover more inside.
+title: Bitcoin Pizza Day Marks First Real World Bitcoin Transaction
+description: Bitcoin Pizza Day commemorates the first real world Bitcoin transaction
+  by Laszlo Hanyecz and drives cryptocurrency adoption forward Discover more
 ---
 
 

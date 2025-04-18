@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Blue Chip Stocks for Investor Success
-description: Blue chip stocks offer steady growth and dividends from industry leaders
-  helping beginners build long term wealth confidently Discover more inside
+title: Blue Chip Stocks Explained for Consistent Long Term Returns
+description: Blue chip stocks provide stability and dividends while guiding investors
+  to build a diversified portfolio for long term growth Discover more inside.
 ---
 
 

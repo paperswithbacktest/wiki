@@ -1,7 +1,7 @@
 ---
-title: Essential Buy-Minus Strategy for Cutting Losses Proactively
-description: Buy-Minus lets investors cut losses and free capital for smarter new
-  investments by selling assets before deeper declines. Discover more inside.
+title: Implementing a Buy-Minus Strategy to Cut Losses Efficiently
+description: Buy-Minus strategy helps investors limit losses and free capital for
+  new opportunities with clear steps and risk controls Discover more inside
 ---
 
 

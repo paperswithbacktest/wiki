@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Candidate Generation in Machine Learning
-description: Candidate generation in machine learning narrows data into relevant results
-  using collaborative and content-based filtering Discover more inside.
+title: Optimizing Candidate Generation in Machine Learning Applications
+description: Candidate generation in machine learning narrows millions of items into
+  a focused set for faster and accurate recommendations Discover more inside.
 ---
 
 ![Image](images/1.png)

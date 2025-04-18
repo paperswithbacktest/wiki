@@ -1,7 +1,7 @@
 ---
-title: Essential Correlation Analysis For Backtesting Trading Strategies
-description: Correlation analysis reveals asset relationships in backtesting and forward
-  testing to refine your trading strategies in live markets Discover more inside
+title: Correlation Analysis for Backtesting and Forward Testing
+description: Correlation analysis helps refine backtesting and forward testing by
+  exposing asset interdependencies for better risk management Discover more inside
 ---
 
 

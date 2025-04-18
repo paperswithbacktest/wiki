@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Cost of Equity in Excel
-description: Cost of equity in Excel shows step by step CAPM dividend discount and
-  bond yield methods for precise financial decisions Discover more inside
+title: Calculating Cost of Equity in Excel Using CAPM and DDM
+description: Cost of equity is crucial for evaluating projects and investor returns
+  using CAPM and DDM in Excel Discover more inside
 ---
 
 

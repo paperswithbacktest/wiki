@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Trading Bursa Malaysia Derivatives
-description: Bursa Malaysia Derivatives trading overview helps you navigate products,
-  fees, market rules and manage risk with clarity Discover more inside.
+title: Professional Trading Guide for Bursa Malaysia Derivatives Berhad
+description: Bursa Malaysia Derivatives Berhad offers a transparent platform for trading
+  futures options and managing risk with competitive fees Discover more inside
 ---
 
 

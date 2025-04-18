@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to High-Dividend Yield Stock Investing
-description: High-dividend yield stocks deliver steady income and stabilize portfolios
-  by balancing market swings and supporting retirement goals. Discover more inside.
+title: Investing in High Dividend Yield Stocks for Steady Income
+description: High dividend yield stocks deliver steady income while balancing portfolio
+  risk with reliable payouts and diversification Discover more inside
 ---
 
 

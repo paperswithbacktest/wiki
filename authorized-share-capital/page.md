@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Authorized Share Capital in Corporate Finance
-description: Authorized share capital sets how many shares a company can issue and
-  shows how to adjust limits with shareholder approval. Discover more inside.
+title: Understanding Authorized Share Capital And Its Strategic Impact
+description: Authorized share capital defines the maximum shares a company can issue
+  so you can plan growth strategies and fundraise effectively. Discover more inside.
 ---
 
 

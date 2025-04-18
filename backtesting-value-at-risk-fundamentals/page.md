@@ -1,7 +1,7 @@
 ---
-title: Ultimate Backtesting Guide for Value at Risk Models
-description: Value at Risk backtesting reveals how your forecasts perform against
-  real market data and supports smarter risk decisions Discover more inside
+title: Enhancing Risk Model Accuracy With Value at Risk Backtesting
+description: Value at Risk backtesting helps financial teams verify risk models using
+  historical data and key statistical tests to refine estimates Discover more inside
 ---
 
 

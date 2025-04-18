@@ -1,7 +1,7 @@
 ---
-title: Ultimate Broken Wing Butterfly Options Trading Guide
-description: Broken Wing Butterfly options strategy shows profit from directional
-  stock moves and controls risk with Python simulations. Discover more inside.
+title: Broken Wing Butterfly Options Trading Strategy Explained
+description: Broken Wing Butterfly helps traders profit from modest stock moves with
+  a directional range strategy while controlling risk Discover more inside
 ---
 
 

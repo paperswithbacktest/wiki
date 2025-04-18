@@ -1,7 +1,7 @@
 ---
-title: Benjamin Graham Essential Guide To Financial Statement Analysis
-description: Financial statement analysis uses Benjamin Grahams proven ratio checks
-  and margin of safety to identify undervalued stocks Discover more inside.
+title: Mastering Benjamin Graham Financial Statement Analysis
+description: Financial statement analysis shows how Graham found undervalued stocks
+  using earnings assets debt and ratios for margin of safety Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Civil Damages: Types and Scenarios"
-description: "Explore the multifaceted concepts of civil damages and legal compensations essential in addressing wrongful acts within the legal and financial landscapes. This article investigates into the various types of damages recognized in civil law, including compensatory, punitive, general, and special damages, highlighting their unique purposes. Additionally, it examines the complexities introduced by algorithmic trading, emphasizing the importance of understanding potential legal scenarios and liabilities in today's financial markets. Gain insights to navigate the intricate interplay of law and automated trading with a focus on ensuring fair restitution and deterrence in financial sector misconduct cases."
+title: Understanding Civil Damages Types Calculation and Awards
+description: Civil damages cover losses from injury contracts and rights violations
+  with clear breakdown of compensatory punitive nominal awards Discover more inside
 ---
 
 

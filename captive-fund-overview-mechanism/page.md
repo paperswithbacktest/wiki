@@ -1,6 +1,8 @@
 ---
-title: "Captive Fund: Overview and Mechanism"
-description: "Explore how captive funds tailor investments for parent companies enhanced by financial mechanisms and algorithmic trading for optimized returns and risk management."
+title: Captive Funds For Corporate Investment Control And Growth
+description: Captive fund strategies give companies full control over investments
+  risk management and tax efficiency while driving long term growth Discover more
+  inside
 ---
 
 

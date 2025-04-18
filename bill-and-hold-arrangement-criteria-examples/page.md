@@ -1,7 +1,7 @@
 ---
-title: The Essential Insider Guide to Bill-and-Hold Arrangements
-description: Bill-and-hold arrangement helps companies improve cash flow and secure
-  inventory without extra storage by following clear criteria Discover more inside.
+title: Bill-and-Hold Accounting Basics for Revenue Recognition
+description: Bill-and-hold arrangements improve cash flow and secure buyer commitments
+  by billing early and holding products until delivery. Discover more inside.
 ---
 
 

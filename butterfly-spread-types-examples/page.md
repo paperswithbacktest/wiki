@@ -1,7 +1,7 @@
 ---
-title: Proven Butterfly Spread Strategy for Limited-Risk Options Trading
-description: Butterfly Spread Strategy helps traders limit risk while targeting precise
-  profits with defined strikes and expiration. Discover more inside.
+title: Complete Butterfly Spread Options Trading Strategy Guide
+description: Butterfly Spread lets traders combine three strike prices with calls
+  or puts to define risk and target profit within a set range. Discover more inside.
 ---
 
 

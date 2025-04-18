@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Augmented Dickey-Fuller Stationarity Test
-description: Augmented Dickey-Fuller test checks for unit roots in a time series to
-  confirm stationarity and ensure reliable analysis Discover more inside.
+title: Understanding the Augmented Dickey-Fuller Test for Stationarity
+description: Augmented Dickey-Fuller test checks time series stationarity by evaluating
+  unit roots and lag structures to ensure reliable analysis Discover more inside
 ---
 
 

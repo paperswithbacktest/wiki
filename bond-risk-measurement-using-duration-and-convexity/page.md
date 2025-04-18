@@ -1,7 +1,7 @@
 ---
-title: Essential Bond Risk Measurement Using Duration and Convexity
-description: Bond risk measurement relies on duration and convexity to quantify interest
-  rate sensitivity and optimize portfolio decisions. Discover more inside.
+title: Understanding Bond Risk Measurement with Duration and Convexity
+description: Bond risk measurement with duration and convexity shows how bond prices
+  react to interest rate changes and guides portfolio choices Discover more inside
 ---
 
 

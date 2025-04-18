@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Calculating Percentage Gain or Loss
-description: Percentage gain or loss reveals investment performance in percent terms
-  with simple steps and examples for accurate results. Discover more inside.
+title: Mastering Percentage Gain and Loss Calculations for Investments
+description: Percentage gain or loss calculations help investors assess returns accurately
+  by factoring initial and final values plus fees. Discover more inside.
 ---
 
 

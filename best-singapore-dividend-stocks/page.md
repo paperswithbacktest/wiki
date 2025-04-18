@@ -1,7 +1,7 @@
 ---
-title: The Essential Investor Guide to Singapore Dividend Stocks
-description: Singapore dividend stocks deliver reliable income and growth with expert
-  selection tips scalable reinvestment plans and tax benefits Discover more inside.
+title: Comprehensive Guide To Singapore Dividend Stock Investing
+description: Singapore dividend stocks deliver steady income and growth through yield
+  analysis and sector insights to build a balanced portfolio Discover more inside.
 ---
 
 

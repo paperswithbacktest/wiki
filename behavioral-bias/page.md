@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Behavioral Bias and Decision Making
-description: Behavioral bias skews our choices by letting emotions and habits override
-  facts Discover actionable strategies to counter biases Discover more inside.
+title: Understanding Behavioral Biases in Decision Making and Finance
+description: Behavioral bias can distort financial and personal choices Explore how
+  to spot common biases and apply strategies for smarter decisions Discover inside
 ---
 
 

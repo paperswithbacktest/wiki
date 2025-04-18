@@ -1,6 +1,7 @@
 ---
-title: "Challenges of Bitcoin's Lightning Network"
-description: "Explore the complexities and opportunities of integrating Bitcoin's Lightning Network with algorithmic trading, enhancing transaction speed and cost-effectiveness while leveraging automation for improved trading efficiency in the evolving cryptocurrency landscape."
+title: Understanding the Bitcoin Lightning Network for Fast Payments
+description: Bitcoin Lightning Network unlocks secure instant low cost Bitcoin transactions
+  via off chain channels for everyday payments Discover more inside
 ---
 
 

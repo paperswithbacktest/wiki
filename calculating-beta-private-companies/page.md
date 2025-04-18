@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Calculating Beta for Private Companies
-description: Beta for private companies drives better financing decisions by estimating
-  risk with comparable public and bottom up methods Discover more inside.
+title: Estimating Beta for Private Companies Using Industry Comparables
+description: Leverage beta for private companies to assess risk with industry comparables
+  and bottom up methods that guide funding strategies Discover more inside
 ---
 
 

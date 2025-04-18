@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Mitigating Automation Bias in Machine Learning
-description: Automation bias in machine learning can distort decisions but proactive
-  oversight training and clear model explanations can curb it Discover more inside.
+title: Understanding Automation Bias in Machine Learning Systems
+description: Automation bias in machine learning across industries can lead to critical
+  errors Use human oversight with checks to validate results Discover more inside
 ---
 
 ![Image](images/1.png)

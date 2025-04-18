@@ -1,6 +1,7 @@
 ---
-title: "Capital Gearing Overview and Functionality"
-description: "Explore the fundamentals of capital gearing and financial leverage in algorithmic trading Discover how these metrics influence financial health and trading strategies"
+title: Capital Gearing Explained Professional Guide to Debt and Equity
+description: Capital gearing measures how a company uses debt and equity to optimize
+  its risk profile and drive growth in your financial structure Discover more inside.
 ---
 
 

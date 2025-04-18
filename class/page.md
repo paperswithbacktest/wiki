@@ -1,6 +1,7 @@
 ---
-title: "Class (Machine Learning)"
-description: "Learn about classes in machine learning explore their role in supervised learning and classification algorithms understand class differences and evaluation metrics."
+title: Understanding Classes in Machine Learning Classification
+description: Machine learning classes define categories models use to classify data
+  based on features Discover how class handling boosts model accuracy Discover more
 ---
 
 ![Image](images/1.jpeg)

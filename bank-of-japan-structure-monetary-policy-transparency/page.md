@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bank of Japan Monetary Policy and Structure
-description: Bank of Japan structure and monetary policy are explained clearly to
-  show how it stabilizes prices and supports long-term growth Discover more inside
+title: Bank of Japan Governance Structure and Monetary Policy
+description: Bank of Japan sets interest rates and employs tools like quantitative
+  easing to maintain price stability and support growth Discover more inside
 ---
 
 

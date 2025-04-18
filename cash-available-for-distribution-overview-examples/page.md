@@ -1,6 +1,7 @@
 ---
-title: "Cash Available for Distribution: Overview and Examples"
-description: "Explore the key metric Cash Available for Distribution CAD essential for assessing REITs financial health and dividend potential with real-world examples and strategies"
+title: Understanding Cash Available for Distribution in REITs and MLPs
+description: Cash Available for Distribution explains how REITs and MLPs calculate
+  dividend cash to assess payout sustainability, inform decisions Discover more inside
 ---
 
 

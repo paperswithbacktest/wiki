@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Black Swan Events and Preparedness
-description: Black swan events deliver rare high impact disruptions reshaping economies
-  and societies. Understand how to build flexible strategies. Discover more inside
+title: Understanding Black Swan Events and Building Preparedness
+description: Black Swan Events highlight the importance of flexible planning learning
+  from past crises and using data analytics to anticipate risks Discover more inside
 ---
 
 

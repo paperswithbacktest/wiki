@@ -1,6 +1,7 @@
 ---
-title: "Cheapest to Deliver (CTD) Bond Calculation"
-description: "Learn about the 'Cheapest to Deliver' bond in futures trading and how algorithmic strategies enhance profitability by identifying cost-effective delivery options."
+title: Understanding the Cheapest to Deliver Bond in Futures Trading
+description: Cheapest to Deliver Bond analysis shows traders how to pick the most
+  cost effective bond for futures delivery and optimize strategies Discover more inside
 ---
 
 

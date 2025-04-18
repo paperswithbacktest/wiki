@@ -1,6 +1,7 @@
 ---
-title: "Cash Flow From Investing Activities"
-description: "Explore how investment activities and algorithmic trading impact cash flow dynamics providing insights into financial decision-making and strategy optimization."
+title: A Comprehensive Guide to Cash Flow From Investing Activities
+description: Cash flow from investing activities shows how companies allocate and
+  optimize funds for assets with examples and strategies Discover more inside.
 ---
 
 

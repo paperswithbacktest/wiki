@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Box-Jenkins Time Series Analysis
-description: Box-Jenkins analysis offers a step-by-step method to build ARIMA models
-  that enhance forecasting accuracy for time series data Discover more inside.
+title: Box-Jenkins Analysis for Reliable Time Series Forecasting
+description: Box-Jenkins Analysis offers a systematic ARIMA approach to build accurate
+  time series models to forecast trends and inform decisions Discover more inside.
 ---
 
 

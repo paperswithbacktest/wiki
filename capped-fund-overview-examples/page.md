@@ -1,6 +1,7 @@
 ---
-title: "Capped Fund: Overview and Examples"
-description: "Explore the integration of capped funds and algorithmic trading to optimize your investment strategy Enhance returns and manage risk using modern financial techniques"
+title: Understanding Capped Funds for Effective Investment Management
+description: Capped fund strategies keep your investments at a manageable size to
+  enhance returns and minimize risk through asset management Discover more inside
 ---
 
 

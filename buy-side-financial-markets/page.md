@@ -1,7 +1,7 @@
 ---
-title: Ultimate Buy-Side Insights for Financial Market Investors
-description: Buy side firms use rigorous research and diversify portfolios to grow
-  client assets while effectively managing risk and regulations Discover more inside
+title: Strategies and Key Roles of the Buy Side in Financial Markets
+description: Buy side firms drive strategic investment decisions through research
+  driven approaches and risk management to grow client assets. Discover more inside.
 ---
 
 

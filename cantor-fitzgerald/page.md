@@ -1,6 +1,7 @@
 ---
-title: "Cantor Fitzgerald"
-description: "Cantor Fitzgerald excels in financial services, offering advanced algorithmic trading solutions that enhance efficiency, precision, and customization for institutional clients."
+title: Cantor Fitzgerald History and Services Through Resilience
+description: Cantor Fitzgerald highlights its founding, financial services, 9/11 resilience,
+  global expansion and philanthropic efforts Discover more inside
 ---
 
 

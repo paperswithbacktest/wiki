@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Standard Error Calculation in MATLAB
-description: Standard error analysis in MATLAB shows how to calculate sample mean
-  accuracy using built in functions for reliable insights Discover more inside.
+title: Calculating Standard Error of the Mean With MATLAB Code
+description: Standard error in MATLAB shows how reliable your sample mean is Calculate
+  it with std and sqrt functions and visualize with error bars Discover more inside
 ---
 
 

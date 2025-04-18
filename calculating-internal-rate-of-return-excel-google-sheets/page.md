@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to IRR Calculation Using Excel and Sheets
-description: IRR analysis in Excel and Google Sheets offers clear steps to avoid errors
-  and optimize returns while comparing investments Discover more inside
+title: Comprehensive Guide To Internal Rate Of Return IRR Calculation
+description: Internal Rate of Return IRR guides you step by step through Excel and
+  Google Sheets calculations to assess investment performance Discover more inside.
 ---
 
 

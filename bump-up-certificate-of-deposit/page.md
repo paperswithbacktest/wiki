@@ -1,7 +1,7 @@
 ---
-title: Essential Bump-Up CDs for Maximizing Savings Flexibility
-description: Bump-Up CD offers interest rate boosts when bank yields rise giving better
-  returns than fixed CDs compare bump limits anytime and discover more inside.
+title: Comprehensive Guide to Bump-Up CD for Flexible Rate Savings
+description: Bump-Up CD lets you raise your interest rate when rates increase giving
+  your savings room to grow without opening a new CD Discover more inside.
 ---
 
 

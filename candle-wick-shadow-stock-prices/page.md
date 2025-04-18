@@ -1,6 +1,7 @@
 ---
-title: "Candle Wick and Shadow in Stock Prices"
-description: "Explore the role of candle wick analysis in algorithmic trading to enhance stock strategy precision and market performance with candlestick insights."
+title: Candlestick Wicks And Shadows In Stock Price Analysis
+description: Candlestick wicks reveal intraday price extremes and volatility so traders
+  can gauge sentiment set stop-loss and take-profit levels Explore inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Excel Variance Calculations and Analysis
-description: Excel variance helps you gauge data dispersion by walking you through
-  VAR.P VAR.S and manual formulas in a single guide Discover more inside.
+title: Complete Guide to Variance in Excel Using VAR.S and VAR.P
+description: Variance in Excel helps you measure data spread and make informed decisions
+  with VAR.P VAR.S functions formulas and advanced tips Discover more inside.
 ---
 
 

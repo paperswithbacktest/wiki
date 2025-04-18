@@ -1,7 +1,7 @@
 ---
-title: The Essential Bank of Canada Handbook for Economic Stability
-description: Bank of Canada manages money supply interest rates and foreign reserves
-  to stabilize the Canadian economy and guide policy decisions Discover more inside.
+title: Understanding the Bank of Canada Roles and Responsibilities
+description: Bank of Canada manages interest rates and money supply to control inflation
+  and to guide government policy for economic health Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital Goods Price Index"
-description: "The Capital Goods Price Index is essential for tracking fixed capital asset price changes in New Zealand, aiding economic assessments and algorithmic trading strategies."
+title: Navigating the Capital Goods Price Index for Business Investment
+description: Capital Goods Price Index helps businesses track machinery and equipment
+  price trends over time to optimize investment decisions Discover more inside.
 ---
 
 

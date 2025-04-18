@@ -1,7 +1,7 @@
 ---
-title: Ultimate Options Trading Guide For Professional Investors
-description: Options trading explains how call and put options work to manage risk
-  and amplify returns while minimizing capital outlay Discover more inside
+title: Guide To Options Trading Risks Strategies And Potential Rewards
+description: Options trading helps you profit from stock price moves protect your
+  investments manage risk and generate income using calls and puts Discover more inside.
 ---
 
 

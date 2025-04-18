@@ -1,7 +1,8 @@
 ---
-title: Essential Guide To Bank Reserves And Deposit Multiplier Dynamics
-description: Deposit multiplier explains how banks turn deposits into money supply
-  by managing reserves and lending to drive economic activity Discover more inside.
+title: Bank Reserves and the Deposit Multiplier in Modern Banking
+description: Bank reserves play a crucial role in banking stability and liquidity
+  while influencing lending capacity through the deposit multiplier Discover more
+  inside
 ---
 
 

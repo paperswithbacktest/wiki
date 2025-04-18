@@ -1,6 +1,7 @@
 ---
-title: "Cash Dividends and Stock Dividends"
-description: "Explore the key differences between cash and stock dividends in algorithmic trading. Understand their impact on strategies and optimize your investment returns."
+title: Comprehensive Guide to Cash and Stock Dividends Explained
+description: Cash and stock dividends explained to help investors grasp payout schedules
+  record dates tax implications and effects on statements Discover more inside.
 ---
 
 

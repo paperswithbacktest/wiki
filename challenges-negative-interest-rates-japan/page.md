@@ -1,6 +1,7 @@
 ---
-title: "Challenges of Negative Interest Rates in Japan"
-description: "Explore the complexities of Japan's negative interest rate policy and its effects on economic growth and financial markets, including algo trading implications."
+title: Negative Interest Rates in Japan Impact on Economy and Banking
+description: Negative interest rates in Japan push banks to charge for reserves and
+  drive lending to boost spending but squeeze savers Discover more inside
 ---
 
 

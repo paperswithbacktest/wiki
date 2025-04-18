@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bonus Issue of Shares for Investors
-description: Bonus issue of shares rewards investors with free stock from company
-  reserves while preserving total value and attracting new buyers Discover more inside.
+title: Bonus Issue Of Shares Explained Impact And Benefits
+description: Bonus issue of shares lets companies reward investors with extra stock
+  to boost appeal and maintain value while optimizing reserves. Discover more inside.
 ---
 
 

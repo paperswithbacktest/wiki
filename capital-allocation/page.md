@@ -1,6 +1,7 @@
 ---
-title: "Capital allocation"
-description: In the dynamic realm of algorithmic trading, effective capital allocation is crucial for managing risk and maximizing returns. This guide explores various capital allocation techniques that balance risk-reward, ensuring efficient use of resources. By examining methods like volatility scaling and risk parity, traders can tailor strategies to align with specific goals. Advanced techniques like the Kelly Criterion enhance capital efficiency, empowering traders to make informed decisions for sustainable performance. A strategic capital allocation plan not only amplifies potential profits but also protects against adverse market impacts, driving long-term success.
+title: Effective Capital Allocation Strategies for Sustainable Business Growth
+description: Capital allocation is key for businesses to invest wisely in equipment
+  expansion and R&D to boost long term value and profitability Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to the Bank Restriction Act of 1797
-description: The Bank Restriction Act of 1797 reshaped the monetary system in Britain
-  by halting gold exchanges and stabilizing wartime finances Discover more inside.
+title: Bank Restriction Act of 1797 and Its Economic Impact
+description: Bank Restriction Act of 1797 shaped the British money system by halting
+  gold exchanges to stabilize the economy during wartime. Discover more inside.
 ---
 
 

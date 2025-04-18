@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Autonomous Expenditure in Economic Models
-description: Autonomous expenditure underpins stability through government outlays
-  investments and consumption while driving economic growth. Discover more inside
+title: Understanding Autonomous Expenditure in Economic Growth
+description: Autonomous expenditure ensures stable economic demand with consistent
+  public services and business investment and job creation Discover more inside
 ---
 
 

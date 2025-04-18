@@ -1,6 +1,7 @@
 ---
-title: "Chance-constrained portfolio selection"
-description: "Explore chance-constrained portfolio selection as a sophisticated technique in algorithmic trading that enhances risk management and optimizes investments using probabilistic constraints."
+title: Chance-Constrained Portfolio Selection for Risk Management
+description: Chance-constrained portfolio selection applies probabilistic risk limits
+  to balance returns and protect capital under uncertainty. Discover more inside
 ---
 
 

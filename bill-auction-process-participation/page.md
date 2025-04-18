@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Treasury Bill Auctions for Investors
-description: Treasury Bill Auction outlines how to bid competitively or non-competitively
-  and offers strategies to optimize returns on T-bills Discover more inside.
+title: Comprehensive Treasury Bill Auction Process Explained
+description: Treasury bill auction unveils competitive and noncompetitive bidding
+  yield factors and market impact so you can bid with confidence Discover more inside
 ---
 
 

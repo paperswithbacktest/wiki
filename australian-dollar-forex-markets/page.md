@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to the Australian Dollar in Forex Markets
-description: Australian Dollar analysis reveals key drivers from RBA policy to commodity
-  prices and trading strategies in active markets Discover more inside.
+title: Comprehensive Guide to the Australian Dollar in Forex Markets
+description: Australian Dollar value is driven by economic health, commodity prices
+  and RBA policy in forex markets giving traders insights Discover more inside.
 ---
 
 

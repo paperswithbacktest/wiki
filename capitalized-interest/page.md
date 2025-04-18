@@ -1,6 +1,7 @@
 ---
-title: "Capitalized Interest"
-description: "Explore the intricate world of finance, focusing on capitalized interest and algorithmic trading, and learn their impact on financial planning and asset management."
+title: Understanding Capitalized Interest in Loans and Investments
+description: Capitalized interest impacts loan and investment growth by adding unpaid
+  interest to principal balances helping you plan smarter Discover more inside
 ---
 
 

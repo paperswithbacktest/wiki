@@ -1,7 +1,7 @@
 ---
-title: Essential Bruce Kovner Trading Strategies for Hedge Fund Success
-description: Bruce Kovner shares risk management and trend following strategies that
-  drive hedge fund success and consistent returns Discover more inside
+title: Bruce Kovner Trading Strategies And Risk Management Insights
+description: Bruce Kovner built Caxton Associates through trend following risk management
+  and trading to grow small capital into billions Discover more inside
 ---
 
 

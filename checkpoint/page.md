@@ -1,6 +1,7 @@
 ---
-title: "Checkpoint (Machine Learning)"
-description: "Discover how checkpoints save model progress during learning prevent data loss and track performance helping fine-tune machine learning models effectively"
+title: Checkpointing Strategies for Machine Learning Model Training
+description: Machine learning checkpoints save model states during training to prevent
+  progress loss and monitor performance effectively Discover more inside.
 ---
 
 ![Image](images/1.png)

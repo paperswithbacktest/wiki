@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bear Put Spread Options Trading Strategy
-description: Bear Put Spread limits risk and captures moderate price drops with defined
-  loss and profit potential using put option spreads Discover more inside.
+title: Bear Put Spread Options Strategy for Moderate Declines
+description: Bear Put Spread lets you limit risk and capitalize on moderate stock
+  declines with defined profit and loss parameters. Discover more inside.
 ---
 
 

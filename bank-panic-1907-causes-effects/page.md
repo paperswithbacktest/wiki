@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Understanding the Bank Panic of 1907
-description: Bank Panic of 1907 revealed the dangers of unchecked speculation and
-  lack of a central bank sparking reforms in financial regulation. Discover more inside.
+title: Bank Panic of 1907 Impact on Modern Financial Regulation
+description: Bank Panic of 1907 revealed gaps in the banking system and drove the
+  creation of the Federal Reserve to stabilize finance. Discover more inside
 ---
 
 

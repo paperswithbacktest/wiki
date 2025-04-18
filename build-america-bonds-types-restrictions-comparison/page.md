@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Build America Bonds Explained
-description: Build America Bonds offer taxable municipal financing with federal subsidies
-  that lower borrowing costs and broaden investor appeal. Discover more inside.
+title: Understanding Build America Bonds and Their Market Impact
+description: Build America Bonds subsidy structure helps state and local governments
+  cut borrowing costs while offering investors taxable yields. Discover more inside.
 ---
 
 

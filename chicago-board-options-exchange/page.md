@@ -1,6 +1,7 @@
 ---
-title: "Chicago Board Options Exchange"
-description: "Explore CBOE's role in modern trading with insights into its algorithmic strategies that enhance efficiency and innovation in financial markets."
+title: Chicago Board Options Exchange Explained For Investors
+description: Chicago Board Options Exchange offers global options trading since 1973
+  and volatility products to manage risk effectively Discover more inside.
 ---
 
 

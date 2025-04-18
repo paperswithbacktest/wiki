@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Consumer and B2B Buying Processes
-description: Consumer buying and business buying processes show unique drivers and
-  steps in clear detail to help you optimize purchasing decisions Discover more inside
+title: Understanding Consumer and Business Buying Behavior and Processes
+description: Consumer and Business Buying Behavior explains key differences and strategies
+  to make smart purchasing decisions across markets Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Covariance Matrix in Portfolio Management
+title: Understanding the Covariance Matrix in Portfolio Risk Management
 description: Covariance matrix reveals how assets move together and helps optimize
-  portfolio risk and returns with mean-variance analysis. Discover more inside.
+  portfolio risk by calculating variance and correlations Discover more inside.
 ---
 
 

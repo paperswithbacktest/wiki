@@ -1,6 +1,7 @@
 ---
-title: "The Capital Asset Pricing Model (CAPM)"
-description: Explore the transformative impact of algorithmic trading in finance with a focus on the advanced 'rm-rf finance' strategy. Discover how sophisticated algorithms and rigorous risk management can optimize trading performance across various markets including equities and cryptocurrencies. This insightful article examines the benefits and challenges of integrating these cutting-edge techniques offering traders enhanced speed efficiency and market analysis for improved financial outcomes.
+title: Understanding the Capital Asset Pricing Model for Investors
+description: Capital asset pricing model shows how to measure investment risk and
+  calculate expected returns using beta and risk free rate Discover more inside
 ---
 
 

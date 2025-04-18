@@ -1,6 +1,7 @@
 ---
-title: "Central Bank Digital Currency"
-description: "Explore the synergy between Central Bank Digital Currencies (CBDCs) and algorithmic trading Discover how CBDCs can enhance trading efficiency and market liquidity"
+title: Understanding Central Bank Digital Currency Adoption And Impact
+description: Central bank digital currency enables instant global payments and expands
+  financial access with strong security measures Discover more inside
 ---
 
 

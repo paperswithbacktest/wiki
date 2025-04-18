@@ -1,6 +1,7 @@
 ---
-title: "Capital Market Line and Its Calculation"
-description: "Explore the Capital Market Line for optimizing risk-return balance in portfolio management and algorithmic trading. Learn its calculation and significance in finance."
+title: Understanding the Capital Market Line for Efficient Portfolio Management
+description: Capital Market Line explains the trade-off between risk-free assets and
+  market portfolios to optimize returns and risk balance Discover more inside.
 ---
 
 

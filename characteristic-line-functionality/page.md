@@ -1,6 +1,7 @@
 ---
-title: "Characteristic Line and Its Functionality"
-description: "Explore the role of the characteristic line in investment analysis and algorithmic trading Discover insights into risk and return dynamics shaping modern strategies"
+title: Understanding The Characteristic Line In Investment Analysis
+description: Characteristic Line shows how a stock moves with market returns to help
+  you assess risk and performance for smarter portfolio choices Discover more inside.
 ---
 
 

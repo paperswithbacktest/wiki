@@ -1,7 +1,7 @@
 ---
-title: Proven Insights Into the Ben Felix Model Portfolio
-description: Ben Felix Model Portfolio offers a data driven approach with low cost
-  index funds to balance growth and risk and simplify investing Discover more inside.
+title: "Ben Felix Model Portfolio Balanced Low\u2011Cost Index Investing"
+description: Ben Felix Model Portfolio uses low cost index funds across stocks bonds
+  and real estate to grow savings with minimal risk Discover more inside.
 ---
 
 

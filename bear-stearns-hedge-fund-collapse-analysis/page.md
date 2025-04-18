@@ -1,7 +1,7 @@
 ---
-title: Ultimate Analysis Of The Bear Stearns Hedge Fund Collapse
-description: Bear Stearns hedge fund collapse revealed risk lessons in mortgage securities
-  and leverage that fueled the 2008 crisis. Discover more inside.
+title: Bear Stearns Hedge Fund Collapse and Its Financial Impact
+description: Bear Stearns hedge fund collapse shows how risky mortgage backed securities
+  and high leverage triggered wider market turmoil Discover more inside.
 ---
 
 

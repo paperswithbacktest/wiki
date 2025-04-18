@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Black Tuesday Stock Market Crash
-description: Black Tuesday reshaped the US economy in 1929 by triggering the Great
-  Depression and sparking lasting financial reforms. Discover more inside.
+title: Black Tuesday Stock Market Crash Explained and Its Impact
+description: Black Tuesday reveals how single market crash triggered the Great Depression
+  reshaped US financial regulations and forged safeguards Discover more inside.
 ---
 
 

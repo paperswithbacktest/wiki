@@ -1,6 +1,7 @@
 ---
-title: "Capital Gains Distribution and Taxation"
-description: "Explore capital gains distribution and taxation in algorithmic trading Learn how strategic planning can optimize tax efficiency and enhance investment returns"
+title: Comprehensive Guide To Capital Gains Taxation And Strategies
+description: Capital gains taxation explained to help you understand tax rates distributions
+  and optimize investments with tax planning Discover more inside
 ---
 
 

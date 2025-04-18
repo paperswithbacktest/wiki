@@ -1,7 +1,7 @@
 ---
-title: Ultimate Brazil ETFs Guide For Smart Portfolio Diversification
-description: Brazil ETFs offer flexible trading and low fees to diversify your portfolio
-  with Brazilian market exposure and manage risk. Discover more inside.
+title: 'Investing in Brazil ETFs: Diversify with Market-Focused Funds'
+description: Brazil ETFs provide diversified exposure to Brazils top companies with
+  lower fees and built-in risk management for global portfolios Discover more inside
 ---
 
 

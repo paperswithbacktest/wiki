@@ -1,7 +1,7 @@
 ---
-title: "Insider Insights On Best Buy\u2019s China Exit Strategy"
-description: Best Buy exit from China highlights the challenges of adapting to local
-  consumer behavior and competition in electronics retail Discover more inside.
+title: Best Buy Withdrawal From China Causes and Key Lessons
+description: Best Buy withdrawal from China highlights challenges in pricing and consumer
+  behavior while freeing resources for core markets Discover more inside.
 ---
 
 

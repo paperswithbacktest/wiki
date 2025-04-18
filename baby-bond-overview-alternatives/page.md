@@ -1,7 +1,7 @@
 ---
-title: Essential Baby Bond Guide For Equitable Wealth Building
-description: Baby Bonds provide every child with a government-funded savings account
-  to reduce inequality and build wealth by adulthood. Discover more inside.
+title: How Baby Bonds Provide Equal Opportunity for Newborns
+description: Baby Bonds give every newborn a government funded savings account that
+  grows to reduce inequality and boost buying power Discover more inside
 ---
 
 

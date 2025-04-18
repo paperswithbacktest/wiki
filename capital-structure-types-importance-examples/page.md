@@ -1,6 +1,7 @@
 ---
-title: "Capital Structure: Types, Importance, and Examples"
-description: "Explore capital structure and algorithmic trading in finance Learn how optimal funding and tech-driven strategies can boost business growth and competitive edge"
+title: Balancing Debt and Equity in Capital Structure Decisions
+description: Capital Structure defines how businesses mix debt and equity to optimize
+  growth and stability while managing risk and costs Discover more inside.
 ---
 
 

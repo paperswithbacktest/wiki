@@ -1,6 +1,7 @@
 ---
-title: "China A-Shares and B-Shares: History and Differences"
-description: "Explore the history and differences between China's A-Shares and B-Shares, and how algorithmic trading transforms investment strategies in these markets."
+title: China A-Shares Vs B-Shares Market Differences and Access
+description: China A-Shares and B-Shares offer unique paths to invest in the Chinese
+  economy with tailored access, liquidity and risk insights. Discover more inside.
 ---
 
 

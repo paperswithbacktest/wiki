@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Fixed-Coupon Corporate Bond Fundamentals
-description: Fixed-coupon corporate bond investing requires mastering coupon rates
-  yields duration and credit risk to make informed decisions Discover more inside.
+title: Valuation and Risk Assessment of Fixed Coupon Corporate Bonds
+description: Fixed coupon corporate bonds offer steady income and key insights on
+  yield duration and credit risk to guide investor decisions Discover more inside
 ---
 
 

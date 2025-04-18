@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Real Estate ROI Calculations and Metrics
-description: Real estate ROI shows how property profits compare to costs by including
-  rental income taxes and key metrics like Cap Rate Discover more inside
+title: Real Estate ROI Explained From Basics To Advanced Metrics
+description: Real Estate ROI measures property gains against total costs to reveal
+  true profitability with clear formulas and practical tips Discover more inside
 ---
 
 

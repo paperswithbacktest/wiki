@@ -1,6 +1,8 @@
 ---
-title: "Classical Growth Theory: Overview and Historical Context"
-description: "Explore Classical Growth Theory's historical context and its modern relevance in algo trading with insights from economists like Adam Smith and David Ricardo."
+title: Understanding Classical Growth Theory in Economic Development
+description: "Classical Growth Theory outlines how capital labor and land scarcity\
+  \ set limits on long\u2011term economic growth with historical context Discover\
+  \ more inside"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To John Bogle And The Index Fund Revolution
-description: John Bogle popularized low cost index funds to simplify investing and
-  boost long term growth while reducing fees and risks Discover more inside.
+title: John Bogle's Index Fund Strategy for Long Term Investing
+description: Index fund investing with John Bogle proven low cost strategies empowers
+  beginners and seasoned investors to build long term wealth Discover more inside
 ---
 
 

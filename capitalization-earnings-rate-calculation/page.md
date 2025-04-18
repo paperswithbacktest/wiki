@@ -1,6 +1,7 @@
 ---
-title: "Capitalization of Earnings and Rate Calculation"
-description: "Explore the capitalization of earnings method to assess a company's valuation and profitability by understanding future earnings and calculating the capitalization rate."
+title: Capitalization Of Earnings For Accurate Business Valuation
+description: Capitalization of earnings calculates a business value from annual profits
+  and cap rate so you can compare deals and invest Discover more inside
 ---
 
 

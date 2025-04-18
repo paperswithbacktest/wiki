@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Barchart Financial Data Platform and Services
-description: Barchart financial data platform provides real time market data news
-  charts and trading tools for informed investing decisions Discover more inside.
+title: Barchart.com Inc Market Data Tools And Trading Platform Features
+description: Barchart.com Inc delivers real-time market data charts and trading tools
+  with subscription plans and API access for smarter investing Discover more inside
 ---
 
 

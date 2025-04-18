@@ -1,6 +1,7 @@
 ---
-title: "Capital Rationing: Overview, Applications, and Types"
-description: "Optimize investment strategies by understanding capital rationing and algorithmic trading This synergy aids financial managers in making strategic choices for growth"
+title: Effective Capital Rationing Strategies for Corporate Finance
+description: Capital rationing helps businesses optimize investment under tight budgets
+  using NPV for smarter capital allocation Discover more inside today
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Calculating Expected Portfolio Return In Excel
-description: Expected portfolio return in Excel guides investors to forecast growth
-  with SUMPRODUCT GEOMEAN and risk metrics for informed decisions Discover more inside
+title: Mastering Expected Portfolio Return Calculations in Excel
+description: Expected portfolio return in Excel shows projected gains and risks by
+  weighting assets and applying SUMPRODUCT and dynamic formulas Discover more inside.
 ---
 
 

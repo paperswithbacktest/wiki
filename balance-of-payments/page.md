@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding Balance of Payments Dynamics
-description: Balance of Payments analysis shows how tracking exports, imports and
-  financial flows informs economic policy and stability. Discover more inside.
+title: Balance of Payments Guide to Components and Economic Impact
+description: Balance of Payments reveals how trade flows capital and reserves shape
+  national economic stability and informs policy decisions Discover more inside
 ---
 
 

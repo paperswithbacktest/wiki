@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Profit Margin Analysis in Financial Services
-description: Profit margin analysis helps financial services firms optimize costs
-  and maximize returns using proven strategies and benchmarks. Discover more inside.
+title: 'Profit Margins in Financial Services: Definitions and Benchmarks'
+description: Profit margins in financial services reveal how firms calculate and improve
+  earnings in banking, insurance and investment sectors Discover more inside
 ---
 
 

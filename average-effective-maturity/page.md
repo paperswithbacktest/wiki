@@ -1,7 +1,7 @@
 ---
-title: Ultimate Bond Portfolio Guide to Average Effective Maturity
-description: Average Effective Maturity helps investors assess bond risk and yield
-  by accounting for early payoffs and optimizing duration. Discover more inside.
+title: Understanding Average Effective Maturity for Bond Portfolios
+description: Average Effective Maturity reveals how long bond portfolios stay invested
+  and helps manage interest rate risk and yield. Discover more inside.
 ---
 
 

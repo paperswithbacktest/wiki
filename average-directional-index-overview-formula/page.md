@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to the Average Directional Index ADX Strength
-description: Average Directional Index ADX reveals trend strength without showing
-  direction and guides traders on when to enter or exit trades Discover more inside.
+title: Average Directional Index ADX Guide For Measuring Trend Strength
+description: "Average Directional Index measures trend strength with +DI & \u2212\
+  DI signals to time entries and exits while optimizing trading decisions Discover\
+  \ more inside"
 ---
 
 

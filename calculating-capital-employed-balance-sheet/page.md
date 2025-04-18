@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Capital Employed Calculation and Analysis
-description: Capital employed helps you measure how effectively a company uses its
-  funds to generate profits by applying key formulas and ratios Discover more inside
+title: Understanding Capital Employed Definition Methods and Application
+description: Capital employed shows how firms use investment and debt to generate
+  returns with simple formulas and balance sheet guidance Discover more inside
 ---
 
 

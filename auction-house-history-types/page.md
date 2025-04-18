@@ -1,7 +1,7 @@
 ---
-title: Ultimate Insight Into Auction House Operations and Roles
-description: Auction house operations overview shows how bidding works expert authentication
-  fees and roles streamline sales process seamlessly Discover more inside.
+title: Auction Houses Explained History Process And Key Roles
+description: Auction house operations cover bidding process history roles fees and
+  technology to help buyers and sellers make informed decisions Discover more inside.
 ---
 
 

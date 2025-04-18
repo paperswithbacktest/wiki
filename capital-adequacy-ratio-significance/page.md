@@ -1,6 +1,7 @@
 ---
-title: "Capital Adequacy Ratio Significance"
-description: "Explore the significance of the Capital Adequacy Ratio in banking stability and its interplay with algorithmic trading for a future-proof financial environment."
+title: Understanding Capital Adequacy Ratio and Banking Stability
+description: Capital Adequacy Ratio measures bank capital against risk weighted assets
+  to absorb losses, ensure stability and support lending Discover more inside
 ---
 
 

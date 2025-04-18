@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Banking Call Reports for Financial Compliance
-description: Banking call reports offer insights into assets liabilities and income
-  to strengthen regulatory compliance and risk oversight Discover more inside
+title: Bank Call Reports Explained Purpose Components And Filing Process
+description: Bank call reports help banks and regulators monitor financial health
+  through quarterly filings on assets liabilities compliance Discover more inside.
 ---
 
 

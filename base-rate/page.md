@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Base Rate Statistics for Smarter Decisions
-description: Base rate analysis reveals overall event frequencies to improve predictions
-  and reduce bias in medical and financial decisions Discover more inside
+title: Understanding Base Rate in Statistical Decision Making
+description: Base rate in statistics shapes smarter decision making by grounding predictions
+  and reducing bias when interpreting data Discover more inside.
 ---
 
 

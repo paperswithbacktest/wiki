@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Credit Sales Percentage
-description: Credit sales percentage helps firms see how much revenue relies on credit
-  and optimize policies to balance risk and growth. Discover more inside.
+title: Understanding Credit Sales Percentage for Firm Finance
+description: Credit sales percentage shows how much sales rely on credit and drives
+  actionable insights into risk management and cash flow Discover more inside
 ---
 
 

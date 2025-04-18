@@ -1,6 +1,7 @@
 ---
-title: "Capitalized Lease Method and Its Application"
-description: "Explore the intertwined realms of capital leases and algorithmic trading. Discover how they reshape financial strategies enhancing transparency and compliance."
+title: Capitalized Lease Accounting Explained for Financial Reporting
+description: Capitalized lease accounting shows how to record leased assets and liabilities
+  and calculate present value with depreciation. Discover more inside
 ---
 
 

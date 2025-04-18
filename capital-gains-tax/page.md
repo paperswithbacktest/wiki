@@ -1,6 +1,7 @@
 ---
-title: "Capital Gains Tax"
-description: "Explore the intricate relationship between capital gains tax and algorithmic trading to optimize your investment strategy. This page investigates into how frequent trades inherent in algorithmic trading can affect capital gains tax, offering insights into minimizing tax liabilities while maximizing financial outcomes. Learn about tax-loss harvesting, the advantages of long-term investment holdings, and utilizing tax-advantaged accounts, all within the context of modern automated trading systems. Empower your investment decisions with informed strategies aligning with tax efficiency and financial goals."
+title: Understanding Capital Gains Tax and How It Affects Investments
+description: Capital gains tax explained clearly to help investors calculate profit
+  tax liabilities with long term rates for smarter decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Causes and Impact of Supply Shocks"
-description: "Explore the significant impacts of supply shocks on market dynamics in an interconnected global economy. Understand the consequences of positive and negative supply shocks and their effects on economic growth and inflation. Gain insights into the importance of informed decision-making for investors and policymakers, and discover how market dynamics and algorithmic trading can efficiently manage risks and stabilize markets amidst these disruptions."
+title: Understanding Supply Shocks and Their Effect on the Economy
+description: Supply shocks redefine product availability driving price shifts inflation
+  and trade Explore practical responses for decision makers Discover more inside.
 ---
 
 

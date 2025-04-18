@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Oil and Gas Industry Entry Barriers
-description: Barriers to entry in the oil and gas industry include high capital costs
-  strict regulations technology gaps and dominance by big firms Discover more inside
+title: Major Barriers to Entry in the Oil and Gas Industry
+description: Barriers to entry in oil and gas industry impose steep capital costs
+  strict regulations and tech hurdles and guide new entrants Discover more inside
 ---
 
 

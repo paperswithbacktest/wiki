@@ -1,7 +1,8 @@
 ---
-title: Essential Insights Into Black Wednesday Pound Collapse
-description: Black Wednesday revealed how currency speculation and UK policy missteps
-  reshaped the economy and set new fiscal directions. Discover more inside.
+title: 'Black Wednesday: How Soros Broke the Bank of England'
+description: Black Wednesday exposed flawed ERM rules and currency speculation as
+  Soros forced a pound devaluation Uncover key lessons and insights Discover more
+  inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Goodwill Valuation and Calculation Methods
-description: Goodwill Valuation shows how to measure intangible reputation of a company
-  and calculate its worth with proven methods and clear steps Discover more inside
+title: Understanding Goodwill Valuation Methods and Key Considerations
+description: Goodwill valuation covers key methods from excess earnings to IFRS standards
+  while clarifying tax and impairment impacts Discover more inside
 ---
 
 

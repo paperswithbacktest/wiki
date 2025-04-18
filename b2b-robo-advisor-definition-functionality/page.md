@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to B2B Robo-Advisors for Financial Institutions
-description: B2B Robo-Advisor streamlines financial management for institutions by
-  automating investments and compliance processes efficiently Discover more inside
+title: B2B Robo-Advisors Guide for Business Financial Management
+description: B2B Robo-Advisor solutions streamline business investments and integrate
+  with existing systems to cut costs and boost efficiency Discover more inside
 ---
 
 

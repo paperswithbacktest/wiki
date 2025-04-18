@@ -1,8 +1,7 @@
 ---
-title: Essential Guide to the Black Friday Stock Market Crash
-description: "Black Friday Stock Market Crash shows how Gould and Fisk\u2019s 1869\
-  \ gold plot sparked a market crash and led to lasting financial rules. Discover\
-  \ more inside."
+title: Black Friday Stock Market Crash of 1869 Gold Market Failure
+description: Black Friday Stock Market Crash shows Jay Gould and Jim Fisk gold corner
+  sparked a historic collapse that shook the economy Discover more inside
 ---
 
 

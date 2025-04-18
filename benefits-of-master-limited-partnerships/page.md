@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Master Limited Partnerships for Investors
-description: Master Limited Partnerships offer tax efficient income and distributions
-  by passing earnings to unitholders avoiding double taxation Discover more inside
+title: Master Limited Partnerships Structure and Tax Advantages
+description: Master Limited Partnerships deliver tax efficient pass through income
+  and steady distributions for energy investors Discover more inside today
 ---
 
 

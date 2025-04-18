@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Binomial Tree Model for Option Pricing
-description: Binomial Tree Model simplifies option pricing by mapping price paths
-  and evaluating American options with risk-neutral valuation Discover more inside.
+title: Understanding The Binomial Tree Model For Option Pricing
+description: Binomial tree model maps up and down price movements step by step to
+  calculate option values with risk neutral probabilities Discover more inside.
 ---
 
 

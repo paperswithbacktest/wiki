@@ -1,6 +1,7 @@
 ---
-title: "Centralized Market"
-description: "Explore the dynamics of centralized markets with algorithmic trading transforming structures enhancing efficiency and posing new challenges in the financial realm"
+title: Centralized Market Structure Benefits Risks and Considerations
+description: Centralized market combines trading regulation and technology under one
+  roof to ensure fairness and efficiency while balancing risks Discover more inside
 ---
 
 

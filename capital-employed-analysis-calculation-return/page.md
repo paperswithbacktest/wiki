@@ -1,6 +1,7 @@
 ---
-title: "Capital Employed: Analysis, Calculation, and Return Assessment"
-description: "Discover the fundamentals of capital employed, a vital metric in assessing a company's financial health, and learn how it integrates with ROI to enhance investment strategies. Explore its components, calculations, and role in financial analysis and algorithmic trading to develop informed and strategic decisions in the ever-evolving financial landscape."
+title: Comprehensive Guide to Capital Employed and Business Efficiency
+description: Capital employed measures the total funds a company uses to generate
+  profits and assess efficiency in resource allocation Discover more inside.
 ---
 
 

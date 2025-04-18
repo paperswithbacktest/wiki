@@ -1,7 +1,7 @@
 ---
-title: Essential Excel Guide to Calculating Return on Equity
-description: Return on Equity in Excel helps you calculate profitability with simple
-  formulas data setup and automation while avoiding errors Discover more inside
+title: Return On Equity Explained And Calculated In Excel
+description: Return on Equity in Excel gives step by step formula setup and dashboard
+  tools to enable actionable profitability analysis. Discover more inside
 ---
 
 

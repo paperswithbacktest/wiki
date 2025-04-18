@@ -1,7 +1,7 @@
 ---
-title: Essential BLEURT Evaluation for Machine Translation Quality
-description: BLEURT evaluates machine translations by analyzing meaning and style
-  beyond word matching for accurate scores and actionable insights Discover more inside.
+title: Understanding BLEURT for Accurate Machine Translation Evaluation
+description: BLEURT delivers precise machine translation quality scores by capturing
+  subtle semantic differences with BERT based evaluations Discover more inside.
 ---
 
 ![Image](images/1.png)

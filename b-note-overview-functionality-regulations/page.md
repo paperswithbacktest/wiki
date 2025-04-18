@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To B-Note Financing In Commercial Real Estate
-description: B-Note financing bridges funding gaps in commercial real estate by offering
-  higher yields with secondary loans and diligent analysis Discover more inside
+title: Understanding B-Notes In Commercial Real Estate Financing
+description: B-Note investment lets lenders earn higher yields on secondary commercial
+  real estate debt while managing subordination risk Discover more inside.
 ---
 
 

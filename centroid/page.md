@@ -1,6 +1,7 @@
 ---
-title: "Centroid (Machine Learning)"
-description: "Discover the role of centroids in machine learning clustering algorithms Learn how centroids guide k-means clustering to organize data into meaningful groups"
+title: Understanding Centroids in Machine Learning Clustering Algorithms
+description: Centroid in machine learning simplifies data grouping by showing how
+  k-means and related algorithms find cluster centers step by step Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

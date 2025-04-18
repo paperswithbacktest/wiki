@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Portfolio Profit and Loss Calculation
-description: Portfolio profit and loss analysis helps you calculate returns manage
-  risks and integrate metrics like Sharpe Ratio and tax effects Discover more inside.
+title: Portfolio Profit And Loss Calculation Explained For Investors
+description: Portfolio profit and loss analysis empowers investors to calculate net
+  returns, account for fees, taxes, and risk measures Discover more inside.
 ---
 
 

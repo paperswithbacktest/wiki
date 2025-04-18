@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To Barrel Of Oil Equivalent Energy Conversion
-description: Barrel Of Oil Equivalent simplifies energy source comparison by translating
-  fuels into a common unit for smarter resource planning Discover more inside
+title: Understanding Barrel Of Oil Equivalent As A Standard Energy Unit
+description: Barrel of Oil Equivalent sets a standard for comparing oil natural gas
+  and coal energy allowing informed planning and policy decisions Discover more inside
 ---
 
 

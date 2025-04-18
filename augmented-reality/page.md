@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Augmented Reality With Machine Learning
-description: Augmented Reality and machine learning deliver interactive experiences
-  that recognize objects and personalize content instantly. Discover more inside.
+title: Enhancing Augmented Reality With Machine Learning Techniques
+description: Augmented Reality powered by machine learning delivers real time object
+  recognition mapping and immersive personalization Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

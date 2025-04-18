@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Australian Bureau of Statistics
-description: Australian Bureau of Statistics explores how reliable census and economic
-  data inform government policies and business decisions Discover more inside.
+title: Understanding the Australian Bureau of Statistics and Its Impact
+description: Australian Bureau of Statistics delivers data on population economy and
+  social trends to support informed decisions by government Discover more inside.
 ---
 
 

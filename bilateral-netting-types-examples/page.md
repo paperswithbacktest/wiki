@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bilateral Netting for Financial Stability
-description: Bilateral netting offsets mutual obligations to cut payment volume and
-  lower credit risk while enhancing liquidity and stability. Discover more inside.
+title: Understanding Bilateral Netting in Financial Transactions
+description: Bilateral netting streamlines financial obligations by offsetting mutual
+  payments to minimize risk and transaction costs Discover more inside.
 ---
 
 

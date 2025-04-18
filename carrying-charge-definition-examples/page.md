@@ -1,6 +1,7 @@
 ---
-title: "Carrying Charge: Definition and Examples"
-description: "Explore the essential role of carrying charges in finance and algorithmic trading Learn cost management strategies to maximize returns and optimize investments"
+title: Understanding Carrying Charges and Their Impact on Investments
+description: Carrying charges are fees for holding assets over time including interest
+  storage and insurance Learn strategies to reduce costs Discover more inside
 ---
 
 

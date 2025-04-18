@@ -1,7 +1,7 @@
 ---
-title: Essential Insights on Attachment Theory for Healthy Relationships
-description: Attachment Theory explains how early caregiver bonds shape adult relationships
-  and mental health, helping you build healthier connections Discover more
+title: Attachment Theory Explained for Healthier Adult Relationships
+description: Attachment Theory shows how early caregiver bonds shape your attachment
+  style and influence adult relationships and mental health Discover more inside
 ---
 
 

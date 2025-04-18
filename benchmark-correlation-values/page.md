@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding Correlation Values and Analysis
-description: Correlation values reveal the strength and direction of relationships
-  in your data to improve insights and guide decision making. Discover more inside.
+title: Comprehensive Guide to Correlation Values in Data Analysis
+description: Correlation values reveal how variables interact in datasets and guide
+  data driven insights using Pearson Spearman and Kendall methods Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Tier 1 Capital Ratio for Bank Stability
-description: Tier 1 Capital Ratio shows banks how to measure core equity against risk
-  weighted assets to maintain stability and guide decisions Discover more inside.
+title: Tier 1 Capital Ratio Explained for Banking Stability
+description: Tier 1 Capital Ratio shows banks how much core capital they need to absorb
+  losses and stay solvent; regulators use it to gauge safety Discover more inside.
 ---
 
 

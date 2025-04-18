@@ -1,6 +1,7 @@
 ---
-title: "Case-Shiller U.S. National Home Price Index"
-description: "Explore the Case-Shiller U.S. National Home Price Index, a vital tool for understanding housing market trends and enhancing algorithmic trading strategies."
+title: Understanding the Case-Shiller Home Price Index Methodology
+description: Case-Shiller Home Price Index tracks monthly US home price changes using
+  a weighted repeat sales method to inform market decisions Discover more inside.
 ---
 
 

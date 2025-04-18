@@ -1,6 +1,7 @@
 ---
-title: "Circle Inc. (Financial Services)"
-description: "Circle Inc. stands at the forefront of digital finance, leveraging blockchain and algorithmic trading to deliver innovative financial solutions for businesses."
+title: Circle Inc USDC Stablecoin for Global Digital Payments
+description: Circle Inc simplifies global payments with USDC stablecoin delivering
+  fast secure transfers low fees and interest earning options Discover more inside.
 ---
 
 

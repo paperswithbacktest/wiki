@@ -1,6 +1,7 @@
 ---
-title: "Cash Flow Return on Investment"
-description: "Explore how Cash Flow Return on Investment (CFROI) enhances algorithmic trading by offering a precise financial metric focused on cash flow, bolstering investment decisions."
+title: Cash Flow Return on Investment CFROI Explained for Investors
+description: CFROI reveals how effectively a company turns investments into cash flow
+  while adjusting for costs for informed investment decisions Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Bill of Lading Types and Uses
-description: Bill of Lading simplifies shipping by defining receipt, contract, and
-  title transfers across various types and digital formats Discover more inside
+title: Comprehensive Guide to Bill of Lading Types and Functions
+description: Bill of Lading outlines purpose types legal roles and eBL processes to
+  enhance visibility and ownership transfer in shipping Discover more inside.
 ---
 
 

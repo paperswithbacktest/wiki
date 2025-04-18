@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To Bayesian Networks For Probabilistic Inference
-description: Bayesian Networks map variable dependencies to efficiently support probabilistic
-  inference and drive confident decision making Discover more inside.
+title: Comprehensive Guide to Bayesian Networks and Their Applications
+description: Bayesian Networks provide a clear framework to model probabilistic relationships
+  across variables and improve decision making. Discover more inside.
 ---
 
 

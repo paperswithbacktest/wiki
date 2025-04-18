@@ -1,6 +1,7 @@
 ---
-title: "Capital Fund Management"
-description: Discover Capital Fund Management (CFM), a leader in global asset management renowned for its innovative algorithmic trading and quantitative strategies. Established in 1991, CFM leverages scientific methods to drive financial decisions, managing approximately $15 billion in assets from its Paris headquarters. This article investigates into CFM's history, unique methodology, and collaborations with academic institutions, highlighting its data-driven trading approach and commitment to quantitative finance. Explore CFM's evolution, leadership, and pioneering role in transforming the landscape of asset management through cutting-edge research and systematic strategies.
+title: Capital Fund Management Quantitative Investment Strategies
+description: Capital Fund Management applies advanced quantitative models to optimize
+  investments and control risk for clients with global reach Discover more inside
 ---
 
 

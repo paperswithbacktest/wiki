@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Leverage and the Kelly Criterion in Investing
-description: Kelly Criterion and leverage strategies help investors optimize borrowed
-  capital growth while minimizing risk in volatile markets Discover more inside
+title: Managing Investment Leverage with the Kelly Criterion
+description: Kelly Criterion helps investors determine optimal leverage to grow capital
+  responsibly with reduced risk exposure and balanced returns Discover more inside
 ---
 
 

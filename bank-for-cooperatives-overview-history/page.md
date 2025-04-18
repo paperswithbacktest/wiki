@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Banks for Cooperatives and Their Impact
-description: Banks for Cooperatives offer farmers affordable loans expert financial
-  guidance to drive sustainable growth in rural communities Discover more inside
+title: 'Banks for Cooperatives: Affordable Credit for Farming Success'
+description: Banks for Cooperatives support farmers with affordable credit and expert
+  guidance to invest in growth and rural resilience Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Batch Size for Machine Learning Training
-description: Batch size shapes model training speed, stability and generalization
-  we guide you to select the right size for your data and hardware Discover more inside
+title: Choosing Optimal Batch Size for Efficient Machine Learning
+description: Batch size affects training speed stability and generalization in machine
+  learning Optimize batch size to improve model performance Discover more inside
 ---
 
 ![Image](images/1.png)

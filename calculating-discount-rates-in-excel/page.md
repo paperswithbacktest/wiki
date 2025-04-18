@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Discount Rate in Excel
-description: Discount rate in Excel simplifies present value calculation using RATE
-  NPV IRR XNPV and XIRR for accurate investment analysis Discover more inside
+title: Calculating Discount Rate in Excel for Financial Analysis
+description: Discount rate in Excel guides you through key functions to value cash
+  flows and assess investment risks Step by step instructions Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Proven Behavioral Finance Strategies for Smarter Investing
-description: Behavioral finance shows how emotions and biases affect your money choices,
-  offering tactics to avoid mistakes and boost returns Discover more inside.
+title: Behavioral Finance Insights for Smarter Financial Decisions
+description: Behavioral finance reveals how emotions and biases shape money decisions
+  and offers strategies to make more rational choices. Discover more inside.
 ---
 
 

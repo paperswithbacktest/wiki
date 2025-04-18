@@ -1,7 +1,7 @@
 ---
-title: Essential Augmented Dickey-Fuller Test Guide for Pairs Trading
-description: Augmented Dickey-Fuller Test confirms spread stationarity in pairs trading
-  to boost model reliability and mean reversion signals Discover more inside
+title: Applying the Augmented Dickey-Fuller Test in Pairs Trading
+description: Augmented Dickey-Fuller Test shows when stock pairs revert to their mean
+  offering actionable signals for pairs trading Discover more inside.
 ---
 
 

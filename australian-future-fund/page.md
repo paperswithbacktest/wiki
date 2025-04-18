@@ -1,7 +1,7 @@
 ---
-title: Insider Insights Into Australian Future Fund Investments
-description: Australian Future Fund explains how diversified investments grow to secure
-  public servants pensions and boost the economy Discover more inside
+title: Understanding the Australian Future Fund's Role and Management
+description: Australian Future Fund secures public servant pensions with diversified
+  stock bond real estate investments ensuring growth Discover more inside.
 ---
 
 

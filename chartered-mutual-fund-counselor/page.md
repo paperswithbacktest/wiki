@@ -1,6 +1,7 @@
 ---
-title: "Chartered Mutual Fund Counselor"
-description: "Discover the enduring value of the Chartered Mutual Fund Counselor certification and its impact on mutual fund advisory through algorithmic trading strategies."
+title: Chartered Mutual Fund Counselor Certification Guide
+description: Chartered Mutual Fund Counselor certification guides you through program
+  requirements exam prep costs timelines and career benefits Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital Expenditure Budgeting for Companies"
-description: "Explore the link between capital expenditure budgeting and algorithmic trading to enhance company growth enhance efficiency and stay competitive in evolving markets."
+title: Effective Capital Expenditure Budgeting for Sustainable Growth
+description: Capital expenditure budgeting ensures ROI projections cost control timelines
+  and aligns investments with strategic growth Discover more inside
 ---
 
 

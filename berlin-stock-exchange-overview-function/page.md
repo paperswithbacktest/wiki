@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Berlin Stock Exchange for Investors
-description: Berlin Stock Exchange supports small and medium companies by connecting
-  investors to diverse securities in a regulated market Discover more inside.
+title: Berlin Stock Exchange Overview and Its Role in German Economy
+description: Berlin Stock Exchange empowers SMEs with diverse securities trading including
+  stocks bonds and ETFs in a secure environment Discover more inside.
 ---
 
 

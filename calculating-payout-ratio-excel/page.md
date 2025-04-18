@@ -1,7 +1,7 @@
 ---
-title: Essential Excel Guide to Mastering Payout Ratio Calculations
-description: Payout Ratio in Excel lets investors calculate and visualize dividend
-  distributions quickly using formulas and conditional formatting Discover more inside.
+title: Comprehensive Guide To Calculating Payout Ratio In Excel
+description: Payout ratio in Excel helps you see how much earnings go to dividends
+  versus growth reinvestment with clear formulas and formatting Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To The Bond Buyer For Municipal Bond Investors
-description: The Bond Buyer provides daily municipal bond market news data and analysis
-  so investors and advisors can make informed decisions Discover more inside
+title: The Bond Buyer Daily Guide To Municipal Bond Market News
+description: The Bond Buyer offers daily municipal bond news data and legal notices
+  to help investors and officials make informed decisions Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Bankrate Monitor Index Insights for Smart Banking
-description: Bankrate Monitor Index tracks weekly bank interest rates on savings CDs
-  and loans to help you optimize saving and borrowing decisions Discover more inside
+title: Understanding The Bankrate Monitor Index For Banking Decisions
+description: Bankrate Monitor Index delivers weekly insight into bank interest trends
+  for savings CDs and loans so you can optimize decisions Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bitcoin Cash Hard Fork Explained
-description: Bitcoin Cash Hard Fork shows how increasing block size speeds up transactions
-  and cuts fees while influencing market dynamics Discover more inside.
+title: Bitcoin Cash Hard Fork Explained From Concept To Impact
+description: Bitcoin Cash Hard Fork explains why and how BCH split from Bitcoin to
+  boost transaction speed and lower fees for everyday transfers Discover more inside.
 ---
 
 

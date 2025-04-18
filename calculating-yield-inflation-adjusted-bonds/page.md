@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Inflation-Adjusted Bond Yield Calculations
-description: Inflation-adjusted bond yield calculations show you real returns after
-  inflation and help you compare investments effectively Discover more inside
+title: Guide To Calculating Real Yield Of Inflation-Adjusted Bonds
+description: Inflation-adjusted bonds yield calculation shows investors how to secure
+  real returns after inflation using clear formulas Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Automatic Investment Plan Benefits
-description: Automatic Investment Plan simplifies regular investing with dollar cost
-  averaging and customizable options to build long term wealth. Discover more inside.
+title: Understanding Automatic Investment Plans For Consistent Savings
+description: Automatic Investment Plan automates regular investments into funds to
+  harness dollar cost averaging and build long term savings Discover more inside
 ---
 
 

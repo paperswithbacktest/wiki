@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to Trading on Boston Options Exchange
-description: Boston Options Exchange uses Price Improvement Period technology to secure
-  better options prices and faster executions Discover more inside today
+title: Boston Options Exchange Technology Features and Trading Guide
+description: Boston Options Exchange leverages Price Improvement Period and advanced
+  systems to streamline options trading and secure better prices Discover more inside
 ---
 
 

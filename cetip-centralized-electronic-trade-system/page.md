@@ -1,6 +1,7 @@
 ---
-title: "Cetip - Centralized Electronic Trade System"
-description: "Explore the dynamics of Brazil's financial market through Cetip and B3. Discover how centralized electronic systems and algo trading enhance efficiency and security."
+title: Cetip Electronic Trading Platform For Brazilian Securities
+description: Cetip electronic trading platform secures asset registry and speeds bond
+  and debenture trading in Brazil while preventing fraud Discover more inside
 ---
 
 

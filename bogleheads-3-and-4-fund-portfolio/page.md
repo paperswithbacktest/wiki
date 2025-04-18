@@ -1,7 +1,7 @@
 ---
-title: Essential Bogleheads Portfolio Guide for 3 and 4 Fund Investing
-description: Bogleheads portfolio strategies help you build a low-cost diversified
-  investment plan balancing stocks bonds and real estate Discover more inside
+title: "Building a Bogleheads Portfolio With 3 and 4 Low\u2011Cost Funds"
+description: "Bogleheads portfolio strategies show how to diversify across low\u2011\
+  cost index funds for long\u2011term growth and minimal fees Discover more inside"
 ---
 
 

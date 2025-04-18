@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Book Value Per Common Share Calculation
-description: Book Value Per Common Share measures a companys net assets per share
-  and helps investors gauge stock undervaluation and health Discover more inside
+title: Book Value Per Common Share Explained for Informed Investors
+description: Book Value Per Common Share shows net assets minus liabilities divided
+  by shares outstanding to help spot undervalued stocks Discover more inside.
 ---
 
 

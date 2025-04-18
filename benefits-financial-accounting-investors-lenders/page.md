@@ -1,7 +1,7 @@
 ---
-title: Essential Financial Accounting Insights for Investors and Lenders
-description: Financial accounting provides transparent statements to help investors
-  and lenders assess profitability liquidity and solvency Discover more inside
+title: Financial Accounting for Investment and Lending Decisions
+description: Financial accounting offers insight into profitability liquidity and
+  solvency to guide smart investing and lending decisions Discover more inside.
 ---
 
 

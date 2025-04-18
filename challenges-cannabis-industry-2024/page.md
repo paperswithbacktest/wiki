@@ -1,6 +1,7 @@
 ---
-title: "Challenges Facing the Cannabis Industry in 2024"
-description: "Explore the challenges facing the cannabis industry in 2024 including algorithmic trading solutions and regulatory constraints, essential to sector growth."
+title: Cannabis Industry Challenges and Global Legalization Trends
+description: Cannabis industry navigates legal frameworks market shifts and banking
+  barriers leveraging tech innovation to overcome challenges Discover more inside
 ---
 
 

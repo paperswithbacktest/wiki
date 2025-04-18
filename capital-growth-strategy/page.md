@@ -1,6 +1,7 @@
 ---
-title: "Capital Growth Strategy"
-description: "Discover effective capital growth strategies through algorithmic trading to optimize investment performance and achieve long-term financial goals with confidence."
+title: Capital Growth Strategy Fundamentals for Long-Term Wealth
+description: Capital growth strategy helps investors build long-term wealth through
+  smart diversification risk management and performance metrics. Discover more inside.
 ---
 
 

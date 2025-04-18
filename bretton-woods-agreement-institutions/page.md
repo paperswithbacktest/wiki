@@ -1,7 +1,7 @@
 ---
-title: Ultimate Bretton Woods Agreement Guide for Global Stability
-description: Bretton Woods Agreement created the IMF and World Bank to stabilize economies
-  and promote global development Discover more inside
+title: Bretton Woods Agreement Origins and Impact on Global Economy
+description: Bretton Woods Agreement anchored currencies to the dollar and created
+  IMF and World Bank to help stabilize global economies Discover more inside
 ---
 
 

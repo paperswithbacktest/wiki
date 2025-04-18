@@ -1,7 +1,7 @@
 ---
-title: Proven Share Repurchase Tactics to Boost Shareholder Value
-description: Share repurchase can boost shareholder value and earnings per share while
-  signaling management confidence in future growth. Discover more inside.
+title: Share Repurchase Strategies and Impact on Shareholder Value
+description: Share repurchase programs boost shareholder value by cutting outstanding
+  shares optimizing capital structure and signaling confidence Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Benchmark Crude Oils Guide for Brent WTI and Dubai
-description: Benchmark Oils guide explains how WTI Brent and Dubai crude set prices
-  through quality and supply factors and futures trading Discover more inside
+title: Benchmark Crude Oils Explained Brent WTI and Dubai
+description: Benchmark oils overview shows how Brent WTI and Dubai crudes influence
+  global markets through pricing factors and trading mechanisms Discover more inside.
 ---
 
 

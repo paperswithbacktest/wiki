@@ -1,7 +1,7 @@
 ---
-title: Ultimate Beneish Model Guide for Detecting Earnings Manipulation
-description: Beneish Model uses eight financial ratios to uncover earnings manipulation
-  risks and guide investors toward smarter decisions. Discover more inside.
+title: Using the Beneish Model to Detect Earnings Manipulation
+description: The Beneish Model analyzes eight financial ratios to flag earnings manipulation
+  risks and guide smarter investment decisions Discover more inside
 ---
 
 

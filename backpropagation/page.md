@@ -1,7 +1,8 @@
 ---
-title: Essential Backpropagation Guide for Training Neural Networks
-description: Backpropagation drives neural network learning by adjusting weights through
-  gradient descent and chain rule for improved accuracy Discover more inside.
+title: Understanding Backpropagation in Neural Network Training
+description: Backpropagation explains how neural networks learn by adjusting connection
+  weights based on error gradients using calculus and learning rate tuning Discover
+  more inside
 ---
 
 ![Image](images/1.png)

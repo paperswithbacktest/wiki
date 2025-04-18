@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Machine Learning Attribute Engineering
-description: Machine learning attributes define key data features and impact model
-  accuracy by guiding selection, scaling, and encoding. Discover more inside.
+title: Understanding Attributes in Machine Learning Models
+description: Attributes in Machine Learning define key data characteristics that shape
+  model performance from selection to scaling and embedding. Discover more inside.
 ---
 
 ![Image](images/1.png)

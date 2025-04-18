@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Bloomberg Services And The Bloomberg Terminal
-description: "Bloomberg Terminal delivers real\u2011time financial data news and analytics\
-  \ to help finance pros make smarter investment decisions Discover more inside"
+title: Understanding Bloomberg Terminal And Its Financial Services
+description: Bloomberg Terminal delivers real-time market data tools and news to help
+  finance professionals make informed investment decisions Discover more inside.
 ---
 
 

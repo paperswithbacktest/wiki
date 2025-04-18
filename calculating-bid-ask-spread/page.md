@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding the Bid-Ask Spread
-description: Bid-Ask Spread determines trading costs and liquidity by showing the
-  price gap buyers and sellers accept so you optimize your trades. Discover more inside.
+title: Understanding the Bid-Ask Spread in Stock Trading Markets
+description: Bid-Ask spread impacts trading costs and liquidity Calculate the spread
+  identify key factors and apply cost saving strategies Discover more inside.
 ---
 
 

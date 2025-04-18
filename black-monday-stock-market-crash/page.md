@@ -1,7 +1,7 @@
 ---
-title: Insider Insights Into the Black Monday Stock Market Crash
-description: Black Monday sent global markets reeling in 1987 and led to reforms like
-  circuit breakers and algorithmic trading limits Discover more inside
+title: Black Monday Stock Market Crash History and Key Lessons
+description: Black Monday revealed how program trading intensified a global market
+  crash and transformed financial safeguards in trading systems Discover more inside.
 ---
 
 

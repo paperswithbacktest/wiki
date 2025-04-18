@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to BMA Swap Mechanics and Market Insights
-description: BMA Swap hedges municipal bond interest rate exposure with fixed and
-  floating payouts boosting budgeting predictability Discover more inside
+title: Understanding BMA Swaps for Municipal Bond Interest Management
+description: BMA swap helps municipalities and investors hedge interest rate risk
+  on tax exempt bonds while locking in cash flow stability Discover more inside
 ---
 
 

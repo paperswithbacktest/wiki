@@ -1,7 +1,7 @@
 ---
-title: Ultimate Avalanche Blockchain Platform for Fast Scalable dApps
-description: Avalanche blockchain offers speed, scalability and low fees for developers
-  to launch custom dApps efficiently and sustainably Discover more inside.
+title: Avalanche AVAX Blockchain Platform Features And Benefits
+description: Avalanche delivers fast scalable blockchain solutions with unique consensus
+  and custom subnets for efficient dApp development Discover more inside
 ---
 
 

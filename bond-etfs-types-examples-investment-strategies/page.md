@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bond ETFs for Diversified Portfolios
-description: Bond ETFs simplify fixed income investing by pooling diverse bonds to
-  deliver steady income, risk management, and low costs Discover more inside
+title: Complete Guide to Bond ETFs for Steady Income and Diversification
+description: Bond ETFs simplify investing by pooling diverse bonds for low cost liquidity,
+  regular income and portfolio diversification Discover more inside.
 ---
 
 

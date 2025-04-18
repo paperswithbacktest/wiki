@@ -1,7 +1,7 @@
 ---
-title: The Essential Balanced Investment Strategy for Steady Growth
-description: Balanced investment strategy spreads risk across stocks bonds and alternatives
-  for steady growth adapting to market changes Discover more inside
+title: Balanced Investment Strategy Essentials for Long Term Growth
+description: Balanced investment strategy spreads risk across stocks bonds and alternative
+  assets for steady growth while adapting to market shifts Discover more inside
 ---
 
 

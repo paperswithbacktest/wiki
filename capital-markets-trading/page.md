@@ -1,6 +1,7 @@
 ---
-title: "Capital Markets Trading"
-description: "Explore how algorithmic trading is transforming capital markets by enhancing trade efficiency minimizing costs and offering advanced strategies for investors."
+title: Comprehensive Guide to Capital Markets and Trading Strategies
+description: Capital markets connect investors and issuers by outlining key instruments
+  processes trading strategies and regulations Discover more inside
 ---
 
 

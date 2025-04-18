@@ -1,6 +1,7 @@
 ---
-title: "Capital Markets Group Overview and Services"
-description: "Explore the essential roles and services of capital markets groups and algorithmic trading in modern finance including investment banking and M&A."
+title: Comprehensive Guide To Capital Markets Group Roles And Functions
+description: Capital Markets Group helps entities raise funds through stock and bond
+  issuance trading and advisory while managing risk Discover more inside
 ---
 
 

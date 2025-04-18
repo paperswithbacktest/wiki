@@ -1,6 +1,7 @@
 ---
-title: "Classification Model (Machine Learning)"
-description: "Understand classification models in machine learning Learn about common algorithms types like decision trees and neural networks and their real-world applications"
+title: Understanding Classification Models in Machine Learning
+description: Classification models in machine learning sort data into categories using
+  algorithms metrics and techniques to improve accuracy Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bureau of Economic Analysis Data and Reports
-description: Bureau of Economic Analysis data reveal how GDP income spending and trade
-  shape the US economy and guide policy decisions Discover more inside.
+title: Understanding The Bureau Of Economic Analysis And Its Functions
+description: Bureau of Economic Analysis data reveals GDP income and spending trends
+  using rigorous methods to guide policy and business decisions. Discover more inside
 ---
 
 

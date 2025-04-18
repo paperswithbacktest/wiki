@@ -1,7 +1,7 @@
 ---
-title: Ultimate Boston Stock Exchange History And Trading Insights
-description: Boston Stock Exchange history shows its rise from 1834 through the 2007
-  NASDAQ merger highlighting trading evolution and economic impact Discover more
+title: Boston Stock Exchange History Operations and Impact
+description: Boston Stock Exchange evolved from an 1834 trading floor into current
+  electronic markets showing its operations and economic impact Discover more inside
 ---
 
 

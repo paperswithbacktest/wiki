@@ -1,7 +1,8 @@
 ---
-title: Essential Average Life Calculation for Bond Maturity Analysis
-description: Average life and bond maturity metrics guide investors in planning cash
-  flows and assessing risk through clear formulas and examples Discover more inside.
+title: Understanding Average Life And Maturity In Fixed Income
+description: Average life reveals bond repayment schedules and maturity indicates
+  final payout timing covering key formulas and methods to guide investors Discover
+  more
 ---
 
 

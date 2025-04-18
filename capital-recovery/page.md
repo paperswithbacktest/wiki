@@ -1,6 +1,7 @@
 ---
-title: "Capital Recovery"
-description: "Explore capital recovery in investment strategies using financial analysis and algorithmic trading to maximize returns and minimize risks smartly and efficiently."
+title: Essential Capital Recovery Strategies For Investment Planning
+description: Capital recovery helps businesses plan investments to recover costs and
+  maintain cash flow with proven models for ROI and payback. Discover more inside.
 ---
 
 

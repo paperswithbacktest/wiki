@@ -1,6 +1,7 @@
 ---
-title: "Chu-Stinchcombe-White CUSUM test"
-description: Explore the essential role of the Chu-Stinchcombe-White CUSUM test in algorithmic trading to detect structural breaks in financial data. This test, rooted in statistical analysis, offers early insights into market shifts, helping traders adapt strategies proactively and manage risks effectively. Learn how implementing this powerful tool can enhance trading model robustness, potentially increasing returns by anticipating and capitalizing on market changes. Delve into its significance, practical use, and key features for optimal trading performance in dynamic financial markets.
+title: Chu-Stinchcombe-White CUSUM Test for Monitoring Model Stability
+description: Chu-Stinchcombe-White CUSUM test checks model stability by summing residuals
+  and spotting prediction shifts over time. Discover more inside today
 ---
 
 

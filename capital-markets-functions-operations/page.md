@@ -1,6 +1,7 @@
 ---
-title: "Capital Markets: Functions and Operations"
-description: "Explore the dynamic landscape of capital markets and algorithmic trading to understand their functions, operations, and impact on global finance today."
+title: Capital Markets Explained Professional Guide for Investors
+description: Capital markets connect businesses needing growth capital with investors
+  while setting prices and driving economic expansion Discover more inside
 ---
 
 

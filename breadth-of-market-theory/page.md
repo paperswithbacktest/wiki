@@ -1,7 +1,7 @@
 ---
-title: Ultimate Breadth of Market Theory Guide for Investors
-description: Breadth of Market Theory reveals market health by tracking advancing
-  and declining stocks to guide smarter investment decisions Discover more inside.
+title: Understanding Breadth of Market Theory for Informed Investing
+description: Breadth of Market Theory tracks advancing versus declining stocks to
+  reveal market strength and guide buy or sell decisions Discover more inside
 ---
 
 

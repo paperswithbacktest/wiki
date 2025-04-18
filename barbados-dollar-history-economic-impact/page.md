@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Barbados Dollar and Its Stability
-description: Barbados Dollar overview explains its history, fixed US Dollar rate,
-  and economic impact on trade, tourism, and finance. Discover more inside.
+title: Barbados Dollar History Stability and Economic Impact
+description: Barbados Dollar maintains a stable 2 to 1 peg to the US Dollar with central
+  bank policies that support trade and tourism Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Cinnober Financial Technology"
-description: "Cinnober Financial Technology, a pioneer in fintech, excels in innovative solutions for trading systems, enhancing efficiency, security, and transparency in global markets."
+title: Cinnober Financial Technology Trading And Clearing Platform
+description: Cinnober Financial Technology powers trading and clearing with TRADExpress
+  and secure settlement to boost speed and reliability. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bluefin Capital Management Investment Strategy
-description: Bluefin Capital Management applies data driven quantitative methods to
-  find smart investment opportunities while managing risk Discover more inside.
+title: Bluefin Capital Management Quantitative Investment Strategies
+description: Bluefin Capital Management uses advanced data analysis and technology
+  to optimize quantitative investments and manage risk effectively Discover more inside
 ---
 
 

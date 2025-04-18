@@ -1,7 +1,8 @@
 ---
-title: Proven Essentials of Available-For-Sale and Trading Securities
-description: Available-for-sale securities classification shows unrealized gains in
-  equity while trading securities alter net income immediately Discover more inside.
+title: Accounting for Available-for-Sale and Held-for-Trading Securities
+description: Available-for-Sale securities are valued at fair value and unrealized
+  gains in equity stabilize earnings until sale then recognized at sale. Discover
+  more
 ---
 
 

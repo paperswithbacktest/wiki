@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Breadth Thrust Indicator for Investors
-description: Breadth Thrust Indicator tracks advancing stocks over ten days using
-  ratio shifts to signal market momentum and guide informed trades Discover more inside.
+title: Breadth Thrust Indicator Explained for Effective Market Timing
+description: Breadth Thrust Indicator measures advancing stocks ratio over 10 days
+  to spot bullish momentum and guide investment decisions Discover more inside
 ---
 
 

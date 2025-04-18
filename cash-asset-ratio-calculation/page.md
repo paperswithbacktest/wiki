@@ -1,6 +1,7 @@
 ---
-title: "Cash Asset Ratio and Its Calculation"
-description: "Discover how the cash asset ratio is calculated and its role in algorithmic trading. Learn to enhance trading strategies with liquidity metrics to ensure financial stability."
+title: Measuring Cash Asset Ratio To Gauge Company Liquidity
+description: Cash Asset Ratio reveals how much cash firms need to cover short term
+  debts while optimizing liquidity and investment Discover more inside today.
 ---
 
 

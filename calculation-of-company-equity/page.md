@@ -1,7 +1,7 @@
 ---
-title: Ultimate Company Equity Calculation and Analysis Guide
-description: Company equity reveals the true net worth of firms by calculating assets
-  minus liabilities and shows financial strength for investors Discover more inside.
+title: Comprehensive Guide to Company Equity Calculation and Importance
+description: Company Equity explained with calculation formula, book versus market
+  values, and retained earnings insight for financial decisions Discover more inside
 ---
 
 

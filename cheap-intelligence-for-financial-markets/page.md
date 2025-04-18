@@ -1,6 +1,7 @@
 ---
-title: "Cheap Intelligence for Financial Markets"
-description: "Unlock the potential of algo trading with cost-effective solutions that enhance efficiency and access to financial markets for both retail and institutional investors."
+title: Affordable Algorithmic Trading Strategies for All Investors
+description: Algorithmic Trading is now accessible through cost effective platforms
+  that streamline automation and reduce barriers to entry. Discover more inside.
 ---
 
 In the fast-paced world of financial markets, traders and investors are constantly seeking ways to enhance their strategies and maximize returns. One approach that has garnered significant attention in recent years is algorithmic trading, often referred to as algo trading. This method leverages sophisticated algorithms to automate trading decisions and executions, offering the potential for improved efficiency and reduced human error.

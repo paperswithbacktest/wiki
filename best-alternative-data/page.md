@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Alternative Data in Algorithmic Trading
-description: Alternative Data in Algorithmic Trading provides real-time insights from
-  unconventional sources to refine strategies and gain an edge Discover more inside.
+title: Harnessing Alternative Data for Algorithmic Trading Strategies
+description: Alternative data offers real-time insights from satellite imagery and
+  consumer behavior to boost algorithmic trading decisions Discover more inside
 ---
 
 

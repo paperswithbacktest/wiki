@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into Bank Insurance Fund Protection
-description: Bank Insurance Fund coverage protects up to 250000 per depositor per
-  bank and reinforces confidence in the US banking system Discover more inside
+title: Bank Insurance Fund Explained FDIC Deposit Coverage
+description: Bank Insurance Fund secures deposits up to $250000 per account with FDIC
+  backed coverage, outlines its purpose management and limits Discover more inside
 ---
 
 

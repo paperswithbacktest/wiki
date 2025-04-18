@@ -1,6 +1,7 @@
 ---
-title: "Capital Flows and Fund Movements"
-description: "Explore the world of algorithmic trading and its significant role in reshaping global financial markets. Understand capital flows and their impact on economic stability."
+title: Understanding the Impact of Capital Flows and Fund Movements
+description: Capital flows drive global investment by moving money across borders
+  to fund businesses and jobs while posing risks when volatile. Discover more inside.
 ---
 
 

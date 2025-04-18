@@ -1,7 +1,7 @@
 ---
-title: Essential Attribution Analysis in Trading for Smarter Decisions
-description: Attribution analysis breaks down returns by sectors stocks and timing
-  to reveal performance drivers and guide investments Discover more inside
+title: Complete Guide to Attribution Analysis for Traders and Investors
+description: Attribution analysis in trading shows why portfolio performance varies
+  helping you optimize stock picks sector allocation timing Discover more inside.
 ---
 
 

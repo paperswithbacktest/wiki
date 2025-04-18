@@ -1,6 +1,7 @@
 ---
-title: "Chartalism and Its Mechanisms in the Context of Cryptocurrency"
-description: "Explore Chartalism's influence on cryptocurrencies and algorithmic trading as they reshape financial markets challenging traditional monetary theories and regulations."
+title: Chartalism Explained Government Role in Modern Money Systems
+description: Chartalism shows how government authority gives value to modern money
+  via tax-driven rules and how it could reshape digital currencies Discover more
 ---
 
 

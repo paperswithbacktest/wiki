@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Blue Chip Stocks for Steady Growth
-description: Blue chip stocks deliver stable returns and steady dividends to help
-  you build a secure long term portfolio with confidence. Discover more inside.
+title: Blue Chip Stocks Explained Professional Guide To Stable Investing
+description: Blue chip stocks offer steady income through dividends and reliable growth
+  for long term investors Discover more inside.
 ---
 
 

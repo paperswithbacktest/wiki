@@ -1,6 +1,7 @@
 ---
-title: "Capital IQ"
-description: Explore the integration of Capital IQ data into algorithmic trading strategies to enhance precision and strategy development. Learn how this robust financial information platform offers comprehensive datasets and analytics tools essential for developing sophisticated trading algorithms. Discover how traders can leverage Capital IQ to improve trading accuracy, manage large volumes of data, and make informed, data-driven decisions while understanding the benefits and challenges of algo trading in today's financial markets.
+title: Comprehensive Guide to Capital IQ Financial Data Platform
+description: Capital IQ provides detailed company financials market data and advanced
+  screening modeling tools in a user friendly platform Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Insider Guide to Automatic Reinvestment Plans
-description: Automatic Reinvestment Plan boosts investment growth by compounding dividends
-  into new shares automatically to build wealth over time Discover more inside.
+title: Maximizing Returns With Automatic Reinvestment Plans
+description: Automatic Reinvestment Plan automates reinvesting dividends to boost
+  compound growth simplify investing and reduce manual effort Discover more inside
 ---
 
 

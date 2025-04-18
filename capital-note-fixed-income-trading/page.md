@@ -1,6 +1,7 @@
 ---
-title: "Capital Note: Function and Role in Fixed Income Trading"
-description: "Explore the function and role of capital notes in fixed income trading and how algorithmic strategies transform this complex market for investors and traders."
+title: Capital Notes Explained for Fixed Income Investors
+description: Capital Notes provide higher yields and convertible features in fixed
+  income portfolios highlighting key risks and trading strategies Discover more inside.
 ---
 
 

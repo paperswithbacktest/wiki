@@ -1,7 +1,7 @@
 ---
-title: Essential Quantitative Trading Guide for Beginners
-description: Quantitative trading equips beginners with data driven strategies backtesting
-  and risk management to create algorithmic trades Discover more inside.
+title: Quantitative Trading for Beginners Essential Tools and Strategies
+description: Quantitative trading offers beginners a clear roadmap to build data driven
+  strategies backtest performance and manage risk effectively Discover more inside
 ---
 
 

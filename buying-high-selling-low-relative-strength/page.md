@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Relative Strength Investing Strategy
-description: Relative strength investing helps you use RSI and momentum to pick strong
-  stocks and time trades for consistent returns Discover more inside
+title: Mastering Relative Strength Investing and Momentum Strategy
+description: Relative Strength Investing uncovers top performing stocks using RSI
+  and momentum metrics to guide buy and sell decisions Discover more inside
 ---
 
 

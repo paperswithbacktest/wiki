@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Bayesian Optimization For Machine Learning
-description: Bayesian Optimization uses surrogate models and acquisition functions
-  to fine tune hyperparameters saving time and compute Discover more inside
+title: Understanding Bayesian Optimization for Efficient Model Tuning
+description: Bayesian Optimization streamlines hyperparameter tuning with models that
+  balance exploration and exploitation for faster results Discover more inside
 ---
 
 ![Image](images/1.png)

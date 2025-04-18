@@ -1,7 +1,7 @@
 ---
-title: Essential Barbell Strategy Guide for Balanced Investment Success
-description: Barbell Strategy balances low-risk bonds and high-risk assets to protect
-  capital while pursuing big gains with risk management. Discover more inside.
+title: Barbell Strategy For Balancing Safety And Growth In Investments
+description: Barbell Strategy balances safe bonds and high risk assets to protect
+  your capital while pursuing gains for steady growth and security Discover more inside.
 ---
 
 

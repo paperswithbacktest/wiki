@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Bank Capital and Regulatory Requirements
-description: Bank capital provides a safety cushion by defining Tier 1 and Tier 2
-  funding, Basel III requirements and management strategies Discover more inside
+title: Understanding Bank Capital Types, Regulation, and Importance
+description: Bank capital provides a safety buffer by helping banks absorb losses
+  meet Basel III requirements and maintain customer trust Discover more inside.
 ---
 
 

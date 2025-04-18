@@ -1,6 +1,7 @@
 ---
-title: "Cash-on-Cash Return in Real Estate"
-description: "Explore the significance of cash-on-cash return in real estate investments and how algorithmic trading can optimize strategies to enhance cash flow performance."
+title: Understanding Cash-on-Cash Return for Real Estate Investors
+description: Cash-on-Cash Return shows investors how to calculate cash flow on their
+  real estate investment and compare deals to boost profits. Discover more inside
 ---
 
 

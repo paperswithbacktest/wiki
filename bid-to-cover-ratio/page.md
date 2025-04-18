@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bid-to-Cover Ratio for Bond Auctions
-description: Bid-to-Cover Ratio measures demand by comparing total bids to securities
-  offered, helping investors assess bond pricing and demand Discover more inside.
+title: Understanding the Bid-to-Cover Ratio in Bond Auctions
+description: Bid-to-Cover Ratio shows bond demand by comparing bids to available securities
+  guiding pricing and investment decisions Discover more inside
 ---
 
 

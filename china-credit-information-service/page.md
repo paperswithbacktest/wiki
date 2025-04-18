@@ -1,6 +1,7 @@
 ---
-title: "China Credit Information Service"
-description: "Explore China's evolving credit reporting landscape with the China Credit Information Service CCIS leading crucial fintech and algorithmic trading advancements."
+title: China Credit Information Service CCIS Essential Business Overview
+description: China Credit Information Service CCIS delivers accurate credit reports
+  from banks and retailers helping lenders assess risk efficiently Discover more
 ---
 
 

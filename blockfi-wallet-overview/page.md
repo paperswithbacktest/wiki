@@ -1,7 +1,7 @@
 ---
-title: Ultimate BlockFi Wallet Guide for Secure Crypto Management
-description: BlockFi Wallet secures and simplifies crypto storage and management for
-  major assets with integrated lending and borrowing features Discover more inside
+title: BlockFi Wallet Guide To Secure Crypto Storage And Management
+description: BlockFi Wallet offers secure storage and seamless crypto management with
+  easy setup two factor authentication encryption Discover more inside
 ---
 
 

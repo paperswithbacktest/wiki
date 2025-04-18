@@ -1,6 +1,7 @@
 ---
-title: "Capital-To-Risk Weighted Assets Ratio in Banking"
-description: "Explore the intricate relationship between risk-weighted assets, capital ratios, and algorithmic trading within the banking sector, highlighting their regulatory impacts."
+title: Capital-To-Risk Weighted Assets Ratio for Bank Stability
+description: Capital-To-Risk Weighted Assets Ratio measures bank capital against risk
+  weighted assets to ensure stability and regulatory compliance Discover more inside
 ---
 
 

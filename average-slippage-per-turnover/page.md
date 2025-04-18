@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Calculating Average Slippage Per Turnover
-description: Average slippage per turnover shows price gaps per dollar traded and
-  helps you refine order strategies to cut execution costs. Discover more inside.
+title: Understanding Average Slippage Per Turnover In Trading Markets
+description: Average slippage per turnover shows traders how much price variance affects
+  each dollar traded so they can optimize execution Discover more inside
 ---
 
 

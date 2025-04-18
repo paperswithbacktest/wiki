@@ -1,7 +1,7 @@
 ---
-title: Ultimate Investment Benchmarks for Optimal Performance
-description: Investment benchmarks help investors compare portfolios to market performance,
-  refine strategies for growth and manage risk Discover more inside
+title: Understanding Investment Benchmarks and Performance Standards
+description: Investment benchmarks help you measure portfolio results against market
+  indices and select the right standard for your goals Discover more inside
 ---
 
 

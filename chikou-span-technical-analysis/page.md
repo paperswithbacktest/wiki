@@ -1,6 +1,7 @@
 ---
-title: "Chikou Span in Technical Analysis"
-description: "Explore the Chikou Span in algorithmic trading for enhanced market analysis. Learn how this technical indicator confirms trends and identifies reversals effectively."
+title: Understanding the Chikou Span in Ichimoku Technical Analysis
+description: Chikou Span helps traders compare current prices to those 26 periods
+  ago to identify momentum shifts and support or resistance levels Discover more inside
 ---
 
 

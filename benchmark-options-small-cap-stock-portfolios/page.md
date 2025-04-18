@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Small-Cap Stocks Benchmark Strategies
-description: Small-cap stocks can diversify and empower investors to achieve growth
-  using tailored benchmarks for smarter performance. Discover more inside
+title: Investors Guide To Small-Cap Stock Benchmarks And Indices
+description: Small-cap stock benchmarks show investors how to gauge portfolio performance
+  against indexes like Russell 2000 and S&P SmallCap 600 Discover more inside
 ---
 
 

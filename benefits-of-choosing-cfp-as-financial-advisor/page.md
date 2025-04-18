@@ -1,7 +1,7 @@
 ---
-title: Essential Certified Financial Planner Benefits for Your Future
-description: Certified Financial Planner expertise streamlines your budgeting investing
-  retirement and estate plans while managing risks and taxes Discover more inside.
+title: Certified Financial Planner Guide to Wealth Management Strategies
+description: A Certified Financial Planner offers holistic financial planning covering
+  budgeting, investing, retirement, tax and estate strategies Discover more inside
 ---
 
 

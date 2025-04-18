@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bond Ratings for Smart Investment Decisions
-description: Bond ratings provide clear insights into credit risk and interest rate
-  dynamics so investors can assess safety and yield accurately Discover more inside.
+title: Understanding Bond Ratings A Guide to Assessing Credit Risk
+description: Bond ratings explain how safe a bond investment is based on creditworthiness
+  and interest rates Discover more inside
 ---
 
 

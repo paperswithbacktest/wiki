@@ -1,7 +1,7 @@
 ---
-title: Efficient Candidate Sampling for Scalable Machine Learning Models
-description: Candidate sampling boosts training speed of large ML models by focusing
-  on true outcomes and selected negatives for efficient learning Discover more inside
+title: Candidate Sampling in Machine Learning for Faster Training
+description: Candidate sampling speeds up machine learning training by focusing on
+  true outcomes and selected negatives to cut computation Discover more inside.
 ---
 
 ![Image](images/1.png)

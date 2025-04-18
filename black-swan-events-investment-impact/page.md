@@ -1,7 +1,7 @@
 ---
-title: Ultimate Insights Into Black Swan Event Risks For Investors
-description: Black Swan Event shocks can upend portfolios Learn how diversification,
-  reserves and emergency funds build investor resilience Discover more inside
+title: Understanding Black Swan Events and Their Financial Impact
+description: Black Swan events can upend markets and reshape investment strategies
+  by revealing hidden risks and diversification needs. Discover more inside.
 ---
 
 

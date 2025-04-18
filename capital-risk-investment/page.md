@@ -1,6 +1,7 @@
 ---
-title: "Capital Risk in Investment"
-description: "Explore the importance of understanding capital risk in investment strategies including the role of algorithmic trading in managing risks for smarter investment decisions."
+title: Understanding Capital Risk in Investment Portfolios
+description: Capital risk measures the chance you could lose your initial investment
+  and guides effective strategies to protect your assets. Discover more inside.
 ---
 
 

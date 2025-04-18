@@ -1,7 +1,7 @@
 ---
-title: Essential Market Breadth Indicators for Informed Investing
-description: Market breadth indicators reveal stock participation and market health
-  to help investors make informed trading decisions Discover more inside.
+title: Understanding Market Breadth Indicators for Smarter Investing
+description: Breadth indicators reveal how many stocks drive market moves by tracking
+  advancing and declining issues to help gauge strength. Discover more inside.
 ---
 
 

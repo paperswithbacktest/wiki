@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Investing in Your Twenties with Confidence
-description: Investing in Your Twenties helps you harness compound interest, diversify
-  risk and use digital platforms to grow wealth. Discover more inside.
+title: Essential Investing Basics and Strategies for Your Twenties
+description: Investing in your twenties builds long-term wealth through compound interest
+  diversification and low-cost funds while balancing risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Capital Requirements in Finance"
-description: "Explore the dynamics of capital requirements and regulations in finance with insights into algorithmic trading's role in enhancing market efficiency."
+title: Understanding Capital Requirements for Financial Institutions
+description: Capital requirements ensure banks hold Tier 1 and Tier 2 capital to cover
+  risks comply with Basel rules and maintain stability Discover more inside
 ---
 
 

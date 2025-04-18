@@ -1,6 +1,7 @@
 ---
-title: "Catalyst in Finance"
-description: "Discover how algo trading acts as a catalyst in finance, enhancing market efficiency through technological advancements and reshaping global markets."
+title: Understanding Financial Catalysts And Their Market Impact
+description: Financial catalysts trigger sudden stock moves from earnings to regulations
+  and help investors spot market trends and opportunities Discover more inside
 ---
 
 

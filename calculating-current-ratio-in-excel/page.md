@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Current Ratio in Excel
-description: Current ratio in Excel helps you assess a companys liquidity by dividing
-  current assets by liabilities for clear financial insights. Discover more inside.
+title: Calculating Current Ratio in Excel for Liquidity Insights
+description: Current ratio in Excel helps you assess a companys short-term liquidity
+  with steps for data import, formula setup, and formatting. Discover more inside.
 ---
 
 

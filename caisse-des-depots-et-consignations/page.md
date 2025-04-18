@@ -1,7 +1,8 @@
 ---
-title: "Ultimate Guide to Caisse des D\xE9p\xF4ts et Consignations"
-description: "Caisse des D\xE9p\xF4ts et Consignations manages public funds to support\
-  \ affordable housing eco projects and business growth in France Discover inside"
+title: "Public Role of Caisse des D\xE9p\xF4ts et Consignations Explained"
+description: "Caisse des D\xE9p\xF4ts et Consignations manages state deposits to fund\
+  \ projects from affordable housing to green energy and public services Discover\
+  \ more"
 ---
 
 

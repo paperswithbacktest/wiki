@@ -1,7 +1,7 @@
 ---
-title: Proven Beta Guide For Effective Market Risk Management
-description: Beta measures systematic risk by comparing stock volatility to market
-  returns so investors can align portfolios with risk targets Discover more inside.
+title: Measuring Systematic Risk With Beta For Effective Portfolios
+description: Beta reveals how stocks move with market trends so you can gauge systematic
+  risk and adjust portfolios to match your risk profile Discover more inside.
 ---
 
 

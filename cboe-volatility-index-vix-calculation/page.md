@@ -1,6 +1,7 @@
 ---
-title: "Cboe Volatility Index (VIX) and Its Calculation"
-description: "Discover the VIX's role in algorithmic trading as a key market sentiment tool Analyze its calculation its evolution and its impact on trading strategies"
+title: Understanding the Cboe Volatility Index VIX and Its Insights
+description: VIX uses S&P 500 option prices to show expected market volatility over
+  the next 30 days in real time giving investors clear insights Discover more inside
 ---
 
 

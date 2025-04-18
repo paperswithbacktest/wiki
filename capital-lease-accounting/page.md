@@ -1,6 +1,7 @@
 ---
-title: "Capital Lease in Accounting"
-description: "Explore the essentials of capital leases and algorithmic trading in the financial sector. This article investigates into capital and operating lease classifications, accounting standards impact on financial statements, and the significant role of algorithmic trading in modern finance. Gain insight into these intertwined concepts and their relevance in today's fast-paced markets."
+title: Comprehensive Guide to Capital Lease Accounting Standards
+description: Capital lease accounting records leased assets and liabilities on the
+  balance sheet tracking depreciation and interest expenses Discover more inside
 ---
 
 

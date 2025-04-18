@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Cost of Capital and Capital Structure
-description: Cost of capital strategies unite debt and equity costs into a clear WACC
-  framework to guide investment choices and enhance value Discover more inside
+title: Balancing Debt And Equity Ratios For Optimal Cost Of Capital
+description: Cost of capital explains how debt and equity ratios determine funding
+  costs and business value Discover how to balance your capital structure inside
 ---
 
 

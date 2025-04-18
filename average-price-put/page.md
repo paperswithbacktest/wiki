@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Average Price Puts for Effective Hedging
-description: Average Price Put options let investors limit losses by averaging asset
-  prices over the option period to smooth volatility for hedging Discover more inside
+title: Understanding Average Price Puts for Effective Portfolio Hedging
+description: Average Price Put options let investors smooth out price swings and limit
+  losses by locking in a calculated average price over time Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Barra Risk Factor Analysis for Portfolios
-description: Barra Risk Factor Analysis breaks down portfolio risks by market and
-  industry so you can balance investments and optimize returns. Discover more inside.
+title: Barra Risk Factor Analysis Guide for Investment Risk Management
+description: Barra Risk Factor Analysis reveals how market industry and company factors
+  drive portfolio risks and guides smarter investment choices Discover more inside
 ---
 
 

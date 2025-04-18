@@ -1,7 +1,7 @@
 ---
-title: Proven Bidirectional Machine Learning Architecture Explained
-description: Bidirectional machine learning uses past and future data to capture full
-  context in NLP and time series for more accurate predictions Discover more inside.
+title: Enhancing Context in Models With Bidirectional Machine Learning
+description: Bidirectional machine learning leverages past and future data to deliver
+  richer context and more accurate predictions for NLP Discover more inside
 ---
 
 ![Image](images/1.png)

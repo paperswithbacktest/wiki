@@ -1,7 +1,7 @@
 ---
-title: Essential Insights on Bank of England Monetary Policy Effects
-description: Bank of England monetary policy shapes UK interest rates inflation and
-  economic stability with clear explanations of tools and impacts Discover more inside
+title: Understanding Bank of England Monetary Policy and Tools
+description: Bank of England monetary policy guides interest rate and QE decisions
+  to maintain price stability and support economic growth Discover more inside
 ---
 
 

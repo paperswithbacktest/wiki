@@ -1,7 +1,7 @@
 ---
-title: Insider Insights on Banknet Security and Transaction Efficiency
-description: Banknet streamlines secure interbank transactions and real-time settlements
-  with robust encryption and seamless global integration Discover more inside.
+title: Banknet Secure Communication Network for Global Banking
+description: Banknet powers secure interbank transfers and real-time settlements with
+  encryption and authentication for global banks Discover more inside.
 ---
 
 

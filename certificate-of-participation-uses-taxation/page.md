@@ -1,6 +1,7 @@
 ---
-title: "Certificate of Participation: Uses and Taxation"
-description: "Explore the world of Certificates of Participation in finance. Learn about their structure, tax implications, investment strategies, and role in algorithmic trading."
+title: Tax-Exempt Certificates of Participation Investment Strategies
+description: Certificates of Participation deliver tax-exempt income and after-tax
+  yields through strategic inclusion in tax-advantaged portfolios Discover more inside
 ---
 
 

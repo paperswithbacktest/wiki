@@ -1,6 +1,7 @@
 ---
-title: "Classes of Shares"
-description: "Explore the categories of stocks, including common and preferred shares, and understand the impacts of algorithmic trading on investment strategies in the stock market."
+title: Understanding Different Classes of Shares in Corporate Equity
+description: Share classes define voting rights dividends control across common and
+  preferred stock with clear equity insights for investors Discover more inside
 ---
 
 

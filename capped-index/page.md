@@ -1,6 +1,7 @@
 ---
-title: "Capped Index"
-description: "Discover the fundamentals of capped index, index funds, and algorithmic trading in financial markets to enhance risk management and optimize portfolio performance."
+title: Balancing Market Exposure with a Capped Index Approach
+description: Capped index funds limit any single stock to ensure balanced market exposure
+  and reduce risk by keeping your investments diversified Discover more inside.
 ---
 
 

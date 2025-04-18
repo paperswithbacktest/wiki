@@ -1,7 +1,7 @@
 ---
-title: Proven Blueshift Asset Management Technology-Led Investments
-description: Blueshift Asset Management uses technology and data-driven strategies
-  to optimize returns and manage risk for investors Discover more inside.
+title: Blueshift Asset Management Tech-Driven Investment Strategies
+description: Blueshift Asset Management applies quantitative algorithms and data analytics
+  to optimize portfolios and manage risk dynamically. Discover more inside.
 ---
 
 

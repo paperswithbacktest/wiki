@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Canada Premium Bonds for Investors
-description: Canada Premium Bonds offer investors a secure income stream with fixed
-  terms and strategic laddering for portfolio stability Discover more inside.
+title: Comprehensive Guide To Canada Premium Bond Investing
+description: Canada Premium Bonds offer safe government backed returns with fixed
+  terms and annual interest payments for steady income. Discover more inside.
 ---
 
 

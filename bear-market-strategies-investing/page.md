@@ -1,7 +1,8 @@
 ---
-title: Essential Bear Market Strategies for Beginner Investor Success
-description: Bear market strategy guides beginners to protect and grow portfolios
-  with dollar cost averaging stop-losses and asset allocation. Discover more inside.
+title: Essential Bear Market Strategies for Smarter Portfolio Management
+description: Bear market strategies help investors protect and optimize portfolios
+  during downturns with defensive and aggressive tactics that capitalize on lower
+  prices Discover more inside
 ---
 
 

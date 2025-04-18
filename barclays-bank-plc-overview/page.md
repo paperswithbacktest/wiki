@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Barclays Bank PLC Global Services and Operations
-description: Barclays Bank PLC presents an engaging overview of its history services
-  global operations digital banking strategy and CSR initiatives Discover more inside
+title: Barclays Bank PLC Comprehensive Guide to Services and Performance
+description: Barclays Bank PLC shares its evolution since 1690 and details services
+  global operations digital banking and sustainability Discover more inside.
 ---
 
 

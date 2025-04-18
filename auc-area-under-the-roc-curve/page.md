@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide To ROC Curve And AUC In Machine Learning
-description: ROC curve analysis shows how AUC reveals classifier performance tradeoffs
-  across thresholds and supports robust model selection. Discover more inside.
+title: Understanding ROC Curve and AUC in Machine Learning
+description: ROC curve analysis provides a complete view of classifier performance
+  from AUC calculation to advanced interpretation techniques Discover more inside.
 ---
 
 ![Image](images/1.png)

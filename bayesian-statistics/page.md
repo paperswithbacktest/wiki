@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bayesian Statistics and Bayes' Theorem
-description: Bayesian Statistics uses Bayes theorem to update beliefs with new evidence
-  for refined predictions in medicine finance AI and beyond Discover more inside.
+title: Bayesian Statistics and Bayes' Theorem Explained Clearly
+description: Bayesian statistics offers a flexible framework to update beliefs with
+  new data, compare approaches, and tackle real-world problems. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "CFA Franc: Meaning, Function, and History"
-description: "Explore the history, function, and impact of the CFA Franc, a currency linking 14 African countries with the Euro. Discover its role in modern finance."
+title: 'CFA Franc Explained: Origins, Stability and Economic Impact'
+description: CFA Franc stability tied to the Euro ensures predictable trade for African
+  economies and sparks debate on monetary sovereignty Discover more inside
 ---
 
 

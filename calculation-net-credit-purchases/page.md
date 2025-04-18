@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Net Credit Purchases Accurately
-description: Net credit purchases calculation helps businesses track what they owe
-  after returns and discounts and improve cash flow management. Discover more inside.
+title: Net Credit Purchases Accounting Overview And Calculation Guide
+description: Net Credit Purchases help businesses track supplier obligations and manage
+  cash flow accurately while avoiding common errors Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Class-Imbalanced Dataset (Machine Learning)"
-description: "Discover strategies to address class imbalance in machine learning datasets and ensure model performance by understanding causes, detection, and handling techniques."
+title: Handling Class Imbalanced Datasets in Machine Learning
+description: Class imbalanced datasets undermine model performance in machine learning
+  Detect bias apply balancing techniques and boost accuracy Discover more inside.
 ---
 
 ![Image](images/1.png)

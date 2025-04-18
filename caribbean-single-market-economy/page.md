@@ -1,6 +1,7 @@
 ---
-title: "Caribbean Single Market and Economy"
-description: "Explore the integration of the Caribbean Single Market and Economy with algorithmic trading to enhance regional economic growth and market efficiency."
+title: Comprehensive Overview of Caribbean Single Market and Economy
+description: Caribbean Single Market and Economy removes trade barriers and opens
+  free movement for workers and businesses across the region Discover more inside
 ---
 
 

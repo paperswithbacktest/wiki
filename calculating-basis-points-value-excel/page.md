@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Basis Points in Excel
-description: Basis points in Excel let you convert small percentage changes into clear
-  metrics with simple formulas for precise analysis Discover more inside
+title: Basis Points Calculation and Conversion in Excel
+description: Basis points calculation in Excel covers formulas for converting percentages
+  to basis points and automating tasks with VBA and Python macros Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Bank of America Competitor Comparison Guide
-description: Bank of America competitor analysis highlights service, fee, tech, and
-  market share comparisons to help you choose the right bank Discover more inside
+title: Comparing Bank of America With Top US Banking Competitors
+description: Bank of America holds significant market share while matching JPMorgan
+  Chase Wells Fargo Citibank on services, fees and technology Discover more inside
 ---
 
 

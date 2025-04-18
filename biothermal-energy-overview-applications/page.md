@@ -1,7 +1,7 @@
 ---
-title: 'Unlock Sustainable Power: Essential Guide to Biothermal Energy'
-description: Biothermal energy transforms organic waste into clean heat and power
-  reducing reliance on fossil fuels and cutting emissions Discover more inside.
+title: Understanding Biothermal Energy Systems for Sustainable Power
+description: Biothermal energy turns organic waste into heat and power reducing fossil
+  fuel use boosting sustainability and local economies Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Average Strike Option Strategies
-description: Average strike option uses an average price to smooth market swings reducing
-  risk in volatile assets like commodities and currencies Discover more inside
+title: Average Strike Options Explained For Smoother Market Exposure
+description: Average strike options use time weighted strike prices to smooth market
+  swings and lower risk Explore features strategies and payoffs Discover more inside.
 ---
 
 

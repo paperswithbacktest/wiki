@@ -1,7 +1,8 @@
 ---
-title: Proven AXQ Capital Investment Strategies for Wealth Growth
-description: AXQ Capital provides smart investment solutions and proven strategies
-  to grow your assets with rigorous research and risk management. Discover more inside.
+title: AXQ Capital Investment Strategies for Growing Client Wealth
+description: AXQ Capital delivers tailored investment strategies in technology real
+  estate and healthcare leveraging expert research and risk management Discover more
+  inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Insights Into B-Money Digital Currency Origins
-description: B-Money laid the groundwork for decentralized digital currency by combining
-  proof of work with privacy for online transactions. Discover more inside.
+title: Origins And Impact Of B-Money Decentralized Digital Currency
+description: B-Money laid the groundwork for decentralized digital currencies by proposing
+  proof of work for secure and private transactions Discover more inside
 ---
 
 

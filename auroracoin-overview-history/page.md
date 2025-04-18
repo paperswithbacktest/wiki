@@ -1,7 +1,8 @@
 ---
-title: Essential Guide to Auroracoin Cryptocurrency for Icelanders
-description: Auroracoin offers Icelanders a decentralized currency free from bank
-  control and traces its impact and challenges since 2014. Discover more inside.
+title: "Auroracoin: Iceland\u2019s Exclusive Cryptocurrency Explained"
+description: "Auroracoin gives Icelanders free digital currency with fixed supply\
+  \ and blockchain security while showing impact on Iceland\u2019s economy Discover\
+  \ more inside"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bonferroni Correction in Statistics
-description: Bonferroni Correction adjusts significance levels to reduce false positives
-  in multiple tests and balance accuracy in research Discover more inside.
+title: Understanding the Bonferroni Correction in Statistical Analysis
+description: Bonferroni Correction limits false positives across multiple tests by
+  dividing alpha by test count for dependable p value thresholds Discover more inside
 ---
 
 

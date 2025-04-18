@@ -1,6 +1,7 @@
 ---
-title: "Causes of the Subprime Mortgage Crisis"
-description: "Explore the causes behind the subprime mortgage crisis linked to risky lending practices and financial innovations with global repercussions and lessons learned."
+title: Understanding the Subprime Mortgage Crisis and Its Causes
+description: Subprime mortgage crisis reveals how risky lending and low rates fueled
+  a financial collapse with lessons to prevent repeats Discover more inside
 ---
 
 

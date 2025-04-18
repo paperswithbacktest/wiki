@@ -1,8 +1,7 @@
 ---
-title: Ultimate Guide to Bridgewater Associates Investment Strategies
-description: Bridgewater Associates applies unique Principles data driven insights
-  and risk parity methods to balance risk and returns in any market Discover more
-  inside
+title: Bridgewater Associates Investment Strategies And Principles
+description: Bridgewater Associates uses radical transparency and systematic investing
+  to balance risk and deliver returns across markets Discover more inside.
 ---
 
 

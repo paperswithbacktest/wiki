@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calculating Internal Rate of Return in Excel
-description: Internal Rate of Return in Excel shows you how to compare investment
-  returns step by step using IRR and error checks Discover more inside now.
+title: Calculating IRR in Excel A Complete Professional Guide
+description: Internal Rate of Return IRR in Excel helps you compare investment profitability
+  with clear step-by-step instructions and troubleshooting tips Discover more inside.
 ---
 
 

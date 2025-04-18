@@ -1,7 +1,7 @@
 ---
-title: Essential Broker Strategies for Bear Market Share Buybacks
-description: Bear market share buybacks can boost shareholder value when brokers time
-  purchases smartly and maintain compliance with regulations Discover more inside.
+title: Broker Strategies for Share Buybacks in Bear Markets
+description: Share buybacks in a bear market help companies invest in themselves and
+  boost shareholder value by repurchasing undervalued shares. Discover more inside.
 ---
 
 

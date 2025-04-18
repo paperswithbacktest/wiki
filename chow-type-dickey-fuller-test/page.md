@@ -1,6 +1,8 @@
 ---
-title: "Chow-type Dickey-Fuller test"
-description: Explore the role of the Chow-Type Dickey-Fuller Test in algorithmic trading to detect market explosiveness and speculative bubbles. Understand its theoretical foundations, practical applications, and implementation using Python to enhance trading strategies by identifying potential regime shifts and unsustainable market conditions.
+title: "Chow\u2011Type Dickey\u2011Fuller Test for Structural Break Detection"
+description: "Chow\u2011type Dickey\u2011Fuller test identifies structural breaks\
+  \ in time series by comparing data before and after the break for shifts Discover\
+  \ more inside"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide To Averaging Down Investment Strategy
-description: Averaging down helps lower your average cost per share when prices fall
-  while highlighting risks and risk management strategies Discover more inside.
+title: 'Averaging Down: A Complete Investment Strategy Guide'
+description: Averaging down helps investors lower cost basis by buying shares when
+  prices fall using buy limits and stop-loss to control risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "China Investment Corporation: Overview and Criticism"
-description: "Explore the China Investment Corporation's role as a major global finance player through detailed analysis of its investment strategies and the controversies it faces."
+title: China Investment Corporation Global Strategy and Risk Management
+description: China Investment Corporation uses diversified global investments to grow
+  national wealth, manage risks, and support economic stability Discover more inside
 ---
 
 

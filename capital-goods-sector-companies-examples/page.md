@@ -1,6 +1,7 @@
 ---
-title: "Capital Goods Sector: Companies and Examples"
-description: "Explore the role of the capital goods sector in global economies and its intersection with algorithmic trading strategies influencing market dynamics."
+title: Capital Goods And Their Role In Driving Economic Growth
+description: Capital goods power business growth and productivity through machines
+  buildings and tools Explore industry trends and investment metrics Discover more
 ---
 
 

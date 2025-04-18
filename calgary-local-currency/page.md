@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Calgary Local Currency Benefits
-description: Calgary Local Currency keeps money in the community by supporting local
-  shops and jobs while boosting neighbor connections Discover more inside.
+title: How Calgary Local Currency Strengthens Community Economy
+description: Calgary Local Currency boosts community prosperity by keeping money in
+  local shops creating jobs and strengthening neighbourhood ties Discover more inside
 ---
 
 

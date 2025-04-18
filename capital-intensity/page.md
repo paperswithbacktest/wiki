@@ -1,6 +1,7 @@
 ---
-title: "Capital Intensity"
-description: "Explore the interplay between capital-intensive industries and algorithmic trading Learn how economic metrics aid stakeholders in optimizing resources and investment strategies"
+title: Understanding Capital Intensity and Its Impact on Business
+description: Capital intensity shows how much businesses invest in assets to drive
+  revenue growth and improve operational efficiency Discover more inside.
 ---
 
 

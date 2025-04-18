@@ -1,7 +1,7 @@
 ---
-title: Essential Automated Trade Surveillance for Market Integrity
-description: Automated trade surveillance uses enhanced AI analytics to detect suspicious
-  patterns in real time and uphold market fairness Discover more inside.
+title: Automated Trade Surveillance Systems for Market Integrity
+description: Automated trade surveillance provides market oversight and monitors trades
+  in real time to detect manipulation and insider abuse Discover more inside
 ---
 
 

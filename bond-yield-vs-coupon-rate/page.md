@@ -1,7 +1,7 @@
 ---
-title: Essential Ultimate Guide to Bond Yield and Coupon Rate
-description: Bond yield and coupon rate reveal how to assess your true return and
-  compare bond investments by price and interest payments. Discover more inside.
+title: Essential Guide to Bond Yield and Coupon Rate Dynamics
+description: Explore bond yield and coupon rate differences so you can compare yields,
+  calculate returns and make confident investment decisions Discover more inside.
 ---
 
 

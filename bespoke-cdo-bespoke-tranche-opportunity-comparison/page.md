@@ -1,7 +1,8 @@
 ---
-title: Ultimate Guide to Bespoke CDOs and Tranche Opportunities
-description: Bespoke CDOs and bespoke tranche opportunities deliver tailored risk
-  control and optimized returns for institutional investors Discover more inside
+title: Understanding Bespoke CDOs and Bespoke Tranche Opportunities
+description: Bespoke CDOs offer tailored credit risk solutions by customizing asset
+  pools and tranches while Bespoke Tranche Opportunities focus on single tranche performance
+  Discover more inside
 ---
 
 

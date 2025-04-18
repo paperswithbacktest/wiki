@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Bjerksund-Stensland American Option Pricing
-description: Bjerksund-Stensland model delivers quick American option valuations by
-  balancing simplicity and accuracy for call pricing Discover more inside.
+title: Valuing American Options With The Bjerksund-Stensland Model
+description: Bjerksund-Stensland model offers fast accurate American option valuations
+  to help traders optimize exercise timing and strategy Discover more inside
 ---
 
 

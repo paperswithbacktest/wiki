@@ -1,6 +1,7 @@
 ---
-title: "Chicago School of Economics"
-description: "Explore the synergy between the Chicago School of Economics and algorithmic trading, where free-market principles meet cutting-edge data-driven financial strategies."
+title: Chicago School of Economics Free Market Principles Explained
+description: Chicago School of Economics champions market freedom and low government
+  oversight to show how competition drives growth and efficiency Discover more inside
 ---
 
 

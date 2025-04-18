@@ -1,7 +1,7 @@
 ---
-title: Essential Buy-Write Strategy Guide for Income and Risk Control
-description: Buy-Write strategy unlocks extra income from covered call premiums while
-  guiding you through setup risks benefits and optimization Discover more inside.
+title: Buy-Write Strategy For Generating Income With Covered Calls
+description: Buy-Write strategy helps investors boost returns and manage risk by selling
+  call options on stocks they own to generate income. Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Backtrader Guide for Trading Strategy Backtesting
-description: Backtrader simplifies Python strategy development by offering flexible
-  data feeds custom indicators and robust performance metrics Discover more inside.
+title: Backtrader Python Framework for Trading Strategy Backtesting
+description: Backtrader offers flexible Python backtesting with custom indicators
+  and optimization tools to refine trading strategies Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to the Big Mac Index and Currency Valuation
-description: Big Mac Index uses global burger prices to reveal currency valuation
-  gaps and purchasing power differences in an accessible way Discover more inside.
+title: Big Mac Index Explained A Practical Guide to Currency Values
+description: Big Mac Index offers a way to compare currency values using burger prices
+  to identify overvalued and undervalued currencies Discover more inside
 ---
 
 

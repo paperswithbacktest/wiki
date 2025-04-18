@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Understanding the Bank Discount Rate
-description: Bank Discount Rate affects bank borrowing costs and lending activity
-  to stabilize the economy through central bank rate changes Discover more inside.
+title: Understanding the Bank Discount Rate Impact on Financial Markets
+description: Bank Discount Rate shapes borrowing costs and monetary policy by guiding
+  central bank decisions to stabilize growth and inflation Discover more inside.
 ---
 
 

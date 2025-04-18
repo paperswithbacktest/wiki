@@ -1,7 +1,7 @@
 ---
-title: Essential Attribution Models in Marketing Analytics and Trading
-description: Attribution Models help trace customer journeys from first touch to sale
-  with advanced SHAP insights for smarter marketing decisions Discover more inside
+title: Understanding Marketing Attribution Models And Their Benefits
+description: Marketing Attribution reveals which touchpoints drive conversions across
+  channels so you can allocate budget wisely and enhance ROI Discover more inside
 ---
 
 

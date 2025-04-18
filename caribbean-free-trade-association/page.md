@@ -1,6 +1,7 @@
 ---
-title: "Caribbean Free Trade Association"
-description: "Explore how the Caribbean Free Trade Association evolved into CARICOM driving regional economic integration and how algorithmic trading can boost trade efficiency."
+title: CARIFTA Origins and Impact on Caribbean Economic Integration
+description: CARIFTA enabled Caribbean nations to reduce tariffs and boost trade efficiency
+  among members for stronger economies Discover more inside
 ---
 
 

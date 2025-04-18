@@ -1,7 +1,7 @@
 ---
-title: Ultimate Stock Market Performance Insights for Investors
-description: Stock market performance data reveals key indicators and economic factors
-  that drive modern growth and returns for investors. Discover more inside.
+title: Stock Market Performance Indicators And Economic Impact
+description: Stock Market Performance explained with key indicators and economic factors
+  to help investors make informed strategic decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Certainty Equivalent Overview and Application"
-description: "Explore the concept of certainty equivalent in finance and its role in risk management and algorithmic trading to enhance decision-making and optimize strategies."
+title: Understanding Certainty Equivalent In Risk Decision Making
+description: Certainty equivalent helps you quantify risk tolerance by turning uncertain
+  outcomes into a sure payout matching your comfort level Discover more inside
 ---
 
 

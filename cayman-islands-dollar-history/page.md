@@ -1,6 +1,7 @@
 ---
-title: "Cayman Islands Dollar: Overview and History"
-description: "Explore the Cayman Islands Dollar's history and role in financial markets. Understand its fixed exchange rate and significance in algorithmic trading strategies."
+title: Cayman Islands Dollar Peg Ensures Economic Stability
+description: Cayman Islands Dollar is pegged to the US dollar at CI1 to US1.20 ensuring
+  stable currency for tourists businesses and investors Discover more inside
 ---
 
 

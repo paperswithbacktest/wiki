@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Bond Buyer 11 Municipal Bond Index
-description: Bond Buyer 11 tracks yields of 11 municipal general obligation bonds
-  to benchmark market trends and guide investor decisions. Discover more inside.
+title: Bond Buyer 11 Index Explained for Municipal Bond Investors
+description: Bond Buyer 11 tracks yields on 11 municipal bonds to help investors gauge
+  market trends and inform weekly buy or sell decisions Discover more inside.
 ---
 
 

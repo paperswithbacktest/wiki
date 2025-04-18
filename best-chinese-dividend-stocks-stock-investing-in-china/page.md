@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Chinese Dividend Stocks for Investors
-description: Chinese dividend stocks deliver steady income and long term growth backed
-  by analysis of payout ratios debt levels and sector trends Discover more inside
+title: Chinese Dividend Stocks Investor Guide for Sustainable Income
+description: Chinese dividend stocks offer steady income and growth insights by analyzing
+  payout history financial strength and sector trends Discover more inside.
 ---
 
 

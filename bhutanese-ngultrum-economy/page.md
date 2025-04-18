@@ -1,7 +1,7 @@
 ---
-title: The Essential Guide to Bhutanese Ngultrum and Economy
-description: Bhutanese Ngultrum anchors Bhutans economy with a 1:1 peg to Indian Rupee
-  boosting trade energy and tourism revenues and sustainable growth Discover inside
+title: Bhutanese Ngultrum and Bhutan's Economic Development Insights
+description: Bhutanese Ngultrum links the national currency to the rupee and drives
+  vital sectors like hydropower agriculture and tourism Discover more inside.
 ---
 
 

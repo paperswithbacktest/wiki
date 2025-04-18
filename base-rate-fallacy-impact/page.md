@@ -1,7 +1,7 @@
 ---
-title: Proven Strategies To Effectively Avoid The Base Rate Fallacy
-description: Base rate fallacy highlights why ignoring how common events are leads
-  to errors Factor general statistics into decisions Discover more inside.
+title: Understanding the Base Rate Fallacy in Decision Making
+description: Base rate fallacy reminds you to weigh how common outcomes are when making
+  decisions so you avoid false conclusions and costly errors. Discover more inside.
 ---
 
 

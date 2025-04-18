@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Understanding Base and Quote Currencies
-description: Base currency explains how financial transactions define value and ease
-  global trades by comparing one currency against another. Discover more inside.
+title: Understanding Base and Quote Currencies in Forex Trading
+description: Base and quote currencies are central to currency trading, enabling you
+  to decode exchange rates and make informed forex decisions Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Block Height Insights for Cryptocurrency Security
-description: Block height measures the number of blocks in a blockchain to confirm
-  transactions track network health and secure consensus Discover more inside
+title: Understanding Block Height in Cryptocurrency Systems
+description: Block height tracks added blocks in a blockchain to help users verify
+  transaction order confirm security and accelerate confirmations Discover more inside
 ---
 
 

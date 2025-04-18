@@ -1,7 +1,7 @@
 ---
-title: Ultimate Guide to Dividend Stocks for Algorithmic Traders
-description: Dividend stocks deliver steady income and growth with proven strategies
-  for yield analysis, reinvestment and risk management. Discover more inside
+title: Incorporating Dividend Stocks Into Algorithmic Trading Strategies
+description: Dividend stocks offer steady income and boost algorithmic trading returns
+  with strategies such as dividend capture and reinvestment Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Alternative Data in the Automotive Industry
-description: Alternative Data helps automotive companies predict trends and understand
-  consumer behavior through real-time insights. Discover more inside.
+title: Harnessing Alternative Data for Automotive Market Insights
+description: Alternative data in the automotive industry uncovers trends via satellite
+  imagery and connected car data to optimize operations Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Black Swan Events in Stock Market Investing
-description: Black Swan events can unexpectedly upend your portfolio but strategic
-  risk management and diversification help you stay resilient. Discover more inside.
+title: Black Swan Events in the Stock Market and Strategies
+description: Black Swan events reshape markets with rare crashes and ripple effects
+  highlighting diversification hedging and risk management Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Debt-to-Equity Ratio Calculation in Excel
-description: Debt-to-equity ratio in Excel shows company leverage with data entry
-  formulas formatting and charts to assess financial risk Discover more inside
+title: Debt-to-Equity Ratio Analysis and Excel Calculation Guide
+description: Debt-to-equity ratio shows company leverage Use Excel templates formulas
+  and charts to calculate track visualize results Discover more inside
 ---
 
 

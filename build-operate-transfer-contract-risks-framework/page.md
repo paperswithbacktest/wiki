@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Build-Operate-Transfer Contract Success
-description: Build-Operate-Transfer Contract setups require precise risk management
-  and strategic planning to optimize returns across all phases Discover more inside.
+title: Understanding Build-Operate-Transfer Contracts for Infrastructure
+description: Build-Operate-Transfer Contracts streamline infrastructure funding by
+  shifting upfront costs and sharing risks between partners. Discover more inside.
 ---
 
 

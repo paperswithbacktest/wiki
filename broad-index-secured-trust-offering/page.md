@@ -1,7 +1,7 @@
 ---
-title: Ultimate Broad Index Secured Trust Offering BISTRO Insights
-description: Broad Index Secured Trust Offering BISTRO transfers loan default risk
-  from banks to investors while boosting portfolio diversification Discover more inside
+title: Broad Index Secured Trust Offerings Explained For Investors
+description: Broad Index Secured Trust Offering lets investors transfer loan default
+  risk through a diversified credit pool and earn returns. Discover more inside
 ---
 
 

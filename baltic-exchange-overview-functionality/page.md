@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Baltic Exchange and Shipping Indices
-description: Baltic Exchange provides daily shipping rate indices like the Baltic
-  Dry Index and insights to help businesses optimize freight costs Discover inside
+title: Understanding the Baltic Exchange and Its Shipping Indices
+description: Baltic Exchange indices reveal daily shipping cost trends for dry bulk
+  and Capesize to help businesses optimize freight Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to the Average Cost Basis Method for Investors
-description: Average Cost Basis Method simplifies investment tracking by averaging
-  purchase prices and easing tax reporting for mutual funds Discover more inside.
+title: Understanding the Average Cost Basis Method for Investors
+description: Average Cost Basis Method simplifies tracking share purchases and tax
+  reporting by using a single average price for all shares Discover more inside.
 ---
 
 

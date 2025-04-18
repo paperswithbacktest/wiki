@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Minority Interest in Financial Reporting
-description: Minority interest clarifies non controlling stakes in subsidiaries to
-  reflect true company value and boost reporting accuracy Discover more inside.
+title: Understanding Minority Interest in Financial Reporting
+description: Minority interest shows the portion of subsidiary equity owned by other
+  shareholders to ensure clear financial statements. Discover more inside.
 ---
 
 

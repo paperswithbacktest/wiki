@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Busted Convertible Securities for Investors
-description: Busted convertible securities offer steady interest even when conversion
-  is out of the money. Explore risks strategies and returns Discover more inside
+title: Understanding Busted Convertible Securities and Their Risks
+description: Busted convertible securities provide steady interest income when conversion
+  is not viable while you await stock appreciation Discover more inside.
 ---
 
 

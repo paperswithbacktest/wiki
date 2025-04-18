@@ -1,6 +1,7 @@
 ---
-title: "Cash Ratio Formula and Application"
-description: "Discover how the cash ratio formula helps algorithmic traders assess company stability and manage risks by evaluating liquidity and financial health."
+title: How the Cash Ratio Reveals Company Liquidity and Stability
+description: Cash ratio calculates how well companies can pay short term liabilities
+  using cash alone offering insights into liquidity stability Discover more inside
 ---
 
 

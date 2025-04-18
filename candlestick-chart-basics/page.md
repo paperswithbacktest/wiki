@@ -1,6 +1,7 @@
 ---
-title: "Candlestick Chart Basics"
-description: "Learn the essentials of candlestick charts in algorithmic trading to enhance your trading strategies and gain insights into market trends and trader sentiments."
+title: Essential Guide to Mastering Candlestick Chart Analysis
+description: Candlestick chart analysis explains key components patterns and common
+  signals to help you predict market trends with confidence Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Charles-Albert Lehalle"
-description: "Explore the influential career of Charles-Albert Lehalle in algorithmic trading and quantitative finance focusing on market microstructure and data sciences."
+title: Charles-Albert Lehalle Quantitative Finance And Market Microstructure
+description: Charles-Albert Lehalle applies advanced math to optimize trading strategies
+  and enhance market microstructure for smarter investments Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Chicago Board of Trade Overview"
-description: "Explore the Chicago Board of Trade's pivotal role in futures trading with insights on algorithmic strategies, technological influence, and market evolution."
+title: Chicago Board of Trade Commodity Futures Market Overview
+description: Chicago Board of Trade futures trading delivers a complete overview of
+  its history market functions and risk management tools Discover more inside
 ---
 
 
