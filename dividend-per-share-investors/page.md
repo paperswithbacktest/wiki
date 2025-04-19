@@ -1,6 +1,7 @@
 ---
-title: "Dividend Per Share and Its Implications for Investors"
-description: "Discover how Dividend Per Share (DPS) impacts investment strategies and learn its integration in algorithmic trading to enhance decision-making and returns."
+title: Understanding Dividend Per Share for Reliable Income Planning
+description: Dividend per share shows your expected payout per share and helps investors
+  assess income potential and financial stability Discover more inside.
 ---
 
 

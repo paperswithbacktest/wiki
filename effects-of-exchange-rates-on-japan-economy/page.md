@@ -1,6 +1,7 @@
 ---
-title: "Effects of Exchange Rates on Japan's Economy"
-description: "Explore how exchange rates shape Japan's economy, affecting trade balances and policy decisions through algorithmic trading's role in mitigating currency risks."
+title: Exchange Rate Volatility and Its Impact on Japan's Economy
+description: Exchange rate volatility affects Japan's exports and imports by shaping
+  prices and inflation while guiding central bank actions Discover more inside.
 ---
 
 

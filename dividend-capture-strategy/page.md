@@ -1,6 +1,7 @@
 ---
-title: "Dividend Capture Strategy"
-description: "Explore dividend capture strategy and algorithmic trading to optimize income and growth from stocks Discover the synergy of these strategies for investors"
+title: Mastering the Dividend Capture Strategy for Experienced Investors
+description: Dividend capture strategy delivers guidance on timing trades managing
+  risks costs and tax, ex-dividend timing tips to boost returns Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economic Outlook of India and Brazil: A Comparative Analysis"
-description: "Explore the economic landscapes of Brazil and India with a comparative analysis of key indicators challenges and growth opportunities in the global market."
+title: Economic Indicators Comparison Between India and Brazil
+description: Economic comparison of India and Brazil examines GDP growth inflation
+  unemployment to reveal their economic strengths and challenges Discover more inside
 ---
 
 

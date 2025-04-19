@@ -1,6 +1,7 @@
 ---
-title: "Efficiency Ratios in Financial Analysis"
-description: "Explore efficiency ratios and performance metrics in algorithmic trading. Understand how these tools optimize strategies, enhance decision-making, and boost outcomes."
+title: Efficiency Ratios in Financial Analysis for Algorithmic Trading
+description: Efficiency ratios reveal how companies and trading algorithms optimize
+  resources to boost performance and profitability Discover more inside
 ---
 
 

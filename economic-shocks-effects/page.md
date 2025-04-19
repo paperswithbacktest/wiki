@@ -1,6 +1,7 @@
 ---
-title: "Economic Shocks and Their Effects"
-description: "Explore the impact of economic shocks on markets and the crucial role of algorithmic trading in mitigating risks and stabilizing economies during such disruptions."
+title: Understanding Economic Shocks Types Impacts And Policy Responses
+description: Economic shocks can disrupt growth inflation, Learn how different types
+  affect economies and why timely policy responses matter Discover more inside
 ---
 
 

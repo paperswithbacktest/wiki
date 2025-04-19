@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Shares and Stocks"
-description: "Explore the differences between shares and stocks with a focus on algorithmic trading Learn how modern strategies reshape investments in today's markets"
+title: Shares and Stocks Explained Complete Guide for Beginners
+description: Shares and stocks demystified with clear definitions differences risks
+  types and benefits so you can invest confidently Discover more inside
 ---
 
 

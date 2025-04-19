@@ -1,6 +1,7 @@
 ---
-title: "Epsilon Greedy Policy (Machine Learning)"
-description: "The Epsilon Greedy Policy balances exploration and exploitation in machine learning allowing you to try new actions while mostly choosing the best-known option."
+title: Understanding Epsilon Greedy Policy in Reinforcement Learning
+description: Epsilon Greedy Policy balances exploration and exploitation in reinforcement
+  learning to boost reward performance over time Discover more inside
 ---
 
 ![Image](images/1.png)

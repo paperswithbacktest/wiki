@@ -1,6 +1,7 @@
 ---
-title: "Equity Risk Premium Calculation"
-description: "Explore the calculation of equity risk premium and its role in refining investment strategies, using algorithmic trading and investment analysis for optimal outcomes."
+title: Understanding Equity Risk Premium Calculation and Strategies
+description: Equity risk premium helps investors measure potential stock returns over
+  bonds and refine portfolio decisions in active markets Discover more inside.
 ---
 
 

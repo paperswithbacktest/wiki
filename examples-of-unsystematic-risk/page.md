@@ -1,6 +1,7 @@
 ---
-title: "Examples of Unsystematic Risk"
-description: "Explore the complexities of unsystematic risk in algorithmic trading Learn how to mitigate these risks through diversification and robust risk management strategies"
+title: Mastering Unsystematic Risk Through Effective Diversification
+description: Unsystematic risk management hinges on diversifying across industries
+  to limit company specific losses and protect portfolio value Discover more inside
 ---
 
 

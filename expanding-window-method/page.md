@@ -1,6 +1,7 @@
 ---
-title: "Expanding window method"
-description: Discover the expanding window method in algorithmic trading and learn how it provides a dynamic approach to analyzing time series data by continuously incorporating new information. This technique helps traders detect trends and make informed decisions by offering a comprehensive view of long-term market movements. Unlike rolling windows, expanding windows accumulate data over time, enabling improved decision-making and strategy adaptation. Explore the benefits of using expanding windows in trading, compare them with rolling windows, and understand their implementation using Python and Pandas for enhanced analytical capabilities.
+title: Expanding Window Method In Time Series Forecasting Explained
+description: Expanding window method leverages all past data to continually refine
+  time series forecasts and adapt to trends with each update, discover more inside.
 ---
 
 

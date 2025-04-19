@@ -1,6 +1,7 @@
 ---
-title: "Diworsification: Concept, Mechanisms, and Solutions"
-description: "Explore the concept of diworsification and its impact on investment strategies Learn how algorithmic trading can enhance or hinder portfolio management for optimal outcomes"
+title: Strategies to Prevent Diworsification in Investment Portfolios
+description: Diworsification drains returns and complicates portfolios use allocation
+  and rebalancing to maintain focus and optimize performance Discover more inside
 ---
 
 

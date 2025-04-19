@@ -1,6 +1,7 @@
 ---
-title: "Demand-Side Economics and Policy Examples"
-description: "Explore the synergy between demand-side economics and algorithmic trading in this in-depth analysis of fiscal policies and market dynamics in a global economy."
+title: Understanding Demand-Side Economics and Its Impact on Growth
+description: Demand-side economics shows how targeted government spending and tax
+  policies boost consumer demand to drive growth and jobs. Discover more inside.
 ---
 
 

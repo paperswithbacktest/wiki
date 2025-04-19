@@ -1,6 +1,7 @@
 ---
-title: "Euroyen: Overview and Functionality"
-description: "Discover the Euroyen market's impact on algorithmic trading optimizing strategies through access to yen-denominated deposits outside Japan, enhancing liquidity and risk management."
+title: Understanding the Euroyen Market and Its Financial Impact
+description: Euroyen market connects European and Japanese economies by enabling efficient
+  yen trading and hedging with deposits bonds and futures Discover more inside
 ---
 
 

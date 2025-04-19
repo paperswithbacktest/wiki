@@ -1,6 +1,7 @@
 ---
-title: "Economic Sectors and Their Main Types"
-description: "Explore the diverse landscape of economic sectors and their significance in algo trading Understand sector roles in financial markets and optimize investment strategies"
+title: Understanding Economic Sectors From Primary To Quinary
+description: Economic sectors show how primary extraction manufacturing services research
+  and leadership drive jobs GDP and innovation Discover more inside
 ---
 
 

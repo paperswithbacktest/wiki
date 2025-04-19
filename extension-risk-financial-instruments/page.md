@@ -1,6 +1,7 @@
 ---
-title: "Extension Risk in Financial Instruments"
-description: "Explore extension risk in bond markets and its implications on returns amid changing conditions. Learn how algo trading impacts these risks in finance."
+title: Understanding Extension Risk in Fixed Income Investments
+description: Extension Risk can delay bond repayments when interest rates rise and
+  erode expected yields Apply strategies to mitigate its impact Discover more inside
 ---
 
 

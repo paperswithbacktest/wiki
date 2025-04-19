@@ -1,6 +1,7 @@
 ---
-title: "Elder Ray Indicator in Market Analysis"
-description: "Explore the Elder Ray Indicator's role in market analysis, highlighting its integration in algorithmic trading to forecast price shifts, trends, and transitions."
+title: Understanding the Elder Ray Indicator for Market Trend Analysis
+description: Elder Ray Indicator helps traders assess buyer and seller strength using
+  Bull Power and Bear Power for smarter entry and exit points Discover more inside.
 ---
 
 

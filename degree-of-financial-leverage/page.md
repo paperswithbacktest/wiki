@@ -1,6 +1,7 @@
 ---
-title: "Degree of Financial Leverage"
-description: "Explore how the Degree of Financial Leverage (DFL) impacts algorithmic trading strategies Enhance your trading models by understanding DFL's role in finance"
+title: Understanding Degree of Financial Leverage and Its Impact
+description: Degree of Financial Leverage reveals how debt influences EPS volatility
+  and guides smarter funding decisions for balanced growth Discover more inside.
 ---
 
 

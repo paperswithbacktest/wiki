@@ -1,6 +1,7 @@
 ---
-title: "Distributed Ledgers: Usage and Potential Applications"
-description: "Explore the transformative potential of distributed ledger technology in algorithmic trading and beyond. Discover how blockchain enhances security, transparency, and efficiency by decentralizing data storage, reducing risks, and improving transaction integrity. Unleash innovation in financial systems and beyond by leveraging the auditability and traceability offered by distributed ledgers, paving the way for a new era of digital transactions."
+title: Understanding Distributed Ledger Technology For Business
+description: Distributed ledger technology delivers secure transparent records with
+  consensus protocols and powers finance and supply chain solutions Discover inside
 ---
 
 

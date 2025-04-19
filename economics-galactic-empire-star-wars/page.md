@@ -1,6 +1,7 @@
 ---
-title: "Economics of the Galactic Empire in Star Wars"
-description: "Explore the sophisticated economic landscape of the Galactic Empire in Star Wars and its parallels to modern economies emphasizing algorithmic trading and trade networks."
+title: Galactic Empire Economy And Resource Control Explained
+description: Galactic Empire economy breakdown reveals how taxes trade and resource
+  control fuel Empires power and shape planetary wealth Discover more inside.
 ---
 
 

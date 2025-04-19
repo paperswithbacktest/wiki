@@ -1,6 +1,7 @@
 ---
-title: "Disparate Treatment (Machine Learning)"
-description: "Ensure your machine learning models do not engage in disparate treatment by avoiding the use of protected characteristics like race or gender in decision-making."
+title: Understanding Disparate Treatment In Machine Learning Models
+description: Disparate treatment in machine learning occurs when models use protected
+  traits to bias outcomes audit your algorithms for fairness Discover more inside
 ---
 
 ![Image](images/1.png)

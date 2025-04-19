@@ -1,6 +1,7 @@
 ---
-title: "Down-and-Out Option"
-description: "Explore down-and-out options, exotic derivatives with a knockout feature that nullifies them if the asset hits a barrier, key in diverse trading strategies."
+title: Understanding Down-and-Out Options and Barrier Levels
+description: Down-and-Out Options expire if the asset price hits a barrier yet cost
+  less than standard options for efficient risk management Discover more inside
 ---
 
 

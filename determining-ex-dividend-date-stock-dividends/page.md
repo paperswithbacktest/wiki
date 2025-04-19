@@ -1,6 +1,7 @@
 ---
-title: "Determining the Ex-Dividend Date for Stock Dividends"
-description: "Learn how to calculate the ex-dividend date and enhance your stock investment strategy using algorithmic trading insights for optimized dividend capture."
+title: Understanding the Ex-Dividend Date in Stock Investing
+description: Ex-Dividend Date determines who receives dividends and affects stock
+  pricing. Get guidance on timing strategies and taxes. Discover more inside.
 ---
 
 

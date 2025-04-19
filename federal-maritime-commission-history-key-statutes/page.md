@@ -1,6 +1,7 @@
 ---
-title: "Federal Maritime Commission: History and Key Statutes"
-description: "Explore the history and role of the Federal Maritime Commission in regulating ocean shipping ensuring fairness in international trade and promoting competition."
+title: Federal Maritime Commission Roles Regulations and Enforcement
+description: Federal Maritime Commission oversight ensures fair ocean shipping by
+  enforcing key statutes and resolving disputes efficiently Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economic Indicators for Predicting Market Trends"
-description: "Explore the pivotal role of economic indicators and market trends in algo trading. Discover how predictive economics aids in informed decision-making for investors."
+title: Understanding Economic Indicators to Predict Market Trends
+description: Economic indicators offer real-time and forward-looking insights on market
+  and investor trends to help you forecast accurately. Discover more inside.
 ---
 
 

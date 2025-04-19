@@ -1,6 +1,7 @@
 ---
-title: "Durable Goods Orders: Overview and Considerations"
-description: "Explore the significance of Durable Goods Orders in economic analysis and algo trading These reports provide insights into manufacturing trends and economic forecasting"
+title: Understanding Durable Goods Orders and Their Economic Impact
+description: Durable goods orders reveal consumer and business confidence each month
+  to shape economic trends and guide strategic planning Discover more inside.
 ---
 
 

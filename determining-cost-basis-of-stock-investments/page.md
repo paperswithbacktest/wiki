@@ -1,6 +1,7 @@
 ---
-title: "Determining Cost Basis of Stock Investments"
-description: "Explore the complexities of determining cost basis in stock investments and algorithmic trading Learn methods like FIFO LIFO and Average Cost to enhance profitability"
+title: Guide to Calculating Stock Cost Basis for Tax Purposes
+description: Stock Cost Basis helps investors determine accurate profits and losses,
+  adjust for splits dividends and wash sales to optimize taxes Discover more inside
 ---
 
 

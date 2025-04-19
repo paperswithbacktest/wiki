@@ -1,6 +1,7 @@
 ---
-title: "Elliott wave theory"
-description: Explore the transformative impact of incorporating Elliott Wave Theory into algorithmic trading strategies. This method, based on repeating wave patterns influenced by investor psychology, aids traders in making data-driven decisions by automating the identification of these patterns. Enhance your trading precision and forecast market turning points by decoding the rules of Elliott Wave Theory to optimize entry and exit strategies. Ideal for traders aiming to leverage historical patterns for future financial decisions, our guide investigates into essential components, practical applications, and how to integrate this powerful tool into your trading arsenal for strategic advantage.
+title: Elliott Wave Theory Explained for Effective Market Analysis
+description: Elliott Wave Theory reveals repeating impulse and corrective wave patterns
+  to guide trading decisions and spot entry exit points Discover more inside
 ---
 
 

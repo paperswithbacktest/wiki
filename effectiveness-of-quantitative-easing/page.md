@@ -1,6 +1,7 @@
 ---
-title: "Effectiveness of Quantitative Easing"
-description: "Explore the impact of quantitative easing on financial markets and how algorithmic trading transforms the economic landscape offering insights for investors and policymakers."
+title: Understanding Quantitative Easing and Its Economic Impacts
+description: Quantitative easing increases money supply to lower interest rates and
+  stimulate spending while managing inflation risks. Discover more inside.
 ---
 
 

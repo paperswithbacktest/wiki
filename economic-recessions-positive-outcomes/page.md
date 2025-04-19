@@ -1,6 +1,7 @@
 ---
-title: "Economic Recessions and Potential Positive Outcomes"
-description: "Explore the potential positive outcomes of economic recessions and the opportunities they present for algorithmic trading strategies during market fluctuations."
+title: Understanding Economic Recessions Causes And Opportunities
+description: Economic recession insights explain the causes effects and practical
+  strategies to leverage downturns for growth and resilience Discover more inside
 ---
 
 

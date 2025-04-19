@@ -1,6 +1,7 @@
 ---
-title: "Ethical Standards for Financial Advisors"
-description: "Explore the crucial role of ethical standards for financial advisors in navigating the complexities of modern finance, especially within algorithmic trading."
+title: Key Ethical Standards Every Financial Advisor Should Follow
+description: Ethical standards for financial advisors ensure honest transparent client
+  relationships and reduce conflicts of interest Discover more inside
 ---
 
 

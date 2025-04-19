@@ -1,6 +1,7 @@
 ---
-title: "Demand Shock: Causes, Impact, and Examples"
-description: "Explore the concept of demand shock in this detailed guide discussing its causes effects and examples in a modern economic context with a focus on algorithmic trading Learn how sudden demand changes affect market dynamics economic stability and how they interact with technological advancements and policy shifts Essential reading for policymakers businesses and investors aiming to navigate economic fluctuations and ensure market stability"
+title: Understanding Demand Shocks and Their Impact on the Economy
+description: Demand shock can alter consumer spending and business revenue overnight
+  while prompting inflation Navigate these sudden shifts Discover more inside.
 ---
 
 

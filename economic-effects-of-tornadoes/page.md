@@ -1,6 +1,7 @@
 ---
-title: "Economic Effects of Tornadoes"
-description: "Explore the economic impacts of tornadoes and the role of algorithmic trading in managing market volatility during disasters to optimize financial strategies."
+title: Understanding Economic Impact Of Tornadoes On Local Communities
+description: Tornado economic impact drives costly repairs for homes businesses and
+  farms while forecasts guide preparation and recovery Discover more inside.
 ---
 
 

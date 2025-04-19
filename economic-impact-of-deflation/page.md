@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of Deflation"
-description: "Explore the profound economic impact of deflation and its implications for algorithmic trading Learn how deflation influences market dynamics and economic policies"
+title: 'Deflation Explained: Causes, Impacts and Policy Responses'
+description: Deflation can lower prices temporarily but trigger spending freezes job
+  losses and debt burdens when expectations shift. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Encumbrances and Nonpossessory Interests in Real Estate"
-description: "Learn about nonpossessory interests and encumbrances in real estate including their impact on trading and investment decisions for better market strategies."
+title: Real Estate Encumbrances And Nonpossessory Interests Explained
+description: Real Estate Encumbrances include mortgages liens easements and restrictions
+  Understand how to identify manage and clear these claims Discover more inside.
 ---
 
 

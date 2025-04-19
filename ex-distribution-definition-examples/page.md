@@ -1,6 +1,7 @@
 ---
-title: "Ex-Distribution: Definition and Examples"
-description: "Explore the dynamic interplay between ex-distribution finance, dividends, and algorithmic trading to optimize your investment strategies and enhance shareholder value."
+title: Understanding Ex-Distribution and Its Impact on Investments
+description: Ex-distribution clarifies when investors lose rights to upcoming payouts
+  and shows how to time trades to maximize income. Discover more inside.
 ---
 
 

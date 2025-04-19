@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Sustainability World Index Methodology"
-description: "Explore the methodology of the Dow Jones Sustainability World Index and its relevance for algorithmic trading strategies focusing on ESG criteria and market impact."
+title: Dow Jones Sustainability World Index Explained for Investors
+description: Dow Jones Sustainability World Index helps investors back companies leading
+  in ESG through rigorous annual assessments and scoring Discover more inside
 ---
 
 

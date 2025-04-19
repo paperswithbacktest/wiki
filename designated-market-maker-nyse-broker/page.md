@@ -1,6 +1,7 @@
 ---
-title: "Designated Market Maker: Role at NYSE and Comparison to Brokers"
-description: "Explore the vital roles of Designated Market Makers and brokers at NYSE. Learn how they ensure market efficiency and stability through algorithmic trading."
+title: Essential Responsibilities Of A Designated Market Maker At NYSE
+description: Designated Market Maker professionals ensure stability by using advanced
+  tools to maintain liquidity and fair prices on the NYSE Discover more inside.
 ---
 
 

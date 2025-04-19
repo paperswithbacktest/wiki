@@ -1,6 +1,7 @@
 ---
-title: "DRIFT Methodology in Managerial Accounting"
-description: "Explore the DRIFT methodology in managerial accounting and algorithmic trading to optimize processes reduce inefficiencies and enhance trading reliability."
+title: DRIFT Methodology for Managerial Accounting Efficiency
+description: DRIFT methodology guides managers to define goals record data identify
+  issues track results and improve financial decisions Discover more inside
 ---
 
 

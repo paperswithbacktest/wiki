@@ -1,6 +1,7 @@
 ---
-title: "Fibonacci Arcs: Calculation and Formula"
-description: "Explore Fibonacci Arcs in algo trading and discover how these dynamic tools identify support and resistance levels aiding in market forecasting for traders."
+title: Mastering Fibonacci Arcs for Technical Analysis Support Levels
+description: Fibonacci Arcs help traders identify key support and resistance by drawing
+  curved levels based on Fibonacci ratios and market trends Discover more inside.
 ---
 
 

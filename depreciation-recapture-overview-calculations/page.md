@@ -1,6 +1,7 @@
 ---
-title: "Depreciation Recapture Overview and Calculations"
-description: "Explore how depreciation recapture and asset depreciation influence investment strategies in algo trading to maximize tax efficiency and trading profitability."
+title: Understanding Depreciation Recapture Tax Rules for Property
+description: Depreciation recapture taxes claimed deductions as ordinary income when
+  you sell property and can reduce your net profit. Discover more inside.
 ---
 
 

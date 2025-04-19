@@ -1,6 +1,7 @@
 ---
-title: "Feature Engineering (Machine Learning)"
-description: "Enhance your machine learning models by mastering feature engineering. Learn how to create, modify, and transform data features for improved model performance."
+title: Feature Engineering Strategies to Improve Machine Learning Models
+description: Feature engineering turns raw data into meaningful features using encoding
+  scaling and interaction terms to boost model accuracy. Discover more inside.
 ---
 
 ![Image](images/1.png)

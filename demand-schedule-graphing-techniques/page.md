@@ -1,6 +1,7 @@
 ---
-title: "Demand Schedule: Overview and Graphing Techniques"
-description: "Explore demand schedules and graphing techniques crucial for algo trading and economic analysis Learn how supply and demand concepts shape market decisions"
+title: Comprehensive Guide to Demand Schedules and Pricing Strategy
+description: Demand schedule analysis helps businesses predict how price movements
+  influence quantity demanded with tables graphs and elasticity Discover more inside.
 ---
 
 

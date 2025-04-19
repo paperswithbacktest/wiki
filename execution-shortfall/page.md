@@ -1,6 +1,7 @@
 ---
-title: "Execution shortfall"
-description: "Discover execution shortfall in algo trading and learn strategies to minimize it Enhance trading efficiency by understanding its impact on cost and strategy performance"
+title: Managing Execution Shortfall to Optimize Trading Performance
+description: Execution shortfall tracks the gap between planned and actual trade prices
+  so traders can adjust strategies to reduce costs. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dividend Payout Ratio Calculation from Income Statement"
-description: "Explore the importance of the dividend payout ratio in evaluating a company's financial health and dividend policies for successful algorithmic trading."
+title: Understanding the Dividend Payout Ratio for Informed Investing
+description: Dividend payout ratio shows how much earnings a company distributes versus
+  retains helping you balance income and growth goals Discover more inside
 ---
 
 

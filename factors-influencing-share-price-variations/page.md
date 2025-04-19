@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Share Price Variations"
-description: "Explore how economic factors, market sentiment, and company dynamics impact share prices. Uncover the role of algorithmic trading in modern finance."
+title: Major Factors Influencing Share Price Fluctuations
+description: Share price fluctuations depend on economic indicators company earnings
+  and market sentiment to guide your investment decisions Discover more inside
 ---
 
 

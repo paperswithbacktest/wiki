@@ -1,6 +1,7 @@
 ---
-title: "Economic Growth and Measurement"
-description: "Explore the synergy between economic indicators and algorithmic trading to understand economic growth. Learn how GDP and algo trading impact financial decisions."
+title: Measuring Economic Growth Through Gross Domestic Product
+description: Economic growth measured by Gross Domestic Product reveals how production
+  consumption and investment drive jobs incomes inform policy Discover more inside.
 ---
 
 

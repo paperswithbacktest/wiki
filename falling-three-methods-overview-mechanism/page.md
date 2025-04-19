@@ -1,6 +1,8 @@
 ---
-title: "Falling Three Methods: Overview and Mechanism"
-description: "Explore the falling three methods pattern a key tool in technical analysis that helps predict bearish trend continuations especially in algorithmic trading."
+title: Falling Three Methods Pattern Explained for Traders
+description: Falling Three Methods pattern shows a brief pause in a downtrend and
+  signals continued bearish momentum to inform sell and short strategies Discover
+  more inside.
 ---
 
 

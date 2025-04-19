@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of Robotics"
-description: "Explore the transformative impact of automation, robotics, and algorithmic trading on the economy, as these technologies reshape financial processes with improved efficiency and precision. Dive into how these innovations are redefining market dynamics while presenting challenges like cybersecurity risks. Understanding these trends is crucial for stakeholders aiming to leverage advancements and navigate the evolving automation economy."
+title: Understanding the Economic Impact of Robotics Across Industries
+description: Economic impact of robotics reshapes productivity labor costs and global
+  markets while revealing challenges and benefits Discover more inside
 ---
 
 

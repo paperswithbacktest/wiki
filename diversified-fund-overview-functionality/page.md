@@ -1,6 +1,7 @@
 ---
-title: "Diversified Fund: Overview and Functionality"
-description: "Explore the benefits of diversified fund investment and algorithmic trading strategies for optimizing portfolio stability and efficiency in today's financial markets."
+title: Understanding Diversified Funds for Balanced Investment Growth
+description: Diversified fund strategies spread investments across stocks bonds and
+  real assets to lower risk and aim for steady returns Discover more inside
 ---
 
 

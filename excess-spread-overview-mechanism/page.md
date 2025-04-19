@@ -1,6 +1,7 @@
 ---
-title: "Excess Spread: Overview and Mechanism"
-description: "Explore the interplay of securitization, excess spread, and algorithmic trading, highlighting their collective impact on modern financial markets and investment strategies."
+title: Understanding Excess Spread in Asset-Backed Securitization
+description: Excess spread ensures a safety cushion in securitized assets by covering
+  losses and boosting credit enhancement for stable investments Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dividend Drag: Causes and Examples"
-description: "Explore the impact of dividend drag on investment returns and discover how algorithmic trading strategies can help mitigate its effects for better portfolio performance."
+title: Understanding Dividend Drag and Its Impact on Investment Growth
+description: Dividend drag erodes fund growth by diverting dividends and taxes from
+  reinvestment. Identify tactics to spot and reduce its impact Discover more inside.
 ---
 
 

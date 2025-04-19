@@ -1,6 +1,7 @@
 ---
-title: "Fallen Angel Bonds and Rising Star Bonds: Risks and Opportunities"
-description: "Explore the intricacies of rising star and fallen angel bonds in the high-yield market, uncovering risks and opportunities through algorithmic trading insights."
+title: Understanding Fallen Angel and Rising Star Bond Dynamics
+description: Fallen Angel Bonds reveal higher yields amid credit downgrades while
+  Rising Star Bonds profit from upgrades and price gains Discover more inside
 ---
 
 

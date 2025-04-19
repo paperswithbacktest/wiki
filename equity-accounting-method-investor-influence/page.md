@@ -1,6 +1,7 @@
 ---
-title: "Equity Accounting Method and Investor Influence"
-description: "Delve into the impact of equity accounting and investor influence on trading strategies Discover how algorithmic trading optimizes investment and financial success"
+title: Equity Accounting Method Explained for Financial Reporting
+description: Equity Accounting Method tracks your share of investee profits and losses
+  to deliver accurate financial reporting and insights Discover more inside.
 ---
 
 

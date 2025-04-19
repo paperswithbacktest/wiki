@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Corporate Stock Splits"
-description: "Explore how stock splits and algorithmic trading impact corporate finance and investing strategies to optimize liquidity, market activity, and trading efficiency."
+title: Understanding the Impact and Benefits of Corporate Stock Splits
+description: Corporate stock split makes shares more affordable to boost liquidity
+  investor confidence and signal growth potential Discover more inside today.
 ---
 
 

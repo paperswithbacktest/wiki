@@ -1,6 +1,7 @@
 ---
-title: "Defensive Interval Ratio: Formula and Benefits"
-description: "Explore the Defensive Interval Ratio DIR its formula and benefits in algorithmic trading Learn how DIR aids in assessing a company's liquidity and stability"
+title: Using Defensive Interval Ratio to Assess Financial Resilience
+description: Defensive Interval Ratio measures how long a company can operate on liquid
+  assets alone and effectively guides liquidity planning Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Doomsday Call: Definition and Mechanism"
-description: "Explore the world of algorithmic trading and the intriguing concept of the doomsday call in bond markets. Learn how these tools influence financial strategies."
+title: Understanding Doomsday Calls as Market Crash Insurance
+description: Doomsday Calls provide investors with a crash protection tool by allowing
+  gains or loss mitigation when markets plunge Discover more inside.
 ---
 
 

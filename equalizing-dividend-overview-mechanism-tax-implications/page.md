@@ -1,6 +1,7 @@
 ---
-title: "Equalizing Dividend: Overview, Mechanism, and Tax Implications"
-description: "Discover the complexities of dividend strategies and tax implications in algorithmic trading. Understand how these elements influence investor returns and tax efficiency."
+title: Understanding Equalizing Dividends in Investment Funds
+description: Equalizing dividends ensure all investors receive the same profit share
+  regardless of purchase timing by covering earlier earnings Discover more inside
 ---
 
 

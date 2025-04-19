@@ -1,6 +1,7 @@
 ---
-title: "European Financial Stability Facility"
-description: "Explore the European Financial Stability Facility's role in crisis management and discover how algorithmic trading influences eurozone financial stability."
+title: European Financial Stability Facility Role In Eurozone Stability
+description: European Financial Stability Facility reinforces eurozone stability with
+  pooled member funding low interest loans and support tools Discover more inside
 ---
 
 

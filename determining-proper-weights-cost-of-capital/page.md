@@ -1,6 +1,7 @@
 ---
-title: "Determining Proper Weights for Cost of Capital"
-description: "Explore the essential role of cost of capital in financial management and algorithmic trading Learn to optimize investment strategies and boost financial decisions"
+title: Understanding Cost of Capital and How to Calculate WACC
+description: Cost of capital helps businesses weigh debt and equity costs to calculate
+  WACC accurately and make profitable investment choices Discover more inside
 ---
 
 

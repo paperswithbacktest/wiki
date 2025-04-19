@@ -1,6 +1,7 @@
 ---
-title: "Feature Extraction (Machine Learning)"
-description: "Explore feature extraction in machine learning transforming raw data into efficient features to enhance model performance and prediction accuracy."
+title: Feature Extraction Techniques for Efficient Machine Learning
+description: Feature extraction turns raw data into features to boost machine learning
+  speed and accuracy using PCA LDA and deep learning methods Discover more inside
 ---
 
 ![Image](images/1.png)

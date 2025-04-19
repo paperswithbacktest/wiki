@@ -1,6 +1,7 @@
 ---
-title: "Diluted Normalized Earnings Per Share"
-description: "Explore how diluted normalized EPS enhances algorithmic trading strategies by providing insight into a company's true earning potential after accounting for share dilution."
+title: Understanding Diluted Normalized Earnings Per Share DNEPS
+description: Diluted Normalized Earnings Per Share reveals adjusted profit per share
+  after dilution and one-time adjustments to compare Discover more inside
 ---
 
 

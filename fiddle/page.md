@@ -1,6 +1,7 @@
 ---
-title: "Fiddle (Machine Learning)"
-description: "Fiddle streamlines machine learning by enabling quick experimentation and collaboration, enhancing model development and deployment efficiency for teams."
+title: Fiddle For Machine Learning Model Management And Experimentation
+description: Fiddle streamlines machine learning model management and experimentation
+  with code-free tweaks and deployment Discover more inside
 ---
 
 ![Image](images/1.jpeg)

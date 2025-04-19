@@ -1,6 +1,7 @@
 ---
-title: "Effective Gross Income and Calculation Formula"
-description: "Explore how Effective Gross Income and algorithmic trading converge to enhance real estate investment strategies by providing precise data analysis and planning."
+title: Understanding Effective Gross Income for Real Estate Investors
+description: Effective gross income shows property revenue after vacancies and bad
+  debt losses and guides investors to optimize returns Discover more inside
 ---
 
 

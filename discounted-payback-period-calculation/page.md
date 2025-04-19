@@ -1,6 +1,7 @@
 ---
-title: "Discounted Payback Period Calculation"
-description: "Discover how the discounted payback period enhances investment analysis by accounting for the time value of money and improving algorithmic trading strategies."
+title: Discounted Payback Period for Investment Decision Making
+description: Discounted Payback Period shows when an investment recovers its initial
+  cost by discounting future cash flows to present value Discover more inside.
 ---
 
 

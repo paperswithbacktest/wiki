@@ -1,6 +1,7 @@
 ---
-title: "Double Down Trading Strategy Explained"
-description: Explore the intricacies of the double down trading strategy in algorithmic trading analyzing its rationale and intersection with other strategies like mean reversion and trend following. Understand how doubling down on declining stocks can lower average entry prices while navigating the psychological and strategic considerations essential for risk management and profitability.
+title: Understanding the Double Down Trading Strategy and Its Risks
+description: Double Down trading strategy shows how buying more of a falling asset
+  can lower average cost and limit losses with clear risk measures Discover more inside
 ---
 
 

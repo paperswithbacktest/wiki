@@ -1,6 +1,7 @@
 ---
-title: "Equity Style Box: Functionality and Significance"
-description: "Explore the fusion of equity style box framework and algorithmic trading to optimize investment strategies, enhance returns, and achieve strategic asset allocation."
+title: Equity Style Box Explained For Smart Portfolio Diversification
+description: Equity Style Box helps investors categorize stocks by size and style
+  to align portfolios and balance risk for diversification Discover more inside
 ---
 
 

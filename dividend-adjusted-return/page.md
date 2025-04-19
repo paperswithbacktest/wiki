@@ -1,6 +1,7 @@
 ---
-title: "Dividend-Adjusted Return"
-description: "Explore the significance of dividend-adjusted returns, a crucial metric that evaluates investment performance by including both capital appreciation and dividends."
+title: Dividend-Adjusted Returns For Accurate Investment Performance
+description: Dividend adjusted return shows total performance by adding price gains
+  and dividends for a complete investment picture Discover more inside today
 ---
 
 

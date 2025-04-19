@@ -1,6 +1,7 @@
 ---
-title: "Enterprise Value And Market Capitalization Comparison"
-description: "Understand the synergy between enterprise value and market capitalization in algo trading Learn how these financial metrics drive modern investment strategies"
+title: Understanding Enterprise Value and Market Capitalization
+description: Enterprise value shows real cost of a company by adding debt and subtracting
+  cash while market cap only reflects share value Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Emotional Influences on Financial Markets"
-description: "Explore how fear and greed impact financial markets and learn how algorithmic trading seeks to manage these emotional influences for better decision-making."
+title: Emotional Influences On Investment Decision Making
+description: Emotional influences in investing can trigger fear and greed resulting
+  in rushed trades Use rules based plans to stay disciplined. Discover more inside.
 ---
 
 

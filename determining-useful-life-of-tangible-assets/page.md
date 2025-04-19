@@ -1,6 +1,7 @@
 ---
-title: "Determining Useful Life of Tangible Assets"
-description: "Explore how tangible assets' valuation and their useful life impact financial strategies in algo trading, enhancing investment decisions and profitability."
+title: Estimating Useful Life of Tangible Assets for Business Planning
+description: Useful life of tangible assets guides businesses in depreciation planning
+  by examining key factors and estimation methods Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones 65 Composite Average Overview"
-description: "Explore the intersection of the Dow Jones 65 Composite Average and algorithmic trading understand its impact on market stability and the future of financial indices."
+title: Debunking The Dow Jones 65 Composite Average Financial Myth
+description: "Dow Jones 65 Composite Average isn\u2019t a real index this guide separates\
+  \ myth from reality by comparing it to real Dow Jones benchmarks Discover more inside"
 ---
 
 

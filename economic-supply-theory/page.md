@@ -1,6 +1,7 @@
 ---
-title: "Economic Supply Theory"
-description: "Explore the synergy of market theory supply economics and algorithmic trading transforming financial strategies with technology-driven decision-making."
+title: Economic Supply Theory Fundamentals And Market Equilibrium
+description: Economic supply shows how producers adjust output to price shifts and
+  market factors providing insights on supply curve shifts. Discover more inside.
 ---
 
 

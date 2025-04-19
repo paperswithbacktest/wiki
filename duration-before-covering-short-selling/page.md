@@ -1,6 +1,7 @@
 ---
-title: "Duration Before Covering in Short Selling"
-description: "Explore the intricacies of short selling and algorithmic trading with insights into strategies, risk management, and the impacts on modern financial markets."
+title: Understanding Duration Before Covering in Short Selling
+description: Duration Before Covering helps short sellers time buybacks to maximize
+  gains and limit losses with technical and fundamental insights. Discover more inside
 ---
 
 

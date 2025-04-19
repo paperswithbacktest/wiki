@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of Industrialization"
-description: "Explore the transformative economic impact of industrialization and algorithmic trading examining their roles in enhancing efficiency productivity and market dynamics."
+title: Economic Effects of Industrialization on Growth and Inequality
+description: Industrialization transforms economies by boosting production, jobs,
+  and trade while addressing inequality and environmental costs Discover more inside.
 ---
 
 

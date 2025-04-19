@@ -1,6 +1,7 @@
 ---
-title: "Differences Between ADR and ADS"
-description: "Explore the distinctions and connections between ADRs, ADSs, and algo trading to better understand their roles in shaping global financial markets."
+title: Comprehensive Guide to ADR and ADS Applications and Differences
+description: ADR and ADS cover dispute resolution and automated driving plus share
+  certificates and market regulations for investors Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Effects of Lifting the U.S. Embargo on Cuba"
-description: "Explore the potential impacts of lifting the U.S. embargo on Cuba, focusing on shifts in international relations, economic opportunities, and algo trading dynamics."
+title: 'Lifting the U.S. Embargo on Cuba: Economic and Diplomatic Impacts'
+description: U.S. embargo on Cuba slows trade and weakens the economy lifting it could
+  spur growth enhance lives and mend diplomatic ties Discover more inside
 ---
 
 

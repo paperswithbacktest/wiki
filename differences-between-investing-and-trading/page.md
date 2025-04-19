@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Investing and Trading"
-description: "Explore the contrasts between investing and trading, focusing on strategies like technical and fundamental analysis and the rise of algorithmic trading."
+title: Investing Vs Trading Explained For Steady Wealth Growth
+description: Investing vs Trading compares long term wealth building with short term
+  market tactics to guide your financial choices confidently Discover more inside
 ---
 
 

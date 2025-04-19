@@ -1,6 +1,7 @@
 ---
-title: "Distinction Between Industries and Sectors"
-description: "Understand how distinguishing between sectors and industries can optimize algorithmic trading strategies. Enhance trade execution and portfolio management in dynamic markets."
+title: Understanding Industries and Sectors in Economic Analysis
+description: Industry and sector classifications clarify how businesses group by products
+  services and economic roles to shape market strategies Discover more inside
 ---
 
 

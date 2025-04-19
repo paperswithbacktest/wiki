@@ -1,6 +1,7 @@
 ---
-title: "Exchange-Traded Funds for Contrarian Investments During Turkish Economic Crisis"
-description: "Explore contrarian investing with Turkey ETFs during economic crises highlighting algorithmic trading's role in maximizing potential returns amidst market volatility."
+title: "Contrarian ETF Strategies for Investing in Turkey\u2019s Crisis"
+description: Contrarian ETF investing in Turkey can reveal undervalued funds during
+  economic crises by buying low and profiting in recoveries. Discover more inside.
 ---
 
 

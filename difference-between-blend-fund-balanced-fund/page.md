@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Blend Fund and Balanced Fund"
-description: "Explore the key differences between blend and balanced funds in mutual investments Learn the benefits and challenges of each along with the role of algorithmic trading"
+title: Comparing Blend Funds and Balanced Funds for Investors
+description: Blend funds mix growth and value stocks while balanced funds add bonds
+  to balance risk and return in a diversified portfolio Discover more inside
 ---
 
 

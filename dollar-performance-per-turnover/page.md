@@ -1,6 +1,7 @@
 ---
-title: "Dollar performance per turnover"
-description: Explore the crucial metric of dollar performance per turnover in algorithmic trading to assess financial success relative to trade activity. This concept evaluates the profitability and efficiency of trading strategies, considering transaction costs and slippage. Learn about methodologies for calculation and interpretation to enhance trading strategies, providing insights into optimizing performance and understanding the relationship between turnover and trading activities.
+title: Dollar Performance Per Turnover for Business Efficiency
+description: Dollar performance per turnover tracks revenue per inventory cycle to
+  refine pricing for stronger profits Discover more inside.
 ---
 
 

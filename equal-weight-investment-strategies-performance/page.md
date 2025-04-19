@@ -1,6 +1,7 @@
 ---
-title: "Equal Weight Investment Strategies and Performance"
-description: "Explore the benefits of equal weight investment strategies where each asset holds equal importance in a portfolio, enhancing diversification and potential returns."
+title: Equal Weight Investment Strategy Explained for Investors
+description: Equal weight investment strategy spreads your capital evenly across holdings
+  to diversify risk and leverage market opportunities. Discover more inside.
 ---
 
 

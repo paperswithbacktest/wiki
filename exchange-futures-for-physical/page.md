@@ -1,6 +1,7 @@
 ---
-title: "Exchange Futures for Physical"
-description: "Discover how Exchange of Futures for Physical and algorithmic trading intersect to provide enhanced efficiency, risk management, and strategic advantage in commodity markets."
+title: Overview of Exchange Futures for Physical Transactions
+description: Exchange Futures for Physical lets traders swap futures for commodities
+  at market price to manage risk and boost liquidity. Discover more inside.
 ---
 
 

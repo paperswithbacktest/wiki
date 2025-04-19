@@ -1,6 +1,7 @@
 ---
-title: "Economic Inequality: Overview, Causes, and Statistics"
-description: "Explore how economic inequality intertwines with algorithmic trading highlighting its role in widening wealth gaps despite offering market efficiency benefits."
+title: Addressing Economic Inequality Through Policy and Innovation
+description: Economic inequality hinders social mobility and growth. Explore causes
+  and policies that foster fair opportunities and prosperity. Discover more inside.
 ---
 
 

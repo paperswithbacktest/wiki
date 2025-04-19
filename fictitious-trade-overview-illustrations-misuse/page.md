@@ -1,6 +1,7 @@
 ---
-title: "Fictitious Trade: Overview, Illustrations, and Misuse"
-description: "Explore the complexities of algorithmic trading including fictitious trades that manipulate market perception and undermine financial integrity. This article provides insights into improper practices and the need for robust regulatory frameworks to maintain a secure trading environment while examining real-world examples of these deceptive tactics."
+title: Understanding Fictitious Trade Its Risks and Market Implications
+description: Fictitious trade misleads investors and inflates market volumes Detect
+  fake trades understand legal risks and prevention techniques. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Exchange Controls and Corporate Evasion Strategies"
-description: "Explore the dynamic intersection of currency regulation, corporate finance exchange controls, and algorithmic trading, and their impact on the global financial landscape."
+title: Managing Exchange Controls and Corporate Evasion Strategies
+description: Exchange controls regulate cross-border money flows and shape how corporations
+  deploy legal strategies for compliance or evasion Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Economics: Types, Indicators, and Systems"
-description: "Explore economic systems, key indicators, and algorithmic trading essential for understanding modern economies. Learn how these elements shape economic practices."
+title: Fundamentals of Economics Explained for Informed Decision Making
+description: Economics explores resource allocation through supply and demand micro
+  and macro insights key indicators and systems to guide better policy and personal
+  choices Discover more inside.
 ---
 
 

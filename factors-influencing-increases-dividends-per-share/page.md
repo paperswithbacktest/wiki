@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Increases in Dividends Per Share"
-description: "Discover how dividends, shareholder value, corporate finance, and algorithmic trading interplay to influence investment strategies in dynamic markets."
+title: Key Factors Influencing Dividend Per Share Increases
+description: Dividend per share increases hinge on profitability cash flow growth
+  prospects and debt levels to guide sound payout decisions Discover more inside
 ---
 
 

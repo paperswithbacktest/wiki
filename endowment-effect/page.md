@@ -1,6 +1,7 @@
 ---
-title: "Endowment effect"
-description: Explore the impact of the endowment effect on algorithmic trading and discover strategies to mitigate its influence. This cognitive bias leads traders to overvalue owned assets and resist beneficial algorithmic signals, causing missed opportunities and suboptimal decisions. Learn how recognizing physiological cues and implementing research-backed methods can enhance trading efficiency by reducing emotional biases.
+title: Understanding the Endowment Effect in Buying and Selling Items
+description: Endowment effect shapes how we value owned items and make decisions Explores
+  key factors and practical tips to overcome bias Discover more inside
 ---
 
 

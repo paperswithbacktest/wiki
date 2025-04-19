@@ -1,6 +1,7 @@
 ---
-title: "Discount Rate: Federal Reserve Usage and Cash-Flow Analysis"
-description: "Discover how the Federal Reserve's discount rate impacts cash-flow analysis and algorithmic trading strategies, shaping investment decisions in evolving markets."
+title: Understanding the Federal Reserve Discount Rate and Its Impact
+description: Discount Rate influences bank lending and cash-flow analysis to shape
+  economic policy and guide investment strategies Discover more inside now
 ---
 
 

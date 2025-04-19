@@ -1,6 +1,7 @@
 ---
-title: "Double-Dip Recession: History and Overview"
-description: "Explore the dynamics of double-dip recessions and the role of algorithmic trading in navigating economic fluctuations Discover insights for investors today"
+title: Understanding Double-Dip Recession Causes and Economic Impacts
+description: Double-dip recession indicators, causes and policy responses explained
+  to help you navigate economic downturns effectively Discover more inside
 ---
 
 

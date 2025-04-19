@@ -1,6 +1,7 @@
 ---
-title: "Education Savings Bond Program"
-description: "Explore the benefits and workings of the Education Savings Bond Program to efficiently save for higher education using tax-free interest from government-backed bonds."
+title: Maximizing Education Savings Bond Program Tax Benefits
+description: Education Savings Bonds let you grow your college fund tax free using
+  interest for qualified tuition and fees under income limits Discover more inside
 ---
 
 

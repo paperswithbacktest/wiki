@@ -1,6 +1,7 @@
 ---
-title: "Exchange Rate Risk and Economic Exposure"
-description: "Explore the impact of exchange rate risk and economic exposure on businesses in a global economy and discover how algorithmic trading can mitigate these risks."
+title: Understanding Exchange Rate Risk Management Strategies
+description: Exchange Rate Risk threatens earnings when currencies fluctuate Explore
+  how forwards options and natural hedges protect profits Discover more inside
 ---
 
 

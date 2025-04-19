@@ -1,6 +1,7 @@
 ---
-title: "Depth (Machine Learning)"
-description: "Explore the concept of depth in machine learning, focusing on how neural network layers enhance pattern recognition and the complexities of training deeper models."
+title: Understanding Neural Network Depth for Better Performance
+description: Neural network depth shapes hierarchical feature learning while influencing
+  training stability and generalization Discover optimal design strategies inside
 ---
 
 ![Image](images/1.jpeg)

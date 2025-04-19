@@ -1,6 +1,7 @@
 ---
-title: "Distribution Reinvestment: Overview, Advantages, and Disadvantages"
-description: "Explore the pros and cons of distribution reinvestment, its significance in algorithmic trading, and how it can optimize investment strategies for better returns."
+title: Distribution Reinvestment Strategies For Long-Term Wealth Growth
+description: Distribution reinvestment uses dividends and interest to buy more shares
+  automatically boosting growth through compounding. Discover more inside.
 ---
 
 

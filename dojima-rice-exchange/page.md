@@ -1,6 +1,7 @@
 ---
-title: "Dojima Rice Exchange"
-description: "Explore the Dojima Rice Exchange's pivotal role in history as the first organized futures exchange, transforming Japan's economy with innovative trading systems."
+title: Dojima Rice Exchange Pioneering Futures Trading in Osaka
+description: Dojima Rice Exchange pioneered futures contracts in Osaka since 1697
+  transforming rice trading and shaping modern financial markets Discover more inside.
 ---
 
 

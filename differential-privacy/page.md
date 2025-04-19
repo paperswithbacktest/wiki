@@ -1,6 +1,7 @@
 ---
-title: "Differential Privacy (Machine Learning)"
-description: "Learn how differential privacy protects individual data in machine learning by adding randomness, ensuring data utility while safeguarding personal information."
+title: Differential Privacy Techniques for Secure Machine Learning
+description: Differential Privacy adds controlled randomness to data to protect individual
+  details while enabling machine learning insights. Discover more inside.
 ---
 
 ![Image](images/1.png)

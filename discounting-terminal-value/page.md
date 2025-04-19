@@ -1,6 +1,7 @@
 ---
-title: "Discounting Terminal Value"
-description: "Discover the role of terminal value in algo trading to estimate long-term asset worth and enhance the accuracy of algorithmic models for better investment strategies."
+title: Terminal Value Discounting Techniques for Financial Analysis
+description: Terminal value discounting converts future cash flows to present value
+  using perpetuity growth and exit multiples to guide decisions Discover more inside.
 ---
 
 

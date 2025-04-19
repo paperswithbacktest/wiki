@@ -1,6 +1,7 @@
 ---
-title: "Episode (Machine Learning)"
-description: "Episode machine learning enhances model adaptability by training on small data subsets called episodes improving generalization and suitability for few-shot tasks."
+title: Understanding Episode Machine Learning Key Concepts and Uses
+description: Episode Machine Learning breaks tasks into support and query sets to
+  improve few shot and reinforcement learning with limited data Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Diamond-Dybvig Model and Bank Runs"
-description: "Explore the Diamond-Dybvig model's impact on bank runs, emphasizing its relevance to algorithmic trading and cryptocurrency exchanges in today's financial landscape."
+title: Understanding the Diamond-Dybvig Model for Bank Run Prevention
+description: Diamond-Dybvig Model explains how banks manage deposits and liquidity
+  to prevent bank runs through deposit insurance and policy design Discover more inside
 ---
 
 

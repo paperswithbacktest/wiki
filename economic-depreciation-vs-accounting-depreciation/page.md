@@ -1,6 +1,7 @@
 ---
-title: "Economic Depreciation vs. Accounting Depreciation"
-description: "Explore the differences between economic and accounting depreciation and their impact on algorithmic trading strategies to optimize risk management and asset valuation."
+title: Economic Depreciation and Accounting Depreciation Explained
+description: Economic depreciation tracks market driven asset value loss while accounting
+  depreciation spreads cost over time for reporting Discover more inside.
 ---
 
 

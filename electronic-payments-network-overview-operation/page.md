@@ -1,6 +1,7 @@
 ---
-title: "Electronic Payments Network: Overview and Operation"
-description: "Discover how the Electronic Payments Network enhances algorithmic trading with efficient and secure transactions crucial for the fast-paced financial industry."
+title: Exploring the Electronic Payments Network for Secure Transfers
+description: Electronic Payments Network facilitates secure transfers between banks
+  and businesses with real time processing and strict safeguards Discover more inside
 ---
 
 

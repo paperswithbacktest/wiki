@@ -1,6 +1,7 @@
 ---
-title: "DRW"
-description: "Discover DRW's innovative approach in the dynamic world of algorithmic trading and explore how cutting-edge tech drives global market opportunities and strategies."
+title: DRW Trading Firm Embracing Technology And Innovation
+description: DRW uses advanced technology and quantitative strategies to drive global
+  trading success and support career development Discover more inside today
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Ex-Dividend Date and Date of Record: Differences"
-description: "Explore the key differences between ex-dividend date and date of record in stock trading and learn how they impact dividend eligibility and investment strategies."
+title: Understanding Ex-Dividend and Record Dates for Dividend Stocks
+description: Ex-dividend date determines who gets upcoming dividends by aligning settlement
+  and record date timing to improve dividend capture Discover more inside.
 ---
 
 

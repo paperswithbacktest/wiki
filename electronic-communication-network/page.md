@@ -1,6 +1,7 @@
 ---
-title: "Electronic Communication Network"
-description: "Explore the transformative impact of Electronic Communication Networks and algorithmic trading in financial markets boosting efficiency and global accessibility."
+title: Electronic Communication Network ECN Trading Guide
+description: ECN matches buyers and sellers directly with faster execution real time
+  price transparency lower fees and 24 hour market access Discover more inside.
 ---
 
 

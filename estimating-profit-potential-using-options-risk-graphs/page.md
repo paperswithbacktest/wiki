@@ -1,6 +1,7 @@
 ---
-title: "Estimating Profit Potential Using Options Risk Graphs"
-description: "Estimated profit potential with options risk graphs in algo trading explores financial insights balancing risk and reward for optimized investment opportunities."
+title: Understanding Options Risk Graphs for Profit Estimation
+description: Options risk graph visualizes profit and loss outcomes across price moves
+  and clarifies break even points for trading decisions Discover more inside
 ---
 
 

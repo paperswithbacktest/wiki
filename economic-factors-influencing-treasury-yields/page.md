@@ -1,6 +1,7 @@
 ---
-title: "Economic Factors Influencing Treasury Yields"
-description: "Explore how treasury yields, interest rates, and algorithmic trading interplay, impacting investment strategies and market dynamics in the financial landscape."
+title: Understanding Treasury Yields and Their Economic Drivers
+description: Treasury yields reflect US economic trends and help investors anticipate
+  interest rate shifts across markets in real time Discover more inside.
 ---
 
 

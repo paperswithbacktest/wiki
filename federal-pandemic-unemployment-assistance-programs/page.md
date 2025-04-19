@@ -1,6 +1,7 @@
 ---
-title: "Federal Pandemic Unemployment Assistance Programs"
-description: "Explore how federal unemployment programs and algorithmic trading provided financial resilience during the pandemic facilitating income support and investment opportunities."
+title: Understanding Federal Pandemic Unemployment Assistance Benefits
+description: Federal Pandemic Unemployment Assistance provides emergency payments
+  to freelancers self employed and part time workers amid pandemic Discover more inside
 ---
 
 

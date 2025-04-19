@@ -1,6 +1,7 @@
 ---
-title: "Double-Entry Bookkeeping in the General Ledger"
-description: "Discover the essentials of double-entry bookkeeping and the general ledger's role in financial management and explore their integration with algorithmic trading."
+title: Double-Entry Bookkeeping Essentials for Accurate Ledgers
+description: Double-Entry Bookkeeping ensures balanced accounts and clear financial
+  insights by recording each transaction twice in your ledger Discover more inside
 ---
 
 

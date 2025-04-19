@@ -1,6 +1,7 @@
 ---
-title: "Earnings yield"
-description: "Unlock trading potential with earnings yield, a key metric for assessing profitability and stock valuation. Optimize investment strategies effectively."
+title: Understanding Earnings Yield For Smarter Investment Decisions
+description: Earnings Yield helps investors compare stock returns to bonds and pinpoint
+  undervalued stocks in active and volatile markets. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Depository Trust and Clearing Corporation"
-description: "Explore the crucial role of clearing houses like DTCC in the era of algorithmic trading ensuring efficient trade execution and settlement while managing risks."
+title: DTCC Depository Trust and Clearing Corporation Explained
+description: DTCC enhances market safety by streamlining clearing and settlement and
+  securing electronic records of securities ownership. Discover more inside.
 ---
 
 

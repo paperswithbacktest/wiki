@@ -1,6 +1,7 @@
 ---
-title: "DuPont analysis"
-description: "Explore the impact of DuPont Analysis on algorithmic trading, leveraging insights into net profit margin, asset turnover, and equity multiplier for better investment strategies."
+title: Comprehensive Guide to DuPont Analysis for Financial Health
+description: DuPont Analysis breaks down return on equity into margin turnover and
+  leverage to reveal performance drivers and guide improvements. Discover more inside
 ---
 
 

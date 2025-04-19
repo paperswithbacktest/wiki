@@ -1,6 +1,7 @@
 ---
-title: "Dividend Payout Ratio: Formula and Calculation"
-description: "Learn how the dividend payout ratio influences investment decisions, aids in evaluating dividend sustainability, and its role in algorithmic trading strategies."
+title: Understanding Dividend Payout Ratio for Investor Decision Making
+description: Dividend Payout Ratio shows what share of profits a company pays out
+  versus reinvests guiding income or growth decisions Discover more inside
 ---
 
 

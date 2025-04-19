@@ -1,6 +1,7 @@
 ---
-title: "Double-Spending and Prevention of Attacks"
-description: "Explore the intricacies of double-spending attacks in cryptocurrency and discover how algorithmic trading can enhance security against these threats in digital transactions."
+title: Preventing Double-Spending in Blockchain and Cryptocurrencies
+description: Double-spending threatens digital currencies but blockchain consensus
+  and proof protocols secure transactions and prevent fraud Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Depth of Market and Utilization of DOM Data"
-description: "Discover the power of Depth of Market data for algorithmic trading Dive into market dynamics liquidity insights and refine your trading strategies effectively"
+title: Understanding Depth of Market Data for Effective Trading
+description: Depth of Market data reveals real-time supply and demand dynamics so
+  you can anticipate price moves and refine your trading strategy Discover more inside
 ---
 
 

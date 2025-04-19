@@ -1,6 +1,7 @@
 ---
-title: "Evaluation (Machine Learning)"
-description: "Explore the significance of evaluation in machine learning, key metrics like accuracy and F1-score, and techniques including train-test splits and cross-validation."
+title: Machine Learning Model Evaluation Metrics and Best Practices
+description: Machine learning model evaluation uses metrics like accuracy precision
+  recall and cross validation to ensure models generalize. Discover more inside
 ---
 
 ![Image](images/1.png)

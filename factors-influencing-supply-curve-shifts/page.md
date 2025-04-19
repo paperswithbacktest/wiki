@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Supply Curve Shifts"
-description: "Explore how supply curve shifts impact market dynamics and algorithmic trading, focusing on technological, cost, and regulatory influences in financial strategies."
+title: Understanding Supply Curve Shifts and Market Dynamics
+description: Supply curve shifts explained from cost changes to policy impacts and
+  tech advances so you can anticipate market supply adjustments Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Essential Items for Your Initial Financial Advisor Appointment"
-description: "Prepare for your first financial advisor meeting on algo trading with practical tips and strategies to maximize the benefits of personalized advice and guidance."
+title: Preparing for Your First Financial Advisor Appointment
+description: Financial advisor appointment prep helps you gather pay stubs bank statements
+  and investment info set goals and arrive confident Discover more inside
 ---
 
 

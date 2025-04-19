@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of High Discount Rates"
-description: "Explore the interaction between high discount rates and algorithmic trading in today's economy Discover how these elements impact market dynamics and investment decisions"
+title: High Discount Rates Impact On Investment Spending And Growth
+description: High discount rates influence spending, investment, housing and trade
+  by increasing borrowing costs and slowing economic growth. Discover more inside.
 ---
 
 

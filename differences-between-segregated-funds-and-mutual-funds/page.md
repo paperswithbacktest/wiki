@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Segregated Funds and Mutual Funds"
-description: "Explore the key differences between segregated funds and mutual funds as investment options and understand how algorithmic trading contrasts with these traditional vehicles."
+title: Segregated Funds Versus Mutual Funds Explained for Investors
+description: Segregated funds offer built-in protection on your investment while mutual
+  funds deliver lower fees and greater liquidity Discover more inside.
 ---
 
 

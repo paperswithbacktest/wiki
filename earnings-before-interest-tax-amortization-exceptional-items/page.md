@@ -1,6 +1,8 @@
 ---
-title: "Earnings Before Interest, Tax, Amortization, and Exceptional Items"
-description: "Discover how Earnings Before Interest Tax Amortization and Exceptional Items (EBITAE) enhances algorithmic trading by evaluating core company performance."
+title: Understanding EBITAE as a Core Earnings Performance Metric
+description: "EBITAE shows a company\u2019s core earnings by excluding interest taxes\
+  \ amortization and one time charges for fair performance comparison Discover more\
+  \ inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dutch Disease: Origins and Examples"
-description: "Explore the origins and impacts of Dutch Disease, an economic phenomenon where a country's resource wealth causes currency appreciation, reducing competitiveness in other sectors. Learn how natural resources can lead to long-term economic imbalances and discover potential modern solutions like algorithmic trading to stabilize economies and prevent resource dependency. Understand the significance of strategic economic policies for resource-rich nations to ensure diversified growth and resilience."
+title: Understanding Dutch Disease and Its Economic Impacts
+description: Dutch Disease can undercut balanced growth by strengthening the currency
+  and shrinking manufacturing and agriculture sectors Discover more inside
 ---
 
 

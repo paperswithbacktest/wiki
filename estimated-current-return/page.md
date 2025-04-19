@@ -1,6 +1,7 @@
 ---
-title: "Estimated Current Return"
-description: "Explore how algorithmic trading enhances investment strategies by leveraging data-driven approaches for estimated returns, aiding in optimal decision-making and risk management."
+title: Understanding Estimated Current Return For Investment Performance
+description: Estimated Current Return helps investors assess real-time income performance
+  of bonds and dividend stocks to make smarter choices Discover more inside.
 ---
 
 

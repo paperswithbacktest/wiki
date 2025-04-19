@@ -1,6 +1,7 @@
 ---
-title: "Djiboutian Franc and Economy of Djibouti"
-description: "Explore the impact of the Djiboutian Franc on Djibouti's economy and the potential of algorithmic trading to enhance market stability and growth."
+title: Djiboutian Franc And Its Impact On The Djibouti Economy
+description: Djiboutian Franc underpins Djibouti stable currency framework and boosts
+  trade logistics initiatives while diversifying key sectors Discover more inside.
 ---
 
 

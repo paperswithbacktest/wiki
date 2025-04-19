@@ -1,6 +1,7 @@
 ---
-title: "Event driven strategies"
-description: Event-driven strategies are sophisticated investment approaches that capitalize on the price movements and volatility resulting from significant corporate events. These strategies aim to profit from mispricings in the market caused by mergers and acquisitions, earnings reports, regulatory changes, and other company milestones. Merger arbitrage is a specialized event-driven strategy focusing on exploiting pricing inefficiencies during M&A transactions. Investors analyze the details of the deal, monitor risks, and enter/exit positions at optimal moments to profit from the spread between target and acquiring companies' stock prices. Distressed securities investing involves investing in the debt or equity of distressed companies, betting on their recovery or successful restructuring or liquidation processes, which can result in substantial returns.
+title: Event-Driven Strategies to Capitalize on Market Volatility
+description: Event-driven strategies help investors exploit volatility from corporate
+  events with targeted analysis hedging and risk management Discover more inside
 ---
 
 

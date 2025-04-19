@@ -1,6 +1,7 @@
 ---
-title: "Distributed Ledger Technology: Overview and Functionality"
-description: "Explore how Distributed Ledger Technology enhances algorithmic trading by boosting efficiency and security. Discover the synergy revolutionizing financial operations."
+title: Understanding Distributed Ledger Technology and Its Benefits
+description: Distributed Ledger Technology secures data on multiple computers without
+  a central authority cutting costs and boosting transparency Discover more inside
 ---
 
 

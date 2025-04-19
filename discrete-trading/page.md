@@ -1,6 +1,7 @@
 ---
-title: "discrete trading"
-description: "Explore how discrete trading revolutionizes market strategies with its scheduled, strategic trade executions aligning seamlessly with long-term investment goals."
+title: Understanding Discrete Trading Principles and Strategies
+description: Discrete Trading enables structured buys and sells in fixed lot sizes
+  for clear market engagement and improved decision making Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dividend Entitlement for Long Call Option Holders on Stock Record Date"
-description: "Discover the interplay between dividends, long call options, and algo trading. Unlock strategies to optimize trading and maximize returns on dividend payouts."
+title: Understanding Dividend Entitlement With Call Options
+description: Dividend entitlement for call option holders clarified with key dates
+  strategies risks and tax impacts to guide exercise timing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dual Commodity Channel Index"
-description: "Explore the Duel Commodity Channel Index for algo trading strategies. Enhance your market analysis with DCCI's dual-oscillator mechanism and improve trade accuracy."
+title: Dual Commodity Channel Index Explained for Informed Traders
+description: Dual Commodity Channel Index helps traders identify short and long term
+  market trends, spot divergences and optimize strategies. Discover more inside.
 ---
 
 

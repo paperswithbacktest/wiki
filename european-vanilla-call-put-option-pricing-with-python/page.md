@@ -1,6 +1,7 @@
 ---
-title: "European Vanilla Call and Put Option Pricing with Python"
-description: Explore the intricate world of European Vanilla Call and Put Option Pricing with Python in algorithmic trading. This comprehensive guide investigates into fundamental options pricing principles and demonstrates how Python's robust libraries facilitate the development and integration of sophisticated financial models, essential for optimizing trading strategies. Discover best practices for precise options pricing and enhance your algorithmic trading efficiency using Python's vast ecosystem.
+title: European Vanilla Option Pricing With Black-Scholes And Python
+description: European Vanilla Option Pricing guides call and put valuation using Black-Scholes
+  formulas with Python code and key risk measures Discover more inside
 ---
 
 

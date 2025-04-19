@@ -1,6 +1,7 @@
 ---
-title: "Earnings Before Interest, Depreciation, Amortization, and Exploration (EBIDAX)"
-description: "Discover the impact of EBIDAX on algorithmic trading and its role in refining financial insights in the oil and gas sector beyond traditional GAAP measures."
+title: EBIDAX Metric Explained for Oil and Gas Company Profitability
+description: EBIDAX gives oil and gas investors a clearer view of operating profits
+  by adding back exploration costs for accurate comparisons Discover more inside
 ---
 
 

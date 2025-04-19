@@ -1,6 +1,7 @@
 ---
-title: "Effects on Shareholders' Equity in Chapter 11 Bankruptcy"
-description: "Chapter 11 bankruptcy leads to significant risks for shareholders, often devaluing their equity as creditors and bondholders are prioritized. Understanding the impact on corporate finance and the role of algorithmic trading is crucial in navigating this financial challenge."
+title: Chapter 11 Bankruptcy Impact On Shareholders' Equity
+description: Shareholders' equity often erodes in Chapter 11 bankruptcy when creditor
+  claims take priority leading to stock devaluation. Discover more inside.
 ---
 
 

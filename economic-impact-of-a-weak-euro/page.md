@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of a Weak Euro"
-description: "Explore the complex effects of a weak euro on global economics and forex algorithmic trading Discover opportunities and risks presented by currency fluctuations"
+title: Economic Impacts of a Weak Euro on the Eurozone Economy
+description: Weak Euro reshapes Eurozone trade and inflation by boosting export competitiveness
+  while driving up import costs across member states Discover more inside.
 ---
 
 

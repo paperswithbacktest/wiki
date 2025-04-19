@@ -1,6 +1,7 @@
 ---
-title: "Determining a Company's EV/EBITDA Multiple"
-description: "Explore the EV/EBITDA ratio to assess company value in algo trading Discover its role in operational efficiency and uncover undervaluation opportunities"
+title: Comprehensive Guide to EV/EBITDA Ratio in Company Valuation
+description: EV/EBITDA ratio shows a companys true value by removing financing and
+  tax distortions so you can compare firms fairly Discover more insights inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones & Co."
-description: "Explore the intersection of business news, financial data, and algorithmic trading to understand modern markets and capitalize on opportunities effectively."
+title: Dow Jones & Co Comprehensive Business and Market Overview
+description: Dow Jones & Co delivers a complete overview of its founding key publications
+  revenue streams digital evolution and market impact Discover more inside.
 ---
 
 

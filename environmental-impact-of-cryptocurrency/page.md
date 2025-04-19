@@ -1,6 +1,7 @@
 ---
-title: "Environmental Impact of Cryptocurrency"
-description: "Explore the environmental impact of integrating cryptocurrency with algorithmic trading, focusing on energy consumption, carbon emissions, and electronic waste. Learn how innovations like Algorand's Pure Proof of Stake offer sustainable alternatives and the implications for future financial practices."
+title: Environmental Impact of Cryptocurrency Mining and Energy Use
+description: Cryptocurrency environmental impact includes mining energy use and carbon
+  emissions as industry shifts to renewable power. Discover more inside.
 ---
 
 

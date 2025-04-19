@@ -1,6 +1,7 @@
 ---
-title: "Employment Act of 1946: Overview and Historical Context"
-description: "Explore the impact of the Employment Act of 1946 on U.S. economic policy by examining its role in stabilizing post-war economy through structured federal management."
+title: Employment Act of 1946 Shaped Federal Economic Planning
+description: Employment Act of 1946 set up economic advisors and committees to drive
+  job creation stabilize markets and guide federal policy Discover more inside.
 ---
 
 

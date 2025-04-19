@@ -1,6 +1,8 @@
 ---
-title: "Eigen Library for Matrix Algebra in C++"
-description: Explore the advantages of leveraging C++ matrix libraries in algorithmic trading to boost computational performance. Discover how these libraries enhance speed and accuracy in trading algorithms, critical for optimizing performance in high-frequency trading environments. Learn about the role of matrix operations in financial modeling, from risk management to portfolio optimization, and why C++ is the preferred language for high-performance computing in financial markets. Understand the importance of efficient data processing in executing advanced trading strategies and maintaining a competitive edge.
+title: Introduction to Eigen C++ Library for Matrix and Linear Algebra
+description: Eigen C++ library streamlines matrix and linear algebra operations in
+  robotics graphics and scientific computing with efficient syntax and performance
+  optimizations Discover more inside
 ---
 
 

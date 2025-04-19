@@ -1,6 +1,7 @@
 ---
-title: "EV/2P Ratio in Financial Analysis"
-description: "Explore the significance of the EV/2P ratio in valuing oil and gas companies and how it enhances algorithmic trading strategies for informed investments."
+title: Understanding the EV/2P Ratio for Oil and Gas Valuation
+description: The EV/2P Ratio shows what investors pay per barrel of oil and gas reserves
+  by linking enterprise value to proven and probable reserves Discover more inside
 ---
 
 

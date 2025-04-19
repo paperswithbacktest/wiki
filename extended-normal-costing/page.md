@@ -1,6 +1,7 @@
 ---
-title: "Extended Normal Costing"
-description: "Explore the intricacies of Extended Normal Costing in algo trading to enhance financial success with refined cost allocation techniques for better decision-making."
+title: Implementing Extended Normal Costing for Efficient Budgeting
+description: Extended Normal Costing combines actual material costs with standard
+  labor and overhead for faster budgeting and clear visibility Discover more inside.
 ---
 
 

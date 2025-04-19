@@ -1,6 +1,7 @@
 ---
-title: "Federal Poverty Level"
-description: "Explore the intersection of Federal Poverty Level and algorithmic trading to understand how socio-economic factors can influence financial market strategies and decisions."
+title: Understanding the Federal Poverty Level and Its Impact
+description: Federal Poverty Level shapes eligibility for health care and SNAP benefits
+  by evaluating family income and size thresholds Discover more inside
 ---
 
 

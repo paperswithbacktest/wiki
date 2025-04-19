@@ -1,6 +1,7 @@
 ---
-title: "Economic Equilibrium: Mechanisms and Types in Practical Applications"
-description: "Discover the intricate mechanisms and types of economic equilibrium vital for algo trading applications. Explore how supply and demand reach balance in both micro and macroeconomic contexts, and understand the significance of market and Nash equilibrium in setting true market prices. Learn how algorithmic trading harnesses these concepts to execute strategies that optimize returns while enhancing market liquidity. Uncover insights into how traders and investors utilize equilibrium to navigate financial markets, aligning transactions with economic stability and efficiency."
+title: Understanding Economic Equilibrium in Supply and Demand Markets
+description: Economic equilibrium occurs when supply and demand align to stabilize
+  prices and guide market decisions from agriculture to housing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Capital Gains and Investment Income"
-description: "Explore the key differences between capital gains and investment income with a focus on taxation and algorithmic trading implications for investors."
+title: Understanding Capital Gains and Investment Income Taxation
+description: Capital gains and investment income follow distinct tax rules affecting
+  calculation holding periods and deductions to boost returns Discover more inside.
 ---
 
 

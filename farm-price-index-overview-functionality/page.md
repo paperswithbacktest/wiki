@@ -1,6 +1,7 @@
 ---
-title: "Farm Price Index: Overview and Functionality"
-description: "Explore the Farm Price Index and its role in understanding market trends in agriculture Learn about its impact on economic strategies and algorithmic trading"
+title: Understanding the Farm Price Index for Informed Agriculture
+description: Farm Price Index tracks average crop and livestock prices nationwide
+  helping farmers gauge market trends plan smarter operations Discover more inside
 ---
 
 

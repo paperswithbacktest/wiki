@@ -1,6 +1,7 @@
 ---
-title: "Discounting Working Capital in Net Present Value"
-description: "Explore the integration of NPV, working capital, and algorithmic trading to optimize investment strategies and improve financial decision-making in dynamic markets."
+title: Incorporating Working Capital into Accurate NPV Calculations
+description: Working capital shapes NPV accuracy by reflecting cash timing for inventory
+  receivables to guide smarter project decisions Discover more inside.
 ---
 
 

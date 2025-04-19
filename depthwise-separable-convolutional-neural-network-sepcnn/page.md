@@ -1,6 +1,7 @@
 ---
-title: "Depthwise Separable Convolutional Neural Network (Sepcnn) (Machine Learning)"
-description: "Discover how Depthwise Separable Convolutional Neural Networks boost efficiency and reduce computational costs for machine learning models and applications."
+title: Understanding Depthwise Separable Convolutional Neural Networks
+description: Depthwise Separable CNNs optimize models efficiently by cutting parameters
+  and computations in depthwise and pointwise steps Discover more inside
 ---
 
 ![Image](images/1.png)

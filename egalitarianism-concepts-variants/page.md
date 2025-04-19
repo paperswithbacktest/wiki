@@ -1,6 +1,7 @@
 ---
-title: "Egalitarianism: Concepts and Variants"
-description: "Explore the multifaceted nature of egalitarianism in algorithmic trading highlighting how technological advancements democratize financial markets for equal opportunities."
+title: Exploring Egalitarianism Principles and Practical Applications
+description: Egalitarianism defines economic social and political equality and drives
+  policies that ensure fair opportunity across society Discover more inside
 ---
 
 

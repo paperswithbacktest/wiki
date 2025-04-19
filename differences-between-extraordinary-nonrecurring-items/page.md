@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Extraordinary and Nonrecurring Items"
-description: "Understand the roles of extraordinary and nonrecurring items in financial reports and their impact on algorithmic trading strategies for informed decisions."
+title: Extraordinary Items Versus Nonrecurring Items in Accounting
+description: Extraordinary items and nonrecurring items are separated on the income
+  statement to highlight core earnings and reduce distortion Discover more inside.
 ---
 
 

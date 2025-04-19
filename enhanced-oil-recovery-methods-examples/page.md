@@ -1,6 +1,7 @@
 ---
-title: "Enhanced Oil Recovery Methods and Examples"
-description: "Explore Enhanced Oil Recovery methods and their role in boosting oil extraction efficiency. Learn about their economic impact and the role of algo trading in EOR investments."
+title: Enhanced Oil Recovery Methods Explained for Better Extraction
+description: Enhanced Oil Recovery uses thermal chemical and gas methods to increase
+  yields in mature fields reducing drilling and storing CO2 Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economic Think Tank: Overview and Function"
-description: "Explore how economic think tanks shape policy and algorithmic trading innovations driving market operations and financial regulation for future growth."
+title: Economic Think Tanks Shaping Policy and Driving Research
+description: Economic think tanks deliver independent research and actionable policy
+  insights to inform decision makers and shape economic outcomes Discover more inside.
 ---
 
 

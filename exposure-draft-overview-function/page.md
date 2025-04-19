@@ -1,6 +1,7 @@
 ---
-title: "Exposure Draft: Overview and Function"
-description: "Algorithmic trading advancements demand standards for fairness and stability. Explore exposure drafts' role in shaping transparent, efficient trading regulations."
+title: Exposure Drafts Explained The Standard Setting Feedback Process
+description: Exposure Drafts guide you through public feedback for proposed accounting
+  standards and show how comments shape final rules Discover more inside
 ---
 
 

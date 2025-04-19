@@ -1,6 +1,7 @@
 ---
-title: "Eric S. Maskin: Harvard Faculty Information"
-description: "Explore how economics and algorithmic trading intersect through Eric S. Maskin's work in mechanism design at Harvard, impacting financial strategies."
+title: Eric S. Maskin Mechanism Design Theory and Economic Impact
+description: Eric S. Maskin championed mechanism design theory to create fair auctions
+  voting systems and sound policy measures in economics Discover more inside
 ---
 
 

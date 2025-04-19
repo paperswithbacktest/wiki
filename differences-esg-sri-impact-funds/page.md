@@ -1,6 +1,7 @@
 ---
-title: "Differences Between ESG, SRI, and Impact Funds"
-description: "Discover the distinctions between ESG, SRI, and impact funds in algorithmic trading Explore investment strategies prioritizing ethical and sustainable practices"
+title: Understanding ESG SRI and Impact Funds for Ethical Investing
+description: ESG SRI and Impact Funds help investors apply ethical criteria, use SRI
+  screening measure ESG performance deliver real world impact Discover more inside
 ---
 
 

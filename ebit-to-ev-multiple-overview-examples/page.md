@@ -1,6 +1,7 @@
 ---
-title: "EBIT to EV Multiple: Overview and Examples"
-description: "Explore the EBIT to EV multiple's role in assessing company profitability and value, enhancing algorithmic trading decisions for strategic investment insights."
+title: EBIT to EV Multiple Explained for Informed Investment Decisions
+description: EBIT to EV multiple reveals how a company converts earnings into total
+  value by including debt and cash for clear peer comparisons Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dividend Enhanced Convertible Stocks"
-description: "Explore the potential of dividend enhanced convertible stocks combined with algorithmic trading to optimize returns through strategic automation and market insights."
+title: Understanding Dividend Enhanced Convertible Stocks for Investors
+description: Dividend enhanced convertible stocks offer steady income and conversion
+  upside to grow your portfolio while balancing risk and reward Discover more inside.
 ---
 
 

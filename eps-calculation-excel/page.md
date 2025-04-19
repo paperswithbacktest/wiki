@@ -1,6 +1,7 @@
 ---
-title: "EPS Calculation Using Excel"
-description: "Learn to calculate Earnings Per Share (EPS) using Excel to enhance your algorithmic trading strategies and make informed, data-driven investment decisions."
+title: Practical Guide To Calculating EPS In Excel Spreadsheets
+description: EPS in Excel provides a step-by-step guide to calculate and automate
+  earnings per share with formulas charts and macros Discover more inside.
 ---
 
 

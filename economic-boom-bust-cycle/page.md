@@ -1,6 +1,7 @@
 ---
-title: "Economic Boom and Bust Cycle"
-description: "Explore the interplay between economic cycles and algorithmic trading uncovering how technology enhances the analysis of boom and bust phases within financial markets."
+title: Understanding Economic Boom and Bust Cycles in Global Economy
+description: Economic boom and bust cycle drives shifts in employment spending and
+  market confidence offering insights on managing risks Discover more inside
 ---
 
 

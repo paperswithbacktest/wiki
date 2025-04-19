@@ -1,6 +1,7 @@
 ---
-title: "Esports: Overview and Key Figures"
-description: "Explore the dynamic world of esports and its intersection with algorithmic trading Discover how this booming industry leverages technology and innovation"
+title: Comprehensive Esports Industry Guide From Origins to Futures
+description: Esports industry overview reveals game evolution tournament formats training
+  paths and financial growth with strategic insights Discover more inside
 ---
 
 

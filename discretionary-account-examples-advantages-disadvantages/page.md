@@ -1,6 +1,7 @@
 ---
-title: "Discretionary Account: Examples, Advantages, and Disadvantages"
-description: "Discover the pros and cons of discretionary accounts in algo trading including how tailored strategies and automation transform modern portfolio management."
+title: Understanding Discretionary Investment Accounts for Investors
+description: Discretionary account management saves busy investors time and lets brokers
+  act on market opportunities while keeping goals on track Discover more inside
 ---
 
 

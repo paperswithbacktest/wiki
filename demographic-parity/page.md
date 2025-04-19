@@ -1,6 +1,7 @@
 ---
-title: "Demographic Parity (Machine Learning)"
-description: "Demographic parity ensures machine learning models provide equal outcomes across different groups such as race or gender promoting fairness and reducing bias."
+title: Achieving Demographic Parity for Fairness in Machine Learning
+description: Demographic parity ensures machine learning models deliver equal positive
+  outcomes across groups to promote fairness and build trust. Discover more inside.
 ---
 
 ![Image](images/1.png)

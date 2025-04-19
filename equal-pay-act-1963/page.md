@@ -1,6 +1,7 @@
 ---
-title: "Equal Pay Act of 1963"
-description: "Explore the impact of the Equal Pay Act of 1963 on wage discrimination and gender equality, alongside the role of algorithmic trading in shaping equitable pay practices."
+title: Understanding the Equal Pay Act of 1963 for Wage Equality
+description: Equal Pay Act of 1963 ensures equal pay for equal work by setting legal
+  standards and enforcement to close gender wage gaps. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economic Value Added: Analysis, Advantages, and Drawbacks"
-description: "Explore Economic Value Added as a financial metric for assessing profitability above capital cost and its impact on algorithmic trading strategies for businesses."
+title: Understanding Economic Value Added for Financial Performance
+description: Economic Value Added drives investment choices showing firms how after-tax
+  profits exceed capital costs to create shareholder value Discover more.
 ---
 
 

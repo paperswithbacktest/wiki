@@ -1,6 +1,7 @@
 ---
-title: "Erroneous Trade: Implications and Case Studies"
-description: "Explore the implications of erroneous trades in algorithmic trading Discover case studies and strategies to mitigate risks and maintain market integrity"
+title: Erroneous Trades Correction and Prevention in Financial Markets
+description: Erroneous trades can destabilize markets and cause major losses for traders.
+  Understand causes correction methods and risk controls Discover more inside.
 ---
 
 

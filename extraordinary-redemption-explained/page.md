@@ -1,6 +1,7 @@
 ---
-title: "Extraordinary Redemption Explained"
-description: "Explore the intricate world of bond call options, extraordinary redemption provisions, and algorithmic trading Learn how they interact to optimize financial strategies."
+title: Understanding Extraordinary Redemption in Corporate Finance
+description: Extraordinary Redemption explains triggers legal requirements and impacts
+  on issuers and bondholders for informed finance decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Examples of Non-Price Elasticity in Demand"
-description: "Explore non-price factors affecting demand elasticity in algorithmic trading including income levels and consumer preferences enhancing trading strategies."
+title: Understanding Non-Price Elasticity of Demand in Economics
+description: Non-price elasticity of demand shows how income shifts product prices
+  and preferences alter purchase volumes improving pricing decisions Discover more
 ---
 
 

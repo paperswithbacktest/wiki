@@ -1,6 +1,7 @@
 ---
-title: "Dual Currency Bond: Overview and Functionality"
-description: "Explore the functionality and benefits of dual currency bonds as unique financial instruments offering dual exposure to currency risks and rewards in algotrading."
+title: Key Features And Risks Of Dual Currency Bonds Explained
+description: Dual Currency Bonds pay interest in one currency and return principal
+  in another letting investors manage currency risk and earn gains Discover more inside
 ---
 
 

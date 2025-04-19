@@ -1,6 +1,7 @@
 ---
-title: "Equity Valuation Using the Comparables Approach"
-description: "Explore equity valuation using the Comparables Approach for algo trading Understand how financial metrics guide investment decisions and market dynamics"
+title: Understanding the Comparables Approach to Equity Valuation
+description: Comparables Approach to equity valuation shows how to benchmark companies
+  and adjust for differences in size growth and risk Discover more inside
 ---
 
 

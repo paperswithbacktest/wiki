@@ -1,6 +1,7 @@
 ---
-title: "Federal Covered Advisor"
-description: "Explore the role of SEC compliance in algorithmic trading for investment advisors Learn to balance innovative strategies with regulatory standards for market integrity"
+title: Key Regulations and Responsibilities of a Federal Covered Advisor
+description: Federal Covered Advisor status ensures SEC oversight for firms managing
+  over 100 million in assets ensuring compliance and protection Discover more inside
 ---
 
 

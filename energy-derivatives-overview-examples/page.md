@@ -1,6 +1,7 @@
 ---
-title: "Energy Derivatives: Overview and Examples"
-description: "Explore how energy derivatives like futures and swaps and algorithmic trading impact energy markets risk management and price discovery with modern strategies."
+title: Navigating Energy Derivatives Markets for Risk Management
+description: Energy derivatives help companies lock in prices on oil natural gas and
+  electricity to control costs and reduce risk in markets Discover more inside
 ---
 
 

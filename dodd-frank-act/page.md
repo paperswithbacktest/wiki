@@ -1,6 +1,7 @@
 ---
-title: "Dodd-Frank Act"
-description: "Explore the impact of the Dodd-Frank Act on financial markets focusing on consumer protection measures and the regulation of algorithmic trading practices."
+title: Understanding the Dodd-Frank Act for Safer Financial Markets
+description: Dodd-Frank Act reinforces bank oversight and consumer protections in
+  the financial system reducing risk and boosting transparency Discover more inside
 ---
 
 

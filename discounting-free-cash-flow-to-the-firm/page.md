@@ -1,6 +1,8 @@
 ---
-title: "Discounting Free Cash Flow to the Firm"
-description: "Explore the vital role of Discounting Free Cash Flow in algorithmic trading providing insights into valuation methods for strategic financial decision-making."
+title: Discounting Free Cash Flow to the Firm for Accurate Valuation
+description: Free Cash Flow to the Firm shows cash remaining after operations and
+  investments. Discounting FCFF provides present value for investment decisions. Discover
+  more inside.
 ---
 
 

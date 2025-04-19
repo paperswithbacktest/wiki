@@ -1,6 +1,7 @@
 ---
-title: "Effects of Inflation on the Value of the Dollar Over Time"
-description: "Explore the intricate relationship between inflation and dollar value over time and discover how algorithmic trading aids in understanding market dynamics and managing risks."
+title: The Impact Of Inflation On Dollar Value And Purchasing Power
+description: Inflation erodes the purchasing power of the dollar by increasing everyday
+  prices and reducing savings and investment returns Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Few-Shot Learning (Machine Learning)"
-description: "Explore Few-Shot Learning in machine learning where models learn from minimal data enabling quick adaptation to new tasks and reducing data dependency."
+title: "Comprehensive Guide to Few\u2011Shot Learning Methods and Applications"
+description: "Few\u2011Shot Learning accelerates model adaptation with minimal data\
+  \ using transfer and meta\u2011learning techniques for rapid task mastery. Discover\
+  \ more inside."
 ---
 
 ![Image](images/1.png)

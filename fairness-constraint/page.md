@@ -1,6 +1,7 @@
 ---
-title: "Fairness Constraint (Machine Learning)"
-description: "Explore fairness constraints in machine learning ensuring models treat all groups equally to prevent bias and build trust in AI systems while balancing accuracy."
+title: Implementing Fairness Constraints in Machine Learning Models
+description: Fairness constraints guide models to reduce bias and ensure equitable
+  outcomes across groups in hiring and lending decisions Discover more inside
 ---
 
 ![Image](images/1.jpeg)

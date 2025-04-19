@@ -1,6 +1,7 @@
 ---
-title: "Event-Driven Trading Strategies Explained"
-description: Explore the intricate world of event-driven trading strategies in algorithmic trading that capitalize on market inefficiencies from significant corporate events such as earnings announcements and mergers. Learn about the methods for anticipating market reactions and the tools used to enhance trading outcomes while understanding the associated risks and opportunities for improved profitability in the fast-paced trading environment.
+title: Event-Driven Trading Strategies for Dynamic Market Opportunities
+description: Event-driven trading leverages corporate earnings, mergers and macro
+  events to profit from short-term market moves with speed. Discover more inside.
 ---
 
 

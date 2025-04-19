@@ -1,6 +1,7 @@
 ---
-title: "E*TRADE Core Portfolios Overview"
-description: "Discover E*TRADE Core Portfolios a robo-advisory service offering algorithmic trading insights tailored to your investment goals and strategies effectively."
+title: Understanding E*TRADE Core Portfolios Robo-Advisor Service
+description: E*TRADE Core Portfolios uses advanced algorithms to create and rebalance
+  a diversified portfolio based on your goals and risk profile Discover more inside.
 ---
 
 

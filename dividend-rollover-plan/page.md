@@ -1,6 +1,7 @@
 ---
-title: "Dividend Rollover Plan"
-description: "Explore dividend rollover plans combining traditional dividend investing with advanced algorithmic trading for optimized investment returns and risk management."
+title: Maximize Compound Growth With a Dividend Rollover Plan
+description: Dividend Rollover Plan lets you automatically reinvest dividends into
+  additional shares for compounding portfolio growth over time Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "False Negative Rate (Machine Learning)"
-description: "Understanding and minimizing the False Negative Rate is crucial for building effective machine learning models, especially in critical applications like medical diagnoses."
+title: Understanding False Negative Rate in Machine Learning Models
+description: False Negative Rate shows how often models miss actual positives and
+  offers data balancing threshold tuning and model updates Discover more inside
 ---
 
 ![Image](images/1.png)

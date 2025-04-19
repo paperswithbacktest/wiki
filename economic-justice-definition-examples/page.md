@@ -1,6 +1,7 @@
 ---
-title: "Economic Justice: Definition and Examples"
-description: "Explore the interconnected roles of economic justice, social equality, and algorithmic trading in shaping fair wealth distribution and addressing income disparities."
+title: Advancing Economic Justice With Fair Policies And Support
+description: Economic justice advances fairness in wealth distribution by outlining
+  essential policies for fair wages education and healthcare Discover more inside.
 ---
 
 

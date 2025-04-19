@@ -1,6 +1,7 @@
 ---
-title: "Deutsche Börse Group"
-description: "Explore the evolving landscape of European financial markets and algorithmic trading with insights from Deutsche Boerse Group's innovative trading solutions."
+title: "Deutsche B\xF6rse Group Stock Exchange Services And Innovations"
+description: "Deutsche B\xF6rse Group operates the Frankfurt Stock Exchange with advanced\
+  \ trading systems, market data and clearing services. Discover more inside."
 ---
 
 

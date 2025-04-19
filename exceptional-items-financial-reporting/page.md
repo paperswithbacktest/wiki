@@ -1,6 +1,7 @@
 ---
-title: "Exceptional Items in Financial Reporting"
-description: "Explore the role of exceptional items in financial reporting and their impact on algorithmic trading emphasizing transparency and accurate data for investors and models."
+title: Understanding Exceptional Items in Financial Reporting
+description: Exceptional items in financial reporting provide clarity by isolating
+  one-off gains and losses for accurate performance metrics. Discover more inside.
 ---
 
 

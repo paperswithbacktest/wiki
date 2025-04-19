@@ -1,6 +1,7 @@
 ---
-title: "Exchangeable Debt: Overview, Valuation, and Divestment"
-description: "Explore the dynamics of exchangeable debt in finance, a hybrid security offering flexibility in debt reduction, strategic divestment, and algorithmic trading integration."
+title: Exchangeable Debt Explained Safe Income and Equity Upside
+description: Exchangeable debt offers bond safety and equity upside by letting investors
+  swap bonds for shares while preserving issuer value Discover more inside
 ---
 
 

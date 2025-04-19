@@ -1,6 +1,8 @@
 ---
-title: "Dorman Trading, Inc."
-description: "Explore Dorman Trading's advanced algorithmic trading solutions, robust infrastructure, and innovative technology offerings designed to serve diverse trading needs."
+title: Dorman Trading Inc Clearing Services for Futures Options Forex
+description: "Dorman Trading Inc clearing services ensure secure handling of trades\
+  \ in futures options and forex while providing real-time market data and software\
+  \ tools\_Discover more inside"
 ---
 
 

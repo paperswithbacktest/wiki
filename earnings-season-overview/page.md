@@ -1,6 +1,7 @@
 ---
-title: "Earnings Season Overview"
-description: "Explore the role of algorithmic trading during earnings season a critical period when companies report quarterly financial results and affecting market dynamics."
+title: Earnings Season Fundamentals for Investors and Market Impact
+description: Earnings season demystifies quarterly reports so investors can interpret
+  EPS revenue and stock reactions with confidence Discover more inside.
 ---
 
 

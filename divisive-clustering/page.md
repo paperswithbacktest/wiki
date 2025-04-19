@@ -1,6 +1,7 @@
 ---
-title: "Divisive Clustering (Machine Learning)"
-description: "Discover divisive clustering, a hierarchical method in machine learning that splits data into sub-clusters, offering insights into data structure relationships."
+title: Divisive Clustering Explained for Hierarchical Machine Learning
+description: Divisive clustering uncovers hierarchical data patterns using dendrogram
+  analysis and silhouette scoring to determine optimal splits Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Enterprise Multiple EV/EBITDA Overview"
-description: "Explore how the Enterprise Multiple EV/EBITDA metric enhances algorithmic trading strategies by providing insightful company valuations for informed investment decisions."
+title: Enterprise Multiple EV/EBITDA Valuation Explained for Investors
+description: Enterprise Multiple EV/EBITDA shows true company value by excluding financing
+  and tax effects to help investors compare firms reliably Discover more inside
 ---
 
 

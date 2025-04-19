@@ -1,6 +1,7 @@
 ---
-title: "ETFs With Amazon Exposure: FDIS, XLY, VCR, RTH, FDN"
-description: "Explore Amazon-focused ETFs like FDIS, XLY, VCR, RTH, and FDN that offer diversification and algorithmic trading benefits for optimized portfolios."
+title: Top ETFs for Amazon Exposure and Diversified Growth
+description: Amazon exposure through ETFs lets you invest in Amazon while diversifying
+  across market and sector funds Discover more inside
 ---
 
 

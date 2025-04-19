@@ -1,6 +1,7 @@
 ---
-title: "Exchange-Traded Funds Reflecting Warren Buffett's Investment Strategy"
-description: "Explore the integration of Warren Buffett's value investing with modern ETF and algorithmic trading strategies for better investment insight and adaptability."
+title: "Using ETFs to Mirror Warren Buffett\u2019s Value Investing Strategy"
+description: "ETFs let investors mimic Warren Buffett\u2019s value approach with diversified\
+  \ low cost funds that target his favored sectors and holdings Discover more inside."
 ---
 
 

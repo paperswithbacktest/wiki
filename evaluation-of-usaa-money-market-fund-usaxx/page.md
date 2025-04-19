@@ -1,6 +1,7 @@
 ---
-title: "Evaluation of the USAA Money Market Fund USAXX"
-description: "Discover the insights on the USAXX USAA Money Market Fund, a key player for investors seeking stability and liquidity as part of their low-volatility investment strategy. Explore how algorithmic trading can enhance the fund's integration into dynamic portfolios and learn about potential benefits and risks involved to make informed investment decisions."
+title: Understanding USAA Money Market Fund USAXX Features and Benefits
+description: USAA Money Market Fund USAXX provides a secure place to earn interest
+  on short term high quality debt with low fees and stability Discover more inside.
 ---
 
 

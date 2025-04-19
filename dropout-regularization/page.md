@@ -1,6 +1,7 @@
 ---
-title: "Dropout Regularization (Machine Learning)"
-description: "Dropout regularization in machine learning prevents overfitting by randomly deactivating neurons during training ensuring models generalize better to new data."
+title: Understanding Dropout Regularization in Neural Networks
+description: Dropout regularization improves neural network generalization by randomly
+  disabling neurons during training to prevent overfitting. Discover more inside.
 ---
 
 ![Image](images/1.png)

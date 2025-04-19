@@ -1,6 +1,7 @@
 ---
-title: "Dragon Bond: Significance and Mechanism"
-description: "Explore the significance of Dragon Bonds in algorithmic trading and discover how these innovative financial instruments offer unique investment opportunities in global markets."
+title: Understanding Dragon Bond Issuance, Benefits, and Risks
+description: Dragon Bond lets issuers tap foreign capital in local currency with lower
+  currency risk and competitive interest rates. Discover more inside.
 ---
 
 

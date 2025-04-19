@@ -1,6 +1,7 @@
 ---
-title: "Dummy CUSIP Number"
-description: "Explore the importance of dummy CUSIP numbers in securities trading. Discover their role in facilitating trades, algorithmic functions, and compliance."
+title: Understanding Dummy CUSIP Numbers and Best Practices
+description: Dummy CUSIP numbers act as placeholders for new securities until official
+  codes are assigned. Ensure timely updates to prevent errors. Discover more inside
 ---
 
 

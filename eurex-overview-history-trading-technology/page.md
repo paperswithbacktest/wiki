@@ -1,6 +1,8 @@
 ---
-title: "Eurex: Overview, History, and Trading Technology"
-description: "Explore Eurex a leader in futures and options markets blending historic roots with cutting-edge trading technology and innovative algorithmic systems."
+title: Guide to Eurex Futures and Options Trading Platform
+description: Eurex trading offers a secure global marketplace for futures options
+  bonds and stocks with real time pricing and robust risk management Discover more
+  inside
 ---
 
 

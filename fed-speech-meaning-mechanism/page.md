@@ -1,6 +1,7 @@
 ---
-title: "Fed Speech: Meaning and Mechanism"
-description: "Explore how the Federal Reserve's communication impacts algorithmic trading highlighting the vital role of policy language in shaping market dynamics and trade strategies."
+title: Understanding Fed Speeches And Their Impact On Financial Markets
+description: Fed speeches reveal Federal Reserve monetary outlook and market signals
+  with interest rate guidance and economic forecasts Discover more inside
 ---
 
 

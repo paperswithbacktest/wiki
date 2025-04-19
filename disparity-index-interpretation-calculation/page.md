@@ -1,6 +1,7 @@
 ---
-title: "Disparity Index: Interpretation and Calculation"
-description: "Explore the Disparity Index in algorithmic trading. Learn how this indicator enhances strategies by analyzing market trends and timing trade entries and exits."
+title: Understanding the Disparity Index for Stock Price Analysis
+description: Disparity Index helps traders gauge price deviations from moving averages
+  to spot overbought or oversold stocks with precision Discover more inside.
 ---
 
 

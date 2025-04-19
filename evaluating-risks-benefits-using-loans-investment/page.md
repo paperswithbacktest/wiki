@@ -1,6 +1,7 @@
 ---
-title: "Evaluating the Risks and Benefits of Using Loans for Investment"
-description: "Explore the complexities of using loans for investment and the role of algo trading in enhancing returns. Understand both risks and benefits for informed decisions."
+title: Investment Loans Explained Guide To Boosting Your Returns
+description: Investment loans help leverage home equity or margin financing to grow
+  capital while managing interest costs and risks Discover more inside.
 ---
 
 

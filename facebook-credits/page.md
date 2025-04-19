@@ -1,6 +1,7 @@
 ---
-title: "Facebook Credits"
-description: "Explore the evolution of Facebook Credits a pioneering virtual currency facilitating social media transactions since 2009 and their transition to blockchain projects."
+title: Evolution Of Facebook Credits From Introduction To Discontinuation
+description: Facebook Credits enabled seamless virtual purchases from 2009 to 2013
+  before shifting to direct payments for easier transactions. Discover more inside.
 ---
 
 

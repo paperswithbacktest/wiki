@@ -1,6 +1,7 @@
 ---
-title: "Evolution of Equity Research"
-description: "Explore the transformation of equity research and algo trading in financial markets Discover how technology enhances investment strategies for optimized efficiency"
+title: Equity Research Evolution And Its Role In Modern Markets
+description: Equity Research integrates big data analytics and ESG factors to deliver
+  market insights and updates for informed investing Discover more inside.
 ---
 
 

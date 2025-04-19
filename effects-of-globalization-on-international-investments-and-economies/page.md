@@ -1,6 +1,7 @@
 ---
-title: "Effects of Globalization on International Investments and Economies"
-description: "Explore how globalization impacts international investments and algorithmic trading reshaping economies worldwide. Analyze strategies for navigating global markets."
+title: Impact Of Globalization On Investment And Economic Development
+description: Globalization boosts cross-border investments and trade while creating
+  growth and exposing risks of inequality and volatility Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Evaluating High ESG Scores in Companies"
-description: "Explore how high ESG scores in companies influence sustainable investing and algorithmic trading, creating opportunities for ethical and profitable financial markets."
+title: Comprehensive Guide to ESG Scores for Investors and Companies
+description: ESG scores reveal how companies manage environmental social and governance
+  practices to reduce risk and unlock long term value Discover more inside
 ---
 
 

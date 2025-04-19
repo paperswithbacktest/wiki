@@ -1,6 +1,7 @@
 ---
-title: "EDGX Exchange"
-description: "Explore the pivotal role of algorithmic trading at the EDGX Exchange enhancing trading efficiency and liquidity through advanced technology and predictive strategies."
+title: Comprehensive Guide to Cboe Global Markets EDGX Exchange
+description: EDGX Exchange by Cboe Global Markets delivers fast reliable trading with
+  competitive fees and clear rules ensuring fair markets Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Direct Access Trading Systems"
-description: "Explore the transformative impact of Direct Access Trading systems and algorithmic trading in modern markets Boost trading speed precision and reduce costs."
+title: Direct Access Trading Systems Explained for Modern Traders
+description: Direct Access Trading System delivers fast real time order execution
+  with advanced tools to help traders gain control and efficiency. Discover more inside.
 ---
 
 

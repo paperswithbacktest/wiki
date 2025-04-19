@@ -1,6 +1,7 @@
 ---
-title: "Estimated Ultimate Recovery"
-description: "Discover the synergy between Estimated Ultimate Recovery and algorithmic trading in the oil and gas industry to optimize resource management and boost efficiency."
+title: Understanding Estimated Ultimate Recovery In Oil And Gas
+description: Estimated Ultimate Recovery helps industry forecast well output with
+  decline curve analysis reservoir simulation and data modeling Discover more inside
 ---
 
 

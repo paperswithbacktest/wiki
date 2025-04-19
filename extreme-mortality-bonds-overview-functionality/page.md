@@ -1,6 +1,7 @@
 ---
-title: "Extreme Mortality Bonds: Overview and Functionality"
-description: "Explore Extreme Mortality Bonds the cutting-edge intersection of insurance, financial securities and algorithmic trading in today's complex financial landscape."
+title: Understanding Extreme Mortality Bonds for Insurance Risk
+description: Extreme Mortality Bonds help insurers transfer epidemic risk to investors
+  while offering high returns when no disaster occurs. Discover more inside.
 ---
 
 

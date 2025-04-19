@@ -1,6 +1,7 @@
 ---
-title: "EBITDAR Overview"
-description: "Explore the significance of EBITDAR in business valuation and algorithmic trading. Understand how it differs from traditional EBITDA by factoring in rent and restructuring costs to offer a clearer picture of operational performance. Learn how EBITDAR helps analysts and investors evaluate companies with high fixed costs, aiding in strategic investment decisions. Discover its role in algorithmic trading systems which leverage financial metrics for data-driven market analysis and investment strategy optimization."
+title: 'Understanding EBITDAR: Core Operational Profitability Metric'
+description: EBITDAR offers a clear view of operational profitability by excluding
+  interest taxes depreciation amortization and rent Discover more inside
 ---
 
 

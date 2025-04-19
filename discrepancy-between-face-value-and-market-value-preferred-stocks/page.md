@@ -1,6 +1,7 @@
 ---
-title: "Discrepancy Between Face Value and Market Value of Preferred Stocks"
-description: "Discover the key differences between face value and market value of preferred stocks and how algorithmic trading enhances their valuation for informed investments."
+title: Preferred Stock Face Value and Market Price Discrepancy
+description: Preferred stock valuation unpacks why face value and market price diverge
+  due to dividends interest rates and credit shifts Discover more inside.
 ---
 
 

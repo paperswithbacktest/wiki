@@ -1,6 +1,7 @@
 ---
-title: "Employment-to-Population Ratio"
-description: "Explore how employment-to-population ratios shape algorithmic trading strategies, impacting global financial markets and economic policy insights."
+title: Understanding the Employment to Population Ratio in Labor Markets
+description: Employment to Population Ratio reveals the share of workers in the total
+  population and offers deeper labor market insights Discover more inside
 ---
 
 

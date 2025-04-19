@@ -1,6 +1,7 @@
 ---
-title: "Equity Swap: Overview and Mechanism"
-description: "Discover how equity swaps and algorithmic trading revolutionize investment strategies, offering market exposure and risk management without direct asset ownership."
+title: Equity Swap Guide Understanding Structures and Risks
+description: Equity swap offers market exposure without owning shares while managing
+  risk with customized return exchanges Discover more inside
 ---
 
 

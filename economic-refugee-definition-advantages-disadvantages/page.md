@@ -1,6 +1,7 @@
 ---
-title: "Economic Refugee: Definition, Advantages, and Disadvantages"
-description: "Discover the dynamics of economic migration including the benefits and challenges faced by economic refugees and their impact on global migration trends."
+title: Economic Refugees And Their Impact On Global Economies
+description: Economic refugees face unique legal and social hurdles abroad yet can
+  drive growth by filling labor gaps and paying taxes Discover more inside
 ---
 
 

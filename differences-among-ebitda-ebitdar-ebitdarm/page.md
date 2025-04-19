@@ -1,6 +1,7 @@
 ---
-title: "Differences Among EBITDA, EBITDAR, and EBITDARM"
-description: "Learn about the distinctions between EBITDA, EBITDAR, and EBITDARM and their integration into algorithmic trading to evaluate and optimize investment strategies."
+title: EBITDA EBITDAR And EBITDARM Core Profitability Metrics Explained
+description: EBITDA and its variants EBITDAR and EBITDARM reveal core operating profitability
+  across sectors and support fair company comparisons Discover more inside
 ---
 
 

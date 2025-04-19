@@ -1,6 +1,7 @@
 ---
-title: "Disappearance of Paper Stock Certificates"
-description: "Explore the transition from paper stock certificates to electronic records in the financial world highlighting dematerialization and algorithmic trading advancements."
+title: Transition From Paper Stock Certificates to Electronic Records
+description: Paper stock certificates are now replaced by secure electronic records
+  that streamline investments and boost convenience Discover more inside.
 ---
 
 

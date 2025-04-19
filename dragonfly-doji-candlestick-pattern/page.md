@@ -1,6 +1,7 @@
 ---
-title: "Dragonfly Doji Candlestick Pattern Explained"
-description: Explore the intricacies of the dragonfly doji candlestick pattern in technical analysis and its role in algorithmic trading. Learn how this distinct 'T' shaped pattern can signal potential market reversals by indicating bullish sentiment. Discover methods to incorporate the dragonfly doji into automated trading systems for enhanced trading decisions. Understand the significance of this pattern within market trends and its application in optimizing trading strategies for better outcomes.
+title: Understanding the Dragonfly Doji Candlestick Pattern
+description: Dragonfly Doji signals when sellers lose control and buyers push prices
+  back up offering insight on potential reversals Discover more inside.
 ---
 
 

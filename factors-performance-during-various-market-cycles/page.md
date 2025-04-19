@@ -1,6 +1,7 @@
 ---
-title: "Factor’s Performance During Various Market Cycles"
-description: Explore the impact of various market cycles on algorithmic trading strategies and factor performance in dynamic economic conditions. Understand key factors like interest rates, inflation, and market trends to enhance strategy optimization and portfolio management. Gain insights through comprehensive risk/return analysis using historical data and the Quantpedia Multi-Factor Regression Model for smarter investment decisions and superior trading outcomes during bull and bear markets.
+title: Understanding Factor Investing Across Market Cycles
+description: Factor investing aligns growth, value and quality exposures with market
+  cycle phases to optimize returns and manage risk Discover more inside
 ---
 
 

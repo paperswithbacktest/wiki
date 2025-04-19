@@ -1,6 +1,7 @@
 ---
-title: "Determining Company Inclusion in Stock Indexes"
-description: "Explore the relationship between stock index inclusion and algorithmic trading to understand their profound impact on market dynamics and investment strategies."
+title: Stock Index Inclusion and Its Impact on Company Performance
+description: Stock index inclusion boosts company visibility and liquidity by prompting
+  index funds to buy shares in proportion to market cap. Discover more inside.
 ---
 
 

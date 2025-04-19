@@ -1,6 +1,7 @@
 ---
-title: "Excess Returns: Meaning, Risk, and Formulas"
-description: "Explore the meaning of excess returns and investment risk in algo trading, utilizing essential formulas to enhance portfolio performance and optimize strategies."
+title: Measuring Excess Returns With Benchmarks For Investment Analysis
+description: Excess returns reveal how investments outperform benchmarks and power
+  smarter portfolio planning. Discover formulas, benchmarks and risk metrics inside
 ---
 
 

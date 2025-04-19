@@ -1,6 +1,7 @@
 ---
-title: "Dual Currency Swap"
-description: "Discover the strategic role of currency swaps and algorithmic trading in global finance optimizing trade execution while managing FX risks effectively."
+title: Dual Currency Swaps Explained Components Benefits and Risks
+description: Dual currency swap agreements help companies secure predictable cash
+  flows, manage currency risk and leverage exchange movements. Discover more inside.
 ---
 
 

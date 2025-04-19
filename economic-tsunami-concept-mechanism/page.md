@@ -1,6 +1,7 @@
 ---
-title: "Economic Tsunami: Concept and Mechanism"
-description: "Explore the concept of economic tsunamis and the role of algorithmic trading in navigating financial crises and globalization impacts in modern markets."
+title: Understanding Economic Tsunami Risks and Recovery Strategies
+description: Economic tsunami impact can collapse markets and jobs uncover causes
+  mitigation and resilience tactics to protect assets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "E*TRADE: Online Brokerage Platform"
-description: "E*TRADE's online brokerage platform offers advanced algo trading tools enabling investors to automate trades for optimal results while minimizing manual risks."
+title: Essential Guide to E*TRADE Online Investing Platform
+description: E*TRADE offers commission-free stock and ETF trading with intuitive tools
+  and expert insights for managing investments confidently. Discover more inside.
 ---
 
 

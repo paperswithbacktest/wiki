@@ -1,6 +1,7 @@
 ---
-title: "Equity Derivatives"
-description: "Explore the synergy of equity derivatives and algorithmic trading to optimize investment strategies by managing risk and exploiting market inefficiencies efficiently."
+title: Comprehensive Guide to Equity Derivatives and Strategies
+description: Equity derivatives deliver flexible risk management and speculation through
+  options futures and swaps tailored to your portfolio Discover more inside
 ---
 
 

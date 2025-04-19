@@ -1,6 +1,7 @@
 ---
-title: "Ethics in Asset Management: Risk Management and Compliance"
-description: "Explore the integral role of risk management, ethics, compliance, and algorithmic trading in modern asset management to ensure ethical practices and market resilience."
+title: Principles Of Ethical Asset Management And Regulatory Compliance
+description: Ethical asset management ensures integrity fairness and compliance while
+  protecting client investments and building lasting trust Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Equity Income: Overview, Functionality, and Examples"
-description: "Discover how dividend stocks, equity income, and algorithmic trading integrate to enhance investment portfolios, balance risk, and maximize returns effectively."
+title: Maximizing Equity Income With Diversified Dividend Investments
+description: Equity income offers steady dividend earnings from stocks bonds and REITs
+  to boost your portfolio with consistent payouts Discover more inside.
 ---
 
 

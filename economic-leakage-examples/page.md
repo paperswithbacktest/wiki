@@ -1,6 +1,7 @@
 ---
-title: "Economic Leakage and Examples"
-description: "Explore economic leakage within economics and algorithmic trading to understand its impact on monetary flow and model evaluations, ensuring robust strategies."
+title: Reducing Economic Leakage to Strengthen Local Economies
+description: Economic leakage sends revenue abroad from communities. Explore local
+  spending strategies that keep funds at home and support growth. Discover more inside
 ---
 
 

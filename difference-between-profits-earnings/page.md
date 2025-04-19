@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Profits and Earnings"
-description: "Discover the key differences between profits and earnings in algo trading to make informed financial decisions and optimize investment strategies."
+title: Understanding Profit and Earnings in Business Financial Reports
+description: Profit and Earnings are key metrics that reveal companies financial health
+  by showing revenue minus costs and guiding decisions Discover more inside
 ---
 
 

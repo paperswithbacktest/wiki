@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Utility Average: Overview and Examples"
-description: "Explore how the Dow Jones Utility Average tracks utility stocks and influences trading strategies through algorithmic methods. Stay updated on DJUA impacts."
+title: Understanding the Dow Jones Utility Average Stock Index
+description: Dow Jones Utility Average shows US utility stock performance with price
+  weighted 15 companies offering stable dividends and resilience Discover more inside
 ---
 
 

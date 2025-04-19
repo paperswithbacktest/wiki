@@ -1,6 +1,8 @@
 ---
-title: "Equity Options"
-description: "Learn about equity options and algorithmic trading in this comprehensive guide to financial derivatives. Discover how equity and stock options offer strategic utility for hedging and speculation. Explore the impact of algo trading in enhancing market efficiency and transforming derivatives trading. Understand the tools and strategies for managing risks and optimizing returns in global finance."
+title: Understanding Equity Options Trading and Strategies
+description: Equity options offer a flexible way to profit from stock price moves
+  and manage risk Explore strategies for calls and puts to boost returns Discover
+  more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Disruptive Technology and Investment Strategies"
-description: "Explore how disruptive technologies like AI and algorithmic trading are revolutionizing investment strategies enhancing trade precision and market dynamics."
+title: Understanding Disruptive Technology and Its Impact on Industries
+description: Disruptive Technology reshapes industries by enabling startups and investors
+  to spot innovations that drive growth and efficiency Discover more inside.
 ---
 
 

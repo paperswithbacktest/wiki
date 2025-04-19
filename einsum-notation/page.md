@@ -1,6 +1,7 @@
 ---
-title: "Einsum Notation (Machine Learning)"
-description: "Discover Einsum notation for machine learning with this guide on simplifying tensor operations efficiently using a concise and readable format."
+title: Einsum Notation Guide for Simplifying Tensor Operations
+description: Einsum notation provides a concise way to express tensor operations in
+  machine learning, enhancing code clarity and performance. Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Dynamic Model (Machine Learning)"
-description: "Explore the advantages and applications of dynamic models in machine learning where models adapt and learn from ever-changing data for accurate predictions."
+title: Adaptive Dynamic Models in Machine Learning Applications
+description: Dynamic Models in Machine Learning adapt to real time data to improve
+  prediction accuracy for weather stock or traffic forecasting Discover more inside
 ---
 
 ![Image](images/1.jpeg)

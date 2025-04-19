@@ -1,6 +1,7 @@
 ---
-title: "Economic Value Added (EVA): Overview and Illustration"
-description: "Explore how Economic Value Added and algorithmic trading intersect to enhance financial strategy Evaluate EVA's role in trading models for improved performance."
+title: Understanding Economic Value Added EVA for Business Performance
+description: Economic Value Added EVA shows if your company earns returns above its
+  capital cost and drives value creation for shareholders Discover more inside.
 ---
 
 

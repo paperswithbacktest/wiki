@@ -1,6 +1,7 @@
 ---
-title: "Equity Market Capitalization: Overview, Function, and Challenges"
-description: "Explore the dynamics of equity markets focusing on the crucial role of market capitalization and algorithmic trading Its impact on investment decisions and market trends"
+title: Understanding Market Capitalization A Guide for Investors
+description: Market capitalization reveals company size and risk categories to guide
+  smarter investment decisions with clear insights Discover more inside.
 ---
 
 

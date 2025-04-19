@@ -1,6 +1,7 @@
 ---
-title: "Deferred Share Mechanics"
-description: "Understand deferred share mechanics and algorithmic trading to enhance investment strategies. Explore equity investments, market dynamics, and corporate share structuring for informed decisions."
+title: Deferred Shares Explained For Founders And Key Employees
+description: Deferred shares reward founders and key employees with delayed dividends
+  to balance loyalty incentives and cash flow management. Discover more inside
 ---
 
 

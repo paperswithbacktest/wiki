@@ -1,6 +1,7 @@
 ---
-title: "Equity Crowdfunding: Risks and Rewards"
-description: "Explore the synergy of equity crowdfunding and algorithmic trading uncovering their unique risks and rewards for informed and strategic investment decisions."
+title: Equity Crowdfunding Guide to Risks Rewards and Strategies
+description: Equity crowdfunding guide offers clear steps on risks rewards legal insights
+  and diversification tactics to optimize investments Discover more inside
 ---
 
 

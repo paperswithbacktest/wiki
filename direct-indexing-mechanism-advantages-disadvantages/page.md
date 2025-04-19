@@ -1,6 +1,7 @@
 ---
-title: "Direct Indexing: Mechanism, Advantages, and Disadvantages"
-description: "Explore how direct indexing and algorithmic trading reshape investment strategies offering personalized portfolios and advanced automation for modern investors."
+title: Direct Indexing Guide To Custom Portfolios And Tax Efficiency
+description: Direct indexing lets investors customize portfolios and reduce taxes
+  with tax loss harvesting and rebalancing for greater returns Discover more inside
 ---
 
 

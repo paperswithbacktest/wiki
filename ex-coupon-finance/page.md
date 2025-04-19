@@ -1,6 +1,7 @@
 ---
-title: "Ex-Coupon in Finance"
-description: "Explore the intricacies of ex-coupon trading in the bond markets and its impact on investment strategies within algorithmic finance, optimizing portfolio returns."
+title: Understanding Ex-Coupon Dates In Bond Trading And Pricing
+description: Ex-Coupon Date defines when bonds trade without the next coupon affecting
+  prices and yield for optimizing investment timing. Discover more inside.
 ---
 
 

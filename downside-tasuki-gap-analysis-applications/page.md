@@ -1,6 +1,7 @@
 ---
-title: "Downside Tasuki Gap Analysis and Applications"
-description: "Explore the Downside Tasuki Gap candlestick pattern for insights in bear market trends and learn its applications for improving algorithmic trading strategies."
+title: Understanding the Downside Tasuki Gap in Technical Analysis
+description: Downside Tasuki Gap shows bearish momentum stays strong as bullish candles
+  fail to close the gap signaling further declines Discover more inside
 ---
 
 

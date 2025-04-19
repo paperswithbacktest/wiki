@@ -1,6 +1,7 @@
 ---
-title: "Embedding Layer (Machine Learning)"
-description: "Explore the benefits and uses of embedding layers in machine learning such as converting words into vectors enabling better text analysis and NLP capabilities."
+title: Understanding Embedding Layers in Machine Learning Models
+description: Embedding layers turn categorical data into dense vectors that capture
+  semantic relationships and enhance neural network performance Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Doctor Copper: Theory and Use as an Economic Indicator"
-description: "Explore how copper prices in economic analysis predict market trends and impact algorithmic trading offering insights into copper's role as a key economic indicator."
+title: Doctor Copper Economic Indicator Reveals Global Growth Trends
+description: Doctor Copper shows how copper usage and prices forecast economic health
+  across industries and markets with actionable insights Discover more inside
 ---
 
 

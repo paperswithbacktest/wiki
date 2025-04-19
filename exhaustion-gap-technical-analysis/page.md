@@ -1,6 +1,7 @@
 ---
-title: "Exhaustion Gap in Technical Analysis"
-description: "Explore the significance of exhaustion gaps in technical analysis and algorithmic trading to refine strategies and anticipate potential stock market trend reversals."
+title: Mastering Exhaustion Gaps for Smarter Trading Decisions
+description: Exhaustion gap signals trend end when a final price jump on high volume
+  fails to sustain and reverses use this indicator to time exits Discover more inside
 ---
 
 

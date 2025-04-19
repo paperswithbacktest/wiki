@@ -1,6 +1,7 @@
 ---
-title: "Disparate Impact (Machine Learning)"
-description: "Ensure ethical AI outcomes by addressing disparate impact in machine learning where biased algorithms unfairly affect certain groups and perpetuate inequalities."
+title: Addressing Disparate Impact in Machine Learning Models
+description: Disparate Impact in machine learning can skew outcomes for protected
+  groups, applying bias ratios and mitigation strategies Discover more inside
 ---
 
 ![Image](images/1.png)

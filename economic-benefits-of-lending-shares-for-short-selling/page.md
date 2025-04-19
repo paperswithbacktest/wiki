@@ -1,6 +1,7 @@
 ---
-title: "Economic Benefits of Lending Shares for Short Selling"
-description: "Explore the economic advantages of lending shares for short selling in algo trading Enhance liquidity diversify strategies and maximize financial returns"
+title: Understanding Share Lending for Short Selling Success
+description: Share lending offers investors a way to earn extra income by leasing
+  shares for short selling while managing risks and compliance Discover more inside
 ---
 
 

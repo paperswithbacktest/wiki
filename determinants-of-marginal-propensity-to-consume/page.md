@@ -1,6 +1,7 @@
 ---
-title: "Determinants of Marginal Propensity to Consume"
-description: "Explore how the Marginal Propensity to Consume influences economic trends and trading strategies for better financial planning and policy-making."
+title: Understanding the Marginal Propensity to Consume in Economics
+description: Marginal Propensity to Consume explains how consumers allocate extra
+  income to spending versus saving and guides fiscal planning. Discover more inside
 ---
 
 

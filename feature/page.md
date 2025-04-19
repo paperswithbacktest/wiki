@@ -1,6 +1,7 @@
 ---
-title: "Feature (Machine Learning)"
-description: "Learn about features in machine learning their role in model accuracy and the significance of feature engineering for building effective models."
+title: Feature Engineering Strategies for Effective Machine Learning
+description: Feature engineering transforms data into inputs for machine learning
+  by selecting and creating features that boost model accuracy Discover more inside
 ---
 
 ![Image](images/1.png)

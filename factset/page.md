@@ -1,6 +1,7 @@
 ---
-title: "FactSet"
-description: Discover how FactSet revolutionizes algorithmic trading with advanced data solutions and analytical tools. Enhance trading strategies with FactSet's comprehensive data feeds, seamless integration capabilities, and innovative technology platforms. Drive informed decision-making with real-time data analytics and customizable solutions tailored to your trading objectives. Learn how FactSet empowers financial professionals to optimize trade executions and stay competitive in the dynamic global finance landscape.
+title: FactSet Financial Data And Analytics Solutions For Finance
+description: FactSet delivers comprehensive financial data analytics portfolio risk
+  management tools with seamless integrations and secure access Discover more inside
 ---
 
 

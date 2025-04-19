@@ -1,6 +1,7 @@
 ---
-title: "Dispersion Trading: A Deep Dive into Volatility Arbitrage"
-description: Delve into the world of Dispersion Trading - a sophisticated volatility arbitrage strategy capitalizing on the discrepancy between implied and realized correlations. Understand its core principles, history, and mechanics, plus explore real-world examples contrasting it with index arbitrage.
+title: Dispersion Trading Strategies for Index and Stock Volatility
+description: Dispersion Trading uses implied volatility gaps between an index and
+  its stocks to capture arbitrage and control risk effectively Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dividend Signaling Theory and Examples"
-description: "Explore the intersection of dividend signaling theory and algorithmic trading to enhance investment strategies by predicting company financial health and performance."
+title: Understanding Dividend Signaling Theory in Financial Markets
+description: Dividend Signaling Theory shows how dividend shifts reflect a companys
+  financial health and shape investor decisions with examples Discover more inside
 ---
 
 

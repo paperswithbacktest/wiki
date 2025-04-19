@@ -1,6 +1,7 @@
 ---
-title: "Discounted Future Earnings Valuation Method"
-description: "Explore the integration of Discounted Cash Flow valuation and algorithmic trading to enhance investment strategies by valuing future earnings and intrinsic worth."
+title: Essential Guide to Discounted Future Earnings Valuation Method
+description: Discounted Future Earnings Valuation Method values a business by forecasting
+  earnings and applying risk adjusted discount rates Discover more inside
 ---
 
 

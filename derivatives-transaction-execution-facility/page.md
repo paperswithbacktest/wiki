@@ -1,6 +1,7 @@
 ---
-title: "Derivatives Transaction Execution Facility"
-description: "Enhance your understanding of derivatives and algorithmic trading Discover how these financial instruments drive modern markets optimize trade execution and manage risks."
+title: Understanding Derivatives Transaction Execution Facilities
+description: Derivatives Transaction Execution Facility provides secure markets for
+  negotiating derivatives contracts under regulatory oversight Discover more.
 ---
 
 

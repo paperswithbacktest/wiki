@@ -1,6 +1,7 @@
 ---
-title: "Determinants of Bank Share Prices"
-description: "Explore key factors influencing bank share prices including growth potential banking risks and algorithmic trading impacts offering insights for informed investment choices."
+title: Key Factors Influencing Bank Share Prices and Performance
+description: Bank share prices reveal bank health and profit outlook as we examine
+  interest rates, inflation, regulation, and risk factors Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "ECHOtrade"
-description: Echotrade revolutionizes algorithmic trading by employing advanced techniques inspired by historical data patterns, akin to analogue methods in meteorology, to enhance predictive accuracy in market movements. This cutting-edge strategy removes the emotional bias of traditional trading, offering fast and precise data-driven decisions. Echotrade's efficiency and adaptability benefit traders in liquid markets, optimizing performance and forecasting reliability. By harnessing vast datasets, both retail and institutional investors can leverage Echotrade to gain competitive advantages, improve trade executions, and manage portfolios with heightened confidence.
+title: ECHOtrade Smart Investing Platform for Everyday Investors
+description: ECHOtrade uses advanced algorithms to simplify investing from day one,
+  build diversified portfolios with low fees and expert insight. Discover more inside.
 ---
 
 

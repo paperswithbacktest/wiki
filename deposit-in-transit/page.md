@@ -1,6 +1,7 @@
 ---
-title: "Deposit in Transit: Explanation and Example"
-description: "Explore the importance of deposits in transit and bank reconciliation in financial accounting to ensure accurate cash flow management and reliable financial reporting."
+title: Managing Deposits In Transit For Accurate Cash Reconciliation
+description: Deposit in Transit can create mismatches between cash records and bank
+  statements but reconciling regularly ensures accurate cash flow Discover more inside
 ---
 
 

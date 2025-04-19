@@ -1,6 +1,7 @@
 ---
-title: "Enterprise Ethereum Alliance: Overview, Examples, and Membership"
-description: "Discover how Enterprise Ethereum Alliance membership enhances algorithmic trading with blockchain technology fostering innovation and optimizing strategies."
+title: Enterprise Ethereum Alliance Driving Secure Business Blockchain
+description: Enterprise Ethereum Alliance develops Ethereum blockchain standards and
+  tools ensuring secure efficient enterprise solutions Discover more inside
 ---
 
 

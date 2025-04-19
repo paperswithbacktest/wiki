@@ -1,6 +1,7 @@
 ---
-title: "Execution slippage analysis"
-description: "Explore execution slippage in algorithmic trading and learn strategies to minimize its impact on profitability Enhance your trading performance by understanding slippage types and causes"
+title: Understanding Execution Slippage in Trading and How to Reduce It
+description: Execution slippage cuts trading returns in fast markets and low liquidity
+  Use strategies and tools to control it and improve execution Discover more inside
 ---
 
 

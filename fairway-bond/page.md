@@ -1,6 +1,7 @@
 ---
-title: "Fairway Bond"
-description: "Explore the benefits and strategies of fairway bond investments blended with algorithmic trading to optimize returns while managing risks in bond markets."
+title: Fairway Bonds Hybrid Option For Steady Income And Rate Protection
+description: Fairway Bonds offer stable returns when rates rise then switch to floating
+  rates when they fall to balance income and protection Discover more inside
 ---
 
 

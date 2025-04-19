@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Exchange-Traded Products and Exchange-Traded Funds"
-description: "Discover the key differences between exchange-traded products and exchange-traded funds, and explore how algo trading revolutionizes modern investment strategies."
+title: Comparing Exchange-Traded Products and Exchange-Traded Funds
+description: Exchange-Traded Products explain how ETPs and ETFs differ in structure,
+  costs and risks to enhance portfolio diversification Discover more inside
 ---
 
 

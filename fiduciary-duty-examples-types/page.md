@@ -1,6 +1,7 @@
 ---
-title: "Fiduciary Duty: Examples and Types"
-description: "Explore fiduciary duty's importance in algorithmic trading with examples and types to ensure ethical financial practices and safeguard investor interests."
+title: Understanding Fiduciary Duty in Professional Relationships
+description: Fiduciary duty requires professionals to act honestly loyally and with
+  care putting beneficiaries first avoiding conflicts of interest Discover more inside
 ---
 
 

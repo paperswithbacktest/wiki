@@ -1,6 +1,7 @@
 ---
-title: "Examples of the Law of Demand"
-description: "Explore the connections between demand theory and algorithmic trading in this insightful article. Understand how changes in price impact consumer demand and discover strategies that leverage this knowledge to enhance trading performance. Gain insights on key economic concepts like the demand curve and demand elasticity to optimize your algorithmic trading systems for better market predictions and profitability."
+title: Understanding the Law of Demand in Economics and Markets
+description: Law of Demand explains how price changes affect consumer buying behavior
+  and guides businesses in pricing and strategy decisions. Discover more inside.
 ---
 
 

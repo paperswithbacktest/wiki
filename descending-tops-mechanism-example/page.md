@@ -1,6 +1,7 @@
 ---
-title: "Descending Tops: Mechanism and Example"
-description: "Explore the role of descending tops in trading a key technical analysis pattern signifying bearish trends Learn how to identify and leverage these patterns in real scenarios"
+title: Understanding Descending Top Patterns in Technical Analysis
+description: Descending top pattern shows weakening momentum so traders spot sell
+  or short setups with clear entry points and stop losses. Discover more inside.
 ---
 
 

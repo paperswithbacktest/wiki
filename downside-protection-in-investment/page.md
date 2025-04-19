@@ -1,6 +1,7 @@
 ---
-title: "Downside Protection in Investment"
-description: "Explore downside protection, risk management, and algorithmic trading strategies to safeguard investments while maximizing growth opportunities in volatile markets."
+title: Effective Downside Protection for Long Term Investment Security
+description: Downside protection limits potential investment losses with diversification
+  stop loss and protective puts to safeguard portfolios Discover more inside
 ---
 
 

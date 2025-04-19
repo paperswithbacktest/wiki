@@ -1,6 +1,7 @@
 ---
-title: "Exclusion Ratio in Annuities"
-description: "Explore how the exclusion ratio impacts annuity taxation and discover the role of algorithmic trading in optimizing investment strategies for tax efficiency."
+title: Understanding Exclusion Ratio for Annuity Tax Benefits
+description: Exclusion ratio in annuities shows how much of each payment is tax-free
+  to help you plan your retirement income and taxes. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Experience Replay (Machine Learning)"
-description: "Experience Replay enhances reinforcement learning by using past experiences to improve stability and learning efficiency, thus preventing catastrophic forgetting."
+title: Optimizing Reinforcement Learning with Experience Replay
+description: Experience Replay improves reinforcement learning by randomizing past
+  experiences to break data correlations and reinforce memory. Discover more inside.
 ---
 
 ![Image](images/1.png)

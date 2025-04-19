@@ -1,6 +1,7 @@
 ---
-title: "European Central Bank: Structure and Functions"
-description: "Explore the European Central Bank's role in monetary policy and financial stability Learn about its impact on algorithmic trading within the eurozone financial markets"
+title: 'European Central Bank: Structure Roles And Monetary Policies'
+description: European Central Bank maintains euro price stability through interest
+  rate policy inflation control and bank supervision Discover more inside
 ---
 
 

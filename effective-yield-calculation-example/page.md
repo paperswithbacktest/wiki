@@ -1,6 +1,7 @@
 ---
-title: "Effective Yield: Calculation and Example"
-description: "Understand the concept of effective yield in algo trading. Learn its calculation and importance in modern finance for maximizing investment returns."
+title: Understanding Effective Yield for Accurate Investment Returns
+description: Effective yield reveals annual return on investments by factoring in
+  compounding frequency and fees to make informed comparisons Discover more inside.
 ---
 
 

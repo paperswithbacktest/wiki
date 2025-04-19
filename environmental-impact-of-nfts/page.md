@@ -1,6 +1,7 @@
 ---
-title: "Environmental Impact of NFTs"
-description: "Explore the environmental impact of NFTs driven by algorithmic trading aiming to enhance sustainability by reducing energy consumption and optimizing market efficiency."
+title: Understanding the Environmental Impact of NFTs on Blockchain
+description: NFT environmental impact stems from energy use on proof-of-work blockchains
+  switch to proof-of-stake and renewables to cut carbon emissions Explore more
 ---
 
 

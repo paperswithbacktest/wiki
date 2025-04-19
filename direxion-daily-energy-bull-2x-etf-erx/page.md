@@ -1,6 +1,7 @@
 ---
-title: "Direxion Daily Energy Bull 2X ETF (ERX)"
-description: "Explore how algorithmic trading can optimize strategies for the Direxion Daily Energy Bull 2X ETF ERX a leveraged tool in the volatile energy sector."
+title: "Direxion Daily Energy Bull\_2X ETF ERX Explained For Investors"
+description: "Direxion Daily Energy Bull\_2X ETF ERX doubles the energy sectors daily\
+  \ return via leverage while outlining key risks and fees Discover more inside"
 ---
 
 

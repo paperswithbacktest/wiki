@@ -1,6 +1,7 @@
 ---
-title: "Federal Housing Administration: Overview and History"
-description: "Explore the Federal Housing Administration’s history and role in promoting homeownership and how algorithmic trading is impacting the housing market today."
+title: Understanding FHA Loans and the Federal Housing Administration
+description: FHA loans help buyers secure low down payments and competitive rates
+  by insuring mortgages and setting fair terms for borrowers Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Double Top and Bottom Patterns in Technical Analysis"
-description: "Discover how double top and bottom patterns in technical analysis provide valuable insights for predicting market reversals and enhance algorithmic trading strategies."
+title: Double Top and Bottom Patterns in Technical Analysis
+description: Double top and bottom patterns reveal key reversal signals by mapping
+  M and W shapes on price charts to guide sell or buy decisions Discover more inside
 ---
 
 

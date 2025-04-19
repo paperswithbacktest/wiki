@@ -1,6 +1,7 @@
 ---
-title: "Exit Fee: Definition and Disclosure"
-description: "Explore the role of exit fees in algorithmic trading and investment strategies. Understand their impact, disclosure importance, and how they shape market dynamics."
+title: Understanding the Impact of Exit Fees on Contracts and Consumers
+description: Exit fees cover company losses and discourage early termination so read
+  guidelines to spot, compare and negotiate effectively. Discover more inside.
 ---
 
 

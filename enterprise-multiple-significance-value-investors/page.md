@@ -1,6 +1,7 @@
 ---
-title: "Enterprise Multiple and Its Significance for Value Investors"
-description: "Explore the significance of Enterprise Multiple for value investors and algorithmic trading Discover how EV/EBITDA aids in evaluating company valuation and operations"
+title: Enterprise Multiple Valuation Guide for Value Investors
+description: Enterprise multiple helps value investors compare company worth by relating
+  enterprise value to EBITDA for smarter decisions Discover more inside
 ---
 
 

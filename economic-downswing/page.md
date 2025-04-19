@@ -1,6 +1,7 @@
 ---
-title: "Economic Downswing"
-description: "Explore how algorithmic trading plays a critical role during economic downturns providing liquidity and optimizing trade execution while navigating market shifts."
+title: Understanding Economic Downswings and Their Impacts
+description: Economic downswing insights reveal how slower growth rising unemployment
+  and consumer spending shifts impact businesses households Discover more inside
 ---
 
 

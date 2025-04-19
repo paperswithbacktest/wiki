@@ -1,6 +1,7 @@
 ---
-title: "Feature importance"
-description: Explore the crucial role of feature importance in algorithmic trading, enhancing trading strategy performance by identifying key variables. Discover how understanding feature importance optimizes trading algorithms for better accuracy and profitability. This essential guide investigates into techniques like permutation importance and SHAP values, demonstrating their impact on refining models for more reliable predictions amidst dynamic market conditions.
+title: Understanding Feature Importance for Machine Learning Models
+description: Feature importance reveals key data inputs that drive machine learning
+  model accuracy and efficiency while simplifying development. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Diversification"
-description: Explore the strategic advantages of diversification in algorithmic trading to enhance performance and manage risk. This guide examines how utilizing a variety of algorithms and asset classes can mitigate risks associated with single strategies and market sectors. Gain insights into the methods for effectively diversifying portfolios, ensuring reduced volatility and more consistent returns in the fast-paced world of algo trading.
+title: Effective Investment Diversification Strategies for Portfolios
+description: Investment diversification helps reduce portfolio risk by spreading assets
+  across stocks bonds real estate and global markets Discover more inside
 ---
 
 

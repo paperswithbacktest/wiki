@@ -1,6 +1,7 @@
 ---
-title: "Dividend Declaration Exceeding Earnings Per Share"
-description: "Explore how EPS and dividend strategies blend with algorithmic trading to refine investment approaches. Harness data-driven insights for optimized market performance."
+title: Understanding Dividends That Exceed Earnings Per Share
+description: Dividends that exceed earnings per share can strain finances while signaling
+  investor appeal. Evaluate risks and sustainability. Discover more inside.
 ---
 
 

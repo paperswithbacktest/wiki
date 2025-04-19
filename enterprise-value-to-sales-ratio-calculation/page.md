@@ -1,6 +1,7 @@
 ---
-title: "Enterprise Value-to-Sales Ratio and Calculation"
-description: "Discover the advantages of the Enterprise Value-to-Sales ratio in financial analysis and algorithmic trading Enhance your stock selection with this key metric"
+title: Understanding Enterprise Value To Sales Ratio For Investors
+description: EV/Sales ratio helps investors see how much they pay for each dollar
+  of sales by including debt and cash for fuller company valuation Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Edgeworth Price Cycle: Concept, Stages, and Historical Context"
-description: "Explore the Edgeworth Price Cycle, its stages, and historical significance. Learn how cyclical pricing impacts commodities and unfolds in competitive markets."
+title: Understanding the Edgeworth Price Cycle in the Fuel Industry
+description: Edgeworth Price Cycle shows how gas stations alternate gradual price
+  hikes and sudden cuts as drivers time purchases to save money Discover more inside
 ---
 
 

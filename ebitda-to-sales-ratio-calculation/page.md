@@ -1,6 +1,7 @@
 ---
-title: "EBITDA-to-Sales Ratio Calculation"
-description: "Learn the importance of the EBITDA-to-Sales ratio in algorithmic trading to evaluate a company's profitability and operational efficiency for better investment decisions."
+title: Understanding EBITDA-to-Sales Ratio for Operational Efficiency
+description: Explore how EBITDA-to-Sales Ratio measures a companys efficiency in converting
+  sales into operating earnings and compares performance Discover more inside
 ---
 
 

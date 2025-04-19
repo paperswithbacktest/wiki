@@ -1,6 +1,7 @@
 ---
-title: "Deposit Multiplier and Money Multiplier"
-description: "Dive into the world of finance with insights on money and deposit multipliers, macroeconomic impacts, and the role of algorithmic trading in modern markets."
+title: The Money Multiplier and Deposit Multiplier in Modern Banking
+description: The Money Multiplier explains how banks use fractional reserves to expand
+  the money supply through repeated lending cycles effectively Discover more inside
 ---
 
 

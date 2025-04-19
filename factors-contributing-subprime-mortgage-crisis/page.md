@@ -1,6 +1,7 @@
 ---
-title: "Factors Contributing to the Subprime Mortgage Crisis"
-description: "Explore the factors behind the subprime mortgage crisis focusing on how subprime mortgages and algorithmic trading contributed to financial instability."
+title: Understanding the Subprime Mortgage Crisis and Its Causes
+description: Subprime mortgage crisis arose from risky loans, lax standards and complex
+  securitization that triggered the 2008 financial meltdown. Discover more inside
 ---
 
 

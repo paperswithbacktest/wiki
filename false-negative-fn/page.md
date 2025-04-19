@@ -1,6 +1,7 @@
 ---
-title: "False Negative (Fn) (Machine Learning)"
-description: "False Negatives in machine learning occur when a model incorrectly predicts absence of a condition that is actually present leading to missed detections"
+title: Understanding False Negative Rates In Machine Learning Models
+description: False Negative rate shows how often a machine learning model misses cases
+  and offers strategies to reduce misses and improve accuracy Discover more inside
 ---
 
 ![Image](images/1.png)

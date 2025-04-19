@@ -1,6 +1,7 @@
 ---
-title: "Entropy (Machine Learning)"
-description: "Discover how entropy measures randomness in machine learning datasets and its crucial role in decision trees and feature selection for better predictions."
+title: Entropy in Machine Learning Algorithms and Decision Trees
+description: Entropy in machine learning measures uncertainty and drives feature selection
+  by maximizing information gain to build accurate models Discover more inside
 ---
 
 ![Image](images/1.jpeg)

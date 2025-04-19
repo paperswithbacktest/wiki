@@ -1,6 +1,7 @@
 ---
-title: "Electronic Market Making"
-description: "Explore the role of electronic market making in algo trading, focusing on its impact on liquidity, efficiency, strategies, benefits, and potential challenges."
+title: Essential Electronic Market Making Strategies And Risks
+description: Electronic market making uses algorithms and real time data feeds to
+  maintain liquidity manage risk and streamline trades Discover more inside.
 ---
 
 

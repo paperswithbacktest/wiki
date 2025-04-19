@@ -1,6 +1,7 @@
 ---
-title: "Dividend Clientele Theory"
-description: "Explore the dynamic interplay of dividend clientele theory, finance theory, investment strategies, and algorithmic trading to enhance trading efficiency and returns."
+title: Understanding Dividend Clientele Theory for Investor Preferences
+description: Dividend Clientele Theory shows how income and tax needs shape investor
+  preferences and drive corporate dividend policies Discover more inside
 ---
 
 

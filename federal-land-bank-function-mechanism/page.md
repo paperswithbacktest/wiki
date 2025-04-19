@@ -1,6 +1,7 @@
 ---
-title: "Federal Land Bank: Function and Mechanism"
-description: "Discover how the Federal Land Bank supports rural development with long-term financing while algorithmic trading revolutionizes financial efficiencies in land financing."
+title: Federal Land Bank Loans And Support For Agricultural Development
+description: Federal Land Bank offers farmers and landowners long term low rate loans
+  for land purchase farm improvements and rural development Discover more inside
 ---
 
 

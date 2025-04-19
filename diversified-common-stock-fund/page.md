@@ -1,6 +1,7 @@
 ---
-title: "Diversified Common Stock Fund"
-description: "Explore diversified common stock funds and algorithmic trading strategies for optimizing investment portfolios to achieve balanced risk-return in today's markets."
+title: Advantages And Risks Of Diversified Common Stock Funds
+description: Diversified common stock fund offers professional management that spreads
+  risk across sectors and simplifies long term growth strategy Discover more inside
 ---
 
 

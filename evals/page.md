@@ -1,6 +1,7 @@
 ---
-title: "Evals (Machine Learning)"
-description: "Explore the importance of evals in machine learning to assess model performance, identify strengths, weaknesses, and enhance real-world application readiness."
+title: Understanding Machine Learning Evals for Model Performance
+description: Machine Learning Evals assess model accuracy, precision and recall to
+  guide improvements and prevent overfitting with strategies Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Dollar Duration: Overview, Formula, and Limitations"
-description: "Understanding dollar duration is crucial for managing bond interest rate risks in algorithmic trading. Learn its role in assessing and optimizing fixed income portfolios."
+title: Comprehensive Role of Dollar Duration in Bond Risk Management
+description: Dollar Duration helps investors quantify bond value changes for each
+  1% interest rate shift and manage portfolio risk effectively Discover more inside.
 ---
 
 

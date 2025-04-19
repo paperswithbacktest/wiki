@@ -1,6 +1,7 @@
 ---
-title: "Deferred Equity: Overview and Applications"
-description: "Explore the strategic blend of deferred equity and algorithmic trading to enhance portfolio performance offering flexibility and precision in investment strategies."
+title: Understanding Deferred Equity Agreements in Startup Compensation
+description: Deferred equity helps startups attract and retain top talent by granting
+  future company shares tied to performance and growth Discover more inside.
 ---
 
 

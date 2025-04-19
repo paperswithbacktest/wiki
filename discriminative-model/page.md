@@ -1,6 +1,7 @@
 ---
-title: "Discriminative Model (Machine Learning)"
-description: "Discriminative models focus on distinguishing between classes for classification tasks using algorithms like logistic regression SVMs and neural networks."
+title: Understanding Discriminative Models in Machine Learning
+description: Discriminative models learn decision boundaries to deliver efficient
+  accurate classification from spam detection to image recognition Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

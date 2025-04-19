@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Yuan and Renminbi"
-description: "Discover the differences between Yuan and Renminbi along with the role of algorithmic trading in currency markets and its impact on trading strategy."
+title: Understanding the Chinese Yuan Renminbi Currency System
+description: Yuan serves as the official currency of China also called Renminbi and
+  underlies daily payments global trade digital eCNY Discover more inside
 ---
 
 

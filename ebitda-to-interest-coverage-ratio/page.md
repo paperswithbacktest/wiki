@@ -1,6 +1,7 @@
 ---
-title: "EBITDA to Interest Coverage Ratio"
-description: "Optimize investment strategies with the EBITDA-to-interest coverage ratio, a key metric for evaluating financial health and improving trading performance."
+title: Understanding EBITDA to Interest Coverage Ratio for Businesses
+description: EBITDA to Interest Coverage Ratio shows if operating profits of companies
+  cover interest costs and highlights financial health. Discover more inside.
 ---
 
 

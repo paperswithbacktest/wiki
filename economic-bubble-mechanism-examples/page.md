@@ -1,6 +1,8 @@
 ---
-title: "Economic Bubble: Definition, Mechanism, and Examples"
-description: "Explore economic bubbles their mechanisms and key historical examples like Tulip Mania and Dot-Com Bubble while examining the impact of algorithmic trading."
+title: Understanding Economic Bubbles Causes Stages and Impacts
+description: Economic bubble explained from formation to burst stages with examples
+  and indicators that signal risk Protect your investments with proactive strategies
+  Discover more inside.
 ---
 
 

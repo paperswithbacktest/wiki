@@ -1,6 +1,7 @@
 ---
-title: "Electricity consumption analysis"
-description: Explore the complexities of electricity consumption in algorithmic trading with a focus on sustainability and cost optimization. This analysis investigates into the energy demands of data centers and computing networks essential for the rapid execution of trades. Understand how these consumption patterns affect profitability and environmental impact, while contrasting them with traditional trading methods. Discover insights on enhancing energy efficiency and reducing carbon footprints in modern financial markets.
+title: Comprehensive Electricity Consumption Analysis and Optimization
+description: Electricity consumption analysis reveals usage patterns across devices
+  and sectors to help you optimize energy use and reduce costs. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Discriminator (Machine Learning)"
-description: "Explore the role of a discriminator in machine learning as it differentiates real from fake data within a Generative Adversarial Network boosting model accuracy."
+title: Understanding the GAN Discriminator Role in Machine Learning
+description: GAN Discriminator identifies real and fake data using loss functions
+  and training strategies to enhance model performance stability Discover more inside
 ---
 
 ![Image](images/1.jpeg)

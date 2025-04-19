@@ -1,6 +1,7 @@
 ---
-title: "Empirical Risk Minimization (Erm) (Machine Learning)"
-description: "Empirical Risk Minimization (ERM) is a core machine learning principle focused on minimizing average loss on training data to enhance model performance."
+title: Understanding Empirical Risk Minimization In Machine Learning
+description: Empirical Risk Minimization shows how to reduce average loss in machine
+  learning models for improved generalization and performance. Discover more inside
 ---
 
 ![Image](images/1.gif)

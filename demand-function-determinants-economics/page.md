@@ -1,6 +1,7 @@
 ---
-title: "Demand Function and Determinants in Economics"
-description: "Explore the interplay between demand functions, economic determinants, and algorithmic trading. Learn how these concepts drive market predictions and trading strategies."
+title: Comprehensive Guide to the Demand Function in Economics
+description: Demand function analysis reveals how price income and related goods impact
+  consumer demand to inform pricing and production strategies Discover more inside
 ---
 
 

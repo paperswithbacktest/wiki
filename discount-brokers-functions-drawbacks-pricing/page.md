@@ -1,6 +1,7 @@
 ---
-title: "Discount Brokers: Functions, Drawbacks, and Pricing"
-description: "Explore the benefits and drawbacks of discount brokers and how they impact investment strategy and algo trading efficiency in today's financial markets."
+title: Essential Guide To Discount Broker Fees And Benefits
+description: Discount broker platforms offer low fee trades and self directed tools
+  for managing stocks bonds and funds with confidence Discover more inside
 ---
 
 

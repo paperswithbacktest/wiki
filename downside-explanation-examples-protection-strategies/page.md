@@ -1,6 +1,7 @@
 ---
-title: "Downside: Explanation, Examples, and Protection Strategies"
-description: "Explore effective strategies for managing downside risk in algorithmic trading Learn how to protect investments from market volatility and technical challenges"
+title: Managing Downside Risk in Investments with Proven Strategies
+description: Downside risk in investments explains potential losses and how to measure
+  manage risk using diversification and stop-loss orders Discover more inside
 ---
 
 

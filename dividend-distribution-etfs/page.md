@@ -1,6 +1,7 @@
 ---
-title: "Dividend Distribution by ETFs"
-description: "Explore dividend distribution by ETFs and how they intersect with algo trading for informed investment strategies offering growth and steady income."
+title: Understanding ETF Dividend Distributions for Steady Income
+description: ETF Dividend Distributions explain how funds collect payouts and deliver
+  steady income with reinvestment for compounding growth. Discover more inside.
 ---
 
 

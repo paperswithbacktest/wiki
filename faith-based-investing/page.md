@@ -1,6 +1,7 @@
 ---
-title: "Faith-Based Investing"
-description: "Discover the synergy of faith-based investing and algorithmic trading where ethical finance strategies align personal values with modern technological efficiency."
+title: Faith-Based Investing Strategies For Ethical Financial Growth
+description: Faith-based investing aligns your portfolio with religious values and
+  ethical standards while pursuing balanced returns Discover more inside.
 ---
 
 

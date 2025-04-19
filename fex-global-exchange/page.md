@@ -1,6 +1,7 @@
 ---
-title: "FEX Global Exchange"
-description: "Explore FEX Global's innovative algo trading platform for commodities and derivatives Streamline your trading with advanced algorithms for optimal results"
+title: FEX Global Exchange Simplifies International Money Transfers
+description: FEX Global Exchange delivers secure low fee currency transfers with transparent
+  rates and support for fast global payments Discover more inside
 ---
 
 

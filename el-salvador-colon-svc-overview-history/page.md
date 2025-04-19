@@ -1,6 +1,7 @@
 ---
-title: "El Salvador Colón (SVC): Overview and History"
-description: "Discover the compelling history of El Salvador's currency transition from the Colón to the U.S. dollar and explore the impact of algorithmic trading innovations."
+title: "Evolution of El Salvador Col\xF3n Currency and Dollarization Effects"
+description: "El Salvador Col\xF3n history spans its 1892 launch through 2001 dollarization\
+  \ revealing its economic and lasting cultural impacts Discover more inside"
 ---
 
 

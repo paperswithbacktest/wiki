@@ -1,6 +1,7 @@
 ---
-title: "Economy of New Jersey: Leading Industries and GDP Growth"
-description: "Discover the diverse economic landscape of New Jersey with strong GDP growth driven by leading industries like pharmaceuticals and algorithmic trading."
+title: 'New Jersey Economy: Key Industries, Growth, And Challenges'
+description: New Jersey economy thrives on pharmaceuticals, finance, tourism and tech
+  advances driving steady GDP growth and resilient recovery Discover more inside.
 ---
 
 

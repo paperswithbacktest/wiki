@@ -1,6 +1,7 @@
 ---
-title: "Earnings per Share"
-description: "Earnings Per Share serves as a crucial metric for evaluating company performance in financial trading offering insight into a firm's profitability on a per-share basis. This article explores how EPS is used in both financial analysis and algo trading, providing investors with a tool for assessing financial health and integrating into automated strategies to optimize trading decisions. By leveraging EPS data, traders can enhance their strategies, potentially leading to better trading outcomes in the competitive landscape. Understanding EPS helps investors and algorithmic traders capitalize on financial opportunities effectively."
+title: Mastering Earnings Per Share EPS Metrics and Calculations
+description: Earnings per share EPS shows profitability per share and guides decisions
+  with clear basic and diluted metrics explained Discover more inside
 ---
 
 

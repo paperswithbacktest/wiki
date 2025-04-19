@@ -1,6 +1,7 @@
 ---
-title: "F1 scores"
-description: Explore the significance of F1 scores in algorithmic trading as a vital metric balancing precision and recall to optimize trading algorithms for improved decision-making. This comprehensive guide investigates into the mathematical foundation of the F1 score and its role in fine-tuning models, offering strategies for navigating imbalanced datasets to maximize profitability while minimizing risks in fast-paced financial markets.
+title: Understanding F1 Score in Machine Learning and Trading
+description: F1 score in machine learning measures model balance between precision
+  and recall to improve trading strategy decisions Discover more inside today
 ---
 
 

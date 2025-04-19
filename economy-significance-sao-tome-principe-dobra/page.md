@@ -1,6 +1,8 @@
 ---
-title: "Economy and Significance of the São Tomé and Príncipe Dobra"
-description: "Explore the role of the São Tomé and Príncipe dobra in global markets as algorithmic trading offers transformative financial opportunities for this island nation."
+title: "Comprehensive Overview of S\xE3o Tom\xE9 and Pr\xEDncipe Dobra Currency"
+description: "Explore S\xE3o Tom\xE9 and Pr\xEDncipe Dobra history, denominations,\
+  \ exchange rates, economic impact and stability trends for currency insights Discover\
+  \ more inside"
 ---
 
 

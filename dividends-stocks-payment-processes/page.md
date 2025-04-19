@@ -1,6 +1,7 @@
 ---
-title: "Dividends in Stocks and Payment Processes"
-description: "Discover how dividend stocks and algorithmic trading intersect to revolutionize investment approaches offering insights into optimizing dividend strategies."
+title: Complete Guide to Dividend Stocks and Investing Basics
+description: Dividend Stocks provide steady income and growth through cash and stock
+  payouts with insights on yield, DRIPs, taxes and risks Discover more inside
 ---
 
 

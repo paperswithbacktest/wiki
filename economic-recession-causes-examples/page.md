@@ -1,6 +1,7 @@
 ---
-title: "Economic Recession: Causes and Examples"
-description: "Explore the causes and historical examples of economic recessions including the influence of algorithmic trading on financial markets during downturns."
+title: Exploring the Causes and Impacts of an Economic Recession
+description: Economic recession insights explain causes responses and key indicators
+  so you can understand impacts and plan recovery actions Discover more inside
 ---
 
 

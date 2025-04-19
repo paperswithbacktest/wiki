@@ -1,6 +1,7 @@
 ---
-title: "Existence of Mortgage-Backed Securities"
-description: "Explore the impact and significance of mortgage-backed securities (MBS) in the financial market and how algorithmic trading is transforming their trading dynamics."
+title: Understanding Mortgage-Backed Securities for Informed Investing
+description: Mortgage-Backed Securities let you invest in home loans while managing
+  risk and understanding impact for informed investment choices Discover more inside
 ---
 
 

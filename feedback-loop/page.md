@@ -1,6 +1,7 @@
 ---
-title: "Feedback Loop (Machine Learning)"
-description: "Discover how feedback loops in machine learning improve model performance by using predictions as input. Learn about their impact and potential biases."
+title: Designing Effective Feedback Loops in Machine Learning Models
+description: Feedback loops in machine learning refine model performance by using
+  predictions to adjust accuracy and minimize bias with monitoring Discover more
 ---
 
 ![Image](images/1.png)

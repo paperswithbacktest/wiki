@@ -1,6 +1,7 @@
 ---
-title: "Employment Cost Index: Overview and Applications"
-description: "Explore how the Employment Cost Index impacts labor costs and algorithmic trading strategies Learn how ECI data influences market trends and trading decisions"
+title: Understanding Employment Cost Index for Informed Labor Decisions
+description: Employment Cost Index measures employer labor costs including wages benefits
+  using fixed weights to guide budgeting forecasting Discover more inside.
 ---
 
 

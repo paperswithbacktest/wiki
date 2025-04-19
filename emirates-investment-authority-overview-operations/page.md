@@ -1,6 +1,7 @@
 ---
-title: "Emirates Investment Authority: Overview and Operations"
-description: "Explore the Emirates Investment Authority's role as the UAE's federal wealth fund using algorithmic trading to enhance investment strategies and economic stability."
+title: Emirates Investment Authority Objectives And Strategy
+description: Emirates Investment Authority secures UAE wealth through diversified
+  investments in businesses real estate fueling growth Discover more inside
 ---
 
 

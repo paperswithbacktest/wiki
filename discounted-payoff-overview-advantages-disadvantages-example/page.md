@@ -1,6 +1,7 @@
 ---
-title: "Discounted Payoff: Overview, Advantages and Disadvantages, Example"
-description: "Explore the concept of discounted payoff in finance including its advantages and disadvantages in investment evaluation and its role in algorithmic trading."
+title: Discounted Payoff Explained Benefits Risks and Key Steps
+description: Discounted Payoff lets borrowers negotiate a lower debt settlement while
+  lenders recoup funds and avoid costly legal action Discover more inside
 ---
 
 

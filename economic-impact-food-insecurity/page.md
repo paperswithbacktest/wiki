@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of Food Insecurity"
-description: "Explore the intersection of algorithmic trading and food insecurity, examining how financial markets impact food prices and global hunger solutions."
+title: Economic Impact of Food Insecurity on Individuals and Nations
+description: Food insecurity erodes economic stability by raising healthcare costs
+  reducing workforce productivity and hindering community growth Discover more inside
 ---
 
 

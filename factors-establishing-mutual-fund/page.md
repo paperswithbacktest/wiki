@@ -1,6 +1,7 @@
 ---
-title: "Factors in Establishing a Mutual Fund"
-description: "Explore key factors in establishing a mutual fund focused on algorithmic trading including diversification strategies and the synergy of traditional and innovative practices."
+title: Complete Guide To Mutual Fund Setup And Management
+description: Mutual fund setup and management guide covers legal requirements strategy
+  selection compliance marketing and risk management Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Demand Theory in Economics"
-description: "Explore how demand theory informs algorithmic trading strategies by examining consumer behavior's impact on market prices and trade execution, optimizing financial outcomes."
+title: Understanding Demand Theory and Consumer Behavior in Economics
+description: Demand theory shows how price changes income and preferences shape consumer
+  demand and elasticity across products and markets. Discover more inside.
 ---
 
 

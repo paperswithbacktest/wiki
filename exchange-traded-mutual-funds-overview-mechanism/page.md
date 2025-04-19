@@ -1,6 +1,7 @@
 ---
-title: "Exchange-Traded Mutual Funds: Overview and Mechanism"
-description: "Explore the dynamics of Exchange-Traded Mutual Funds ETMFs and their innovative trade mechanisms Learn how algorithmic trading enhances ETMF efficiency"
+title: Exchange-Traded Mutual Funds Intraday Trading and Transparency
+description: Exchange-Traded Mutual Funds offer intraday access, nav-based pricing
+  and daily portfolio transparency for smarter trades Discover more inside
 ---
 
 

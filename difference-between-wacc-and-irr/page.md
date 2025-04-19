@@ -1,6 +1,7 @@
 ---
-title: "Difference Between WACC and IRR"
-description: "Explore the key differences between WACC and IRR in algorithmic trading and learn how these metrics aid investment decision-making and risk management."
+title: Understanding WACC and IRR for Effective Investment Decisions
+description: WACC and IRR guide financial decision making by showing how to compare
+  cost of capital with return rates to choose profitable projects Discover more inside
 ---
 
 

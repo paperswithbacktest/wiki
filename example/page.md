@@ -1,6 +1,7 @@
 ---
-title: "Example (Machine Learning)"
-description: "Learn the basics of machine learning and how Example uses it to improve customer predictions with algorithms like decision trees and collaborative filtering."
+title: Understanding Machine Learning for Business Operations
+description: Machine Learning helps businesses analyze customer data predict buying
+  patterns and refine models for accurate recommendations Discover more inside
 ---
 
 ![Image](images/1.png)

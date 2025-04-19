@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Shares Outstanding and Floating Stock"
-description: "Explore the key differences between shares outstanding and floating stock, and their impact on market dynamics and algorithmic trading strategies, boosting investor insights."
+title: Understanding Shares Outstanding and Floating Stock in Valuation
+description: "Shares outstanding and floating stock explain a company\u2019s true\
+  \ market value and liquidity in active detail for investors Discover more inside"
 ---
 
 

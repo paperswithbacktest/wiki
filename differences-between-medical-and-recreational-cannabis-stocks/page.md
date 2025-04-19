@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Medical and Recreational Cannabis Stocks"
-description: "Explore the unique characteristics and distinctions between medical and recreational cannabis stocks in this detailed article. Discover how different regulatory frameworks, consumer bases, and growth drivers impact investment strategies in the evolving cannabis industry. Gain insights into the role of algorithmic trading and understand the potential risks and rewards associated with cannabis investments. Stay informed about key players, market dynamics, and legal developments to effectively navigate and capitalize on opportunities within this promising market."
+title: Medical And Recreational Cannabis Stocks Market Comparison
+description: Medical and recreational cannabis stocks offer unique risk growth and
+  stability profiles amid regulation and market trends Discover more inside.
 ---
 
 

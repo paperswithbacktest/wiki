@@ -1,6 +1,7 @@
 ---
-title: "External Economies of Scale: Overview and Examples"
-description: "Explore external economies of scale in this insightful article, focusing on their impact in industries like algorithmic trading through shared efficiencies and tech advancements."
+title: Understanding External Economies of Scale in Industry Clusters
+description: External economies of scale drive cost savings as firms share skilled
+  talent infrastructure and knowledge in industry clusters Discover more inside
 ---
 
 

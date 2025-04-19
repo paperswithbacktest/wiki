@@ -1,6 +1,7 @@
 ---
-title: "Execution-Only Services: Overview and Functionality"
-description: "Execution-only services give investors independent control over trades without advisory input reducing costs and offering flexibility for strategic decisions."
+title: Understanding Execution-Only Services Trading Features And Fees
+description: Execution-only services let investors trade stocks bonds ETFs and more
+  at low cost with complete self-directed control Discover more inside today
 ---
 
 

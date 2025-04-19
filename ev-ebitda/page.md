@@ -1,6 +1,7 @@
 ---
-title: "EV/Ebitda"
-description: "Explore the significance of the EV/EBITDA ratio in algorithmic trading for assessing company valuation and operational efficiency quickly and effectively."
+title: Understanding EV/EBITDA Valuation for Better Investment Decisions
+description: EV/EBITDA reveals core operating earnings by excluding financing and
+  accounting effects so you can compare companies within an industry Discover more
 ---
 
 

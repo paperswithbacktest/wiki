@@ -1,6 +1,7 @@
 ---
-title: "Dollar-Cost Averaging for Wealth Accumulation"
-description: "Explore dollar-cost averaging (DCA) with algorithmic trading to enhance wealth accumulation while minimizing market risks and optimizing investment efficiency."
+title: Dollar Cost Averaging Investment Strategy for Wealth Building
+description: Dollar cost averaging helps you invest a fixed amount regularly to smooth
+  market ups and downs and build long term wealth Discover more inside
 ---
 
 

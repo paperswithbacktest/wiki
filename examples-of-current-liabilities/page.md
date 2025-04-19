@@ -1,6 +1,7 @@
 ---
-title: "Examples of Current Liabilities"
-description: "Explore the intricacies of current liabilities in financial accounting and discover how algorithmic trading enhances their management for optimized financial strategies."
+title: Understanding Current Liabilities and Their Financial Impact
+description: Current liabilities are short term obligations that impact cash flow
+  and liquidity while guiding financial planning and risk mitigation Discover more
 ---
 
 

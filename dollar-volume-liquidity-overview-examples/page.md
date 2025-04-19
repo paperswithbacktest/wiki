@@ -1,6 +1,7 @@
 ---
-title: "Dollar Volume Liquidity: Overview and Examples"
-description: "Explore dollar volume liquidity crucial for investors in algorithmic trading. Understand its role in market stability and decision-making amid evolving liquidity dynamics."
+title: Understanding Dollar Volume Liquidity for Safer Stock Trading
+description: Dollar Volume Liquidity shows how much value you can trade daily without
+  moving prices and helps you optimize your trading strategy Discover more inside.
 ---
 
 

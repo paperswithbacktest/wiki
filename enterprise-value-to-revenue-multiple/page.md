@@ -1,6 +1,7 @@
 ---
-title: "Enterprise Value to Revenue Multiple"
-description: "Discover the significance of the Enterprise Value-to-Revenue multiple in algorithmic trading and how it aids in evaluating companies and developing trading strategies."
+title: Enterprise Value to Revenue Multiple Guide for Investors
+description: Enterprise Value to Revenue Multiple reveals how investors can assess
+  company value based on sales and debt to find fair valuation Discover more inside.
 ---
 
 

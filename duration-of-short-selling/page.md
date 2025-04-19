@@ -1,6 +1,7 @@
 ---
-title: "Duration of Short Selling"
-description: "Explore the world of short selling and algorithmic trading to enhance trading efficiency and profitability in the stock market by leveraging unique strategies."
+title: Managing Short Selling Duration and Holding Periods
+description: Short selling duration shapes potential profits and losses by balancing
+  market volatility borrowing costs and risk management Discover more inside
 ---
 
 

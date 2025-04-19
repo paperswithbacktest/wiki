@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Proven And Unproven Oil Reserves"
-description: "Explore the critical differences between proven and unproven oil reserves and their significance in energy markets enhanced by algorithmic trading technologies."
+title: Understanding Proven and Unproven Oil Reserves for Planning
+description: Oil reserves fall into proven and unproven categories based on testing
+  and economics to guide reliable energy planning decisions Discover more inside.
 ---
 
 

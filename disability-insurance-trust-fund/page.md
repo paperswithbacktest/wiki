@@ -1,6 +1,7 @@
 ---
-title: "Disability Insurance Trust Fund"
-description: "Explore the impact of trust funds disability insurance Social Security and algorithmic trading on personal finance Discover how these elements shape financial strategies."
+title: A Guide to Disability Insurance Trust Fund Benefits
+description: Disability Insurance Trust Fund guides you through funding eligibility
+  and benefit calculations so you can apply with confidence Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Environmental Impact of Ethereum"
-description: "Explore how Ethereum's transition to Ethereum 2.0 addresses environmental concerns from high energy consumption and how algorithmic trading impacts sustainability efforts."
+title: Ethereum Environmental Impact And Transition To Proof Of Stake
+description: Ethereum environmental impact drives insights into its energy use carbon
+  emissions and proof of stake transition for sustainability Discover more inside.
 ---
 
 

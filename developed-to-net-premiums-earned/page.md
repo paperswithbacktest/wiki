@@ -1,6 +1,7 @@
 ---
-title: "Developed to Net Premiums Earned"
-description: "Explore the critical role of net premiums earned in insurance, deciphering its financial impact, and discover the effects of algorithmic trading on the market."
+title: Understanding Developed to Net Premiums Earned in Insurance
+description: Developed to Net Premiums Earned helps insurers adjust premiums to match
+  actual claims costs and improve financial accuracy Discover more inside
 ---
 
 

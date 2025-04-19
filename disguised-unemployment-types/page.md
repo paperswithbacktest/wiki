@@ -1,6 +1,7 @@
 ---
-title: "Disguised Unemployment and Its Types"
-description: "Explore the complexities of disguised unemployment and its impact on economic stability alongside the role of algo trading in employment trends and market dynamics."
+title: Addressing Disguised Unemployment Through Policy And Innovation
+description: Disguised Unemployment hides surplus workers in key sectors, undermining
+  productivity and wages. Apply targeted training and reforms Discover more inside
 ---
 
 

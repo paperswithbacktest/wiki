@@ -1,6 +1,7 @@
 ---
-title: "Degrees of Freedom in Statistics"
-description: "Explore the essential concept of degrees of freedom in statistics and its implications for algorithmic trading strategies to enhance prediction accuracy."
+title: Understanding Degrees of Freedom in Statistical Analysis
+description: Degrees of freedom define how many values can vary freely in calculations
+  and ensure reliable outcomes in key statistical tests Discover more inside.
 ---
 
 

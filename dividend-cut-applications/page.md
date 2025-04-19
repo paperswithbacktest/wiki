@@ -1,6 +1,7 @@
 ---
-title: "Dividend Cut and Its Applications"
-description: "Learn to optimize investment strategies with insights into dividend cuts and algorithmic trading Utilize these tools to maximize returns and manage risks"
+title: Strategic Impact of Dividend Cuts on Investors and Companies
+description: Dividend cuts can reshape company finances and investor returns by freeing
+  cash for growth while managing risk and debt Discover more inside
 ---
 
 

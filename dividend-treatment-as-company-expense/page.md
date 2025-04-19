@@ -1,6 +1,7 @@
 ---
-title: "Dividend Treatment as a Company Expense"
-description: "Explore the relationship between dividends, company expenses, financial accounting, and algorithmic trading to enhance financial strategies and market positioning."
+title: Understanding Why Dividends Are Not Company Expenses
+description: Dividends are not company expenses but retained earnings reductions that
+  affect cash flow and equity with clear accounting treatment Discover more inside
 ---
 
 

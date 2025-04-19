@@ -1,6 +1,7 @@
 ---
-title: "Delayed Perpetuity: Concepts and Calculations"
-description: "Explore the critical role of delayed perpetuity in finance and algorithmic trading understanding its application in creating stable long-term income streams."
+title: Calculating the Present Value of Delayed Perpetuities in Finance
+description: Delayed perpetuity valuation shows how to calculate present value of
+  deferred cash flows using discount rates Discover more inside
 ---
 
 

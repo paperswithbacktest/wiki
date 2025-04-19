@@ -1,6 +1,7 @@
 ---
-title: "Event-Driven Trading"
-description: "Explore event-driven trading in finance which leverages algorithms to exploit price inefficiencies during events like earnings reports mergers and macroeconomic shifts."
+title: Guide To Event-Driven Trading Strategies And Essential Tools
+description: Event-driven trading uses real-time analytics risk controls and fast
+  execution to capitalize on market-moving events and discover more inside
 ---
 
 

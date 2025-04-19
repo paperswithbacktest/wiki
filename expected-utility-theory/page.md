@@ -1,6 +1,7 @@
 ---
-title: "Expected Utility Theory"
-description: "Explore expected utility theory's role in algorithmic trading to enhance decision-making in uncertain market conditions through probabilistic risk and reward analysis."
+title: "Expected Utility Theory Explained\_for Informed Decision Making"
+description: Expected Utility Theory helps quantify preferences under uncertainty
+  by combining outcome values and probabilities to guide choices Discover more inside.
 ---
 
 

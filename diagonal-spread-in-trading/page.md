@@ -1,6 +1,7 @@
 ---
-title: "Diagonal Spread in Trading"
-description: "Explore how diagonal spreads in algo trading combine vertical and calendar strategies for added flexibility and potential profitability through automation."
+title: Strategic Trading With Diagonal Option Spreads for Income
+description: Diagonal spread strategies combine calendar and vertical options to optimize
+  time decay and price moves Trading insights explained Discover more inside
 ---
 
 

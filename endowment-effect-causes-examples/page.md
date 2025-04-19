@@ -1,6 +1,7 @@
 ---
-title: "Endowment Effect: Causes and Examples"
-description: "Explore the intersection of behavioral economics and algorithmic trading through the endowment effect which influences how traders value and manage assets."
+title: Impact of the Endowment Effect on Everyday Decision Making
+description: Endowment effect makes owners overvalue possessions and skews decisions
+  Discover ways to counter this bias for smarter choices Discover more inside
 ---
 
 

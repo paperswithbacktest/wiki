@@ -1,6 +1,7 @@
 ---
-title: "Efficiency Principle in Economics"
-description: "Discover how economic efficiency drives algorithmic trading by optimizing resource use reducing costs and enhancing decision-making through complex algorithms."
+title: Efficiency Principle In Economics And Resource Allocation
+description: Efficiency principle in economics ensures resources are used to maximize
+  benefits and minimize waste through cost benefit analysis Discover more inside
 ---
 
 

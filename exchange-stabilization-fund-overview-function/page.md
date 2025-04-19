@@ -1,6 +1,7 @@
 ---
-title: "Exchange Stabilization Fund: Overview and Function"
-description: "Explore the role of the Exchange Stabilization Fund in U.S. financial stability and algorithmic trading, highlighting its impact on currency markets and economic resilience."
+title: Understanding the Exchange Stabilization Fund and Its Role
+description: Exchange Stabilization Fund helps maintain dollar stability through targeted
+  currency interventions and partnerships with banks. Discover more inside.
 ---
 
 

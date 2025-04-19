@@ -1,6 +1,7 @@
 ---
-title: "Examples of Money Market Funds"
-description: "Learn about money market funds and algorithmic trading to enhance your investment strategy Explore their benefits and role in optimizing financial decisions"
+title: Comprehensive Guide to Money Market Funds for Stable Returns
+description: Money market funds provide a low risk way to earn higher yields than
+  savings accounts while ensuring liquidity and stability Discover more inside.
 ---
 
 

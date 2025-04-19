@@ -1,6 +1,7 @@
 ---
-title: "Drawbacks of Industrialization"
-description: "Explore the benefits and challenges of industrialization and algorithmic trading on society including economic development labor conditions market volatility and regulatory needs."
+title: Environmental and Social Impacts of Industrialization
+description: Industrialization has reshaped economies and ecosystems by driving pollution
+  soil degradation and health risks in communities Discover more inside
 ---
 
 

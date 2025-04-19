@@ -1,6 +1,7 @@
 ---
-title: "Excel"
-description: Explore the fundamentals of algorithmic trading with an emphasis on using Excel as a starting tool for developing automated trading systems. This comprehensive guide covers essential components such as speed, accuracy, data analysis, and risk management, while offering insights into the use of advanced platforms and techniques to maintain a competitive edge. Ideal for traders looking to enhance their understanding and implementation of algo trading strategies without extensive programming knowledge.
+title: Complete Microsoft Excel Guide From Basics To Advanced Tools
+description: Microsoft Excel simplifies data management analysis and visualization
+  with navigation formulas charts pivot tables and automation tips Discover more inside
 ---
 
 

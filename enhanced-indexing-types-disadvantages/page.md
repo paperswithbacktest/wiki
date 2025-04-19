@@ -1,6 +1,7 @@
 ---
-title: "Enhanced Indexing: Types and Disadvantages"
-description: "Explore the types and disadvantages of enhanced indexing in algorithmic trading Learn about traditional vs enhanced methods and optimize your investment strategy"
+title: Enhanced Indexing Strategies for Optimal Market Performance
+description: Enhanced indexing offers slightly higher returns than passive funds by
+  using smart tilts and risk controls without extra volatility Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economy of North Korea"
-description: "Explore the unique economic landscape of North Korea, driven by a command economy focused on self-reliance. Delve into the complexities of limited data, the impact of sanctions, and the potential for algorithmic trading in this isolated nation, examining both challenges and development prospects."
+title: North Korea's Economy Explained From Command to Markets
+description: North Korea's economy relies on government control while black markets
+  and limited reforms shape diverse industries and trade Discover more inside
 ---
 
 

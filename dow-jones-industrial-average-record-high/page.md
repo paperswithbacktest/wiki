@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Industrial Average Record High"
-description: "Explore how algorithmic trading impacts the Dow Jones Industrial Average DJIA's record highs considering increased market efficiency and potential volatility."
+title: Understanding the Dow Jones Industrial Average Record High
+description: Dow Jones Industrial Average hit a record high this May fueled by gains
+  from top companies low interest rates and market optimism Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Federal Insurance Contributions Act: Overview and Participation"
-description: "Explore how the Federal Insurance Contributions Act impacts algorithmic trading and understand its role in investment strategies and financial planning."
+title: 'Understanding FICA Taxes: Social Security and Medicare Explained'
+description: FICA taxes fund Social Security and Medicare by withholding 7.65% of
+  wages for employees while the self employed pay both shares Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economics and the Study of Human Action and Behavior"
-description: "Explore the intersection of human behavior and economics in algorithmic trading to enhance decision-making strategies by integrating psychological insights."
+title: Understanding Human Behavior and Decision Making in Economics
+description: Human behavior in economics shapes choices through biases incentives
+  and decision frameworks to inform policy and market outcomes Discover more inside
 ---
 
 

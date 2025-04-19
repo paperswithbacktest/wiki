@@ -1,6 +1,7 @@
 ---
-title: "Dismal Science and Its Use in Economics"
-description: "Explore the intersection of economics and technology through algorithmic trading Understand how the dismal science shapes today's trading systems and economic frameworks"
+title: Understanding the Dismal Science of Economics History and Impact
+description: Dismal Science explores how economics origins and principles like scarcity
+  and opportunity cost influence policy making and forecasts Discover more inside
 ---
 
 

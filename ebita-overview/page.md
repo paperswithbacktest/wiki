@@ -1,6 +1,7 @@
 ---
-title: "EBITA Overview"
-description: "Explore the key features of EBITA in evaluating a company's operational efficiency by excluding interest taxes and amortization influences essential for algo trading."
+title: Understanding EBITA A Complete Guide To Operational Profitability
+description: EBITA reveals your companys core profitability by excluding interest
+  taxes and amortization for clearer performance comparisons Discover more inside
 ---
 
 

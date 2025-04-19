@@ -1,6 +1,7 @@
 ---
-title: "Use of EBITDA as a Valuation Metric in the Telecommunications Industry"
-description: "Discover how EBITDA, a vital financial metric, enhances telecom valuation and informs algorithmic trading strategies by highlighting operational performance."
+title: EBITDA Valuation Guide For Telecommunications Companies
+description: EBITDA reveals telecom core profits by removing interest taxes depreciation
+  amortization for clearer peer comparisons and valuation Discover more inside.
 ---
 
 

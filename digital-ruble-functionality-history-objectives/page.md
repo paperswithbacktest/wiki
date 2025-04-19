@@ -1,6 +1,7 @@
 ---
-title: "Digital Ruble: Functionality, History, and Objectives"
-description: "Explore the digital ruble's role in Russia's economy as a central bank digital currency CBDC. Learn how it impacts transactions, inclusion, and financial systems."
+title: Understanding the Digital Ruble Central Bank Digital Currency
+description: Digital Ruble simplifies payments and strengthens the Russian economy
+  with fast secure transactions backed by the central bank. Discover more inside.
 ---
 
 

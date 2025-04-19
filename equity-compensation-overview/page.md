@@ -1,6 +1,7 @@
 ---
-title: "Equity Compensation Overview"
-description: "Explore the role of stock options and equity compensation in employee benefits, and discover how algorithmic trading optimizes financial returns."
+title: Understanding Equity Compensation Benefits and Risks
+description: Equity compensation empowers employees to build wealth with stock options
+  restricted stock and RSUs while navigating taxes Discover more inside.
 ---
 
 

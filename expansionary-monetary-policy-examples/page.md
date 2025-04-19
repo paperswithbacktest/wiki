@@ -1,6 +1,7 @@
 ---
-title: "Expansionary Monetary Policy Examples"
-description: "Explore the intricate relationship between expansionary monetary policy and algorithmic trading and how these components shape the modern economic landscape. Learn how central banks use monetary policy to stimulate growth through interest rate adjustments and government spending while understanding algorithmic trading’s impact on market efficiency and dynamics. This page provides crucial insights into these economic strategies' synergy and their role in financial stability and economic growth, essential for navigating today’s global markets. Discover real-world applications and case studies that illustrate these concepts' practical implications."
+title: Understanding Expansionary Monetary Policy and Its Effects
+description: Expansionary monetary policy boosts growth by lowering rates and increasing
+  liquidity to encourage spending and investment Discover more inside.
 ---
 
 

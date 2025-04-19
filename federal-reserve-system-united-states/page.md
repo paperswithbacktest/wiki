@@ -1,6 +1,7 @@
 ---
-title: "Federal Reserve System of the United States"
-description: "Explore the dynamic interplay between the US Federal Reserve's monetary policies and algorithmic trading. Discover how this relationship influences markets worldwide."
+title: Understanding The Federal Reserve System And Its Functions
+description: Federal Reserve System manages money supply and regulates banks to stabilize
+  the economy controlling inflation and supporting growth Discover more inside.
 ---
 
 

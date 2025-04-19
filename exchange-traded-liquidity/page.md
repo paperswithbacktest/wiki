@@ -1,6 +1,8 @@
 ---
-title: "exchange-traded liquidity"
-description: "Explore the pivotal role of exchange-traded liquidity in algorithmic trading highlighting its benefits and challenges in modern financial markets."
+title: "Understanding Exchange\u2011Traded Liquidity: Key Concepts and Metrics"
+description: "Exchange\u2011traded liquidity explains how easily assets can be bought\
+  \ or sold on an exchange with minimal price impact Discover unique metrics and strategies\
+  \ inside"
 ---
 
 

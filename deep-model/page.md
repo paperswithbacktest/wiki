@@ -1,6 +1,7 @@
 ---
-title: "Deep Model (Machine Learning)"
-description: "Deep models in machine learning are advanced neural networks with multiple layers that learn complex patterns for applications like image and speech recognition."
+title: Understanding Deep Neural Networks in Machine Learning
+description: Deep Neural Networks deliver advanced feature learning with layers that
+  adapt through backpropagation and optimization techniques Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

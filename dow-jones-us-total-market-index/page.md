@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones U.S. Total Market Index"
-description: "Explore the comprehensive Dow Jones U.S. Total Market Index and its role in algorithmic trading Discover essential insights for informed investing in this guide"
+title: Understanding the Dow Jones U.S. Total Market Index
+description: Dow Jones U.S. Total Market Index tracks nearly all US stocks to deliver
+  a broad market view and guide your investment decisions Discover more inside
 ---
 
 

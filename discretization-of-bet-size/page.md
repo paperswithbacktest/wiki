@@ -1,6 +1,7 @@
 ---
-title: "Discretization of bet size"
-description: Optimize your algorithmic trading strategies by mastering the discretization of bet sizes. This essential technique breaks down the bet sizing process into quantifiable units, enhancing precision and fostering consistency in trade executions. Learn how strategies like Fixed Fractional Sizing and the Kelly Criterion can be applied to manage risk and boost portfolio performance. Explore how integrating discrete bet-sizing methods can adapt to market dynamics, ensuring robust risk management and sustained trading success.
+title: Understanding Bet Size Discretization for Trading and Gambling
+description: Bet size discretization simplifies risk control by limiting bet options
+  for clearer decisions and consistent exposure in trading Discover more inside
 ---
 
 

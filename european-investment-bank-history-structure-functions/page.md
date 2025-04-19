@@ -1,6 +1,8 @@
 ---
-title: "European Investment Bank: History, Structure, and Functions"
-description: "Explore the European Investment Bank's history, structure, and functions including its key role in algorithmic trading and strategic initiatives in the EU."
+title: European Investment Bank Supporting Sustainable Growth
+description: "European Investment Bank provides low\u2011cost loans for EU projects\
+  \ to boost economic growth and support environmental sustainability Discover more\
+  \ inside."
 ---
 
 

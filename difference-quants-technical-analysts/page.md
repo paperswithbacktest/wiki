@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Quants and Technical Analysts"
-description: Explore the differences between quantitative and technical analysis in algorithmic trading. Understand how technical analysis uses historical data and chart patterns to predict market movements, while quantitative analysis employs mathematical models and diverse data sets for deeper insights. Discover how these methodologies enhance trading strategies and decision-making in various market scenarios.
+title: Quantitative and Technical Analysis for Financial Markets
+description: Quantitative and technical analyses use data models and chart tools to
+  guide smarter investment strategies in global finance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Federal Trade Readjustment Allowance"
-description: "The Federal Trade Readjustment Allowance provides crucial support to workers affected by foreign trade offering financial aid and retraining for new career paths."
+title: Federal Trade Readjustment Allowance Guide for Workers
+description: Federal Trade Readjustment Allowance helps trade affected workers cover
+  living costs during job search and approved training Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "ERC-20 Tokens on the Ethereum Network"
-description: "Explore ERC-20 tokens on the Ethereum network and discover how they revolutionize digital assets through interoperability and algorithmic trading opportunities."
+title: Understanding ERC-20 Tokens On The Ethereum Network
+description: ERC-20 tokens ensure compatibility across Ethereum apps and exchanges
+  while securely streamlining transfers and token creation Discover more inside.
 ---
 
 

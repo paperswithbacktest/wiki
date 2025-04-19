@@ -1,6 +1,7 @@
 ---
-title: "Earnings Per Share Calculation Formula"
-description: "Explore the Earnings Per Share calculation formula and its crucial role in enhancing algorithmic trading strategies. Learn key insights for better trading decisions."
+title: Earnings Per Share EPS Calculation and Importance for Investors
+description: Earnings Per Share walks investors through profit per share calculations
+  with net income share count and dilution adjustments Discover more inside
 ---
 
 

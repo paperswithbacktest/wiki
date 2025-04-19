@@ -1,6 +1,7 @@
 ---
-title: "Effects of Stock Splits"
-description: "Explore the impacts of stock splits and algorithmic trading on financial markets. Gain insights into investing strategies and market dynamics post-split."
+title: The Impact of Stock Splits on Investor Value and Liquidity
+description: Stock splits lower share prices and boost liquidity for wider investor
+  access while preserving total investment value per share. Discover more inside.
 ---
 
 

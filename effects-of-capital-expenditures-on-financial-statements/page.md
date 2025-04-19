@@ -1,6 +1,7 @@
 ---
-title: "Effects of Capital Expenditures on Financial Statements"
-description: "Explore the impact of capital expenditures on financial statements in the context of algorithmic trading and understand their strategic implications for business growth."
+title: Comprehensive Guide to Capital Expenditures and Financial Impact
+description: Capital expenditures drive long term growth by funding assets optimizing
+  tax benefits and improving cash flow through depreciation Discover more inside
 ---
 
 

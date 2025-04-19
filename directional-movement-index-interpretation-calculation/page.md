@@ -1,6 +1,7 @@
 ---
-title: "Directional Movement Index: Interpretation and Calculation"
-description: "Explore the Directional Movement Index for analyzing market trends and making informed trading decisions with DMI calculations and insights into algorithmic trading"
+title: Mastering the Directional Movement Index for Trend Strength
+description: Directional Movement Index guides traders through +DI -DI and ADX calculations
+  to assess trend strength and direction. Discover more inside.
 ---
 
 

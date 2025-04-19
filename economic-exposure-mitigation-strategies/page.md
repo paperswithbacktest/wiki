@@ -1,6 +1,7 @@
 ---
-title: "Economic Exposure and Mitigation Strategies"
-description: "Discover how businesses and traders can manage economic exposure and leverage algorithmic trading to mitigate risks, stabilize outcomes, and seize global financial opportunities."
+title: Managing Economic Exposure in International Markets
+description: Economic exposure affects company earnings through currency swings Proactively
+  use hedging and diversification to protect profits Discover more inside
 ---
 
 

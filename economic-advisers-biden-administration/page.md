@@ -1,6 +1,7 @@
 ---
-title: "Economic Advisers of the Biden Administration"
-description: "Explore how the Biden Administration's economic policies intersect with the rise of algorithmic trading highlighting their impacts on market dynamics and economic stability."
+title: Biden Administration Economic Advisers Shaping US Economic Policy
+description: Biden economic advisers guide policies on jobs, taxes, infrastructure
+  and inflation with expert insights to strengthen the US economy Discover more inside
 ---
 
 

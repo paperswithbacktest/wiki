@@ -1,6 +1,7 @@
 ---
-title: "Digital Divide and Efforts to Bridge It"
-description: "Internet inequality hinders access to algo trading and financial services, deepening the digital divide. Bridging this gap boosts inclusion and opportunity."
+title: Bridging the Digital Divide for Global Connectivity
+description: Digital divide initiatives provide affordable internet and device access
+  alongside digital skills training for underserved communities Discover more inside
 ---
 
 

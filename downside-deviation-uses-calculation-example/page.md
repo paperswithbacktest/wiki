@@ -1,6 +1,7 @@
 ---
-title: "Downside Deviation: Uses and Calculation Example"
-description: "Discover how downside deviation enhances risk management in algorithmic trading by focusing on minimizing losses. Learn its uses and calculation method."
+title: Understanding Downside Deviation for Investment Risk Management
+description: Downside Deviation shows how investment returns falling below your target
+  affect risk so you can build a risk aware portfolio Discover more inside.
 ---
 
 

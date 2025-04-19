@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Industrial and Consumer Goods"
-description: "Explore how algorithmic trading impacts consumer and industrial goods markets, examining market dynamics and the role of technology in trading strategies."
+title: Industrial Versus Consumer Goods Key Differences And Strategies
+description: Industrial versus consumer goods help you compare market targeting branding
+  and pricing differences to refine B2B and B2C strategies Discover more inside.
 ---
 
 

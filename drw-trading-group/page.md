@@ -1,6 +1,7 @@
 ---
-title: "DRW Trading Group"
-description: "Explore DRW Trading Group's innovative approach to algorithmic trading leveraging cutting-edge technology to achieve superior trading outcomes in global markets."
+title: DRW Trading Group Overview of Global Markets and Technology
+description: DRW Trading Group leverages advanced algorithms and strategic risk management
+  to drive efficient global trading and foster innovation Discover more inside
 ---
 
 

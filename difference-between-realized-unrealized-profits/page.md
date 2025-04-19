@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Realized and Unrealized Profits"
-description: "Explore the key distinctions between realized and unrealized profits in algorithmic trading Discover how these concepts shape trading strategies and financial outcomes"
+title: Understanding Realized Versus Unrealized Profits in Investing
+description: Realized profit shows your actual gains from sold assets while unrealized
+  profit tracks paper gains. Understand tax differences Discover more inside
 ---
 
 

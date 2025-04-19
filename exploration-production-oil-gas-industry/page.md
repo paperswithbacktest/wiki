@@ -1,6 +1,7 @@
 ---
-title: "Role of Exploration and Production in the Oil and Gas Industry"
-description: "Explore how algorithmic trading is transforming exploration and production in the oil and gas industry with advanced technologies for faster, precise trading decisions."
+title: Oil and Gas Exploration and Production Processes Explained
+description: Oil and gas exploration and production uses seismic surveys fracking
+  and refining to meet energy needs reducing environmental impact Discover more inside
 ---
 
 

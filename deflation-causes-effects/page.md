@@ -1,6 +1,7 @@
 ---
-title: "Deflation: Causes and Effects"
-description: "Explore the causes and effects of deflation and how it impacts algo trading strategies Discover how persistent price decreases influence economic stability and trading models"
+title: Understanding Deflation Impact On Economies And Markets
+description: Deflation erodes spending and raises debt burdens as prices fall central
+  banks use low rates and asset purchases to stabilize growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Externalities in Economics: Positive and Negative Examples"
-description: "Discover the significance of externalities in economics and algorithmic trading including examples of positive and negative impacts on market dynamics."
+title: Managing Economic Externalities for Improved Market Outcomes
+description: Economic externalities impose costs or benefits that skew market efficiency
+  and call for policy measures to ensure fair outcomes. Discover more inside
 ---
 
 

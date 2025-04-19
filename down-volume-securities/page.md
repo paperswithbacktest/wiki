@@ -1,6 +1,7 @@
 ---
-title: "Down Volume in Securities"
-description: "Explore the role of down volume in securities trading and how algorithmic trading leverages volume analysis to enhance decision-making and risk management."
+title: Understanding Down Volume In Securities And Market Trends
+description: Down Volume reveals selling pressure when a security falls and helps
+  investors gauge market sentiment and trend direction Discover more inside.
 ---
 
 

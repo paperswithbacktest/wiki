@@ -1,6 +1,7 @@
 ---
-title: "Dividends on the Balance Sheet"
-description: "Explore the dynamic interaction between dividends, financial statements, balance sheets, and algorithmic trading in the financial world. Understand how these components influence investment decisions, providing insights into a company's financial health and investor returns. This page investigates into the significance of dividends on balance sheets, the snapshot provided by balance sheets, and the transformative role of algorithmic trading. Perfect for investors aiming to enhance their financial acumen and make informed choices in a rapidly evolving market."
+title: Understanding Dividends Impact on Balance Sheet and Cash Flow
+description: Dividends reduce retained earnings and drive cash outflows in financing
+  activities while altering shareholders equity Discover key insights inside
 ---
 
 

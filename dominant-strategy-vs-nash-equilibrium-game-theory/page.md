@@ -1,6 +1,7 @@
 ---
-title: "Dominant Strategy vs. Nash Equilibrium in Game Theory"
-description: "Explore how dominant strategy and Nash equilibrium in game theory enhance algorithmic trading strategies by predicting market behavior and optimizing decisions."
+title: Dominant Strategy and Nash Equilibrium in Game Theory Explained
+description: Nash Equilibrium guides players to stable strategies in competitive settings
+  by showing when no one benefits from changing their choice Discover inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Demand-Pull Inflation"
-description: "Explore demand-pull inflation dynamics and its impact on economic trends alongside the role of algorithmic trading in shaping financial environments and market strategies."
+title: Understanding Demand-Pull Inflation Effects And Economic Impacts
+description: Demand-pull inflation occurs when consumer demand outstrips supply pushing
+  prices higher and highlighting growth pressures. Discover more inside.
 ---
 
 

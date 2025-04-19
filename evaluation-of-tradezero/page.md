@@ -1,6 +1,7 @@
 ---
-title: "Evaluation of TradeZero"
-description: "Explore TradeZero's advanced algorithmic trading platform, offering automated strategies and comprehensive tools for beginners and seasoned traders worldwide."
+title: TradeZero Trading Platform Features Accounts Fees and Tools
+description: "TradeZero offers low\u2011fee trading with real\u2011time data charts\
+  \ short selling and practice accounts to boost your confidence Discover more inside"
 ---
 
 

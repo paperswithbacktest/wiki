@@ -1,6 +1,7 @@
 ---
-title: "Dubai Gold & Commodities Exchange Overview"
-description: "Explore algo trading on the Dubai Gold and Commodities Exchange and discover its innovative trading strategies and diverse futures and options."
+title: Understanding Dubai Gold & Commodities Exchange Operations
+description: Dubai Gold & Commodities Exchange provides a regulated platform for trading
+  commodities with transparent pricing and risk management Discover more inside
 ---
 
 

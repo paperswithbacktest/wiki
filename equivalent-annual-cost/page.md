@@ -1,6 +1,7 @@
 ---
-title: "Equivalent Annual Cost"
-description: "Explore the role of Equivalent Annual Cost in comparing investments by transforming costs into a uniform annual figure vital for capital budgeting and algorithm trading."
+title: Understanding Equivalent Annual Cost for Effective Budgeting
+description: Equivalent Annual Cost spreads project expenses evenly over lifetime
+  to reveal annual spending and guide investment comparisons Discover more inside
 ---
 
 

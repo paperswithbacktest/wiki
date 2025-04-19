@@ -1,6 +1,7 @@
 ---
-title: "Discounted After-Tax Cash Flow"
-description: "Explore how discounted after-tax cash flow integrates with algorithmic trading for smarter financial decisions. Enhance strategy and investment returns."
+title: Discounted After-Tax Cash Flow Explained For Better Investments
+description: Discounted After-Tax Cash Flow reveals the real profitability by adjusting
+  future cash flows for taxes and time value of money Discover more inside.
 ---
 
 

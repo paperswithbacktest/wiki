@@ -1,6 +1,7 @@
 ---
-title: "Excess Cash Flow: Calculation and Example"
-description: "Explore the essential concepts of excess cash flow and algorithmic trading to enhance financial strategy Learn how business cash management drives growth and stability"
+title: Understanding Excess Cash Flow for Business Financial Health
+description: Excess Cash Flow uncovers surplus funds after costs and investments to
+  drive debt reduction expansion and shareholder returns Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Developing an Annual Rebalancing Strategy"
-description: "Develop your knowledge on annual rebalancing strategy and algorithmic trading to optimize investment portfolios balance risk and achieve financial goals."
+title: Annual Rebalancing Strategy For Balanced Investment Portfolios
+description: Annual rebalancing strategy helps you maintain your target asset mix
+  and manage risk over time while minimizing taxes and fees Discover more inside.
 ---
 
 

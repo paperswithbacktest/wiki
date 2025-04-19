@@ -1,6 +1,7 @@
 ---
-title: "Economy: Types and Indicators"
-description: "Explore the intricacies of global economies and their impact on trading strategies. Delve into market-based, command-based, and mixed economies while understanding key economic indicators like GDP, unemployment rates, inflation, and trade balances. Learn how these elements influence algorithmic trading, enabling professionals to predict trends, manage risks, and optimize returns for a competitive edge in global markets."
+title: Understanding Economic Indicators for Informed Decisions
+description: Economic indicators provide insights into GDP, inflation, unemployment
+  and trade balances to guide business and policy decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Effects of Recessions on Investors"
-description: "Explore how recessions impact investors and the strategic role of algorithmic trading in navigating economic downturns and market volatility effectively."
+title: Investment Strategies to Protect Portfolios During Recessions
+description: Investment strategies help safeguard portfolios by diversifying assets
+  including bonds defensive stocks and cash during downturns Discover more inside
 ---
 
 

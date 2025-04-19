@@ -1,6 +1,7 @@
 ---
-title: "Fair Practice Rules: Definition, Prohibited Actions, and Penalties"
-description: "Explore definition and rules of fair practice in algorithmic trading. Learn about prohibited actions, their impact, and penalties for violations to maintain market integrity."
+title: Implementing Fair Practice Rules for Equitable Workplaces
+description: Fair Practice Rules promote equal pay merit based hiring and safe workplaces
+  See enforcement processes and benefits for organizations Discover more inside.
 ---
 
 

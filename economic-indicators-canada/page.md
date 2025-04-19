@@ -1,6 +1,7 @@
 ---
-title: "Economic Indicators of Canada"
-description: "Explore Canada's economic indicators including GDP, employment, CPI, and more, and discover how algorithmic trading utilizes these metrics to optimize financial strategies."
+title: Understanding Key Economic Indicators for the Canadian Economy
+description: Economic indicators in Canada outline GDP inflation and unemployment
+  trends to guide strategic investment planning and decisions Discover more inside
 ---
 
 

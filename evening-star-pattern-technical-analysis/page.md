@@ -1,6 +1,7 @@
 ---
-title: "Evening Star Pattern in Technical Analysis"
-description: "Explore the significance of the Evening Star pattern in technical analysis and algorithmic trading This candlestick pattern signals a bearish reversal perfect for automated systems"
+title: Mastering the Evening Star Pattern in Technical Analysis
+description: Evening Star pattern alerts traders to a bearish reversal with clear
+  three candle signals and volume-based confirmation Discover more inside.
 ---
 
 

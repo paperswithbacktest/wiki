@@ -1,6 +1,7 @@
 ---
-title: "Eurosclerosis: Concept and Mechanism"
-description: "Explore the concept of Eurosclerosis in Europe's economy marked by stagnation due to regulation and labor market rigidities. Discover its causes and implications."
+title: Understanding Eurosclerosis and Its Economic Impacts
+description: Eurosclerosis shows how strict labor rules and rising public debt slowed
+  European growth and fueled unemployment in the 1970s and 80s Discover more inside.
 ---
 
 

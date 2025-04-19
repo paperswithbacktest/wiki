@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Stock Market Index"
-description: "Explore the impact of algorithmic trading on the Dow Jones stock market index Learn how automation transforms trading strategies for investors today"
+title: Complete Guide to the Dow Jones Industrial Average
+description: Dow Jones Industrial Average tracks 30 major US companies to gauge market
+  health and deliver actionable insights for investors Discover more inside
 ---
 
 

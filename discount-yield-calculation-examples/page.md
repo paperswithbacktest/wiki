@@ -1,6 +1,7 @@
 ---
-title: "Discount Yield: Calculation and Examples"
-description: "Explore the importance of discount yield in finance its calculation methods and its role in making informed algorithmic trading decisions for short-term investments"
+title: Calculating Discount Yield for Treasury Bills and Securities
+description: Discount yield shows returns on securities bought at a discount using
+  a 360 day formula to compare short term instruments Discover more inside
 ---
 
 

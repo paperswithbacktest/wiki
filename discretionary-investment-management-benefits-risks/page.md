@@ -1,6 +1,7 @@
 ---
-title: "Discretionary Investment Management: Benefits and Risks"
-description: "Explore the benefits and risks of discretionary investment management and algorithmic trading in modern portfolios to enhance your financial strategies."
+title: Comprehensive Guide to Discretionary Investment Management
+description: Discretionary investment management frees you from daily trading by empowering
+  experts to optimize risks and returns for your goals. Discover more inside
 ---
 
 

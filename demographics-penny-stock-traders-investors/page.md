@@ -1,6 +1,7 @@
 ---
-title: "Demographics Of Penny Stock Traders And Investors"
-description: "Explore the intersection of penny stocks and algorithmic trading, understanding their dynamics and risk factors, with tips to optimize investment strategies."
+title: Penny Stock Investors Demographics And Trading Strategies
+description: Penny stocks attract young risk takers using technical analysis portfolio
+  diversification and regulatory insights for smarter trades Discover more inside
 ---
 
 

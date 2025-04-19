@@ -1,6 +1,7 @@
 ---
-title: "Expanded Accounting Equation"
-description: "Explore the vital link between the accounting equation and algorithmic trading Discover how financial reports enhance strategic trading decisions"
+title: Understanding the Expanded Accounting Equation and Its Components
+description: Expanded accounting equation breaks down equity into capital withdrawals
+  revenues and expenses to show health and guide decisions Discover more inside
 ---
 
 

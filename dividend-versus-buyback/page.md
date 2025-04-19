@@ -1,6 +1,7 @@
 ---
-title: "Dividend Versus Buyback"
-description: "Explore the dynamics of dividend policies versus stock buybacks and the role of algorithmic trading in enhancing shareholder value and optimizing corporate finance."
+title: Dividends Versus Stock Buybacks Explained for Investors
+description: Dividends vs Stock Buybacks determine your returns and tax implications
+  Discover how each strategy impacts share value and growth Discover more inside.
 ---
 
 

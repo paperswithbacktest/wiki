@@ -1,6 +1,7 @@
 ---
-title: "Eligible Commercial Entity"
-description: "Understand the intricate relationship between eligible commercial entities and algorithmic trading, pivotal to modern financial markets and regulatory frameworks."
+title: Understanding Eligible Commercial Entity Status for Trading
+description: Eligible Commercial Entity status reduces trading regulations and enhances
+  risk management efficiently in commodities and swaps Discover more inside.
 ---
 
 

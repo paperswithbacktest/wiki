@@ -1,6 +1,7 @@
 ---
-title: "Economic Sociology"
-description: "Explore how economic sociology views algorithmic trading through a social lens examining how embeddedness and relational dynamics influence modern markets."
+title: Economic Sociology Exploring Social Influences on Markets
+description: Economic sociology reveals how social networks institutions and norms
+  shape economic activities across markets and global trade Discover more inside.
 ---
 
 

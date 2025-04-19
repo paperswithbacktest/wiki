@@ -1,6 +1,7 @@
 ---
-title: "Delayed Rate Setting Swap"
-description: "Explore the complexities of delayed rate setting swaps, a unique interest rate swap used in algorithmic trading to manage risk and optimize profit."
+title: Delayed Rate Setting Swaps Explained for Cash Flow Management
+description: Delayed Rate Setting Swap lets businesses track rate trends before locking
+  terms and align cash flows for smarter planning. Discover more inside
 ---
 
 

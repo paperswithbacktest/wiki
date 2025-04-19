@@ -1,6 +1,7 @@
 ---
-title: "Effective Annual Interest Rate"
-description: "Understand the Effective Annual Interest Rate (EAR) and its importance in financial decisions and algorithmic trading Enhance your knowledge on compounding effects"
+title: Understanding Effective Annual Interest Rate for Smart Investing
+description: Effective Annual Interest Rate shows the true cost and return of loans
+  and savings by factoring compounding and inflation Discover more inside.
 ---
 
 

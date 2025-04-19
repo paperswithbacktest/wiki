@@ -1,6 +1,7 @@
 ---
-title: "European Central Bank Overview"
-description: "Explore the intersection of ECB monetary policy and algorithmic trading, examining how changes in interest rates affect trading strategies and market conditions."
+title: European Central Bank Price Stability And Financial Oversight
+description: European Central Bank manages euro stability with monetary policy tools
+  and supervises banks to ensure price stability Discover more inside
 ---
 
 

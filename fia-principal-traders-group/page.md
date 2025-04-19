@@ -1,6 +1,7 @@
 ---
-title: "FIA Principal Traders Group Overview"
-description: "Explore the world of algorithmic trading with the FIA Principal Traders Group, key players in market innovation and efficiency since 2010 within financial markets."
+title: FIA Principal Traders Group Shaping Futures Market Policy
+description: FIA Principal Traders Group gives members a unified voice to shape fair
+  futures market rules and enhance liquidity and stability Discover more
 ---
 
 

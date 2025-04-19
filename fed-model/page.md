@@ -1,6 +1,7 @@
 ---
-title: "Fed model"
-description: "Explore the Fed Model's role in algorithmic trading, offering investors insights into market valuation by comparing equity earnings yields to bond yields."
+title: Understanding the Fed Model for Stock and Bond Valuation
+description: Fed model helps investors compare S&P 500 earnings yield with Treasury
+  bond yields to assess if stocks offer returns above bonds. Discover more inside.
 ---
 
 

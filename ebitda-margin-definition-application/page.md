@@ -1,6 +1,7 @@
 ---
-title: "EBITDA Margin: Definition and Application"
-description: "Explore the significance of EBITDA margin in finance and its application in algorithmic trading to optimize strategies and enhance decision-making processes."
+title: Understanding EBITDA Margin for Better Financial Analysis
+description: EBITDA margin reveals core profitability by excluding interest taxes
+  depreciation and amortization, offering efficiency insights Discover more inside
 ---
 
 

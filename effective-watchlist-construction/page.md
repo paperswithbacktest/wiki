@@ -1,6 +1,8 @@
 ---
-title: "Effective Watchlist Construction"
-description: "Learn how to construct an effective watchlist for algo trading Master techniques for optimizing portfolios and utilizing algorithmic trading to gain market insights"
+title: Building an Effective Stock Watchlist for Savvy Investors
+description: Stock watchlist guides investors through goal setting evaluating financial
+  metrics and industry trends to monitor potential investments confidently Discover
+  more inside
 ---
 
 

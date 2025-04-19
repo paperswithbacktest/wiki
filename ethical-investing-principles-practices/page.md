@@ -1,6 +1,7 @@
 ---
-title: "Ethical Investing: Principles and Practices"
-description: "Explore how ethical investing and algorithmic trading intersect to shape sustainable finance with ESG principles guiding investment decisions for positive impact."
+title: Ethical Investing Principles and Strategies for Impact
+description: Ethical investing helps you support companies that protect the environment
+  and treat workers fairly while growing your portfolio Discover more inside
 ---
 
 

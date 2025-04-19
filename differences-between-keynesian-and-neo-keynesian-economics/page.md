@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Keynesian and Neo-Keynesian Economics"
-description: "Explore the distinct differences between Keynesian and Neo-Keynesian economics in this detailed guide tailored for algorithmic traders. Understand how these influential economic theories shed light on government intervention and market dynamics. Delve into their nuanced perspectives to elevate strategic decision-making processes in algorithmic trading and comprehend their practical relevance in financial markets today."
+title: Comparing Keynesian and Neo-Keynesian Economic Theories
+description: Keynesian economics and its Neo-Keynesian evolution explained with fiscal
+  and monetary tools illustrating how policy shapes growth Discover more inside.
 ---
 
 

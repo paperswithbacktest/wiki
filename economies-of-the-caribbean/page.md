@@ -1,6 +1,7 @@
 ---
-title: "Economies of the Caribbean"
-description: "Explore the Caribbean's vibrant economies and their key industries beyond tourism. From Trinidad and Tobago's petrochemical prowess to Jamaica's mining sector, discover how these nations leverage natural resources, strategic financial services, and emerging technologies like algorithmic trading for economic growth and resilience. Dive into an insightful analysis of the region's economic landscape and future potential."
+title: Understanding the Caribbean Economy and Growth Drivers
+description: Caribbean economy thrives on tourism agriculture and services creating
+  jobs and revenue while navigating environmental challenges Discover more inside
 ---
 
 

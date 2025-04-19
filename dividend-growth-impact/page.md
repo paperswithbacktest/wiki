@@ -1,6 +1,7 @@
 ---
-title: "Dividend Growth Impact"
-description: "Explore the synergy of dividend growth, investment calculations, and algorithmic trading to optimize returns and build a resilient investment strategy."
+title: Dividend Growth Strategies for Steady Investment Income
+description: Dividend growth delivers rising income and shields your portfolio from
+  inflation with reinvestment and actionable key metrics Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Exchange-Traded Funds in Sector Rotation Strategies"
-description: "Explore how sector rotation, ETFs, and algorithmic trading optimize modern investment strategies, enhancing portfolio performance across economic cycles."
+title: Leveraging ETFs for Effective Sector Rotation Strategies
+description: ETF sector rotation lets investors shift assets across industries for
+  cost efficient diversification and better risk management Discover more inside
 ---
 
 

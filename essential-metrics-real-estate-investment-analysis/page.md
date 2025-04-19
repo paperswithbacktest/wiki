@@ -1,6 +1,7 @@
 ---
-title: "Essential Metrics for Real Estate Investment Analysis"
-description: "Explore key metrics for real estate investment analysis and the impact of algorithmic trading on market strategies for optimized returns and risk management."
+title: Key Real Estate Investment Metrics for Informed Analysis
+description: Real estate investment metrics provide essential tools to assess property
+  returns cash flow and risk with clear formulas and insights Discover more inside
 ---
 
 

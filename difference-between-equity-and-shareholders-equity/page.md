@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Equity and Shareholders' Equity"
-description: "Explore the distinctions between equity and shareholders' equity and learn how these concepts intersect with algorithmic trading to enhance investment strategies."
+title: Understanding Equity and Shareholders Equity Fundamentals
+description: Shareholders equity shows what owners truly own by subtracting liabilities
+  from assets while revealing company financial health Discover more inside
 ---
 
 

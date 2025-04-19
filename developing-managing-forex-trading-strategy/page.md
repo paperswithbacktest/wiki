@@ -1,6 +1,7 @@
 ---
-title: "Developing and Managing a Forex Trading Strategy"
-description: "Explore the world of forex trading strategies and algorithmic trading techniques to enhance your trading skills and succeed in the dynamic forex market."
+title: Comprehensive Guide to Developing a Forex Trading Strategy
+description: Forex trading strategy guides beginners through planning with technical
+  and fundamental analysis risk management and backtesting Discover more inside
 ---
 
 

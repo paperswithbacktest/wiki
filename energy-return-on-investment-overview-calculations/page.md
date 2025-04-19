@@ -1,6 +1,7 @@
 ---
-title: "Energy Return on Investment: Overview and Calculations"
-description: "Explore the synergy of EROI insights and algorithmic trading to enhance energy investment strategies and capitalize on market dynamics with precision and speed."
+title: Assessing Energy Return On Investment for Sustainable Sources
+description: EROI reveals the true energy efficiency of sources by measuring energy
+  output against input to guide smart sustainable choices Discover more inside.
 ---
 
 

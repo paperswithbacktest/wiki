@@ -1,6 +1,7 @@
 ---
-title: "Deferred Payment Option"
-description: "Enhance your investment strategy with deferred payment options and algorithmic trading. Combine financial flexibility with cutting-edge technology for optimized returns."
+title: Deferred Payment Options Explained for Businesses and Consumers
+description: Deferred payment options let you buy now and spread costs while avoiding
+  hidden fees. Get clear on terms to stay in control Discover more inside
 ---
 
 

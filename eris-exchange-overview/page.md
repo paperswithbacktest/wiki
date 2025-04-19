@@ -1,6 +1,7 @@
 ---
-title: "Eris Exchange Overview"
-description: "Explore the evolution of trading through algorithmic platforms enhancing efficiency and accessibility with Eris Exchange at the forefront of this financial innovation."
+title: Eris Exchange SEF Platform for Secure Interest Rate Swap Trading
+description: Eris Exchange streamlines interest rate swaps with blockchain security
+  and regulatory oversight for secure transparent trading Discover more inside.
 ---
 
 

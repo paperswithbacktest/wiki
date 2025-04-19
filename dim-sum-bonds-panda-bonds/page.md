@@ -1,6 +1,7 @@
 ---
-title: "Dim Sum Bonds and Panda Bonds"
-description: "Explore Dim Sum and Panda Bonds the dynamic RMB-denominated investment tools in global markets. Learn how algorithmic trading enhances their trade efficiency."
+title: Exploring Dim Sum Bonds and Panda Bonds in Chinese Yuan Markets
+description: Dim Sum Bonds and Panda Bonds give global investors clear insights into
+  issuance benefits risks and impact in Chinese yuan markets Discover more inside.
 ---
 
 

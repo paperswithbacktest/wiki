@@ -1,6 +1,7 @@
 ---
-title: "Determination of International Exchange Rates"
-description: "Explore the pivotal role of exchange rates in global trade with a focus on algorithmic trading in Forex Learn how currencies are valued and traded worldwide"
+title: Understanding International Exchange Rates and Their Impact
+description: International exchange rates drive trade costs profits and investments
+  by revealing currency drivers market forces and policies Discover more inside.
 ---
 
 

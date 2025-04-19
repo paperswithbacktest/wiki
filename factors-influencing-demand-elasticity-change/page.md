@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Demand Elasticity Change"
-description: "Explore how demand elasticity affects algo trading with insights into price fluctuations, consumer behavior, and strategies for traders to enhance profitability."
+title: Understanding Demand Elasticity for Effective Pricing Strategies
+description: Demand Elasticity shows how price changes shape consumer behavior and
+  helps businesses optimize pricing strategies with data insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Earnings Yield and Calculation Method"
-description: "Discover the significance of earnings yield in investment analysis Learn how this financial ratio aids in evaluating potential returns and stock valuation"
+title: Understanding Earnings Yield for Smart Stock Investments
+description: Earnings yield shows how much profit investors get per dollar spent on
+  a stock and reveals undervalued opportunities in portfolios. Discover more inside.
 ---
 
 

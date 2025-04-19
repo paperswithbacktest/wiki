@@ -1,6 +1,7 @@
 ---
-title: "Equity-Efficiency Tradeoff: Causes and Examples"
-description: "Discover how algorithmic trading has transformed equity markets by analyzing the efficiency-equity tradeoff. Explore the challenges of maintaining fairness while maximizing economic efficiency and the implications for traders and policymakers."
+title: Navigating the Equity-Efficiency Tradeoff in Economic Policy
+description: Equity-efficiency tradeoff influences policy choices for fair growth.
+  This article explains balancing fairness and productivity Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Event-based sampling"
-description: Explore the significance of event-based sampling in algorithmic trading and how it enables traders to focus on important market events rather than regular time intervals, enhancing strategy precision and market insight. Discover the benefits and strategies for implementing this dynamic data collection method, which prioritizes capturing essential market conditions for improved trading decisions.
+title: Understanding Event-Based Sampling in Data Collection
+description: Event-based sampling focuses on capturing data only when significant
+  events occur to optimize resource use and improve insights Discover more inside.
 ---
 
 

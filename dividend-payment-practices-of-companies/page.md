@@ -1,6 +1,7 @@
 ---
-title: "Dividend Payment Practices of Companies"
-description: "Explore how dividends corporate finance and algorithmic trading impact investor strategies and firm value Discover insights into optimizing shareholder wealth"
+title: Comprehensive Guide To Dividend Policies And Corporate Finance
+description: Dividend Policies shape how companies balance profit distribution while
+  boosting shareholder returns and dividend yield insights Discover more inside
 ---
 
 

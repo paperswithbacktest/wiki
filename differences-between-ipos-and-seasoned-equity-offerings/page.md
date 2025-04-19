@@ -1,6 +1,7 @@
 ---
-title: "Differences Between IPOs and Seasoned Equity Offerings"
-description: "Discover the differences between IPOs and SEOs and explore the impact of algorithmic trading on equity offerings unlocking new possibilities for investors."
+title: Initial Public Offering Vs Seasoned Equity Offering Explained
+description: Initial Public Offering vs Seasoned Equity Offering breakdown clarifies
+  how companies raise capital and the impact on shareholders Discover more inside.
 ---
 
 

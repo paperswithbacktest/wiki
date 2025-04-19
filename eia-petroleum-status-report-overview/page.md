@@ -1,6 +1,7 @@
 ---
-title: "EIA Petroleum Status Report Overview"
-description: "Discover the impact of the EIA Petroleum Status Report on algorithmic trading in energy markets Get insights into crude oil supply demand dynamics"
+title: EIA Petroleum Status Report Explained for Traders and Analysts
+description: EIA Petroleum Status Report gives US data on crude oil gasoline and distillate
+  inventories with refining summaries to guide market decisions Discover more.
 ---
 
 

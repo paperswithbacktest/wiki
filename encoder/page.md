@@ -1,6 +1,7 @@
 ---
-title: "Encoder (Machine Learning)"
-description: "Discover how encoders transform data in machine learning efficiently for tasks like compression and feature extraction, aiding in NLP and image processing."
+title: Understanding Machine Learning Encoders and Their Applications
+description: Machine learning encoders convert raw data into compact representations
+  to boost model efficiency in NLP image tasks and compression Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

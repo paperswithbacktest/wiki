@@ -1,6 +1,7 @@
 ---
-title: "Digibyte: Overview and Functionality"
-description: "Explore the DigiByte blockchain platform, renowned for its scalability and security, and how it differentiates itself in the cryptocurrency market. Understand the impact of algorithmic trading and its role in enhancing trading efficiency. Discover the innovations DigiByte brings through its unique features, including a multi-algorithmic mining process and dynamic security measures, emphasizing its commitment to decentralization."
+title: 'Digibyte Cryptocurrency Explained: Features Security and Usage'
+description: Digibyte delivers faster, more secure blockchain transactions with five
+  unique mining algorithms and low fees for everyday use Discover more inside.
 ---
 
 

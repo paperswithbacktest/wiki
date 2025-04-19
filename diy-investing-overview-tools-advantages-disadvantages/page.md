@@ -1,6 +1,7 @@
 ---
-title: "DIY Investing: Overview, Tools, Advantages, and Disadvantages"
-description: "Explore the world of DIY investing with insights into tools, pros, cons, and algorithmic trading to empower your financial future and portfolio management."
+title: Comprehensive Guide to DIY Investing Strategies and Tools
+description: DIY investing puts you in control of your portfolio with proven tools
+  strategies and platforms explained step by step Discover more inside today
 ---
 
 

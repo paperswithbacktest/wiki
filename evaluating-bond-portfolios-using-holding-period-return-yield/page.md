@@ -1,6 +1,7 @@
 ---
-title: "Evaluating Bond Portfolios Using Holding Period Return Yield"
-description: "Optimize your bond portfolio using holding period return and yield metrics enhanced by algorithmic trading to maximize returns and manage risks effectively."
+title: Maximizing Bond Portfolio Performance with Holding Period Return Yield
+description: Holding period return yield measures the total return from bond investments
+  over time including interest and price changes Discover more inside
 ---
 
 

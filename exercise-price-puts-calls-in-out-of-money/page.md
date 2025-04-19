@@ -1,6 +1,7 @@
 ---
-title: "Exercise Price: Puts, Calls, and In/Out of the Money"
-description: "Discover the essentials of options trading, focusing on exercise price, 'in the money' and 'out of the money' distinctions, and the role of algorithmic trading. This guide empowers traders with strategies for optimizing portfolio performance, understanding intrinsic value, and leveraging technology to navigate complex financial markets efficiently for maximum returns."
+title: Understanding Exercise Price in Options Trading
+description: Exercise price in options trading determines the profit potential of
+  calls and puts by comparing strike price with market value Discover more inside.
 ---
 
 

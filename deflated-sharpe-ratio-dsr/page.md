@@ -1,6 +1,7 @@
 ---
-title: "Deflated Sharpe ratio (DSR)"
-description: Explore the significance of the Deflated Sharpe Ratio in algorithmic trading, a key metric for evaluating risk-adjusted performance. Unlike traditional methods, the DSR compensates for statistical biases, offering a refined assessment by addressing issues like randomness and overfitting. Discover how this advanced tool aids in distinguishing genuine market insights from coincidental success, enhancing strategy development and performance evaluation in high-frequency trading environments.
+title: Understanding the Deflated Sharpe Ratio for Real Returns
+description: Deflated Sharpe Ratio adjusts returns for inflation and statistical biases
+  so investors can evaluate real risk adjusted performance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Distribution Yield and Its Calculation"
-description: "Discover the impacts of distribution yield and yield calculations on investment returns and see how algorithmic trading optimizes these financial metrics."
+title: Understanding Distribution Yield for Income-Focused Investing
+description: Distribution yield reveals the annual income percentage of stocks and
+  bonds enabling investors to compare options for steady returns Discover more inside.
 ---
 
 

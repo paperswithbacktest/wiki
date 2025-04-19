@@ -1,6 +1,7 @@
 ---
-title: "European Depositary Receipt: Overview and Functionality"
-description: "European Depositary Receipts (EDRs) allow European investors to access non-European stocks efficiently while algorithmic trading boosts market liquidity and reduces costs."
+title: Understanding European Depositary Receipts for Global Investment
+description: European Depositary Receipts let European investors access foreign stocks
+  on local exchanges in euros and diversify portfolios Discover more inside
 ---
 
 

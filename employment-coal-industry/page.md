@@ -1,6 +1,7 @@
 ---
-title: "Employment in the Coal Industry"
-description: "Explore the dynamic changes in coal industry employment driven by technology and global energy shifts highlighting the impact of automation and algo trading."
+title: Coal Industry Employment Trends and Future Job Prospects
+description: Coal industry employment shapes millions of jobs worldwide as mining
+  roles evolve with safety measures automation and policy shifts Discover more inside.
 ---
 
 

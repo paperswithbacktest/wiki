@@ -1,6 +1,7 @@
 ---
-title: "Exploding Gradient Problem (Machine Learning)"
-description: "The Exploding Gradient Problem in machine learning can destabilize training by causing large gradient updates in deep networks hindering effective learning."
+title: Understanding the Exploding Gradient Problem in Neural Networks
+description: Exploding Gradient Problem insights help spot unstable neural network
+  training with gradient clipping and initialization techniques Discover more inside.
 ---
 
 ![Image](images/1.png)

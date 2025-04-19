@@ -1,6 +1,7 @@
 ---
-title: "Federated Learning (Machine Learning)"
-description: "Discover Federated Learning's privacy-focused model training where data remains on local devices improving systems like keyboard predictions while ensuring privacy."
+title: Federated Learning Architecture Benefits and Future Trends
+description: Federated Learning trains models on user devices to protect privacy and
+  boost accuracy through secure updates and aggregation Discover more inside.
 ---
 
 ![Image](images/1.png)

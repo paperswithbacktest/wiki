@@ -1,6 +1,7 @@
 ---
-title: "Emergency Economic Stabilization Act of 2008"
-description: "Explore the Emergency Economic Stabilization Act of 2008 and its impact on financial markets and algorithmic trading during the global economic crisis."
+title: Emergency Economic Stabilization Act of 2008 Explained
+description: Emergency Economic Stabilization Act of 2008 rescued banks via TARP raised
+  insurance limits delivered tax breaks to boost recovery Discover more inside.
 ---
 
 

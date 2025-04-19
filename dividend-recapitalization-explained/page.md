@@ -1,6 +1,7 @@
 ---
-title: "Dividend Recapitalization Explained"
-description: "Discover how dividend recapitalization and algorithmic trading intersect in corporate finance to enhance shareholder value and optimize trading efficiency."
+title: 'Understanding Dividend Recapitalization: Risks And Benefits'
+description: Dividend recapitalization shows how firms borrow to pay shareholder dividends
+  while managing debt risk and growth tradeoffs Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dividends Received Deduction"
-description: "Explore how the Dividends Received Deduction helps corporations minimize taxable income and manage tax implications with algorithmic trading insights."
+title: Understanding the Dividends Received Deduction For Corporations
+description: Dividends Received Deduction lets companies reduce taxable income by
+  deducting up to 100% of qualifying dividends based on ownership Discover more inside
 ---
 
 

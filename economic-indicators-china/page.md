@@ -1,6 +1,7 @@
 ---
-title: "Economic Indicators of China"
-description: "Explore China's economic indicators and GDP to navigate global markets. Insights into growth, industry, trade, and algorithmic trading guide informed decisions."
+title: Key Economic Indicators for Assessing China's Economic Health
+description: China economic indicators reveal vital trends in GDP CPI PPI unemployment
+  and trade balance to guide investors and policymakers. Discover more inside
 ---
 
 

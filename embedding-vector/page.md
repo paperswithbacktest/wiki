@@ -1,6 +1,7 @@
 ---
-title: "Embedding Vector (Machine Learning)"
-description: "Embedding vectors simplify data understanding in machine learning by turning items like words into lists of numbers, enhancing tasks like translation and search."
+title: Understanding Embedding Vectors in Machine Learning Applications
+description: Embedding vectors convert words images and data into numeric lists that
+  capture meaning improve predictions boost model performance Discover more inside
 ---
 
 ![Image](images/1.png)

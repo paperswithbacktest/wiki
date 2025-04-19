@@ -1,6 +1,7 @@
 ---
-title: "Degrees in Demand by Oil Companies"
-description: "Explore diverse degree paths vital to the oil industry, from engineering to data science. Discover evolving roles, sustainability, and algo trading opportunities."
+title: Comprehensive Guide to Degrees for Careers in the Oil Industry
+description: Oil industry degrees span engineering geology environmental science and
+  business roles to build skills and advance your career Discover more inside
 ---
 
 

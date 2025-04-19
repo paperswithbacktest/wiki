@@ -1,6 +1,7 @@
 ---
-title: "Dividend Policy of Berkshire Hathaway"
-description: "Explore Berkshire Hathaway's unique no-dividend policy under Warren Buffett and its impact, alongside the rise of algorithmic trading in modern financial markets."
+title: Berkshire Hathaway Dividend Policy Explained by Warren Buffett
+description: Berkshire Hathaway dividend policy prioritizes reinvestment of profits
+  into acquisitions and long term value creation for shareholders Discover more inside
 ---
 
 

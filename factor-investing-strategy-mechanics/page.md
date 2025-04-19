@@ -1,6 +1,6 @@
 ---
-title: "Factor Investing and Strategy Mechanics"
-description: "Explore factor investing and algorithmic trading, powerful financial strategies enhancing returns and managing risks with quantitative methods and technology."
+title: Professional Title Explaining the Article
+description: Meta description summarizing the article
 ---
 
 

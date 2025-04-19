@@ -1,6 +1,7 @@
 ---
-title: "Deep Learning"
-description: Dive into Deep Learning, the game-changing concept in artificial intelligence, and its impact on algorithmic trading. Learn about pattern recognition, accurate predictions, managing unstructured data, and challenges. Explore use cases and resources for deeper understanding.
+title: Deep Learning Fundamentals Neural Network Concepts Explained
+description: Deep learning uses layered neural networks to uncover complex data patterns
+  and improve predictions through training cycles. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Desk Trader"
-description: "Explore the evolution of desk and algorithmic trading in modern financial markets, emphasizing strategies for optimizing investment outcomes and market efficiency."
+title: Desk Trader Guide To Roles Responsibilities Skills And Strategies
+description: Desk Trader professionals will gain insights into roles responsibilities
+  risk management and advanced strategies to trade confidently Discover more inside.
 ---
 
 

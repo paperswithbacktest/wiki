@@ -1,6 +1,7 @@
 ---
-title: "Ethical Considerations of Investing in Controversial Stocks"
-description: "Explore the ethical challenges of investing in controversial stocks through algorithmic trading while balancing profitability with societal values and market integrity."
+title: 'Investing in Controversial Stocks: Balancing Profit and Ethics'
+description: Controversial stocks offer profit potential and ethical risks Investors
+  can use ESG tools and engagement to align returns with values Discover more inside
 ---
 
 

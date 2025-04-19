@@ -1,6 +1,7 @@
 ---
-title: "Economic Shortages: Causes, Types, and Examples"
-description: "Explore the complexities of economic shortages and their impact on markets Learn how algorithmic trading can help investors navigate supply-demand shifts effectively"
+title: 'Understanding Economic Shortages: Causes, Effects and Solutions'
+description: Economic shortages arise when supply cannot meet demand due to production
+  delays or disasters Discover causes impacts and effective solutions inside
 ---
 
 

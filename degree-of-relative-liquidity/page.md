@@ -1,6 +1,7 @@
 ---
-title: "Degree of Relative Liquidity"
-description: "Explore the dynamic role of liquidity in algorithmic trading and its impact on market efficiency and stability through essential financial metrics and strategies."
+title: Understanding Degree of Relative Liquidity in Financial Markets
+description: Degree of relative liquidity measures how fast assets convert to cash
+  without price impact and helps investors manage risk Discover more inside
 ---
 
 

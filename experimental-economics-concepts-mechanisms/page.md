@@ -1,6 +1,7 @@
 ---
-title: "Experimental Economics: Concepts and Mechanisms"
-description: "Explore the intersection of experimental and behavioral economics with algorithmic trading Discover how these fields shape financial strategies and market dynamics"
+title: Experimental Economics Explained Professional Insights for Policy Design
+description: Experimental economics reveals how controlled lab and field tests uncover
+  real decision making to refine economic theories and policies Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Dividend Yield and Dividend Payout Ratio"
-description: "Discover the key differences between dividend yield and dividend payout ratio and how these metrics impact investment strategies particularly in algorithmic trading."
+title: Understanding Dividend Yield And Payout Ratio For Investors
+description: Dividend yield and payout ratio help investors gauge income potential
+  and company retention strategy in active analysis. Discover more inside.
 ---
 
 

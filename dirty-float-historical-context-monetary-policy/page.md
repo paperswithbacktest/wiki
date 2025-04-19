@@ -1,6 +1,7 @@
 ---
-title: "Dirty Float: Historical Context and Role in Monetary Policy"
-description: "Explore the historical context and significance of dirty float exchange rate regimes in monetary policy highlighting their role in algorithmic trading and global economic stability."
+title: Dirty Float Exchange Rate Explained Benefits And Risks
+description: Dirty Float exchange rate systems balance market shifts with targeted
+  measures to stabilize currency values and support trade Discover more inside
 ---
 
 

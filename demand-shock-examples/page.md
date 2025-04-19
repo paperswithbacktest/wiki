@@ -1,6 +1,7 @@
 ---
-title: "Demand Shock Examples"
-description: "Explore the role of algorithmic trading in navigating demand shocks and their impact on market dynamics. Gain insights into economic stability and trading strategies."
+title: Demand Shocks Impact On Economic Performance And Policy Responses
+description: Demand shocks trigger shifts in spending and inflation, prompting proactive
+  policy and strategic planning to sustain economic stability Read more inside
 ---
 
 

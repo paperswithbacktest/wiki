@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Higher Yields in Preferred vs. Common Stocks"
-description: "Explore how algorithmic trading enhances yield comparisons in preferred and common stocks, offering unique advantages to optimize portfolio decisions and align financial goals."
+title: Comprehensive Comparison of Preferred and Common Stock Yields
+description: Preferred stocks deliver fixed dividends before common stocks which offer
+  variable yields. Compare risk and reward profiles Discover more inside
 ---
 
 

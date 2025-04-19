@@ -1,6 +1,7 @@
 ---
-title: "EMQQ: Emerging Markets Internet ETF"
-description: "Explore EMQQ Emerging Markets Internet & Ecommerce ETF offering exposure to rapidly growing internet sectors in dynamic emerging markets through algorithmic trading."
+title: Investing In The EMQQ Emerging Markets Internet Ecommerce ETF
+description: EMQQ ETF offers exposure to internet and ecommerce growth in emerging
+  markets China India and Brazil through diversified holdings Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Disposition in Investing"
-description: "Unlock the secrets of modern investing with insights into financial strategies, investment disposition, and algorithmic trading to boost your portfolio."
+title: Understanding Disposition in Investing and Managing Biases
+description: Disposition in investing impacts asset sale timing taxes and returns
+  Explore proven tactics to avoid biases and boost returns Discover more inside
 ---
 
 

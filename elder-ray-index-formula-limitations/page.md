@@ -1,6 +1,7 @@
 ---
-title: "Elder-Ray Index: Formula and Limitations"
-description: "Explore the Elder-Ray Index a technical analysis tool by Dr. Alexander Elder crucial for algorithmic traders assessing market dynamics and improving strategies."
+title: Elder-Ray Index Explained for Smarter Stock Trading
+description: Elder-Ray Index uses Bull Power and Bear Power to measure market control
+  and help traders time buy and sell moves effectively Discover more inside.
 ---
 
 

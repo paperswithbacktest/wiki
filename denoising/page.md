@@ -1,6 +1,7 @@
 ---
-title: "Denoising (Machine Learning)"
-description: "Denoising in machine learning involves removing noise from data to enhance model accuracy by highlighting essential patterns and improving predictions."
+title: Data Denoising Techniques for Reliable Machine Learning Models
+description: Data denoising with filters autoencoders and deep learning boosts model
+  accuracy by cleaning noisy datasets from images to time series Discover more inside
 ---
 
 ![Image](images/1.jpeg)

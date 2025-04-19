@@ -1,6 +1,7 @@
 ---
-title: "Direct Access Trading: Overview and Benefits"
-description: "Explore the transformative world of Direct Access Trading and Algo Trading Learn how these technologies reshape market strategies for faster and precise trades"
+title: Direct Access Trading Guide for Faster Trade Execution
+description: Direct Access Trading lets traders connect directly to markets for real
+  time pricing control speed and cost savings in trading Discover more inside.
 ---
 
 

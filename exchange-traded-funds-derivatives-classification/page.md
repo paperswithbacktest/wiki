@@ -1,6 +1,7 @@
 ---
-title: "Exchange-Traded Funds and Derivatives Classification"
-description: "Explore the transformative impact of ETFs derivatives and algorithmic trading on investment strategies enhancing returns and optimizing risk management."
+title: Comprehensive Guide to ETFs and Derivatives for Investors
+description: ETFs and derivatives deliver practical insights on diversification, tracking
+  and risk management in a concise investor guide Discover more inside
 ---
 
 

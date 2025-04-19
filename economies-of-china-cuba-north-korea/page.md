@@ -1,6 +1,7 @@
 ---
-title: "Economies of China, Cuba, and North Korea"
-description: "Explore the unique socialist economies of China, Cuba, and North Korea, their technological integration, and the global impact of their distinct economic models."
+title: Comparing Economic Systems of China, Cuba and North Korea
+description: Economic systems in China Cuba and North Korea show how state control
+  private business and trade policies shape growth Discover more inside.
 ---
 
 

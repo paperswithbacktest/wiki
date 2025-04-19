@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Oil Price Fluctuations"
-description: "Explore the factors causing oil price fluctuations emphasizing the impact of algorithmic trading This detailed analysis helps stakeholders understand market dynamics"
+title: Key Factors Influencing Global Oil Price Fluctuations
+description: Oil prices reflect supply and demand shifts OPEC decisions geopolitical
+  events currency moves and technology advances shaping markets Discover more inside
 ---
 
 

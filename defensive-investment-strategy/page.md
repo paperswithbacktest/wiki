@@ -1,6 +1,7 @@
 ---
-title: "Defensive Investment Strategy"
-description: "Explore the benefits of a defensive investment strategy enhanced by algorithmic trading for risk-averse investors seeking stability and capital preservation."
+title: Protect Your Portfolio With a Defensive Investment Strategy
+description: Defensive investment strategy protects your portfolio from market swings
+  by focusing on stable sectors and dividend income Discover more inside.
 ---
 
 

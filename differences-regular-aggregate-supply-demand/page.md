@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Regular and Aggregate Supply and Demand"
-description: "Explore the distinctions and interactions between regular and aggregate supply and demand in economics and algorithmic trading for a strategic market advantage."
+title: Aggregate Supply And Demand Versus Regular Supply And Demand
+description: Aggregate supply and demand explain how market forces set prices and
+  drive growth in individual markets and the whole economy Discover more inside
 ---
 
 

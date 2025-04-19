@@ -1,6 +1,7 @@
 ---
-title: "Economic Capital: Calculation and Example"
-description: "Discover how economic capital calculations enhance algorithmic trading systems by improving risk management and investment strategies in financial markets."
+title: Understanding Economic Capital for Financial Institution Stability
+description: Economic capital helps banks manage risk by calculating reserves with
+  VaR stress testing and scenario analysis to ensure stability Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Eager Execution (Machine Learning)"
-description: "Eager Execution in machine learning allows for immediate operation execution and real-time feedback, simplifying debugging and enhancing code comprehension for learners."
+title: Understanding Eager Execution in TensorFlow Machine Learning
+description: Eager Execution delivers immediate TensorFlow operation results for clearer
+  step by step debugging and faster learning for developers Discover more inside.
 ---
 
 ![Image](images/1.png)

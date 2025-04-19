@@ -1,6 +1,7 @@
 ---
-title: "Evaluating Companies with Negative Cash Flow from Investments"
-description: "Explore strategies to evaluate investments with negative cash flow using financial analysis and algorithmic trading to unlock their growth potential."
+title: Understanding Negative Cash Flow From Investment Activities
+description: Negative cash flow from investments shows how firms allocate funds to
+  growth projects and manage long term assets effectively Discover more inside.
 ---
 
 

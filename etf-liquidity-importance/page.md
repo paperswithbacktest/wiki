@@ -1,6 +1,7 @@
 ---
-title: "ETF Liquidity Importance"
-description: "Explore the crucial role of ETF liquidity and algorithmic trading in modern financial markets Learn how these elements enhance trading efficiency and portfolio management"
+title: ETF Liquidity Explained Key Metrics and Investor Insights
+description: ETF liquidity determines how easily you can trade funds without costing
+  you extra due to wide bid ask spreads or low volume. Discover more inside.
 ---
 
 

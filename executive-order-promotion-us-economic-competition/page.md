@@ -1,6 +1,7 @@
 ---
-title: "Executive Order on Promotion of U.S. Economic Competition"
-description: "The executive order promotes fair competition in the U.S. economy, impacting sectors like algo trading while addressing monopolistic practices and market access."
+title: Executive Order on Promoting U.S. Economic Competition
+description: The executive order on U.S. economic competition directs agencies to
+  curb monopolies boost small business growth and empower workers Discover more inside
 ---
 
 

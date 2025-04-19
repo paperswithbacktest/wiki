@@ -1,6 +1,7 @@
 ---
-title: "Factor Investing"
-description: Discover the intersection of Factor Investing and Algo Trading, where data-driven analysis meets timeless investment strategies. Learn about factors, their categories, and how quantitative methods enhance this approach for successful market navigation. Explore resources for trading strategies, libraries, datasets, and become a quant trader.
+title: Factor Investing Strategies to Optimize Your Investment Portfolio
+description: Factor investing uses value momentum and quality factors to build diversified
+  portfolios with predictable returns. Discover more inside.
 ---
 
 

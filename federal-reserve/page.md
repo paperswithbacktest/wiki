@@ -1,6 +1,7 @@
 ---
-title: "Federal Reserve"
-description: "Explore how the Federal Reserve's monetary policy and algorithmic trading intersect to impact financial markets. Understand how central bank decisions influence economic activities and market dynamics through algorithmic responses to interest rate announcements. Discover insights into navigating modern financial markets with a focus on trading speed, investment strategies, and economic stability."
+title: Understanding the Federal Reserve System and Its Functions
+description: Federal Reserve operations explained covering interest rate policy financial
+  oversight crisis response and global impact Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Exposure Netting: Overview and Mechanisms"
-description: "Discover how exposure netting combined with derivatives and algorithmic trading empowers firms to manage financial risks and enhance their economic stability effectively."
+title: Mastering Exposure Netting for Effective Currency Risk Management
+description: Exposure Netting helps banks and businesses offset currency gains and
+  losses to minimize risk and free up capital for growth Discover more inside
 ---
 
 

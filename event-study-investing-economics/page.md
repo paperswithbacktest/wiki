@@ -1,6 +1,7 @@
 ---
-title: "Event Study in Investing and Economics"
-description: "Explore event studies, economic analysis, and algorithmic trading to gain valuable insights into market dynamics and enhance investment strategies."
+title: Understanding Event Studies for Market Impact Analysis
+description: Event Study methodology reveals how stock prices react to key corporate
+  and economic events to inform investment decisions Discover more inside.
 ---
 
 

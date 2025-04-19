@@ -1,6 +1,7 @@
 ---
-title: "Digital Markets Act: Functionality and Implementation"
-description: "Explore how the Digital Markets Act impacts algorithmic trading by fostering fair competition and transparency in digital platforms, reshaping market dynamics."
+title: Understanding the Digital Markets Act for Fairer EU Competition
+description: Digital Markets Act curbs big tech gatekeepers to level the EU digital
+  playing field and boost competition and user choices Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Duration of Short Positions in Trading"
-description: "Explore the role of short positions in trading and how integrating them with algorithmic strategies can enhance trading speed accuracy and potential returns."
+title: Key Factors Influencing the Duration of a Short Position
+description: Short position duration relies on borrowing rules risk appetite and market
+  trends traders apply analysis to time exits Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dubai Mercantile Exchange Overview"
-description: "Explore the impact of algorithmic trading on the Dubai Mercantile Exchange's energy futures market and discover how DME fosters global market efficiency."
+title: Dubai Mercantile Exchange Driving Transparency in Energy Markets
+description: Dubai Mercantile Exchange offers transparent trading for Oman crude futures
+  and energy products to ensure fair market pricing Discover more inside
 ---
 
 

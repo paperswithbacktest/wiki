@@ -1,6 +1,7 @@
 ---
-title: "Discount Spread: Definition and Mechanism"
-description: "Explore the intricacies of discount spreads and spread trading mechanisms in algo trading Understand how these components impact trading strategies and market efficiency"
+title: Discount Spread Strategies For Efficient Financial Trading
+description: Discount spread trading helps investors seize price gaps between similar
+  securities with buy and sell tactics for better returns. Discover more inside.
 ---
 
 

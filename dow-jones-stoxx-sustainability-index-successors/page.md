@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones STOXX Sustainability Index and Its Successors"
-description: "Explore the evolution of the Dow Jones STOXX Sustainability Index as it integrates ESG criteria with algorithmic trading to promote sustainable investment strategies."
+title: Dow Jones STOXX Sustainability Index Evolution and Impact
+description: Dow Jones STOXX Sustainability Index highlights firms leading in environment
+  social governance performance for ethical portfolios Discover more inside
 ---
 
 

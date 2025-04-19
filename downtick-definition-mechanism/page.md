@@ -1,6 +1,7 @@
 ---
-title: "Downtick: Definition and Mechanism"
-description: "Discover the impact of downticks in stock trading and how algorithmic trading leverages market trends for strategic advantage. Understand key concepts and tools."
+title: Understanding Downticks in Stock Trading and Market Trends
+description: In stock trading a downtick signals price movement direction helping
+  investors time their buy and sell decisions effectively Discover more inside.
 ---
 
 

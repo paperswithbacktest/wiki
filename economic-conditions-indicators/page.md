@@ -1,6 +1,7 @@
 ---
-title: "Economic Conditions and Indicators"
-description: "Explore how economic conditions and indicators inform algorithmic trading strategies Find insights on GDP unemployment inflation and predictive models for trading"
+title: Understanding Economic Indicators and Market Conditions
+description: Economic indicators explain GDP inflation unemployment and market trends
+  to assess overall conditions and guide informed decisions Discover more inside.
 ---
 
 

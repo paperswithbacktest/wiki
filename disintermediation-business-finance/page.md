@@ -1,6 +1,7 @@
 ---
-title: "Disintermediation in Business and Finance"
-description: "Explore the impact of disintermediation in finance as algorithmic trading and cryptocurrencies cut costs and improve efficiency by bypassing traditional intermediaries."
+title: Disintermediation Trends Shaping Modern Business and Finance
+description: Disintermediation empowers consumers to save money and businesses to
+  innovate by cutting out middlemen and leveraging technology Discover more inside.
 ---
 
 

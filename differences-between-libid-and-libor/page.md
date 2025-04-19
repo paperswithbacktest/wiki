@@ -1,6 +1,7 @@
 ---
-title: "Differences Between LIBID and LIBOR"
-description: "Understanding LIBID and LIBOR is crucial for finance professionals as these rates significantly impact algorithmic trading strategies by benchmarking interbank actions."
+title: Understanding LIBID and LIBOR Rates in Interbank Lending
+description: LIBID and LIBOR rates guide your understanding of interbank borrowing
+  and lending by detailing definitions and calculations Discover more inside
 ---
 
 

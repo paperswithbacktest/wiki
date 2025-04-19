@@ -1,6 +1,7 @@
 ---
-title: "Dutch Tulip Mania: The Tulip Bulb Market Bubble"
-description: "Explore the fascinating history of Dutch tulip mania, a classic case of a market bubble driven by speculative trading and the allure of rare tulip varieties."
+title: Understanding Dutch Tulip Mania as the First Economic Bubble
+description: Tulip Mania reveals how 1630s Dutch tulip bulb speculation triggered
+  and burst the first economic bubble leaving investors ruined Discover more inside.
 ---
 
 

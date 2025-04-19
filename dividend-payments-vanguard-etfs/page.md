@@ -1,6 +1,7 @@
 ---
-title: "Dividend Payments by Vanguard ETFs"
-description: "Discover the synergy of dividend-paying Vanguard ETFs and algorithmic trading to optimize investment returns. Learn how these strategies can elevate your portfolio."
+title: Vanguard ETF Dividend Payments Explained for Long-Term Investors
+description: Vanguard ETF dividend payments overview covers yields reinvestment tax
+  rules and algorithmic trading tips to help you optimize income Discover more inside
 ---
 
 

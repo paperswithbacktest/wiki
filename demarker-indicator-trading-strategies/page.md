@@ -1,6 +1,7 @@
 ---
-title: "DeMarker Indicator and Trading Strategies"
-description: "Explore the DeMarker Indicator in trading to predict market trends. Learn its use in identifying overbought and oversold conditions for better trading strategies."
+title: Understanding The DeMarker Indicator For Overbought Oversold
+description: DeMarker Indicator highlights overbought and oversold conditions by tracking
+  daily highs and lows to optimize trade timing Discover more inside.
 ---
 
 

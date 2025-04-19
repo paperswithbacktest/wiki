@@ -1,6 +1,7 @@
 ---
-title: "Diversification Strategies for a Million-Dollar Investment Portfolio"
-description: "Explore diversification strategies for a million-dollar investment portfolio using algorithmic trading to optimize returns and manage risk with advanced techniques."
+title: Diversification Strategies for Million Dollar Portfolios
+description: Portfolio diversification helps protect million dollar portfolios by
+  spreading assets across stocks bonds real estate to reduce risk Discover more inside.
 ---
 
 

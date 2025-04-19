@@ -1,6 +1,7 @@
 ---
-title: "Eligible Contract Participant Status and Requirements"
-description: "Discover the essentials of Eligible Contract Participant status in commodities trading. Learn about the requirements, benefits, and regulatory framework for ECPs."
+title: Exploring Eligible Contract Participant Requirements and Benefits
+description: Eligible Contract Participant status lets qualified parties trade swaps
+  and derivatives after meeting asset and compliance criteria. Discover more inside.
 ---
 
 

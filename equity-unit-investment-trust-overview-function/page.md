@@ -1,6 +1,7 @@
 ---
-title: "Equity Unit Investment Trust: Overview and Function"
-description: "Explore how Equity Unit Investment Trusts and algorithmic trading combine traditional investment stability with cutting-edge precision to boost returns."
+title: Equity Unit Investment Trust Strategic Portfolio Diversification
+description: Equity Unit Investment Trust lets you invest in a diversified basket
+  of stocks managed by professionals to balance risk and growth Discover more inside
 ---
 
 

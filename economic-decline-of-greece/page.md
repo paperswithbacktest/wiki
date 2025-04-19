@@ -1,6 +1,7 @@
 ---
-title: "Economic Decline of Greece"
-description: "Explore the impact of Greece's economic crisis and the role of algorithmic trading in today's market dynamics unraveling lessons to prevent future financial instability."
+title: Greek Economic Decline Key Indicators and Recovery Measures
+description: Greek economic decline stems from shrinking GDP soaring debt and high
+  unemployment while austerity impacts public services and growth Discover more inside
 ---
 
 

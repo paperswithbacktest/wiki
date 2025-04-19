@@ -1,6 +1,7 @@
 ---
-title: "Essential Metrics for Value Investors"
-description: "Discover how value investing principles blend with algorithmic trading to refine decision-making and risk management for optimal investment strategies."
+title: Key Value Investing Metrics To Pinpoint Undervalued Stocks
+description: Value investing metrics help pinpoint undervalued stocks using ratios
+  like P/E P/B and free cash flow to guide smarter choices. Discover more inside.
 ---
 
 

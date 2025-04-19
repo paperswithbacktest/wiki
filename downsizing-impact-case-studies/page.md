@@ -1,6 +1,7 @@
 ---
-title: "Downsizing: Impact and Case Studies"
-description: "Explore the impacts of corporate downsizing and algorithmic trading on businesses Learn how these strategies drive efficiency and require innovative adaptation"
+title: Corporate Downsizing Impacts Strategies and Employee Outcomes
+description: Corporate downsizing cuts costs improves efficiency and safeguards employee
+  morale Discover smart tactics to mitigate risks Discover more inside.
 ---
 
 

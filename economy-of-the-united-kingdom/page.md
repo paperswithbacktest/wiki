@@ -1,6 +1,7 @@
 ---
-title: "Economy of the United Kingdom"
-description: "Explore the dynamic UK economy and its pioneering role in algorithmic trading Discover how tech advancements impact financial markets and economic resilience"
+title: Understanding the UK Economy Structure and Key Drivers
+description: UK economy overview explains core industries, trade dynamics and policy
+  impacts while highlighting challenges and future outlook Discover more inside.
 ---
 
 

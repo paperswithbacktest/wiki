@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Social Return on Investment"
-description: "Explore how Social Return on Investment (SROI) enhances social investments and algorithmic trading by aligning financial and social impact goals effectively."
+title: Measuring Social Return on Investment for Impact Assessment
+description: Social Return on Investment shows organizations how to measure financial
+  and social impacts to optimize resources and inform strategy Discover more inside
 ---
 
 

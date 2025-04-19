@@ -1,6 +1,8 @@
 ---
-title: "Fama French 5 Factor Model and Algo Trading"
-description: Explore the Fama French 5 Factor Model, an extension of the original 3-factor model, designed to offer a more comprehensive explanation of stock returns. By incorporating profitability and investment factors alongside market risk, size, and value, the model enhances portfolio analysis and asset pricing. Learn about its historical context, methodology, real-world applications, and its significance in modern financial theory. Ideal for asset managers and researchers seeking deeper insights into equity returns and risk management in diverse markets.
+title: Fama French 5 Factor Model Explained for Algorithmic Trading
+description: Fama French 5 Factor Model reveals how market size value profitability
+  and investment drive stock performance in algo trading to improve decision making
+  Discover more inside
 ---
 
 

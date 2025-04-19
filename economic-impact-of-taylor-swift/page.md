@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of Taylor Swift"
-description: "Explore the economic impact of Taylor Swift through Swiftonomics and algorithmic trading Discover the powerful influence of celebrity on financial markets"
+title: Taylor Swift Economic Impact on Local and Global Markets
+description: Taylor Swift economic impact boosts local revenues through concert spending
+  hotel stays and merchandise driving jobs and tax income Discover more inside.
 ---
 
 

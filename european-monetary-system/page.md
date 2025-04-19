@@ -1,6 +1,7 @@
 ---
-title: "European Monetary System"
-description: "Explore the European Monetary System's role in fostering economic integration, its impact on financial markets, and the rise of algorithmic trading in Europe."
+title: Evolution of the European Monetary System and Its Impact
+description: European Monetary System created in 1979 to stabilize rates and foster
+  monetary cooperation across Europe paving the way for the euro Discover more inside
 ---
 
 

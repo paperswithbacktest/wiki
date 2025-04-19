@@ -1,6 +1,7 @@
 ---
-title: "Depositary Receipts"
-description: "Explore how depositary receipts and algorithmic trading revolutionize global financial markets enabling streamlined international investments and data-driven trading."
+title: Understanding Depositary Receipts Types Benefits and Risks
+description: Depositary Receipts let investors access foreign companies through local
+  exchanges while managing currency risks and compliance. Discover more inside.
 ---
 
 

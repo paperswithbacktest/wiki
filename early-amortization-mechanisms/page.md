@@ -1,6 +1,7 @@
 ---
-title: "Early Amortization and Its Mechanisms"
-description: "Explore early amortization and algorithmic trading and discover how these financial mechanisms intersect to optimize loan repayment strategies and enhance decision-making."
+title: Understanding Early Amortization in Loan Securitizations
+description: Early amortization protects investors by redirecting payments in securitizations
+  to repay loans faster when defaults trigger Discover more inside.
 ---
 
 

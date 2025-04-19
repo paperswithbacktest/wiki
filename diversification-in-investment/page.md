@@ -1,6 +1,7 @@
 ---
-title: "Diversification in Investment"
-description: "Explore diversification, portfolio management, and algorithmic trading to maximize returns and mitigate risks in dynamic financial markets with expert insights."
+title: Effective Diversification Strategies for Investment Portfolios
+description: Investment diversification reduces risk by spreading assets across stocks
+  bonds real estate and cash for stable returns Discover more inside.
 ---
 
 

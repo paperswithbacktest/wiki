@@ -1,6 +1,7 @@
 ---
-title: "Economic Collapse of the Soviet Union"
-description: "Explore the profound economic changes following the Soviet Union's collapse and the rise of algorithmic trading as a response to global market volatility."
+title: Understanding the Economic Collapse of the Soviet Union
+description: Soviet Union collapse highlights how central planning, arms race costs
+  and oil price drops eroded growth and exposed systemic flaws Discover more inside.
 ---
 
 

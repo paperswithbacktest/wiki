@@ -1,6 +1,7 @@
 ---
-title: "Economic Growth Rate Overview and Calculation"
-description: "Explore the intricate relationship between economic growth rates and algorithmic trading to enhance trading strategies and improve decision-making in global markets."
+title: Understanding Economic Growth Rates for Algorithmic Trading
+description: Economic growth rates empower traders to apply metrics like CAGR Sharpe
+  and Sortino ratios for informed strategy development Discover more inside.
 ---
 
 

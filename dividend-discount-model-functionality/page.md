@@ -1,6 +1,7 @@
 ---
-title: "Dividend Discount Model Functionality"
-description: "Explore the Dividend Discount Model and its fusion with algorithmic trading to assess stock value. Gain insights into modern investment strategies."
+title: Understanding the Dividend Discount Model for Stock Valuation
+description: Dividend Discount Model shows how to value stocks by discounting projected
+  dividends to present terms for more informed investment Discover more inside
 ---
 
 

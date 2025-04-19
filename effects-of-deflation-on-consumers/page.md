@@ -1,6 +1,7 @@
 ---
-title: "Effects of Deflation on Consumers"
-description: "Explore how deflation impacts consumers and the role of algorithmic trading in this economic shift Gain insights into navigating deflationary challenges effectively"
+title: Understanding Deflation and Its Impact on Consumer Behavior
+description: Deflation prompts consumers to delay purchases and reduce borrowing which
+  lowers confidence and spending while increasing debt burdens Discover more inside
 ---
 
 

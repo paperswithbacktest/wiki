@@ -1,6 +1,7 @@
 ---
-title: "Deposit/Withdrawal at Custodian (DWAC)"
-description: "Deposit/Withdrawal at Custodian (DWAC) facilitates swift and secure electronic securities transfers essential for efficient algo trading and modern financial operations."
+title: Understanding DWAC Deposit Withdrawal at Custodian Processes
+description: DWAC streamlines stock transfers with electronic deposit and withdrawal
+  at custodian accounts reducing time and fees securely Discover more inside
 ---
 
 

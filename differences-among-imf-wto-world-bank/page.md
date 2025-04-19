@@ -1,6 +1,7 @@
 ---
-title: "Differences Among the IMF, WTO, and World Bank"
-description: "Explore how the World Bank IMF and WTO influence global markets and the evolving role of algorithmic trading in shaping today's financial landscape."
+title: IMF WTO and World Bank Roles Funding and Governance
+description: IMF, WTO and World Bank provide funding guidance and dispute resolution
+  to stabilize economies foster trade and support development Discover more inside.
 ---
 
 

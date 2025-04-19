@@ -1,6 +1,7 @@
 ---
-title: "Execution signal"
-description: "Discover how execution signals optimize algorithmic trading by enhancing trade execution efficiency, reducing costs, and navigating complex financial markets effectively."
+title: Understanding Execution Signals in Trading Strategies
+description: Execution signals let traders automate buy and sell orders using price
+  time or indicator rules to limit emotional bias improve trades Discover more inside
 ---
 
 

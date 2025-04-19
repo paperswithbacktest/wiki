@@ -1,6 +1,7 @@
 ---
-title: "Federal Report on Environmental Impacts of Cryptocurrency"
-description: "Explore the federal report on cryptocurrency and algorithmic trading's environmental impacts focusing on energy consumption and potential regulatory solutions."
+title: Federal Report on Environmental Impact of Cryptocurrency Mining
+description: Environmental impact of cryptocurrency mining drives calls to cut energy
+  use and emissions through renewables and efficient protocols Discover more inside.
 ---
 
 

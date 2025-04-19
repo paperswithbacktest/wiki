@@ -1,6 +1,7 @@
 ---
-title: "Failed Break: Mechanism and Examples"
-description: "Explore failed breakouts in algorithmic trading analyzing factors that cause them and how traders can leverage these insights to improve trading strategies."
+title: Identifying and Trading Failed Breaks in Stock Charts
+description: Failed Break identification helps traders avoid false signals by using
+  volume momentum to manage risk and protect trades. Discover more inside.
 ---
 
 

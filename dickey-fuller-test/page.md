@@ -1,6 +1,7 @@
 ---
-title: "Dickey-Fuller test"
-description: Explore the role of the Dickey-Fuller test in algorithmic trading and mean reversion strategies. This test evaluates the stationarity of financial time series data, informing traders on potential mean reversion opportunities. Understanding this test aids in developing strategic, data-driven trading decisions.
+title: Understanding the Dickey-Fuller Test for Time Series Stationarity
+description: Dickey-Fuller test helps analysts confirm time series stationarity and
+  refine forecasting models for greater predictive accuracy Discover more inside.
 ---
 
 

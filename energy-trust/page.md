@@ -1,6 +1,7 @@
 ---
-title: "Energy Trust"
-description: "Explore the dynamic intersection of energy trusts, fund management, and algorithmic trading offering insights into investment strategies and sustainability opportunities."
+title: Energy Trusts Explained for Steady Income and Risk Control
+description: Energy Trusts offer a diversified path to regular dividend income while
+  managing sector risks effectively with professional oversight. Discover more inside.
 ---
 
 

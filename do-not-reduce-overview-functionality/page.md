@@ -1,6 +1,7 @@
 ---
-title: "Do Not Reduce: Overview and Functionality"
-description: "Explore the significance of Do Not Reduce orders in algorithmic trading to maintain strategic price levels amid dividend announcements for effective trade management."
+title: Understanding Do Not Reduce DNR Orders in Equity Trading
+description: Do Not Reduce DNR orders keep your limit price fixed through dividends
+  and protect your strategy by ensuring exact trade execution Discover more inside
 ---
 
 

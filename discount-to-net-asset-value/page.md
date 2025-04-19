@@ -1,6 +1,7 @@
 ---
-title: "Discount to Net Asset Value"
-description: "Explore the use of algorithmic trading to capitalize on discounts to Net Asset Value. Learn how algorithms identify and exploit trading opportunities for enhanced profits."
+title: Understanding Discount to Net Asset Value for Investors
+description: Discount to Net Asset Value helps investors spot undervalued stocks trading
+  below true worth while evaluating risks and returns. Discover more inside
 ---
 
 

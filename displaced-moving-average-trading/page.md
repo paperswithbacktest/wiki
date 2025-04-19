@@ -1,6 +1,7 @@
 ---
-title: "Displaced Moving Average in Trading"
-description: "Explore the Displaced Moving Average in algo trading to enhance strategies by offering advanced signals and timely insights for market analysis and decision-making."
+title: Displaced Moving Averages for Predictive Trading Analysis
+description: Displaced Moving Average shifts help traders anticipate future price
+  trends by aligning averages with expected moves in the market Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Duration of Outstanding Accounts Receivable"
-description: "Explore how optimizing accounts receivable durations and leveraging algorithmic trading can enhance financial management. Discover strategies for liquidity and growth."
+title: Managing Accounts Receivable Duration to Improve Cash Flow
+description: Accounts receivable management improves cash flow by tracking DSO and
+  collection cycles Apply clear credit terms to accelerate payments Discover more
 ---
 
 

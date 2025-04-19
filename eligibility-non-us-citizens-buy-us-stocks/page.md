@@ -1,6 +1,7 @@
 ---
-title: "Eligibility of Non-U.S. Citizens to Buy U.S. Stocks"
-description: "Discover how non-U.S. citizens can invest in U.S. stocks using algorithmic trading to enhance trading efficiency and profitability. Understand the eligibility criteria, legal frameworks, and verification processes necessary for foreign investors to participate in the U.S. stock market. Explore tax and regulatory considerations and learn how leveraging advanced trading technologies can provide a competitive edge in executing trades effectively. This guide offers valuable insights for international investors aiming to capitalize on the stability and liquidity of the U.S. stock market."
+title: Essential Guide to Buying U.S. Stocks for Non-U.S. Citizens
+description: Buy U.S. stocks as a non-U.S. citizen by choosing the right brokerage,
+  mastering documents tax treaties and currency impacts Discover more inside.
 ---
 
 

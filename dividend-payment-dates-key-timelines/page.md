@@ -1,6 +1,7 @@
 ---
-title: "Dividend Payment Dates and Key Timelines"
-description: "Explore the key timelines and implications of dividend payments in algorithmic trading. Learn how dividends impact stock prices and optimize investment returns."
+title: Guide to Dividend Payment Dates and Ex-Dividend Rules
+description: Dividend payment dates guide shows investors how to track declaration
+  ex-dividend record and payment schedules to optimize income Discover more inside.
 ---
 
 

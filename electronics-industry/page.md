@@ -1,6 +1,7 @@
 ---
-title: "Electronics Industry"
-description: "Explore the convergence of electronics and manufacturing technology driving advancements in algorithmic trading. Discover how this synergy enhances financial markets."
+title: Electronics Industry Trends Technologies and Global Impact
+description: Electronics industry overview highlights product evolution market segments
+  and emerging technologies that shape global growth Discover more inside.
 ---
 
 

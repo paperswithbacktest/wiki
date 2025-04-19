@@ -1,6 +1,7 @@
 ---
-title: "Discretionary portfolio managers (PMs)"
-description: Explore the debate between discretionary trading and algorithmic trading as this page investigates into the strengths of discretionary portfolio managers who use intuition and experience to make nuanced trading decisions. Learn how integrating human insight with algorithmic precision can enhance trading performance creating a dynamic strategy that leverages the best of both approaches in today's complex financial landscape.
+title: Understanding Discretionary Portfolio Manager Roles and Benefits
+description: Discretionary portfolio manager lets busy clients delegate trades to
+  experts reacting to market shifts and balancing growth with risk Discover more inside
 ---
 
 

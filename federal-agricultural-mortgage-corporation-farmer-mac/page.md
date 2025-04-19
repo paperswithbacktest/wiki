@@ -1,6 +1,7 @@
 ---
-title: "Federal Agricultural Mortgage Corporation (Farmer Mac)"
-description: "Discover how Farmer Mac, a key player in agricultural finance, integrates algorithmic trading to boost investment strategies and enhance risk and liquidity management."
+title: Understanding Farmer Mac's Role in Agricultural Lending
+description: Farmer Mac buys and guarantees farm loans to lower borrowing costs and
+  support agricultural growth and stability Discover practical insights inside.
 ---
 
 

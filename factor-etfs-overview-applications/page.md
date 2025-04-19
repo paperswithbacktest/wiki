@@ -1,6 +1,7 @@
 ---
-title: "Factor ETFs: Overview and Applications"
-description: "Explore the benefits of Factor ETFs in algorithmic trading with insights on strategic factor exposure and portfolio diversification to optimize performance."
+title: Comprehensive Guide to Factor ETFs for Strategic Market Investing
+description: Factor ETFs empower investors to target stock traits and balance risk
+  for potential outperformance while diversifying portfolios Discover more inside
 ---
 
 

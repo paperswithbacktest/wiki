@@ -1,6 +1,7 @@
 ---
-title: "Ethiopian Birr: Overview and Historical Context"
-description: "Explore the historical evolution and economic significance of the Ethiopian Birr within both domestic and international contexts while assessing future challenges and opportunities."
+title: Comprehensive Ethiopian Birr Currency Guide and Exchange Rates
+description: Ethiopian Birr exchange rates, history and design insights help you navigate
+  currency trends, monetary policy and inflation Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dividend Capture: Overview, Criticism, and Examples"
-description: "Discover strategic insights into dividend capture in algorithmic trading with a focus on techniques benefits risks and examples to optimize your investment returns"
+title: Understanding Dividend Capture Strategy for Smart Investors
+description: Dividend Capture Strategy helps investors earn dividends with smart timing
+  and cost control while weighing risks and taxes. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "ETFs and Wash Sales: Exploring the Tax Loophole"
-description: "Discover how Exchange-Traded Funds (ETFs) can offer unique tax efficiencies in algorithmic trading. Unveil strategies to navigate the complexities of the wash sale rule and explore how algorithmic trading can enhance portfolio efficiency while minimizing tax liabilities."
+title: Navigating ETF Wash Sale Loopholes for Tax Efficiency
+description: ETF wash sale loophole lets investors claim losses by swapping similar
+  funds without violating IRS rules and optimizing tax outcomes Discover more inside
 ---
 
 

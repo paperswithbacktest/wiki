@@ -1,6 +1,7 @@
 ---
-title: "Dual-Purpose Fund"
-description: "Discover the synergy of dual-purpose funds and algorithmic trading to enhance investment strategies for balanced growth and income in evolving markets."
+title: Understanding Dual-Purpose Funds for Income and Growth
+description: Dual-Purpose Fund combines income payouts with long-term growth for a
+  balanced investment approach that adapts to markets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "ESG Investing"
-description: Discover the intersection of Environmental, Social, and Governance (ESG) investing and algorithmic trading. Learn how ESG criteria can be integrated into effective quantitative strategies for superior returns, while aligning financial objectives with global concerns. Explore studies on ESG's impact on long-term performance and its role in market-neutral trading. Dive deeper into the regional significance of ESG and look towards the future of this responsible investment approach.
+title: ESG Investing Explained Benefits Criteria And Strategies
+description: ESG investing helps investors support companies with strong environmental
+  social and governance practices for long term returns Discover more inside
 ---
 
 

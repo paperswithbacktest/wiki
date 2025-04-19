@@ -1,6 +1,7 @@
 ---
-title: "Feedforward Neural Network (Ffn) (Machine Learning)"
-description: "Learn about Feedforward Neural Networks in machine learning, exploring their structure, how they process information, and the role of activation functions."
+title: Comprehensive Guide to Feedforward Neural Network Fundamentals
+description: Feedforward Neural Network models process data in a single forward pass
+  to simplify training and improve prediction accuracy Discover more inside
 ---
 
 ![Image](images/1.png)

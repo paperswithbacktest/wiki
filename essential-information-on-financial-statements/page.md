@@ -1,6 +1,7 @@
 ---
-title: "Essential Information on Financial Statements"
-description: "Navigate the intricate world of financial statements accounting basics and algorithmic trading Learn how to analyze financial data and optimize trading strategies"
+title: Comprehensive Guide to Financial Statements and Analysis
+description: Financial statements reveal what a company owns and owes as well as its
+  revenue and cash flow so you can make smart decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Entropy: Concept, Risk Assessment, and Computation"
-description: "Explore how entropy enhances algorithmic trading by assessing market risk and unpredictability This concept offers unique insights for refined trading strategies"
+title: Understanding Entropy From Thermodynamics To Financial Trading
+description: Entropy quantifies disorder and uncertainty from thermodynamics to finance
+  enabling better risk assessment and data insights Discover more inside.
 ---
 
 

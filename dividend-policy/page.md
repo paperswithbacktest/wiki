@@ -1,6 +1,7 @@
 ---
-title: "Dividend Policy"
-description: "Explore how dividend policy can enhance investment strategies and corporate finance by maximizing dividends through algorithmic trading for consistent income."
+title: Dividend Policy Essentials for Corporate Growth and Shareholders
+description: Dividend policy shapes how companies balance payouts and reinvestment
+  offering steady income and long term growth potential Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Compiled and Certified Financial Statements"
-description: "Explore the key differences between compiled and certified financial statements in algorithmic trading. Understand their implications for transparency, accuracy, and reliability."
+title: Understanding Compiled and Certified Financial Statements
+description: Compiling financial statements gives a snapshot without verification
+  while certified statements ensure reliability and credibility Discover more inside
 ---
 
 

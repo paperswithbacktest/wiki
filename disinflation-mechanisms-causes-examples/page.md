@@ -1,6 +1,7 @@
 ---
-title: "Disinflation: Mechanisms, Causes, and Examples"
-description: "Discover how disinflation moderates inflation rates affecting financial markets and algorithmic trading strategies exploring economic mechanisms and triggers."
+title: Understanding Disinflation Causes Effects and Economic Impact
+description: Disinflation slows price growth shaping policy decisions and spending
+  habits and economic trends. Explore causes effects and responses Discover more inside
 ---
 
 

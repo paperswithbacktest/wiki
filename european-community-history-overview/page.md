@@ -1,6 +1,7 @@
 ---
-title: "European Community: History and Overview"
-description: "Explore the rich history and impact of the European Community, established in 1957 under the Treaty of Rome as a significant regional initiative to drive economic integration and cooperation among six founding nations. This groundwork led to reduced trade barriers and standardized economic policies, setting the stage for the formation of the European Union in 1993. The article investigates into pivotal developments such as the creation of a common currency and the rise of algorithmic trading, illustrating the enduring legacy of the European Community in shaping modern economic practices."
+title: European Community Origins and Evolution Since 1957
+description: European Community united six founding countries to boost lasting postwar
+  peace and economy and pave the way for EU evolution Discover more inside.
 ---
 
 

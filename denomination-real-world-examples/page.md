@@ -1,6 +1,7 @@
 ---
-title: "Denomination with Real-World Examples"
-description: "Explore real-world examples of how currency denomination impacts algorithmic trading strategies and influences key parameters like pricing and risk management."
+title: Understanding Currency Denominations and Their Impact
+description: Currency denominations explained for transaction efficiency historical
+  trends monetary policy digital currencies and security features Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Elliott Wave Trading Strategy Explained"
-description: Explore the intricacies of Elliott Wave Trading Strategy in algorithmic trading, a technique that empowers traders to analyze and predict market trends through wave pattern identification. This article provides a comprehensive understanding of how wave strategies, rooted in technical analysis, can enhance trading outcomes by optimizing entry and exit points. Traders gain valuable insights into impulse and corrective waves, enabling more informed decisions in a competitive trading landscape. Suitable for various trading styles, wave strategies offer a structured approach to market analysis, beneficial across stocks, forex, and commodities trading.
+title: Elliott Wave Theory Guide to Analyzing Market Trends
+description: Elliott Wave Theory helps traders spot market cycles and forecast price
+  moves with impulse and corrective waves for better decisions Discover more inside.
 ---
 
 

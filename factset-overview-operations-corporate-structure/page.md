@@ -1,6 +1,7 @@
 ---
-title: "FactSet: Overview, Operations, and Corporate Structure"
-description: "Explore FactSet's impact in financial services with insights on company structure and algorithmic trading Track market trends and optimize strategies for success"
+title: Understanding FactSet Financial Data And Software Platform
+description: FactSet provides financial data and software to empower investors and
+  analysts with real-time insights and portfolio management Discover more inside.
 ---
 
 

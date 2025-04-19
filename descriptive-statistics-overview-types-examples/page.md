@@ -1,6 +1,7 @@
 ---
-title: "Descriptive Statistics: Overview, Types, and Examples"
-description: "Explore how descriptive statistics in algorithmic trading help traders understand data, assess risks, and optimize strategies for informed decision-making."
+title: Mastering Descriptive Statistics for Effective Data Analysis
+description: Descriptive Statistics simplify large datasets by showing central tendency
+  and variability so you can interpret data trends easily Discover more inside
 ---
 
 

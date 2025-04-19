@@ -1,6 +1,8 @@
 ---
-title: "Discount Notes: Overview, Calculation, and Analysis"
-description: "Explore the synergy between discount notes and algorithmic trading to enhance investment strategies with low-risk options and high-speed market executions."
+title: Understanding Discount Notes Benefits Risks and Calculations
+description: Discount notes offer short-term debt investments sold below face value
+  allowing investors to earn interest at maturity while managing liquidity and risk
+  Discover more inside
 ---
 
 

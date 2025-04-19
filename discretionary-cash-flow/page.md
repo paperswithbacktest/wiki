@@ -1,6 +1,7 @@
 ---
-title: "Discretionary Cash Flow"
-description: "Explore the interconnected realms of cash flow management discretionary income and algorithmic trading to optimize financial strategies and enhance investment outcomes."
+title: Understanding Discretionary Cash Flow for Business Growth
+description: Discretionary cash flow shows funds left after essential costs so businesses
+  can finance growth debt reduction or shareholder payouts Discover more inside
 ---
 
 

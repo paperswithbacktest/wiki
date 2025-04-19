@@ -1,6 +1,7 @@
 ---
-title: "Entropy features"
-description: Explore how entropy features in algorithmic trading provide unique insights into financial markets by measuring uncertainty and complexity in asset prices. Learn about entropy's roots in thermodynamics, its adaptation through Shannon entropy in finance, and how it helps traders identify market trends and potential reversals. Discover how entropy indicators outperform traditional metrics and represent a shift towards sophisticated trading strategies with practical examples and Python implementations.
+title: Understanding Entropy in Information Theory and Applications
+description: Entropy measures unpredictability across systems from data compression
+  and cryptography to finance and biology with clear formulas Discover more inside
 ---
 
 

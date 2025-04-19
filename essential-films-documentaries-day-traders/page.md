@@ -1,6 +1,7 @@
 ---
-title: "Essential Films and Documentaries for Day Traders"
-description: "Engage with immersive day trading films that offer deep insights into finance, exploring psychological strains and strategic decisions on the trading floor."
+title: Day Trading Films And Documentaries To Boost Your Trading Skills
+description: Day Trading Films uncover key strategies practical lessons psychological
+  insights and market trends to enhance trading skills Discover more inside
 ---
 
 

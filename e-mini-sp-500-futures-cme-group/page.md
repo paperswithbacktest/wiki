@@ -1,6 +1,7 @@
 ---
-title: "E-mini S&P 500 Futures by CME Group"
-description: "Explore the world of algorithmic trading with CME Group's E-mini S&P 500 futures. Discover how these contracts offer liquidity and scalability for optimal strategies."
+title: Comprehensive Guide to E-mini S&P 500 Futures Trading
+description: E-mini S&P 500 Futures let you hedge or speculate on the US stock market
+  with manageable margins and near 24/5 global access Discover more inside
 ---
 
 

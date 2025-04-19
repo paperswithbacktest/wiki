@@ -1,6 +1,7 @@
 ---
-title: "Direct Stock Purchase from Companies"
-description: "Explore the benefits of direct stock purchase plans and algorithmic trading to enhance portfolio efficiency while reducing fees in today's dynamic markets."
+title: Direct Stock Purchase Plans Guide For Affordable Investing
+description: Direct stock purchase plan offers affordable company shares without broker
+  fees and lets you set up automatic investments over time Discover more inside
 ---
 
 

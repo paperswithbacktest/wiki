@@ -1,6 +1,7 @@
 ---
-title: "Environmental Impact of Hydraulic Fracturing"
-description: "Explore the environmental impacts of fracking and the operational dynamics of algo trading while uncovering their intersection in modern economic landscapes."
+title: Understanding the Environmental Impact of Hydraulic Fracturing
+description: Hydraulic fracturing offers energy but poses water air and seismic risks
+  Explore measures to reduce environmental impact Discover more inside
 ---
 
 

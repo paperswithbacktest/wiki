@@ -1,6 +1,7 @@
 ---
-title: "Feature Cross (Machine Learning)"
-description: "Feature crosses in machine learning combine features to capture interactions improving model accuracy Understanding these helps in recognizing nonlinear patterns"
+title: Understanding Feature Crosses in Machine Learning Models
+description: Feature crosses help machine learning models capture complex interactions
+  between data points and improve prediction accuracy. Discover more inside
 ---
 
 ![Image](images/1.png)

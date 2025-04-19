@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Preferred and Common Stock"
-description: "Explore the essential differences between common and preferred stocks and learn how algorithmic trading can enhance your investment strategy and optimize returns."
+title: Common Vs Preferred Stock Comparison Guide for Investors
+description: Common vs Preferred Stock explains voting rights dividends risk and asset
+  claims so investors can make informed choices Discover more inside
 ---
 
 

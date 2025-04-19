@@ -1,6 +1,8 @@
 ---
-title: "Equity Curve: Overview and Calculations"
-description: "Explore the significance of equity curves in algo trading as they reveal trading account performance over time crucial for strategic adjustments and risk management."
+title: Comprehensive Guide to Understanding and Analyzing Equity Curves
+description: Equity curve analysis reveals how investments grow and risk profiles
+  evolve over time through clear visual trends to guide strategy decisions Discover
+  more
 ---
 
 

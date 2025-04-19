@@ -1,6 +1,7 @@
 ---
-title: "Downside Risk and Calculation Methods"
-description: "Explore downside risk and effective calculation methods in algorithmic trading to safeguard investments and enhance returns, focusing on managing potential losses."
+title: Measuring Downside Risk In Your Investment Portfolio
+description: Downside risk analysis reveals potential losses and guides smarter investments
+  with tools like Sortino ratio VaR and CVaR. Discover more inside
 ---
 
 

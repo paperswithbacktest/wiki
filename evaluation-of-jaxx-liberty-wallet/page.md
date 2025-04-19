@@ -1,6 +1,7 @@
 ---
-title: "Evaluation of Jaxx Liberty Wallet"
-description: "Discover Jaxx Liberty Wallet's versatility in securely managing over 80 digital currencies with an easy interface real-time data and seamless crypto swaps."
+title: Jaxx Liberty Wallet Complete Guide To Secure Crypto Management
+description: Jaxx Liberty Wallet provides a user friendly solution to manage and secure
+  cryptocurrencies with instant swaps and robust security Discover more inside.
 ---
 
 

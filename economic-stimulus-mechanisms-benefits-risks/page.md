@@ -1,6 +1,7 @@
 ---
-title: "Economic Stimulus: Mechanisms, Benefits, and Risks"
-description: "Explore the crucial relationship between economic stimulus measures, fiscal policies, and algorithmic trading in modern economies. Gain insights into how governments and financial institutions use these tools to stabilize growth, enhance market efficiency, and mitigate financial crises impacts. Understand the dynamic roles and challenges of blending technological advancements with traditional economic strategies."
+title: Economic Stimulus Explained And Its Impact On Growth
+description: Economic stimulus drives growth by boosting spending and employment through
+  targeted government spending tax cuts and monetary tools Discover more inside.
 ---
 
 

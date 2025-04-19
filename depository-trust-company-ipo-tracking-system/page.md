@@ -1,6 +1,7 @@
 ---
-title: "Depository Trust Company IPO Tracking System"
-description: "Enhance your IPO strategies with the Depository Trust Company IPO Tracking System, leveraging advanced technology to monitor transactions and prevent unauthorized share flipping."
+title: DTC IPO Tracking System Guide For Efficient Public Offerings
+description: DTC IPO Tracking System streamlines IPO data management and trade settlements
+  for accurate records and smoother processes Discover more inside.
 ---
 
 

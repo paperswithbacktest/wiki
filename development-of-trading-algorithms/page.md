@@ -1,6 +1,7 @@
 ---
-title: "Development of Trading Algorithms"
-description: "Learn how automated trading algorithms are crafted and their advantages in volatile markets Enhance your trading with efficient algo strategies and programming skills"
+title: Developing and Optimizing Trading Algorithms in Financial Markets
+description: Trading algorithms boost market efficiency and remove emotion by using
+  data driven rules for consistent decisions and fast executions Discover more inside
 ---
 
 

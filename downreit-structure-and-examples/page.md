@@ -1,6 +1,7 @@
 ---
-title: "DownREIT: Structure and Examples"
-description: "Explore DownREIT structures with tax advantages for real estate investments. Compare benefits, including algorithmic trading, to navigate property investments efficiently."
+title: Understanding DownREIT Structure and Benefits for Property Owners
+description: DownREITs let property owners defer capital gains taxes and give investors
+  access to real estate returns without direct ownership. Discover more inside.
 ---
 
 

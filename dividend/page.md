@@ -1,6 +1,7 @@
 ---
-title: "Dividend"
-description: "Explore the benefits of dividend investing as a key strategy for wealth generation including regular income and potential growth through capital appreciation. Learn about the role of dividends in signaling a company's financial health and how algorithmic trading is revolutionizing dividend strategies by optimizing trade timing and execution. Discover how dividends enhance portfolio diversification and stability by mitigating market volatility, and gain insights into the significance of ex-dividend dates in maximizing returns."
+title: Dividend Investing Fundamentals And Advanced Strategies
+description: Dividend investing offers clear insights on payout types yield calculations
+  and reinvestment strategies to grow wealth over time. Discover more inside
 ---
 
 

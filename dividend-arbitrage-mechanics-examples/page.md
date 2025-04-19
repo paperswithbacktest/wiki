@@ -1,6 +1,7 @@
 ---
-title: "Dividend Arbitrage: Mechanics and Examples"
-description: "Explore the mechanics of dividend arbitrage and its synergy with algorithmic trading to exploit dividend-related market inefficiencies and enhance investment returns."
+title: Comprehensive Dividend Arbitrage Strategy Guide For Investors
+description: Dividend arbitrage empowers investors to capture dividends while managing
+  price shifts and fees with precise timing and planning Discover more inside
 ---
 
 

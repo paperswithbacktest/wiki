@@ -1,6 +1,7 @@
 ---
-title: "Evaluating Financial Performance Using ROA"
-description: "Assess company performance with ROA for algo trading Learn how ROA guides investment decisions and uncovers growth in fast-paced financial markets"
+title: Return on Assets ROA Explained for Asset Efficiency Analysis
+description: Return on Assets helps investors evaluate how efficiently a company uses
+  its asset base to generate profit and benchmark performance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Eurasian Economic Union"
-description: "Explore the impact of the Eurasian Economic Union's economic integration on algorithmic trading highlighting the role of technology in financial markets across member states."
+title: Eurasian Economic Union Goals Structure and Trade Benefits
+description: Eurasian Economic Union streamlines trade by removing barriers among
+  member states improving market access and economic growth. Discover more inside.
 ---
 
 

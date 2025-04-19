@@ -1,6 +1,7 @@
 ---
-title: "Effects and Mechanics of a Weak Dollar"
-description: "Explore the effects of a weak dollar on global finance and the pivotal role of algorithmic trading in navigating currency depreciation and market dynamics."
+title: Understanding The Impact Of A Weak US Dollar On Economy
+description: Weak US dollar influences consumer costs, trade and investment strategies
+  while reshaping import export dynamics across sectors Discover more inside
 ---
 
 

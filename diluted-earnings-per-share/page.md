@@ -1,6 +1,7 @@
 ---
-title: "Diluted Earnings Per Share"
-description: "Explore the importance of Diluted Earnings Per Share (Diluted EPS) in financial analysis and algorithmic trading. This comprehensive guide covers how Diluted EPS evaluates company profitability by factoring in convertible securities like stock options and warrants. Learn to differentiate between basic EPS and Diluted EPS, understand their calculations, and leverage these insights for better-informed investment and trading strategies. Discover how Diluted EPS offers a conservative estimate of earnings, providing a worst-case scenario for potential share dilution and enhancing decision-making for investors and traders."
+title: Comprehensive Guide to Diluted Earnings Per Share Calculation
+description: Diluted EPS shows how stock options and convertible securities can lower
+  earnings per share to give investors a clearer picture Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Eisler Capital"
-description: "Discover the cutting-edge world of algorithmic trading with Eisler Capital leader in leveraging technology and innovation to enhance financial market performance."
+title: Eisler Capital Investment Strategies and Risk Management
+description: Eisler Capital uses technology and quantitative methods to optimize portfolios,
+  manage risk and drive growth for clients globally. Discover more inside.
 ---
 
 

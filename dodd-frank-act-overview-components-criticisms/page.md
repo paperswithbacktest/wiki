@@ -1,6 +1,7 @@
 ---
-title: "Dodd-Frank Act: Overview, Components, and Criticisms"
-description: "Explore the Dodd-Frank Act's impact on financial regulation and algorithmic trading highlighting major reforms and criticisms without risking market stability."
+title: Understanding the Dodd-Frank Act and Its Impact on Banking
+description: Dodd-Frank Act strengthens oversight with enhanced consumer protections
+  capital buffers and risk limits to prevent future crises Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Earning Assets: Examples and Tax Treatment"
-description: "Explore the complexities of earning assets and their tax treatment, including algorithmic trading. Learn to optimize investment income and ensure compliance."
+title: Understanding Earning Assets and Their Tax Implications
+description: Earning assets boost income and build wealth. Explore tax treatments,
+  income generation, planning and optimization strategies. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dow Divisor: Functionality and Example"
-description: "Explore how the Dow Divisor maintains the Dow Jones Industrial Average's integrity amid corporate actions, aiding algorithmic trading and investment strategies."
+title: Understanding the Dow Divisor Methodology for DJIA Calculation
+description: Dow Divisor adjustments ensure the DJIA stays consistent amid stock splits
+  and corporate actions offering clarity on market trends Discover more inside
 ---
 
 

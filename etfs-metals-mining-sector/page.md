@@ -1,6 +1,7 @@
 ---
-title: "ETFs in the Metals and Mining Sector"
-description: "Explore algorithmic trading in metals and mining ETFs Learn how this innovation enhances investment strategies while understanding potential risks and rewards"
+title: The Complete Guide to Metals and Mining ETFs for Diversification
+description: Metals and Mining ETFs provide exposure to commodity markets and diversify
+  portfolios to hedge against inflation Discover more inside.
 ---
 
 

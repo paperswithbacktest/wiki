@@ -1,6 +1,7 @@
 ---
-title: "Dual Currency Deposits"
-description: "Explore dual currency and foreign exchange deposits offering high returns with exposure to currency fluctuations and benefits from algorithmic trading advancements."
+title: Understanding Dual Currency Deposits For Currency Diversification
+description: Dual currency deposit accounts let you hold savings in two currencies
+  to benefit from rate shifts while managing risk Discover more inside today.
 ---
 
 

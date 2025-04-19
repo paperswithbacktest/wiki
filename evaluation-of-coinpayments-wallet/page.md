@@ -1,6 +1,7 @@
 ---
-title: "Evaluation of CoinPayments Wallet"
-description: "Explore CoinPayments Wallet for seamless crypto transactions. Discover its integration with algo trading, low fees, and robust security features."
+title: Complete Guide to CoinPayments Wallet Features and Security
+description: CoinPayments Wallet stores sends and receives over 2000 cryptocurrencies
+  with encryption 2FA and cold storage for secure management Discover more inside
 ---
 
 

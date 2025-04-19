@@ -1,6 +1,7 @@
 ---
-title: "Dutch Book Theorem"
-description: "Discover how the Dutch Book Theorem impacts betting strategies and algorithmic trading by highlighting inconsistent probability assessments and their financial implications."
+title: Understanding the Dutch Book Theorem in Decision Theory
+description: Dutch Book Theorem reveals why coherent probability beliefs prevent guaranteed
+  betting losses and improve decision making. Discover more inside.
 ---
 
 

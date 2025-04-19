@@ -1,6 +1,7 @@
 ---
-title: "Earning Power: Concepts, Constraints, and Calculation"
-description: "Explore the crucial role of financial limits in algorithmic trading Discover how understanding constraints and leveraging technology can optimize earning power"
+title: 'Earning Power Explained: Metrics, Formulas And Insights'
+description: Earning power shows how revenue efficiency and market conditions drive
+  profitability with actionable metrics and growth strategies Explore inside
 ---
 
 

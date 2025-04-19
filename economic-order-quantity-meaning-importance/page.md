@@ -1,6 +1,7 @@
 ---
-title: "Economic Order Quantity: Meaning and Importance"
-description: "Explore the significance of Economic Order Quantity in inventory management and its integration with algorithmic trading for optimal supply chain efficiency."
+title: Optimizing Inventory Costs With Economic Order Quantity
+description: Economic Order Quantity helps businesses optimize reorder levels and
+  reduce holding costs to improve cash flow and efficiency. Discover more inside.
 ---
 
 

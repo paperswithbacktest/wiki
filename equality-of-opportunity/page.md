@@ -1,6 +1,7 @@
 ---
-title: "Equality Of Opportunity (Machine Learning)"
-description: "Learn about Equality of Opportunity in machine learning which ensures fairness by treating different groups equally in positive outcomes and decision-making processes."
+title: Implementing Equality of Opportunity in Machine Learning Models
+description: Equality of Opportunity in machine learning ensures true positive rates
+  match across groups to reduce bias and promote fairness Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Earnings Power Value Calculations"
-description: "Explore how Earnings Power Value (EPV) provides a conservative assessment of a stock's intrinsic value using current earnings empowering better investment decisions."
+title: Understanding Earnings Power Value For Accurate Company Valuation
+description: Earnings Power Value reveals what a company is worth by using current
+  earnings and cost of capital to guide smarter investment choices Discover more inside
 ---
 
 

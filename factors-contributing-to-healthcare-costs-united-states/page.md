@@ -1,6 +1,7 @@
 ---
-title: "Factors Contributing to Healthcare Costs in the United States"
-description: "Explore the complex factors driving high healthcare costs in the U.S., including rising drug prices, higher salaries, and the impact of algorithmic trading."
+title: Key Drivers Of Healthcare Costs In The United States
+description: Healthcare costs in the United States reflect steep medical fees insurance
+  premiums out of pocket expenses and admin burdens Discover more inside
 ---
 
 

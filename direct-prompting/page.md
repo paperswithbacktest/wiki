@@ -1,6 +1,7 @@
 ---
-title: "Direct Prompting (Machine Learning)"
-description: "Direct prompting in machine learning involves giving the model clear instructions to quickly receive precise responses making it highly effective for various tasks."
+title: Understanding Direct Prompting in Machine Learning Applications
+description: Direct prompting in machine learning uses clear instructions to produce
+  accurate responses in translation chatbots and assistants Discover more inside
 ---
 
 ![Image](images/1.jpeg)

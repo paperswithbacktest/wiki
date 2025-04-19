@@ -1,6 +1,7 @@
 ---
-title: "Exporting Inline"
-description: Explore how exporting inline revolutionizes algorithmic trading with real-time data handling, minimizing latency and enhancing accuracy while addressing challenges of infrastructure costs and complexity. Discover how Databento leverages this technology to offer superior market data, enabling traders to make informed decisions quickly in a competitive financial landscape.
+title: Understanding Inline Exports for Modular JavaScript Code
+description: Inline exports keep related functions and variables in one JavaScript
+  file for small projects boosting readability and reuse Discover more inside.
 ---
 
 

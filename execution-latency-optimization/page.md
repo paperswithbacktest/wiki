@@ -1,6 +1,7 @@
 ---
-title: "Execution Latency Optimization"
-description: "Optimize execution latency in algorithmic trading to improve trade efficiency and competitiveness by minimizing network hardware and software delays."
+title: Optimizing Execution Latency for Faster System Performance
+description: Execution latency defines how quickly systems respond and can be reduced
+  with hardware upgrades software tweaks and network tuning Discover more inside.
 ---
 
 

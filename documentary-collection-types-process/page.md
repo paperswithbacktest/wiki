@@ -1,6 +1,7 @@
 ---
-title: "Documentary Collection: Types and Process"
-description: "Explore the documentary collection process in trade finance including its types and how algorithmic trading can enhance efficiency and security in cross-border transactions."
+title: Understanding Documentary Collection in International Trade
+description: Documentary collection holds shipping documents until buyers pay or accept
+  terms securing seller payments and cross-border trade. Discover more inside.
 ---
 
 

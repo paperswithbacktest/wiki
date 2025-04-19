@@ -1,6 +1,7 @@
 ---
-title: "Ethical Considerations in Investment"
-description: "Explore the ethical considerations in algorithmic trading and investment as technology transforms financial markets with speed and efficiency while raising issues of fairness and transparency."
+title: Ethical Investing Strategies for Sustainable Financial Growth
+description: Ethical investing guides you to support responsible companies while targeting
+  sustainable returns with ESG tools and impact metrics Discover more inside.
 ---
 
 

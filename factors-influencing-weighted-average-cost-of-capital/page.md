@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Weighted Average Cost of Capital"
-description: "Explore the factors influencing Weighted Average Cost of Capital WACC and its impact on algorithmic trading strategies interest rates and capital structure decisions"
+title: Understanding Weighted Average Cost of Capital (WACC)
+description: Weighted average cost of capital helps businesses determine the minimum
+  return needed to satisfy investors and optimize capital mix Discover more inside
 ---
 
 

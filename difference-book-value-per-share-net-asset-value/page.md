@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Book Value Per Share and Net Asset Value"
-description: "Discover how understanding book value and net asset value (NAV) can enhance algorithmic trading strategies for better investment decisions and portfolio performance."
+title: Understanding Book Value Per Share And Net Asset Value
+description: Book Value Per Share shows share value by subtracting liabilities from
+  assets and Net Asset Value tracks fund price per share daily Discover more inside
 ---
 
 

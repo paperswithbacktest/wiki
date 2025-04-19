@@ -1,6 +1,7 @@
 ---
-title: "Equity Market Neutral Strategy in Stock Trading"
-description: "Equity market neutral stock trading strategies minimize market exposure with balanced long and short positions using algorithms for consistent returns and reduced risk."
+title: Mastering Equity Market Neutral Strategy For Stable Returns
+description: Equity market neutral strategy uses data driven long and short positions
+  to deliver returns through balanced risk management Discover more inside.
 ---
 
 

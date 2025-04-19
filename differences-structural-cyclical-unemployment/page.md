@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Structural and Cyclical Unemployment"
-description: "Explore the key differences between structural and cyclical unemployment and their impact on economic cycles and algorithmic trading strategies."
+title: Understanding Structural and Cyclical Unemployment Effects
+description: Structural and cyclical unemployment explain how skills gaps and economic
+  downturns influence job availability and policy responses Discover more inside.
 ---
 
 

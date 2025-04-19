@@ -1,6 +1,7 @@
 ---
-title: "Dividend Yield: Explanation and Analysis"
-description: "Explore the complexities of dividend yield and algorithmic trading in this comprehensive guide. Learn how to optimize your investment strategy for maximum returns."
+title: Understanding Dividend Yield for Smarter Investment Decisions
+description: Dividend yield reveals income potential from stock investments while
+  exposing key risks and strategy tips for balanced returns Discover more inside
 ---
 
 

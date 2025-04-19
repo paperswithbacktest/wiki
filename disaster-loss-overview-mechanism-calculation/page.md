@@ -1,6 +1,7 @@
 ---
-title: "Disaster Loss: Overview, Mechanism, and Calculation"
-description: "Explore the intersection of disaster management and algorithmic trading to optimize risk management and financial recovery strategies after catastrophic events."
+title: Comprehensive Guide To Disaster Loss Assessment And Management
+description: Disaster loss assessment explains how to quantify damage and financial
+  impact with data analytics and insurance insights Discover more inside.
 ---
 
 

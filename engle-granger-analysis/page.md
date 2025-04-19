@@ -1,6 +1,7 @@
 ---
-title: "Engle-Granger analysis"
-description: Explore the application of Engle-Granger analysis in algorithmic trading with a focus on cointegration's role in financial strategies. Understand how this method aids in identifying long-term equilibrium relationships between asset prices, enabling traders to leverage predictable co-movements for enhanced trading strategies. Through detailed insights into the fundamentals and mechanics of Engle-Granger analysis, discover tools for improving trading outcomes and risk management in the evolving landscape of algorithmic trading.
+title: Engle-Granger Analysis Fundamentals And Practical Guide
+description: Engle-Granger analysis identifies long-term cointegration between time
+  series to improve forecasting models and strategy design. Discover more inside.
 ---
 
 

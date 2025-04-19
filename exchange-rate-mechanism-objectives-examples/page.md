@@ -1,6 +1,7 @@
 ---
-title: "Exchange Rate Mechanism: Objectives and Examples"
-description: "Discover the role of Exchange Rate Mechanisms in global finance and algo trading Explore their objectives examples and impact on currency stability"
+title: Understanding The Exchange Rate Mechanism For Currency Stability
+description: Exchange Rate Mechanism keeps currency values stable and predictable
+  through central bank interventions and global cooperation Discover more inside
 ---
 
 

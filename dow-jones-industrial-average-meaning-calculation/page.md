@@ -1,6 +1,8 @@
 ---
-title: "Dow Jones Industrial Average: Meaning and Calculation"
-description: "Explore the impact of algorithmic trading on the Dow Jones Industrial Average and how its calculation reflects market trends in key economic sectors."
+title: Understanding the Dow Jones Industrial Average Calculation
+description: "Dow Jones Industrial Average explains how this key price\u2011weighted\
+  \ index tracks 30 major US companies and maintains accuracy through the Dow Divisor\
+  \ adjustment Discover more inside."
 ---
 
 

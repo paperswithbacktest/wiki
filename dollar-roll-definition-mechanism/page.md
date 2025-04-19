@@ -1,6 +1,7 @@
 ---
-title: "Dollar Roll: Definition and Mechanism"
-description: "Explore the mechanics of dollar roll transactions within mortgage-backed securities and their integration with algorithmic trading strategies to optimize market opportunities."
+title: Understanding Dollar Roll Transactions in the MBS Market
+description: Dollar roll transactions enhance short term liquidity and risk management
+  in mortgage backed securities markets with clear guidance Discover more inside
 ---
 
 

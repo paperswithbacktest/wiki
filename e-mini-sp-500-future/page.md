@@ -1,6 +1,7 @@
 ---
-title: "E-mini S&P 500 future"
-description: Explore the dynamic world of E-mini S&P 500 futures within algorithmic trading strategies. These futures offer high liquidity and lower capital requirements, making them a favored choice for traders. Since their launch on the Chicago Mercantile Exchange in 1997, they have lowered entry barriers for retail participants, providing a scalable and cost-effective way to trade the S&P 500 index. Discover how traders leverage their volatility and trading volume to execute efficient, computer-driven strategies that capitalize on market opportunities. Learn how blending technical and fundamental analysis can enhance outcomes in this fast-paced financial market.
+title: Essentials of Trading E-Mini S&P 500 Futures for Investors
+description: E-mini S&P 500 futures give traders a cost effective way to speculate
+  and hedge index movements in a near 24 hour market Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Ethereum Network Transition"
-description: "Explore how the Ethereum Merge from Proof of Work to Proof of Stake impacts algorithmic trading strategies enhancing efficiency security and sustainability."
+title: Understanding the Ethereum Network Transition to Ethereum 2.0
+description: Ethereum Network Transition accelerates transactions cuts costs and reduces
+  energy use by adopting Proof of Stake with sharding Discover more inside.
 ---
 
 

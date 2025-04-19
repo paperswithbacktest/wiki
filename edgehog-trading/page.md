@@ -1,6 +1,7 @@
 ---
-title: "Edgehog Trading"
-description: "Discover Edgehog Trading a leader in algorithmic trading using advanced technology and analytics to offer faster and more efficient financial market solutions."
+title: The Complete Guide To Edgehog Trading Tools And Strategies
+description: Edgehog Trading uses advanced tools and data driven strategies to help
+  traders spot market patterns and make smarter trades Discover more inside
 ---
 
 

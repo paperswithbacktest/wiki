@@ -1,6 +1,7 @@
 ---
-title: "Empirical Cumulative Distribution Function (Ecdf Or Edf) (Machine Learning)"
-description: "Understand data distribution with the Empirical Cumulative Distribution Function ECDF offering a non-parametric way to visualize the spread of your dataset"
+title: Empirical Cumulative Distribution Function for Data Visualization
+description: Empirical Cumulative Distribution Function illustrates data spread through
+  stepwise proportions to reveal distribution patterns Discover more inside
 ---
 
 ![Image](images/1.png)

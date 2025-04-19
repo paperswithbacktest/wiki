@@ -1,6 +1,7 @@
 ---
-title: "Feeder Funds: Overview and Examples"
-description: "Explore the role of feeder funds in investment strategies, offering indirect access to diverse master funds. Learn how algorithmic trading enhances efficiency."
+title: Feeder Funds Unlock Master Fund Investment Opportunities
+description: Feeder fund investments let small investors tap into master fund strategies
+  by experts and diversify with lower entry barriers Discover more inside.
 ---
 
 

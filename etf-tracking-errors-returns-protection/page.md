@@ -1,6 +1,7 @@
 ---
-title: "ETF Tracking Errors and Returns Protection"
-description: "Explore ETF tracking errors and algorithmic trading Discover how tracking errors affect ETF performance and strategies to enhance returns using advanced algorithms"
+title: ETF Tracking Error and Returns Protection Explained
+description: ETF tracking error measures how funds diverge from benchmarks and affect
+  returns explore causes calculation and protection methods Discover more inside
 ---
 
 

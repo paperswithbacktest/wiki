@@ -1,6 +1,7 @@
 ---
-title: "Endogenous Variable in Economics"
-description: "Explore the role of endogenous variables in economics and algorithmic trading. Understand their impact on market predictions and trading strategies."
+title: Understanding Endogenous Variables in Economic Modeling
+description: Endogenous variables explain how economic factors interact and shape
+  models to predict shifts in spending, prices, and employment Discover more inside
 ---
 
 

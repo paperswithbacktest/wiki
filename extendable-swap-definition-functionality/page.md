@@ -1,6 +1,8 @@
 ---
-title: "Extendable Swap: Definition and Functionality"
-description: "Explore the concept of extendable swaps in algo trading Learn how these derivatives offer flexibility and strategic benefits in volatile financial markets"
+title: Understanding Extendable Swaps Flexible Duration Financial Agreements
+description: Extendable swap agreements provide flexibility to adjust swap durations
+  and manage market risks effectively through preset options and fees Discover more
+  inside
 ---
 
 

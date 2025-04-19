@@ -1,6 +1,7 @@
 ---
-title: "Development to Policyholder Surplus Ratio"
-description: "Explore how financial ratios like the development to policyholder surplus ratio and algo trading enhance insurance financial health and policyholder security."
+title: Understanding Development To Policyholder Surplus Ratio
+description: Development to Policyholder Surplus Ratio shows how reserve shifts affect
+  insurer surplus and risk capacity to optimize capital Discover more inside
 ---
 
 

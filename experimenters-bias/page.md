@@ -1,6 +1,7 @@
 ---
-title: "Experimenter'S Bias (Machine Learning)"
-description: "Discover how experimenter's bias affects machine learning results and learn methods to identify and mitigate its impact for more reliable studies."
+title: Understanding Experimenter's Bias in Machine Learning Research
+description: Experimenter's bias in machine learning skews results toward expected
+  outcomes Minimize bias with blind testing and peer review Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "EBITDA Margin and Investor Insights"
-description: "Discover how EBITDA margin analysis and algorithmic trading combine to enhance investment strategies offering insights into profitability and decision-making."
+title: 'EBITDA Margin Explained: Key Metric for Operational Profitability'
+description: EBITDA margin reveals how efficiently your business turns revenue into
+  operating profit and supports informed investment decisions. Discover more inside.
 ---
 
 

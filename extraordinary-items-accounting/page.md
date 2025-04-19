@@ -1,6 +1,7 @@
 ---
-title: "Extraordinary Items in Accounting"
-description: "Explore the impact of extraordinary items on financial reporting and algorithmic trading. Learn how these elements enhance data precision for investment strategies."
+title: Understanding Extraordinary Items in Financial Reporting
+description: Extraordinary items in accounting show how rare events skew net income
+  and reveal performance by isolating unusual gains or losses Discover more inside.
 ---
 
 

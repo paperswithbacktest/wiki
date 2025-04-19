@@ -1,6 +1,7 @@
 ---
-title: "Economic Themes in Martin Luther King Jr.'s 'I Have a Dream' Speech"
-description: "Explore the economic themes in Martin Luther King Jr.'s speeches and their relevance to modern financial practices like algorithmic trading, promoting equity and justice."
+title: Economic Inequality and Justice in I Have a Dream Speech
+description: I Have a Dream speech examines economic inequality and urges equal job
+  and education opportunities for all communities Discover more inside
 ---
 
 

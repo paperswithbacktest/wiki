@@ -1,6 +1,7 @@
 ---
-title: "Deflation's Impact on Central Banking"
-description: "Explore the complex effects of deflation on central banking and algorithmic trading, highlighting challenges and strategies for economic stability and growth."
+title: How Central Banks Combat Deflation Through Monetary Policy
+description: Deflation reduces spending and increases debts central banks cut interest
+  rates and use quantitative easing to stabilize prices Discover more inside
 ---
 
 

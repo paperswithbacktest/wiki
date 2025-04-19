@@ -1,6 +1,7 @@
 ---
-title: "Embedding Space (Machine Learning)"
-description: "Explore embedding spaces in machine learning where data is mapped to show similarities Words and images are transformed into numbers for efficient analysis"
+title: Understanding Embedding Spaces in Machine Learning Models
+description: Embedding spaces map data into numerical vectors that place similar items
+  close together improving NLP recommendation and vision tasks Discover more inside
 ---
 
 ![Image](images/1.png)

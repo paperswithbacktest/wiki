@@ -1,6 +1,7 @@
 ---
-title: "Dual Exchange Rate: Overview, Examples, and Limitations"
-description: "Explore the dual exchange rate system and its challenges including arbitrage and black markets alongside the influence and benefits of algorithmic trading in currency markets."
+title: Understanding Dual Exchange Rate Systems for Economic Control
+description: Dual exchange rate systems balance competitiveness and capital controls
+  by using different currency rates for trade and investments Discover more inside
 ---
 
 

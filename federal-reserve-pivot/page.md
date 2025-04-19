@@ -1,6 +1,7 @@
 ---
-title: "Federal Reserve Pivot"
-description: "Explore how economic strategies, Federal Reserve policies, and algorithmic trading shape modern financial markets and influence liquidity, prices, and stability."
+title: Understanding Federal Reserve Pivots and Their Economic Impact
+description: Federal Reserve pivots shape borrowing costs and market trends by adjusting
+  interest rates to stabilize inflation and employment Discover more inside
 ---
 
 

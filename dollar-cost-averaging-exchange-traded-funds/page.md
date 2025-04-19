@@ -1,6 +1,7 @@
 ---
-title: "Dollar-Cost Averaging with Exchange-Traded Funds"
-description: "Explore the power of dollar-cost averaging with ETFs and algorithmic trading to enhance your investment strategy and achieve efficient, disciplined results."
+title: Dollar-Cost Averaging With ETFs for Long-Term Investing
+description: Dollar-cost averaging with ETFs helps investors smooth market volatility
+  by investing regular amounts and reducing risk over time Discover more inside.
 ---
 
 

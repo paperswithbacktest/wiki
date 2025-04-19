@@ -1,6 +1,7 @@
 ---
-title: "Euro Overnight Index Average and Transition to ESTER"
-description: "Explore the shift from EONIA to ESTER and its impact on European banking overnight rates Learn about transparency improvements and algorithmic trading effects"
+title: Understanding EONIA and the Shift to the Euro Short Term Rate
+description: EONIA now tied to the Euro Short Term Rate provides a more transparent
+  overnight lending benchmark for banks and investors. Discover more inside.
 ---
 
 

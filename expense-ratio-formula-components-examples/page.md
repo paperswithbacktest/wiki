@@ -1,6 +1,7 @@
 ---
-title: "Expense Ratio: Formula, Components, and Examples"
-description: "Explore the critical role of expense ratios in investment funds, including mutual funds, ETFs, and hedge funds Discover how they affect overall fund performance and investor returns"
+title: Understanding Expense Ratios for Mutual Funds and ETFs
+description: Expense Ratio measures the annual cost of managing mutual funds and ETFs
+  so investors can weigh fees against returns over time Discover more inside.
 ---
 
 

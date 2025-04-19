@@ -1,6 +1,8 @@
 ---
-title: "Equity Derivatives: Usage and Example"
-description: "Explore how equity derivatives and algorithmic trading are revolutionizing investment strategies in today's financial markets. Discover their roles in risk management and speculation, and how they empower investors with tools for efficient trading and maximizing returns."
+title: Understanding Equity Derivatives Types Uses and Risks
+description: Equity derivatives overview explains options futures and swaps for hedging
+  portfolio diversification and speculation with actionable strategies Discover more
+  inside.
 ---
 
 

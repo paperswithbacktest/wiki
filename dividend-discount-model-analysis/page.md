@@ -1,6 +1,7 @@
 ---
-title: "Dividend Discount Model Analysis"
-description: "Delve into the Dividend Discount Model's role in stock valuation and algorithmic trading, offering insights into its application for dividend-paying equities."
+title: Understanding the Dividend Discount Model for Stock Valuation
+description: Dividend Discount Model values stocks by discounting future dividends
+  with dividend forecasts to uncover intrinsic value. Discover more inside.
 ---
 
 

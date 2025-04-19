@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of World War II on the Global Economy"
-description: "Explore the profound economic impact of World War II on the global economy and the rise of technologies like algorithmic trading that modernized markets."
+title: Long-Term Economic Impact of World War II on Global Economies
+description: Economic Impact of World War II transformed markets ending the Depression
+  rebuilding trade and shaping lasting financial systems. Discover more inside
 ---
 
 

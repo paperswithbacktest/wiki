@@ -1,6 +1,8 @@
 ---
-title: "Deposit Insurance Fund Overview and Functionality"
-description: "Explore the role of the Deposit Insurance Fund in protecting depositor assets and enhancing confidence in banking amid the rise of algorithmic trading."
+title: Understanding Deposit Insurance Fund Protection And Benefits
+description: Deposit Insurance Fund protects your savings by covering losses when
+  a bank fails and stopping bank runs to ensure financial stability Discover more
+  inside
 ---
 
 

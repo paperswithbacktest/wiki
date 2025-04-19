@@ -1,6 +1,7 @@
 ---
-title: "Economic Factors Influencing Currency Depreciation"
-description: "Explore the intricate dynamics of currency depreciation influenced by economic factors such as inflation and interest rates within the algorithmic trading landscape."
+title: Factors Affecting Currency Depreciation in Global Markets
+description: Currency depreciation impacts import costs and export demand by shifting
+  inflation, interest rates, trade balances and policy outcomes Discover more inside
 ---
 
 

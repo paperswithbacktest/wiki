@@ -1,6 +1,7 @@
 ---
-title: "Discounts for Lack of Marketability in Valuation"
-description: "Explore Discounts for Lack of Marketability in financial valuation including methodologies and implications for algorithmic trading with expert insights and analysis."
+title: Understanding Discounts for Lack of Marketability in Valuations
+description: Discount for lack of marketability adjusts private company valuations
+  by reflecting sale risks, timeframes, and legal restrictions Discover more inside
 ---
 
 

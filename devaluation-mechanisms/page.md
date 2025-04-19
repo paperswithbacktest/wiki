@@ -1,6 +1,7 @@
 ---
-title: "Devaluation and Its Mechanisms"
-description: "Explore the impact of economic policy on financial markets with a focus on currency devaluation and algorithmic trading Discover their roles in today's economy"
+title: Currency Devaluation Causes Effects And Long Term Impacts
+description: Currency devaluation boosts export competitiveness and domestic growth
+  but raises import costs, inflation and foreign debt burdens Discover more inside.
 ---
 
 

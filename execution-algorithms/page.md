@@ -1,6 +1,7 @@
 ---
-title: "Execution Algorithms"
-description: "Explore the world of execution algorithms in algorithmic trading, which streamline order processing to optimize trading costs and minimize market impact."
+title: Understanding Execution Algorithms for Efficient Trading
+description: Execution algorithms guide traders through order types to minimize market
+  impact optimize trade execution and adapt to conditions Discover more inside
 ---
 
 

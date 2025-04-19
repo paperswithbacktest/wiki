@@ -1,6 +1,7 @@
 ---
-title: "Ensemble methods"
-description: Explore the application of ensemble methods in algorithmic trading as they enhance the predictive power and robustness of trading strategies. This page investigates into how these machine learning techniques, which aggregate multiple models, improve accuracy and stability in financial markets. Learn about popular ensemble techniques such as bagging, boosting, and stacking, and understand their advantages in optimizing trading performance. Discover how these methods mitigate risks like overfitting and capture complex trading patterns, providing insights into their successful deployment in evolving financial landscapes.
+title: Ensemble Methods in Machine Learning Explained for Robust Models
+description: Ensemble methods combine multiple models to improve prediction accuracy
+  and robustness across tasks from trading to regression. Discover more inside.
 ---
 
 

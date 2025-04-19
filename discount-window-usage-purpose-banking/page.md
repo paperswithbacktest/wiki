@@ -1,6 +1,7 @@
 ---
-title: "Discount Window: Usage and Purpose in Banking"
-description: "Explore the impact of the banking discount window and algorithmic trading on modern finance. Discover how these tools interplay in today's banking environment."
+title: Understanding the Discount Window in Central Banking
+description: Discount window helps banks cover liquidity shortages with central bank
+  loans at set rates to maintain stability and support lending Discover more inside.
 ---
 
 

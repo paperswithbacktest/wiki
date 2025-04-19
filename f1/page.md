@@ -1,6 +1,7 @@
 ---
-title: "F1 (Machine Learning)"
-description: "The F1 score in machine learning evaluates a model's balance between precision and recall making it crucial for performance assessment on imbalanced data."
+title: Comprehensive Guide to F1 Score in Machine Learning
+description: F1 Score measures balanced precision and recall for imbalanced classification
+  tasks including medical diagnosis and fraud detection Discover more inside
 ---
 
 ![Image](images/1.webp)

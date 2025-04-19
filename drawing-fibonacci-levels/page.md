@@ -1,6 +1,7 @@
 ---
-title: "Drawing Fibonacci Levels"
-description: "Explore the significance of Fibonacci levels in algorithmic trading Learn how these mathematical ratios help traders predict market trends and develop strategic insights"
+title: Fibonacci Levels Guide for Trading Retracements and Extensions
+description: Fibonacci levels help traders spot key retracement and extension points
+  using sequence ratios for smarter entry and exit decisions Discover more inside
 ---
 
 

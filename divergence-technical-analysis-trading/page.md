@@ -1,6 +1,7 @@
 ---
-title: "Divergence in Technical Analysis and Trading"
-description: "Explore the synergy between divergence in technical analysis and algorithmic trading Discover how integrating these techniques can enhance trading efficiency and outcomes"
+title: Understanding Divergence in Technical Analysis for Traders
+description: Divergence in technical analysis shows when price and RSI or MACD diverge
+  helping traders spot trend reversals and continuations Discover more inside.
 ---
 
 

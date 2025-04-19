@@ -1,6 +1,7 @@
 ---
-title: "Economic Value: Meaning, Examples, and Estimation Methods"
-description: "Discover the crucial role of economic value and how it influences resource allocation and pricing in markets with insights into algorithmic trading strategies."
+title: Understanding Economic Value for Business and Market Decisions
+description: Economic value helps businesses and consumers gauge true worth of goods
+  services and resources with real examples and models Discover more inside
 ---
 
 

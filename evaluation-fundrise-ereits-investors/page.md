@@ -1,6 +1,7 @@
 ---
-title: "Evaluation of Fundrise eREITs for Investors"
-description: "Explore the potential of Fundrise eREITs with algo trading for diverse real estate investments. Discover benefits, risks, and insights for informed decisions."
+title: Fundrise eREITs Investment Guide for Real Estate Investors
+description: Fundrise eREITs let you invest in diversified real estate with just $10
+  while professionals manage properties to optimize returns Discover more inside
 ---
 
 

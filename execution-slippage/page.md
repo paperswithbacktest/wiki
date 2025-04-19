@@ -1,6 +1,7 @@
 ---
-title: "execution slippage"
-description: "Execution slippage in algorithmic trading affects profitability by causing differences between expected and actual trade prices; management and strategy are key."
+title: Understanding Execution Slippage in Trading Strategies
+description: Execution slippage shifts prices between order placement and execution
+  impacting costs. Use strategies to reduce slippage risk. Discover more inside
 ---
 
 

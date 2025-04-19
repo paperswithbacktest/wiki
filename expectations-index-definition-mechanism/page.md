@@ -1,6 +1,8 @@
 ---
-title: "Expectations Index: Definition and Mechanism"
-description: "Explore how the Expectations Index and consumer sentiment influence algorithmic trading. Understand their significance in shaping economic indicators and trading strategies."
+title: Harnessing The Expectations Index To Predict Economic Trends
+description: The Expectations Index measures consumer sentiment on income jobs and
+  business conditions to forecast spending and guide policy and strategy Discover
+  more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Equity Risk Premium and Higher Returns"
-description: "Explore how understanding the equity risk premium and leveraging algorithmic trading can optimize investment strategies and maximize financial returns."
+title: Equity Risk Premium Explained for Smarter Investment Decisions
+description: Equity risk premium reveals the extra return investors demand for stocks
+  over bonds and guides smarter portfolio strategies. Discover more inside.
 ---
 
 

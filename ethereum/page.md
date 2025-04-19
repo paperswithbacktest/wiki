@@ -1,6 +1,7 @@
 ---
-title: "Ethereum"
-description: "Discover how Ethereum's blockchain transforms algorithmic trading with smart contracts that ensure secure, transparent, and automated trading solutions."
+title: Ethereum Blockchain Guide Understanding Ether and Smart Contracts
+description: Ethereum combines cryptocurrency with a programmable blockchain that
+  securely runs smart contracts and powers dapps and tokens Discover more inside
 ---
 
 

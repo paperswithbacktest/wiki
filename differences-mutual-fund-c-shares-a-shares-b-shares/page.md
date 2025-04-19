@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Mutual Fund C Shares and A Shares, B Shares"
-description: "Explore the differences between mutual fund A, B, and C shares and how algorithmic trading enhances investment strategies to meet diverse financial goals."
+title: Mutual Fund Share Classes A B and C Fee Comparison
+description: Mutual fund share classes explained simply so you can compare fees sales
+  charges and holding periods to select the right option Discover more inside.
 ---
 
 

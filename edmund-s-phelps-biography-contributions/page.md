@@ -1,6 +1,7 @@
 ---
-title: "Edmund S. Phelps: Biography and Contributions"
-description: "Discover how Edmund S. Phelps's groundbreaking economic theories intersect with algorithmic trading methodologies to revolutionize market strategies and analysis."
+title: Edmund S. Phelps and the Natural Rate of Unemployment
+description: Edmund S. Phelps introduced the natural rate of unemployment and expectations
+  augmented Phillips curve to shape monetary policy Discover more inside
 ---
 
 

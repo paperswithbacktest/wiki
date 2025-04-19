@@ -1,6 +1,7 @@
 ---
-title: "Feature Vector (Machine Learning)"
-description: "Improve your understanding of feature vectors in machine learning Discover their role how they're constructed and their impact on model performance"
+title: Understanding Feature Vectors for Machine Learning Models
+description: Feature vector converts raw data into numeric features that power model
+  accuracy through selection and scaling with fewer features Discover more inside
 ---
 
 ![Image](images/1.png)

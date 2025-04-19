@@ -1,6 +1,7 @@
 ---
-title: "Demographics and Interest in Marijuana Stocks"
-description: "Explore the dynamics of marijuana stocks as diverse demographics and algorithmic trading shape the evolving investment landscape amid shifting regulations."
+title: Demographic Trends Driving Interest in Marijuana Stocks
+description: Marijuana stocks draw interest across age income education and location
+  revealing key demographic drivers for smarter investments Discover more inside.
 ---
 
 

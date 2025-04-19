@@ -1,6 +1,7 @@
 ---
-title: "Evolutionary Economics: History and Examples"
-description: "Explore the dynamic relationship between evolutionary economics and algorithmic trading Discover how historical economic events shape modern financial markets and trading innovations"
+title: Understanding Evolutionary Economics Principles And Innovations
+description: Evolutionary economics shows how firms adapt innovate and drive growth
+  through creative destruction and institutional support Discover more inside.
 ---
 
 

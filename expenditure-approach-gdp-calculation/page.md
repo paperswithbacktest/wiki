@@ -1,6 +1,7 @@
 ---
-title: "Expenditure Approach to GDP Calculation"
-description: "Explore how the expenditure approach calculates GDP by analyzing consumer spending, government expenditure, investments, and net exports, crucial for economic insights."
+title: Understanding the Expenditure Approach to GDP Calculation
+description: Expenditure Approach to GDP shows how consumer outlays investments government
+  spending and net exports drive economic growth Discover more inside
 ---
 
 

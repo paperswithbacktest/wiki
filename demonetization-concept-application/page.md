@@ -1,6 +1,7 @@
 ---
-title: "Demonetization: Concept and Application"
-description: "Explore the intricacies of demonetization and algorithmic trading and their profound impacts on economic policies and financial markets in today's digital era."
+title: Demonetization Impacts and Lessons from Global Case Studies
+description: Demonetization reshapes economies by eliminating fake notes and tracking
+  untaxed funds while managing inflation and public disruption Discover more inside.
 ---
 
 

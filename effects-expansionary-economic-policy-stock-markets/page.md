@@ -1,6 +1,7 @@
 ---
-title: "Effects of Expansionary Economic Policy on Stock Markets"
-description: "Explore how expansionary economic policies impact stock markets through fiscal and monetary strategies aiming to boost growth, liquidity, and market performance."
+title: Expansionary Economic Policy and Stock Market Performance
+description: Expansionary economic policy drives stock markets by boosting spending,
+  corporate earnings and influencing volatility and inflation Discover more inside
 ---
 
 

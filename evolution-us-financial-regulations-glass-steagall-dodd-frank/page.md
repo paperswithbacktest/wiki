@@ -1,6 +1,7 @@
 ---
-title: "Evolution of U.S. Financial Regulations: From Glass-Steagall to Dodd-Frank"
-description: "Explore the evolution of U.S. financial regulations from Glass-Steagall to Dodd-Frank and how they impact algorithmic trading and market stability."
+title: From Glass-Steagall to Dodd-Frank Act Banking Reforms
+description: Glass-Steagall Act and Dodd-Frank Act rules show how US banking safeguards
+  evolved to protect deposits and ensure stability Discover more inside
 ---
 
 

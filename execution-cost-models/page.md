@@ -1,6 +1,7 @@
 ---
-title: "Execution Cost Models"
-description: "Explore strategies to minimize execution costs in algorithmic trading. Understand explicit and implicit costs like slippage and market impact to enhance profitability."
+title: Understanding Execution Cost Models for Efficient Computing
+description: Execution cost model reveals program time memory and energy demands to
+  optimize performance and cut resource expenses effectively Discover more inside.
 ---
 
 

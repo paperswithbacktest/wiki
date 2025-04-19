@@ -1,6 +1,7 @@
 ---
-title: "Factors Affecting a Country's Trade Balance"
-description: "Discover key economic factors impacting a country's trade balance including the pivotal roles of trade policies exchange rates and technological advancements."
+title: Understanding Trade Balance Impacts on Economic Health
+description: Trade balance shows how exports and imports shape national economic strength
+  with insights on policy and currency factors. Discover more inside.
 ---
 
 

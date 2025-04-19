@@ -1,6 +1,7 @@
 ---
-title: "Ergoteles Capital"
-description: "Discover Ergoteles Capital's innovative algorithmic trading strategies, leveraging cutting-edge technology for precision and speed in financial markets worldwide."
+title: Ergoteles Capital Investment Strategies and Performance Analysis
+description: Ergoteles Capital delivers data-driven investment strategies that balance
+  risk and growth for institutional investors Discover more inside
 ---
 
 

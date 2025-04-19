@@ -1,6 +1,7 @@
 ---
-title: "Diminishing Marginal Returns in Economics"
-description: "Explore how the concept of diminishing marginal returns applies to algorithmic trading. Algo trading has revolutionized financial markets but increasing investment does not always result in proportional gains. This article investigates into economic principles like diminishing returns, helping traders understand their impact on trading strategies. Learn how to recognize the onset of diminishing returns and manage resources effectively for optimized trading strategies and better long-term profitability."
+title: Diminishing Marginal Returns Explained for Production and Trading
+description: Diminishing marginal returns guide shows how to spot and manage incremental
+  gains in production and trading to optimize resources Discover more inside
 ---
 
 

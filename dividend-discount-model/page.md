@@ -1,6 +1,7 @@
 ---
-title: "Dividend discount model"
-description: "Unlock the power of the Dividend Discount Model in algo trading to assess stock value through future dividends, merging traditional and modern trading tactics."
+title: Understanding the Dividend Discount Model for Stock Valuation
+description: Dividend Discount Model explains how to calculate the intrinsic value
+  of a stock by discounting future dividends to present value. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dividend yield"
-description: "Explore the synergy of dividend yield and algorithmic trading to optimize investment strategies Boost returns by blending steady income with tech-driven trades."
+title: Understanding Dividend Yield And Algorithmic Trading
+description: Dividend Yield shows how to calculate stock income relative to price,
+  assess risks and integrate with algorithmic trading Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Environmental Impact of Lithium Mining"
-description: "Explore the environmental impact of lithium mining and how algorithmic trading can identify sustainable ventures. Discover the balance between green tech and mining challenges."
+title: Assessing Environmental Impacts of Lithium Mining Worldwide
+description: Lithium mining poses water air and soil challenges across ecosystems
+  but advanced extraction and recycling methods minimize impacts Discover more inside.
 ---
 
 

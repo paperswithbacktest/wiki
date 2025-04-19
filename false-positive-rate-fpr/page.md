@@ -1,6 +1,7 @@
 ---
-title: "False Positive Rate (Fpr) (Machine Learning)"
-description: "Learn about False Positive Rate in machine learning its importance and how it's calculated. Understand its impact on model reliability and trust."
+title: Understanding False Positive Rate in Machine Learning Models
+description: False Positive Rate quantifies how often a model misclassifies negatives
+  as positives informing threshold adjustments for reliability Discover more inside
 ---
 
 ![Image](images/1.png)

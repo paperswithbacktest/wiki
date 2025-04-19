@@ -1,6 +1,7 @@
 ---
-title: "Earnings Announcements and Their Market Impact"
-description: "Explore the market impact of earnings announcements and learn how algorithmic trading can optimize strategies during earnings seasons for improved outcomes."
+title: Understanding Earnings Announcements And Market Impact
+description: earnings announcement shows revenue cost and EPS to guide investors assessing
+  stock performance market trends and impact Discover more inside
 ---
 
 

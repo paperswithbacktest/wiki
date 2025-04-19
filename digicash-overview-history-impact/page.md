@@ -1,6 +1,7 @@
 ---
-title: "DigiCash: Overview, History, and Impact"
-description: "Explore the impact of DigiCash on cryptocurrency's evolution and algorithmic trading Learn about cryptographic protocols and their role in today's digital currencies"
+title: DigiCash Origins and Legacy in Digital Currency Privacy
+description: DigiCash used cryptographic digital coins to enable secure private payments
+  that hid user spending from banks and merchants. Discover more inside
 ---
 
 

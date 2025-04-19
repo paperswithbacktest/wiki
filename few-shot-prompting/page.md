@@ -1,6 +1,7 @@
 ---
-title: "Few-Shot Prompting (Machine Learning)"
-description: "Discover Few-Shot Prompting in machine learning where models learn from minimal examples to quickly adapt to new tasks enhancing efficiency and flexibility."
+title: Mastering Few-Shot Prompting for Efficient Machine Learning
+description: Few-Shot Prompting lets large language models adapt to new tasks with
+  minimal examples reducing data needs and speeding deployment. Discover more inside.
 ---
 
 ![Image](images/1.png)

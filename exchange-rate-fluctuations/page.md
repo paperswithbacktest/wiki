@@ -1,6 +1,7 @@
 ---
-title: "Exchange Rate Fluctuations"
-description: "Explore the dynamics of forex market with a focus on currency fluctuations and exchange rates Learn how algo trading revolutionizes trading strategies for better returns"
+title: Understanding Exchange Rate Fluctuations and Their Impact
+description: Exchange rate fluctuations are driven by market forces interest rates
+  and policy shifts impacting trade costs and profits Discover more inside
 ---
 
 

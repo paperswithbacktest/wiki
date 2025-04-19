@@ -1,6 +1,7 @@
 ---
-title: "Economic Indicators: Leading, Lagging, and Coincident"
-description: "Explore the critical role of economic indicators in assessing economic health and direction. Discover how leading, lagging, and coincident indicators serve distinct functions in economic analysis, helping forecast trends, confirm ongoing situations, and reflect current conditions. With a focus on algorithmic trading, this article emphasizes the importance of integrating these indicators into trading strategies to enhance market prediction, optimize performance, and manage risk effectively. Learn about their applications, benefits, and limitations to make informed decisions in volatile economic landscapes."
+title: Understanding Leading Lagging and Coincident Economic Indicators
+description: Economic indicators reveal trends with leading lagging and coincident
+  metrics for informed business and policy decisions Discover more inside.
 ---
 
 

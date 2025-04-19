@@ -1,6 +1,7 @@
 ---
-title: "Equity: Concept, Function, and Calculation"
-description: "Discover the core of equity's role in finance, from shareholder equity to algorithmic trading. Learn its calculation essential for financial insights."
+title: Understanding Equity in Business and Home Ownership
+description: Equity reveals owner stake in companies and real estate guiding financial
+  planning funding and investment decisions and strategies Discover more inside.
 ---
 
 

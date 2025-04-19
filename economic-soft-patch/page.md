@@ -1,6 +1,7 @@
 ---
-title: "Economic Soft Patch"
-description: "Explore the dynamics of economic cycles and algorithmic trading Understand the role of economic slowdowns and soft patches in investment strategies and market efficiency."
+title: Understanding Economic Soft Patches and Their Impact
+description: Economic soft patch marks a temporary slowdown avoiding recession and
+  shows key signs strategies and resilience tips for businesses Discover more inside.
 ---
 
 

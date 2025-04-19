@@ -1,6 +1,7 @@
 ---
-title: "Equity Risk Premium: Overview and Calculation"
-description: "Explore the complexities of equity risk premium and its crucial role in financial investment strategies. Learn how this key financial metric influences algorithmic trading and risk assessment to maximize returns and optimize portfolio management. Gain insights into essential concepts for informed investment decisions."
+title: Equity Risk Premium Explained for Informed Portfolio Decisions
+description: Equity risk premium guides investors in assessing stock returns versus
+  safe assets to make smarter portfolio decisions Discover more inside today
 ---
 
 

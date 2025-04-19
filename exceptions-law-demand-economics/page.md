@@ -1,6 +1,7 @@
 ---
-title: "Exceptions to the Law of Demand in Economics"
-description: "Explore the exceptions to the law of demand in economics and their implications in algorithmic trading Understand how demand theory can enhance trading strategies"
+title: Exceptions to the Law of Demand in Economic Theory
+description: Law of Demand exceptions show how Giffen and Veblen goods defy price
+  rules and influence demand for essentials and luxury items Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economic Embargo: Examples and Effects"
-description: "Explore the impacts of economic embargoes and algorithmic trading in international trade Discover how these restrictions affect countries and markets worldwide"
+title: Economic Embargo Impacts on Targeted and Imposing Countries
+description: Economic embargoes reshape significant global trade and drive nations
+  to adapt through new alliances or increased self production Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Fallen Angel: Concept, Mechanism, and Risks"
-description: "Explore the intricate world of fallen angels and algorithmic trading Discover how investment risks and credit downgrades shape financial strategies"
+title: Understanding Fallen Angel Bonds in Fixed Income Investing
+description: Fallen angel bonds can reshape portfolios and market dynamics by offering
+  risk adjusted opportunities and challenges for investors Discover more inside.
 ---
 
 

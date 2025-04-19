@@ -1,6 +1,7 @@
 ---
-title: "The Evolution of Trading: From Barter to Algo Trading"
-description: Discover the transformation of trading from the barter system to the advanced realm of algorithmic trading. This page explores how historical trade inefficiencies have been addressed through modern computational techniques, enhancing speed and precision in financial transactions. Learn about the significance of visual tools in simplifying complex data and the critical role of visual literacy in navigating today's trading environments.
+title: Evolution of Trading From Barter Systems to Algorithmic Markets
+description: Trading evolution traces the shift from barter to modern algorithmic
+  systems highlighting milestones and market impacts Discover more inside
 ---
 
 

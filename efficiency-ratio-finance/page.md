@@ -1,6 +1,7 @@
 ---
-title: "Efficiency Ratio in Finance"
-description: "Explore the efficiency ratio as a key financial metric in banking and algorithmic trading Learn how it measures operational efficiency and boosts performance"
+title: Understanding the Efficiency Ratio in Financial Analysis
+description: Efficiency ratio reveals how banks and businesses manage costs to boost
+  profitability with clear examples and benchmarks Discover more inside.
 ---
 
 

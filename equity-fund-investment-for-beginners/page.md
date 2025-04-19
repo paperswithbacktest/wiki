@@ -1,6 +1,7 @@
 ---
-title: "Equity Fund Investment for Beginners"
-description: "Discover the basics of equity fund investment for beginners and learn how algorithmic trading can enhance your portfolio with smart, technology-driven strategies."
+title: Equity Funds A Professional Guide for Beginner Investors
+description: Equity Funds provide beginners with diversified stock investments managed
+  by experts and clear strategies to build long term wealth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Defense ETFs Amid North Korean Tensions"
-description: "Explore the potential of Defense ETFs as investor interest grows amid North Korean tensions and increased defense spending Learn about key ETFs and strategies"
+title: Understanding Defense ETFs Amid North Korean Tensions
+description: Defense ETFs offer exposure to defense sector gains during global tensions
+  while highlighting risk management strategies for investors Discover more inside
 ---
 
 

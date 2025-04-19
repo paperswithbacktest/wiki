@@ -1,6 +1,7 @@
 ---
-title: "E-CBOT: Overview and Functionality"
-description: "Explore e-CBOT's influence on electronic futures trading and how algorithmic trading reshapes market operations through speed, efficiency, and wider access."
+title: Comprehensive Guide To E-CBOT Electronic Trading Platform
+description: E-CBOT electronic trading platform streamlines commodity trades with
+  fast order matching, secure transactions and 24/7 access Discover more inside
 ---
 
 

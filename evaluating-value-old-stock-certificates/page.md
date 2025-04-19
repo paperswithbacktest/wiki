@@ -1,6 +1,7 @@
 ---
-title: "Evaluating the Value of Old Stock Certificates"
-description: "Discover the financial worth of old stock certificates and the impact of algorithmic trading on investment strategies to enhance your market acumen."
+title: How to Evaluate the Value of Old Stock Certificates
+description: Old stock certificate evaluation offers clear steps to verify validity,
+  research company history, and calculate financial value. Discover more inside.
 ---
 
 

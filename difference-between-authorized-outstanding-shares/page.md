@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Authorized and Outstanding Shares"
-description: "Explore the critical distinctions between authorized and outstanding shares in stock trading for better corporate management strategy and informed investment decisions."
+title: Authorized and Outstanding Shares Explained for Investors
+description: Authorized and outstanding shares define stock limits and actual ownership
+  with impacts on dilution voting power and market cap Discover more inside
 ---
 
 

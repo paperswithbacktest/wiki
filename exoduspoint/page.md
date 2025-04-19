@@ -1,6 +1,7 @@
 ---
-title: "ExodusPoint"
-description: "Explore ExodusPoint Capital Management's pioneering role in algorithmic trading with innovative strategies integrating machine learning for superior market insights."
+title: ExodusPoint Hedge Fund Founding Strategy and Risk Management
+description: ExodusPoint hedge fund uses advanced data analytics and expert traders
+  to deliver diversified portfolios and robust risk management Discover more inside
 ---
 
 

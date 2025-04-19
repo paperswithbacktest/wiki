@@ -1,6 +1,7 @@
 ---
-title: "Ethical Guidelines for Brokers"
-description: "Explore the ethical guidelines and responsibilities of brokers in algorithmic trading, emphasizing integrity, transparency, and investor protection in evolving markets."
+title: Ethical Guidelines for Financial Brokers and Market Trust
+description: Broker ethics define essential rules to maintain honesty fairness transparency
+  and client trust in financial markets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economic Rent: Types and Mechanisms"
-description: "Explore the concept of economic rent, its types, and effects on market dynamics and asset valuation. Delve into algorithmic trading's impact on rent and efficiency."
+title: Understanding Economic Rent and Algorithmic Trading Mechanisms
+description: Economic rent insights are crucial to grasping resource allocation and
+  market dynamics alongside algorithmic trading effects Discover more inside
 ---
 
 This article explores the concept of economic rent, its various types, and its role in different economic mechanisms. Economic rent is a foundational element in understanding how resources are allocated and valued in the economy. It often arises when a specific factor of production yields income exceeding the minimal amount required to mobilize it. This exploration will demonstrate that economic rent is integral to comprehending market dynamics, influencing prices, and impacting income distribution.

@@ -1,6 +1,7 @@
 ---
-title: "Deep Neural Network (Machine Learning)"
-description: "Explore the fundamentals of Deep Neural Networks DNNs in machine learning including their structure, learning process, and applications in AI technology."
+title: Fundamentals of Deep Neural Network Architecture and Training
+description: Deep neural network fundamentals cover layer architecture training methods
+  and optimization for AI applications explained clearly Discover more inside
 ---
 
 ![Image](images/1.png)

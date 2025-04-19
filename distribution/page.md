@@ -1,6 +1,7 @@
 ---
-title: "Distribution (Machine Learning)"
-description: "Explore how data distributions influence machine learning models and learn to visualize and interpret normal, uniform, and exponential distributions effectively."
+title: Understanding Data Distributions in Machine Learning
+description: Data distributions show how machine learning data spreads guiding algorithm
+  selection data transformation and model evaluation. Discover more inside
 ---
 
 ![Image](images/1.png)

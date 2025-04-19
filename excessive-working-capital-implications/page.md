@@ -1,6 +1,7 @@
 ---
-title: "Implications of Excessive Working Capital"
-description: "Explore the impact of excessive working capital in algorithmic trading and discover strategies to improve financial management and operational efficiency."
+title: Managing Excessive Working Capital for Optimal Performance
+description: Excessive working capital ties up cash and limits growth. Optimize cash
+  flow and inventory to boost liquidity and profitability Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "factor models for execution"
-description: "Discover how factor models enhance algorithmic trading by offering insights into risk management and asset return predictions to optimize trading strategies."
+title: Comprehensive Guide to Factor Models in Execution and Trading
+description: Factor models break down complex market and execution data into clear
+  factors that guide trading decisions with actionable insights. Discover more inside.
 ---
 
 

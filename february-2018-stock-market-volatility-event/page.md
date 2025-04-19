@@ -1,6 +1,7 @@
 ---
-title: "February 2018 Stock Market Volatility Event"
-description: "Explore the February 2018 stock market crash driven by algorithmic trading Volmageddon's impact on market stability and the downfall of inverse volatility products."
+title: February 2018 Stock Market Volatility Impact and Insights
+description: February 2018 stock market volatility showed how rising rates and leverage
+  triggered a Dow slide and led to smarter risk planning Discover more inside
 ---
 
 

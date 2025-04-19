@@ -1,6 +1,7 @@
 ---
-title: "Dirty Price and Clean Price Comparison"
-description: "Explore the essentials of clean and dirty bond pricing crucial for algorithmic trading. Learn their impact on bond valuation and the significance of accrued interest."
+title: Dirty Price and Clean Price in Bond Trading and Valuation
+description: Dirty price combines the clean price and accrued interest to show the
+  true cost of buying bonds and guide smarter timing Discover more inside
 ---
 
 

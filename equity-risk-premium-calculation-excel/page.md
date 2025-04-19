@@ -1,6 +1,7 @@
 ---
-title: "Equity Risk Premium Calculation Using Excel"
-description: "Discover how to calculate equity risk premium using Excel and enhance your algo trading strategies to optimize investment returns and manage risks effectively."
+title: Equity Risk Premium Calculation in Excel Made Simple
+description: Equity Risk Premium explained in Excel so you can subtract risk free
+  rates from market returns to assess stock rewards today Discover more inside
 ---
 
 

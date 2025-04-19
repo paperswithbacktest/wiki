@@ -1,6 +1,7 @@
 ---
-title: "Development Economics and Its Types"
-description: "Explore the multifaceted world of development economics and its significance in today's globalized economy. Learn about different economic systems including traditional, command, market, and mixed economies, and their impact on societal progress. This article investigates into economic development strategies that aim to enhance living standards through productivity, infrastructure, and sustainable technology. Discover the role of algorithmic trading in shaping modern economic frameworks, influencing market dynamics and financial strategies. Gain insights into crafting policies tailored to unique economic environments for sustainable growth and innovation."
+title: Understanding Development Economics Concepts And Applications
+description: Development economics explores how to drive inclusive growth, reduce
+  poverty and strengthen institutions in emerging markets Discover more inside.
 ---
 
 

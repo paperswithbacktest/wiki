@@ -1,6 +1,7 @@
 ---
-title: "Discounting in Finance"
-description: "Explore the crucial role of discounting in finance and its impact on algorithmic trading Discover how discount rates influence trading strategies and profitability"
+title: Understanding Discounting In Finance For Better Investments
+description: Discounting in Finance calculates the present value of future cash flows
+  to guide smarter investment and planning decisions Discover more inside.
 ---
 
 

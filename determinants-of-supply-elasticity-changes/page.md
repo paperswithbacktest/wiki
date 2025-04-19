@@ -1,6 +1,7 @@
 ---
-title: "Determinants of Supply Elasticity Changes"
-description: "Explore how production capacity, resource availability, and technology impact supply elasticity and how algorithmic trading leverages these insights for competitive advantage."
+title: Understanding Supply Elasticity and Its Role in Economics
+description: Supply elasticity provides insights into how producers respond to price
+  changes and guides better production and policy planning. Discover more inside.
 ---
 
 

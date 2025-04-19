@@ -1,6 +1,7 @@
 ---
-title: "Developing an Effective Investment Strategy"
-description: "Explore key aspects of algorithmic trading and effective investment strategies to optimize returns manage risk and achieve financial goals in dynamic markets."
+title: Building an Effective Investment Strategy for Investors
+description: Investment strategy guides you through setting clear goals managing risk
+  and diversifying assets while adapting to market changes Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Eastern Caribbean Dollar: Overview and Mechanism"
-description: "Discover how the Eastern Caribbean Dollar's stability and fixed exchange rate to the US Dollar offers unique opportunities and challenges for algorithmic trading."
+title: Understanding the Eastern Caribbean Dollar and Its Stability
+description: Eastern Caribbean Dollar provides stable currency pegged to the US dollar
+  at 2.70 to 1 for seamless trade and financial planning Discover more inside.
 ---
 
 

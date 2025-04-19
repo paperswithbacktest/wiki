@@ -1,6 +1,7 @@
 ---
-title: "Ethereum 2.0 Overview"
-description: "Explore how Ethereum 2.0's shift from PoW to PoS impacts algorithmic trading strategies, enhancing blockchain scalability and efficiency in the crypto market."
+title: Complete Ethereum 2.0 Upgrade Benefits and Key Components
+description: Ethereum 2.0 delivers faster scalable energy efficient blockchain performance
+  through proof of stake and sharding while reducing costs Discover more inside
 ---
 
 

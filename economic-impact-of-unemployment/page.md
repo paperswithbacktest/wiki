@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of Unemployment"
-description: "Explore the interconnected impact of unemployment and algorithmic trading on economic growth and labor markets shaping modern financial dynamics."
+title: Understanding Unemployment Causes Types And Economic Impact
+description: Unemployment reduces spending and strains budgets. We explain causes
+  measurement types and policy solutions to help stabilize growth Discover more inside
 ---
 
 

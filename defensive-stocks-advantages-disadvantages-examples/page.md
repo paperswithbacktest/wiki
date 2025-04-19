@@ -1,6 +1,7 @@
 ---
-title: "Defensive Stocks: Advantages, Disadvantages, and Examples"
-description: "Discover the benefits and drawbacks of defensive stocks alongside algo trading examples Learn how these strategies combine to navigate volatile markets effectively"
+title: Safeguard Your Portfolio with Defensive Stock Strategies
+description: Defensive stocks deliver stability with dividends during downturns helping
+  investors protect portfolios and secure reliable income Discover more inside
 ---
 
 

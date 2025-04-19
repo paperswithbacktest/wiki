@@ -1,6 +1,7 @@
 ---
-title: "Event Risk: Definition, Examples, and Mitigation"
-description: "Explore event risk in algorithmic trading its impact on markets and strategies to manage and mitigate risks for better trading performance and resilience."
+title: Understanding Event Risk and Mitigation Strategies for Businesses
+description: Event risk can threaten company value through lawsuits disasters and
+  recalls you can identify and mitigate risks to minimize losses Discover more inside.
 ---
 
 

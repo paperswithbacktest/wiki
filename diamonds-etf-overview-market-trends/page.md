@@ -1,6 +1,7 @@
 ---
-title: "Diamonds ETF: Overview and Market Trends"
-description: "Explore the dynamic diamonds ETF market and gain insights into current trends and algorithmic trading for diversified investment in diamond-related assets."
+title: Professional Guide to Diamonds ETF and Dow Jones Investing
+description: Diamonds ETF offers diversified access to the Dow Jones Industrial Average
+  by tracking 30 U.S companies with low fees and trading Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Escrowed to Maturity: Definition and Process"
-description: "Discover the role of escrowed to maturity in maximizing investor gains and minimizing risks in financial maturity management and algorithmic trading."
+title: Understanding Escrowed to Maturity Bonds for Investor Security
+description: Escrowed to Maturity protects investors by setting aside funds in a third
+  party account for timely bond payments and reduced risk Discover more inside
 ---
 
 

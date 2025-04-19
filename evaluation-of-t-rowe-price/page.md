@@ -1,6 +1,8 @@
 ---
-title: "Evaluation of T. Rowe Price"
-description: "Discover how T. Rowe Price leverages algorithmic trading to enhance its investment offerings. This article evaluates the firm's disciplined investment approach, robust asset management, and strategic innovation, providing insights into its methodologies and performance in the financial services industry."
+title: T Rowe Price Investment Services Overview and Analysis
+description: T Rowe Price offers comprehensive investment services from mutual funds
+  to retirement planning backed by in-depth research and risk management Discover
+  more inside
 ---
 
 

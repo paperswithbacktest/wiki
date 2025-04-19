@@ -1,6 +1,8 @@
 ---
-title: "Exogenous Growth Theory and Comparison with Endogenous Growth"
-description: "Explore the relationship between exogenous and endogenous growth theories and their influence on algorithmic trading strategies and financial market trends."
+title: Exogenous Growth Theory Versus Endogenous Growth Models
+description: Exogenous Growth Theory explains how external technological advances
+  drive steady economic growth and contrasts with endogenous models Discover more
+  inside
 ---
 
 

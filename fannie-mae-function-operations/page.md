@@ -1,6 +1,7 @@
 ---
-title: "Fannie Mae: Function and Operations"
-description: "Explore the pivotal role Fannie Mae plays in mortgage finance and the impact of algorithmic trading on mortgage-backed securities in the evolving housing market."
+title: "Understanding Fannie Mae\u2019s Role in the Housing Market"
+description: Fannie Mae helps banks by buying mortgages and packaging them into securities
+  to keep home loans flowing and rates competitive Discover more inside
 ---
 
 

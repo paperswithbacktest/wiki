@@ -1,6 +1,7 @@
 ---
-title: "Determining the EBIT Level for Constant EPS"
-description: "Explore algorithmic trading strategies by analyzing Earnings Before Interest and Taxes (EBIT) levels to maintain a constant Earnings Per Share (EPS)."
+title: Determining EBIT Levels to Maintain Constant Earnings Per Share
+description: EBIT analysis shows how to adjust operating income and manage capital
+  to keep earnings per share steady and ensure confidence Discover more inside
 ---
 
 

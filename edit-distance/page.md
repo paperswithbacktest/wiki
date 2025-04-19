@@ -1,6 +1,7 @@
 ---
-title: "Edit Distance (Machine Learning)"
-description: "Explore Edit Distance in machine learning to measure string differences with applications in spell checking speech recognition and DNA sequence analysis."
+title: Edit Distance Algorithms and Applications in Machine Learning
+description: Edit distance quantifies string similarity with minimal edits and powers
+  spell checking, speech recognition, DNA sequence analysis. Discover more inside
 ---
 
 ![Image](images/1.jpeg)

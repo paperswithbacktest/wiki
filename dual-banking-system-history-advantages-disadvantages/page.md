@@ -1,6 +1,7 @@
 ---
-title: "Dual Banking System: Overview, History, Advantages, and Disadvantages"
-description: "Explore the intricacies of the U.S. dual banking system, its historical roots, current landscape, and implications for algorithmic trading in financial markets."
+title: Understanding the Dual Banking System in the United States
+description: Dual banking system balances federal and state regulation to foster flexibility,
+  competition and consumer choice in US banking Discover more inside.
 ---
 
 

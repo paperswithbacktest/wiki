@@ -1,6 +1,8 @@
 ---
-title: "Down-Market Capture Ratio Formula and Examples"
-description: "Discover the significance of the down-market capture ratio in algorithmic trading Learn how this metric helps gauge investment performance during market declines"
+title: Understanding Down-Market Capture Ratio for Risk Management
+description: Down-Market Capture Ratio reveals how an investment performs in down
+  markets to help investors manage risk and choose resilient assets Discover more
+  inside
 ---
 
 

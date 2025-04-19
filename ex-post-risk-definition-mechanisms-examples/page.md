@@ -1,6 +1,7 @@
 ---
-title: "Ex-Post Risk: Definition, Mechanisms, and Examples"
-description: "Explore the significance of ex-post risk in algorithmic trading to enhance financial strategies by analyzing historical data for improved risk management and resilience."
+title: Ex-Post Risk Assessment For Effective Portfolio Management
+description: Ex-post risk reveals actual investment volatility and returns with historical
+  data to refine portfolio strategy and balance exposure Discover more inside.
 ---
 
 

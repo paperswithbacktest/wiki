@@ -1,6 +1,7 @@
 ---
-title: "Derived Label (Machine Learning)"
-description: "Derived labels in machine learning transform existing data into simpler categories enhancing model insights and performance by focusing on relevant features."
+title: Derived Labels in Machine Learning Explained and Applied
+description: Derived labels transform raw data into meaningful categories to simplify
+  model training and boost prediction accuracy. Discover more inside.
 ---
 
 ![Image](images/1.png)

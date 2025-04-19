@@ -1,6 +1,7 @@
 ---
-title: "Examples of Noncurrent Assets"
-description: "Explore the growing importance of noncurrent assets in algorithmic trading and how strategic asset management can bolster financial stability and growth."
+title: Understanding Noncurrent Assets in Financial Reporting
+description: Noncurrent assets determine long term financial health by capturing depreciation
+  valuation and investment impact on balance sheets. Discover more inside.
 ---
 
 

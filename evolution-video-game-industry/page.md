@@ -1,6 +1,7 @@
 ---
-title: "Evolution of the Video Game Industry"
-description: "Explore the dynamic evolution of the video game industry influenced by AI and algorithmic trading shaping immersive experiences and innovative business models."
+title: Tracing the Evolution of Video Games From Arcades to VR
+description: Video game evolution charts the industry growth from simple arcade classics
+  to immersive VR titles online and mobile gaming Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Diversification Using Index Funds"
-description: "Explore the power of diversification with index fund investing and algorithmic trading Learn strategies to manage risk enhance returns and optimize portfolios"
+title: Diversify With Index Funds For Balanced Returns And Lower Risk
+description: Index funds help you build a diversified portfolio that balances risk
+  and cost effectiveness through broad market exposure. Discover more inside.
 ---
 
 

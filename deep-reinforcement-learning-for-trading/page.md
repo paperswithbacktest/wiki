@@ -1,6 +1,7 @@
 ---
-title: "Deep reinforcement learning for trading"
-description: "Explore cutting-edge deep reinforcement learning for algorithmic trading Discover adaptive strategies that leverage AI to optimize financial market analysis and decision-making"
+title: Deep Reinforcement Learning for Financial Trading Applications
+description: Deep reinforcement learning for trading refines strategies to market
+  shifts and enhances decision making using neural network rewards Discover more inside
 ---
 
 

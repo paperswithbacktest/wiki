@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Capital Stock and Treasury Stock"
-description: "Explore the essential differences between capital stock and treasury stock and how they impact investment strategies and company financials in algorithmic trading."
+title: Understanding Capital Stock and Treasury Stock Differences
+description: Capital stock and treasury stock define company equity roles and impact
+  financial ratios with clear examples and guidance. Discover more inside.
 ---
 
 

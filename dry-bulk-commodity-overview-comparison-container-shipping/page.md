@@ -1,6 +1,7 @@
 ---
-title: "Dry Bulk Commodity: Overview and Comparison to Container Shipping"
-description: "Explore the role of dry bulk commodities in global trade, comparing their transport dynamics with container shipping and the impact of algo trading on efficiency."
+title: Essential Insights into Dry Bulk Shipping and Commodities
+description: Dry bulk shipping offers cost effective transport of coal iron ore and
+  grains by specialized vessels ensuring efficient global trade Discover more inside.
 ---
 
 

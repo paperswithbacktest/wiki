@@ -1,6 +1,7 @@
 ---
-title: "Endogenous Growth Theory"
-description: "Explore how endogenous growth theory, which emphasizes innovation and human capital, aligns with algorithmic trading to drive sustainable economic and financial growth."
+title: Understanding Endogenous Growth Theory and Its Implications
+description: Endogenous Growth Theory shows how investing in education and R&D fuels
+  ongoing economic growth through innovation and human capital Discover more inside
 ---
 
 

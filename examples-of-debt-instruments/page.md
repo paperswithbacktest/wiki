@@ -1,6 +1,7 @@
 ---
-title: "Examples of Debt Instruments"
-description: "Explore debt instruments, their role in finance, and how algorithmic trading enhances investment strategies by optimizing returns and managing risks efficiently."
+title: Comprehensive Overview Of Debt Instruments For Investors
+description: Debt Instruments explained help you understand bonds loans T bills securities
+  manage risk and diversify your investments Discover more inside
 ---
 
 

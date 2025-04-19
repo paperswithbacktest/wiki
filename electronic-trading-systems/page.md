@@ -1,6 +1,7 @@
 ---
-title: "Electronic Trading Systems"
-description: "Discover how electronic and algorithmic trading are revolutionizing financial markets with faster execution speeds and enhanced tools for traders and investors."
+title: Understanding Electronic Trading Systems and Their Benefits
+description: Electronic trading systems match orders in real time with robust security
+  to deliver fast efficient and safe market access. Discover more inside
 ---
 
 

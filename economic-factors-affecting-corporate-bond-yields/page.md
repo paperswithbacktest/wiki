@@ -1,6 +1,7 @@
 ---
-title: "Economic Factors Affecting Corporate Bond Yields"
-description: "Explore economic factors influencing corporate bond yields, including growth, inflation, and algorithmic trading, offering key insights for informed investing."
+title: Understanding Corporate Bond Yields and Influencing Factors
+description: Corporate bond yields reflect interest rates inflation credit ratings
+  and liquidity Explore how these factors shape returns Discover more inside
 ---
 
 

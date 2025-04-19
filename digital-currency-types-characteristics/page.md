@@ -1,6 +1,7 @@
 ---
-title: "Digital Currency Types and Characteristics"
-description: "Explore the transformative power of digital currencies and algorithmic trading Discover their unique traits and impact on the global financial system."
+title: Digital Currency Fundamentals Types Uses and Trends
+description: Digital currency types like cryptocurrencies CBDCs stablecoins and tokens
+  power secure online transactions Discover more inside
 ---
 
 

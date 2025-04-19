@@ -1,6 +1,7 @@
 ---
-title: "Discontinued and Uncommon U.S. Currency Denominations"
-description: "Explore discontinued and rare U.S. currency denominations that reflect historical shifts in economic and regulatory practices, intertwining past and modern finance."
+title: Discontinued U.S. Currency Denominations and Their History
+description: Discontinued U.S. currency denominations explain why high value bills
+  were phased out to curb crime while shaping modern currency Discover more inside
 ---
 
 

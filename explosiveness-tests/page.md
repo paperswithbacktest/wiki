@@ -1,6 +1,7 @@
 ---
-title: "Explosiveness tests"
-description: Explore explosiveness tests in algorithmic trading to understand abrupt market dynamics marked by rapid price shifts. These tests use statistical methods to identify unsustainable trends and enhance trading strategies. Key for risk management, they enable traders to navigate volatility and speculative bubbles, ensuring strategies are resilient to market fluctuations. By applying these tests, traders discern genuine trends from speculative noise, adapting their strategies for sustainable outcomes. Understanding explosiveness, including applying Chow-Type and Supremum Dickey-Fuller tests, empowers traders to optimize responses to fast-paced market changes.
+title: Understanding Explosiveness Tests for Safe Material Handling
+description: Explosiveness tests determine how materials react to impact friction
+  heat and shock to inform safe handling storage and transport Discover more inside.
 ---
 
 

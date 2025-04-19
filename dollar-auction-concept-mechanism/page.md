@@ -1,6 +1,7 @@
 ---
-title: "Dollar Auction: Concept and Mechanism"
-description: "Explore the paradoxical Dollar Auction game in game theory, revealing how rational decisions can turn irrational. Discover its implications for algo trading."
+title: Understanding the Dollar Auction Bidding Paradox Explained
+description: Dollar Auction reveals why bidders push bids past a dollar and how game
+  theory escalation of commitment drives irrational spending Discover more inside.
 ---
 
 

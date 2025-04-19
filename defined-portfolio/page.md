@@ -1,6 +1,7 @@
 ---
-title: "Defined Portfolio"
-description: "Explore how algorithmic trading transforms portfolio management by boosting precision and speed to optimize returns and align investment strategies."
+title: Creating a Defined Portfolio to Achieve Your Financial Goals
+description: Defined portfolio provides a clear investment plan aligned with your
+  goals risk tolerance and timeline and offers expert guidance Discover more inside
 ---
 
 

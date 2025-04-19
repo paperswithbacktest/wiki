@@ -1,6 +1,7 @@
 ---
-title: "Diffusion Index: Explanation, Calculation, and Limitations"
-description: "Discover how diffusion indexes enhance algorithmic trading by evaluating economic indicators and statistical methods for improved market predictions."
+title: Understanding the Diffusion Index for Economic Analysis
+description: Diffusion Index reveals how economic trends spread by showing if most
+  sectors are growing or declining to guide decisions Discover more inside
 ---
 
 

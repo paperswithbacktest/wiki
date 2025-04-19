@@ -1,6 +1,7 @@
 ---
-title: "Earth Mover'S Distance (Emd) (Machine Learning)"
-description: "Learn about Earth Mover's Distance (EMD) in machine learning a metric for comparing data distributions based on the concept of moving probability mass."
+title: Understanding Earth Mover's Distance in Machine Learning
+description: Earth Mover's Distance quantifies minimal work to align data distributions
+  in machine learning tasks like image retrieval and GANs Discover more inside.
 ---
 
 ![Image](images/1.png)

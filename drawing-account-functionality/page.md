@@ -1,6 +1,7 @@
 ---
-title: "Drawing Account and Its Functionality"
-description: "Explore essential finance concepts including the drawing account for partnerships, financial management strategies, accounting principles, and algorithmic trading dynamics."
+title: Understanding Drawing Accounts And Owner Equity In Small Business
+description: Drawing Account helps small business owners track personal withdrawals
+  and maintain accurate equity records for transparent finances Discover more inside
 ---
 
 

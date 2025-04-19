@@ -1,6 +1,8 @@
 ---
-title: "Demographic Dividend Overview"
-description: "Explore the intricate link between population dynamics and economic growth through the lens of the demographic dividend and algo trading. See how shifts in age structure influence economic productivity and financial strategies. Discover how demographic insights combined with technological advancements in trading can pave the way for sustainable development."
+title: Maximizing Economic Growth Through the Demographic Dividend
+description: Demographic dividend drives economic growth when countries invest in
+  education health and job creation to leverage a skilled workforce Discover more
+  inside
 ---
 
 

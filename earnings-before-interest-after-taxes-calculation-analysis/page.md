@@ -1,6 +1,7 @@
 ---
-title: "Earnings Before Interest After Taxes: Calculation and Analysis"
-description: "Explore how EBIAT impacts algorithmic trading by considering taxes in financial assessments for better strategy profitability analysis and decision making."
+title: Understanding Earnings Before Interest After Taxes EBIAT
+description: EBIAT helps investors compare core operating profits after taxes without
+  the noise of financing choices and tax differences Discover more inside.
 ---
 
 

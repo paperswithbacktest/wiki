@@ -1,6 +1,7 @@
 ---
-title: "Deep Q-Network (Dqn) (Machine Learning)"
-description: "Explore how Deep Q-Networks (DQN) enhance reinforcement learning with neural networks to improve decision-making, using experience replay and epsilon-greedy exploration."
+title: Understanding Deep Q-Networks in Reinforcement Learning
+description: Deep Q-Networks use neural nets with experience replay to train stable
+  policies for complex environments with reliable learning Discover more inside.
 ---
 
 ![Image](images/1.png)

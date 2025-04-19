@@ -1,6 +1,7 @@
 ---
-title: "Diffusion of Innovations Theory"
-description: "Explore the impact of algo trading within the context of the Diffusion of Innovations theory understanding how technology adoption is influenced by social change."
+title: Understanding Diffusion of Innovations Theory for Organizations
+description: Diffusion of Innovations Theory offers insights into how new ideas spread
+  through adopter groups and guides launch strategies Discover more inside.
 ---
 
 

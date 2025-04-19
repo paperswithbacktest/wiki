@@ -1,6 +1,7 @@
 ---
-title: "Empire State Manufacturing Index"
-description: "Explore how the Empire State Manufacturing Index serves as a vital economic indicator in New York, impacting algorithmic trading strategies with real-time data insights."
+title: A Comprehensive Guide to the Empire State Manufacturing Index
+description: Empire State Manufacturing Index offers a monthly snapshot of New York
+  manufacturing trends to guide investor and policy decisions Discover more inside
 ---
 
 

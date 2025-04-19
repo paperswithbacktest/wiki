@@ -1,6 +1,7 @@
 ---
-title: "Deflation and Disinflation"
-description: "Explore the impact of deflation, disinflation, and algorithmic trading on modern economies. Learn strategic investment tactics for varying economic conditions."
+title: Understanding Deflation and Disinflation in Modern Economies
+description: Deflation and disinflation affect consumer spending debt burdens and
+  central bank policies to guide financial decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economics as a Science"
-description: "Explore the fascinating intersection of economics and algorithmic trading Discover how economic theories shape trading strategies and insights in financial markets"
+title: Exploring Economics as a Science Through Rigorous Methods
+description: Economics applies the scientific method to study resource allocation
+  trade-offs with models and experiments for reliable predictions Discover more inside
 ---
 
 

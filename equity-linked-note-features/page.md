@@ -1,6 +1,7 @@
 ---
-title: "Equity-Linked Note Features"
-description: "Explore the features of Equity-Linked Notes and how they combine equity and fixed-income benefits to enhance trading strategies through algorithmic platforms."
+title: Understanding Equity-Linked Notes for Balanced Portfolio Growth
+description: Equity-Linked Notes merge bond security with stock upside for predictable
+  returns limited risk and capital preservation today. Discover more inside
 ---
 
 

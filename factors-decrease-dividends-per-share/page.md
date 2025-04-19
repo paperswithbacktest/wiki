@@ -1,6 +1,7 @@
 ---
-title: "Factors Leading to Decrease in Dividends per Share"
-description: "Explore the factors affecting dividends per share including financial performance and algorithmic trading to optimize investment strategies effectively."
+title: Key Factors Influencing Dividends Per Share Decreases
+description: Dividends per share often fall when profits dip debt rises or companies
+  retain earnings for growth amid economic shifts Discover more inside.
 ---
 
 

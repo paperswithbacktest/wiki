@@ -1,6 +1,7 @@
 ---
-title: "Dual and Multiple Exchange Rate Systems"
-description: "Explore the nuances of dual and multiple exchange rate systems and how algorithmic trading navigates these complexities to seize profitable opportunities."
+title: Understanding Dual and Multiple Exchange Rate Systems
+description: Dual and multiple exchange rate systems let governments adjust rates
+  for trade to support exports and control imports. Discover more inside.
 ---
 
 

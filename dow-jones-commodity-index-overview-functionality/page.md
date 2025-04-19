@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Commodity Index: Overview and Functionality"
-description: "Explore the role of the Dow Jones Commodity Index in commodity trading and algorithmic strategies to enhance market insights and investment performance."
+title: Understanding the Dow Jones Commodity Index and Its Benefits
+description: Dow Jones Commodity Index helps diversify portfolios with a broad view
+  of global commodity trends and hedge against inflation Discover more inside
 ---
 
 

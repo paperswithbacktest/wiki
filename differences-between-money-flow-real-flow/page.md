@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Money Flow and Real Flow"
-description: "Explore the intricate relationship between money flow and real flow in algorithmic trading, highlighting their roles in economic exchanges and financial markets."
+title: Understanding Money Flow and Real Flow in the Economy
+description: Money flow and real flow reveal how funds and goods circulate between
+  households and businesses to gauge economic health Discover more inside
 ---
 
 

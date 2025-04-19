@@ -1,6 +1,7 @@
 ---
-title: "Equalized Odds (Machine Learning)"
-description: "Equalized Odds ensures machine learning models treat all groups fairly by maintaining equal true positive and false positive rates across those groups."
+title: Understanding Equalized Odds For Fair Machine Learning Models
+description: Equalized Odds aligns true and false positive rates across all groups
+  to reduce bias improve outcomes and build trust in AI decisions Discover more inside.
 ---
 
 ![Image](images/1.png)

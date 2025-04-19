@@ -1,6 +1,7 @@
 ---
-title: "Features and Requirements of the Over-The-Counter Exchange of India"
-description: "Discover how the Over-The-Counter Exchange of India empowers SMEs through flexible listing requirements and advances with algorithmic trading for market efficiency."
+title: Understanding OTCEI Structure And Benefits For SMEs
+description: OTCEI offers a streamlined platform for small and medium companies to
+  list shares, trade via dealers, and raise capital efficiently. Discover more inside.
 ---
 
 

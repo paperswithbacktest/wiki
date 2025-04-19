@@ -1,6 +1,7 @@
 ---
-title: "Effects of Selling Borrowed Short Shares"
-description: "Explore the effects of selling borrowed short shares through algorithmic trading. This article discusses potential profit, risks, and integration into portfolios."
+title: Comprehensive Guide to Short Selling Risks and Benefits
+description: Short selling strategies help investors profit from stock price declines
+  with balanced risk management and market insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Explainable AI in trading"
-description: "Explore the role of explainable AI in trading to ensure transparency and trust. Understand its importance in risk management and regulatory compliance."
+title: Understanding Explainable AI in Trading for Transparent Decisions
+description: Explainable AI gives traders clear insights into every trade decision
+  and uncovers biases for more reliable strategies Discover more inside now
 ---
 
 

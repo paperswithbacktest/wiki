@@ -1,6 +1,7 @@
 ---
-title: "Evaluating A Company's Balance Sheet"
-description: "Explore the synergy between balance sheet analysis and algorithmic trading Gain insights into financial assessment for strategic decision-making in trading"
+title: Essential Balance Sheet Analysis Guide for Financial Health
+description: Balance sheet analysis shows how assets liabilities and equity impact
+  liquidity solvency and growth Calculate key ratios and discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of Marijuana Legalization"
-description: "Explore the transformative economic impact of marijuana legalization in the U.S., highlighting significant tax revenues, job creation, and investment opportunities. This article investigates into how legal cannabis is reshaping state economies and attracting investors, alongside the emerging influence of algorithmic trading in managing the sector's volatility and market dynamics. Discover how these developments present both opportunities and challenges for stakeholders and investors in this rapidly evolving industry."
+title: Economic Impacts of Marijuana Legalization and Tax Revenues
+description: Marijuana legalization drives state revenues through taxes and job growth
+  while highlighting costs in healthcare and enforcement. Discover more inside.
 ---
 
 

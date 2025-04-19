@@ -1,6 +1,7 @@
 ---
-title: "Emergency Banking Act of 1933"
-description: "Explore the significance of the Emergency Banking Act of 1933 which restored public confidence during the Great Depression offering insights into modern financial reforms."
+title: Understanding the Emergency Banking Act of 1933 and Its Impact
+description: Emergency Banking Act of 1933 restored confidence in US banks with government
+  oversight and urgent loans driving system stability. Discover more inside.
 ---
 
 

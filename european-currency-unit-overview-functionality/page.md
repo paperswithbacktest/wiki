@@ -1,6 +1,8 @@
 ---
-title: "European Currency Unit: Overview and Functionality"
-description: "Discover the European Currency Unit’s pivotal role in history and its influence on algorithmic trading trends in European markets within the EMS framework."
+title: Understanding the European Currency Unit and Its Impact
+description: "European Currency Unit served as a multi\u2011currency benchmark that\
+  \ streamlined trade stability and paved the way for the Euro transition Discover\
+  \ more inside"
 ---
 
 

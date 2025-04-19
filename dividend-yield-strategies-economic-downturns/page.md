@@ -1,6 +1,7 @@
 ---
-title: "Dividend Yield Strategies During Economic Downturns"
-description: "Discover how to protect your investments during economic downturns using a blend of dividend yield strategies and algorithmic trading for optimal resilience."
+title: Dividend Yield Strategies for Economic Downturn Resilience
+description: Dividend yield strategies provide steady income during economic downturns
+  by focusing on stable sectors and using DRIPs for growth Discover more inside.
 ---
 
 

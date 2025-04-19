@@ -1,6 +1,7 @@
 ---
-title: "Evaluating Profitability Using Return on Capital Employed"
-description: "Explore the importance of Return on Capital Employed (ROCE) in financial analysis and algorithmic trading to enhance investment profitability and strategy."
+title: Return On Capital Employed Explained For Investment Decisions
+description: Return on Capital Employed reveals how efficiently your business uses
+  funds to generate profits and guides smarter investment choices Discover more inside
 ---
 
 

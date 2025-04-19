@@ -1,6 +1,7 @@
 ---
-title: "End of Day Order: Mechanism and Benefits"
-description: "Discover the benefits and mechanisms of end-of-day orders in algorithmic trading and learn how these strategies can enhance your financial market investments."
+title: End of Day Orders Explained A Guide for Stock Traders
+description: End of Day order automates stock trades at market close for beginners
+  to reduce stress manage risk and capture closing patterns Discover more inside
 ---
 
 

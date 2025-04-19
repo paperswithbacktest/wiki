@@ -1,6 +1,7 @@
 ---
-title: "Dun & Bradstreet: Operations, Funding, History, and Credit Ratings"
-description: "Explore how Dun & Bradstreet enhances business strategies with credit ratings and algorithmic trading insights for optimized growth and risk management."
+title: Dun & Bradstreet Data Services and Global Business Insights
+description: Dun & Bradstreet empowers businesses to assess partners with reliable
+  credit reports and analytics for informed decisions Discover more inside.
 ---
 
 

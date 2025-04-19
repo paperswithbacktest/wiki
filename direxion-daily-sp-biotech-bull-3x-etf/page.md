@@ -1,6 +1,7 @@
 ---
-title: "Direxion Daily S&P Biotech Bull 3X ETF"
-description: "Explore the opportunities and risks of investing in the Direxion Daily S&P Biotech Bull 3X ETF. Discover how algorithmic trading can optimize returns."
+title: Comprehensive Guide to the Direxion Daily S&P Biotech Bull 3X ETF
+description: Direxion Daily S&P Biotech Bull 3X ETF uses 3X leverage to amplify biotech
+  index moves and demands close risk oversight by investors Discover more inside
 ---
 
 

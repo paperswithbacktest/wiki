@@ -1,6 +1,7 @@
 ---
-title: "Dolat Capital"
-description: "Explore Dolat Capital's transformation of modern finance with pioneering algorithmic trading. Learn how they utilize cutting-edge technology for superior market performance."
+title: Dolat Capital Services Market Research and Global Expansion
+description: Dolat Capital provides research driven financial services for global
+  investing and trading with data analysis and insights Discover more inside
 ---
 
 

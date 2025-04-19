@@ -1,6 +1,7 @@
 ---
-title: "Economic Sectors Contributing to New York's GDP Growth"
-description: "Explore how diverse sectors like finance, real estate, and technology drive New York's GDP, highlighting the transformative role of algorithmic trading."
+title: Understanding New York GDP Growth Across Key Economic Sectors
+description: New York GDP shows finance, technology, real estate, and tourism driving
+  sector growth with job creation and economic resilience Discover more inside
 ---
 
 

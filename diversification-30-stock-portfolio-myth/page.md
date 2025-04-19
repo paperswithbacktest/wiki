@@ -1,6 +1,7 @@
 ---
-title: "Diversification and the 30 Stock Portfolio Myth"
-description: "Explore misconceptions around stock portfolio diversification and discover how algorithmic trading can enhance your investment strategy by optimizing risk and returns."
+title: Effective Portfolio Diversification Beyond the 30 Stock Myth
+description: Portfolio diversification reduces risk by spreading assets across stocks
+  bonds and real estate to balance returns in varied markets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Exchange-Traded Managed Fund"
-description: "Explore the synergy between managed funds ETFs and algorithmic trading to uncover new investment strategies enhance portfolio performance and achieve financial goals."
+title: Understanding Exchange-Traded Managed Funds for Active Investors
+description: Exchange-Traded Managed Funds deliver active management with intraday
+  trading flexibility and greater potential tax efficiency Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Factors Affecting Dividend Complexity for Investors"
-description: "Explore the intricacies of dividend investing and algorithmic trading Learn how investors can balance strategies to build resilient and profitable portfolios"
+title: Key Factors Shaping Corporate Dividend Policy Decisions
+description: Dividend policy is shaped by profitability, growth stages, industry factors,
+  taxes and interest rates to guide sustainable payouts Discover more inside
 ---
 
 

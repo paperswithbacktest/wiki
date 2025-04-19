@@ -1,6 +1,7 @@
 ---
-title: "Ethereum: Overview and Functionality"
-description: "Explore Ethereum's impact on algorithmic trading as it combines blockchain technology with smart contracts to enhance security, efficiency, and innovation."
+title: Ethereum Platform Overview Smart Contracts and Future Prospects
+description: Ethereum enables developers to deploy smart contracts dApps manage wallets
+  and pay gas fees while transitioning to Proof of Stake Discover more inside.
 ---
 
 

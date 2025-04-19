@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Industrial Average Yield Overview"
-description: "Explore an insightful overview of the Dow Jones Industrial Average focusing on yield calculations and the significant role of algorithmic trading in financial markets."
+title: Understanding DJIA Yield And Its Impact On Investor Decisions
+description: DJIA yield shows what income investors can earn from dividends of 30
+  leading US companies and how market cycles affect returns Discover more inside
 ---
 
 

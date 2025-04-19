@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of the New Deal"
-description: "Explore the economic impact of the New Deal during the Great Depression and discover how modern algorithmic trading reshapes financial markets today."
+title: Understanding the New Deal Programs and Economic Impact
+description: New Deal programs reshaped the US economy by providing relief jobs reforming
+  banking and labor standards for lasting stability Discover more inside.
 ---
 
 

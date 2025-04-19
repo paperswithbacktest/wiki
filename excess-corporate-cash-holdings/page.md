@@ -1,6 +1,7 @@
 ---
-title: "Excess Corporate Cash Holdings"
-description: "Discover effective strategies for managing excess corporate cash holdings using algorithmic trading to enhance financial returns and operational stability."
+title: Managing Excess Corporate Cash Holdings for Strategic Growth
+description: Excess corporate cash holdings can sap growth Explore strategies to deploy
+  surplus funds effectively enhance shareholder value Discover more inside
 ---
 
 

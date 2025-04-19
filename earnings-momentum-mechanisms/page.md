@@ -1,6 +1,7 @@
 ---
-title: "Earnings Momentum and Its Mechanisms"
-description: "Explore how earnings momentum can enhance investment strategies by identifying stocks with consistent growth patterns through algorithmic trading for higher returns."
+title: Earnings Momentum Explained For Smarter Investment Decisions
+description: Earnings momentum shows how consistent earnings growth impacts stock
+  values and informs portfolio strategies and forecast accuracy Discover more inside
 ---
 
 

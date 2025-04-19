@@ -1,6 +1,7 @@
 ---
-title: "Drug Pricing Strategies of Pharmaceutical Companies"
-description: "Explore drug pricing strategies in pharma, focusing on R&D costs, ethical considerations, and algorithmic trading. Learn how firms balance profit and accessibility."
+title: Key Factors Influencing Pharmaceutical Drug Pricing Strategies
+description: Pharmaceutical drug pricing hinges on research costs, market dynamics,
+  patents and global policies to ensure both access and innovation Discover more inside.
 ---
 
 

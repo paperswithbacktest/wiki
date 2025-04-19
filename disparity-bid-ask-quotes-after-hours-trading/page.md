@@ -1,6 +1,8 @@
 ---
-title: "Disparity in Bid and Ask Quotes during After-Hours Trading"
-description: "Explore the dynamics of after-hours trading focusing on bid and ask price disparities and how algorithmic trading can optimize strategies and manage risks effectively."
+title: After Hours Trading Impact on Bid-Ask Spreads
+description: After hours trading dynamics can widen bid-ask spreads due to lower liquidity
+  and volume Explore how to manage risk with limit orders and timing Discover more
+  inside.
 ---
 
 

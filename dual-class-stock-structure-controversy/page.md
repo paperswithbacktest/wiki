@@ -1,6 +1,7 @@
 ---
-title: "Dual-Class Stock Structure and Controversy"
-description: "Explore the complexities of dual-class stock structures and their impact on corporate governance amid the rise of algorithmic trading in modern finance."
+title: Dual-Class Stock Structure Benefits and Risks for Investors
+description: Dual-Class Stock Structure empowers founders to pursue long-term visions
+  while balancing investor rights and governance. Discover more inside.
 ---
 
 

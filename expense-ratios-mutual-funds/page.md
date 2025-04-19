@@ -1,6 +1,7 @@
 ---
-title: "Expense Ratios in Mutual Funds"
-description: "Understand expense ratios in mutual funds and their impact on investment returns Explore how costs affect net gains and the role of algorithmic trading"
+title: Understanding Mutual Fund Expense Ratios and Their Impact
+description: Expense ratio in mutual funds shapes your earnings over time by covering
+  management administrative costs which deduct from your gains Discover more inside.
 ---
 
 

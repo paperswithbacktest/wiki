@@ -1,6 +1,7 @@
 ---
-title: "Demand Index: Definition, Rules, and Examples"
-description: "Discover the Demand Index in algorithmic trading a key indicator measuring buying and selling pressures to predict market shifts and optimize strategies."
+title: Understanding the Demand Index for Business and Economics
+description: Demand Index reveals how consumer interest and willingness to pay shape
+  pricing and production decisions for market strategies Discover more inside.
 ---
 
 

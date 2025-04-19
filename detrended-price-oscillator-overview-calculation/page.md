@@ -1,6 +1,7 @@
 ---
-title: "Detrended Price Oscillator: Overview and Calculation"
-description: "The Detrended Price Oscillator (DPO) helps traders identify price cycles and potential turning points by removing trends from data, aiding strategic trading decisions."
+title: The Detrended Price Oscillator Explained for Traders
+description: Detrended Price Oscillator helps you isolate short term price cycles
+  and spot overbought or oversold conditions more clearly. Discover more inside.
 ---
 
 

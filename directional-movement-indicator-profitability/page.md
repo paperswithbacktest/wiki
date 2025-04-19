@@ -1,6 +1,7 @@
 ---
-title: "Directional Movement Indicator and Profitability"
-description: "Explore how the Directional Movement Index (DMI) can boost algorithmic trading profitability by identifying market trends and optimizing trading strategies."
+title: Directional Movement Indicator for Reliable Trend Insights
+description: Directional Movement Indicator helps traders gauge trend direction and
+  strength to time market entries and exits effectively Discover more inside.
 ---
 
 

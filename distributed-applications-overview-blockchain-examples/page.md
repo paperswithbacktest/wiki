@@ -1,6 +1,7 @@
 ---
-title: "Distributed Applications: Overview and Blockchain Examples"
-description: "Explore the potential of Distributed Applications (DApps) in blockchain and algorithmic trading to enhance security, transparency, and user autonomy across industries."
+title: Understanding Distributed Applications and Blockchain-Based DApps
+description: Distributed applications on blockchain deliver secure solutions without
+  intermediaries Empower decentralized innovation and trust Discover more inside
 ---
 
 

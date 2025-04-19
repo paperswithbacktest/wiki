@@ -1,6 +1,7 @@
 ---
-title: "Fairness Metric (Machine Learning)"
-description: "Explore fairness metrics in machine learning to ensure unbiased models. Learn about demographic parity, equal opportunity, and their role in promoting equity."
+title: Understanding Fairness Metrics In Machine Learning Models
+description: Fairness metrics in machine learning reveal model bias across groups
+  and guide corrections to ensure equitable outcomes for all users Discover more inside.
 ---
 
 ![Image](images/1.png)

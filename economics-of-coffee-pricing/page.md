@@ -1,6 +1,7 @@
 ---
-title: "Economics of Coffee Pricing"
-description: "Explore how global economic forces, algorithmic trading, and environmental factors influence coffee pricing, impacting producers, traders, and consumers."
+title: Key Factors Influencing Global Coffee Prices and Trends
+description: Coffee prices reflect production costs supply and demand weather patterns
+  and market trends so you can make informed sourcing decisions Discover more inside.
 ---
 
 

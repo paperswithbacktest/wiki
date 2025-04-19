@@ -1,6 +1,7 @@
 ---
-title: "Empirical Rule Explained: Formula and Applications"
-description: "The empirical rule is crucial for traders in algorithmic trading by helping quantify risk and volatility through understanding data distribution and standard deviation."
+title: Applying the Empirical Rule to Data Analysis and Trading
+description: Empirical Rule offers a quick method to measure data spread in normal
+  distributions drive quality control and guide trading decisions Discover more inside
 ---
 
 

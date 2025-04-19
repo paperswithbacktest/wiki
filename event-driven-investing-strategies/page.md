@@ -1,6 +1,7 @@
 ---
-title: "Event-Driven Investing Strategies"
-description: "Explore event-driven investing and algorithmic trading strategies to capitalize on market inefficiencies and enhance returns through technological precision."
+title: Event-Driven Investing Explained A Comprehensive Strategy Guide
+description: Event-Driven Investing leverages corporate and economic events to drive
+  timely trades and manage volatility with proven risk controls Discover more inside.
 ---
 
 

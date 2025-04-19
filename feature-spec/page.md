@@ -1,6 +1,7 @@
 ---
-title: "Feature Spec (Machine Learning)"
-description: "Learn what a Feature Spec is in machine learning, why it's crucial for model accuracy, and how it's created to ensure consistent data preparation."
+title: Essential Guide to Feature Specs in Machine Learning
+description: Feature Spec defines how to process raw data into machine learning features
+  ensuring consistent preparation and improved accuracy Discover more inside
 ---
 
 ![Image](images/1.png)

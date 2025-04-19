@@ -1,6 +1,7 @@
 ---
-title: "Equity Commitment Note: Functions and Mechanisms"
-description: "Discover how equity commitment notes and algorithmic trading intersect to enhance capital allocation strategies and market efficiency in modern finance."
+title: Understanding Equity Commitment Notes in Corporate Finance
+description: Equity Commitment Note provides companies with growth funding and investors
+  future share upside and downside protection Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Drawbacks of the Dividend Discount Model"
-description: "Discover the limitations of the Dividend Discount Model in algorithmic trading, exploring its assumptions and challenges for precise stock valuation."
+title: Understanding The Dividend Discount Model For Stock Valuation
+description: Dividend Discount Model shows how to value stocks by discounting expected
+  dividends with precise assumptions on growth and risk Discover more inside.
 ---
 
 

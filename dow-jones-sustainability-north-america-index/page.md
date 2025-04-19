@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Sustainability North America Index"
-description: "Discover how the Dow Jones Sustainability North America Index and algorithmic trading converge to create efficient strategies for sustainable investing."
+title: Understanding the Dow Jones Sustainability North America Index
+description: Dow Jones Sustainability North America Index guides investors to sustainable
+  US and Canadian companies through annual assessments Discover more inside
 ---
 
 

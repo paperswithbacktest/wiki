@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Global Titans 50 Index Overview"
-description: "Explore the Dow Jones Global Titans 50 Index and discover how algorithmic trading enhances investment strategies for top multinational corporations."
+title: Dow Jones Global Titans 50 Index Performance and Insights
+description: Dow Jones Global Titans 50 Index tracks the 50 largest companies worldwide
+  giving a clear market overview for investors. Discover more inside.
 ---
 
 

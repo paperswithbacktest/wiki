@@ -1,6 +1,7 @@
 ---
-title: "Evaluating EPS Quality"
-description: "Evaluate EPS quality in algo trading to assess profitability and optimize strategies. Gain insights into trading decisions and competitive advantages using EPS trends."
+title: Understanding Earnings Per Share EPS Key Metrics for Investors
+description: EPS stands for Earnings Per Share and reveals how profitable your investment
+  can be with straightforward calculation and analysis Discover more inside.
 ---
 
 

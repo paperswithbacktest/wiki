@@ -1,6 +1,7 @@
 ---
-title: "Equivolume Chart: Functionality and Comparison"
-description: "Discover how Equivolume charts integrate price and volume data to provide insights into market trends, offering a valuable tool for algo trading strategies."
+title: Understanding Equivolume Charts for Accurate Volume Analysis
+description: Equivolume Charts combine price and trading volume into intuitive boxes
+  so you can spot market trends and volume spikes in one view. Discover more inside.
 ---
 
 

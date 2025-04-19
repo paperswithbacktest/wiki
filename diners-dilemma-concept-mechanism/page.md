@@ -1,6 +1,8 @@
 ---
-title: "Diner's Dilemma: Concept and Mechanism"
-description: "Explore how the diner's dilemma in game theory impacts algorithmic trading showcasing how individual decisions can lead to suboptimal market outcomes and strategies to counteract them."
+title: "Understanding the Diner\u2019s Dilemma in Game Theory and Economics"
+description: "Diner\u2019s Dilemma reveals how risk and reward shape strategic decisions\
+  \ from dining choices to market trades in game theory frameworks. Discover more\
+  \ inside."
 ---
 
 

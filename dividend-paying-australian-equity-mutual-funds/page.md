@@ -1,6 +1,7 @@
 ---
-title: "Dividend-Paying Australian Equity Mutual Funds"
-description: "Discover comprehensive insights into Australian dividend funds and mutual funds Enhance your strategy with algorithmic trading for optimized income and growth"
+title: Investing in Dividend-Paying Australian Equity Mutual Funds
+description: Dividend-paying Australian equity mutual funds provide steady income
+  and diversification with expert management and DRIP strategies Discover more inside
 ---
 
 

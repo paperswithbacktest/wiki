@@ -1,6 +1,7 @@
 ---
-title: "Dunning-Kruger Effect in Finance"
-description: "Explore the impact of the Dunning-Kruger Effect in finance and trading. Learn how cognitive biases affect decision-making and how algorithmic trading offers solutions."
+title: Understanding the Dunning-Kruger Effect in Financial Decisions
+description: Dunning-Kruger Effect in finance shows how overconfidence skews investments
+  and advice. Use expert tips to improve decision making. Discover more inside.
 ---
 
 

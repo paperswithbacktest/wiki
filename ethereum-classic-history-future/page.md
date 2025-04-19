@@ -1,6 +1,7 @@
 ---
-title: "Ethereum Classic: History and Future"
-description: "Explore Ethereum Classic's origins from The DAO hack, its steadfast philosophy of blockchain immutability, and its evolving role in algorithmic trading."
+title: Ethereum Classic Guide to Origins Principles Uses and Future
+description: Ethereum Classic embraces unalterable blockchain history and decentralization
+  while covering origins principles uses and roadmap Discover more inside.
 ---
 
 

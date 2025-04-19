@@ -1,6 +1,7 @@
 ---
-title: "European Capital Markets Institute"
-description: "Explore the role of ECMI in enhancing European capital markets through policy insights and research on algo trading that boosts market efficiency and liquidity."
+title: European Capital Markets Institute Role in Market Integration
+description: European Capital Markets Institute delivers research and policy guidance
+  to strengthen integration in EU financial markets Discover more inside
 ---
 
 

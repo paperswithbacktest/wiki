@@ -1,6 +1,7 @@
 ---
-title: "Feasibility of Infinite Economic Growth on a Finite Planet"
-description: "Explore the challenges of infinite economic growth on a finite planet and the role of algorithmic trading in balancing prosperity with environmental sustainability."
+title: Infinite Economic Growth on a Finite Planet Explained
+description: Infinite economic growth on a finite planet requires sustainable strategies
+  and tech to balance resource use and protect environment Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economics of Solar Energy"
-description: "Discover the economic factors affecting solar energy's global rise and the potential of algorithmic trading to optimize sustainable investments and solar market dynamics."
+title: Understanding Solar Energy Economics and Its Financial Impact
+description: Solar Energy Economics examines cost drivers from installation through
+  long term savings and grid integration to highlight value. Discover more inside.
 ---
 
 

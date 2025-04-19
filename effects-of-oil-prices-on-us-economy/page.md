@@ -1,6 +1,7 @@
 ---
-title: "Effects of Oil Prices on the U.S. Economy"
-description: "Explore the intricate effects of oil price fluctuations on the U.S. economy and the role of algorithmic trading in shaping energy markets and economic policies."
+title: Impact of Oil Price Fluctuations on the U.S. Economy
+description: Oil price fluctuations shape consumer spending business costs and inflation
+  while influencing monetary and trade policies Discover more inside
 ---
 
 

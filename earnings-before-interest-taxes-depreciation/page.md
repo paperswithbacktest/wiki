@@ -1,6 +1,7 @@
 ---
-title: "Earnings Before Interest, Taxes, and Depreciation"
-description: "Explore how EBITD is used in corporate finance and algorithmic trading to assess operational health and enhance trading strategies with data-driven insights."
+title: Understanding EBITD for Clearer Core Business Analysis
+description: EBITD shows company core operations profit before interest taxes and
+  depreciation while benchmarking performance across peers Discover more inside
 ---
 
 

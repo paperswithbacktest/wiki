@@ -1,6 +1,7 @@
 ---
-title: "Dividends in Arrears and Preferred Shares"
-description: "Explore the complexities of investing in preferred shares and the impact of dividends in arrears. Learn how algorithmic trading influences market dynamics."
+title: Understanding Dividends in Arrears on Preferred Shares
+description: Dividends in arrears create obligations for preferred shareholders and
+  can affect credit ratings See how companies handle dividends Discover more inside
 ---
 
 

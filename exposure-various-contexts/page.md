@@ -1,6 +1,7 @@
 ---
-title: "Exposure in Various Contexts"
-description: "Discover how to manage exposure in algorithmic trading with effective risk management strategies. Learn about exposure metrics, risk assessment, and real-time risk management techniques to optimize trading success and protect investments."
+title: Understanding Exposure In Photography Finance And Trading
+description: Exposure in photography and finance explained in clear terms with practical
+  tips on camera settings risk management and marketing Discover more inside.
 ---
 
 

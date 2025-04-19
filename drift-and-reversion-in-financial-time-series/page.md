@@ -1,6 +1,7 @@
 ---
-title: "Drift and reversion in financial time series"
-description: "Explore the essentials of drift and mean reversion to craft profitable algorithmic trading strategies, analyzing trends and market reversals for optimal trading."
+title: Understanding Drift and Mean Reversion in Financial Time Series
+description: Drift and mean reversion reveal long term trends and price corrections,
+  helping analysts model and forecast market movements Discover more inside.
 ---
 
 

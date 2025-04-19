@@ -1,6 +1,7 @@
 ---
-title: "Dense Layer (Machine Learning)"
-description: "Discover the role of dense layers in neural networks Also known as fully connected layers they connect every neuron to learn complex data patterns efficiently"
+title: Understanding Dense Layers And Their Roles In Neural Networks
+description: Dense layer in neural networks extracts patterns using weights biases
+  activations and optimizes parameters for improved results Discover more inside.
 ---
 
 ![Image](images/1.png)

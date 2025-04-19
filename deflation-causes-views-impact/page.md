@@ -1,6 +1,7 @@
 ---
-title: "Deflation: Causes and Views on Its Impact"
-description: "Explore how deflation affects economies by reducing spending and altering trading strategies in financial markets with algorithmic trading implications."
+title: Understanding Deflation Impacts on Economies and Policy Responses
+description: Deflation pressures consumer spending and growth as falling prices can
+  prompt rate cuts and unconventional central bank policies Discover more inside
 ---
 
 

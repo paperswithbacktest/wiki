@@ -1,6 +1,7 @@
 ---
-title: "Dotcom Bubble"
-description: "Discover how the dotcom bubble, internet boom, and algorithmic trading transformed markets uncovering key lessons in technology-driven financial evolution."
+title: Understanding the Rise and Fall of the Dotcom Bubble
+description: Dotcom Bubble insights uncover why internet stocks surged then collapsed
+  and highlight investment lessons from the 2000 crash Discover more inside.
 ---
 
 

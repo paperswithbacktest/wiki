@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones BRIC 50 Index"
-description: "Explore the Dow Jones BRIC 50 Index focusing on Brazil India and China as it evolves to become a key benchmark for investors in dynamic emerging markets."
+title: Understanding the Dow Jones BRIC 50 Index for Investors
+description: Dow Jones BRIC 50 Index reveals emerging market growth by tracking top
+  firms in Brazil Russia India and China to diversify portfolios Discover more inside
 ---
 
 

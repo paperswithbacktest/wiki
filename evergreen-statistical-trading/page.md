@@ -1,6 +1,7 @@
 ---
-title: "Evergreen Statistical Trading"
-description: "Explore the world of evergreen statistical trading and discover how data-driven strategies can provide reliable and adaptable solutions for algorithmic trading."
+title: Evergreen Statistical Trading Strategies for Consistent Returns
+description: Evergreen Statistical Trading uses data driven models and machine learning
+  to deliver steady returns over market cycles Discover more inside
 ---
 
 

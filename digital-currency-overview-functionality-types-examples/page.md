@@ -1,6 +1,7 @@
 ---
-title: "Digital Currency: Overview, Functionality, Types, and Examples"
-description: "Discover the functions and impacts of digital currency and cryptocurrency in finance Learn about electronic money and algorithmic trading in this informative guide"
+title: Understanding Digital Currency and Its Global Financial Impact
+description: Digital currency powers secure low fee global transfers while unpacking
+  cryptocurrencies and CBDCs benefits risks and future Discover more inside.
 ---
 
 

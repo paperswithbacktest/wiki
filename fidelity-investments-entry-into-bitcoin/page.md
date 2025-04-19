@@ -1,6 +1,7 @@
 ---
-title: "Fidelity Investments' Entry into Bitcoin"
-description: "Fidelity Investments pioneers cryptocurrency trading using algorithmic strategies to enhance Bitcoin transactions, leading the shift in financial innovation."
+title: Fidelity Launches Bitcoin Services on Digital Assets Platform
+description: Fidelity Bitcoin services help investors store and trade digital currency
+  securely and access expert guidance for informed investing Discover more inside.
 ---
 
 

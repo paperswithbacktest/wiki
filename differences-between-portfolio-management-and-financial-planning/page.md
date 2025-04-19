@@ -1,6 +1,7 @@
 ---
-title: "Differences Between Portfolio Management and Financial Planning"
-description: "Explore investment strategies and the role of financial planning versus portfolio management in wealth building Understand the impact of algorithmic trading"
+title: Comparing Portfolio Management and Financial Planning Strategies
+description: Portfolio management and financial planning explained to align your investments
+  with goals, balance risk and build a secure future Discover more inside
 ---
 
 

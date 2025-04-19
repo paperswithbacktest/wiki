@@ -1,6 +1,7 @@
 ---
-title: "Factor Allocation"
-description: Discover the world of Factor Allocation in Algo Trading, an innovative strategy for optimizing portfolios in quantitative trading. Build a portfolio based on quantifiable factors, determine their weights, and leverage timing for maximum returns. Learn how momentum plays a role and understand associated risks. Explore resources to deepen your understanding and become a successful algorithmic trader.
+title: Factor Allocation Strategies To Enhance Portfolio Diversification
+description: Factor allocation helps investors choose size growth and value factors
+  to optimize risk and return and enhance diversification Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Exotic Currency: Definition and Function"
-description: "Explore the dynamics of exotic currencies in forex trading and how algorithmic strategies optimize investments by leveraging their unique risk-reward profiles."
+title: Exotic Currencies Explained Risks Strategies and Global Impact
+description: Exotic currencies involve risks and opportunities in limited markets
+  Discover strategies and insights to manage volatility Discover more inside
 ---
 
 

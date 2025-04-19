@@ -1,6 +1,7 @@
 ---
-title: "Dow Jones Industrial Average Index"
-description: "Explore the historical significance and modern influence of the Dow Jones Industrial Average in algorithmic trading strategies and economic indicators."
+title: Understanding the Dow Jones Industrial Average and Market Impact
+description: Dow Jones Industrial Average covers its history composition calculation
+  and market impact to guide investment decisions Discover more inside
 ---
 
 

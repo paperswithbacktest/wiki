@@ -1,6 +1,7 @@
 ---
-title: "Economic Indicators and Interpretation"
-description: "Explore how economic indicators like GDP and unemployment rates integrate with algorithmic trading strategies to enhance trading decisions in financial markets."
+title: Economic Indicators Explained for Forecasting and Analysis
+description: Economic Indicators reveal comprehensive market health through leading
+  lagging and coincident measures to guide strategic decisions Discover more inside
 ---
 
 

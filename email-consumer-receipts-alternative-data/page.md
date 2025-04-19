@@ -1,6 +1,7 @@
 ---
-title: "Email/Consumer Receipts Alternative Data"
-description: Explore the power of email consumer receipts as alternative data in algorithmic trading to enhance precision and timing of trading strategies Illuminate how these digital receipts offer real-time insights into purchasing behaviors transforming trading strategies with valuable market dynamics understanding
+title: Using Email And Consumer Receipts As Alternative Data Sources
+description: Alternative data turns email and receipt records into market insights
+  helping businesses predict trends optimize inventory pricing Discover more inside
 ---
 
 

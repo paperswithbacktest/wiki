@@ -1,6 +1,7 @@
 ---
-title: "Distillation (Machine Learning)"
-description: "Knowledge distillation in machine learning simplifies complex models for efficiency and speed ideal for low-power devices while maintaining high performance."
+title: Understanding Knowledge Distillation in Machine Learning
+description: Knowledge Distillation in Machine Learning builds simpler student models
+  from complex teachers for faster inference on mobile devices Discover more inside.
 ---
 
 ![Image](images/1.png)

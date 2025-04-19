@@ -1,6 +1,7 @@
 ---
-title: "Ex-Rights in Finance"
-description: "Explore how ex-rights finance calculations enhance algorithmic trading, optimizing strategies with precise stock pricing adjustments due to rights issues."
+title: Understanding Ex-Rights in Finance and Rights Issue Mechanisms
+description: Ex-rights in finance explain how stock prices adjust after rights issues
+  and guide investors on strategic opportunities Discover more inside
 ---
 
 

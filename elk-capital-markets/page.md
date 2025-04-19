@@ -1,6 +1,7 @@
 ---
-title: "Elk Capital Markets"
-description: "Explore Elk Capital Markets a leader in algorithmic trading offering cutting-edge technology to optimize trades minimize risks and stay ahead in financial markets"
+title: Elk Capital Markets Stock Trading And Investment Solutions
+description: Elk Capital Markets provides transparent stock trading and investment
+  tracking with secure technology to protect your portfolio Discover more inside.
 ---
 
 

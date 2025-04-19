@@ -1,6 +1,7 @@
 ---
-title: "European Single Market: Advantages and Disadvantages"
-description: "Explore the intersection of the European Single Market and algorithmic trading examining their benefits and challenges within the EU's dynamic financial landscape."
+title: 'European Single Market Explained: Impact Benefits and Challenges'
+description: European Single Market removes trade barriers and boosts choice and competition
+  across Europe saving consumers and businesses money. Discover more inside.
 ---
 
 

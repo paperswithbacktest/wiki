@@ -1,6 +1,7 @@
 ---
-title: "Earnings Before Interest, Depreciation, and Amortization"
-description: "Discover the conservative financial metric EBIDA which adds insights to both corporate finance and algorithmic trading. This article explores how Earnings Before Interest Depreciation and Amortization offers a nuanced view of operational cash flows by factoring in tax expenses. Dive into the details of why EBIDA is valued for showcasing a company's true financial performance and how it assists algorithmic traders in making informed decisions based on a company's operational health."
+title: Understanding EBITDA and EBIDA Metrics for Business Valuation
+description: EBITDA measures core operational profit by stripping out interest taxes
+  depreciation and amortization for fair business comparisons Discover more inside
 ---
 
 

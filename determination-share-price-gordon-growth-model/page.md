@@ -1,6 +1,7 @@
 ---
-title: "Determination of Share Price Using the Gordon Growth Model"
-description: "Discover how the Gordon Growth Model estimates share prices and intrinsic stock values, providing insights for informed investment strategies in algo trading."
+title: Understanding the Gordon Growth Model for Stock Valuation
+description: Gordon Growth Model values shares using next years expected dividend
+  and the spread between required return and dividend growth rate Discover more inside
 ---
 
 

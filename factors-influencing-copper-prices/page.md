@@ -1,6 +1,7 @@
 ---
-title: "Factors Influencing Copper Prices"
-description: "Explore the key factors influencing copper prices including supply-demand balance, geopolitical events, currency rates, and algorithmic trading for informed decisions."
+title: Key Factors Influencing Global Copper Prices and Markets
+description: Copper prices follow global supply and demand trends economic cycles
+  to deliver actionable insights on key market drivers Discover more inside
 ---
 
 

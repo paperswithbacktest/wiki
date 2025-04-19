@@ -1,6 +1,7 @@
 ---
-title: "Economist Intelligence Unit: Overview and Functionality"
-description: "Explore Economist Intelligence Unit's role in economic forecasting and its synergy with algorithmic trading providing insights crucial for strategic decisions."
+title: Economist Intelligence Unit Analysis Methodology and Services
+description: Economist Intelligence Unit provides economic analysis forecasts and
+  custom indexes to guide business and government strategies. Discover more inside
 ---
 
 

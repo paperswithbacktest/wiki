@@ -1,6 +1,7 @@
 ---
-title: "Economic and Social Stabilization Fund of Chile"
-description: "Explore Chile's Economic and Social Stabilization Fund and its pivotal role in managing fiscal stability amid copper price volatility using innovative algo trading."
+title: Chile Economic And Social Stabilization Fund Explained
+description: Economic and Social Stabilization Fund safeguards Chilean economy by
+  saving copper revenues for downturns and funding vital services Discover more inside.
 ---
 
 

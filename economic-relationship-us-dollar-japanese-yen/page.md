@@ -1,6 +1,7 @@
 ---
-title: "Economic Relationship Between the U.S. Dollar and the Japanese Yen"
-description: "Explore the dynamics of the USD/JPY currency pair and algorithmic trading's role in forex markets uncovering factors affecting exchange rates and unique trading strategies."
+title: USD/JPY Exchange Rate Dynamics and Key Influencing Factors
+description: USD/JPY exchange rate explained with key economic indicators and policy
+  drivers that impact U.S. Japan trade dynamics Discover more inside today
 ---
 
 

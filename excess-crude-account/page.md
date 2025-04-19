@@ -1,6 +1,8 @@
 ---
-title: "Excess Crude Account"
-description: "Explore how algorithmic trading can optimize Nigeria's oil revenue management by improving transparency and efficiency to stabilize the economy and boost governance."
+title: Managing Nigeria's Excess Crude Account for Economic Stability
+description: "Excess Crude Account saves Nigeria\u2019s surplus oil revenues above\
+  \ forecast price to fund projects and stabilize budgets when prices fall Discover\
+  \ more inside"
 ---
 
 

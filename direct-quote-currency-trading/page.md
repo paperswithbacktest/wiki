@@ -1,6 +1,7 @@
 ---
-title: "Direct Quote in Currency Trading"
-description: "Explore how direct quotes and algorithmic trading enhance currency trading by simplifying foreign exchange valuation and leveraging quick market responses."
+title: Understanding Direct Quotes and Their Role in Currency Trading
+description: Direct quotes in currency trading reveal the domestic cost for one unit
+  of foreign currency and help you time trades effectively Discover more inside.
 ---
 
 

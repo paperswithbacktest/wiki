@@ -1,6 +1,7 @@
 ---
-title: "Earnings Recast: Overview and Example"
-description: "Discover the vital role of earnings recast in algorithmic trading and financial markets, exploring transparency, market efficiency, and investor perceptions."
+title: Earnings Recast Explained Its Importance Process and Impact
+description: Earnings recast clarifies past earnings with revised accounting for transparent
+  reporting and better informed decisions Discover more inside
 ---
 
 

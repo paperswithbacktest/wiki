@@ -1,6 +1,7 @@
 ---
-title: "Essential Economic Concepts for Consumers"
-description: "Discover the impact of financial literacy, consumer economics, and algo trading on modern finance to make informed decisions in a complex economic landscape."
+title: Fundamental Economic Concepts for Informed Consumer Decisions
+description: Key economic concepts to help you understand how supply demand inflation
+  policy and globalization shape consumer decisions Discover more inside
 ---
 
 

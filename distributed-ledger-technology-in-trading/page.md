@@ -1,6 +1,7 @@
 ---
-title: "Distributed Ledger Technology in Trading"
-description: "Explore the transformative impact of Distributed Ledger Technology on algorithmic trading enhancing transparency and efficiency while reducing risks and intermediaries."
+title: Distributed Ledger Technology Benefits and Use Cases in Trading
+description: Distributed Ledger Technology secures trading with transparent transactions
+  and automated smart contracts for efficient operations Discover more inside.
 ---
 
 

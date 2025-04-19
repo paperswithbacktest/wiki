@@ -1,6 +1,7 @@
 ---
-title: "Fibonacci Sequence and Golden Ratio"
-description: "Explore how the mathematical elegance of the Fibonacci sequence and the Golden Ratio enhances modern algorithmic trading strategies and market analysis."
+title: Fibonacci Sequence And Golden Ratio Real World Applications
+description: Fibonacci sequence shows how numbers shape nature art and technology
+  with golden ratio insights and real world applications Discover more inside
 ---
 
 

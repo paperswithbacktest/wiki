@@ -1,6 +1,7 @@
 ---
-title: "Deficit Spending Unit"
-description: "Explore how deficit spending and fiscal policy intersect with algorithmic trading, impacting economic stability and market dynamics in today's financial systems."
+title: Understanding Deficit Spending Units in Economic Policy
+description: Deficit Spending Units borrow to cover expenses drive economic activity
+  and require careful debt management across sectors Discover more inside.
 ---
 
 

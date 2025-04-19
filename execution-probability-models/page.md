@@ -1,6 +1,7 @@
 ---
-title: "Execution Probability Models"
-description: "Explore execution probability models for algorithmic trading and enhance trade efficiency with insights on order execution likelihood improving trading strategies."
+title: Understanding Execution Probability Models in Trading
+description: Execution Probability Models leverage past trade and market data to predict
+  trade success likelihood and enhance decision making Discover more inside
 ---
 
 

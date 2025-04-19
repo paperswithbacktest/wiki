@@ -1,6 +1,7 @@
 ---
-title: "Destructive Creation: Concept and Mechanism"
-description: "Explore the interplay between creative destruction and destructive creation in algorithmic trading Learn how these phenomena shape economic growth and potential risks"
+title: Understanding Destructive Creation in Modern Economic Growth
+description: Destructive Creation boosts economic growth by replacing outdated sectors
+  with new tech and creating new job opportunities Discover more inside.
 ---
 
 

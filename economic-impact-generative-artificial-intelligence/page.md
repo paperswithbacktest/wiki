@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of Generative Artificial Intelligence"
-description: "Explore the profound economic impacts of generative AI in algorithmic trading as it reshapes financial landscapes by enhancing strategies and market adaptability."
+title: Generative AI Economic Impacts and Business Transformation
+description: Generative AI reshapes industries by driving creative innovation, boosting
+  efficiency, and reducing costs for businesses worldwide Discover more inside.
 ---
 
 

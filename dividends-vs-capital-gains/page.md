@@ -1,6 +1,7 @@
 ---
-title: "Dividends vs. Capital Gains"
-description: "Explore the differences between dividends and capital gains in algo trading and learn how they can jointly optimize your investment returns for financial success."
+title: Dividends and Capital Gains Explained for Investors
+description: Dividends and capital gains influence your investment income or growth
+  while offering tax advantages and strategies to boost returns. Discover more inside.
 ---
 
 

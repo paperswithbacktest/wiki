@@ -1,6 +1,7 @@
 ---
-title: "Ethical Walls in Investment Banking"
-description: "Discover the essential role of ethical walls in investment banking and algorithmic trading Learn how they prevent conflicts of interest and protect sensitive data"
+title: Strengthening Ethical Walls in Investment Banking for Compliance
+description: Ethical walls in investment banking prevent conflicts of interest by
+  blocking data flow and ensuring regulatory compliance Discover more inside.
 ---
 
 

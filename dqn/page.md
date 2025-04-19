@@ -1,6 +1,7 @@
 ---
-title: "DQN (Machine Learning)"
-description: "Deep Q-Network (DQN) is an AI technique using neural networks to enhance decision-making in complex environments through Q-learning and experience replay."
+title: Deep Q-Network Architecture Explained for Reinforcement Learning
+description: Deep Q-Network leverages neural networks and experience replay to stabilize
+  decision making for AI tasks in complex environments Discover more inside
 ---
 
 ![Image](images/1.png)

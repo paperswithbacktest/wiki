@@ -1,6 +1,7 @@
 ---
-title: "Detection Risk: Components and Analysis"
-description: "Explore the complexities of detection risk in auditing financial statements coupled with insights into audit risk and algorithmic trading in financial markets."
+title: Understanding Detection Risk in Auditing for Reliable Reporting
+description: Detection risk is the chance auditors miss errors or fraud and can be
+  lowered by applying data analytics and enhanced procedures Discover more inside
 ---
 
 

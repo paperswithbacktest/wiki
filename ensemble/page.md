@@ -1,6 +1,7 @@
 ---
-title: "Ensemble (Machine Learning)"
-description: "Ensemble machine learning enhances prediction accuracy by combining multiple models. Learn about bagging, boosting, stacking, and how they improve results."
+title: Ensemble Machine Learning Methods for Enhanced Model Accuracy
+description: Ensemble learning combines diverse models to boost accuracy enhance robustness
+  and reduce overfitting with bagging boosting stacking Discover more inside
 ---
 
 ![Image](images/1.png)

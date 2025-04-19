@@ -1,6 +1,7 @@
 ---
-title: "Example of a Profit and Loss Statement"
-description: "Explore how Profit and Loss statements enhance algorithmic trading strategies by providing key financial insights for optimizing trades and maximizing returns."
+title: Profit and Loss Statement Essentials for Business Analysis
+description: Profit and loss statement shows how to calculate revenues costs and profits
+  for smarter decision making and business planning. Discover more inside.
 ---
 
 

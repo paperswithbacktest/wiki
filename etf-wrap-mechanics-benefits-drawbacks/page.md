@@ -1,6 +1,7 @@
 ---
-title: "ETF Wrap: Mechanics, Benefits, and Drawbacks"
-description: "Explore the mechanics benefits and drawbacks of investing in ETFs through wrap accounts with algorithmic trading Discover strategies and make informed decisions"
+title: Understanding ETF Wrap Investing for Diversified Portfolios
+description: ETF Wrap offers a managed mix of exchange traded funds to simplify diversification
+  and ensure professional portfolio oversight Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Evaluation of Morningstar's Rating System Accuracy"
-description: "Discover how Morningstar's rating system and algorithmic trading collaborate to enhance investment analysis through historical fund insights and tech-driven strategies."
+title: Understanding The Morningstar Rating System for Funds and ETFs
+description: Morningstar rating system explains how funds earn stars from risk adjusted
+  returns and updates to help you choose investments. Discover more inside.
 ---
 
 

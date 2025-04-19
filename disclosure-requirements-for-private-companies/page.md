@@ -1,6 +1,7 @@
 ---
-title: "Disclosure Requirements for Private Companies"
-description: "Explore the impact of financial disclosure requirements on private companies, particularly in the context of algorithmic trading, to understand market dynamics."
+title: Key Disclosure Requirements for Private Companies Explained
+description: Disclosure requirements for private companies ensure transparent financial
+  reporting to build investor and lender confidence Discover more inside
 ---
 
 

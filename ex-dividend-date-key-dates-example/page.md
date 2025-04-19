@@ -1,6 +1,7 @@
 ---
-title: "Ex-Dividend Date Explained with Key Dates and Example"
-description: "Learn about the ex-dividend date and its significance with key dates, examples, and algorithmic trading insights to maximize your investment strategy."
+title: Understanding the Ex-Dividend Date and Its Investor Impact
+description: Ex-dividend date reveals when a stock trades without its next dividend
+  and guides investors on timing purchases to optimize returns Discover more inside.
 ---
 
 

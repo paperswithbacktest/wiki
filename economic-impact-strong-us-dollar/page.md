@@ -1,6 +1,7 @@
 ---
-title: "Economic Impact of a Strong US Dollar"
-description: "Explore the profound effects of a strong US dollar on global trade, investments, and emerging markets with insights into algorithmic trading and currency valuation."
+title: Understanding the Impact of a Strong US Dollar on the Economy
+description: Strong US dollar can lower US inflation and cut import costs while weighing
+  on exports tourism profits and foreign investment Discover more inside.
 ---
 
 

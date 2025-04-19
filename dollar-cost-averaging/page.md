@@ -1,6 +1,7 @@
 ---
-title: "Dollar cost averaging"
-description: "Explore dollar-cost averaging in algorithmic trading to mitigate market volatility, enhance investment strategies, and achieve long-term financial goals."
+title: Dollar Cost Averaging Strategies For Steady Wealth Growth
+description: Dollar cost averaging helps you invest fixed amounts regularly to reduce
+  risk and lower your average share cost for steady growth Discover more inside
 ---
 
 

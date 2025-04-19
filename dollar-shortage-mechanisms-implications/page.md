@@ -1,6 +1,7 @@
 ---
-title: "Dollar Shortage: Mechanisms and Implications"
-description: "Explore the mechanisms of dollar shortages and their impact on global trade and finance Discover how algorithmic trading offers strategic benefits in such crises"
+title: Understanding Dollar Shortages Impact on Global Economies
+description: Dollar shortage cuts imports and stalls loan repayments raising costs
+  Discover swaps and reserve policies to ease shortages Discover more inside
 ---
 
 

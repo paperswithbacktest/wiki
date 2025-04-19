@@ -1,6 +1,7 @@
 ---
-title: "Fidessa Group PLC"
-description: "Fidessa Group PLC offers advanced algorithmic trading platforms, enhancing efficiency and decision-making in financial markets for institutions globally."
+title: Fidessa Group PLC Software Solutions for Financial Markets
+description: Fidessa Group PLC provides a trading platform with connectivity and analytics
+  to streamline workflows and maintain compliance Discover more inside
 ---
 
 

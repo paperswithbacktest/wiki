@@ -1,6 +1,7 @@
 ---
-title: "Efficient Market Hypotheses: Weak, Strong, and Semi-Strong Forms"
-description: "Explore how the Efficient Market Hypothesis impacts algorithmic trading by examining weak strong and semi-strong forms and the role of market efficiency."
+title: Understanding the Efficient Market Hypothesis and Its Forms
+description: Efficient Market Hypothesis explains how stock prices absorb information
+  and reviews EMH's three forms to inform diversified investing Discover more inside
 ---
 
 

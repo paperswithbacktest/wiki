@@ -1,6 +1,7 @@
 ---
-title: "Factuality (Machine Learning)"
-description: "Factuality in machine learning ensures a model's predictions align with real-world outcomes crucial for applications like medical diagnostics and financial forecasting."
+title: Ensuring Factuality in Machine Learning for Reliable Predictions
+description: Factuality in machine learning ensures model outputs match real-world
+  data by using quality datasets and validation metrics Discover more inside.
 ---
 
 ![Image](images/1.png)

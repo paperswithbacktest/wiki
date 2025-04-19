@@ -1,6 +1,8 @@
 ---
-title: "Fear and Greed Index Overview"
-description: "Explore how the Fear and Greed Index influences algorithmic trading by measuring investor sentiment and providing insights into market trends and trading strategies."
+title: Understanding the Fear and Greed Index for Smarter Investing
+description: Fear and Greed Index helps investors gauge market sentiment by measuring
+  fear and greed drivers in real time to inform buy and sell decisions Discover more
+  inside
 ---
 
 

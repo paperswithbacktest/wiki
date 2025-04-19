@@ -1,6 +1,7 @@
 ---
-title: "Elasticity and Inelasticity of Demand"
-description: "Explore how understanding demand elasticity and inelasticity enhances algorithmic trading by predicting market trends and optimizing strategies for reliable outcomes."
+title: Understanding Price Elasticity of Demand for Businesses
+description: Price elasticity of demand measures how price changes affect sales helping
+  businesses optimize pricing strategies and boost revenue Discover more inside
 ---
 
 

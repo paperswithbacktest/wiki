@@ -1,6 +1,7 @@
 ---
-title: "Economist: Role, Duties, and Influence"
-description: "Explore the essential role of economists in the dynamic world of algorithmic trading. Discover how they analyze economic trends, advise on policy and business strategies, and evolve traditional models to integrate automated trading systems. Delve into the complex interplay between innovation, market stability, and financial regulations in modern global markets."
+title: Economists Roles in Data Analysis Policy and Business Decisions
+description: Economists combine data analysis forecasting and economic theory to provide
+  insights driving informed policy and business decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Economic Spread: Definition and Mechanism"
-description: "Explore the concept of economic spread and its significance in algo trading Learn key financial metrics and optimize strategies for enhanced investment success"
+title: Understanding Economic Spread As A Key Financial Metric
+description: Economic spread shows how firms generate returns above capital costs
+  and use policies data to drive value creation across sectors Discover more inside.
 ---
 
 

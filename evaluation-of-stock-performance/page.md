@@ -1,6 +1,7 @@
 ---
-title: "Evaluation of Stock Performance"
-description: "Explore the integration of algorithmic trading in modern investment strategies to enhance stock performance evaluation and financial analysis for informed decisions."
+title: Comprehensive Guide to Evaluating Stock Performance and Metrics
+description: Stock Performance evaluation details key metrics like P/E ratio EPS dividend
+  yield and ROI to guide informed investment choices Discover more inside.
 ---
 
 

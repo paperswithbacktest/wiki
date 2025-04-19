@@ -1,6 +1,7 @@
 ---
-title: "Energy Exchange-Traded Funds: Overview and Investment Strategies"
-description: "Explore strategic investment in Energy ETFs focusing on oil gas and alternative energy sectors. Discover how algorithmic trading enhances returns and risk management."
+title: Understanding Energy ETFs A Practical Guide For Investors
+description: Energy ETFs offer diversified exposure to traditional and renewable energy
+  companies with low-fee trading and custom strategies Discover more inside
 ---
 
 

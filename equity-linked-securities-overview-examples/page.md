@@ -1,6 +1,7 @@
 ---
-title: "Equity-Linked Securities: Overview and Examples"
-description: "Discover the potential of equity-linked securities in the evolving financial landscape by exploring their benefits, risks, and role in algorithmic trading strategies."
+title: Comprehensive Guide to Equity-Linked Securities for Investors
+description: Equity-Linked Securities provide stock market growth exposure with principal
+  protection and flexible terms to match your goals Discover more inside
 ---
 
 

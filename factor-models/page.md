@@ -1,6 +1,7 @@
 ---
-title: "Factor models"
-description: Factor models are crucial in algorithmic trading as they enable traders to systematically identify and exploit the influences of various financial factors on asset returns. Originating from foundational models like the Capital Asset Pricing Model, these frameworks have advanced to include multiple factors such as size and value, enhancing the depth of market analysis. By breaking down complex market behaviors, factor models aid in risk management and the formulation of robust trading strategies. They serve as a nexus between financial theory and trading practice, leveraging statistical methods to improve investment decision-making and optimize risk-adjusted performance.
+title: Factor Models in Algorithmic Trading and Portfolio Management
+description: Factor Models offer a framework to break down asset returns by key risk
+  factors and guide smarter portfolio and trading decisions Discover more inside.
 ---
 
 

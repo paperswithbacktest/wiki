@@ -1,6 +1,7 @@
 ---
-title: "Economic Capital and Risk Assessment"
-description: "Explore the crucial roles of risk management and economic capital in algorithmic trading focusing on effective risk assessment and mitigation for optimized trading outcomes."
+title: The Role of Economic Capital in Optimizing Risk Management
+description: Economic Capital guides institutions through risk assessment stress testing
+  and optimization for better risk control and resilience Discover more inside.
 ---
 
 

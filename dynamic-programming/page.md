@@ -1,6 +1,7 @@
 ---
-title: "Dynamic programming"
-description: "Improve algorithmic trading with dynamic programming by optimizing strategies updating decisions using past data and managing resources effectively for better outcomes."
+title: Understanding Dynamic Programming Techniques and Applications
+description: Dynamic Programming improves problem solving by splitting tasks into
+  subproblems and reusing results to avoid repetition Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Dual-Class Shares: Pros and Cons"
-description: "Explore the pros and cons of dual-class shares in corporate governance and algorithmic trading and their implications on investor rights and market dynamics."
+title: Understanding Dual-Class Shares and Their Impact on Corporate Governance
+description: Dual-class shares explain how founders maintain control with varied voting
+  rights while balancing fairness and long-term focus Discover more inside
 ---
 
 

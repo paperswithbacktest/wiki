@@ -1,6 +1,7 @@
 ---
-title: "Dividend Entitlement for Short Sellers in Dividend-Paying Stocks"
-description: "Explore the nuances of dividend entitlements for short sellers in dividend stocks. Learn strategies like dividend investing short selling and algo trading."
+title: Understanding Dividends and Short Selling for Investors
+description: Dividends and short selling interplay explained with entitlement rules
+  taxes global differences and risk management strategies Discover more inside.
 ---
 
 

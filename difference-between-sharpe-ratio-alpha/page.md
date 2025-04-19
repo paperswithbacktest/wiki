@@ -1,6 +1,7 @@
 ---
-title: "Difference Between Sharpe Ratio and Alpha"
-description: "Explore the difference between Sharpe ratio and alpha in algorithmic trading to assess risk-adjusted returns and benchmark performance for successful strategies."
+title: Sharpe Ratio and Alpha for Investment Performance Analysis
+description: Sharpe Ratio and Alpha help investors measure risk adjusted returns and
+  benchmark outperformance with clear formulas and insights. Discover more inside
 ---
 
 

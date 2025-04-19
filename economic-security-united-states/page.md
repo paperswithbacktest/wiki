@@ -1,6 +1,7 @@
 ---
-title: "Economic Security in the United States"
-description: "Explore the evolution of economic security and algorithmic trading in the U.S. Discover how historical milestones impact financial practices and economic stability."
+title: Strengthening Economic Security Across the United States
+description: Economic security depends on steady jobs, savings and social programs
+  that protect against financial shocks and drive future growth Discover more inside
 ---
 
 

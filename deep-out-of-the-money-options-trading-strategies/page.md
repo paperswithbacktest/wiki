@@ -1,6 +1,7 @@
 ---
-title: "Deep Out of the Money Options and Trading Strategies"
-description: "Discover the potential of deep out of the money options combined with algorithmic trading Understand the strategies and risks involved for higher reward opportunities"
+title: 'Deep Out Of The Money Options: Risks Rewards and Strategies'
+description: Deep out of the money options offer low cost high risk trades for big
+  profits Manage volatility hedge positions limit time decay Discover more inside
 ---
 
 
