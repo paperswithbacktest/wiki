@@ -1,6 +1,7 @@
 ---
-title: "Flash Pricing"
-description: "Optimize your business's revenue with flash and dynamic pricing backed by algorithmic trading. Stay competitive with real-time, data-driven strategies."
+title: Implementing Flash Pricing Strategies for Business Growth
+description: Flash Pricing delivers big discounts for a limited time to accelerate
+  sales clear old stock and attract new customers easily Discover more inside
 ---
 
 

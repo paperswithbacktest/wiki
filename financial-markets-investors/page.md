@@ -1,6 +1,7 @@
 ---
-title: "Financial Markets for Investors"
-description: "Explore how algorithmic trading enhances investment opportunities in financial markets. Understand tools and strategies to optimize trade execution and decisions."
+title: Comprehensive Guide to Financial Markets for Informed Investors
+description: Financial markets overview explains stocks bonds commodities and derivatives
+  to help investors diversify portfolios and manage risk Discover more inside
 ---
 
 

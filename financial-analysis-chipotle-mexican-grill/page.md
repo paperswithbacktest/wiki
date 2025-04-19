@@ -1,6 +1,7 @@
 ---
-title: "Financial Analysis of Chipotle Mexican Grill"
-description: "Explore the financial dynamics of Chipotle Mexican Grill with insights into profitability and the impact of algo trading strategies on stock performance."
+title: Chipotle Mexican Grill Financial Performance and Growth Strategy
+description: Chipotle Mexican Grill analysis highlights revenue growth profitability
+  drivers and expansion strategy with clear insights Discover more inside.
 ---
 
 

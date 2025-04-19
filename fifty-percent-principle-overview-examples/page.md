@@ -1,6 +1,7 @@
 ---
-title: "Fifty Percent Principle: Overview and Examples"
-description: "Master the Fifty Percent Principle in trading to forecast market corrections and enhance entry strategies with examples from algorithmic trading."
+title: Mastering the Fifty Percent Principle for Greater Productivity
+description: Fifty Percent Principle helps you allocate half your time to your most
+  impactful tasks and make smarter decisions for success Discover more inside
 ---
 
 

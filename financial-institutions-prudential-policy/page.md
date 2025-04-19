@@ -1,6 +1,7 @@
 ---
-title: "Financial Institutions and Prudential Policy"
-description: "Explore the dynamic world of financial institutions and algorithmic trading, understanding the crucial role of prudential policy in maintaining market integrity and stability."
+title: Prudential Policy Framework for Stable Financial Institutions
+description: Prudential policy ensures financial institutions stay stable with capital
+  liquidity risk management requirements and supervision Discover more inside
 ---
 
 

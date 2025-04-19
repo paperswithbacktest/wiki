@@ -1,6 +1,7 @@
 ---
-title: "Fiscal Deficits in U.S. State and Local Governments"
-description: "Explore fiscal challenges in U.S. state and local governments and innovative strategies like algorithmic trading for effective management and economic stability."
+title: Managing Fiscal Deficits in U.S. State and Local Governments
+description: Fiscal deficits in state and local governments strain budgets and services
+  yet strategic borrowing and reforms foster stable growth Discover more inside.
 ---
 
 

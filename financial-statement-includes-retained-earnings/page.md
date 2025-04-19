@@ -1,6 +1,7 @@
 ---
-title: "Financial Statement That Includes Retained Earnings"
-description: "Explore how retained earnings impact financial statement analysis and enhance algorithmic trading strategies for informed and optimized investment decisions."
+title: Understanding Retained Earnings in Financial Statements
+description: Retained earnings reveal how companies track and use accumulated profits
+  for reinvestment debt reduction and strategic growth Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Financial Accounting: Concepts and Principles"
-description: "Explore the essential accounting principles and their significance in financial accounting for algorithmic trading. Understand how these principles ensure transparency, consistency, and compliance in financial reporting. Discover how adhering to standards like revenue recognition and full disclosure enhances decision-making and risk management in modern trading environments."
+title: Financial Accounting Principles and Key Statements Explained
+description: Financial accounting gives insights into finances by applying accrual
+  basis matching and double-entry bookkeeping for better insights Discover more inside
 ---
 
 

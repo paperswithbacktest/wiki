@@ -1,6 +1,7 @@
 ---
-title: "Fisher Transform Indicator in Trading"
-description: "Explore the Fisher Transform Indicator used in trading to signal price reversals by converting price data into a Gaussian distribution for better trend analysis."
+title: Fisher Transform Indicator Guide For Reliable Trading Signals
+description: Fisher Transform Indicator turns price data into a -1 to +1 scale so
+  you spot trend reversals and overbought conditions confidently Discover more inside.
 ---
 
 

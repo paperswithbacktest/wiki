@@ -1,6 +1,7 @@
 ---
-title: "Financial Select Sector SPDR Fund (XLF)"
-description: "Explore the strategic role of algorithmic trading in the XLF ETF offering insights into enhanced efficiency and decision-making for investors in the financial sector."
+title: Financial Select Sector SPDR Fund XLF Investment Guide
+description: XLF ETF delivers broad financial sector exposure through leading banks
+  insurance and real estate firms at a low 0.10 percent fee Discover more inside.
 ---
 
 

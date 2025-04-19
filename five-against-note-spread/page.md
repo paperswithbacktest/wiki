@@ -1,6 +1,7 @@
 ---
-title: "Five Against Note Spread"
-description: "Optimize trading strategies with the Five Against Note (FAN) spread by leveraging algorithmic trading for effective futures market decisions involving Treasury notes."
+title: Five Against Note Spread Explained From Music to Trading
+description: Five Against Note Spread reveals how to master complex musical rhythms
+  and algorithmic trading strategies for precise timing Discover more inside.
 ---
 
 

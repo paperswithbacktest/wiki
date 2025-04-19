@@ -1,6 +1,7 @@
 ---
-title: "Flight to Liquidity"
-description: "Explore liquidity's crucial role in algo trading and investments Discover how these elements empower investors to navigate evolving financial markets efficiently"
+title: Flight to Liquidity Explaining Market Movements and Impacts
+description: Flight to Liquidity prompts investors to shift from stocks to cash and
+  government bonds during market stress to protect capital Discover more inside.
 ---
 
 

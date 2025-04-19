@@ -1,6 +1,7 @@
 ---
-title: "Financial Distress Costs: Mechanisms and Calculation"
-description: "Explore how financial distress costs and algorithmic trading intersect to offer insights and solutions for financial stability and optimized strategies in firms."
+title: Understanding Financial Distress Costs and Their Impact
+description: Financial distress costs include legal fees interest hikes and reputational
+  loss that drain profits Discover how to identify and manage these risks inside
 ---
 
 

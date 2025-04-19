@@ -1,6 +1,7 @@
 ---
-title: "Flash Crash"
-description: "Explore the impact of algorithmic trading on financial markets. Discover how flash crashes happen, their consequences, and efforts to mitigate risks."
+title: Understanding Flash Crashes And Mitigation Strategies For Traders
+description: Flash Crash events can spark sudden price drops and confusion yet circuit
+  breakers and limit orders help investors manage volatility Discover more inside
 ---
 
 

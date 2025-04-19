@@ -1,6 +1,7 @@
 ---
-title: "Finance"
-description: Explore how algorithmic trading is revolutionizing the financial sector by automating trade operations with advanced algorithms and quantitative models. Gain insights into the role of finance in crafting effective trading strategies and the critical skills needed to navigate the complexities of modern markets. Discover the benefits and challenges of algo trading and its impact on speed, precision, and cost efficiency in trading execution.
+title: Comprehensive Guide to Finance Fundamentals and Planning
+description: Finance fundamentals help you manage money wisely through budgeting,
+  investing, risk management, and financial planning. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Financial Analysis: Importance, Types, and Examples"
-description: "Explore the significance of financial analysis in assessing financial health and performance its types like fundamental and technical analysis and its role in algo trading"
+title: Comprehensive Guide To Financial Analysis For Business Decisions
+description: Financial analysis unpacks key statements ratios and trends to reveal
+  the financial health of a company and guide strategic decisions, Discover more inside
 ---
 
 

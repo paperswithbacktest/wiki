@@ -1,6 +1,7 @@
 ---
-title: "Financial Leverage in Corporate Capital Structure"
-description: "Explore the impact of financial leverage in corporate capital structures and the role of algorithmic trading in optimizing risk-return profiles for strategic growth."
+title: Financial Leverage Explained Benefits Risks and Strategies
+description: Financial leverage lets companies boost returns by using debt strategically
+  while managing risks and optimizing capital structure Discover more inside.
 ---
 
 

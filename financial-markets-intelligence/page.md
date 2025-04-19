@@ -1,6 +1,7 @@
 ---
-title: "Financial Markets Intelligence"
-description: "Unlock the potential of financial markets with the speed and precision of algorithmic trading and stay ahead in the rapidly changing landscape of finance."
+title: Harnessing Financial Markets Intelligence for Smarter Investments
+description: Financial Markets Intelligence delivers real time insights on stocks
+  bonds and forex to guide your investment choices with confidence Discover more inside.
 ---
 
 

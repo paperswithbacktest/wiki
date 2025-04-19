@@ -1,6 +1,7 @@
 ---
-title: "Fisher's Separation Theorem"
-description: "Fisher's Separation Theorem bridges traditional financial theories with modern practices in corporate finance and algorithmic trading emphasizing objective profit maximization."
+title: Fisher's Separation Theorem Explained in Corporate Finance
+description: Fisher's Separation Theorem shows how firms separate corporate investments
+  from owners to boost value and simplify financial planning Discover more inside
 ---
 
 

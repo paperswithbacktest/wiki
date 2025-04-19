@@ -1,6 +1,7 @@
 ---
-title: "Financial Intermediary: Function and Examples"
-description: "Explore the crucial role of financial intermediaries and algorithmic trading in the economy, enhancing market efficiency, liquidity, and innovation."
+title: Understanding Financial Intermediaries and Their Economic Role
+description: Financial intermediaries simplify borrowing and saving by managing risk
+  and ensuring efficient fund flows for stable economic growth Discover more inside.
 ---
 
 

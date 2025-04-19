@@ -1,6 +1,7 @@
 ---
-title: "Fixed Income Microstructure"
-description: "Explore the transformative impact of algorithmic trading in fixed income markets as it enhances efficiency and precision in executing bond trades efficiently and accurately."
+title: Fixed Income Microstructure Explained For Investors
+description: Fixed income microstructure reveals bond trading mechanics and liquidity
+  drivers to help investors optimize timing and execution Discover more inside
 ---
 
 

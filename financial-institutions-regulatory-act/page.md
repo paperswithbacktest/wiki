@@ -1,6 +1,7 @@
 ---
-title: "Financial Institutions Regulatory Act"
-description: "Explore the impact of the Financial Institutions Regulatory Act on algorithmic trading and banking law Learn how regulation balances innovation and market stability"
+title: Explaining the Financial Institutions Regulatory Act FIRA
+description: Financial Institutions Regulatory Act strengthens bank oversight by empowering
+  the FDIC to monitor risks and protect consumer deposits Discover more inside
 ---
 
 

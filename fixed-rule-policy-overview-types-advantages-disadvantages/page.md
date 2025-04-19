@@ -1,6 +1,7 @@
 ---
-title: "Fixed-Rule Policy: Overview, Types, Advantages, and Disadvantages"
-description: "Discover the key aspects of fixed-rule policies in algorithmic trading explore their application types and understand the advantages and challenges they present."
+title: Understanding Fixed-Rule Policies for Decision Making
+description: Fixed-Rule Policy ensures clear decision making with consistent economic
+  rules and predictable outcomes while outlining pros and cons Discover more inside.
 ---
 
 

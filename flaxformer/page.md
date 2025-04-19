@@ -1,6 +1,7 @@
 ---
-title: "Flaxformer (Machine Learning)"
-description: "Flaxformer simplifies the development of transformer models in Flax by offering pre-built components enhancing the efficiency of training and experimentation."
+title: Streamline Transformer Development With Flaxformer Library
+description: Flaxformer simplifies transformer model development in Flax with modular
+  components and tools to speed up training and fine tuning Discover more inside
 ---
 
 ![Image](images/1.png)

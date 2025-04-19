@@ -1,6 +1,7 @@
 ---
-title: "Financial Accounting Standards Board: Overview and Function"
-description: "Explore the crucial role of the Financial Accounting Standards Board in setting accounting standards and its impact on financial reporting and algorithmic trading."
+title: Financial Accounting Standards Board Explained for Investors
+description: Financial Accounting Standards Board rules provide transparent reporting
+  across industries helping investors make informed decisions Discover more inside
 ---
 
 

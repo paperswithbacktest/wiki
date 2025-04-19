@@ -1,6 +1,7 @@
 ---
-title: "Flash crash dynamics"
-description: "Explore the complexities of algorithmic trading and flash crashes uncovering their causes and effects Learn strategies to safeguard investments from rapid market shifts"
+title: Understanding Stock Market Flash Crash Causes And Solutions
+description: Flash crash events reveal how high-frequency trading errors and low liquidity
+  can trigger sudden market drops and quick recoveries. Discover more inside.
 ---
 
 

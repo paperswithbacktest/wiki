@@ -1,6 +1,7 @@
 ---
-title: "Financial Intermediation"
-description: "Explore the roles of financial intermediaries and algorithmic trading in modern finance Examine their impact on market liquidity and economic growth."
+title: Understanding Financial Intermediation and Its Economic Role
+description: Financial intermediation channels deposits into loans while managing
+  credit and liquidity risks to fuel economic activity Discover more inside.
 ---
 
 

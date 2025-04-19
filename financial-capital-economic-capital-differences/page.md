@@ -1,6 +1,7 @@
 ---
-title: "Financial Capital and Economic Capital: Differences"
-description: "Explore the differences between financial and economic capital in the context of algorithmic trading Learn how these capitals drive strategies and mitigate risks."
+title: Understanding Financial Capital Versus Economic Capital
+description: Financial capital drives business growth and personal success by funding
+  innovation workforce development and strategic investments Discover more inside.
 ---
 
 

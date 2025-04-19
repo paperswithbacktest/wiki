@@ -1,6 +1,7 @@
 ---
-title: "Financial and Investment Principles Derived From Monopoly"
-description: "Discover how the classic board game Monopoly offers valuable insights into financial and investment principles, from cash flow management to strategic investment."
+title: Financial Lessons From Monopoly for Real World Investing
+description: Monopoly teaches key financial lessons on saving investing risk management
+  and long term planning to help you build wealth Discover more inside.
 ---
 
 

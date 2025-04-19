@@ -1,6 +1,7 @@
 ---
-title: "Flash Order Detection"
-description: "Explore the intricacies of flash order detection in algorithmic trading, uncovering its critical role, mechanisms, and impact on trading strategies and market dynamics."
+title: Ensuring Market Fairness Through Flash Order Detection
+description: Flash order detection helps regulators and platforms spot hidden orders
+  quickly to maintain a level playing field in trading. Discover more inside.
 ---
 
 

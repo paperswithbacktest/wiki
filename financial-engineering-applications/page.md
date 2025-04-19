@@ -1,6 +1,7 @@
 ---
-title: "Financial Engineering and Its Applications"
-description: "Explore the intricacies of financial engineering and algorithmic trading. Learn how they optimize wealth, minimize risks, and shape modern financial markets."
+title: Understanding Financial Engineering Tools Techniques and Impact
+description: Financial engineering uses math coding and risk models to create dynamic
+  investment solutions and manage market volatility Discover more inside.
 ---
 
 

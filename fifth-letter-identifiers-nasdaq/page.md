@@ -1,6 +1,7 @@
 ---
-title: "Fifth-Letter Identifiers on Nasdaq"
-description: "Discover how fifth-letter identifiers in Nasdaq ticker symbols inform algo trading strategies with precise, timely insights into stock conditions and trading dynamics."
+title: Understanding Nasdaq Fifth-Letter Identifiers for Stock Analysis
+description: Nasdaq Fifth-Letter Identifiers offer quick insight into company status
+  with an extra letter at the end of a stock symbol. Discover more inside.
 ---
 
 

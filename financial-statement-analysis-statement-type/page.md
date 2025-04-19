@@ -1,6 +1,7 @@
 ---
-title: "Financial Statement Analysis by Statement Type"
-description: "Explore the crucial link between financial reporting and algorithmic trading to enhance financial literacy and optimize trading strategies for better investment outcomes."
+title: Comprehensive Guide to Understanding Financial Statement Analysis
+description: Financial Statement Analysis reveals insights into profitability liquidity
+  and cash flow by leveraging key ratios and trend analysis. Discover more inside.
 ---
 
 

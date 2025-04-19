@@ -1,6 +1,7 @@
 ---
-title: "Fill in Investing: Mechanism and Types"
-description: "Discover how trade execution and algorithmic trading revolutionize investing with advanced technology streamlining transactions and enhancing market strategies."
+title: Fill In Investing Strategies for Steady Portfolio Growth
+description: Fill in investing uses regular small contributions to smooth market ups
+  and downs while building your portfolio steadily. Discover more inside.
 ---
 
 

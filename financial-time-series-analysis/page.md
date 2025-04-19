@@ -1,6 +1,7 @@
 ---
-title: "Financial Time Series Analysis"
-description: "Unlock your trading potential with financial time series analysis Learn to leverage data patterns and advanced models to enhance algorithmic trading strategies"
+title: Financial Time Series Analysis for Smarter Investment Planning
+description: Financial time series analysis uncovers trends seasonality and volatility
+  to inform smarter investment choices and risk management Discover more inside
 ---
 
 

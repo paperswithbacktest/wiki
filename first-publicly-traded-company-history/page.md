@@ -1,6 +1,7 @@
 ---
-title: "History of the First Publicly Traded Company"
-description: "Explore the emergence of publicly traded companies and algorithmic trading, highlighting their roles in market evolution, capital growth, and investor dynamics."
+title: Dutch East India Company Origins as First Publicly Traded Company
+description: Dutch East India Company changed finance by selling public shares to
+  fund spice trade and paved the way for modern stock exchanges Discover more inside
 ---
 
 

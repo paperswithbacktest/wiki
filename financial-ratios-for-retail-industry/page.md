@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios for Retail Industry"
-description: "Explore the impact of financial ratios and algorithmic trading on the retail industry, providing insights into company performance for informed investment decisions."
+title: Key Financial Ratios Every Retail Business Must Monitor
+description: Financial ratios in retail help measure liquidity profitability and efficiency
+  to guide strategic decisions and optimize operations. Discover more inside.
 ---
 
 

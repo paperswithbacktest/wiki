@@ -1,6 +1,7 @@
 ---
-title: "Financial Statement Assertions"
-description: "Explore the integral relationship between financial statements and accounting assertions in algorithmic trading to make informed and optimized investment decisions."
+title: Understanding Financial Statement Assertions in Auditing
+description: Financial statement assertions explain managements accuracy and completeness
+  claims enabling auditors to verify reliability Discover more inside
 ---
 
 

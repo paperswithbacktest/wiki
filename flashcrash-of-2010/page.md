@@ -1,6 +1,7 @@
 ---
-title: "FlashCrash of 2010"
-description: Explore the dramatic events of the 2010 Flash Crash, where the Dow Jones fell nearly 9% in minutes, revealing vulnerabilities in the stock market tied to algorithmic trading and high-frequency trading. This incident serves as a pivotal study in assessing the risks of modern trading technologies, liquidity issues, and the regulatory challenges they present in today's financial landscape.
+title: Understanding the Flash Crash of 2010 and Market Reforms
+description: Flash Crash of 2010 exposed high frequency trading risks and prompted
+  market safeguards to stabilize trading and safeguard investors Discover more inside
 ---
 
 

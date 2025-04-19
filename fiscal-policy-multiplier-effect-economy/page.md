@@ -1,6 +1,7 @@
 ---
-title: "Fiscal Policy and Its Multiplier Effect on the Economy"
-description: "Explore how fiscal policy impacts economic growth through the multiplier effect and the role of algorithmic trading in leveraging these economic shifts for financial gains."
+title: Fiscal Policy and the Multiplier Effect on Economic Growth
+description: Fiscal policy guides spending and taxation to influence economic growth
+  and trigger a multiplier effect that amplifies impact on GDP Discover more inside.
 ---
 
 

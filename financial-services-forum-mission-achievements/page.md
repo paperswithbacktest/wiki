@@ -1,6 +1,7 @@
 ---
-title: "Financial Services Forum: Mission and Achievements"
-description: "Explore how the Financial Services Forum influences the financial sector through policy advocacy, innovation in algo trading, and promoting economic growth globally."
+title: Financial Services Forum Shaping US Policy and Economic Growth
+description: Financial Services Forum unites top US finance CEOs to advise on policy
+  and strengthen the system for stable economic growth. Discover more inside.
 ---
 
 

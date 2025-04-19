@@ -1,6 +1,7 @@
 ---
-title: "Fighting the Tape: Mechanics and Examples"
-description: "Explore the contrarian strategy of "fighting the tape" in algorithmic trading. Learn how to navigate market trends with informed decisions for potential rewards."
+title: Understanding Fighting The Tape For Smarter Trading
+description: Fighting the Tape means trading against market trends at high risk. Use
+  trend signals with stop losses to align with market direction Discover more inside
 ---
 
 

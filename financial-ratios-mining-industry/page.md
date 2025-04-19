@@ -1,6 +1,8 @@
 ---
-title: "Financial Ratios in the Mining Industry"
-description: "Explore the financial vitality of the mining industry through essential ratios that evaluate operational efficiency and profitability. Delve into how these financial metrics, along with algorithmic trading, enhance investment strategies, offering insights into a sector crucial to economic growth amidst commodity price fluctuations."
+title: Key Financial Ratios for Mining Industry Performance
+description: Financial ratios in the mining industry reveal insights on liquidity
+  profitability and debt management enabling informed investment decisions Discover
+  more
 ---
 
 

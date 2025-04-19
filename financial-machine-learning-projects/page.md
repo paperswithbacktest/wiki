@@ -1,6 +1,7 @@
 ---
-title: "Financial machine learning projects"
-description: Explore the pivotal role of financial machine learning in revolutionizing algorithmic trading. This article highlights key projects that leverage advanced analytics to refine trading strategies, manage risk, and optimize performance. Discover how traders and developers are utilizing machine learning for rapid market adaptation and superior results by automating tasks, improving precision, and backtesting strategies. With a focus on real-world applications, gain insights into the efficacy and ongoing evolution of machine learning in the fast-paced financial sector.
+title: Essential Guide to Financial Machine Learning Concepts and Tools
+description: Financial machine learning helps clean and organize data build and test
+  models to enhance trading predictions and manage risk Discover more inside
 ---
 
 

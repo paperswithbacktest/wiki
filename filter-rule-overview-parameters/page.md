@@ -1,6 +1,7 @@
 ---
-title: "Filter Rule: Overview and Parameters"
-description: "Discover how the filter rule enhances algo trading by setting objective criteria for trades based on price changes Boost efficiency and precision in trading decisions"
+title: Efficient Filter Rules for Email Organization and Data Processing
+description: Filter rules automate sorting and protect your information across email
+  web and security tools saving time and reducing mistakes Discover more inside
 ---
 
 

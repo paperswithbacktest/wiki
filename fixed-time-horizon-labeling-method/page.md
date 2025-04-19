@@ -1,6 +1,7 @@
 ---
-title: "Fixed-time horizon labeling method"
-description: The fixed-time horizon labeling method is a popular technique in algorithmic trading that assigns labels to data points based on an asset's performance over a set time frame. By comparing returns to predefined thresholds, it provides a clear framework for evaluating market movements, aiding in predictive modeling. Its simplicity and ease of implementation make it attractive to traders and researchers, but care must be taken to select appropriate thresholds to ensure relevance. This method fosters streamlined data processing, essential in high-frequency trading environments, despite its inability to consider price path dynamics or volatility within the fixed horizon.
+title: Fixed-Time Horizon Labeling Method Explained for Data Forecasting
+description: Fixed-Time Horizon Labeling Method provides a consistent framework to
+  analyze time series data and improve prediction accuracy Discover more inside.
 ---
 
 

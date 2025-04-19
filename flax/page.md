@@ -1,6 +1,7 @@
 ---
-title: "Flax (Machine Learning)"
-description: "Explore Flax a machine learning library by Google designed to simplify model building and training using JAX. Ideal for research on GPUs and TPUs."
+title: Comprehensive Guide to Flax Machine Learning Library
+description: Flax streamlines AI model development with JAX powered GPU and TPU support
+  intuitive modules and training tools to boost productivity Discover more inside
 ---
 
 ![Image](images/1.png)

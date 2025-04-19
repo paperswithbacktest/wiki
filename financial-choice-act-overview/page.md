@@ -1,6 +1,8 @@
 ---
-title: "Financial CHOICE Act Overview"
-description: "The Financial CHOICE Act aimed to streamline financial regulations post-Dodd-Frank affecting areas like algorithmic trading while balancing oversight and innovation."
+title: Understanding the Financial CHOICE Act Changes to Bank Regulation
+description: Financial CHOICE Act explains how changing Dodd-Frank rules can ease
+  bank restrictions and boost lending while balancing consumer protections Discover
+  more inside
 ---
 
 

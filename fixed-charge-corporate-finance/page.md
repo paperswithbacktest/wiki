@@ -1,6 +1,7 @@
 ---
-title: "Fixed Charge in Corporate Finance"
-description: "Discover the significance of fixed charges in corporate finance and how they impact algorithmic trading decisions. Learn about FCCR for better risk assessment."
+title: Understanding Fixed Charge Coverage Ratio In Corporate Finance
+description: Fixed Charge Coverage Ratio helps assess businesses ability to pay fixed
+  costs with earnings and guides budgeting and risk management Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Fiscal Policy Authority in the United States: President vs. Congress"
-description: "Explore the dynamic relationship between the President and Congress in shaping U.S. fiscal policy and its impact on algorithmic trading and financial markets."
+title: Understanding Fiscal Policy Roles of President and Congress
+description: Fiscal policy explains how the President proposes budgets and how Congress
+  shapes spending and taxes to stabilize the economy Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Financial Stability and Market Structure"
-description: "Explore the vital role of financial stability in markets and the transformative impact of algorithmic trading on structure and stability including its benefits and risks."
+title: Ensuring Financial Stability Through Market Structure
+description: Financial stability relies on a well structured market with clear rules
+  institutions and tech trends to manage risks and drive growth Discover more inside.
 ---
 
 

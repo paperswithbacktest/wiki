@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios in the Pharmaceutical Industry"
-description: "Explore how financial ratios impact pharmaceutical industry performance and algo trading strategies Optimize trading with key metrics on profitability and investment efficiency"
+title: Key Financial Ratios for the Pharmaceutical Industry
+description: Financial ratios help pharmaceutical companies optimize profitability
+  debt and liquidity for better investment and management Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Five-Step Evaluation for Trading Strategies"
-description: "Explore the essentials of evaluating trading strategies in algorithmic trading. Learn about strategy formulation, risk management, and improving decision-making for success."
+title: Evaluating Trading Strategies for Consistent Market Success
+description: Trading strategy evaluation empowers traders to gauge risk reward and
+  refine trade rules to boost consistency and profitability Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Financial Technologies India Limited"
-description: "Discover how Financial Technologies (India) Ltd leads India's tech-driven trading evolution, pioneering innovations in algorithmic trading for enhanced market efficiency."
+title: Financial Technologies India Limited Company Profile Analysis
+description: Financial Technologies India Limited provides secure trading platforms
+  for commodities energy and currency markets streamlining access Discover more inside
 ---
 
 

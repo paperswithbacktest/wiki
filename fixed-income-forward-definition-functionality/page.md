@@ -1,6 +1,7 @@
 ---
-title: "Fixed Income Forward: Definition and Functionality"
-description: "Explore the intricacies of fixed income derivatives and forward contracts in algorithmic trading Learn how investors manage risk and maximize returns effectively"
+title: Understanding Fixed Income Forward Contracts and Their Strategies
+description: Fixed income forward agreements let investors lock in bond prices to
+  manage risk and plan future trades with confidence Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Financial Accounting in Decision-Making"
-description: "Explore how financial accounting impacts decision-making and the growing role of algorithmic trading in financial markets through data-driven insights."
+title: Financial Accounting Explained A Guide for Informed Decisions
+description: Financial accounting reveals a companys performance through statements
+  and ratios helping investors make informed decisions Discover more inside
 ---
 
 

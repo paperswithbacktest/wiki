@@ -1,6 +1,7 @@
 ---
-title: "Financial Assistance for Climate-Smart Agriculture and Ranching"
-description: "Discover how financial assistance supports climate-smart agriculture and ranching by facilitating sustainable practices and algorithmic trading for resilient growth."
+title: Financial Assistance for Climate-Smart Agriculture and Ranching
+description: Climate-smart agriculture and ranching rely on financial assistance to
+  lower startup costs and drive long-term sustainable practices Discover more inside
 ---
 
 

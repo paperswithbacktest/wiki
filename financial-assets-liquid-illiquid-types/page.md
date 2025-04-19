@@ -1,6 +1,7 @@
 ---
-title: "Financial Assets: Liquid and Illiquid Types"
-description: "Explore liquid and illiquid financial assets and discover how algorithmic trading optimizes trading strategies and execution to enhance portfolio performance."
+title: Understanding Financial Assets and Liquidity in Investments
+description: Financial assets play a pivotal role in investment strategy offering
+  clarity on liquid versus illiquid holdings and portfolio balance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "First Bank of the United States: Formation, Role, and Impact"
-description: "Discover how the First Bank of the United States, founded by Alexander Hamilton, influenced early American finance and modern trading practices."
+title: Comprehensive Overview of the First Bank of the United States
+description: First Bank of the United States stabilized early US finances by securing
+  government funds issuing banknotes and supporting businesses Discover more inside.
 ---
 
 

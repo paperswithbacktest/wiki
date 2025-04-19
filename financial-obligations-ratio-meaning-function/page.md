@@ -1,6 +1,7 @@
 ---
-title: "Financial Obligations Ratio: Meaning and Function"
-description: "Explore the significance of the Financial Obligations Ratio in managing household debt burdens and its impact on algorithmic trading and financial health analysis."
+title: Understanding Financial Obligations Ratio for Household Planning
+description: Financial Obligations Ratio measures share of after tax income spent
+  on debts and bills helping households plan budgets smarter Discover more inside
 ---
 
 

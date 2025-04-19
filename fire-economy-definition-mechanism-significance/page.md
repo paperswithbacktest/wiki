@@ -1,6 +1,7 @@
 ---
-title: "Fire Economy: Definition, Mechanism, and Significance"
-description: "Discover the intricate world of the FIRE economy and algorithmic trading Learn how these components shape global financial markets and drive economic growth"
+title: Understanding the Fire Economy and Its Environmental Impacts
+description: Fire economy relies on fossil fuel industries for growth but drives pollution
+  Explore strategies to balance growth with sustainability Discover more inside
 ---
 
 

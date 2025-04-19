@@ -1,6 +1,7 @@
 ---
-title: "Financial Statements Reporting Long-Term Debt"
-description: "Explore the essential link between financial statements, long-term debt, corporate finance, and algorithmic trading to enhance company growth and resilience."
+title: Understanding Long-Term Debt in Financial Statements
+description: Long-term debt shapes financial statements and growth Learn to classify
+  it on balance sheets evaluate key ratios and manage risk Discover more inside
 ---
 
 

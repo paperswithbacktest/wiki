@@ -1,6 +1,7 @@
 ---
-title: "Financial Portfolio: Creation and Management"
-description: "Achieve investment success through effective portfolio creation and management with algorithmic trading Enhance strategies with data-driven insights and technology."
+title: Building and Managing a Diversified Financial Portfolio
+description: Financial portfolio strategies help you balance risk and growth through
+  asset allocation diversification rebalancing and tax planning Discover more inside.
 ---
 
 

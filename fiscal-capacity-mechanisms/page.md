@@ -1,6 +1,7 @@
 ---
-title: "Fiscal Capacity and Its Mechanisms"
-description: "Explore the interplay between fiscal capacity, taxation, and algorithmic trading in modern economies, highlighting their influence on fiscal policies and revenue generation."
+title: Understanding Fiscal Capacity and Its Impact on National Economy
+description: Fiscal Capacity lets governments secure funds for schools roads and public
+  services while managing debt to support stability Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Financial Stability Plan: Overview, Mechanisms, and Effects"
-description: "Explore the synergy between financial stability plans and algorithmic trading as they transform market dynamics and impact the global economic landscape."
+title: Building a Financial Stability Plan for Economic Resilience
+description: Financial Stability Plan outlines vital actions governments and banks
+  take to keep economies steady during crises and protect savings Discover more inside.
 ---
 
 

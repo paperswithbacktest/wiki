@@ -1,6 +1,7 @@
 ---
-title: "Financial Market Crisis of 2008"
-description: "Explore the origins and impact of the 2008 financial crisis with a focus on algorithmic trading's influence on market volatility and systemic failures."
+title: Understanding the 2008 Financial Crisis Causes and Impact
+description: 2008 Financial Crisis shaped global markets through subprime loan defaults
+  and policy shifts to stabilize banks and economies Discover more inside
 ---
 
 

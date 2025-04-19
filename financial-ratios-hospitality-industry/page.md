@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios in the Hospitality Industry"
-description: "Explore key financial ratios in the hospitality industry and their impact on investment strategies Discover how algorithmic trading enhances financial analysis"
+title: Essential Financial Ratios for Hospitality Industry Health
+description: Hospitality financial ratios deliver vital insights into profit margins
+  occupancy rates and RevPAR to guide strategic planning Discover more inside.
 ---
 
 

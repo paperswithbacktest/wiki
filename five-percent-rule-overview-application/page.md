@@ -1,6 +1,7 @@
 ---
-title: "Five Percent Rule: Overview and Application"
-description: "Discover the dual role of the Five Percent Rule in finance as it guides commission limits and ensures portfolio diversification essential for robust trading strategies."
+title: Understanding the Five Percent Rule for Portfolio Diversification
+description: Five Percent Rule guides investors to limit exposure and diversify across
+  assets to protect portfolios from significant losses Discover more inside
 ---
 
 

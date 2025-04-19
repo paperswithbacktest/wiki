@@ -1,6 +1,7 @@
 ---
-title: "Fill or Kill Order"
-description: "Discover the strategic benefits of Fill or Kill orders in algorithmic trading, crucial for scenarios demanding immediate and complete execution without partial fills."
+title: Understanding Fill or Kill Orders in Stock Trading
+description: Fill or Kill orders ensure full or no execution at your set price by
+  demanding immediate completion on exchanges for fast decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios for Evaluating Investment Banks"
-description: "Explore essential financial ratios like ROA and ROE alongside algorithmic trading insights to evaluate investment banks' efficiency and market positioning."
+title: Essential Financial Ratios for Evaluating Investment Banks
+description: Financial Ratios reveal key insights into investment bank profitability
+  risk and efficiency to guide smarter decisions Discover more inside.
 ---
 
 

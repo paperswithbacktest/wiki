@@ -1,6 +1,7 @@
 ---
-title: "Flat Bond"
-description: "Discover the essentials of flat bond pricing and the impact of algorithmic trading on fixed-income securities for informed investment strategies."
+title: Understanding Clean And Dirty Pricing For Flat Bonds
+description: Flat bonds deliver predictable income and transparent pricing by separating
+  clean and dirty prices for fixed income portfolios Discover more inside
 ---
 
 

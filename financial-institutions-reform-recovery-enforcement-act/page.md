@@ -1,6 +1,7 @@
 ---
-title: "Financial Institutions Reform, Recovery, and Enforcement Act"
-description: "Explore the complex relationship between algorithmic trading and regulatory frameworks like FIRREA that shape modern financial markets and ensure stability."
+title: Understanding FIRREA Impact on Savings and Loan Regulation
+description: FIRREA strengthened oversight of savings and loan institutions through
+  RTC and OTS enforcement to curb fraud and stabilize industry Discover more inside
 ---
 
 

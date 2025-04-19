@@ -1,6 +1,7 @@
 ---
-title: "Fixed-Income Style Box: Function and Application"
-description: "Explore the strategic application of fixed-income style boxes and algorithmic trading to enhance portfolio management with insights into maturity, credit quality, and trade optimization."
+title: "Understanding the Fixed\u2011Income Style Box for Bond Investing"
+description: Fixed income style box clarifies bond risk and maturity across a simple
+  grid to guide diversified portfolios with confidence. Discover more inside.
 ---
 
 

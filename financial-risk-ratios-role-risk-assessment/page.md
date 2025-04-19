@@ -1,6 +1,7 @@
 ---
-title: "Financial Risk Ratios and Their Role in Risk Assessment"
-description: "Explore the critical role of financial risk ratios in assessing risk in algorithmic trading to enhance strategies amid fast market fluctuations and high volatility."
+title: Understanding Financial Risk Ratios for Company Health
+description: Financial risk ratios reveal debt levels liquidity and interest coverage
+  to help investors and managers evaluate company stability Discover more inside.
 ---
 
 

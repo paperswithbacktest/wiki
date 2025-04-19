@@ -1,6 +1,8 @@
 ---
-title: "Financial Market Patterns: Randomness Versus Cyclicality"
-description: "Explore the balance between randomness and cyclicality in financial markets and their effect on algorithmic trading Learn how patterns are discerned for strategic benefits"
+title: Financial Market Patterns Understanding Randomness and Cyclicality
+description: Financial market patterns help investors distinguish randomness from
+  cycles and make informed decisions with technical and fundamental insights Discover
+  more inside.
 ---
 
 

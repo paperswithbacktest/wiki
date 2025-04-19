@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios in the Restaurant Industry"
-description: "Explore the role of financial ratios and algorithmic trading in enhancing financial decisions for restaurants Analyze profitability and performance for sustained growth"
+title: Key Financial Ratios for Assessing Restaurant Performance
+description: Restaurant financial ratios reveal cost control and operational efficiency
+  insights helping you optimize performance and profitability Discover more inside.
 ---
 
 

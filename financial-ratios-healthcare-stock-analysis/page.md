@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios for Healthcare Stock Analysis"
-description: "Analyze healthcare stocks with financial ratios like Profit Margin and ROE to optimize algo trading strategies and enhance investment outcomes."
+title: Essential Financial Ratios for Healthcare Stock Analysis
+description: Financial ratios reveal how healthcare companies manage debt profitability
+  and growth potential with key valuation metrics Discover more inside
 ---
 
 

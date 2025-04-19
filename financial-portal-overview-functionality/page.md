@@ -1,6 +1,7 @@
 ---
-title: "Financial Portal: Overview and Functionality"
-description: "Discover the transformative world of algo trading and financial platforms Learn how these tools empower users by automating trading and managing personal finances"
+title: Streamline Your Finances with a Comprehensive Financial Portal
+description: Financial portal unifies bank accounts investments and bills in one secure
+  interface boosting budgeting and tracking efficiency Discover more inside.
 ---
 
 

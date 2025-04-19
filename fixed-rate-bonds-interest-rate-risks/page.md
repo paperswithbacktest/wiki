@@ -1,6 +1,7 @@
 ---
-title: "Fixed Rate Bonds and Their Interest Rate Risks"
-description: "Explore the intricacies of fixed rate bonds and their susceptibility to interest rate risks Discover strategies to mitigate risks and optimize returns"
+title: Investing in Fixed Rate Bonds for Predictable Income
+description: Fixed rate bonds offer a steady income with known interest rates and
+  proven strategies to manage risk effectively for long term goals Discover more inside.
 ---
 
 

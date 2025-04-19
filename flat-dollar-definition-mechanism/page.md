@@ -1,6 +1,7 @@
 ---
-title: "Flat Dollar: Definition and Mechanism"
-description: "Explore the flat dollar concept in algorithmic trading to understand its implications on currency mechanisms and global trade. Discover stability benefits."
+title: Understanding The Flat Dollar Stablecoin Backed By The US Dollar
+description: Flat Dollar stablecoin holds constant US dollar value for secure trusted
+  online payments, transfers and digital wallet support Discover more inside.
 ---
 
 

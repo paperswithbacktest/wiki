@@ -1,6 +1,7 @@
 ---
-title: "Fixed Price: Definition and Mechanism"
-description: "Explore the definition and mechanism of fixed price models in algorithmic trading Discover how these models provide stability enhancing trading strategies"
+title: Fixed Price Contracts Explained for Effective Budget Management
+description: Fixed price contracts deliver predictable budgets and clear project scopes
+  while managing risk effectively from start to finish Discover more inside
 ---
 
 

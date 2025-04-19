@@ -1,6 +1,8 @@
 ---
-title: "Fijian Dollar Overview"
-description: "Explore the significance of the Fijian Dollar (FJD) in global finance, its role in Fiji's economy, and the impact of algorithmic trading for enhanced efficiency."
+title: Understanding the Fijian Dollar Currency Code Symbol and Value
+description: Fijian Dollar currency code FJD and symbol usage explained along with
+  denominations and exchange rates for USD EUR Review unique insights Discover more
+  inside.
 ---
 
 

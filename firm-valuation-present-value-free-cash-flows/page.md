@@ -1,6 +1,7 @@
 ---
-title: "Firm Valuation Using Present Value of Free Cash Flows"
-description: "Discover how firm valuation using the present value of free cash flows enhances investment strategies in algorithmic trading by optimizing portfolio performance."
+title: Firm Valuation Using Free Cash Flows And Discounted Cash Flows
+description: Free cash flow valuation reveals a firm's value by projecting cash flows
+  and discounting them at WACC for smarter investment choices Discover more inside
 ---
 
 

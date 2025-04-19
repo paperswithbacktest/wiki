@@ -1,6 +1,7 @@
 ---
-title: "Fiscal Neutrality: Definition and Examples"
-description: "Explore the complex relationship between fiscal neutrality and algorithmic trading and how they impact financial markets and economic policy for national stability."
+title: Principles and Practice of Fiscal Neutrality in Economics
+description: Fiscal neutrality promotes fairness and efficiency in public finance
+  by treating all groups equally in tax and spending decisions. Discover more inside.
 ---
 
 

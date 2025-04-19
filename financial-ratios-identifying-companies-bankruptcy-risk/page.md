@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios for Identifying Companies at Risk of Bankruptcy"
-description: "Explore how financial ratios like Current Ratio and Debt/Equity help predict bankruptcy risks and enhance algorithmic trading strategies for robust investments."
+title: Financial Ratios For Predicting Company Bankruptcy Risk
+description: Financial Ratios offer a data driven approach to predict bankruptcy risk
+  and guide investment strategies with actionable insights Discover more inside
 ---
 
 

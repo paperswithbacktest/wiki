@@ -1,6 +1,7 @@
 ---
-title: "Flash Services Purchasing Managers' Index"
-description: "The Flash Services PMI offers early insights into the service sector's health, influencing market strategies and economic forecasts for investors and traders alike."
+title: Understanding Flash Services PMI And Its Economic Impact
+description: Flash Services PMI offers a quick snapshot of services sector growth
+  and helps businesses and investors make timely decisions Discover more inside
 ---
 
 

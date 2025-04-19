@@ -1,6 +1,8 @@
 ---
-title: "Financial Accelerator in Economics"
-description: "Explore how monetary policy, economic theory, and algorithmic trading impact global financial markets and the economy's dynamics, enhancing trading strategies."
+title: Understanding the Financial Accelerator Concept in Economics
+description: Financial accelerator theory explains how small economic shocks can amplify
+  through lending and borrowing dynamics leading to bigger booms or busts Discover
+  more inside
 ---
 
 

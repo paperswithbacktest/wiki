@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios and Their Insights"
-description: "Explore how financial ratios and algorithmic trading enhance investment strategies, offering insights into company performance, risk assessment, and profitable trading."
+title: Comprehensive Guide to Financial Ratios for Business Analysis
+description: Financial ratios reveal company liquidity profitability and risk so investors
+  can evaluate performance with confidence. Discover more inside.
 ---
 
 

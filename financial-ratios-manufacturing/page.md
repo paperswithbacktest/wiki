@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios in Manufacturing"
-description: "Explore essential financial ratios in manufacturing and their role in algorithmic trading Learn how these metrics drive efficiency and investment strategies"
+title: Essential Financial Ratios for Manufacturing Company Performance
+description: Financial Ratios in manufacturing reveal efficiency profitability and
+  liquidity enabling optimized operations and informed decisions Discover more inside.
 ---
 
 

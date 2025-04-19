@@ -1,6 +1,6 @@
 ---
 title: "Flight to Quality: Concept and Mechanism"
-description: "Explore the concept of "flight to quality" in algo trading, where investors shift from risky to safer assets. Discover strategies for navigating volatile markets."
+description: "Explore the concept of flight to quality in algo trading, where investors shift from risky to safer assets. Discover strategies for navigating volatile markets."
 ---
 
 

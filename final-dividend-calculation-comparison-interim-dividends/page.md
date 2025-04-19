@@ -1,6 +1,7 @@
 ---
-title: "Final Dividend: Calculation and Comparison with Interim Dividends"
-description: "Explore the essential aspects of final and interim dividends in algo trading, their calculation, and investor strategies to enhance returns and financial planning."
+title: Comprehensive Guide to Final Dividend Calculation and Payouts
+description: Final dividend calculation shows how boards allocate full year profits
+  and manage cash flow for shareholders and optimize payouts Discover more inside
 ---
 
 

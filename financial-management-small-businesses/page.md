@@ -1,6 +1,7 @@
 ---
-title: "Financial Management for Small Businesses"
-description: "Discover effective financial management strategies essential for small business success, from robust accounting systems to innovative algorithmic trading. Learn how to optimize resources, make informed decisions, and improve investment strategies to build a strong financial foundation and competitive edge in today's fast-paced market."
+title: Financial Management Essentials for Small Business Success
+description: Financial management provides small businesses practical guidance on
+  budgeting cash flow and tax planning to build stability. Discover more inside.
 ---
 
 

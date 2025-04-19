@@ -1,6 +1,7 @@
 ---
-title: "Financial Crises: Causes and Examples"
-description: "Explore the impact of financial crises and the role of algorithmic trading in market volatility Learn how technology influences economic stability and systemic risks"
+title: Financial Crises Explained Causes Impacts and Prevention
+description: Financial crisis insights on causes risks and prevention measures empower
+  you to spot early warning signs and protect assets Discover more inside.
 ---
 
 

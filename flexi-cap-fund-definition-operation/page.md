@@ -1,6 +1,8 @@
 ---
-title: "Flexi-Cap Fund: Definition and Operation"
-description: "Explore the dynamic world of flexi-cap funds, offering diversified investment strategies through algorithmic trading for growth and risk management in volatile markets."
+title: "Flexi\u2011Cap Funds Explained for Balanced Market Exposure"
+description: "Flexi\u2011Cap Fund strategies offer dynamic investments across small,\
+  \ medium, and large companies to balance risk and optimize returns. Discover more\
+  \ inside."
 ---
 
 

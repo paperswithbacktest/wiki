@@ -1,6 +1,7 @@
 ---
-title: "Finding a Financial Advisor"
-description: "Explore essential insights into financial advisors and algorithmic trading to empower your investment strategies. Learn how financial advisors tailor advice to align with your goals, while algorithmic trading offers technological advantages in execution speed and strategy optimization. This guide prepares you for informed decision-making in the evolving financial landscape."
+title: Selecting the Right Financial Advisor for Your Future Goals
+description: Financial advisor guidance helps you vet credentials fees investment
+  style and fiduciary duty so you can choose with confidence Discover more inside
 ---
 
 

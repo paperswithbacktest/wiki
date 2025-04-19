@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios for Analyzing Technology Companies"
-description: "Explore key financial ratios crucial for analyzing tech companies and their integration into algorithmic trading to enhance investment strategies in volatile markets."
+title: Key Financial Ratios for Analyzing Technology Companies
+description: Financial ratios show how tech companies manage R&D spending debt levels
+  and profitability growth to inform investment decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Fixed-Rate Capital Securities: Overview and Mechanism"
-description: "Discover the intricacies of fixed-rate capital securities as they blend attributes of bonds and stocks, offering stable income potential with unique investment risks."
+title: Fixed-Rate Capital Securities Explained for Steady Returns
+description: Fixed-Rate Capital Securities offer predictable interest payments and
+  stability for long term investors balancing risk and reward Discover more inside
 ---
 
 

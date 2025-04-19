@@ -1,6 +1,7 @@
 ---
-title: "Financial Performance Overview and Applications"
-description: "Explore the synergy of financial performance analysis and algorithmic trading to enhance decision-making and capitalize on market opportunities efficiently."
+title: Comprehensive Financial Performance Analysis and Metrics
+description: Financial performance insights help investors and managers assess profitability
+  liquidity and efficiency with key metrics Discover more inside
 ---
 
 

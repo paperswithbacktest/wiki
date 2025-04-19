@@ -1,6 +1,7 @@
 ---
-title: "Fixed-Income Arbitrage: Overview and Mechanisms"
-description: "Explore the art of fixed-income arbitrage in this article on algorithmic trading uncovering strategies for seizing market opportunities with skill and innovation."
+title: Fixed Income Arbitrage Strategies Risks And Opportunities
+description: Fixed income arbitrage leverages complex models and automation to capitalize
+  on small bond price gaps while managing risk effectively Discover more inside.
 ---
 
 

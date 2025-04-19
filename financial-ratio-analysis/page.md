@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratio Analysis"
-description: "Explore the role of financial ratios in enhancing algo trading strategies by analyzing company performance to automate trading decisions and maximize returns."
+title: Understanding Financial Ratio Analysis for Informed Decisions
+description: Financial ratio analysis reveals a companys financial strengths and weaknesses
+  to guide smart investment and management choices Discover more inside
 ---
 
 

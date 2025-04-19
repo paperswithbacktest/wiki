@@ -1,6 +1,8 @@
 ---
-title: "Fixed-Charge Coverage Ratio"
-description: "Discover how the Fixed-Charge Coverage Ratio (FCCR) enhances algorithmic trading strategies by assessing a company's ability to meet its fixed obligations efficiently."
+title: Fixed-Charge Coverage Ratio Explained for Financial Stability
+description: Fixed-Charge Coverage Ratio reveals how well earnings cover interest
+  and lease obligations so you can assess financial health and secure better financing
+  Discover more inside
 ---
 
 

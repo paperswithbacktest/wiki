@@ -1,6 +1,7 @@
 ---
-title: "Financial Contagion During Economic Crises"
-description: "Explore the origins and impact of financial contagion during economic crises and the role of algorithmic trading in modern markets. Discover strategies for resilience."
+title: Understanding Financial Contagion and Its Global Impact
+description: Financial contagion explains how crises spread across global markets
+  and offers strategies to reduce risk and strengthen systems Discover more inside
 ---
 
 

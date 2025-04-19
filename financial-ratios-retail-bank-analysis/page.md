@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios for Retail Bank Analysis"
-description: "Explore financial ratios crucial for retail bank analysis and understand how algorithmic trading enhances efficiency and profitability in modern banking."
+title: Essential Financial Ratios for Retail Bank Performance Analysis
+description: Financial ratios reveal retail banks profitability, liquidity, risk profiles
+  with clear metrics and insights to guide decisions Discover more inside
 ---
 
 

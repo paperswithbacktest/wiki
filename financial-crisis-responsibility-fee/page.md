@@ -1,6 +1,7 @@
 ---
-title: "Financial Crisis Responsibility Fee"
-description: "Explore the implications of the Financial Crisis Responsibility Fee and algorithmic trading in restoring financial accountability and mitigating future risks."
+title: Financial Crisis Responsibility Fee Enhances Banking Stability
+description: Financial Crisis Responsibility Fee makes large banks pay for past bailouts
+  and deters risky behavior to protect the financial system Discover more inside
 ---
 
 

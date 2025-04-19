@@ -1,6 +1,7 @@
 ---
-title: "Flash Manufacturing PMI: Overview, Advantages, and Limitations"
-description: "Explore the significance of the Flash Manufacturing PMI in trading and investment This timely economic indicator aids strategy development in algorithmic trading"
+title: Flash Manufacturing PMI Explained For Early Economic Insights
+description: Flash Manufacturing PMI gives a timely view of metrics based on manager
+  surveys to guide quick economic and investment decisions Discover more inside
 ---
 
 

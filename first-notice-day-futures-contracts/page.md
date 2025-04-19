@@ -1,6 +1,7 @@
 ---
-title: "First Notice Day in Futures Contracts"
-description: "Discover the crucial role of First Notice Day in futures trading and explore how algorithmic strategies help manage delivery risks effectively."
+title: Understanding First Notice Day in Futures Contracts
+description: First Notice Day guides traders to close or roll over futures before
+  delivery deadlines to avoid extra costs and hassles Discover more inside
 ---
 
 

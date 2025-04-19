@@ -1,6 +1,7 @@
 ---
-title: "Financial Management Rate of Return"
-description: "Discover how the Financial Management Rate of Return (FMRR) enhances real estate investment analysis by considering cash flow durations and associated risks."
+title: Understanding Rate of Return Calculations in Financial Management
+description: Rate of Return provides a clear method to assess investment growth, compare
+  options and account for inflation and risk. Discover more inside.
 ---
 
 

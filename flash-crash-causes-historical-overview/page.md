@@ -1,6 +1,7 @@
 ---
-title: "Flash Crash: Causes and Historical Overview"
-description: "Explore the causes of flash crashes and their historical impact on financial markets Discover how algorithmic trading influences these rapid market events"
+title: Comprehensive Guide To Flash Crashes And Market Safeguards
+description: Flash crash risks in high frequency trading interrupt markets but regulators
+  use circuit breakers and monitoring to protect investors Discover more inside.
 ---
 
 

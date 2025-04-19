@@ -1,6 +1,7 @@
 ---
-title: "Financial Ratios for Evaluating Consumer Packaged Goods"
-description: "Explore essential financial ratios for assessing the Consumer Packaged Goods industry and learn how algorithmic trading enhances investment strategies."
+title: Key Financial Ratios for Consumer Packaged Goods Companies
+description: Financial ratios guide CPG firms to improve liquidity profit and inventory
+  turns with metrics such as current ratio and turnover Discover more inside
 ---
 
 

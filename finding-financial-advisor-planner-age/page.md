@@ -1,6 +1,7 @@
 ---
-title: "Finding a Financial Advisor or Planner by Age"
-description: "Discover the importance of age-specific financial advice and the role of algorithmic trading to enhance financial strategies for different life stages."
+title: Comprehensive Financial Planning for Every Life Stage
+description: Financial planning across life stages provides expert guidance to build
+  wealth, manage risk, stay on track from your 20s to retirement Discover more inside
 ---
 
 

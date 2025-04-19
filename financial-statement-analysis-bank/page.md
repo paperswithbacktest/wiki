@@ -1,6 +1,7 @@
 ---
-title: "Financial Statement Analysis of a Bank"
-description: "Explore how financial statement analysis and algorithmic trading transform bank operations gaining insights into performance and strategic growth opportunities."
+title: Professional Guide to Analyzing Bank Financial Statements
+description: Bank financial statements reveal banks liquidity profitability and risk
+  through ratio analysis for informed decision making Discover more inside.
 ---
 
 

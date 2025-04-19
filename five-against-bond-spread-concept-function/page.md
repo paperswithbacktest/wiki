@@ -1,6 +1,7 @@
 ---
-title: "Five Against Bond Spread: Concept and Function"
-description: "Explore the concept of Five Against Bond Spread in algorithmic trading. Learn how bond spreads, financial strategies, and automation optimize investment decisions."
+title: Comprehensive Guide to Five Against Bond Spread Risk Premium
+description: Five Against Bond Spread reveals the extra yield investors earn by taking
+  on risk with five-year bonds compared to Treasuries Discover more inside.
 ---
 
 
