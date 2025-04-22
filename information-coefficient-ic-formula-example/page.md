@@ -1,6 +1,7 @@
 ---
-title: "Information Coefficient (IC) Formula and Example"
-description: "Explore the Information Coefficient in algo trading and its role in evaluating predictive accuracy. Discover its formula practical applications and potential challenges."
+title: Information Coefficient Explained for Quantitative Investors
+description: Information Coefficient measures correlation between predicted and actual
+  returns to refine accuracy of quantitative strategies Discover more inside
 ---
 
 

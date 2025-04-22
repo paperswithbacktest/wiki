@@ -1,6 +1,7 @@
 ---
-title: "GDP Gap: Overview and Calculation"
-description: "Explore the intricacies of GDP gaps and their influence on algorithmic trading Learn how understanding economic output and potential GDP helps optimize investment strategies"
+title: Understanding the GDP Gap and Its Economic Implications
+description: Explore the GDP gap to see how actual output measured against its potential
+  guides policymakers to balance growth and inflation Discover more inside.
 ---
 
 

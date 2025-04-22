@@ -1,6 +1,7 @@
 ---
-title: "Jobless Growth: History and Impact"
-description: "Explore the impact of jobless growth and algorithmic trading on economic stability and labor markets Learn how technology and trading strategies shape modern economies"
+title: Understanding Jobless Growth Effects on Economy and Employment
+description: Jobless growth shows why GDP gains often miss job creation and fuel inequality
+  while presenting policies for inclusive employment Discover more inside.
 ---
 
 

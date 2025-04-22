@@ -1,6 +1,7 @@
 ---
-title: "Impact of Minimum Wage Increases on Inflation"
-description: "Explore the complex interplay between minimum wage increases and inflation within the context of algorithmic trading and understand its economic impact."
+title: Understanding the Impact of Minimum Wage on Inflation
+description: Minimum wage and inflation analysis reveals how wage hikes influence
+  prices and spending through cost push and demand pull factors Discover more inside.
 ---
 
 

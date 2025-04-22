@@ -1,6 +1,7 @@
 ---
-title: "Impact Decline of Japan's Quantitative Easing"
-description: "Explore the impact of Japan's long-term quantitative easing on the global economy and algorithmic trading strategies with insightful analysis and case studies."
+title: Quantitative Easing in Japan Declining Impact and Next Steps
+description: Quantitative easing in Japan has struggled to raise inflation while swelling
+  debt. Diminishing returns call for new policy measures. Discover more inside.
 ---
 
 

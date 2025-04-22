@@ -1,6 +1,7 @@
 ---
-title: "Froth: Definition, Mechanism, and Identification"
-description: "Explore algorithmic trading and its role in detecting market froth through computational techniques to enhance financial stability and protect investors from bubbles."
+title: 'Understanding Froth Formation: Mechanisms, Properties, and Uses'
+description: Froth formation depends on trapping air in liquids to create bubbles
+  that improve beverages, cleaning solutions and mining. Discover more inside.
 ---
 
 

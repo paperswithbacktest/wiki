@@ -1,6 +1,7 @@
 ---
-title: "Fund Category"
-description: "Explore how mutual fund classifications and algorithmic trading enhance investment strategies offering tailored portfolio solutions and improved market efficiency."
+title: How Fund Categories Effectively Simplify Investment Decisions
+description: Fund categories help investors group and compare stock bond and money
+  market funds for tailored risk and return management. Discover more inside
 ---
 
 

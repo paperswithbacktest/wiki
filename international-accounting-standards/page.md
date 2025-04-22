@@ -1,6 +1,7 @@
 ---
-title: "International Accounting Standards"
-description: "Explore the interplay between standardized International Accounting Standards (IAS) and algorithmic trading within global financial markets. Discover how IAS enhances transparency, accountability, and comparability in financial reporting, facilitating informed decision-making for investors and traders. Learn about the impact of algo trading on market efficiency, liquidity, and transaction costs through the use of advanced computational models and strategies. Understand the symbiotic relationship between accounting norms and trading algorithms that shape the modern financial ecosystem."
+title: International Accounting Standards for Clear Global Reporting
+description: International Accounting Standards ensure financial statements are transparent
+  and comparable across borders enhancing decision making Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Installing Prophet Library on Windows"
-description: "Learn how to install the Prophet library on Windows for algorithmic trading: a crucial tool for financial forecasting. This guide covers the prerequisites and detailed installation steps to seamlessly set up Prophet. Understand its strategic advantages, such as handling outliers and seasonal data, to enhance your trading strategies. Also, find solutions for potential installation challenges, ensuring a smooth integration into your trading system for improved market analysis and decision-making."
+title: Prophet Library Installation Guide for Windows Environments
+description: Prophet installation on Windows covers system requirements pip and conda
+  commands with troubleshooting tips for Prophet setup Discover more inside
 ---
 
 

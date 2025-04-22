@@ -1,6 +1,7 @@
 ---
-title: "IBoxx iTraxx: Overview and History"
-description: "Explore how iTraxx indices revolutionize finance by enabling efficient trading of credit derivatives through algorithmic strategies for risk management and speculation."
+title: Guide to iBoxx and iTraxx Indices for Bond and Credit Markets
+description: iBoxx and iTraxx indices track bond performance and credit risk daily
+  to help investors gauge market conditions and risk trends. Discover more inside
 ---
 
 

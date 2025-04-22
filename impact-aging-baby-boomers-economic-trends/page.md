@@ -1,6 +1,7 @@
 ---
-title: "Impact of Aging Baby Boomers on Economic Trends"
-description: "Explore how aging Baby Boomers and algorithmic trading reshape economic trends impacting labor markets social security liquidity and financial market stability."
+title: Economic and Social Impacts of the Baby Boomer Generation
+description: Baby boomer generation reshapes labor markets healthcare housing and
+  pensions driving policy reforms to support aging populations Discover more inside
 ---
 
 

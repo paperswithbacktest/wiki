@@ -1,6 +1,7 @@
 ---
-title: "Lamda (Language Model For Dialogue Applications) (Machine Learning)"
-description: "Discover how Lamda by Google enhances human-machine interaction with its language model designed for natural, engaging conversations in dialogue applications."
+title: Understanding Lamda Language Model for Dialogue Applications
+description: Lamda language model for dialogue applications delivers human-like conversational
+  AI by focusing on context and engagement. Discover more inside.
 ---
 
 ![Image](images/1.png)

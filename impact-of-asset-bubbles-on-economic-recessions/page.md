@@ -1,6 +1,7 @@
 ---
-title: "Impact of Asset Bubbles on Economic Recessions"
-description: "Explore the complex connections between asset bubbles, economic recessions, and financial crises, focusing on algorithmic trading's role in these financial phenomena."
+title: Understanding Asset Bubbles And Their Role In Economic Recessions
+description: Asset bubbles can spark recessions by draining spending and credit Find
+  ways to spot early warning signs and safeguard finances Discover more inside
 ---
 
 

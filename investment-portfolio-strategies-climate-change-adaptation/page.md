@@ -1,6 +1,7 @@
 ---
-title: "Investment Portfolio Strategies for Climate Change Adaptation"
-description: "Explore how investors can integrate climate change adaptation into portfolios using algorithmic trading to boost resilience and capture sustainable opportunities."
+title: Climate-Adaptive Investment Strategies for Resilient Portfolios
+description: Climate adaptive investment strategies help you assess portfolio risks
+  and seize growth in renewables and green bonds for resilience Discover more inside
 ---
 
 

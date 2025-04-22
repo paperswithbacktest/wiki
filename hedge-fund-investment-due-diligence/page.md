@@ -1,6 +1,7 @@
 ---
-title: "Hedge Fund Investment Due Diligence"
-description: "Explore the importance of due diligence in hedge fund investments focusing on algorithmic trading strategies to ensure informed decisions and mitigate risks effectively."
+title: Comprehensive Hedge Fund Due Diligence Guide for Investors
+description: Hedge Fund Due Diligence helps investors evaluate managers, strategies,
+  fees and risks to make informed decisions with confidence Discover more inside
 ---
 
 

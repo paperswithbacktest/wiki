@@ -1,6 +1,7 @@
 ---
-title: "Impact of Fiscal Deficits on Economic Growth"
-description: "Explore the complex relationship between fiscal deficits and economic growth, focusing on their influence on algorithmic trading and global market strategies."
+title: Understanding Fiscal Deficits and Economic Growth Impact
+description: Fiscal deficits influence growth by revealing short and long term effects
+  on jobs interest rates and inflation in different economies Discover more inside.
 ---
 
 

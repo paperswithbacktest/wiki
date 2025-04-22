@@ -1,6 +1,7 @@
 ---
-title: "History and Schools of Thought in Macroeconomics"
-description: "Explore the impact of economic schools of thought on macroeconomics from classical to Keynesian theories Understanding these frameworks is key to economic policy."
+title: Comprehensive Guide to Macroeconomic Schools of Thought
+description: Macroeconomic schools of thought explained clearly to show how key theories
+  from classical to modern models shape policy decisions Discover more inside
 ---
 
 

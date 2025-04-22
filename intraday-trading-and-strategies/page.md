@@ -1,6 +1,7 @@
 ---
-title: "Intraday Trading and Strategies"
-description: "Explore effective day and intraday trading strategies that leverage algorithmic trading to enhance performance, reduce risks, and boost profitability."
+title: Intraday Trading Guide Covering Strategies Risk Control and Tools
+description: Intraday trading guidance covering stock selection strategies risk management
+  and disciplined planning to help you trade confidently Discover more inside
 ---
 
 

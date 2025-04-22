@@ -1,6 +1,7 @@
 ---
-title: "How can I become an algo trader?"
-description: "Learn how to become an algorithmic trader with this comprehensive guide. Gain academic training, programming skills, platform knowledge, practical experience, develop strategies, network, understand markets, pursue continuing education, adhere to ethics and regulations, and master risk management. Explore resources for trading strategies, libraries, datasets, and websites to help you succeed in this competitive field."
+title: Comprehensive Algorithmic Trading Guide for Modern Investors
+description: Algorithmic trading guides you through required tools programming essentials
+  backtesting and risk controls to optimize performance Discover more inside
 ---
 
 

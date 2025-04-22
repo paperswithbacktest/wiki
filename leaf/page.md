@@ -1,6 +1,7 @@
 ---
-title: "Leaf (Machine Learning)"
-description: "Explore the concept of leaves in decision trees within machine learning and learn about Leaf a user-friendly framework focusing on decision trees and ensemble methods."
+title: Leaf Machine Learning Framework Simplifies Decision Tree Modeling
+description: Leaf machine learning framework makes it easy to build and interpret
+  decision tree and ensemble models with intuitive preprocessing Discover more inside
 ---
 
 ![Image](images/1.png)

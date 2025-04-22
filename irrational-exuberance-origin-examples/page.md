@@ -1,6 +1,7 @@
 ---
-title: "Irrational Exuberance: Origin and Examples"
-description: "Explore irrational exuberance in finance, its impact on asset prices, and the role of algorithmic trading in navigating market bubbles and volatility."
+title: Understanding Irrational Exuberance in Financial Markets
+description: Irrational Exuberance explains overoptimistic market bubbles from Greenspan
+  to the dot com bubble Learn how to identify and avoid them Discover more inside
 ---
 
 

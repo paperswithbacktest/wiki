@@ -1,6 +1,7 @@
 ---
-title: "Gaussian Distribution in Finance"
-description: Explore the role of Gaussian distribution in algorithmic trading, a key element for modeling financial data. Understand its benefits and limitations in predicting market trends and managing risk for informed trading decisions.
+title: Applying Gaussian Distribution for Financial Risk Management
+description: Gaussian distribution gives finance teams tools to model returns risk
+  and optimize portfolios using mean and standard deviation Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Key Economic Indicators for Investing in the Banking Sector"
-description: "Discover critical economic indicators for investing in the banking sector via algorithmic trading Learn how interest rates inflation and GDP impact profitability and strategies"
+title: Economic Indicators And Their Impact On Banking Investments
+description: Economic indicators help investors assess how interest rates GDP growth
+  unemployment and inflation shape bank profitability and risk Discover more inside.
 ---
 
 

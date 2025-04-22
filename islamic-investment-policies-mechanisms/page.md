@@ -1,6 +1,7 @@
 ---
-title: "Islamic Investment Policies and Mechanisms"
-description: "Explore the synergy between Shariah-compliant investments and algorithmic trading technologies redefining Islamic finance with ethical and modern investment solutions."
+title: Guide to Shariah Compliant Investment Policies for Ethical Growth
+description: Shariah compliant investments avoid interest and harmful industries while
+  using profit sharing to grow wealth ethically. Discover more inside.
 ---
 
 

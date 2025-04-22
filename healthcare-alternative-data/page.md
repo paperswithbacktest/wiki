@@ -1,6 +1,7 @@
 ---
-title: "Healthcare Alternative Data"
-description: Explore the transformative power of healthcare alternative data in algorithmic trading as it enhances financial decision-making with unique insights from non-traditional sources like health insurance claims and consumer health applications. This article investigates into the applications and advantages of using healthcare data to predict market trends, offering a competitive edge to investors by revealing influential consumer health behaviors and spending patterns. Discover how traders leverage healthcare datasets to improve predictive models, identify investment opportunities, and navigate the evolving landscape of data-driven trading strategies.
+title: Harnessing Alternative Data in Healthcare for Better Outcomes
+description: Alternative Data offers insights from wearables social media and location
+  to help providers personalize care and improve outcomes Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Leverage"
-description: Explore the intricacies of leveraging in algorithmic trading, where borrowed funds are utilized to amplify investment gains. Discover the balance between heightened returns and elevated risks, emphasizing strategic risk management. This comprehensive guide investigates into types of leverage, their applications, and offers insights on optimizing and managing leveraged trading strategies effectively.
+title: Financial Leverage Explained Types Risks and Benefits
+description: Financial leverage helps you amplify returns with borrowed funds while
+  controlling risk and mastering key types ratios strategies Discover more inside
 ---
 
 

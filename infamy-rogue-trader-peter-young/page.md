@@ -1,6 +1,7 @@
 ---
-title: "Infamy of Rogue Trader Peter Young"
-description: "Explore the notorious financial scandal of rogue trader Peter Young whose unauthorized trading at Morgan Grenfell triggered calls for stronger financial regulations."
+title: Peter Young Rogue Trader Scandal at Morgan Grenfell
+description: "Peter Young rogue trader cost Morgan Grenfell \xA3440 million and shook\
+  \ investor trust prompting stricter market oversight Discover more inside."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Funds Transfer Pricing Overview and Calculation"
-description: "Explore Funds Transfer Pricing (FTP), a vital framework in banking that helps institutions evaluate profitability across business segments. Understand how FTP analyzes the impact of funding sources on financial performance, aiding in risk management and decision-making. Learn key FTP concepts, calculation methods, and its role in algorithmic trading to enhance financial strategies."
+title: Understanding Funds Transfer Pricing for Bank Profitability
+description: Funds Transfer Pricing reveals true funding costs and loan margins with
+  active internal rates for profitability insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Leading Chinese Natural Gas Companies: SHI and PTR"
-description: "Explore Chinese natural gas leaders SHI and PTR embracing algorithmic trading to enhance efficiency and market influence in a dynamic energy landscape."
+title: Sakhalin Energy and Pertamina Shaping Global Natural Gas Markets
+description: Natural gas partnerships by SHI and PTR boost energy security and sustainability
+  through advanced extraction and distribution methods Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investment Potential of Real Estate Syndicates"
-description: "Explore the potential of real estate syndicates and algo trading to diversify portfolios and optimize investments with cutting-edge financial strategies."
+title: Comprehensive Guide to Real Estate Syndicate Investing
+description: Real estate syndicate investments let you pool resources to access large
+  properties with professional management and shared profits Discover more inside.
 ---
 
 

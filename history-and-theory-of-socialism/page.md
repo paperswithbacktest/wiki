@@ -1,6 +1,7 @@
 ---
-title: "History and Theory of Socialism"
-description: "Explore the history and theory of socialism and its intersection with algorithmic trading highlighting how socialist principles may influence modern financial practices."
+title: Socialism Explained Insights From Origins to Modern Movements
+description: Socialism traces the evolution from utopian origins to modern movements
+  tackling inequality and global climate challenges. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Imputed Value: Explanation and Examples"
-description: "Discover how imputed value, valuation techniques, and algorithmic trading interconnect to optimize financial decision-making and enhance investment strategies."
+title: Understanding Imputed Value in Economics and Finance
+description: Imputed value fills missing economic data with statistical techniques
+  to improve analysis and guide policy and business decisions. Discover more inside
 ---
 
 

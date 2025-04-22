@@ -1,6 +1,7 @@
 ---
-title: "List of Major Central Banks"
-description: "Explore the dynamic relationship between major central banks and algorithmic trading in global finance and discover how they influence economic stability."
+title: The Role Of Central Banks In Maintaining Economic Stability
+description: Central Banks shape the economy by setting interest rates managing money
+  supply and safeguarding financial stability for steady growth Discover more inside
 ---
 
 

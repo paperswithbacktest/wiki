@@ -1,6 +1,7 @@
 ---
-title: "Impact of Investing $10,000 at 2008 Financial Crisis Lows"
-description: "Discover the impact of investing $10,000 at 2008 crisis lows with insights into market recovery algorithmic trading and long-term investment strategies."
+title: Investing at 2008 Market Lows Yields Long-Term Gains
+description: 2008 market lows offered a chance to invest $10,000 in an S&P 500 index
+  fund for significant recovery and long-term growth. Discover more inside.
 ---
 
 

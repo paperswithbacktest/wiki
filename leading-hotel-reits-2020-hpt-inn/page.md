@@ -1,6 +1,7 @@
 ---
-title: "Leading Hotel REITs in 2020: HPT and INN"
-description: "Explore the role of algorithmic trading in optimizing investments in leading hotel REITs HPT and INN Discover strategic insights for maximizing returns"
+title: Comparing Hotel REITs HPT and INN Performance and Strategy
+description: Hotel REITs HPT and INN reveal key portfolio diversity financial resilience
+  and recovery strategies during the 2020 crisis Discover more inside
 ---
 
 

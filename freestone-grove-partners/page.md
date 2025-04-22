@@ -1,6 +1,8 @@
 ---
-title: "Freestone Grove Partners"
-description: "Discover Freestone Grove Partners in algorithmic trading known for innovative solutions that optimize strategies and deliver superior performance in finance."
+title: Freestone Grove Partners Investment Strategies for Business Growth
+description: Freestone Grove Partners delivers personalized investment strategies
+  for large companies combining market expertise and close collaboration for growth
+  Discover more inside.
 ---
 
 

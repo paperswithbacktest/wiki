@@ -1,6 +1,7 @@
 ---
-title: "Kraken API Guide"
-description: Discover the comprehensive Kraken API Guide for algorithmic trading, designed to help traders and developers harness advanced tools for optimized trading strategies in cryptocurrency markets. Learn how to leverage Kraken's robust API to enhance performance and capitalize on market opportunities, all within a secure and compliant trading environment.
+title: Complete Kraken API Guide for Setup Management and Automation
+description: Kraken API enables traders to automate strategies manage keys securely
+  fetch market data efficiently with simple setup instructions Discover more inside
 ---
 
 

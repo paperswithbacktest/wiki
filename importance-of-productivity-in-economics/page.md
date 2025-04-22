@@ -1,6 +1,7 @@
 ---
-title: "Importance of Productivity in Economics"
-description: "Explore how productivity fuels economic efficiency and algorithmic trading's role in economic growth Technology in finance reshapes resource allocation and market dynamics"
+title: Understanding Productivity in Economics for Sustainable Growth
+description: Productivity in economics shows how efficient resource use boosts output
+  wages and living standards while driving economic growth Discover more inside
 ---
 
 

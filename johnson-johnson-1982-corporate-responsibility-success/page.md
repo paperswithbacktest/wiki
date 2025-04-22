@@ -1,6 +1,8 @@
 ---
-title: "Johnson & Johnson's 1982 Corporate Responsibility Success"
-description: "Explore Johnson & Johnson's exemplary crisis management during the 1982 Tylenol scare and the role of algorithmic trading in modern risk management."
+title: "Johnson\_&\_Johnson\_Tylenol\_Crisis\_Response and Corporate Trust Recovery"
+description: "Tylenol crisis response by Johnson\_&\_Johnson showcases swift safety\
+  \ measures and transparent communication to restore trust and influence product\
+  \ packaging rules Discover more inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "History of Options Contracts"
-description: "Explore the fascinating history of options contracts in algorithmic trading from their ancient Greek roots to modern tech-driven strategies shaping today's markets."
+title: Evolution of Options Contracts From Ancient Greece to Today
+description: Options contracts evolved from ancient Greece to modern exchanges offering
+  risk management income strategies and speculation Discover more inside
 ---
 
 

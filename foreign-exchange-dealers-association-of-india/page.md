@@ -1,6 +1,7 @@
 ---
-title: "Foreign Exchange Dealers Association of India"
-description: "Explore the impact of the Foreign Exchange Dealers Association of India on forex algo trading shaping regulatory frameworks and ensuring market stability in India."
+title: Role of the Foreign Exchange Dealers Association of India FEDAI
+description: Foreign Exchange Dealers Association of India FEDAI sets clear guidelines
+  and trains banks to maintain a fair stable forex market Discover more inside
 ---
 
 

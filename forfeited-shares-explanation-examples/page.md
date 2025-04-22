@@ -1,6 +1,7 @@
 ---
-title: "Forfeited Shares: Explanation and Examples"
-description: "Explore the key aspects of forfeited shares and stock cancellation in trading Discover how these concepts affect market dynamics and the role of algorithmic trading in managing them"
+title: Understanding Forfeited Shares And Corporate Stock Reacquisition
+description: Forfeited shares let companies enforce payment and performance conditions
+  while managing share capital and employee incentives Discover more inside
 ---
 
 

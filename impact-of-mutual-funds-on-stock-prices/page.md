@@ -1,6 +1,7 @@
 ---
-title: "Impact of Mutual Funds on Stock Prices"
-description: "Explore how mutual funds and algorithmic trading impact stock prices through large-scale transactions and high-speed data analysis in financial markets."
+title: How Mutual Funds Shape Stock Prices Through Market Influence
+description: Mutual Funds shape stock demand and prices through strategic buying and
+  selling decisions delivering trend and volatility insights Discover more inside
 ---
 
 

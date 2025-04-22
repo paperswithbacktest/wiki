@@ -1,6 +1,7 @@
 ---
-title: "Interlocking Directorates: Meaning and Function"
-description: "Explore the intricate role of interlocking directorates and algorithmic trading in corporate governance. Understand their impact on market behavior and regulatory challenges."
+title: Understanding Interlocking Directorates in Corporate Governance
+description: Interlocking directorates enable boards to share expertise and streamline
+  decisions while preserving market competition Discover more inside.
 ---
 
 

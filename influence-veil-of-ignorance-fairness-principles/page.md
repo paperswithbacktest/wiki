@@ -1,6 +1,7 @@
 ---
-title: "Influence of the Veil of Ignorance on Fairness Principles"
-description: "Explore how John Rawls' Veil of Ignorance can guide fair algorithmic trading systems, ensuring ethical design and equitable market practices."
+title: Understanding the Veil of Ignorance for a Just Society
+description: Veil of Ignorance encourages fair decision making by imagining no one
+  knows their status so rules benefit everyone equally Discover more inside.
 ---
 
 

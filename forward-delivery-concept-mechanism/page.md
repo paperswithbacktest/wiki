@@ -1,6 +1,7 @@
 ---
-title: "Forward Delivery: Concept and Mechanism"
-description: "Explore the essentials of forward delivery commodity trading and algorithmic strategies to manage risks and capitalize on market opportunities."
+title: Forward Delivery Strategy for Efficient Supply Chain Planning
+description: Forward delivery enables businesses to secure future supplies, control
+  costs, and boost satisfaction with planning and risk management Discover more inside
 ---
 
 

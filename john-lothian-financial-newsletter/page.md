@@ -1,6 +1,7 @@
 ---
-title: "John Lothian Financial Newsletter"
-description: "Discover insights into algorithmic trading with the John Lothian Financial Newsletter which covers financial market trends emerging technologies and trading strategies."
+title: John Lothian Financial Newsletter Daily Market Insights
+description: John Lothian Financial Newsletter delivers expert analysis on market
+  trends and trading strategies in a clear daily update Discover more inside.
 ---
 
 

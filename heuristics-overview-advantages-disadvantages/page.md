@@ -1,6 +1,7 @@
 ---
-title: "Heuristics: Overview, Advantages, and Disadvantages"
-description: "Explore the intersection of heuristics and algorithmic trading in financial markets, unveiling advantages, potential biases, and the fusion of cognitive insights with tech."
+title: Comprehensive Guide to Heuristics for Effective Decision-Making
+description: Heuristics help you make faster decisions with practical shortcuts while
+  revealing possible biases and accuracy tradeoffs Discover more inside.
 ---
 
 

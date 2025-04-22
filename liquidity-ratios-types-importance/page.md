@@ -1,6 +1,7 @@
 ---
-title: "Liquidity Ratios: Types and Importance"
-description: "Explore the significance of liquidity ratios in financial analysis and algorithmic trading. Learn how these metrics enhance investment strategies and assess company health."
+title: "Understanding Liquidity Ratios for Short\u2011Term Financial Health"
+description: Liquidity ratios measure how well businesses pay short term debts by
+  comparing assets to liabilities across key ratios Discover more inside.
 ---
 
 

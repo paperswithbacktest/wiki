@@ -1,6 +1,7 @@
 ---
-title: "Liquidity Event: Definition and Mechanism"
-description: "Explore the transformative role of liquidity events and algorithmic trading in business strategies Understand how these mechanisms drive financial success and market efficiency"
+title: Essential Liquidity Events Guide for Investors and Companies
+description: Liquidity event insights guide companies and investors to convert shares
+  into cash via IPOs acquisitions and mergers and manage risks Discover more inside
 ---
 
 

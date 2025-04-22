@@ -1,6 +1,7 @@
 ---
-title: "Kappa: Meaning, Function, and Measurement"
-description: "Explore the vital role of the Kappa statistic in algorithmic trading to ensure strategy reliability and minimize the impact of chance on decision-making."
+title: Understanding the Kappa Statistic for Measuring Agreement
+description: Kappa statistic measures interrater agreement beyond chance to assess
+  reliability in research, clinical, and diagnostic settings Discover more inside.
 ---
 
 

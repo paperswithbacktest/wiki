@@ -1,6 +1,7 @@
 ---
-title: "The Global Dow: Overview and Constituent Countries"
-description: "Explore the Global Dow index and algorithmic trading principles to enhance your investment strategy with insights into international markets and economic trends."
+title: Understanding the Global Dow Index and Its Significance
+description: Global Dow tracks 150 major companies across 25 countries to offer a
+  snapshot of the economy and guide investment decisions Discover more inside.
 ---
 
 

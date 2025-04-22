@@ -1,6 +1,7 @@
 ---
-title: "Leading Mid-Cap Industrial Companies"
-description: "Explore the compelling potential of mid-cap industrial stocks and the transformative impact of algorithmic trading in this dynamic investment sector. Uncover unique growth opportunities with these innovative trading strategies."
+title: Understanding Mid Cap Industrial Companies and Their Growth
+description: Mid Cap Industrial Companies combine growth potential and stability with
+  strategic innovation and supply chain agility Discover more inside today
 ---
 
 

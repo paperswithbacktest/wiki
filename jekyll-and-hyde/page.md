@@ -1,6 +1,7 @@
 ---
-title: "Jekyll and Hyde"
-description: "Explore the dual nature of algorithmic trading with insights from Jekyll and Hyde reflecting on market stability and volatility for optimized trading strategies."
+title: Algorithmic Trading Strategies for Stability and Volatility
+description: Algorithmic trading strategies blend technical indicators with risk management
+  to navigate stable and volatile markets effectively Discover more inside.
 ---
 
 

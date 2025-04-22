@@ -1,6 +1,7 @@
 ---
-title: "Impact of Brexit on the Euro, Pound, and US Dollar"
-description: "Explore how Brexit impacts the Euro Pound and US Dollar in forex markets Discover how algorithmic trading helps navigate these currency fluctuations effectively"
+title: Brexit Currency Impact On Pound Euro And Dollar Exchange Rates
+description: Brexit currency impact reshaped Pound Sterling Euro and US Dollar values
+  by driving market fluctuations and safe haven shifts Discover more inside
 ---
 
 

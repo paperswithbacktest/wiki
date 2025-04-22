@@ -1,6 +1,7 @@
 ---
-title: "International Trade Rules and Commercial Policy"
-description: "Explore the crucial influence of international trade rules and commercial policy especially in algorithmic trading shaping global commerce and governing cross-border trade activities."
+title: Understanding International Trade Rules and Commercial Policy
+description: International trade drives growth through fair rules on tariffs non tariff
+  barriers and trade agreements that shape market access Discover more inside.
 ---
 
 

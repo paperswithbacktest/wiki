@@ -1,6 +1,7 @@
 ---
-title: "Intercorporate Investment Accounting"
-description: "Explore the complexities of intercorporate investment accounting and algorithmic trading, and understand how these factors influence financial statements and reporting."
+title: Intercorporate Investment Accounting Methods and Practices
+description: Intercorporate investment accounting delivers accurate reporting with
+  cost equity and fair value methods and streamlines consolidation Discover more inside.
 ---
 
 

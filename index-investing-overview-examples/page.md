@@ -1,6 +1,7 @@
 ---
-title: "Index Investing: Overview and Examples"
-description: "Explore the benefits of combining index investing and algorithmic trading for a balanced strategy that enhances diversification with automated precision in financial markets."
+title: Index Investing Basics A Practical Guide for Beginners
+description: Index investing offers a low fee way to spread risk across the market,
+  build wealth over time and minimize active management Discover more inside
 ---
 
 

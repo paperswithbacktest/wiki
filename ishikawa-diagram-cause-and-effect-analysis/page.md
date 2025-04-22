@@ -1,6 +1,7 @@
 ---
-title: "Ishikawa Diagram: Cause-and-Effect Analysis"
-description: "Explore how the Ishikawa Diagram can enhance algorithmic trading by identifying root causes of trading issues Improve your strategies with this powerful tool."
+title: Understanding the Ishikawa Diagram for Root Cause Analysis
+description: Ishikawa Diagram maps root causes of issues for clear problem solving
+  across industries using structured categories and steps. Discover more inside.
 ---
 
 

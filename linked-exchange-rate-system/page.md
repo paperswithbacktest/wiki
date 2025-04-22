@@ -1,6 +1,8 @@
 ---
-title: "Linked Exchange Rate System"
-description: "Navigate the world of finance with insights into exchange rate systems, linked rate mechanisms, and algorithmic trading to optimize global trading strategies."
+title: Linked Exchange Rate System Explained Benefits and Risks
+description: Linked Exchange Rate System fixes a currency to a strong currency to
+  keep values stable, boost trade confidence and attract investment Discover more
+  inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "International Equity Style Box"
-description: "Explore international equity style boxes and algo trading to enhance portfolio diversification and performance. Learn strategies for global investment success."
+title: International Equity Style Box Explained for Global Portfolio Strategy
+description: International Equity Style Box classification helps you compare global
+  stocks by size and style to diversify your portfolio and manage risk Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hard Assets: Types and Examples"
-description: "Explore the significance of hard assets such as real estate and commodities in investment portfolios and how algorithmic trading enhances asset management."
+title: Understanding Hard Assets for Portfolio Diversification
+description: Hard assets deliver value and income from real estate and commodities
+  protecting against inflation and diversifying your portfolio Discover more inside
 ---
 
 

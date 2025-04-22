@@ -1,6 +1,7 @@
 ---
-title: "L1 Loss (Machine Learning)"
-description: "Learn about L1 Loss in machine learning an error measurement method that reduces sensitivity to outliers by using the mean absolute error formula."
+title: Understanding L1 Loss in Machine Learning Regression
+description: L1 Loss measures model error by averaging absolute differences, reducing
+  outlier impact and enhancing feature selection Discover more inside
 ---
 
 ![Image](images/1.png)

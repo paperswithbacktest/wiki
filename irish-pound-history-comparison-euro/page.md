@@ -1,6 +1,7 @@
 ---
-title: "Irish Pound: History and Comparison to the Euro"
-description: "Explore Ireland's currency history from the Irish pound to the euro and discover how algorithmic trading influences modern forex strategies and currency stability."
+title: Irish Pound Currency History and Shift to the Euro
+description: Irish Pound history reveals how the currency of Ireland evolved from
+  Punt to Euro adoption in 2002 highlighting key economic shifts. Discover more inside.
 ---
 
 

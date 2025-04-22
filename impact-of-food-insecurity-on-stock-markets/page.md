@@ -1,6 +1,7 @@
 ---
-title: "Impact of Food Insecurity on Stock Markets"
-description: "Discover how food insecurity impacts stock markets and algorithmic trading Analyze the economic interconnections shaping global financial stability"
+title: The Impact of Food Insecurity on Stock Market Stability
+description: Food insecurity can reshape market dynamics by reducing consumer spending
+  and driving stock volatility across sectors Explore active strategies inside
 ---
 
 

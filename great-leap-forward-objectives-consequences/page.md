@@ -1,6 +1,7 @@
 ---
-title: "Great Leap Forward: Objectives and Consequences"
-description: "Explore the objectives and far-reaching consequences of the Great Leap Forward, a pivotal period in Chinese history aimed at rapid industrialization. This article investigates into the profound impacts of these policies on both the economic and social structures of the time, offering a unique comparison with the development of algorithmic trading today. Uncover key historical lessons relevant to current economic strategies and technological advancements in this insightful analysis."
+title: China's Great Leap Forward Economic Transformation and Human Toll
+description: Great Leap Forward triggered steel drives and communal farming that backfired
+  leaving millions hungry and prompting policy shifts Discover more inside
 ---
 
 

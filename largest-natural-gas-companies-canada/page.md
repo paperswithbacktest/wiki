@@ -1,6 +1,7 @@
 ---
-title: "Largest Natural Gas Companies in Canada"
-description: "Explore Canada's robust natural gas sector and leading companies like Enbridge and CNRL. Learn how algorithmic trading enhances market efficiency."
+title: Comprehensive Overview of Canada's Natural Gas Industry
+description: Natural gas in Canada fuels energy economy and innovation across key
+  regions and top companies while reducing environmental impact Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Immunization in Investment Strategies"
-description: "Explore investment immunization strategies that protect portfolios from interest rate fluctuations by balancing asset and liability durations with algorithmic trading."
+title: Portfolio Immunization Strategy for Mitigating Interest Rate Risk
+description: Portfolio immunization strategy aligns bond cash flows with liabilities
+  to protect investments from rate changes and preserve value Discover more inside
 ---
 
 

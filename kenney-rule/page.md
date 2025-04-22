@@ -1,6 +1,7 @@
 ---
-title: "Kenney Rule"
-description: "Explore the Kenney Rule's application in algorithmic trading to enhance financial stability and risk management, promoting market integrity and efficiency."
+title: Understanding the Kenney Rule for Design and Risk Management
+description: Kenney Rule provides clear guidelines to simplify interface design and
+  reinforce financial risk management across industries Discover more inside.
 ---
 
 

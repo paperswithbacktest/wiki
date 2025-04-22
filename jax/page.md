@@ -1,6 +1,7 @@
 ---
-title: "JAX (Machine Learning)"
-description: "Discover JAX a Python library by Google that accelerates machine learning through fast computations on GPUs and TPUs with automatic differentiation."
+title: Comprehensive Guide To JAX For Efficient Machine Learning
+description: JAX accelerates machine learning workflows with automatic differentiation
+  just in time compilation and parallel hardware support Discover more inside.
 ---
 
 ![Image](images/1.png)

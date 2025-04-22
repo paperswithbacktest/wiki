@@ -1,6 +1,7 @@
 ---
-title: "Hyperplane (Machine Learning)"
-description: "A hyperplane in machine learning is a decision boundary separating data classes in high dimensions vital for algorithms like Support Vector Machines."
+title: Understanding Hyperplanes in Machine Learning for Classification
+description: Hyperplane theory in machine learning delivers clear decision boundaries
+  for classification and regression with SVM and neural nets Discover more inside
 ---
 
 ![Image](images/1.png)

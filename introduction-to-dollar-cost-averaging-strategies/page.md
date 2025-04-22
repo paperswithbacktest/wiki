@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Dollar-Cost Averaging Strategies"
-description: Dollar-cost averaging (DCA) is an investment strategy that involves regularly investing a fixed amount of money into assets, reducing the effects of market volatility. This page discusses DCA in the context of algorithmic trading, highlighting how automated trading can enhance discipline and consistency, minimizing emotional decision-making. It covers the benefits of DCA, such as risk mitigation and psychological advantages, along with potential drawbacks, including lower returns in rising markets and increased transaction costs. The article explores the implementation of DCA and its variations to adapt to different market conditions and risk preferences.
+title: Understanding Dollar Cost Averaging For Consistent Investing
+description: Dollar cost averaging reduces investment risk by spreading out contributions
+  over time and can lower average costs for shares. Discover more inside.
 ---
 
 

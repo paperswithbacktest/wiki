@@ -1,6 +1,8 @@
 ---
-title: "Hashed Timelock Contract in Cryptocurrency"
-description: "Discover how Hashed Timelock Contracts (HTLCs) are transforming cryptocurrency transactions and algorithmic trading with secure, efficient cross-platform solutions."
+title: Hashed Timelock Contracts Secure Blockchain Transactions
+description: "Hashed Timelock Contracts enable secure time\u2011bound blockchain trades\
+  \ by enforcing refunds or payouts for fair cross\u2011chain asset swaps Discover\
+  \ more inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hot Hand: Concept, Mechanism, and Evidence"
-description: "Explore the captivating 'Hot Hand' phenomenon in trading and sports examining cognitive biases and statistical analyses to understand streaks and investment impacts."
+title: The Hot Hand Phenomenon Explained in Sports and Trading
+description: "Hot Hand phenomenon reveals why past success doesn\u2019t predict future\
+  \ performance as cognitive biases and stats shape expectations Discover more inside."
 ---
 
 

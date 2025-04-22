@@ -1,6 +1,7 @@
 ---
-title: "Inverse Volatility ETFs: History and Criticism"
-description: "Explore the dynamic world of inverse volatility ETFs in this comprehensive article detailing their history, criticism, and role in algorithmic trading strategies."
+title: Understanding Inverse Volatility ETFs for Market Stability
+description: Inverse Volatility ETFs help investors hedge market fluctuations by profiting
+  from lower volatility while managing complex risks. Discover more inside
 ---
 
 

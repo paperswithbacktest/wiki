@@ -1,6 +1,7 @@
 ---
-title: "Keynesian Put"
-description: "Explore the synergy between Keynesian economics and algorithmic trading in today's financial markets, revealing insights into strategic behaviors and future trends."
+title: Understanding the Keynesian Put as an Economic Safety Net
+description: Keynesian Put shows how targeted government spending and tax relief can
+  swiftly revive employment and demand during economic slumps Discover more inside.
 ---
 
 

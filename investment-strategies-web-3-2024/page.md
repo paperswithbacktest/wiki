@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies for Web 3.0 in 2024"
-description: "Explore strategic investment opportunities in Web 3.0 and algo trading for 2024's dynamic cryptocurrency market to stay ahead in evolving financial landscapes."
+title: Web 3.0 Investment Strategies for Decentralized Internet in 2024
+description: Web 3.0 investments use blockchain and decentralized finance to give
+  you control and diversify your portfolio while managing risk. Discover more inside.
 ---
 
 

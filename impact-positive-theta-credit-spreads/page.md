@@ -1,6 +1,7 @@
 ---
-title: "Impact of Positive Theta on Credit Spreads"
-description: "Explore how positive theta benefits credit spreads in options trading Discover strategies for leveraging algorithmic trading to optimize returns and manage risk effectively"
+title: Understanding Positive Theta in Options Credit Spreads
+description: Positive theta in options trading optimizes credit spreads by harnessing
+  time decay and targeting short-term low-volatility stocks Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Generations of Blockchain Technology"
-description: "Explore the evolution of blockchain technology and its integration with algorithmic trading in this comprehensive article. Delve into the different generations of blockchain, from its origins with Bitcoin to the rise of smart contracts with Ethereum, and future prospects with Web3 developments. Discover how blockchain's decentralized, secure, and transparent nature is revolutionizing sectors beyond finance, enhancing trading systems' efficiency and reliability. Gain insights into the transformative potential of blockchain, driving innovation and streamlining operations within a decentralized digital ecosystem."
+title: Evolution of Blockchain Generations From Bitcoin to Future
+description: Blockchain technology evolves through generations adding smart contracts
+  faster consensus mechanisms and improved sustainability Discover more inside.
 ---
 
 

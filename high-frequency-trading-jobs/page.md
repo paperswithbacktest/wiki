@@ -1,6 +1,7 @@
 ---
-title: "High-Frequency Trading Jobs"
-description: Explore the dynamic world of high-frequency trading jobs where rapid execution and sophisticated algorithms define success in the financial markets. Discover unique career opportunities in this fast-paced industry requiring expertise in trading algorithms and low-latency technologies. Delve into the skills necessary for thriving in HFT, the diverse roles available, and strategies to enhance your candidacy. Whether you’re entering from academia or industry, learn how to navigate the landscape of HFT and make an impactful career choice in this innovative sector.
+title: High-Frequency Trading Careers Skills Education and Roles
+description: High-frequency trading demands strong math coding and market skills for
+  a successful career Explore education roles and strategies Discover more inside
 ---
 
 

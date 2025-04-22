@@ -1,6 +1,7 @@
 ---
-title: "Game theory in finance"
-description: "Uncover how game theory revolutionizes algorithmic trading by enhancing strategic decision-making in competitive markets, optimizing trading strategies for success."
+title: 'Game Theory in Finance: From Strategy to Risk Management'
+description: Game Theory in Finance helps investors and companies predict competitor
+  moves and optimize strategies with real case examples Discover more inside.
 ---
 
 

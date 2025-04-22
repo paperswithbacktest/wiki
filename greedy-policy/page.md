@@ -1,6 +1,7 @@
 ---
-title: "Greedy Policy (Machine Learning)"
-description: "Discover how a Greedy Policy in machine learning works focusing on immediate rewards without considering long-term effects and its pros and cons."
+title: Understanding Greedy Policy Strategies in Reinforcement Learning
+description: Greedy Policy in reinforcement learning selects highest reward actions
+  to speed training while mixing exploration for better results Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Future of the Cannabis Industry in the United States"
-description: "Explore how the legalization of marijuana is reshaping the cannabis industry in the U.S., influenced by both state policies and advanced algorithmic trading. Discover the market's expansion driven by AI, real-time data, and strategic trading, offering investment insights and transforming economic viability. Analyze the impact of evolving regulatory frameworks and public acceptance on this burgeoning sector, presenting a fertile ground for innovation and potential economic growth."
+title: Economic and Regulatory Impact of Cannabis Industry in the US
+description: Cannabis industry in the US drives job growth tax revenue and innovation
+  but faces federal legal hurdles and complex state regulations Discover more inside
 ---
 
 

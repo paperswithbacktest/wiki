@@ -1,6 +1,7 @@
 ---
-title: "Goodwill as a Capital Asset"
-description: "Explore how goodwill as a capital asset intersects with algorithmic trading strategies. Understand its role in stock valuation and market sentiment insights."
+title: Goodwill Accounting and Valuation as an Intangible Business Asset
+description: Goodwill accounting reveals how company reputation and customer loyalty
+  effectively translate into measurable capital asset value Discover more inside
 ---
 
 

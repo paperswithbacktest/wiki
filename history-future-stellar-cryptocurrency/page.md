@@ -1,6 +1,8 @@
 ---
-title: "History and Future of Stellar Cryptocurrency"
-description: "Explore Stellar cryptocurrency's potential in digital finance and algorithmic trading with low fees, fast processing, and seamless cross-border capabilities."
+title: "Stellar Cryptocurrency for Fast Low\u2011Cost Global Money Transfers"
+description: "Stellar Cryptocurrency offers instant low\u2011fee cross\u2011border\
+  \ payments and expands financial inclusion with a fast consensus protocol Discover\
+  \ more inside"
 ---
 
 

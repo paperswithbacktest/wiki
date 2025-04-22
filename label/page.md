@@ -1,6 +1,7 @@
 ---
-title: "Label (Machine Learning)"
-description: "Learn about the importance of labels in machine learning how they guide model predictions in supervised learning and the challenges of obtaining quality labels."
+title: Practical Guide to Data Labeling for Machine Learning Models
+description: Data labeling helps train machine learning models with precise tags that
+  boost prediction accuracy and reliability. Discover more inside today.
 ---
 
 ![Image](images/1.jpeg)

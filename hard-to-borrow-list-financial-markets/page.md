@@ -1,6 +1,7 @@
 ---
-title: "Hard-To-Borrow List in Financial Markets"
-description: "Explore the critical role of the hard-to-borrow list in short selling and algorithmic trading Learn how it impacts costs liquidity and trading strategies"
+title: "The Hard\u2011To\u2011Borrow List Explained for Short Sellers"
+description: Hard-To-Borrow List identifies stocks with limited shares and higher
+  fees so traders can optimize short selling strategies. Discover more inside.
 ---
 
 

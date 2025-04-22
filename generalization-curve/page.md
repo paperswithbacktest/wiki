@@ -1,6 +1,7 @@
 ---
-title: "Generalization Curve (Machine Learning)"
-description: "Explore the concept of generalization curves in machine learning and understand how they provide insights into model performance on unseen data highlighting overfitting and underfitting."
+title: Understanding the Generalization Curve in Machine Learning
+description: Generalization Curve shows how data size impacts model accuracy and guides
+  balancing bias and variance for robust models. Discover more inside
 ---
 
 ![Image](images/1.png)

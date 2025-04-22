@@ -1,6 +1,7 @@
 ---
-title: "Investor Protection Act Overview"
-description: "Explore the Investor Protection Act's role in moderating algorithmic trading, balancing tech innovation, and ensuring market integrity and investor safety."
+title: Ensuring Fair Investing Through the Investor Protection Act
+description: Investor Protection Act ensures truthful disclosures through SEC enforcement
+  to safeguard investors from fraud and boost confidence Discover more inside.
 ---
 
 

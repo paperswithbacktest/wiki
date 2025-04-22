@@ -1,6 +1,7 @@
 ---
-title: "International Derivatives Clearing Group"
-description: "Explore the vital roles of derivatives clearinghouses and algorithmic trading in enhancing market efficiency and stability amidst technological advancements."
+title: Understanding the International Derivatives Clearing Group IDCG
+description: International Derivatives Clearing Group secures derivative trades by
+  acting as central counterparty and enforcing rigorous risk management Explore inside.
 ---
 
 

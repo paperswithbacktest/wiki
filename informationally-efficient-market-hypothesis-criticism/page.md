@@ -1,6 +1,7 @@
 ---
-title: "Informationally Efficient Market: Hypothesis and Criticism"
-description: "Explore the Efficient Market Hypothesis and its impact on algorithmic trading Discover insights into market efficiency and the challenges of consistently beating the market"
+title: Informationally Efficient Markets Explained by the Efficient Market Hypothesis
+description: Efficient market describes how asset prices reflect information instantly
+  and limit stock picking advantages Discover more inside.
 ---
 
 

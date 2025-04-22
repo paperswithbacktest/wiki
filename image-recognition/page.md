@@ -1,6 +1,7 @@
 ---
-title: "Image Recognition (Machine Learning)"
-description: "Image recognition in machine learning enables computers to identify patterns in images using algorithms like CNNs, enhancing applications from face recognition to autonomous driving."
+title: Fundamentals Of Image Recognition In Machine Learning
+description: Image recognition in machine learning uses CNNs with preprocessing and
+  evaluation to identify and categorize objects accurately Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

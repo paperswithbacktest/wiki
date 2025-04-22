@@ -1,6 +1,7 @@
 ---
-title: "Home Bias: Definition, Mechanisms, and Considerations"
-description: "Discover how home bias and financial psychology impact investment decisions and learn strategies to leverage algorithmic trading for improved diversification and outcomes."
+title: Understanding Home Bias in Investment and Its Consequences
+description: Home bias limits diversification and raises portfolio risk. Explore strategies
+  to balance global assets and improve returns Discover more inside
 ---
 
 

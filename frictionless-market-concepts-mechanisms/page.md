@@ -1,6 +1,7 @@
 ---
-title: "Frictionless Market: Concepts and Mechanisms"
-description: "Explore the interplay between frictionless market concepts and algorithmic trading in modern finance Understanding market dynamics and optimizing trade efficiencies"
+title: Frictionless Markets Enhancing Efficiency in Digital Commerce
+description: Frictionless markets remove obstacles with seamless online platforms
+  and digital payments for efficient trading and user convenience Discover more inside.
 ---
 
 

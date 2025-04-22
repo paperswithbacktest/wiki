@@ -1,6 +1,7 @@
 ---
-title: "Impact of Millennial Consumers"
-description: "Explore the significant influence of millennial consumers on algorithmic trading, highlighting their unique digital consumption habits and investment preferences."
+title: Millennial Consumer Behavior And Trends In The Digital Age
+description: Millennial consumer behavior drives marketing through digital channels
+  social values and rewards for lasting brand engagement Discover more inside
 ---
 
 

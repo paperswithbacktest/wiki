@@ -1,6 +1,7 @@
 ---
-title: "Google Tax: Overview and Mechanism"
-description: "Explore the impact of Google Tax on digital taxation and its implications for algorithmic trading. Learn how these regulations affect global business practices."
+title: Understanding the Google Tax and Its Impact on Multinationals
+description: Google Tax explains how the Diverted Profits Tax blocks offshore profit
+  shifting and secures fair tax payments in the UK Discover more inside
 ---
 
 

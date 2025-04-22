@@ -1,6 +1,7 @@
 ---
-title: "Islamic Financial Services Board: Functions and Operations"
-description: "Explore the Islamic Financial Services Board's role in shaping Islamic finance regulations with a focus on algorithmic trading while ensuring Shariah compliance."
+title: Islamic Financial Services Board IFSB Standards And Global Impact
+description: Islamic Financial Services Board issues Shariah guidelines that strengthen
+  stability and guide growth in Islamic finance worldwide Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "IPO Lockup: Purpose and Expiration Strategies"
-description: "Explore the intricacies of IPO lockups and algorithmic trading with insights into expiration strategies. Unlock successful investing by understanding market dynamics."
+title: Understanding IPO Lockup Periods And Their Market Impact
+description: IPO lockup period stabilizes stock after a public offering and outlines
+  insider selling timelines and market impacts Discover more inside
 ---
 
 

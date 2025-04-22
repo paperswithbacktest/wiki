@@ -1,6 +1,7 @@
 ---
-title: "History of London's Emergence as a Global Financial Centre"
-description: "Explore the rich history of London's evolution as a global financial hub and its role in algorithmic trading shaping modern finance through technology."
+title: Rise of London as a Leading Global Financial Centre
+description: London Global Financial Centre evolution traces its rise from the Bank
+  of England to Brexit highlighting key events and resilience Discover more inside
 ---
 
 

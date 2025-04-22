@@ -1,6 +1,7 @@
 ---
-title: "Hybrid Fund: Examples of Mixed Asset Class Funds"
-description: "Discover the benefits of hybrid funds and algorithmic trading in mixed asset class investments Learn how these diversified portfolios balance risk and return."
+title: Understanding Hybrid Funds For Balanced Growth And Security
+description: Hybrid funds mix stocks and bonds to reduce portfolio risk while pursuing
+  growth through expert asset allocation and active management Discover more inside
 ---
 
 

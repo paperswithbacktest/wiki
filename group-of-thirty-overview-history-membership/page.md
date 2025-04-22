@@ -1,6 +1,7 @@
 ---
-title: "Group of Thirty: Overview, History, Membership"
-description: "Explore the Group of Thirty's global influence in economic policy and algorithmic trading through its history and impactful membership since its 1978 inception."
+title: Group of Thirty Role in Global Financial Policy and Stability
+description: Group of Thirty brings together global finance experts to shape robust
+  monetary policies and boost economic resilience Discover more inside today.
 ---
 
 

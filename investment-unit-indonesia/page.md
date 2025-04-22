@@ -1,6 +1,7 @@
 ---
-title: "Investment Unit of Indonesia"
-description: "Explore Indonesia's thriving algorithmic trading market driven by government investment in fintech strategic infrastructure and supportive regulations for investors."
+title: Guide To Indonesia Investment Authority Objectives And Operations
+description: Indonesia Investment Authority channels assets into infrastructure and
+  sustainability projects to boost growth attract foreign capital Discover more inside
 ---
 
 

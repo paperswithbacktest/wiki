@@ -1,6 +1,7 @@
 ---
-title: "Influence of Disposable Income on Stock Market Performance"
-description: "Explore how disposable income influences stock market performance, affecting consumer spending, corporate earnings, and valuation trends in algo trading."
+title: The Impact Of Disposable Income On Stock Market Trends
+description: Disposable Income determines spending capacity for investors and consumers,
+  influencing stock market performance and business growth Discover more inside
 ---
 
 

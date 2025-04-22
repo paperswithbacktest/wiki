@@ -1,6 +1,7 @@
 ---
-title: "Impact of Human Capital on Investors"
-description: "Explore the synergy between human capital and algorithmic trading vital for innovation and economic growth Discover how skilled talent enhances trading efficiencies"
+title: Human Capital Insights for Informed Investment Decisions
+description: Human Capital insights help investors assess workforce training leadership
+  and engagement to forecast growth and returns Discover more inside.
 ---
 
 

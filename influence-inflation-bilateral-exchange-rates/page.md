@@ -1,6 +1,7 @@
 ---
-title: "Influence of Inflation on Bilateral Exchange Rates"
-description: "Explore how inflation impacts bilateral exchange rates in algorithmic trading Discover how algo trading adapts to economic changes with insights on inflation dynamics"
+title: Understanding Inflation And Exchange Rate Relationships
+description: Inflation and exchange rates determine currency strength through purchasing
+  power parity interest rate policy and central bank actions Discover more inside
 ---
 
 

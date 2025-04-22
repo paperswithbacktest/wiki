@@ -1,6 +1,7 @@
 ---
-title: "Kenneth C. Griffin"
-description: Discover how Kenneth C. Griffin, a trailblazer in hedge fund management and founder of Citadel LLC, revolutionized finance with algorithmic trading. Explore Griffin's innovative journey from his Harvard dorm room to leading one of the world's most influential finance firms. Under his leadership, Citadel and Citadel Securities have harnessed cutting-edge technology to enhance trading speed and precision, redefining market dynamics. This article highlights Griffin's role in advancing algorithmic trading, its impact on market efficiency, and the transformation of modern financial practices.
+title: Kenneth C. Griffin Hedge Fund Leadership And Philanthropy
+description: Kenneth C. Griffin leveraged data and technology to build Citadel into
+  a leading hedge fund and drives philanthropy in education Discover more inside
 ---
 
 

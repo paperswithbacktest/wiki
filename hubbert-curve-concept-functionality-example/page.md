@@ -1,6 +1,7 @@
 ---
-title: "Hubbert Curve: Concept, Functionality, and Example"
-description: "Explore the Hubbert Curve's significance in predicting oil production and its application in algorithmic trading to optimize investment strategies in energy markets."
+title: Understanding the Hubbert Curve For Resource Extraction
+description: Hubbert Curve provides a logistic model to forecast peak oil and resource
+  depletion helping energy planners anticipate change Discover more inside
 ---
 
 

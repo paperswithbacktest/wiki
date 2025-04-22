@@ -1,6 +1,7 @@
 ---
-title: "Impact of Correlation on Stock Market"
-description: "Explore how correlation impacts algorithmic trading in the stock market with advanced strategies to maximize profits and manage risks effectively."
+title: Stock Market Correlation for Diversified Investment Portfolios
+description: Stock market correlation reveals how investments move together to optimize
+  portfolio diversification and manage risk with confidence Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Importance of Liquidity in Corporate Bond Markets"
-description: "Explore the impact of liquidity and algorithmic trading on corporate bond markets Discover how these factors drive market stability efficiency and investment strategies"
+title: Understanding Corporate Bond Market Liquidity and Risks
+description: Corporate bond liquidity determines how quickly investors can buy or
+  sell bonds without price impact and influences borrowing costs Discover more inside.
 ---
 
 

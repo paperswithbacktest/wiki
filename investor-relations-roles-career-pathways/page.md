@@ -1,6 +1,7 @@
 ---
-title: "Investor Relations: Roles and Career Pathways"
-description: "Explore the intersection of investor relations and algorithmic trading careers focusing on essential skills, strategic communication, and future industry trends."
+title: 'Investor Relations Essentials: Roles, Skills and Strategies'
+description: Investor relations builds trust with transparent financial reporting
+  clear insights and open communication to drive growth Discover more inside
 ---
 
 

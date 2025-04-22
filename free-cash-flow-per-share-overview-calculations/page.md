@@ -1,6 +1,7 @@
 ---
-title: "Free Cash Flow Per Share: Overview and Calculations"
-description: "Discover the importance of Free Cash Flow and Cash Flow per Share for assessing a company's financial health and making informed algo trading decisions."
+title: Understanding Free Cash Flow Per Share for Investor Decisions
+description: Free Cash Flow Per Share shows cash left per share after operations and
+  investments helping investors assess financial health Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Net Neutrality on Investment and Innovation"
-description: "Explore the critical impact of net neutrality on investment and algorithmic trading highlighting its vital role in fostering innovation and maintaining a level digital playing field."
+title: Net Neutrality Impact on Infrastructure Investment and Innovation
+description: Net neutrality ensures fair internet access while examining how rules
+  influence ISP investment, competition, and innovation Discover more inside
 ---
 
 

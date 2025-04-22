@@ -1,6 +1,7 @@
 ---
-title: "Layers API (TF.Layers) (Machine Learning)"
-description: "The Layers API in TensorFlow simplifies building neural networks with high-level functions for creating layers managing weights and applying regularization automatically."
+title: Simplifying Neural Network Development With TensorFlow Layers API
+description: TensorFlow Layers API streamlines neural network model building with
+  high-level layer classes and built-in regularization. Discover more inside.
 ---
 
 ![Image](images/1.png)

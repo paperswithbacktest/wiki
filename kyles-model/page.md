@@ -1,6 +1,7 @@
 ---
-title: "Kyle’s model"
-description: "Explore Kyle's Lambda in trading for better market predictions and cost-effective strategies. Gain a competitive edge by understanding trade impacts."
+title: Kyle's Model of Insider Trading and Market Microstructure
+description: Kyle's model explains how insiders, uninformed traders, and market makers
+  interact to drive price changes in financial markets Discover more inside.
 ---
 
 

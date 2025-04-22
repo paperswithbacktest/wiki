@@ -1,6 +1,7 @@
 ---
-title: "Gradient Boosting (Machine Learning)"
-description: "Gradient Boosting is a machine learning technique for regression and classification tasks that builds decision trees sequentially to minimize errors and improve accuracy."
+title: Understanding Gradient Boosting in Machine Learning
+description: Gradient Boosting improves model accuracy by sequentially adding decision
+  trees that correct residual errors and tune hyperparameters Discover more inside.
 ---
 
 ![Image](images/1.png)

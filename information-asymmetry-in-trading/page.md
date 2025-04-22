@@ -1,6 +1,7 @@
 ---
-title: "Information asymmetry in trading"
-description: "Explore how information asymmetry impacts algorithmic trading dynamics and market efficiency, highlighting its role, challenges, and implications in financial markets."
+title: Understanding Information Asymmetry in Financial Trading
+description: Information asymmetry in trading skews market fairness and efficiency
+  See how regulations analysts and tech level the playing field Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Historical Inflation Rates in the United States"
-description: "Explore the complex interplay of historical inflation rates and algorithmic trading in the U.S. to understand their impact on financial policies and market strategies."
+title: Comprehensive Guide to US Inflation History and Trends
+description: Inflation shapes US economy by tracking price shifts with CPI and Fed
+  rates Explore historic trends, cost drivers and policy impacts Discover more inside
 ---
 
 

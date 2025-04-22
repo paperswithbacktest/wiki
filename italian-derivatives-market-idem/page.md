@@ -1,6 +1,7 @@
 ---
-title: "Italian Derivatives Market (IDEM)"
-description: "Explore algorithmic trading in the Italian Derivatives Market IDEM where technology revolutionizes market strategies enhancing efficiency and liquidity."
+title: Comprehensive Guide to the Italian Derivatives Market IDEM
+description: Italian Derivatives Market IDEM overview explains key futures and options
+  trading rules risk management and market integrity and transparency Discover more
 ---
 
 

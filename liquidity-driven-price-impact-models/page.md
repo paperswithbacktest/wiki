@@ -1,6 +1,7 @@
 ---
-title: "Liquidity-Driven Price Impact Models"
-description: "Explore the impact of liquidity on price in algorithmic trading Learn how liquidity-driven models optimize trades reducing transaction costs and improving efficiency"
+title: Understanding Liquidity-Driven Price Impact Models for Trading
+description: Liquidity driven price impact models show how large trades move prices
+  and help traders break orders to cut slippage. Discover more insights inside
 ---
 
 

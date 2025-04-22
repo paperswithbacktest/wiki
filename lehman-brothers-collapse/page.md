@@ -1,6 +1,7 @@
 ---
-title: "Lehman Brothers Collapse"
-description: "Explore the impact of algorithmic trading in Lehman Brothers' historic collapse during the 2008 financial crisis highlighting systemic risks and market volatility."
+title: Collapse of Lehman Brothers and the 2008 Financial Crisis
+description: Lehman Brothers collapse reshaped financial markets by revealing risks
+  in mortgage securities and prompting regulatory reforms Discover more inside
 ---
 
 

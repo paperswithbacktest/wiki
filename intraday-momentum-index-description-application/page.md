@@ -1,6 +1,7 @@
 ---
-title: "Intraday Momentum Index: Description and Application"
-description: "Explore the Intraday Momentum Index and its application in algo trading Discover how this unique momentum indicator aids in making informed intraday decisions"
+title: Understanding the Intraday Momentum Index for Day Trading
+description: Intraday Momentum Index helps traders gauge short term buying and selling
+  pressure to identify optimal entry and exit opportunities Discover more inside.
 ---
 
 

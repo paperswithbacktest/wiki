@@ -1,6 +1,7 @@
 ---
-title: "Iceland Krona: Overview and History"
-description: "Explore the rich history and modern significance of the Iceland Krona ISK from its inception to its role in algorithmic trading and global finance."
+title: 'Understanding the Icelandic Krona: History, Value and Policy'
+description: Iceland Krona is the official currency of Iceland and this guide covers
+  its history management economic factors and future outlook Discover more inside
 ---
 
 

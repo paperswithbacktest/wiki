@@ -1,6 +1,7 @@
 ---
-title: "Held-By-Production Clause"
-description: "Explore the significance of Held-By-Production clauses in oil and gas leasing and their impact on drilling rights, economic stability, and landowner dynamics."
+title: Understanding Held-By-Production Clauses in Oil and Gas Leases
+description: Held-By-Production Clause in oil and gas leases ensures contracts stay
+  active while production meets output levels and grace periods Discover more inside.
 ---
 
 

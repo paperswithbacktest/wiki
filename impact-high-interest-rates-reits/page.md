@@ -1,6 +1,7 @@
 ---
-title: "Impact of High Interest Rates on REITs"
-description: "Explore the impact of high interest rates on REITs and algo trading Discover how these factors shape investment strategies and uncover potential market opportunities"
+title: High Interest Rates Impact REIT Performance and Property Values
+description: High Interest Rates raise borrowing costs and weigh on REIT returns and
+  valuations. Explore active strategies to mitigate risks. Discover more inside.
 ---
 
 

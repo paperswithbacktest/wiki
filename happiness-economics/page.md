@@ -1,6 +1,7 @@
 ---
-title: "Happiness Economics"
-description: "Explore the complex relationship between happiness and economics in the context of algorithmic trading focusing on well-being and economic growth balance."
+title: 'Exploring Happiness Economics: Measuring Well-Being Beyond GDP'
+description: Happiness Economics analyzes income health jobs social support to measure
+  wellbeing beyond GDP inform quality of life policies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hindenburg Omen: Criteria and Example"
-description: "Discover the criteria and examples of the Hindenburg Omen in algo trading Understand how this controversial index provides insights into market instability"
+title: Understanding the Hindenburg Omen Stock Market Indicator
+description: Hindenburg Omen uses highs lows moving averages and a negative McClellan
+  Oscillator with early alerts to warn of market downturns Discover more inside
 ---
 
 

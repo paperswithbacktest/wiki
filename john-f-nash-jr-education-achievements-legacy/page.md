@@ -1,6 +1,7 @@
 ---
-title: "John F. Nash Jr.: Education, Achievements, and Legacy"
-description: "Explore John F Nash Jr's profound impact on mathematics and economics from game theory and Nash Equilibrium to algorithmic trading strategies enhancing financial markets."
+title: John F. Nash Jr. Game Theory Pioneer And Lasting Legacy
+description: Nash Equilibrium transformed game theory and economics by predicting
+  strategic choices while John F Nash Jr overcame adversity Discover more inside.
 ---
 
 

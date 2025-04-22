@@ -1,6 +1,7 @@
 ---
-title: "Information Leakage in Markets"
-description: "Explore the challenges of information leakage in algorithmic trading and its impact on trade execution and strategy effectiveness in financial markets."
+title: Information Leakage in Financial Markets Risks and Prevention
+description: Information leakage in financial markets skews prices and erodes trust.
+  Explore prevention strategies to protect investors. Discover more inside.
 ---
 
 

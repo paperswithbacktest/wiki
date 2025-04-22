@@ -1,6 +1,7 @@
 ---
-title: "Impact of Fully Diluted Shares on Earnings"
-description: "Explore how fully diluted shares impact earnings and algorithmic trading. Discover the significance of calculating diluted EPS for informed financial decisions."
+title: Fully Diluted Shares And Their Effect On Earnings Per Share
+description: Fully diluted shares reveal the maximum potential share count and impact
+  on EPS so investors can assess dilution risks and valuation Discover more inside.
 ---
 
 

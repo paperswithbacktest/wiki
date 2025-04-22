@@ -1,6 +1,7 @@
 ---
-title: "Journal in Accounting, Investing, and Trading"
-description: "Explore the vital role of journals in accounting investing and trading Learn how strategic documentation aids in decision-making and enhances financial success"
+title: Comprehensive Guide to Accounting, Investing and Trading Journals
+description: Journals for accounting investing and trading provide clear records of
+  daily entries, track performance and refine strategies. Discover more inside.
 ---
 
 

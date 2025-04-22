@@ -1,6 +1,7 @@
 ---
-title: "Impact of the 2008 Financial Crisis on the Banking Sector"
-description: "Explore how the 2008 Financial Crisis reshaped the banking sector and spurred the rise of algorithmic trading amidst significant market disruption."
+title: 2008 Financial Crisis Effects on Global Banking Stability
+description: 2008 Financial Crisis exposed banks to liquidity crunch and spurred stricter
+  regulations and enhanced risk management strategies Discover more inside
 ---
 
 

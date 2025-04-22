@@ -1,6 +1,7 @@
 ---
-title: "K-Shaped Recovery and Contributing Factors"
-description: "Explore the intricacies of a K-shaped recovery and its economic implications. Discover how algorithmic trading intersects with this recovery model and impacts sector disparities."
+title: Understanding K-Shaped Economic Recovery And Sector Performance
+description: K-Shaped recovery highlights how some sectors surge while others lag.
+  Explore key drivers of inequality and policy solutions Discover more inside.
 ---
 
 

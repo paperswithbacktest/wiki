@@ -1,6 +1,7 @@
 ---
-title: "Foreign Institutional Investor and Regulations"
-description: "Explore Foreign Institutional Investors and the complexities they bring to global markets through algorithmic trading Discover investment regulations and market impacts"
+title: Foreign Institutional Investors Regulations and Market Impact
+description: Foreign Institutional Investors bring capital to markets while regulations
+  guard against volatility and ensure fair practices Discover more inside
 ---
 
 

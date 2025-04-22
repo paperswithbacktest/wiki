@@ -1,6 +1,7 @@
 ---
-title: "Frequency Of Capital Gains Distributions By Mutual Funds"
-description: "Explore how mutual fund capital gains distributions influence your investment strategy and discover the role of algorithmic trading in optimizing these gains."
+title: Understanding Capital Gains Distributions in Mutual Funds
+description: Capital gains distributions in mutual funds influence taxes and NAV while
+  revealing fund type turnover and holding period impacts Discover more
 ---
 
 

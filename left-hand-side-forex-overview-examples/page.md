@@ -1,6 +1,7 @@
 ---
-title: "Left Hand Side in Forex: Overview and Examples"
-description: "Discover how understanding the 'Left Hand Side' (LHS) in forex enhances algorithmic trading strategies for better bid price navigation and improved trade outcomes."
+title: A Guide to Understanding the Left Hand Side in Forex Trading
+description: Left Hand Side in Forex trading signals the bid price so traders know
+  when to sell and gauge market demand to boost results Discover more inside
 ---
 
 

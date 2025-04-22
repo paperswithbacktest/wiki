@@ -1,6 +1,7 @@
 ---
-title: "Impact of Buybacks on Price-to-Book Ratio"
-description: "Discover the impact of share buybacks on the Price-to-Book ratio in algorithmic trading, and its significance in modern investment strategies and financial analyses."
+title: "How Stock Buybacks Influence Price\u2011to\u2011Book and Valuation Metrics"
+description: Stock buybacks can lower the price to book ratio by reducing shares outstanding
+  while improving ROE and investor confidence Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "International Beta: Overview and Calculation"
-description: "Explore the fundamentals of international beta in algorithmic trading, understanding its calculation and role in assessing and managing global investment risks."
+title: Understanding International Beta for Global Risk Management
+description: International Beta helps investors compare portfolio risk to the global
+  market and optimize diversification across countries Discover more inside.
 ---
 
 

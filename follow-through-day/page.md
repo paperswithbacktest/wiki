@@ -1,6 +1,8 @@
 ---
-title: "Follow-Through Day Explained"
-description: Explore the intricacies of the follow-through day strategy in algorithmic trading and understand how it signals market trend shifts from downtrends to rallies. Learn how algo trading utilizes this strategy to automate trade execution by detecting significant price increases and volume surges in major indexes. This guide investigates into the follow-through day mechanism and its significant role in enhancing trading performance through precise market-timing strategies.
+title: "Follow\u2010Through Day Signals New Bull Market Start"
+description: "Follow\u2010Through Day alerts investors to a market turnaround with\
+  \ high volume price jumps after downturns highlighting growing institutional buying\
+  \ Discover more inside."
 ---
 
 

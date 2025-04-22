@@ -1,6 +1,7 @@
 ---
-title: "Jean-Baptiste Say: Economist History"
-description: "Explore the enduring impact of Jean-Baptiste Say's economic theories such as Say's Law of Markets and their modern relevance, particularly in algorithmic trading."
+title: Jean-Baptiste Say and His Impact on Economic Theory
+description: Jean-Baptiste Say introduced Says Law showing how production fuels demand
+  and shapes economic growth in classical theory. Discover more inside.
 ---
 
 

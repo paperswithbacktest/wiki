@@ -1,6 +1,7 @@
 ---
-title: "Importance of WACC for Investors"
-description: "Understanding WACC is crucial for investors in algorithmic trading as it helps evaluate investment potential and optimize financial strategies ensuring robust decision-making."
+title: Understanding Weighted Average Cost of Capital for Investors
+description: Weighted Average Cost of Capital helps investors evaluate company financing
+  costs and compare returns against risk adjusted rates Discover more inside.
 ---
 
 

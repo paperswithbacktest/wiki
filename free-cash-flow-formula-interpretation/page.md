@@ -1,6 +1,7 @@
 ---
-title: "Free Cash Flow Formula and Interpretation"
-description: "Explore the intricacies of the Free Cash Flow (FCF) metric and its pivotal role in financial analysis and algorithmic trading. Discover how FCF provides insights into a company's profitability and sustainability by reflecting actual cash available after capital expenditures. This essential metric helps investors, business leaders, and financial analysts evaluate a company's financial health, operational efficiency, and liquidity. Learn how FCF interpretation is integrated into trading strategies to identify undervalued securities or financial risks, enhancing algorithmic trading's strategic edge."
+title: Free Cash Flow Explained Definition Calculation and Applications
+description: Free Cash Flow reveals the cash a company has after covering operations
+  and capital expenses and shows how to calculate it for growth Discover more inside
 ---
 
 

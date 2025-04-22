@@ -1,6 +1,7 @@
 ---
-title: "Indicator: Usage, Types, and Examples"
-description: "Explore key indicators in algorithmic trading and economic analysis to understand market trends and strategies enhancing informed decision-making and trading performance."
+title: Comprehensive Guide to Indicators and Their Applications
+description: Indicators provide clear measurements across finance science and health
+  to help you interpret data trends and make informed decisions Discover more inside.
 ---
 
 

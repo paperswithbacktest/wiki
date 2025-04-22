@@ -1,6 +1,7 @@
 ---
-title: "Impact of Fracking on Natural Gas Prices"
-description: "Explore how fracking impacts natural gas prices and the role of algorithmic trading in shaping energy markets. Navigate this complex energy landscape."
+title: Fracking Impact on Natural Gas Prices and Supply Trends
+description: Fracking has increased natural gas supply and driven down prices while
+  revealing regulatory and environmental challenges Discover more inside
 ---
 
 

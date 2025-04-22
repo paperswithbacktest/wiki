@@ -1,6 +1,7 @@
 ---
-title: "Limit-On-Close Order"
-description: "Explore Limit-on-Close orders in algorithmic trading Discover how LOCs can optimize price execution at market close and enhance strategy precision."
+title: Understanding Limit-On-Close Orders for End-of-Day Trading
+description: Limit-On-Close orders let you set end-of-day buy or sell limits to control
+  pricing and manage risk at market close with precision Discover more inside
 ---
 
 

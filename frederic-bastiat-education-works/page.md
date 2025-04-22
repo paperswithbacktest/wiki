@@ -1,6 +1,7 @@
 ---
-title: "Frederic Bastiat: Education and Works"
-description: "Explore the fusion of Frederic Bastiat's economic theories with modern algorithmic trading to understand how historical insights shape today's financial strategies."
+title: "Frederic Bastiat\u2019s Enduring Insights On Free Trade"
+description: Frederic Bastiat explains how free trade and opportunity cost shape modern
+  economics through clear parables and political insights Discover more inside.
 ---
 
 

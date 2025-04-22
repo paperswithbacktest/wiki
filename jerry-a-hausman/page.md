@@ -1,6 +1,8 @@
 ---
-title: "Jerry A. Hausman"
-description: "Explore Jerry A Hausman's groundbreaking contributions to econometrics and algorithmic trading where economic theory meets computational efficiency for market insights."
+title: Jerry A Hausman Key Contributions And Influence In Econometrics
+description: "Jerry A Hausman advanced econometric analysis with the Durbin\u2011\
+  Wu\u2011Hausman test and insights on consumer behavior and policy impact Discover\
+  \ more inside"
 ---
 
 

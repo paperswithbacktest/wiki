@@ -1,6 +1,7 @@
 ---
-title: "Intrastate Offering: Mechanisms and Benefits"
-description: "Explore the benefits and mechanisms of intrastate offerings in algorithmic trading Learn how these regulatory frameworks impact investors and market efficiency"
+title: Intrastate Securities Offerings Simplified for Small Businesses
+description: Intrastate securities offerings let small businesses raise local capital,
+  reduce compliance costs and fuel growth and community jobs Discover more inside.
 ---
 
 

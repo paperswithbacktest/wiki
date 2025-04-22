@@ -1,6 +1,7 @@
 ---
-title: "Information Ratio and Sharpe Ratio: Comparison and Formula"
-description: "Explore the key differences and formulas of the Information Ratio and Sharpe Ratio, essential metrics for assessing risk-adjusted returns in algorithmic trading. Understand how these ratios provide insights into the performance of investment strategies by measuring risk versus return and performance against a benchmark. This guide will deepen your comprehension of these financial tools, aiding in more informed strategy development and optimization within the complex financial markets."
+title: Sharpe Ratio Versus Information Ratio In Portfolio Analysis
+description: Sharpe Ratio versus Information Ratio analysis helps investors assess
+  risk adjusted returns and compare portfolio performance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Tariffs on the Steel Industry"
-description: "Discover how tariffs on steel impact market dynamics and economic growth, and how algorithmic trading shapes the global steel industry's landscape."
+title: Economic Effects of Steel Tariffs on Domestic and Global Markets
+description: Steel tariffs reshape domestic production and global trade dynamics by
+  raising costs affecting employment and related industries Discover more inside.
 ---
 
 

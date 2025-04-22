@@ -1,6 +1,7 @@
 ---
-title: "Full Ratchet Anti-Dilution Mechanism and Alternatives"
-description: "Explore the essentials of full ratchet anti-dilution provisions in venture capital and algorithmic trading. Learn how they protect early investors from dilution in volatile markets."
+title: Complete Guide to Full Ratchet Anti-Dilution Mechanism
+description: Full Ratchet Anti-Dilution Mechanism protects early investors by matching
+  share prices in down rounds and covers pros cons and options Discover more inside
 ---
 
 

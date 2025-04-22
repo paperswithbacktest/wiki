@@ -1,6 +1,7 @@
 ---
-title: "Futures Industry Association"
-description: "Explore the Futures Industry Association's vital role in global finance and algorithmic trading as it champions market transparency and integrity in futures markets."
+title: Futures Industry Association Guide For Market Professionals
+description: Futures Industry Association provides members with rules guidance events
+  and advocacy to ensure fair futures and options trading Discover more inside.
 ---
 
 

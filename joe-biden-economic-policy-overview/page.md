@@ -1,6 +1,8 @@
 ---
-title: "Joe Biden's Economic Policy Overview"
-description: "Explore the transformative impact of President Joe Biden's economic policies designed to foster growth and equity within the U.S. economy. Discover how initiatives like infrastructure investment, green energy focus, and tax reforms under \"Bidenomics\" are shaping market dynamics and trading strategies while addressing post-pandemic recovery and ensuring sustainable development."
+title: Bidenomics Middle-Out Growth Investing in Fair Economic Recovery
+description: Bidenomics Middle-Out Growth drives inclusive investment in infrastructure
+  education and clean energy to empower working families and boost wages Discover
+  more inside
 ---
 
 

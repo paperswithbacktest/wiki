@@ -1,6 +1,7 @@
 ---
-title: "ISO 14000 Standards and Certification"
-description: "Explore the intersection of ISO 14000 standards and algorithmic trading to enhance sustainability in financial markets by minimizing environmental impact."
+title: ISO 14000 Environmental Management Standards and Certification
+description: ISO 14000 enables businesses to reduce environmental impact with a structured
+  EMS, improving resource efficiency and compliance Discover more inside.
 ---
 
 

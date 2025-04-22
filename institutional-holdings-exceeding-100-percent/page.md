@@ -1,6 +1,7 @@
 ---
-title: "Institutional Holdings Exceeding 100 Percent"
-description: "Explore the interplay of institutional holdings and algorithmic trading reshaping stock market dynamics and influencing investment strategies for stability."
+title: Institutional Holdings Can Surpass 100 Percent Ownership
+description: Institutional holdings can exceed 100 percent when borrowed shares and
+  derivatives count twice uncovering insights for investors Discover more inside
 ---
 
 

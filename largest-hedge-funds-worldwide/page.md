@@ -1,6 +1,7 @@
 ---
-title: "Largest Hedge Funds Worldwide"
-description: "Explore the dynamic world of the largest hedge funds globally focusing on their innovative strategies and significant market influence. Discover how algorithmic trading and advanced technologies are reshaping the landscape and powering these investment powerhouses."
+title: Strategies and Global Impact of the Largest Hedge Funds
+description: Hedge funds use advanced investment strategies and rigorous risk management
+  to shape global markets and drive portfolio growth Discover more inside
 ---
 
 

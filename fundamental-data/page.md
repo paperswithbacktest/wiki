@@ -1,6 +1,7 @@
 ---
-title: "Fundamental data"
-description: Discover how incorporating fundamental data into algorithmic trading enhances strategy sophistication and efficiency. Understand the critical role of earnings reports, financial statements, and corporate announcements in providing insights into a company’s intrinsic value. Learn how traders leverage this information to develop algorithms that surpass basic market trends, leading to informed trade decisions. Explore the integration tools and platforms like yfinance that offer streamlined access to essential financial data, empowering traders with resources to optimize their algorithmic strategies while considering economic contexts and market sentiment.
+title: Understanding Fundamental Data for Smart Investment Decisions
+description: Fundamental data reveals key financial metrics to evaluate company health
+  and make informed investment decisions with confidence Discover more inside.
 ---
 
 

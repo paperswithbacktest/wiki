@@ -1,6 +1,7 @@
 ---
-title: "liquidity cost"
-description: "Learn about liquidity cost in algorithmic trading its impact on strategy profitability and methods to efficiently manage expenses for competitive trading."
+title: Understanding Liquidity Cost Impact on Financial Markets
+description: Liquidity cost shapes trading outcomes by revealing bid ask spreads market
+  impact and strategies to optimize asset conversion Discover more inside
 ---
 
 

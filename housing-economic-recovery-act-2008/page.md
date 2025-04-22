@@ -1,6 +1,7 @@
 ---
-title: "Housing and Economic Recovery Act of 2008: Overview and History"
-description: "Explore the impacts of the Housing and Economic Recovery Act of 2008 and the rise of algorithmic trading as forces driving economic stabilization and market efficiency."
+title: Housing and Economic Recovery Act of 2008 Explained
+description: Housing and Economic Recovery Act of 2008 boosted loan oversight and
+  offered affordable loan programs to prevent foreclosures Discover more inside
 ---
 
 

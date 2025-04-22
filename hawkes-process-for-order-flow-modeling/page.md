@@ -1,6 +1,7 @@
 ---
-title: "Hawkes Process for Order Flow Modeling"
-description: "Explore how the Hawkes process revolutionizes algorithmic trading with its ability to model market event sequences predicting trade clusters and price dynamics effectively."
+title: Understanding Hawkes Process for Order Flow Modeling
+description: Hawkes process modeling uncovers how trades trigger follow on activity
+  in markets using data driven intensity functions Discover more inside
 ---
 
 

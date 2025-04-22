@@ -1,6 +1,7 @@
 ---
-title: "Future Returns on TIPS Investment Over 20 Years"
-description: "Explore the future of Treasury Inflation-Protected Securities (TIPS) over a 20-year investment horizon, highlighting their role in safeguarding against inflation. Understand how TIPS maintain purchasing power through CPI adjustments, making them a reliable long-term investment choice. Discover the impact of algorithmic trading in optimizing TIPS portfolios to enhance returns while mitigating risks. This comprehensive analysis equips investors with the knowledge to incorporate TIPS into diversified portfolios for stable, inflation-adjusted income and financial security."
+title: Treasury Inflation Protected Securities For Long Term Returns
+description: TIPS offer inflation adjusted returns and government backed safety to
+  preserve purchasing power and balance portfolio risk over time. Discover more inside.
 ---
 
 

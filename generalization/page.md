@@ -1,6 +1,7 @@
 ---
-title: "Generalization (Machine Learning)"
-description: "Explore generalization in machine learning where models predict unseen data accuracy, learn from patterns, and balance complexity to enhance reliability."
+title: Understanding Generalization in Machine Learning Models
+description: Generalization in machine learning helps models adapt to new data by
+  using cross validation regularization and data augmentation Discover more inside
 ---
 
 ![Image](images/1.png)

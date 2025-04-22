@@ -1,6 +1,7 @@
 ---
-title: "Garn–St. Germain Depository Institutions Act"
-description: "Explore the Garn-St. Germain Act's impact on U.S. banking deregulation discover its role in shaping modern financial practices including algorithmic trading."
+title: Garn-St. Germain Act Impact On Banking Stability And Mortgages
+description: Garn-St. Germain Act reshaped banking by lifting loan restrictions and
+  enabling adjustable-rate mortgages. Discover more inside.
 ---
 
 

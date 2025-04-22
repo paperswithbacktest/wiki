@@ -1,6 +1,7 @@
 ---
-title: "Global Currency Trade Overview"
-description: "Explore the transformation of global currency trading through algorithmic systems that drive efficiency and sophistication, reshaping financial market dynamics."
+title: Comprehensive Guide to Global Currency Trading and Forex Markets
+description: Global currency trading shows how forex markets work and details major
+  currencies strategies and risks to help you trade confidently Discover more inside
 ---
 
 

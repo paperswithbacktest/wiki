@@ -1,6 +1,8 @@
 ---
-title: "Global Recessions: Overview and History"
-description: "Explore the history and impact of global recessions along with the role of algorithmic trading in financial markets and its influence on market dynamics."
+title: Global Recession Explained Causes Impacts And Policy Responses
+description: Global recession shrinks world GDP cuts trade and jobs while driving
+  fiscal and monetary actions by governments to stabilize economies Discover more
+  inside
 ---
 
 

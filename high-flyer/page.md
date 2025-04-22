@@ -1,6 +1,7 @@
 ---
-title: "High-Flyer (DeepSeek hedge fund)"
-description: "Explore High-Flyer Quant and its subsidiary DeepSeek's pioneering AI-driven approaches to quantitative investing reshaping China's hedge fund landscape."
+title: High-Flyer AI Hedge Fund by DeepSeek Elevates Investment Returns
+description: High-Flyer hedge fund uses DeepSeek AI and machine learning to analyze
+  market data and manage risk for steady high returns Discover more inside
 ---
 
 

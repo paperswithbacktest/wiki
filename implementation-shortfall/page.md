@@ -1,6 +1,7 @@
 ---
-title: "Implementation shortfall"
-description: Explore how implementation shortfall, or slippage, impacts algorithmic trading efficiency and costs. This critical metric measures the difference between expected and actual trade execution prices, affected by factors like market volatility and liquidity. Understand how managing this shortfall through optimized trading strategies can enhance performance and profitability by reducing costs associated with order execution, such as commissions and taxes. Learn about the components and importance of decision price, and discover methods to minimize these discrepancies for improved trade outcomes in dynamic markets.
+title: Understanding Implementation Shortfall In Trade Execution
+description: Implementation shortfall highlights the true cost of trading delays and
+  fees by measuring price impact for more efficient executions Discover more inside
 ---
 
 

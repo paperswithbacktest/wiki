@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies of Hedge Funds"
-description: "Explore the evolving investment strategies of hedge funds with a focus on algorithmic trading which optimizes market navigation and enhances financial returns."
+title: Comprehensive Guide to Hedge Fund Investment Strategies
+description: Hedge fund strategies cover methods from long short equity to global
+  macro and statistical arbitrage with active risk management Discover more inside
 ---
 
 

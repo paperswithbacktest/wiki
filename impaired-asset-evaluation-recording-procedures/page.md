@@ -1,6 +1,7 @@
 ---
-title: "Impaired Asset: Evaluation and Recording Procedures"
-description: "Explore the intersection of asset impairment and algorithmic trading to enhance financial reporting accuracy and timely risk management through advanced analytics."
+title: Understanding Asset Impairment in Financial Reporting
+description: Asset Impairment evaluation ensures your reports show true asset values
+  by covering testing procedures causes and record keeping Discover more inside
 ---
 
 

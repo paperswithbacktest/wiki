@@ -1,6 +1,7 @@
 ---
-title: "IBPy Tutorial: Interactive Brokers API in Python"
-description: Discover how to leverage IBPy, a Python library, to seamlessly interact with the Interactive Brokers API for algorithmic trading. This tutorial explores IBPy's role in automating trades by integrating with Interactive Brokers' platform, highlighting its ability to enhance the speed and accuracy of trade execution. Learn about the essential components that facilitate programmatic trading and how to deploy Python-based trading strategies effectively. Empower your trading with an understanding of this robust infrastructure, unlocking new levels of efficiency and responsiveness in the competitive world of algo trading.
+title: Complete Guide to Integrating IBPy with Interactive Brokers
+description: IBPy bridges Python with Interactive Brokers to automate market data,
+  orders, and portfolio tracking with error handling and logging Discover more inside.
 ---
 
 

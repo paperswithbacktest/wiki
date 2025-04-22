@@ -1,6 +1,7 @@
 ---
-title: "Insights from Leading Financial Advisors for Young Investors"
-description: "Explore dynamic insights from leading financial advisors to optimize young investors' strategies in algorithmic trading for enhanced financial growth and success."
+title: Essential Investing Principles and Strategies for Young Investors
+description: Investing for young investors covers diversification compound interest
+  risk management and goal setting to grow wealth steadily Discover more inside
 ---
 
 

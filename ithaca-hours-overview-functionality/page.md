@@ -1,6 +1,7 @@
 ---
-title: "Ithaca HOURS: Overview and Functionality"
-description: "Explore the synergy between Ithaca HOURS and algorithmic trading in enhancing community economics by leveraging local currencies for sustainable economic development."
+title: Ithaca HOURS Strengthen Local Economies and Community Bonds
+description: Ithaca HOURS boost community trade by linking currency to hours of work
+  ensuring money stays local and supports small businesses. Discover more inside.
 ---
 
 

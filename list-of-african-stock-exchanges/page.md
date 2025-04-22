@@ -1,6 +1,7 @@
 ---
-title: "List of African stock exchanges"
-description: Discover how algorithmic trading is transforming African stock exchanges, enhancing efficiency, transparency, and liquidity across key markets like Johannesburg, Egypt, Nigeria, Casablanca, and Nairobi. As African economies evolve, the adoption of sophisticated trading technologies positions these exchanges as competitive players on the global stage, attracting both local and international investors. Explore how organizations like the African Securities Exchanges Association are driving collaboration and technological integration, fostering economic development and investment opportunities continent-wide.
+title: African Stock Exchanges and Their Impact on Economic Growth
+description: African stock exchanges empower companies to raise capital, drive job
+  creation and attract global investment across the continent Discover more inside.
 ---
 
 

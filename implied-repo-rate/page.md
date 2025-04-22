@@ -1,6 +1,7 @@
 ---
-title: "Implied Repo Rate"
-description: "Explore the pivotal role of securities lending and the implied repo rate in algo trading. Discover how algorithmic techniques enhance market efficiency and profitability."
+title: Understanding the Implied Repo Rate in Bond Futures Trading
+description: Implied Repo Rate measures interest from using bonds as collateral in
+  futures trading to inform smarter investment choices Discover more inside.
 ---
 
 

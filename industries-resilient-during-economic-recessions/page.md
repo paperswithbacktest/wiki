@@ -1,6 +1,7 @@
 ---
-title: "Industries Resilient During Economic Recessions"
-description: "Explore recession-proof industries like healthcare, utilities, and algorithmic trading, which offer resilience during economic downturns by sustaining demand and leveraging technology."
+title: Recession Resistant Industries That Thrive in Any Downturn
+description: Recession resistant industries in healthcare utilities and staples maintain
+  steady demand in downturns with targeted cost management Discover more inside
 ---
 
 

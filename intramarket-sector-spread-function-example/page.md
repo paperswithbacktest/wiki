@@ -1,6 +1,7 @@
 ---
-title: "Intramarket Sector Spread: Function and Example"
-description: "Explore the nuances of intramarket sector spread in algorithmic trading Learn how to leverage price differentials for strategic investment opportunities"
+title: Intramarket Sector Spread Strategies For Futures Market Success
+description: Intramarket sector spread trading lets you profit from price differences
+  between futures contracts within the same market sector Discover more inside.
 ---
 
 

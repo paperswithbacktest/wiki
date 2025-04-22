@@ -1,6 +1,7 @@
 ---
-title: "Indexing in Economics and Investing"
-description: "Explore the intersection of economics indexing and algorithmic trading in modern investing Learn how technology enhances portfolio management and risk strategies"
+title: Understanding Indexing in Investing and Market Analysis
+description: Indexing in investing offers a low cost strategic passive way to match
+  market returns while diversifying across global assets Discover more inside.
 ---
 
 

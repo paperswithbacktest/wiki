@@ -1,6 +1,7 @@
 ---
-title: "Lifestyle Fund: Overview And Functionality"
-description: "Discover how lifestyle funds and algorithmic trading revolutionize financial planning. Explore tailored strategies that align with risk profiles and enhance portfolio management."
+title: Understanding Lifestyle Funds and Streamlining Your Investments
+description: Lifestyle funds match investments to your risk tolerance and free you
+  from daily management while experts adjust allocations Discover more inside.
 ---
 
 

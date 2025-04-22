@@ -1,6 +1,8 @@
 ---
-title: "Investment Crowdfunding: Overview, Functionality, and Benefits"
-description: "Explore how investment crowdfunding empowers entrepreneurs to raise capital while offering investors diverse opportunities. Discover its synergy with algorithmic trading."
+title: Investment Crowdfunding Explained Professional Guide
+description: Investment crowdfunding offers a way to fund startups and projects through
+  small contributions while aiming for returns Understand risks and rewards Discover
+  more inside
 ---
 
 

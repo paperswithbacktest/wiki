@@ -1,6 +1,7 @@
 ---
-title: "Import and Export Price Index"
-description: "Explore the role of import and export price indexes in algo trading and global economics helping businesses strategize, manage risks, and optimize trading efficiency."
+title: Understanding Import and Export Price Index Dynamics
+description: Import and Export Price Index reveals global trade inflation trends so
+  businesses and policymakers can adjust strategies proactively. Discover more inside.
 ---
 
 

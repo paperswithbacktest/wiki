@@ -1,6 +1,7 @@
 ---
-title: "Inflation and Gross Domestic Product"
-description: "Explore the impact of inflation and GDP on algorithmic trading to optimize strategies and enhance market returns with data-driven insights into economic trends."
+title: Understanding the Relationship Between Inflation and GDP
+description: Inflation and GDP insights explain how price shifts and output changes
+  shape economic stability and guide policy decisions for growth Discover more inside
 ---
 
 

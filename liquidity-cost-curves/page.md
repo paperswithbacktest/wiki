@@ -1,6 +1,7 @@
 ---
-title: "Liquidity cost curves"
-description: "Liquidity cost curves are essential for algorithmic trading offering insights on trade costs based on size enhancing strategies like VWAP and TWAP to optimize execution."
+title: Understanding Liquidity Cost Curves in Financial Markets
+description: Liquidity cost curves show trade off between execution speed and market
+  impact helping traders optimize order execution Discover more inside.
 ---
 
 

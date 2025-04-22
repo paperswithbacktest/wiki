@@ -1,6 +1,8 @@
 ---
-title: "Impact of Aggregate Demand on Price Level"
-description: "Explore the impact of aggregate demand on price levels and its significance in algorithmic trading with insights into economic theory and market strategies."
+title: Understanding the Impact of Aggregate Demand on Price Level
+description: Aggregate Demand shapes overall spending and influences price levels
+  with clear analysis and practical examples Featuring key insights Discover more
+  inside
 ---
 
 

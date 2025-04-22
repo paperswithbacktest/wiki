@@ -1,6 +1,7 @@
 ---
-title: "List of High-Demand Rare Earth Minerals"
-description: "Explore the growing demand for high-demand rare earth minerals like lithium, nickel, and cobalt, vital for today's tech and energy solutions plus algo trading insights."
+title: Comprehensive Guide to Rare Earth Minerals and Their Uses
+description: Rare earth minerals power key technologies from electronics to clean
+  energy while posing extraction and supply challenges Discover more inside.
 ---
 
 

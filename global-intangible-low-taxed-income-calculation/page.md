@@ -1,6 +1,7 @@
 ---
-title: "Global Intangible Low-Taxed Income Calculation"
-description: "Explore the intricacies of Global Intangible Low-Taxed Income (GILTI) and its impact on U.S. corporations and algorithmic trading, ensuring compliance and tax optimization."
+title: Navigating Global Intangible Low-Taxed Income GILTI Provisions
+description: Global Intangible Low-Taxed Income provision curbs US multinationals
+  profit shifting explains calculation credit strategies Discover more inside
 ---
 
 

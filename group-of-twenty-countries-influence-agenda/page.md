@@ -1,6 +1,7 @@
 ---
-title: "Group of Twenty: Member Countries, Influence, and Agenda"
-description: "Explore how the G20's influential policies impact algorithmic trading and contribute to global economic stability while navigating modern financial market challenges."
+title: Understanding the G20 and Its Role in the Global Economy
+description: G20 summits unite top economies to boost financial stability address
+  climate change drive growth and promote sustainable development Discover more inside
 ---
 
 

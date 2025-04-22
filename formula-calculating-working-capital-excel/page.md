@@ -1,6 +1,7 @@
 ---
-title: "Formula for Calculating Working Capital in Excel"
-description: "Explore how to calculate working capital in Excel essential for financial health and supporting algorithmic trading strategies through efficient data analysis."
+title: Master Working Capital Calculation Using Excel Functions
+description: Working capital management becomes seamless in Excel with formulas that
+  subtract liabilities from assets to reveal liquidity Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "History and Economics of the United States Automobile Industry"
-description: "Explore the US auto industry's history and economic impact alongside the role of algorithmic trading in optimizing investments within this vital sector."
+title: Evolution and Economic Impact of the US Automobile Industry
+description: US automobile industry evolution has shaped Americas economy through
+  innovation assembly lines mass production and EV adoption Discover more inside
 ---
 
 

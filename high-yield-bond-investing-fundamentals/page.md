@@ -1,6 +1,7 @@
 ---
-title: "High-Yield Bond Investing Fundamentals"
-description: "Explore the fundamentals of high-yield bond investing with insights into algorithmic trading strategies that can enhance portfolio returns and manage risks."
+title: High-Yield Bonds in Investment Portfolios and Risk Management
+description: High-Yield Bonds offer higher interest returns while balancing risk through
+  diversification and credit analysis across market cycles Discover more inside
 ---
 
 

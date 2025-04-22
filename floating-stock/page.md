@@ -1,6 +1,7 @@
 ---
-title: "Floating Stock"
-description: "Explore the dynamics of floating stock and its impact on stock liquidity and trading volatility with insights into algorithmic trading strategies for investors."
+title: Understanding Floating Stock Liquidity and Volatility
+description: Floating stock shows how many shares investors can trade and shapes market
+  liquidity and volatility so you can assess risk effectively Discover more inside
 ---
 
 

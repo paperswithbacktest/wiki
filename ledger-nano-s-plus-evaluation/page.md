@@ -1,6 +1,7 @@
 ---
-title: "Ledger Nano S Plus Evaluation"
-description: "Explore the enhanced security and functionality of the Ledger Nano S Plus. Ideal for secure cryptocurrency storage and algorithmic trading, offering improved capabilities."
+title: Ledger Nano S Plus Hardware Wallet Setup and Features Guide
+description: Ledger Nano S Plus reliably secures private keys offline enables easy
+  multiasset management and intuitive transaction approvals Discover more inside
 ---
 
 

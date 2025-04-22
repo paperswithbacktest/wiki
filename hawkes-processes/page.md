@@ -1,6 +1,7 @@
 ---
-title: "Hawkes processes"
-description: "Explore the Hawkes process in algorithmic trading to capture temporal clustering of events and enhance trading strategies with a strategic market edge."
+title: Understanding Hawkes Processes Theory Applications and Insights
+description: Hawkes process models self-exciting events by combining base rate and
+  triggers to predict clusters in finance and social media Discover more inside
 ---
 
 

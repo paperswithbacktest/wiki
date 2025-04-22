@@ -1,6 +1,7 @@
 ---
-title: "Impact of Education and Training on Economic Growth"
-description: "Explore the impact of economic education and technology on algorithmic trading growth Learn how education and AI enhance trading strategies and market efficiency"
+title: Economic Education and Training to Boost Growth and Productivity
+description: Economic education and training empower individuals and societies by
+  building human capital and driving long term economic growth Discover more inside.
 ---
 
 

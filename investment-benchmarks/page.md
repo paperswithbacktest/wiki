@@ -1,6 +1,7 @@
 ---
-title: "Investment Benchmarks"
-description: "Discover essential concepts for enhancing investment portfolios including strategies benchmarks indices and algo trading for optimal market opportunities"
+title: Understanding Investment Benchmarks for Smart Portfolio Tracking
+description: Investment benchmarks provide a clear standard to gauge portfolio performance
+  and guide smarter investment choices over time Discover more inside.
 ---
 
 

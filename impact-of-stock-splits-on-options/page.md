@@ -1,6 +1,7 @@
 ---
-title: "Impact of Stock Splits on Options"
-description: "Explore how stock splits impact options in algorithmic trading. Understand the interplay between splits, derivatives, and algo trading in today's market."
+title: Impact Of Stock Splits On Options And Trading Strategies
+description: Stock splits adjust option strike prices and contract sizes while preserving
+  value with new trading possibilities for investors. Discover more inside.
 ---
 
 

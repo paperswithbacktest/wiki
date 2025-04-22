@@ -1,6 +1,7 @@
 ---
-title: "Investment Grade Credit Rating"
-description: "Discover how credit ratings, investment grades, and algorithmic trading intersect to guide investment decisions in a rapidly evolving financial landscape."
+title: Understanding Investment Grade Credit Ratings and Impacts
+description: Investment grade credit rating defines safe borrowers and shows how ratings
+  affect borrowing costs investment decisions and risk management Discover more inside
 ---
 
 

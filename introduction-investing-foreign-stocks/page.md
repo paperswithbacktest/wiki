@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Investing in Foreign Stocks"
-description: "Explore the benefits of investing in foreign stocks, including diversification and potential returns, and learn about algorithmic trading's impact on global markets."
+title: Guide to Investing in Foreign Stocks for Global Growth
+description: Foreign stocks help diversify your portfolio by tapping global markets
+  and managing currency and geopolitical risks with confidence Discover more inside.
 ---
 
 

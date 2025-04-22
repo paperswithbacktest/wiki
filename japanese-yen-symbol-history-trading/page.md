@@ -1,6 +1,7 @@
 ---
-title: "Japanese Yen: Symbol, History, and Trading"
-description: "Discover the pivotal role of the Japanese Yen in global finance explore its history trading dynamics and algorithmic strategies for optimized performance"
+title: Comprehensive Overview of the Japanese Yen Currency
+description: Japanese Yen insights explain its symbol history abbreviation and trading
+  strategies so you can navigate currency markets confidently Discover more inside.
 ---
 
 

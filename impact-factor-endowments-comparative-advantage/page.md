@@ -1,6 +1,7 @@
 ---
-title: "Impact of Factor Endowments on Comparative Advantage"
-description: "Explore how factor endowments influence comparative advantage in algo trading Learn how economic theories shape modern trading strategies and global market dynamics"
+title: Understanding Factor Endowments and Comparative Advantage
+description: Factor Endowments shape how countries trade and gain comparative advantage
+  through efficient resource use and specialization Discover more inside
 ---
 
 

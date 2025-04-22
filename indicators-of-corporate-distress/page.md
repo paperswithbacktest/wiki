@@ -1,6 +1,7 @@
 ---
-title: "Indicators of Corporate Distress"
-description: "Discover how algorithmic trading platforms can identify corporate distress signals such as declining profits and increasing debt, crucial for sustaining business stability."
+title: Key Indicators and Tools for Predicting Corporate Distress
+description: Corporate distress analysis highlights critical financial ratios operational
+  red flags and predictive analytics to spot trouble early Discover more inside
 ---
 
 

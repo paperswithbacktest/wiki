@@ -1,6 +1,7 @@
 ---
-title: "Hedge Fund Fee Structure: Two and Twenty"
-description: "Explore the impact of the 'two and twenty' fee structure in hedge funds on algorithmic trading strategies as it shapes management incentives and innovation."
+title: Understanding the Two and Twenty Hedge Fund Fee Structure
+description: Two and Twenty fee structure explains how hedge funds use a 2% management
+  fee and 20% performance fee to impact investor returns Discover more inside
 ---
 
 

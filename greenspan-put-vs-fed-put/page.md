@@ -1,6 +1,7 @@
 ---
-title: "Greenspan Put and Its Comparison to the Fed Put"
-description: "Explore the impact of the Greenspan Put and Fed Put on financial markets and algorithmic trading Learn how central bank policies influence investor behavior"
+title: Understanding the Greenspan Put and Its Economic Impact
+description: Greenspan Put shows how Fed moves shaped investor risk taking and market
+  stability Active analysis uncovers key trade offs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Global Investment Performance Standards (GIPS)"
-description: Explore the Global Investment Performance Standards (GIPS) as a universal benchmark established to enhance transparency and comparability in investment performance reporting. These ethical principles aid investment firms in maintaining investor trust, especially within algorithmic trading, by ensuring accurate and standardized performance metrics. Learn how GIPS promotes full disclosure and fair representation, critical in assessing algorithmic strategies that dominate modern markets.
+title: Global Investment Performance Standards GIPS Compliance Guide
+description: Global Investment Performance Standards ensure firms report performance
+  fairly so investors can compare results with confidence. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Index Amortizing Note"
-description: "Explore the innovative world of Index Amortizing Notes within algorithmic trading Learn how IANs can help investors manage interest rate risk and optimize returns"
+title: Understanding Index Amortizing Notes for Risk Management
+description: Index Amortizing Notes tie repayments to market rates to help institutions
+  manage interest rate risk and stabilize cash flows. Discover more inside.
 ---
 
 

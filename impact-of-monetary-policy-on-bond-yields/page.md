@@ -1,6 +1,7 @@
 ---
-title: "Impact of Monetary Policy on Bond Yields"
-description: "Explore the impact of monetary policy on bond yields with insights into algorithmic trading Learn how interest rates and central bank strategies shape financial markets"
+title: Understanding How Monetary Policy Shapes Bond Yields and Markets
+description: Monetary policy influences bond yields with interest rate shifts and
+  open market operations to balance growth and inflation Discover more inside.
 ---
 
 

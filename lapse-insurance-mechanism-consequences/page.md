@@ -1,6 +1,7 @@
 ---
-title: "Lapse in Insurance: Mechanism and Consequences"
-description: "Explore the impacts of insurance lapses and their relation to algorithmic trading Learn how lapses affect financial risk and market strategies in this insightful article"
+title: Understanding and Preventing a Lapse in Insurance Coverage
+description: Insurance lapse can leave you unprotected and boost your premiums. Manage
+  payments prevent gaps and reinstate coverage. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Larry Hite: A Trading Legend"
-description: Explore the revolutionary legacy of Larry Hite in algorithmic trading. Recognized for his pioneering risk management techniques and systematic methodologies, Hite's work has fundamentally shaped modern trading strategies. Discover how his innovative approach continues to influence contemporary trading practices by prioritizing data-driven decisions and protecting capital over speculative gains, establishing a benchmark in the financial markets.
+title: Larry Hite Trend Following and Risk Management Insights
+description: Larry Hite reveals how trend following and disciplined risk management
+  protect capital and drive consistent trading returns Discover more inside
 ---
 
 

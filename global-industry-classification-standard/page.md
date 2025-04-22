@@ -1,6 +1,7 @@
 ---
-title: "Global Industry Classification Standard"
-description: "Explore the integration of the Global Industry Classification Standard in algorithmic trading and its impact on developing precise, sector-specific trading models."
+title: Understanding the Global Industry Classification Standard GICS
+description: GICS divides companies into sectors industry groups industries and subindustries
+  for clear comparison and smarter investments Discover more inside
 ---
 
 

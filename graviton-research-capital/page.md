@@ -1,6 +1,7 @@
 ---
-title: "Graviton Research Capital"
-description: "Explore the innovative world of algorithmic trading with Graviton Research Capital which combines advanced technology and data-driven strategies for optimal performance."
+title: Strategic Quantitative Investing with Graviton Research Capital
+description: "Quantitative research drives Graviton Research Capital\u2019s stock\
+  \ selection to boost client returns through data driven methods Discover more inside"
 ---
 
 

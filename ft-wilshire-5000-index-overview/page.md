@@ -1,6 +1,7 @@
 ---
-title: "FT Wilshire 5000 Index Overview"
-description: "Explore the FT Wilshire 5000 Index to gain insights into US stock market trends. This total market index aids in algorithmic trading and investment analysis."
+title: Comprehensive Analysis Of The FT Wilshire 5000 Index
+description: FT Wilshire 5000 Index tracks over 3,500 US stocks to present a market
+  snapshot assess economic health and guide investors Discover more inside
 ---
 
 

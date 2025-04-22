@@ -1,6 +1,7 @@
 ---
-title: "Iraqi Dinar"
-description: "Explore the opportunities of Iraqi Dinar trading. Dive into the world of algorithmic trading to mitigate risks and harness volatility for potential gains."
+title: Comprehensive Guide to Iraqi Dinar Currency and Value
+description: Iraqi Dinar fundamentals explained with historical context, factors affecting
+  its value, and practical guidance on usage and exchange Discover more inside
 ---
 
 

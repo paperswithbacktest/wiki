@@ -1,6 +1,8 @@
 ---
-title: "Impact of Interest Rates on Options"
-description: "Explore the intricate relationship between interest rates and options in algorithmic trading Learn how rate fluctuations impact strategies and pricing in finance"
+title: Impact of Interest Rates on Options Pricing and Trading
+description: Interest rates influence options pricing through cost of carry and time
+  value of money Summarize how rate changes affect calls puts and strategies Discover
+  more inside
 ---
 
 

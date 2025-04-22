@@ -1,6 +1,7 @@
 ---
-title: "Lipper Rating System"
-description: "Explore the intersection of financial analysis and algorithmic trading through Lipper ratings Discover how traditional ratings meet advanced trading technologies for better investments"
+title: Understanding the Lipper Rating System for Mutual Funds
+description: Lipper Rating System provides monthly fund scores based on performance
+  to help investors compare options and make informed choices Discover more inside
 ---
 
 

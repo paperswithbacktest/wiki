@@ -1,6 +1,7 @@
 ---
-title: "Investment Horizon and Portfolio Considerations"
-description: "Discover the essentials of investment horizon and algorithmic trading and their impact on portfolio management. Learn to optimize strategy effectively."
+title: Understanding Investment Horizons for Strategic Portfolio Growth
+description: Investment horizon drives your investment choices by aligning timelines
+  with risk tolerance and goals to optimize returns. Discover more inside.
 ---
 
 

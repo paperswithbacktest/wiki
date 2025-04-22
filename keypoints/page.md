@@ -1,6 +1,7 @@
 ---
-title: "Keypoints (Machine Learning)"
-description: "Discover how keypoints in machine learning enhance image analysis by aiding in object recognition and tracking through specific interest points like facial features."
+title: Keypoint Detection Techniques for Computer Vision Applications
+description: Keypoint detection enables accurate object recognition tracking and image
+  alignment in varied conditions with deep learning models Discover more inside
 ---
 
 ![Image](images/1.png)

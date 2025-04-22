@@ -1,6 +1,7 @@
 ---
-title: "Level II Market Quotes"
-description: "Gain a competitive edge in algo trading with Level II market quotes offering deep insights into Nasdaq order books and strategic trade execution."
+title: Understanding Level II Market Quotes for Informed Trading
+description: Level II Market Quotes show real-time order book data so traders can
+  gauge supply and demand and make informed trading decisions Discover more inside.
 ---
 
 

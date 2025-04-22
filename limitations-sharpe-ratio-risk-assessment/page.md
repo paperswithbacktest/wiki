@@ -1,6 +1,7 @@
 ---
-title: "Limitations of the Sharpe Ratio in Risk Assessment"
-description: "Discover the inherent limitations of the Sharpe Ratio in assessing risk and optimizing strategies in algorithmic trading to enhance decision-making."
+title: 'Understanding the Sharpe Ratio: Risk-Adjusted Investment Analysis'
+description: Sharpe Ratio helps investors assess if extra returns justify risks by
+  measuring risk adjusted performance across investments Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of U.S. Dollar Depreciation on American Businesses"
-description: "Explore how US dollar depreciation impacts American businesses particularly those in global trade Learn about algorithmic trading as a strategic response to currency fluctuations"
+title: U.S. Dollar Depreciation and Its Impact on American Businesses
+description: U.S. dollar depreciation raises import costs and boosts exports for American
+  businesses requiring hedging and diversified sourcing Discover more inside.
 ---
 
 

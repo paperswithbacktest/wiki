@@ -1,6 +1,7 @@
 ---
-title: "Lifecycle Funds: Functionality and Examples"
-description: "Explore lifecycle funds and algorithmic trading contrasting hands-off investment strategies with dynamic market approaches to enhance long-term financial planning."
+title: 'Lifecycle Funds Guide: Simplify Retirement Investing Strategy'
+description: Lifecycle funds adjust your portfolio mix over time to optimize growth
+  early and protect savings later with ease for retirement Discover more inside.
 ---
 
 

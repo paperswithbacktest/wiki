@@ -1,6 +1,7 @@
 ---
-title: "John J. Lothian: Industry Leader"
-description: "Discover the impact of John J. Lothian in the futures market and the rise of algorithmic trading shaping financial innovation and industry growth."
+title: John J Lothian Financial Industry Leader And Innovator
+description: John J Lothian built a trusted platform for futures and options news
+  guiding professionals with timely market insights Discover more inside today
 ---
 
 

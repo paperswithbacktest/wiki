@@ -1,6 +1,7 @@
 ---
-title: "latency issues"
-description: "Learn how latency impacts algorithmic trading success. Discover strategies to minimize delays in trade execution for optimal performance and efficiency."
+title: Optimizing Network Latency for Smoother Online Experiences
+description: Network latency impacts load times streaming calls and gaming performance
+  Learn to measure causes and apply reduction techniques Discover more inside
 ---
 
 

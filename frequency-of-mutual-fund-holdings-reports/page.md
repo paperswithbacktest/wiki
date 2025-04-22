@@ -1,6 +1,7 @@
 ---
-title: "Frequency of Mutual Fund Holdings Reports"
-description: "Explore how mutual fund holdings reports impact algorithmic trading strategies Discover the significance of report frequency and its influence on trading dynamics"
+title: Understanding Mutual Fund Holdings Reports and Reporting Frequency
+description: Mutual fund holdings reports detail where a fund invests and reveal risks
+  and asset allocation in active voice Discover more inside.
 ---
 
 

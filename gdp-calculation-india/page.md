@@ -1,6 +1,7 @@
 ---
-title: "GDP Calculation in India"
-description: "Explore the intricacies of GDP calculation in India, a vital economic indicator reflecting the nation's growth and economic performance. Understand different methodologies like the production, income, and expenditure approaches used to measure GDP. Discover how algorithmic trading influences economic dynamics by enhancing market efficiency, potentially impacting GDP through changing investment flows. Delve into the challenges and opportunities presented by India's rapid economic expansion in sectors such as information technology and financial services. Gain insights into how GDP serves as a benchmark for policy-making and international economic comparisons."
+title: Understanding GDP in India Calculation Methods and Impact
+description: GDP in India breakdown clarifies calculation methods, sector contributions
+  and growth measures so you can navigate economic insights. Discover more inside
 ---
 
 

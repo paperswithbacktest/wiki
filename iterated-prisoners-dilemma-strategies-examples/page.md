@@ -1,6 +1,7 @@
 ---
-title: "Iterated Prisoner's Dilemma Strategies and Examples"
-description: "Explore the application of iterated prisoner's dilemma strategies in algorithmic trading to enhance decision-making, manage risk, and improve financial returns."
+title: Key Strategies for the Iterated Prisoner's Dilemma Game
+description: Iterated Prisoner's Dilemma shows how strategies like Tit for Tat and
+  Pavlov foster cooperation and trust in repeated interactions. Discover more inside.
 ---
 
 

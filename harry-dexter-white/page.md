@@ -1,6 +1,7 @@
 ---
-title: "Harry Dexter White"
-description: "Explore Harry Dexter White's role in shaping the post-war economic order through the Bretton Woods Conference while examining the espionage allegations."
+title: Harry Dexter White's Role in Bretton Woods and IMF Creation
+description: Harry Dexter White helped design the Bretton Woods system and launch
+  the IMF and World Bank to strengthen global finance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Herfindahl-Hirschman Index: Advantages and Limitations"
-description: "Explore the advantages and limitations of the Herfindahl-Hirschman Index (HHI) in algorithmic trading with insights into market concentration and competition."
+title: Understanding the Herfindahl-Hirschman Index for Market Analysis
+description: Herfindahl-Hirschman Index measures market concentration by squaring
+  and summing firm shares to assess competition and merger impact. Discover more inside.
 ---
 
 

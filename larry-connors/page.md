@@ -1,6 +1,7 @@
 ---
-title: "Larry Connors: Trading Legend Explained"
-description: Explore the influence of Larry Connors in algorithmic trading and his renowned mean reversion strategies. Discover how his journey from an investment advisor to a trading thought leader has shaped innovative approaches in the financial markets. Learn about Connors' popular strategies like the RSI 25 & 75 and Double Seven, and his development of key tools such as the Connors RSI Indicator. This article investigates into Connors' systematic trading philosophy, emphasizing empirical data-driven decision-making to enhance trading performance and minimize emotional bias.
+title: Larry Connors Quantitative Trading Strategies for Market Success
+description: Larry Connors strategies use quantitative data and risk controls to identify
+  entry and exit signals with defined stop losses. Discover more inside.
 ---
 
 

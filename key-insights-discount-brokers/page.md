@@ -1,6 +1,8 @@
 ---
-title: "Key Insights into Discount Brokers"
-description: "Explore the role of discount brokers in modern finance and their integration with algorithmic trading Learn how they provide cost-effective solutions for investors"
+title: "Complete Guide to Discount Brokers for Cost\u2011Effective Investing"
+description: "Discount brokers let investors trade stocks and ETFs at low fees on\
+  \ user\u2011friendly platforms offering portfolio tools and online learning Discover\
+  \ more inside"
 ---
 
 

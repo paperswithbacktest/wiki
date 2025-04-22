@@ -1,6 +1,7 @@
 ---
-title: "Impact of Deflationary Shocks on the Economy"
-description: "Explore the impact of deflationary shocks on the economy and the role of algorithmic trading in amplifying market volatility during these challenging conditions."
+title: Deflationary Shocks Explained Causes Effects And Policy Responses
+description: Deflationary shocks erode demand trigger job cuts and weak investment
+  Explore causes effects and policy responses to reverse the trend Discover more inside
 ---
 
 

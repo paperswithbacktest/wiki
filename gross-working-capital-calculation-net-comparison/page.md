@@ -1,6 +1,7 @@
 ---
-title: "Gross Working Capital: Calculation and Comparison to Net Working Capital"
-description: "Explore the intricacies of gross and net working capital in this comprehensive guide, focusing on their significance in financial analysis and algorithmic trading. Understand how these metrics reflect a company's financial health, operational efficiency, and liquidity. Learn the impact of algorithmic trading as a tool for optimizing trading strategies and enhancing financial outcomes. Discover the key to strategic decision-making and financial stability by leveraging working capital insights alongside cutting-edge trading techniques."
+title: Understanding Gross Working Capital and Its Business Impact
+description: Gross Working Capital reveals how companies manage cash inventory and
+  receivables to sustain operations and seize opportunities Discover more inside.
 ---
 
 

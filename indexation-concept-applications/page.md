@@ -1,6 +1,7 @@
 ---
-title: "Indexation: Concept and Applications"
-description: "Explore the role of indexation in finance and algorithmic trading Gain insights into how it stabilizes economic metrics and enhances investment strategies"
+title: Understanding Indexation to Protect Against Inflation
+description: Indexation adjusts financial values and ensures wages pensions and tax
+  brackets match inflation preserving purchasing power over time Discover more inside
 ---
 
 

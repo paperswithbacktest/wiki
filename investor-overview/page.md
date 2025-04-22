@@ -1,6 +1,7 @@
 ---
-title: "Investor Overview"
-description: "Explore how financial markets, investment strategies, and technology intersect with algorithmic trading to reshape the investment landscape. Gain insights into market dynamics, types of investors, and the role of algorithms in executing trades with speed and precision for a competitive edge in modern markets."
+title: Understanding Investor Types And Investment Strategies
+description: Investors learn how to identify various investor types evaluate risks
+  and apply strategies to grow their portfolio over time. Discover more inside.
 ---
 
 

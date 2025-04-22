@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Commodity Funds"
-description: "Explore the integration of commodity funds and algorithmic trading to enhance investment strategies with diversification and precision in volatile financial markets."
+title: Commodity Funds Essentials For Portfolio Diversification
+description: Commodity funds provide exposure to oil gold and farm markets without
+  storage and help diversify portfolios while managing risk Discover more inside.
 ---
 
 

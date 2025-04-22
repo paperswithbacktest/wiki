@@ -1,6 +1,7 @@
 ---
-title: "JPMorgan Chase and Company"
-description: "Discover how JPMorgan Chase & Co. utilizes algorithmic trading to transform financial markets enhancing efficiency risk management and offering tailored solutions."
+title: JPMorgan Chase History Services and Market Position
+description: JPMorgan Chase grew from an 18th century New York bank into a global
+  financial leader offering accounts loans and investment services Discover more inside.
 ---
 
 

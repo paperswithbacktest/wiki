@@ -1,6 +1,7 @@
 ---
-title: "History and Trading of the British Pound Sterling"
-description: "Explore the history and modern trading dynamics of the British Pound Sterling in forex markets Discover how algorithmic trading is reshaping currency trades"
+title: The Evolution and Impact of the British Pound Sterling
+description: British Pound Sterling history spans medieval silver pennies to modern
+  fiat currency shaped by economic events and policy decisions Discover more inside
 ---
 
 

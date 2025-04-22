@@ -1,6 +1,7 @@
 ---
-title: "Income, Value, and Growth Stock Classification"
-description: "Discover key insights on income growth and value stocks with our guide on their classification and how algorithmic trading enhances investment strategies."
+title: Understanding Income Value and Growth Stocks for Investors
+description: Income Value and Growth Stocks help investors balance risk and return
+  by understanding dividends price metrics and market cycles Discover more inside.
 ---
 
 

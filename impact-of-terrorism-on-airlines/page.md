@@ -1,6 +1,7 @@
 ---
-title: "Impact of Terrorism on Airlines"
-description: "Explore how terrorism impacts the airline industry, affecting security and financial stability. Learn about algorithmic trading's response to such events."
+title: Impact Of Aviation Terrorism On Airline Safety And Operations
+description: Aviation terrorism prompts airlines to strengthen security measures and
+  adapt operations to protect passengers and staff Discover more inside
 ---
 
 

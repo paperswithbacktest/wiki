@@ -1,6 +1,7 @@
 ---
-title: "Institutional Investment Overview"
-description: "Explore the world of institutional investment and algorithmic trading where large entities like pension and hedge funds shape financial markets with strategic influence."
+title: Understanding Institutional Investment And Its Market Impact
+description: Institutional investment offers large organizations strategies to grow
+  and manage assets efficiently while influencing markets. Discover more inside.
 ---
 
 

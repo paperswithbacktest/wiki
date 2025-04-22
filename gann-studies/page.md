@@ -1,6 +1,7 @@
 ---
-title: "Gann Studies"
-description: "Discover the dynamic world of Gann studies in algo trading Learn how combining Gann analysis with technical and algorithmic trading enhances market prediction."
+title: Gann Studies Tools for Predicting Market Price Trends
+description: Gann Studies equip traders with tools like Gann Angles Gann Fans and
+  the Square of Nine to spot key support and resistance Discover more inside
 ---
 
 

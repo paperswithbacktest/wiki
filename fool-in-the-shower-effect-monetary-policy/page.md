@@ -1,6 +1,7 @@
 ---
-title: "Fool in the Shower Effect in Monetary Policy"
-description: "Explore the interplay of 'fool in the shower,' monetary policy, and algorithmic trading, highlighting economic theories' role in modern trading and policy-making."
+title: Fool in the Shower Effect in Monetary Policy Explained
+description: Fool in the Shower Effect shows why central banks adjust rates and use
+  flexible tools as economies shift to maintain stability. Discover more inside.
 ---
 
 

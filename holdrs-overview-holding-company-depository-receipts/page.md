@@ -1,6 +1,7 @@
 ---
-title: "HOLDRs: Overview of Holding Company Depository Receipts"
-description: "Discover HOLDRs and how they contributed to diversified investment. Learn about algorithmic trading's role in modern finance and its evolution from fixed structures like HOLDRs."
+title: Understanding Holding Company Depository Receipts HOLDRs
+description: HOLDRs let investors own industry-specific stocks in a traded basket
+  with full transparency and direct control Discover more inside.
 ---
 
 

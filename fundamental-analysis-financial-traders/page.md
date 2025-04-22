@@ -1,6 +1,7 @@
 ---
-title: "Fundamental Analysis for Financial Traders"
-description: "Explore the essentials of fundamental analysis and algorithmic trading for financial markets Discover trading strategies that guide informed investment decisions"
+title: Comprehensive Fundamental Analysis Guide for Financial Traders
+description: Fundamental analysis shows how to assess a companys value by examining
+  financial statements economic indicators and management Discover more inside.
 ---
 
 

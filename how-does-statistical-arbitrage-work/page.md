@@ -1,6 +1,7 @@
 ---
-title: "How does statistical arbitrage work?"
-description: "Discover how statistical arbitrage, a popular strategy used by hedge funds and algorithmic traders, seeks to profit from temporary price differences between related assets. Learn the principle behind this quantitative approach, trading pair examples, risks and benefits, and the importance of fast execution and technology. Explore further with recommended resources for trading strategies, libraries, datasets, and a website to help you become a successful quant trader."
+title: Comprehensive Guide to Statistical Arbitrage Trading Strategies
+description: Statistical arbitrage uses quantitative models and high speed data analysis
+  to spot fleeting price gaps and manage risk. Discover more inside.
 ---
 
 

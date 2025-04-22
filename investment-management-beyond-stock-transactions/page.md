@@ -1,6 +1,7 @@
 ---
-title: "Investment Management Beyond Stock Transactions"
-description: "Explore investment management beyond stock transactions with insights on portfolio management and algorithmic trading for optimized financial strategies."
+title: Strategic Investment Management and Portfolio Diversification
+description: Investment management grows your assets with diversified strategies across
+  stocks bonds and real estate while managing risk Discover more inside
 ---
 
 

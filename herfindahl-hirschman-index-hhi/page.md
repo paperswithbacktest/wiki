@@ -1,6 +1,7 @@
 ---
-title: "Herfindahl-Hirschman Index (HHI)"
-description: Understand the significance of the Herfindahl-Hirschman Index (HHI) in assessing market concentration and competition, especially within algorithmic trading. This page explores HHI's role in evaluating market dynamics, aiding traders in making informed decisions by analyzing market share data. Discover how the HHI impacts algorithmic strategy development, helping to manage risks and optimize outcomes in competitive trading environments. Learn the benefits and potential drawbacks of using HHI, drawing insights from practical examples and case studies across various industries.
+title: Understanding the Herfindahl-Hirschman Index for Market Analysis
+description: Herfindahl-Hirschman Index quantifies market concentration by squaring
+  and summing firm shares to reveal competitiveness and risks. Discover more inside.
 ---
 
 

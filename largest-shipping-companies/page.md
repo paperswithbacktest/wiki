@@ -1,6 +1,7 @@
 ---
-title: "List of the Largest Shipping Companies"
-description: "Explore the largest shipping companies and their role in global trade, highlighting the impact of algorithmic trading and technological advancements in the industry."
+title: Leading Global Shipping Companies Ranked by TEU Capacity
+description: Shipping companies like Maersk and MSC dominate global trade with vast
+  TEU capacities ensuring timely delivery and efficient logistics. Discover more inside.
 ---
 
 

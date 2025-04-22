@@ -1,6 +1,7 @@
 ---
-title: "Investment Securities: Types and Functions"
-description: "Explore investment securities and algorithmic trading their functions in capital growth and risk management Learn how these assets support diverse portfolios"
+title: Investment Securities Explained for Optimized Portfolio Growth
+description: Investment securities offer diverse tools from stocks and bonds to ETFs
+  and derivatives to balance risk and growth in your portfolio Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Floating Charge: Usage and Example"
-description: "Explore floating charge finance and algorithmic trading to understand secured loans and market dynamics, helping investors and professionals navigate finance efficiently."
+title: Floating Charge Explained Benefits Risks and Legal Framework
+description: Floating charge secures loans on shifting assets while enabling operations
+  and explains crystallization impacts on creditor claims Discover more inside
 ---
 
 

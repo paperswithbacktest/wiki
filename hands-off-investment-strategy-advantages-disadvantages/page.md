@@ -1,6 +1,7 @@
 ---
-title: "Hands-Off Investment Strategy: Advantages and Disadvantages"
-description: "Explore the pros and cons of hands-off investing with algorithmic trading. Learn how this approach can automate your investment strategy for long-term growth."
+title: Hands-Off Investment Strategy For Passive Income Growth
+description: Hands-off investment strategy lets you leverage index funds target date
+  funds and robo advisors to grow money passively with low fees Discover more inside
 ---
 
 

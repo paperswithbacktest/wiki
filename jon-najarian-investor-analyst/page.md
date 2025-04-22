@@ -1,6 +1,7 @@
 ---
-title: "Jon Najarian: Investor and Analyst"
-description: "Explore the world of trading with Jon Najarian a respected figure in algorithmic trading and market analysis Learn about his influential financial strategies"
+title: Jon Najarian Options Trading And Market Rebellion Cofounder
+description: Jon Najarian explains how to use unusual options activity for smarter
+  trades through Market Rebellion courses and TV insights Discover more inside
 ---
 
 

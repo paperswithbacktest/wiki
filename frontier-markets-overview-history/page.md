@@ -1,6 +1,7 @@
 ---
-title: "Frontier Markets: Overview and Historical Context"
-description: "Explore the dynamics of frontier markets and algorithmic trading to unlock unique investment opportunities and growth potential while managing inherent risks."
+title: Frontier Markets Investment Guide Risks Rewards and Insights
+description: Frontier Markets offer high growth potential and diversification across
+  emerging economies with risk management strategies Discover more inside.
 ---
 
 

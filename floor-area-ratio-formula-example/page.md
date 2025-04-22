@@ -1,6 +1,7 @@
 ---
-title: "Floor Area Ratio: Formula and Example"
-description: "Explore the synergy between urban planning and technology through the concept of Floor Area Ratio Learn how FAR and algo trading influence real estate and city growth"
+title: Comprehensive Guide To Floor Area Ratio In Urban Planning
+description: Floor Area Ratio guides urban planners to optimize building density and
+  preserve open spaces for sustainable communities. Discover more inside.
 ---
 
 

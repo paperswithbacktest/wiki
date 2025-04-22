@@ -1,6 +1,8 @@
 ---
-title: "Latency arbitrage"
-description: "Explore latency arbitrage a trading strategy that capitalizes on temporary price differences across markets using high-frequency algorithms and low-latency tech."
+title: Latency Arbitrage Strategies in Modern Financial Markets
+description: Latency arbitrage relies on ultra-fast technology to exploit tiny delays
+  in market data transmission and generate profits with advanced trading systems Discover
+  more inside.
 ---
 
 

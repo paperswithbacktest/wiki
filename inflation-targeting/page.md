@@ -1,6 +1,7 @@
 ---
-title: "Inflation Targeting"
-description: "Explore the intricate dynamics between inflation, monetary policy, economic strategy, and algorithmic trading to understand their impact on modern financial ecosystems. Discover how central banks manage inflation through monetary policies like interest rate adjustments while aligning fiscal measures to maintain economic stability. Delve into algorithmic trading’s role in leveraging economic data for data-driven decisions, demonstrating the convergence of economic indicators and trading technologies essential for robust strategies in today's financial markets."
+title: Understanding Inflation Targeting Benefits Risks and Process
+description: Inflation targeting guides central banks in achieving stable price growth
+  and predictability through interest rate adjustments Discover more inside
 ---
 
 

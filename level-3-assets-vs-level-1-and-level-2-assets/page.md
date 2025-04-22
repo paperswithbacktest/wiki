@@ -1,6 +1,8 @@
 ---
-title: "Level 3 Assets Compared to Level 1 and Level 2 Assets"
-description: "Explore the complexities of Level 3 assets compared to Level 1 and 2 with insights into algorithmic trading strategies enhancing asset management efficiency."
+title: "Understanding Level\_1, Level\_2, and Level\_3 Asset Valuation"
+description: "Level 1 assets have transparent market prices while Level\_2 and\_3\
+  \ rely on model based estimates to ensure fair value and compliance Discover more\
+  \ inside."
 ---
 
 

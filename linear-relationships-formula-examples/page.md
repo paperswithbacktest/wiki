@@ -1,6 +1,7 @@
 ---
-title: "Linear Relationships: Formula and Examples"
-description: "Explore the role of linear relationships in algorithmic trading with practical examples and mathematical insights to enhance decision-making and profitability."
+title: Understanding Linear Relationships and Their Trading Applications
+description: Linear relationships describe variable changes in straight line and empower
+  predictive models from graphs to algorithmic trading Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Information Overload on Investors"
-description: "Explore how information overload affects investors in algorithmic trading and learn strategies to manage data effectively for better financial decision-making."
+title: Managing Information Overload in Investment Decision Making
+description: Information overload can stall investment choices and increase stress
+  Discover methods to filter market data and make clear decisions Discover more inside
 ---
 
 

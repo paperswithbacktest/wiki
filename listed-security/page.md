@@ -1,6 +1,7 @@
 ---
-title: "Listed Security"
-description: "Explore the dynamic world of financial markets with a focus on stock exchanges, publicly traded companies, and algorithmic trading for economic transformation."
+title: Comprehensive Guide to Listed Securities on Stock Exchanges
+description: Listed securities provide companies enhanced credibility and visibility
+  while giving investors improved liquidity and transparency Discover more inside.
 ---
 
 

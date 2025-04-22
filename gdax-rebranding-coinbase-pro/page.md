@@ -1,6 +1,8 @@
 ---
-title: "GDAX and Its Rebranding to Coinbase Pro"
-description: "Explore the transition from GDAX to Coinbase Pro and its impact on algorithmic trading. Learn about enhanced features that cater to professional traders."
+title: Understanding the GDAX to Coinbase Pro Rebranding Process
+description: Coinbase Pro offers advanced GDAX trading tools, seamless integration
+  with Coinbase accounts, and enhanced security for professional traders Discover
+  more inside.
 ---
 
 

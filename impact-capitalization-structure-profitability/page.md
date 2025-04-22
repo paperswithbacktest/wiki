@@ -1,6 +1,7 @@
 ---
-title: "Impact of Capitalization Structure on Profitability"
-description: "Explore the impact of capitalization structure on profitability in algorithmic trading and learn how financial management integrates with modern trading strategies."
+title: Optimizing Capital Structure to Enhance Profitability
+description: Capital structure drives company risk and returns by balancing debt and
+  equity to lower capital costs and enhance profitability Discover more inside
 ---
 
 

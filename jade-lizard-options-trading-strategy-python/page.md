@@ -1,6 +1,7 @@
 ---
-title: "Jade Lizard Options Trading Strategy in Python"
-description: Explore the Jade Lizard Options Trading Strategy as it leverages high implied volatility for traders with a bullish or neutral market outlook. This article investigates into its unique risk-reward profile and adaptability under various market conditions through the integration of algorithmic trading. Discover how combining short put and call options with a long call creates a lucrative net credit position. Learn about optimizing this strategy with algorithmic techniques to enhance accuracy and profitability while mitigating risks. Ideal for traders aiming to maintain a competitive edge in options trading.
+title: Understanding the Jade Lizard Options Trading Strategy
+description: Jade Lizard options trading strategy captures premium selling options
+  while hedging risk with a long call for steady returns Discover more inside
 ---
 
 

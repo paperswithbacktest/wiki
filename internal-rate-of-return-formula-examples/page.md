@@ -1,6 +1,7 @@
 ---
-title: "Internal Rate of Return: Formula and Examples"
-description: "Explore the fundamentals of Internal Rate of Return (IRR) in investment analysis Learn IRR calculation and its role in algorithmic trading decision-making"
+title: Internal Rate of Return Explained for Investment Analysis
+description: "Internal Rate of Return IRR shows an investment\u2019s annual return\
+  \ and covers calculations, NPV comparisons, and limitations Discover more inside"
 ---
 
 

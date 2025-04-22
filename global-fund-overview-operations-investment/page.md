@@ -1,6 +1,7 @@
 ---
-title: "Global Fund: Overview, Operations, and Investment"
-description: "Discover the transformative impact of algorithmic trading on global fund operations optimizing investment strategies with high-speed precision and data-driven insights."
+title: Global Fund's Role In Fighting AIDS Tuberculosis And Malaria
+description: Global Fund mobilizes resources to support AIDS TB and malaria programs
+  ensuring vulnerable communities get vital treatment and care Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Intangible Drilling Costs"
-description: "Discover how Intangible Drilling Costs impact financial strategies in the oil and gas industry by offering immediate tax advantages and influencing operational decisions. Explore the integration of algorithmic trading and IDCs to optimize financial returns and manage risk in an evolving energy landscape."
+title: Intangible Drilling Costs Tax Treatment and Financial Impact
+description: Intangible Drilling Costs help oil and gas firms cut taxable income in
+  the drilling year with immediate deductions boosting cash flow Discover more inside.
 ---
 
 

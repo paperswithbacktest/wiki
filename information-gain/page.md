@@ -1,6 +1,7 @@
 ---
-title: "Information Gain (Machine Learning)"
-description: "Information Gain helps in decision tree learning by choosing features that reduce uncertainty and increase prediction accuracy through efficient data splitting."
+title: Understanding Information Gain in Machine Learning Decision Trees
+description: Information Gain measures how much a feature reduces uncertainty in decision
+  trees by using entropy difference to improve model accuracy Discover more inside
 ---
 
 ![Image](images/1.jpeg)

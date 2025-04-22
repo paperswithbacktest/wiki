@@ -1,6 +1,7 @@
 ---
-title: "Illiquid Options: Overview and Disadvantages"
-description: "Explore the complexities and challenges of illiquid options trading including wider bid-ask spreads and low market interest along with algorithmic strategies."
+title: Understanding Illiquid Options Risks And Trading Strategies
+description: Illiquid options carry higher costs and risks due to low volume and wide
+  bid-ask spreads Optimize trades with limit orders Discover more inside
 ---
 
 

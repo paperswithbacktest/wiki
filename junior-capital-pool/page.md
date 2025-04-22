@@ -1,6 +1,7 @@
 ---
-title: "Junior Capital Pool"
-description: "Discover the transformative power of venture capital, junior capital pools, and algorithmic trading in shaping the modern financial landscape with innovation."
+title: Junior Capital Pools and the Rise of Algorithmic Trading
+description: Junior Capital Pools let investors back new ventures while algorithmic
+  trading accelerates execution and risk management Discover more inside.
 ---
 
 

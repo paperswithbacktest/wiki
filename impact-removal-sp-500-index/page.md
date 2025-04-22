@@ -1,6 +1,7 @@
 ---
-title: "Impact of Removal From the S&P 500 Index"
-description: "Explore the significant impact of stock removal from the S&P 500 index, a key benchmark representing major U.S. companies’ performance. Understand the criteria for inclusion and exclusion, and how algorithmic trading reacts to these changes, affecting market dynamics, stock prices, and investment strategies."
+title: S&P 500 Index Changes and Their Impact on Company Performance
+description: S&P 500 Index inclusion and removal influence stock performance and funding
+  costs. Discover criteria and strategies to mitigate risks. Explore more inside.
 ---
 
 

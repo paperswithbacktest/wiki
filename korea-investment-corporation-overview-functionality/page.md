@@ -1,6 +1,7 @@
 ---
-title: "Korea Investment Corporation: Overview and Functionality"
-description: "Explore how the Korea Investment Corporation leverages algorithmic trading and strategic asset allocation to enhance South Korea's economic growth through effective investment management."
+title: "Understanding the Korea Investment Corporation\u2019s Global Strategy"
+description: Korea Investment Corporation invests foreign exchange reserves in stocks
+  bonds and real estate to strengthen South Korea economy Discover more inside
 ---
 
 

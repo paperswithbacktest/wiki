@@ -1,6 +1,7 @@
 ---
-title: "Latent Liquidity"
-description: "Explore the intricacies of latent liquidity in high-frequency trading leveraging algorithmic strategies for swift execution and competitive edge within financial markets."
+title: Understanding Latent Liquidity in Financial Markets
+description: Latent liquidity shapes market stability and price discovery by revealing
+  hidden trading power to guide smarter investment decisions Discover more inside.
 ---
 
 

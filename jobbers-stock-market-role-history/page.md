@@ -1,6 +1,7 @@
 ---
-title: "Jobbers in the Stock Market: Role and Historical Overview"
-description: "Explore the evolution of stock market dynamics from the pivotal role of jobbers to the efficiency-driven world of algorithmic trading. Discover historical insights."
+title: The Role of Jobbers in Stock Market Trading and Liquidity
+description: Jobbers in the stock market buy and sell stocks for their own account
+  to maintain liquidity and profit from spreads across markets Discover more inside
 ---
 
 

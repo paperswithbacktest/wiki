@@ -1,6 +1,7 @@
 ---
-title: "Investment Return Calculation"
-description: "Understanding ROI in algorithmic trading can boost investment strategy effectiveness. Learn to calculate ROI for high-volume trading to maximize returns efficiently."
+title: Comprehensive Guide to Calculating Return on Investment
+description: Return on investment shows how to calculate simple and annualized ROI
+  and interpret risk metrics to assess asset performance. Discover more inside.
 ---
 
 

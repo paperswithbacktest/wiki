@@ -1,6 +1,7 @@
 ---
-title: "Impact of Dividends on Stockholder Equity"
-description: "Explore how dividends impact stockholder equity and algorithmic trading Learn how these elements shape company financials and influence investment strategies"
+title: Understanding The Impact Of Dividends On Stockholder Equity
+description: Dividends reduce retained earnings and equity while providing shareholders
+  with returns and strategically driving stock value Discover more inside.
 ---
 
 

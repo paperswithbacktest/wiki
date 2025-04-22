@@ -1,6 +1,7 @@
 ---
-title: "Igor Tulchinsky"
-description: Explore the pioneering world of algorithmic trading with Igor Tulchinsky, a visionary leader and founder of WorldQuant. Known for integrating cutting-edge technology and data-driven strategies, Tulchinsky has revolutionized financial markets through innovative quantitative research and analytics. His commitment to excellence is reflected in WorldQuant’s global success and unique talent acquisition strategy, leveraging a diverse pool of quants to drive market-leading results. Discover how Tulchinsky's background in computer science and finance has positioned him as a thought leader in advancing algorithmic trading practices worldwide.
+title: Igor Tulchinsky Pioneering Quantitative Investing At WorldQuant
+description: Igor Tulchinsky uses data driven AI models at WorldQuant to optimize
+  quantitative investing and guide entrepreneurs globally Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Gross Domestic Income: Formula and Calculation"
-description: "Explore the importance and calculation of Gross Domestic Income in economic analysis and algorithmic trading Understand how GDI enhances trading strategies"
+title: Understanding Gross Domestic Income GDI and How It Is Calculated
+description: Gross Domestic Income GDI breaks down wages profits rent interest and
+  net taxes to reveal how income drives the economy. Discover more inside.
 ---
 
 

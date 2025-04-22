@@ -1,6 +1,7 @@
 ---
-title: "Green Investing"
-description: "Explore the growing trend of green investing that merges sustainability with financial growth using algorithmic trading to optimize eco-friendly portfolios for impact."
+title: Green Investing and Algorithmic Trading for Sustainable Finance
+description: Green investing uses algorithmic trading and ESG metrics to optimize
+  portfolios for financial returns with environmental benefits Discover more inside
 ---
 
 The rising awareness about climate change and environmental sustainability has significantly reshaped the investment landscape, leading to a rising interest in sustainable finance and eco-friendly investments. This shift is driven by an increasing understanding of the environmental and social impacts of traditional investment practices and the urgent need for solutions that align financial incentives with environmental preservation.

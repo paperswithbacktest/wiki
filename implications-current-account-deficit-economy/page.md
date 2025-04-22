@@ -1,6 +1,7 @@
 ---
-title: "Implications of Current Account Deficit on the Economy"
-description: "Understanding the economic implications of a current account deficit is crucial for policymakers as it affects currency stability trade balance and can inform algorithmic trading strategies."
+title: Understanding Current Account Deficits and Their Economic Impact
+description: Current account deficit shapes currency value savings investment Explore
+  causes effects and policy measures that impact economic stability Discover now
 ---
 
 

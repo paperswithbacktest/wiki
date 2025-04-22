@@ -1,6 +1,7 @@
 ---
-title: "Insider Information: Examples and Legal Issues"
-description: "Explore the complexities of insider trading and algorithmic trading impacting financial markets while understanding the legal framework and ethical challenges."
+title: Insider Information Guide How It Shapes Stock Market Integrity
+description: Insider information covers definitions legal rules detection and prevention
+  methods that uphold market fairness and investor trust Discover more inside
 ---
 
 

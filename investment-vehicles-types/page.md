@@ -1,6 +1,8 @@
 ---
-title: "Investment Vehicles and Types"
-description: "Explore investment vehicles from stocks and bonds to algorithmic trading Learn how these instruments can diversify your portfolio and optimize returns"
+title: Understanding Investment Vehicles From Stocks to Alternatives
+description: Investment vehicles explained from stocks bonds mutual funds and real
+  estate to hedge funds options and more Discover how to choose the right tools for
+  your goals Discover more inside.
 ---
 
 

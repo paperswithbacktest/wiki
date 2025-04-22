@@ -1,6 +1,7 @@
 ---
-title: "Fourth Market in Financial Trading"
-description: "Discover the Fourth Market in financial trading, where algorithmic strategies enable direct, private, and cost-effective transactions for institutional investors."
+title: Understanding the Fourth Market for Direct Institutional Trading
+description: Fourth Market trading lets large institutions execute bulk stock and
+  bond trades cost efficiently and with confidentiality Discover more inside
 ---
 
 

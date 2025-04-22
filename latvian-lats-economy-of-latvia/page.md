@@ -1,6 +1,7 @@
 ---
-title: "Latvian Lats and the Economy of Latvia"
-description: "Discover Latvia's economic evolution from lats to euro and its embrace of algorithmic trading a pivotal move enhancing stability and global market connectivity."
+title: History and Economic Impact of the Latvian Lats Currency
+description: Latvian Lats stabilized Latvia economy between 1922 and 2014 by controlling
+  inflation supporting trade and monetary reforms Discover more inside
 ---
 
 

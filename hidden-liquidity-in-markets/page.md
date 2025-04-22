@@ -1,6 +1,7 @@
 ---
-title: "Hidden Liquidity in Markets"
-description: "Explore the dynamics of hidden liquidity in algo trading and iceberg orders to safeguard trades from market impacts, enhancing strategic anonymity and trading success."
+title: Understanding Hidden Liquidity in Financial Markets
+description: Hidden liquidity lets traders place large orders without moving prices
+  revealing how hidden orders affect volatility and fairness Discover more inside
 ---
 
 

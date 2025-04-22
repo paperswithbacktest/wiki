@@ -1,6 +1,7 @@
 ---
-title: "Host (Machine Learning)"
-description: "A host in machine learning refers to the system running algorithms and processing data, crucial for efficient model training and performance management."
+title: Setting Up a Host Machine for Efficient Machine Learning
+description: Host Machine setup for machine learning covers hardware OS configuration
+  and virtualization to improve performance and security. Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Indicators to Build a Trend-Following Strategy"
-description: Explore how to build a trend-following strategy for algorithmic trading using key indicators like moving averages, Bollinger Bands, and RSI. Discover how these tools help traders identify market trends and optimize entry and exit points, enabling a systematic approach to capitalize on market momentum and mitigate risks. Perfect for traders looking to automate their processes and remove emotional biases while maximizing returns through algo trading.
+title: Mastering Trend Following Strategies With Key Trading Indicators
+description: Trend following strategy guides traders to spot market direction using
+  moving averages momentum and support tools while limiting risk. Discover more inside
 ---
 
 

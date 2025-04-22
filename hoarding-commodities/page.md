@@ -1,6 +1,7 @@
 ---
-title: "Hoarding in Commodities"
-description: "Explore the dynamic influences of hoarding and algorithmic trading in commodities markets uncovering their roles in price volatility and market efficiency."
+title: Assessing the Economic Impacts of Commodity Hoarding
+description: Commodity hoarding drives shortages and price spikes prompting policy
+  interventions and disrupting supply chains and markets Discover more inside
 ---
 
 

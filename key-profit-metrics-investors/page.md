@@ -1,6 +1,7 @@
 ---
-title: "Key Profit Metrics for Investors"
-description: "Explore essential profit metrics in algo trading for investors to enhance decision-making and navigate volatile markets with data-driven strategies and analyses."
+title: Understanding Profit Metrics for Smart Investment Decisions
+description: Profit metrics reveal how efficiently companies generate earnings and
+  guide investment decisions with clear financial indicators Discover more inside
 ---
 
 

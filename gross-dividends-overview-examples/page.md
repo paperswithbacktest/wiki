@@ -1,6 +1,7 @@
 ---
-title: "Gross Dividends: Overview and Examples"
-description: "Explore the synergy between gross dividends and algorithmic trading to optimize your investment strategy. Enhance returns through strategic dividend investing powered by advanced algorithms."
+title: Understanding Gross Dividends For Investor Financial Planning
+description: Gross dividends reveal the total payout per share before taxes and fees
+  letting investors assess payouts and plan finances Discover more inside.
 ---
 
 

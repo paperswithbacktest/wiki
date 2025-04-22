@@ -1,6 +1,7 @@
 ---
-title: "Level 2 Assets: Comparison with Level 1 and Level 3 Assets"
-description: "Explore the complexities of Level 2 financial assets, such as corporate bonds and derivatives, with insight into valuation and algorithmic trading strategies."
+title: Key Valuation Methods for Level 2 Assets and Portfolio Uses
+description: Level 2 assets rely on observable inputs and models for accurate valuation
+  and help diversify portfolios while managing risks Discover more inside
 ---
 
 

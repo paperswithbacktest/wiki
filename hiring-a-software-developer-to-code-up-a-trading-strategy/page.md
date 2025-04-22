@@ -1,6 +1,7 @@
 ---
-title: "Hiring a Software Developer to Code Up a Trading Strategy"
-description: Hiring a software developer for algo trading involves understanding the importance of designing and implementing efficient trading strategies that bridge financial market expertise with technical skills. In this field, developers create high-performance algorithms using programming languages like Python and C++, focusing on rapid data analysis and precision trade execution. The demand for such expertise arises from the evolving complexities of financial markets and the need for competitive edge trading systems. This page explores the responsibilities, skills, technologies, and career opportunities in algo trading development.
+title: Essential Skills and Tools for Trading Strategy Development
+description: Trading strategy development involves using Python R and backtesting
+  platforms to create disciplined data driven trading plans Discover more inside
 ---
 
 

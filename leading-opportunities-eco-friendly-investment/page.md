@@ -1,6 +1,7 @@
 ---
-title: "Leading Opportunities in Eco-Friendly Investment"
-description: "Explore eco-friendly investment opportunities through algorithmic trading that blend financial goals with sustainability, supporting a healthier planet."
+title: Eco-Friendly Investment Strategies for Sustainable Returns
+description: Eco-friendly investment offers growth and impact by funding clean energy
+  and green bonds for real returns and planet benefits Discover more inside.
 ---
 
 

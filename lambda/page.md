@@ -1,6 +1,7 @@
 ---
-title: "Lambda (Machine Learning)"
-description: "Discover the role of Lambda in machine learning as a regularization parameter to prevent overfitting and improve model generalization with practical insights"
+title: Understanding Lambda Regularization in Machine Learning Models
+description: Lambda regularization balances model complexity by penalizing parameters
+  to prevent overfitting and improve generalization Discover more inside.
 ---
 
 ![Image](images/1.png)

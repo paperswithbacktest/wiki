@@ -1,6 +1,7 @@
 ---
-title: "Hüseyin Erkan - Turkish Business Leader"
-description: "Hüseyin Erkan is a leading Turkish business figure known for transformative contributions to algorithmic trading and global financial markets."
+title: "H\xFCseyin Erkan Founder Of Erkan Group Shaping Turkish Economy"
+description: "H\xFCseyin Erkan scaled a small construction firm into the Erkan Group\
+  \ now active in energy and tourism driving Turkish growth Discover more inside."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Illiquid Assets: Risks and Examples"
-description: "Explore the unique challenges and opportunities of trading illiquid assets in algorithmic systems focusing on strategies for navigating risks like volatility and slippage."
+title: Understanding Illiquid Assets Risks Benefits and Strategies
+description: Illiquid assets offer growth potential but pose cash flow challenges
+  when funds are needed fast. Assess liquidity and manage risks. Discover more inside
 ---
 
 

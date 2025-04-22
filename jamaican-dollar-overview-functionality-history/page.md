@@ -1,6 +1,7 @@
 ---
-title: "Jamaican Dollar: Overview, Functionality, and Historical Context"
-description: "Explore the Jamaican Dollar its historical evolution role in algorithmic trading and international significance illustrating its cultural and economic impact."
+title: Understanding the Jamaican Dollar Its History and Economic Impact
+description: Jamaican Dollar overview explores its history since 1969 denominations
+  everyday use exchange factors and economic outlook Discover more inside
 ---
 
 

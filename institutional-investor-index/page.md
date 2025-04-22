@@ -1,6 +1,7 @@
 ---
-title: "Institutional Investor Index"
-description: "Explore how institutional investors leverage algorithmic trading for informed investment decisions Gain insights into their impact on market dynamics and efficiency"
+title: Institutional Investor Index Explained For Market Health
+description: Institutional Investor Index tracks performance of banks pension and
+  mutual funds to reveal market health to guide investment choices Discover more inside
 ---
 
 

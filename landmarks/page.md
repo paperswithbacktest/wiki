@@ -1,6 +1,7 @@
 ---
-title: "Landmarks (Machine Learning)"
-description: "Landmarks in machine learning are key data points used to simplify complex datasets enhancing algorithm accuracy and efficiency in tasks like image recognition and clustering."
+title: Understanding Landmark Detection in Machine Learning Applications
+description: Landmark detection in machine learning streamlines data processing by
+  highlighting key features for accurate image and pose analysis Discover more inside.
 ---
 
 ![Image](images/1.png)

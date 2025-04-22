@@ -1,6 +1,7 @@
 ---
-title: "Inverted Yield Curve: Implications for Investors and Examples"
-description: "Discover how an inverted yield curve impacts investors and explore examples relevant to algorithmic trading. Understand why this phenomenon is a significant economic indicator and how it can signal potential recessions. This article investigates into the relationship between yield curves, financial metrics, and algo trading to enhance investment strategies in uncertain economic environments."
+title: Understanding the Inverted Yield Curve and Its Implications
+description: Inverted yield curve indicates recession risk and guides investors to
+  protect portfolios with bonds and defensive sectors Discover more inside
 ---
 
 

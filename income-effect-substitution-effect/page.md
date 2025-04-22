@@ -1,6 +1,7 @@
 ---
-title: "Income Effect and Substitution Effect"
-description: "Explore the income and substitution effects and their impact on algorithmic trading. Understand consumer behavior and market dynamics through these economic principles."
+title: Understanding Income and Substitution Effects in Consumer Choice
+description: Income effect and substitution effect show how price and income changes
+  drive consumer demand and inform business and policy decisions Discover more inside
 ---
 
 

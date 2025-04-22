@@ -1,6 +1,7 @@
 ---
-title: "Gwei in Cryptocurrency"
-description: "Explore the role of Gwei in Ethereum's algorithmic trading. Understand Gwei's impact on transaction costs and learn strategies to optimize trading profits."
+title: 'Understanding Gwei: Ethereum Gas Fees and Transaction Costs'
+description: Gwei defines Ethereum gas fees and helps you balance transaction cost
+  and speed Explore Gwei settings for faster confirmations Discover more inside
 ---
 
 

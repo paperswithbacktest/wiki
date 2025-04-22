@@ -1,6 +1,7 @@
 ---
-title: "History of International Trade Agreements"
-description: "Explore the evolution of international trade agreements and the impact of algorithmic trading. Discover how historical accords and modern technology shape global commerce."
+title: Understanding International Trade Agreements and Their Impact
+description: International trade agreements reduce tariffs and set fair rules to boost
+  economies, create jobs and build cooperation. Discover more inside.
 ---
 
 

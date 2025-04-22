@@ -1,6 +1,7 @@
 ---
-title: "Investment Potential of High-Yield Bonds"
-description: "Explore the investment potential of high-yield bonds combined with algorithmic trading strategies to navigate risks and maximize returns in dynamic markets."
+title: Understanding High-Yield Bonds For Diversified Portfolios
+description: High-yield bonds offer a balance of increased interest and manageable
+  risk to diversify your portfolio and boost returns Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investment Advisers Act of 1940"
-description: "Explore the impact of the Investment Advisers Act of 1940 on algorithmic trading and learn about fiduciary duties and regulations for financial advisors."
+title: Key Provisions of the Investment Advisers Act of 1940
+description: Investment Advisers Act of 1940 sets rules for adviser registration fiduciary
+  duties and compliance to protect investors Discover more inside.
 ---
 
 

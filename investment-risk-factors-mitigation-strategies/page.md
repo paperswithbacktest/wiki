@@ -1,6 +1,7 @@
 ---
-title: "Investment Risk Factors and Mitigation Strategies"
-description: "Learn how to identify and manage investment risks such as market, credit, and liquidity risks, while exploring algo trading and effective risk mitigation strategies."
+title: Understanding Investment Risks and Mitigation Strategies
+description: Investment risk impacts portfolios but can be managed with diversification
+  and proactive planning to protect your returns Discover more inside.
 ---
 
 

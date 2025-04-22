@@ -1,6 +1,7 @@
 ---
-title: "How can we assess the impact of latency on a trading strategy?"
-description: "Discover how latency affects trading strategies and learn methods to assess its impact, including direct measurement, simulation, real environment testing, opportunity cost analysis, market consideration, bottleneck assessment, resilience testing, and technology solutions. Adjust and optimize your strategy for maximum performance and effective risk management."
+title: Optimizing Trading Latency for Faster and Profitable Trades
+description: Trading latency impacts execution speed and slippage measure and minimize
+  delays in your trading system for better performance Discover more inside.
 ---
 
 

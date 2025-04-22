@@ -1,6 +1,7 @@
 ---
-title: "History of the Dow Jones Transportation Average"
-description: "Explore the rich history of the Dow Jones Transportation Average and its evolution in the transportation sector from railroads to airlines and logistics."
+title: Understanding the Dow Jones Transportation Average
+description: Dow Jones Transportation Average tracks 20 transport firms to gauge economic
+  health analyze sector shifts and reveal index composition Discover more inside
 ---
 
 

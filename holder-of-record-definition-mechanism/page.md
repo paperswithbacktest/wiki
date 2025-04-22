@@ -1,6 +1,7 @@
 ---
-title: "Holder of Record: Definition and Mechanism"
-description: "Explore the holder of record, stock ownership, and algorithmic trading in financial markets to enhance your investment strategies and decision-making skills."
+title: Understanding Holder of Record Rights and Corporate Implications
+description: Holder of Record status defines who legally owns shares and secures voting
+  and dividend rights through direct company records Discover more inside.
 ---
 
 

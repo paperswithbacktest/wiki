@@ -1,6 +1,7 @@
 ---
-title: "Jeffrey Bergstrom (Person)"
-description: "Jeffrey A. Bergstrom is a pivotal figure in financial journalism and IT at John J. Lothian & Company known for advancing algorithmic trading and media strategies."
+title: Jeffrey Bergstrom Career And Controversy At Wisconsin DNR
+description: Jeffrey Bergstrom led key conservation initiatives for Wisconsin forests
+  lakes and wildlife while navigating email misconduct fallout Discover more inside
 ---
 
 

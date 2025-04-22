@@ -1,6 +1,7 @@
 ---
-title: "Ghanaian Cedi: Significance, Functionality, and Influencing Factors"
-description: "Explore the dynamic world of algorithmic trading with a focus on the Ghanaian Cedi Discover economic factors affecting GHS and optimize your trading strategies"
+title: Comprehensive Guide to the Ghanaian Cedi Usage and Value
+description: Ghanaian Cedi performance and everyday use unfold across history, denominations
+  and key economic factors shaping its value Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Fund Overlap in Investment Strategy"
-description: "Explore the integration of mutual funds, investment strategies, and algorithmic trading in finance. Learn to manage fund overlap and enhance portfolio performance."
+title: Managing Fund Overlap To Build A Diversified Portfolio
+description: Fund overlap can hide risks by duplicating assets across funds so you
+  can assess holdings, balance your portfolio, and reduce exposure Discover more inside.
 ---
 
 

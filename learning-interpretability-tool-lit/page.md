@@ -1,6 +1,7 @@
 ---
-title: "Learning Interpretability Tool (Lit) (Machine Learning)"
-description: "Explore the Learning Interpretability Tool by Google designed to enhance machine learning model transparency allowing users to interact and improve model performance."
+title: Learning Interpretability Tool for Transparent Machine Learning
+description: Learning Interpretability Tool helps you inspect model decisions and
+  interact in real time to improve fairness and accuracy Discover more inside.
 ---
 
 ![Image](images/1.gif)

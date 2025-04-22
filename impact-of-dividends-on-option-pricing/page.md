@@ -1,6 +1,7 @@
 ---
-title: "Impact of Dividends on Option Pricing"
-description: "Explore how dividends affect option pricing and impact financial strategies. Delve into traditional and algorithmic models for effective trading insights."
+title: Dividends Impact Option Pricing and Trading Strategies
+description: Option pricing models adjust for dividends to predict price moves around
+  ex-dividend dates and enable smarter trading decisions Find out more inside
 ---
 
 

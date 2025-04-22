@@ -1,6 +1,7 @@
 ---
-title: "In-Context Learning (Machine Learning)"
-description: "Discover the power of In-Context Learning in machine learning where models adapt to new tasks rapidly using just a few examples instead of extensive retraining."
+title: In-Context Learning Explained for Rapid Task Adaptation
+description: In-Context Learning lets models adapt to new tasks from a few examples
+  enhancing flexibility and saving retraining time Discover more inside
 ---
 
 ![Image](images/1.png)

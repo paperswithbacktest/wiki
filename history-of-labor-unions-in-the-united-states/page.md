@@ -1,6 +1,7 @@
 ---
-title: "History of Labor Unions in the United States"
-description: "Explore the rich history of labor unions in the U.S. from their emergence in the industrial revolution to their adaptation to modern technological challenges."
+title: History of American Labor Unions From Founding to Today
+description: Labor unions have shaped worker rights by negotiating better pay hours
+  and safety from early US shoemakers to modern workplaces Discover more inside.
 ---
 
 

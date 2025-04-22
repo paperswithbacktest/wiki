@@ -1,6 +1,7 @@
 ---
-title: "Investment Banking: Roles, Skills, and Examples"
-description: "Explore the diverse roles and essential skills of investment banking with a focus on the impact of algorithmic trading on financial strategies and operations."
+title: Investment Banking Explained A Comprehensive Guide
+description: Investment banking shows how experts raise capital guide mergers underwrite
+  IPOs manage risk and shape core career skills Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Garda Capital Partners"
-description: "Garda Capital Partners leverages algorithmic trading with advanced technology and innovative strategies to offer superior market solutions and enhance investor confidence."
+title: Garda Capital Partners Special Situations Investment Approach
+description: Garda Capital Partners invests in companies facing challenges using special
+  situations strategies to drive growth and manage risk. Discover more inside.
 ---
 
 

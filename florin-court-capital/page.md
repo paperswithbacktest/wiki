@@ -1,6 +1,7 @@
 ---
-title: "Florin Court Capital"
-description: "Florin Court Capital excels in algorithmic trading using innovative strategies and advanced technologies to enhance efficiency and impact in the financial markets."
+title: Florin Court Capital Investment Management and Growth Strategies
+description: Florin Court Capital delivers tailored investment strategies that grow
+  and protect wealth through informed risk management. Discover more inside.
 ---
 
 

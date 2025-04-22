@@ -1,6 +1,7 @@
 ---
-title: "Group of 77: Structure, Function, Member Nations"
-description: "Explore how the Group of 77 fosters economic cooperation among developing nations and its interaction with algorithmic trading on the global stage."
+title: Group Of 77 Developing Nations Unite For Stronger Economic Voice
+description: Group of 77 coordinates 130 developing nations to amplify their economic
+  influence in UN negotiations while fostering collaboration Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Float Shrink: Overview, Mechanism, and Examples"
-description: "Explore the dynamics of float shrink in stock trading and learn how it affects market liquidity and investor strategies with algorithmic trading integration."
+title: Understanding Float Shrink Effects on Stock Price Volatility
+description: Float shrink cuts tradable shares and can trigger sudden price swings
+  and volatility. Uncover key causes and adjust your strategy Discover more inside
 ---
 
 

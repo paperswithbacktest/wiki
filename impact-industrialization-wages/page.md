@@ -1,6 +1,7 @@
 ---
-title: "Impact of Industrialization on Wages"
-description: "Explore the historical and modern impacts of industrialization on wages and economic dynamics through the lens of technological advancements like algorithmic trading."
+title: The Impact of Industrialization on Wages and Living Standards
+description: Industrialization transformed production and wages by introducing machines,
+  reshaping factory conditions and living standards. Discover more inside
 ---
 
 

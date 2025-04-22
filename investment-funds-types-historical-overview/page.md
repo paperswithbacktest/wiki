@@ -1,6 +1,7 @@
 ---
-title: "Investment Funds: Types and Historical Overview"
-description: "Explore the history and types of investment funds like mutual funds, ETFs, and hedge funds, and how algorithmic trading has transformed fund management."
+title: Investment Funds Explained Types Strategies and Future Trends
+description: Investment funds pool capital to diversify across stocks bonds real estate
+  with active passive strategies under evolving regulations Discover more inside
 ---
 
 

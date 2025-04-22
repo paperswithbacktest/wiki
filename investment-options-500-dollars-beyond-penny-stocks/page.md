@@ -1,6 +1,7 @@
 ---
-title: "Investment Options With $500: Beyond Penny Stocks"
-description: "Explore strategic investment options with just $500 beyond penny stocks Discover algorithmic trading plus blue-chip stocks ETFs and more for better returns"
+title: Professional Guide to Investing 500 Dollars Across Asset Classes
+description: 500 dollar investment can diversify your portfolio across ETFs mutual
+  funds bonds and robo advisors while reducing risk Discover more inside
 ---
 
 

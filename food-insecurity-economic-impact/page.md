@@ -1,6 +1,7 @@
 ---
-title: "Food Insecurity and Economic Impact"
-description: "Explore the vital relationship between food insecurity and economic performance Discover how algorithmic trading can reveal impacts and guide policy actions"
+title: Understanding Food Insecurity Impacts and Economic Solutions
+description: Food Insecurity threatens individual health and economic growth yet targeted
+  policies and community strategies break the cycle Discover more inside.
 ---
 
 

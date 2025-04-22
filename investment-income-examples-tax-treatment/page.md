@@ -1,6 +1,7 @@
 ---
-title: "Investment Income: Examples and Tax Treatment"
-description: "Explore the complexities of investment income and its tax implications. Learn how algo trading impacts earnings and strategies to maximize returns effectively."
+title: Understanding Investment Income Types and Tax Implications
+description: Investment income covers interest dividends rentals and capital gains
+  with tax strategies to optimize returns and reduce liabilities Discover more inside.
 ---
 
 

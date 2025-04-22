@@ -1,6 +1,7 @@
 ---
-title: "Interest Coverage Ratio"
-description: "Explore the significance of the interest coverage ratio in algorithmic trading and business finance Understanding and leveraging this key metric can enhance assessments of company solvency"
+title: Understanding the Interest Coverage Ratio for Financial Stability
+description: Interest Coverage Ratio shows how easily a company can meet interest
+  costs from its earnings and identify financial risk factors Discover more inside.
 ---
 
 

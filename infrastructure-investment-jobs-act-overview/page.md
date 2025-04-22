@@ -1,6 +1,7 @@
 ---
-title: "Infrastructure Investment and Jobs Act Overview"
-description: "Explore the impact of infrastructure investments under the Jobs Act on algorithmic trading with a focus on economic growth job creation and technological advancements."
+title: Understanding the Infrastructure Investment and Jobs Act
+description: Infrastructure Investment and Jobs Act allocates 1.2 trillion to modernize
+  roads bridges water and broadband while boosting jobs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Forward Dividend Yield and Trailing Yield Comparison"
-description: "Compare trailing and forward dividend yields for trading strategies and discover their significance in algorithmic trading. Enhance portfolio returns efficiently."
+title: Understanding Forward and Trailing Dividend Yield Differences
+description: Forward dividend yield helps investors forecast income while trailing
+  yield shows past payouts. Explore strategies to balance both. Discover more inside
 ---
 
 

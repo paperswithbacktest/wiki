@@ -1,6 +1,7 @@
 ---
-title: "Key Ratios in Income Statements"
-description: "Explore key financial ratios essential for evaluating a company's financial health in income statements and algorithmic trading, enhancing investment decision-making."
+title: Understanding Income Statement Ratios for Financial Analysis
+description: Income Statement Ratios reveal how well your business manages costs and
+  profitability across margins liquidity and solvency metrics Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Generative Adversarial Network (Gan) (Machine Learning)"
-description: "Discover how Generative Adversarial Networks (GANs) work to create realistic synthetic data using the dynamic competition between generator and discriminator."
+title: Generative Adversarial Networks for Realistic Data Generation
+description: Generative Adversarial Networks combine a generator and discriminator
+  in a dynamic game to produce realistic images sounds and more Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

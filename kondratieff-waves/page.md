@@ -1,6 +1,7 @@
 ---
-title: "Kondratieff Waves"
-description: "Explore the impact of Kondratieff Waves on global markets and algorithmic trading Understand long-term economic cycles driven by technological innovations"
+title: Understanding Kondratieff Waves and Their Economic Impact
+description: Kondratieff Waves reveal economic cycles driven by innovation policy
+  and market shifts enabling businesses to anticipate trends. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "How to manage market shocks with an algorithmic strategy?"
-description: "Learn how to manage market shocks with an algorithmic strategy by following these essential steps, including historical analysis, diversification, exposure limits, stop-loss orders, dynamic adaptation mechanisms, and real-time monitoring. Gain insights on resilience testing, economic awareness, flexibility, and post-shock assessments for successful quantitative trading during volatile times."
+title: Algorithmic Trading Strategies to Manage Market Shocks
+description: Algorithmic trading strategies help investors adapt to sudden market
+  shocks by automating risk management and data analysis. Discover more inside.
 ---
 
 

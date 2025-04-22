@@ -1,6 +1,8 @@
 ---
-title: "How can AI help with macro trading strategies?"
-description: "Discover how AI enhances macro trading strategies by predicting economic trends, managing risk, analyzing sentiment, automating trades, and providing real-time market intelligence. Learn more about the competitive advantage of using AI in this complex field. Explore resources for trading strategies, libraries, datasets, and becoming a quant trader."
+title: AI Macro Trading Strategies Enhanced by Big Data Insights
+description: AI macro trading leverages diverse data sources from economic reports
+  to satellite images to improve market predictions and manage risk Discover more
+  inside
 ---
 
 

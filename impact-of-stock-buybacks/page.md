@@ -1,6 +1,7 @@
 ---
-title: "Impact of Stock Buybacks"
-description: "Explore the impact of stock buybacks corporate finance strategies and algorithmic trading on modern investments Learn how these elements shape financial outcomes"
+title: Understanding Stock Buybacks and Their Impact on Company Value
+description: Stock buybacks reduce outstanding shares to boost per share earnings
+  and signal confidence while freeing cash from dividends Discover more inside
 ---
 
 

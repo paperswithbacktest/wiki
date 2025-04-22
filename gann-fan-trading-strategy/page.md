@@ -1,6 +1,7 @@
 ---
-title: "Gann Fan Trading Strategy Explained"
-description: Discover the Gann Fan trading strategy in algorithmic trading where technical analysis meets automation. Learn how this tool helps predict market movements by using angular lines to identify support and resistance levels. Enhance your trading efficiency and decision-making capabilities by integrating Gann Fan into your algorithmic strategies, reducing human error and optimizing performance.
+title: Comprehensive Guide to the Gann Fan Trading Strategy
+description: Gann Fan trading strategy uses Gann angles to identify support and resistance
+  and forecast price movements for smarter trades. Discover more inside.
 ---
 
 

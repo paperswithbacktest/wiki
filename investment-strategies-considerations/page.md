@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies and Considerations"
-description: "Explore the synergy between investment strategies and algo trading to enhance financial planning understand diverse asset classes and optimize portfolio management."
+title: Complete Guide To Investment Options For Beginner Investors
+description: Investment options for new investors cover stocks bonds mutual funds
+  ETFs with tips to diversify manage risk and grow your portfolio. Discover more inside.
 ---
 
 

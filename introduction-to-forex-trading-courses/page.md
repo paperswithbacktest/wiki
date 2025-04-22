@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Forex Trading Courses"
-description: "Discover the essentials of forex trading and algo trading in this guide Learn currency markets basic concepts and how algorithms can enhance your trading skills"
+title: Essential Forex Trading Concepts and Course Selection Guide
+description: Forex trading courses explain currency pairs leverage pips and risk management
+  to boost your skills and confidence in real markets Discover more inside.
 ---
 
 

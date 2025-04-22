@@ -1,6 +1,7 @@
 ---
-title: "Franking Credits and Calculation"
-description: "Explore how franking credits and dividend imputation optimize tax efficiency in investment strategies, enhancing returns through algorithmic trading insights."
+title: Complete Guide To Franking Credits And Investor Dividend Benefits
+description: Franking credits reduce tax on dividend income by offsetting company
+  tax and unlocking refunds with efficient planning Discover more inside
 ---
 
 

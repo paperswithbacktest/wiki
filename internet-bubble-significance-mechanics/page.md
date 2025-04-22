@@ -1,6 +1,7 @@
 ---
-title: "Internet Bubble: Significance and Mechanics"
-description: "Explore the significance and mechanics behind economic bubbles with a focus on the dot-com era and its impact on algo trading and financial markets."
+title: Exploring Lessons And Impacts Of The Internet Bubble
+description: Internet Bubble investors learned the risks of unchecked speculation
+  and the value of solid business models to sustain tech growth Discover more inside.
 ---
 
 

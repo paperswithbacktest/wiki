@@ -1,6 +1,7 @@
 ---
-title: "ISO Currency Codes of Major Countries"
-description: "Explore the essential role of ISO currency codes in global finance and algorithmic trading on this comprehensive page. These standardized three-letter codes, established by the International Organization for Standardization, ensure seamless currency identification, critical for automated systems and international transactions. Learn about their impact on precision in cross-border trade and the forex market's liquidity. Discover how these codes support efficient and error-free financial operations, making them indispensable in the evolving landscape of global commerce and automated trading platforms."
+title: Understanding ISO Currency Codes For Global Finance Efficiency
+description: ISO currency codes standardize global transactions by using three letter
+  codes for clarity and accuracy in international finance Discover more inside
 ---
 
 

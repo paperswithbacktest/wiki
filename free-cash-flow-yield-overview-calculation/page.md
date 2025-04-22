@@ -1,6 +1,7 @@
 ---
-title: "Free Cash Flow Yield: Overview and Calculation"
-description: "Discover the significance of free cash flow yield in investment insights. Learn how it guides evaluating company profitability and enhances algorithmic trading strategies."
+title: Understanding Free Cash Flow Yield For Informed Investors
+description: Free Cash Flow Yield reveals how much cash a company generates relative
+  to its market value to guide smarter investment decisions Discover more inside
 ---
 
 

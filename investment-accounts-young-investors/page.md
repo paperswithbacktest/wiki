@@ -1,6 +1,7 @@
 ---
-title: "Investment Accounts for Young Investors"
-description: "Empower your financial future with investment accounts and algorithmic trading for young investors Learn strategies to leverage technology for smart investing"
+title: Investment Accounts for Young Investors Building Wealth Early
+description: Investment account guidance empowers young investors to grow savings
+  through stocks bonds and IRAs using compound interest Discover more inside.
 ---
 
 

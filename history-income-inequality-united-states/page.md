@@ -1,6 +1,7 @@
 ---
-title: "History of Income Inequality in the United States"
-description: "Explore the historical roots of income inequality in the US shaped by socio-economic policies and technological advancements like algorithmic trading."
+title: Trends and Impact of Income Inequality in the United States
+description: We explain income inequality in the United States through measures trends
+  and policy effects revealing social and economic impacts Discover more inside
 ---
 
 

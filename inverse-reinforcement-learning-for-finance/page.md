@@ -1,6 +1,7 @@
 ---
-title: "Inverse reinforcement learning for finance"
-description: "Explore the transformative potential of Inverse Reinforcement Learning in finance and algorithmic trading uncovering hidden incentives to refine trading strategies effectively."
+title: Inverse Reinforcement Learning In Financial Decision Making
+description: Inverse reinforcement learning decodes investor goals and risk preferences
+  to effectively deliver personalized financial insights Discover more inside.
 ---
 
 

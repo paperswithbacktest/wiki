@@ -1,6 +1,7 @@
 ---
-title: "How Jim Simons Made 66% a Year Using Quant Strategies"
-description: Discover the transformation of algorithmic trading through the story of Jim Simons, a mathematician who founded Renaissance Technologies and achieved an average annual return of 66% with the Medallion Fund. This article investigates into the sophisticated quantitative strategies and data-driven approaches that powered Simons' success, offering insights into the principles and methods that revolutionized the hedge fund industry. Learn about the evolution of Renaissance's trading strategies and the pivotal role of advanced technology and statistical modeling in outperforming traditional methods.
+title: Jim Simons Quantitative Strategies at Renaissance Technologies
+description: Jim Simons pioneered quantitative investing using math and AI to find
+  market patterns that deliver high returns with controlled risk Discover more inside
 ---
 
 

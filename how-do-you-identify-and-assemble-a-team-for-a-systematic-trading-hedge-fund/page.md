@@ -1,6 +1,7 @@
 ---
-title: "How do you identify and assemble a team for a systematic trading hedge fund?"
-description: "Learn the step-by-step strategy for identifying and assembling a team for a successful systematic trading hedge fund, including role definition, talent search, interviews, diversity, training, corporate culture, and talent retention."
+title: Building a High-Performance Systematic Trading Hedge Fund Team
+description: Systematic trading hedge fund team design combines quant modeling data
+  analysis risk management and compliance to optimize performance Discover more inside
 ---
 
 

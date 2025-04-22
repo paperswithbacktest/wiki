@@ -1,6 +1,7 @@
 ---
-title: "Independence of Central Banks"
-description: "Explore the dynamic between central banks and algorithmic trading focusing on the independence vital for monetary policy and its influence on global economies."
+title: Central Bank Independence and Its Role in Economic Stability
+description: Central bank independence safeguards economies from political pressure
+  by empowering clear inflation control and unbiased rate setting Discover more inside
 ---
 
 

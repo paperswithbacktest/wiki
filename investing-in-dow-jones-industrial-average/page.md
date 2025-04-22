@@ -1,6 +1,7 @@
 ---
-title: "Investing in the Dow Jones Industrial Average"
-description: "Discover strategies for investing in the Dow Jones Industrial Average including algorithmic trading methods for optimizing trade executions and reducing risks."
+title: Understanding the Dow Jones Industrial Average for Investors
+description: Dow Jones Industrial Average provides insight into how 30 top US companies
+  shape market trends and guide investment decisions. Discover more inside.
 ---
 
 

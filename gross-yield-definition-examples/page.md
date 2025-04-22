@@ -1,6 +1,7 @@
 ---
-title: "Gross Yield: Definition and Examples"
-description: "Explore the fundamentals of gross yield and its role in algorithmic trading Discover investment yield types and key financial metrics for optimal investing strategies"
+title: Gross Yield Explained For Real Estate Bonds And Dividend Stocks
+description: Gross yield shows potential income return before costs for real estate
+  bonds and dividend stocks in a simple percentage guide Discover more inside
 ---
 
 

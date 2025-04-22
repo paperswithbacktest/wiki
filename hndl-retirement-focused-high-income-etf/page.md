@@ -1,6 +1,8 @@
 ---
-title: "HNDL: Retirement-Focused High-Income ETF"
-description: "Explore the high-income potential of the HNDL ETF designed for retirees seeking stable 7% annual returns through diversified investments and risk management."
+title: HNDL ETF Retirement-Focused High Income Solution For Retirees
+description: HNDL ETF delivers steady retirement income by blending high dividend
+  stocks and interest-bearing bonds while managing risk effectively Discover more
+  inside
 ---
 
 

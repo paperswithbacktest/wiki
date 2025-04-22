@@ -1,6 +1,7 @@
 ---
-title: "International Capital Asset Pricing Model"
-description: "Discover how the International Capital Asset Pricing Model enhances investment strategies by addressing global market dynamics and exchange rate risks in algo trading."
+title: Understanding the International Capital Asset Pricing Model
+description: International Capital Asset Pricing Model empowers investors to price
+  global assets by accounting for currency political economic risks Discover more.
 ---
 
 

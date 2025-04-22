@@ -1,6 +1,7 @@
 ---
-title: "Inflation Accounting Methods and Considerations"
-description: "Discover essential inflation accounting methods useful for financial reporting and algo trading Learn techniques to adjust financial data amidst fluctuating inflation"
+title: Understanding Inflation Accounting Principles Methods And Impact
+description: Inflation accounting adjusts financial reports to reflect real asset
+  and profit values helping managers make smarter decisions Discover more inside
 ---
 
 

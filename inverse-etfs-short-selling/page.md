@@ -1,6 +1,7 @@
 ---
-title: "Inverse ETFs and Short Selling"
-description: "Explore the dynamic world of inverse ETFs, short selling, and algorithmic trading to profit from declining markets and optimize your investment strategy."
+title: Understanding Inverse ETFs and Short Selling Strategies
+description: Inverse ETFs enable profit when markets decline and support portfolio
+  protection through daily adjustments and risk insights Discover more inside
 ---
 
 

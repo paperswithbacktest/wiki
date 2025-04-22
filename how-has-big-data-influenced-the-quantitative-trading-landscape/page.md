@@ -1,6 +1,7 @@
 ---
-title: "How has big data influenced the quantitative trading landscape?"
-description: "Discover how big data has revolutionized the quantitative trading landscape, bringing new opportunities and challenges. Access to diverse data sources, increased strategy complexity, improved forecasting, technology needs, data quality issues, overfitting risks, ethics concerns, and intensified competition are explored. Read more for further insights on trading strategies, libraries, datasets, and resources for systematic trading."
+title: Big Data Applications in Quantitative Trading Strategies
+description: Big data in quantitative trading delivers real-time insights from social
+  media and news to optimize strategies and improve performance Discover more inside
 ---
 
 

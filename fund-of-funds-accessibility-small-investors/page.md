@@ -1,6 +1,7 @@
 ---
-title: "Fund of Funds: Accessibility for Small Investors"
-description: "Explore how funds of funds and algorithmic trading open up high-level investment strategies to small investors seeking diversification and access to pro management."
+title: Fund of Funds Investment Strategies for Small Investors
+description: Fund of Funds helps small investors diversify across funds with professional
+  management and risk balance while simplifying portfolios Discover more inside
 ---
 
 

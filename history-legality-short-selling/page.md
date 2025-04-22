@@ -1,6 +1,7 @@
 ---
-title: "History and Legality of Short Selling"
-description: "Discover the history and legality of short selling and algorithmic trading Learn how these strategies evolved with technology and regulations shaping financial markets"
+title: Understanding Short Selling Mechanics Risks and Regulations
+description: Short selling strategies reveal how to profit from falling stocks by
+  managing risk complying with regulations and adopting safeguards Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Growth Fund: Types and Performance"
-description: "Explore the benefits of growth funds and algorithmic trading to boost investment performance. Understand various growth fund types and their integration with algo trading."
+title: Understanding Growth Funds Strategies Risks and Performance
+description: Growth fund investments target fast-growing companies for capital appreciation
+  and long-term growth with strategic risk controls Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Functions of the International Monetary Fund"
-description: "Explore the intricate relationship between the International Monetary Fund and algorithmic trading and their collective impact on global economies. Understand how the IMF influences economic outcomes and how algorithmic trading reshapes market dynamics. Discover the feedback loop created as these financial forces interact, shaping policies and strategies in the world economy."
+title: International Monetary Fund Promoting Global Economic Stability
+description: International Monetary Fund helps countries resolve economic challenges
+  with advice, loans and monitoring to prevent crises Discover more inside.
 ---
 
 

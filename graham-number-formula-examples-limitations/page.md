@@ -1,6 +1,7 @@
 ---
-title: "Graham Number: Formula, Examples, and Limitations"
-description: "Explore the Graham Number a key valuation metric for assessing stock value based on earnings and book value Discover its relevance in algorithmic trading."
+title: Understanding the Graham Number Valuation Metric for Investors
+description: Graham Number helps investors spot undervalued stocks by comparing price
+  to intrinsic value using EPS and book value per share Discover more inside
 ---
 
 

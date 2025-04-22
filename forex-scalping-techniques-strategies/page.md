@@ -1,6 +1,7 @@
 ---
-title: "Forex Scalping Techniques and Strategies"
-description: "Discover effective forex scalping techniques and strategies for algorithmic trading. This page covers the essentials of executing rapid trades for small, frequent profits in the high-risk, fast-paced forex market. Learn about the necessary tools, the importance of market understanding, and integrating technology like MT4, MT5, and TradingView. Gain insights into strategy development using popular currency pairs, indicators, and risk management, as well as the benefits of automated trading systems. Enhance your forex scalping skills to maximize profitability and manage risks efficiently."
+title: Forex Scalping Guide Tools Strategies and Risk Management
+description: Forex scalping requires quick decision making using short time frames
+  tools and risk management to capture small profits. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hash Functions and Cryptocurrency Mining"
-description: "Explore the vital role of hash functions in cryptocurrency mining and their impact on algorithmic trading Learn how these technologies drive the crypto ecosystem"
+title: Understanding Hash Functions in Cryptocurrency Mining
+description: Hash functions secure cryptocurrency mining by turning transactions into
+  unique codes that prevent tampering and maintain trust Discover more inside
 ---
 
 

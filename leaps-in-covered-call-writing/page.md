@@ -1,6 +1,7 @@
 ---
-title: "LEAPS in Covered Call Writing"
-description: "Learn how LEAPS options and covered calls combined with algorithmic trading can enhance portfolio performance with optimized risk and return strategies."
+title: Using LEAPS for Long Term Covered Call Writing Strategies
+description: LEAPS covered call writing lets you earn premiums and keep long term
+  positions with flexible buyback and reentry features Discover more inside.
 ---
 
 

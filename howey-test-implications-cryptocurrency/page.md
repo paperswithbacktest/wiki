@@ -1,6 +1,7 @@
 ---
-title: "Howey Test and Its Implications for Cryptocurrency"
-description: "Explore the Howey Test's role in cryptocurrency regulation its impact on algorithmic trading and how it defines investment contracts in the crypto space."
+title: Understanding the Howey Test for Cryptocurrency Securities
+description: The Howey Test assesses if a crypto project qualifies as a security by
+  examining investment, profit expectations and issuer efforts. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Baby Bonds on Intergenerational Wealth Inequality"
-description: "Explore the transformative potential of baby bonds in reducing wealth inequality, boosting intergenerational wealth, and impacting economic frameworks like algo trading."
+title: Baby Bonds Government Savings Program to Reduce Wealth Inequality
+description: Baby bonds offer government funded savings for newborns to boost college
+  access and homeownership reducing wealth inequality Discover more inside.
 ---
 
 

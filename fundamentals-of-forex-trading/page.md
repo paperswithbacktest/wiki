@@ -1,6 +1,7 @@
 ---
-title: "Fundamentals of Forex Trading"
-description: "Discover the essentials of forex and algorithmic trading Learn how the vast forex market functions and explore algorithm-driven strategies for trading success"
+title: Essential Guide To Forex Trading Fundamentals And Strategies
+description: Forex trading fundamentals from market mechanics and major currency pairs
+  to risk management strategies and technical analysis Discover more inside
 ---
 
 

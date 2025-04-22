@@ -1,6 +1,7 @@
 ---
-title: "Layering (finance)"
-description: "Explore the contentious algorithmic trading strategy of layering, which manipulates stock prices through deceptive trade orders and faces legal and ethical scrutiny worldwide."
+title: Understanding Layering in Finance Market Manipulation
+description: Layering in finance involves placing and canceling fake orders to manipulate
+  stock prices illegally while risking serious penalties Discover more inside.
 ---
 
 

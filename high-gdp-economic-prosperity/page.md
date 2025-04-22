@@ -1,6 +1,7 @@
 ---
-title: "High GDP and Economic Prosperity"
-description: "Explore the connection between GDP, economic indicators, and algorithmic trading to gain insights into optimizing trading strategies and informed financial decisions."
+title: Evaluating GDP and Its Role in Economic Prosperity and Well Being
+description: GDP measures output but overlooks inequality wellbeing and environmental
+  costs Explore complementary indicators and policy options Discover more inside
 ---
 
 

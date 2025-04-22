@@ -1,6 +1,7 @@
 ---
-title: "HTG Capital Partners"
-description: "Explore the transformative impact of algorithmic trading with HTG Capital Partners as they optimize trading operations and capital management through cutting-edge technology."
+title: HTG Capital Partners Growth Investment Strategies and Support
+description: HTG Capital Partners fuels business expansion through strategic investments
+  and expert support in healthcare and technology markets Discover more inside
 ---
 
 

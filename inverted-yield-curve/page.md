@@ -1,6 +1,7 @@
 ---
-title: "Inverted Yield Curve"
-description: "Discover how inverted yield curves indicate economic downturns and how algorithmic trading optimizes strategies, providing investors with key insights."
+title: Inverted Yield Curve Impact On Recessions And Investment Strategy
+description: Inverted yield curve analysis shows how bond rate shifts forecast economic
+  slowdowns and guide investment decisions. Discover more insights inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Interim Financial Statement"
-description: "Explore the essentials of financial reporting, interim statements, and algorithmic trading to make informed decisions in a dynamic financial landscape."
+title: Comprehensive Overview of Interim Financial Statements
+description: Interim financial statements offer a timely view of quarterly performance
+  and cash flow to guide investor and manager decisions. Discover more inside.
 ---
 
 

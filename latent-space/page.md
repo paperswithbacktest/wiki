@@ -1,6 +1,7 @@
 ---
-title: "Latent Space (Machine Learning)"
-description: "Explore latent spaces in machine learning to understand hidden layers and patterns for improved data analysis Learn about techniques like PCA autoencoders and VAEs"
+title: Understanding Latent Space in Machine Learning Models
+description: Latent Space transforms data into compact representations for efficient
+  pattern discovery and generation in autoencoders and GANs Discover more inside.
 ---
 
 ![Image](images/1.png)

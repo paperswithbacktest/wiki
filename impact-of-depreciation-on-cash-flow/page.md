@@ -1,6 +1,7 @@
 ---
-title: "Impact of Depreciation on Cash Flow"
-description: "Explore the intricate relationship between cash flow depreciation and algorithmic trading to understand modern financial strategies for improved business decisions."
+title: Depreciation Impact On Cash Flow And Financial Statements
+description: Depreciation shows how non cash expense adjustments affect cash flow
+  and tax liabilities with practical examples and insights Discover more inside
 ---
 
 

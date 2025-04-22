@@ -1,6 +1,7 @@
 ---
-title: "Impact of War on the U.S. Stock Market"
-description: "Explore the impact of financial market tensions, including currency and trade wars, on the U.S. stock market and algorithmic trading strategies."
+title: Impact of War on the U.S. Stock Market and Investor Sentiment
+description: U.S. stock market volatility rises during war but diversification and
+  risk mitigation strategies help protect portfolios Discover more inside
 ---
 
 

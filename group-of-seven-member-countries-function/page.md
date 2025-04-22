@@ -1,6 +1,7 @@
 ---
-title: "Group of Seven Member Countries and Function"
-description: "Explore how the G7 countries collaborate to tackle the challenges and opportunities of algorithmic trading ensuring global market stability and transparency."
+title: G7 Strategies for Global Economy, Security and Environment
+description: G7 unites seven nations to tackle global economy climate change security
+  and development aid with collaborative solutions. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investing in Toronto Stock Exchange Equities"
-description: "Explore how algorithmic trading is transforming investments in Toronto Stock Exchange equities by enhancing trade efficiency and offering strategic advantages."
+title: Professional Guide to Investing in Toronto TSX Equities
+description: TSX equities guide shows how to start investing, analyze stock performance,
+  manage taxes and risks and build a diversified portfolio. Discover more inside.
 ---
 
 

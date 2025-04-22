@@ -1,6 +1,7 @@
 ---
-title: "Investment Pyramid and Allocation Strategy"
-description: "Explore investment strategies using the investment pyramid for balanced asset allocation. Leverage algorithmic trading to optimize return and manage risk effectively."
+title: Investment Pyramid Strategy for Balanced Risk and Growth
+description: Investment Pyramid structures your portfolio from secure foundations
+  to strategic growth allocations that balance risk and reward Discover more inside.
 ---
 
 

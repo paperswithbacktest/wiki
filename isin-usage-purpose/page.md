@@ -1,6 +1,7 @@
 ---
-title: "ISIN: Usage and Purpose"
-description: "Discover how ISINs enhance financial trading by providing a unique, standardized identifier for securities, crucial for efficient and accurate global transactions."
+title: Understanding ISIN Codes in Global Securities Trading
+description: ISIN assigns each security a unique 12-character code to reduce errors
+  streamline trading and improve global settlement Discover more inside
 ---
 
 

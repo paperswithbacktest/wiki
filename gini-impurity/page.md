@@ -1,6 +1,7 @@
 ---
-title: "Gini Impurity (Machine Learning)"
-description: "Gini Impurity measures how well a decision tree split separates data classes aiming for lower values to enhance classification accuracy in machine learning."
+title: Understanding Gini Impurity in Decision Tree Classification
+description: Gini Impurity measures how well decision tree splits separate class labels
+  and guides model accuracy by reducing data impurity Discover more inside
 ---
 
 ![Image](images/1.png)

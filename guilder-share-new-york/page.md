@@ -1,6 +1,7 @@
 ---
-title: "Guilder Share in New York"
-description: "Explore the evolution of Guilder shares from their role in global trading before ADRs to their influence on cross-border financial integration today."
+title: History and Legacy of the Dutch Guilder in New York
+description: Guilder shaped New Netherland and New York's early economy by easing
+  trade and influencing culture through iconic relics. Discover more inside.
 ---
 
 

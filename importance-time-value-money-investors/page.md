@@ -1,6 +1,7 @@
 ---
-title: "Importance of Time Value of Money to Investors"
-description: "Understand the importance of the time value of money in algo trading for investors Leverage key financial principles to enhance investment strategies and returns"
+title: Time Value of Money Essentials for Informed Investment Decisions
+description: Time Value of Money insights show how inflation erodes real returns and
+  compounding increases gains to guide your investment choices Discover more inside.
 ---
 
 

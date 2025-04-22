@@ -1,6 +1,7 @@
 ---
-title: "HENRYs: High Earners Not Rich Yet"
-description: "Explore how HENRYs can leverage algorithmic trading to grow wealth efficiently. This article investigates into financial challenges, opportunities, and strategies."
+title: "Financial Strategies for HENRYs to Build Long\u2011Term Wealth"
+description: HENRY professionals manage high salaries and expenses with strategic
+  budgeting debt repayment and smart investing to grow wealth Discover more inside.
 ---
 
 

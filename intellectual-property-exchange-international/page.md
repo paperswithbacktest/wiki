@@ -1,6 +1,7 @@
 ---
-title: "Intellectual Property Exchange International"
-description: "Explore the intersection of intellectual property and algorithmic trading in global markets Discover how IP exchanges revolutionize IP transactions and commercialization"
+title: Intellectual Property Exchange International Streamlines IP Deals
+description: IPEI simplifies IP transactions by offering a global secure marketplace
+  and legal compliance for buying and selling IP rights Discover more inside
 ---
 
 

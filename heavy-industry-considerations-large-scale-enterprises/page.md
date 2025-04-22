@@ -1,6 +1,7 @@
 ---
-title: "Heavy Industry Considerations for Large-Scale Enterprises"
-description: "Explore how integrating algorithmic trading with heavy industry can enhance operational efficiency and competitiveness for large-scale enterprises."
+title: Comprehensive Guide to Heavy Industry in Large-Scale Enterprises
+description: Heavy industry equips large-scale enterprises with materials and equipment
+  and strategies for cost control safety and sustainability Discover more inside
 ---
 
 

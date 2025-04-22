@@ -1,6 +1,7 @@
 ---
-title: "Information ratio"
-description: Discover how the Information Ratio plays a crucial role in algorithmic trading by assessing the risk-adjusted performance of trading strategies. Learn about its significance in evaluating excess returns relative to a benchmark and its effectiveness in refining trading models to maintain a competitive edge in dynamic markets. Explore the distinct benefits of the Information Ratio compared to other performance metrics, and understand its application in achieving superior returns with strategic risk management in the fast-paced world of algorithmic trading.
+title: Understanding the Information Ratio in Investment Analysis
+description: Information Ratio measures portfolio returns against a benchmark and
+  consistency of active returns enabling confident manager choice Discover more inside.
 ---
 
 

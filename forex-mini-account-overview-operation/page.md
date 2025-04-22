@@ -1,6 +1,7 @@
 ---
-title: "Forex Mini Account: Overview and Operation"
-description: "Explore forex mini accounts to safely enter currency trading with less capital. Learn about algo trading's role in enhancing speed and precision in forex."
+title: Comprehensive Forex Mini Account Guide For Beginner Traders
+description: Forex mini account lets beginners trade with just $100 to learn market
+  dynamics using smaller lot sizes and manage risk effectively Discover more inside
 ---
 
 

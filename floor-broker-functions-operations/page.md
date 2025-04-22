@@ -1,6 +1,7 @@
 ---
-title: "Floor Broker: Functions and Operations"
-description: "Explore the evolution from traditional floor brokers to advanced algorithmic trading, highlighting their roles and integration in today's stock exchanges."
+title: Floor Broker Roles and Responsibilities in Stock Market Trading
+description: Floor brokers secure fair stock prices and boost market efficiency by
+  leveraging real time insights on the trading floor Discover more inside
 ---
 
 

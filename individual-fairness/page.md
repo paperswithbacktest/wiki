@@ -1,6 +1,7 @@
 ---
-title: "Individual Fairness (Machine Learning)"
-description: "Individual fairness in machine learning ensures similar individuals are treated similarly by models reducing bias and promoting equitable outcomes for everyone."
+title: Ensuring Individual Fairness in Machine Learning Models
+description: Individual fairness ensures machine learning models treat similar individuals
+  alike using Lipschitz based constraints for fair outcomes Discover more inside
 ---
 
 ![Image](images/1.webp)

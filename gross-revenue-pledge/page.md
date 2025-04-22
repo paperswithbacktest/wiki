@@ -1,6 +1,7 @@
 ---
-title: "Gross Revenue Pledge"
-description: "Explore the interplay between financial agreements, revenue commitments, gross revenue pledges, and algorithmic trading, highlighting their impact on market stability."
+title: Understanding Gross Revenue Pledge for Public Project Financing
+description: Gross Revenue Pledge directs all income to debt repayment before other
+  expenses giving public entities more secure financing Discover more inside
 ---
 
 

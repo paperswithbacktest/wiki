@@ -1,6 +1,7 @@
 ---
-title: "Impact of Interest Rates on Mutual Funds"
-description: "Explore how interest rates affect mutual funds and algorithmic trading Learn strategies to optimize your investment portfolio in today's financial landscape"
+title: Interest Rates Impact On Mutual Fund Performance Explained
+description: Interest Rates guide investors in adjusting mutual fund portfolios to
+  manage risk, maximize returns, and seize market opportunities. Discover more inside.
 ---
 
 

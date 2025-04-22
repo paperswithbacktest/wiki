@@ -1,6 +1,7 @@
 ---
-title: "Kelly Criterion in Trading"
-description: "Explore the Kelly Criterion's role in algorithmic trading to optimize capital allocation and manage risk effectively for long-term portfolio growth."
+title: Kelly Criterion For Trading Risk Management And Growth
+description: Kelly Criterion helps traders optimize bet sizes by balancing potential
+  gains and losses to grow capital while controlling risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Gresham's Law and Its Effects"
-description: "Explore how Gresham's Law impacts algorithmic trading in modern currency markets Understand the interplay of legal tender laws and economic behaviors."
+title: Understanding Gresham's Law and Its Impact on Currency
+description: Gresham's Law explains how undervalued currency crowds out high value
+  money in historical and modern economies with policy insights Discover more inside
 ---
 
 

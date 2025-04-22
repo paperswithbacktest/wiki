@@ -1,6 +1,7 @@
 ---
-title: "Goodwill Impairment: Timing and Causes"
-description: "Explore the timing and causes of goodwill impairment in corporate finance and its impact on algorithmic trading strategies and financial transparency."
+title: Understanding Goodwill Impairment Testing and Accounting
+description: Goodwill impairment ensures financial statements reflect true asset values
+  by detecting declines through annual and interim testing Discover more inside.
 ---
 
 

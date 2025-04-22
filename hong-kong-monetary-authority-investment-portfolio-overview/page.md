@@ -1,6 +1,7 @@
 ---
-title: "Hong Kong Monetary Authority Investment Portfolio Overview"
-description: "Explore the role of algorithmic trading in the Hong Kong Monetary Authority's investment portfolio management aimed at optimizing returns and ensuring financial stability."
+title: Comprehensive Guide to the HKMA Investment Portfolio Strategy
+description: HKMA Investment Portfolio shows how the Hong Kong Monetary Authority
+  diversifies assets and manages risk to back the Hong Kong dollar Discover more inside
 ---
 
 

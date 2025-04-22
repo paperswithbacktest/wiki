@@ -1,6 +1,7 @@
 ---
-title: "Guide to Buying Stocks"
-description: "Discover essential tips and strategies for buying stocks with confidence as a beginner, from understanding market basics to exploring algorithmic trading methods."
+title: Stock Investing Essentials for New and Intermediate Investors
+description: Stock investing helps you build a diversified portfolio with a brokerage
+  account while selecting stocks and managing risk Discover more inside
 ---
 
 

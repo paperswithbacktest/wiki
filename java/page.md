@@ -1,6 +1,7 @@
 ---
-title: "Java"
-description: Explore the dynamic world of algorithmic trading with Java, a top choice for developing trading systems due to its robustness, security, and extensive library support. Discover how the Alpaca API complements Java's capabilities to enhance trading strategies with commission-free options. Learn about algorithmic trading's data collection, model development, and order execution processes, and understand Java's pivotal role in creating scalable, high-performance trading algorithms in today's financial markets.
+title: Essential Java Programming Concepts for Modern Developers
+description: Java Programming offers clear guidance on installation basic data types
+  OOP exceptions collections multithreading and web development Discover more inside
 ---
 
 

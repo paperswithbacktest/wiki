@@ -1,6 +1,7 @@
 ---
-title: "Goodwill to Assets Ratio: Overview and Analysis"
-description: "Discover the intersection of accounting ratios and algorithmic trading by understanding the goodwill to assets ratio's role in financial strategy and valuation."
+title: Understanding the Goodwill to Assets Ratio for Investors
+description: Goodwill to Assets Ratio shows what share of company value is in intangible
+  assets and acquisition premiums. Evaluate risks and discover more inside.
 ---
 
 

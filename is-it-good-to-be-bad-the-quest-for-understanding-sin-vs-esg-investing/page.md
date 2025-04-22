@@ -1,6 +1,7 @@
 ---
-title: "Is It Good to Be Bad? – The Quest for Understanding Sin vs. ESG Investing"
-description: Explore the intriguing world of investment strategies as this article investigates into the contrast between ESG (Environmental, Social, and Governance) and sin investing. Understand the ethical considerations and financial implications of each approach and discover how algorithmic trading plays a role in shaping these strategies. Gain insights into whether morally labeled investments impact returns and how evolving trends influence global finance decisions, all while balancing ethics and profitability.
+title: Aligning ESG Investing With Principles Of Sin Avoidance
+description: ESG investing bridges sin avoidance and sustainable finance by showing
+  how ethical principles can guide modern investments Discover more inside
 ---
 
 

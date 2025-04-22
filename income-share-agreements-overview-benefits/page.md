@@ -1,6 +1,7 @@
 ---
-title: "Income Share Agreements: Overview and Benefits"
-description: "Explore Income Share Agreements and their benefits in education financing Learn how ISAs offer a flexible alternative to traditional loans and investment opportunities"
+title: Income Share Agreements Explained for Flexible Student Financing
+description: Income Share Agreements let students secure funding and repay through
+  a share of future earnings with income thresholds and caps. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Graduated Lease: Definition and Function"
-description: "Explore the intricacies of graduated leases in real estate and their surprising link to algorithmic trading for strategic and informed investment decisions."
+title: Understanding Graduated Leases For Tenants And Landlords
+description: Graduated lease agreements let tenants start with lower rent then increase
+  predictably over time for better financial planning Discover more inside
 ---
 
 

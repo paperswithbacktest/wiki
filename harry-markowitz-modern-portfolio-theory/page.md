@@ -1,6 +1,7 @@
 ---
-title: "Harry Markowitz and Modern Portfolio Theory"
-description: "Explore the innovative impact of Harry Markowitz's Modern Portfolio Theory (MPT) on investment strategies. MPT revolutionizes portfolio diversification by analyzing the entire portfolio's risk-return profile through mean-variance optimization. Discover how MPT has influenced investment tactics globally and its integration with algorithmic trading and robo-advisors for efficient, diversified strategies."
+title: Modern Portfolio Theory Principles for Diversified Investments
+description: Modern Portfolio Theory helps investors optimize returns and manage risk
+  through strategic diversification and efficient frontier use Discover more inside
 ---
 
 

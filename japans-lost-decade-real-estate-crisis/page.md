@@ -1,6 +1,7 @@
 ---
-title: "Japan's Lost Decade: Insights from the Real Estate Crisis"
-description: "Explore Japan's Lost Decade and its economic impacts revealing insights into algorithmic trading's rise amidst challenges from one of history's severe downturns"
+title: Understanding Japan's Lost Decade Real Estate Crisis and Recovery
+description: Japan's Lost Decade reveals how a real estate bubble burst stalled growth
+  and prompted reforms in monetary policy and banking Discover more inside
 ---
 
 

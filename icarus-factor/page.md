@@ -1,6 +1,7 @@
 ---
-title: "Icarus Factor"
-description: "Explore the intersection of algorithmic trading and psychology with the Icarus Factor. Discover how ambition and biases impact trading strategies and decision-making."
+title: Understanding the Icarus Factor in Psychology and Business
+description: Icarus Factor highlights risks of unchecked ambition and shows how to
+  set realistic goals for personal and professional growth Discover more inside.
 ---
 
 

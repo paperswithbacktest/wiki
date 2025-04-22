@@ -1,6 +1,7 @@
 ---
-title: "Fragmentation of Trading Venues"
-description: "Explore the complexities of market fragmentation and algorithmic trading Gain insights on navigating multiple trading platforms with efficiency and precision"
+title: Understanding Trading Venue Fragmentation in Modern Markets
+description: Trading venue fragmentation spreads trades across platforms reducing
+  liquidity with tech and policy solutions for market efficiency Discover more inside
 ---
 
 

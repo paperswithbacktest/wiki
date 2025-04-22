@@ -1,6 +1,7 @@
 ---
-title: "Leveraged Loan Index: Meaning and Functionality"
-description: "Explore the significance of the Leveraged Loan Index in finance and algorithmic trading, offering insights into market trends and performance of institutional loans."
+title: Understanding the S&P LSTA Leveraged Loan Market Index
+description: Leveraged loan index tracks performance of high risk corporate loans
+  and guides investors on market trends and risk management Discover more inside.
 ---
 
 

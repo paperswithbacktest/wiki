@@ -1,6 +1,7 @@
 ---
-title: "Insider Trading Act of 1988"
-description: "Explore the pivotal Insider Trading Act of 1988 its impact on market integrity and the complexities of regulating insider trading in the era of algorithmic trading."
+title: Comprehensive Overview of the Insider Trading Act of 1988
+description: Insider Trading Act of 1988 ensures equal access to company information
+  and sets strict penalties to deter unfair stock trades Discover more inside
 ---
 
 

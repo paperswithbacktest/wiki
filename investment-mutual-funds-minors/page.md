@@ -1,6 +1,7 @@
 ---
-title: "Investment In Mutual Funds By Minors"
-description: "Investing for minors combines education and financial growth through mutual funds and algorithmic trading. Explore options to build future wealth today."
+title: Investing In Mutual Funds For Minors Through Custodial Accounts
+description: Mutual Funds for Minors let young investors build diversified portfolios
+  under expert guidance while gaining financial basics Discover more inside
 ---
 
 

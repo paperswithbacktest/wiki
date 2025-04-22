@@ -1,6 +1,7 @@
 ---
-title: "Indicators for Tracking Stock Market and Economic Performance"
-description: "Explore economic and stock market indicators with insights into algo trading to understand market dynamics. Learn how GDP, unemployment, and inflation data influence trading strategies."
+title: Key Stock Market Indicators For Tracking Economic Performance
+description: Stock market indicators such as GDP CPI unemployment and yield curves
+  help investors gauge economic health and market trends Discover more inside.
 ---
 
 

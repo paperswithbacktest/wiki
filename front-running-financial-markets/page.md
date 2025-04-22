@@ -1,6 +1,7 @@
 ---
-title: "Front Running in Financial Markets"
-description: "Explore the complex world of front running in financial markets, its implications, and how algorithmic trading impacts this controversial practice."
+title: Understanding Front Running in Financial Markets and Its Impact
+description: Front running erodes market fairness by letting insiders trade before
+  big orders settle Detection tools help easily stop it Discover more inside
 ---
 
 

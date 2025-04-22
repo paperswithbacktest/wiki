@@ -1,6 +1,7 @@
 ---
-title: "Let Your Profits Run: Concept and Application"
-description: "Explore the concept of letting profits run in algorithmic trading to maximize returns by understanding historical strategies and modern techniques for optimal investing."
+title: Mastering the Let Your Profits Run Trading Strategy
+description: Let Your Profits Run trading strategy shows how to hold winning trades
+  with stop-loss protection and exit rules to maximize gains Discover more inside.
 ---
 
 

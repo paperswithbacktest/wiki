@@ -1,6 +1,7 @@
 ---
-title: "Hart-Scott-Rodino Antitrust Improvements Act of 1976"
-description: "Explore the Hart-Scott-Rodino Act's impact on algorithmic trading detailing its role in premerger notifications and maintaining market competitiveness."
+title: Hart-Scott-Rodino Act Explained for US Merger Review
+description: Hart-Scott-Rodino Act reporting requires pre-merger filings with FTC
+  and DOJ to ensure fair competition and prevent market dominance Discover more inside
 ---
 
 

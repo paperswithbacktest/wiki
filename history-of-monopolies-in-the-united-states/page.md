@@ -1,6 +1,7 @@
 ---
-title: "History of Monopolies in the United States"
-description: "Explore the evolution of monopolies and antitrust laws in the US from the industrial era to modern algorithmic trading challenges in this insightful article."
+title: Evolution of U.S. Monopoly Laws From Standard Oil to Tech
+description: Monopoly history in the United States shows how market power shaped regulation
+  from Standard Oil to modern tech giants Discover more inside.
 ---
 
 

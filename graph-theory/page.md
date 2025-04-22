@@ -1,6 +1,7 @@
 ---
-title: "Graph theory"
-description: Explore the intersection of graph theory and algorithmic trading with insights into how mathematical modeling of financial networks enhances trading strategies. Understand the benefits of graph theory in identifying patterns and relationships within market datasets, thus leading to more informed trading decisions. Discover how this mathematical approach contributes to more adaptive and efficient algorithms in the fast-paced financial markets.
+title: Comprehensive Guide to Graph Theory and Its Applications
+description: Graph Theory delivers an authoritative overview of core concepts algorithms
+  and real world applications from network design to trading Discover more inside
 ---
 
 

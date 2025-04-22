@@ -1,6 +1,7 @@
 ---
-title: "International Swaps and Derivatives Association"
-description: "Explore the transformative impact of algorithmic trading on derivatives markets and how ISDA's frameworks enhance market stability and operational efficiency."
+title: International Swaps and Derivatives Association Roles and Impact
+description: ISDA standardizes swaps and derivatives trading with Master Agreements
+  and protocols that reduce risk and enhance market stability Discover more inside.
 ---
 
 

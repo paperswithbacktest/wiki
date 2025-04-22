@@ -1,6 +1,7 @@
 ---
-title: "John Overdeck"
-description: John Overdeck is a leading American billionaire and philanthropist known for his significant impact on algorithmic trading. As the co-founder of Two Sigma Investments, Overdeck has revolutionized hedge fund strategies by integrating advanced technologies like AI and machine learning, enabling data-driven investment decisions. Under his leadership, Two Sigma excels in quantitative investing, leveraging large datasets for precise analysis and innovative trading models. Beyond finance, Overdeck is dedicated to philanthropy, notably in education through the Overdeck Family Foundation, supporting STEM initiatives nationwide.
+title: John Overdeck's Path From Stanford to Two Sigma Co-Founder
+description: John Overdeck harnesses data science expertise to cofound Two Sigma revolutionizing
+  quantitative investing and philanthropy Discover more inside
 ---
 
 

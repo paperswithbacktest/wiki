@@ -1,6 +1,7 @@
 ---
-title: "Historical Volatility and Future Risk Assessment"
-description: "Explore historical volatility and risk assessment in algorithmic trading Gain insights into predicting future market behaviors and optimizing trading strategies"
+title: Understanding Historical Volatility for Effective Risk Assessment
+description: Historical volatility shows how past price swings inform future risk
+  and supports smarter investment decisions with advanced models Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Identifying Financial Distress Through Financial Ratios"
-description: "Explore how financial ratios help identify financial distress in companies. Learn to leverage these tools with algorithmic trading to enhance investment strategies."
+title: Financial Ratio Analysis to Detect Financial Distress
+description: Financial ratio analysis offers clear insights into financial health
+  to detect early distress signals and guide informed decisions Discover more inside
 ---
 
 

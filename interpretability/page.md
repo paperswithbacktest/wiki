@@ -1,6 +1,7 @@
 ---
-title: "Interpretability (Machine Learning)"
-description: "Understand the importance of interpretability in machine learning and discover techniques to make models more transparent, aiding trust and decision explainability."
+title: Key Techniques For Machine Learning Model Interpretability
+description: Machine learning interpretability reveals model decisions and uncovers
+  bias with SHAP LIME and feature importance for transparent AI Discover more inside.
 ---
 
 ![Image](images/1.png)

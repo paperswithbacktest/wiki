@@ -1,6 +1,7 @@
 ---
-title: "Importance of Book Value to Investors"
-description: "Discover the importance of book value to investors in algorithmic trading. Learn how this metric provides insights into a company's financial health and value."
+title: Book Value Fundamentals Calculating Net Worth For Investors
+description: Book value helps investors assess net assets and quickly spot undervalued
+  stocks using price to book ratios and expert analysis Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "J.P. Morgan Self-Directed Investing Analysis"
-description: "Explore the transformative power of algorithmic trading in self-directed investing with J.P. Morgan. Learn how individual investors can leverage sophisticated algorithms for automated trading, reducing emotional biases, and enhancing strategy efficiency. Discover the benefits of J.P. Morgan's platform including commission-free trading, real-time data, and competitive advantages that empower tech-savvy investors to achieve personalized and informed investment strategies. Gain insights into utilizing algorithmic methods for optimal portfolio performance while navigating the platform's user-friendly tools and resources designed for independent investors seeking autonomy and control over their financial decisions."
+title: J.P. Morgan Self-Directed Investing Overview and Benefits
+description: J.P. Morgan Self-Directed Investing offers commission free ETF and options
+  trading with low fees and tools that guide your investing Discover more inside
 ---
 
 

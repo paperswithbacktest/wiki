@@ -1,6 +1,7 @@
 ---
-title: "Limited Risk: Explanation and Operational Mechanism"
-description: "Learn about limited risk strategies in algorithmic trading and discover key techniques to manage risk, protect investments and optimize trading strategies."
+title: A Professional Guide to Limited Risk Investing With Options
+description: Limited Risk Investing caps your potential losses on options and structured
+  products so you can explore market strategies confidently Discover more inside
 ---
 
 

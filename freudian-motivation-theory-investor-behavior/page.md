@@ -1,6 +1,7 @@
 ---
-title: "Freudian Motivation Theory and Its Influence on Investor Behavior"
-description: "Explore how Freudian Motivation Theory influences investor behavior in algo trading by examining unconscious drives and their impact on decision-making strategies."
+title: Understanding Freudian Motivation Theory In Investor Behavior
+description: Freudian Motivation Theory reveals how unconscious desires shape investor
+  behavior and influence decisions under risk and loss Discover more inside
 ---
 
 

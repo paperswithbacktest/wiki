@@ -1,6 +1,7 @@
 ---
-title: "Full Softmax (Machine Learning)"
-description: "Explore Full Softmax in machine learning for turning scores into probabilities used in classification challenges. Learn how it enhances prediction accuracy."
+title: Full Softmax Explained for Machine Learning Classification
+description: Full Softmax converts raw scores into a unified probability distribution
+  for precise multi class classification and efficient training Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Gemini Models (Machine Learning)"
-description: "Discover the versatility of Google's Gemini Models in machine learning which handle tasks like text understanding image processing and content generation efficiently."
+title: Understanding Google Gemini Models in Machine Learning
+description: Google Gemini Models offer versatile AI handling text understanding image
+  recognition and content generation with contextual accuracy Discover more inside
 ---
 
 ![Image](images/1.jpeg)

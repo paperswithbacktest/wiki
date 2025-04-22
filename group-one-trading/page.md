@@ -1,6 +1,7 @@
 ---
-title: "Group One Trading"
-description: "Explore Group One Trading's journey in algorithmic trading and discover its innovative strategies that have reshaped modern financial markets."
+title: Group One Trading Innovative Options And Stock Market Solutions
+description: Group One Trading uses advanced technology and client education to simplify
+  options and stock trading with fair efficient execution Discover more inside
 ---
 
 

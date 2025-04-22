@@ -1,6 +1,7 @@
 ---
-title: "Hyper-parameter tuning"
-description: Discover the impact of hyper-parameter tuning in algorithmic trading and how it can optimize model performance and profitability. Learn about essential tuning techniques like Grid Search, Random Search, and Bayesian Optimization, and understand the significance of selecting the right hyper-parameters to maximize trading returns while minimizing risks. Explore the challenges and methodologies involved in refining these pivotal components to ensure robust and competitive trading algorithms.
+title: Mastering Hyperparameter Tuning for Machine Learning Models
+description: Hyperparameter tuning improves model speed and accuracy using methods
+  like grid search random search and Bayesian optimization Discover more inside.
 ---
 
 

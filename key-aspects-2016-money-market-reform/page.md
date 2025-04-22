@@ -1,6 +1,7 @@
 ---
-title: "Key Aspects of the 2016 Money Market Reform"
-description: "Explore the key changes in the 2016 money market reforms and their impact on investors, highlighting the role of algorithmic trading in navigating these regulatory shifts."
+title: Understanding Key Changes in the 2016 Money Market Funds Reform
+description: 2016 Money Market Reform ensures safer funds by requiring floating NAV
+  and liquidity fees to curb withdrawals and safeguard assets Discover more inside.
 ---
 
 

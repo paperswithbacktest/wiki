@@ -1,6 +1,7 @@
 ---
-title: "Hyperledger Explorer Overview and Functionality"
-description: "Discover how Hyperledger Explorer empowers algorithmic trading with blockchain technology managing data transparently to enhance decision-making in finance."
+title: Hyperledger Explorer for Enterprise Blockchain Network Monitoring
+description: Hyperledger Explorer streamlines blockchain network monitoring with real-time
+  dashboards customizable insights and secure data access discover more inside
 ---
 
 

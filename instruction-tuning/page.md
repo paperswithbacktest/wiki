@@ -1,6 +1,7 @@
 ---
-title: "Instruction Tuning (Machine Learning)"
-description: "Instruction tuning enhances machine learning models by teaching them to follow specific instructions, improving their accuracy and utility in real-world tasks."
+title: Instruction Tuning for Accurate Task Execution in ML Models
+description: Instruction Tuning enhances model accuracy by teaching machine learning
+  to follow specific instructions for reliable task performance Discover more inside.
 ---
 
 ![Image](images/1.png)

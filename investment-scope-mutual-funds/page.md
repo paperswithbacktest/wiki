@@ -1,6 +1,7 @@
 ---
-title: "Investment Scope of Mutual Funds"
-description: "Explore how mutual funds and algorithmic trading are reshaping investment strategies for better returns and risk management in today's dynamic financial landscape."
+title: 'Understanding Mutual Funds: Types, Risks, and Strategies'
+description: Mutual funds let you diversify across stocks bonds and assets with professional
+  guidance balancing risk and fees for long term growth Discover more inside
 ---
 
 

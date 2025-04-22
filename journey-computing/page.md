@@ -1,6 +1,7 @@
 ---
-title: "The Journey of Computing in Trading"
-description: Discover the evolution of algorithmic trading from its beginnings in the 1970s to its role in today's financial markets, highlighting how AI and machine learning have transformed trading strategies to achieve speed, accuracy, and efficiency.
+title: Evolution of Computerized Trading From Algorithms to AI
+description: Computerized trading has transformed markets with algorithmic and high
+  frequency strategies powered by AI and big data Discover more inside.
 ---
 
 

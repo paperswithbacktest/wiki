@@ -1,6 +1,7 @@
 ---
-title: "Impact of Short Selling on Markets and Investors"
-description: "Explore the impact of short selling and algorithmic trading on markets Learn how these strategies influence price discovery liquidity and investor decisions"
+title: Understanding Short Selling Benefits Risks And Market Impact
+description: Short selling lets investors profit from falling stocks and hedge portfolio
+  risk while enhancing price discovery and liquidity. Discover more inside.
 ---
 
 

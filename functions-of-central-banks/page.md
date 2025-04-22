@@ -1,6 +1,7 @@
 ---
-title: "Functions of Central Banks"
-description: "Explore how central banks, financial regulation, and algorithmic trading shape global markets. Understand their interplay influencing stability and growth."
+title: Understanding Central Bank Roles and Functions in Monetary Policy
+description: Central bank oversight ensures a stable money supply and controls inflation
+  with interest rate adjustments and bond operations. Discover more inside.
 ---
 
 

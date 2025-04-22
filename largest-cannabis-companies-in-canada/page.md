@@ -1,6 +1,7 @@
 ---
-title: "Largest Cannabis Companies in Canada"
-description: "Explore the growth of Canada's cannabis industry with a deep dive into leading companies like Tilray Brands, Sundial Growers, and Canopy Growth. Discover how these pioneers are expanding globally through strategic innovations and partnerships. Learn how the adoption of algorithmic trading is shaping the sector, enhancing market efficiency, and offering new investment opportunities. Explore the impact of this technology on trade executions and market volatility, set against the dynamic backdrop of Canada's evolving cannabis landscape."
+title: Largest Cannabis Companies in Canada Industry Insights
+description: Largest cannabis companies in Canada drive industry growth with strategic
+  expansions product innovation and regulatory compliance Discover more inside
 ---
 
 

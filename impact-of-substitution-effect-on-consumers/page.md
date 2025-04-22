@@ -1,6 +1,7 @@
 ---
-title: "Impact of the Substitution Effect on Consumers"
-description: "Explore the impact of the substitution effect on consumer behavior and its implications for algorithmic trading Understand how economic theories enhance market strategies."
+title: Understanding the Substitution Effect in Consumer Behavior
+description: Substitution effect shows how consumers react to price changes by choosing
+  cheaper alternatives and stretching their budgets Discover more inside.
 ---
 
 

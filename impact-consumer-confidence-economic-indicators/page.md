@@ -1,6 +1,7 @@
 ---
-title: "Impact of Consumer Confidence on Economic Indicators"
-description: "Explore how consumer confidence impacts economic indicators and algorithmic trading enhancing prediction of market trends and optimizing trading strategies."
+title: Consumer Confidence and Its Impact on Economic Indicators
+description: Consumer confidence drives spending choices and economic growth by shaping
+  retail sales job markets and investment decisions Discover more inside
 ---
 
 

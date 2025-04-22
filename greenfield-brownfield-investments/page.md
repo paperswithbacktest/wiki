@@ -1,6 +1,7 @@
 ---
-title: "Greenfield and Brownfield Investments"
-description: "Explore the intricacies of greenfield and brownfield investments in algo trading Discover how FDIs drive global business expansion and capitalize on market opportunities"
+title: Greenfield Versus Brownfield Investments Explained
+description: Greenfield investments provide full control and design with brownfield
+  options that cut time and cost Compare differences and decide Discover inside
 ---
 
 

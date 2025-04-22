@@ -1,6 +1,7 @@
 ---
-title: "Industries with the Largest Capital Expenditures"
-description: "Discover industries leading in capital expenditures leveraging algorithmic trading to optimize investments enhance returns and maintain competitive advantages"
+title: Capital Expenditures Explained for Industry Growth
+description: Capital expenditures help companies invest in assets from factories to
+  technology optimizing operations and supporting growth. Discover more inside.
 ---
 
 

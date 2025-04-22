@@ -1,6 +1,7 @@
 ---
-title: "Liberian Dollar"
-description: "Explore the critical role of the Liberian Dollar in Liberia's economy its history application in financial markets and impact on economic policies and trading."
+title: 'Understanding the Liberian Dollar: History and Economic Impact'
+description: Liberian Dollar origins and impact reveal how currency fluctuations affect
+  businesses daily life and Central Bank policy in Liberia Discover more inside
 ---
 
 

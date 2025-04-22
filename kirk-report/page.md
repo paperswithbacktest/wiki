@@ -1,6 +1,7 @@
 ---
-title: "Kirk Report"
-description: Explore the innovative world of algorithmic trading with The Kirk Report by Charles E. Kirk, a cornerstone for traders aiming to leverage computational power for strategic financial decisions. Gain access to insightful market analyses, actionable ideas, and risk management techniques designed to optimize your trading algorithms, empowering you to navigate complex markets with precision and confidence.
+title: Weekly Investment Strategies and Stock Picks in the Kirk Report
+description: Kirk Report delivers weekly market analysis investment strategies and
+  stock picks in clear language to help you make smarter choices Discover more inside
 ---
 
 

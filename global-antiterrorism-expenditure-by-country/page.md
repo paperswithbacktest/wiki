@@ -1,6 +1,7 @@
 ---
-title: "Global Antiterrorism Expenditure by Country"
-description: "Explore global antiterrorism spending trends and their impact on national defense budgets Examine fiscal priorities national security strategies and economic stability"
+title: Global Antiterrorism Expenditure Trends and Country Analysis
+description: Antiterrorism expenditure data reveals spending categories, top nation
+  budgets and trends shaping global counterterrorism strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Franked Dividends: Types and Examples"
-description: "Discover how franked dividends can optimize your investment strategy by providing tax credits and reducing double taxation impacting your overall returns."
+title: Understanding Franked Dividends and Tax Credit Benefits
+description: Franked dividends provide a tax credit that offsets corporate tax paid
+  on earnings to boost after-tax returns for investors Discover more inside
 ---
 
 

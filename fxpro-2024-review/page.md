@@ -1,6 +1,8 @@
 ---
-title: "FxPro 2024 Review"
-description: "Explore the 2024 review of FxPro's algo trading services featuring comprehensive platform options regulatory compliance and advanced tools for traders."
+title: FxPro 2024 Trading Guide Account Types Platforms and Resources
+description: FxPro provides a comprehensive 2024 trading guide with account types
+  trading platforms fees security support and educational resources Discover more
+  inside
 ---
 
 

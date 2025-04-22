@@ -1,6 +1,7 @@
 ---
-title: "Impact of Company Delisting on Shareholder Ownership"
-description: "Explore the impact of company delisting on shareholder rights and stock ownership in the fast-paced world of algo trading and understand the potential challenges faced."
+title: Understanding Company Delisting Effects On Shareholder Value
+description: Company delisting can reshape share ownership and liquidity Understand
+  the causes impacts and legal rights to safeguard investments Discover more inside.
 ---
 
 

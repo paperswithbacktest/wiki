@@ -1,6 +1,7 @@
 ---
-title: "Liquidity of Vanguard Mutual Funds"
-description: "Explore how liquidity in Vanguard mutual funds and algorithmic trading impacts investment decisions and portfolio management strategies, enhancing financial flexibility."
+title: Understanding Liquidity in Vanguard Mutual Funds
+description: Liquidity in Vanguard mutual funds determines how quickly you can access
+  cash based on asset types and fund size Discover key insights and strategies inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Interest-Only Strips"
-description: "Explore the complex world of interest-only strips in algo trading understand their impact on investment strategies and learn how to optimize financial portfolios."
+title: Understanding Interest-Only Strips In Mortgage-Backed Securities
+description: Interest-Only Strips offer investors targeted income from loan interest
+  payments while managing risk and yield volatility. Discover more inside.
 ---
 
 

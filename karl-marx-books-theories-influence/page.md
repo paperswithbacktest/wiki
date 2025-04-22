@@ -1,6 +1,7 @@
 ---
-title: "Karl Marx: Books, Theories, and Influence"
-description: "Explore the intersection of Karl Marx's theories and algorithmic trading in finance, analyzing the socio-economic implications, power dynamics, and potential inequalities."
+title: Understanding Karl Marx His Theories Impact and Influence
+description: Karl Marx explains how surplus value historical materialism and inequality
+  drive labor movements for fairer sharing of wealth Discover more inside
 ---
 
 

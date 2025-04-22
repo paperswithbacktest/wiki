@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Trading Mutual Funds"
-description: "Explore the basics of mutual funds and algorithmic trading to understand their roles in modern investing. Learn how mutual funds offer diversified investments managed by professionals and how algorithmic trading leverages technology to enhance trade execution. Discover the synergy between these tools for efficient wealth management and informed investment strategies."
+title: Complete Guide to Investing and Managing Mutual Funds
+description: Mutual funds offer a diversified, professionally managed investment strategy
+  to grow your savings and manage risk over the long term Discover more inside.
 ---
 
 

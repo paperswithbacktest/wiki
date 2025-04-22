@@ -1,6 +1,7 @@
 ---
-title: "Floor in Trading"
-description: "Explore the transition from traditional trading floors to algorithmic trading and its impact on financial markets methods strategies and the skills required for success."
+title: Understanding Trading Floors And Their Role In Modern Markets
+description: Trading Floor strategies combine open outcry speed with electronic efficiency
+  to optimize execution manage risk with market insights Discover more inside
 ---
 
 

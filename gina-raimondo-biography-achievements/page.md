@@ -1,6 +1,7 @@
 ---
-title: "Gina Raimondo: Biography and Achievements"
-description: "Explore the remarkable career of Gina Raimondo blending politics finance and technology. Discover her leadership in commerce and advancements in algo trading."
+title: Gina Raimondo From Rhode Island Governor to Commerce Secretary
+description: Gina Raimondo drives U.S. economic growth as Commerce Secretary through
+  the CHIPS Act trade policy and small business support Discover more inside
 ---
 
 

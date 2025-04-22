@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Day Trading"
-description: "Discover the world of day trading and algorithmic trading with our comprehensive introduction designed to equip aspiring traders with essential knowledge. Explore the dynamics of buying and selling financial instruments like stocks and commodities to profit from market fluctuations. Learn about day trading strategies that capitalize on short-term market volatility as well as how algorithmic trading uses algorithms for automated, high-speed transactions. Gain insights into market analysis entry strategies and risk management to develop a robust trading approach. Perfect for beginners and those refining their trading methods this guide empowers you to navigate the competitive financial markets successfully."
+title: Day Trading Guide for Beginners Strategies and Risk Management
+description: Day trading success starts with a clear plan focused on momentum scalping
+  risk management and timing strategies for consistent gains Discover more inside.
 ---
 
 

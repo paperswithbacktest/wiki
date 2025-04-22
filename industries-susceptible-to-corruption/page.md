@@ -1,6 +1,7 @@
 ---
-title: "Industries Susceptible to Corruption"
-description: "Explore the role of algorithmic trading in industries vulnerable to corruption uncovering challenges and opportunities to improve transparency and reduce misconduct."
+title: Corruption in Industries Impacts Risks and Prevention Strategies
+description: Corruption in industries increases costs erodes trust and impedes sector
+  growth while outlining prevention steps Discover more inside.
 ---
 
 

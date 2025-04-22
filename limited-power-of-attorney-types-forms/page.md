@@ -1,6 +1,7 @@
 ---
-title: "Limited Power of Attorney: Types and Forms"
-description: "Explore the essentials of Limited Power of Attorney in algo trading including its types and how it enables financial control while delegating specific tasks."
+title: Understanding Limited Power of Attorney Uses and Requirements
+description: Limited Power of Attorney lets you grant specific legal authority for
+  tasks you choose while maintaining control and security Discover more inside
 ---
 
 

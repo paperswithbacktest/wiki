@@ -1,6 +1,7 @@
 ---
-title: "Kazakhstan Tenge Overview"
-description: "Discover the essentials of Kazakhstan's Tenge and algorithmic trading in forex. Learn the Tenge's role, algo trading benefits, and future trends in forex."
+title: Understanding The Kazakhstan Tenge History Design And Value
+description: Explore the Kazakhstan Tenge evolution since 1993 with insights on cultural
+  designs and exchange rate influences in a concise guide Discover more inside
 ---
 
 

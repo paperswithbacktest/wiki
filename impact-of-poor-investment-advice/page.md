@@ -1,6 +1,7 @@
 ---
-title: "Impact of Poor Investment Advice"
-description: "Discover the risks of poor investment advice and algorithmic trading Learn how to spot bad strategies and protect your financial resources effectively"
+title: Understanding the Impact of Poor Investment Advice on Investors
+description: Poor investment advice drains savings and undermines confidence. Spot
+  risky guidance, diversify your portfolio and regain control Discover more inside
 ---
 
 

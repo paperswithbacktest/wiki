@@ -1,6 +1,7 @@
 ---
-title: "Insider Buying: Overview, Mechanism, and Types"
-description: "Explore how insider buying and algorithmic trading intersect to impact stock transactions Discover insights from company insiders combined with automated strategies"
+title: Insider Buying Explained for Informed Investment Decisions
+description: Insider Buying reveals when executives purchase shares signaling confidence
+  Use SEC reports to inform investment decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Information Cascades in Financial Markets"
-description: "Explore the complexities of information cascades in financial markets and their impact on algorithmic trading Learn how herd behavior influences market trends"
+title: Understanding Information Cascades in Financial Markets
+description: Information cascades in financial markets explain how herd behavior drives
+  price bubbles and crashes and offer strategies to mitigate risks Discover more
 ---
 
 

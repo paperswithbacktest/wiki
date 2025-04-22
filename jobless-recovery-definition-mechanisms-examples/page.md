@@ -1,6 +1,7 @@
 ---
-title: "Jobless Recovery: Definition, Mechanisms, and Examples"
-description: "Explore the complexities of jobless recovery where economic growth isn't matched by employment increases and the impact of algorithmic trading on markets."
+title: 'Understanding Jobless Recovery: Causes, Impacts, and Responses'
+description: Jobless recovery emerges when GDP grows but hiring stalls due to automation,
+  outsourcing and skill gaps limiting opportunities Discover more inside
 ---
 
 

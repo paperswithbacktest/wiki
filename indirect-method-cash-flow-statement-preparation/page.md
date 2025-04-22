@@ -1,6 +1,7 @@
 ---
-title: "Indirect Method in Cash Flow Statement Preparation"
-description: "Explore the indirect method of cash flow statement preparation and its pivotal role in enhancing algorithmic trading strategies for better financial insights."
+title: Preparing Cash Flow Statements Using the Indirect Method
+description: Indirect method cash flow statement adjusts net income for non cash and
+  working capital changes to show actual operating cash flow Discover more inside
 ---
 
 

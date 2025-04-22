@@ -1,6 +1,7 @@
 ---
-title: "Form F-6EF: Definition and Filing Process"
-description: "Explore how Form F-6EF simplifies listing ADRs for foreign companies on U.S. exchanges, alongside the impact of algo trading on global markets and financial strategies."
+title: 'Form F-6EF: Registering American Depositary Receipts with the SEC'
+description: Form F-6EF guides companies through EDGAR filing to register ADRs in
+  the US covering key requirements fees and timelines in steps Discover more inside
 ---
 
 

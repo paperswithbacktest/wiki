@@ -1,6 +1,7 @@
 ---
-title: "International Bank for Reconstruction and Development"
-description: "Discover the transformative impact of algorithmic trading on financial markets and development strategies with the International Bank for Reconstruction and Development. By employing advanced algorithms, the IBRD enhances operational efficiency, reduces transaction costs, and manages financial portfolios with precision, driving sustainable economic growth and poverty alleviation in middle-income and creditworthy low-income countries. Explore how the integration of high-speed trading systems optimizes financial operations like bond issuance, ensuring the IBRD fulfills its mission of global stability and prosperity."
+title: International Bank for Reconstruction and Development Explained
+description: International Bank for Reconstruction and Development provides low interest
+  financing for infrastructure and sustainable growth Discover more inside.
 ---
 
 

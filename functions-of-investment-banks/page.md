@@ -1,6 +1,7 @@
 ---
-title: "Functions of Investment Banks"
-description: "Explore the pivotal functions of investment banks in capital markets and the impact of algorithmic trading on liquidity and cost reduction in financial services."
+title: Understanding Investment Banks Key Functions and Roles
+description: Investment banks drive corporate growth by raising capital underwriting
+  deals and advising on mergers acquisitions and risk management Discover more inside
 ---
 
 

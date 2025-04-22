@@ -1,6 +1,7 @@
 ---
-title: "Global Financial Centres"
-description: "Explore the crucial role of global financial centres like New York, London, and Tokyo in shaping finance with insights into the rise of algorithmic trading."
+title: Key Features and Impact of Global Financial Centres
+description: Global financial centres drive international money flows with robust
+  regulations and expert services for businesses and investors. Discover more inside.
 ---
 
 

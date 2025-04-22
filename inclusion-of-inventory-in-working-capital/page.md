@@ -1,6 +1,7 @@
 ---
-title: "Inclusion of Inventory in Working Capital"
-description: "Explore how inventory management, business finance, working capital, and algorithmic trading intersect to boost financial efficiency and business growth."
+title: Inventory Impacts Working Capital Management Efficiency
+description: Working capital relies on efficient inventory control to free cash and
+  improve liquidity and turnover with JIT and tech solutions Discover more inside.
 ---
 
 

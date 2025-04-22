@@ -1,6 +1,7 @@
 ---
-title: "Investment Canada Act: Overview and Mechanism"
-description: "Explore Canada's investment landscape with insights into the Investment Canada Act and the rise of algorithmic trading providing a technological edge in investments."
+title: Understanding the Investment Canada Act Review Process
+description: Investment Canada Act governs foreign investments to ensure economic
+  growth jobs and security with review thresholds and outcomes Discover more inside
 ---
 
 

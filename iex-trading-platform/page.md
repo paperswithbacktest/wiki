@@ -1,6 +1,7 @@
 ---
-title: "IEX Trading Platform"
-description: "Explore how IEX Group's innovations impact algorithmic trading, promoting fairness and transparency with unique mechanisms like the 350-microsecond speed bump."
+title: IEX Trading Platform Ensuring Fair And Transparent Markets
+description: IEX trading platform applies a speed bump and signal to curb high-frequency
+  abuses and ensure fair transparent and efficient trades Discover more inside
 ---
 
 

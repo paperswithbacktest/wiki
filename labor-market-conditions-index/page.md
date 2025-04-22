@@ -1,6 +1,7 @@
 ---
-title: "Labor Market Conditions Index"
-description: "Explore how labor market conditions influence economic stability and trading. Discover the role of indicators and algorithmic trading in shaping financial strategies."
+title: Labor Market Conditions Index Explained for Economic Insights
+description: Labor Market Conditions Index offers job market score by merging 19 data
+  points to reveal economic trends Discover more inside
 ---
 
 

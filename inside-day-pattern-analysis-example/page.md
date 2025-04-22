@@ -1,6 +1,7 @@
 ---
-title: "Inside Day Pattern: Analysis and Example"
-description: "Explore the inside day pattern to enhance your trading strategies. Learn its role in market dynamics, capitalizing on consolidation and potential breakouts."
+title: Complete Inside Day Pattern Trading Guide for Market Moves
+description: Inside Day Pattern can signal market pauses before major price moves
+  and guide traders with volume confirmation and risk controls. Discover more inside.
 ---
 
 

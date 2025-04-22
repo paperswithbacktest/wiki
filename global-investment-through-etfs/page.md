@@ -1,6 +1,7 @@
 ---
-title: "Global Investment Through ETFs"
-description: "Explore global investment strategies using ETFs and algorithmic trading to diversify portfolios access international markets and enhance returns with innovative precision"
+title: Investing In Global ETFs For Balanced International Portfolios
+description: Global ETFs offer cost effective access to diversified international
+  markets with low fees and professional management Discover more inside today
 ---
 
 

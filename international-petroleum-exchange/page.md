@@ -1,6 +1,7 @@
 ---
-title: "International Petroleum Exchange"
-description: "Explore the transformation of the International Petroleum Exchange into ICE Futures Europe and the impact of algorithmic trading on global energy markets."
+title: Understanding the International Petroleum Exchange and Its Impact
+description: International Petroleum Exchange drives global energy trading from its
+  London hub with transparent price discovery and market insights Explore more inside
 ---
 
 

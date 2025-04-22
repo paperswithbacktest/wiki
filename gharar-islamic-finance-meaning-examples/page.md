@@ -1,6 +1,7 @@
 ---
-title: "Gharar in Islamic Finance: Meaning and Examples"
-description: "Explore the concept of gharar in Islamic finance and its implications in algorithmic trading focusing on transparency and ethical financial practices."
+title: Understanding Gharar Principles in Islamic Finance Contracts
+description: Gharar in Islamic finance exposes risks in unclear contracts that lead
+  to unfairness. Ensuring transparency protects all parties Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Jocassee Quantitative"
-description: "Explore Jocassee Quantitative's innovative algorithmic trading solutions leveraging advanced technologies to optimize market performance and drive trading efficiency."
+title: 'Jocassee Quantitative: Data-Driven Solutions for Business Growth'
+description: Jocassee Quantitative provides data-driven analysis to optimize pricing
+  investment strategies and manage risk for business growth Discover more inside.
 ---
 
 

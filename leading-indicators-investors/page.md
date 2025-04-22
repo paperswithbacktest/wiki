@@ -1,6 +1,7 @@
 ---
-title: "Leading Indicators and Their Use by Investors"
-description: "Explore how investors leverage leading economic indicators like the PMI and CCI, combined with algorithmic trading, to refine strategies and optimize returns in volatile markets."
+title: Leading Indicators Explained for Economic and Market Forecasting
+description: Leading indicators help investors and policymakers anticipate market
+  shifts and plan ahead with practical data driven strategies Discover more inside
 ---
 
 

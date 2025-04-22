@@ -1,6 +1,7 @@
 ---
-title: "Key Benchmarks Tracking the Banking Sector"
-description: "Explore the dynamic interaction between banking benchmarks, financial indices, and algo trading in the financial sector. Understand their impact on investment strategies."
+title: Key Banking Benchmarks for Measuring Financial Performance
+description: Banking benchmarks provide actionable insights to compare bank performance,
+  identify areas for improvement and stay competitive Discover more inside
 ---
 
 

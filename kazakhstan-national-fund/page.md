@@ -1,6 +1,7 @@
 ---
-title: "Kazakhstan National Fund"
-description: "Discover how Kazakhstan's National Fund and algorithmic trading enhance economic stability by managing commodity volatility and optimizing financial strategies."
+title: Kazakhstan National Fund Purpose Structure and Future Strategies
+description: Kazakhstan National Fund secures oil and gas revenues with investments
+  in bonds stocks to stabilize the economy and support growth Discover more inside
 ---
 
 

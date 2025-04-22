@@ -1,6 +1,7 @@
 ---
-title: "ITraxx LevX Indices"
-description: "Discover how the iTraxx LevX indexes and algorithmic trading enhance credit risk management and trading strategies in European credit markets."
+title: Understanding ITraxx LevX Indices for European Leveraged Loans
+description: ITraxx LevX Indices provide a clear view of European leveraged loan default
+  risk and guide smarter investment and hedging decisions Discover more inside.
 ---
 
 

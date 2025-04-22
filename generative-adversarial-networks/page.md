@@ -1,6 +1,7 @@
 ---
-title: "Generative Adversarial Networks"
-description: "Explore how Generative Adversarial Networks enhance algorithmic trading by simulating market conditions generating realistic data and refining strategies effectively."
+title: Generative Adversarial Networks Fundamentals and Applications
+description: Generative Adversarial Networks use a generator and discriminator to
+  create realistic images and data through adversarial training. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Public-Private Partnerships on Economic Growth"
-description: "Explore the impact of public-private partnerships on economic growth and how they can enhance infrastructure and technology innovations like algorithmic trading."
+title: Public Private Partnerships Boosting Infrastructure and Economy
+description: Public private partnerships deliver essential infrastructure faster and
+  drive economic growth pooling resources for mutual success. Discover more inside.
 ---
 
 

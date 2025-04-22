@@ -1,6 +1,7 @@
 ---
-title: "Fund Flow: Example and Interpretation"
-description: "Explore the importance of fund flow in algorithmic trading including insights on financial analysis and investment interpretation to improve trading strategies."
+title: Fund Flow Statement Analysis and Preparation Guide
+description: Fund flow analysis tracks money movement across investments to provide
+  insights on statement preparation liquidity management Discover more inside
 ---
 
 

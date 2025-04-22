@@ -1,6 +1,7 @@
 ---
-title: "Gift of Equity: Overview, Functionality, Tax Implications, and Advantages and Disadvantages"
-description: "Explore the dynamics of gifting equity in real estate its role in seamless family property transfers tax effects and how it aligns with algorithmic trading."
+title: Understanding Gift of Equity Transactions in Real Estate
+description: Gift of Equity helps buyers reduce mortgage down payments by selling
+  below market value with essential documentation and tax guidance Discover more inside
 ---
 
 

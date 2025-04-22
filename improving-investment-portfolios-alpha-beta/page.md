@@ -1,6 +1,7 @@
 ---
-title: "Improving Investment Portfolios with Alpha and Beta"
-description: "Improve your investment portfolios using alpha and beta strategies with algorithmic trading Learn how to manage risk and enhance returns effectively"
+title: Understanding Alpha and Beta in Investment Portfolios
+description: Alpha and Beta measures highlight how investments perform against benchmarks
+  and assess volatility for smarter portfolio decisions Discover more inside.
 ---
 
 

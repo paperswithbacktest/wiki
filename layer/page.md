@@ -1,6 +1,8 @@
 ---
-title: "Layer (Machine Learning)"
-description: "Explore layers in machine learning and see how they simplify complex tasks by organizing computations into manageable parts for better model accuracy."
+title: Understanding Layers in Machine Learning Models
+description: Layer in machine learning organizes complex computations into step by
+  step processing to boost model training efficiency and prediction accuracy Discover
+  more inside
 ---
 
 ![Image](images/1.png)

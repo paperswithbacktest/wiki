@@ -1,6 +1,7 @@
 ---
-title: "Greenback: Origin and History"
-description: "Explore the origin and evolution of the U.S. dollar, its pivotal role in global economics, and the transformative impact of algorithmic trading in forex markets."
+title: Evolution of Greenbacks and Their Impact on the US Dollar
+description: Greenbacks originated in the Civil War as unbacked paper money that reshaped
+  US economic stability and monetary policy over time Discover more inside.
 ---
 
 

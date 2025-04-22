@@ -1,6 +1,7 @@
 ---
-title: "Liquidity-Weighted Trading Strategies"
-description: "Explore liquidity-weighted algorithmic trading strategies that optimize trade execution by integrating liquidity factors, minimizing market impact, and enhancing order efficiency."
+title: Optimizing Trade Execution with Liquidity-Weighted Strategies
+description: Liquidity-weighted strategies optimize trade execution with high liquidity
+  assets to reduce market impact, improving efficiency Discover more inside
 ---
 
 

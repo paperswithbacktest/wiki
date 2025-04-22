@@ -1,6 +1,7 @@
 ---
-title: "Import Customs Duty: Function and Payment Responsibility"
-description: "Discover the roles of import duty and customs duty in global trade alongside algorithmic trading's impact on the financial markets. Learn how these elements function, their significance in international commerce, and strategic insights for businesses to navigate import regulations and modern trading strategies effectively."
+title: Understanding Import Customs Duty and Its Impact on Trade
+description: Import customs duty shapes import costs and compliance for international
+  shipments, covering calculation, exemptions and trade impacts Discover more inside
 ---
 
 

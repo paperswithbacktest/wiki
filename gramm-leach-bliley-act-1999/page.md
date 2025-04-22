@@ -1,6 +1,7 @@
 ---
-title: "Gramm-Leach-Bliley Act of 1999"
-description: "Discover how the Gramm-Leach-Bliley Act of 1999 reshaped financial services and fostered innovations like algorithmic trading by breaking sector barriers."
+title: Gramm-Leach-Bliley Act Impact on Financial Services and Privacy
+description: Gramm-Leach-Bliley Act merged banks insurance and investment firms and
+  enforces clear privacy rules to protect consumer data Discover more inside
 ---
 
 

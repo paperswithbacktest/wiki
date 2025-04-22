@@ -1,6 +1,7 @@
 ---
-title: "Infinium Capital Management Overview"
-description: "Discover Infinium Capital Management's transformative journey in innovative algorithmic trading and asset management, setting industry standards since 2001 from Chicago and New York."
+title: Infinium Capital Management High Frequency Trading and Analytics
+description: Infinium Capital Management leverages high frequency trading and quantitative
+  analytics to optimize risk and returns for clients Discover more inside.
 ---
 
 

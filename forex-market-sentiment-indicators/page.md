@@ -1,6 +1,7 @@
 ---
-title: "Forex Market Sentiment Indicators"
-description: "Explore the significance of market sentiment indicators in forex trading Learn how integrating sentiment analysis enhances algorithmic trading strategies in the forex market"
+title: Understanding Forex Market Sentiment Indicators and Strategies
+description: Forex sentiment indicators reveal trader psychology behind currency moves
+  and help you make informed trades with COT SSI data Discover more inside
 ---
 
 

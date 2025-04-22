@@ -1,6 +1,7 @@
 ---
-title: "Joint Brokerage Accounts: Essential Information"
-description: "Discover the benefits of joint brokerage accounts in pooling resources for shared financial goals while leveraging algorithmic trading to enhance investment strategies."
+title: Joint Brokerage Accounts Explained for Collaborative Investors
+description: Joint brokerage account lets partners pool funds, navigate risks and
+  simplify taxes with clear strategies and open communication Discover more inside
 ---
 
 

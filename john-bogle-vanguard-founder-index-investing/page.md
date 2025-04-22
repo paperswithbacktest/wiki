@@ -1,6 +1,7 @@
 ---
-title: "John Bogle: Founder of Vanguard and Pioneer of Index Investing"
-description: "John Bogle revolutionized investing by introducing index funds through Vanguard prioritizing low costs and democratizing access shaping modern portfolio strategies."
+title: "John Bogle\u2019s Vanguard Pioneering Affordable Index Investing"
+description: Index investing transformed by John Bogle democratizes markets with low-cost
+  funds simplifying wealth growth for everyone Discover more inside.
 ---
 
 

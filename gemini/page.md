@@ -1,6 +1,7 @@
 ---
-title: "Gemini (Machine Learning)"
-description: "Explore Gemini by Google, a powerful AI model that understands text and media, offering versatile applications and setting itself apart with multi-modal capabilities."
+title: Exploring Google Gemini Machine Learning Model Capabilities
+description: Google Gemini multitask model handles text images and video for versatile
+  AI applications with high accuracy and low latency Discover more inside
 ---
 
 ![Image](images/1.jpeg)

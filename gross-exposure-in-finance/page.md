@@ -1,6 +1,7 @@
 ---
-title: "Gross Exposure in Finance"
-description: "Discover the significance of gross exposure in finance and its role in algorithmic trading, crucial for effective risk management and optimizing trading strategies."
+title: Managing Gross Exposure in Investment Portfolios for Risk Control
+description: Gross exposure helps investors gauge total market risk by summing all
+  positions and applying diversification for balanced portfolios Discover more inside
 ---
 
 

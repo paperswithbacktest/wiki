@@ -1,6 +1,7 @@
 ---
-title: "Liberty Bonds Overview and Functionality"
-description: "Explore the evolution from Liberty Bonds' historical significance in wartime financing to modern algorithmic trading reshaping today's bond markets and investment strategies."
+title: How Liberty Bonds Funded America's World War I Efforts
+description: Liberty Bonds enabled Americans to directly finance World War I while
+  earning steady interest and supporting the war effort. Discover more inside.
 ---
 
 

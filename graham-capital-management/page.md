@@ -1,6 +1,7 @@
 ---
-title: "Graham Capital Management"
-description: "Discover Graham Capital Management's expertise in algorithmic trading and advanced investment strategies Take a closer look at their innovative approach to finance"
+title: Graham Capital Management Investment Strategies and Insights
+description: Graham Capital Management uses advanced quantitative and trend following
+  strategies to optimize returns and manage risk for clients Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Google Colab Guide"
-description: Explore the transformative impact of Google Colab on algorithmic trading, a field where automated strategies leverage complex algorithms for swift market decisions. This guide details how Google Colab, a cloud-based Python environment, empowers traders with powerful computational resources, facilitating the development and testing of advanced trading strategies. Discover the benefits and real-world applications of Colab, from enhancing coding collaboration to utilizing high-performance hardware for sophisticated simulations, making it an ideal platform for both individual and team-based algo trading projects.
+title: Comprehensive Guide to Using Google Colab for Data Projects
+description: Google Colab provides a free cloud environment to run and share code
+  for data analysis and machine learning with GPU support Discover more inside
 ---
 
 

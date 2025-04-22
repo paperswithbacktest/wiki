@@ -1,6 +1,7 @@
 ---
-title: "Invested Capital and Return on Invested Capital Calculation"
-description: "Explore how algorithmic trading enhances investment efficiency with a focus on ROIC and ROI. Learn strategies to maximize returns and capitalize on algo trading advantages."
+title: Understanding Return on Invested Capital and Its Importance
+description: Return on Invested Capital helps measure how efficiently a company uses
+  its capital to generate profits and guide investment decisions Discover more inside
 ---
 
 

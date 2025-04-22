@@ -1,6 +1,7 @@
 ---
-title: "Key Economic Indicators for Investing in the Automotive Sector"
-description: "Explore key economic indicators impacting automotive investments including auto sales data and interest rates to optimize your investment strategies with algo trading."
+title: Economic Indicators Impacting Automotive Sector Performance
+description: Economic indicators shape automotive sector trends and guide smarter
+  investing by analyzing unemployment inflation GDP growth Discover more inside
 ---
 
 

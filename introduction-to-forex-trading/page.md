@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Forex Trading"
-description: "Discover the dynamic world of forex trading with algorithmic strategies Learn how to harness market opportunities with precision reduce errors and gain insights"
+title: Essential Forex Trading Fundamentals And Strategies Explained
+description: Forex trading fundamentals cover market mechanics strategies and risks
+  to help you trade confidently and make informed decisions Discover more inside
 ---
 
 

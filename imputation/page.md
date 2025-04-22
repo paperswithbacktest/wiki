@@ -1,6 +1,7 @@
 ---
-title: "Imputation (Machine Learning)"
-description: "Discover how imputation in machine learning fills in missing data using methods like mean median or mode imputation to ensure more accurate analyses."
+title: Comprehensive Guide to Machine Learning Data Imputation Methods
+description: Machine learning imputation ensures reliable datasets by filling missing
+  values with methods from simple averages to advanced models Discover more inside.
 ---
 
 ![Image](images/1.png)

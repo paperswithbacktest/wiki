@@ -1,6 +1,7 @@
 ---
-title: "Johansen test"
-description: Discover the transformative role of the Johansen test in algorithmic trading. This powerful statistical tool identifies cointegration among multiple financial time series, enabling traders to uncover long-term stable relationships and optimize trading strategies. The Johansen test enhances pairs trading by pinpointing assets that move together over time, facilitating profitable mean reversion strategies. Leverage its robust methodology to elevate trading strategies and risk management in complex financial systems.
+title: Understanding the Johansen Test for Cointegration Analysis
+description: Johansen test reveals long term cointegration among financial time series
+  using trace and eigenvalue methods for reliable forecasting Discover more inside
 ---
 
 

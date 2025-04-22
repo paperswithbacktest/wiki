@@ -1,6 +1,8 @@
 ---
-title: "History of the Tel Aviv Stock Exchange"
-description: "Explore the rich history of the Tel Aviv Stock Exchange from its origins to its role in global finance focusing on innovations and algorithmic trading."
+title: Tel Aviv Stock Exchange Evolution and Economic Impact
+description: "Tel Aviv Stock Exchange empowers Israel\u2019s companies to raise capital\
+  \ via stocks bonds and ETFs while ensuring fair efficient trading Discover more\
+  \ inside."
 ---
 
 

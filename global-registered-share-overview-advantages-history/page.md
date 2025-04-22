@@ -1,6 +1,7 @@
 ---
-title: "Global Registered Share: Overview, Advantages, and Historical Background"
-description: "Explore the historical evolution of investment strategies focusing on Global Registered Shares and algorithmic trading highlighting their impact on modern markets."
+title: Global Registered Shares Explained For International Investors
+description: Global Registered Shares give investors clear ownership records internationally
+  and enable efficient dividend payments across markets Discover more inside
 ---
 
 

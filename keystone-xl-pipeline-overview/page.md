@@ -1,6 +1,7 @@
 ---
-title: "Keystone XL Pipeline Overview"
-description: "Discover the complexities of the Keystone XL Pipeline and its impact on energy security environmental policy and the evolving role of algorithmic trading in energy markets."
+title: Keystone XL Pipeline Economic And Environmental Impacts
+description: Keystone XL Pipeline analysis examines how the project shapes jobs, regional
+  economies, environmental risks and regulatory debates Discover more inside.
 ---
 
 

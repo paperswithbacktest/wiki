@@ -1,6 +1,7 @@
 ---
-title: "Levered Free Cash Flow"
-description: "Explore Levered Free Cash Flow and its role in assessing financial health and investment in algorithmic trading to enhance decision-making strategies."
+title: Levered Free Cash Flow Definition Calculation and Uses
+description: Levered Free Cash Flow shows cash left after expenses taxes and debt
+  payments helping investors assess dividends and growth potential Discover more inside
 ---
 
 

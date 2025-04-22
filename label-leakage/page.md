@@ -1,6 +1,7 @@
 ---
-title: "Label Leakage (Machine Learning)"
-description: "Learn what label leakage is in machine learning how it impacts model performance and discover tips to detect and prevent it for more reliable predictions."
+title: Preventing Label Leakage in Machine Learning Models
+description: Label leakage erodes model accuracy by using future data. Discover how
+  to spot and eliminate leakage for reliable predictions. Discover more inside
 ---
 
 ![Image](images/1.png)

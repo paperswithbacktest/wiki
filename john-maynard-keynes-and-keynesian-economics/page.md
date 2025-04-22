@@ -1,6 +1,7 @@
 ---
-title: "John Maynard Keynes and Keynesian Economics"
-description: "Explore the impact of John Maynard Keynes, the pioneer of Keynesian economics, on shaping modern economic policies and algorithmic trading strategies."
+title: Understanding Keynesian Economics and Its Impact on Policy
+description: Keynesian Economics explains how government spending boosts demand and
+  job creation through the multiplier effect Discover more inside
 ---
 
 

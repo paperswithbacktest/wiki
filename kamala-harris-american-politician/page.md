@@ -1,6 +1,7 @@
 ---
-title: "Kamala Harris: American Politician"
-description: "Explore Kamala Harris's political journey from her historic achievements to her influence on economic and financial policies including algorithmic trading."
+title: Kamala Harris Journey From District Attorney To Vice President
+description: Kamala Harris rose from prosecutor and senator to Vice President driving
+  policy on healthcare justice climate and equality Discover more inside
 ---
 
 

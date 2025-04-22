@@ -1,6 +1,7 @@
 ---
-title: "Fundamental Analysis: Concepts and Applications"
-description: "Explore how combining fundamental analysis and algorithmic trading can enhance investment decisions and optimize portfolio performance while managing risks."
+title: Fundamental Analysis Explained Professional Guide for Investors
+description: "Fundamental analysis reveals a company\u2019s true value by examining\
+  \ financial statements debt levels and industry context Discover more inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "IOU (Machine Learning)"
-description: "Intersection over Union (IOU) is a crucial metric for evaluating the accuracy of object detection models by comparing predicted and actual bounding boxes."
+title: Intersection Over Union IOU Metric for Object Detection Accuracy
+description: IOU evaluates object detection accuracy by measuring the overlap between
+  predicted and actual bounding boxes in ML models Discover more inside.
 ---
 
 ![Image](images/1.png)

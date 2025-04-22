@@ -1,6 +1,7 @@
 ---
-title: "Gifting Bonds"
-description: "Explore how gifting bonds combines stability and educational value, enhanced by algorithmic trading for increased market efficiency, turning bonds into meaningful financial gifts."
+title: 'Gifting Bonds Guide: Benefits, Types, and How to Buy'
+description: Gifting bonds provide a secure low risk investment gift that grows over
+  time to support college and homeownership goals Discover more inside.
 ---
 
 

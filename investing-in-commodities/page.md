@@ -1,6 +1,7 @@
 ---
-title: "Investing in Commodities"
-description: "Discover the essentials of investing in commodities and how algorithmic trading can enhance your strategy. Explore the dynamics of raw materials markets and investment tactics, including trend following, mean reversion, and spread trading. Learn about the unique opportunities and risks factors such as supply chain disruptions and geopolitical events, affecting commodities like oil, gold, and agricultural products. Enhance your investment portfolio's diversification and resilience by understanding macroeconomic and micro-level analytics. Equip yourself with the knowledge to navigate market complexities and optimize trades using advanced technological tools."
+title: Commodity Investing Guide With Key Benefits Risks And Strategies
+description: Commodity investing can protect against inflation and diversify your
+  portfolio with metals energy and farming markets and assets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "History of New York as a Financial Center"
-description: "Explore New York's rich financial history and its evolution into a global leader in finance and algo trading shaping modern economic landscapes."
+title: Evolution of New York as a Leading Financial Center
+description: New York financial center history shows how the Buttonwood Agreement
+  and Erie Canal sparked market growth and drew global investors Discover more inside.
 ---
 
 

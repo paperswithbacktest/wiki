@@ -1,6 +1,7 @@
 ---
-title: "Internal Rate of Return Rule"
-description: "Discover the significance of the Internal Rate of Return (IRR) in investment analysis and algorithmic trading. This comprehensive guide explains how IRR is used to evaluate the profitability of potential investments, the calculation process, its benefits in making informed decisions, and its limitations. Gain essential insights to enhance strategic decision-making and effectively assess investment opportunities, ensuring optimal allocation of financial resources."
+title: Internal Rate of Return Complete Guide for Investment Analysis
+description: Internal Rate of Return provides a clear way to evaluate investment returns,
+  explains calculation and MIRR use for realistic results Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Fundamentals: Types and Common Analysis Ratios"
-description: "Explore the importance of financial ratios in algorithmic trading and fundamental analysis to make strategic investment decisions and gain a competitive edge."
+title: Understanding Financial Ratios for Business Performance
+description: Financial ratios evaluate company health by turning complex statement
+  data into clear performance insights for investors and managers Discover more inside
 ---
 
 

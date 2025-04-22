@@ -1,6 +1,7 @@
 ---
-title: "Group of Eleven: Overview and Function"
-description: "Explore the Group of Eleven's impact on algorithmic trading and international collaboration Boost your trading efficiency through G11's innovations and insights"
+title: Group of Eleven G11 Economic Cooperation Objectives and Influence
+description: Group of Eleven unites 11 African and Middle Eastern nations to drive
+  economic growth through trade and investment initiatives. Discover more inside
 ---
 
 

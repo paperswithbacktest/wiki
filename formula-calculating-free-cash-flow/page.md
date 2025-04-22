@@ -1,6 +1,7 @@
 ---
-title: "Formula for Calculating Free Cash Flow"
-description: "Discover how Free Cash Flow can indicate a company's financial health, influence investment decisions, and enhance algorithmic trading analysis for investors."
+title: Comprehensive Guide to Free Cash Flow Calculation and Use
+description: Free cash flow shows the money a company retains after operating costs
+  and capital investments so you can assess its financial health Discover more inside
 ---
 
 

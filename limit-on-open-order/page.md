@@ -1,6 +1,7 @@
 ---
-title: "Limit-on-Open Order"
-description: "Master Limit-on-Open orders with our comprehensive guide covering their strategic role in algorithmic trading. Learn mechanics, strategies, and benefits."
+title: Mastering Limit-On-Open Orders for Market Opening Trades
+description: Limit-on-Open orders let you set a specific entry price at the start
+  of the trading day to manage risk and avoid unwanted fills Discover more inside.
 ---
 
 

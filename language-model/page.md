@@ -1,6 +1,7 @@
 ---
-title: "Language Model (Machine Learning)"
-description: "Explore the essentials of language models in machine learning including their types uses and training techniques improving human language prediction and generation"
+title: Fundamentals of Language Models in Machine Learning
+description: Language models enable text autocomplete translation and chatbots by
+  learning word patterns from data to generate humanlike language. Discover more inside.
 ---
 
 ![Image](images/1.png)

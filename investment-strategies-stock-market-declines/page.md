@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies During Stock Market Declines"
-description: "Explore effective investment strategies during stock market declines with a focus on algorithmic trading. Learn how to leverage algo trading techniques for precision and speed while minimizing emotional decision-making. Discover diversification tactics and understand risk tolerance to safeguard investments and maximize potential returns during market downturns."
+title: Understanding Stock Market Decline Strategies for Beginners
+description: Stock Market Decline guide helps beginners spot warning signs and use
+  dollar cost averaging and diversification for resilience Discover more inside
 ---
 
 

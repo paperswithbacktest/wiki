@@ -1,6 +1,7 @@
 ---
-title: "Inherent Risk and Types of Audit Risks"
-description: "Explore the complexities of audit and inherent risk in algorithmic trading Understand crucial risk factors and management strategies to ensure financial integrity"
+title: Understanding Inherent Risk in Auditing for Financial Accuracy
+description: Inherent risk in auditing defines the likelihood of material misstatements
+  due to business nature and guides auditors on focus areas Discover more inside
 ---
 
 

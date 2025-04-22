@@ -1,6 +1,7 @@
 ---
-title: "Income Deposit Securities: Overview and History"
-description: "Explore the role of income deposit securities IDS and fixed-income securities in investment strategies, amidst the rise of algorithmic trading in financial markets."
+title: Income Deposit Securities Guide For Balanced Portfolio Strategies
+description: Income Deposit Securities combine stock growth with bond interest to
+  simplify diversification and provide steady income Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investment Opportunities in Cuba"
-description: "Explore investment opportunities in Cuba's evolving economy with insights into recent reforms and the potential of algorithmic trading to enhance market efficiency."
+title: Navigating Foreign Investment in Cuba's Emerging Economy
+description: Foreign investment in Cuba leverages joint ventures and tax incentives
+  to drive growth in tourism agriculture energy and biotech Discover more inside
 ---
 
 

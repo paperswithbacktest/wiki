@@ -1,6 +1,7 @@
 ---
-title: "Investment Returns and Measurement Methods"
-description: "Explore various metrics for evaluating investment returns in algorithmic trading to optimize strategies and maximize profitability in dynamic financial markets."
+title: Comprehensive Guide To Understanding Investment Returns
+description: Investment returns show how your investments grow in value and compare
+  to benchmarks while accounting for risk with practical examples Discover more inside
 ---
 
 

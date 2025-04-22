@@ -1,6 +1,7 @@
 ---
-title: "Habendum Clause: Definition and Function"
-description: "The habendum clause in real estate contracts outlines property rights transfer making it essential for clarity in ownership and any conditions attached."
+title: Understanding the Habendum Clause in Real Estate Documents
+description: Habendum Clause defines property rights duration in deeds and leases
+  with clear rules to avoid disputes and confusion. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Google Finance API Guide"
-description: Explore how the Google Finance API can empower algorithmic trading strategies by providing critical market data for making informed decisions. Discover the benefits of integrating real-time and historical market information to enhance trading algorithms. Learn about the viable alternatives that have emerged following the discontinuation of the official API and understand the importance of navigating potential challenges such as data reliability and compliance issues. Dive into the ways this API supports cost-effective, customizable solutions that enable traders to optimize their strategies and improve trading outcomes.
+title: Google Finance API Deprecation and Alternative Data Solutions
+description: Google Finance API is deprecated so developers can turn to Yahoo Finance
+  or Alpha Vantage for real time stock and market data Discover more inside
 ---
 
 

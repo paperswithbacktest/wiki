@@ -1,6 +1,7 @@
 ---
-title: "Legacy Asset: Overview and Examples"
-description: "Discover how legacy assets are managed in financial markets alongside the transformative role of algorithmic trading in enhancing modern asset management strategies."
+title: Managing Legacy Assets for Financial and Estate Planning
+description: Legacy assets can boost financial and estate planning by unlocking value
+  and reducing taxes while supporting seamless wealth transfer Discover more inside
 ---
 
 

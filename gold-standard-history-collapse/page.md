@@ -1,6 +1,7 @@
 ---
-title: "Gold Standard: History and Collapse"
-description: "Explore the journey of the gold standard, a system where currencies were tied to gold, from its rise as a stabilizing force in the 19th century to its fall during the 20th century due to its inflexibility during economic crises. Understand how this transition led to the emergence of fiat currencies and the rise of algorithmic trading, shaping the complex financial landscapes we navigate today."
+title: Understanding the Gold Standard's Impact on Global Economies
+description: Gold Standard history covers 19th century origins collapse during the
+  Great Depression and impact on modern monetary policy Discover more inside
 ---
 
 

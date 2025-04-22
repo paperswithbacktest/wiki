@@ -1,6 +1,7 @@
 ---
-title: "Leveraged ETFs Tracking the Banking Sector"
-description: "Explore the dynamics of leveraged ETFs in the banking sector and algorithmic trading strategies to maximize gains while understanding inherent risks."
+title: Understanding Leveraged ETFs Tracking the Banking Sector
+description: Leveraged ETFs in the banking sector amplify daily index gains with leverage
+  while posing higher risk and fees for short term traders Discover more inside
 ---
 
 

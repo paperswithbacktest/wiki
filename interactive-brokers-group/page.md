@@ -1,6 +1,7 @@
 ---
-title: "Interactive Brokers Group"
-description: "Explore the influence of algorithmic trading on modern investing with Interactive Brokers. Learn how these platforms enhance trading efficiency and empower investors."
+title: Interactive Brokers Group Global Low-Cost Trading Platform
+description: Interactive Brokers Group offers a low cost global trading platform with
+  advanced tools real time market data and secure access Discover more inside
 ---
 
 

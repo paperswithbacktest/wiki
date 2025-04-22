@@ -1,6 +1,7 @@
 ---
-title: "Global Macro Strategy and Types of Funds"
-description: "Explore global macro strategy and algorithmic trading in investment funds using macroeconomic trends to inform decisions across asset classes like currencies and equities."
+title: Global Macro Strategy Explained Professional Guide
+description: Global macro strategy analyzes economic indicators politics and market
+  cycles to guide diversified investments and manage risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "High Beta Index"
-description: "Explore high beta stock indices and algorithmic trading strategies to maximize returns amidst market volatility while managing risk effectively in fast-paced markets."
+title: Understanding High Beta Stock Index Performance and Risks
+description: High Beta Index shows how to use market volatility for portfolio growth
+  and manage risk with diversification and disciplined trading Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Horizontal Line in Technical Analysis"
-description: "Explore horizontal line analysis in trading a method focusing on support and resistance levels essential in technical analysis and enhanced by algorithmic trading."
+title: Horizontal Lines for Support and Resistance in Technical Analysis
+description: Horizontal lines reveal key support and resistance levels on stock charts
+  so traders can time buy and sell decisions effectively Discover more inside
 ---
 
 

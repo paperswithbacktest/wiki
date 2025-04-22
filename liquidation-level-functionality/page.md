@@ -1,6 +1,7 @@
 ---
-title: "Liquidation Level and Its Functionality"
-description: "Explore the risks and dynamics of algorithmic trading and liquidation levels Learn how these elements affect trading strategies and the broader market environment"
+title: Understanding Liquidation Levels in Margin and Leveraged Trading
+description: Liquidation level safeguards traders by closing positions when margin
+  is insufficient and provides risk management guidance for leverage More inside
 ---
 
 

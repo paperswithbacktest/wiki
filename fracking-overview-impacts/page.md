@@ -1,6 +1,7 @@
 ---
-title: "Fracking: Overview and Impacts"
-description: "Explore the environmental and economic impacts of fracking and algorithmic trading highlighting their influence on modern energy and financial systems."
+title: Fracking Environmental Risks and Economic Benefits Explained
+description: Fracking poses water contamination air quality health and seismic risks
+  while boosting energy production and local economies Discover more inside.
 ---
 
 

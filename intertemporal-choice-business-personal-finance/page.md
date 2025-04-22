@@ -1,6 +1,7 @@
 ---
-title: "Intertemporal Choice in Business and Personal Finance"
-description: "Explore intertemporal choice and its impact on personal finance and algo trading. Learn how present decisions affect future outcomes and optimize strategies."
+title: Intertemporal Choice in Business and Personal Finance
+description: Intertemporal choice helps balance immediate spending and future savings
+  using discounting and interest rates to boost finances Discover more inside.
 ---
 
 

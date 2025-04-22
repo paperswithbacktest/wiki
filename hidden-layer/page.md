@@ -1,6 +1,7 @@
 ---
-title: "Hidden Layer (Machine Learning)"
-description: "Explore the essential role of hidden layers in neural networks that enable learning and representation of complex data patterns boosting machine learning accuracy."
+title: Comprehensive Guide to Hidden Layers in Neural Networks
+description: Hidden Layers enable neural networks to learn complex data patterns extract
+  meaningful features and apply dropout and regularization Discover more inside.
 ---
 
 ![Image](images/1.png)

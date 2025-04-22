@@ -1,6 +1,7 @@
 ---
-title: "G5 Emerging Nations: History and Members"
-description: "Explore the evolution of the G5 from industrialized democracies to emerging economies Brazil China India Mexico and South Africa and their role in algorithmic trading."
+title: G5 Countries Economic Collaboration and Global Influence
+description: G5 Countries collaborate to strengthen their economies, reduce poverty
+  and shape global policies with shared strategies and influence Discover more inside.
 ---
 
 

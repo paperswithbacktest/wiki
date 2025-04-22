@@ -1,6 +1,7 @@
 ---
-title: "Insurance Alternative Data"
-description: Explore the evolving role of insurance alternative data in algorithmic trading to gain a competitive edge in financial markets. Discover how non-conventional datasets like claim frequencies and risk assessments can enhance trading strategies by providing unique insights into market dynamics and consumer behavior. Uncover the potential of integrating these data sources into sophisticated algorithms to unlock new market opportunities and redefine the landscape of financial analysis.
+title: Leveraging Alternative Data for Smarter Insurance Risk Assessment
+description: Alternative data empowers insurers to refine risk assessment and offer
+  personalized policies while ensuring privacy and fairness Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Debt on Company Beta"
-description: "Explore how debt impacts company beta in algorithmic trading. Understand investment risk, debt management, and leveraging tech for optimal strategies in dynamic markets."
+title: The Impact of Debt Levels on Company Beta and Risk Profile
+description: Company beta shows how debt levels affect stock volatility and risk exposure
+  helping you align leverage with growth goals Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Trade Wars on Individuals"
-description: "Explore how trade wars impact individuals and markets through the lens of algorithmic trading highlighting economic shifts and strategic adaptations needed."
+title: Effects of Trade Wars on Consumer Costs Jobs and Supply Chains
+description: Trade wars expose consumers to rising costs job insecurity and supply
+  chain disruptions, hindering economic growth for individuals. Discover more inside.
 ---
 
 

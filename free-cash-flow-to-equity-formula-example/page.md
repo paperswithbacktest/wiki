@@ -1,6 +1,7 @@
 ---
-title: "Free Cash Flow to Equity Formula and Example"
-description: "Understand Free Cash Flow to Equity (FCFE) and its role in equity valuation and algorithmic trading Learn how FCFE can guide investment strategies and decision-making"
+title: Free Cash Flow to Equity Explained for Financial Valuation
+description: Free cash flow to equity shows cash left for shareholders after expenses
+  investments and debt while offering clear valuation insights Discover more inside.
 ---
 
 

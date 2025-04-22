@@ -1,6 +1,8 @@
 ---
-title: "Latency Sensitivity in Trading"
-description: "Explore latency sensitivity in algo trading where swift execution can make or break strategies. Learn how low latency impacts performance and reduces risks."
+title: Understanding Latency Sensitivity in High Frequency Trading
+description: Latency in trading directly impacts order execution speed and pricing
+  for high frequency traders Discover how reducing latency boosts performance and
+  edge Discover more inside
 ---
 
 

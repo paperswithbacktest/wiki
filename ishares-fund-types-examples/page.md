@@ -1,6 +1,7 @@
 ---
-title: "IShares: Fund Types and Examples"
-description: "Explore iShares funds and algorithmic trading strategies to optimize investments and diversify your portfolio with cost-effective ETFs managed by BlackRock."
+title: iShares ETFs Guide to Benefits, Costs and Investment Strategies
+description: iShares ETFs simplify diversification with low fees flexible trading
+  and global fund options explore costs strategies and risks Discover more inside
 ---
 
 

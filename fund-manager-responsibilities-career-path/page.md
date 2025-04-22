@@ -1,6 +1,7 @@
 ---
-title: "Fund Manager: Responsibilities and Career Path"
-description: "Explore the responsibilities and career path of fund managers in algorithmic trading as they navigate dynamic markets utilizing technology to optimize investment strategies."
+title: Complete Guide to Becoming and Succeeding as a Fund Manager
+description: Fund Manager roles responsibilities and skills along with qualifications
+  career path and evaluation in this professional guide Discover more inside
 ---
 
 

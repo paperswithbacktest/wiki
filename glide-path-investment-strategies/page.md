@@ -1,6 +1,7 @@
 ---
-title: "Glide Path in Investment Strategies"
-description: "Explore how glide path strategies in investing adjust asset allocation over time, reduce risk near retirement, and integrate algorithmic trading for enhanced management."
+title: Understanding Glide Path Investment Strategies for Retirement
+description: Glide path strategies explain how to shift your asset allocation from
+  stocks to bonds over time for smoother retirement planning Discover more inside.
 ---
 
 

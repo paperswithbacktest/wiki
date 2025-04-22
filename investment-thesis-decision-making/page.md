@@ -1,6 +1,7 @@
 ---
-title: "Investment Thesis in Decision-Making"
-description: "Explore essential concepts in decision-making for investment and algorithmic trading Learn to craft strategies and develop theses with this comprehensive guide"
+title: Developing a Strong Investment Thesis for Smart Investing
+description: Investment Thesis helps you make informed choices by defining clear reasons
+  evaluating risks and analyzing data for smarter investing Discover more inside
 ---
 
 

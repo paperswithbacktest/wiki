@@ -1,6 +1,7 @@
 ---
-title: "Green Book: Overview, Functionality, and Variants"
-description: "Explore how algorithmic trading integrates Green Book insights to optimize strategies using economic forecasts and policy guidelines for enhanced market decision-making."
+title: Green Book Essential Travel Guide for African American Travelers
+description: Green Book guided African American travelers to safe hotels restaurants
+  and gas stations during segregation with detailed listings Discover more inside
 ---
 
 

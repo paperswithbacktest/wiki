@@ -1,6 +1,7 @@
 ---
-title: "Incremental Value at Risk: Interpretation and Usage"
-description: "Explore how Incremental Value at Risk helps investors make informed decisions in algorithmic trading by assessing individual asset impacts on portfolio risk."
+title: Understanding Incremental Value at Risk for Portfolio Management
+description: Incremental Value at Risk measures how adding or removing assets shifts
+  your portfolio risk enabling informed adjustments Discover more inside.
 ---
 
 

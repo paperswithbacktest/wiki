@@ -1,6 +1,7 @@
 ---
-title: "Forex Trading Automation Software"
-description: "Explore the transformative world of forex trading automation Discover how algo trading software minimizes emotions while enhancing precision and efficiency"
+title: Comprehensive Guide To Forex Trading Automation Software
+description: Forex trading automation software executes trades 24/7 using algorithmic
+  rules to remove emotion and improve consistency Discover more inside
 ---
 
 

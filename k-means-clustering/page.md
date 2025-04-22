@@ -1,6 +1,7 @@
 ---
-title: "K-means clustering"
-description: "Explore how K-means clustering enhances algorithmic trading by identifying data patterns with innovative integration of technical indicators like RSI for profitable strategies."
+title: K-Means Clustering Explained and Real-World Applications
+description: K-Means clustering explains how to group data into meaningful clusters
+  with clear steps and real world use cases including trading Discover more inside
 ---
 
 

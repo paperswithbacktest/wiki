@@ -1,6 +1,8 @@
 ---
-title: "Investing in Mortgage-Backed Securities"
-description: "Explore the intricacies of mortgage-backed securities and algorithmic trading Find insights into MBS types risks and the impact of evolving trading strategies"
+title: Understanding Mortgage-Backed Securities and Investment Risks
+description: Mortgage-Backed Securities offer steady income by pooling home loans
+  into tradable assets while spreading risk active investors can explore. Discover
+  more inside.
 ---
 
 

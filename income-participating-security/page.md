@@ -1,6 +1,7 @@
 ---
-title: "Income Participating Security"
-description: "Discover how Income Participating Securities (IPS) combine equity and fixed-income benefits to enhance investment returns and manage risk via algorithmic trading."
+title: Understanding Income Participating Securities for Steady Returns
+description: Income Participating Securities combine fixed interest and profit sharing
+  investors earn income and benefit from company growth Discover more inside
 ---
 
 

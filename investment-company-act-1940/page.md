@@ -1,6 +1,7 @@
 ---
-title: "Investment Company Act of 1940"
-description: "Explore how the Investment Company Act of 1940 shapes algorithmic trading within regulatory frameworks to ensure transparency and investor protection."
+title: Key Provisions of the Investment Company Act of 1940 Explained
+description: Investment Company Act of 1940 enforces disclosure and governance standards
+  that protect investors and prevent fraud today Discover more inside
 ---
 
 

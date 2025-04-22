@@ -1,6 +1,7 @@
 ---
-title: "How to build a quant trading system?"
-description: "Learn how to build a successful quantitative trading system from scratch. This comprehensive guide covers training, strategy development, data acquisition, backtesting, optimization, paper trading, deployment, continuous monitoring, risk management, and improvement. Dive in for a step-by-step approach to mastering quant trading."
+title: Comprehensive Guide to Building a Quantitative Trading System
+description: Quantitative trading uses data models real time execution and risk management
+  to automate decisions and improve efficiency Discover more inside.
 ---
 
 

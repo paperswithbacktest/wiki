@@ -1,6 +1,8 @@
 ---
-title: "Geometric Brownian Motion Explained"
-description: Discover the role of Geometric Brownian Motion in algorithmic trading as this article investigates into its applications for modeling stock prices and optimizing trading strategies. Understand how GBM aids in forecasting asset returns and assesses market volatility within automated trading frameworks, alongside its impact on trading outcomes. Learn about the advantages and limitations of GBM and explore emerging trends in its application while gaining insights into the integration of this mathematical model in the financial market.
+title: Comprehensive Guide to Geometric Brownian Motion in Finance
+description: Geometric Brownian Motion explains stock price dynamics using drift and
+  volatility to simulate future scenarios for option pricing and risk management Discover
+  more inside.
 ---
 
 

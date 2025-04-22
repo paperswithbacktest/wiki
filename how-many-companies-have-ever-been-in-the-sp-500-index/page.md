@@ -1,6 +1,7 @@
 ---
-title: "How Many Companies Have Ever Been in the S&P 500 Index?"
-description: Discover the role and impact of algorithmic trading in the S&P 500 Index. This article explores how companies leverage algo trading to optimize efficiency and gain competitive advantages within one of the most trusted financial benchmarks for the U.S. economy. Uncover the sectors most likely to adopt these strategies and understand the broader market implications.
+title: Understanding S&P 500 Index Selection And Turnover
+description: S&P 500 index explains how 500 top US companies are selected and replaced
+  to reflect market shifts in active portfolios. Discover more inside.
 ---
 
 

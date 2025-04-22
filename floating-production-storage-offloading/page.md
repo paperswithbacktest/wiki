@@ -1,6 +1,7 @@
 ---
-title: "Floating Production Storage and Offloading"
-description: "Discover how Floating Production Storage and Offloading systems optimize oil extraction with marine engineering and algorithmic trading for enhanced efficiency."
+title: Floating Production Storage And Offloading FPSO Systems Explained
+description: FPSO vessels enable cost effective offshore extraction by processing
+  storing and offloading oil on site in deep water fields Discover more inside
 ---
 
 

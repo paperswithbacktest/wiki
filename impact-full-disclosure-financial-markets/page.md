@@ -1,6 +1,7 @@
 ---
-title: "Impact of Full Disclosure on Financial Markets"
-description: "Explore the impact of full disclosure in financial markets, focusing on how transparency affects algorithmic trading. This article examines regulatory measures needed to ensure fairness and prevent market manipulation in a rapidly evolving digital marketplace."
+title: Full Disclosure In Financial Markets Importance And Transparency
+description: Full disclosure gives investors vital company insights to make informed
+  choices and build confidence and fairness in markets Discover more inside
 ---
 
 

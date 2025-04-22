@@ -1,6 +1,7 @@
 ---
-title: "Identifying and Reporting Cryptocurrency Scams"
-description: "Explore the world of cryptocurrency and algorithmic trading while learning how to identify and report scams. Understand the decentralized nature and security features of digital currencies as well as the benefits and risks of algorithmic trading. This article guides you through recognizing common crypto scams, such as Ponzi schemes and fraudulent ICOs, and implementing fraud prevention measures. Gain insights into the regulatory landscape and community efforts to enhance trading safety and protect your investments."
+title: Guide to Identifying and Preventing Cryptocurrency Scams
+description: Cryptocurrency scams cost investors money and data. Spot red flags in
+  phishing and pump and dump tactics and secure your assets. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Liquidity provision"
-description: "Discover how liquidity provision through algorithmic trading enhances market stability by minimizing price disruptions and ensuring seamless asset transactions."
+title: Understanding Liquidity Providers in Financial Markets
+description: Liquidity providers keep financial markets liquid by backing buy and
+  sell orders and stabilizing prices while earning bid ask spreads Discover more inside
 ---
 
 

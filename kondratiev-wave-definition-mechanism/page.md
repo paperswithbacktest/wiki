@@ -1,6 +1,7 @@
 ---
-title: "Kondratiev Wave: Definition and Mechanism"
-description: "Explore Kondratiev Waves to understand long-term economic cycles and their impact on algo trading Gain insights into strategic investment informed by macroeconomic trends"
+title: Understanding Kondratiev Waves and Long Economic Cycles
+description: Kondratiev Wave theory explains how 50 to 60 year economic cycles driven
+  by technology impact policy and investment planning Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Brexit Deal: Winners and Losers"
-description: "Explore the impact of the Brexit deal on various sectors with a focus on winners like US bankers and machine part manufacturers amid volatility and evolving markets."
+title: Understanding the Brexit Deal Impact on UK and EU Relations
+description: Brexit deal transforms trade immigration and UK EU relations offering
+  key insights on winners losers and future outlook Discover more inside
 ---
 
 

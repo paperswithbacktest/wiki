@@ -1,6 +1,8 @@
 ---
-title: "Impact of Baby Boomers on Social Security Solvency"
-description: "Explore the impact of Baby Boomers on Social Security's solvency alongside algorithmic trading's influence on market dynamics and economic factors."
+title: Social Security Funding Challenges From Baby Boomer Retirements
+description: Social Security is strained by Baby Boomer retirements and a shrinking
+  worker retiree ratio Discover how policy changes could secure benefits Find out
+  more
 ---
 
 

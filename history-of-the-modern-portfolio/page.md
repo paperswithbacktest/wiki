@@ -1,6 +1,7 @@
 ---
-title: "History of the Modern Portfolio"
-description: "Discover the evolution of investment strategies from traditional methods to advanced technology-driven approaches, focusing on algorithmic trading."
+title: Understanding Modern Portfolio Theory for Balanced Investing
+description: Modern Portfolio Theory guides investors to balance risk and return through
+  diversification and advanced techniques for stable growth. Discover more inside
 ---
 
 

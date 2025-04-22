@@ -1,6 +1,8 @@
 ---
-title: "Joseph Stiglitz on Income Inequality Post-COVID-19: April 2020 Interview"
-description: "Explore Joseph Stiglitz's insights on income inequality magnified by COVID-19 and the impacts of algorithmic trading on financial markets' stability and economic disparities."
+title: Income Inequality and COVID-19 Insights From Joseph Stiglitz
+description: Income inequality rose during COVID-19 as low-income workers lost jobs
+  and top earners benefited Stiglitz offers policy steps toward recovery Discover
+  more
 ---
 
 

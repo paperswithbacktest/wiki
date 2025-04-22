@@ -1,6 +1,7 @@
 ---
-title: "Fraction Of Successes (Machine Learning)"
-description: "Discover the Fraction of Successes metric in machine learning Learn how it measures model accuracy and its limitations in handling imbalanced datasets"
+title: Understanding the Fraction of Successes in Machine Learning Models
+description: Fraction of Successes measures how often a model predicts correctly and
+  highlights its strengths and limitations across scenarios Discover more inside
 ---
 
 ![Image](images/1.jpeg)

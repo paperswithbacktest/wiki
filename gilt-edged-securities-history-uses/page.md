@@ -1,6 +1,8 @@
 ---
-title: "Gilt-Edged Securities: History and Uses"
-description: "Explore the history and uses of gilt-edged securities in algo trading Discover how these government-backed bonds and modern trading strategies can enhance your investments"
+title: Understanding Gilt-Edged Securities for Reliable Investment
+description: Gilt-Edged Securities offer a safe government-backed investment with
+  steady income and inflation protection in diversified portfolios. Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Kamala Harris's Economic Plan"
-description: "Explore how Kamala Harris's economic plan impacts algorithmic trading and the broader US economy. Analyze its influence on financial strategies, economic growth, and policy outcomes, understanding its potential to foster equitable growth and address income disparities."
+title: Kamala Harris Economic Plan Empowers Working Families
+description: Kamala Harris economic plan raises wages ensures affordable healthcare
+  invests in infrastructure to boost small businesses create jobs Discover more inside
 ---
 
 

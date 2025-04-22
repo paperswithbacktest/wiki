@@ -1,6 +1,7 @@
 ---
-title: "Least Squares Criterion"
-description: "Discover how the least squares method enhances algorithmic trading by improving data analysis for precise predictions and effective strategy formulation."
+title: Applying the Least Squares Criterion to Regression Analysis
+description: Least Squares Criterion guides you to find the best fitting line by minimizing
+  squared residuals and improving regression accuracy Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "International Investment Strategies"
-description: "Explore international investment strategies with insights on algorithmic trading and diversification to enhance portfolio growth while managing associated risks."
+title: International Investment Strategies for Global Portfolio Growth
+description: International investment empowers you to diversify across markets manage
+  currency and geopolitical risks seizing growth opportunities Discover more inside
 ---
 
 

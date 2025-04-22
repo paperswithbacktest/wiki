@@ -1,6 +1,7 @@
 ---
-title: "Guns and Butter Curve"
-description: "Explore the Guns and Butter Curve and Production Possibility Frontier to understand trade-offs in economics and their impact on algorithmic trading strategies."
+title: "Understanding The Guns And Butter Curve In Economic Trade\u2011Offs"
+description: "Guns and Butter Curve illustrates how resource choices create trade\u2011\
+  offs and opportunity costs for military and civilian goods Discover more inside."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Labor Mobility Economics"
-description: "Explore how labor mobility and migration shape economic growth and productivity, highlighting their impact on algorithmic trading in the finance sector."
+title: Understanding Labor Mobility and Its Impact on Economic Growth
+description: Labor mobility drives economic growth by matching workers to jobs, boosting
+  productivity in evolving markets while easing skill gaps Discover more inside.
 ---
 
 

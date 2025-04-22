@@ -1,6 +1,7 @@
 ---
-title: "Inherent Risk Examples"
-description: "Explore the inherent risks of algorithmic trading and discover effective strategies for risk management Learn how to safeguard investments from technical and market challenges"
+title: Identifying and Managing Inherent Risk Across Industries
+description: Inherent Risk analysis helps businesses spot process hazards before controls
+  and apply measures to reduce threats and ensure compliance Discover more
 ---
 
 

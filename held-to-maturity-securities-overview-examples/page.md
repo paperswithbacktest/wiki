@@ -1,6 +1,7 @@
 ---
-title: "Held-to-Maturity Securities: Overview and Examples"
-description: "Discover the benefits of held-to-maturity securities and algorithmic trading in fixed income markets Learn how these tools enhance stability and investment strategy"
+title: Understanding Held-to-Maturity Securities Accounting Rules
+description: Held-to-Maturity Securities offer steady predictable income, with fixed-rate
+  bonds held to maturity under strict accounting rules Discover more inside.
 ---
 
 

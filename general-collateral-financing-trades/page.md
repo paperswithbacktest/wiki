@@ -1,6 +1,7 @@
 ---
-title: "General Collateral Financing Trades"
-description: "Explore the intricate world of General Collateral Financing Trades and algorithmic trading where advanced technology enhances liquidity and trading efficiency."
+title: Understanding General Collateral Financing Trades For Banks
+description: General Collateral Financing Trades unlock liquidity with quality securities
+  as collateral while helping institutions manage risk Discover more inside.
 ---
 
 

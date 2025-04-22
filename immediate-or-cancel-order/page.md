@@ -1,6 +1,7 @@
 ---
-title: "Immediate or Cancel Order"
-description: "Explore the impact of algorithmic trading on stock orders and finance Understand market order types and algo trading's role in optimizing executions"
+title: Understanding Immediate Or Cancel (IOC) Orders For Traders
+description: IOC Order lets traders secure immediate fills while canceling unfilled
+  portions to manage risk in fast markets and protect portfolios Discover more inside.
 ---
 
 

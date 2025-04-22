@@ -1,6 +1,7 @@
 ---
-title: "Kelly Criterion in Asset Allocation and Money Management"
-description: "Optimize your trading strategy with the Kelly Criterion learn how this mathematical formula can enhance asset allocation and risk management in algorithmic trading."
+title: Applying the Kelly Criterion for Optimal Asset Allocation
+description: Kelly Criterion empowers investors to calculate optimal bet sizes for
+  balanced risk and reward in portfolios and safely grow wealth Discover more inside.
 ---
 
 

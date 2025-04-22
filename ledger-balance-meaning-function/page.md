@@ -1,6 +1,7 @@
 ---
-title: "Ledger Balance: Meaning and Function"
-description: "Understand how ledger balance impacts banking and algorithmic trading by providing a snapshot of your account's end-of-day financial standing for effective planning."
+title: Understanding Ledger Balance Versus Available Balance
+description: Ledger balance shows your end of day total while available balance reveals
+  funds you can spend now helping you avoid overdraft fees Discover more inside
 ---
 
 

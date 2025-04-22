@@ -1,6 +1,7 @@
 ---
-title: "L Bond: Overview and Characteristics"
-description: "Discover the unique characteristics of L Bonds, intertwined with algorithmic trading, offering insights into innovative investment strategies and market dynamics."
+title: Investor Guide to L Bonds Features Risks and Benefits
+description: L Bonds provide insights on higher yielding corporate and asset backed
+  debt with risk strategies and portfolio diversification Discover more inside
 ---
 
 

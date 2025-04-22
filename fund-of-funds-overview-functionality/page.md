@@ -1,6 +1,7 @@
 ---
-title: "Fund of Funds: Overview and Functionality"
-description: "Explore the synergy between Fund of Funds and algorithmic trading to enhance diversification and optimize trade execution, aiming for improved returns and reduced risk."
+title: Fund of Funds Explained A Comprehensive Guide for Investors
+description: Fund of Funds offer diversified exposure through a single expertly managed
+  portfolio that balances risk and simplifies oversight Discover more inside
 ---
 
 

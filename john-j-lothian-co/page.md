@@ -1,6 +1,7 @@
 ---
-title: "John J. Lothian & Co."
-description: "Explore John J. Lothian & Co.'s pivotal role in algorithmic trading and financial media, showcasing their innovative strategies and educational initiatives."
+title: John J. Lothian & Co Financial Advisory Services Overview
+description: John J. Lothian & Co provides expert financial advisory and investment
+  solutions tailored to your goals with proven risk management Discover more inside.
 ---
 
 

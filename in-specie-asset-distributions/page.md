@@ -1,6 +1,7 @@
 ---
-title: "In Specie in Asset Distributions"
-description: "Discover the intricacies of in specie asset distributions and algorithmic trading to enhance your financial strategies Understand how these concepts optimize risk and return"
+title: In Specie Distributions for Corporate Asset Management
+description: In specie distributions let companies transfer assets to shareholders
+  optimizing taxes and growth while ensuring compliance Discover more inside.
 ---
 
 

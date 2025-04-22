@@ -1,6 +1,7 @@
 ---
-title: "Issues Arising from Centralized Cryptocurrency Mining"
-description: "Explore how centralized cryptocurrency mining impacts decentralization and introduces security risks like 51% attacks along with the complexities of algorithmic trading."
+title: Centralized Cryptocurrency Mining Risks Effects and Solutions
+description: Centralized cryptocurrency mining poses risks to decentralization efficiency
+  and security while driving high energy use and e waste Discover more inside
 ---
 
 

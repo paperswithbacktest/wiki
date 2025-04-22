@@ -1,6 +1,8 @@
 ---
-title: "Investment Strategies in Greece: Risks and Rewards"
-description: "Explore the high-risk, high-reward potential of investing in Greece's recovering market through algorithmic trading Evaluate opportunities amidst economic volatility"
+title: Comprehensive Guide To Investing In Greek Assets And Markets
+description: Investing in Greek assets offers a roadmap to navigate economic risks
+  tax rules and market volatility while diversifying your portfolio Discover more
+  inside
 ---
 
 

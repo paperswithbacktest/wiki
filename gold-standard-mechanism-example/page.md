@@ -1,6 +1,7 @@
 ---
-title: "Gold Standard: Mechanism and Example"
-description: "Explore the evolution of monetary systems from the gold standard to fiat currency and algorithmic trading Learn how these impact modern finance and economics"
+title: Understanding the Gold Standard Monetary System And Its Impact
+description: Gold Standard links currency value to gold for stable money and controlled
+  inflation Explore its full history pros and cons Discover more inside
 ---
 
 

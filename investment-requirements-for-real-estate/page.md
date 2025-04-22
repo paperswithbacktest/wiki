@@ -1,6 +1,7 @@
 ---
-title: "Investment Requirements for Real Estate"
-description: "Explore the transformative blend of real estate investment and algorithmic trading Discover how automation and data analytics enhance returns and decision-making"
+title: Understanding Real Estate Investment Requirements and Costs
+description: Real Estate Investment Requirements cover minimum capital needs, financing
+  options, ongoing costs and strategies to maximize returns. Discover more inside.
 ---
 
 

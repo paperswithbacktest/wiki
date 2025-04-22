@@ -1,6 +1,7 @@
 ---
-title: "Impact of Quantitative Easing on Bond Market"
-description: "Explore the dynamic impact of quantitative easing on bond markets and algorithmic trading, analyzing their intricate influences on global financial stability and investment strategies."
+title: Quantitative Easing and Its Effects on the Bond Market
+description: Quantitative easing uses newly created money to buy bonds adding liquidity
+  lowering yields and cutting borrowing costs, stimulating growth Discover more
 ---
 
 

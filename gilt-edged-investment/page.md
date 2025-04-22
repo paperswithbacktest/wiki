@@ -1,6 +1,7 @@
 ---
-title: "Gilt-Edged Investment"
-description: "Explore the stability of gilt-edged investments and sovereign bonds in fixed-income markets and how algorithmic trading enhances their efficiency and liquidity."
+title: A Guide to Gilt-Edged Investments and Government Bonds
+description: Gilt-edged investments offer government-backed returns and steady income
+  to protect your portfolio from market volatility Discover more inside.
 ---
 
 

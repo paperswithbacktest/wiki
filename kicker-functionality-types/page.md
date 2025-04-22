@@ -1,6 +1,7 @@
 ---
-title: "Kicker: Functionality and Types"
-description: "Explore the functionality and types of kickers in finance and trading, from equity and real estate incentives to candlestick patterns signaling market reversals."
+title: Furniture Kicker Guide Types Materials Installation And Trends
+description: Furniture kicker enhances stability and style by hiding gaps and matching
+  materials with customizable and advanced feature options Discover more inside
 ---
 
 

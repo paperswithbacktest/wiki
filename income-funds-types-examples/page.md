@@ -1,6 +1,7 @@
 ---
-title: "Income Funds: Types and Examples"
-description: "Explore the potential of income funds and algorithmic trading for optimizing your investment portfolio with steady income and innovative trading strategies."
+title: Income Funds Explained For Investors Seeking Regular Returns
+description: Income funds offer investors steady dividend, bond, and real estate income
+  while balancing risk through diversified portfolios Discover more inside
 ---
 
 

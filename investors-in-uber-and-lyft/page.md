@@ -1,6 +1,7 @@
 ---
-title: "Investors in Uber and Lyft"
-description: "Explore the crucial role of investors and algorithmic trading in the growth and innovation of Uber and Lyft within the dynamic ride-sharing industry."
+title: Uber and Lyft Investment Strategies and Growth Comparison
+description: Uber and Lyft investments trace key funding milestones from early backers
+  through venture rounds to IPOs fueling rideshare growth Discover more inside
 ---
 
 

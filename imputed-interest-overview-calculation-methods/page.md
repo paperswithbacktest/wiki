@@ -1,6 +1,8 @@
 ---
-title: "Imputed Interest: Overview and Calculation Methods"
-description: "Explore imputed interest in finance covering its significance, calculation methods, and its role in algo trading to enhance market strategies."
+title: Comprehensive Guide to Imputed Interest and Tax Implications
+description: "Imputed interest determines taxable income on below\u2011market loans\
+  \ using IRS Applicable Federal Rates to align reporting with tax rules Discover\
+  \ more inside"
 ---
 
 

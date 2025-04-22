@@ -1,6 +1,7 @@
 ---
-title: "Kangaroos and Their Function in the Bond Market"
-description: "Explore the dynamic role of Kangaroo bonds and algorithmic trading in bond markets Learn how they diversify portfolios and enhance investment strategies"
+title: Understanding Kangaroo Bonds in the Australian Market
+description: Kangaroo bonds enable investors to access foreign issuers in Australian
+  dollars and diversify portfolios with global exposure. Discover more inside.
 ---
 
 

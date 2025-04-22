@@ -1,6 +1,7 @@
 ---
-title: "Identifying Index-Tracking Mutual Funds"
-description: "Explore how index-tracking mutual funds and algorithmic trading can enhance investment portfolios by balancing traditional diversification with modern efficiency strategies."
+title: Passive Low-Cost Strategy Using Index-Tracking Mutual Funds
+description: Index-tracking mutual funds offer low-cost diversification market-matching
+  returns minimal management and tax efficiency Discover more inside
 ---
 
 

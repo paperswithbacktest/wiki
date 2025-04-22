@@ -1,6 +1,7 @@
 ---
-title: "Interim Dividend: Payment Process and Eligibility"
-description: "Explore the connection between interim dividends and algorithmic trading in this insightful guide. Learn about dividend payouts and smart investment strategies."
+title: Interim Dividend Explained How Companies Distribute Earnings
+description: Interim dividend delivers early shareholder payouts for those holding
+  shares by the record date process eligibility and tax rules Discover more inside
 ---
 
 

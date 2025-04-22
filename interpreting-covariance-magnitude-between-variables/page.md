@@ -1,6 +1,7 @@
 ---
-title: "Interpreting Covariance Magnitude Between Variables"
-description: "Explore the significance of covariance and correlation in algo trading to enhance strategies and risk management. Learn to interpret these key statistical tools."
+title: Understanding Covariance and Correlation in Statistical Analysis
+description: Covariance and correlation show how variables move together and reveal
+  both direction and strength for clearer data insights Discover more inside.
 ---
 
 

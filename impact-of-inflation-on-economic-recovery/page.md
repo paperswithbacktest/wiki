@@ -1,6 +1,7 @@
 ---
-title: "Impact of Inflation on Economic Recovery"
-description: "Explore how inflation impacts economic recovery and the strategic role of algorithmic trading in managing inflationary challenges while fostering growth."
+title: Understanding Inflation Impact on Economic Recovery and Growth
+description: Inflation is measured by CPI to track price changes and affects spending,
+  saving, and policy decisions during economic recovery. Discover more inside.
 ---
 
 

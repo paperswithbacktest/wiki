@@ -1,6 +1,7 @@
 ---
-title: "Inefficient Portfolio and Its Functioning"
-description: "Explore inefficient portfolios and their impact on returns and risk management in trading. Discover how algorithmic trading can optimize and enhance portfolio performance."
+title: Understanding Inefficient Portfolios and How to Optimize Returns
+description: Inefficient portfolio drags returns and raises risk This guide uses active
+  diversification and rebalancing to balance risk and reward Discover more inside
 ---
 
 

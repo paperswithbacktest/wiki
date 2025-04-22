@@ -1,6 +1,7 @@
 ---
-title: "liquidity mining"
-description: "Explore the integration of liquidity mining and algorithmic trading in DeFi to boost efficiency and profitability through automated and strategic participation."
+title: Understanding Liquidity Mining Opportunities and Risks
+description: Liquidity mining lets crypto investors earn tokens by providing liquidity
+  and exploring benefits risks platforms and strategies Discover more inside
 ---
 
 

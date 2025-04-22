@@ -1,6 +1,7 @@
 ---
-title: "International Bond Investing: Overview and Risks"
-description: "Explore international bond investing and understand the risks involved. Learn how algorithmic trading aids in managing complexities for optimal investment strategies."
+title: Guide to Investing in International Bonds and Risk Management
+description: International bonds offer portfolio diversification and access to global
+  yields while managing currency and political risks Discover more inside.
 ---
 
 

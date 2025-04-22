@@ -1,6 +1,7 @@
 ---
-title: "Interest on Interest"
-description: "Explore how compound interest transforms investment growth and its integration within algorithmic trading for enhanced portfolio performance and risk management."
+title: Understanding Compound Interest For Long Term Wealth Growth
+description: Compound Interest boosts savings by earning interest on interest Explore
+  how compounding frequency and timing boost growth Discover more inside
 ---
 
 

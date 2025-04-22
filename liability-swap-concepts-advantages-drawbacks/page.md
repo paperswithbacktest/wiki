@@ -1,6 +1,7 @@
 ---
-title: "Liability Swap: Concepts, Advantages, and Drawbacks"
-description: "Explore the benefits and challenges of liability swaps in algo trading for effective risk management and optimized financial strategies in today's markets."
+title: Understanding Liability Swaps For Corporate Debt Risk Management
+description: Liability swap agreements let companies exchange debt obligations to
+  cut interest costs, manage currency and credit risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Income Effect and Price Effect: Differences"
-description: "Explore the differences between income effect and price effect in the context of algorithmic trading. Learn how these economic concepts influence trading strategies."
+title: Understanding Income Effect and Price Effect in Consumer Demand
+description: Income effect and price effect reveal how income and price shifts shape
+  consumer demand behavior guiding spending choices Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Global Research and Development Expenditure by Country"
-description: "Explore how global R&D expenditures impact technological advancements in algorithmic trading. Discover which countries lead in investing for innovation and economic growth."
+title: Global R&D Expenditure Insights Across Leading Countries
+description: R&D expenditure analysis reveals how top countries invest in innovation,
+  compare spending as a percentage of GDP and sector drivers Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Fracking on U.S. Oil Independence"
-description: "Explore the impact of fracking and algorithmic trading on U.S. oil independence Analyzing their roles in energy security and market dynamics with environmental considerations"
+title: Impact of Fracking on US Oil Production and Market Dynamics
+description: Fracking boosts US oil output while prompting job growth community gains
+  and environmental safeguards and concerns over water use Discover more inside
 ---
 
 

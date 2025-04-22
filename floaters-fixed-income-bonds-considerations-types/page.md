@@ -1,6 +1,8 @@
 ---
-title: "Floaters and Fixed Income Bonds: Meaning, Considerations, and Types"
-description: "Explore the fundamentals of floaters and fixed income bonds including their types, benefits, risks, and the impact of algorithmic trading on bond markets."
+title: Understanding Floaters and Fixed Income Bonds for Investors
+description: Floating rate bonds adjust with market benchmarks while fixed income
+  bonds deliver predictable income Compare their benefits and risks Discover more
+  inside
 ---
 
 

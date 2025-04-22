@@ -1,6 +1,7 @@
 ---
-title: "Issuer (Finance)"
-description: "Explore the transformative impact of algorithmic trading on financial markets, focusing on its integration with issuer securities to enhance trade execution and market efficiency."
+title: Issuer In Finance Roles, Processes And Regulatory Requirements
+description: Issuer in finance describes organizations that create and sell securities
+  while ensuring regulatory compliance and transparent updates Discover more inside
 ---
 
 

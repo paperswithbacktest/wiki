@@ -1,6 +1,7 @@
 ---
-title: "Horizontal Channel: Definition and Functionality with Examples"
-description: "Discover how horizontal channels can enhance trading strategies with algo trading. Learn to identify support and resistance levels for better decision-making."
+title: Master Horizontal Channel Trading Patterns with Confidence
+description: Horizontal channel trading guides you on spotting sideways price moves
+  between support and resistance so you can buy low sell high Discover more inside
 ---
 
 

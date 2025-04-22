@@ -1,6 +1,7 @@
 ---
-title: "Gaussian probability distributions"
-description: Explore the foundational role of Gaussian probability distributions in algorithmic trading, highlighting their significance in modeling asset returns and price variations. Understand how Gaussian models, characterized by the bell-shaped normal distribution curve, assist in market trend analysis and risk management. Despite their advantages, these models have limitations due to market anomalies, requiring traders to complement them with additional statistical tools.
+title: Gaussian Distribution Explained With Key Properties And Uses
+description: Gaussian distribution provides a framework for modeling data and quantifying
+  volatility through mean and standard deviation Discover more inside
 ---
 
 

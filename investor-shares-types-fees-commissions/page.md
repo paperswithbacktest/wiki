@@ -1,6 +1,7 @@
 ---
-title: "Investor Shares: Types, Fees, and Commissions"
-description: "Explore investor shares and the impact of fees and commissions on returns. Learn about algorithmic trading advantages and risks to enhance your financial strategy."
+title: Investor Shares Explained A Comprehensive Guide To Fees And Types
+description: Investor shares offer ownership stakes with dividend income growth potential
+  and fee minimization strategies to boost returns Discover more inside
 ---
 
 

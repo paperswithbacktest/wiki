@@ -1,6 +1,7 @@
 ---
-title: "Form ADV-E: Overview and Function"
-description: "Explore Form ADV-E for investment advisers managing client funds or securities Learn its role in protecting client assets through annual audits and SEC compliance"
+title: Form ADV-E Compliance Guide For Investment Advisers
+description: Form ADV-E clarifies filing deadlines disclosures and amendments to ensure
+  compliance with custody rules and protect client assets Discover more inside.
 ---
 
 

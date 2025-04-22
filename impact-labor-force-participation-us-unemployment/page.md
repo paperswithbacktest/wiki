@@ -1,6 +1,7 @@
 ---
-title: "Impact of Labor Force Participation Rate on U.S. Unemployment"
-description: "Explore the impact of labor force participation rates and algorithmic trading on U.S. unemployment affecting economic policies and job market dynamics."
+title: Understanding the U.S. Labor Force Participation Rate Trends
+description: Labor force participation rate reveals how many adults are working or
+  job hunting and what that signals for the economy Discover more inside.
 ---
 
 

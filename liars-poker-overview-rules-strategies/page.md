@@ -1,6 +1,7 @@
 ---
-title: "Liar's Poker: Overview, Rules, and Strategies"
-description: "Discover Liar's Poker a strategic game fusing psychology and stats Intrigue awaits as you master rules and strategies linked to algo trading insights"
+title: Liar's Poker Guide to Rules Strategies and Bluffing Techniques
+description: Liar's Poker reveals how to master betting bluffing and bidding with
+  dollar bill serial numbers in every round for strategic wins Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Friends and Family Shares Overview and Benefits"
-description: "Explore the benefits of investing in friends and family shares, equity investments, and algo trading to enhance financial growth and optimize investment strategies."
+title: Understanding Friends and Family Shares for Startup Funding
+description: Friends and family shares offer startups early funding at discounted
+  prices while detailing legal requirements and tax implications Discover more inside
 ---
 
 

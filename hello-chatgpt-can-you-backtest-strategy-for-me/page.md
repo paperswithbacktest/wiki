@@ -1,6 +1,7 @@
 ---
-title: "Hello ChatGPT, Can You Backtest Strategy for Me?"
-description: Explore how AI, specifically ChatGPT, is revolutionizing backtesting in algorithmic trading by offering enhanced efficiency and precision. Discover the benefits and limitations of using ChatGPT for backtesting trading strategies, and learn how it can automate complex tasks and provide deeper insights compared to traditional methods. Dive into the role of ChatGPT in refining strategies like risk parity asset allocation, highlighting its potential in transforming trading decision-making processes.
+title: Backtesting Trading Strategies With ChatGPT Guidance
+description: Backtesting trading strategies with ChatGPT delivers guidance on data
+  requirements risk management and pitfalls for live testing Discover more inside
 ---
 
 

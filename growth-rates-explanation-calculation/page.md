@@ -1,6 +1,7 @@
 ---
-title: "Growth Rates: Explanation and Calculation"
-description: "Discover the critical role growth rates play in algorithmic trading. This comprehensive guide explains how financial metrics like Compound Annual Growth Rate (CAGR) and others are calculated and utilized to optimize trading strategies. Enhance your understanding of risk management and performance evaluation to make informed investment decisions in the fast-paced world of algo trading."
+title: Understanding Growth Rates for Business and Investment Analysis
+description: Growth rates reveal how sales, investments and economies expand over
+  time, guiding strategic planning and risk assessment. Discover more inside.
 ---
 
 

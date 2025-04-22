@@ -1,6 +1,8 @@
 ---
-title: "History of the Treasury Bill Auction"
-description: "Explore the history of treasury bill auctions and the impact of algorithmic trading on this crucial process. This page offers insights into T-Bills, their issuance through competitive and non-competitive auctions, and how algorithmic trading optimizes these auctions. Learn about T-Bill advantages, auction types, and the influence of economic factors on auction outcomes. Discover how algorithmic trading provides efficiency in securing favorable yields and reducing costs while understanding the potential risks involved. Enhance your investment strategy by comprehending how these elements shape the financial landscape."
+title: Understanding Treasury Bill Auctions Origins Evolution and Impact
+description: Treasury bill auctions explain how these government debt instruments
+  secure funding through competitive and non competitive bids while ensuring fair
+  rates Discover more inside
 ---
 
 

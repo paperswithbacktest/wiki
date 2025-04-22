@@ -1,6 +1,7 @@
 ---
-title: "Impact of Stock Splits on Investments"
-description: "Explore how stock splits and algorithmic trading influence stock market investments understanding their impact on trading volume liquidity and shareholder value."
+title: Understanding Stock Splits And Their Impact On Investors
+description: Stock split maintains investment value while boosting affordability,
+  liquidity and demand and can expand investor access Discover more inside.
 ---
 
 

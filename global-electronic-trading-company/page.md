@@ -1,6 +1,7 @@
 ---
-title: "Global Electronic Trading Company"
-description: "Discover the pivotal role of GETCO in revolutionizing algorithmic trading and electronic market making through innovation, speed, and strategic expansions."
+title: Global Electronic Trading Company Streamlining Worldwide Trade
+description: Global Electronic Trading Company uses advanced technology and a global
+  network to deliver electronics securely and efficiently Discover more inside.
 ---
 
 

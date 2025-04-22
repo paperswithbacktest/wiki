@@ -1,6 +1,7 @@
 ---
-title: "Insurance Industry ETF: Overview, Examples, Advantages and Disadvantages"
-description: "Explore the advantages and disadvantages of investing in Insurance Industry ETFs, including diversification and algorithmic trading's influence on this sector."
+title: Insurance Industry ETF Explained for Diversified Portfolios
+description: Insurance Industry ETF offers a low fee way to invest in a basket of
+  insurance stocks that trade intraday and help reduce risk Discover inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Institutional Shareholder Services: Overview and History"
-description: "Explore the vital roles of Institutional Shareholder Services in corporate governance and algorithmic trading, enhancing investor strategies in today's financial landscape."
+title: Institutional Shareholder Services Overview and Governance Impact
+description: Institutional Shareholder Services provides proxy voting and ESG analysis
+  to help investors influence corporate governance effectively Discover more inside
 ---
 
 

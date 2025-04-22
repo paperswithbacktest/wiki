@@ -1,6 +1,7 @@
 ---
-title: "Held Order: Meaning, Mechanism, and Applications"
-description: "Explore the fundamentals of held orders in algorithmic trading. Learn how these orders provide immediate execution, ensuring swift and effective trade actions."
+title: Understanding Held Orders in Stock Trading for Better Execution
+description: Held orders give traders control over price execution by waiting for
+  target conditions and help manage risk with timely execution Discover more inside.
 ---
 
 

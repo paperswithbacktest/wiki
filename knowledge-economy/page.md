@@ -1,6 +1,7 @@
 ---
-title: "Knowledge Economy"
-description: "Explore the knowledge economy with insights into algorithmic trading highlighting the vital role of intellectual capital and innovation in modern finance."
+title: Building Sustainable Growth in the Knowledge Economy
+description: Knowledge economy relies on education technology research and collaboration
+  to drive innovation create opportunities and growth Discover more inside.
 ---
 
 

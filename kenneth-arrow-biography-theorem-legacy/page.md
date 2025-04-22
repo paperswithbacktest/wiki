@@ -1,6 +1,7 @@
 ---
-title: "Kenneth Arrow: Biography, Theorem, and Legacy"
-description: "Explore Kenneth Arrow's influential impact on economic theory and algorithmic trading His Impossibility Theorem shapes social choice theory while his insights drive modern trading systems"
+title: Kenneth Arrow Pioneering Contributions to Economic Thought
+description: Kenneth Arrow redefined economic theory with foundational insights into
+  general equilibrium social choice and health economics Discover more inside
 ---
 
 

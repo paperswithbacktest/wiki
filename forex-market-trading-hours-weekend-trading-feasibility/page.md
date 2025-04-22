@@ -1,6 +1,7 @@
 ---
-title: "Forex Market Trading Hours: Weekend Trading Feasibility"
-description: "Explore the dynamics of the global forex market with insights into trading hours, including the impact of Sydney, Tokyo, London, and New York sessions on market liquidity and volatility. Understand the feasibility of weekend forex trading with its unique risks and opportunities, and discover how algorithmic trading leverages technology for speed and precision. This comprehensive guide aids traders in optimizing strategies and managing risks by aligning with market hours and embracing technological advancements in trading."
+title: Understanding Forex Trading Hours and Weekend Trading Risks
+description: Forex trading hours extend 24/5 with peak liquidity during London New
+  York overlap Weekend trading has less liquidity and higher risk Discover more inside
 ---
 
 

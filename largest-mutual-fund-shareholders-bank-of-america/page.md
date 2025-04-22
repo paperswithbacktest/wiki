@@ -1,6 +1,7 @@
 ---
-title: "Largest Mutual Fund Shareholders of Bank of America"
-description: "Explore the pivotal role of mutual funds and algo trading in shaping Bank of America's financial strategy and learn how these elements drive market influence."
+title: Mutual Fund Ownership Trends in Bank of America Stock
+description: Mutual fund ownership in Bank of America shapes stock performance and
+  risk management through diversified holdings Discover more inside today.
 ---
 
 

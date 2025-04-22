@@ -1,6 +1,7 @@
 ---
-title: "In-Group Bias (Machine Learning)"
-description: "Understand how in-group bias affects machine learning algorithms leading to unfair outcomes Learn methods to identify and mitigate these biases for fairness"
+title: Mitigating In-Group Bias in Machine Learning Systems
+description: In-group bias in machine learning skews model fairness. Explore data
+  balancing and fairness metrics to build equitable AI. Discover more inside
 ---
 
 ![Image](images/1.png)

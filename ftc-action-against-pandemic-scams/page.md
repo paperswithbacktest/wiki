@@ -1,6 +1,7 @@
 ---
-title: "FTC Action Against Pandemic Scams"
-description: "Explore the FTC's initiatives to counter pandemic scams and algorithmic trading frauds, safeguarding consumers against COVID-19-related deception and financial loss."
+title: Federal Trade Commission Actions Against Pandemic Scams
+description: FTC shows how it tracks and stops pandemic scams with legal actions and
+  consumer guidance that recover losses and deter fraud Discover more inside.
 ---
 
 

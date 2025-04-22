@@ -1,6 +1,7 @@
 ---
-title: "International Foreign Exchange Master Agreement"
-description: "Discover how the International Foreign Exchange Master Agreement (IFEMA) standardizes forex trading, enhancing market stability and supporting algorithmic strategies."
+title: Understanding International Foreign Exchange Master Agreements
+description: International Foreign Exchange Master Agreement sets clear terms for
+  payment delivery and dispute resolution in currency trading Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Guide to Tax-Loss Harvesting With ETFs"
-description: "Explore tax-loss harvesting using ETFs and algorithmic trading to optimize investment strategies. Learn how these tools can enhance returns and manage risk effectively."
+title: Effective Tax-Loss Harvesting With ETFs For Smart Investors
+description: Tax-loss harvesting with ETFs maximizes savings by selling underperforming
+  funds to offset capital gains and keep market exposure. Discover more inside.
 ---
 
 

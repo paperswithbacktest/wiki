@@ -1,6 +1,7 @@
 ---
-title: "Golden Share: Overview and Benefits"
-description: "Explore the benefits of golden shares in corporate governance and their role alongside algorithmic trading in shaping financial landscapes and stakeholder influence."
+title: Understanding Golden Shares Definition History and Impact
+description: Golden share gives governments veto power over major corporate changes
+  to safeguard national interests and maintain stability Discover more inside.
 ---
 
 

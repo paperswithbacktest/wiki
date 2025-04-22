@@ -1,6 +1,7 @@
 ---
-title: "Institute of Petroleum"
-description: "Explore the impact of AI on oil and gas trading at the Institute of Petroleum, focusing on algorithmic strategies that enhance efficiency and decision-making."
+title: Institute of Petroleum Foundations and Legacy in Modern Energy
+description: Institute of Petroleum shaped oil and gas standards through research
+  education and collaboration to drive industry excellence Discover more inside.
 ---
 
 

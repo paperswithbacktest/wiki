@@ -1,6 +1,7 @@
 ---
-title: "Homo Economicus: Concept and Critiques"
-description: "Explore Homo Economicus, the rational economic agent model, its impact on economic theory, and critiques highlighting its disconnect from real human behavior."
+title: Homo Economicus Explained Critiques and Behavioral Alternatives
+description: Homo Economicus frames decision making as purely rational but neglects
+  emotions social influences and limited information Discover more inside.
 ---
 
 

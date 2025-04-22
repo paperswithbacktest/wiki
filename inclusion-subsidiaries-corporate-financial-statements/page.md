@@ -1,6 +1,7 @@
 ---
-title: "Inclusion of Subsidiaries in Corporate Financial Statements"
-description: "Discover how subsidiaries and financial statements interplay with algorithmic trading to ensure transparency and strategic market advantage in dynamic business environments."
+title: Consolidated Financial Statements of Parent and Subsidiaries
+description: Consolidated financial statements ensure investors see full performance
+  by removing intercompany entries and currency effects Discover more inside
 ---
 
 

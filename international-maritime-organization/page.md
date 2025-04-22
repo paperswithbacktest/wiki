@@ -1,6 +1,7 @@
 ---
-title: "International Maritime Organization"
-description: "Explore the International Maritime Organization's role in regulating global shipping and how algorithmic trading influences maritime operations, enhancing efficiency and sustainability."
+title: International Maritime Organization Conventions Safety and Future
+description: International Maritime Organization sets safety security and environmental
+  standards while driving green shipping reforms Discover more inside
 ---
 
 

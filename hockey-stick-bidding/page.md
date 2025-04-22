@@ -1,6 +1,7 @@
 ---
-title: "Hockey Stick Bidding"
-description: "Explore the dynamics of hockey stick bidding in algo trading auctions and discover how this strategy manipulates pricing to maximize profit amidst market controversy."
+title: Mastering Hockey Stick Bidding in Online Advertising Auctions
+description: Hockey Stick Bidding empowers advertisers to time their bids strategically
+  for lower costs and higher win rates in real time. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Four-Week Rule Enhances Trading Success"
-description: "The four-week rule is a simple yet effective trend-following strategy in algorithmic trading helping traders automate strategies to capture market trends efficiently."
+title: Mastering the Four-Week Rule Trading Strategy for Better Results
+description: Four-Week Rule helps traders spot clear buy and sell signals by tracking
+  four-week trends in stock prices for disciplined decisions. Discover more inside.
 ---
 
 

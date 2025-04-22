@@ -1,6 +1,7 @@
 ---
-title: "Heston Model: Concepts and Applications"
-description: "Explore the Heston Model a pivotal tool in financial derivatives for algorithmic trading. Learn its significance in volatility modeling and practical applications."
+title: Understanding the Heston Model for Stochastic Volatility Pricing
+description: Discover how the Heston Model improves option pricing by modeling dynamic
+  volatility and risk for more accurate financial forecasts. Explore more inside.
 ---
 
 

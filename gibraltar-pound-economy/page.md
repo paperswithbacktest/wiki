@@ -1,6 +1,7 @@
 ---
-title: "Gibraltar Pound and Economy"
-description: "Explore Gibraltar's unique economy blending British and Mediterranean influences with its pivotal industries and the role of the Gibraltar Pound and algorithmic trading."
+title: Gibraltar Pound Stability and Its Impact on Local Economy
+description: Gibraltar Pound peg at par with British Pound ensures stable currency
+  for Gibraltar supporting finance shipping and tourism Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "History of Black Wall Street"
-description: "Explore the legacy of Black Wall Street and the Tulsa Race Massacre and discover how they connect to the modern world of algorithmic trading and economic empowerment."
+title: Black Wall Street Economic Engine in Tulsa Greenwood
+description: Black Wall Street in Tulsa Greenwood thrived with Black-owned banks hotels
+  shops until the 1921 Tulsa Race Massacre shaped its legacy Discover more inside
 ---
 
 

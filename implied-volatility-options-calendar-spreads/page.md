@@ -1,6 +1,7 @@
 ---
-title: "Implied Volatility in Options and Calendar Spreads"
-description: "Explore the power of implied volatility in options trading and calendar spreads learn how algorithmic trading enhances strategy execution for optimal gains"
+title: Implied Volatility Impact on Calendar Spread Trading
+description: Implied volatility shapes calendar spread pricing by revealing how option
+  value and risk shift across expirations and term structures Discover more inside.
 ---
 
 

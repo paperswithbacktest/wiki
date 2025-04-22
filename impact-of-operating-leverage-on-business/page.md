@@ -1,6 +1,7 @@
 ---
-title: "Impact of Operating Leverage on Business"
-description: "Discover how operating leverage impacts business growth and risks in algo trading. Learn to optimize leverage use for enhanced profitability and stability."
+title: 'Understanding Operating Leverage: Impact, Risks and Optimization'
+description: Operating leverage shows how fixed costs drive profit swings as sales
+  change helping you plan strategy and manage risks Discover more inside
 ---
 
 

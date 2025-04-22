@@ -1,6 +1,7 @@
 ---
-title: "Linear Price Scale"
-description: "Explore different pricing methods and chart scales essential for algorithmic trading. Understand how linear and logarithmic price scales impact trading decisions."
+title: Understanding Linear Price Scales in Financial Charts
+description: Linear Price Scale simplifies chart reading by showing equal price increments
+  for clear short term trend analysis Discover actionable setup tips inside.
 ---
 
 

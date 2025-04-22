@@ -1,6 +1,7 @@
 ---
-title: "Lady Godiva Accounting Principles"
-description: "Explore the Lady Godiva Accounting Principles to understand transparency's role in financial reporting and its impact on modern algorithmic trading practices."
+title: Lady Godiva Accounting Principles Explained Simply
+description: Lady Godiva Accounting Principles deliver a fun and clear way to introduce
+  accounting concepts making complex rules approachable Discover more inside
 ---
 
 

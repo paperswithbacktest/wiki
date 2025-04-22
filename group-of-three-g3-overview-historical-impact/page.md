@@ -1,6 +1,7 @@
 ---
-title: "Group of Three (G3): Overview and Historical Impact"
-description: "Discover the historical impact of the Group of Three G3 trade alliance among Mexico Colombia and Venezuela and its influence on trading dynamics and policies"
+title: Exploring Group of Three G3 Economic and Trade Collaborations
+description: Group of Three G3 coordinates major economies and Latin American trade
+  partners to stabilize markets and boost cross border commerce Discover more inside
 ---
 
 

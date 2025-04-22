@@ -1,6 +1,7 @@
 ---
-title: "High-dimensional statistical models in trading"
-description: "Unlock the potential of high-dimensional statistical models in algo trading to optimize strategies process vast datasets and enhance decision-making accuracy."
+title: High-Dimensional Statistical Models Powering Trading Strategies
+description: High-dimensional statistical models enable traders to analyze diverse
+  market data uncover hidden patterns and make informed decisions Discover more inside.
 ---
 
 

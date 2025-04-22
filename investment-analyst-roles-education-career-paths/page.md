@@ -1,6 +1,7 @@
 ---
-title: "Investment Analyst: Roles, Education, Career Paths"
-description: "Explore key roles in financial analysis, investment analysis, and algorithmic trading. Discover career paths, education needs, and skills in the evolving finance sector."
+title: Comprehensive Guide to the Investment Analyst Profession
+description: Comprehensive Investment Analyst guide presents roles skills certifications
+  and career paths for aspiring professionals Discover more inside
 ---
 
 

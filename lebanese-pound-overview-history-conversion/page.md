@@ -1,6 +1,7 @@
 ---
-title: "Lebanese Pound: Overview, History, and Conversion"
-description: "Explore the history and complexities of the Lebanese Pound with an emphasis on currency conversion, economic challenges, and the role of algorithmic trading."
+title: Lebanese Pound Exchange Rate History and Future Outlook
+description: Lebanese Pound has faced sharp devaluation amid Lebanons economic crisis
+  as policy measures aim to stabilize its value. Discover more inside.
 ---
 
 

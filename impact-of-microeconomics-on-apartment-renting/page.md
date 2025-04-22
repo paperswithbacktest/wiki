@@ -1,6 +1,7 @@
 ---
-title: "Impact of Microeconomics on Apartment Renting"
-description: "Discover how microeconomics impacts apartment renting decisions through the lens of financial strategies and algorithmic trading innovations for optimized outcomes."
+title: Microeconomic Factors Influencing Apartment Rental Prices
+description: Microeconomics reveals how supply demand location policy and renter income
+  shape apartment rental prices and tenant choices Discover more inside.
 ---
 
 

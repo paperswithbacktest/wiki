@@ -1,6 +1,7 @@
 ---
-title: "Kijun Line in Technical Analysis"
-description: "Explore the vital role of the Kijun Line in technical analysis and algo trading. Learn how it helps forecast market trends and make informed trading decisions."
+title: Kijun Line Ichimoku Indicator for Trend Direction and Signals
+description: Kijun Line identifies support resistance and trend direction using Ichimoku
+  Cloud to guide your trading decisions in real time Discover more inside.
 ---
 
 

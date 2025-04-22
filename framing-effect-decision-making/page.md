@@ -1,6 +1,7 @@
 ---
-title: "Framing Effect in Decision-Making"
-description: "Explore how the framing effect impacts decision-making in algorithmic trading, influencing perceptions and potentially skewing trading outcomes due to cognitive biases."
+title: Understanding The Framing Effect In Decision Making
+description: Framing effect shapes decisions by influencing perceptions and biases
+  so you can focus on real facts and make smarter choices. Discover more inside
 ---
 
 

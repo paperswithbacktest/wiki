@@ -1,6 +1,7 @@
 ---
-title: "Law of One Price: Overview and Assumptions"
-description: "Explore the law of one price in efficient markets with a focus on algorithmic trading's role in enhancing market equilibrium and pricing consistency."
+title: Understanding the Law of One Price Across Global Markets
+description: The Law of One Price demonstrates how arbitrage equalizes prices and
+  reveals impact of trade costs and imperfections across markets Discover more inside.
 ---
 
 

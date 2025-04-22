@@ -1,6 +1,7 @@
 ---
-title: "Life Income Fund: Withdrawal Process and Overview"
-description: "Explore how Life Income Funds (LIFs) can enhance retirement income in Canada through strategic withdrawals and algorithmic trading to optimize returns."
+title: Life Income Funds Explained for Canadian Retirement Planning
+description: Life Income Fund rules help Canadian retirees manage pension savings
+  with set withdrawal limits and tailored investments Discover more inside.
 ---
 
 

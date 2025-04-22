@@ -1,6 +1,7 @@
 ---
-title: "Jan Tinbergen: Biography and Achievements"
-description: "Discover the pioneering contributions of Jan Tinbergen to econometrics and algorithmic trading Explore his groundbreaking models and their lasting impact"
+title: Jan Tinbergen and His Legacy in Econometrics and Policy
+description: Jan Tinbergen pioneered econometrics and shaped data driven economic
+  policy with the Tinbergen Rule for balancing goals Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Key Economic Factors in Stagflation"
-description: "Explore the key economic factors in stagflation and algorithmic trading Learn how inflation and stagflation impact markets and the role of trading technologies"
+title: Understanding Stagflation Causes Effects and Policy Responses
+description: Stagflation occurs when rising prices hit your wallet amid job losses
+  and slow growth Explore the causes, effects and policy options Discover more inside.
 ---
 
 

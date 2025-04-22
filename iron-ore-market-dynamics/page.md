@@ -1,6 +1,7 @@
 ---
-title: "Iron Ore Market Dynamics"
-description: "Discover the complexities of the global iron ore market. Understand price dynamics, key players, and the growing impact of algorithmic trading strategies."
+title: Iron Ore Extraction Processing and Global Market Trends
+description: Iron ore production shapes global steel supply by detailing extraction
+  processing methods market dynamics and sustainability trends Discover more inside.
 ---
 
 

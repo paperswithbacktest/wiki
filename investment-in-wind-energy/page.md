@@ -1,6 +1,7 @@
 ---
-title: "Investment in Wind Energy"
-description: "Explore the potential of investing in wind energy with insights into market opportunities including equities ETFs green bonds and the impact of algorithmic trading."
+title: Investing In Wind Energy For Sustainable Development
+description: Wind energy investment offers clean power solutions with insights on
+  turbine types costs incentives and long-term returns Discover more inside
 ---
 
 

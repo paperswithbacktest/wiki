@@ -1,6 +1,7 @@
 ---
-title: "Intermarket Trading System: Overview and Functionality"
-description: "The Intermarket Trading System revolutionized trading by electronically linking major US stock exchanges boosting efficiency and transparency in the market."
+title: Intermarket Trading System Explained for Efficient Stock Trading
+description: Intermarket Trading System links US stock exchanges so traders find the
+  best prices and execute orders seamlessly and efficiently Discover more inside.
 ---
 
 

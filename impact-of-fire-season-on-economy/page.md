@@ -1,6 +1,7 @@
 ---
-title: "Impact of Fire Season on the Economy"
-description: "Explore the impact of wildfires on global economies and discover how algorithmic trading can aid in managing market fluctuations caused by these natural disasters."
+title: Economic Impact of Wildfire Seasons on Regional Economies
+description: The wildfire season economic impact reshapes businesses tourism agriculture
+  supply chains and drives new resilience strategies Discover more inside
 ---
 
 

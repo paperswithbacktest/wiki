@@ -1,6 +1,7 @@
 ---
-title: "Jesse Livermore: A Trading Pioneer"
-description: Explore the legacy of Jesse Livermore, a trading pioneer known for his innovative strategies and influence on modern algorithmic trading. Dive into his life story and learn about his trend-following techniques, risk management insights, and how his principles continue to shape today's trading practices. Discover the timeless lessons from his financial journey and their relevance to contemporary market dynamics.
+title: Jesse Livermore Trading Strategies and Legacy
+description: Jesse Livermore trading strategies reveal market trend principles stop-loss
+  use and emotional management for smarter trades Discover more inside
 ---
 
 

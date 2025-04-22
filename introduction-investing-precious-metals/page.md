@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Investing in Precious Metals"
-description: "Explore investing in precious metals such as gold and silver through physical assets and algorithmic trading Gain insights into diversification and market strategies"
+title: Investing In Precious Metals For Portfolio Diversification
+description: Investing in precious metals offers diversification and risk management
+  benefits with insights on types storage tax implications Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Instant History Bias: Definition, Mechanism, and Examples"
-description: "Explore the mechanisms and effects of instant history bias in algorithmic trading Learn how cognitive distortions impact trading models and investor expectations"
+title: Understanding Instant History Bias in Decision Making
+description: Instant History Bias makes you overvalue recent events and ignore long-term
+  trends Use strategies to recognize and reduce this bias Discover more inside
 ---
 
 

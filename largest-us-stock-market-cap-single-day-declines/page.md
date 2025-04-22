@@ -1,6 +1,7 @@
 ---
-title: "Largest U.S. Stock Market Cap Single-Day Declines"
-description: "Explore the impact of algorithmic trading on U.S. stock market cap declines amidst turbulent conditions offering insights into investor strategies and market dynamics."
+title: History Of Largest Single-Day U.S. Stock Market Cap Declines
+description: Largest single-day stock market cap declines reveal the causes and impact
+  of multitrillion-dollar drops in U.S. markets Discover more inside.
 ---
 
 

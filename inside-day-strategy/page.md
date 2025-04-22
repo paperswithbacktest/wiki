@@ -1,6 +1,7 @@
 ---
-title: "Inside Day Trading Strategy Explained"
-description: Learn about inside day trading strategies in the context of algo trading and how these patterns can signify market consolidation and potential breakouts. This article explains the significance of inside day patterns, their comparison with outside days, and methods to leverage them for profitable trading strategies using algorithmic tools. Gain insights into analyzing historical data to predict market movements and effectively incorporate these techniques into your trading practices for optimized outcomes.
+title: Inside Day Trading Strategy for Profitable Market Breakouts
+description: Inside day trading identifies market pauses to spot strong breakouts
+  and manage risk with stop-loss orders and indicators Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hidden liquidity detection"
-description: "Explore hidden liquidity in algo trading to understand buy or sell orders that aren't fully visible. Learn strategies to detect and exploit these market dynamics."
+title: Comprehensive Guide To Hidden Liquidity In Financial Markets
+description: Hidden liquidity lets big trades execute without visible impact and reveals
+  market stability signals for traders Discover more inside
 ---
 
 

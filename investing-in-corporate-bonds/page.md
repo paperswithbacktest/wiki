@@ -1,6 +1,7 @@
 ---
-title: "Investing in Corporate Bonds"
-description: "Discover how algorithmic trading transforms corporate bond investing by boosting efficiency and liquidity in financial markets. Explore the benefits of automation in reducing transaction costs and enhancing decision-making, alongside understanding key corporate bond features and strategies to optimize investment portfolios."
+title: A Comprehensive Guide To Corporate Bonds For Investors
+description: Corporate bonds deliver steady interest and diversify portfolios with
+  guidance on credit ratings yield to maturity and risk factors Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Kore Trading"
-description: "Kore Trading empowers modern traders with advanced algorithmic trading solutions promoting speed precision and innovation essential for today's fast-paced markets."
+title: Kore Trading Platform Simplifying Stock And Bond Trading
+description: Kore Trading leverages advanced algorithms to streamline stock and bond
+  trades for investors and institutions with efficient tools Discover more inside
 ---
 
 

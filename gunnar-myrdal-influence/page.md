@@ -1,6 +1,7 @@
 ---
-title: "Gunnar Myrdal and His Influence"
-description: "Explore Gunnar Myrdal's economic theories and their influence on algorithmic trading. Learn how his work enhances trading strategies with modern economic insights."
+title: Gunnar Myrdal Impact on Economics and Social Policy
+description: Gunnar Myrdal shaped modern economics and social policy by linking economic
+  growth with social justice and institutional reform Discover more inside.
 ---
 
 

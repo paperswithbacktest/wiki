@@ -1,6 +1,7 @@
 ---
-title: "Invest Then Investigate"
-description: "Unlock the complexities of algo trading and investment strategies with insights on value growth and income investing Learn how to navigate today's financial markets"
+title: Invest Then Investigate Strategy For Swift And Informed Decisions
+description: Invest Then Investigate offers a swift way to seize opportunities and
+  improve decisions through post-investment research Discover more inside
 ---
 
 

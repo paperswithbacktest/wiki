@@ -1,6 +1,7 @@
 ---
-title: "High-Frequency Trading Terminology"
-description: "Explore the intricacies of high-frequency and algorithmic trading terminology, uncovering their structures and impact on today's financial markets."
+title: High Frequency Trading Systems And Algorithmic Strategies Guide
+description: High frequency trading uses advanced algorithms and low latency to capture
+  small price moves while managing risk with robust systems Discover more inside
 ---
 
 

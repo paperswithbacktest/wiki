@@ -1,6 +1,7 @@
 ---
-title: "IEX API Guide"
-description: Explore the transformative impact of IEX APIs for algorithmic trading with insights into their cost-effectiveness real-time data access and robust analytics capabilities that enhance trading strategies and competitive market outcomes.
+title: Comprehensive Guide to Using IEX API for Stock Data
+description: IEX API delivers real time and historical stock and company data with
+  clear examples for easy integration and error handling Discover more inside.
 ---
 
 

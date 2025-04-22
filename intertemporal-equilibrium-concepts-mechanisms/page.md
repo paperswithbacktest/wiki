@@ -1,6 +1,7 @@
 ---
-title: "Intertemporal Equilibrium: Concepts and Mechanisms"
-description: "Explore intertemporal equilibrium, a pivotal economic concept used in algorithmic trading, explaining how it informs decisions over time and impacts market strategies."
+title: Understanding Intertemporal Equilibrium in Economic Theory
+description: Intertemporal equilibrium shows how current consumption saving and investment
+  decisions align with future plans in a balanced economy Discover more inside
 ---
 
 

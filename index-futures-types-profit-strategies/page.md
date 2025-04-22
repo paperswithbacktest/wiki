@@ -1,6 +1,7 @@
 ---
-title: "Index Futures: Types and Profit Strategies"
-description: "Explore types of index futures and profit strategies in algorithmic trading Gain insights into hedging speculating and leveraging tech in futures markets"
+title: Understanding Index Futures A Practical Guide For Investors
+description: Index futures offer a way to protect and profit from market movements
+  while saving time and capital Discover key strategies and risk management tips inside
 ---
 
 

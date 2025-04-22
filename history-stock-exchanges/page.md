@@ -1,6 +1,7 @@
 ---
-title: "History of Stock Exchanges"
-description: "Explore the evolution of stock exchanges and algo trading shaping global financial markets with key historical insights and future trends in economic dynamics."
+title: Evolution and Function of Stock Exchanges in Global Markets
+description: Stock exchanges evolved from open outcry pits to electronic markets under
+  strong regulation and drive global investment growth Discover more inside
 ---
 
 

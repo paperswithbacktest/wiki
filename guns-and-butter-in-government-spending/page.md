@@ -1,6 +1,7 @@
 ---
-title: "Guns and Butter in Government Spending"
-description: "Explore the intersection of the 'guns and butter' economic model and algorithmic trading to understand government spending's impact on markets and investment strategies."
+title: Guns and Butter Model Balancing Defense and Welfare Spending
+description: Guns and Butter model shows how governments allocate defense and welfare
+  budgets to manage long-term economic trade-offs and growth Discover more inside
 ---
 
 

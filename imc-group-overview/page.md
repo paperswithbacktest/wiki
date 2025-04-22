@@ -1,6 +1,7 @@
 ---
-title: "IMC Group Overview"
-description: "IMC Group leverages cutting-edge technology to optimize trading and liquidity provision positioning itself as a leader in global algorithmic trading."
+title: IMC Group Marketing and Communication Services for Growth
+description: IMC Group offers tailored marketing, digital PR and event management
+  strategies to boost brand presence and drive growth Discover more inside
 ---
 
 

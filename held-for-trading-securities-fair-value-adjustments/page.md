@@ -1,6 +1,7 @@
 ---
-title: "Held-For-Trading Securities and Fair Value Adjustments"
-description: "Explore the synergy of held-for-trading securities, fair value adjustments, and algorithmic trading in shaping investment strategies and market efficiency."
+title: Fair Value Accounting for Held-For-Trading Securities
+description: Held-For-Trading Securities are valued at fair market price for precise
+  reporting and gain tracking in active portfolios. Discover more inside.
 ---
 
 

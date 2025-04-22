@@ -1,6 +1,7 @@
 ---
-title: "High-Frequency Trading (HFT): A Comprehensive Guide"
-description: Discover the inner workings of High-Frequency Trading (HFT), a modern and technology-driven form of algorithmic trading. Learn about its lightning-fast execution processes, advanced hardware and software components, historical context, and deep technical mechanisms in this comprehensive guide.
+title: High-Frequency Trading Systems Strategies And Market Impact
+description: High-Frequency Trading uses fast computers and algorithms to boost market
+  liquidity and efficiency while controlling risks. Discover more inside.
 ---
 
 

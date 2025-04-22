@@ -1,6 +1,7 @@
 ---
-title: "Follow-on Public Offer (FPO)"
-description: "Discover the synergy between Follow-on Public Offerings and algorithmic trading Learn how these financial strategies optimize capital raising and trading efficiency"
+title: Understanding Follow-On Public Offers Benefits And Processes
+description: Follow-On Public Offer breaks down types, process, pricing and regulatory
+  steps highlighting benefits risks and investor impact Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Key Industries of the Chinese Economy"
-description: "Explore China's economic transformation with algorithmic trading at its core enhancing financial markets and driving efficiency across key industries."
+title: "Major Industries Fueling China\u2019s Economic Expansion"
+description: Chinese economy relies on manufacturing services technology agriculture
+  and emerging sectors to sustain growth and innovation Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Imbalanced Dataset (Machine Learning)"
-description: "Understand and address imbalanced datasets in machine learning with techniques like oversampling and undersampling to enhance model accuracy and fairness."
+title: Techniques for Handling Imbalanced Datasets in Machine Learning
+description: Imbalanced datasets bias models toward majority classes but methods like
+  oversampling class weights and ensembles boost fairness and accuracy Discover more
 ---
 
 ![Image](images/1.png)

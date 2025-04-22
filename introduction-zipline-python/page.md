@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Zipline in Python"
-description: Explore the power of Zipline in Python for algorithmic trading. Discover how this Pythonic event-driven library facilitates backtesting, leverages historical data, and integrates with scientific libraries like matplotlib and scikit-learn. Zipline simplifies developing, testing, and optimizing trading strategies by enabling a seamless transition from backtesting to live trading. Ideal for both novice and experienced traders, it incorporates essential tools and techniques within the PyData ecosystem, enhancing trading operations and ensuring robust strategy development. Learn about installation and core algorithm structures, including key functions for setting up and handling data.
+title: Comprehensive Zipline Python Backtesting and Trading Guide
+description: Zipline backtests Python trading algorithms with flexible data integration
+  robust metrics and slippage simulation Discover more inside.
 ---
 
 

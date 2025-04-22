@@ -1,6 +1,7 @@
 ---
-title: "Limitations of the P/E Ratio in Financial Analysis"
-description: "Explore the limitations of the Price-to-Earnings ratio in financial analysis and how it affects algorithmic trading strategies to enhance investment decisions."
+title: Understanding Price To Earnings Ratio In Financial Analysis
+description: P/E ratio metrics show what investors pay per dollar of earnings and
+  expose valuation limits across industries and cycles. Discover more inside.
 ---
 
 

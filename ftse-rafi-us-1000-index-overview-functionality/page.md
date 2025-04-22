@@ -1,6 +1,7 @@
 ---
-title: "FTSE RAFI US 1000 Index: Overview and Functionality"
-description: "Explore the FTSE RAFI US 1000 Index's innovative approach to stock selection using fundamental financial metrics to capture economic value over market cap."
+title: Understanding The FTSE RAFI US 1000 Index Fundamentals
+description: FTSE RAFI US 1000 Index offers stable growth by focusing on book value
+  cash flow sales and dividends instead of stock price. Discover more inside.
 ---
 
 

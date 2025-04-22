@@ -1,6 +1,7 @@
 ---
-title: "Investor Roles and Types"
-description: "Explore the different types of investors and their roles in financial markets with a focus on how algorithmic trading is transforming investment strategies today."
+title: Investor Types, Roles, and Strategies in Modern Investing
+description: Investor overview explains key types roles and strategies from individual
+  to institutional to help you make informed decisions Discover more inside
 ---
 
 

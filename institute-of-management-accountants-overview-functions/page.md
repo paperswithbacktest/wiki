@@ -1,6 +1,7 @@
 ---
-title: "Institute Of Management Accountants: Overview And Functions"
-description: "Explore the intersection of management accounting and algorithmic trading as essential tools driving strategic financial decisions and market efficiency improvements."
+title: Institute of Management Accountants Guide to Career Advancement
+description: Institute of Management Accountants empowers finance professionals with
+  CMA CSCA training networking and resources to advance careers Discover more inside
 ---
 
 

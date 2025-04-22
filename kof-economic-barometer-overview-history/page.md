@@ -1,6 +1,7 @@
 ---
-title: "KOF Economic Barometer: Overview and History"
-description: "Explore the KOF Economic Barometer, a key indicator used for forecasting in Switzerland, and discover how algo trading leverages these metrics for market strategies."
+title: Understanding the KOF Economic Barometer for Swiss Forecasts
+description: KOF Economic Barometer tracks Swiss economic health each month using
+  data on spending and business sentiment to inform investments. Discover more inside.
 ---
 
 

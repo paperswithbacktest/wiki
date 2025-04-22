@@ -1,6 +1,7 @@
 ---
-title: "Heteroscedasticity: Meaning and Types"
-description: "Explore heteroscedasticity in algo trading, its types, detection methods, and impact on financial models. Enhance trading strategies by managing variance efficiently."
+title: Understanding Heteroscedasticity in Regression Analysis
+description: Heteroscedasticity can skew regression models and bias estimates Discover
+  methods to detect and correct variance issues for accurate predictions Read on
 ---
 
 

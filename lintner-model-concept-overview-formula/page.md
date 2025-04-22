@@ -1,6 +1,7 @@
 ---
-title: "Lintner Model: Concept, Overview, and Formula"
-description: "Explore the Lintner Model and its impact on dividend strategies in finance. Understand its role in algorithmic trading and insights for predicting corporate behaviors."
+title: Understanding The Lintner Model For Corporate Dividend Policy
+description: Lintner Model explains how firms smooth dividend payouts by adjusting
+  toward target ratios and maintaining stability for shareholders Discover more inside.
 ---
 
 

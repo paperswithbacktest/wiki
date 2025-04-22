@@ -1,6 +1,7 @@
 ---
-title: "Half-Life: Definition and Examples"
-description: "Explore how the concept of half-life applies to finance and algo trading mirroring chemical decay to manage asset value erosion and strategy effectiveness."
+title: Half-Life Explained A Comprehensive Overview and Applications
+description: Half-life concepts explain how substances decay in science medicine and
+  finance with practical examples and clear calculations Discover more inside
 ---
 
 

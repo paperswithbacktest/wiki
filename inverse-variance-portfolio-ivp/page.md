@@ -1,6 +1,7 @@
 ---
-title: "Inverse-Variance Portfolio (IVP)"
-description: Explore the Inverse-Variance Portfolio strategy that enhances returns by minimizing risk through diversified asset allocation in algorithmic trading. This approach leverages the low-volatility anomaly by allocating weights inversely proportional to asset variances. Discover how IVP compares with other optimization techniques like Hierarchical Risk Parity and Markowitz, highlighting its simplicity and efficiency in modern trading. Learn about its implementation using Python and gain insights into creating robust portfolios in dynamic market conditions.
+title: Inverse-Variance Portfolio Strategy for Stable Asset Allocation
+description: Inverse-Variance Portfolio reduces risk by allocating more to low volatility
+  assets to enhance portfolio stability and balance Discover more inside.
 ---
 
 

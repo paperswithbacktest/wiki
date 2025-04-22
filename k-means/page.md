@@ -1,6 +1,7 @@
 ---
-title: "K-Means (Machine Learning)"
-description: "Learn what K-Means clustering in machine learning is a popular algorithm for grouping similar data points into clusters efficiently and its common uses."
+title: Mastering K-Means Clustering for Efficient Data Segmentation
+description: K-Means clustering simplifies grouping similar data points by iteratively
+  refining centroids to reveal patterns and optimize clusters. Discover more inside.
 ---
 
 ![Image](images/1.png)

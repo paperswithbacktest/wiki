@@ -1,6 +1,7 @@
 ---
-title: "Floating-Rate Mutual Funds: Risks and Benefits"
-description: "Explore the risks and benefits of floating-rate mutual funds and algorithmic trading combined with professional management offering diversification and market opportunities."
+title: Floating Rate Mutual Funds for Stable Income and Protection
+description: Floating rate mutual funds adjust interest with benchmarks to protect
+  investments from rising rates while offering flexible income Discover more inside
 ---
 
 

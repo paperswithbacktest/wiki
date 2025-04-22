@@ -1,6 +1,7 @@
 ---
-title: "Frictional Unemployment: Causes and Quit Rate"
-description: "Explore frictional unemployment and quit rates in the labor market, uncovering their impact on job dynamics and economic health, especially with algorithmic trading."
+title: Understanding Frictional Unemployment and Its Key Drivers
+description: Frictional Unemployment arises when workers search for roles that fit
+  their skills Explore factors shaping job mobility Discover more inside
 ---
 
 

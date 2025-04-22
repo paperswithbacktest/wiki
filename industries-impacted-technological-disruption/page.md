@@ -1,6 +1,7 @@
 ---
-title: "Industries Impacted by Technological Disruption"
-description: "Explore how technological advancements like AI are transforming algorithmic trading by enhancing efficiency, enabling real-time data analysis, and reshaping market dynamics."
+title: Navigating Technological Disruption Across Key Industry Sectors
+description: Technological disruption reshapes industries and job roles while offering
+  growth opportunities through innovation and adaptation. Discover more inside.
 ---
 
 

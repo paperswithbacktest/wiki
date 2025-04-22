@@ -1,6 +1,7 @@
 ---
-title: "Inflation Susceptibility of Fiat and Commodity Money"
-description: "Explore the effects of inflation on fiat and commodity money, and discover the role of algorithmic trading in modern financial markets. Understand how inflation diminishes currency purchasing power and learn the differences between commodity money with intrinsic value and fiat money backed by government trust. Discover how supply demand impacts inflation and the intertwined relationship between inflation, economic stability, and trading strategies."
+title: Fiat Money Versus Commodity Money Inflation Explained
+description: Fiat money vs commodity money shows how inflation pressures differ between
+  government backed currency and asset based currency systems Discover more inside
 ---
 
 

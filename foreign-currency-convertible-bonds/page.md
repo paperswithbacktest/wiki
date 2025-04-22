@@ -1,6 +1,7 @@
 ---
-title: "Foreign Currency Convertible Bonds"
-description: "Discover how Foreign Currency Convertible Bonds (FCCBs) blend debt and equity features to offer firms international market access and investors unique strategic benefits."
+title: Foreign Currency Convertible Bonds Explained for Companies
+description: Foreign Currency Convertible Bonds help companies raise capital in stable
+  currencies and manage debt with optional equity conversion. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "The Great Inflation of the 1970s"
-description: "Explore the challenges of the 1970s Great Inflation and how algorithmic trading leverages historical insights to enhance modern financial strategies."
+title: The Great Inflation of the 1970s and Its Economic Legacy
+description: Great Inflation of the 1970s examines causes effects and policy responses
+  that reshaped economy while offering key lessons for today Discover more inside
 ---
 
 

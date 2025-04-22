@@ -1,6 +1,7 @@
 ---
-title: "History of Banking Regulation in the United States"
-description: "Explore the evolution of banking regulation in the United States and its impact on the financial sector, highlighting key developments from early centralization efforts to the challenges of modern technologies like algorithmic trading. Discover how regulatory frameworks have adapted through periods of regulation and deregulation to ensure market integrity and systemic stability, while balancing innovation with financial practices shaped by historical and contemporary influences."
+title: Comprehensive History of US Banking Regulation and Its Impact
+description: Banking regulation in the US evolved from early national bank acts through
+  Glass Steagall and Dodd Frank to modern fintech oversight. Discover more inside.
 ---
 
 

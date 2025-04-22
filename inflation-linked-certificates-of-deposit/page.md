@@ -1,6 +1,8 @@
 ---
-title: "Inflation-Linked Certificates of Deposit"
-description: "Explore how inflation-linked CDs and algorithmic trading can manage inflation risks and enhance investments by preserving purchasing power and capital growth."
+title: Inflation Linked Certificate of Deposit Explained for Savvy Investors
+description: Inflation Linked Certificate of Deposit offers adjustable rates tied
+  to CPI to protect your savings from rising costs and secure growth Discover more
+  inside.
 ---
 
 

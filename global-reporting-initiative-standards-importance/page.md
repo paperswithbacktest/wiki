@@ -1,6 +1,7 @@
 ---
-title: "Global Reporting Initiative: Standards and Importance"
-description: "Discover the importance of GRI standards in algorithmic trading to enhance transparency and integrate sustainability, crucial for business operations and stakeholder trust."
+title: Understanding GRI Standards for Sustainability Reporting
+description: GRI Standards enable clear reporting of environmental social and governance
+  impacts while driving sustainable improvements Discover more inside
 ---
 
 

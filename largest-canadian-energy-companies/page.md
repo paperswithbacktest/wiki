@@ -1,6 +1,7 @@
 ---
-title: "List of Largest Canadian Energy Companies"
-description: "Explore the major Canadian energy companies and the impact of algorithmic trading on the sector amidst global market challenges and renewable energy shifts."
+title: Analysis of Largest Canadian Energy Companies and Market Impact
+description: Largest Canadian energy companies lead in revenue production market cap
+  and renewable investments while shaping the economy Discover more inside.
 ---
 
 

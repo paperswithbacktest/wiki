@@ -1,6 +1,7 @@
 ---
-title: "Limitations of Net Present Value in Investment Analysis"
-description: "Discover the limitations of Net Present Value in investment analysis especially within algorithmic trading Learn about alternative strategies for enhanced decisions"
+title: Net Present Value Fundamentals for Informed Investment Decisions
+description: Net Present Value calculates present worth of projected cash flows with
+  a discount rate while covering assumptions and risks. Discover more inside.
 ---
 
 

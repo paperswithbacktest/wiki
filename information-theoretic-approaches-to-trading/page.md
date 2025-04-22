@@ -1,6 +1,8 @@
 ---
-title: "Information Theoretic Approaches to Trading"
-description: "Discover the transformative power of Information Theoretic approaches in algorithmic trading to enhance decision-making and optimize trading strategies."
+title: Information Theory in Trading Strategies for Market Uncertainty
+description: Information theory in trading shows how entropy mutual information and
+  information gain help measure market uncertainty and inform smarter strategies Discover
+  more inside.
 ---
 
 

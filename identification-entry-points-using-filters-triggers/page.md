@@ -1,6 +1,7 @@
 ---
-title: "Identification of Entry Points Using Filters and Triggers"
-description: "Optimize algorithmic trading by understanding trade entry points through filters and triggers Improve trade timing and strategy with precise execution mechanisms"
+title: Using Filters And Triggers To Identify Trading Entry Points
+description: Entry points in trading determine profit and loss potential. Use filters
+  and triggers to identify optimal entry points and manage risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Double Taxation on Corporate Dividend Decisions"
-description: "Explore how double taxation affects corporate dividends and algorithmic trading strategies empowering investors and executives to optimize tax efficiency and returns."
+title: Double Taxation Impact on Corporate Dividends and Strategies
+description: Double taxation reduces corporate dividend returns by taxing profits
+  at both stages globally Use tax credits to boost payouts Discover more inside.
 ---
 
 

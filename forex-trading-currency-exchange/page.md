@@ -1,6 +1,7 @@
 ---
-title: "Forex Trading and Currency Exchange"
-description: "Discover the transformative world of forex trading and currency exchange through algorithmic trading Explore how technology is reshaping financial markets"
+title: Comprehensive Forex Trading Guide with Essential Strategies
+description: Forex trading guide provides concise explanations of basic concepts terminology
+  strategies risk management and market trends Discover more inside
 ---
 
 

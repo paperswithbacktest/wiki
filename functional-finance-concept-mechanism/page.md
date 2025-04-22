@@ -1,6 +1,7 @@
 ---
-title: "Functional Finance: Concept and Mechanism"
-description: "Explore how fiscal policy, functional finance, and algorithmic trading shape modern economies from managing national economic health to influencing market dynamics."
+title: Understanding Functional Finance Principles And Applications
+description: Functional finance shows how governments use spending taxes and borrowing
+  to keep economies stable and control inflation Discover more inside
 ---
 
 

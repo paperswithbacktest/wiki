@@ -1,6 +1,7 @@
 ---
-title: "If-Converted Method in Programming"
-description: "Explore the if-converted method in algorithmic trading to enhance performance by accurately evaluating convertible securities' impact on financial metrics."
+title: Understanding the If-Converted Method for Financial Programming
+description: If-Converted Method adjusts earnings per share for convertible securities
+  conversion impact enabling smarter financial decisions Discover more inside
 ---
 
 

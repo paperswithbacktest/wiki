@@ -1,6 +1,7 @@
 ---
-title: "Impact of OPEC on Global Oil Prices"
-description: "Explore the impact of OPEC on global oil prices and the transformative role of algorithmic trading in the oil market. Understand how OPEC's strategic decisions influence pricing and the advanced methods traders use to respond to these changes."
+title: OPEC's Role In Stabilizing Global Oil Prices And Supply
+description: OPEC manages member country production quotas to stabilize global oil
+  prices and maintain fair markets for producers and consumers. Discover more inside
 ---
 
 

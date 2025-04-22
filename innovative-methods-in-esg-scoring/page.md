@@ -1,6 +1,7 @@
 ---
-title: "Innovative Methods in ESG Scoring"
-description: "Explore how innovative methods in algorithmic trading integrate ESG metrics to redefine sustainable investment strategies, balancing profit with ethical values."
+title: Innovative ESG Scoring Methods Using AI Big Data and Blockchain
+description: ESG scoring uses AI big data and blockchain to deliver accurate and transparent
+  environmental social and governance insights Discover more inside.
 ---
 
 

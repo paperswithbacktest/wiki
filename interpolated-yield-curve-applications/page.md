@@ -1,6 +1,7 @@
 ---
-title: "Interpolated Yield Curve and Its Applications"
-description: "Explore the significance of interpolated yield curves in algorithmic trading Learn how they provide insights into market conditions and aid in risk management"
+title: Interpolated Yield Curve Construction And Financial Applications
+description: Interpolated yield curves fill gaps between market rates to create smooth
+  term structures for precise bond pricing and risk assessment Discover more inside
 ---
 
 

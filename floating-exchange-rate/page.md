@@ -1,6 +1,7 @@
 ---
-title: "Floating Exchange Rate"
-description: "Explore the dynamics of floating exchange rates and the transformative role of algorithmic trading in the forex market. Understand how these elements contribute to currency valuation amid global economic shifts, offering traders and policymakers vital insights into managing risk and making informed decisions in the world's largest financial marketplace."
+title: Understanding Floating Exchange Rates and Market Dynamics
+description: Floating exchange rate systems adjust currency values based on market
+  forces shaping trade risks and investment returns Discover more inside
 ---
 
 

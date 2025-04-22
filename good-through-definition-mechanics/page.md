@@ -1,6 +1,7 @@
 ---
-title: "Good Through: Definition and Mechanics"
-description: "Explore how expiration terms and product validity drive strategic decisions in algorithmic trading ensuring traders make informed choices in financial markets."
+title: Understanding Good Through Orders for Optimized Trade Timing
+description: Good Through orders let traders set specific dates for automatic execution
+  at target prices helping manage time and risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Independently And Identically Distributed (I.I.D) (Machine Learning)"
-description: "Understanding Independently and Identically Distributed data is crucial for reliable machine learning models ensuring training and testing data generalize well."
+title: Independent and Identically Distributed in Machine Learning
+description: Independent and Identically Distributed data helps your model learn true
+  patterns and perform well on new data with reliable results Discover more inside
 ---
 
 ![Image](images/1.png)

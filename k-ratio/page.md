@@ -1,6 +1,7 @@
 ---
-title: "K-Ratio Explained"
-description: Explore the K-ratio, a key performance metric in algorithmic trading, which assesses the growth and consistency of returns to help evaluate trading strategies. This comprehensive guide investigates into its calculation and significance, revealing insights into risk-adjusted performance and aiding traders in strategy enhancement by balancing risk and reward effectively.
+title: Understanding The K-Ratio for Risk-Adjusted Investment Returns
+description: K-Ratio delivers a clear risk adjusted performance measure by comparing
+  investment returns to benchmarks with volatility in mind Discover more inside
 ---
 
 

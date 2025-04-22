@@ -1,6 +1,7 @@
 ---
-title: "Invitation for Bid: Process and Example"
-description: "Explore the intricacies of bidding processes and algorithmic trading Learn how advanced algorithms optimize bid strategies for efficient financial transactions"
+title: Guide to Invitation for Bid and Algorithmic Trading
+description: Invitation for Bid ensures fair transparent procurement while algorithmic
+  trading enhances bid decisions with real-time data analysis Discover more inside.
 ---
 
 

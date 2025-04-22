@@ -1,6 +1,7 @@
 ---
-title: "Hyperparameter (Machine Learning)"
-description: "Explore hyperparameters in machine learning including their significance how they differ from model parameters and common techniques for tuning them effectively."
+title: Guide to Hyperparameter Tuning for Machine Learning Models
+description: Hyperparameter tuning optimizes machine learning models through grid
+  search random search and Bayesian methods to boost performance Discover more inside
 ---
 
 ![Image](images/1.png)

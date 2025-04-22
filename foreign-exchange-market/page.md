@@ -1,6 +1,7 @@
 ---
-title: "Foreign Exchange Market"
-description: "Explore the dynamic world of forex trading and its technological evolution with algorithmic trading Discover how advanced algorithms enable faster smarter trade execution"
+title: Understanding the Foreign Exchange Market and How It Works
+description: Foreign Exchange Market fundamentals guide you through participants currency
+  pairs risks and strategies for informed trading Discover more inside
 ---
 
 

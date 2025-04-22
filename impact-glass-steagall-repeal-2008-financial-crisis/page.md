@@ -1,6 +1,7 @@
 ---
-title: "Impact of Glass-Steagall Act Repeal on the 2008 Financial Crisis"
-description: "Explore how the Glass-Steagall Act repeal contributed to the 2008 financial crisis by allowing riskier banking practices and the rise of algorithmic trading."
+title: Impact of the Glass-Steagall Act Repeal on Financial Stability
+description: Glass-Steagall Act repeal reshaped US banks by merging commercial and
+  investment services boosting growth while increasing risk Discover more inside
 ---
 
 

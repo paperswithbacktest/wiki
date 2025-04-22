@@ -1,6 +1,7 @@
 ---
-title: "Impact of Stock Price Decline on Capital Flow"
-description: "Explore the impact of stock price decline on capital flow influenced by algorithmic trading. Understand the dynamics of how algorithmic trading shapes market movements and affects liquidity and volatility. Learn about the critical drivers including market psychology economic indicators and geopolitical factors that steer capital across markets. This comprehensive analysis equips investors with insights into navigating modern financial landscapes by understanding stock price fluctuations and capital flow patterns."
+title: Impact of Stock Price Declines on Company Capital and Strategy
+description: Stock price declines directly reduce market value and raise capital costs
+  while reshaping investor confidence and corporate strategy Discover more inside
 ---
 
 

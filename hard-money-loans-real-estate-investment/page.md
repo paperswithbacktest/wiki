@@ -1,6 +1,7 @@
 ---
-title: "Hard Money Loans in Real Estate Investment"
-description: "Explore the world of hard money loans and algorithmic trading in real estate investment Discover how these financing options can optimize your investment strategy"
+title: Understanding Hard Money Loans for Real Estate Investors
+description: Hard money loans provide quick financing for real estate investors by
+  leveraging property value to fund flips and renovations Discover more inside.
 ---
 
 

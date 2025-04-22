@@ -1,6 +1,7 @@
 ---
-title: "Limitations of the Unemployment Rate"
-description: "Explore the limitations of the unemployment rate as an economic indicator in algorithmic trading and how understanding labor market dynamics can enhance trade strategies."
+title: Understanding the Unemployment Rate Calculation and Limitations
+description: Unemployment rate explains job market health by covering calculation
+  methods, underemployment and discouraged worker effects Discover more inside.
 ---
 
 

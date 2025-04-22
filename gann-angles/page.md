@@ -1,6 +1,7 @@
 ---
-title: "Gann Angles"
-description: "Explore the fascinating world of Gann Angles and their role in algorithmic trading Get insights into predicting market movements using geometric constructs"
+title: Mastering Gann Angles for Precise Market Trend Analysis
+description: Gann Angles reveal the relationship between time and price to guide traders
+  on trend strength support and resistance levels. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Gross, Operating, and Net Profit Margins"
-description: "Explore how different profit margins impact trading decisions in algorithmic trading providing key insights into a company's financial health and profitability."
+title: Comprehensive Guide To Gross Operating And Net Profit Margins
+description: Profit margin definitions and formulas break down gross operating and
+  net margins so you can optimize business performance Discover more inside
 ---
 
 

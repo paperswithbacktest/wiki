@@ -1,6 +1,7 @@
 ---
-title: "Impact of Capital Investment on Economic Growth"
-description: "Explore the significant impact of capital investment on economic growth including the role of algorithmic trading in modern finance and future investment trends"
+title: Capital Investment And Its Role In Economic Growth
+description: Capital investment boosts productivity and drives economic growth via
+  strategic asset and tech investments optimize returns Discover more inside
 ---
 
 

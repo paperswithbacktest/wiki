@@ -1,6 +1,7 @@
 ---
-title: "Kiwi Bond"
-description: "Explore Kiwi Bonds as a secure, government-backed investment for New Zealand residents. Learn how algorithmic trading can enhance returns on these fixed-income securities."
+title: "Understanding Kiwi Bonds Safe Fixed\u2011Income Investments"
+description: Kiwi Bonds offer New Zealand investors a secure way to earn predictable
+  interest with a low NZD1000 minimum investment Discover more inside.
 ---
 
 

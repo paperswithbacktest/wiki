@@ -1,6 +1,7 @@
 ---
-title: "History of Johnson & Johnson"
-description: "Explore the history of Johnson & Johnson and its evolution from sterile surgical supplies to a global healthcare giant with potential for algorithmic trading integration."
+title: Johnson & Johnson Company History Innovations and Global Impact
+description: Johnson & Johnson company shapes global healthcare with innovations from
+  Band Aid to vaccines reaching over 60 countries Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Secondary Offerings on Company Share Price"
-description: "Understand how secondary offerings influence stock prices and investor sentiment, and explore how algorithmic trading adapts to market changes during these events."
+title: Understanding Secondary Offerings Impact on Share Price
+description: Secondary offering explains how companies raise capital by selling extra
+  shares and its effects on dilution and shareholder value Discover more inside.
 ---
 
 

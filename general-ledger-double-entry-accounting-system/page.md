@@ -1,6 +1,7 @@
 ---
-title: "General Ledger and Double-Entry Accounting System"
-description: "Explore the vital role of double-entry accounting systems and general ledgers in accurate financial management and modern algorithmic trading strategies."
+title: Understanding General Ledger And Double-Entry Accounting
+description: General Ledger delivers a clear record of every transaction and uses
+  double entry accounting to keep finances balanced and accurate Discover more inside.
 ---
 
 

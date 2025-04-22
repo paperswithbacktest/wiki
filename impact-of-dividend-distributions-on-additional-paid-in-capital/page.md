@@ -1,6 +1,7 @@
 ---
-title: "Impact of Dividend Distributions on Additional Paid-In Capital"
-description: "Explore the impact of dividend distributions on additional paid-in capital in algo trading. Learn how these elements shape financial strategies and investor decisions."
+title: Additional Paid-In Capital And Dividend Distributions Explained
+description: Additional Paid-In Capital affects how companies fund and report dividend
+  payments reducing equity and signaling investor confidence. Discover more inside.
 ---
 
 

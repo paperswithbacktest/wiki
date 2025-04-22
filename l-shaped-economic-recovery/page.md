@@ -1,6 +1,7 @@
 ---
-title: "L-Shaped Economic Recovery"
-description: "Explore the impact of L-shaped economic recoveries with insights into policy formulation and strategic interventions highlighted by algorithmic trading."
+title: Understanding L-Shaped Economic Recoveries and Their Impacts
+description: L-shaped economic recovery stalls growth and raises long-term unemployment
+  Get key insights on causes impacts and policy strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investment Options for Risk-Averse Investors"
-description: "Explore investment strategies for risk-averse investors that focus on capital preservation and steady income. Learn about safe securities and algo trading benefits."
+title: Risk Averse Investment Strategies for Capital Preservation
+description: Risk-averse investment strategies preserve capital using low-risk options
+  like bonds CDs and savings accounts for steady growth Discover more inside
 ---
 
 

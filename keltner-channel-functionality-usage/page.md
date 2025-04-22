@@ -1,6 +1,7 @@
 ---
-title: "Keltner Channel: Functionality and Usage"
-description: "Explore the powerful functionality of Keltner Channels in algorithmic trading as a volatility-based indicator that adapts to market conditions. Discover how this lesser-known tool provides valuable insights into market trends, identifies potential reversals, and anticipates breakout points. Understand the calculation methods and compare Keltner Channels with other popular indicators to enhance decision-making and trading outcomes. Uncover the benefits of integrating Keltner Channels into your trading strategies for improved results."
+title: Keltner Channel Trading Indicator Calculation And Applications
+description: Keltner Channel helps traders track market volatility and spot trends
+  using ATR based bands to refine entry and exit points. Discover more inside.
 ---
 
 

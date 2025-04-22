@@ -1,6 +1,7 @@
 ---
-title: "Investment Principles of Benjamin Graham"
-description: "Explore Benjamin Graham's timeless investment principles adapted to modern algorithmic trading techniques to spot undervalued stocks and leverage market volatility."
+title: Benjamin Graham Value Investing Principles for Modern Portfolios
+description: Benjamin Graham value investing guides you to uncover undervalued stocks
+  and build a diversified portfolio with a margin of safety Discover more inside
 ---
 
 

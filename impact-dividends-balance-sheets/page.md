@@ -1,6 +1,7 @@
 ---
-title: "Impact of Dividends on Balance Sheets"
-description: "Explore the impact of dividends on balance sheets and algorithmic trading. Learn how dividend payments reflect financial health and influence trading decisions."
+title: Understanding The Impact Of Dividends On Company Balance Sheets
+description: Dividends reshape a company's balance sheet by lowering retained earnings
+  cash and equity while driving dividend policy decisions Discover more inside.
 ---
 
 

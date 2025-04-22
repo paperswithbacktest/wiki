@@ -1,6 +1,7 @@
 ---
-title: "Impact of Goodwill on Financial Statements"
-description: "Explore the intersection of financial accounting goodwill assessment and algorithmic trading and its impact on company valuations and financial statements."
+title: Understanding Goodwill Accounting and Financial Statement Impact
+description: Goodwill accounting explains how companies record goodwill under GAAP
+  and IFRS to reflect asset values and manage impairments. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Jim Gatheral"
-description: "Discover Jim Gatheral's influential journey from UK education to leadership in finance and academia Learn about his impact on quantitative finance and algorithmic trading"
+title: Jim Gatheral's Insights Into Volatility Surface Modeling
+description: Jim Gatheral advances financial mathematics by decoding the volatility
+  surface and improving option pricing for better decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Indirect Effects of Exchange Rates"
-description: "Explore the indirect effects of exchange rates on global economies and how algorithmic trading is influencing these dynamics. Understand how shifts in currency values impact inflation, trade balances, and consumer purchasing power. Discover methods businesses and policymakers use to navigate currency volatility through hedging and economic strategies. Delve into the complexities of exchange rate prediction using econometric models and gain insights into maintaining economic stability in a fluctuating forex market."
+title: Exchange Rates Impact on Trade Inflation and Investment
+description: Exchange rates shape import and export costs drive inflation and affect
+  investment with actionable insights managing currency risks Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "History of Economics"
-description: "Explore the history of economics from early theories to the rise of algorithmic trading highlighting key developments and their impact on modern financial markets."
+title: History of Economic Thought From Antiquity to Modern Policy
+description: History of Economic Thought outlines how theories from ancient Greece
+  to Adam Smith mercantilism Keynesian and neoclassical models Discover more inside
 ---
 
 

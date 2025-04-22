@@ -1,6 +1,7 @@
 ---
-title: "Leverage Ratios in Energy Sector Evaluation"
-description: "Explore leverage ratios to assess financial health in the energy sector and enhance algorithmic trading strategies Gain insights into key risk metrics"
+title: Leverage Ratios For Assessing Energy Sector Financial Risk
+description: Leverage ratios help assess energy firms debt management and investment
+  risks in capital projects for smarter portfolio choices Discover more inside
 ---
 
 

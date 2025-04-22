@@ -1,6 +1,7 @@
 ---
-title: "Investing in ESG Strategies 2024"
-description: "Discover how integrating ESG strategies with algorithmic trading is transforming financial portfolios in 2024 aligning profitability with sustainability-focused objectives."
+title: ESG Investing Strategies for Sustainable Growth in 2024
+description: ESG investing empowers you to assess companies on environmental social
+  and governance criteria for long term growth and impact Discover more inside.
 ---
 
 

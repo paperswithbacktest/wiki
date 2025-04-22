@@ -1,6 +1,7 @@
 ---
-title: "How Debt Can Generate Income"
-description: "Explore how debt strategies can generate income alongside algorithmic trading techniques to optimize financial growth and ensure long-term success."
+title: Using Debt to Generate Income and Build Lasting Wealth
+description: Using debt to generate income lets you leverage loans for business real
+  estate while managing risk and building returns to grow wealth Discover more inside.
 ---
 
 

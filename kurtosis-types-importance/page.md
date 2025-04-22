@@ -1,6 +1,7 @@
 ---
-title: "Kurtosis: Types and Importance"
-description: "Explore the influence of kurtosis in algorithmic trading to improve price volatility assessment and risk management. Enhance trading strategies by understanding data distribution extremes."
+title: Understanding Kurtosis in Statistics and Risk Analysis
+description: Kurtosis measures the likelihood of extreme values in a dataset and reveals
+  distribution tail behavior for better risk assessment Discover more inside
 ---
 
 

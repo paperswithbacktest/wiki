@@ -1,6 +1,7 @@
 ---
-title: "Ginnie Mae Pass-Through: Overview and Mechanisms"
-description: "Explore Ginnie Mae pass-through securities, their secure returns backed by the U.S. government, and learn about their role in algorithmic trading strategies."
+title: Ginnie Mae Pass-Through Securities Explained for Investors
+description: Ginnie Mae Pass-Through securities offer government-backed income by
+  passing mortgage payments to investors with low-risk returns Discover more inside.
 ---
 
 

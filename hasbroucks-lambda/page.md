@@ -1,6 +1,7 @@
 ---
-title: "Hasbrouck’s lambda"
-description: Hasbrouck’s Lambda is an essential metric in algorithmic trading that evaluates the impact of trades on asset prices. This crucial tool aids traders and analysts by quantifying how trade volumes influence market prices, helping optimize trade strategies to minimize costs and manage liquidity. By understanding and applying Hasbrouck’s Lambda, traders can enhance their decision-making, anticipate market reactions, and improve execution strategies, thereby achieving more efficient trading outcomes and maximizing profitability. Discover how to utilize this metric for smarter trading approaches and improved market stability.
+title: Understanding Hasbrouck's Lambda For Stock Market Liquidity
+description: Hasbrouck's lambda reveals how much each trade moves stock prices and
+  measures market liquidity to guide smarter trading decisions Discover more inside
 ---
 
 

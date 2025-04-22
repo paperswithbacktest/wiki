@@ -1,6 +1,7 @@
 ---
-title: "Impact of Oil Prices on the Automotive Industry"
-description: "Explore how oil prices impact the auto industry and algorithmic trading offering insights for investors and manufacturers to capitalize on market changes."
+title: Impact Of Oil Price Changes On The Automotive Industry
+description: Oil price changes drive manufacturing costs and consumer demand in the
+  automotive industry while influencing vehicle mix and profits Discover more inside.
 ---
 
 

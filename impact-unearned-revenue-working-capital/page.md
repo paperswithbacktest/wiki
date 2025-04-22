@@ -1,6 +1,7 @@
 ---
-title: "Impact of Unearned Revenue on Working Capital"
-description: "Explore how unearned revenue impacts working capital and algo trading, essential for financial health and strategy in modern business finance."
+title: Unearned Revenue and Its Impact on Working Capital Management
+description: Unearned revenue gives upfront cash and creates liabilities requiring
+  disciplined management to protect liquidity and meet obligations Discover more inside
 ---
 
 

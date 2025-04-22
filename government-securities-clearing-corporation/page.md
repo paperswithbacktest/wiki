@@ -1,6 +1,7 @@
 ---
-title: "Government Securities Clearing Corporation"
-description: "Explore the pivotal role of the Government Securities Clearing Corporation in enhancing trade settlements for government securities amidst the rise of algo trading."
+title: Government Securities Clearing Corporation Roles and Functions
+description: Government Securities Clearing Corporation ensures smooth settlement
+  and risk management in government bonds and bills trading Discover more inside
 ---
 
 

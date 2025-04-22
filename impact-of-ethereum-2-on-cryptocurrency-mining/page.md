@@ -1,6 +1,7 @@
 ---
-title: "Impact of Ethereum 2.0 on Cryptocurrency Mining"
-description: "Explore the transformative impact of Ethereum 2.0 on cryptocurrency mining and algorithmic trading in this insightful article. Understand how the shift from Proof of Work to Proof of Stake aims to enhance energy efficiency and scalability while examining the pivotal role of algorithmic trading in shaping crypto markets. Discover the future dynamics of mining and trading within the evolving blockchain ecosystem."
+title: Ethereum 2.0 Impact On Mining Operations And Network Efficiency
+description: Ethereum 2.0 transforms from proof of work to proof of stake for faster,
+  eco friendly transactions and reshapes mining practices Discover more inside
 ---
 
 

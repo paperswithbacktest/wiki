@@ -1,6 +1,7 @@
 ---
-title: "Investing Resolutions for the New Year"
-description: "Embark on the New Year with smart investing resolutions like exploring algorithmic trading to enhance your financial strategy and build long-term wealth."
+title: Investing Basics And Strategies For Beginners To Experts
+description: Investing basics help you start early diversify effectively and manage
+  risk with practical tips on accounts tools and strategies Discover more inside.
 ---
 
 

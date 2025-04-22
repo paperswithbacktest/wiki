@@ -1,6 +1,7 @@
 ---
-title: "ISM Manufacturing Index"
-description: "Explore the significance of the ISM Manufacturing Index in algorithmic trading with insights into manufacturing trends and economic health that drive data-driven decisions."
+title: Comprehensive Guide to the ISM Manufacturing Index and Its Impact
+description: ISM Manufacturing Index reveals monthly US factory activity trends to
+  guide investors and business planning with actionable insights Discover more inside.
 ---
 
 

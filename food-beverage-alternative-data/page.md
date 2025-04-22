@@ -1,6 +1,7 @@
 ---
-title: "Food & Beverage Alternative Data"
-description: Explore how food and beverage alternative data is transforming algorithmic trading by offering novel insights for market predictions. Understand the impact of consumer consumption trends and transaction data on trading strategies and financial forecasts. Discover techniques for integrating these data sources to gain a competitive edge.
+title: Leveraging Alternative Data for Food and Beverage Market Insights
+description: Alternative data in food and beverage provides real time social media
+  satellite and spending insights to optimize menus and marketing Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hong Kong Monetary Authority: Roles and Functions"
-description: "Explore the vital roles and functions of the Hong Kong Monetary Authority in maintaining currency stability and fostering financial innovation within Hong Kong."
+title: Key Roles and Initiatives of the Hong Kong Monetary Authority
+description: Hong Kong Monetary Authority ensures currency stability and fortifies
+  banks with linked exchange rate systems and fintech support. Discover more inside.
 ---
 
 

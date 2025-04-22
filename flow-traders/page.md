@@ -1,6 +1,7 @@
 ---
-title: "Flow Traders"
-description: "Explore how Flow Traders leverages algorithmic trading to enhance market efficiency and stability. Discover innovative strategies in the evolving financial ecosystem."
+title: Flow Traders Overview of Electronic Trading and Market Liquidity
+description: Flow Traders uses advanced technology to provide market liquidity by
+  executing rapid trades across multiple markets worldwide. Discover more inside.
 ---
 
 

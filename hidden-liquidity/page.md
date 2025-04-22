@@ -1,6 +1,7 @@
 ---
-title: "Hidden Liquidity"
-description: "Discover the advantages of hidden liquidity in algorithmic trading learn how large trades can be executed discreetly to minimize market impact and enhance efficiency."
+title: Understanding Hidden Liquidity and Its Impact on Markets
+description: Hidden liquidity conceals large trades and triggers sudden price moves.
+  Traders detect hidden orders and adjust strategies. Discover more inside.
 ---
 
 

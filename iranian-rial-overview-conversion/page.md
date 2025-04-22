@@ -1,6 +1,7 @@
 ---
-title: "Iranian Rial: Overview and Conversion"
-description: "Explore the Iranian Rial's volatility and algorithmic trading strategies in this comprehensive guide to currency conversion and trading opportunities with IRR."
+title: Comprehensive Guide To The Iranian Rial Currency And Rates
+description: This guide explains Iranian Rial history exchange rates sanctions inflation
+  impacts and conversion tips in clear language Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Law of Demand in Economics"
-description: "Explore the impact of the law of demand on economic theory and algorithmic trading Discover how price changes influence consumer behavior and trading strategies"
+title: Exploring The Law Of Demand And Its Impact On Consumer Choices
+description: Law of Demand explains how price shifts influence consumer choices and
+  market dynamics through real examples and advanced models Discover more inside.
 ---
 
 

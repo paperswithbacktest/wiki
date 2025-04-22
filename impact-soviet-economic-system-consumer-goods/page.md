@@ -1,6 +1,7 @@
 ---
-title: "Impact of the Soviet Economic System on Consumer Goods"
-description: "Discover how the Soviet command economy impacted consumer goods production, leading to chronic shortages and a thriving underground market amid centralization."
+title: Soviet Economic System and Its Impact on Consumer Goods
+description: Soviet economic system set production pricing and wages for consumer
+  goods creating shortages inefficiency and limited variety Discover more inside.
 ---
 
 

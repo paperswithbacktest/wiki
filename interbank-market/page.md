@@ -1,6 +1,7 @@
 ---
-title: "Interbank Market"
-description: "Explore the strategic role of the interbank market in global finance and the transformative impact of algorithmic trading on liquidity management and risk mitigation."
+title: Understanding the Interbank Market and Its Global Impact
+description: Interbank market transactions drive global liquidity and currency flows
+  while central banks adjust rates to maintain stability Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "International Petroleum Investment Company"
-description: "Discover how IPIC leverages cutting-edge algorithmic trading to enhance investment strategies and navigate global markets, promoting financial efficiency and growth."
+title: International Petroleum Investment Company IPIC Growth Strategy
+description: International Petroleum Investment Company IPIC drives UAE economy with
+  strategic global energy investments in oil gas Discover more inside.
 ---
 
 

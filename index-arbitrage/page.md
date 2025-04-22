@@ -1,6 +1,7 @@
 ---
-title: "Index arbitrage"
-description: Discover the intricacies of index arbitrage, a trading strategy that exploits discrepancies between an index's market price and its theoretical value derived from component stocks. Integral to algorithmic trading, this strategy leverages automated systems for precise, real-time transactions, allowing traders to capitalize on price inefficiencies in index-tracking products like ETFs and index futures. Learn how traders minimize risks while enhancing speed and accuracy to secure potential profits in an evolving financial landscape.
+title: Index Arbitrage Mechanisms and Strategies for Market Efficiency
+description: Index arbitrage exploits price gaps between index and futures with automated
+  trades to secure profits and enhance market efficiency Discover more inside.
 ---
 
 

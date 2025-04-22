@@ -1,6 +1,7 @@
 ---
-title: "Leading Precious Metals Mutual Funds"
-description: "Explore the convergence of mutual funds, precious metals, and algorithmic trading, unlocking informed investment strategies for enhanced portfolio performance."
+title: Guide to Precious Metals Mutual Funds for Diversification
+description: Precious metals mutual funds give diverse exposure to gold and silver
+  firms to reduce portfolio risk and avoid physical storage Discover more inside
 ---
 
 

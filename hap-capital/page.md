@@ -1,6 +1,7 @@
 ---
-title: "HAP Capital"
-description: "HAP Capital excels in algorithmic trading using cutting-edge technology and sophisticated strategies to optimize trades and enhance market efficiency."
+title: HAP Capital Investment Philosophy and Risk Management Insights
+description: HAP Capital uses rigorous research and disciplined risk management to
+  uncover unique investments that outperform market benchmarks Discover more inside
 ---
 
 

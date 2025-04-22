@@ -1,6 +1,7 @@
 ---
-title: "Largest Mining Companies in China"
-description: "Explore the impact of China's largest mining companies as they lead global markets and integrate algorithmic trading to optimize efficiency and sustainability."
+title: Comprehensive Analysis of the Largest Mining Companies in China
+description: Largest mining companies in China support energy production and growth
+  through sustainable practices and community engagement Discover more inside
 ---
 
 

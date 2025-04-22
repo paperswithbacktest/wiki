@@ -1,6 +1,7 @@
 ---
-title: "Gradient (Machine Learning)"
-description: "Explore the role of gradients in machine learning, key to optimizing models using algorithms like gradient descent, which minimizes the loss function."
+title: Gradient Descent and Optimization Techniques in Machine Learning
+description: Gradient descent powers model training by guiding parameter updates to
+  minimize loss and avoid pitfalls like local minima. Discover more inside.
 ---
 
 ![Image](images/1.png)

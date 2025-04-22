@@ -1,6 +1,7 @@
 ---
-title: "Jade Lizard Options Strategy"
-description: "Unlock the potential of the Jade Lizard options strategy in algorithmic trading to capitalize on market volatility with a neutral to bullish outlook."
+title: Mastering The Jade Lizard Options Strategy For Range Trading
+description: Jade Lizard options strategy lets traders capture premium in neutral
+  to slightly bullish markets while capping downside risk. Discover more inside.
 ---
 
 

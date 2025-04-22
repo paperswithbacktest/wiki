@@ -1,6 +1,7 @@
 ---
-title: "Forex Charting and Functionality"
-description: "Explore forex trading with insights into charting and technical analysis Learn about algorithmic trading tools to enhance decision-making and trading success"
+title: Master Forex Charting Techniques for Smarter Trading Decisions
+description: Forex charting helps traders decode price trends patterns and key indicators
+  to make informed trading decisions and manage risk Discover more inside.
 ---
 
 

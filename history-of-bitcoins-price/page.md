@@ -1,6 +1,8 @@
 ---
-title: "History of Bitcoin's Price"
-description: "Explore Bitcoin's price history and its interplay with algorithmic trading, highlighting key milestones and market factors. Delve into how past price data can inform trading strategies and future trends, emphasizing technological advances and regulatory impacts on Bitcoin trading and investment."
+title: Bitcoin Price History And Market Influences From 2009 To Today
+description: Bitcoin price history shows its journey from near zero through major
+  events regulatory shifts and volatility to reveal its value today Discover more
+  inside
 ---
 
 

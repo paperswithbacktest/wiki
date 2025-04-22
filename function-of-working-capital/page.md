@@ -1,6 +1,7 @@
 ---
-title: "Function of Working Capital"
-description: "Discover the pivotal role working capital and algorithmic trading play in financial management understand how they enhance resource allocation and operational efficiency."
+title: Working Capital Management Definition and Business Impact
+description: Working capital measures the ability of a business to cover daily costs.
+  Use actionable methods to optimize cash flow and liquidity Discover more inside
 ---
 
 

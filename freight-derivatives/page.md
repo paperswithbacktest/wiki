@@ -1,6 +1,7 @@
 ---
-title: "Freight Derivatives"
-description: "Explore the crucial role of freight derivatives in the shipping industry as they aid in risk management and stabilize financial performance amidst market volatility."
+title: Freight Derivatives Explained for Shipping Cost Risk Management
+description: Freight derivatives help shipping companies and cargo owners lock in
+  rates to avoid cost spikes and plan budgets accurately Discover more inside
 ---
 
 

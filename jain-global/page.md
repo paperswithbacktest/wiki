@@ -1,6 +1,7 @@
 ---
-title: "Jain Global"
-description: "Discover Jain Global a leader in algorithmic trading providing cutting-edge technologies to enhance trading precision and efficiency for all market participants."
+title: Jain Global Investment Firm Driven By Teamwork And Technology
+description: Jain Global leverages advanced analytics and team collaboration to deliver
+  data-driven investment strategies that grow client wealth Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Geode Capital Management"
-description: Geode Capital Management is a leading investment management firm specializing in algorithmic trading, headquartered in Boston, Massachusetts. Established in 2001, Geode has built a strong reputation for its growth and innovation in systematic investment strategies, managing over $1 trillion in assets by 2022. The firm employs a data-driven, risk-managed approach with a focus on technology and quantitative research, excelling in diverse asset classes. Geode's team of quantitative experts and robust infrastructure enable it to consistently generate value, maintaining its position at the forefront of the rapidly evolving financial industry.
+title: Geode Capital Management Technology Driven Index Fund Strategies
+description: Geode Capital Management leverages data driven models to deliver steady
+  index fund returns and tailored solutions for clients Discover more inside
 ---
 
 

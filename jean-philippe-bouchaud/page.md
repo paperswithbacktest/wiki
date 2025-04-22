@@ -1,6 +1,7 @@
 ---
-title: "Jean-Philippe Bouchaud"
-description: Explore the groundbreaking work of Jean-Philippe Bouchaud, a prominent physicist who has revolutionized algorithmic trading by applying physics principles to finance. His innovative models challenge traditional economic theories, offering advanced methods for predicting market behavior and enhancing risk management. Bouchaud's interdisciplinary approach continues to reshape modern financial markets, influencing both academic research and practical applications.
+title: "Jean\u2011Philippe Bouchaud Insights Into Physics And Finance"
+description: "Jean\u2011Philippe Bouchaud applies physics methods to map market dynamics\
+  \ and optimize risk management at Capital Fund Management Discover more inside"
 ---
 
 

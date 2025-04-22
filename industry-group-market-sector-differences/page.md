@@ -1,6 +1,7 @@
 ---
-title: "Industry Group and Market Sector Differences"
-description: "Explore how industry groups and market sectors shape algorithmic trading in global markets. Understand GICS's role in classifying sectors for strategic trading decisions."
+title: Key Differences Between Industry Groups and Market Sectors
+description: Industry groups and market sectors foster collaboration and shape investment
+  strategy Explore clear distinctions to refine your choices Discover more
 ---
 
 

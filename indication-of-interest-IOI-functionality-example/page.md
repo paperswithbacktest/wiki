@@ -1,6 +1,7 @@
 ---
-title: "Indication of Interest (IOI): Functionality and Example"
-description: "Discover how Indications of Interest (IOIs) enhance algorithmic trading by providing crucial insights into market trends liquidity and strategic decision-making."
+title: Understanding Indications of Interest in Financial Markets
+description: Indication of Interest clarifies how investors and issuers test market
+  demand before committing to trades with nonbinding offers Discover more inside.
 ---
 
 

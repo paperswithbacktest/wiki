@@ -1,6 +1,7 @@
 ---
-title: "Iron Butterfly Option Strategy: Overview and Application"
-description: "Discover the intricacies of the Iron Butterfly options strategy to manage risks and maximize profits in range-bound markets with algorithmic trading tools."
+title: Iron Butterfly Options Strategy Explained for Consistent Returns
+description: Iron Butterfly option strategy lets you earn net credit by selling ATM
+  options and buying wings to define risk and capture time decay Discover more inside.
 ---
 
 

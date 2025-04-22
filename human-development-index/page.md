@@ -1,6 +1,7 @@
 ---
-title: "Human Development Index"
-description: "Explore the Human Development Index's relevance in assessing global development and its innovative application in algorithmic trading to evaluate emerging market opportunities."
+title: 'Human Development Index Explained: Definition And Calculation'
+description: Human Development Index assesses health education and income to provide
+  a holistic view of country wellbeing through data Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "House Money Effect"
-description: "Explore the House Money Effect a key concept in behavioral finance that impacts investor risk-taking behavior and decision-making with algorithmic trading systems."
+title: Understanding the House Money Effect in Financial Decisions
+description: House Money Effect insights help you recognize risk biases with bonus
+  or windfall funds to make calculated investment choices Discover more inside.
 ---
 
 

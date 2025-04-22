@@ -1,6 +1,7 @@
 ---
-title: "History of the S&P 500 Index"
-description: "Explore the history of the S&P 500 and the role algorithmic trading plays in its dynamics, offering insights into its resilience and adaptability."
+title: S&P 500 Index Explained Origins Composition And Market Impact
+description: S&P 500 Index details reveal its origin, purpose, methodology and global
+  significance while showing how changes shape market trends. Discover more inside.
 ---
 
 

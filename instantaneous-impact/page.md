@@ -1,6 +1,7 @@
 ---
-title: "Instantaneous impact"
-description: "Explore how instantaneous impact affects algorithmic trading strategies and market dynamics Understand its role in optimizing trade execution and minimizing costs"
+title: Understanding Instantaneous Impact in Algorithmic Trading
+description: Instantaneous Impact in Algorithmic Trading shows how liquidity and order
+  size shape execution efficiency and risk management Discover more inside
 ---
 
 

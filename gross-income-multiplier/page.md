@@ -1,6 +1,7 @@
 ---
-title: "Gross Income Multiplier"
-description: "Discover the Gross Income Multiplier (GMI) and its crucial role in real estate valuation by assessing a property's worth based on its potential revenue. The GMI aids investors in making quick decisions by comparing a property's sale price to its gross annual rental income, though it should be used alongside other financial analysis methods for a comprehensive evaluation. Explore how integrating GMI into algorithmic trading can refine investment strategies and provide a dynamic approach in today's fast-paced real estate markets."
+title: Understanding Gross Income Multiplier In Real Estate Investing
+description: Gross Income Multiplier helps investors assess property value from rental
+  income and compare deals effectively. Discover more inside.
 ---
 
 

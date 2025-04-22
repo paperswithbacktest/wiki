@@ -1,6 +1,7 @@
 ---
-title: "Investing in Your 20s: Establishing a Financial Foundation"
-description: "Investing in your 20s with algo trading can boost your financial future by leveraging compound interest and modern technology for optimal wealth growth."
+title: Investing in Your 20s for Sustainable Long Term Growth
+description: Investing in your 20s taps compound interest and builds a diversified
+  portfolio while strategically managing risk and debt Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investment View and Functionality"
-description: "Discover the synergy between investment views, finance, and algorithmic trading to enhance investment outcomes with strategic insights and advanced financial tools."
+title: Understanding Investment Basics Strategies Risk and Returns
+description: Investment basics guide explains types risk and return considerations
+  and practical steps to start investing confidently Discover more inside
 ---
 
 

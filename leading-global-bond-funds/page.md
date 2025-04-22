@@ -1,6 +1,7 @@
 ---
-title: "Leading Global Bond Funds"
-description: "Enhance your investment strategy with global bond funds and algorithmic trading for balanced portfolio growth and risk management in a complex financial world."
+title: Professional Guide to Global Bond Funds for Diversified Income
+description: Global bond funds deliver diversified income and spread risk across government
+  corporate and emerging market bonds to optimize returns Discover more inside
 ---
 
 

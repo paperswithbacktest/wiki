@@ -1,6 +1,7 @@
 ---
-title: "Front-running detection"
-description: "Discover the threats of front-running in algorithmic trading and explore the technological and regulatory measures designed to safeguard market integrity."
+title: Front-Running Detection Ensures Fairness in Financial Markets
+description: Front-running detection uses machine learning and surveillance tools
+  to effectively spot unfair trading and uphold market fairness Discover more inside
 ---
 
 

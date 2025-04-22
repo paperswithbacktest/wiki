@@ -1,6 +1,7 @@
 ---
-title: "Impact of Currency Risk on Foreign Bonds"
-description: "Explore how currency risk impacts foreign bond investments and how algorithmic trading strategies can help manage and mitigate these risks effectively."
+title: Managing Currency Risk in Foreign Bond Investments
+description: Currency risk in foreign bonds can erode returns through exchange rate
+  swings Use hedging and diversification to protect investments Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Liquidation in Bankruptcy"
-description: "Explore the intersection of bankruptcy and algorithmic trading to understand financial distress management and adapt trading strategies amid market volatility."
+title: Liquidation in Bankruptcy Guide for Businesses and Individuals
+description: Liquidation bankruptcy lets individuals and businesses sell assets to
+  repay creditors and discharge debts for a fresh financial start Discover more inside
 ---
 
 

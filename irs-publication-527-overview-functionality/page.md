@@ -1,6 +1,7 @@
 ---
-title: "IRS Publication 527: Overview and Functionality"
-description: "Optimize rental property tax management with IRS Publication 527 It simplifies reporting income deductions and depreciation to boost compliance and investment returns"
+title: IRS Publication 527 Guide To Residential Rental Property Taxes
+description: IRS Publication 527 helps landlords report rental income accurately and
+  claim all eligible deductions on residential properties. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Key Considerations Before Investing in a Startup"
-description: "Explore key considerations before investing in startups and algorithmic trading Learn about risks involvement timeframes potential returns and exit strategies"
+title: Comprehensive Startup Investment Guide for Informed Investors
+description: Startup Investment requires strategic evaluation of founders market potential
+  models and projections to guide informed decisions Discover more inside
 ---
 
 

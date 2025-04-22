@@ -1,6 +1,7 @@
 ---
-title: "Geneva Trading"
-description: "Explore Geneva Trading's role in algorithmic trading, leveraging technology and innovation to optimize strategies and streamline trade execution efficiently."
+title: Geneva Trading Algorithmic Solutions And Market Making
+description: Geneva Trading uses advanced algorithmic high frequency strategies to
+  optimize stock futures and options with speed and precision Discover more inside
 ---
 
 

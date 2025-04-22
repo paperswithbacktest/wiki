@@ -1,6 +1,7 @@
 ---
-title: "Importance of Expense Ratios in Mutual Funds"
-description: "Optimize your mutual fund investments by understanding expense ratios and leveraging algorithmic trading to enhance portfolio performance and maximize returns."
+title: Understanding Expense Ratios in Mutual Funds for Better Returns
+description: Mutual fund expense ratio affects fees and net returns over time Compare
+  costs across funds to enhance investment growth Discover more inside
 ---
 
 

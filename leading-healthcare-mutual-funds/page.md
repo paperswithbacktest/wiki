@@ -1,6 +1,7 @@
 ---
-title: "Leading Healthcare Mutual Funds"
-description: "Discover the potential of healthcare mutual funds enhanced by algorithmic trading to optimize your investment portfolio with innovative strategies and reduced risk."
+title: Healthcare Mutual Funds Comprehensive Investment Guide
+description: Healthcare mutual funds offer exposure to hospitals drug makers and device
+  firms with expert management for steady growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Gross Lease: Overview, Types, Advantages, and Disadvantages"
-description: "Explore the benefits and drawbacks of gross leases in commercial real estate Discover how these lease agreements influence financial outcomes and cost allocation."
+title: Gross Lease Agreements Explained for Tenants and Landlords
+description: Gross lease covers taxes insurance and maintenance in one fixed rent.
+  This guide clarifies pros cons and negotiation strategies Discover more inside
 ---
 
 

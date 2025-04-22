@@ -1,6 +1,7 @@
 ---
-title: "Impact of Dividend Suspension on Shareholding Decisions"
-description: "Explore how dividend suspension affects shareholding decisions and gain insights into the role of algorithmic trading in shaping investment strategies for optimized returns."
+title: Understanding Dividend Suspension Effects and Investor Strategies
+description: Dividend suspension can reshape shareholder value and market reactions
+  by impacting stock prices and freeing cash for strategic growth Discover more inside
 ---
 
 

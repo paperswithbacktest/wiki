@@ -1,6 +1,8 @@
 ---
-title: "History of Currency"
-description: "Explore the evolution of currency from ancient barter systems to algorithmic trading highlighting key advancements in finance and monetary systems."
+title: Evolution of Currency From Barter to Digital Money
+description: Currency evolved from barter systems to commodity money coins and paper
+  then to digital forms highlighting key milestones in monetary history Discover more
+  inside
 ---
 
 

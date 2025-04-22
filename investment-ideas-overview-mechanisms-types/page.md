@@ -1,6 +1,7 @@
 ---
-title: "Investment Ideas: Overview, Mechanisms, and Types"
-description: "Explore investment strategies and types to optimize financial outcomes with algorithmic trading Learn how to build robust portfolios balancing risk and return"
+title: Essential Investment Guide to Types and Strategies Explained
+description: Investment guide covers key types strategies risk and returns to help
+  you build a balanced portfolio for long term growth Discover more inside
 ---
 
 

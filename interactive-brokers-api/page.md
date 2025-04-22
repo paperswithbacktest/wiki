@@ -1,6 +1,7 @@
 ---
-title: "Interactive Brokers API: The Ultimate Guide"
-description: Discover the power of Interactive Brokers APIs for trading automation and data access. Learn about the Client Portal RESTful API, TWS API, and FIX protocol in this comprehensive guide. Get started with account creation, software downloads, and IDE setup.
+title: Getting Started With Interactive Brokers API Integration
+description: Interactive Brokers API lets you automate trades and access real-time
+  market data after TWS configuration with Python support Discover more inside
 ---
 
 

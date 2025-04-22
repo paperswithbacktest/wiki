@@ -1,6 +1,7 @@
 ---
-title: "Intertemporal Capital Asset Pricing Model"
-description: "Explore the role of the Intertemporal Capital Asset Pricing Model in algorithmic trading Dive into advanced models to enhance asset pricing strategies and risk management"
+title: Understanding the Intertemporal Capital Asset Pricing Model
+description: Intertemporal Capital Asset Pricing Model helps investors manage future
+  risks and optimize returns across time using state variables Discover more inside
 ---
 
 

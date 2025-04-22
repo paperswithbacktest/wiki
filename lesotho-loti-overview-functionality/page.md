@@ -1,6 +1,7 @@
 ---
-title: "Lesotho Loti: Overview and Functionality"
-description: "Explore the Lesotho Loti currency in the context of its peg to the South African Rand and its impact on economic growth and algorithmic trading opportunities."
+title: Key Facts About The Lesotho Loti Currency And Its Impact
+description: Lesotho Loti tied to the South African Rand streamlines trade and boosts
+  the Lesotho economy with secure banknote features Discover more inside
 ---
 
 

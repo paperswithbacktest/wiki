@@ -1,6 +1,7 @@
 ---
-title: "Heritage and Stabilization Fund: Overview and History"
-description: "Explore the Heritage and Stabilization Fund of Trinidad and Tobago and how algorithmic trading enhances its economic stability for future generations."
+title: Trinidad and Tobago Heritage and Stabilization Fund Guide
+description: Heritage and Stabilization Fund secures oil and gas revenue by investing
+  savings to stabilize Trinidad and Tobago budget and protect services Discover more
 ---
 
 

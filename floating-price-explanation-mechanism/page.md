@@ -1,6 +1,7 @@
 ---
-title: "Floating Price: Explanation and Mechanism"
-description: "Explore the intricate world of algorithmic trading and floating prices Understanding how dynamic pricing mechanisms shape market strategies and enhance liquidity"
+title: Understanding Floating Price Mechanisms in Financial Markets
+description: Floating price shows how dynamic pricing for commodities currencies and
+  securities adapts to market shifts and manages risk Discover more inside.
 ---
 
 

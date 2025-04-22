@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Alpha and Beta"
-description: "Explore the essential roles of alpha and beta in algorithmic trading. Learn how these metrics evaluate investment performance and risk, guiding investors to make informed decisions. Discover the significance of alpha in measuring excess returns and beta in assessing asset volatility relative to the market. This comprehensive guide highlights their applications in enhancing trading strategies within the dynamic world of algorithmic trading."
+title: Understanding Alpha And Beta Metrics For Investment Performance
+description: Alpha and beta measure investment performance and risk to assess returns
+  and balance portfolios for smarter investing confidently Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Keynesian Economics on Economic Cycles"
-description: "Explore the impact of Keynesian economics on economic cycles and its integration with algorithmic trading strategies to balance boom-bust cycles effectively."
+title: Keynesian Economics Theory And Its Role In Fiscal Policy
+description: Keynesian economics explains government spending and the multiplier effect
+  to stabilize cycles and boost demand during downturns Discover more inside
 ---
 
 

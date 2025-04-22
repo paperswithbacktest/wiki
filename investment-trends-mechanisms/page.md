@@ -1,6 +1,7 @@
 ---
-title: "Investment Trends and Mechanisms"
-description: "Explore the latest trends and mechanisms in investing with insights into algorithmic trading and the financial fads shaping the market for better decision-making."
+title: Investment Basics and Strategies for Building Long Term Wealth
+description: Investment insights on types risk management and portfolio optimization
+  empower you to make informed choices for long term growth Discover more inside.
 ---
 
 

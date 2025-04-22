@@ -1,6 +1,7 @@
 ---
-title: "Investing in Liquor"
-description: "Explore investing in liquor and spirits as an alternative investment strategy. Learn about algorithmic trading and its impact on optimizing returns in this niche market."
+title: Essential Guide to Liquor Investing for Rare Spirits
+description: Liquor investing diversifies by holding rare spirits learn to select,
+  store and leverage market insights to optimize returns Discover more inside
 ---
 
 

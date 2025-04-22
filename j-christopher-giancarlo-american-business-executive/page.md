@@ -1,6 +1,7 @@
 ---
-title: "J. Christopher Giancarlo: American Business Executive"
-description: "Explore the evolving landscape where regulation, blockchain, and algorithmic trading intersect. Discover how these elements reshape financial markets and prompt vital discussions."
+title: J Christopher Giancarlo CryptoDad Leadership and Financial Innovation
+description: J Christopher Giancarlo shaped crypto regulation and championed blockchain
+  at the CFTC while advocating for a digital dollar Discover more inside
 ---
 
 

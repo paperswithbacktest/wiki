@@ -1,6 +1,7 @@
 ---
-title: "History of Mutual Funds"
-description: "Explore the evolution of mutual funds and algorithmic trading Discover how these investment tools have shaped financial strategies and broadened market access"
+title: Evolution and Impact of Mutual Funds Through History
+description: Mutual funds deliver professional pooling of stocks bonds and cash to
+  spread risk while showcasing global evolution and growth Discover more inside.
 ---
 
 

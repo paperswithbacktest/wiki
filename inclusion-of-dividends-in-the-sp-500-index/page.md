@@ -1,6 +1,7 @@
 ---
-title: "Inclusion of Dividends in the S&P 500 Index"
-description: "Enhance your investment strategy by integrating algorithmic trading with dividend stocks in the S&P 500 Index for optimized returns and portfolio performance."
+title: Understanding S&P 500 Dividends and Total Return Strategies
+description: S&P 500 dividends reveal how reinvestment and total return tracking can
+  boost long-term growth with proven strategies. Discover more inside.
 ---
 
 

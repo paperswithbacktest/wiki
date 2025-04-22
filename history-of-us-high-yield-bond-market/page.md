@@ -1,6 +1,7 @@
 ---
-title: "History of the U.S. High-Yield Bond Market"
-description: "Explore the evolution of the U.S. high-yield bond market and the impact of algorithmic trading Discover how these dynamics shape investment strategies today."
+title: Evolution Of The US High-Yield Bond Market Explained
+description: High-Yield Bond Market developments shaped corporate financing and investor
+  returns through history from the 1970s to today Discover more inside.
 ---
 
 

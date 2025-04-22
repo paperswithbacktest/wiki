@@ -1,6 +1,7 @@
 ---
-title: "Lawful Money: Definition and History"
-description: "Discover the evolution of currency from barter to digital forms and how lawful money and algorithmic trading shape global financial systems today."
+title: Exploring Lawful Money Definition History And Future Trends
+description: Lawful money defines the official government backed currency that ensures
+  economic stability outlines its evolution and modern role Discover more inside
 ---
 
 

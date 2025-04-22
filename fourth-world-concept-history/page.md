@@ -1,6 +1,7 @@
 ---
-title: "Fourth World: Concept and History"
-description: "Explore the intersection of Fourth World indigenous communities and the rise of algorithmic trading Impacting global development and economic integration"
+title: Understanding the Fourth World and Its Global Impact
+description: Fourth World communities face poverty education and health care challenges
+  that demand global attention and policy action Discover more inside.
 ---
 
 

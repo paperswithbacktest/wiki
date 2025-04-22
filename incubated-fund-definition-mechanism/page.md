@@ -1,6 +1,7 @@
 ---
-title: "Incubated Fund: Definition and Mechanism"
-description: "Explore incubated funds and their role in algorithmic trading Discover how innovation in financial strategies can optimize returns and manage risks effectively"
+title: Understanding Incubated Funds and Their Investment Strategies
+description: Incubated funds allow you to test innovative investment strategies with
+  institutional support measuring risk and returns Discover more inside
 ---
 
 

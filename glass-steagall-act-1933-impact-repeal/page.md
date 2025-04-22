@@ -1,6 +1,7 @@
 ---
-title: "Glass-Steagall Act: 1933, Impact, and Repeal"
-description: "Explore the history and legacy of the Glass-Steagall Act its crucial role in financial reform balancing banking practices and modern regulatory challenges."
+title: Understanding the Glass-Steagall Act and Its Impact
+description: Glass-Steagall Act reshaped US banking by separating commercial and investment
+  services to protect deposits and ensure stability Discover more inside
 ---
 
 

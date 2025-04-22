@@ -1,6 +1,7 @@
 ---
-title: "Great Gatsby Curve: Explanation and Implications"
-description: "Explore the Great Gatsby Curve and learn its implications on income inequality and intergenerational mobility while assessing the role of algorithmic trading."
+title: Understanding the Great Gatsby Curve and Social Mobility
+description: Great Gatsby Curve reveals how income inequality shapes social mobility
+  and why narrowing the gap can boost opportunity Discover more inside
 ---
 
 

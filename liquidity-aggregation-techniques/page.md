@@ -1,6 +1,7 @@
 ---
-title: "Liquidity Aggregation Techniques"
-description: "Explore liquidity aggregation techniques in algorithmic trading to integrate diverse liquidity sources, enhancing trade efficiency and minimizing costs."
+title: Optimizing Trading Efficiency with Liquidity Aggregation
+description: Liquidity aggregation combines multiple market sources to deliver better
+  prices faster with smart algorithms and order routing Discover more inside
 ---
 
 

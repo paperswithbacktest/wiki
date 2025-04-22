@@ -1,6 +1,7 @@
 ---
-title: "H-1B Visa Green Card Backlog and Tech Industry Advocacy"
-description: "Discover how the H-1B visa green card backlog impacts the U.S. tech industry and explores the role of skilled foreign workers in maintaining innovation."
+title: Addressing the H-1B Visa Green Card Backlog in Tech
+description: H-1B visa green card backlog keeps tech professionals and families in
+  uncertainty Explore reform strategies to streamline the process Discover more inside
 ---
 
 

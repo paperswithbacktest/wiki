@@ -1,6 +1,7 @@
 ---
-title: "Indicators for Scalping Trading Strategy"
-description: "Explore effective scalping strategies using trading indicators for algorithmic day trading Gain insights into tools like RSI and moving averages for better decisions"
+title: Essential Trading Indicators for Effective Scalping Strategies
+description: Trading indicators like RSI MACD and Bollinger Bands guide scalpers to
+  spot fast entry exit points manage risk secure small profits Discover more inside
 ---
 
 

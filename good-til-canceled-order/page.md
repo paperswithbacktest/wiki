@@ -1,6 +1,7 @@
 ---
-title: "Good 'Til Canceled Order"
-description: "Explore the key features and benefits of Good 'Til Canceled (GTC) orders in algorithmic trading including their role in automating strategies over time."
+title: Understanding Good 'Til Canceled GTC Orders For Stock Trades
+description: Good 'Til Canceled order lets investors automate stock trades at target
+  prices saving time and maintaining control of positions Discover more inside
 ---
 
 

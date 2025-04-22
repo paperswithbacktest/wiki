@@ -1,6 +1,7 @@
 ---
-title: "History of Export-Led Growth Strategies"
-description: "Explore the history and evolution of export-led growth strategies, a pivotal economic approach that emphasizes boosting a country's economy through exports rather than domestic consumption. This strategy, prominent since the late 20th century, offers developing nations a path to industrialization by leveraging their competitive advantages, like low labor costs or resource abundance. Learn how modern digital trading platforms, including algorithmic trading, have transformed these strategies, enhancing efficiency and global competitiveness amidst today's complex trade environment. Discover key tactical elements that drive this global trade paradigm, fostering innovation and economic advancement."
+title: Export-Led Growth Strategies for Sustainable Economic Expansion
+description: Export-led growth enables countries to boost exports, create jobs, enhance
+  competitiveness through strategic policies and innovation Discover more inside
 ---
 
 

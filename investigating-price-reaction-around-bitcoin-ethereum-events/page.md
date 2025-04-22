@@ -1,6 +1,7 @@
 ---
-title: "Investigating Price Reaction Around Bitcoin & Ethereum Events"
-description: Explore the impact of Bitcoin and Ethereum events, such as halvings and forks, on cryptocurrency prices and trading strategies. Understand how these pivotal moments influence market dynamics and offer potential trading opportunities within the volatile crypto landscape. Discover insights into the historical price reactions and the significance of these events in formulating algorithmic strategies for informed decision-making in cryptocurrency investments.
+title: Understanding Cryptocurrency Event Studies for Bitcoin and Ethereum
+description: Bitcoin and Ethereum event study methodology reveals how news and regulatory
+  changes drive price reactions and trading volume Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "HSBC Money Laundering Controversy"
-description: "Explore the HSBC money laundering controversy highlighting regulatory failures and the complex dynamics of modern banking amidst technological advancements."
+title: HSBC Money Laundering Controversy and Compliance Reforms
+description: HSBC money laundering controversy spurred a landmark $1.9 billion penalty
+  and drove global banking to strengthen compliance controls Discover more inside.
 ---
 
 

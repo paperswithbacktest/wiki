@@ -1,6 +1,7 @@
 ---
-title: "Fox-Trot Economy"
-description: "Discover the dynamics of the fox-trot economy, a pattern of alternating rapid and slow growth cycles, and its impact on algorithmic trading strategies."
+title: Navigating Fox-Trot Economy Growth and Slowdown Phases
+description: Fox-Trot Economy explains growth and slowdown cycles to help businesses
+  and individuals plan finances effectively and stay resilient Discover more inside
 ---
 
 

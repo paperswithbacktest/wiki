@@ -1,6 +1,7 @@
 ---
-title: "Imputed Cost and Opportunity Cost in Accounting"
-description: "Explore the impact of opportunity and imputed costs in accounting and algorithmic trading to optimize resource allocation and enhance financial strategies."
+title: Imputed Cost and Opportunity Cost for Informed Business Decisions
+description: Imputed cost reveals hidden expenses and opportunity cost shows what
+  you forgo when allocating resources to optimize decision making Discover more inside
 ---
 
 

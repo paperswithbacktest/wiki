@@ -1,6 +1,7 @@
 ---
-title: "History of Coinage in the United States"
-description: "Explore the evolution of U.S. coinage and its connection to modern algorithmic trading highlighting the shift from physical currency to advanced trading technologies."
+title: U.S. Coinage Evolution from Continentals to Modern Designs
+description: U.S. coinage has evolved from Continental Currency to modern designs
+  reflecting key milestones economic impact culture and innovation Discover more inside
 ---
 
 

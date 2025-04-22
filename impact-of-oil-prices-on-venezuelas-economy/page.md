@@ -1,6 +1,7 @@
 ---
-title: "Impact of Oil Prices on Venezuela's Economy"
-description: "Explore the intricate impact of oil price fluctuations on Venezuela's economy and discover how algorithmic trading offers potential solutions for economic stability."
+title: Oil Price Fluctuations Shape Venezuela's Economic Performance
+description: Venezuela oil prices drive government revenue, currency value and inflation
+  trends while also impacting jobs and public services Discover more inside.
 ---
 
 

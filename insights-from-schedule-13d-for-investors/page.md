@@ -1,6 +1,7 @@
 ---
-title: "Insights from Schedule 13D for Investors"
-description: "Explore how Schedule 13D filings impact market dynamics and investor strategies highlighting the intersection with algorithmic trading for timely insights."
+title: Understanding Schedule 13D Filings for Informed Investors
+description: Schedule 13D filings reveal who owns over 5 percent of a company and
+  why investors monitor them for strategic insights Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Green Bond Investing: Opportunities and Risks"
-description: "Explore the opportunities and risks of green bond investing in the evolving landscape of sustainable finance, featuring insights on algorithmic trading."
+title: Understanding Green Bonds for Sustainable Investment
+description: Green Bonds empower investors to finance eco friendly initiatives with
+  steady returns verified credentials and transparent reporting Discover more inside
 ---
 
 

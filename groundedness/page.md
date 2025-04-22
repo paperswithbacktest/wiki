@@ -1,6 +1,7 @@
 ---
-title: "Groundedness (Machine Learning)"
-description: "Groundedness in machine learning ensures models are reliable by connecting outputs to real-world data making them trustworthy especially in critical fields."
+title: Ensuring Groundedness in Machine Learning for Reliable Models
+description: Groundedness in machine learning ensures your models use real data and
+  provide clear explanations for trustworthy decision making Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Leda Braga: A Quantitative Trading Pioneer"
-description: Discover the legacy of Leda Braga, a trailblazer in algorithmic trading. Renowned for her innovative approach and strategic leadership, Braga has made significant strides in the industry, first building her expertise at J.P. Morgan and then making her mark at BlueCrest Capital Management. As the founder and CEO of Systematica Investments, she continues to lead with a focus on quantitative analysis and systematic strategies, minimizing emotional biases in trading. Learn how Braga's data-driven philosophy has influenced the financial landscape and set new standards in trading practices.
+title: Leda Braga Leadership in Quantitative Trading at Systematica
+description: Leda Braga drives smarter quantitative trading at Systematica Investments
+  using advanced math and tech for efficient market strategies Discover more inside
 ---
 
 

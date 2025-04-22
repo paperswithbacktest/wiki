@@ -1,6 +1,7 @@
 ---
-title: "Free Asset Ratio: Overview and Calculation"
-description: "Explore how the Free Asset Ratio impacts insurance solvency and algorithmic trading strategies Learn how FAR assesses financial health in life insurance companies"
+title: Free Asset Ratio Explained for Business Financial Stability
+description: Free Asset Ratio shows how much capital remains after short-term debts
+  to assess company solvency and cash flow strength Discover more inside
 ---
 
 

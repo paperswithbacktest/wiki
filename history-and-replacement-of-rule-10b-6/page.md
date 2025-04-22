@@ -1,6 +1,7 @@
 ---
-title: "History and Replacement of Rule 10b-6"
-description: "Explore the history and impact of SEC Rule 10b-6 and its replacement by Rule M Learn about its role in preventing market manipulation and promoting fairness"
+title: Understanding the SEC Rule 10b-6 Replacement by Regulation M
+description: Rule 10b-6 set the foundation for fair stock offerings and evolved into
+  Regulation M to prevent advanced market manipulation Discover more inside
 ---
 
 

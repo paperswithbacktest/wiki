@@ -1,6 +1,7 @@
 ---
-title: "Largest Canadian Oil and Gas Companies"
-description: "Explore the dynamic landscape of Canada's oil and gas industry, a cornerstone of the national economy and a key player in global energy markets. Discover how the sector is segmented into upstream, midstream, and downstream activities, each contributing to the efficient supply chain from exploration to consumer distribution. With a focus on Alberta's oil sands, learn about the technological advancements and algorithmic trading strategies that enhance productivity and market stability. Stay informed about key companies like Cenovus Energy, Suncor Energy, and Imperial Oil as they navigate environmental challenges and market fluctuations."
+title: Largest Oil and Gas Companies in Canada and Their Impact
+description: Largest oil and gas companies in Canada drive growth through oil sands
+  and refining while adopting cleaner technologies and innovation Discover more inside
 ---
 
 

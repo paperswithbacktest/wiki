@@ -1,6 +1,7 @@
 ---
-title: "Generated Text (Machine Learning)"
-description: "Explore how machine learning generates text using language models and discover applications from story writing to virtual assistants with our comprehensive guide."
+title: Comprehensive Guide to Text Generation in Machine Learning
+description: Text Generation delivers applications and expert insights on models methods
+  challenges and ethics for machine learning use Discover more inside
 ---
 
 ![Image](images/1.png)

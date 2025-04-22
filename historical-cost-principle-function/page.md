@@ -1,6 +1,7 @@
 ---
-title: "Historical Cost Principle and Function"
-description: "Explore the integration of historical cost accounting in algorithmic trading Discover how cost principles ensure transparency efficiency and mitigate risks in trading strategies"
+title: Understanding the Historical Cost Principle in Accounting
+description: Historical cost principle records assets at their purchase price to keep
+  financial statements clear and comparable over time Discover more inside
 ---
 
 

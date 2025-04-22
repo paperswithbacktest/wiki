@@ -1,6 +1,7 @@
 ---
-title: "Leptokurtic and Platykurtic Distributions"
-description: "Understand how leptokurtic and platykurtic distributions impact algorithmic trading strategies by influencing risk management and financial decision-making."
+title: Exploring Kurtosis Leptokurtic and Platykurtic Distributions
+description: Kurtosis reveals data concentration and tail variation compared to a
+  normal distribution in leptokurtic and platykurtic patterns Discover more inside.
 ---
 
 

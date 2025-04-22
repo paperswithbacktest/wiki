@@ -1,6 +1,7 @@
 ---
-title: "LEAP Options Rolling Strategy"
-description: "Explore the synergy of LEAP options and algorithmic trading for long-term investment strategies Discover how to leverage positions with capital efficiency."
+title: Effective LEAP Options Rolling Strategy For Long-Term Investors
+description: LEAP options rolling strategy gives investors extended time to profit
+  manage risk adapt positions and extend expiration dates Discover more inside
 ---
 
 

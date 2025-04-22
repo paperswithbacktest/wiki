@@ -1,6 +1,7 @@
 ---
-title: "Impact of Basel IV on U.S. Banks"
-description: "Explore how Basel IV reshapes risk management for U.S. banks and impacts algorithmic trading strategies promoting stability in the financial sector."
+title: Implementing Basel IV and Its Impact on U.S. Bank Capital
+description: Basel IV raises capital requirements for U.S. banks with standardized
+  risk calculations and a 72.5% output floor to boost resilience. Discover more inside.
 ---
 
 

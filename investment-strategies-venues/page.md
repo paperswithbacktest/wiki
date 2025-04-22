@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies and Venues"
-description: "Explore effective investment strategies with a focus on algorithmic trading Discover market trends shaping 2023 and strategies for maximizing returns"
+title: Complete Guide To Investing From Basics To Advanced Strategies
+description: Investing fundamentals guide covers risk tolerance diversification asset
+  allocation and strategies to grow your portfolio Discover more inside
 ---
 
 

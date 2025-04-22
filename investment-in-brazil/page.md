@@ -1,6 +1,7 @@
 ---
-title: "Investment in Brazil"
-description: "Explore investment opportunities in Brazil's dynamic economy and discover how algorithmic trading offers a competitive edge in financial markets."
+title: Comprehensive Guide to Investing in the Brazilian Market
+description: Investing in Brazil explores key asset types sectors taxes regulations
+  and risks to help you make informed decisions with confidence Discover more inside
 ---
 
 

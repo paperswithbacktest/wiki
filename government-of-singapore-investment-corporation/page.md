@@ -1,6 +1,7 @@
 ---
-title: "Government of Singapore Investment Corporation"
-description: "Discover how the Government of Singapore Investment Corporation leverages algorithmic trading to optimize investment efficiency and secure financial stability."
+title: Government of Singapore Investment Corporation GIC Explained
+description: GIC manages Singapore reserves by diversifying investments across stocks
+  bonds real estate and emerging markets to grow assets Discover more inside
 ---
 
 

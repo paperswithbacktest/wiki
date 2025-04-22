@@ -1,6 +1,7 @@
 ---
-title: "Intercommodity Spread: Overview and Types"
-description: "Discover the intricacies of intercommodity spread trading and its blend with algorithmic trading to leverage price differentials in competitive commodities markets."
+title: Intercommodity Spread Trading Explained for Risk Management
+description: Intercommodity spread trading helps manage risk by profiting from price
+  differences between related commodities using strategic trades Discover more inside
 ---
 
 

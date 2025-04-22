@@ -1,6 +1,7 @@
 ---
-title: "Jump Trading"
-description: "Explore the dynamic world of algorithmic trading and discover Jump Trading's innovative strategies in the financial market. Learn how technology transforms trading."
+title: Jump Trading High-Frequency Trading And Technology Services
+description: Jump Trading uses high-frequency trading and proprietary algorithms to
+  boost liquidity manage risk and optimize market operations Discover more inside
 ---
 
 

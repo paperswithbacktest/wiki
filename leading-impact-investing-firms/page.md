@@ -1,6 +1,7 @@
 ---
-title: "Leading Impact Investing Firms"
-description: "Explore how leading impact investing firms use algotrading to enhance sustainable finance by considering ESG factors, generating social and financial gains."
+title: Impact Investing Strategies For Sustainable Financial Growth
+description: Impact investing drives financial returns and social progress using clear
+  metrics and expert vetting with profit and purpose Discover more inside.
 ---
 
 

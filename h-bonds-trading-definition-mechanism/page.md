@@ -1,6 +1,7 @@
 ---
-title: "H in Bonds Trading: Definition and Mechanism"
-description: "Explore the transformative role of algorithmic trading in bond markets Discover how technology enhances efficiency and revolutionizes trading practices today"
+title: High Yield Bonds Explained With Key Concepts And Strategies
+description: High Yield Bonds deliver increased interest in exchange for higher credit
+  risk and help diversify your portfolio with balanced returns Discover more inside
 ---
 
 

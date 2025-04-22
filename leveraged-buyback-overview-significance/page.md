@@ -1,6 +1,7 @@
 ---
-title: "Leveraged Buyback: Overview and Significance"
-description: "Explore the significance of leveraged buybacks in corporate finance and their interplay with algorithmic trading strategies to boost shareholder value and market positioning."
+title: 'Leveraged Buybacks Explained: Benefits, Risks, and Processes'
+description: Leveraged buyback strategies can increase earnings per share and boost
+  share value but require careful debt risk management Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investors (herdlike behavior)"
-description: Explore how algorithmic trading, a cutting-edge financial tool using technology for high-speed trading, influences herdlike behavior among investors. Examine the advantages of enhanced market liquidity and efficient trade execution against the risks of synchronized trading actions leading to market volatility. Understand how these trends impact financial stability and necessitate regulatory frameworks for a transparent and resilient market environment.
+title: Understanding Herdlike Behavior in Investing and Market Risks
+description: Herdlike behavior in investing drives prices from real value to bubbles
+  and crashes use data driven strategies to invest confidently Discover more inside
 ---
 
 

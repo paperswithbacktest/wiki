@@ -1,6 +1,8 @@
 ---
-title: "Impact of Consumer Price Index on Investment Strategies"
-description: "Explore the critical role of the Consumer Price Index (CPI) in shaping investment strategies and algorithmic trading by leveraging economic data for market insights."
+title: Understanding the Consumer Price Index and Its Economic Impact
+description: Consumer Price Index reveals how price shifts shape inflation impact
+  on markets and investments with insights for portfolio adaptation Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "How to Identify Algorithmic Trading Strategies"
-description: Learn how to identify algorithmic trading strategies and recognize their significant impact on financial markets. This guide explores the distinguishing features of algorithmic trading, highlighting speed, volume, and data patterns that set these automated trades apart from human-driven ones. Gain insights into spotting algorithmic trades to better understand market dynamics, enhance trade strategies, and manage risks associated with volatility and liquidity fluctuations. Perfect for traders and regulators aiming for informed decision-making in today's fast-paced trading environment.
+title: Identifying Algorithmic Trading Strategies with Key Indicators
+description: Algorithmic trading strategies can be identified with market data and
+  indicators to spot price patterns and improve risk management Discover more inside
 ---
 
 

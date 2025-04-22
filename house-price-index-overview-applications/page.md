@@ -1,6 +1,7 @@
 ---
-title: "House Price Index: Overview and Applications"
-description: "Explore how the House Price Index enhances algorithmic trading in real estate by providing data-driven insights for more accurate and efficient investment strategies."
+title: Understanding the House Price Index for Informed Decisions
+description: House Price Index reveals trends in home values across regions to guide
+  buyers investors and policymakers toward smarter decisions Discover more inside.
 ---
 
 

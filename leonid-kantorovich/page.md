@@ -1,6 +1,7 @@
 ---
-title: "Leonid Kantorovich"
-description: "Leonid Kantorovich's pioneering work in linear programming revolutionized resource allocation and optimization in economics and mathematics influencing the field of algorithmic trading today."
+title: Leonid Kantorovich And The Evolution Of Linear Programming
+description: Leonid Kantorovich pioneered economic decision making with linear programming
+  and shadow pricing to optimize resources efficiently. Discover more inside.
 ---
 
 

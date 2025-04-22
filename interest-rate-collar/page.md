@@ -1,6 +1,7 @@
 ---
-title: "Interest Rate Collar"
-description: "Discover the benefits of interest rate collars and algorithmic trading in managing interest rate risk effectively Learn how these tools offer comprehensive solutions"
+title: Understanding Interest Rate Collars for Managing Loan Risk
+description: Interest rate collar limits loan interest within a set range and offsets
+  costs by selling a floor to manage rate volatility Discover more inside
 ---
 
 

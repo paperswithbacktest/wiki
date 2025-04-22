@@ -1,6 +1,7 @@
 ---
-title: "Function Transformation (Machine Learning)"
-description: "Learn how function transformation in machine learning reshapes data using mathematical functions to enhance model accuracy and predictive performance."
+title: Understanding Function Transformations in Machine Learning
+description: Function transformation in machine learning converts data via scaling
+  and log transformations to reveal patterns and improve accuracy Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Fully Depreciated Asset"
-description: "Explore the intersection of financial accounting, depreciated asset valuation, and algorithmic trading to enhance decision-making and optimize trading strategies."
+title: Fully Depreciated Assets Explained For Financial Reporting
+description: Fully depreciated assets still serve operations and yield gains on disposal
+  while remaining on the balance sheet Discover more insights inside
 ---
 
 

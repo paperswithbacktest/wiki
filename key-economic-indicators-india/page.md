@@ -1,6 +1,7 @@
 ---
-title: "Key Economic Indicators of India"
-description: "Explore how key economic indicators drive algo trading in India. Understand the metrics, trends, and data sources shaping investment strategies."
+title: Key Economic Indicators for Assessing India's Economic Health
+description: Economic indicators such as GDP inflation unemployment and FDI provide
+  insights into India's economic health and guide policy Discover more inside
 ---
 
 

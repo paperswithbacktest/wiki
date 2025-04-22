@@ -1,6 +1,7 @@
 ---
-title: "Hedonic Regression"
-description: "Explore hedonic regression in algorithmic trading to understand economic behaviors. Learn how econometric tools optimize strategies by analyzing market dynamics."
+title: Hedonic Regression Insights for Real Estate Pricing
+description: Hedonic regression analyzes how features contribute to price in real
+  estate, automotive, electronics and economic indices Discover more inside
 ---
 
 

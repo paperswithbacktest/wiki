@@ -1,6 +1,7 @@
 ---
-title: "Interconnection of the Three Major Financial Statements"
-description: "Explore how income statements balance sheets and cash flow statements impact algorithmic trading by providing essential data and insights for strategic decisions."
+title: Interconnections Between the Three Major Financial Statements
+description: Financial statements interconnection shows how income statements balance
+  sheets and cash flow align to reveal a companys health Discover more inside
 ---
 
 

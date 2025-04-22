@@ -1,6 +1,7 @@
 ---
-title: "Human Capital: Types, Examples, and Economic Impact"
-description: "Explore the crucial impact of human capital on economic growth, focusing on its role in algorithmic trading and the diverse skills driving innovation."
+title: Understanding Human Capital Development And Economic Impact
+description: Human capital shapes productivity with education training and health
+  Discover how boosting skills and wellness drives growth Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "International Securities Market Association"
-description: "Explore the evolution of the International Securities Market Association in global securities regulation, its transition to ICMA, and the impact of algorithmic trading."
+title: International Securities Market Association Bond Standards Guide
+description: International Securities Market Association rules unified global bond
+  trading with clear standards, electronic trading for efficient markets Discover
+  more
 ---
 
 

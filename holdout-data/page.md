@@ -1,6 +1,7 @@
 ---
-title: "Holdout Data (Machine Learning)"
-description: "Holdout data is crucial in machine learning to test model performance on unseen data ensuring it generalizes well and avoids overfitting for real-world effectiveness."
+title: Comprehensive Guide to Holdout Data in Machine Learning
+description: Holdout data reserves unseen samples for testing to assess model performance
+  and prevent overfitting through split strategies Discover more inside
 ---
 
 ![Image](images/1.jpeg)

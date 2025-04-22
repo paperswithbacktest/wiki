@@ -1,6 +1,7 @@
 ---
-title: "John Lothian News Overview"
-description: "Explore John Lothian News for insights on commodities and algorithmic trading offering in-depth analysis and keeping financial professionals informed."
+title: John Lothian News Comprehensive Guide for Finance Professionals
+description: John Lothian News delivers daily expert insights on trading regulations
+  and finance technology to keep market professionals informed Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Goodwill Impairment Testing"
-description: "Explore the intersection of financial accounting and algo trading with insights into goodwill impairment testing to enhance trading strategies and decision-making."
+title: Understanding Goodwill Impairment Testing in Accounting
+description: Goodwill Impairment Testing ensures accurate asset valuation by guiding
+  you through annual assessment steps and best practices Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investment Center: Purpose and Example"
-description: "Discover how investment centers optimize profitability via financial responsibility and algorithmic trading while aligning with corporate strategies for success."
+title: Managing Investment Centers for Optimal Performance
+description: Investment center teams leverage KPIs and ROI to drive growth and align
+  investments make smart decisions and optimize performance Discover more inside.
 ---
 
 

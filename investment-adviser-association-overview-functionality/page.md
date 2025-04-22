@@ -1,6 +1,7 @@
 ---
-title: "Investment Adviser Association: Overview and Functionality"
-description: "Explore the role of the Investment Adviser Association in the evolving sphere of algorithmic trading as it shapes investment advice with technology and ethics."
+title: Investment Adviser Association Key Services And Advocacy
+description: Investment Adviser Association equips advisers with training policy advocacy
+  and collaboration to enhance compliance and client trust Discover more inside.
 ---
 
 

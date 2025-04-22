@@ -1,6 +1,7 @@
 ---
-title: "Investing in Fine Art"
-description: "Explore the intersection of art and finance with algorithmic trading in fine art See how technology influences art market trends and investment strategies"
+title: Fine Art Investment Guide For Developing A Profitable Collection
+description: Fine art investment offers value growth portfolio diversification and
+  personal enjoyment backed by expert market insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Key Investing Concepts for Beginners"
-description: "Discover essential investing concepts for beginners including algorithmic trading Learn financial principles develop strategies and harness technology's role in trading"
+title: Essential Investing Principles And Strategies For Beginners
+description: Investing fundamentals empower beginners to grow wealth with smart diversification
+  compound interest and risk management strategies Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Index of Economic Freedom"
-description: "Explore the synergy of the Economic Freedom Index and algorithmic trading in global markets and learn their influence on economic analysis and investment strategies."
+title: Understanding the Index of Economic Freedom and Its Benefits
+description: Index of Economic Freedom shows how business startup ease taxes and property
+  rights impact economies and guide investments Discover more inside.
 ---
 
 

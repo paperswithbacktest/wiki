@@ -1,6 +1,7 @@
 ---
-title: "Key Questions Before Investing in Bonds"
-description: "Explore the crucial considerations of investing in bonds and algorithmic trading Understand how to balance traditional strategies with modern innovations in finance"
+title: Comprehensive Guide to Bond Investing and Portfolio Risks
+description: Bond investing explained from types and yields to credit risk and duration
+  so you can build a diversified portfolio with confidence Discover more inside.
 ---
 
 

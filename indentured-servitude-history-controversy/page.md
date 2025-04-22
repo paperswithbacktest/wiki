@@ -1,6 +1,7 @@
 ---
-title: "Indentured Servitude: History and Controversy"
-description: "Explore the intricate connections between the historical practice of indentured servitude and modern issues such as algorithmic trading in this comprehensive analysis. Discover how labor systems from the past inform contemporary debates on economic structures and societal impacts, providing valuable insights into ongoing labor controversies and technological advancements in trading. Understand the legacy and ethical considerations of historical and modern labor practices to anticipate future challenges in economic efficiency and employment equity."
+title: Indentured Servitude in Colonial America Origins and Impact
+description: Indentured servitude in colonial America provided essential labor and
+  a path to freedom while highlighting its role versus slavery Discover more inside.
 ---
 
 

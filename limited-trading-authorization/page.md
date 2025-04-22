@@ -1,6 +1,7 @@
 ---
-title: "Limited Trading Authorization"
-description: "Discover the role of limited trading authorization in balancing control and autonomy in algorithmic trading for effective investment portfolio management."
+title: Limited Trading Authorization for Investment Accounts
+description: Limited Trading Authorization lets investors delegate specific trades
+  safely while maintaining control over their portfolio. Discover more inside.
 ---
 
 

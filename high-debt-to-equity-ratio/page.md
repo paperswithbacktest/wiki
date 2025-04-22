@@ -1,6 +1,8 @@
 ---
-title: "High Debt-To-Equity Ratio"
-description: "Discover how the high debt-to-equity ratio impacts financial leverage and risk. Learn its role in algorithmic trading and industry-specific considerations."
+title: Understanding Debt To Equity Ratio For Financial Analysis
+description: Debt To Equity Ratio reveals how companies balance borrowed funds with
+  shareholder investment to assess financial risk and growth potential Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Kairi Relative Index"
-description: "Explore the Kairi Relative Index and its role in algorithmic trading Learn how this technical analysis tool can enhance your trading strategy with programmatic insights"
+title: Kairi Relative Index Explained for Better Trading Decisions
+description: Kairi Relative Index helps traders spot overbought and oversold conditions
+  by measuring price deviation from its moving average Discover more inside.
 ---
 
 

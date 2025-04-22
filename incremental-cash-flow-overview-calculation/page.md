@@ -1,6 +1,7 @@
 ---
-title: "Incremental Cash Flow: Overview and Calculation"
-description: "Understand incremental cash flow and its role in financial decisions and algo trading Discover the impact of cash flow analysis on investment strategies"
+title: Understanding Incremental Cash Flow for Financial Decision Making
+description: Incremental cash flow analysis reveals the extra revenues and costs of
+  new projects to guide smarter investment choices Discover more inside.
 ---
 
 

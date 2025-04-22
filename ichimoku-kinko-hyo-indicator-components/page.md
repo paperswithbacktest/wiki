@@ -1,6 +1,7 @@
 ---
-title: "Ichimoku Kinko Hyo Indicator and Its Components"
-description: "Explore the Ichimoku Kinko Hyo indicator to gain insights on market momentum and support levels, empowering trading decisions with its five key components."
+title: Understanding Ichimoku Kinko Hyo Indicator for Trading
+description: Ichimoku Kinko Hyo streamlines trend analysis with five lines and the
+  cloud to show momentum support resistance and trading signals Discover more inside
 ---
 
 

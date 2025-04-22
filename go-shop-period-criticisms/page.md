@@ -1,6 +1,7 @@
 ---
-title: "Go-Shop Period and Its Criticisms"
-description: "Explore the go-shop period and its role in mergers and acquisitions, alongside the impact of algorithmic trading on corporate transactions and market dynamics."
+title: Understanding Go-Shop Periods in Mergers and Acquisitions
+description: Go-shop period lets companies explore better offers after initial deal
+  approval to secure fair shareholder returns and maximize value Discover more inside
 ---
 
 

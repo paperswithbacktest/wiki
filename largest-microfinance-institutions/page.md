@@ -1,6 +1,7 @@
 ---
-title: "Largest Microfinance Institutions"
-description: "Explore the synergy between microfinance and algorithmic trading in reshaping financial sectors with innovative tech for enhanced efficiency, access, and growth."
+title: Understanding Microfinance Institutions and Their Global Impact
+description: Microfinance Institutions empower underserved entrepreneurs with small
+  loans savings and education to boost inclusion worldwide Discover more inside
 ---
 
 

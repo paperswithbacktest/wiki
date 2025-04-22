@@ -1,6 +1,7 @@
 ---
-title: "Intersection Over Union (Iou) (Machine Learning)"
-description: "Understand Intersection Over Union (IoU) in machine learning as a key metric for evaluating object detection and segmentation accuracy by analyzing overlap precision."
+title: Understanding Intersection Over Union in Object Detection
+description: Intersection Over Union measures how predicted and actual object boundaries
+  overlap to optimize detection models and improve accuracy Discover more inside
 ---
 
 ![Image](images/1.png)

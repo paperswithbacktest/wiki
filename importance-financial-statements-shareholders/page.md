@@ -1,6 +1,7 @@
 ---
-title: "Importance of Financial Statements for Shareholders"
-description: "Explore the vital role financial statements play for shareholders in algorithmic trading understand how these insights drive informed investment decisions and market strategies"
+title: Financial Statements Explained for Shareholder Decision Making
+description: Financial statements give shareholders insights into company health by
+  explaining income statements balance sheets and cash flow Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "List of Basic Commodities"
-description: "Discover the essentials of commodities in algo trading Explore how automated strategies leverage these crucial resources for optimized trading and risk management"
+title: Algorithmic Trading Strategies for Commodities Markets
+description: Algorithmic trading for commodities uses real time data and risk management
+  to optimize returns across energy metals and agriculture Discover more inside
 ---
 
 

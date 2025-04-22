@@ -1,6 +1,7 @@
 ---
-title: "High-low volatility estimator"
-description: Explore the significance of high-low volatility estimators for algorithmic trading and how they provide a more precise evaluation of market dynamics. This method uses the entire price range within a trading period, offering improved insights over traditional volatility measures. Learn about key methodologies like the Parkinson Estimator and their role in accurate risk management and strategy refinement. Discover how understanding both historic and implied volatility can aid in constructing robust trading strategies to navigate current market conditions and future uncertainties.
+title: High-Low Volatility Estimator Guide for Accurate Risk Analysis
+description: High-low volatility estimator measures price swings with daily high low
+  values for clearer risk insights and smarter trading. Discover more inside.
 ---
 
 

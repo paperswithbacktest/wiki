@@ -1,6 +1,7 @@
 ---
-title: "Hard Landing in Economics"
-description: "Explore the complexities of economic hard landings and algorithmic trading's impact on downturns Learn how these forces shape modern economies and navigate challenges"
+title: Understanding Hard Landing in Economics and Its Implications
+description: Hard landing in economics occurs when rapid growth turns into a sudden
+  slowdown risking unemployment deflation and market shocks Discover more inside.
 ---
 
 

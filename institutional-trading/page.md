@@ -1,6 +1,7 @@
 ---
-title: "Institutional Trading"
-description: Explore the role of institutional trading in algorithmic markets highlighting how banks hedge funds and proprietary firms utilize sophisticated algorithms for high-frequency trading. These institutions leverage advanced technology and financial instruments ensuring rapid execution and improved market efficiency while addressing challenges like tech dependency and market volatility.
+title: Understanding Institutional Trading Strategies And Market Impact
+description: Institutional trading applies advanced algorithms risk controls and liquidity
+  sourcing to minimize market impact and optimize orders Discover more inside
 ---
 
 

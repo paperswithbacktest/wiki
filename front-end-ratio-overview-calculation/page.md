@@ -1,6 +1,7 @@
 ---
-title: "Front End Ratio: Overview and Calculation"
-description: "Explore how front-end mortgage and debt-to-income ratios enhance algo trading strategies by assessing financial health, optimizing decisions, and managing risk."
+title: Front End Ratio Explained for Mortgage Affordability
+description: Front end ratio measures the share of your income allocated to housing
+  costs and helps improve your mortgage approval chances Discover more inside.
 ---
 
 

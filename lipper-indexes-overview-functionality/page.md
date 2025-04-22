@@ -1,6 +1,7 @@
 ---
-title: "Lipper Indexes: Overview and Functionality"
-description: "Discover how Lipper Indexes enhance algo trading by providing reliable benchmarks that optimize strategies maximize returns and reduce human error in financial markets."
+title: Lipper Indexes Explained For Mutual Fund Performance Benchmarking
+description: Lipper Indexes help investors benchmark mutual fund performance by providing
+  clear category averages and monthly updates. Discover more inside.
 ---
 
 

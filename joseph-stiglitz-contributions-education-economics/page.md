@@ -1,6 +1,7 @@
 ---
-title: "Joseph Stiglitz: Contributions in Education and Economics"
-description: "Discover Joseph Stiglitz's influential economic theories and their connection to algorithmic trading. Explore the role of education in merging these fields."
+title: Joseph Stiglitz Market Failures Inequality and Education
+description: Joseph Stiglitz explores how information asymmetry and inequality shape
+  markets and education systems while guiding policy reforms Discover more inside.
 ---
 
 

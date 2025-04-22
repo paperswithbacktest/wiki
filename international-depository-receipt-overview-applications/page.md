@@ -1,6 +1,7 @@
 ---
-title: "International Depository Receipt: Overview and Applications"
-description: "Explore International Depository Receipts and their synergy with algorithmic trading to enhance cross-border investments and optimize global financial strategies."
+title: International Depository Receipts Explained for Global Investors
+description: International Depository Receipts enable investing in global stocks using
+  your local exchange for easier diversification Discover more inside
 ---
 
 

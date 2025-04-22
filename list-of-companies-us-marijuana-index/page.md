@@ -1,6 +1,7 @@
 ---
-title: "List of Companies in the U.S. Marijuana Index"
-description: "Explore the U.S. Marijuana Index and algorithmic trading in cannabis stocks to understand market trends and make informed investment decisions."
+title: U.S. Marijuana Index Explained For Informed Investing
+description: U.S. Marijuana Index tracks top cannabis companies so you can assess
+  market trends and make informed investment decisions. Discover more inside.
 ---
 
 

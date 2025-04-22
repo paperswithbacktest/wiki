@@ -1,6 +1,7 @@
 ---
-title: "Free Cash Flow to Sales Ratio"
-description: "Discover how the Free Cash Flow-to-Sales ratio enhances algorithmic trading by evaluating a company's cash generation efficiency crucial for informed decisions."
+title: Understanding the Free Cash Flow to Sales Ratio for Investors
+description: Free Cash Flow to Sales Ratio reveals how efficiently companies turn
+  sales into cash for growth debt reduction or dividends Discover more inside.
 ---
 
 

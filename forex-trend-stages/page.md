@@ -1,6 +1,7 @@
 ---
-title: "Forex Trend Stages"
-description: "Master Forex trading by understanding market stages and trends with algo trading Learn how to leverage these insights for successful currency trades"
+title: Understanding Forex Trend Stages for Smarter Currency Trading
+description: Forex trend stages explain how to spot accumulation markup distribution
+  and markdown phases using indicators to improve your trades Discover more inside.
 ---
 
 

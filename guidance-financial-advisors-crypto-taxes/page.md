@@ -1,6 +1,7 @@
 ---
-title: "Guidance for Financial Advisors on Crypto Taxes"
-description: "Navigate the complexities of crypto taxation with expert insights on algorithmic trading and financial advisors to optimize strategies and ensure compliance."
+title: Cryptocurrency Tax Planning Guide For Financial Advisors
+description: Cryptocurrency tax planning helps advisors guide clients on reporting
+  taxable events tracking losses and minimizing liabilities Discover more inside.
 ---
 
 

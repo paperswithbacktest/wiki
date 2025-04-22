@@ -1,6 +1,7 @@
 ---
-title: "Lindahl Equilibrium and Its Conditions"
-description: "Explore the intersection of Lindahl Equilibrium and algorithmic trading to discover innovative approaches in public goods provision and modern financial markets."
+title: Lindahl Equilibrium for Fair and Efficient Public Goods Funding
+description: Lindahl equilibrium personalizes public goods funding by matching individual
+  taxes to benefits in active allocation models. Discover more inside.
 ---
 
 

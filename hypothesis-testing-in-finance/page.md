@@ -1,6 +1,7 @@
 ---
-title: "Hypothesis Testing in Finance"
-description: "Explore the essential role of hypothesis testing in finance as it enhances decision-making for algo trading and financial analysis by validating models and strategies."
+title: Hypothesis Testing Principles and Applications in Finance
+description: Hypothesis testing helps finance professionals validate investment strategies
+  analyze risk levels and make data driven decisions Discover more inside
 ---
 
 

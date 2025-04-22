@@ -1,6 +1,7 @@
 ---
-title: "How can I work at a quantitative hedge fund without being a top-tier candidate?"
-description: "Learn how to work at a quantitative hedge fund despite not being a top-tier candidate. Gain essential skills, network, pursue experience, additional studies, create your own portfolio, target smaller funds, prepare for interviews, show passion, think long-term, and stay informed."
+title: Quantitative Hedge Fund Career Pathways and Key Requirements
+description: Quantitative hedge fund candidates can learn essential roles, skills,
+  educational paths, and networking strategies to enter the field Discover more inside.
 ---
 
 

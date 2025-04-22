@@ -1,6 +1,7 @@
 ---
-title: "ISDA Master Agreement: Functions and Requirements"
-description: "Explore the crucial interplay between the ISDA Master Agreement and algo trading in derivatives markets highlighting their roles in risk management and market efficiency."
+title: Understanding the ISDA Master Agreement for Derivatives Trading
+description: ISDA Master Agreement ensures clear rules for trading derivatives payment
+  terms default provisions and netting to manage counterparty risk Discover more
 ---
 
 

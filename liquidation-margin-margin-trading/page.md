@@ -1,6 +1,7 @@
 ---
-title: "Liquidation Margin in Margin Trading"
-description: "Explore liquidation margin in margin trading and its impact on algorithmic trading. Learn about types of margins and managing risks to optimize trading strategies."
+title: Liquidation Margin Explained for Margin Traders and Risk Control
+description: Liquidation margin sets the minimum equity traders must maintain to avoid
+  forced liquidations and manage risk effectively Discover more inside
 ---
 
 

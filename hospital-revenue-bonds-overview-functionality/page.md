@@ -1,6 +1,7 @@
 ---
-title: "Hospital Revenue Bonds: Overview and Functionality"
-description: "Explore the dynamic role of hospital revenue bonds in healthcare finance Learn how these bonds fund expansions and the impact of algorithmic trading on their market"
+title: Understanding Hospital Revenue Bonds for Healthcare Financing
+description: Hospital revenue bonds enable hospitals to fund expansions and equipment
+  via service income repayments and offer federal tax benefits Discover more inside
 ---
 
 

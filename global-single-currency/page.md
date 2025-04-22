@@ -1,6 +1,7 @@
 ---
-title: "Global Single Currency"
-description: "Explore the potential of a global currency in reshaping economic stability and cross-border transactions while examining the role of algorithmic trading in its feasibility."
+title: Global Single Currency Implications for International Trade
+description: Global single currency could simplify cross-border transactions and boost
+  economic growth by reducing exchange costs and volatility Discover more inside.
 ---
 
 

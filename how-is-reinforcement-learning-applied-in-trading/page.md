@@ -1,6 +1,7 @@
 ---
-title: "How is reinforcement learning applied in trading?"
-description: "Discover how reinforcement learning is applied in trading to optimize decisions based on financial rewards. Learn about modeling the trading environment, reward strategies, exploration vs exploitation, learning and adjusting, risk management, and limitations. Explore resources for more information on trading strategies, libraries, datasets, and becoming a quant trader."
+title: Reinforcement Learning for Algorithmic Trading Strategies
+description: Reinforcement learning trading models adapt strategies from simulated
+  and real market feedback to improve decisions over time Discover more inside.
 ---
 
 

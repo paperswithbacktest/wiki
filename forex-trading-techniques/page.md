@@ -1,6 +1,7 @@
 ---
-title: "Forex Trading Techniques"
-description: "Explore key forex trading techniques and algorithmic strategies to enhance your market proficiency, manage risk, and navigate the forex landscape effectively."
+title: Comprehensive Forex Trading Guide For Beginners And Experts
+description: Forex trading guide offers key market insights and strategies from basic
+  terms to risk management so you can trade confidently Discover more inside.
 ---
 
 

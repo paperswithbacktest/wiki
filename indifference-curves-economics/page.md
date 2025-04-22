@@ -1,6 +1,7 @@
 ---
-title: "Indifference Curves in Economics"
-description: "Explore how indifference curves in consumer theory can enhance algorithmic trading strategies by optimizing portfolio selections and risk management."
+title: Understanding Indifference Curves for Consumer Choice
+description: Indifference curves map consumer trade offs between two goods under budget
+  limits to maintain equal satisfaction and guide choice Discover more inside
 ---
 
 

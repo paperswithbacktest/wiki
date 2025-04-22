@@ -1,6 +1,7 @@
 ---
-title: "Items (Machine Learning)"
-description: "Explore how machine learning transforms item categorization and demand prediction using algorithms like supervised and unsupervised learning for better data insights."
+title: Machine Learning for Item Analysis and Demand Prediction
+description: Machine Learning for item analysis delivers accurate demand forecasts
+  and personalized recommendations with data preprocessing Discover more inside
 ---
 
 ![Image](images/1.png)

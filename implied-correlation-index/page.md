@@ -1,6 +1,7 @@
 ---
-title: "Implied Correlation Index"
-description: "Explore how implied correlation indices enhance algorithmic trading by revealing index volatility relationships. Optimize strategies and seize market opportunities."
+title: Implied Correlation Index Explained for Options Traders
+description: Implied Correlation Index helps investors gauge risk by forecasting how
+  closely stocks will move together using options data. Discover more inside.
 ---
 
 

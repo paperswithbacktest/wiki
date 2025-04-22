@@ -1,6 +1,7 @@
 ---
-title: "Implementation Shortfall: Overview and Examples"
-description: "Learn about implementation shortfall a key metric in trading that evaluates execution efficiency in algo trading and its impact on investment costs and returns."
+title: Understanding Implementation Shortfall in Trading Cost Analysis
+description: Implementation Shortfall measures trading costs from decision to execution
+  covering delays impact and fees so traders cut expenses Discover more inside
 ---
 
 

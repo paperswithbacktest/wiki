@@ -1,6 +1,8 @@
 ---
-title: "Green Bonds: Types, Buying Process, and FAQs"
-description: "Explore the synergy between green bonds and algorithmic trading to uncover how they offer investors financial returns and environmental benefits."
+title: Understanding Green Bonds and Their Role in Sustainable Finance
+description: Green bonds offer investors a way to fund eco-friendly projects while
+  earning returns Active overview explains how to buy and assess green bonds Discover
+  more inside.
 ---
 
 

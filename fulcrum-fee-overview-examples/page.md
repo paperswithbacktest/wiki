@@ -1,6 +1,7 @@
 ---
-title: "Fulcrum Fee: Overview and Examples"
-description: "Explore the world of fulcrum fees and their impact on algorithmic trading. Understand performance-based fee structures and their implications for investors."
+title: Understanding Fulcrum Fees in Investment Management Structures
+description: Fulcrum Fee ties manager pay to fund performance by adjusting base fees
+  with benchmarks to align incentives and boost transparency Discover more inside.
 ---
 
 

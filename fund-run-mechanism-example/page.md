@@ -1,6 +1,7 @@
 ---
-title: "Fund Run: Mechanism and Example"
-description: "Discover how algorithmic trading impacts fund runs and financial panics. Understand the dynamics and strategies shaping today's volatile financial markets."
+title: Fund Run Guide For Businesses And Community Engagement
+description: Fund Run events help businesses boost community trust and cohesion through
+  engaging fundraising races that blend exercise with impact Discover more inside.
 ---
 
 

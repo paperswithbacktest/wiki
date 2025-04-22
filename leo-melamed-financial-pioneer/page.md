@@ -1,6 +1,8 @@
 ---
-title: "Leo Melamed: Financial Pioneer"
-description: "Explore the pioneering contributions of Leo Melamed to financial markets, from revolutionizing futures trading to advancing electronic trading technology and algorithms."
+title: Leo Melamed And The Evolution Of Financial Futures Markets
+description: Financial futures transformed markets through Leo Melamed innovations
+  at the CME and IMM helping businesses manage risk more effectively Discover more
+  inside
 ---
 
 

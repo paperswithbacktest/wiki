@@ -1,6 +1,7 @@
 ---
-title: "Italexit: Overview and Economic Impact"
-description: "Explore the concept of Italexit and its economic impact including potential changes in Italy's trade dynamics financial markets and the role of algorithmic trading."
+title: 'Understanding Italexit: Economic and Political Impacts for Italy'
+description: Italexit debates highlight Italy leaving the EU and its short and long
+  term economic trade impacts political shifts and legal steps Discover more inside
 ---
 
 

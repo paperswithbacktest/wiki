@@ -1,6 +1,7 @@
 ---
-title: "Index Option Trading"
-description: "Explore index option trading and algo trading to enhance your investment strategy with diversification and high-speed executions in the evolving financial market."
+title: Index Options Trading Strategies For Beginners And Experts
+description: Index options help you spread risk hedge markets and speculate with confidence
+  Strategies guide beginners through advanced techniques Discover more inside
 ---
 
 

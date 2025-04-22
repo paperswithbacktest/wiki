@@ -1,6 +1,7 @@
 ---
-title: "Lewes Pound Currency"
-description: "Discover how the Lewes Pound currency supports local trade within Lewes UK, promotes economic resilience and explores potential ties to algorithmic trading."
+title: Lewes Pound Local Currency Strengthens Community Economy
+description: Lewes Pound supports local shops by keeping money circulating in town
+  and strengthens community ties for sustainable growth Discover more inside
 ---
 
 

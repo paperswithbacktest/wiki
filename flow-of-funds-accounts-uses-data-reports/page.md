@@ -1,6 +1,7 @@
 ---
-title: "Flow of Funds Accounts: Uses and Data Reports"
-description: "Discover the significance of Flow of Funds accounts in economic analysis and algorithmic trading to gain insights into financial dynamics and market trends."
+title: Understanding Flow of Funds Accounts for Economic Insight
+description: Flow of Funds Accounts reveal how money moves across households businesses
+  and government guiding savings borrowing and spending Discover more inside.
 ---
 
 

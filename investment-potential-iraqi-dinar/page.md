@@ -1,6 +1,7 @@
 ---
-title: "Investment Potential of the Iraqi Dinar"
-description: "Explore the investment potential of the Iraqi Dinar through the lens of algorithmic trading, understanding how this exotic currency tied to Iraq's oil reserves presents unique risks and rewards. This article investigates into the fundamentals of the Dinar, the mechanics of algo trading, and evaluates the benefits of combining these elements with strategic guidance and real-world case studies to illustrate both successes and challenges within the dynamic forex market."
+title: Understanding Iraqi Dinar Investment Risks and Opportunities
+description: Iraqi Dinar investment demands weighing currency volatility political
+  uncertainties in an oil driven economy against potential gains Discover more inside
 ---
 
 

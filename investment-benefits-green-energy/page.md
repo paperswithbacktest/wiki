@@ -1,6 +1,7 @@
 ---
-title: "Investment Benefits in Green Energy"
-description: "Explore the benefits of investing in green energy and algorithmic trading in our latest article Learn how these trends offer financial and environmental gains"
+title: Unlocking Sustainable Growth through Green Energy Investments
+description: Green energy investments deliver growth returns while cutting emissions
+  accessing tax incentives and driving clean power adoption Discover more inside.
 ---
 
 

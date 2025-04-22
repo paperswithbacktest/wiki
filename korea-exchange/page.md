@@ -1,6 +1,7 @@
 ---
-title: "Korea Exchange"
-description: "Explore the Korea Exchange's role in South Korea's financial sector including insights on algorithmic trading's impact on market efficiency and global relevance."
+title: Understanding the Korea Exchange KRX and Its Market Role
+description: Korea Exchange KRX provides a secure platform for trading securities
+  while ensuring market surveillance and investor protection Discover more inside.
 ---
 
 

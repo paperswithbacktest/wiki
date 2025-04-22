@@ -1,6 +1,7 @@
 ---
-title: "Impact of Stock Splits on Cash Dividends"
-description: "Explore how stock splits and cash dividends influence shareholder value and algorithmic trading strategies, impacting investor perceptions and market dynamics."
+title: Stock Splits And Cash Dividends Impact Shareholder Value
+description: Stock splits and cash dividends shape how your investments evolve by
+  adjusting share counts and payouts while preserving total value Discover more inside.
 ---
 
 

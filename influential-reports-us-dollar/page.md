@@ -1,6 +1,7 @@
 ---
-title: "Influential Reports on the U.S. Dollar"
-description: "Explore the dynamics between U.S. dollar trends and algorithmic trading strategies Discover how algo trading can optimize responses to currency fluctuations"
+title: Key Economic Reports Influencing U.S. Dollar Value
+description: U.S. Dollar movements depend on key economic reports from the Fed, IMF
+  and global institutions delivering actionable market insights Discover more inside
 ---
 
 

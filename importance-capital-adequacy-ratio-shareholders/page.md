@@ -1,6 +1,7 @@
 ---
-title: "Importance of Capital Adequacy Ratio to Shareholders"
-description: "Explore the significance of Capital Adequacy Ratio (CAR) for shareholders in banking sectors Learn how CAR ensures financial health aids in decision making and enhances trading strategies"
+title: Capital Adequacy Ratio For Bank Stability And Shareholder Value
+description: Capital Adequacy Ratio measures bank capital against risk to ensure stability
+  protect shareholder value and ensure compliance Discover more inside
 ---
 
 

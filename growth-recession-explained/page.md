@@ -1,6 +1,7 @@
 ---
-title: "Growth Recession Explained"
-description: "Explore the role of algorithmic trading in managing economic fluctuations such as growth recessions Learn how GDP growth and slowdowns impact market strategies"
+title: Understanding Growth Recession Causes Impact and Policy Solutions
+description: Growth recession means sub 2 percent GDP growth that erodes consumer
+  confidence weakens hiring and challenges policy makers Discover more inside.
 ---
 
 

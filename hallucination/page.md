@@ -1,6 +1,7 @@
 ---
-title: "Hallucination (Machine Learning)"
-description: "Hallucination in machine learning occurs when AI models generate incorrect information often due to gaps in training data which can affect user trust."
+title: Understanding Hallucination in Machine Learning Models
+description: Hallucination in machine learning undermines AI reliability with false
+  data. Developers combat it with better data and fact checks. Discover more inside
 ---
 
 ![Image](images/1.png)

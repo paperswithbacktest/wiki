@@ -1,6 +1,7 @@
 ---
-title: "Generative Models"
-description: "Explore how generative models transform algorithmic trading by uncovering patterns and strategies from market data with GenAI for competitive trading edge."
+title: Understanding Generative Models in Machine Learning
+description: Generative models in machine learning drive realistic image text and
+  data synthesis to fuel innovation and strategic insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Forex E-Book"
-description: "Explore the evolving world of forex trading through algorithmic trading and e-books Discover how these tools empower traders with knowledge and precision"
+title: Forex E-Book Essentials For Beginner Currency Traders
+description: Forex e-book breaks down currency trading basics technical terms and
+  risk management so new traders can trade confidently Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Institutional Brokers' Estimate System"
-description: "Discover the role of the Institutional Brokers' Estimate System in enhancing algo trading strategies by providing predictive insights and optimizing trading decisions."
+title: IBES Institutional Brokers Estimate System Explained for Investors
+description: IBES offers a centralized database of analyst earnings estimates and
+  reliable consensus trends to boost investment decisions Discover more inside
 ---
 
 

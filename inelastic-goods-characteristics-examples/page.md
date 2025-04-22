@@ -1,6 +1,8 @@
 ---
-title: "Inelastic Goods: Characteristics and Examples"
-description: "Discover the characteristics and examples of inelastic goods in economics Learn how price variations impact demand and influence trading strategies"
+title: Understanding Inelastic Goods and Their Economic Impact
+description: Inelastic goods describe products with stable demand despite price changes
+  Gain insights into how necessity and lack of substitutes shape pricing strategies
+  Discover more inside.
 ---
 
 

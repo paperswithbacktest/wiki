@@ -1,6 +1,7 @@
 ---
-title: "Forward Price-to-Earnings Ratio"
-description: "Explore the importance of the Forward Price-to-Earnings (P/E) ratio in evaluating stock valuation and its application in algorithmic trading to optimize strategies."
+title: Forward Price To Earnings Ratio Explained For Investors
+description: Forward P/E Ratio provides a forward-looking view of stock valuation
+  by comparing current price to projected earnings per share Discover more inside
 ---
 
 

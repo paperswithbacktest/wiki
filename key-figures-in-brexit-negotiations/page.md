@@ -1,6 +1,7 @@
 ---
-title: "Key Figures in Brexit Negotiations"
-description: "Explore the intersection of Brexit's key negotiators and the impact of algorithmic trading on financial markets during this historic geopolitical event."
+title: Key Negotiators and Strategies in Brexit Negotiations
+description: Brexit negotiations led by UK and EU negotiators show how strategic choices
+  on trade border and finance shaped the exit outcome Discover more inside
 ---
 
 

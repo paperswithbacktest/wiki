@@ -1,6 +1,7 @@
 ---
-title: "International Money Market"
-description: "Explore the transformative impact of algorithmic trading in the forex market Discover how automation enhances efficiency and strategy development in currency trading"
+title: Comprehensive Guide to the International Money Market
+description: International Money Market insights detail how global currency trades
+  and short-term loans run nonstop to drive cross-border financing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Going-Concern Value Explanation and Example"
-description: "Explore the importance of going-concern value in corporate finance and algorithmic trading to enhance business valuation, decision-making, and strategic planning."
+title: Going-Concern Value Explained for Business Valuations
+description: Going-concern value reveals a companys true worth by factoring future
+  earnings brand strength and operational resilience Discover more inside.
 ---
 
 

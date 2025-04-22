@@ -1,6 +1,7 @@
 ---
-title: "Impact of Immigration on Economic Growth"
-description: "Explore how immigration impacts global economies and links to algorithmic trading, highlighting contributions to innovation and the interplay with economic dynamics."
+title: Economic Impact of Immigration on Growth and Labor Markets
+description: Immigration fuels economic growth by filling labor gaps supporting entrepreneurship
+  and driving demand for goods and services. Discover more inside.
 ---
 
 

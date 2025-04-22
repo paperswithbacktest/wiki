@@ -1,6 +1,7 @@
 ---
-title: "Infant Industry Theory"
-description: "Explore the intersection of infant industry protectionism and algorithmic trading, analyzing how technology influences trade policies aimed at nurturing emerging sectors."
+title: Understanding Infant Industry Theory for Economic Growth
+description: Discover how Infant Industry Theory helps new sectors grow through targeted
+  protections and fuels sustainable economic development. Discover more inside.
 ---
 
 

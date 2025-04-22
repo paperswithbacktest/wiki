@@ -1,6 +1,7 @@
 ---
-title: "Free Financial Management Tools"
-description: "Explore a range of free financial management tools including budgeting apps and algorithmic trading solutions to optimize your personal finances and investments."
+title: Free Financial Management Tools To Streamline Your Budgeting
+description: Free financial management tools help consolidate accounts track spending
+  set budgets and send alerts to keep you on track Discover more inside
 ---
 
 

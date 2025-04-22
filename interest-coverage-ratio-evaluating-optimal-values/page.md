@@ -1,6 +1,7 @@
 ---
-title: "Interest Coverage Ratio: Evaluating Optimal Values"
-description: "Explore the importance of the Interest Coverage Ratio (ICR) in evaluating a company's financial health and its application in algorithmic trading strategies. Learn how a higher ICR indicates better ability to cover interest expenses and reduces investment risks. Discover how integrating ICR into trading algorithms can enhance decision-making by providing critical insights into a company's financial robustness, aiding traders in forming more strategic and informed investment decisions."
+title: Understanding the Interest Coverage Ratio for Financial Stability
+description: Interest Coverage Ratio shows how EBIT compares to interest expenses
+  so you can evaluate company financial stability and risk levels Discover more inside
 ---
 
 

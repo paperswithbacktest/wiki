@@ -1,6 +1,7 @@
 ---
-title: "Inflation Hedge"
-description: "Explore how algorithmic trading offers effective solutions to hedge against inflation securing your investments through advanced strategies and market insights."
+title: Smart Inflation Hedge Strategies to Protect Your Portfolio
+description: Inflation hedge strategies help you preserve buying power by investing
+  in assets like real estate gold stocks and TIPS Discover more inside.
 ---
 
 

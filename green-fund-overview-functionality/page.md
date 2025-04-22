@@ -1,6 +1,7 @@
 ---
-title: "Green Fund Overview and Functionality"
-description: "Explore the intersection of green funds and algorithmic trading as they drive sustainable investment strategies by aligning financial returns with environmental goals."
+title: Understanding Green Fund Investing for Sustainable Growth
+description: Green Fund investments back renewable energy and sustainable projects
+  while aiming for solid returns through transparent management Discover more inside
 ---
 
 

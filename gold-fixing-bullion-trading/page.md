@@ -1,6 +1,7 @@
 ---
-title: "Gold Fixing and Bullion Trading"
-description: "Explore the dynamic world of gold fixing and bullion trading with algorithmic trading Learn how technology reshapes these age-old investment practices"
+title: Understanding Gold Fixing And Its Role In Bullion Trading
+description: Gold Fixing sets a fair bullion benchmark price through a transparent
+  daily process influencing global trading dynamics Discover more inside.
 ---
 
 

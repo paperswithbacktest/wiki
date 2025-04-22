@@ -1,6 +1,7 @@
 ---
-title: "Kuwait Investment Authority Overview"
-description: "Explore the pivotal role of the Kuwait Investment Authority in wealth management leveraging algorithmic trading for economic diversification and financial innovation."
+title: Kuwait Investment Authority Sovereign Wealth Fund Explained
+description: Kuwait Investment Authority channels oil revenues into a diversified
+  portfolio to fund public services and secure future wealth Discover more inside
 ---
 
 

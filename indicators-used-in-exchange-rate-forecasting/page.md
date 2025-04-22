@@ -1,6 +1,7 @@
 ---
-title: "Indicators Used in Exchange Rate Forecasting"
-description: "Discover key economic indicators and advanced methods like algorithmic trading and machine learning used in exchange rate forecasting to optimize forex trading."
+title: Essential Economic Indicators for Exchange Rate Forecasting
+description: Exchange rate forecasting uses economic indicators like GDP, inflation
+  and interest differentials to guide currency strategy Discover more inside.
 ---
 
 

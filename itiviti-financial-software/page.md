@@ -1,6 +1,7 @@
 ---
-title: "Itiviti Financial Software"
-description: "Discover Itiviti's cutting-edge trading software, optimizing algorithmic trading, risk management, and connectivity, empowering financial institutions globally."
+title: Itiviti Financial Software Solutions for Trading and Risk
+description: Itiviti Financial Software streamlines trading risk and data management
+  with fast reliable tools and seamless integration Discover more inside
 ---
 
 

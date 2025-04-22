@@ -1,6 +1,7 @@
 ---
-title: "Impact of CPI on US Dollar Exchange Rates"
-description: "Explore the impact of Consumer Price Index on US Dollar's exchange rates and how algorithmic trading strategies enhance forex market efficiency."
+title: Consumer Price Index Impact On US Dollar Exchange Rates
+description: Consumer Price Index data reveal how inflation shifts alter US dollar
+  exchange rates and guide Federal Reserve policy decisions Discover more inside.
 ---
 
 

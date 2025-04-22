@@ -1,6 +1,7 @@
 ---
-title: "Initial Public Offering: Process and Mechanics"
-description: "Explore the IPO process and the role of algorithmic trading in transforming stock market dynamics Learn how public companies and investors navigate these changes"
+title: Initial Public Offering Process Benefits Risks and Key Players
+description: Initial Public Offering guides companies through every IPO phase with
+  clear insights on process benefits risks and market factors Discover more inside.
 ---
 
 

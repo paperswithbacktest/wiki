@@ -1,6 +1,7 @@
 ---
-title: "History and Statistics of Gender Income Inequality"
-description: "Explore the intersection of gender income inequality and algorithmic trading revealing their historical roots impacts on modern economics and role in shaping equity."
+title: Addressing Gender Income Inequality Across Sectors and Policies
+description: Gender income inequality affects global earnings by revealing pay gaps
+  across sectors and guiding policy interventions for equal pay Discover more inside
 ---
 
 

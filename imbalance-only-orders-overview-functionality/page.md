@@ -1,6 +1,7 @@
 ---
-title: "Imbalance Only Orders: Overview and Functionality"
-description: "Explore the strategic use of imbalance-only orders in algorithmic trading. Learn how these specialized orders optimize trade execution, enhance liquidity, and manage risk."
+title: Understanding Imbalance Only Orders For Market Open And Close
+description: Imbalance Only Orders help ensure fair pricing by matching extra buy
+  or sell requests at market open and close for stable trading Discover more inside
 ---
 
 

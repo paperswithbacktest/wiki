@@ -1,6 +1,7 @@
 ---
-title: "Hyperledger Burrow: Overview and Functionality"
-description: "Explore how Hyperledger Burrow enhances algorithmic trading with blockchain integration offering transparency security and efficiency in trade execution."
+title: Hyperledger Burrow Private Blockchain Smart Contracts Platform
+description: Hyperledger Burrow helps businesses build and customize private blockchains
+  with EVM smart contracts for secure efficient transactions Discover more inside
 ---
 
 

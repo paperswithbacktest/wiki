@@ -1,6 +1,7 @@
 ---
-title: "Largest Canadian Mining Companies"
-description: "Canadian mining companies lead in resource production with commodities like uranium, zinc, and gold. Algorithmic trading reshapes operations, boosting efficiency."
+title: "Overview of Canada\u2019s Largest Mining Companies Operations and Impact"
+description: Largest Canadian mining companies drive economic growth while advancing
+  sustainability and innovation across global operations. Discover more inside.
 ---
 
 

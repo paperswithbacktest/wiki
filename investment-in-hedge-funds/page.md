@@ -1,6 +1,7 @@
 ---
-title: "Investment in Hedge Funds"
-description: "Explore how hedge funds leverage algorithmic trading to enhance investment strategies and manage portfolios effectively in a dynamic financial landscape."
+title: 'Understanding Hedge Funds: Strategies, Risks, and Benefits'
+description: Hedge funds use long short equity market neutral and global macro strategies
+  to seek returns across market cycles while managing risk Discover more inside
 ---
 
 

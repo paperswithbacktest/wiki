@@ -1,6 +1,8 @@
 ---
-title: "Franco Modigliani and His Contributions to Economics"
-description: "Explore Franco Modigliani's revolutionary impact on economics and finance with key theories like the Modigliani-Miller Theorem and life-cycle hypothesis."
+title: "Franco Modigliani\u2019s Impact on Saving Behavior and Corporate Finance"
+description: Franco Modigliani life-cycle hypothesis explains how people smooth consumption
+  and save strategically throughout life while his Modigliani-Miller theorem informs
+  corporate financing Discover more inside
 ---
 
 

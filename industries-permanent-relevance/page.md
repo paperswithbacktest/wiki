@@ -1,6 +1,7 @@
 ---
-title: "Industries with Permanent Relevance"
-description: "Explore the timeless relevance of perennial industries enhanced by algorithmic trading's capacity to optimize operations and improve resilience in dynamic markets."
+title: Industries With Permanent Relevance Every Society Relies On
+description: Industries with permanent relevance meet essential needs for food healthcare
+  education and energy while advancing with technology Discover more inside
 ---
 
 

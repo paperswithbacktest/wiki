@@ -1,6 +1,7 @@
 ---
-title: "Ito calculus in finance"
-description: "Explore how Itô calculus enhances algorithmic trading by modeling asset price dynamics and enabling high-speed, accurate trading strategies."
+title: Practical Applications of Ito Calculus in Financial Modeling
+description: Ito calculus provides tools for modeling financial randomness and pricing
+  options with precision while managing risk effectively Discover more inside
 ---
 
 

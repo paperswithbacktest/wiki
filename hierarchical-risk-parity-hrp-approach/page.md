@@ -1,6 +1,7 @@
 ---
-title: "Hierarchical Risk Parity (HRP) approach"
-description: Hierarchical Risk Parity (HRP) is an innovative and advanced portfolio optimization method transforming algorithmic trading by emphasizing robust risk management and enhanced diversification. Unlike classical risk parity strategies, HRP employs machine learning and graph theory to form a more resilient hierarchical structure based on asset correlations. This approach overcomes traditional limitations by reducing reliance on volatile market data and enabling a stable and balanced portfolio. HRP utilizes its unique three-step algorithm to build a resilient investment strategy, making it a preferred choice for traders seeking to improve risk-adjusted returns and achieve consistent market performance.
+title: Implementing Hierarchical Risk Parity for Balanced Portfolios
+description: Hierarchical Risk Parity balances risk by clustering assets on return
+  correlations and balancing allocations without predictive models Discover more inside
 ---
 
 

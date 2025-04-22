@@ -1,6 +1,7 @@
 ---
-title: "John B. Taylor: American Economist"
-description: "Explore the impact of John B. Taylor's economic theories on algorithmic trading Learn how the Taylor Rule guides trading strategies and stabilizes markets"
+title: John B. Taylor and the Taylor Rule for Monetary Policy
+description: Taylor Rule gives central banks guidance on setting interest rates for
+  inflation and unemployment to stabilize economies Discover more inside.
 ---
 
 

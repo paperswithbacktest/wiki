@@ -1,6 +1,7 @@
 ---
-title: "Floor Loan"
-description: "Discover how the convergence of floor loans, real estate finance, and algorithmic trading is redefining financial strategies, enhancing profitability, and mitigating risks."
+title: Understanding Floor Loan Financing For Construction Projects
+description: Floor loan financing helps builders cover early construction costs until
+  the floor is ready while securing long-term funding Discover more inside.
 ---
 
 

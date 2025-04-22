@@ -1,6 +1,7 @@
 ---
-title: "Kenyan Shilling: History And Overview"
-description: "Explore the rich history and evolution of the Kenyan Shilling (KES), its vital role in Kenya's economy, and its influence in algorithmic trading today."
+title: Comprehensive Guide To Kenyan Shilling History And Exchange Rate
+description: Kenyan Shilling insights on history exchange rates and monetary policy
+  explain how economic factors influence its value and stability Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Group of Eight (G8)"
-description: "Explore the intricate dynamics of the G8 and the transformative impact of algorithmic trading on global financial markets and policies."
+title: Understanding the G8 Group Evolution and Global Impact
+description: G8 meetings shaped global policies on economy security and climate change
+  since the 1970s forming a robust dialogue among world powers Discover more inside
 ---
 
 

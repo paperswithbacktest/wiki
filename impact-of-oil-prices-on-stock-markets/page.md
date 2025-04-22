@@ -1,6 +1,7 @@
 ---
-title: "Impact of Oil Prices on Stock Markets"
-description: "Explore the intricate connections between oil prices and stock market dynamics, focusing on algorithmic trading's role in modern finance. Understand how fluctuations in oil prices impact global finance, influencing economic activity, business costs, and investment strategies. Discover how algorithmic trading models rapidly respond to market changes, shaping the intricate relationship between oil prices and stock market behavior. This deep dive into financial interactions offers insights into navigating contemporary economic complexities for investors and policymakers alike."
+title: Oil Price Dynamics and Their Impact on Stock Markets and Economy
+description: Oil prices shape economic activity and stock market performance from
+  sectoral effects to investor strategies and predictive models Discover more inside.
 ---
 
 

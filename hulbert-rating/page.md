@@ -1,6 +1,7 @@
 ---
-title: "Hulbert Rating"
-description: "Explore the synergy between Hulbert Ratings and algorithmic trading Discover how performance metrics enrich algo strategies for informed investment decisions"
+title: Understanding the Hulbert Rating for Investment Newsletters
+description: Hulbert Rating measures how investment newsletters perform against market
+  returns and risk so you can choose smarter advice Discover more inside
 ---
 
 

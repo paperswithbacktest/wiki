@@ -1,6 +1,7 @@
 ---
-title: "Government Shutdowns and Economic Impact"
-description: "Explore the intricate relationship between government shutdowns and economic impacts as they affect policy, businesses, and investors. Delve into how algorithmic trading responds to these shutdowns, providing valuable insights into market dynamics during political and economic uncertainties. Discover strategies for navigating these challenges and gain a deeper understanding of the financial markets' adaptive mechanisms in the face of federal funding disputes."
+title: Government Shutdown Impacts on the Economy and Federal Services
+description: Government shutdowns disrupt federal services and local economies by
+  halting paychecks and slowing business activity in real time Discover more inside.
 ---
 
 

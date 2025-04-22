@@ -1,6 +1,7 @@
 ---
-title: "Jane Street"
-description: "Explore Jane Street's innovative algorithmic trading strategies that leverage quantitative research and technology for success across global financial markets."
+title: Jane Street Quantitative Trading Firm Global Reach and Impact
+description: Jane Street leverages advanced algorithms and collaborative expertise
+  to drive global trading while supporting local communities Discover more inside.
 ---
 
 

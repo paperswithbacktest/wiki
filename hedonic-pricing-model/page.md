@@ -1,6 +1,7 @@
 ---
-title: "Hedonic Pricing Model"
-description: "Discover how hedonic pricing enhances algorithmic trading by decomposing product values into attributes for better market insights and economic valuation."
+title: Understanding the Hedonic Pricing Model in Real Estate
+description: Hedonic Pricing Model breaks down property features to reveal their true
+  market value using regression analysis in real estate Discover more inside
 ---
 
 

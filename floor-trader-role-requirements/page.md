@@ -1,6 +1,7 @@
 ---
-title: "Floor Trader: Role and Requirements"
-description: "Explore the evolving role of floor traders in the digital era of algorithmic trading emphasizing the skills required to thrive in today's tech-driven markets."
+title: Understanding the Role and Skills of a Floor Trader
+description: Floor Trader expertise drives precise trading decisions and fair market
+  pricing through quick analysis and strategic actions Discover more inside.
 ---
 
 

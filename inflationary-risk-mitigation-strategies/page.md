@@ -1,6 +1,7 @@
 ---
-title: "Inflationary Risk and Mitigation Strategies"
-description: "Explore inflation risk and mitigation with algorithmic trading to preserve investment value by using data-driven strategies that protect against rising inflation."
+title: Understanding Inflationary Risk and How to Mitigate It
+description: Inflationary risk erodes savings and returns and pressures budgets. Use
+  proven strategies to protect your purchasing power. Discover more inside.
 ---
 
 

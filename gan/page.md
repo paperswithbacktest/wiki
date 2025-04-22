@@ -1,6 +1,7 @@
 ---
-title: "GAN (Machine Learning)"
-description: "Learn about Generative Adversarial Networks GANs where two neural networks work together to create realistic data used in art AI applications and more."
+title: Generative Adversarial Networks for Realistic Data Creation
+description: Generative Adversarial Networks power realistic image and data creation
+  through adversarial neural training with continuous feedback Discover more inside
 ---
 
 ![Image](images/1.webp)

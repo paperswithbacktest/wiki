@@ -1,6 +1,7 @@
 ---
-title: "Free Cash Flow Analysis"
-description: "Explore how Free Cash Flow analysis in algorithmic trading aids investors in assessing financial health promoting data-driven strategies for informed decisions."
+title: Understanding Free Cash Flow for Valuation and Financial Health
+description: Free cash flow shows how much money companies generate after expenses
+  and investments, guiding valuation decisions and growth. Discover more inside.
 ---
 
 

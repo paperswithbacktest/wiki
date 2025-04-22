@@ -1,6 +1,7 @@
 ---
-title: "Limit Move in Trading"
-description: "Explore the dynamic intersection of limit moves and algorithmic trading to manage market volatility effectively using advanced strategies and automated systems."
+title: 'Limit Moves in Trading: Causes Effects and Strategies'
+description: Limit moves cap daily price swings and pause trading at set thresholds
+  to prevent panic protect traders and provide clear guidance Discover more inside
 ---
 
 

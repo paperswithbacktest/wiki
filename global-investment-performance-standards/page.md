@@ -1,6 +1,7 @@
 ---
-title: "Global Investment Performance Standards"
-description: "Explore the intersection of global investment standards and algorithmic trading shaping modern finance and driving transparency and efficiency in market practices."
+title: Global Investment Performance Standards Explained for Firms
+description: Global Investment Performance Standards ensure firms report returns transparently
+  so investors compare managers accurately Discover more inside
 ---
 
 

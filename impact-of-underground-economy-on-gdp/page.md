@@ -1,6 +1,7 @@
 ---
-title: "Impact of the Underground Economy on GDP"
-description: "Explore how the underground economy affects GDP accuracy and policy making Learn about shadow economy's global impact and uncover innovative solutions."
+title: Measuring the Impact of the Underground Economy on GDP
+description: Underground economy activity can understate GDP. Economists use methods
+  like currency demand and survey analysis to reveal hidden value. Read more inside
 ---
 
 

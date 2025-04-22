@@ -1,6 +1,8 @@
 ---
-title: "Highly Leveraged Transactions: Overview and Mechanisms"
-description: "Explore how highly leveraged transactions and algorithmic trading shape modern finance Discover their mechanisms interactions and potential advantages"
+title: Understanding Highly Leveraged Transactions in Corporate Finance
+description: Highly leveraged transaction strategies use debt to fuel growth and rewards
+  while balancing risk through key financial metrics and risk mitigation Discover
+  more inside.
 ---
 
 

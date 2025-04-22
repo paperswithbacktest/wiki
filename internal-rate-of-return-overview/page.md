@@ -1,6 +1,7 @@
 ---
-title: "Internal Rate of Return Overview"
-description: "Explore how the Internal Rate of Return is essential for evaluating investment profitability and its integration in algorithmic trading strategies to optimize financial decisions."
+title: Internal Rate of Return Explained for Smart Investment Decisions
+description: Use Internal Rate of Return to evaluate cash flows and compare investment
+  projects with clear examples and actionable insights. Discover more inside.
 ---
 
 

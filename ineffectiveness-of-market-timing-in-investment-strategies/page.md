@@ -1,6 +1,7 @@
 ---
-title: "Ineffectiveness of Market Timing in Investment Strategies"
-description: "Market timing is difficult and risky in investment strategies often resulting in losses. Explore alternatives and understand the role of algorithmic trading."
+title: Market Timing Versus Buy and Hold Investment Strategies
+description: Market timing can lead to missed opportunities and higher costs but a
+  buy and hold approach offers steady growth and tax efficiency Discover more inside
 ---
 
 

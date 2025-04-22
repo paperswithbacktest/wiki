@@ -1,6 +1,7 @@
 ---
-title: "Impact of Brexit on the United Kingdom and European Union"
-description: "Explore the profound impact of Brexit on financial markets in the UK and EU, focusing on algorithmic trading. This page investigates into the complexities introduced by regulatory changes and market access reconfiguration, examining how traders can strategically adapt to new conditions. Uncover insights into the evolving role of algorithmic trading and its significance for maintaining competitiveness in this rapidly changing environment."
+title: Brexit Impact on UK and EU Trade Policies and Economies
+description: Brexit has reshaped UK and EU economies by changing trade rules immigration
+  systems and regulations prompting businesses to adapt Discover more inside
 ---
 
 

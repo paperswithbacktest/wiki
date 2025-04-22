@@ -1,6 +1,7 @@
 ---
-title: "Forward Discount Calculation and Examples"
-description: "Explore the role of forward discounts in algorithmic trading and currency exchange Understand how calculations and interest rate differentials inform trades"
+title: Understanding Forward Discount in Currency Exchange
+description: Forward Discount signals expected currency depreciation and helps investors
+  plan forex hedging with clear formulas and risk management Discover more inside
 ---
 
 

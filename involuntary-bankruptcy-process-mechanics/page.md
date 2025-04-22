@@ -1,6 +1,7 @@
 ---
-title: "Involuntary Bankruptcy Process and Mechanics"
-description: "Discover how involuntary bankruptcy and algorithmic trading intersect within the financial world providing critical insights for investors and businesses alike."
+title: Understanding Involuntary Bankruptcy Process and Implications
+description: Involuntary bankruptcy lets creditors file a court petition when debts
+  exceed eligibility thresholds and explains process unfolding Discover more inside
 ---
 
 

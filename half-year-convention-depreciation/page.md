@@ -1,6 +1,7 @@
 ---
-title: "Half-Year Convention in Depreciation"
-description: "Explore how the half-year convention in depreciation enhances algorithmic trading by aligning asset costs with revenues, optimizing efficiency, and aiding financial planning."
+title: Understanding the Half-Year Convention in Depreciation
+description: Half-year convention in depreciation simplifies tax deductions by treating
+  all assets as acquired midyear for easier calculation Discover more inside
 ---
 
 

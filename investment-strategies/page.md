@@ -1,6 +1,7 @@
 ---
-title: "Investment strategies"
-description: Explore the advantages of algorithmic trading, known as algo trading, which utilizes computer programs to trade securities at high speeds and precision. This method minimizes human errors and emotional decisions by executing trades based purely on data and logic. Learn about investment strategies in algo trading that optimize portfolios and align with risk tolerance and goals while navigating the challenges of market volatility and the reliance on advanced technology.
+title: Comprehensive Guide to Investment Strategies and Principles
+description: Investment Strategies guide you from basic principles to advanced techniques
+  to build a diversified portfolio with confidence Discover more inside
 ---
 
 

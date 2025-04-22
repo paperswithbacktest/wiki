@@ -1,6 +1,7 @@
 ---
-title: "Index Divisor: Function and Example"
-description: "This page explores the concept of stock market indices focusing on index divisors and their importance in algorithmic trading ensuring market integrity over time."
+title: Understanding the Index Divisor in Stock Market Indices
+description: Index divisor maintains fairness and continuity in market indices by
+  adjusting for corporate actions and price fluctuations. Discover more inside.
 ---
 
 

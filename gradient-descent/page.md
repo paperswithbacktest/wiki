@@ -1,6 +1,7 @@
 ---
-title: "Gradient Descent (Machine Learning)"
-description: "Gradient Descent optimizes machine learning models by iteratively adjusting parameters to minimize error using gradients, making it efficient and essential."
+title: Understanding Gradient Descent in Machine Learning Optimization
+description: Gradient Descent guides machine learning models to reduce error step
+  by step with momentum and adaptive learning rates Discover more inside.
 ---
 
 ![Image](images/1.png)

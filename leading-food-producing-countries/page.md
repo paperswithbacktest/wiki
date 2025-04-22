@@ -1,6 +1,7 @@
 ---
-title: "Leading Food-Producing Countries"
-description: "Explore the role of algorithmic trading in enhancing global food production through the contributions of leading countries like China, India, the US, and Brazil."
+title: Global Food Production Trends in China United States and India
+description: Global food production in China the United States and India shows how
+  climate technology and policies shape yields and global trade Discover more inside
 ---
 
 

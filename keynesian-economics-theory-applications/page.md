@@ -1,6 +1,7 @@
 ---
-title: "Keynesian Economics: Theory and Applications"
-description: "Discover the intersection of Keynesian Economics and algorithmic trading in economic policy. Explore how the demand-driven principles of Keynesian theories shape contemporary macroeconomic strategies, and understand the impact of technological advancements like algorithmic trading on financial markets. Gain insights into the strategic role of fiscal and monetary policies in achieving economic stability and growth."
+title: A Guide To Keynesian Economics Principles And Policies
+description: Keynesian Economics shows how government spending can boost demand, break
+  liquidity traps, and create jobs during recessions Discover more inside
 ---
 
 

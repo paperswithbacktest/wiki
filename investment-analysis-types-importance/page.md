@@ -1,6 +1,7 @@
 ---
-title: "Investment Analysis: Types and Importance"
-description: "Discover the significance of different investment types and the role of algorithmic trading in financial analysis to make informed investment decisions."
+title: Comprehensive Guide to Investment Analysis Techniques
+description: Investment analysis helps investors apply fundamental technical and quantitative
+  models to build a balanced portfolio and manage risk Discover more inside
 ---
 
 

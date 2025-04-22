@@ -1,6 +1,7 @@
 ---
-title: "Income Strategies for Regular Portfolio Earnings"
-description: "Discover effective income strategies for portfolio earnings with algo trading. Learn how diversification and technology enhance returns for financial growth and stability."
+title: Income Generating Investment Portfolio for Regular Earnings
+description: Income Generating Portfolio leverages dividend stocks bonds and REITs
+  to deliver steady cash flow while preserving growth Discover more inside
 ---
 
 

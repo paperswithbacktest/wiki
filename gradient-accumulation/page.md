@@ -1,6 +1,7 @@
 ---
-title: "Gradient Accumulation (Machine Learning)"
-description: "Gradient accumulation in machine learning enables stable training with limited resources by aggregating gradients from small batches, simulating larger batch sizes."
+title: Gradient Accumulation Techniques for Efficient Model Training
+description: Gradient accumulation lets you train models with larger effective batch
+  sizes on limited memory by summing gradients over mini batches Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Human Evaluation (Machine Learning)"
-description: "Human evaluation in machine learning ensures program accuracy by allowing humans to check results computers might miss. It refines models and improves performance."
+title: Human Evaluation Methods and Best Practices for Machine Learning
+description: Human evaluation in machine learning uses expert feedback to catch subtle
+  errors and improve model accuracy and reliability Discover more inside
 ---
 
 ![Image](images/1.png)

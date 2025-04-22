@@ -1,6 +1,7 @@
 ---
-title: "liquidity providers"
-description: "Explore the crucial role of liquidity providers in algorithmic trading ensuring market stability and efficiency by managing buy and sell sides without volatility."
+title: Understanding Liquidity Providers in Financial and DeFi Markets
+description: Liquidity providers support smooth trading in traditional and DeFi markets
+  by offering constant buy and sell orders to earn fees Discover more inside.
 ---
 
 

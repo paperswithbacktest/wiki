@@ -1,6 +1,7 @@
 ---
-title: "High-Low Index: Formula and Example Chart"
-description: "Explore the high-low index formula and chart in algo trading to gauge market trends by comparing stocks' 52-week highs and lows for better trading insights."
+title: Understanding the High-Low Index for Market Trend Analysis
+description: High-Low Index provides a snapshot of market sentiment by comparing stocks
+  hitting new highs versus lows to guide trading decisions. Discover more inside.
 ---
 
 

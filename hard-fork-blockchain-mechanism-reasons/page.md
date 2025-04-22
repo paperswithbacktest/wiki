@@ -1,6 +1,7 @@
 ---
-title: "Hard Fork in Blockchain: Mechanism and Reasons"
-description: "Explore blockchain hard forks and their impact on crypto algo trading Learn about mechanisms reasons and strategies shaping the digital currency landscape"
+title: Understanding Blockchain Hard Forks Risks and Benefits
+description: Hard fork in blockchain upgrades protocol rules to enable major fixes,
+  features and guide users through risks and steps ahead Discover more inside.
 ---
 
 

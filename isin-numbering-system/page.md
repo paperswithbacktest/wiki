@@ -1,6 +1,7 @@
 ---
-title: "ISIN Numbering System"
-description: "Explore the pivotal role of ISINs in global securities trading and discover how algorithmic strategies optimize trade execution for modern finance innovators."
+title: Understanding ISIN Securities Identification Numbers
+description: ISIN numbers assign a universal 12-digit code for accurate security identification
+  and faster settlement across global markets Discover more inside
 ---
 
 

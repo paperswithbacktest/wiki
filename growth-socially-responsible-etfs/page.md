@@ -1,6 +1,7 @@
 ---
-title: "Growth of Socially Responsible Exchange-Traded Funds"
-description: "Explore the rise of socially responsible ETFs and ESG-integrated algo trading in sustainable finance unraveling the impact of values-driven investments."
+title: Understanding Socially Responsible ETFs for Ethical Investing
+description: Socially responsible ETFs let investors align returns with values by
+  backing companies with strong ESG performance and growth Discover more inside
 ---
 
 

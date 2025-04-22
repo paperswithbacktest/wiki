@@ -1,6 +1,7 @@
 ---
-title: "Going Concern in Financial Reporting"
-description: "Explore the importance of going concern in financial reporting and the transformative role of algorithmic trading in today's dynamic financial markets."
+title: Understanding the Going Concern Principle in Financial Reporting
+description: Going concern assesses whether a company can continue operations and
+  value its assets accurately in financial statements. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Leading Mid-Cap Healthcare Companies"
-description: "Explore the distinctive role of mid-cap healthcare companies in innovation and investment, and how algorithmic trading boosts investment strategies."
+title: Evaluating Mid Cap Healthcare Companies for Growth and Stability
+description: Mid Cap Healthcare Companies offer a balance of growth potential and
+  stability with innovative products and solid financials Discover more inside.
 ---
 
 

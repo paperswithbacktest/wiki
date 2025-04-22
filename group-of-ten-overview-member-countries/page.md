@@ -1,6 +1,7 @@
 ---
-title: "Group of Ten: Overview and Member Countries"
-description: "Discover the strategic significance of the Group of Ten G10 a coalition of 11 industrialized nations that shape global financial stability and policy The article provides insights into the economic influence of G10 member countries and their role in international financial regulations and trade agreements It further explores the impact and challenges of algorithmic trading within these markets highlighting its role in enhancing efficiency and liquidity in the modern financial landscape Gain a comprehensive understanding of the G10's contributions to global finance and the dynamic evolution of trading practices"
+title: Understanding the Group of Ten and Its Global Financial Role
+description: Group of Ten collaboration strengthens global financial stability through
+  coordinated lending arrangements and policy dialogue Discover more inside.
 ---
 
 

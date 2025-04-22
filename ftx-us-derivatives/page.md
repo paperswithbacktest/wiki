@@ -1,6 +1,7 @@
 ---
-title: "FTX US Derivatives"
-description: "Explore FTX US platform with its innovative derivatives and algo trading offerings, designed to help traders optimize strategies in the crypto market."
+title: FTX US Derivatives Platform Explained for US Traders
+description: FTX US Derivatives provides regulated futures and options trading with
+  robust security and compliance ensuring reliable trades Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hypothesis Testing: Steps and Example"
-description: "Learn the essential steps of hypothesis testing in algorithmic trading to make data-driven decisions that optimize strategies and minimize risk effectively."
+title: Understanding Hypothesis Testing in Statistical Analysis
+description: Hypothesis testing guides data driven decisions with null and alternative
+  hypothesis setup p value analysis and test selection Discover more inside
 ---
 
 

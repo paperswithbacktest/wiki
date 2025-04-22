@@ -1,6 +1,7 @@
 ---
-title: "Leverage Ratios in Bank Lending and Investment Regulation"
-description: "Explore the interplay of leverage ratios, bank lending, and algorithmic trading within the dynamic financial landscape shaped by investment regulations."
+title: Leverage Ratios in Banking for Risk Management and Stability
+description: Leverage ratios show how banks balance debt and equity to manage risk
+  and growth while meeting regulatory standards Discover more inside
 ---
 
 

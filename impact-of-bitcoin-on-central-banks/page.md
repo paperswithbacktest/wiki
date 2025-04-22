@@ -1,6 +1,7 @@
 ---
-title: "Impact of Bitcoin on Central Banks"
-description: "Explore the transformative impact of Bitcoin on central banks and algorithmic trading Discover how cryptocurrency reshapes economic governance and monetary policy"
+title: Bitcoin Challenges Central Bank Control and Monetary Policy
+description: Bitcoin reshapes central bank functions with a fixed supply currency
+  that prompts new regulatory and digital currency approaches Discover more inside.
 ---
 
 

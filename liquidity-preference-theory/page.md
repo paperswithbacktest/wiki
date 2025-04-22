@@ -1,6 +1,7 @@
 ---
-title: "Liquidity Preference Theory"
-description: "Explore the fusion of Keynesian liquidity preference theory with algorithmic trading strategies in finance. Discover insights into modern markets."
+title: Liquidity Preference Theory Explained for Economic Policy
+description: Liquidity Preference Theory reveals why people hold cash over investments
+  and how this impacts interest rates and monetary policy. Discover more inside.
 ---
 
 

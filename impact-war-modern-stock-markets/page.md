@@ -1,6 +1,8 @@
 ---
-title: "Impact of War on Modern Stock Markets"
-description: "Explore the impact of war on stock markets and algorithmic trading offering insights for investors on volatility trends and potential opportunities amidst conflict."
+title: Understanding War's Impact on Global Stock Market Performance
+description: Stock market volatility during war reshapes investment portfolios as
+  investors pivot to safer assets and emerging sector opportunities Discover more
+  inside
 ---
 
 

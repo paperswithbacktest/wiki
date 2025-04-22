@@ -1,6 +1,7 @@
 ---
-title: "Inflation and Debt Destruction: Mechanisms and Impact"
-description: "Explore inflation, debt destruction, and their economic impact alongside the role of algorithmic trading. Understand market dynamics to better navigate fiscal challenges."
+title: Inflation Erodes Real Debt Value for Borrowers and Lenders
+description: Inflation erodes real debt value by cutting the purchasing power of repayments
+  and reshaping borrower lender dynamics Discover solutions inside
 ---
 
 

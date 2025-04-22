@@ -1,6 +1,7 @@
 ---
-title: "Investment Automation Techniques"
-description: "Explore investment automation and algorithmic trading, uncovering their impact on finance by enhancing efficiency and accuracy while presenting unique challenges."
+title: Investment Automation Guide for Efficient Portfolio Management
+description: Investment automation simplifies portfolio management by automating trades
+  and rebalancing to keep your investments aligned with goals Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Intermarket Spread Mechanics"
-description: "Explore intermarket spread trading with algo trading to capitalize on market inefficiencies by offsetting positions in correlated markets for reduced risk."
+title: 'Intermarket Spread Trading Explained: Strategies and Applications'
+description: Intermarket spread trading helps you profit from price differences across
+  markets by buying low and selling high while managing costs and risks Discover more
+  inside.
 ---
 
 

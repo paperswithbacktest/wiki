@@ -1,6 +1,7 @@
 ---
-title: "Limit Down in Stocks and Futures"
-description: "Explore the role of limit down mechanisms in regulating stock and futures markets, and how algorithmic trading adapts to manage risk in volatile environments."
+title: Understanding Limit Down Rules in Stocks and Futures Markets
+description: Limit Down rules pause trading when steep declines threaten markets giving
+  investors time to regroup and curb panic selling Discover more inside
 ---
 
 

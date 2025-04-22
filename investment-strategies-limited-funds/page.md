@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies for Individuals with Limited Funds"
-description: "Explore effective investment strategies for individuals with limited funds focusing on algorithmic trading to optimize returns and build wealth through technology."
+title: Effective Strategies for Investing With Limited Funds
+description: Investing With Limited Funds demands clear goals and disciplined automation
+  into low-cost index funds and ETFs to build wealth Discover more inside.
 ---
 
 

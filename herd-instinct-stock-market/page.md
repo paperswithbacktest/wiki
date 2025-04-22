@@ -1,6 +1,7 @@
 ---
-title: "Herd Instinct in the Stock Market"
-description: "Explore the impact of herd instinct on the stock market and algorithmic trading Discover strategies to counteract crowd behavior and enhance investment decisions"
+title: Understanding Herd Instinct in Stock Market Investing
+description: Herd instinct in the stock market can spark bubbles and panics by fueling
+  crowd behavior. Apply strategies to invest independently. Discover more inside.
 ---
 
 

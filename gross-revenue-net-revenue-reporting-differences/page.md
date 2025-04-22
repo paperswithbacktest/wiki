@@ -1,6 +1,7 @@
 ---
-title: "Gross Revenue and Net Revenue Reporting Differences"
-description: "Explore the key differences between gross and net revenue reporting in algo trading. Understand their impact on decision-making and how they optimize trading strategies."
+title: Understanding Gross Revenue vs Net Revenue for Accurate Reporting
+description: Comparing gross revenue vs net revenue reveals sales performance so you
+  can report accurately and make informed financial decisions Discover more inside.
 ---
 
 

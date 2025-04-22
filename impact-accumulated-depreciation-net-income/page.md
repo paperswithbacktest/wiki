@@ -1,6 +1,7 @@
 ---
-title: "Impact of Accumulated Depreciation on Net Income"
-description: "Explore how accumulated depreciation and net income impact financial reporting and algorithmic trading. Gain insights on aligning accounting and trading strategies."
+title: Understanding Impact of Accumulated Depreciation on Net Income
+description: Accumulated depreciation shows how asset value loss reduces net income
+  and informs financial decisions across asset lifecycles Discover more inside.
 ---
 
 

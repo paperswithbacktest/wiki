@@ -1,6 +1,7 @@
 ---
-title: "Hotelling's Theory"
-description: "Explore Hotelling's Theory and its impact on algorithmic trading Discover how this economic principle helps traders predict price movements of nonrenewable resources"
+title: Hotelling's Theory for Optimal Timing of Resource Extraction
+description: Hotelling's Theory shows how nonrenewable resource owners maximize returns
+  by timing extraction with price and interest rate trends Discover more inside
 ---
 
 

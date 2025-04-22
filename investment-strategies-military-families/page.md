@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies for Military Families"
-description: "Discover tailored investment strategies for military families including diversification and algorithmic trading to ensure financial stability amid a unique lifestyle."
+title: Essential Savings and Investment Strategies for Military Families
+description: Military families can manage relocation and deployment costs with TSP
+  and high rate savings building long term financial security Discover more inside
 ---
 
 

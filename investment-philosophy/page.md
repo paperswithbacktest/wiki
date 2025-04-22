@@ -1,6 +1,7 @@
 ---
-title: "Investment Philosophy"
-description: "Discover the intricacies of investment philosophy in the modern landscape with insights into algorithmic trading blending traditional strategies and innovative techniques."
+title: Developing a Consistent Investment Philosophy for Success
+description: Investment philosophy guides disciplined choices by defining rules that
+  align with your goals risk tolerance and market shifts Discover more inside.
 ---
 
 

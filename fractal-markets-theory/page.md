@@ -1,6 +1,7 @@
 ---
-title: "Fractal Markets Theory"
-description: "Explore Fractal Market Hypothesis in algorithmic trading examining investment horizons and market liquidity for robust strategies in dynamic markets."
+title: Understanding Fractal Markets Theory For Smarter Investing
+description: Fractal Markets Theory reveals repeating price patterns at multiple scales
+  to guide investment decisions and uncover inefficiencies Discover more inside
 ---
 
 

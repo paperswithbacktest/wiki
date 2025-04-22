@@ -1,6 +1,7 @@
 ---
-title: "Internal Rate of Return Calculation Formula"
-description: "Discover how to calculate and utilize Internal Rate of Return (IRR) to gauge investment profitability in the fast-paced world of algorithmic trading."
+title: Understanding Internal Rate of Return IRR in Investment Analysis
+description: Internal Rate of Return shows how IRR measures investment profitability
+  across cash flow scenarios and tools guide your calculations Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Options Trading Strategies"
-description: "Explore options trading strategies with a focus on risk management and returns. Learn how algorithmic trading enhances efficiency for diverse investment goals."
+title: Comprehensive Options Trading Guide for Beginner Investors
+description: Options trading essentials from basic terms to advanced strategies risk
+  management and hedging explained with clear examples Discover more inside
 ---
 
 

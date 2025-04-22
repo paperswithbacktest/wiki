@@ -1,6 +1,7 @@
 ---
-title: "Importance of Dividends to Investors"
-description: "Discover how combining dividend investing with algorithmic trading can enhance financial returns explore AI's role in optimizing portfolios and managing risks."
+title: Understanding Dividends for Income and Growth Investors
+description: Dividend investing provides income and growth by leveraging yields DRIPs
+  and tax strategies to build sustainable portfolio returns Discover more inside
 ---
 
 

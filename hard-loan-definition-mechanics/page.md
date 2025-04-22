@@ -1,6 +1,7 @@
 ---
-title: "Hard Loan: Definition and Mechanics"
-description: "Explore the intricacies of hard loans and their role in financial markets Discover how algorithmic trading enhances loan strategies and manages risks effectively."
+title: Hard Loans Explained With Rates Collateral And Repayment Terms
+description: Hard loans offer quick financing based on property value and clear repayment
+  plans with detailed LTV and term insights Discover more inside.
 ---
 
 

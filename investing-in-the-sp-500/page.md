@@ -1,6 +1,7 @@
 ---
-title: "Investing in the S&P 500"
-description: "Explore the dynamic world of investing in the S&P 500 and algorithmic trading with our comprehensive guide. Learn how to optimize your investment strategies by understanding the S&P 500's diversified portfolio, its role as a key economic indicator, and effective methodologies like buy-and-hold, sector rotation, and dividend investing. Discover the advantages of algorithmic trading, which harnesses data-driven decision-making and automated systems for precise trade execution. Equip yourself with insights to navigate the evolving financial landscape, manage risks, and maximize returns through strategic investments and cutting-edge trading techniques."
+title: Comprehensive Guide to Investing in the S&P 500 Index
+description: S&P 500 investing provides a diversified path to grow wealth over time
+  with low-cost index funds, clear strategies, and risk controls Discover more inside.
 ---
 
 

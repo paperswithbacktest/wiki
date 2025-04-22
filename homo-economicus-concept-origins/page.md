@@ -1,6 +1,7 @@
 ---
-title: "Homo Economicus: Concept and Origins"
-description: "Explore the concept of Homo Economicus in economic theories and its role in algorithmic trading examining how rational behavior impacts financial markets and decision-making."
+title: Understanding Homo Economicus In Economic Decision Making
+description: Homo Economicus offers a model of rational decision making and reveals
+  how real behavior deviates due to biases and insights. Discover more inside.
 ---
 
 

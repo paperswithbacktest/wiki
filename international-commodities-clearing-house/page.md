@@ -1,6 +1,7 @@
 ---
-title: "International Commodities Clearing House"
-description: "Explore the evolution of the International Commodities Clearing House and its transition to the London Clearing House as it adapts to algorithmic trading."
+title: International Commodities Clearing House Operations And Benefits
+description: International Commodities Clearing House verifies trades manages risk
+  and resolves disputes securing efficient global markets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Generally Accepted Accounting Principles"
-description: "Explore the vital connection between GAAP accounting standards and algorithmic trading for accurate financial reporting and enhanced market transparency."
+title: Understanding Generally Accepted Accounting Principles GAAP
+description: GAAP offers a consistent framework for clear financial reporting that
+  boosts transparency, trust and market stability for investors Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Limited Currency Convertibility"
-description: "Explore the impact of limited currency convertibility on forex trading and international trade Learn about algorithmic trading and how it shapes currency exchange dynamics"
+title: Understanding Limited Currency Convertibility in Global Trade
+description: Limited currency convertibility explains how governments control money
+  exchanges to stabilize economies and protect reserves Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "History of the Ukrainian Hryvnia"
-description: "Explore the journey of the Ukrainian Hryvnia from its 1996 introduction to its modern role in forex markets impacted by algorithmic trading dynamics."
+title: Understanding Ukrainian Hryvnia History and Economic Policy
+description: Ukrainian Hryvnia has shaped the economy of Ukraine since 1996 and drives
+  currency policy through political events and market forces Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Equities on the Foreign Exchange Market"
-description: "Explore the impact of equities on FX markets and discover the growing importance of algorithmic trading Learn how algo trading enhances strategy execution and efficiency"
+title: Understanding the Relationship Between Equity and Forex Markets
+description: Equities and forex interplay shapes currency values through equity market
+  trends capital flows and investor sentiment Discover more insights inside
 ---
 
 

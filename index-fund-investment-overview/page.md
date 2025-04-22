@@ -1,6 +1,7 @@
 ---
-title: "Index Fund Investment Overview"
-description: "Explore the synergy of financial planning, index funds, and algo trading to maximize returns while managing risks in the evolving investment landscape."
+title: Comprehensive Guide to Index Fund Investing for Long-Term Growth
+description: Index fund investing offers a low-cost way to match market returns and
+  spread risk across assets while maximizing long-term growth Discover more inside.
 ---
 
 

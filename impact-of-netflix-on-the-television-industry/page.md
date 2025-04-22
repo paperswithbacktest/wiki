@@ -1,6 +1,7 @@
 ---
-title: "Impact Of Netflix On The Television Industry"
-description: "Explore the impact of Netflix on television similar to algorithmic trading in finance highlighting how technology reshapes media consumption with data-driven insights"
+title: Netflix Business Model Evolution And Global Industry Impact
+description: Netflix transformed television with on-demand streaming original content
+  and personalized recommendations driving global viewing habits. Discover more inside.
 ---
 
 

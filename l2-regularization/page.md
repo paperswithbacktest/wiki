@@ -1,6 +1,7 @@
 ---
-title: "L2 Regularization (Machine Learning)"
-description: "L2 regularization prevents overfitting in machine learning by penalizing model complexity through smaller weights using the formula lambda times the sum of squared weights."
+title: L2 Regularization in Machine Learning to Prevent Overfitting
+description: L2 regularization adds a penalty on model weights to reduce overfitting
+  and boost reliability on unseen data and tune lambda Discover more inside
 ---
 
 ![Image](images/1.png)

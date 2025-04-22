@@ -1,6 +1,7 @@
 ---
-title: "Liquidity detection algorithms"
-description: "Liquidity detection algorithms enhance trading by optimizing execution of large trades with minimal market impact leveraging advanced data analysis and machine learning."
+title: Understanding Liquidity Detection Algorithms in Financial Markets
+description: Liquidity detection algorithms analyze order book depth bid ask spread
+  and volume to help traders execute with minimal slippage risk Discover more inside
 ---
 
 

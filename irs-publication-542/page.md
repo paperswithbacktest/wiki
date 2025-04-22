@@ -1,6 +1,7 @@
 ---
-title: "IRS Publication 542"
-description: "Discover essential tax guidance for algorithmic trading firms in IRS Publication 542, from corporate classifications to deductions, helping ensure compliance and optimize strategy."
+title: Understanding IRS Publication 542 for Corporate Tax Compliance
+description: IRS Publication 542 guides corporations through tax rules deductions
+  and special cases to ensure compliance and streamline filings Discover more inside
 ---
 
 

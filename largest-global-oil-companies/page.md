@@ -1,6 +1,7 @@
 ---
-title: "Largest Global Oil Companies"
-description: "Discover how algorithmic trading is transforming the financial operations of the largest oil companies globally and uncover key industry insights."
+title: Exploring the Largest Global Oil Companies and Their Impact
+description: Largest global oil companies drive energy supply with revenue, production
+  and reserves while advancing sustainability and technology Discover more inside
 ---
 
 

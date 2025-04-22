@@ -1,6 +1,7 @@
 ---
-title: "Impact of Data Availability on ESG Investing Growth"
-description: "ESG investing is transforming with data availability enhancing responsible investment decisions as investors integrate ethics with profitability in algo trading strategies."
+title: Enhancing ESG Investing Through Improved Data Availability
+description: ESG data availability empowers investors to assess company environmental
+  social and governance practices for smarter decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Government's Role in Capitalism"
-description: "Explore the government's role in capitalism and algorithmic trading Discover how economic policies shape markets and influence trading practices in today’s economy"
+title: Government Regulation and Policies in a Capitalist Economy
+description: Government intervention in a capitalist economy ensures fair competition
+  and consumer protection while balancing market freedom Discover more inside.
 ---
 
 

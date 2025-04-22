@@ -1,6 +1,7 @@
 ---
-title: "International Clearing System"
-description: "Explore the pivotal role of international clearing systems in global finance and their synergy with algorithmic trading to enhance transaction efficiency and accuracy."
+title: Understanding International Clearing Systems in Global Payments
+description: International Clearing Systems connect banks to process cross border
+  payments with secure messaging and real time settlement Discover more inside.
 ---
 
 

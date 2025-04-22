@@ -1,6 +1,7 @@
 ---
-title: "Influential Economists and Their Impact on American History"
-description: "Discover how influential economists have shaped American economic history and modern financial systems, particularly in algorithmic trading. This article investigates into the contributions of key figures like Adam Smith, David Ricardo, John Maynard Keynes, and Milton Friedman, whose theories underpin automated investing today. Explore the lasting impact of historical economic thought on today's trading algorithms and the continuous evolution of financial markets through the insights of contemporary economists. Gain a deeper understanding of economic legacies and their relevance to current and future trading technologies."
+title: Influential American Economists Shaping Modern Economic Policy
+description: American economists like Adam Smith, Keynes and Friedman shaped fiscal
+  and monetary policy for lasting economic stability and growth Discover more inside
 ---
 
 

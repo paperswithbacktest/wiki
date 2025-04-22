@@ -1,6 +1,7 @@
 ---
-title: "Food Industry ETFs and Their Pandemic Impact"
-description: "Explore the pandemic's impact on Food Industry ETFs, highlighting shifts in consumer behavior, supply chain disruptions, and the role of algorithmic trading."
+title: Food Industry ETFs Insights on Pandemic Performance and Trends
+description: Food Industry ETFs adapted to pandemic shifts in grocery demand and supply
+  chain resilience while highlighting agtech innovation Discover more inside.
 ---
 
 

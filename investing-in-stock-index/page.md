@@ -1,6 +1,7 @@
 ---
-title: "Investing in a Stock Index"
-description: "Explore integrating index fund investing with algorithmic trading for enhanced portfolio management, improved trade execution, and market exposure."
+title: Stock Index Investing Guide For Diversified Market Growth
+description: Stock index investing spreads risk and simplifies portfolio management
+  while targeting long term growth with low fees Discover more inside today
 ---
 
 

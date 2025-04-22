@@ -1,6 +1,7 @@
 ---
-title: "Kula Investments"
-description: "Kula Investments leads in algorithmic trading by leveraging complex algorithms for high-speed trading decisions maximizing returns and minimizing risk in competitive markets."
+title: Kula Investments Impact Investing Solutions for Africa
+description: Kula Investments connects investors with clean energy and sustainable
+  farming in Africa to deliver sustainable impact and returns Discover more inside
 ---
 
 

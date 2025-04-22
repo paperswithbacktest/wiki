@@ -1,6 +1,7 @@
 ---
-title: "Incorporating Real Estate into Investment Portfolios"
-description: "Explore the integration of real estate into investment portfolios with algo trading uncovering how technology reshapes strategies for enhanced returns and analysis."
+title: Integrating Real Estate Investments for Portfolio Diversification
+description: Real estate investment offers steady rental income, leverage options
+  and tax advantages to diversify your portfolio and reduce risk Discover more inside.
 ---
 
 

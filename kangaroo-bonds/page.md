@@ -1,6 +1,7 @@
 ---
-title: "Kangaroo Bonds"
-description: "Explore the growing significance of Kangaroo bonds in global financial markets and the impact of algorithmic trading on bond transactions for diverse investment opportunities."
+title: Kangaroo Bonds Guide To Benefits Risks And Issuance
+description: Kangaroo Bonds give Australian investors foreign credit in local dollars
+  with reduced exchange risk and better diversification Discover more inside
 ---
 
 

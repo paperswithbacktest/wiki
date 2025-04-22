@@ -1,6 +1,7 @@
 ---
-title: "Indicators of Over-Diversification"
-description: "Discover the risks of over-diversification in algorithmic trading and learn strategies for effective portfolio management while maximizing returns and minimizing costs."
+title: Over-Diversification in Investment Portfolios Explained
+description: Over-diversification can dilute portfolio returns and obscure top performers
+  while adding complexity and costs Discover how to simplify and optimize
 ---
 
 

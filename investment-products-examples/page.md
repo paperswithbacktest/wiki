@@ -1,6 +1,7 @@
 ---
-title: "Investment Products and Examples"
-description: "Explore investment products including stocks, bonds, mutual funds, and algorithmic trading This page offers insights into optimizing portfolio performance"
+title: Comprehensive Guide to Investment Products and Strategies
+description: Investment products overview covers stocks bonds ETFs real estate and
+  risk management strategies to guide your choices Discover more inside today
 ---
 
 

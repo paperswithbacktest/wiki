@@ -1,6 +1,7 @@
 ---
-title: "Intermediate and Medium-Term Debt"
-description: "Explore the intricacies of medium-term debt and algorithmic trading's role in optimizing financial strategies. Enhance debt portfolio management with tech-driven solutions."
+title: Understanding Intermediate and Medium-Term Debt Instruments
+description: Intermediate and medium-term debt provides flexible financing over one
+  to ten years with fixed payments for equipment or renovations Discover more inside
 ---
 
 

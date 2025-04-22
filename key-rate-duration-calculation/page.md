@@ -1,6 +1,7 @@
 ---
-title: "Key Rate Duration and Its Calculation"
-description: "Understand key rate duration and its calculation for accurate bond price sensitivity assessment with this comprehensive guide tailored for investors and traders."
+title: Key Rate Duration Explained For Precise Bond Risk Management
+description: Key Rate Duration helps investors measure bond sensitivity at specific
+  yield curve points and manage interest rate risk precisely. Discover more inside.
 ---
 
 

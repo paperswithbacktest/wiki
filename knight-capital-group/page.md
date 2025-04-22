@@ -1,6 +1,7 @@
 ---
-title: "Knight Capital Group"
-description: "Explore Knight Capital Group's rise and fall in the financial sector highlighting its role in U.S. markets and the crucial impact of technology and risk management."
+title: Knight Capital Group 2012 Trading Disaster and Lessons Learned
+description: Knight Capital Group lost 440 million from a software error Active system
+  tests and oversight now safeguard electronic trading Discover more inside
 ---
 
 

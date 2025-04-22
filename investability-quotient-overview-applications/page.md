@@ -1,6 +1,7 @@
 ---
-title: "Investability Quotient: Overview and Applications"
-description: "Understand how the investability quotient and financial metrics enhance algorithmic trading to maximize returns and manage risks in today's investment landscape."
+title: Investability Quotient Guide For Informed Investment Decisions
+description: Investability Quotient helps investors assess how transparent a company
+  is and how easily its stocks trade to reduce risk Discover more inside
 ---
 
 

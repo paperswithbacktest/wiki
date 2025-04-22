@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Natural Gas"
-description: "Explore the vital role of natural gas in energy markets and discover algorithmic trading's transformative impact on natural gas pricing and efficiency."
+title: Natural Gas Guide to Formation Uses and Environmental Impacts
+description: Natural gas is a clean-burning fossil fuel that heats homes and generates
+  power. Explore extraction and environmental impact Discover more inside
 ---
 
 

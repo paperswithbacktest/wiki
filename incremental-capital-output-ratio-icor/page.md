@@ -1,6 +1,7 @@
 ---
-title: "Incremental Capital Output Ratio (ICOR)"
-description: "Discover how the Incremental Capital Output Ratio (ICOR) influences investment efficiency and economic growth in algorithmic trading strategies."
+title: Understanding Incremental Capital Output Ratio Efficiency
+description: Incremental Capital Output Ratio shows how efficiently economies turn
+  investment into growth and helps policymakers set realistic targets Discover more
 ---
 
 

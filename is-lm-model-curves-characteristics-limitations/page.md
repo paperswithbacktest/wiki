@@ -1,6 +1,7 @@
 ---
-title: "IS-LM Model: Curves, Characteristics, and Limitations"
-description: "Explore the IS-LM model's role in macroeconomic theory and algorithmic trading Learn how it bridges the goods and money markets for economic insights"
+title: "Understanding the IS\u2011LM Model in Macroeconomic Analysis"
+description: IS-LM model analysis helps economists predict how fiscal and monetary
+  policies shape output and interest rates effectively Discover more inside.
 ---
 
 

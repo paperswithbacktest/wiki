@@ -1,6 +1,7 @@
 ---
-title: "Keras (Machine Learning)"
-description: "Keras is a user-friendly library that simplifies building and training machine learning models especially for deep learning tasks like image and text analysis."
+title: Comprehensive Keras Guide for Machine Learning Projects
+description: Keras simplifies building and training neural network models with an
+  intuitive API installation tips and best practices Discover more inside.
 ---
 
 ![Image](images/1.png)

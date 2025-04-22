@@ -1,6 +1,7 @@
 ---
-title: "Interpretation of a Security Market Line Graph"
-description: "Explore the Security Market Line in algorithmic trading to understand risk-return dynamics, using CAPM for informed investment decisions and better outcomes."
+title: Understanding the Security Market Line in Investment Analysis
+description: Security Market Line graphs risk vs expected return to help investors
+  spot undervalued assets and make smarter decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Inclusion of Qualified Dividends in Ordinary Dividends for Tax Reporting"
-description: "Optimize tax benefits of algorithmic trading by understanding qualified dividends, taxed at favorable rates, unlike ordinary dividends. Essential for maximizing returns."
+title: Qualified Dividends Versus Ordinary Dividends Tax Reporting Guide
+description: Qualified dividends get taxed at lower rates than ordinary dividends
+  when you meet holding rules and report accurately on IRS forms. Discover more inside.
 ---
 
 

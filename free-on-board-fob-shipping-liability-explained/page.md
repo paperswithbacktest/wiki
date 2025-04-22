@@ -1,6 +1,7 @@
 ---
-title: "Free on Board (FOB): Shipping Liability Explained"
-description: "Explore the critical role of Free on Board (FOB) terms in international trade Understand how FOB affects shipping liability and impacts algorithmic trading decisions"
+title: Understanding FOB Shipping Terms and Responsibilities
+description: FOB shipping defines when seller and buyer assume costs and risks from
+  port to destination ensuring clear responsibility transfers Discover more inside
 ---
 
 

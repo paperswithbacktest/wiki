@@ -1,6 +1,7 @@
 ---
-title: "Investing During Economic Uncertainty"
-description: "Discover effective investment strategies like algorithmic trading to navigate economic uncertainty and enhance financial outcomes in volatile market conditions."
+title: Smart Strategies for Investing During Economic Uncertainty
+description: Investing during economic uncertainty uses a mix of bonds cash and essential
+  stocks to protect your portfolio and seize growth Discover more inside.
 ---
 
 

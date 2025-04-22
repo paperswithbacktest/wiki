@@ -1,6 +1,7 @@
 ---
-title: "Impact of the 2008 Financial Crisis on the Oil and Gas Sector"
-description: "Explore how the 2008 financial crisis impacted the oil and gas sector, focusing on oil price drops and the rise of algorithmic trading during market volatility."
+title: Impact of the 2008 Financial Crisis on Oil and Gas Sector
+description: 2008 Financial Crisis reshaped the oil and gas sector with price collapses
+  policy reforms and efficiency drives that endure today Discover more inside
 ---
 
 

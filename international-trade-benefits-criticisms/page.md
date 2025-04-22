@@ -1,6 +1,7 @@
 ---
-title: "International Trade: Benefits and Criticisms"
-description: "Explore the multifaceted landscape of international trade, highlighting its benefits such as economic growth, market efficiency, and consumer choice diversity. Understand the role of algorithmic trading in transforming global trade with its speed and efficiency while balancing regulatory challenges. Gain insights into comparative advantage, specialization, and the dynamic interplay of free trade and protectionism in shaping global economic strategies."
+title: International Trade Benefits Challenges and Strategies
+description: International trade boosts growth and jobs while highlighting challenges
+  like tariffs environmental impacts and income inequality Discover more inside
 ---
 
 

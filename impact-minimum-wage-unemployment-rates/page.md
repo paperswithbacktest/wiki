@@ -1,6 +1,7 @@
 ---
-title: "Impact of Minimum Wage on Unemployment Rates"
-description: "Explore how minimum wage laws affect unemployment rates and their interplay with algorithmic trading in financial markets to shape economic conditions."
+title: Exploring the Impact of Minimum Wage on Unemployment Trends
+description: Minimum wage affects unemployment by altering spending power and labor
+  costs. Explore global examples and policy insights Discover more inside
 ---
 
 

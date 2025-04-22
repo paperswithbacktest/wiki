@@ -1,6 +1,7 @@
 ---
-title: "Gross Interest: Definition and Functionality"
-description: "Discover the essentials of gross interest and its role in algorithmic trading Understand how gross interest impacts financial decisions and enhances trading strategies"
+title: Gross Interest Explained Calculations Uses and Benefits
+description: Gross interest details the total interest earned before fees and taxes
+  so you can assess true returns on financial products Discover more inside.
 ---
 
 

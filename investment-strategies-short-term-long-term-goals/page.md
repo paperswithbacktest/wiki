@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies for Short-Term and Long-Term Goals"
-description: "Explore effective investment strategies for short-term and long-term goals including the benefits of algorithmic trading in optimizing and automating financial decisions"
+title: Balancing Short-Term and Long-Term Investment Strategies
+description: Short-term and long-term investment strategies help you align goals with
+  risk tolerance and timelines to maximize returns Discover more inside
 ---
 
 

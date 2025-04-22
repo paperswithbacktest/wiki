@@ -1,6 +1,7 @@
 ---
-title: "Jim Kharouf: Journalist and Industry Expert"
-description: "Discover Jim Kharouf's influential career as a journalist and industry expert in algorithmic trading, contributing significantly to financial media and market analysis."
+title: Jim Kharouf Editorial Leadership in Finance and Commodities
+description: Jim Kharouf brings years of finance and commodities journalism to demystify
+  market trends and trading with authoritative insights Discover more inside
 ---
 
 

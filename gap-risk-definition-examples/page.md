@@ -1,6 +1,7 @@
 ---
-title: "Gap Risk: Definition and Examples"
-description: "Explore gap risk in algorithmic trading where abrupt asset price changes present challenges. Learn strategies to manage these risks for better investment outcomes."
+title: Managing Gap Risk in Financial Markets and Portfolios
+description: Gap risk in financial markets can cause sudden losses when prices jump
+  between sessions This guide covers causes mitigation Discover more inside
 ---
 
 

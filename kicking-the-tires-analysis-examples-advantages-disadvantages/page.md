@@ -1,6 +1,7 @@
 ---
-title: "Kicking the Tires: Analysis, Examples, Advantages and Disadvantages"
-description: "Explore the pros and cons of algo trading through analysis and examples Learn how technology transforms trading with automated strategies and minimal human intervention"
+title: Kicking the Tires for Product Evaluation and Investment Decisions
+description: Kicking the tires helps you test products and investments through practical
+  steps research and analysis to make confident decisions Discover more inside.
 ---
 
 

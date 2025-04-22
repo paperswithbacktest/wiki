@@ -1,6 +1,7 @@
 ---
-title: "Hyperledger Iroha: Overview and Functionality"
-description: "Explore how Hyperledger Iroha revolutionizes algorithmic trading with its user-friendly blockchain, enhancing efficiency, transparency, and security in trading systems."
+title: Hyperledger Iroha Blockchain Platform for Secure Mobile Apps
+description: Hyperledger Iroha delivers a secure and easy to use blockchain platform
+  optimized for mobile applications and rapid deployment Discover more inside.
 ---
 
 

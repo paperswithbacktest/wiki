@@ -1,6 +1,7 @@
 ---
-title: "Incorporating Dividends into Investment Portfolios"
-description: "Incorporate dividends and algorithmic trading into investment portfolios for stable income and optimized trades Discover strategies to boost returns effectively"
+title: Maximizing Dividends For Sustainable Portfolio Growth
+description: Dividends provide a steady income and long term wealth growth through
+  compounding and stability in your portfolio Discover more inside today.
 ---
 
 

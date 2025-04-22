@@ -1,6 +1,7 @@
 ---
-title: "Historical Capitalization Rates in New York City Real Estate"
-description: "Explore the synergy between NYC real estate and algorithmic trading to enhance investment returns by leveraging cap rate evaluations and data-driven strategies."
+title: Understanding Capitalization Rates in New York City Real Estate
+description: Capitalization rates in New York City reveal investment returns across
+  residential and commercial markets to guide property decisions Discover more inside
 ---
 
 

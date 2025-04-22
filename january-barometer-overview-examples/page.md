@@ -1,6 +1,7 @@
 ---
-title: "January Barometer: Overview and Examples"
-description: "Discover how the January Barometer, a concept linking January stock performance to the year's market trends, integrates with algorithmic trading strategies."
+title: Understanding The January Barometer For Stock Market Trends
+description: January Barometer provides a quick gauge of annual market trends but
+  works about half the time, combine it with broader analysis Discover more inside.
 ---
 
 

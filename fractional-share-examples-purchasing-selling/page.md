@@ -1,6 +1,7 @@
 ---
-title: "Fractional Share: Examples, Purchasing, and Selling"
-description: "Explore the world of fractional shares in algo trading and discover how they transform investment accessibility by enabling strategic buying and selling."
+title: Fractional Shares Investing Guide for Diversified Portfolios
+description: Fractional shares let you invest in expensive stocks with minimal funds
+  while diversifying your portfolio and earning dividends fast Discover more inside.
 ---
 
 

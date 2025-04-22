@@ -1,6 +1,7 @@
 ---
-title: "Incentive Fee Overview and Calculation Methods"
-description: "Explore the intricacies of incentive fees in algo trading covering calculation methods examples and implications to make informed investment decisions."
+title: Understanding Incentive Fees in Investment Management
+description: Incentive fees align fund managers and investors by rewarding new gains
+  while ensuring clear structures and fair returns. Discover more inside.
 ---
 
 

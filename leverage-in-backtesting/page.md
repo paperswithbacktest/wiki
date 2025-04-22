@@ -1,6 +1,7 @@
 ---
-title: "Leverage in backtesting"
-description: Discover the intricacies of leveraging in backtesting for algorithmic trading to optimize strategy performance and manage risk effectively. Understand how borrowing capital can amplify returns and losses, and learn best practices for simulating leverage within backtesting using historical data. Explore the pivotal role of backtesting in validating trading strategies, uncovering weaknesses, and preparing for real-world market dynamics to enhance decision-making and achieve successful outcomes in live trading environments.
+title: Incorporating Leverage into Trading Strategy Backtesting
+description: Leverage in trading backtesting reveals how borrowed capital affects
+  returns and risks in real markets with risk analysis Discover more inside.
 ---
 
 

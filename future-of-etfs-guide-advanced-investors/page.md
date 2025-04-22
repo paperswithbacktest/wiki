@@ -1,6 +1,7 @@
 ---
-title: "Future of ETFs: Guide for Advanced Investors"
-description: "Explore advanced investment strategies focusing on ETFs and algorithmic trading Discover how to use these tools to enhance returns and manage risk effectively"
+title: Comprehensive ETF Guide For Modern Investment Strategies
+description: ETFs offer diversified low cost exposure with intraday flexibility and
+  strategies for diversification and risk management Discover more inside.
 ---
 
 

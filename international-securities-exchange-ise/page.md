@@ -1,6 +1,7 @@
 ---
-title: "International Securities Exchange (ISE)"
-description: "Explore the transformational impact of algorithmic trading in options markets on the International Securities Exchange enhancing accessibility efficiency and strategy effectiveness."
+title: International Securities Exchange Options Trading Guide
+description: International Securities Exchange provides a fully electronic options
+  trading platform with robust market oversight and liquidity Discover more inside
 ---
 
 

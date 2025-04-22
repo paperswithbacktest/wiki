@@ -1,6 +1,8 @@
 ---
-title: "History and Terminology of Accounting"
-description: "Explore the evolution and terminology of accounting, from ancient record-keeping to its crucial role in modern algorithmic trading, enhancing financial transparency and strategy."
+title: Evolution of Accounting From Ancient Records to Modern Finance
+description: Accounting has evolved from ancient clay tablets to modern double entry
+  bookkeeping and AI driven practices ensuring accurate financial insights for informed
+  decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Fundamentally Weighted Index Overview"
-description: "Explore how fundamentally weighted indexes differ from traditional market cap-weighted ones and their role in algorithmic trading to optimize investment strategies."
+title: Understanding Fundamentally Weighted Indexes for Better Investing
+description: Fundamentally weighted index offers a clear market view by weighting
+  stocks using fundamental metrics to reduce volatility Discover more inside
 ---
 
 

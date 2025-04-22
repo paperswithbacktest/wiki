@@ -1,6 +1,7 @@
 ---
-title: "Interest Rates, Inflation, and Bonds"
-description: "Explore the interplay between bonds, inflation, and interest rates in algorithmic trading. Learn how these factors shape financial markets and investment strategies."
+title: Understanding Interest Rates, Inflation And Bond Markets
+description: Interest rates and inflation shape bond prices and yields providing actionable
+  central bank insights to optimize portfolios Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Kagi Chart: Functionality and Example"
-description: "Explore the innovative Kagi chart for algo trading Learn how this Japanese charting method filters market noise highlights trends and aids decision-making"
+title: Understanding Kagi Charts for Clear Market Trend Analysis
+description: Kagi Chart analysis focuses on price changes instead of time to reveal
+  key trend shifts and reversals for more informed trades Discover more inside.
 ---
 
 

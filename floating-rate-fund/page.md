@@ -1,6 +1,7 @@
 ---
-title: "Floating Rate Fund"
-description: "Explore the benefits of floating rate funds with algorithmic trading to optimize returns in rising interest rate environments Learn how they adapt and compare to fixed-rate instruments"
+title: Comprehensive Investment Guide to Floating Rate Funds
+description: Floating rate funds adapt income to benchmark rate changes to protect
+  investors from rising rates and address credit liquidity risks Discover more inside
 ---
 
 

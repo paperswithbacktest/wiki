@@ -1,6 +1,7 @@
 ---
-title: "How do you put an algorithmic trading strategy into production?"
-description: "Discover the technical steps to put an algorithmic trading strategy into production, including integration with APIs, infrastructure setup, monitoring, risk management, continuous updates, and version control. Ensure your algorithm operates efficiently and safely on financial markets. Read more for resources on strategies, libraries, datasets, and becoming a quant trader."
+title: Algorithmic Trading Strategy Components and Deployment Essentials
+description: Algorithmic trading provides a complete roadmap covering data selection
+  strategy design backtesting risk management and deployment Discover more inside.
 ---
 
 

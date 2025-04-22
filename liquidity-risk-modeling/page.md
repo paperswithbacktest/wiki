@@ -1,6 +1,7 @@
 ---
-title: "liquidity risk modeling"
-description: "Liquidity risk modeling in algorithmic trading enhances trade execution by quantifying and managing liquidity impacts using advanced techniques and machine learning."
+title: Liquidity Risk Modeling and Management in Financial Markets
+description: Liquidity risk modeling helps banks measure and limit exposures using
+  liquidity ratios stress tests and machine learning Discover more inside
 ---
 
 

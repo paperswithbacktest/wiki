@@ -1,6 +1,7 @@
 ---
-title: "Investment Time Horizon and Its Role in Investing"
-description: "Discover the vital role of investment time horizons in crafting strategies with algorithmic trading for efficient risk management and optimal financial growth."
+title: Understanding Investment Time Horizon For Effective Investing
+description: Investment time horizon guides your risk tolerance and asset mix to match
+  your goals while optimizing portfolio as plans evolve. Discover more inside
 ---
 
 

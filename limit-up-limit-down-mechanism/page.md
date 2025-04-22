@@ -1,6 +1,7 @@
 ---
-title: "Limit Up/Limit Down Mechanism"
-description: "Understand the intricacies of the limit up and limit down mechanisms in algorithmic trading designed to maintain stability during price swings by enforcing boundaries on trading assets within a session crucial for traders navigating high-frequency environments where rapid decisions can impact strategies and outcomes significantly"
+title: Understanding the Limit Up/Limit Down Trading Mechanism
+description: Limit Up/Limit Down mechanism pauses trading when stocks hit price bands
+  to stabilize markets giving investors time to reassess Discover more inside
 ---
 
 

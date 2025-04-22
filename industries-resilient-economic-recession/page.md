@@ -1,6 +1,7 @@
 ---
-title: "Industries Resilient to Economic Recession"
-description: "Explore recession-resilient industries and the role of algorithmic trading in economic stability Learn how these sectors safeguard investments during downturns"
+title: Recession Resistant Industries for Economic Downturn Stability
+description: Recession resistant industries deliver stability when spending falls
+  by focusing on essential services efficiency and cash flow Discover more inside
 ---
 
 

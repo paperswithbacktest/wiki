@@ -1,6 +1,7 @@
 ---
-title: "Impact of Blockchain on the Automotive Industry"
-description: "Explore how blockchain is revolutionizing the automotive industry by enhancing transparency, security, and efficiency in manufacturing, smart car networks, and algorithmic trading."
+title: Blockchain Applications Transforming The Automotive Industry
+description: Blockchain secures automotive supply chains vehicle records and smart
+  contracts for safer transactions and streamlined maintenance Discover more inside.
 ---
 
 

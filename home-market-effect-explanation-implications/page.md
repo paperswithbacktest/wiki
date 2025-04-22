@@ -1,6 +1,7 @@
 ---
-title: "Home Market Effect: Explanation and Implications"
-description: "Explore the intersection of trade theory, economic geography, home market effect, and algorithmic trading to understand their roles in global trade and strategy."
+title: Understanding The Home Market Effect In Global Trade
+description: Home Market Effect helps companies cut costs by leveraging local demand
+  to boost exports and create jobs. Explore trade impacts and discover more inside
 ---
 
 

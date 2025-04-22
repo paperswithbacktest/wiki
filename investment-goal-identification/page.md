@@ -1,6 +1,7 @@
 ---
-title: "Investment Goal Identification"
-description: "Explore how setting investment goals, strategic financial planning, and algorithmic trading can enhance wealth management and help achieve financial success."
+title: Setting Clear Investment Goals for Long Term Financial Growth
+description: Investment goals help you prioritize your financial objectives with clear
+  steps for short and long term planning and risk management. Discover more inside
 ---
 
 

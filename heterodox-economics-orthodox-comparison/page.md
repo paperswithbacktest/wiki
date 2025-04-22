@@ -1,6 +1,7 @@
 ---
-title: "Heterodox Economics and Orthodox Comparison"
-description: "Explore the contrasting realms of heterodox and orthodox economics, examining diverse theories and their implications on algorithmic trading strategies."
+title: Key Differences Between Heterodox and Orthodox Economics
+description: Heterodox and orthodox economics offer contrasting insights on policy
+  methods market dynamics social equity and environmental impact Discover more inside.
 ---
 
 

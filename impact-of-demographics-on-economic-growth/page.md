@@ -1,6 +1,7 @@
 ---
-title: "Impact of Demographics on Economic Growth"
-description: "Discover how demographics shape economic growth and influence financial markets. Explore key economic indicators and their role in algorithmic trading strategies."
+title: Understanding Demographic Drivers of Economic Growth
+description: Demographics drive economic growth by showing how population size age
+  distribution labor force and education shape markets and policy Discover more inside
 ---
 
 

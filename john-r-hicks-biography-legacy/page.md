@@ -1,6 +1,7 @@
 ---
-title: "John R. Hicks: Biography and Legacy"
-description: "Explore the legacy of economist John R Hicks whose groundbreaking theories in welfare economics and general equilibrium continue to shape modern economic thought."
+title: John R Hicks Economic Theories Impacting Modern Macroeconomics
+description: John R Hicks shaped economic thought with his IS LM model and welfare
+  metrics guiding policy decisions Explore his pioneering impact Discover more inside
 ---
 
 

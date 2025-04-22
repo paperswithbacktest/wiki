@@ -1,6 +1,7 @@
 ---
-title: "Investment in Mid-Cap Companies"
-description: "Discover the unique investment opportunities in mid-cap companies, which offer a balance between stability and growth with market capitalizations ranging from $2 billion to $10 billion. Combine the potential benefits of investing in these promising enterprises with advanced strategies in algorithmic trading to enhance portfolio performance. Unlock the advantages of agility, adaptability, and significant appreciation potential that mid-caps provide, supported by tools that increase trade efficiency in a fast-paced market. Ideal for investors seeking a blend of risk and reward, mid-cap companies present a strategic choice in achieving diversified investment goals."
+title: Investing In Mid-Cap Companies For Balanced Portfolio Growth
+description: Mid-cap companies balance growth and stability with smart valuation and
+  risk management Learn to identify top mid-cap stocks Discover more inside.
 ---
 
 

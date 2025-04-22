@@ -1,6 +1,7 @@
 ---
-title: "Illusion of Control Bias in Investment Returns"
-description: "Explore the illusion of control bias in investments and its impact on decision-making Discover strategies to mitigate this bias for better trading outcomes"
+title: Illusion of Control Bias in Investment Decisions and Performance
+description: Illusion of control bias can mislead investors to take unnecessary risks
+  and rack up fees by overestimating market influence Discover more inside.
 ---
 
 

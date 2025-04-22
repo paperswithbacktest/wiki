@@ -1,6 +1,7 @@
 ---
-title: "Impact of Price Elasticity on Supply"
-description: "Explore how price elasticity impacts algorithmic trading strategies by improving market predictions and optimizing trading decisions using economic theories."
+title: Understanding Price Elasticity of Supply and Demand
+description: Price elasticity of supply shows how producers adjust output to price
+  shifts and the impact on revenue and pricing strategies Discover more inside
 ---
 
 

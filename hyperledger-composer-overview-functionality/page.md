@@ -1,6 +1,7 @@
 ---
-title: "Hyperledger Composer: Overview and Functionality"
-description: "Explore the transformative power of Hyperledger Composer in blockchain development with its user-friendly tools and integration with Hyperledger Fabric for advanced algo trading."
+title: Simplifying Blockchain Development With Hyperledger Composer
+description: Hyperledger Composer accelerates blockchain app development with visual
+  network definitions script logic and secure access control. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Petrodollars on the US Dollar"
-description: "Explore the intricate relationship between the US dollar, petrodollars, and algorithmic trading and their profound impact on global markets. Unravel how historical agreements and strategic policies have cemented the dollar's status as the primary reserve currency, influencing modern economic landscapes. Understand the role of algorithmic trading in optimizing speed and efficiency in financial markets. This comprehensive analysis provides insight into the ongoing economic influence of these elements, pivotal for navigating future financial developments amidst digital transformations and geopolitical shifts."
+title: Understanding the Petrodollar System and Dollar Dominance
+description: Petrodollar System drives USD strength by linking oil sales to dollar
+  reserves and US bond investments across global markets Discover more inside.
 ---
 
 

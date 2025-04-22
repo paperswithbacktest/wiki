@@ -1,6 +1,8 @@
 ---
-title: "Interdealer Quotation System"
-description: "Explore the Interdealer Quotation System IQS for enhanced market transparency and efficiency, optimizing algorithmic trading and informed investment strategies."
+title: Interdealer Quotation System for Enhanced Trading Efficiency
+description: Interdealer Quotation System connects dealers with real-time pricing
+  secure transactions and deeper liquidity cutting costs and delays Discover more
+  inside
 ---
 
 

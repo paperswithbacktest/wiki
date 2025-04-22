@@ -1,6 +1,7 @@
 ---
-title: "Liquidnet"
-description: Discover how Liquidnet revolutionizes algorithmic trading with advanced strategies designed to enhance efficiency and performance in financial markets. Explore its innovative algo toolbox, including Smart Blocks and Barracuda, which optimize trading outcomes through intelligent order execution and liquidity-seeking techniques. Learn how Liquidnet empowers buy-side firms by integrating cutting-edge algorithms to navigate complex market environments and minimize market impact in a regulatory-driven landscape.
+title: Liquidnet Institutional Trading Platform for Large Block Trades
+description: Liquidnet offers institutional investors a private platform to trade
+  large blocks of stocks and bonds with anonymity and efficiency Discover more inside
 ---
 
 

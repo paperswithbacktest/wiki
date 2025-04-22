@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies for REITs"
-description: "Explore investment strategies combining Real Estate Investment Trusts and algorithmic trading to optimize portfolio performance and enhance real estate investment returns."
+title: Complete REIT Investing Guide for Diversified Income and Growth
+description: REITs offer access to income producing real estate through diverse property
+  types and tax savvy strategies for smarter investing Discover more inside
 ---
 
 

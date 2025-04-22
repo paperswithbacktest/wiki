@@ -1,6 +1,7 @@
 ---
-title: "Liquidating Dividend and Tax Implications"
-description: "Explore the impact of liquidating dividends on tax and investment strategies Learn how algorithmic trading aids in optimizing these financial decisions"
+title: Understanding Liquidating Dividend Taxation And Implications
+description: Liquidating dividend returns shareholders initial capital rather than
+  profit and reduces cost basis for future tax planning Discover more inside.
 ---
 
 

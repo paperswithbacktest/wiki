@@ -1,6 +1,7 @@
 ---
-title: "L1 Regularization (Machine Learning)"
-description: "L1 regularization, or Lasso, prevents overfitting by penalizing the absolute value of coefficients, leading to simpler models and aiding in feature selection."
+title: Understanding L1 Regularization for Feature Selection
+description: L1 regularization improves model generalization by adding an absolute
+  coefficient penalty that drives sparsity and feature selection Discover more inside.
 ---
 
 ![Image](images/1.png)

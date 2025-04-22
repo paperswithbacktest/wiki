@@ -1,6 +1,7 @@
 ---
-title: "Guarantees on Mortgage-Backed Securities"
-description: "Explore the intricacies of mortgage-backed securities including financial guarantees investment risks and the impact of algorithmic trading on these key financial instruments"
+title: Understanding Mortgage-Backed Securities Guarantees
+description: Mortgage-backed securities guarantees reduce investor risk by securing
+  home loan portfolios with government and private backing. Discover more inside.
 ---
 
 

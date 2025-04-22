@@ -1,6 +1,7 @@
 ---
-title: "Growth Accounting Methods and Calculations"
-description: "Explore growth accounting methods and calculations in algorithmic trading, highlighting how GDP metrics inform trading strategies and enhance investment decisions."
+title: Growth Accounting Explained Labor Capital And Productivity
+description: Growth accounting breaks down GDP growth into labor capital and productivity
+  contributions so leaders can plan more effectively. Discover more inside.
 ---
 
 

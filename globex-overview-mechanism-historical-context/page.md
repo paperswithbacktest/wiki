@@ -1,6 +1,7 @@
 ---
-title: "Globex: Overview, Mechanism, and Historical Context"
-description: "Explore the impact of Globex on algorithmic trading and modern financial markets with insights into its mechanism and historical milestones."
+title: Globex Trading Platform Explained for Global Futures Markets
+description: Globex trading platform offers 24/7 access to futures and options with
+  real time order matching and advanced charting tools Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Freedom Shares Overview"
-description: "Explore the dynamic world of freedom shares and algorithmic trading advancements redefining financial markets through innovation, strategy, and technology."
+title: Investing in Freedom Shares for Retirement Growth in South Africa
+description: Freedom Shares give South African employees an automated retirement plan
+  balancing growth and risk with diversified shares Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Futures Industry Association Overview"
-description: "Discover how the Futures Industry Association shapes algorithmic trading in futures markets enhancing market efficiency and supporting innovation through global collaboration."
+title: Futures Industry Association Global Market Standards and Insights
+description: Futures Industry Association equips members with training resources,
+  regulatory insights and safety measures for futures markets Discover more inside.
 ---
 
 

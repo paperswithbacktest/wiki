@@ -1,6 +1,7 @@
 ---
-title: "Funding Currency: Overview and Functionality"
-description: "Explore the complexities of financial trading with insights into funding currencies, financial instruments, and the role of algorithmic trading in modern markets."
+title: Understanding Funding Currency and Its Role in Forex Trading
+description: Funding currency enables carry trades by borrowing low cost money to
+  invest in higher yield currencies while managing risks actively Discover more inside
 ---
 
 

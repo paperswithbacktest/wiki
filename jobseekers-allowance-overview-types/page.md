@@ -1,6 +1,8 @@
 ---
-title: "Jobseeker's Allowance: Overview and Types"
-description: "Explore the Jobseeker's Allowance JSA types in the UK providing essential support to those seeking work including insights into algorithmic trading opportunities."
+title: "Comprehensive Guide to Jobseeker\u2019s Allowance Eligibility and Claims"
+description: "Jobseeker\u2019s Allowance explains eligibility criteria income and\
+  \ contribution rules and application steps to secure your benefits while seeking\
+  \ work Discover more inside"
 ---
 
 

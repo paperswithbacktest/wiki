@@ -1,6 +1,7 @@
 ---
-title: "Jensen's alpha"
-description: "Discover the power of Jensen's Alpha in algorithmic trading Learn how to assess portfolio performance and exceed market expectations with this essential metric"
+title: Risk Adjusted Portfolio Performance With Jensen's Alpha
+description: Jensen's Alpha measures portfolio returns versus expected CAPM results
+  to reveal manager skill and risk adjusted performance Discover more inside
 ---
 
 

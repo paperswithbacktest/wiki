@@ -1,6 +1,7 @@
 ---
-title: "International Energy Agency: Purpose, Functionality, Members"
-description: "Discover the pivotal role of the International Energy Agency in global energy markets and the impact of algorithmic trading on energy strategies and sustainability."
+title: "International Energy Agency\u2019s Role in Global Energy Security"
+description: International Energy Agency helps countries secure energy supply and
+  accelerate clean power adoption through data insights Discover more inside
 ---
 
 

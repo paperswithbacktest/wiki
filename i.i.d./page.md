@@ -1,6 +1,7 @@
 ---
-title: "I.I.D. (Machine Learning)"
-description: "Understand I.I.D. in machine learning as it impacts model training and evaluation by assuming data points are independent and identically distributed."
+title: Understanding the I.I.D. Assumption in Machine Learning
+description: I.I.D. assumption in machine learning treats data as independent samples
+  from one distribution to improve model reliability Discover more inside
 ---
 
 ![Image](images/1.png)

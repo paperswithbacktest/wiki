@@ -1,6 +1,7 @@
 ---
-title: "History of the First Cryptocurrency"
-description: "Explore the history of Bitcoin the first cryptocurrency and its impact on algorithmic trading Discover Bitcoin's origin decentralization and market growth"
+title: Understanding the First Cryptocurrency Bitcoin and Its Impact
+description: Bitcoin as the first cryptocurrency enabled peer-to-peer payments on
+  a secure blockchain with decentralized mining and public ledger Discover more inside.
 ---
 
 

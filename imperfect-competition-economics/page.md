@@ -1,6 +1,7 @@
 ---
-title: "Imperfect Competition in Economics"
-description: "Explore the dynamics of imperfect competition in economics and its interplay with algorithmic trading impacting market structures and shaping modern financial landscapes."
+title: Understanding Imperfect Competition in Market Structures
+description: Imperfect Competition reveals how firms set prices and drive innovation
+  through product differentiation in diverse markets Discover more inside.
 ---
 
 

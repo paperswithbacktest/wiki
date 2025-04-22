@@ -1,6 +1,7 @@
 ---
-title: "Global Economic Stimulus and Relief Measures in Response to COVID-19"
-description: "Explore global economic stimulus measures and the role of algorithmic trading during COVID-19 as countries navigate unprecedented financial challenges and recovery strategies."
+title: Global Economic Stimulus and Relief Measures Explained
+description: Economic stimulus and relief measures stabilized economies during COVID-19
+  with cash transfers tax cuts and central bank support Discover more inside
 ---
 
 

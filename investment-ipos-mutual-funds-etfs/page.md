@@ -1,6 +1,7 @@
 ---
-title: "Investment in IPOs by Mutual Funds and ETFs"
-description: "Discover strategies for investing in IPOs with mutual funds and ETFs. Learn the impact of algorithmic trading on investment choices and portfolio growth."
+title: Understanding IPO Investments Through Mutual Funds And ETFs
+description: IPO investments via mutual funds and ETFs deliver diversified access
+  to new offerings with professional management and balanced risk discover more inside
 ---
 
 

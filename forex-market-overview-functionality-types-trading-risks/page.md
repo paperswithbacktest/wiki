@@ -1,6 +1,7 @@
 ---
-title: "Forex Market Overview: Functionality, Types, and Trading Risks"
-description: "Explore the functionality, types, and risks of forex trading, including the impact of algorithmic trading and strategies to manage inherent market risks."
+title: Understanding the Forex Market Function and Key Strategies
+description: Forex Market overview explains currency trading fundamentals covering
+  market types participants strategies and risk management. Discover more inside.
 ---
 
 

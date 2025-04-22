@@ -1,6 +1,7 @@
 ---
-title: "Holding Period Return and Yield"
-description: "Explore the vital aspects of investment yield and holding period return within the context of financial analysis and algorithmic trading essentials for informed investing."
+title: Understanding Holding Period Return And Investment Yield
+description: Holding Period Return measures total investment performance by combining
+  income and price changes over any timeframe Discover more inside today.
 ---
 
 

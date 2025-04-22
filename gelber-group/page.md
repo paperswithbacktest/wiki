@@ -1,6 +1,7 @@
 ---
-title: "Gelber Group"
-description: "Explore how the Gelber Group leverages cutting-edge algorithms to excel in the competitive world of algorithmic trading gaining a strategic market edge."
+title: Gelber Group Corporate Profile And Investment Services Overview
+description: Gelber Group blends advanced trading strategies and technology to optimize
+  client investments and drive positive community impact Discover more inside
 ---
 
 

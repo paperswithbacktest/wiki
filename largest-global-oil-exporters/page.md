@@ -1,6 +1,7 @@
 ---
-title: "Largest Global Oil Exporters"
-description: "Discover key insights into the global oil export landscape and the impact of algorithmic trading on markets. Explore the roles of top oil exporters."
+title: Global Oil Exporters Rankings, Impacts and Future Trends
+description: Oil exporters fuel economies while facing market swings and environmental
+  risks Explore global rankings, impacts and future trends Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Legal Action Against a Broker"
-description: "Explore the complexities and legal challenges of algorithmic trading in modern financial markets Learn how broker litigation resolves disputes and protects client interests"
+title: Comprehensive Guide to Taking Legal Action Against a Broker
+description: Legal action against a broker starts with gathering evidence and filing
+  a precise complaint We outline key steps to build your case Discover more inside.
 ---
 
 

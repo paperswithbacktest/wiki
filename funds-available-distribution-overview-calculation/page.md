@@ -1,6 +1,7 @@
 ---
-title: "Funds Available for Distribution: Overview and Calculation"
-description: "Discover essential strategies for optimizing funds distribution and investment income through algorithmic trading Learn how precise calculations drive informed financial decisions for growth and stability"
+title: Understanding Funds Available for Distribution in REITs
+description: Funds Available for Distribution offers investors a clear view of REIT
+  cash flow by accounting for maintenance and capex expenses Discover more inside.
 ---
 
 

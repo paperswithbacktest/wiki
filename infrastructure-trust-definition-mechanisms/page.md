@@ -1,6 +1,7 @@
 ---
-title: "Infrastructure Trust: Definition and Mechanisms"
-description: "Discover how algorithmic trading and infrastructure trusts are transforming investments with new opportunities and challenges in global financial markets."
+title: Infrastructure Trust Investments And Algorithmic Trading Synergies
+description: Infrastructure trust delivers steady income from tolls energy sales and
+  diversified assets while managers mitigate risks Discover more inside.
 ---
 
 

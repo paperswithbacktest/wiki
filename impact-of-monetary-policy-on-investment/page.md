@@ -1,6 +1,7 @@
 ---
-title: "Impact of Monetary Policy on Investment"
-description: "Explore the dynamic influence of monetary policy on investment strategies and algorithmic trading within financial markets and its impact on economic growth."
+title: Understanding Monetary Policy and Its Economic Impact
+description: Monetary policy steers interest rates and bond operations to stabilize
+  prices, support growth and shape investment strategies Discover more inside
 ---
 
 

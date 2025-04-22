@@ -1,6 +1,7 @@
 ---
-title: "Historical Returns Overview and Calculation"
-description: "Understand historical returns in algo trading evaluate risks and forecast trends by analyzing investment performance data ensuring informed financial decisions"
+title: Understanding Historical Returns for Informed Investing
+description: Historical Returns help investors gauge past performance risk and growth
+  potential with nominal real and annualized metrics Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Indicative Match Price: Functionality and Implications"
-description: "Explore how the Indicative Match Price and algorithmic trading enhance market transparency and efficiency through optimal price discovery in securities auctions."
+title: Understanding The Indicative Match Price In Stock Market Auctions
+description: Indicative Match Price gives traders a clear preview of stock auction
+  prices and guides smarter order decisions in real time Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Intertemporal portfolio choice"
-description: "Explore intertemporal portfolio choice in algorithmic trading which optimizes asset allocation over time for maximizing returns and managing risks in dynamic markets."
+title: Mastering Intertemporal Portfolio Choice Strategies And Models
+description: Intertemporal portfolio choice helps investors balance risk, spending
+  and time horizon with dynamic strategies for future goals Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Floating-Rate Notes: Key Information"
-description: "Explore the synergy of floating-rate notes and algorithmic trading to understand their role in optimizing investment returns and managing interest rate risks."
+title: Floating-Rate Notes FRNs Explained Mechanisms And Advantages
+description: Floating-Rate Notes deliver interest tied to benchmarks like LIBOR or
+  SOFR protecting investors in rising rate markets with adaptable returns Discover
+  more
 ---
 
 

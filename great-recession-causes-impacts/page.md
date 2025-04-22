@@ -1,6 +1,7 @@
 ---
-title: "Great Recession: Causes and Impacts"
-description: "Explore the causes and impacts of the Great Recession, focusing on algorithmic trading's role in financial instability and market resilience."
+title: Great Recession Origins Impacts and Policy Lessons for Recovery
+description: Great Recession insights reveal how housing market collapse sparked global
+  economic turmoil and led to stronger financial regulations Discover more inside.
 ---
 
 

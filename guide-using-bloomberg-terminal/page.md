@@ -1,6 +1,7 @@
 ---
-title: "Guide to Using the Bloomberg Terminal"
-description: "Explore the Bloomberg Terminal's vital role in algorithmic trading with real-time data and analytics that empower investment professionals to refine strategies."
+title: Comprehensive Guide to Using the Bloomberg Terminal
+description: Bloomberg Terminal delivers real-time market data news and analytics
+  tools to help finance pros monitor markets and execute trades Discover more inside
 ---
 
 

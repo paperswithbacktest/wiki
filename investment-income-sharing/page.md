@@ -1,6 +1,7 @@
 ---
-title: "Investment Income Sharing"
-description: "Explore the convergence of financial agreements, investment income sharing, and algo trading to optimize returns and manage risks in modern finance."
+title: Comprehensive Guide to Investment Income Sharing Plans
+description: Investment income sharing lets groups pool resources and split profits
+  with clear rules and shared risk for fair gains Discover more inside.
 ---
 
 

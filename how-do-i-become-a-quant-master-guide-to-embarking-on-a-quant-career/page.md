@@ -1,6 +1,7 @@
 ---
-title: "How do I become a quant? Master Guide to Embarking on a Quant Career"
-description: "Discover the intricacies of the quant role in finance, from its core definitions to specialized roles such as quantitative analysts, traders, researchers, developers, and risk quants. Learn about their daily tasks, collaboration with other departments, and continuous learning in this ever-evolving landscape. Mastering the art of quantitative finance can lead to a rewarding career at the forefront of global finance's future."
+title: Comprehensive Guide to Becoming a Quantitative Analyst
+description: Quantitative analyst guide covers essential math coding and finance skills
+  practical projects and steps to launch quant career Discover more inside
 ---
 
 

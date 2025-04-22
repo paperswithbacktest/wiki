@@ -1,6 +1,7 @@
 ---
-title: "Index-Linked Bonds: Mechanisms and Examples"
-description: "Discover the mechanisms and advantages of inflation-linked bonds including Treasury Inflation-Protected Securities which safeguard investment value against inflation."
+title: Index Linked Bonds Explained How They Protect Against Inflation
+description: Index linked bonds adjust interest and principal with inflation to preserve
+  your purchasing power and secure returns over time Discover more inside.
 ---
 
 

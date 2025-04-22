@@ -1,6 +1,7 @@
 ---
-title: "Implicit Bias (Machine Learning)"
-description: "Explore implicit bias in machine learning which refers to hidden prejudices affecting model decisions and outcomes Highlight strategies to address these biases"
+title: Understanding Implicit Bias in Machine Learning Models
+description: Implicit bias in machine learning skews model results but can be detected
+  with fairness metrics data balancing and audits for fairness Discover more inside
 ---
 
 ![Image](images/1.jpeg)

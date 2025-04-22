@@ -1,6 +1,7 @@
 ---
-title: "History of Futures Contracts"
-description: "Explore the history of futures contracts and their transformation through algorithmic trading which enhances speed and efficiency in modern markets."
+title: Evolution of Futures Contracts From Ancient Times to Today
+description: Futures contracts have evolved from ancient Mesopotamia to modern exchanges
+  offering risk management and trading leverage Discover more inside.
 ---
 
 

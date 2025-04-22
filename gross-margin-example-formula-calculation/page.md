@@ -1,6 +1,7 @@
 ---
-title: "Gross Margin: Example, Formula, and Calculation"
-description: "Explore the significance of gross margin in algorithmic trading with our in-depth guide that covers its definition, formula, and calculation. Learn how understanding and integrating gross margin and other key financial metrics can enhance trading strategies, improve profitability, and optimize execution in the fast-paced world of algo trading. Discover the intersection of financial analysis and automated technology to maximize trading performance and achieve better investment outcomes."
+title: Gross Margin Explained How To Calculate And Improve Profitability
+description: Gross margin shows revenue left after product costs so businesses can
+  optimize pricing and reduce expenses to boost profits Discover more inside.
 ---
 
 

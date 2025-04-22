@@ -1,6 +1,7 @@
 ---
-title: "Headline Effect: Mechanism and Examples"
-description: "Explore the impact of the headline effect in algorithmic trading where media-driven emotional responses can sway investor decisions and market trends significantly."
+title: Understanding the Headline Effect in News and Media
+description: Headline Effect shows how readers share news based on headlines alone
+  and how reading full articles prevents misinformation Discover more inside
 ---
 
 

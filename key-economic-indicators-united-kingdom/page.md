@@ -1,6 +1,7 @@
 ---
-title: "Key Economic Indicators of the United Kingdom"
-description: "Explore how key UK economic indicators like GDP and inflation impact algorithmic trading and influence strategic decisions for investors and policymakers alike."
+title: Key Economic Indicators For Understanding The UK Economy
+description: UK economic indicators explain how GDP unemployment inflation and trade
+  balance affect economic performance and business decisions Discover more inside
 ---
 
 

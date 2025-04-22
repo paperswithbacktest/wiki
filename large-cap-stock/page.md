@@ -1,6 +1,7 @@
 ---
-title: "Large Cap Stock"
-description: "Explore the allure of large-cap stocks for investors seeking stability and steady returns enhanced by algorithmic trading's precision and efficiency."
+title: Complete Investor Guide to Large Cap Stocks and Strategies
+description: Large cap stocks deliver steady growth and dividend income for a balanced
+  portfolio while managing market risk across economic cycles Discover more inside.
 ---
 
 

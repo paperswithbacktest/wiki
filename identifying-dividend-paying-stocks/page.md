@@ -1,6 +1,7 @@
 ---
-title: "Identifying Dividend-Paying Stocks"
-description: "Optimize returns by combining dividend investing with algorithmic trading Discover key strategies and metrics to enhance your financial market strategy"
+title: Dividend-Paying Stocks Guide for Steady Investment Income
+description: Dividend-paying stocks provide reliable income and growth by investing
+  in companies with healthy yields and sustainable payouts Discover more inside
 ---
 
 

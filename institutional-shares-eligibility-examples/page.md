@@ -1,6 +1,7 @@
 ---
-title: "Institutional Shares: Eligibility and Examples"
-description: "Explore the dynamics of institutional investing and algorithmic trading including eligibility criteria for institutional shares and benefits for large-scale investors."
+title: Understanding Institutional Shares and Their Investment Benefits
+description: Institutional shares lower fees and unlock expert fund management for
+  big investors while pooled programs help small investors participate Discover more.
 ---
 
 

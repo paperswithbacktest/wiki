@@ -1,6 +1,7 @@
 ---
-title: "Jian Pan"
-description: "Discover the impactful career of Jian Pan a leading expert in algorithmic trading and quantitative systems shaping modern financial strategies at Acadian Asset Management."
+title: Jian Pan Chinese Keyboard Guide for Typing Chinese Characters
+description: Jian Pan Chinese keyboard simplifies typing characters with Pinyin Wubi
+  and Cangjie inputs plus maintenance tips and cultural context Discover more inside
 ---
 
 

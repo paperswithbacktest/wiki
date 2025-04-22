@@ -1,6 +1,7 @@
 ---
-title: "Largest Canadian Software Companies"
-description: "Explore Canada's largest software companies in algorithmic trading, highlighting industry leaders driving innovation and efficiency in financial markets."
+title: Largest Canadian Software Companies Driving Economic Growth
+description: Largest Canadian software companies showcase Shopify OpenText Constellation
+  Software revenue market growth economic impact Discover more inside
 ---
 
 

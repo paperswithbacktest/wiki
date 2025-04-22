@@ -1,6 +1,8 @@
 ---
-title: "History and Functionality of Kin Cryptocurrency and Its Future"
-description: "Explore Kin cryptocurrency's role in digital economies with insights into its functionality, history, and the influence of algorithmic trading on its future prospects."
+title: Understanding Kin Cryptocurrency Use and Ecosystem
+description: Kin cryptocurrency simplifies earning and spending digital money inside
+  apps and games while ensuring transparency and security on the blockchain Discover
+  more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hydrocarbons: Companies, Types, and Uses"
-description: "Explore the role of hydrocarbons in energy production and the impact of algorithmic trading in optimizing the financial landscape for energy companies."
+title: Exploring Hydrocarbons Types Uses And Environmental Impact
+description: Hydrocarbons classification extraction refining industry uses and environmental
+  impact explained in clear terms with expert insights Discover more inside
 ---
 
 

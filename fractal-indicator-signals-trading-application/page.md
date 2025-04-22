@@ -1,6 +1,7 @@
 ---
-title: "Fractal Indicator: Overview, Signals, and Trading Application"
-description: "Discover the power of the fractal indicator in enhancing trading strategies by identifying potential market reversals. This mathematical tool highlights pivot points in price movements, offering valuable insights for traders. Learn how fractals function, their calculation and interpretation, and the advantages they bring when integrated into algorithmic systems. Strengthen your analysis by combining the fractal indicator with other methodologies for a comprehensive view of market dynamics."
+title: Understanding the Fractal Indicator for Trading Reversals
+description: Fractal Indicator reveals key reversal points by spotting five-bar patterns
+  to inform buy and sell decisions with higher confidence. Discover more inside.
 ---
 
 

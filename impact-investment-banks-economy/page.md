@@ -1,6 +1,7 @@
 ---
-title: "Impact of Investment Banks on the Economy"
-description: "Investment banks drive economic growth by facilitating capital flow and optimizing trading through algorithmic strategies. Explore their impact on global finance."
+title: Comprehensive Guide to Investment Banks and Their Impact
+description: Investment banks help companies and governments raise capital through
+  stocks and bonds and advise on mergers and acquisitions Discover more inside.
 ---
 
 

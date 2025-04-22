@@ -1,6 +1,7 @@
 ---
-title: "Interval Fund: Overview and Functionality"
-description: "Explore the strategic advantages of closed-end interval funds and algorithmic trading Discover how these investment models optimize returns and manage risk in dynamic markets"
+title: Understanding Interval Funds for Stable Diversified Portfolios
+description: Interval funds offer access to illiquid assets with scheduled share redemptions
+  for portfolio diversification and potential returns Discover more inside
 ---
 
 

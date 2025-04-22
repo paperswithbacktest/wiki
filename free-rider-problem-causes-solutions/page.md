@@ -1,6 +1,7 @@
 ---
-title: "Free Rider Problem: Causes and Solutions"
-description: "Explore the free rider problem in economic theory and its impact on various fields, including automated trading strategies. Delve into the challenges of maintaining public goods due to their non-excludability and non-rivalrous nature, which often results in market failures. Understand how the free rider problem leads to inefficiencies in resource allocation, particularly in financial markets, and discover strategies to promote collective welfare and market efficiency."
+title: Understanding the Free Rider Problem and Its Solutions
+description: Free rider problem threatens public goods and group efforts. Explore
+  causes effects and solutions to ensure fair contribution Discover more inside
 ---
 
 

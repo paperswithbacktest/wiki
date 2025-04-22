@@ -1,6 +1,7 @@
 ---
-title: "Fully Convertible Debenture: Overview, Advantages, Criticisms"
-description: "Discover the advantages and criticisms of Fully Convertible Debentures (FCDs) as a unique financial tool blending debt and equity with algo trading benefits."
+title: Understanding Fully Convertible Debentures for Investors
+description: Fully Convertible Debentures let investors earn interest and convert
+  debt into equity for potential gains while managing risks. Discover more inside.
 ---
 
 

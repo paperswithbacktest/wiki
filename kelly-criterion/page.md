@@ -1,6 +1,7 @@
 ---
-title: "Kelly criterion"
-description: The Kelly Criterion is a crucial concept in probability theory for decision-making in betting and investments, offering a mathematically grounded approach to maximize long-term wealth growth. Introduced by John Larry Kelly Jr. in 1956, it provides a formula to determine optimal bet sizes, taking into account probabilities, odds, and potential outcomes. Widely applicable in algorithmic trading, the Kelly Criterion helps traders manage risk and optimize returns by dynamically adjusting investment proportions. Its strategic use in portfolio management ensures a balance between diversification and risk, enhancing performance and resilience in fluctuating markets.
+title: Understanding the Kelly Criterion for Optimal Investment
+description: Kelly Criterion uses mathematical formulas to determine optimal bet sizes
+  balance risk and reward grow capital and limit losses Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "IncubEx Exchange Platform"
-description: "Discover the crucial role of IncubEx in advancing environmental markets through carbon trading and algorithmic trading for efficient, sustainable solutions."
+title: IncubEx Exchange Platform For Global Carbon Credit Trading
+description: IncubEx Exchange Platform streamlines global carbon credit and renewable
+  energy certificate trading with secure compliant transactions Discover more inside
 ---
 
 

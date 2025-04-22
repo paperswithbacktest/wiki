@@ -1,6 +1,7 @@
 ---
-title: "Information-Theoretic Trading Strategies"
-description: "Explore cutting-edge algorithmic trading with information-theoretic strategies focusing on mastering market data insights to optimize performance and decision-making."
+title: Applying Information Theory to Optimize Trading Strategies
+description: Information theory empowers traders to measure entropy and mutual information
+  for smarter market moves and spot high-entropy events Discover more inside
 ---
 
 

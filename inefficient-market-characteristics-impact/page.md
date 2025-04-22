@@ -1,6 +1,7 @@
 ---
-title: "Inefficient Market: Characteristics and Impact"
-description: "Explore the characteristics and impacts of inefficient markets in algorithmic trading Uncover opportunities and strategies to exploit market inefficiencies"
+title: Understanding Inefficient Markets And Their Impact On Investors
+description: Inefficient Markets hide pricing flaws due to information gaps. Apply
+  practical strategies to spot anomalies and gain an edge Discover more inside.
 ---
 
 

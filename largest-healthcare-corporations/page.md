@@ -1,6 +1,7 @@
 ---
-title: "Largest Healthcare Corporations"
-description: "Explore the transformative impact of algorithmic trading on top healthcare companies like UnitedHealth, CVS, and McKesson, enhancing their financial strategies."
+title: Largest Global Healthcare Corporations And Their Market Influence
+description: Largest healthcare corporations drive innovation research and global
+  market growth while influencing policy and care delivery Discover more inside.
 ---
 
 

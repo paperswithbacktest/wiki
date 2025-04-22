@@ -1,6 +1,7 @@
 ---
-title: "Forex Moving Average and MACD Combination"
-description: "Explore the combination of moving averages and the MACD indicator in forex algorithmic trading to identify momentum shifts and optimize trading strategies."
+title: Mastering Forex Moving Averages And MACD For Trend Signals
+description: Forex moving averages and MACD help traders spot trend direction and
+  momentum using crossovers so you can trade with confidence Discover more inside
 ---
 
 

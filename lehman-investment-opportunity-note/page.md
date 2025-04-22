@@ -1,6 +1,7 @@
 ---
-title: "Lehman Investment Opportunity Note"
-description: "Explore how Lehman Investment Opportunity Notes (LIONs) integrate with algorithmic trading strategies for enhanced returns and security in modern finance."
+title: Understanding Lehman Investment Opportunity Notes and Risks
+description: Lehman Investment Opportunity Note covers zero coupon bonds tied to assets
+  and key risk lessons from 2008 crisis to help investors Discover more inside
 ---
 
 

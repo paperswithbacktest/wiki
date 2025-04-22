@@ -1,6 +1,7 @@
 ---
-title: "Follow-On Offerings: Types and Example"
-description: "Discover the essentials of follow-on offerings (FPO) in finance including types, benefits, and the role of algorithmic trading in modern stock issuance."
+title: Understanding Dilutive and Non-Dilutive Follow-On Offerings
+description: Follow-On Offerings help companies raise funds via new share issues or
+  shareholder stock sales to meet critical capital needs. Discover more inside
 ---
 
 

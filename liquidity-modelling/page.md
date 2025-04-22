@@ -1,6 +1,7 @@
 ---
-title: "Liquidity Modelling"
-description: "Explore advanced liquidity modeling techniques in algorithmic trading and their practical applications. Discover strategies to enhance trading efficiency and reduce market risk."
+title: Liquidity Modeling and Risk Management in Financial Markets
+description: Liquidity modeling shows how to measure market depth bid ask spreads
+  and trade speed to improve risk management and efficiency Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Additional Equity Financing on Existing Shareholders"
-description: "Explore the impact of additional equity financing on existing shareholders and the interplay with algorithmic trading in modern financial markets."
+title: Understanding Equity Financing and Dilution for Shareholders
+description: Equity financing raises capital without debt and explains dilution effects
+  and advanced protection strategies for shareholders. Discover more inside
 ---
 
 

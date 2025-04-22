@@ -1,6 +1,7 @@
 ---
-title: "Lender Confirmation Auction"
-description: "Explore the dynamic confluence of confirmation auctions, lender financing, and algorithmic trading reshaping modern markets through enhanced liquidity and efficiency."
+title: Understanding Lender Confirmation Auctions in Business Sales
+description: Lender Confirmation Auction helps lenders maximize returns in company
+  sales through transparent bidding and fair process Discover more inside
 ---
 
 

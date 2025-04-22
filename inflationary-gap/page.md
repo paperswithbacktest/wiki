@@ -1,6 +1,7 @@
 ---
-title: "Inflationary Gap"
-description: "Explore the inflationary gap and its impact on economic stability Discover how algorithmic trading can help navigate market volatility during such economic conditions"
+title: Understanding the Inflationary Gap and Economic Impacts
+description: Inflationary gap describes excess demand pushing prices up and policy
+  tools to restore balance through fiscal and monetary measures. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Liability-Adjusted Cash Flow Yield"
-description: "Explore the integration of financial metrics like cash flow yield and liability adjustments in algorithmic trading to enhance strategy efficiency and risk management."
+title: Understanding Liability-Adjusted Cash Flow Yield for Investors
+description: Liability-Adjusted Cash Flow Yield shows true returns after debt and
+  expenses giving investors clearer profitability insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "The Importance of Keeping a Diary for Forex Trades"
-description: "Enhance your forex trading with a diary and algo strategies for improved decision-making Analyze past trades refine strategies and gain a competitive edge"
+title: Forex Trading Diary Guide for Tracking Performance
+description: Forex trading diary helps you record every trade detail reasons and emotions
+  to spot patterns and refine your strategy over time Discover more inside.
 ---
 
 

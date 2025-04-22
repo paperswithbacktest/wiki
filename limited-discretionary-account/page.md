@@ -1,6 +1,7 @@
 ---
-title: "Limited Discretionary Account"
-description: "Discover how limited discretionary accounts and algorithmic trading can enhance your investment strategy, offering balance and efficiency for today's investors."
+title: Understanding and Managing Limited Discretionary Accounts
+description: Limited discretionary account provides tailored control, expert guidance,
+  clear rules and risk management to meet your goals. Discover more inside
 ---
 
 

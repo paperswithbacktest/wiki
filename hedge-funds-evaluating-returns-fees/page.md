@@ -1,6 +1,7 @@
 ---
-title: "Hedge Funds: Evaluating Returns and Fees"
-description: "Explore hedge fund returns and fees with a focus on algorithmic trading Discover the impact of high fees on performance and if modern tech optimizes gains"
+title: Hedge Fund Strategies Fee Structures and Performance Metrics
+description: Hedge fund strategies fee structures and performance metrics help investors
+  assess risk adjusted returns and optimize net gains Discover more inside.
 ---
 
 

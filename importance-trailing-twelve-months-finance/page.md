@@ -1,6 +1,7 @@
 ---
-title: "Importance of Trailing Twelve Months in Finance"
-description: "Explore the significance of the Trailing Twelve Months in finance and algorithmic trading for improved financial analysis predictability and strategic decisions."
+title: Understanding Trailing Twelve Months for Financial Analysis
+description: "Trailing Twelve Months deliver a current 12\u2011month view of company\
+  \ performance to guide financial analysis and investment choices Discover more inside"
 ---
 
 

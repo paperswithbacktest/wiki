@@ -1,6 +1,7 @@
 ---
-title: "H-Shares and Regulation"
-description: "Explore the crucial role of H-Shares and algorithmic trading in Hong Kong's financial market as they connect global investors with Chinese companies amid regulatory dynamics."
+title: H-Shares Listing and Regulation Guide for International Investors
+description: H-Shares give global investors access to Chinese companies with clear
+  HKEX listing rules and regulatory guidance for informed choices. Discover more inside
 ---
 
 

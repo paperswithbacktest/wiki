@@ -1,6 +1,7 @@
 ---
-title: "Forex Algorithmic Trading Basics"
-description: "Explore the transformative power of algorithmic trading in the forex market Learn how technology enhances strategies reduces human error and democratizes access"
+title: Forex Algorithmic Trading Explained Key Components And Strategies
+description: Forex algorithmic trading uses data driven rules to automate currency
+  trades for faster decision making and risk management Discover more inside today
 ---
 
 

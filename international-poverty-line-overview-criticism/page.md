@@ -1,6 +1,7 @@
 ---
-title: "International Poverty Line: Overview and Criticism"
-description: "Explore the international poverty line's significance and criticism due to its simplicity. Delve into potential improvements and the role of financial technology."
+title: Understanding the International Poverty Line and Its Impact
+description: International Poverty Line defines extreme poverty under 2.15 dollars
+  per day adjusted for cost differences and informs targeted aid Discover more inside
 ---
 
 

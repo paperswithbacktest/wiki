@@ -1,6 +1,7 @@
 ---
-title: "Grey Swan Events and Examples"
-description: "Explore the critical role of risk management in algorithmic trading with a focus on grey swan events Learn strategies to protect against unforeseen disruptions"
+title: Key Strategies for Identifying and Responding to Grey Swan Events
+description: Grey Swan events require spotting early warning signs with data analysis
+  and scenario planning to reduce impact and build resilience Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Blockchain on Emerging Economies"
-description: "Explore how blockchain and algorithmic trading are reshaping emerging economies enhancing financial inclusion and market efficiency amidst local challenges."
+title: Blockchain Benefits for Emerging Economies and Financial Inclusion
+description: Blockchain technology enables secure digital wallets for unbanked populations
+  enhancing transparency in government spending and boosting economic growth Discover
+  more inside
 ---
 
 

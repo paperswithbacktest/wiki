@@ -1,6 +1,7 @@
 ---
-title: "Game Theory Strategies in Decision-Making"
-description: "Explore how game theory and algorithmic trading strategies enhance decision-making in finance Gain insights into market dynamics and competitive edge methods"
+title: Game Theory in Decision Making for Business and Finance
+description: Game theory reveals how rational strategies shape competitive and cooperative
+  outcomes in business negotiations and finance Discover more inside.
 ---
 
 

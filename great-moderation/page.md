@@ -1,6 +1,7 @@
 ---
-title: "Great Moderation"
-description: "Explore how the integration of economic analysis with algorithmic trading optimizes investment strategies amidst business cycles and enhances market stability."
+title: Great Moderation Explained A Period of Economic Stability
+description: Great Moderation reviews the period of sustained economic stability from
+  the mid 1980s to mid 2000s highlighting causes and impacts. Discover more inside.
 ---
 
 

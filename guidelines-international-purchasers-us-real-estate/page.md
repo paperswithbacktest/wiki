@@ -1,6 +1,7 @@
 ---
-title: "Guidelines for International Purchasers of U.S. Real Estate"
-description: "Discover how algorithmic trading is transforming international real estate investments in the U.S. market Learn strategies to navigate this evolving landscape effectively"
+title: Guide To U.S. Real Estate For International Buyers
+description: U.S. real estate for international buyers explains every step from market
+  research financing and legal rules to closing and management Discover more inside.
 ---
 
 

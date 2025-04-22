@@ -1,6 +1,7 @@
 ---
-title: "History of the French Franc"
-description: "Explore the rich history of the French Franc spanning over six centuries and its impact on current economic strategies and algorithmic trading insights."
+title: The Comprehensive History and Evolution of the French Franc
+description: French Franc history traces its journey from a gold coin through wartime
+  inflation and redenominations to its replacement by the Euro Discover more inside
 ---
 
 

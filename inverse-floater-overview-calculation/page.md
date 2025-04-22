@@ -1,6 +1,7 @@
 ---
-title: "Inverse Floater Overview and Calculation"
-description: "Explore the unique benefits of inverse floaters in bond investments and learn how algorithmic trading can optimize returns by navigating interest rate dynamics."
+title: Inverse Floaters Explained Structure Risks And Strategies
+description: Inverse floaters use coupon rates that move opposite benchmark rates
+  Explore structure assess risks and safeguard your portfolio Discover more inside
 ---
 
 

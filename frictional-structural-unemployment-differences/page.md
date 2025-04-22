@@ -1,6 +1,8 @@
 ---
-title: "Frictional and Structural Unemployment Differences"
-description: "Explore the economic impact of frictional and structural unemployment in this insightful article. Understand how technological advancements like algorithmic trading influence these unemployment types and reshape financial markets. Learn about the dynamics of labor markets and strategies to mitigate unemployment through education and retraining programs. Discover how fostering an adaptive workforce can sustain economic resilience amidst evolving employment landscapes."
+title: Key Differences Between Frictional and Structural Unemployment
+description: Frictional and structural unemployment contrast short term job moves
+  with lasting skill gaps Policy and training solutions bridge gaps Discover more
+  inside
 ---
 
 

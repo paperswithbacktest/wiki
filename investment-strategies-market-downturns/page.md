@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies During Market Downturns"
-description: "Discover effective investment strategies during market downturns by exploring diversification, algorithmic trading, and hedging techniques. Learn how to safeguard assets and capitalize on opportunities with robust financial planning and a strategic approach to volatile markets. Embrace historical insights and modern tools to navigate economic uncertainties with confidence and potential for growth."
+title: Effective Investment Strategies for Market Downturns
+description: Market downturn strategies help investors hold course and buy low with
+  dollar cost averaging diversification and asset allocation Discover more inside.
 ---
 
 

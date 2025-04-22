@@ -1,6 +1,7 @@
 ---
-title: "Gambler's Fallacy Explained with Examples"
-description: "Learn about the Gambler's Fallacy and its impact on trading decisions. Discover how understanding probability can help improve your trading strategies."
+title: Understanding the Gamblers Fallacy and Independent Events
+description: Gamblers Fallacy leads gamblers to misjudge randomness and place risky
+  bets Keep each event independent and make better decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "History of Corporations in the United States"
-description: "Discover the evolution of American corporations from the late 18th century to modern algorithmic trading highlighting technological advancements and economic impact."
+title: Evolution of American Corporations From Founding to Present
+description: Corporations shaped the US economy through early charters limited liability
+  Industrial Revolution regulation and globalization Discover more inside
 ---
 
 

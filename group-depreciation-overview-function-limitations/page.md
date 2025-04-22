@@ -1,6 +1,7 @@
 ---
-title: "Group Depreciation: Overview, Function, and Limitations"
-description: "Explore the intersection of accounting asset management and algorithmic trading Learn how group depreciation influences asset valuation and trading strategies"
+title: Group Depreciation Accounting Simplified For Asset Management
+description: Group depreciation simplifies asset tracking by grouping similar assets
+  into one schedule for accurate reporting and reduced workload Discover more
 ---
 
 

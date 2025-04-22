@@ -1,6 +1,7 @@
 ---
-title: "Key Currency: Meaning and Function"
-description: "Discover the interplay between key currencies and algorithmic trading their crucial roles in global finance and how they influence market strategies and stability."
+title: Understanding Key Currencies and Their Role in Global Markets
+description: Key currency supports global trade and financial stability Learn how
+  reserve currencies shape exchange rates and economic power Discover more inside
 ---
 
 

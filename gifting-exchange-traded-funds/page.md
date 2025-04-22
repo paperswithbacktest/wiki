@@ -1,6 +1,7 @@
 ---
-title: "Gifting Exchange-Traded Funds"
-description: "Gifting exchange-traded funds combines strategic investment with educational value allowing recipients to engage in financial markets boost diversification and foster growth."
+title: Complete Guide To Gifting Exchange-Traded Funds Safely
+description: Gifting exchange-traded funds offers a low-fee way to help someone start
+  investing in a diversified portfolio with trading flexibility Discover more inside
 ---
 
 

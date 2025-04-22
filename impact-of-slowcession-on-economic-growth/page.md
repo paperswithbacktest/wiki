@@ -1,6 +1,7 @@
 ---
-title: "Impact of Slowcession on Economic Growth"
-description: "Explore the impact of slowcession on economic growth and algorithmic trading Learn how sluggish economic conditions challenge market practices and influence policies"
+title: 'Economic Slowcession Explained: Indicators Impacts And Solutions'
+description: Slowcession insights reveal key indicators impacts and strategies and
+  policy responses to boost growth in sluggish economies Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Gaussian Processes"
-description: "Explore the use of Gaussian Processes in algorithmic trading to capture financial data trends and uncertainties, enhancing prediction accuracy and trading strategies."
+title: Understanding Gaussian Processes Key Concepts and Applications
+description: Gaussian Process models predict data patterns and quantify uncertainty
+  for informed insights across science engineering and finance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact and Applications of Financial Technology"
-description: "Explore the transformative impact of fintech in financial markets with a focus on algorithmic trading Discover how technology enhances efficiency and market access"
+title: FinTech Innovations Transforming Financial Services And Inclusion
+description: FinTech is reshaping how people access and manage money by offering faster
+  payments, lower costs, and personalized services Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Hudson River Trading"
-description: "Explore Hudson River Trading's impact on financial markets through high-frequency algorithmic trading and innovative technology, enhancing trading efficiency."
+title: Hudson River Trading Explained Technology Culture and Markets
+description: Hudson River Trading uses high-frequency technology and quantitative
+  insight to boost market liquidity and manage risks effectively Discover more inside
 ---
 
 

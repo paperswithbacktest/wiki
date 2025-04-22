@@ -1,6 +1,8 @@
 ---
-title: "Kijun-Sen: Overview, Formulas, and Calculations"
-description: "Explore the Kijun-Sen's role in algorithmic trading as part of the Ichimoku Kinko Hyo indicator for analyzing market trends and improving trading strategies."
+title: Understanding Kijun-Sen Base Line in Ichimoku Technical Analysis
+description: Kijun-Sen indicator shows trend direction by averaging highs and lows
+  over 26 periods highlighting support resistance levels in trading Discover more
+  inside
 ---
 
 

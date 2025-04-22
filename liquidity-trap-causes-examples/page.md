@@ -1,6 +1,8 @@
 ---
-title: "Liquidity Trap: Causes and Examples"
-description: "Explore the causes and examples of liquidity traps in economic theory. Learn how monetary policy and algorithmic trading adapt to challenge stagnant economies."
+title: Understanding Liquidity Traps Impact on Economic Recovery
+description: Liquidity traps occur when low interest rates fail to spur spending because
+  of uncertainty. Explore causes public policy responses and active solutions Discover
+  more inside.
 ---
 
 

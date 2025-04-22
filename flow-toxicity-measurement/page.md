@@ -1,6 +1,7 @@
 ---
-title: "Flow toxicity measurement"
-description: "Explore the crucial concept of flow toxicity in algorithmic trading, its impact on market efficiency, and methods to measure and manage its effects. Enhance trade performance."
+title: Flow Toxicity Measurement Methods for Water Quality Monitoring
+description: Flow toxicity measurement delivers actionable insights on water safety
+  with acute and chronic tests and continuous monitoring Discover more inside
 ---
 
 

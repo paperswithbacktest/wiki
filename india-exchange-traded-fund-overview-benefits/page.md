@@ -1,6 +1,7 @@
 ---
-title: "India Exchange-Traded Fund: Overview and Benefits"
-description: "Discover how India's dynamic ETF market offers diverse investment opportunities with algorithmic trading enhancing strategies for optimized growth and risk management."
+title: Understanding India Exchange-Traded Funds for Investors
+description: India ETF investing delivers diversified exposure to the growing Indian
+  market at lower fees than mutual funds and intraday trading Discover more inside
 ---
 
 

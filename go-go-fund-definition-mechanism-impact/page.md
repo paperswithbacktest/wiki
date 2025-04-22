@@ -1,6 +1,7 @@
 ---
-title: "Go-Go Fund: Definition, Mechanism, and Impact"
-description: "Explore the intersection of Go-Go Funds and algorithmic trading, understanding their high-risk strategies and impact on modern finance's efficiency and innovation."
+title: Go-Go Fund Platform for Community and Personal Crowdfunding
+description: Go-Go Fund lets you easily create fundraising pages for personal needs
+  and community causes with transparent fees and live updates Discover more inside
 ---
 
 

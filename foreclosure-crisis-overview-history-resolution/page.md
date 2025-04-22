@@ -1,6 +1,7 @@
 ---
-title: "Foreclosure Crisis: Overview and Historical Context"
-description: "Explore the impact of the 2008 foreclosure crisis and discover how algorithmic trading could enhance financial stability and prevent future economic downturns."
+title: Understanding the 2007-2009 Foreclosure Crisis and Its Impact
+description: Explore foreclosure crisis causes impacts and policy reforms to guide
+  homeowners and lenders toward stable housing outcomes Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Invisible Hand in Economics"
-description: "Explore how Adam Smith's 'invisible hand' theory aligns with modern algorithmic trading enhancing market efficiency through automated self-regulating processes."
+title: Understanding the Invisible Hand Concept in Modern Economics
+description: Invisible hand reveals how individual self interest fuels market efficiency
+  and balances supply and demand under limited regulation Discover more inside
 ---
 
 

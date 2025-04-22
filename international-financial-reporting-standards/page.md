@@ -1,6 +1,7 @@
 ---
-title: "International Financial Reporting Standards"
-description: "Explore the essential role of International Financial Reporting Standards in algorithmic trading enhancing transparency and data accuracy for global financial markets."
+title: Understanding International Financial Reporting Standards IFRS
+description: IFRS provide a unified framework that enhances financial transparency
+  comparability and decision making across borders Discover more inside
 ---
 
 

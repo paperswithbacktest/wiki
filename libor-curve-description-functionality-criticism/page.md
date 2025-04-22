@@ -1,6 +1,7 @@
 ---
-title: "LIBOR Curve: Description, Functionality, and Criticism"
-description: "Explore the LIBOR curve's description function and criticism in the context of algorithmic trading Understand its historical significance and adaptation challenges"
+title: Understanding the LIBOR Curve and Its Market Implications
+description: LIBOR Curve insights show how benchmark rates shape pricing swaps and
+  market strategies with guidance on managing rate risk Discover more inside
 ---
 
 

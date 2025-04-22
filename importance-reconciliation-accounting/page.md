@@ -1,6 +1,7 @@
 ---
-title: "Importance of Reconciliation in Accounting"
-description: "Explore the vital role of reconciliation in accounting for algorithmic trading. Discover how reconciling records enhances data accuracy, trading efficiency, and compliance."
+title: Understanding Reconciliation in Accounting for Accurate Records
+description: Reconciliation in accounting ensures financial records match with bank
+  statements and ledgers to catch errors and prevent fraud Discover more inside
 ---
 
 

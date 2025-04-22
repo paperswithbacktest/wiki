@@ -1,6 +1,7 @@
 ---
-title: "Geometric Mean: Calculation and Examples"
-description: "Discover the fundamental role of the geometric mean in algorithmic trading Analyze investment performance accurately avoid skewness and optimize strategies"
+title: Comprehensive Guide To Calculating And Applying Geometric Mean
+description: Geometric mean provides a balanced average for proportional growth and
+  investment returns with clear examples and real world use cases Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Inward Investment: Definition, Overview, and Risks"
-description: "Explore the intricacies of inward investment and its role in global finance Learn about benefits like job creation and challenges tied to cultural shifts and innovation"
+title: Understanding Inward Investment Benefits and Challenges
+description: Inward investment drives job creation technology transfer and growth
+  exposing risks like profit repatriation and local competition. Discover more inside
 ---
 
 

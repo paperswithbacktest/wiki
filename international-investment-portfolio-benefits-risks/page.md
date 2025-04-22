@@ -1,6 +1,8 @@
 ---
-title: "International Investment Portfolio: Benefits and Risks"
-description: "Explore the advantages and risks of international investment portfolios and discover how algorithmic trading can enhance diversification and manage complexities."
+title: Building a Diversified International Investment Portfolio
+description: International investment portfolio strategies help reduce risk and capture
+  global growth opportunities using active diversification and currency management
+  Discover more inside
 ---
 
 

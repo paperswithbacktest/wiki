@@ -1,6 +1,8 @@
 ---
-title: "GBP/USD Exchange Rate Calculation"
-description: "Explore the role of algorithmic trading in the GBP/USD forex market known as 'Cable' focusing on historical context market dynamics and strategies to maximize profit opportunities."
+title: Understanding the GBP/USD Exchange Rate and Key Drivers
+description: GBP/USD exchange rate explained with economic indicators interest rate
+  impacts market drivers and conversion methods to guide your decisions. Discover
+  more inside.
 ---
 
 

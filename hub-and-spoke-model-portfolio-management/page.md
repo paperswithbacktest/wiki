@@ -1,6 +1,7 @@
 ---
-title: "Hub and Spoke Model in Portfolio Management"
-description: "Discover the hub and spoke model in portfolio management and algorithmic trading offering a strategic balance of centralized oversight and decentralized operations."
+title: Implementing the Hub and Spoke Model in Portfolio Management
+description: Hub and Spoke Model organizes investments into a stable hub of core assets
+  and targeted spokes for growth and balanced risk management Discover more inside
 ---
 
 

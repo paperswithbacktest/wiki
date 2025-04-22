@@ -1,6 +1,7 @@
 ---
-title: "Horizontal Analysis and Vertical Analysis"
-description: "Discover the importance of horizontal and vertical analysis in algo trading. Learn how these financial statement analysis techniques enhance trading strategies."
+title: Complete Horizontal and Vertical Financial Statement Analysis
+description: Horizontal and vertical analysis reveals financial trends and structure
+  so you can pinpoint growth potential and manage risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Indicated Yield: Overview and Limitations"
-description: "Explore the importance of indicated yield as a forward-looking metric in finance Learn how algorithmic trading combines with yield metrics to optimize investment performance"
+title: Understanding Indicated Yield for Effective Investment Decisions
+description: Indicated yield estimates annual dividend income from past payouts and
+  stock price to guide informed investment decisions Discover more inside.
 ---
 
 

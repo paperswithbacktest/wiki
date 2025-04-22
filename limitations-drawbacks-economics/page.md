@@ -1,6 +1,7 @@
 ---
-title: "Limitations and Drawbacks of Economics"
-description: "Explore the limitations of economics in the age of algorithmic trading challenging traditional theories and highlighting the need for updated models and policies."
+title: Understanding the Limitations and Drawbacks of Economic Models
+description: Limitations of economic models arise from simplified assumptions and
+  unpredictable behavior Learn how external factors shape outcomes Discover more inside.
 ---
 
 

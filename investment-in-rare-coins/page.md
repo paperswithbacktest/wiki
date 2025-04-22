@@ -1,6 +1,7 @@
 ---
-title: "Investment in Rare Coins"
-description: "Explore the unique blend of history and finance with rare coin investments enhanced by algorithmic trading Discover the potential of these collectible assets"
+title: Essential Rare Coin Investment Guide for Serious Collectors
+description: Rare coin investment shows you how to assess rarity condition and market
+  demand build a diverse collection with growth potential Discover more inside
 ---
 
 

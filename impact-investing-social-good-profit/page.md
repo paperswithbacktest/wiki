@@ -1,6 +1,7 @@
 ---
-title: "Impact Investing: Balancing Social Good and Profit"
-description: "Explore the synergy of impact investing and algorithmic trading combining financial returns with social and environmental benefits for a sustainable future."
+title: Impact Investing Strategies for Social and Environmental Returns
+description: Impact investing delivers financial returns while tackling social and
+  environmental challenges with measurable outcomes Discover more inside.
 ---
 
 

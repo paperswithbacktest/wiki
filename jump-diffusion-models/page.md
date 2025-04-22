@@ -1,6 +1,7 @@
 ---
-title: "Jump-diffusion models"
-description: "Jump-diffusion models provide a refined approach to algorithmic trading by incorporating both continuous fluctuations and sudden jumps, enhancing risk management."
+title: Understanding Jump-Diffusion Models for Accurate Option Pricing
+description: Jump Diffusion Model captures sudden market moves and smooth trends to
+  improve option pricing accuracy and risk management. Discover more inside.
 ---
 
 

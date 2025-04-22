@@ -1,6 +1,7 @@
 ---
-title: "Foreign Exchange Reserves and Their Purpose"
-description: "Explore the intricate role of foreign exchange reserves in global economic stability and how algorithmic trading reshapes the forex market landscape. Understand the impact of geopolitical tensions and technological advancements on currency markets and the importance of strategic reserve management amidst evolving financial dynamics."
+title: Foreign Exchange Reserves Explained for Economic Stability
+description: Foreign exchange reserves support currency stability and trade by providing
+  central banks with assets to manage shocks and crises Discover more inside
 ---
 
 

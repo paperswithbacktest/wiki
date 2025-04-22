@@ -1,6 +1,7 @@
 ---
-title: "Key Factors Influencing the Chinese Economy"
-description: "Explore key factors influencing China's economy focusing on its economic growth roots and the rise of algorithmic trading shaping the financial landscape."
+title: Exploring Key Drivers and Challenges in the Chinese Economy
+description: Chinese economy balances manufacturing services and agriculture with
+  strategic policies to sustain growth and resilience Discover more inside
 ---
 
 

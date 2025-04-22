@@ -1,6 +1,7 @@
 ---
-title: "Foreign Exchange Interbank Market and Its Mechanism"
-description: "Discover the complex world of the forex interbank market with a focus on the transformative role of algorithmic trading in modern currency trading dynamics."
+title: Understanding the Foreign Exchange Interbank Market Mechanics
+description: Foreign Exchange Interbank Market comprehensive overview shows how banks
+  trade currencies, set rates and manage risks effectively. Discover more inside.
 ---
 
 

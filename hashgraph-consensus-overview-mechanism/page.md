@@ -1,6 +1,7 @@
 ---
-title: "Hashgraph Consensus: Overview and Mechanism"
-description: "Explore how Hashgraph consensus and distributed ledger technologies revolutionize algo trading with enhanced speed transparency and security in financial ecosystems."
+title: Exploring Hashgraph Consensus for Fast Secure Transactions
+description: Hashgraph consensus delivers fast secure transactions with gossip about
+  gossip and virtual voting to boost efficiency and fairness Discover more inside
 ---
 
 

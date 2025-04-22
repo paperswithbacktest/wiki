@@ -1,6 +1,7 @@
 ---
-title: "Implicit Bias and Its Impact on Investment Decisions"
-description: "Explore how implicit bias affects investment decisions and learn strategies to minimize its impact with insights into algorithmic trading and investment psychology."
+title: Overcoming Implicit Bias in Investment Decision Making
+description: Implicit bias can skew investments by favoring the familiar and driving
+  herd thinking Identify biases apply a checklist to diversify Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "impact of AI in trading"
-description: "Discover how AI transforms trading by enhancing accuracy, speed, and efficiency in algorithmic processes. Explore its impact on trading strategies and challenges."
+title: Integrating AI in Trading for Beginners to Advanced Professionals
+description: AI for trading offers data-driven insights and automated tools to refine
+  strategies from beginner bots to advanced systems Discover more inside
 ---
 
 

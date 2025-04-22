@@ -1,6 +1,7 @@
 ---
-title: "Keiretsu: Overview and Types"
-description: "Explore the synergy between Japan's traditional Keiretsu networks and modern algorithmic trading to understand strategic growth and market competitiveness."
+title: Keiretsu Business Group Structure History And Market Evolution
+description: Keiretsu business groups connect companies across industries to share
+  resources strengthen supply chains and manage risks effectively Discover more inside.
 ---
 
 

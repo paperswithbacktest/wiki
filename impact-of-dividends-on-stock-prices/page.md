@@ -1,6 +1,7 @@
 ---
-title: "Impact of Dividends on Stock Prices"
-description: "Explore how dividends influence stock prices and enhance investment strategies, from dividend capture to algorithmic trading, optimizing returns for investors."
+title: How Dividends Influence Stock Prices and Investor Demand
+description: Dividends guide stock prices and investor demand by signaling profitability
+  and boosting total returns across market cycles Discover more inside.
 ---
 
 

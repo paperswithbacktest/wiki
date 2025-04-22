@@ -1,6 +1,7 @@
 ---
-title: "Lattice-Based Model: Meaning and Functionality"
-description: "Optimize your algorithmic trading strategies by understanding lattice-based models crucial for pricing derivatives and managing market risks."
+title: Lattice-Based Models Explained For Finance And Science
+description: Lattice-Based Models break time into steps to forecast prices and outcomes
+  with probabilistic paths for informed decisions Discover more inside
 ---
 
 

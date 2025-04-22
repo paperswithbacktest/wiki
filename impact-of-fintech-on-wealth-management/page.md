@@ -1,6 +1,7 @@
 ---
-title: "Impact of Fintech on Wealth Management"
-description: "Explore how fintech is revolutionizing wealth management and algorithmic trading, enhancing efficiency and accessibility, and challenging traditional financial models."
+title: Fintech Transforming Wealth Management for Everyday Investors
+description: Fintech wealth management tools like robo advisors and budgeting apps
+  optimize investments reduce costs and improve control Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investment Company Institute: Overview and History"
-description: "Explore the Investment Company Institute's role in advocating for ethical standards and investor protection while navigating technological advancements like algo trading."
+title: Investment Company Institute Overview and Role in Fund Management
+description: Investment Company Institute offers research insights policy guidance
+  and investor education for fund managers and the public Discover more inside
 ---
 
 

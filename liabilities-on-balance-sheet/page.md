@@ -1,6 +1,7 @@
 ---
-title: "Liabilities on a Balance Sheet"
-description: "Explore the impact of balance sheet liabilities on algorithmic trading strategies to gain a competitive edge by understanding financial commitments and risks."
+title: Understanding Liabilities on a Balance Sheet for Financial Health
+description: Liabilities shape the balance sheet and reveal a companys debt structure
+  and financial stability with clear examples and insights Discover more inside
 ---
 
 

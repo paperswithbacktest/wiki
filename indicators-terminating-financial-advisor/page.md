@@ -1,6 +1,7 @@
 ---
-title: "Indicators for Terminating a Financial Advisor"
-description: "Explore key indicators for terminating a financial advisor and the impact of algorithmic trading on investment strategies. Make informed financial decisions."
+title: How to Know When It Is Time to Terminate Your Financial Advisor
+description: Financial advisor assessment guides you on when to end an underperforming
+  partnership including performance metrics fees and ethics Discover more inside
 ---
 
 

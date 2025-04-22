@@ -1,6 +1,7 @@
 ---
-title: "Linear Regression of Time and Price"
-description: "Explore the synergy between time series analysis, linear regression, and algorithmic trading for effective price prediction in financial markets."
+title: Linear Regression for Time-Price Data Analysis and Prediction
+description: Linear regression for time and price data reveals trends, validates assumptions
+  and improves forecast accuracy with key metrics Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Fractional Ownership: Overview and Examples"
-description: "Explore the dynamics of fractional ownership and algorithmic trading in real estate Learn how shared ownership models are enhanced by tech-driven investment strategies"
+title: Fractional Ownership Guide for Real Estate and Luxury Assets
+description: Fractional ownership lets you share costs and enjoy luxury assets like
+  vacation homes private jets and art with reduced expenses Discover more inside
 ---
 
 

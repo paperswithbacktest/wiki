@@ -1,6 +1,7 @@
 ---
-title: "Identification of Consolidating Stocks"
-description: "Explore investment strategies and technical analysis to identify consolidating stocks through algorithmic trading for optimized portfolio management."
+title: Understanding Consolidating Stocks for Smarter Trading Decisions
+description: Consolidating stocks move within a tight range signaling potential breakouts
+  identifiable by volume and indicators Discover more inside
 ---
 
 

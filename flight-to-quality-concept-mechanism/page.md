@@ -1,6 +1,7 @@
 ---
-title: "Flight to Quality: Concept and Mechanism"
-description: "Explore the concept of flight to quality in algo trading, where investors shift from risky to safer assets. Discover strategies for navigating volatile markets."
+title: 'Understanding Flight To Quality: Investor Safe-Haven Strategy'
+description: Flight to Quality helps investors protect assets during uncertainty by
+  reallocating to safer bonds gold or cash while managing risk Discover more inside
 ---
 
 

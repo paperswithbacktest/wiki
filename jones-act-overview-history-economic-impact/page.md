@@ -1,6 +1,7 @@
 ---
-title: "Jones Act: Overview, Historical Context, and Economic Impact"
-description: "Explore the economic impact of the Jones Act on U.S. maritime commerce and how algorithmic trading is reshaping industry efficiency and cost structures."
+title: Understanding the Jones Act and Its Impact on U.S. Shipping
+description: Jones Act protects American maritime jobs and security while shaping
+  shipping costs and efficiency to support domestic industry Discover more inside
 ---
 
 

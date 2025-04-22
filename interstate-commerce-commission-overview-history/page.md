@@ -1,6 +1,7 @@
 ---
-title: "Interstate Commerce Commission: Overview and History"
-description: "Explore the role of the Interstate Commerce Commission in U.S. regulatory history from overseeing transportation to its impact on algorithmic trading."
+title: Interstate Commerce Commission History And Regulatory Legacy
+description: Interstate Commerce Commission set fair transport standards for over
+  a century boosting economic growth and shaping modern regulation Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Geometric Mean in Investment Analysis"
-description: "Explore the significance of geometric mean in investment analysis and algo trading It measures true average growth by accounting for compounding effects over time"
+title: Understanding Geometric Mean for Accurate Investment Growth Rates
+description: Geometric Mean reveals true compound growth in investment returns by
+  capturing yearly compounding and enhances performance analysis. Discover more inside.
 ---
 
 

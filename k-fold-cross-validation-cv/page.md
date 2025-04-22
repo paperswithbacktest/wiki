@@ -1,6 +1,7 @@
 ---
-title: "K-fold cross-validation (CV)"
-description: K-fold cross-validation is a key technique in machine learning used to evaluate predictive models by dividing data into 'k' subsets or folds. Each fold is used once as a test set, while the remaining serve as training sets, helping to enhance model generalization and mitigate overfitting. In algorithmic trading, this method validates trading models rigorously to ensure reliability on unseen data, addressing challenges like hindsight bias and data snooping. Financial data's temporal nature complicates cross-validation, requiring methodologies like purging and embargoing to prevent data leakage and ensure robust strategy development.
+title: Understanding K-Fold Cross-Validation in Machine Learning
+description: K-fold cross-validation evaluates models across data folds to avoid overfitting
+  and optimize hyperparameters for accuracy Discover more inside
 ---
 
 

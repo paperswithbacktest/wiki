@@ -1,6 +1,8 @@
 ---
-title: "Impact of Quantitative Easing on Stock Markets"
-description: "Explore how quantitative easing impacts stock markets and algorithmic trading driving liquidity and asset prices in financial markets affected by central bank policies."
+title: Quantitative Easing Explained Professional Guide for Investors
+description: Quantitative easing is a central bank tool that boosts lending and spending
+  by buying assets Learn how it affects economic growth and markets Discover more
+  inside
 ---
 
 

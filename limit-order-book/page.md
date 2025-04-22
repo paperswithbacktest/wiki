@@ -1,6 +1,7 @@
 ---
-title: "Limit Order Book"
-description: "Discover the intricacies of limit order books and algorithmic trading Learn how these elements optimize trading efficiency and strategy in modern markets"
+title: Understanding the Limit Order Book in Stock Trading
+description: Limit Order Book gives traders real time insights into bids and asks
+  market depth and liquidity enabling smarter trade decisions Discover more inside.
 ---
 
 

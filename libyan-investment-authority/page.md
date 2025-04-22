@@ -1,6 +1,7 @@
 ---
-title: "Libyan Investment Authority"
-description: "Discover how the Libyan Investment Authority uses algorithmic trading to enhance investment efficiency and risk management, supporting diversified economic growth."
+title: Libyan Investment Authority Managing 67 Billion in Global Assets
+description: Libyan Investment Authority channels Libya oil and gas funds into global
+  stocks real estate and bonds to boost economic growth Discover more inside
 ---
 
 

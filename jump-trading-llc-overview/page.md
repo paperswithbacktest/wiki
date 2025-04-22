@@ -1,6 +1,7 @@
 ---
-title: "Jump Trading LLC Overview"
-description: "Explore how Jump Trading LLC leverages algorithmic and high-frequency trading to thrive in financial markets with cutting-edge technology and innovation."
+title: Jump Trading LLC Profile And High Frequency Trading Strategies
+description: Jump Trading LLC uses advanced algorithms and high frequency trading
+  to boost market liquidity manage risk and adapt to regulations. Discover more inside.
 ---
 
 

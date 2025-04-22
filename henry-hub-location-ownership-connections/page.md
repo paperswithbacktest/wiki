@@ -1,6 +1,7 @@
 ---
-title: "Henry Hub: Overview, Location, Ownership, and Connections"
-description: "Explore the pivotal role of Henry Hub in the U.S. natural gas market and the impact of algorithmic trading on optimizing trading strategies and financial gains."
+title: Henry Hub Natural Gas Pipeline Hub Pricing and Trading Strategies
+description: Henry Hub drives US natural gas pricing and trading by linking major
+  pipelines and setting benchmarks across markets. Discover more inside today.
 ---
 
 

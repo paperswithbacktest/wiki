@@ -1,6 +1,8 @@
 ---
-title: "Guyanese Dollar: Overview and Functionality"
-description: "Explore the role of the Guyanese Dollar in Guyana's economy amid rapid growth and oil discoveries Learn how algorithmic trading impacts the currency market"
+title: Understanding the Guyanese Dollar Importance and Economic Impact
+description: "Guyanese Dollar explained with its history usage denominations and influence\
+  \ on inflation and trade Discover how this currency shapes Guyana\u2019s economy\
+  \ Discover more inside."
 ---
 
 

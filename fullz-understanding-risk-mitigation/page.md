@@ -1,6 +1,7 @@
 ---
-title: "Fullz: Understanding and Risk Mitigation"
-description: "Protect sensitive data in algorithmic trading by understanding risks posed by Fullz. Strengthen cybersecurity to mitigate identity theft and fraud impacts."
+title: Understanding Fullz Identity Theft and Prevention Strategies
+description: Fullz identity theft puts stolen personal data at risk of fraud and legal
+  consequences Learn steps to secure your information now Discover more inside
 ---
 
 

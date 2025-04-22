@@ -1,6 +1,7 @@
 ---
-title: "Forward Guidance: Overview, Mechanisms, and Examples"
-description: "Explore how forward guidance by central banks influences monetary policy and algorithmic trading Discover its impact on market expectations and decision-making strategies"
+title: Understanding Forward Guidance in Central Bank Monetary Policy
+description: Forward guidance clarifies central bank rate plans and inflation outlook
+  to shape expectations and guide business decisions Discover more inside
 ---
 
 

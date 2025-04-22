@@ -1,6 +1,7 @@
 ---
-title: "Gross Spread Overview and Mechanism"
-description: "Explore the dynamics of gross spread in investment banking and the role of algorithmic trading in shaping modern financial strategies for optimal profitability."
+title: Understanding Gross Spread in Financial Markets Explained
+description: Gross Spread explains how investment banks set underwriting fees and
+  manage risk while covering costs to optimize returns Discover more inside
 ---
 
 

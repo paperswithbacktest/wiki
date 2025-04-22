@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies in Retail: The Four Rs"
-description: "Explore investment strategies in retail and the rise of algorithmic trading. Learn how the Four Rs help retail investors make informed, successful decisions."
+title: Understanding The Four Rs In Retail Investment Strategies
+description: Four Rs in retail investment strategies help you balance return risk
+  reward and rebalancing through research and reinvestment Discover more inside.
 ---
 
 

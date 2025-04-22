@@ -1,6 +1,7 @@
 ---
-title: "How do you establish and manage investor relations for an algorithmic hedge fund?"
-description: "Learn the key steps to effectively establish and manage investor relations for an algorithmic hedge fund, including understanding your audience, transparency, regular communication, education, expectation management, technology, ethics, crisis management, and feedback. Build solid and lasting relationships with your investors through transparent, regular, and honest communication."
+title: Effective Investor Relations for Algorithmic Hedge Funds
+description: Algorithmic hedge fund investor relations optimize trust with transparency,
+  proactive updates and expectation management Discover more inside
 ---
 
 

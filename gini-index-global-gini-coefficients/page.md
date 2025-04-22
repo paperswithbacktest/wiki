@@ -1,6 +1,7 @@
 ---
-title: "Gini Index and Global Gini Coefficients"
-description: "Explore the significance of the Gini Index and automated trading in assessing global economic inequality. Understand its implications for policymakers and markets."
+title: Understanding the Gini Index for Measuring Income Inequality
+description: Gini Index shows income inequality by measuring distribution across populations
+  to inform policy decisions and track trends Discover more inside.
 ---
 
 

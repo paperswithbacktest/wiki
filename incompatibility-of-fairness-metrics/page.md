@@ -1,6 +1,7 @@
 ---
-title: "Incompatibility Of Fairness Metrics (Machine Learning)"
-description: "Explore the challenge of fairness in machine learning where different fairness metrics can conflict, making it difficult to ensure truly equitable outcomes."
+title: Balancing Fairness Metrics In Machine Learning Models
+description: Fairness Metrics guide balancing demographic parity equalized odds and
+  predictive parity for fairer machine learning outcomes Discover more inside
 ---
 
 ![Image](images/1.png)

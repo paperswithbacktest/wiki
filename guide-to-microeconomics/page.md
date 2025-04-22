@@ -1,6 +1,7 @@
 ---
-title: "Guide to Microeconomics"
-description: "Explore the synergy between microeconomics consumer behavior and algorithmic trading in modern finance Learn how these fields enhance strategies for market innovation"
+title: Fundamentals Of Microeconomics Principles And Market Analysis
+description: Microeconomics shows how supply demand utility elasticity and market
+  structures shape decisions for efficient resource use Discover more inside.
 ---
 
 

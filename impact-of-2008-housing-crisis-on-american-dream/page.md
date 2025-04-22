@@ -1,6 +1,7 @@
 ---
-title: "Impact of the 2008 Housing Crisis on the American Dream"
-description: "Explore the profound impact of the 2008 housing crisis on the American Dream, including the role of algorithmic trading in reshaping financial landscapes."
+title: How the 2008 Housing Crisis Transformed the American Dream
+description: 2008 housing crisis reshaped homeownership and redefined the American
+  Dream by exposing financial risks and inspiring reforms Discover more inside.
 ---
 
 

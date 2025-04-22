@@ -1,6 +1,7 @@
 ---
-title: "Gross National Product: Understanding and Calculation"
-description: "Explore the significance of Gross National Product in economic measurement and algorithmic trading Discover how GNP informs policies and enhances investment strategies"
+title: Understanding Gross National Product GNP For Economic Analysis
+description: Gross National Product measures the total output by a nations residents
+  and businesses globally using income and expenditure methods Discover more inside.
 ---
 
 

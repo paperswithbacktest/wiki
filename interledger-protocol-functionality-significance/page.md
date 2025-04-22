@@ -1,6 +1,7 @@
 ---
-title: "Interledger Protocol: Functionality and Significance"
-description: "Explore the Interledger Protocol's role in blockchain interoperability and digital payments revolutionizing finance through seamless currency exchanges and algo trading."
+title: "Interledger Protocol For Secure And Fast Cross\u2011Ledger Payments"
+description: "Interledger Protocol simplifies cross\u2011ledger money transfers by\
+  \ routing packets through secure diverse networks at lower cost. Discover more inside."
 ---
 
 

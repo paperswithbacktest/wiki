@@ -1,6 +1,7 @@
 ---
-title: "Korean Composite Stock Price Index (KOSPI)"
-description: "Explore the Korean Composite Stock Price Index (KOSPI), a crucial indicator of South Korea's economic health, and its integration with algorithmic trading strategies."
+title: Understanding The KOSPI Stock Price Index And Its Economic Role
+description: KOSPI reveals South Koreas market health through a capitalization weighted
+  index highlighting economic trends and investment signals Discover more inside.
 ---
 
 

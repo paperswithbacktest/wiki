@@ -1,6 +1,7 @@
 ---
-title: "Horizon Analysis: Meaning and Mechanism"
-description: "Discover how horizon analysis enhances algorithmic trading strategies by assessing investment performance over time, optimizing decision-making, and managing risks."
+title: Implementing Horizon Analysis for Goal-Based Investment Planning
+description: With horizon analysis you match investments to your timeline ensuring
+  balanced risk and growth for short medium and long term goals Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Lempel-Ziv (LZ) estimator"
-description: Explore how the Lempel-Ziv estimator enhances algorithmic trading by measuring data compressibility to identify market patterns and trends. This approach aids in improving trading accuracy and managing risks, offering insights into market dynamics by evaluating financial time series for better prediction of market movements. Discover the application of the LZ estimator in refining trading strategies and enhancing risk management in the competitive financial landscape.
+title: Understanding Lempel Ziv Estimator for Data Compression
+description: Lempel Ziv estimator measures data complexity by breaking sequences into
+  unique phrases in active voice Discover more inside
 ---
 
 

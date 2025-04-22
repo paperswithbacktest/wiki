@@ -1,6 +1,7 @@
 ---
-title: "Hamilton-Jacobi-Bellman equation"
-description: "Discover how the Hamilton-Jacobi-Bellman equation enhances algorithmic trading by optimizing decision-making for maximum profit and minimal risk."
+title: Hamilton-Jacobi-Bellman Equation in Optimal Control Theory
+description: Hamilton-Jacobi-Bellman equation helps derive optimal control strategies
+  via dynamic programming and advanced machine learning Discover more inside
 ---
 
 

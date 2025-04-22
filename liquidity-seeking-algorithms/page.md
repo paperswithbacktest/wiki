@@ -1,6 +1,7 @@
 ---
-title: "Liquidity-seeking algorithms"
-description: "Discover liquidity-seeking algorithms in algorithmic trading that enhance trade execution. Minimize market impact and costs while optimizing liquidity access."
+title: Understanding Liquidity-Seeking Algorithms in Financial Markets
+description: Liquidity-Seeking Algorithms boost execution efficiency by finding hidden
+  liquidity and reducing price impact with smart routing Discover more inside.
 ---
 
 

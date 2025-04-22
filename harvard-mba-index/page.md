@@ -1,6 +1,7 @@
 ---
-title: "Harvard MBA Index"
-description: "Discover how the Harvard MBA Indicator uses graduates' career choices to predict stock market trends, providing a unique contrarian tool for investors."
+title: Harvard MBA Index Measures Alumni Satisfaction and Success
+description: Harvard MBA Index reveals how graduates rate their career success salary
+  growth and program satisfaction based on alumni surveys Discover more inside
 ---
 
 

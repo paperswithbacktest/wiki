@@ -1,6 +1,7 @@
 ---
-title: "Key Considerations in Balance Sheet Analysis"
-description: "Explore balance sheet analysis crucial for algorithmic trading Discover key financial ratios and insights into assets liabilities and equity to enhance trading strategies"
+title: Comprehensive Guide to Balance Sheet Analysis and Ratios
+description: Balance sheet analysis helps you evaluate assets liabilities and equity
+  with key ratios to gauge the financial health of a company Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "GAM Systematic"
-description: "Explore GAM Systematic's algo trading to learn how algorithms enhance trade execution, manage portfolios, and propel investment strategies forward."
+title: GAM Systematic Algorithmic Multi-Asset Investment Strategies
+description: GAM Systematic uses algorithmic quantitative investing across global
+  multi-asset portfolios to uncover trends and manage risk Discover more inside
 ---
 
 

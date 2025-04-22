@@ -1,6 +1,7 @@
 ---
-title: "Generalized Linear Model (Machine Learning)"
-description: "Explore Generalized Linear Models in machine learning learn how they extend traditional linear regression to handle diverse data types with link functions"
+title: Understanding Generalized Linear Models in Machine Learning
+description: Generalized Linear Models provide flexible extensions of linear regression
+  to model diverse data using appropriate link functions Discover more inside
 ---
 
 ![Image](images/1.jpeg)

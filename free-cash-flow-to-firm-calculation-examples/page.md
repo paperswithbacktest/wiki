@@ -1,6 +1,7 @@
 ---
-title: "Free Cash Flow to Firm: Calculation and Examples"
-description: "Discover how Free Cash Flow to Firm is used in algorithmic trading as a critical metric for analyzing financial health and optimizing investment strategies."
+title: Understanding Free Cash Flow to Firm FCFF for Business Valuation
+description: Free Cash Flow to Firm shows cash available after costs and capital spending
+  helping evaluate company financial health and growth Discover more inside
 ---
 
 

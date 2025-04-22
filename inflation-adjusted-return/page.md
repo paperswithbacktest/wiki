@@ -1,6 +1,7 @@
 ---
-title: "Inflation-Adjusted Return"
-description: "Explore inflation-adjusted returns and algorithmic trading for a true understanding of investment performance. Learn how to optimize returns in inflationary times."
+title: Understanding Inflation Adjusted Returns for Investment Growth
+description: Inflation adjusted return reveals real purchasing power growth after
+  accounting for inflation and guides smarter investment choices Discover more inside
 ---
 
 

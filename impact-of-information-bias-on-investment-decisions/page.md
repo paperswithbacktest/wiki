@@ -1,6 +1,8 @@
 ---
-title: "Impact of Information Bias on Investment Decisions"
-description: "Explore how information bias skews investment decisions in algo trading Learn strategies to mitigate its effects for more rational trading outcomes"
+title: Understanding Information Bias in Investment Decision Making
+description: Information bias can skew investment decisions by focusing on incomplete
+  or misleading data Learn strategies to recognize and counter biases Discover more
+  inside.
 ---
 
 

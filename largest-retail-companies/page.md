@@ -1,6 +1,7 @@
 ---
-title: "List of Largest Retail Companies"
-description: "Explore how top retail giants Walmart, Amazon, and Costco leverage algorithmic trading to optimize operations and maintain dominance in the global market."
+title: Largest Retail Companies in the World by Revenue and Reach
+description: Largest retail companies are ranked by revenue, global footprint and
+  innovation to help you understand their market dominance. Discover more inside.
 ---
 
 

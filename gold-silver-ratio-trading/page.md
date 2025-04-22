@@ -1,6 +1,7 @@
 ---
-title: "Gold-Silver Ratio Trading"
-description: "Explore gold-silver ratio strategies in algo trading to optimize your portfolio Gain insights into using this key metric with advanced computational techniques"
+title: Comprehensive Guide to Gold-Silver Ratio Trading Strategies
+description: Gold-Silver Ratio guides investors through trading strategies, risk management,
+  and market analysis to time metal trades effectively. Discover more inside.
 ---
 
 

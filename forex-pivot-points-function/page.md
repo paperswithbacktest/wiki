@@ -1,6 +1,7 @@
 ---
-title: "Forex Pivot Points and Their Function"
-description: "Explore the significance of forex pivot points in trading. Discover how these tools help identify support and resistance levels, crucial for algorithmic trading strategies."
+title: Understanding Forex Pivot Points for Effective Trading
+description: Forex pivot points guide shows how to calculate key support and resistance
+  levels and use them to make informed buy and sell decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Investment Portfolio Diversification Methods"
-description: "Explore how investment portfolio diversification and algorithmic trading enhance financial strategies offering insights into minimizing risks while optimizing returns."
+title: Mastering Investment Portfolio Diversification for Steady Returns
+description: Investment portfolio diversification reduces risk by spreading assets
+  across multiple classes to deliver more stable returns. Discover more inside
 ---
 
 

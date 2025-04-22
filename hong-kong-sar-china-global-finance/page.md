@@ -1,6 +1,7 @@
 ---
-title: "Hong Kong SAR, China: Role in Global Finance"
-description: "Explore how Hong Kong SAR plays a pivotal role in global finance and algorithmic trading with its strategic location robust legal framework and advanced infrastructure."
+title: Hong Kong SAR China Global Financial Center Overview
+description: Hong Kong global financial center uses a unique framework and currency
+  peg to drive fintech innovation and facilitate trade Discover more inside
 ---
 
 

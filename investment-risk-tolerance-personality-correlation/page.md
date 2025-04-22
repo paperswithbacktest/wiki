@@ -1,6 +1,7 @@
 ---
-title: "Investment Risk Tolerance and Personality Correlation"
-description: "Explore the link between personality traits and investment risk tolerance, and discover how algorithmic trading can enhance personalized investment strategies."
+title: Assessing Personality Traits and Investment Risk Tolerance
+description: Investment Risk Tolerance helps align personality traits with suitable
+  investments so you can navigate market volatility confidently Discover more inside
 ---
 
 

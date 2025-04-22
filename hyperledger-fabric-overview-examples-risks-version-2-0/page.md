@@ -1,6 +1,7 @@
 ---
-title: "Hyperledger Fabric: Overview, Examples, Risks, and Version 2.0"
-description: "Explore how Hyperledger Fabric 2.0 enhances algorithmic trading by increasing efficiency and security. Discover its role in transforming financial markets."
+title: Understanding Hyperledger Fabric Architecture And Benefits
+description: Hyperledger Fabric secures private blockchains with permissioned access
+  smart contracts private data sharing to boost collaboration Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Guinean Franc: Overview and Mechanism"
-description: "Explore the role of the Guinean Franc in Guinea’s economy and the transformative impact of algorithmic trading on currency markets in emerging economies."
+title: Guinean Franc Explained History Value and Monetary Policies
+description: Guinean Franc overview offers a look at its history denominations exchange
+  rates and policies shaping its value and stability Discover more inside
 ---
 
 

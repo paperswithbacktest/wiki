@@ -1,6 +1,7 @@
 ---
-title: "Hubris in Investing: Case Studies and Key Insights"
-description: "Explore hubris in investing and its influence on decision making especially in algorithmic trading Uncover psychological impacts and common investor mistakes"
+title: 'Managing Hubris in Investing: Strategies for Smarter Decisions'
+description: Hubris in investing can derail portfolios by driving risky bets Use disciplined
+  analysis diversify assets and protect gains Discover more inside
 ---
 
 

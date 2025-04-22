@@ -1,6 +1,7 @@
 ---
-title: "Hot Money: Overview, Mechanism, and Economic Impact"
-description: "Discover the role of hot money in global economics through the lens of algorithmic trading Learn its impact on market dynamics stability and trading strategies"
+title: Understanding Hot Money Flows And Their Economic Impacts
+description: Hot money moves swiftly across borders seeking short term gains but can
+  trigger currency swings inflation and instability in economies Discover more inside
 ---
 
 

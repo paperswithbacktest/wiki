@@ -1,6 +1,7 @@
 ---
-title: "George Washington Day / Presidents’ Day Holiday Effect Explained"
-description: Explore the intriguing influence of Presidents' Day on algorithmic trading strategies, as U.S. financial markets pause for this federal holiday. Analyze how traders adapt their algorithms to these unique market closures and investigate potential patterns or opportunities that may arise around this period to optimize trading performance.
+title: Presidents' Day Holiday Origins Traditions and Economic Effects
+description: Presidents' Day honors George Washington and all presidents while holiday
+  sales and traditions boost the economy via holiday effect Discover more inside
 ---
 
 

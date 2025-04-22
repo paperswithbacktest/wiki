@@ -1,6 +1,7 @@
 ---
-title: "Gross National Happiness Index and Four Pillars"
-description: "Explore the Gross National Happiness Index and its four foundational pillars as a comprehensive measure of economic and moral progress over traditional metrics like GDP. Originating in Bhutan, this holistic framework prioritizes well-being and happiness through dimensions such as governance, sustainable development, cultural values, and environmental preservation. This article discusses integrating GNH principles with algorithmic trading in financial markets to enhance societal well-being alongside economic efficiency. Discover how these inclusive policies aim to balance economic objectives with ethical considerations for a more equitable and sustainable future."
+title: Gross National Happiness Index Explained for National Wellbeing
+description: Gross National Happiness Index measures wellbeing beyond GDP by tracking
+  health culture education and environment to shape policy Discover more inside
 ---
 
 

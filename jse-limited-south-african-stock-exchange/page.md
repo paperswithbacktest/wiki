@@ -1,6 +1,7 @@
 ---
-title: "JSE Limited: South African Stock Exchange"
-description: "Explore the Johannesburg Stock Exchange, Africa's largest exchange offering a wide range of financial products and pioneering algorithmic trading technology."
+title: Guide To JSE Limited And Johannesburg Stock Exchange
+description: JSE Limited enables trading of shares bonds ETFs and derivatives on the
+  Johannesburg Stock Exchange with robust oversight Discover more inside
 ---
 
 

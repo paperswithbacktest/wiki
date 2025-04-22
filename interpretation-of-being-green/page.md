@@ -1,6 +1,7 @@
 ---
-title: "Interpretation of 'Being Green'"
-description: "Explore the intersection of algorithmic trading and environmental sustainability offering insights into eco-friendly investing for a responsible financial future."
+title: Everyday Green Living Strategies for a Sustainable Future
+description: Green Living empowers you to adopt energy saving and recycling habits
+  boost sustainability and cut costs for home and business Discover more inside
 ---
 
 

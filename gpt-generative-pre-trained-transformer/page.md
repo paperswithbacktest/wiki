@@ -1,6 +1,7 @@
 ---
-title: "Gpt (Generative Pre-Trained Transformer) (Machine Learning)"
-description: "Discover how GPT models leverage advanced neural network architecture for text generation and understanding across diverse applications from chatbots to content creation."
+title: Generative Pre-Trained Transformers Explained for Everyday Use
+description: GPT models power chatbots content creation and translation by learning
+  from large text datasets and fine tuning for versatile tasks Discover more inside
 ---
 
 ![Image](images/1.png)

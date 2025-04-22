@@ -1,6 +1,7 @@
 ---
-title: "Helicopter Money: Economic Examples and Types"
-description: "Explore the impact of helicopter money and its role in modern economic policy including its interaction with algorithmic trading in today's financial markets."
+title: Understanding Helicopter Money And Its Economic Impact
+description: Helicopter money drives direct consumer spending and boosts economic
+  growth while outlining risks like inflation and debt buildup Discover more inside.
 ---
 
 

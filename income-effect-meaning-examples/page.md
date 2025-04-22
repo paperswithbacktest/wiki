@@ -1,6 +1,7 @@
 ---
-title: "Income Effect: Meaning and Examples"
-description: "Explore the income effect's impact on consumer behavior and algorithmic trading Learn how income changes influence demand for goods and market strategies"
+title: Understanding the Income Effect in Consumer Buying Behavior
+description: Income Effect drives changes in consumer demand as incomes rise or fall
+  explaining shifts in spending on normal and inferior goods Discover more inside
 ---
 
 

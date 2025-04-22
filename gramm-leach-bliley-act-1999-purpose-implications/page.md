@@ -1,6 +1,7 @@
 ---
-title: "Gramm-Leach-Bliley Act of 1999: Purpose and Implications"
-description: "Explore the Gramm-Leach-Bliley Act's role in transforming the banking industry by allowing financial service integration and its impact on modern finance."
+title: Gramm-Leach-Bliley Act Impact on Financial Services and Privacy
+description: Gramm-Leach-Bliley Act reshaped financial services by enabling banks
+  and insurers to merge while enforcing customer data privacy Discover more inside.
 ---
 
 

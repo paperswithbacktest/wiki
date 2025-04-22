@@ -1,6 +1,7 @@
 ---
-title: "Group Attribution Bias (Machine Learning)"
-description: "Explore how Group Attribution Bias impacts machine learning by leading to unfair treatment of individuals based on erroneous assumptions, emphasizing fair data practices."
+title: Addressing Group Attribution Bias in Machine Learning Models
+description: Group Attribution Bias skews machine learning by applying group traits
+  to individuals Use diversity and fairness checks to reduce bias Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Impact of Size on Mutual Fund Performance"
-description: "Explore how mutual fund size impacts performance and the role of algo trading in fund management plus insights for investors choosing the right fund."
+title: Understanding How Mutual Fund Size Shapes Performance And Risk
+description: Mutual fund size covering small and large funds impact costs liquidity
+  and performance to guide investors in optimizing risk and returns Discover more
+  inside.
 ---
 
 

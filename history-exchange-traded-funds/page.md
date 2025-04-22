@@ -1,6 +1,7 @@
 ---
-title: "History of Exchange-Traded Funds"
-description: "Explore the transformative journey of ETFs and algorithmic trading in modern finance uncovering their impact on global markets and investment strategies."
+title: Evolution of Exchange-Traded Funds From 1990 to Today
+description: Exchange-Traded Funds started in 1990 and have evolved into versatile
+  low-cost investments spanning stocks bonds and commodities Discover more inside.
 ---
 
 

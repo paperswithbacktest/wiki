@@ -1,6 +1,7 @@
 ---
-title: "Green Investor Podcast by Investopedia"
-description: "Discover the synergy of sustainable investing and algorithmic trading through expert insights via podcasts unlocking innovative financial strategies and ESG trends."
+title: Investopedia Green Investor Podcast Sustainable Investing Guide
+description: Green Investor Podcast by Investopedia explores sustainable investing
+  in solar wind and electric vehicles with expert tips Discover more inside
 ---
 
 

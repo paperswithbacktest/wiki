@@ -1,6 +1,7 @@
 ---
-title: "Importance of Money Management in Forex Trading"
-description: "Master forex trading by understanding the importance of money management and algorithmic trading Boost profits and mitigate risks with smart strategies in the market"
+title: Forex Money Management Strategies for Risk Control and Growth
+description: Forex money management helps traders limit losses protect capital and
+  optimize trades through disciplined risk control and consistency Discover more inside
 ---
 
 

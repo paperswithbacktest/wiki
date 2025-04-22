@@ -1,6 +1,7 @@
 ---
-title: "KuCoin API Guide"
-description: Explore the KuCoin API Guide to enhance your algorithmic trading strategies. Discover how this comprehensive API can automate trades, access real-time market data, and manage accounts, optimizing speed and efficiency for novice and experienced traders alike. KuCoin has established itself as a leading cryptocurrency exchange since 2017, known for its wide range of digital assets, competitive fees, and robust security features. Learn how to leverage the KuCoin API for advanced trading opportunities and maximize profitability while minimizing human error.
+title: Automating Cryptocurrency Trading With the KuCoin API
+description: KuCoin API lets you automate cryptocurrency trading monitor balances
+  access real time market data and manage errors seamlessly Discover more inside
 ---
 
 

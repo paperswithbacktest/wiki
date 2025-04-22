@@ -1,6 +1,7 @@
 ---
-title: "How Much Do Quants Make? The Comprehensive Guide"
-description: "This comprehensive guide investigates into the world of quants - the financial professionals at the intersection of mathematics, finance, and technology. Their role has grown increasingly significant as markets become more complex, with quants responsible for designing models, optimizing trading strategies, managing risk, and identifying market inefficiencies."
+title: Quantitative Analyst Salary Trends and Earning Potential
+description: Quantitative analyst salary insights reveal how location experience bonus
+  incentives shape total earnings and career growth Discover more inside
 ---
 
 

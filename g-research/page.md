@@ -1,6 +1,7 @@
 ---
-title: "G-Research"
-description: "Explore how G-Research revolutionizes algorithmic trading with cutting-edge models and technologies enhancing speed accuracy and efficiency in financial markets."
+title: G-Research Pioneering Data-Driven Financial Decisions
+description: G-Research uses advanced data science to deliver actionable investment
+  insights that help investors make smarter financial decisions Discover more inside.
 ---
 
 

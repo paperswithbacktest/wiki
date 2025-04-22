@@ -1,6 +1,7 @@
 ---
-title: "How can overfitting be avoided in algorithmic trading?"
-description: "Learn how to avoid overfitting in algorithmic trading and ensure the optimum robustness and reliability of your strategies. Discover techniques like data splitting, regularization, simplifying models, cross-validation, preventing data snooping, real-time evaluation, and periodic reviews. Follow these steps for successful quantitative trading."
+title: Overfitting in Algorithmic Trading Models and How to Avoid It
+description: Overfitting in algorithmic trading can make models fail on new data so
+  this guide explains key signs and prevention methods. Discover more inside
 ---
 
 

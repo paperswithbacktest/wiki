@@ -1,6 +1,7 @@
 ---
-title: "Leg in Trading: Function and Strategy Types"
-description: "Discover the transformative impact of algorithmic trading and trading legs on financial markets Enhance your strategies with precision and efficiency."
+title: Understanding Trading Legs in Multi-Step Trading Strategies
+description: Trading legs shape risk and reward in multi-step strategies Master managing
+  single and multi-leg trades effectively Discover more inside
 ---
 
 

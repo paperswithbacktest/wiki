@@ -1,6 +1,7 @@
 ---
-title: "Investment Capital"
-description: "Explore the integration of algorithmic trading in capital investment to understand how technology transforms investment strategies. This article highlights the benefits of enhancing trading speed and accuracy while managing risks including market volatility and regulatory challenges. Ideal for investors interested in automating their trading approach for improved portfolio management and efficiency."
+title: Investment Capital Basics Types Sources and Growth Strategies
+description: Investment capital helps businesses fund growth projects and manage risk
+  with equity debt retained earnings and crowdfunding Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Historical Bias (Machine Learning)"
-description: "Understand how historical bias impacts machine learning by reflecting past unfair practices and learn techniques to identify and mitigate this bias effectively."
+title: Understanding Historical Bias in Machine Learning Models
+description: Historical bias in machine learning causes models to repeat unfair patterns
+  Mitigation cleans and balances data for fair AI Discover more inside
 ---
 
 ![Image](images/1.png)

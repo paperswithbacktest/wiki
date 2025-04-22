@@ -1,6 +1,7 @@
 ---
-title: "Impact of Federal Funds Rate Increases on Bond Portfolios"
-description: "Explore how federal funds rate increases impact bond portfolios and discover strategies to mitigate risks and optimize returns with algorithmic trading."
+title: Managing Bond Portfolio Risk Amid Federal Funds Rate Changes
+description: Federal Funds Rate shifts can lower bond prices and boost yields Duration
+  management and diversification shield portfolio value Discover more inside
 ---
 
 

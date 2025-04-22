@@ -1,6 +1,7 @@
 ---
-title: "Interdealer Market: Overview and Mechanisms"
-description: "Explore the essential aspects and mechanisms of the interdealer market including the role of algorithmic trading in enhancing efficiency and liquidity."
+title: Understanding Interdealer Market Structure and Key Functions
+description: Interdealer market enables financial firms to trade bonds and currencies
+  efficiently through secure electronic platforms Discover more inside
 ---
 
 

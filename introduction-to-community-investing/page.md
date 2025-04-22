@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Community Investing"
-description: "Explore community investing social finance and algorithmic trading in dynamic markets Learn how these strategies impact financial growth and sustainability"
+title: Community Investing To Empower Local Communities And Economies
+description: Community investing empowers individuals to support local projects that
+  create jobs, improve spaces, and strengthen community ties. Discover more inside.
 ---
 
 

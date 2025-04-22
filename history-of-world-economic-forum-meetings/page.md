@@ -1,6 +1,7 @@
 ---
-title: "History of the World Economic Forum Meetings"
-description: "Explore the impactful history of the World Economic Forum's annual meetings, focusing on global economic and social issues and algorithmic trading debates."
+title: World Economic Forum History Evolution And Global Impact
+description: World Economic Forum maps its evolution from a Davos symposium to a leading
+  global platform for policy research and collaboration Discover more inside.
 ---
 
 

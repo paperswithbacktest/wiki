@@ -1,6 +1,7 @@
 ---
-title: "Jerome Kerviel: Career and Impact in Derivatives"
-description: "Explore Jerome Kerviel's impact on finance through his infamous derivatives trading scandal at Société Générale, highlighting risks and lessons in modern algo trading."
+title: Jerome Kerviel Unauthorized Trades Prompt Risk Management Reforms
+description: Jerome Kerviel unauthorized derivatives trades cost Societe Generale
+  4.9 billion euros and triggered major risk management reforms Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "James Tobin: Biography and Contributions"
-description: "Explore the life and impact of James Tobin, a Nobel laureate whose contributions such as the Tobin Tax and portfolio theory shape modern finance, especially algo trading."
+title: James Tobin Economic Theories and Nobel Prize Achievements
+description: James Tobin economic theories explain how saving and spending choices
+  and a Tobin tax can stabilize markets and shape policy. Discover more inside.
 ---
 
 

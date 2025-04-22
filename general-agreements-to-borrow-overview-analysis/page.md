@@ -1,6 +1,8 @@
 ---
-title: "General Agreements to Borrow: Overview and Analysis"
-description: "Explore the evolution of global finance mechanisms with an analysis of the General Agreements to Borrow and its impact on international economy via algorithmic trading."
+title: General Agreements to Borrow for IMF Financial Stability
+description: General Agreements to Borrow give the IMF swift access to funds from
+  member states to support nations in crisis and maintain global stability Discover
+  more
 ---
 
 

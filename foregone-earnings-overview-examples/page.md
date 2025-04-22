@@ -1,6 +1,7 @@
 ---
-title: "Foregone Earnings: Overview and Examples"
-description: "Explore the critical economic concepts of foregone earnings and opportunity cost in algorithmic trading to improve financial decision-making and optimize trade strategies."
+title: Understanding Foregone Earnings for Better Financial Decisions
+description: Foregone earnings help you weigh the true cost of your choices and optimize
+  financial planning from education to retirement. Discover more inside.
 ---
 
 

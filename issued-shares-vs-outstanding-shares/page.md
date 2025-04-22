@@ -1,6 +1,7 @@
 ---
-title: "Issued Shares Compared to Outstanding Shares"
-description: "Discover the key differences between issued and outstanding shares in the stock market and learn how algorithmic trading has reshaped trading strategies."
+title: Understanding Issued Shares Versus Outstanding Shares in Equity
+description: Issued shares versus outstanding shares guide helps you understand how
+  these terms impact company valuation and investor decisions. Discover more inside.
 ---
 
 

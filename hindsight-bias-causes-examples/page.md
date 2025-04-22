@@ -1,6 +1,7 @@
 ---
-title: "Hindsight Bias: Causes and Examples"
-description: "Explore hindsight bias and its effect on algorithmic trading. Understand how cognitive distortions shape trading decisions and learn strategies to mitigate them."
+title: Understanding Hindsight Bias and How to Reduce Its Impact
+description: Hindsight bias skews memory and decisions by making outcomes seem obvious
+  Use note taking peer feedback and reflection to reduce bias Discover more inside
 ---
 
 

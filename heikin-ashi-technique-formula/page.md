@@ -1,6 +1,7 @@
 ---
-title: "Heikin-Ashi Technique and Formula"
-description: "Discover the Heikin-Ashi technique for algorithmic trading Learn how this method smooths price data enabling clearer trend identification and enhanced strategy formulation"
+title: Heikin-Ashi Charting Technique For Smoother Market Trends
+description: Heikin-Ashi charts simplify market trend analysis by smoothing price
+  action and revealing entry and exit signals in real time Discover more inside.
 ---
 
 

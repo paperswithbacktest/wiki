@@ -1,6 +1,7 @@
 ---
-title: "Key Industries Influencing the U.S. Economy"
-description: "Discover how key industries like technology and healthcare drive U.S. economic growth Explore how algorithmic trading reshapes financial markets and boosts efficiency"
+title: Key Industries Shaping Growth and Stability in the U.S. Economy
+description: U.S. economy key industries drive growth by creating jobs, innovation,
+  and stability across sectors from tech to energy. Discover more inside.
 ---
 
 

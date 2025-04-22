@@ -1,6 +1,7 @@
 ---
-title: "K-Fold Cross Validation (Machine Learning)"
-description: "K-Fold Cross Validation enhances model reliability by evaluating performance across multiple data splits reducing bias from single train-test splits."
+title: Understanding K-Fold Cross Validation in Machine Learning
+description: K-Fold Cross Validation provides performance estimates by averaging multiple
+  data splits reducing bias and boosting model reliability Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Liberty Reserve: Overview and Functionality"
-description: "Explore Liberty Reserve's impact on digital currency and algorithmic trading by examining its secure transactions, anonymity, regulatory challenges, and ultimate shutdown."
+title: Key Lessons From the Rise and Fall of Liberty Reserve
+description: Liberty Reserve rose for privacy and ease then closed over illicit use
+  showing the need for robust digital currency regulation Discover more inside
 ---
 
 

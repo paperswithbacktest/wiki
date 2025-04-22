@@ -1,6 +1,7 @@
 ---
-title: "Indirect Quote vs. Direct Quote"
-description: "Explore the role of direct and indirect quotes in forex trading and the impact of algorithmic trading on these processes for better trading outcomes."
+title: Direct and Indirect Quotes Formatting and Usage Guidelines
+description: Direct and indirect quotes guide shows how to accurately cite exact words
+  and paraphrase sources to boost credibility and readability Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "International Securities Association for Institutional Trade Communication"
-description: "Discover how ISITC shapes efficient global financial markets through robust communication standards and the evolution of algorithmic trading technologies."
+title: ISITC Standards for Efficient Institutional Trade Communication
+description: ISITC sets global unified communication standards and upgrades trading
+  technology to boost market efficiency and reliability Discover more inside
 ---
 
 

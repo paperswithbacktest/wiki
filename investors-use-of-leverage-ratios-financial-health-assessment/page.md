@@ -1,6 +1,7 @@
 ---
-title: "Investors' Use of Leverage Ratios in Financial Health Assessment"
-description: "Leverage ratios are crucial for investors assessing financial health and algorithmic trading can integrate these insights to enhance data-driven investment strategies."
+title: Understanding Leverage Ratios as Key Financial Health Indicators
+description: Leverage ratios help investors gauge a companys debt versus equity balance
+  for informed risk management and growth insight Discover more inside.
 ---
 
 

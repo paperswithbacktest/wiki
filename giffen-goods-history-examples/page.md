@@ -1,6 +1,7 @@
 ---
-title: "Giffen Goods: History and Examples"
-description: "Explore the unique nature of Giffen goods that defy conventional demand laws and their intersection with algorithmic trading and consumer behavior."
+title: Understanding Giffen Goods And Their Counterintuitive Demand
+description: Giffen goods defy the law of demand when staple prices rise and low income
+  consumers increase consumption of essential foods Discover more inside
 ---
 
 

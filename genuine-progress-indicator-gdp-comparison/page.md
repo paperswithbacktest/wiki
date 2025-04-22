@@ -1,6 +1,7 @@
 ---
-title: "Genuine Progress Indicator Compared to GDP"
-description: "Discover how the Genuine Progress Indicator (GPI) contrasts with GDP by integrating environmental and social metrics, and its impact on algorithmic trading strategies."
+title: Comparing the Genuine Progress Indicator and GDP Measures
+description: Genuine Progress Indicator reveals economic well being by adjusting GDP
+  for social health environmental impact and income fairness Discover more inside
 ---
 
 

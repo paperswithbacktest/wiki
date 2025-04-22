@@ -1,6 +1,7 @@
 ---
-title: "History and Organization of the Securities and Futures Commission"
-description: "Explore the pivotal role of the Securities and Futures Commission in regulating and enhancing the integrity of Hong Kong's financial markets through robust oversight."
+title: Understanding the Securities and Futures Commission in Hong Kong
+description: Securities and Futures Commission ensures fair Hong Kong markets through
+  licensing, regulation and enforcement to protect investors. Discover more inside.
 ---
 
 

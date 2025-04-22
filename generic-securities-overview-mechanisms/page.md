@@ -1,6 +1,7 @@
 ---
-title: "Generic Securities: Overview and Mechanisms"
-description: "Explore the world of generic securities and algorithmic trading to enhance investment strategies Discover how these modern financial tools can optimize your portfolio"
+title: Generic Securities Explained For Simplified Portfolio Management
+description: Generic securities group stocks bonds and cash equivalents into broad
+  categories that simplify risk assessment and diversification Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Impairment Loss and Its Calculation"
-description: "Understand impairment loss calculation and its significance in algorithmic trading. Identifying impairment ensures accuracies in asset values for better financial reporting."
+title: Understanding Impairment Loss Accounting in Financial Statements
+description: "Impairment loss happens when an asset\u2019s value drops below its book\
+  \ value Summarize its impact on financial reports and ensure accurate statements\
+  \ Discover more inside"
 ---
 
 

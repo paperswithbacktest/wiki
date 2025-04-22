@@ -1,6 +1,7 @@
 ---
-title: "Liquidating Market"
-description: "Explore the impact of liquidating markets on investments and trading with insights into algorithmic trading. Understand market dynamics and decision-making in volatile conditions."
+title: Understanding Liquidating Markets and Investor Strategies
+description: Liquidating market conditions can present buying opportunities and bolster
+  long term portfolios through disciplined strategies discover more inside
 ---
 
 

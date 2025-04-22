@@ -1,6 +1,7 @@
 ---
-title: "Lean Enterprise: Concepts, Principles, and Lean Six Sigma"
-description: "Explore Lean Enterprise and Lean Six Sigma methods to boost efficiency and quality in algorithmic trading. Learn how these principles drive success."
+title: Lean Enterprise Principles And Practices For Business Efficiency
+description: Lean Enterprise drives efficiency by eliminating waste and fostering
+  continuous improvement at every level of your organization Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Quarter-End on Portfolio Management"
-description: "Quarter-end impacts portfolio management by providing a strategic period for assessing investments. Algorithmic trading exploits this data-rich time to optimize outcomes."
+title: Effective Quarter-End Strategies for Portfolio Management
+description: Quarter-End portfolio management relies on strategic rebalancing and
+  cost controls to optimize returns and manage risk Discover more inside.
 ---
 
 

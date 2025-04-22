@@ -1,6 +1,7 @@
 ---
-title: "Influence of Government Policy on Microeconomics"
-description: "Explore how government policy and algorithmic trading shape microeconomics affecting decision-making for individuals and firms in market environments."
+title: How Government Policies Shape Microeconomic Decision Making
+description: Microeconomics explains how fiscal regulatory and trade policies shape
+  consumer and business choices to drive market dynamics Discover more inside.
 ---
 
 

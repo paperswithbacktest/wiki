@@ -1,6 +1,7 @@
 ---
-title: "Kanban System"
-description: "Discover how Kanban and Lean principles optimize algorithmic trading by enhancing workflow management improving efficiency and minimizing operational risks."
+title: Mastering Kanban Systems for Efficient Workflow Management
+description: Kanban system clarifies workflows with visual boards and WIP limits to
+  help teams focus, identify bottlenecks and improve delivery Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "How to assess the robustness of a trading model?"
-description: "Assessing the robustness of a trading model is crucial for designing effective algorithmic strategies. Learn methods such as out-of-sample testing, cross-validation, stress testing, sensitivity analysis, examining assumptions, evaluating trading frequency, and using diversified performance measurements to ensure your model's long-term viability in various market conditions."
+title: Ensuring Trading Model Robustness Through Effective Evaluation
+description: Trading model robustness reaches new levels by assessing performance
+  with diverse historical datasets and rigorous stress testing Discover more inside.
 ---
 
 

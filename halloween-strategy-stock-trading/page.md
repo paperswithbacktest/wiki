@@ -1,6 +1,7 @@
 ---
-title: "Halloween Strategy in Stock Trading"
-description: "Explore the Halloween strategy in algorithmic trading which leverages seasonal stock trends and advanced trading algorithms to optimize investment returns."
+title: Halloween Stock Trading Strategy for Seasonal Profits
+description: "Halloween strategy lets investors tap seasonal market gains by buying\
+  \ on October\_31 and selling on May\_1 to boost returns Discover more inside"
 ---
 
 

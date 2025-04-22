@@ -1,6 +1,7 @@
 ---
-title: "Humped Yield Curve: Meaning, Functionality, and Types"
-description: "Explore the unique characteristics of a humped yield curve and its impact on finance and algorithmic trading strategies Learn how it shapes investor insights"
+title: Understanding the Humped Yield Curve in Bond Markets
+description: Humped yield curve shows medium term bond yields above short and long
+  rates, revealing market uncertainty and future rate expectations Discover more inside
 ---
 
 

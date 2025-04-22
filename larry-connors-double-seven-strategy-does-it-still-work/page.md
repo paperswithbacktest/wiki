@@ -1,6 +1,7 @@
 ---
-title: "Larry Connors Double Seven Strategy: Does It Still Work?"
-description: Explore the effectiveness of the Larry Connors Double Seven strategy in algorithmic trading renowned for its straightforward and mean-reversion principle. This article investigates into its foundational mechanics, trading rules, historical performance, and potential integration into trading systems. Discover how its reliance on simple moving averages and price actions can aid in capturing short-term market reversals without complex computational methods while offering impressive reliability as evidenced by high historical win ratios and favorable trading metrics.
+title: Mastering the Double Seven Strategy for Short-Term Trading
+description: Double Seven Strategy helps traders identify oversold stocks that dropped
+  7 percent and rebound quickly by clear entry and exit rules. Discover more inside.
 ---
 
 

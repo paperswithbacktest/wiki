@@ -1,6 +1,7 @@
 ---
-title: "Impact of the Bretton Woods System"
-description: "Explore how the historical Bretton Woods System and modern algorithmic trading have shaped global finance, impacting economic strategies and market operations."
+title: Understanding the Bretton Woods System and Its Legacy
+description: Bretton Woods System anchored currencies to the US dollar and gold boosting
+  trade stability with IMF and World Bank lending Discover more inside
 ---
 
 

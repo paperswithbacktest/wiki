@@ -1,6 +1,7 @@
 ---
-title: "Impact of Stock Dividends on Share Price Compared to Forward Stock Splits"
-description: "Discover how stock dividends and forward stock splits impact share prices and investor strategies in the context of algorithmic trading. Learn key insights."
+title: Impact Of Stock Dividends And Forward Stock Splits On Share Price
+description: Stock dividends and forward stock splits affect share price investor
+  perception and market capitalization in active markets Discover more inside.
 ---
 
 

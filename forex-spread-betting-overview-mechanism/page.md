@@ -1,6 +1,7 @@
 ---
-title: "Forex Spread Betting: Overview and Mechanism"
-description: "Explore the world of forex spread betting and algorithmic trading Understand modern trading mechanisms to gain a strategic edge in global financial markets."
+title: Comprehensive Guide to Forex Spread Betting Essentials
+description: Forex spread betting unlocks market exposure with leverage while explaining
+  key terms risk measures and tax benefits Discover more inside
 ---
 
 

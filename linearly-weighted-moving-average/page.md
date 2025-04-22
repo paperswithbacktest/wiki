@@ -1,6 +1,7 @@
 ---
-title: "Linearly Weighted Moving Average"
-description: "Discover the power of the Linearly Weighted Moving Average in algo trading to enhance precision and response speed in trend identification and market analysis."
+title: Linearly Weighted Moving Average Explained for Traders
+description: Linearly Weighted Moving Average gives traders faster trend signals by
+  emphasizing recent prices and reducing lag in analysis Discover more inside
 ---
 
 

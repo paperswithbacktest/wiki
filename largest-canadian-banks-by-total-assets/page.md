@@ -1,6 +1,7 @@
 ---
-title: "Largest Canadian Banks by Total Assets"
-description: "Discover the top Canadian banks by assets known as the Big Five offering robust financial services domestically and internationally while embracing digital innovation."
+title: Largest Banks in Canada by Total Assets and Their Economic Impact
+description: Total assets of Canadian banks show how top lenders leverage over 1.6
+  trillion to fuel lending and global growth Discover more inside
 ---
 
 

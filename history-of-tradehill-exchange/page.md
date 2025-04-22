@@ -1,6 +1,7 @@
 ---
-title: "History of Tradehill Exchange"
-description: "Explore the rise and fall of Tradehill Exchange a pioneer in cryptocurrency trading that integrated algorithmic strategies to enhance trading efficiency."
+title: Rise and Fall of Tradehill Exchange in Bitcoin Trading
+description: Tradehill Exchange pioneered easy secure bitcoin trading from 2011 until
+  banking and regulatory hurdles forced its 2013 closure Discover more inside
 ---
 
 

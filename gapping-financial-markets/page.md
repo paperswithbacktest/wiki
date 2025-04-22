@@ -1,6 +1,7 @@
 ---
-title: "Gapping in Financial Markets"
-description: "Explore the phenomenon of gapping in financial markets and its impact on trading strategies Understand price shifts between trading sessions to enhance trading performance"
+title: Understanding Trading Gaps in Stock Market Analysis
+description: Trading gaps show sudden price jumps after market news and help traders
+  identify breakaway continuation or exhaustion patterns Discover more inside
 ---
 
 

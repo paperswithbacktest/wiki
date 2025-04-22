@@ -1,6 +1,7 @@
 ---
-title: "Labeled Example (Machine Learning)"
-description: "Learn about labeled examples in machine learning and their importance in training models to make accurate predictions through supervised learning methods."
+title: Understanding Labeled Examples in Supervised Machine Learning
+description: Labeled examples drive supervised learning success by teaching models
+  to recognize patterns from tagged data and boost accuracy Discover more inside.
 ---
 
 ![Image](images/1.png)

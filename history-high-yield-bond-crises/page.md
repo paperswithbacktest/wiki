@@ -1,6 +1,8 @@
 ---
-title: "History of High-Yield Bond Crises"
-description: "Explore the history of high-yield bond crises revealing their risks and market crashes and the impact of algorithmic trading in shaping bond market dynamics."
+title: High-Yield Bond Market Crises History Impact and Outlook
+description: "High-yield bonds have driven market crises since the 1980s and spurred\
+  \ regulatory reforms Explore key lessons for today\u2019s investors Discover more\
+  \ inside"
 ---
 
 

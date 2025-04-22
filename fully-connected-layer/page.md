@@ -1,6 +1,7 @@
 ---
-title: "Fully Connected Layer (Machine Learning)"
-description: "Explore the essential role of the Fully Connected Layer in neural networks where each neuron connects to all neurons in the previous layer enabling detailed predictions"
+title: Understanding Fully Connected Layers in Neural Networks
+description: Fully Connected Layers integrate inputs to learn complex patterns and
+  boost prediction accuracy in neural networks with optimized weights. Discover inside.
 ---
 
 ![Image](images/1.jpeg)

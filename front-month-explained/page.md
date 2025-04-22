@@ -1,6 +1,7 @@
 ---
-title: "Front Month Explained"
-description: "Explore the intricacies of front month futures in algorithmic trading to gain insights into liquidity trends and strategies for optimizing trading efficiency."
+title: Understanding Front Month Contracts in Futures Trading
+description: Front month futures trading provides immediate market signals via the
+  most liquid contract and influences pricing and risk management Discover more inside
 ---
 
 

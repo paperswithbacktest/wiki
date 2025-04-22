@@ -1,6 +1,7 @@
 ---
-title: "Headline Earnings: Meaning and Criticism"
-description: "Explore the significance of headline earnings in financial reporting and algorithmic trading as they focus on core profitability by excluding non-recurring items."
+title: Measuring Headline Earnings to Reveal True Company Performance
+description: Headline earnings remove non recurring gains and costs to expose core
+  business profitability and guide smart investments Discover more inside
 ---
 
 

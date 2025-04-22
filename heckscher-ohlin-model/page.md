@@ -1,6 +1,7 @@
 ---
-title: "Heckscher-Ohlin Model"
-description: "Explore the Heckscher-Ohlin model and its impact on international trade, emphasizing how countries export goods utilizing their abundant resources while importing those in scarcity. Understand its integration with algorithmic trading to optimize financial strategies in global markets. Discover how traditional economic theories merge with cutting-edge technology to enhance trade decision-making and foster economic growth."
+title: Understanding the Heckscher-Ohlin Model of International Trade
+description: Heckscher-Ohlin Model reveals how countries use abundant resources to
+  shape export and import patterns for mutual gains from trade. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "liquidity modeling"
-description: "Explore the crucial role of liquidity modeling in algorithmic trading Learn strategies to optimize trade execution minimize risks and boost profitability"
+title: Advanced Liquidity Modeling Techniques For Financial Markets
+description: Liquidity modeling in financial markets shows how to measure trading
+  volume bid ask spreads and risk using machine learning insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Iceberg Order Identification and Analysis"
-description: "Optimize your algorithmic trading strategy by understanding and identifying iceberg orders. Learn how to discreetly execute large trades while minimizing market impact."
+title: Comprehensive Guide to Iceberg Orders Impact and Detection
+description: Iceberg orders allow traders to split large trades to hide full volume
+  and reduce market impact while preserving strategy secrecy Discover more inside
 ---
 
 

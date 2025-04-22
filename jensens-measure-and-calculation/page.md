@@ -1,6 +1,7 @@
 ---
-title: "Jensen's Measure and Its Calculation"
-description: "Explore Jensen's Measure in algorithmic trading to assess and refine trading strategies, enhancing returns over benchmarks with risk-adjusted insights."
+title: Understanding Jensen's Alpha for Portfolio Performance
+description: Jensen's Alpha reveals how your portfolio outperforms market expectations
+  by adjusting returns for risk and manager decisions Discover more inside
 ---
 
 

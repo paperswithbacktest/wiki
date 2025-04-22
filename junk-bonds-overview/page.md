@@ -1,6 +1,7 @@
 ---
-title: "Junk Bonds Overview"
-description: "Explore the world of junk bonds and algorithmic trading. Understand the risks and rewards involved and learn how to effectively integrate them into your portfolio."
+title: Understanding Junk Bonds Benefits Risks And Investment Strategies
+description: Junk Bonds offer higher yields for increased risk explore their history
+  and credit ratings and strategies to balance portfolio risk Discover more inside.
 ---
 
 

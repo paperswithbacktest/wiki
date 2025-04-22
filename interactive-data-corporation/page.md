@@ -1,6 +1,7 @@
 ---
-title: "Interactive Data Corporation"
-description: "Explore how Interactive Data Corporation enhances trading operations with advanced data analytics and algorithmic tools to empower informed and rapid decision-making."
+title: Interactive Data Corporation Key Financial Data and Analytics
+description: Interactive Data Corporation delivers reliable global market data solutions
+  and advanced analytics for accurate financial insights. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Kernel Support Vector Machines (Ksvms) (Machine Learning)"
-description: "Explore the power of Kernel Support Vector Machines (KSVMs) in machine learning for complex classification and regression tasks using various kernel types."
+title: Fundamentals and Applications of Kernel Support Vector Machines
+description: Kernel Support Vector Machine applies kernels to map data into higher
+  dimensions for non-linear classification and regression Discover more inside
 ---
 
 ![Image](images/1.png)

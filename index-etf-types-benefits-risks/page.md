@@ -1,6 +1,7 @@
 ---
-title: "Index ETF: Types, Benefits, and Risks"
-description: "Index ETFs offer cost-effective diversification by tracking market indices like the S&P 500 Learn about their benefits risks and the influence of algorithmic trading"
+title: Investing in Index ETFs for Diversification and Low Costs
+description: Index ETFs offer diversified market exposure with low fees and transparent
+  tracking so you can build a balanced portfolio with ease. Discover more inside
 ---
 
 

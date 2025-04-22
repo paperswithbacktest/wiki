@@ -1,6 +1,7 @@
 ---
-title: "Impact of Cognitive Bias on Business"
-description: "Explore how cognitive biases affect business decisions and algorithmic trading. Discover ways to mitigate these biases for improved strategic outcomes."
+title: Mitigating Cognitive Bias in Business Strategic Decision Making
+description: Cognitive bias can skew business decisions and incur losses. Get insights
+  into common biases and practical mitigation strategies. Discover more inside.
 ---
 
 

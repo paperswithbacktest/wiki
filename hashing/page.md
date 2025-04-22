@@ -1,6 +1,7 @@
 ---
-title: "Hashing (Machine Learning)"
-description: "Hashing in machine learning transforms data into fixed-size values to efficiently reduce dimensionality manage large datasets and enhance model performance."
+title: Efficient Hashing Techniques for Scalable Machine Learning
+description: Hashing in machine learning converts high dimensional data into compact
+  feature vectors that speed processing and cut memory use Discover more inside
 ---
 
 ![Image](images/1.jpeg)

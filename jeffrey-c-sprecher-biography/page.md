@@ -1,6 +1,7 @@
 ---
-title: "Jeffrey C. Sprecher Biography"
-description: "Explore Jeffrey C Sprecher’s journey as a pioneer in electronic trading and algorithmic platforms leading ICE to global prominence in financial markets"
+title: Jeffrey C. Sprecher Founder and CEO of Intercontinental Exchange
+description: Jeffrey C. Sprecher built Intercontinental Exchange by applying his engineering
+  background to modernize global markets. Discover more inside.
 ---
 
 

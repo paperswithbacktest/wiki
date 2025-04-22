@@ -1,6 +1,7 @@
 ---
-title: "Intraday Intensity Index"
-description: "Explore intraday intensity in financial index trading, where trading metrics merge with algorithmic strategies to harness market dynamics and enhance performance."
+title: Understanding the Intraday Intensity Index for Traders
+description: Intraday Intensity Index reveals daily buying or selling pressure by
+  combining price change and volume data to help traders time moves Discover more
 ---
 
 

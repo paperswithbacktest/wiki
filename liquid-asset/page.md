@@ -1,6 +1,7 @@
 ---
-title: "Liquid Asset"
-description: "Unlock the potential of algo trading in financial markets Understand liquid assets and their crucial role in investment strategies for maximum agility and returns"
+title: Essential Guide to Understanding Liquid Assets and Liquidity
+description: Liquid assets give you quick access to cash without value loss so you
+  can cover emergencies and seize investment opportunities Discover more inside.
 ---
 
 

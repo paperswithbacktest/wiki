@@ -1,6 +1,7 @@
 ---
-title: "Investment Options in Vanguard Energy ETF"
-description: "Explore the Vanguard Energy ETF for diversified exposure to the oil sector with algorithmic trading strategies balancing risk and return in a volatile market."
+title: Vanguard Energy ETF Guide For Diversified Energy Investments
+description: Vanguard Energy ETF offers low cost exposure to oil gas and renewable
+  stocks across energy firms to spread risk and capture sector growth Discover more
 ---
 
 

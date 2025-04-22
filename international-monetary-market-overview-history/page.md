@@ -1,6 +1,7 @@
 ---
-title: "International Monetary Market: Overview and History"
-description: "Explore the development of the International Monetary Market and algorithmic trading's impact on global markets while navigating monetary policies and historical trends."
+title: International Monetary Market Overview And Its Global Impact
+description: International Monetary Market helps businesses manage currency and interest
+  rate risks by trading futures and options. Discover more inside.
 ---
 
 

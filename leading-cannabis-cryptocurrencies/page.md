@@ -1,6 +1,7 @@
 ---
-title: "List of Leading Cannabis Cryptocurrencies"
-description: "Explore the dynamic intersection of cannabis, cryptocurrencies, and algorithmic trading. Discover their growth, challenges, and investment opportunities today."
+title: Cannabis Cryptocurrencies Explained For Industry and Investors
+description: Cannabis cryptocurrencies enable secure private transactions and investment
+  in the evolving cannabis market while bypassing banks Discover more inside.
 ---
 
 

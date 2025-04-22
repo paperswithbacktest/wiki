@@ -1,6 +1,7 @@
 ---
-title: "Impact of Market Risk on Capital Costs"
-description: "Explore the impact of market risk on capital costs in algo trading, enhancing investment strategies and risk management through technology and analytics insights."
+title: Market Risk And Its Impact On Business Capital Costs
+description: Market risk drives changes in equity and debt costs by altering rates
+  via VaR beta hedging and diversification strategies Discover more inside
 ---
 
 

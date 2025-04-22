@@ -1,6 +1,7 @@
 ---
-title: "Impact of News on Stock Prices"
-description: "Explore how news influences stock price volatility and the role of algorithmic trading in modern markets. Discover strategies to navigate financial complexities."
+title: How News Influences Stock Prices and Market Sentiment
+description: News Impact on Stock Prices drives market mood and shapes investor decisions
+  by tracking key events from earnings to economic reports Discover more inside.
 ---
 
 

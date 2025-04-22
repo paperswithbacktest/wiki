@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Investment Practices in the United States and Canada"
-description: "Explore the contrasts in algorithmic trading practices between the U.S. and Canada considering market dynamics regulatory environments and technological advancements."
+title: Investment Options Comparison Between US and Canada
+description: Investment Options in the US and Canada vary by types tax rules fees
+  and regulations Explore differences to optimize your portfolio Discover more inside
 ---
 
 

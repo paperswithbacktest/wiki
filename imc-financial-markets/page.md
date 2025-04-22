@@ -1,6 +1,7 @@
 ---
-title: "IMC Financial Markets"
-description: "Explore IMC Financial Markets a leader in proprietary trading and market making, utilizing cutting-edge technology and strategies to enhance global financial markets."
+title: IMC Financial Markets Overview Technology Driven Trading Solutions
+description: IMC Financial Markets uses advanced trading technology to enhance market
+  liquidity and manage risk proactively. Discover more inside.
 ---
 
 

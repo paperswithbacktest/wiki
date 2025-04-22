@@ -1,6 +1,7 @@
 ---
-title: "GDP Per Capita and Its Usage Across Countries"
-description: "Discover the impact of GDP per capita on global trading and economic strategies Examine how this vital metric shapes investor decisions and economic policies"
+title: Understanding GDP Per Capita and Its Economic Significance
+description: GDP per capita shows average economic output per person and its distribution
+  limits. Explore its impact on policy and comparisons. Discover more inside
 ---
 
 

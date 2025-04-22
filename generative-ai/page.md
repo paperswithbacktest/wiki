@@ -1,6 +1,7 @@
 ---
-title: "Generative Ai (Machine Learning)"
-description: "Discover how Generative AI creates new content by learning patterns from data transforming creativity in art music and writing with innovative AI-driven solutions."
+title: Generative AI Principles Applications Ethics and Future
+description: Generative AI offers a clear guide to its core principles applications
+  ethics and future potential in creativity and innovation Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Limited Government and Its Functioning"
-description: "Explore how limited government principles influence innovation within algorithmic trading, highlighting the historical and modern implications for financial markets."
+title: Principles and Functions of Limited Government Explained
+description: Limited government uses constitutional limits and checks and balances
+  to protect rights, ensure fair governance and serve citizens Discover more inside
 ---
 
 

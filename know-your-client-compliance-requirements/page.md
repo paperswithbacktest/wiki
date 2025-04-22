@@ -1,6 +1,7 @@
 ---
-title: "Know Your Client and Compliance Requirements"
-description: "Client verification compliance and Know Your Client (KYC) protocols in algorithmic trading are crucial for security and regulatory adherence. These processes ensure client identities are verified to prevent illegal activities like money laundering. By integrating KYC into high-speed trading systems, financial institutions enhance transparency and protect market integrity. This article discusses essential KYC components, regulatory frameworks, and compliance challenges in algorithmic trading, highlighting the need for innovative compliance strategies in response to evolving demands."
+title: Comprehensive KYC Compliance Guide for Financial Institutions
+description: KYC helps verify customer identities run due diligence and monitor transactions
+  with clear compliance guidance and tech solutions Discover more inside
 ---
 
 

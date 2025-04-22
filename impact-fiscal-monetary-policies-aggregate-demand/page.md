@@ -1,6 +1,7 @@
 ---
-title: "Impact of Fiscal and Monetary Policies on Aggregate Demand"
-description: "Explore how fiscal and monetary policies shape aggregate demand and influence economic trends through algorithmic trading strategies and insights."
+title: Aggregate Demand and the Impact of Fiscal and Monetary Policy
+description: Aggregate demand reflects fiscal spending tax shifts and monetary interest
+  rate adjustments to stabilize growth and curb inflation Discover more inside
 ---
 
 

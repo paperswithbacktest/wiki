@@ -1,6 +1,7 @@
 ---
-title: "Fourier Analysis: Meaning and Function"
-description: "Explore how Fourier analysis unveils patterns in complex signals for algorithmic trading, optimizing strategies by transforming time-domain signals into frequency insights."
+title: Understanding Fourier Analysis Principles and Applications
+description: Fourier Analysis breaks signals into sine and cosine components to reveal
+  frequency insights for music, engineering and trading Discover more inside.
 ---
 
 

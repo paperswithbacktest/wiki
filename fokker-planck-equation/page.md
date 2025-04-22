@@ -1,6 +1,7 @@
 ---
-title: "Fokker-Planck equation"
-description: "Explore the Fokker-Planck equation in algorithmic trading to model asset price behavior and develop strategies by understanding market dynamics and volatility."
+title: Understanding the Fokker-Planck Equation for Stochastic Systems
+description: Fokker-Planck equation shows how drift and diffusion shape stochastic
+  systems in physics chemistry finance and biology Discover more inside.
 ---
 
 

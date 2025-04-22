@@ -1,6 +1,7 @@
 ---
-title: "Higher Yields of Commercial Bills Compared to T-Bills"
-description: "Explore how algorithmic trading maximizes yields of commercial bills over T-bills by leveraging strategies that blend technology with traditional finance insights."
+title: Comparing Yields of Commercial Bills and Treasury Bills
+description: Commercial bills yield more than T-Bills to offset credit risk and lower
+  liquidity while T-Bills deliver government-backed stability Discover more inside
 ---
 
 

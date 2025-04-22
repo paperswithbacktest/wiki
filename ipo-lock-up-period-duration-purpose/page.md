@@ -1,6 +1,7 @@
 ---
-title: "IPO Lock-Up Period Duration and Purpose"
-description: "Explore the importance of IPO lock-up periods and the influence of algorithmic trading in financial markets Understand how these factors impact market stability and pricing dynamics"
+title: Understanding IPO Lock-Up Periods A Guide for Investors
+description: IPO lock-up period safeguards post-IPO stock stability by restricting
+  insider sales for 90 to 180 days and builds investor confidence Discover more inside
 ---
 
 

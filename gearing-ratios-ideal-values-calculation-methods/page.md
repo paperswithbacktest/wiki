@@ -1,6 +1,7 @@
 ---
-title: "Gearing Ratios: Ideal Values and Calculation Methods"
-description: "Explore gearing ratios and their role in assessing financial leverage learn debt management strategies and discover applications in algorithmic trading."
+title: Gearing Ratios in Finance and Automotive Transmissions
+description: Gearing ratios measure debt equity balance in companies and optimize
+  vehicle transmissions for performance and efficiency Discover more inside
 ---
 
 

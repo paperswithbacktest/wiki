@@ -1,6 +1,7 @@
 ---
-title: "Level 1 Market Data and Trading Screen Accessibility"
-description: "Level 1 market data on trading screens offers real-time bid-ask prices crucial for traders and investors, enhancing market accessibility and algo trading efficiency."
+title: Level 1 Market Data Explained for Effective Trading Decisions
+description: Level 1 market data shows real time bid ask prices sizes and chart insights
+  to guide traders through market basics and screen setup Discover more inside.
 ---
 
 

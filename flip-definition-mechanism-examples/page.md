@@ -1,6 +1,7 @@
 ---
-title: "Flip: Definition, Mechanism, and Examples"
-description: "Explore the mechanics and implications of mechanism flips in algorithmic trading. Learn how these unexpected changes in trading behavior affect strategy and risk management."
+title: 'Gymnastics Flips Explained: Physics, Technique and Safety'
+description: Gymnastics flips use physics and muscle control for safe precise rotations
+  from basic front flips to advanced twisting moves. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Internet Alternative Data"
-description: Explore the revolutionary impact of internet-based alternative data in algorithmic trading to gain a competitive edge. This emerging trend leverages unconventional sources like social media, satellite imagery, and web traffic to offer unique market insights not available through traditional datasets. As traders seek new ways to anticipate market movements and optimize strategies, alternative data provides a broader view of market realities, driving informed decisions in the dynamic world of financial markets. Discover how these innovative data types are transforming trading strategies and enhancing predictive capabilities.
+title: Understanding Internet Alternative Data For Smarter Decisions
+description: Internet alternative data empowers businesses and investors to analyze
+  real-time social sentiment web traffic for smarter decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Junior Security: Overview and Examples"
-description: "Explore junior security concepts within cybersecurity and algorithmic trading to understand foundational defenses against cyber threats, ensuring robust data protection."
+title: Essential Guide to Junior Security Roles in Cybersecurity
+description: Junior security roles offer hands on practice monitoring threats using
+  firewalls antivirus and SIEM to build skills and confidence Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Flight to Liquidity Explaining Market Movements and Impacts
-description: Flight to Liquidity prompts investors to shift from stocks to cash and
-  government bonds during market stress to protect capital Discover more inside.
+title: Understanding Flight to Liquidity in Financial Markets
+description: Flight to Liquidity shows how investors safeguard capital by moving from
+  stocks to cash and government bonds during market stress Discover more inside
 ---
 
 

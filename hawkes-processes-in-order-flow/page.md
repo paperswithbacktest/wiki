@@ -1,6 +1,7 @@
 ---
-title: "Hawkes processes in order flow"
-description: "Explore the essential role of Hawkes processes in algorithmic trading for predicting market movements with precision, using their self-exciting properties."
+title: Modeling Stock Market Order Flow With Hawkes Processes
+description: Hawkes process shows how past orders drive trades through event intensity
+  to predict market clusters in real time for better decisions Discover more inside
 ---
 
 

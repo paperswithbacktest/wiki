@@ -1,6 +1,7 @@
 ---
-title: "Instance (Machine Learning)"
-description: "An instance in machine learning is a single data point or example in a dataset used to train models by providing unique feature sets and aiding predictions."
+title: Understanding Instances in Machine Learning Models and Datasets
+description: Machine learning instances are data points that power model training
+  and pattern discovery in supervised and unsupervised methods Discover more inside
 ---
 
 ![Image](images/1.png)

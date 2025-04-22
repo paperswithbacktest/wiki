@@ -1,6 +1,7 @@
 ---
-title: "Gap Fill Trading Strategies Explained"
-description: Discover the intricacies of gap fill trading strategies with a focus on the SPY ETF which leverages price gaps to maximize profits. Learn how algorithmic trading can automate this process enhancing trade efficiency and minimizing emotional bias. Explore various types of gaps including common runaway and exhaustion gaps and understand how traders use historical data and technical indicators to identify lucrative opportunities. Uncover the benefits and challenges of employing algorithmic systems in gap fill strategies and gain insights into successful implementation through testing and market adaptation.
+title: 'Gap Fill Trading Guide: Strategies To Profit From Price Gaps'
+description: Gap fill trading teaches you to spot price gaps on charts and use expert
+  indicators plus risk management to maximize returns Discover more inside
 ---
 
 

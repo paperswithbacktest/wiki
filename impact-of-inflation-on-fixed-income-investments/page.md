@@ -1,6 +1,7 @@
 ---
-title: "Impact of Inflation on Fixed-Income Investments"
-description: "Explore how inflation impacts fixed-income investments and the advantages of algorithmic trading in mitigating associated risks for efficient portfolio management."
+title: Navigating Inflation Effects on Fixed Income Investments
+description: Inflation erodes purchasing power and fixed income returns by cutting
+  real value. Explore strategic hedges to protect your portfolio. Discover more inside.
 ---
 
 

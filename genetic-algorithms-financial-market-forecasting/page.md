@@ -1,6 +1,7 @@
 ---
-title: "Genetic Algorithms in Financial Market Forecasting"
-description: "Explore how Genetic Algorithms revolutionize financial market forecasting by optimizing algorithmic trading strategies through evolutionary principles and adaptability."
+title: Genetic Algorithms for Financial Market Forecasting
+description: Genetic algorithms enable evolving trading strategies through selection
+  crossover and mutation to improve market predictions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "K-Median (Machine Learning)"
-description: "K-Median clustering is a robust algorithm that minimizes distances from data points to cluster medians, effectively handling outliers better than K-Means."
+title: Understanding K-Median Clustering in Machine Learning
+description: K-Median clustering uses median-based centers to minimize distance and
+  resist outliers for robust grouping in logistics analytics Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Largest Banks in China"
-description: "Explore China's largest banks like ICBC and CCB as they leverage cutting-edge algorithmic trading, enhancing their global dominance and market strategies."
+title: Comprehensive Guide to China's Largest Banks and Their Impact
+description: Explore the largest banks in China driving growth through asset management
+  innovation and global expansion while shaping the economy Discover more inside.
 ---
 
 

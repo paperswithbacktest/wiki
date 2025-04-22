@@ -1,6 +1,7 @@
 ---
-title: "Investment Grade Explained"
-description: "Explore the complexities of investment grade classifications and algorithmic trading Discover how these elements enhance your financial market strategies"
+title: Understanding Investment Grade Bond Ratings and Their Impact
+description: Investment grade ratings help investors assess bond safety and yield
+  stability while managing risk in your portfolio with insights Discover more inside
 ---
 
 

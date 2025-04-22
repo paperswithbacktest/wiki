@@ -1,6 +1,8 @@
 ---
-title: "Hyperledger: Open Source Blockchain Framework and Standards"
-description: "Explore how Hyperledger's blockchain frameworks enhance algorithmic trading with improved security, transparency, and efficiency in financial markets."
+title: Exploring the Hyperledger Enterprise Blockchain Ecosystem
+description: Hyperledger provides a secure blockchain ecosystem with modular tools
+  for digital identity and asset tracking and supply chain management Discover more
+  inside
 ---
 
 

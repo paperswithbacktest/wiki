@@ -1,6 +1,8 @@
 ---
-title: "List of Largest Companies by Revenue"
-description: "Explore the world's largest companies by revenue and market cap, revealing their impact on algorithmic trading and their role in global markets."
+title: Understanding Company Revenue Rankings and Global Trends
+description: Company revenue rankings reveal how top businesses generate income and
+  adapt to market shifts with mergers acquisitions and currency changes Discover more
+  inside
 ---
 
 

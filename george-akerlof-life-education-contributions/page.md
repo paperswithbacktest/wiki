@@ -1,6 +1,7 @@
 ---
-title: "George Akerlof: Life, Education, and Contributions"
-description: "Explore how George Akerlof's insights on information asymmetry impact economic theory and modern algorithmic trading strategies in today's financial markets."
+title: George Akerlof Market for Lemons Theory and Economic Impact
+description: George Akerlof reshaped economics with his Market for Lemons theory revealing
+  how information asymmetry destroys market trust Discover more inside.
 ---
 
 

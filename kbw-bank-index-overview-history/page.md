@@ -1,6 +1,7 @@
 ---
-title: "KBW Bank Index: Overview and History"
-description: "Explore the KBW Bank Index as a vital benchmark for U.S. banking performance. Learn its history, components, and the impact of algorithmic trading."
+title: Analyzing the KBW Bank Index for Banking Sector Performance
+description: KBW Bank Index tracks the performance of 24 leading US banks to help
+  investors assess sector health and make informed decisions Discover more inside.
 ---
 
 

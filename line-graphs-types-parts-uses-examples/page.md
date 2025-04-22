@@ -1,6 +1,7 @@
 ---
-title: "Line Graphs: Types, Parts, Uses, and Examples"
-description: "Explore the importance of line graphs in algorithmic trading and data visualization Learn how they enhance decision-making by highlighting market trends and patterns"
+title: Comprehensive Guide to Line Graphs for Data Visualization
+description: Line Graphs illustrate data changes over time to help you spot trends
+  patterns and comparisons easily with simple charts and examples Discover more inside
 ---
 
 

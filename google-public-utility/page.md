@@ -1,6 +1,7 @@
 ---
-title: "Google as a Public Utility"
-description: "Explore Google's potential classification as a public utility and its impact on internet access and algorithmic trading Proponents emphasize fair access and regulation."
+title: Assessing Google as a Public Utility and Its Impacts
+description: Google as a public utility debate shows how regulating Search Gmail and
+  Maps can ensure fair access while supporting innovation Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "LeSage, James"
-description: Explore the intersection of algorithmic trading and spatial econometrics with insights from economist James LeSage. Discover how spatial dependencies in data enhance predictive models, offering a competitive edge in trading strategies. Delve into LeSage's groundbreaking methodologies that capture geographic interdependencies, improving market efficiency and decision-making in financial modeling. Learn about the practical application of these advanced techniques and their influence on the future of algorithmic trading.
+title: "James LeSage\u2019s Impact on Spatial Econometrics Methodologies"
+description: Spatial econometrics expert James LeSage advances data analysis across
+  locations with practical models and Bayesian methods Discover more inside
 ---
 
 

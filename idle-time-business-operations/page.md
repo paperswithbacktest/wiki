@@ -1,6 +1,7 @@
 ---
-title: "Idle Time in Business Operations"
-description: "Explore how idle time affects business operations and learn how algorithmic trading can enhance efficiency by minimizing downtimes and optimizing processes."
+title: Reducing Idle Time in Business Operations to Boost Productivity
+description: Idle time wastes resources and cuts productivity Identify idle periods
+  track causes and apply fixes to streamline operations Discover more inside
 ---
 
 

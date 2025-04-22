@@ -1,6 +1,7 @@
 ---
-title: "ICAP (Global Professional Services Provider)"
-description: "Discover the evolution of ICAP into NEX Group, focusing on electronic and algorithmic trading innovations shaping the financial services landscape globally."
+title: ICAP Global Health Services Overview and Strategic Impact
+description: ICAP integrates HIV and TB care training with technology enhanced local
+  health systems to strengthen services worldwide Discover more inside
 ---
 
 

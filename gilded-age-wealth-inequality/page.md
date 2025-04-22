@@ -1,6 +1,7 @@
 ---
-title: "Gilded Age: Wealth and Inequality"
-description: "Explore the economic history of the Gilded Age focusing on wealth inequality and its modern parallels with algorithmic trading shaping today's financial disparities."
+title: 'The Gilded Age: Industrial Growth and Social Inequality'
+description: Gilded Age witnessed rapid industrial growth and stark wealth gaps that
+  fueled early reform efforts and shaped modern America Discover more inside.
 ---
 
 

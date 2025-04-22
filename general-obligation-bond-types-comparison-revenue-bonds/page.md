@@ -1,6 +1,8 @@
 ---
-title: "General Obligation Bond Types and Comparison with Revenue Bonds"
-description: "Explore municipal bonds with this expert guide on general obligation and revenue bonds. Learn their differences, risks, benefits, and role in algo trading."
+title: Understanding General Obligation Bonds and Revenue Bonds
+description: General obligation bonds and revenue bonds differ in funding sources
+  and risk profiles Explore how each works to guide your investment Discover more
+  inside
 ---
 
 

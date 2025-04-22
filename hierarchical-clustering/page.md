@@ -1,6 +1,7 @@
 ---
-title: "Hierarchical Clustering (Machine Learning)"
-description: "Explore Hierarchical Clustering in machine learning, a method to group data points into clusters by creating a tree-like structure without presetting cluster numbers."
+title: Understanding Hierarchical Clustering in Machine Learning
+description: Hierarchical clustering groups data flexibly without preset cluster counts
+  using dendrograms distance metrics and linkage criteria Discover more inside
 ---
 
 ![Image](images/1.png)

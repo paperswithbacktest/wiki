@@ -1,6 +1,7 @@
 ---
-title: "Forward Price: Calculation and Example"
-description: "Explore forward price calculation in algorithmic trading through examples and key components including spot price risk-free rate and carrying costs"
+title: Forward Price Calculation Essential Components and Formula
+description: Forward price locks in future asset prices by adjusting spot price for
+  carry costs and benefits to help manage risk effectively. Discover more inside.
 ---
 
 

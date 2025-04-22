@@ -1,6 +1,7 @@
 ---
-title: "How to Get a Job at a High-Frequency Trading Firm"
-description: Explore the dynamic world of high-frequency trading firms with insights into leading companies like Virtu Financial and Citadel Securities. Discover their strategies in market making and statistical arbitrage and learn about their role in enhancing market efficiency. Delve into the technological innovations driving this sector and uncover tips on securing a role in this competitive industry.
+title: High-Frequency Trading Careers Essential Skills and Preparation
+description: High-frequency trading requires strong programming data analysis and
+  market skills to build your resume and excel in interviews Discover more inside.
 ---
 
 

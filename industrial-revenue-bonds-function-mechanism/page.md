@@ -1,6 +1,8 @@
 ---
-title: "Industrial Revenue Bonds: Function and Mechanism"
-description: "This article explores the interaction between industrial revenue bonds and algorithmic trading in the modern economic landscape. Industrial revenue bonds provide municipalities with a means to finance projects that boost infrastructure and job creation while offering tax-exempt benefits to investors. Algorithmic trading has revolutionized investment management by enhancing efficiency and providing data-driven insights. Together, these tools facilitate sustainable economic development and empower municipal finance managers to optimize portfolio returns and liquidity management."
+title: Industrial Revenue Bonds Explained Benefits and Risks
+description: "Industrial Revenue Bonds offer tax\u2011exempt funding for business\
+  \ projects and support local economies by financing equipment and jobs Discover\
+  \ more inside"
 ---
 
 

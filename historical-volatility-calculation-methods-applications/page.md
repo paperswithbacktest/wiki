@@ -1,6 +1,7 @@
 ---
-title: "Historical Volatility: Calculation Methods and Applications"
-description: "Discover how historical volatility informs risk management and strategy optimization in algorithmic trading by assessing price fluctuations and future variability."
+title: Understanding Historical Volatility in Financial Markets
+description: Historical volatility reveals past asset price swings and helps investors
+  assess risk using standard deviation and annualization Discover more inside.
 ---
 
 

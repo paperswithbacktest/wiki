@@ -1,6 +1,7 @@
 ---
-title: "Lipper Leader: Meaning and Function"
-description: "Explore how Lipper Leader financial ratings and algorithmic trading enhance investment strategies by efficiently assessing mutual funds and optimizing trading decisions."
+title: Lipper Leader Ratings Explained for Fund and ETF Investors
+description: Lipper Leader Ratings help investors compare mutual funds and ETFs on
+  return risk and cost to select aligned investments Discover more inside.
 ---
 
 

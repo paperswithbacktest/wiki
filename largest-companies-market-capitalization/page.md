@@ -1,6 +1,7 @@
 ---
-title: "Largest Companies by Market Capitalization"
-description: "Explore the role of algorithmic trading in shaping the landscape of the largest companies by market capitalization with insights into their financial influence."
+title: Market Capitalization Explained for Investor Decisions
+description: Market capitalization shows company value and size by multiplying share
+  count by price Explore its role in investor decisions Discover more inside
 ---
 
 

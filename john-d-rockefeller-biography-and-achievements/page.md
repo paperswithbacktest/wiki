@@ -1,6 +1,7 @@
 ---
-title: "John D. Rockefeller: Biography and Achievements"
-description: "Explore the biography and achievements of John D. Rockefeller, a transformative figure in American history whose strategies in the oil industry influenced modern economic practices."
+title: John D Rockefeller Business Empire and Philanthropic Legacy
+description: John D Rockefeller built a global oil empire and transformed philanthropy
+  through strategic giving to education health and research Discover more inside.
 ---
 
 

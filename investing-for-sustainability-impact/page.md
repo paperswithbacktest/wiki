@@ -1,6 +1,7 @@
 ---
-title: "Investing for Sustainability Impact"
-description: "Investing for Sustainability Impact combines financial goals with environmental and social objectives, using algorithmic trading to enhance responsible investing strategies."
+title: A Comprehensive Guide to Sustainable Investing Strategies
+description: Sustainable investing aligns returns with environmental social governance
+  criteria to enhance portfolio resilience and drive impact Discover more inside.
 ---
 
 

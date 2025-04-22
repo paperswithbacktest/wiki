@@ -1,6 +1,7 @@
 ---
-title: "Guaranteed Mortgage Certificate"
-description: "Explore how Guaranteed Mortgage Certificates & algorithmic trading synergize to revolutionize real estate finance, offering innovative investment opportunities."
+title: Guaranteed Mortgage Certificates Explained for Investors
+description: Guaranteed Mortgage Certificates offer low risk government backed income
+  with steady interest payments and flexible trading options. Discover more inside.
 ---
 
 

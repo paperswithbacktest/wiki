@@ -1,6 +1,7 @@
 ---
-title: "Income Inequality: Examples and Measurement"
-description: "Explore the complex relationship between algorithmic trading, income inequality, and wealth distribution in today's economy and its impact on market dynamics."
+title: Understanding Income Inequality Causes Trends And Measures
+description: Comprehensive analysis of income inequality uncovers causes and metrics
+  to track pay gaps guiding policy solutions with data insights Discover more inside
 ---
 
 

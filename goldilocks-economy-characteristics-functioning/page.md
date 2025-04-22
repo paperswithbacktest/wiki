@@ -1,6 +1,7 @@
 ---
-title: "Goldilocks Economy: Characteristics and Functioning"
-description: "Discover how the Goldilocks Economy's balanced growth, low inflation, and minimal unemployment interact with algorithmic trading to foster economic stability."
+title: Achieving Steady Growth and Balance in a Goldilocks Economy
+description: Goldilocks Economy balances growth with price stability by managing jobs
+  and inflation. Discover how policy choices maintain this harmony. Discover more
 ---
 
 

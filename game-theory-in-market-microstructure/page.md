@@ -1,6 +1,7 @@
 ---
-title: "Game Theory in Market Microstructure"
-description: "Explore how Game Theory revolutionizes trading strategies in market microstructure and algorithmic trading by modeling interactions among market participants."
+title: Strategic Game Theory in Market Microstructure Analysis
+description: Game theory in market microstructure explains trader decision strategies
+  under information asymmetry and varying market structures Discover more inside.
 ---
 
 

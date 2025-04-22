@@ -1,6 +1,7 @@
 ---
-title: "Issued vs. Subscribed Share Capital"
-description: "Discover the crucial differences between issued and subscribed share capital in corporate finance and how they impact trading, governance, and investment strategies."
+title: Understanding Issued and Subscribed Share Capital Differences
+description: Share capital guides companies on raising funds through share issuance
+  and subscriptions with clear steps and legal insights Discover more inside.
 ---
 
 

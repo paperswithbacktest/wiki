@@ -1,6 +1,7 @@
 ---
-title: "Is technical analysis still effective for trading?"
-description: "Explore the benefits and limitations of technical analysis for trading, including its simplicity, reactivity, diversity of tools, and applicability to various time horizons. Learn about self-fulfillment, inefficiency in efficient markets, parameter dependency, and fundamental information neglection. Discover how effectiveness depends on context, and find valuable resources for further learning."
+title: Comprehensive Guide to Technical Analysis Tools and Strategies
+description: Technical analysis uses price patterns indicators and trend tools to
+  predict market moves and enhance trading strategies Discover more inside
 ---
 
 

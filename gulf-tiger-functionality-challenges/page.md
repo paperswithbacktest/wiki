@@ -1,6 +1,7 @@
 ---
-title: "Gulf Tiger: Functionality and Challenges"
-description: "Discover the fascinating rise of Dubai, aka the Gulf Tiger, as a global financial powerhouse tackling challenges through economic diversification and algorithmic trading."
+title: Gulf Tiger Economic Model Driving UAE Growth and Innovation
+description: Gulf Tiger reveals how the UAE shifted from oil dependency to a diverse
+  economy led by trade tech modern infrastructure and renewables Discover more inside
 ---
 
 

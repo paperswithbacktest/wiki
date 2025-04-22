@@ -1,6 +1,7 @@
 ---
-title: "Investors' Analysis of Accounts Receivable on Balance Sheets"
-description: "Analyze the significance of accounts receivable in balance sheets and algorithmic trading Learn how these elements influence investment strategies and financial decisions"
+title: Investor Guide To Accounts Receivable On Balance Sheets
+description: Accounts Receivable analysis uncovers cash flow risks and credit efficiency
+  using DSO ratios and allowance for doubtful accounts. Discover more inside.
 ---
 
 

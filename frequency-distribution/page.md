@@ -1,6 +1,8 @@
 ---
-title: "Frequency Distribution"
-description: "Explore the critical role of frequency distribution in algorithmic trading and how it enhances data analysis by providing insights into market trends and patterns. This article investigates into the statistical tools and methodologies that optimize trading strategies via automated decision-making, leveraging frequency distributions to forecast movements in the stock market. Gain a comprehensive understanding of how these distributions simplify complex data sets into understandable patterns for better financial decision-making."
+title: Understanding Frequency Distribution in Data Analysis
+description: Frequency distribution offers clear insights into how data values occur
+  and helps spot patterns quickly Discover how to build and interpret distributions
+  inside
 ---
 
 

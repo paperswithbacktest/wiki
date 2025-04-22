@@ -1,6 +1,7 @@
 ---
-title: "High-Risk Investment Strategies During Economic Crises"
-description: "Explore high-risk investment strategies during economic crises with a focus on algorithmic trading and its potential for high rewards amidst market volatility."
+title: High-Risk Investment Strategies During Economic Crises
+description: High-risk investments unlock potential gains during economic crises when
+  you buy low and hold with discipline and risk management Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "LedgerX: Cryptocurrency Options Exchange"
-description: "LedgerX offers a secure and regulated platform for cryptocurrency derivatives trading with advanced algorithmic tools catering to both institutional and retail investors."
+title: LedgerX Federally Regulated Crypto Derivatives Trading
+description: "LedgerX offers a secure regulated exchange for Bitcoin and Ethereum\
+  \ swaps and options with clear fees and user\u2011friendly interface Discover more\
+  \ inside"
 ---
 
 

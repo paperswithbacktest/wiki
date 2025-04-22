@@ -1,6 +1,7 @@
 ---
-title: "Importance of Knowing Outstanding Shares for Shareholders"
-description: "Understanding outstanding shares is essential for shareholders to evaluate a company's market value and investment potential in the era of algorithmic trading."
+title: Understanding Outstanding Shares and Company Valuation
+description: Outstanding shares determine your ownership stake and influence stock
+  prices earnings per share and voting power in active markets. Discover more inside.
 ---
 
 

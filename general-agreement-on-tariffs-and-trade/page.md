@@ -1,6 +1,7 @@
 ---
-title: "General Agreement on Tariffs and Trade"
-description: "Explore the impact of GATT and algorithmic trading on global commerce, highlighting their roles in shaping modern trade policies and market efficiencies."
+title: The General Agreement on Tariffs and Trade Explained
+description: General Agreement on Tariffs and Trade explains how GATT lowers trade
+  barriers sets fair rules and drives economic growth worldwide Discover more inside
 ---
 
 

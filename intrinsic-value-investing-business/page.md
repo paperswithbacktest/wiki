@@ -1,6 +1,7 @@
 ---
-title: "Intrinsic Value in Investing and Business"
-description: "Explore business valuation, intrinsic value, and algorithmic trading to make informed investment decisions and adapt to fast-paced financial markets."
+title: Understanding Intrinsic Value to Inform Investment Decisions
+description: Intrinsic value helps investors gauge companies true worth beyond market
+  price using DCF and PE ratio and apply a margin of safety Discover more inside
 ---
 
 

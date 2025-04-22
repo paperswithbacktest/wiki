@@ -1,6 +1,7 @@
 ---
-title: "Gross National Product with Example"
-description: "Explore how Gross National Product impacts algo trading by understanding its role in assessing a country's economic health and influencing trading strategies."
+title: Understanding Gross National Product GNP and Its Components
+description: Gross National Product measures all output and net income from abroad
+  by residents to show economic performance of the nation Discover more inside
 ---
 
 

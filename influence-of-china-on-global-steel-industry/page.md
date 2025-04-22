@@ -1,6 +1,7 @@
 ---
-title: "Influence of China on the Global Steel Industry"
-description: "Explore how China shapes the global steel market as the top producer and consumer plus the role of algorithmic trading in navigating market complexities."
+title: China's Steel Industry Impact On Global Markets And Policies
+description: China's steel industry drives global market shifts in pricing trade policies
+  and environmental impact with insights on future trends Discover more inside.
 ---
 
 

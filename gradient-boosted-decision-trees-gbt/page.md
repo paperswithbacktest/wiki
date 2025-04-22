@@ -1,6 +1,7 @@
 ---
-title: "Gradient Boosted (Decision) Trees (Gbt) (Machine Learning)"
-description: "Learn about Gradient Boosted Trees a powerful machine learning technique that improves predictions by combining multiple simple decision trees to reduce errors."
+title: Understanding Gradient Boosted Trees for Accurate Predictions
+description: Gradient Boosted Trees improve predictive accuracy by combining decision
+  trees with gradient descent to correct errors iteratively. Discover more inside
 ---
 
 ![Image](images/1.png)

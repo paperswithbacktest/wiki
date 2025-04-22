@@ -1,6 +1,7 @@
 ---
-title: "Individual Transfer Quota: Overview and Mechanism"
-description: "Explore how Individual Transfer Quotas (ITQs) improve fisheries management by promoting sustainable practices and efficient market-based quota exchange through algorithmic trading."
+title: Individual Transferable Quotas for Fisheries Sustainability
+description: Individual Transferable Quotas ensure sustainable fish stocks and drive
+  industry efficiency with market trading and monitoring Discover more inside
 ---
 
 

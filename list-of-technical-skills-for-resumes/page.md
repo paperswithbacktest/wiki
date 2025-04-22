@@ -1,6 +1,7 @@
 ---
-title: "List of Technical Skills for Resumes"
-description: "Enhance your algo trading resume with essential technical skills like programming, quantitative analysis, and data interpretation to stand out in the field."
+title: Showcasing Technical Skills on Your Resume for Career Success
+description: Technical skills elevate resumes by showcasing coding and cybersecurity
+  abilities Gain tips to list and improve your expertise Discover more inside
 ---
 
 

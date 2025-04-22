@@ -1,6 +1,7 @@
 ---
-title: "Leads and Lags in Economics"
-description: "Explore algo trading and its reliance on economic leads and lags to seize market opportunities and manage risks for enhanced trading performance."
+title: Understanding Leads and Lags in Economic Indicators
+description: Leads and lags in economics reveal timing gaps in key indicators to sharpen
+  forecasts and guide policy and strategic planning Discover more inside
 ---
 
 

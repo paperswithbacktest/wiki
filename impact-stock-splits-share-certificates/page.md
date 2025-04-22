@@ -1,6 +1,7 @@
 ---
-title: "Impact of Stock Splits on Share Certificates"
-description: "Explore how stock splits affect share certificates and algorithmic trading Discover their impact on corporate actions and investor strategies in financial markets"
+title: Understanding Stock Splits and Share Certificate Management
+description: Stock split overview explains share count changes tax basis and certificate
+  updates for both electronic and physical holdings Discover more inside.
 ---
 
 

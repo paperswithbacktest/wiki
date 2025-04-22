@@ -1,6 +1,7 @@
 ---
-title: "Forensic Accounting and Its Applications"
-description: "Explore the nexus of forensic accounting and algorithmic trading to enhance fraud detection. Learn how tech-driven investigations secure financial transactions."
+title: Forensic Accounting Guide Objectives Techniques And Applications
+description: Forensic accounting exposes fraud by analyzing records, solves disputes
+  and strengthens legal cases with clear evidence Discover more inside.
 ---
 
 

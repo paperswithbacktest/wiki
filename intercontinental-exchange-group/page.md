@@ -1,6 +1,7 @@
 ---
-title: "Intercontinental Exchange Group"
-description: "ICE, a leader in global finance, revolutionizes trading with algorithmic strategies, owning the NYSE and enhancing financial markets' efficiency and integrity."
+title: Intercontinental Exchange Group Market Infrastructure And Services
+description: Intercontinental Exchange Group delivers secure trading platforms and
+  market data to streamline equity energy and mortgage markets Discover more inside.
 ---
 
 

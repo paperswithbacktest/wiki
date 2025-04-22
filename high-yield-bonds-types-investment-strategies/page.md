@@ -1,6 +1,7 @@
 ---
-title: "High-Yield Bonds: Types and Investment Strategies"
-description: "Explore high-yield bonds for high returns: understand their risks, types, and strategies including algorithmic trading to enhance your investment portfolio."
+title: High-Yield Bonds Impact on Portfolio Diversification and Returns
+description: High-Yield Bonds offer higher interest returns than safer bonds while
+  enhancing portfolio diversification and income stream. Discover more inside.
 ---
 
 

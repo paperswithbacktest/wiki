@@ -1,6 +1,7 @@
 ---
-title: "Illegal Insider Trading: Definition and Mechanisms"
-description: "Explore the complexities of illegal insider trading and its implications for financial markets Understanding securities fraud mechanisms and the role of algorithmic trading"
+title: Insider Trading Explained Legal Risks Detection and Prevention
+description: Insider trading uses confidential info for unfair market gains and triggers
+  penalties Regulators monitor trades to ensure fairness Discover more inside
 ---
 
 

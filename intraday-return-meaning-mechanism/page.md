@@ -1,6 +1,7 @@
 ---
-title: "Intraday Return: Meaning and Mechanism"
-description: "Explore intraday return trading and algorithmic strategies for better market efficiency Learn how technology optimizes trades and enhances risk management"
+title: 'Intraday Return Explained: Calculation Strategies and Risks'
+description: Intraday return measures your profit or loss from day trading by calculating
+  price differences and managing risk with key strategies. Discover more inside.
 ---
 
 

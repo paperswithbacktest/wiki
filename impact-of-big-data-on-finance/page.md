@@ -1,6 +1,7 @@
 ---
-title: "Impact of Big Data on Finance"
-description: "Explore how big data analytics and algorithmic trading revolutionize finance by enhancing decision-making processes optimizing outcomes and mitigating risks."
+title: Harnessing Big Data Analytics to Transform Financial Services
+description: Big Data analytics revolutionizes finance by uncovering real-time insights
+  for risk management fraud prevention and personalized services Discover more inside.
 ---
 
 

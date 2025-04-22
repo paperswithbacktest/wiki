@@ -1,6 +1,7 @@
 ---
-title: "Goldman 360 Overview"
-description: "Goldman 360 by Goldman Sachs revolutionizes investment management with real-time data access and advanced trading tools for financial professionals."
+title: Goldman 360 Business Cash Management Platform Overview
+description: Goldman 360 gives businesses a unified view of funds across banks and
+  enables fast secure transfers and integrates accounting software Discover more inside
 ---
 
 

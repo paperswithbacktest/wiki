@@ -1,6 +1,7 @@
 ---
-title: "Inflation and Its Impact on Investments"
-description: "Explore how inflation impacts investments and algorithmic trading. Learn strategies to mitigate inflation's effects on asset classes like stocks, bonds, and real estate."
+title: Inflation Explained Effects On Economy Savings And Investments
+description: Inflation shapes buying power and investment returns and demands proactive
+  portfolio strategies to protect savings and assets Discover more inside.
 ---
 
 

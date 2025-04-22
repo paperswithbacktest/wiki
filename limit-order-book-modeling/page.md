@@ -1,6 +1,7 @@
 ---
-title: "limit order book modeling"
-description: "Explore how limit order book modeling is essential for algorithmic trading, enhancing market transparency and execution efficiency through advanced computational strategies."
+title: Limit Order Book Explained From Basics to Advanced Modeling
+description: Limit order book shows market supply and demand so traders can spot price
+  trends refine strategies and model market movements Discover more inside
 ---
 
 

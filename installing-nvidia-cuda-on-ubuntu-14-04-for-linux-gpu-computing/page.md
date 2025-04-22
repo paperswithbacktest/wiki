@@ -1,6 +1,7 @@
 ---
-title: "Installing Nvidia CUDA on Ubuntu for Linux GPU Computing"
-description: Learn how to harness the power of Nvidia CUDA on Ubuntu for enhanced Linux GPU computing in algorithmic trading systems. This guide explores the crucial role of Nvidia GPUs in computational tasks, the benefits of integrating these with Ubuntu 14.04, and achieving superior trading performance through cutting-edge technologies in financial markets.
+title: Setting Up Nvidia CUDA on Ubuntu for Efficient GPU Computing
+description: Nvidia CUDA on Ubuntu speeds up GPU computing with system requirement
+  checks driver installation toolkit setup and verification Discover more inside
 ---
 
 

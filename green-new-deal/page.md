@@ -1,6 +1,7 @@
 ---
-title: "Green New Deal"
-description: "Explore the synergy of the Green New Deal and algorithmic trading in shaping climate policies focusing on environmental sustainability and economic growth."
+title: Green New Deal Strategies for Climate Action and Job Growth
+description: Green New Deal shows how clean energy investments drive job creation
+  reduce pollution and support equitable transitions. Discover more inside.
 ---
 
 

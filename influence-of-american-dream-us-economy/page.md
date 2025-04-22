@@ -1,6 +1,7 @@
 ---
-title: "Influence of the American Dream on the U.S. Economy"
-description: "Explore how the American Dream shapes the U.S. economy by fueling innovation and growth through immigration, entrepreneurship, and emerging tech like algo trading."
+title: American Dream Influence on US Economic Behavior and Policies
+description: American Dream shapes US economic behavior driving spending saving and
+  policy priorities discover its impact and apply insights to economic planning inside
 ---
 
 

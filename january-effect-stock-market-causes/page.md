@@ -1,6 +1,7 @@
 ---
-title: "January Effect in the Stock Market and Its Causes"
-description: "Explore the fascinating January Effect in the stock market where seasonal trends impact small-cap stocks each January and learn about its causes and implications."
+title: Understanding the January Effect in Stock Market Investing
+description: January Effect explains why stock prices often rise in January for small
+  cap stocks due to tax-loss selling and year-end bonuses Discover more inside
 ---
 
 

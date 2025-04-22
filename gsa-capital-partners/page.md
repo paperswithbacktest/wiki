@@ -1,6 +1,7 @@
 ---
-title: "GSA Capital Partners"
-description: "GSA Capital Partners is a leader in algorithmic trading known for using advanced technology and high-frequency strategies to impact global financial markets."
+title: GSA Capital Partners Quantitative Investing and Global Operations
+description: GSA Capital Partners applies advanced quantitative investing techniques
+  to help pension funds and insurers grow assets worldwide Discover more inside
 ---
 
 

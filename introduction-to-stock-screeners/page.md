@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Stock Screeners"
-description: "Enhance your investment strategies with stock screeners and algorithmic trading tools Streamline decision-making and uncover profitable opportunities effortlessly"
+title: Comprehensive Guide to Using a Stock Screener for Investors
+description: Stock screener helps investors filter stocks by price market cap growth
+  to streamline research and uncover promising investments Discover more inside
 ---
 
 

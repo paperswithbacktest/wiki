@@ -1,6 +1,7 @@
 ---
-title: "Goodwill Impairment in Accounting"
-description: "Explore how goodwill impairment impacts accounting and trading strategies by analyzing its effects on financial reporting and the role of algorithmic trading."
+title: Essential Guide to Goodwill Impairment in Financial Reporting
+description: Goodwill impairment testing ensures financial statements reflect true
+  value with annual assessments and proactive risk management Discover more inside.
 ---
 
 

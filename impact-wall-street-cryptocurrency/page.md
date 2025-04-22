@@ -1,6 +1,7 @@
 ---
-title: "Impact of Wall Street on Cryptocurrency"
-description: "Explore how Wall Street's embrace of algorithmic trading transforms cryptocurrency markets highlighting innovation, evolving strategies, and regulatory challenges."
+title: Wall Street Influence on Cryptocurrency Market Trends
+description: Cryptocurrency market faces volatility and growth as Wall Street launches
+  futures ETFs and institutional investments. Discover more inside
 ---
 
 

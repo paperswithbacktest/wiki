@@ -1,6 +1,7 @@
 ---
-title: "Graph (Machine Learning)"
-description: "Explore the role of graphs in machine learning a powerful tool to represent data through nodes and edges revealing intricate relationships for better predictions."
+title: Understanding Graphs in Machine Learning Concepts and Techniques
+description: Graphs in machine learning reveal data relationships from social networks
+  to traffic systems and guide graph neural network applications Discover more
 ---
 
 ![Image](images/1.png)

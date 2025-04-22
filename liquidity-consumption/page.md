@@ -1,6 +1,7 @@
 ---
-title: "liquidity consumption"
-description: "Explore how algorithmic trading impacts liquidity consumption in financial markets by examining the dual role of algorithms in both providing and consuming liquidity."
+title: Managing Liquidity Consumption For Economic And Financial Health
+description: Liquidity consumption shows how people and businesses use cash to stay
+  resilient and seize growth opportunities with actionable tips Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Jim Simons"
-description: Discover the remarkable journey of Jim Simons, a trailblazing mathematician and hedge fund magnate who revolutionized both mathematics and finance. From his groundbreaking work in differential geometry and the influential Chern-Simons theory to founding Renaissance Technologies, Simons' innovative use of quantitative strategies has set new benchmarks in algorithmic trading. His impressive career, marked by prolific contributions to academia and the financial industry, highlights the synergy between advanced mathematical theories and practical financial applications, reshaping the landscapes of both fields.
+title: Jim Simons Pioneering Quant Finance And Philanthropic Legacy
+description: Jim Simons revolutionized quantitative finance with the Medallion Fund
+  and advances science education through philanthropic support Discover more inside
 ---
 
 

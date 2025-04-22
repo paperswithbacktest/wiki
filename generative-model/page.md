@@ -1,6 +1,7 @@
 ---
-title: "Generative Model (Machine Learning)"
-description: "Explore how generative models in machine learning craft new, realistic data from patterns learned during training ideal for images, text, and music creation."
+title: Understanding Generative Models in Machine Learning
+description: Generative models in machine learning generate realistic images, text
+  and music by learning data patterns and distributions Discover more inside
 ---
 
 ![Image](images/1.png)

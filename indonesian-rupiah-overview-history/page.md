@@ -1,6 +1,7 @@
 ---
-title: "Indonesian Rupiah: Overview and History"
-description: "Explore the evolution of the Indonesian Rupiah and how algorithmic trading shapes its dynamics understanding its historical impact on Asia's financial landscape."
+title: Understanding the History and Value of the Indonesian Rupiah
+description: Indonesian Rupiah guide explains its history and value with insights
+  into denominations economic drivers and central bank policies Discover more inside
 ---
 
 

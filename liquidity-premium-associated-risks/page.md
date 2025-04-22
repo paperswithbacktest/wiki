@@ -1,6 +1,7 @@
 ---
-title: "Liquidity Premium and Associated Risks"
-description: "Explore the investment dynamics of liquidity premiums financial risks and algorithmic trading. Gain insights into optimizing portfolios amid market complexities."
+title: Understanding Liquidity Premium for Smarter Investment Decisions
+description: Liquidity premium explains the extra return investors demand for illiquid
+  assets and guides you to balance risk and reward in portfolios Discover more
 ---
 
 

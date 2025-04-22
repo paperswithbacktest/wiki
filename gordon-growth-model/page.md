@@ -1,6 +1,7 @@
 ---
-title: "Gordon Growth Model"
-description: "Discover the Gordon Growth Model for stock valuation by focusing on dividend growth and intrinsic value determination integrated into algorithmic trading."
+title: Understanding the Gordon Growth Model for Stock Valuation
+description: "Gordon Growth Model estimates a stock\u2019s intrinsic value by projecting\
+  \ steady dividend growth against required return rates Discover more inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Interval Funds: Overview, Trading, and Risks"
-description: "Explore the intricacies of interval funds and algorithmic trading their potential rewards and associated risks to help investors navigate modern financial markets effectively."
+title: Interval Funds Explained Benefits Risks And Liquidity Management
+description: Interval funds allow access to illiquid assets with periodic redemptions
+  and diversified exposure while limiting liquidity risk Discover more inside.
 ---
 
 

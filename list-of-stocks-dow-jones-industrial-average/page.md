@@ -1,6 +1,7 @@
 ---
-title: "List of Stocks in the Dow Jones Industrial Average"
-description: "Explore the potential of algorithmic trading for DJIA stocks Learn about algo strategies benefits in the Dow Jones context and how to leverage market trends"
+title: Analyzing the Dow Jones Industrial Average to Gauge Market Trends
+description: Dow Jones Industrial Average offers a snapshot of market trends by tracking
+  30 US companies across sectors to gauge economic health. Discover more inside
 ---
 
 

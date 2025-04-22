@@ -1,6 +1,7 @@
 ---
-title: "Lawrence Klein and the Field of Econometrics"
-description: "Discover how Lawrence Klein revolutionized econometrics and shaped algorithmic trading This article investigates into his legacy and its impact on modern financial systems"
+title: Lawrence Klein and the Foundations of Modern Econometric Modeling
+description: Lawrence Klein revolutionized econometric modeling to forecast economic
+  trends and guide policy with data driven insights Discover more inside
 ---
 
 

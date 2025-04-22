@@ -1,7 +1,7 @@
 ---
-title: Insider Guide to Kepos Capital Investment Strategies
-description: Kepos Capital uses data driven analysis to uncover technology energy
-  and agriculture investments that beat market benchmarks Discover more inside
+title: "Kepos Capital Holistic Investment Strategy for Long\u2011Term Growth"
+description: Kepos Capital uses research and data analytics to identify tech energy
+  and agriculture investments while effectively managing risk Discover more inside
 ---
 
 

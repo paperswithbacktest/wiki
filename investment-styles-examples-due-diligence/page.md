@@ -1,6 +1,7 @@
 ---
-title: "Investment Styles: Examples and Due Diligence"
-description: "Explore diverse investment styles and the importance of due diligence in this insightful article Learn about value growth and income investing highlighting algorithmic trading trends"
+title: Key Investment Styles Explained and How to Choose Yours
+description: Investment styles shape your portfolio strategy by matching goals with
+  risk tolerance and market trends to boost long term returns. Discover more inside.
 ---
 
 

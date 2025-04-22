@@ -1,6 +1,7 @@
 ---
-title: "Judgment: Mechanisms and Examples"
-description: "Discover the mechanisms and examples of algorithmic trading Explore how judgments and decisions combine with technology to revolutionize trading efficiency"
+title: 'Understanding Psychological Judgment: Mechanisms and Biases'
+description: Psychological judgment shapes opinions and decisions through perception
+  reasoning and heuristics while mitigating biases. Discover more inside
 ---
 
 

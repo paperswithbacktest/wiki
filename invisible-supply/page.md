@@ -1,6 +1,7 @@
 ---
-title: "Invisible Supply"
-description: "Explore the roles of invisible supply and algorithmic trading in modern markets Discover how they impact market dynamics efficiency and economic strategies"
+title: Invisible Supply Insights For Personal And Economic Growth
+description: Invisible Supply harnesses positive thinking to boost confidence in finance
+  and economics and guide you to seize opportunities Discover more inside
 ---
 
 

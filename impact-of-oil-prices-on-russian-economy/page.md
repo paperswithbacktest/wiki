@@ -1,6 +1,7 @@
 ---
-title: "Impact of Oil Prices on the Russian Economy"
-description: "Explore how fluctuating oil prices impact Russia's economy, a leading global exporter, and discover the role of algorithmic trading in market dynamics."
+title: "Global Oil Price Fluctuations Impact on Russia\u2019s Economy"
+description: Oil price fluctuations shape Russian budget and currency by driving revenue
+  shifts and spurring economic diversification Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "History of the First Mutual Fund"
-description: "Discover the compelling history of mutual funds and their evolution from 18th-century origins to the impacts of algorithmic trading in today's investment landscape."
+title: Origins and Evolution of the First Mutual Fund in 1774
+description: Mutual fund origins date to 1774 when Abraham van Ketwich let investors
+  pool money in a diversified portfolio managed professionally Discover more inside
 ---
 
 

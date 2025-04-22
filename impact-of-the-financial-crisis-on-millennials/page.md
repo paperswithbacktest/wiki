@@ -1,6 +1,7 @@
 ---
-title: "Impact of the Financial Crisis on Millennials"
-description: "Explore the financial impact of the 2008 crisis on millennials, including investing habits and homeownership trends, amid the rise of algorithmic trading."
+title: Long-Term Impact of the 2008 Financial Crisis on Millennials
+description: Financial crisis impact shows how Millennials overcame job losses homeownership
+  barriers growing debt and shifted saving habits Discover more inside
 ---
 
 

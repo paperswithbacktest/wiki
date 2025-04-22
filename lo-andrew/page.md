@@ -1,6 +1,7 @@
 ---
-title: "Lo, Andrew"
-description: Explore the transformative influence of Andrew W. Lo on algorithmic trading. As a leading expert, Lo merges finance and computational theory to advance modern trading methodologies. His research provides frameworks for managing risks and seizing opportunities in algo trading, significantly shaping our understanding of financial markets. Discover how Lo's theories continue to guide trading strategies and financial policies.
+title: "Andrew Lo\u2019s Adaptive Markets Hypothesis And Quantitative Finance"
+description: Andrew Lo reshaped finance with the Adaptive Markets Hypothesis and quantitative
+  trading tools at MIT labs and beyond Discover more inside today.
 ---
 
 

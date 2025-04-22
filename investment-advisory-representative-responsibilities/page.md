@@ -1,6 +1,7 @@
 ---
-title: "Investment Advisory Representative Responsibilities"
-description: "Explore the essential responsibilities of Investment Advisory Representatives in algorithmic trading and discover how they enhance client financial strategies."
+title: Understanding the Role of an Investment Advisory Representative
+description: Investment Advisory Representative guides portfolio building and ensures
+  compliance while managing risks to reach your financial goals Discover more inside
 ---
 
 

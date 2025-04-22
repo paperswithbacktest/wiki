@@ -1,6 +1,7 @@
 ---
-title: "History of Paper Money in the United States"
-description: "Discover the intertwined history of U.S. paper money and algorithmic trading from colonial innovations to modern economic transformations and digital currencies."
+title: Evolution of US Paper Money From Coins to Greenbacks
+description: US paper money history shows the shift from colonial coins tobacco and
+  Continental Currency to greenbacks and modern secure banknotes Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Gross Expense Ratio"
-description: "Explore the dynamics of gross expense ratios in investment funds and how algorithmic trading optimizes costs for enhanced returns and efficiency."
+title: Gross Expense Ratio Explained for Mutual Funds and ETFs
+description: Gross Expense Ratio shows how fund fees impact your returns and guides
+  you to compare costs across mutual funds and ETFs Discover more inside
 ---
 
 

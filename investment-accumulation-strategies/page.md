@@ -1,6 +1,7 @@
 ---
-title: "Investment Accumulation Strategies"
-description: "Explore modern investment strategies involving accumulation and algorithmic trading to maximize returns and manage risks effectively in today's financial markets."
+title: Understanding Investment Accumulation for Long Term Wealth Growth
+description: Investment accumulation uses compound interest and diversification to
+  grow your wealth over time with beginner friendly strategies Discover more inside
 ---
 
 

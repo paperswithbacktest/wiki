@@ -1,6 +1,7 @@
 ---
-title: "Guerrilla Trading: Concept, Mechanism, and Example"
-description: "Explore Guerrilla Trading a strategy focused on high-volume rapid transactions capturing market price fluctuations for quick profits with minimal risk exposure."
+title: Guerrilla Trading Strategies for Fast Market Profits
+description: Guerrilla trading demands rapid decision making and real time market
+  analysis to seize small price movements for potential gains Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Indirect Bidder"
-description: "Explore the impact of indirect bidding and algorithmic trading in financial markets. Discover key auction methods like English Dutch and sealed-bid auctions."
+title: Understanding Indirect Bidders in Treasury Auctions
+description: Indirect bidders shape demand and interest rates in Treasury auctions
+  by using intermediaries to place bids for large investors Discover more inside
 ---
 
 

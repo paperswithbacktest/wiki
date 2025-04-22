@@ -1,6 +1,7 @@
 ---
-title: "Housing Trust Fund"
-description: "Explore how Housing Trust Funds innovate in the affordable housing crisis and the potential synergy with algorithmic trading for financial and social impact."
+title: Understanding Housing Trust Funds For Affordable Housing
+description: Housing Trust Fund provides affordable housing by funding new builds
+  repairs and rent assistance for low income households Discover more inside.
 ---
 
 

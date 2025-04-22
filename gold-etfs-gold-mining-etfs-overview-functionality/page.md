@@ -1,6 +1,7 @@
 ---
-title: "Gold ETFs and Gold Mining ETFs: Overview and Functionality"
-description: "Explore the impact of algorithmic trading on Gold and Gold Mining ETFs as investors seek diversified, responsive strategies for portfolio optimization."
+title: Key Differences Between Gold ETFs and Gold Mining ETFs
+description: Gold ETFs offer direct exposure to bullion while Gold Mining ETFs invest
+  in miner returns to diversify across market cycles Discover more inside
 ---
 
 

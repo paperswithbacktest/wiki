@@ -1,6 +1,7 @@
 ---
-title: "Foreign Bank Supervision Enhancement Act"
-description: "Explore the Foreign Bank Supervision Enhancement Act (FBSEA), a pivotal legislation strengthening U.S. oversight of foreign banks. This comprehensive article investigates into the FBSEA's role in safeguarding financial stability amid the rise of algorithmic trading, highlighting its significance in ensuring regulatory compliance and financial integrity in a rapidly evolving global banking landscape."
+title: Understanding the Foreign Bank Supervision Enhancement Act
+description: FBSEA requires foreign banks to obtain Federal Reserve approval and supervision
+  for risk management to protect US financial system Discover more inside
 ---
 
 

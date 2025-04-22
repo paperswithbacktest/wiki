@@ -1,6 +1,7 @@
 ---
-title: "Investment Alternatives to Expensive Google Stocks"
-description: "Explore investment alternatives to pricey Google stocks including stock options and algorithmic trading for diversifying portfolios and optimizing strategies."
+title: Investment Alternatives to Google Stocks for Diversification
+description: Explore Google stocks alternatives to diversify your portfolio with index
+  funds ETFs dividend stocks and REITs for balanced growth Discover more inside
 ---
 
 

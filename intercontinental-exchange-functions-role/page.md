@@ -1,6 +1,7 @@
 ---
-title: "Intercontinental Exchange: Functions and Role"
-description: "Discover how the Intercontinental Exchange shapes global financial markets through algorithmic trading by enhancing speed, accuracy, and market efficiency."
+title: Understanding The Intercontinental Exchange Global Trading Hub
+description: Intercontinental Exchange powers fair global markets with advanced technology
+  data tools and NYSE ownership to streamline trading Discover more inside.
 ---
 
 

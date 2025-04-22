@@ -1,6 +1,7 @@
 ---
-title: "HFT with Sklearn and Python"
-description: Explore the integration of Python and scikit-learn in high-frequency trading (HFT) for developing sophisticated trading algorithms. Learn how these tools enhance trading strategies through predictive models, utilizing market data to identify opportunities within the fast-paced financial markets. This comprehensive guide covers building HFT systems, including data feeds, signal generation, and risk management, with step-by-step examples for implementing sklearn in trading models. Leverage the power of machine learning to improve trading efficiency and decision-making in the competitive HFT environment.
+title: High-Frequency Trading with Python and Sklearn Tools
+description: High-Frequency Trading Python guide uses Sklearn for real-time model
+  training preprocessing to enable fast stock decisions Discover more inside
 ---
 
 

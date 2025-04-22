@@ -1,6 +1,7 @@
 ---
-title: "List of Major Aircraft Manufacturers"
-description: "Discover how major aircraft manufacturers like Boeing, Airbus, and Lockheed Martin drive innovation in aerospace through algo trading and sustainable technologies."
+title: Aircraft Manufacturing Industry Overview and Leading Companies
+description: Aircraft manufacturing drives innovation through advanced materials and
+  engines and boosts global growth through sustainable practices Discover more inside
 ---
 
 

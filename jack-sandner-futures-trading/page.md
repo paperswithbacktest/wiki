@@ -1,6 +1,7 @@
 ---
-title: "Jack Sandner: Prominent Figure in Futures Trading"
-description: "Explore the influential role of Jack Sandner in shaping futures trading at the Chicago Mercantile Exchange and the evolution towards algorithmic trading."
+title: Jack Sandner Leadership in CME Modernization and Futures Growth
+description: Jack Sandner transformed the Chicago Mercantile Exchange by modernizing
+  futures trading through innovative technology and governance Discover more inside
 ---
 
 

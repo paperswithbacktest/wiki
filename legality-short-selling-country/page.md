@@ -1,6 +1,7 @@
 ---
-title: "Legality of Short Selling by Country"
-description: "Explore the legal landscape of short selling and algorithmic trading across countries Learn about regulations aimed at maintaining market stability and fairness"
+title: Short Selling Regulations Around the World Explained
+description: Short selling regulations vary across global markets Explore key rules
+  in US EU UK China and Japan to navigate compliance Discover more inside
 ---
 
 

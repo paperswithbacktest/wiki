@@ -1,6 +1,7 @@
 ---
-title: "Fractal market hypothesis"
-description: "Explore the Fractal Market Hypothesis in algorithmic trading to enhance market prediction and risk management using fractal models for financial analysis."
+title: Principles and Implications of the Fractal Market Hypothesis
+description: Fractal Market Hypothesis explains how investor fractal patterns influence
+  market efficiency and unpredictability and guide strategies Discover more inside
 ---
 
 

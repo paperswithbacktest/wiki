@@ -1,6 +1,7 @@
 ---
-title: "General Depreciation System: Overview and Functionality"
-description: "Explore the General Depreciation System (GDS) a key element in financial planning that impacts tax savings and asset valuation, especially in algo trading."
+title: General Depreciation System Guide for Effective Tax Planning
+description: General Depreciation System lets businesses maximize accelerated tax
+  depreciation to lower taxable income early and improve cash flow Discover more inside.
 ---
 
 

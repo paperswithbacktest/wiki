@@ -1,6 +1,7 @@
 ---
-title: "Iron Condor Strategy"
-description: "Explore the Iron Condor strategy for options trading, focusing on achieving consistent, risk-managed returns through algorithmic trading in low-volatility markets."
+title: Iron Condor Options Strategy Explained for Consistent Income
+description: Iron Condor strategy helps generate steady income by selling balanced
+  option spreads within a defined range while capping losses Discover more inside
 ---
 
 

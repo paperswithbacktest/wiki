@@ -1,6 +1,7 @@
 ---
-title: "International Monetary Fund"
-description: "Explore the interplay between IMF policies and algorithmic trading. Learn how global financial challenges are addressed with evolving tech and economic stability efforts."
+title: International Monetary Fund Overview of Global Economic Stability
+description: International Monetary Fund guide covers its history objectives programs
+  governance and impact on global economic stability Discover more inside.
 ---
 
 

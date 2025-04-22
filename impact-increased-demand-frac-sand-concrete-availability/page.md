@@ -1,6 +1,7 @@
 ---
-title: "Impact of Increased Demand on Frac Sand and Concrete Availability"
-description: "Explore the rising demand's impact on frac sand and concrete availability, highlighting scarcity issues and the role of algo trading in navigating market dynamics."
+title: Managing Frac Sand and Concrete Demand in Energy and Construction
+description: Frac sand and concrete supply face volatility from oil prices and city
+  growth. Explore proactive sourcing and efficiency strategies Discover more inside.
 ---
 
 

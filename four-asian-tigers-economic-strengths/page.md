@@ -1,6 +1,7 @@
 ---
-title: "Four Asian Tigers: Economic Strengths"
-description: "Discover the economic strengths of East Asia's Four Asian Tigers and how algorithmic trading plays a role in maintaining their global financial prominence."
+title: Four Asian Tigers Economic Strategies Driving Sustainable Growth
+description: Four Asian Tigers leveraged smart export strategies education and supportive
+  policies to transform economies into global leaders Discover more inside.
 ---
 
 

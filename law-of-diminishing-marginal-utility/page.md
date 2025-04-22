@@ -1,6 +1,7 @@
 ---
-title: "Law of Diminishing Marginal Utility"
-description: "Explore the intersection of diminishing marginal utility, consumer behavior, and algorithmic trading to understand market trends and enhance trading strategies."
+title: Understanding Diminishing Marginal Utility in Economics
+description: Law of Diminishing Marginal Utility shows how satisfaction from each
+  additional unit drops and shapes consumer spending Discover more inside.
 ---
 
 

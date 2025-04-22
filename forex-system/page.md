@@ -1,6 +1,7 @@
 ---
-title: "Forex System"
-description: Discover the Forex System in Algo Trading, a decentralized market dedicated to trading currency pairs with varying strategies including Factor Investing. Learn about manual vs automated systems, optimization, and resources for traders. Maximize chances of success in the Forex market through a systematic, rule-based approach.
+title: Key Components And Strategies For Effective Forex Trading Systems
+description: Forex trading system helps traders follow clear entry and exit rules
+  manage risk and adapt to changing market conditions Discover more inside
 ---
 
 

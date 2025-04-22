@@ -1,6 +1,7 @@
 ---
-title: "Largest Solar Energy Companies"
-description: "Explore how top solar companies like NextEra Energy and First Solar are leading the renewable transformation and how algorithmic trading optimizes solar investments."
+title: Solar Energy Companies Driving Global Clean Power Transition
+description: Solar energy companies drive sustainability and cost savings with innovative
+  panels and solar technologies powering cleaner grids Discover more inside
 ---
 
 

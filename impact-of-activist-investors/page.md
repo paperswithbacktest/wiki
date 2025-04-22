@@ -1,6 +1,7 @@
 ---
-title: "Impact of Activist Investors"
-description: "Explore how activist investors and algorithmic trading are reshaping finance through tech-driven strategies and shareholder influence in modern investment landscapes."
+title: Understanding Activist Investors and Their Impact on Corporations
+description: Activist investors reshape company strategies and governance to unlock
+  value and drive sustainable growth while managing risks Discover more inside
 ---
 
 

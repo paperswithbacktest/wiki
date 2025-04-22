@@ -1,6 +1,7 @@
 ---
-title: "Identifying Quality Investments Using Return on Invested Capital"
-description: "Discover how Return on Invested Capital (ROIC) enhances algorithmic trading with insights into selecting quality investments based on capital efficiency."
+title: Return on Invested Capital Explained for Quality Investments
+description: Return on Invested Capital helps investors see how efficiently a company
+  uses capital to generate profits and choose opportunities Discover more inside.
 ---
 
 

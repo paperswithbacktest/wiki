@@ -1,6 +1,7 @@
 ---
-title: "History and Overview of the New Zealand Dollar"
-description: "Explore the New Zealand Dollar's history and its influence on global trading markets Understand how algorithmic trading strategies utilize historical currency data to optimize investments"
+title: Understanding The New Zealand Dollar Currency And Global Impact
+description: "New\_Zealand\_Dollar insights explain its origins symbols denominations\
+  \ economic policy effects and global value fluctuations Discover more inside"
 ---
 
 

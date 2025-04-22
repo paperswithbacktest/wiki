@@ -1,6 +1,7 @@
 ---
-title: "Information Asymmetry"
-description: "Discover how algorithmic trading impacts financial markets by creating information asymmetry which can lead to market inefficiencies like adverse selection and moral hazard."
+title: Understanding Information Asymmetry and Its Market Effects
+description: Information asymmetry hinders market efficiency and trust but enforcing
+  transparency rules and sharing data empowers fairer deals Discover more inside
 ---
 
 

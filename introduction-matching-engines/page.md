@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Matching Engines"
-description: Discover the essential role of matching engines in algorithmic trading, where they serve as the backbone for rapid and precise trade execution. Explore their architecture, efficient components like load balancers and proximity hosting, and key algorithms like FIFO, which are vital for modern trading platforms and high-frequency trading strategies.
+title: Matching Engine Architecture for Smooth Financial Market Trading
+description: Matching engine optimizes trade execution by matching buy and sell orders
+  based on price and time priority for fair markets Discover more inside
 ---
 
 

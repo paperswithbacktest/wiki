@@ -1,6 +1,7 @@
 ---
-title: "How Many Dividend Stocks Should You Own?"
-description: Explore the ideal number of dividend stocks to include in an algorithmic trading portfolio. Learn how dividend stocks provide regular income and stability, appealing to risk-averse investors. Discover how algorithmic trading optimizes portfolio management, enhances efficiency, and maximizes dividend capture through precise trade execution. Gain insights on balancing diversification, risk tolerance, and investment objectives to craft a well-rounded dividend stock strategy leveraging advanced trading technologies.
+title: Determining the Optimal Number of Dividend Stocks in Portfolio
+description: Dividend stocks deliver regular income by balancing diversification and
+  portfolio size See how many holdings suit your goals Discover more inside
 ---
 
 

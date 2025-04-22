@@ -1,6 +1,7 @@
 ---
-title: "Industry Classification Benchmark Overview"
-description: "Explore how the Industry Classification Benchmark aids algorithmic trading through structured stock categorization enhancing strategy precision and market analysis."
+title: Understanding the Industry Classification Benchmark for Investors
+description: Industry Classification Benchmark shows how investors and analysts group
+  companies by industry levels to enhance market insights Discover more inside.
 ---
 
 

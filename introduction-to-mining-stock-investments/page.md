@@ -1,6 +1,7 @@
 ---
-title: "Introduction to Mining Stock Investments"
-description: "Explore mining stock investments and algorithmic trading strategies. Gain insights into stock market dynamics and tips for optimizing your investment portfolio."
+title: Investing in Mining Stocks for Sustainable Portfolio Growth
+description: Mining stocks balance inflation hedging and portfolio growth potential
+  through metals like gold copper and lithium with risk insights Discover more inside.
 ---
 
 

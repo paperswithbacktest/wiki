@@ -1,6 +1,7 @@
 ---
-title: "Lawrence Leibowitz: Biography and Career"
-description: "Lawrence Leibowitz is a key figure in algorithmic trading and finance, known for his leadership in advancing market technologies and driving financial innovation."
+title: Lawrence Leibowitz Leadership in Finance and Market Structure
+description: Lawrence Leibowitz leverages technology to streamline NYSE operations
+  for faster, fairer trading and improved market efficiency Discover more inside.
 ---
 
 

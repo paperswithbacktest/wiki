@@ -1,6 +1,7 @@
 ---
-title: "List of the Largest Real Estate Investment Trusts"
-description: "Explore the largest real estate investment trusts and the role of algorithmic trading in optimizing trading strategies and enhancing investment opportunities."
+title: Understanding the Largest Real Estate Investment Trusts
+description: REITs deliver regular dividends and diversified real estate exposure
+  by pooling investor capital into top income properties Discover more inside
 ---
 
 

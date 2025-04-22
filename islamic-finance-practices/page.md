@@ -1,6 +1,7 @@
 ---
-title: "Islamic Finance Practices"
-description: "Explore the fusion of Islamic finance principles with algorithmic trading. Discover Sharia-compliant banking's ethical practices within modern financial technologies."
+title: Understanding Islamic Finance Principles And Practices
+description: Islamic finance offers Shariah compliant products that share risk and
+  promote ethical investing in community focused projects Discover more inside.
 ---
 
 

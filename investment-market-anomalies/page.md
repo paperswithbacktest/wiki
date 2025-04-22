@@ -1,6 +1,7 @@
 ---
-title: "Investment Market Anomalies"
-description: "Explore how investment strategies and market anomalies shape stock market dynamics. Learn how algorithmic trading leverages technology for strategic advantages."
+title: Understanding Investment Market Anomalies and Strategies
+description: Market anomalies reveal stock patterns like the January effect and momentum
+  so investors can spot opportunities and manage risks Discover more inside.
 ---
 
 

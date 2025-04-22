@@ -1,6 +1,7 @@
 ---
-title: "Intermarket Spread Swap"
-description: "Enhance your trading strategy by exploring intermarket spread swaps and algorithmic trading Discover how to optimize performance in volatile market environments"
+title: Intermarket Spread Swap Overview Benefits Risks and Strategies
+description: Intermarket Spread Swap leverages price differences across related markets
+  to generate profits while controlling risk and costs Discover more inside.
 ---
 
 

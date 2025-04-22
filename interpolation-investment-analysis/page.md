@@ -1,6 +1,7 @@
 ---
-title: "Interpolation in Investment Analysis"
-description: "Discover the crucial role of interpolation in financial modeling and algo trading Enhance investment analysis accuracy by estimating unknown data points for better decision-making"
+title: Key Interpolation Techniques for Investment Analysis
+description: Interpolation in investment analysis uses linear polynomial and spline
+  methods to estimate missing data and smooth price trends Discover more inside.
 ---
 
 

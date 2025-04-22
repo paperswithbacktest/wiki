@@ -1,6 +1,7 @@
 ---
-title: "Harvard Endowment Investment in Cryptocurrency"
-description: "Harvard's $39B endowment's venture into cryptocurrency highlights a strategic shift embracing digital assets, signaling institutional trust in crypto's future potential."
+title: Harvard Endowment Cryptocurrency Strategy and Risk Management
+description: Harvard Endowment cryptocurrency investments balance growth and risk
+  through a diversified approach to fund scholarships and research Discover more inside
 ---
 
 

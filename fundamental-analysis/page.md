@@ -1,6 +1,7 @@
 ---
-title: "Fundamental Analysis"
-description: Delve into the world of fundamental analysis, a key component of quantitative trading, and explore its role in algo trading. Learn how to assess a stock's intrinsic value by analyzing economic and financial factors. From top-down vs bottom-up analysis to qualitative and quantitative fundamentals, discover the importance of this approach for optimizing trading strategies and maximizing returns.
+title: Mastering Fundamental Analysis for Smarter Investment Decisions
+description: Fundamental analysis uncovers true value by evaluating financial statements
+  management and economic trends to guide smarter investing Discover more
 ---
 
 

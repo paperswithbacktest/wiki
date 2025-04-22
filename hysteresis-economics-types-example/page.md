@@ -1,6 +1,7 @@
 ---
-title: "Hysteresis in Economics: Types and Example"
-description: "Explore how hysteresis in economics impacts algorithmic trading where past economic shocks influence market conditions and trading strategies in finance."
+title: Understanding Hysteresis in Economics and Its Policy Impact
+description: Hysteresis in economics reveals how unemployment effects and productivity
+  losses persist to shape policy and growth strategies Discover more inside
 ---
 
 

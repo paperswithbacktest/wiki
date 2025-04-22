@@ -1,6 +1,7 @@
 ---
-title: "Index Hugger"
-description: "Explore SEO's vital role in enhancing digital presence through strategies like keyword research and technical audits along with insights from algorithmic trading."
+title: 'Index Huggers Investment Strategy: Balancing Risk And Returns'
+description: Index hugger funds deliver marketlike performance with small portfolio
+  tweaks for modest gains while managing risk and cost tradeoffs Discover more inside.
 ---
 
 

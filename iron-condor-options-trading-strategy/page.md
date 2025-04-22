@@ -1,6 +1,7 @@
 ---
-title: "Iron Condor Options Trading Strategy Explained"
-description: Explore the iron condor options trading strategy, ideal for low volatility markets, through an algorithmic lens. Learn how to create consistent trading opportunities by automating processes and managing risks effectively in your trading system. Understand the mechanics, benefits, and potential drawbacks while maximizing gains using advanced techniques in algo trading.
+title: Complete Iron Condor Options Trading Strategy Guide
+description: Iron Condor options strategy earns premium income with limited risk when
+  stocks stay within set ranges using time decay for profit Discover more inside
 ---
 
 

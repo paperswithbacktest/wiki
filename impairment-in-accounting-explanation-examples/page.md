@@ -1,6 +1,7 @@
 ---
-title: "Impairment in Accounting: Explanation and Examples"
-description: "Gain insights into accounting impairment and algorithmic trading. Understand how impairment affects asset valuation and financial reporting standards like GAAP and IFRS."
+title: Comprehensive Guide to Asset Impairment in Accounting
+description: Asset impairment in accounting shows how to spot value declines, calculate
+  losses and adjust values for accurate financial statements Discover more inside
 ---
 
 

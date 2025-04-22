@@ -1,6 +1,7 @@
 ---
-title: "Jarrow-Turnbull Model: Overview and Mechanism"
-description: "Discover the Jarrow-Turnbull model's role in credit risk and algorithmic trading, offering insights into market adaptations for strategic financial decisions."
+title: Guide to the Jarrow-Turnbull Model for Bond Pricing
+description: Jarrow-Turnbull model provides a detailed framework to price bonds and
+  interest rate derivatives by modeling default risk and interest rates Discover more.
 ---
 
 

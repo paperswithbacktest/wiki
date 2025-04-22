@@ -1,6 +1,7 @@
 ---
-title: "Linear Regression Using Excel"
-description: "Discover the power of Excel for data analysis and learn how to leverage its statistical functions and linear regression capabilities for algorithmic trading. This article guides you through using Excel to model relationships between variables and create effective trading strategies, enhancing your decision-making in financial markets. With insights into statistical analysis and regression, you'll be equipped with the analytical skills to navigate trading with confidence. Explore practical applications and optimize trading algorithms using data-driven techniques in Excel."
+title: Master Linear Regression In Excel With Step By Step Guide
+description: Linear Regression in Excel shows you how to add trendlines view R squared
+  and interpret slope intercept for predictions Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Fracking on Oil Prices"
-description: "Explore how fracking influences oil prices and the role of algorithmic trading in this dynamic landscape with insights for investors and policymakers."
+title: Fracking Effects On Oil Prices And Global Supply Dynamics
+description: Fracking reshapes oil prices by boosting supply cutting costs and reducing
+  import dependence while influencing market volatility Discover more inside
 ---
 
 

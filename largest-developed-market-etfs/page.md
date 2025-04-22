@@ -1,6 +1,7 @@
 ---
-title: "Largest Developed Market ETFs"
-description: "Explore the largest EFA Developed Market ETFs and the role of algorithmic trading with a focus on VEA to optimize your investment strategy globally."
+title: Understanding Developed Market ETFs for Stable Portfolio Growth
+description: Developed Market ETFs provide cost effective diversified exposure to
+  stable global equities with flexible trading and low fees Discover more inside
 ---
 
 

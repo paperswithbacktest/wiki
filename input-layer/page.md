@@ -1,6 +1,7 @@
 ---
-title: "Input Layer (Machine Learning)"
-description: "Learn about the input layer in machine learning which is essential for feeding data in neural networks setting the stage for data processing and predictions."
+title: Understanding the Role of Input Layers in Neural Networks
+description: Input layer in neural networks holds raw data and sets the foundation
+  for effective feature processing and accurate predictions Discover more inside
 ---
 
 ![Image](images/1.gif)

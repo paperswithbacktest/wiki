@@ -1,6 +1,7 @@
 ---
-title: "Industry Classification Codes"
-description: "Explore the role of industry classification codes like SIC and NAICS in algorithmic trading. Discover how these codes enhance precision in market analysis and trading strategies."
+title: Understanding Industry Classification Codes and Applications
+description: Industry Classification Codes help businesses and governments group companies
+  for clear economic insights and strategic planning Discover more inside
 ---
 
 

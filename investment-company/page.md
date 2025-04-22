@@ -1,6 +1,7 @@
 ---
-title: "Investment Company"
-description: "Discover how investment companies and algorithmic trading strategies help investors navigate financial markets maximize returns and manage risk effectively."
+title: Essential Guide to Investment Companies and Their Benefits
+description: Investment company services offer diversification expert asset management
+  and fee transparency to grow your portfolio with confidence Discover more inside
 ---
 
 

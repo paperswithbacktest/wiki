@@ -1,6 +1,7 @@
 ---
-title: "Impairment Charges: Analysis and Implications"
-description: "Explore the intersection of impairment charges and algo trading, highlighting their impact on financial accounting, asset valuation, and investment decisions."
+title: Understanding Impairment Charges in Financial Reporting
+description: Impairment charges ensure asset values align with fair market prices
+  in financial statements reducing profit distortions. Discover more inside.
 ---
 
 

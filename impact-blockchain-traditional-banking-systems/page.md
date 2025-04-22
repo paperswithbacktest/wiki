@@ -1,6 +1,7 @@
 ---
-title: "Impact of Blockchain on Traditional Banking Systems"
-description: "Explore how blockchain and algorithmic trading are transforming traditional banking by enhancing efficiency, security, and innovation in financial services."
+title: Blockchain Enhances Banking Security And Operational Efficiency
+description: Blockchain technology streamlines banking with faster transfers reduced
+  fees and enhanced security through smart contracts Discover more inside
 ---
 
 

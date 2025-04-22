@@ -1,6 +1,7 @@
 ---
-title: "Investment Multiplier Effect"
-description: "Explore the dynamics between Keynesian investment multiplier and algorithmic trading to understand their impact on modern financial systems and market strategies."
+title: Understanding The Investment Multiplier Effect In Economics
+description: The investment multiplier effect shows how initial spending sparks a
+  chain reaction of economic growth beyond the original investment Discover more inside.
 ---
 
 

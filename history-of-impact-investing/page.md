@@ -1,6 +1,7 @@
 ---
-title: "History of Impact Investing"
-description: "Explore the dynamic evolution of impact investing and algorithmic trading A fusion driving responsible finance by aligning ethical values with high-tech strategies"
+title: Impact Investing History Strategies And Future Outlook
+description: Impact investing blends financial returns with social and environmental
+  benefits by tracing its origins, milestones and future trends Discover more inside.
 ---
 
 

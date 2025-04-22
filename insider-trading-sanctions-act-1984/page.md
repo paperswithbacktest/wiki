@@ -1,6 +1,7 @@
 ---
-title: "Insider Trading Sanctions Act of 1984"
-description: "Explore how the Insider Trading Sanctions Act of 1984 transformed regulations to deter illegal trading enhancing market integrity amid technological evolution."
+title: Insider Trading Sanctions Act Of 1984 Explained For Investors
+description: Insider Trading Sanctions Act of 1984 sets clear rules and fines up to
+  three times illicit gains to deter insider trading Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Indian Stock Market: Exchanges and Indexes Overview"
-description: "Explore the Indian stock market's exchanges and indexes with a focus on algorithmic trading. Discover how technology shapes trading and investment strategies."
+title: Understanding the Indian Stock Market Key Exchanges and Indexes
+description: Indian stock market offers insights into BSE and NSE operations and index
+  performance to help investors make informed decisions Discover more inside
 ---
 
 

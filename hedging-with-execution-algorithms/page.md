@@ -1,6 +1,7 @@
 ---
-title: "hedging with execution algorithms"
-description: "Discover how execution algorithms enhance trading strategies with precision and efficiency Harness algo trading to optimize hedging and manage market risks effectively"
+title: Effective Hedging with Execution Algorithms in Trading
+description: Hedging with execution algorithms protects investments by breaking large
+  orders into smaller trades and timing them to reduce costs. Discover more inside
 ---
 
 

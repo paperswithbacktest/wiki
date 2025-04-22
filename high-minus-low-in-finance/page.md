@@ -1,6 +1,8 @@
 ---
-title: "High Minus Low in Finance"
-description: "Discover the integral role of High Minus Low (HML) in algorithmic trading and finance, unlocking value stocks' premium returns over growth stocks using data-driven strategies."
+title: "Understanding High Minus Low HML in the Fama\u2011French Model"
+description: "Explore the High Minus Low HML factor in the Fama\u2011French model\
+  \ to enhance portfolio insights and inform smarter investment decisions Discover\
+  \ more inside"
 ---
 
 

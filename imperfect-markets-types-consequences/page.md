@@ -1,6 +1,7 @@
 ---
-title: "Imperfect Markets: Types and Consequences"
-description: "Explore the types and consequences of imperfect markets in algorithmic trading where market inefficiencies challenge the idealized notion of perfect competition."
+title: Imperfect Markets Explained Monopolies Oligopolies Competition
+description: Imperfect markets give firms pricing power while showing consumer effects
+  through monopolies oligopolies and monopolistic competition Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Property Rights on Externalities and Market Failure"
-description: "Discover the intricate relationship between property rights, externalities, market failure, and algorithmic trading to understand their impact on financial markets."
+title: Property Rights Mitigate Externalities for Economic Growth
+description: Property rights define ownership and assign accountability for external
+  impacts reducing pollution and preventing market failures Discover more inside.
 ---
 
 

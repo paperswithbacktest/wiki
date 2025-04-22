@@ -1,6 +1,7 @@
 ---
-title: "Hedged Tender Offer"
-description: "Explore the synergy between algorithmic trading and hedged tender offer strategies to enhance investment efficiency, manage risk, and optimize profits."
+title: Hedged Tender Offers Explained With Essential Risk Controls
+description: Hedged tender offer protects investors with option hedges that offset
+  share price declines while efficiently balancing hedge costs Discover more inside
 ---
 
 

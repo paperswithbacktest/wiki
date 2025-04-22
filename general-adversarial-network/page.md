@@ -1,6 +1,7 @@
 ---
-title: "General Adversarial Network (GAN)"
-description: Discover how the General Adversarial Network (GAN), a revolutionary machine learning model, is transforming algorithmic trading. Learn how GANs generate new data to simulate market scenarios, optimize strategies, reduce risk, and improve sentiment analysis. Dive into the world of GANs and enhance your trading strategies. Explore resources for quantitative traders.
+title: Generative Adversarial Networks Explained For Applications
+description: Generative Adversarial Networks create realistic images music and text
+  with dual network training while addressing mode collapse Discover more inside
 ---
 
 

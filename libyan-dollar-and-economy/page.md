@@ -1,6 +1,7 @@
 ---
-title: "Libyan Dollar and the Libyan Economy"
-description: "Explore the complexities of the Libyan economy driven by oil exports and political instability Discover how algorithmic trading impacts the Libyan Dinar."
+title: Understanding the Libyan Dinar Value and Economic Role
+description: Libyan Dinar stability shapes Libya's economy amid oil price and political
+  shifts Explore currency trends and policy insights Discover more inside
 ---
 
 

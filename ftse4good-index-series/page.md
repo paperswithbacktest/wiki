@@ -1,6 +1,7 @@
 ---
-title: "FTSE4Good Index Series"
-description: "Explore how the FTSE4Good Index merges ESG investing with algorithmic trading offering insights into sustainable practices and rapid market adaptation."
+title: FTSE4Good Index Series Explained for Responsible Investors
+description: FTSE4Good Index Series helps investors find companies meeting environmental
+  social and governance standards with six monthly updates Discover more inside
 ---
 
 

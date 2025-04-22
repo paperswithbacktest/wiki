@@ -1,6 +1,7 @@
 ---
-title: "Impulse Wave Pattern: Theory and Rules"
-description: "Explore the impulse wave pattern, a key tool in technical analysis and algorithmic trading, offering insights into market trends and investor sentiment."
+title: Understanding Impulse Wave Patterns in Technical Analysis
+description: Impulse wave patterns help traders spot strong market moves and set price
+  targets using Elliott Wave rules and Fibonacci ratios Discover more inside
 ---
 
 

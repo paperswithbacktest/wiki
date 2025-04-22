@@ -1,6 +1,7 @@
 ---
-title: "Heath-Jarrow-Morton Model: Overview and Mechanism"
-description: "The Heath-Jarrow-Morton Model is crucial for modeling forward interest rates and pricing interest rate derivatives using stochastic differential equations in financial markets."
+title: Heath-Jarrow-Morton Model for Interest Rate Curve Dynamics
+description: Heath-Jarrow-Morton model shows how the yield curve evolves with no-arbitrage
+  drift and volatility terms for better rate forecasts Discover more inside
 ---
 
 

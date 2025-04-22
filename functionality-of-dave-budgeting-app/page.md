@@ -1,6 +1,7 @@
 ---
-title: "Functionality of Dave Budgeting App"
-description: "Discover the Dave Budgeting App's dual capabilities, offering powerful budgeting tools and advanced algorithmic trading for comprehensive financial management."
+title: Optimize Your Money Management with the Dave Budgeting App
+description: Dave Budgeting App links securely to your bank to track spending, warn
+  of low balances and provide interest-free pay advances Discover more inside
 ---
 
 

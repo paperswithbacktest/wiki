@@ -1,6 +1,7 @@
 ---
-title: "Innovative Methods for Purchasing ETFs Online"
-description: "Explore innovative online methods for ETF purchasing using algorithmic trading to streamline investments improve efficiency and potentially optimize returns."
+title: A Comprehensive Guide to Investing in ETFs Online for Beginners
+description: Investing in ETFs online delivers low-cost diversification and flexible
+  trading plus tips on order types and tax implications Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Japan Stewardship Code Function"
-description: "Discover how Japan's Stewardship Code promotes responsible investment and shapes corporate governance amidst the rise of algorithmic trading for market evolution."
+title: Japan Stewardship Code Explained for Institutional Investors
+description: Japan Stewardship Code guides institutional investors to engage with
+  companies transparently, vote and improve corporate governance. Discover more inside.
 ---
 
 

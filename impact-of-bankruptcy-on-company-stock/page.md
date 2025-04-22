@@ -1,6 +1,7 @@
 ---
-title: "Impact of Bankruptcy on Company Stock"
-description: "Discover the intricate relationship between bankruptcy and company stock performance in algorithmic trading delving into market dynamics and investor strategies."
+title: Bankruptcy Impacts Company Stock Price and Shareholder Value
+description: Bankruptcy can sharply affect company stock price as investors sell shares
+  and Chapter 7 and 11 restructurings reshape value Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Herrick Payoff Index: Functionality and Evaluation"
-description: "Explore the Herrick Payoff Index HPI, a powerful volume-based trading indicator used in algorithmic trading to analyze market trends and improve strategies."
+title: Comprehensive Guide to the Herrick Payoff Index for Traders
+description: Herrick Payoff Index reveals money flow in futures markets by combining
+  price volume and open interest to guide trading decisions Discover more inside
 ---
 
 

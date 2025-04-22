@@ -1,6 +1,7 @@
 ---
-title: "Leverage Ratio Calculation with Tier 1 Capital"
-description: "Explore the pivotal role of leverage ratios and Tier 1 Capital in algo trading Learn calculation methods and practical applications in enhancing trading strategies"
+title: Understanding the Leverage Ratio and Tier 1 Capital in Banking
+description: Leverage Ratio measures how much a bank relies on borrowed funds versus
+  its own capital to manage risk and regulatory requirements Discover more inside.
 ---
 
 

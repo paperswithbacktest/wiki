@@ -1,6 +1,7 @@
 ---
-title: "Influence of Proxy Voting on Fund Shareholder Participation"
-description: "Explore the impact of proxy voting on shareholder participation in corporate governance amid the rise of algorithmic trading and evolving regulatory frameworks."
+title: Understanding Proxy Voting in Fund Management and Its Impact
+description: Proxy voting in fund management lets shareholders influence corporate
+  decisions with clear guidelines and transparent reporting Discover more inside
 ---
 
 

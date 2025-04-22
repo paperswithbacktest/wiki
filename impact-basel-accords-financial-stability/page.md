@@ -1,6 +1,7 @@
 ---
-title: "Impact of Basel Accords on Financial Stability"
-description: "Explore the impact of Basel Accords on financial stability and algorithmic trading Understand how these regulations enhance banking safety and global financial security"
+title: Basel Accords Evolution and Impact on Global Banking Stability
+description: Basel Accords ensure banks hold risk-based capital and liquidity buffers
+  from Basel I to III boosting global financial stability Discover more inside.
 ---
 
 

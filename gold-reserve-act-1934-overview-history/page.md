@@ -1,6 +1,7 @@
 ---
-title: "Gold Reserve Act of 1934: Overview and Historical Context"
-description: "Explore the historical significance of the Gold Reserve Act of 1934 and its lasting impact on U.S. monetary policy alongside the rise of algorithmic trading."
+title: Impact of the Gold Reserve Act of 1934 on US Monetary Policy
+description: Gold Reserve Act of 1934 reshaped US gold management and expanded monetary
+  control to stabilize the economy during the Depression Discover more inside.
 ---
 
 

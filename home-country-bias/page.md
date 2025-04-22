@@ -1,6 +1,7 @@
 ---
-title: "Home Country Bias"
-description: "Explore how algorithmic trading can mitigate financial biases like home country bias, leading to diversified portfolios and improved investment outcomes."
+title: Understanding Home Country Bias for Global Portfolio Diversity
+description: Home country bias can skew your portfolio and raise your risk. Explore
+  strategies to diversify across borders and improve returns. Discover more inside
 ---
 
 

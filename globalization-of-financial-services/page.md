@@ -1,6 +1,7 @@
 ---
-title: "Globalization of Financial Services"
-description: "Explore the globalization of financial services and the rise of algorithmic trading Understand how technology and cross-border finance shape modern markets"
+title: Globalization of Financial Services Driving Economic Growth
+description: Globalization of Financial Services expands market access and improves
+  cross border transactions through technology and cooperation Discover more inside.
 ---
 
 

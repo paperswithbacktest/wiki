@@ -1,6 +1,7 @@
 ---
-title: "Investment Risk Levels: Low-Risk and High-Risk"
-description: "Explore investment risk levels with insights into low-risk and high-risk options, from stable bonds to volatile stocks and cryptocurrencies, and risk management strategies."
+title: Investment Risk Explained Through Low and High Risk Options
+description: Investment risk affects your portfolio choices by balancing potential
+  gains and losses across low-risk and high-risk options. Discover more inside.
 ---
 
 

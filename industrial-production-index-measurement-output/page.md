@@ -1,6 +1,7 @@
 ---
-title: "Industrial Production Index: Measurement of Output"
-description: "The Industrial Production Index is a vital tool for assessing economic performance and guiding policy decisions while influencing algorithmic trading strategies."
+title: Understanding Industrial Production Index for Economic Insight
+description: Industrial Production Index tracks manufacturing mining and utilities
+  output to gauge health and guide policy decisions. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Green Card: Definition, Function, and Eligibility Criteria"
-description: "Explore the intricacies of the Green Card lottery and the world of algorithmic trading Learn about eligibility criteria while understanding modern investment strategies"
+title: Complete Guide to Obtaining and Maintaining a Green Card
+description: Green Card applicants explore eligibility application steps timelines
+  costs rights and responsibilities in one comprehensive guide Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Index Amortizing Swap"
-description: "Explore the intricacies of Index Amortizing Swaps (IAS) and algorithmic trading Learn how IAS offers innovative risk management in dynamic interest rate environments"
+title: Mastering Index Amortizing Swaps And Their Practical Applications
+description: Index Amortizing Swaps allow firms to adjust notional exposure as rates
+  or prices change to manage risk and optimize cash flows Discover more inside.
 ---
 
 

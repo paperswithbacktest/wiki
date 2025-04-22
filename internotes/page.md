@@ -1,6 +1,7 @@
 ---
-title: "InterNotes"
-description: "Explore how InterNotes and algorithmic trading transform the corporate bond market offering retail investors structured debt security options and efficient trading strategies."
+title: InterNotes Explained Flexible Bond Investing With Incapital
+description: InterNotes offer flexible bond investments sold in small pieces through
+  Incapital enabling easy access to diversified fixed income Discover more inside.
 ---
 
 

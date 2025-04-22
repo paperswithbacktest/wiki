@@ -1,6 +1,7 @@
 ---
-title: "Kuala Lumpur Stock Exchange: Overview and Function"
-description: "Explore the evolution of the Kuala Lumpur Stock Exchange and the impact of algorithmic trading on market dynamics at Bursa Malaysia to enhance trading efficiency."
+title: Kuala Lumpur Stock Exchange History Functions And Future Trends
+description: Kuala Lumpur Stock Exchange overview highlights evolution trading functions
+  and future trends for investors to make informed decisions Discover more inside
 ---
 
 

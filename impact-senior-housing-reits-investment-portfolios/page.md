@@ -1,6 +1,7 @@
 ---
-title: "Impact of Senior Housing REITs on Investment Portfolios"
-description: "Explore the benefits of incorporating senior housing REITs into investment portfolios using algorithmic trading to optimize returns and manage risks effectively."
+title: Investing in Senior Housing REITs for Steady Income Growth
+description: Senior Housing REITs deliver steady rental income and growth potential
+  as the aging population fuels demand for quality senior living Discover more inside.
 ---
 
 

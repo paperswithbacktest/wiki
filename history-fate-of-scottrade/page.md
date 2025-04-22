@@ -1,6 +1,7 @@
 ---
-title: "History and Fate of Scottrade"
-description: "Explore the history and acquisition of Scottrade a pivotal brokerage firm and its impact on algorithmic trading reshaping brokerages in today's financial landscape."
+title: Scottrade Evolution From Startup To TD Ameritrade Acquisition
+description: "Scottrade reshaped retail investing with friendly in person service\
+  \ and easy online tools before its TD\_Ameritrade acquisition. Discover more inside."
 ---
 
 

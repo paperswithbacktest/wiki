@@ -1,6 +1,7 @@
 ---
-title: "Forex Training: Overview and Mechanisms"
-description: "Explore the dynamics of forex trading with a focus on training and algorithmic strategies Discover how to leverage market mechanisms for financial success"
+title: Forex Trading Fundamentals and Strategies for Beginners
+description: Forex trading helps you master currency markets with proven strategies
+  risk management and tools tailored for beginners Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Footings: Definition, Function, and Examples"
-description: "Explore the parallels between construction and finance by understanding footings and algorithms Discover how these concepts create strong foundations for success."
+title: Understanding Construction Footings For Stable Foundations
+description: Construction footings provide a stable base to evenly distribute building
+  loads across varying soil types and prevent settlement. Discover more inside.
 ---
 
 

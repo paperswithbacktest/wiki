@@ -1,6 +1,7 @@
 ---
-title: "Historical Market Risk Premium"
-description: "Explore investment risks and market risk premium in the context of algorithmic trading Gain insights into risk management for better investment decisions"
+title: Understanding Market Risk Premium and Its Significance
+description: Market risk premium shows investors the extra return expected from stocks
+  over risk-free assets and guides smarter portfolio decisions Discover more inside
 ---
 
 

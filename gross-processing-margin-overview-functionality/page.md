@@ -1,6 +1,7 @@
 ---
-title: "Gross Processing Margin: Overview and Functionality"
-description: "Explore the strategic role of Gross Processing Margin in commodity trading Understand its impact on profitability and market dynamics using algorithmic techniques"
+title: Understanding Gross Processing Margin in Oil and Gas Refineries
+description: Gross Processing Margin measures refinery profit after crude costs and
+  before overhead for smarter pricing and operations. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Israel Englander"
-description: Discover the influence of Israel Englander in the world of finance through algorithmic trading. As a leader in Millennium Management, Englander has pioneered data-driven trading strategies, reshaping modern practices with precision and innovation. Explore his journey from early education to his role in transforming Millennium into a global powerhouse, and understand how his methods have set industry benchmarks.
+title: Israel Englander Leadership in Building Millennium Management
+description: Israel Englander applies multi strategy investing and advanced technology
+  to grow Millennium Management and boost client returns Discover more inside.
 ---
 
 

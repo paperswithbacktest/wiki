@@ -1,6 +1,7 @@
 ---
-title: "Investment Management Division"
-description: "Explore algorithmic trading within investment management and asset management divisions Learn how technology transforms strategies for efficient investment solutions"
+title: Comprehensive Guide to Investment Management Division Operations
+description: Investment Management Division experts outline key functions strategies
+  and risk management to optimize portfolio growth Discover more inside
 ---
 
 

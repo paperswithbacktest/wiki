@@ -1,6 +1,7 @@
 ---
-title: "Job Openings and Labor Turnover Survey (JOLTS)"
-description: "Explore the intersection of JOLTS data and algorithmic trading to boost trading strategies and assess economic health using labor market indicators."
+title: Understanding JOLTS Data for Job Openings and Labor Turnover
+description: JOLTS data reveals monthly job openings hires quits and layoffs trends
+  to guide economic policy and strategic business planning Discover more inside
 ---
 
 

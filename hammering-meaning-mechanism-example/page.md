@@ -1,6 +1,7 @@
 ---
-title: "Hammering: Meaning, Mechanism, and Example"
-description: "Explore the concept and implications of hammering in algorithmic trading where aggressive selling impacts market prices while examining its ethical and legal aspects."
+title: Complete Guide to Hammering Tools, Techniques and Safety
+description: Explore hammering step by step in this guide covering tools types safety
+  and techniques for projects and professionals Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Inference Path (Machine Learning)"
-description: "Discover how an inference path in machine learning transforms data into decisions learn key components differences from training paths and optimization tips"
+title: Understanding Machine Learning Inference Paths and Optimization
+description: Inference path in machine learning shows how data flows through model
+  layers to yield predictions and pinpoint optimization steps. Discover more inside
 ---
 
 ![Image](images/1.png)

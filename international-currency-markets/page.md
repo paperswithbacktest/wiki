@@ -1,6 +1,7 @@
 ---
-title: "International Currency Markets"
-description: "Explore the international currency markets and the transformative impact of algorithmic trading in forex Learn about market dynamics and trading strategies"
+title: Comprehensive Guide to the International Forex Market
+description: International currency market trading explained from basics to advanced
+  strategies with real examples and risk management tips. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Gross Rate of Return vs. Net Rate of Return"
-description: "Explore the differences between gross and net rates of return in algorithmic trading Discover how to optimize investment performance with these metrics"
+title: Comparing Gross And Net Rates Of Return In Investments
+description: Gross rate of return and net rate of return show how fees and taxes affect
+  your investment growth to help you make informed decisions Discover more inside.
 ---
 
 

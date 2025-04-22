@@ -1,6 +1,7 @@
 ---
-title: "Goodwill Amortization"
-description: "Explore how goodwill amortization impacts algorithmic trading strategies, offering insights on managing intangible assets for informed financial decision-making."
+title: Goodwill Amortization Explained Under Current Accounting Rules
+description: Goodwill Amortization shows how firms allocate intangible asset costs
+  under US and IFRS standards while managing impairment rules. Discover more inside
 ---
 
 

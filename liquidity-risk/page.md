@@ -1,6 +1,7 @@
 ---
-title: "Liquidity Risk"
-description: "Explore the complexities of liquidity risk in algorithmic trading and its impact on market dynamics. Learn how to manage these risks for optimal trading outcomes."
+title: Comprehensive Guide to Effective Liquidity Risk Management
+description: Liquidity risk threatens cash flow when assets cannot convert without
+  loss. Use strategies to measure and manage liquidity risk Discover more inside
 ---
 
 

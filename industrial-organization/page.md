@@ -1,6 +1,7 @@
 ---
-title: "Industrial Organization"
-description: "Explore the intersection of industrial organization and algorithmic trading to understand market dynamics shaping trading strategies and economic policies in today's financial world."
+title: Understanding Industrial Organization and Market Structures
+description: Industrial organization explores how market structures affect firm pricing
+  strategies and competition to enhance consumer options Discover more inside
 ---
 
 

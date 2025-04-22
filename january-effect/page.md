@@ -1,6 +1,7 @@
 ---
-title: "January effect"
-description: Explore the impact of the January Effect on algorithmic trading and learn strategies to capitalize on this seasonal stock market phenomenon where small-cap stocks often surge in January. Discover the historical background, causes, and implications of this anomaly in an automated trading environment.
+title: Understanding the January Effect in Stock Market Returns
+description: January effect drives stock gains using tax-loss selling and reinvesting
+  in small caps and other sectors Explore practical strategies Discover more inside
 ---
 
 

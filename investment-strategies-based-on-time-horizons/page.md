@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies Based on Time Horizons"
-description: "Explore investment strategies aligned with various time horizons including value and growth investing and understand how algorithmic trading enhances decision-making."
+title: Time Horizon Strategies for Short Medium and Long Term Investing
+description: Time horizon investing helps align your investment choices across short
+  medium and long term goals with tailored risk management Discover more inside
 ---
 
 

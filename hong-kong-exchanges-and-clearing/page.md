@@ -1,6 +1,7 @@
 ---
-title: "Hong Kong Exchanges and Clearing"
-description: "Explore the vital role of algorithmic trading at Hong Kong's HKEX, enhancing market efficiency and liquidity while driving global trading innovations."
+title: Understanding HKEX Role In Global Financial Markets
+description: HKEX powers seamless stock and derivatives trading in Hong Kong while
+  ensuring transparency integrity and global market connectivity Discover more inside
 ---
 
 

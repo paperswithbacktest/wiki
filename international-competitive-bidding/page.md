@@ -1,6 +1,7 @@
 ---
-title: "International Competitive Bidding"
-description: "Explore the intersection of international competitive bidding and algorithmic trading to enhance efficiency, compliance, and strategic growth in global markets."
+title: International Competitive Bidding Guide to Efficient Procurement
+description: International Competitive Bidding delivers fair transparent global procurement
+  with clear steps and best practices to maximize value Discover more inside
 ---
 
 

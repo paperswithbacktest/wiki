@@ -1,6 +1,7 @@
 ---
-title: "Investment Industry Regulatory Organization of Canada"
-description: "Explore the role of the Investment Industry Regulatory Organization of Canada in regulating algo trading and maintaining the integrity of Canada's financial markets."
+title: "IIROC Standards for Fair Trading in Canada\u2019s Investment Markets"
+description: IIROC protects investors with market oversight trading standards and
+  enforcement to maintain fairness and transparency Discover more inside.
 ---
 
 

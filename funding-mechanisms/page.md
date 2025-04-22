@@ -1,6 +1,7 @@
 ---
-title: "Funding Mechanisms"
-description: "Explore various funding mechanisms crucial to advancing algo trading. This guide helps traders secure capital, enhance trading strategies, and sustain operations efficiently."
+title: Understanding Funding Mechanisms for Projects and Organizations
+description: Funding mechanisms offer loans grants investments and crowdfunding to
+  empower projects and organizations with reliable capital Discover more inside
 ---
 
 

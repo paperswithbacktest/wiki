@@ -1,6 +1,7 @@
 ---
-title: "Hyperbolic Absolute Risk Aversion"
-description: "Explore how Hyperbolic Absolute Risk Aversion (HARA) informs algorithmic trading by adjusting investor risk preferences based on changing wealth levels for optimized trading strategies."
+title: Hyperbolic Absolute Risk Aversion in Finance and Investment
+description: Hyperbolic Absolute Risk Aversion shows how wealth impacts risk tolerance
+  and guides tailored strategies to match individual needs Discover more inside.
 ---
 
 

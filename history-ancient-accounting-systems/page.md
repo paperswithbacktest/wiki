@@ -1,6 +1,7 @@
 ---
-title: "History of Ancient Accounting Systems"
-description: "Explore the fascinating evolution of financial systems from ancient accounting in Mesopotamia and Egypt to today's algorithmic trading and modern finance."
+title: Evolution of Ancient Accounting Systems in Early Civilizations
+description: Ancient accounting systems evolved from clay tokens to complex tabulae
+  revealing how early civilizations managed resources effectively Discover more inside
 ---
 
 

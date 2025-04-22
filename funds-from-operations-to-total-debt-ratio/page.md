@@ -1,6 +1,7 @@
 ---
-title: "Funds From Operations to Total Debt Ratio"
-description: "Explore the significance of the Funds From Operations to Total Debt ratio in assessing financial health and its role in algorithmic trading for market predictions."
+title: Understanding FFO To Total Debt Ratio For REIT Financial Health
+description: FFO to Total Debt Ratio measures how much operational cash flow REITs
+  generate to cover debt and assess stability at a glance Discover more inside.
 ---
 
 

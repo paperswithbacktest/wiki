@@ -1,6 +1,7 @@
 ---
-title: "Investor Behavior Analysis"
-description: "Explore how psychological factors impact investor behavior and decision-making in the context of algorithmic trading by analyzing emotional, cognitive, and social influences on market dynamics."
+title: Investor Behavior Analysis for Smarter Investment Decisions
+description: Investor behavior analysis shows how psychological biases and market
+  sentiment influence decisions so you can avoid costly mistakes Discover more inside
 ---
 
 

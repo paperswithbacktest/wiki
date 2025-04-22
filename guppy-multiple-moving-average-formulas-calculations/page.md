@@ -1,6 +1,7 @@
 ---
-title: "Guppy Multiple Moving Average: Formulas and Calculations"
-description: "Explore the Guppy Multiple Moving Average to understand its role in enhancing trading strategies through trend identification and market momentum analysis."
+title: Understanding Guppy Multiple Moving Average for Traders
+description: Guppy Multiple Moving Average shows trend shifts by tracking short and
+  long term EMAs so traders can time entries and exits Discover more inside
 ---
 
 

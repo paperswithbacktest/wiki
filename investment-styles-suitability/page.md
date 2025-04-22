@@ -1,6 +1,7 @@
 ---
-title: "Investment Styles and Their Suitability"
-description: "Explore suitable investment styles from traditional methods like value investing to modern techniques like algorithmic trading, optimizing your strategies for better financial outcomes."
+title: Comparing Investment Styles For Optimal Portfolio Management
+description: Investment styles guide how you invest from growth value to ESG and passive
+  strategies find the right mix to match your risk and goals Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of Financial Leverage on Earnings Per Share"
-description: "Explore the impact of financial leverage on earnings per share and its significance for algorithmic trading strategies in analyzing market fluctuations."
+title: Financial Leverage and Its Impact on Earnings Per Share
+description: Financial leverage drives earnings per share by using debt to amplify
+  profits while managing interest costs and risks Discover more inside.
 ---
 
 

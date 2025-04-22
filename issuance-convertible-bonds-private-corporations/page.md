@@ -1,6 +1,8 @@
 ---
-title: "Issuance of Convertible Bonds by Private Corporations"
-description: "Explore how private corporations leverage convertible bonds to balance debt and equity while algorithmic trading enhances market efficiency and investor opportunities."
+title: Understanding Convertible Bonds for Private Corporations
+description: "Convertible bonds give private corporations lower\u2011cost financing\
+  \ with equity upside and risk mitigation Discover more inside to optimize capital\
+  \ structure"
 ---
 
 

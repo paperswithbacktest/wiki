@@ -1,6 +1,7 @@
 ---
-title: "How to get funding for trading?"
-description: "Learn how to secure trading capital and overcome the challenges of self-funding in this comprehensive guide. Discover eight practical ways to obtain funding, including signal services, copy-trading, family and friends, MAM accounts, broker funding, proprietary trading firms, online prop firms, creating your own fund, crowdfunding, venture capital, and angel investors."
+title: Securing Trading Funding for Beginners and Advanced Traders
+description: Trading funding options cover qualification requirements sourcing capital
+  and risk management strategies with expert guidance Discover more inside
 ---
 
 

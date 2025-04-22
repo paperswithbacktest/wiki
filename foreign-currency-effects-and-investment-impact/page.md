@@ -1,6 +1,7 @@
 ---
-title: "Foreign Currency Effects and Investment Impact"
-description: "Explore how foreign currency fluctuations impact investment returns and how algorithmic trading can effectively navigate forex market volatility."
+title: Managing Foreign Currency Risk in International Investments
+description: Foreign currency risk influences investment returns through exchange
+  rate shifts and hedging tools protect your portfolio Discover more inside
 ---
 
 

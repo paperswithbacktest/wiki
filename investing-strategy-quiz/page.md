@@ -1,6 +1,7 @@
 ---
-title: "Investing Strategy Quiz"
-description: "Discover how investment strategy quizzes, strategic investing, and algorithmic trading unite to enhance your investment approach. Learn how to discern your risk profile and preferences with quizzes, and leverage algorithmic models for precision trading. Gain insights into aligning strategies with personal goals and the evolving financial landscape for informed and effective investing decisions."
+title: Essential Guide to Saving and Investing for Financial Growth
+description: Saving and investing basics explained to help you balance risk and growth
+  with practical guidance on diversification and allocation Discover more inside
 ---
 
 

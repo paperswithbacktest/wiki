@@ -1,6 +1,7 @@
 ---
-title: "Impact of the Great Recession on the Housing Market"
-description: "Explore how the Great Recession reshaped the housing market and the rise of algorithmic trading unraveling economic impacts and recovery dynamics."
+title: Understanding the Great Recession Causes and Impact
+description: Great Recession caused housing market collapse and bank failures that
+  stalled global economic growth and reshaped lending rules Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Free Cash Flow Yield as a Fundamental Indicator"
-description: "Free cash flow yield serves as a vital indicator in investment analysis revealing a company's cash generation efficiency. Explore its role in algorithmic trading strategies."
+title: Understanding Free Cash Flow Yield And Company Valuation
+description: Free Cash Flow Yield reveals how much cash a company generates relative
+  to its market value for smarter investment decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Identifying Forex Scams"
-description: "Discover how to protect yourself from forex scams in algorithmic trading by exploring common fraudulent tactics, understanding the misuse of trading technology, and learning to identify reliable trading systems. Gain insights on how to navigate the forex market securely and responsibly to safeguard your investments and make informed decisions."
+title: Comprehensive Guide to Identifying and Avoiding Forex Scams
+description: Forex scams steal investments. This guide shows how to spot fake brokers
+  verify regulations and manage risk to protect capital Discover more inside
 ---
 
 

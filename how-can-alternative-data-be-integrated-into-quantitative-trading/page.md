@@ -1,6 +1,7 @@
 ---
-title: "How can alternative data be integrated into quantitative trading?"
-description: "Discover how alternative data, such as social media sentiment and satellite imagery, can be effectively integrated into quantitative trading models. Learn the steps from data understanding to backtesting and risk management for optimal results."
+title: Leveraging Alternative Data For Quantitative Trading Insights
+description: Alternative data drives real-time trading insights with satellite imagery
+  and social sentiment to refine quantitative models Discover more inside
 ---
 
 

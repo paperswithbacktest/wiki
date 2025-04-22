@@ -1,6 +1,7 @@
 ---
-title: "GTS"
-description: "Discover how GTS revolutionizes algo trading with automation and precision improving efficiency and accuracy while minimizing human error and enhancing market strategies."
+title: GTS Global Trading System Explained for Algorithmic Trading
+description: GTS Global Trading System automates trade decisions with advanced algorithms
+  and low-latency execution for faster precision trading Discover more inside.
 ---
 
 

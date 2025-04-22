@@ -1,6 +1,7 @@
 ---
-title: "Japan Inc."
-description: "Explore Japan Inc. to understand the synergy between business and government that drives economic growth innovation and algorithmic trading success in the Japanese market."
+title: Japan Inc Corporate Model Government And Business Collaboration
+description: Japan Inc describes how Japans government and major companies work together
+  through keiretsu and innovation to drive economic growth Discover more inside.
 ---
 
 

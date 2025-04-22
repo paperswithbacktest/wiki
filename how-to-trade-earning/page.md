@@ -1,6 +1,7 @@
 ---
-title: "How to trade earning?"
-description: "Earnings reports are a key indicator of a company’s financial health, providing insights into profitability and influencing stock price movements. During earnings season, traders analyze these reports, comparing actual results with forecasts to capitalize on market volatility. Successful earnings trading requires a deep understanding of both financial data and market expectations, as well as effective risk management strategies to navigate the potential for significant price shifts. Learn how to prepare, analyze reports, and implement trading strategies during this critical period."
+title: Master Earnings Trading Strategies For Consistent Market Gains
+description: Earnings trading combines analysis of quarterly results guidance and
+  volatility trends to capitalize on price moves post reports. Discover more inside.
 ---
 
 

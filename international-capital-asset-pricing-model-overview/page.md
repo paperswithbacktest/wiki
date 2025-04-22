@@ -1,6 +1,7 @@
 ---
-title: "Overview of the International Capital Asset Pricing Model"
-description: "Explore the International Capital Asset Pricing Model for algorithmic trading to understand how it extends CAPM to address exchange rate risks in global markets."
+title: Understanding the International Capital Asset Pricing Model
+description: International Capital Asset Pricing Model explains how currency and political
+  risks influence global investments, expected returns Discover more inside
 ---
 
 

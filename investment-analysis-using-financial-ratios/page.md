@@ -1,6 +1,7 @@
 ---
-title: "Investment Analysis Using Financial Ratios"
-description: "Explore investment analysis using financial ratios and algorithmic trading to automate decisions enhance precision and capitalize on market opportunities efficiently"
+title: Essential Guide to Financial Ratios for Investment Analysis
+description: Financial Ratios help you compare companies and evaluate profitability
+  liquidity solvency and valuation to make smarter investment decisions Discover more
 ---
 
 

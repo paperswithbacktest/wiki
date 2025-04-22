@@ -1,6 +1,7 @@
 ---
-title: "K-Ratio: Concept, Formula, and Example"
-description: "Explore the K-Ratio a key metric for algorithmic trading that assesses the consistency of investment returns offering insights beyond traditional performance measures."
+title: 'Understanding K-Ratio: Measuring Investment Risk-Adjusted Returns'
+description: K-Ratio evaluates risk adjusted returns by comparing extra investment
+  gains to volatility guiding smarter portfolio decisions Discover more inside
 ---
 
 

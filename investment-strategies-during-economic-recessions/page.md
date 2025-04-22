@@ -1,6 +1,7 @@
 ---
-title: "Investment Strategies During Economic Recessions"
-description: "Explore investment strategies during economic recessions with a focus on algorithmic trading Discover how to navigate market volatility and seize opportunities"
+title: Investment Strategies to Protect Wealth During an Economic Recession
+description: Economic recession investment strategies help you adjust portfolios by
+  diversifying into bonds and defensive stocks for stability Discover more inside
 ---
 
 

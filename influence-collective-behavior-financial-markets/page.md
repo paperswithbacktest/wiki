@@ -1,6 +1,7 @@
 ---
-title: "Influence of Collective Behavior on Financial Markets"
-description: "Explore the interplay of collective behavior and algorithmic trading in financial markets uncovering how these elements shape market trends and investor decisions."
+title: Understanding Collective Behavior in Financial Markets
+description: Collective behavior in financial markets drives price swings and trends
+  by uniting investor actions through social media news Discover more inside.
 ---
 
 

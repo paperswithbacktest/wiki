@@ -1,6 +1,7 @@
 ---
-title: "High-Yield Bond Spread in Investment"
-description: "Explore the intricacies of high-yield bond spreads in investment highlighting risk assessments, market trends, and the efficiency gains of algorithmic trading strategies."
+title: Understanding High-Yield Bond Spreads for Risk Assessment
+description: High-yield bond spreads reveal market risk sentiment by showing yield
+  differences with government bonds across market cycles Discover more inside.
 ---
 
 

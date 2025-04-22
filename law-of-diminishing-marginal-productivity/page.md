@@ -1,6 +1,7 @@
 ---
-title: "Law of Diminishing Marginal Productivity"
-description: "Explore how understanding the law of diminishing marginal productivity can optimize algorithmic trading strategies for increased efficiency and profitability. Learn how traders use economic principles to maximize output and maintain a competitive edge in financial markets."
+title: Understanding the Law of Diminishing Marginal Productivity
+description: Law of Diminishing Marginal Productivity helps businesses optimize resource
+  use and avoid wasteful investments in labor and capital Discover more inside
 ---
 
 

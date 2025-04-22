@@ -1,6 +1,7 @@
 ---
-title: "Foreign Currency Fixed Deposit: Overview and Advantages"
-description: "Explore the benefits of Foreign Currency Fixed Deposits including portfolio diversification and potential gains from currency variation while managing forex risks."
+title: Foreign Currency Fixed Deposit Benefits Risks And Strategies
+description: Foreign Currency Fixed Deposit provides competitive interest while diversifying
+  currency exposure and reducing exchange rate risk. Discover more inside.
 ---
 
 

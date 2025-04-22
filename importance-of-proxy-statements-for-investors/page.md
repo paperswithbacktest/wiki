@@ -1,6 +1,7 @@
 ---
-title: "Importance of Proxy Statements for Investors"
-description: "Discover the crucial role of proxy statements in financial analysis and algo trading to enhance investment strategies by evaluating corporate governance."
+title: Understanding Proxy Statements Impact on Investor Decision Making
+description: Proxy statements provide investors detailed governance insights and upcoming
+  voting proposals to inform better investment choices Discover more inside.
 ---
 
 

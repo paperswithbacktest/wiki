@@ -1,6 +1,7 @@
 ---
-title: "Gaussian processes in trading"
-description: "Gaussian processes revolutionize algorithmic trading by enhancing prediction accuracy and quantifying uncertainties, offering traders a competitive advantage in volatile markets."
+title: Gaussian Processes for Financial Market Forecasting
+description: Gaussian processes provide predictive market insights with uncertainty
+  estimates to help manage risk and guide trading decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Lightning Network Overview and Functionality"
-description: "Explore the Lightning Network's impact on Bitcoin scalability and algorithmic trading. Understand how it enhances transaction speed and reduces fees for optimized strategies."
+title: Understanding the Bitcoin Lightning Network for Instant Payments
+description: Lightning Network enables instant low cost Bitcoin payments off the main
+  blockchain with secure payment channels and smart contracts Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Inflationary Psychology: Concept, Examples, and Impact"
-description: "Explore how inflationary psychology affects economic dynamics by shaping consumer behavior and expectations Discover the role of algorithmic trading in this context"
+title: Understanding Inflationary Psychology and Its Economic Impact
+description: Inflationary psychology shows how price expectations can boost consumer
+  demand, amplify inflation risks and influence policy Discover more inside.
 ---
 
 

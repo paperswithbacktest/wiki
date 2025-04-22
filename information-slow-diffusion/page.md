@@ -1,6 +1,7 @@
 ---
-title: "Information (slow diffusion)"
-description: Explore the complexities of slow information diffusion in algorithmic trading and its impact on market efficiency and trading strategies. Learn how slow data dissemination affects price discovery and creates trading opportunities by delving into the technical, human, and economic factors that contribute to this phenomenon. Discover adaptive strategies and cutting-edge technologies that can help traders capitalize on market inefficiencies caused by slow information incorporation.
+title: Understanding Slow Information Diffusion and Its Impact
+description: Slow information diffusion delays vital updates and increases risks while
+  causing inefficiencies. Discover causes and solutions to speed communication
 ---
 
 

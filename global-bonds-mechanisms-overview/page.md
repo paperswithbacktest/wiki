@@ -1,6 +1,7 @@
 ---
-title: "Global Bonds: Mechanisms and Overview"
-description: "Explore the mechanisms of global bonds and algorithmic trading to optimize your investments by understanding these key financial instruments and strategies."
+title: Global Bonds Diversification, Risks and Investment Strategies
+description: Global bonds deliver diversification and risk mitigation with currency
+  hedging and duration management to optimize returns Discover more inside
 ---
 
 

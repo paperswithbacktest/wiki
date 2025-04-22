@@ -1,6 +1,7 @@
 ---
-title: "Hedging weights"
-description: Discover how hedging weights are pivotal in managing risks and optimizing returns in algorithmic trading. This comprehensive exploration reveals the essentials of integrating hedging strategies into trading systems to withstand market volatility. Learn about asset-hedging, time-hedging strategies, and the benefits they offer traders to achieve a balance between risk and potential return. By effectively deploying hedging techniques, traders can enhance portfolio stability and profitability while navigating the unpredictable dynamics of financial markets. Uncover the art of hedging and its critical role in algo trading for superior risk management.
+title: Optimizing Hedging Weights for Balanced Portfolio Risk and Reward
+description: Hedging Weights help balance portfolio risk and reward by adjusting static
+  and dynamic strategies while managing costs Discover more inside.
 ---
 
 

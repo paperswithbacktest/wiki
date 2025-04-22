@@ -1,6 +1,7 @@
 ---
-title: "Government Accountability Office: Overview and History"
-description: "Explore the Government Accountability Office's history and its pivotal role in ensuring transparency and accountability in federal operations and algorithmic trading oversight."
+title: Government Accountability Office Role and Responsibilities
+description: Government Accountability Office ensures taxpayer dollars are used efficiently
+  by auditing programs to advise Congress on changes Discover more inside
 ---
 
 

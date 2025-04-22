@@ -1,6 +1,7 @@
 ---
-title: "Investment in Natural Resources"
-description: "Explore investment strategies in natural resources and algorithmic trading offering insights into maximizing returns and navigating modern financial markets."
+title: Investing in Natural Resources Comprehensive Strategies and Risks
+description: Investing in natural resources provides strategies for energy minerals
+  water and renewables with risk management policy insights Discover more inside.
 ---
 
 

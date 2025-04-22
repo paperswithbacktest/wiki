@@ -1,6 +1,9 @@
 ---
-title: "Kerviel, Jérôme"
-description: Explore the infamous trading scandal involving Jerome Kerviel at Société Générale, delving into his involvement with algorithmic trading and the events leading to substantial financial losses. This article highlights the risks of unsupervised algo trading and stresses the importance of robust risk management in financial institutions. Learn about Kerviel’s rise, his complex trading activities, and the significant impact on the finance sector, prompting urgent calls for enhanced controls and ethical frameworks in technologically driven trading environments.
+title: "J\xE9r\xF4me Kerviel Unauthorized Trading Scandal at Soci\xE9t\xE9 G\xE9n\xE9\
+  rale"
+description: "J\xE9r\xF4me Kerviel scandal exposes hidden billion euro trades that\
+  \ bypassed controls and cost Soci\xE9t\xE9 G\xE9n\xE9rale 4.9 billion euro Discover\
+  \ more inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Generator (Machine Learning)"
-description: "Explore the role of machine learning generators in creating new data like images and music by transforming random noise into structured outputs with neural networks."
+title: Key Concepts of Generator Models in Machine Learning
+description: Generator models in machine learning use neural networks to turn random
+  noise into realistic images text music and molecules Discover more inside
 ---
 
 ![Image](images/1.jpeg)

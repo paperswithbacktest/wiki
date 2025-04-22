@@ -1,6 +1,7 @@
 ---
-title: "Lisbon Treaty: History, Impact, and Analysis"
-description: "Explore the Lisbon Treaty as a vital EU milestone shaping financial markets and algorithmic trading through enhanced regulatory frameworks and governance."
+title: Lisbon Treaty Institutional Changes and EU Governance
+description: Lisbon Treaty transforms EU governance by streamlining decision making
+  and empowering Parliament to boost efficiency and democracy Discover more inside
 ---
 
 

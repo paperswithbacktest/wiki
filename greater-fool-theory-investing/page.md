@@ -1,6 +1,7 @@
 ---
-title: "Greater Fool Theory in Investing"
-description: "Delve into how the Greater Fool Theory impacts investment strategies, especially in algo trading, by balancing market momentum with risk management."
+title: Understanding the Greater Fool Theory in Investment Markets
+description: Greater Fool Theory reveals how hype driven bubbles fuel mental traps
+  and risky reselling of assets leading to market crashes Discover more inside
 ---
 
 

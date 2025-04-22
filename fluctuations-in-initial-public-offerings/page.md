@@ -1,6 +1,7 @@
 ---
-title: "Fluctuations in Initial Public Offerings"
-description: "Explore the impact of algorithmic trading in Initial Public Offerings and how it mitigates IPO volatility while enhancing market efficiency and liquidity."
+title: Factors Influencing Initial Public Offering Fluctuations
+description: IPO fluctuations result from market conditions sentiment and regulatory
+  changes learn how companies use strategies to stabilize performance Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Front-End Load: Types, Average Percentage, and Example"
-description: "Explore the impact of front-end load fees in mutual funds, covering types, average costs, and how algorithmic trading can enhance investment strategies."
+title: Understanding Front-End Load Fees For Mutual Fund Investors
+description: Front-end load fees reduce your initial investment in mutual funds but
+  can be offset with larger contributions and discount tiers. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Lion Economies: Overview, Investment Opportunities, and Common Questions"
-description: "Discover the dynamic potential of Lion Economies, a group of rapidly growing African nations that mirror Asia's Tiger Economies. Explore investment opportunities in sectors like technology, infrastructure, and energy, driven by strong economic growth and favorable government policies. Learn how algorithmic trading can optimize investments in these emerging markets, capitalizing on their abundant resources and young populations. Uncover strategic insights into maximizing returns and minimizing risks in Africa's burgeoning economic landscape."
+title: Exploring Investment Opportunities in African Lion Economies
+description: Lion Economies drive African growth through job creation, infrastructure
+  upgrades and tech innovation and smart investment approaches Discover more inside
 ---
 
 

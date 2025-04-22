@@ -1,6 +1,7 @@
 ---
-title: "Hot Waitress Economic Index"
-description: "Explore the impact of economic indices and algorithmic trading on employment trends in the service industry highlighting the role of technology in shaping the future."
+title: Exploring the Hot Waitress Economic Index as a Playful Gauge
+description: Hot Waitress Economic Index uses server attractiveness as a playful economic
+  gauge and contrasts it with real indicators Discover more inside
 ---
 
 

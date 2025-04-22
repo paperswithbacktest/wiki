@@ -1,6 +1,7 @@
 ---
-title: "Investment Interest Expense"
-description: "Explore financial interest expense algorithmic trading and investment strategies Learn how to manage costs optimize returns and leverage technology for success"
+title: Understanding Investment Interest Expense and Tax Deductions
+description: Investment interest expense lets you deduct interest on borrowed funds
+  for investments to reduce taxable income Explore rules and carryovers Discover more
 ---
 
 

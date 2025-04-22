@@ -1,6 +1,7 @@
 ---
-title: "Fund Supermarkets"
-description: "Explore the synergy between mutual funds, fund supermarkets, and algorithmic trading to optimize your investment strategy and achieve better financial outcomes."
+title: How Fund Supermarkets Simplify Investment Management
+description: Fund supermarkets offer a unified platform to compare and manage diverse
+  investment funds efficiently while cutting fees and hassle Discover more inside
 ---
 
 

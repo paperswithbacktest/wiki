@@ -1,6 +1,7 @@
 ---
-title: "International Securities Exchange: Overview and Functionality"
-description: "Explore the International Securities Exchange's role in revolutionizing options trading with electronic platforms and algorithmic trading for enhanced market efficiency."
+title: International Securities Exchange ISE Options Trading Guide
+description: International Securities Exchange ISE delivers fully electronic options
+  trading with fast execution diverse contracts and access Discover more inside.
 ---
 
 

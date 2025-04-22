@@ -1,6 +1,7 @@
 ---
-title: "Illusory Truth Effect: Explanation and Prevention"
-description: "Explore the illusory truth effect in algorithmic trading Learn how repeated misinformation impacts market decisions and discover strategies to mitigate its influence"
+title: Understanding the Illusory Truth Effect in Everyday Decisions
+description: Illusory Truth Effect emerges when repetition makes false claims seem
+  credible impacting decisions across marketing media and politics Discover more inside
 ---
 
 

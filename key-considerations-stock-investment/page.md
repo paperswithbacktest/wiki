@@ -1,6 +1,7 @@
 ---
-title: "Key Considerations for Stock Investment"
-description: "Explore key investment tips and the rise of algorithmic trading to enhance your financial strategy and navigate the evolving stock market landscape effectively."
+title: Fundamental Stock Investing Guide For New Investors
+description: Stock investing principles help you build a balanced, risk-managed portfolio
+  with strategies from company analysis to diversification Discover more inside.
 ---
 
 

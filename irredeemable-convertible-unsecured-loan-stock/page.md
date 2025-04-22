@@ -1,6 +1,7 @@
 ---
-title: "Irredeemable Convertible Unsecured Loan Stock"
-description: "Explore the dynamic intersection of ICULS and algo trading a blend of hybrid securities and advanced trading technology enhancing modern investment strategies."
+title: Irredeemable Convertible Unsecured Loan Stock ICULS Explained
+description: ICULS offer a cost effective entry to equity with conversion upside while
+  outlining key risks so investors can decide wisely Discover more inside
 ---
 
 

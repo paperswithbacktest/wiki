@@ -1,6 +1,7 @@
 ---
-title: "Indicative Net Asset Value (iNAV)"
-description: "Discover the importance of Indicative Net Asset Value (iNAV) in ETF trading for real-time investment insights and strategy optimization with algo trading."
+title: Understanding Indicative Net Asset Value For ETF Trading
+description: Indicative Net Asset Value gives a real-time ETF valuation so investors
+  can spot premiums and discounts and make informed trades Discover more inside
 ---
 
 

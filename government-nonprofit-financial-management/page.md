@@ -1,6 +1,7 @@
 ---
-title: "Government and Nonprofit Financial Management"
-description: "Explore the complexities of government and nonprofit financial management, including budgeting, accountability, and the impact of algorithmic trading on public funds."
+title: Key Differences in Government and Nonprofit Financial Management
+description: Government and nonprofit financial management contrasts funding sources
+  budgeting reporting and internal controls for accountability Discover more inside.
 ---
 
 

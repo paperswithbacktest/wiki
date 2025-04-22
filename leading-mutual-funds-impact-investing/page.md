@@ -1,6 +1,7 @@
 ---
-title: "Leading Mutual Funds in Impact Investing"
-description: "Discover the intersection of sustainable finance and algorithmic trading as mutual funds drive impact investing enhancing efficiency and societal benefits."
+title: Impact Investing With Mutual Funds For Meaningful Returns
+description: Impact investing mutual funds enable you to support social and environmental
+  goals while diversifying risk and aiming for returns Discover more inside
 ---
 
 

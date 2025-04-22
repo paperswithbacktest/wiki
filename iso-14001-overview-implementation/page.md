@@ -1,6 +1,7 @@
 ---
-title: "ISO 14001: Overview and Implementation"
-description: "Discover how ISO 14001 helps algorithmic trading firms enhance sustainability while maintaining efficiency, offering both environmental and economic benefits."
+title: Implementing ISO 14001 for Effective Environmental Management
+description: ISO 14001 helps organizations build an environmental management system
+  that reduces waste improves efficiency and ensures compliance Discover more inside
 ---
 
 

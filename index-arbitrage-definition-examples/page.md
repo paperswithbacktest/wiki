@@ -1,6 +1,7 @@
 ---
-title: "Index Arbitrage: Definition and Examples"
-description: "Discover the intricacies of index arbitrage in algo trading gain insights into how traders exploit market inefficiencies using algorithmic tools for optimal profits."
+title: Understanding Index Arbitrage Strategies In Futures And Equities
+description: Index Arbitrage uses fast execution and risk controls to capture price
+  gaps between stock indexes and futures contracts for profits. Discover more inside.
 ---
 
 

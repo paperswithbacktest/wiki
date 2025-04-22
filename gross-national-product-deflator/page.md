@@ -1,6 +1,7 @@
 ---
-title: "Gross National Product Deflator"
-description: "Explore the role of macroeconomic indicators and the GNP deflator in algorithmic trading examining how these tools influence market analysis and investment decisions."
+title: Understanding the GNP Deflator for Accurate Inflation Measurement
+description: GNP Deflator provides a comprehensive view of economywide inflation by
+  comparing current and base year prices to adjust growth data Discover more inside.
 ---
 
 

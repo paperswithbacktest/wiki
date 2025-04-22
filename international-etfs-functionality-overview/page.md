@@ -1,6 +1,7 @@
 ---
-title: "International ETFs: Functionality and Overview"
-description: "Explore how international ETFs offer investors global diversification and efficiency by leveraging algorithmic trading innovations to optimize asset exposure and returns."
+title: Complete Guide to International ETFs for Diversified Portfolios
+description: International ETFs unlock global markets for diversification with low
+  fees Find out how to balance growth and risk in your portfolio Discover more inside.
 ---
 
 

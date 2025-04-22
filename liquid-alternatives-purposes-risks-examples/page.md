@@ -1,6 +1,7 @@
 ---
-title: "Liquid Alternatives: Purposes, Risks, and Examples"
-description: "Explore the benefits and risks of liquid alternatives, incorporating algorithmic trading to diversify portfolios with mutual funds and ETFs in evolving markets."
+title: Liquid Alternatives Guide for Diversified Portfolio Growth
+description: Liquid alternatives offer a balanced mix of assets to reduce risk and
+  pursue growth while maintaining liquidity for quick access Discover more inside.
 ---
 
 

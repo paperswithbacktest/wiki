@@ -1,6 +1,7 @@
 ---
-title: "Haurlan Index"
-description: "Discover the Haurlan Index a key technical analysis tool for algorithmic trading that combines market breadth with EMAs for enhanced trading insights."
+title: Understanding the Haurlan Index for Market Trend Analysis
+description: Haurlan Index tracks market momentum across short intermediate and long
+  term trends to help investors time trades confidently Discover more inside.
 ---
 
 

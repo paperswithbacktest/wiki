@@ -1,6 +1,7 @@
 ---
-title: "Leg Out: Definition and Examples"
-description: "Discover how 'Leg Out' bridges strategy in cricket and algorithmic trading. Learn its significance, tactics, and how these fields intersect for strategic advantage."
+title: Leg Out Explained A Trader's Guide to Finance Sports and Business
+description: Leg Out helps traders manage risk by removing underperforming trade legs
+  while illustrating its use in sports and business Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Kansas City Board of Trade History and Operations"
-description: "Explore the Kansas City Board of Trade's rich history in grain futures trading and its modern innovations, such as algorithmic trading, impacting global markets."
+title: Kansas City Board of Trade Origins Functions and Influence
+description: Kansas City Board of Trade overview highlights its history, evolution
+  and essential role in wheat futures risk management Discover more inside.
 ---
 
 

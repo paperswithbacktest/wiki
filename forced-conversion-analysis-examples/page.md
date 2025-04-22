@@ -1,6 +1,7 @@
 ---
-title: "Forced Conversion: Analysis and Examples"
-description: "Explore the intersections of ethics and control in forced religious conversions and algorithmic trading highlighting their impacts on autonomy and modern society."
+title: Understanding Forced Conversion and Its Global Impacts
+description: Forced conversion undermines religious freedom globally by exploring
+  historical examples legal frameworks and societal impacts Discover more inside.
 ---
 
 

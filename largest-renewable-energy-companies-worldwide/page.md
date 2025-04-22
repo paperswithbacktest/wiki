@@ -1,6 +1,8 @@
 ---
-title: "Largest Renewable Energy Companies Worldwide"
-description: "Explore the intersection of sustainable energy and innovation as top renewable companies leverage algorithmic trading for optimal investment strategies globally."
+title: 'Global Renewable Energy Industry: Types And Leading Companies'
+description: Renewable energy delivers sustainable power through solar wind hydro
+  and biomass while top companies drive clean innovation and growth Discover more
+  inside
 ---
 
 

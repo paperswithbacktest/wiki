@@ -1,6 +1,7 @@
 ---
-title: "List of Largest Biotechnology Companies"
-description: "Explore the leading biotech companies driving innovation in healthcare agriculture and environmental sustainability with insights on algorithmic trading strategies."
+title: Largest Biotechnology Companies Ranked by Revenue and Value
+description: Explore the largest biotechnology companies leading with top revenue
+  value and breakthroughs that drive global health gains Discover more inside
 ---
 
 

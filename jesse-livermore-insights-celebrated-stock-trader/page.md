@@ -1,6 +1,7 @@
 ---
-title: "Jesse Livermore: Insights from a Celebrated Stock Trader"
-description: "Explore the timeless trading strategies of Jesse Livermore a pioneer whose insights into market dynamics remain invaluable for today's algorithmic traders."
+title: Jesse Livermore Trading Strategies And Market Psychology
+description: Jesse Livermore trading strategies show how to follow market trends cut
+  losses fast and let profits run while managing risk. Discover more inside.
 ---
 
 

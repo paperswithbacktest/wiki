@@ -1,6 +1,7 @@
 ---
-title: "Hidden Value: Definition, Function, and Examples"
-description: "Unlock hidden value in financial markets using investment value analysis and algorithmic trading Dive into strategies to identify undervalued assets for better returns"
+title: Unlocking Hidden Value in Companies for Sustainable Growth
+description: Hidden value in businesses uncovers underused assets processes and talent
+  to boost growth profitability and sustainability. Discover more inside.
 ---
 
 

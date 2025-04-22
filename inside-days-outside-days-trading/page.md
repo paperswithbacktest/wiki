@@ -1,6 +1,7 @@
 ---
-title: "Inside Days and Outside Days in Trading"
-description: "Explore how inside days and outside days impact trading strategies by offering key insights into market movements and optimizing algorithmic trading efficiency."
+title: Understanding Inside Days and Outside Days in Trading
+description: Inside days and outside days trading patterns reveal consolidation or
+  breakout signals to help traders time market moves correctly Discover more inside.
 ---
 
 

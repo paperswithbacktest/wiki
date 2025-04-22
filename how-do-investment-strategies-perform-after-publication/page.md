@@ -1,6 +1,7 @@
 ---
-title: "How Do Investment Strategies Perform After Publication?"
-description: Explore how investment strategies fare after publication in quantitative finance. Discover how investor psychology and market dynamics influence strategy effectiveness when exposed widely. The article investigates into limits of arbitrage and persistence of strategy profitability despite increased competition. Learn about adaptative approaches and factor timing strategies to sustain returns within evolving financial markets.
+title: Evaluating Investment Strategy Performance After Publication
+description: Investment strategy performance improves with regular evaluation to adapt
+  to market shifts and control costs for sustained growth. Discover more inside.
 ---
 
 

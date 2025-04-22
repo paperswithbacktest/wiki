@@ -1,6 +1,7 @@
 ---
-title: "Healthy EV/EBITDA Ratio"
-description: "Explore the significance of the EV/EBITDA ratio in business valuation and enhance investment strategies by integrating algorithmic trading for optimal results."
+title: Understanding EV/EBITDA Ratio For Professional Company Valuation
+description: EV/EBITDA ratio shows company value by comparing total enterprise cost
+  with core earnings before financing and accounting effects Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Initial Public Offerings and Aftermarket Performance"
-description: "Explore the dynamic interplay between IPOs, aftermarket performance, and algorithmic trading to understand their impact on market behavior and investment decisions."
+title: Initial Public Offering Process and Aftermarket Performance
+description: Initial Public Offering unveils the IPO journey from pricing to listing
+  then analyzes aftermarket performance and investor strategies Discover more inside
 ---
 
 

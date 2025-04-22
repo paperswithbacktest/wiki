@@ -1,6 +1,7 @@
 ---
-title: "Insurtech and Its Impact on the Insurance Industry"
-description: "Discover how insurtech is revolutionizing the insurance industry by integrating technology and algorithmic trading for enhanced efficiency and customer experience."
+title: Insurtech Innovations Driving Personalized Insurance Solutions
+description: Insurtech leverages AI big data and mobile apps to streamline processes
+  from pricing to claims delivering faster personalized coverage Discover more inside
 ---
 
 

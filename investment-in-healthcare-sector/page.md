@@ -1,6 +1,7 @@
 ---
-title: "Investment in the Healthcare Sector"
-description: "Explore lucrative healthcare investment opportunities driven by global health demands and tech advancements Discover the role of algorithmic trading in optimizing returns"
+title: Comprehensive Guide to Healthcare Sector Investment Strategies
+description: Healthcare investment fuels growth and impact by funding innovative treatments
+  while diversifying portfolios for long term gains Discover more inside.
 ---
 
 

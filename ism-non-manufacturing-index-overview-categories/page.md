@@ -1,6 +1,7 @@
 ---
-title: "ISM Non-Manufacturing Index: Overview and Categories"
-description: "Explore the ISM Non-Manufacturing Index's significance in understanding service sector health and its role in algorithmic trading for informed economic decisions."
+title: ISM Non-Manufacturing Index Economic Impact and Insights
+description: ISM Non-Manufacturing Index tracks service sector activity including
+  new orders employment and pricing to guide investors Discover more inside.
 ---
 
 

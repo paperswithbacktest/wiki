@@ -1,6 +1,7 @@
 ---
-title: "Korea Stock Exchange: Overview and History"
-description: "Explore the Korea Stock Exchange (KRX), its history, structure, and role in algorithmic trading, integral to South Korea's dynamic financial markets."
+title: Korea Stock Exchange KRX History and Operations Overview
+description: Korea Stock Exchange offers a thorough overview of its history markets
+  trading hours and future trends to guide informed investing Discover more inside.
 ---
 
 

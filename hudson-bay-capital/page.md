@@ -1,6 +1,7 @@
 ---
-title: "Hudson Bay Capital"
-description: "Explore Hudson Bay Capital’s innovative approaches in algorithmic trading renowned for precision and speed in investment management and market performance."
+title: Hudson Bay Capital Investment Focus And Global Strategy
+description: Hudson Bay Capital delivers tailored investment management in stocks
+  bonds and real estate with active risk control to grow assets Discover more inside
 ---
 
 

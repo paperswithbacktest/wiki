@@ -1,6 +1,7 @@
 ---
-title: "FTX API Guide"
-description: The FTX API Guide highlights the extensive benefits and functionalities of using the FTX API for algorithmic trading in cryptocurrency markets. Traders can access market data, execute trades, and manage accounts programmatically. Key features include automated trading, diverse instruments, scalability, real-time data, and custom strategy development. This makes the API ideal for both novice and experienced traders looking to optimize their strategies, leverage rapid market changes, and maintain competitiveness in fast-paced crypto trading environments.
+title: Comprehensive Guide to FTX API Integration for Crypto Trading
+description: FTX API simplifies crypto trading automation and data access with secure
+  key setup flexible endpoints and rate limit controls Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Jacobs Levy Equity Management"
-description: "Jacobs Levy Equity Management revolutionizes equity portfolio management using cutting-edge algorithmic trading strategies, integrating finance theory with advanced technology for superior market returns."
+title: Jacobs Levy Equity Management Quantitative Investing Strategies
+description: Jacobs Levy Equity Management uses quantitative investing with data analytics
+  to help institutions grow assets while managing risk Discover more inside
 ---
 
 

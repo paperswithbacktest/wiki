@@ -1,6 +1,7 @@
 ---
-title: "Key Features of a Capitalist System"
-description: "Explore the synergy between capitalism and algorithmic trading shaping modern financial markets. Discover how tech-driven strategies optimize market efficiency."
+title: Understanding Capitalism Principles And Economic Impacts
+description: Capitalism drives private ownership free market competition and innovation
+  while requiring regulations to address inequality Discover more inside
 ---
 
 

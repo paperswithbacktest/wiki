@@ -1,6 +1,7 @@
 ---
-title: "Importance of Accounting Knowledge for Investors"
-description: "Accounting knowledge is essential for investors in algorithmic trading providing the foundation to assess company performance and enhance investment strategies."
+title: Understanding Accounting for Smarter Investment Decisions
+description: Accounting helps investors assess profitability risk and cash flow through
+  financial statements to make informed investment decisions Discover more inside
 ---
 
 

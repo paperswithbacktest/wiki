@@ -1,6 +1,7 @@
 ---
-title: "Instinet: Overview and Functionality"
-description: "Explore how Instinet, a pioneer in electronic trading platforms, revolutionizes securities trading through algorithmic strategies and sophisticated technologies. Discover its impact on market efficiency and transparency, enabling institutional investors to execute large trades discreetly."
+title: Instinet Electronic Trading Platform for Institutional Investors
+description: Instinet Electronic Trading Platform accelerates global stock and block
+  trades with advanced algorithms and secure data protection Discover more inside.
 ---
 
 

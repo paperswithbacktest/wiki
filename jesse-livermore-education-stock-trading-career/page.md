@@ -1,6 +1,7 @@
 ---
-title: "Jesse L. Livermore: Education and Stock Trading Career"
-description: "Discover Jesse Livermore's impact on modern trading. Explore his trend-following strategies and risk management insights that shaped algorithmic trading."
+title: Jesse Livermore Stock Market Strategies and Lessons
+description: Jesse Livermore transformed stock trading with trend following timely
+  trades and stop loss risk controls to guide modern investors Discover more inside.
 ---
 
 

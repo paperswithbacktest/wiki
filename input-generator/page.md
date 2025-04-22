@@ -1,6 +1,7 @@
 ---
-title: "Input Generator (Machine Learning)"
-description: "Enhance machine learning models using Input Generators by creating and modifying data to improve training and performance with diverse, realistic examples."
+title: Comprehensive Guide To Input Generators In Machine Learning
+description: Input Generators create diverse synthetic and augmented training data
+  to boost machine learning model accuracy and robustness Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

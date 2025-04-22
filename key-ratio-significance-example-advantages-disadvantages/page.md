@@ -1,6 +1,7 @@
 ---
-title: "Key Ratio: Significance, Example, Advantages and Disadvantages"
-description: "Discover the significance of key financial ratios in algorithmic trading explore their advantages and disadvantages for informed financial analysis and strategy."
+title: Understanding Key Business Ratios for Financial Health
+description: Key ratios provide clear financial snapshots of profit margin debt levels
+  and ROI to empower smarter business investment decisions Discover more inside
 ---
 
 

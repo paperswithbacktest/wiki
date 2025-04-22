@@ -1,6 +1,7 @@
 ---
-title: "Know Sure Thing (KST)"
-description: "Explore the Know Sure Thing (KST) momentum oscillator, its calculation and application in algorithmic trading for informed market entry and exit decisions."
+title: Know Sure Thing KST Indicator Explained for Technical Analysis
+description: KST indicator simplifies momentum analysis by combining multiple rate-of-change
+  lines to generate clear buy and sell signals Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Impact of the Plaza Accord on Currency Markets"
-description: "Explore the Plaza Accord's impact on currency markets and algo trading Discover how this historic agreement influences today's financial strategies and technology"
+title: Plaza Accord and Its Impact on Global Currency Dynamics
+description: Plaza Accord reshaped currency markets by weakening the US dollar to
+  reduce trade deficits and stabilize economies Discover more inside.
 ---
 
 

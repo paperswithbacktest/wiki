@@ -1,6 +1,7 @@
 ---
-title: "Graph Execution (Machine Learning)"
-description: "Explore graph execution in machine learning where models are represented as computational graphs optimizing efficiency and performance across devices."
+title: Understanding Graph Execution in Machine Learning Models
+description: Graph Execution enables optimized machine learning graphs to boost speed,
+  reduce memory use and leverage hardware acceleration Discover more inside
 ---
 
 ![Image](images/1.png)

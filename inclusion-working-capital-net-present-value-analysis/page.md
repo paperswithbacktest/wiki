@@ -1,6 +1,7 @@
 ---
-title: "Inclusion of Working Capital in Net Present Value Analysis"
-description: "Explore the impact of working capital on NPV analysis in algorithmic trading. Learn how managing liquidity can optimize investment returns and decision-making."
+title: Integrating Working Capital into Net Present Value Analysis
+description: Working capital in NPV analysis provides a precise view of cash inflows
+  and outflows by including inventory and receivables impacts Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Inverse Relationship Between Quantity and Price"
-description: "Explore the inverse relationship between quantity and price in algorithmic trading Discover how traders use negative correlation to predict market behavior and optimize strategies"
+title: Understanding the Inverse Relationship Between Price and Demand
+description: Inverse relationship between price and quantity drives demand and equilibrium
+  insights including elasticity and trading Discover more inside.
 ---
 
 

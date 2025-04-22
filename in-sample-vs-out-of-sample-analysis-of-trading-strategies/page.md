@@ -1,6 +1,7 @@
 ---
-title: "In-Sample vs. Out-Of-Sample Analysis of Trading Strategies"
-description: "Explore the essential roles of in-sample and out-of-sample analyses in algorithmic trading for developing and enhancing trading strategies. Understand their significance in ensuring trading models are robust and reliable in both historical and live market conditions. Discover the differences between these methods: in-sample analysis focuses on optimizing strategies with historical data potentially risking overfitting while out-of-sample analysis validates model performance against unseen data protecting against curve fitting and ensuring adaptability to new market scenarios. Anomalies and their persistence post-publication are also discussed highlighting their impact on strategy development."
+title: In-Sample Versus Out-of-Sample Analysis for Trading Strategies
+description: In-sample and out-of-sample analysis optimize trading strategies by validating
+  performance with forward testing on unseen data Discover more inside.
 ---
 
 

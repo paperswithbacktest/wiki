@@ -1,6 +1,7 @@
 ---
-title: "GainCapital.com"
-description: Gaincapital-com specializes in providing advanced algorithmic trading platforms and APIs that enhance trading efficiency and precision for individual and institutional traders. With cutting-edge technology, Gaincapital-com offers robust tools for strategy development, real-time data analysis, and automated trade execution. Their user-friendly GAIN Trader platform and extensive API support make it easy for traders to integrate and execute complex trading strategies tailored to their needs. Gaincapital-com also offers educational resources and support, empowering traders with the knowledge to leverage their sophisticated trading systems effectively.
+title: GainCapital.com Trading Account Types Platforms and Fees
+description: GainCapital.com provides intuitive forex and CFD platforms with transparent
+  fees responsive support and secure accounts Discover more inside.
 ---
 
 

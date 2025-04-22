@@ -1,6 +1,7 @@
 ---
-title: "Impact of Credit Rating Risk on Corporate Bonds"
-description: "Explore the impact of credit ratings on corporate bonds in algo trading Discover how these elements interact and influence financial strategies and market dynamics"
+title: Managing Credit Rating Risk in Corporate Bond Investments
+description: Credit rating risk directly influences corporate bond pricing and borrowing
+  costs by revealing default probabilities and yield impacts Discover more inside
 ---
 
 
