@@ -1,6 +1,7 @@
 ---
-title: "Lord Abbett"
-description: "Explore how Lord Abbett leverages algorithmic trading to optimize investment strategies and trade execution while enhancing value for clients through technology."
+title: Lord Abbett Active Investment Management and Fund Offerings
+description: Lord Abbett offers active investment management with mutual funds ETFs
+  and custom portfolios backed by rigorous research and ESG Discover more inside
 ---
 
 

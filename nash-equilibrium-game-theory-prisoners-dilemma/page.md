@@ -1,6 +1,7 @@
 ---
-title: "Nash Equilibrium in Game Theory and the Prisoner's Dilemma"
-description: "Explore the connection between the Prisoner's Dilemma Nash Equilibrium and algorithmic trading in game theory to enhance strategic decision-making in finance."
+title: Understanding Nash Equilibrium and the Prisoner's Dilemma
+description: Nash Equilibrium shows how strategic decisions shape outcomes and why
+  Prisoners Dilemma can produce suboptimal results in real life Discover more inside
 ---
 
 

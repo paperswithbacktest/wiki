@@ -1,6 +1,7 @@
 ---
-title: "Minimum Lease Payments and Calculation Examples"
-description: "Explore lease payment calculations for financial planning covering minimum lease payments and algorithmic optimization in trading for enhanced management."
+title: Minimum Lease Payments in Accounting and Financial Reporting
+description: Minimum lease payments define the essential financial commitment of a
+  lease and enable accurate budgeting and cash flow planning Discover more inside.
 ---
 
 

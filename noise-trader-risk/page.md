@@ -1,6 +1,7 @@
 ---
-title: "Noise Trader Risk"
-description: "Explore the impact of noise trader risk in algorithmic trading Explore strategies to manage volatility caused by emotional trading and enhance market efficiency"
+title: Understanding Noise Trader Risk in Financial Markets
+description: Noise trader risk disrupts market stability with swings from rumors and
+  emotions Explore strategies to reduce volatility Discover more inside.
 ---
 
 

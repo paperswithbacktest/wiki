@@ -1,6 +1,7 @@
 ---
-title: "Moving Average Envelopes in Trading"
-description: "Optimize trading strategies using moving average envelopes to identify market trends and signals. Enhance algo trading decisions with this powerful analysis tool."
+title: Using Moving Average Envelopes to Identify Market Signals
+description: Moving Average Envelopes identify overbought and oversold levels through
+  adjustable price channels Use settings to refine signals Discover more inside
 ---
 
 

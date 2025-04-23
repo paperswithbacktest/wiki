@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Splitting"
-description: "Explore the synergy of mutual funds, fund splitting, and algorithmic trading to optimize investment performance and make informed financial decisions."
+title: Understanding Mutual Fund Splits Benefits Risks And Process
+description: Mutual fund splits lower share price to boost accessibility while preserving
+  investment value Explore process benefits risks and tax Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Merton's portfolio problem"
-description: "Optimize your algorithmic trading by leveraging Merton's portfolio model to enhance quantitative strategies ensuring dynamic asset allocation and utility maximization."
+title: "Optimal Strategies for Merton\u2019s Continuous-Time Portfolio Problem"
+description: Merton's portfolio problem shows how to balance risk reward and consumption
+  using continuous-time models to optimize investments Discover more inside.
 ---
 
 

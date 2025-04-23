@@ -1,6 +1,7 @@
 ---
-title: "Non-Deliverable Swap: Overview and Examples"
-description: "Explore the essential role of non-deliverable swaps (NDS) in the financial derivatives market, focusing on how they address currency risks in restricted markets. Discover how algorithmic trading is revolutionizing NDS by enhancing efficiency and transparency, promoting liquidity, and improving pricing. This article investigates into the mechanics of NDS, their application in managing non-convertible currency risks, and the transformative impact of technological advancements on this critical financial instrument."
+title: Non-Deliverable Swaps Explained for Effective Currency Hedging
+description: Non-Deliverable Swaps enable firms to manage currency risk in restricted
+  markets by settling cash differences instead of assets Discover more inside.
 ---
 
 

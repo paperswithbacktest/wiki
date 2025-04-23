@@ -1,6 +1,7 @@
 ---
-title: "Net Operating Income in Real Estate"
-description: "Explore how Net Operating Income impacts real estate algo trading and learn to leverage its insights for better investment strategies in this informative guide."
+title: Net Operating Income Explained for Real Estate Investors
+description: Net Operating Income shows how property income after expenses drives
+  valuation and helps investors compare assets. Discover more inside.
 ---
 
 

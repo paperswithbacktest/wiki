@@ -1,6 +1,7 @@
 ---
-title: "Mean-Variance Optimization"
-description: "Optimize your algorithmic trading with Mean-Variance Optimization, balancing risk and return to maximize portfolio efficiency based on MVO fundamentals."
+title: Mean-Variance Optimization for Balanced Portfolio Risk and Return
+description: Mean-Variance Optimization uses efficient frontier analysis to balance
+  expected returns and portfolio risk for smarter investing Discover more inside
 ---
 
 

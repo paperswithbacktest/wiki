@@ -1,6 +1,7 @@
 ---
-title: "Marginalism in Microeconomics"
-description: "Discover how marginalism, a key concept in microeconomics, influences algorithmic trading strategies by enhancing decision-making in complex financial markets."
+title: 'Marginalism in Microeconomics: A Comprehensive Overview'
+description: Marginalism in microeconomics shows how comparing extra costs and benefits
+  guides better business and consumer decisions Discover more inside.
 ---
 
 

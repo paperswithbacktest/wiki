@@ -1,6 +1,7 @@
 ---
-title: "Marlboro Friday: Implications and Lessons"
-description: "Explore the profound impact of Marlboro Friday on marketing strategies stock market dynamics and consumer behavior amid a significant brand pricing shift."
+title: Marlboro Friday and Its Lasting Impact on Tobacco Pricing
+description: Marlboro Friday showed how drastic price cuts reshaped tobacco competition
+  and brand perception driving modern pricing strategies Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Nifty Fifty: Definition and Mechanism"
-description: "Explore the evolution of the Nifty Fifty stocks and algorithmic trading. Enhance your investment strategies by blending historical insights with cutting-edge tech."
+title: Understanding Nifty Fifty Stocks Impact And Investment Lessons
+description: Nifty Fifty Stocks reveal why top blue chip shares faltered and why diversification
+  and valuation checks are vital for investors Discover more inside
 ---
 
 

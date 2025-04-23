@@ -1,6 +1,7 @@
 ---
-title: "Maltese Lira and Transition to the Euro"
-description: "The transition from the Maltese Lira to the Euro in 2008 marked a pivotal shift in Malta’s economy enhancing trade, stability, and integration within the EU."
+title: Maltese Lira to Euro Transition History and Economic Impact
+description: Maltese Lira to Euro transition ensured a smooth currency swap and fostered
+  economic growth by stabilizing prices and trade Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Negative Balance in the Capital Account"
-description: "Explore the impact of a negative capital account balance and algorithmic trading on global financial systems Understand core economic dynamics and mitigate risks"
+title: Consequences Of A Negative Capital Account Balance For Economies
+description: Negative capital account balance shows how net outflows limit domestic
+  financing and offers strategies to restore economic stability Discover more inside.
 ---
 
 

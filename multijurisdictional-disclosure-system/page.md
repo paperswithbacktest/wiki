@@ -1,6 +1,7 @@
 ---
-title: "Multijurisdictional Disclosure System"
-description: "Explore the Multijurisdictional Disclosure System a US-Canada initiative simplifying cross-border securities, easing regulations and boosting market efficiency."
+title: Understanding the Multijurisdictional Disclosure System MJDS
+description: MJDS streamlines the US and Canada securities registration by cutting
+  paperwork and costs for issuers and widening investor access Discover more inside
 ---
 
 

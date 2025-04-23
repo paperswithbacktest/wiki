@@ -1,6 +1,7 @@
 ---
-title: "MBS Pool Numbers: Definition and Functionality"
-description: "Explore the essential role of MBS pool numbers in algorithmic trading and investment, offering key insights into mortgage-backed securities for informed decision-making."
+title: Understanding MBS Pool Numbers Structure and Significance
+description: MBS Pool Numbers help investors and lenders track loan pools accurately
+  and streamline trading of mortgage backed securities Discover more inside.
 ---
 
 

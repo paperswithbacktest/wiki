@@ -1,6 +1,7 @@
 ---
-title: "Negotiated Underwriting: Definition and Mechanism"
-description: "Explore the impact of negotiated underwriting and algorithmic trading on securities issuance Discover how these strategies enhance market efficiency and investor opportunities"
+title: Negotiated Underwriting Explained for Issuers and Underwriters
+description: Negotiated Underwriting gives companies direct control over pricing and
+  ensures a firm commitment from banks for reliable funding Discover more inside.
 ---
 
 

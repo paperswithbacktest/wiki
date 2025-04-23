@@ -1,6 +1,7 @@
 ---
-title: "Mint: Overview, History, and Statistics of the U.S. Mint"
-description: "Explore the historical and modern intersections of U.S. Mint coin production and algorithmic trading their evolution and impacts on the financial sector."
+title: 'Understanding the U.S. Mint: History Functions and Facilities'
+description: U.S. Mint history and functions from its 1792 founding to modern coin
+  production quality controls security and collector releases Discover more inside
 ---
 
 

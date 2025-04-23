@@ -1,6 +1,8 @@
 ---
-title: "Milton Friedman and Monetarism"
-description: "Explore how Milton Friedman's monetarism informs algorithmic trading, linking economic models and advanced technologies to enhance modern financial strategies."
+title: "Monetarism Explained Through Milton Friedman\u2019s Economic Insights"
+description: "Monetarism Explained Through Milton Friedman\u2019s Economic Insights\
+  \ Delve into how controlling money supply drives economic stability and apply these\
+  \ principles in practice Discover more inside."
 ---
 
 

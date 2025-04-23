@@ -1,6 +1,8 @@
 ---
-title: "Non-Issuer Transaction and Its Types"
-description: "Explore the key aspects of non-issuer transactions in secondary markets Learn how these transactions enhance liquidity and price discovery and the role of algorithmic trading in improving market efficiency"
+title: Understanding Non-Issuer Transactions in the Secondary Market
+description: Non-Issuer Transactions let investors trade existing shares directly
+  between parties while boosting market liquidity and transparency. Discover more
+  inside.
 ---
 
 

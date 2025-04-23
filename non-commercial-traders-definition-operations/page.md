@@ -1,6 +1,7 @@
 ---
-title: "Non-Commercial Traders: Definition and Operations"
-description: "Discover the world of non-commercial traders and algorithmic trading Learn how speculative activities and advanced algorithms influence market liquidity and trends"
+title: Understanding Non-Commercial Traders Role in Financial Markets
+description: Non-Commercial Traders use personal funds to trade futures stocks and
+  options adding liquidity and diversity to financial markets Discover more inside
 ---
 
 

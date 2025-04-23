@@ -1,6 +1,7 @@
 ---
-title: "Modigliani-Miller Theorem"
-description: "Discover how the Modigliani-Miller theorem influences corporate finance and algorithmic trading. Explore this seminal concept that redefines capital structure relevance, emphasizing future earnings over financial engineering. Understand its theory, historical context, and practical implications in modern finance, offering insights into trading strategies and capital budgeting."
+title: Modigliani Miller Theorem in Corporate Finance Decision Making
+description: Modigliani-Miller Theorem reveals how capital structure choices shape
+  firm value in ideal markets and real-world scenarios Discover more inside.
 ---
 
 

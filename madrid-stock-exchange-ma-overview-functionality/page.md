@@ -1,6 +1,7 @@
 ---
-title: "Madrid Stock Exchange MA: Overview and Functionality"
-description: "Explore the rise of algorithmic trading on the Madrid Stock Exchange its impact on market efficiency and innovation in Spain's leading securities market."
+title: Understanding the Role and Functions of the Madrid Stock Exchange
+description: Madrid Stock Exchange explains trading hours market indices and economic
+  role to help investors navigate the Spanish stock market Discover more inside
 ---
 
 

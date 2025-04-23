@@ -1,6 +1,7 @@
 ---
-title: "Non-Taxable Distributions: Overview and Examples"
-description: "Discover the benefits of non-taxable distributions in algorithmic trading to optimize your financial strategies minimize tax burdens and enhance net returns."
+title: Understanding Non-Taxable Distributions And Their Tax Impact
+description: Non-Taxable Distributions help investors understand how returns of capital
+  and stock dividends affect their tax basis and compliance. Discover more inside.
 ---
 
 

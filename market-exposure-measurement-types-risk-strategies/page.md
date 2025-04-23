@@ -1,6 +1,7 @@
 ---
-title: "Market Exposure: Measurement, Types, and Risk Strategies"
-description: "Explore effective strategies for measuring and managing market exposure risk in algorithmic trading. Understand methods like VaR and scenario analysis to optimize portfolios."
+title: Comprehensive Guide to Market Exposure and Risk Management
+description: Market exposure lets investors manage risk and boost returns by diversifying
+  across asset classes sectors and tools like beta and VaR Discover more inside
 ---
 
 

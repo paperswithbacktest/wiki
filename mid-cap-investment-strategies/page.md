@@ -1,6 +1,7 @@
 ---
-title: "Mid-Cap Investment Strategies"
-description: "Explore mid-cap investment strategies that merge growth potential and stability with algorithmic trading's efficiency. Discover practical insights into optimizing returns."
+title: Mid-Cap Stocks Investing Guide for Balanced Growth and Stability
+description: Mid-cap stocks offer a balance of growth and stability for diverse portfolios
+  by exploring market value, risks and strategies Discover more inside.
 ---
 
 

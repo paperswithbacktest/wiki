@@ -1,6 +1,7 @@
 ---
-title: "Media Effect: Meaning, Function, and Strategies"
-description: "Explore how media influences algorithmic trading and discover strategies for traders to leverage media insights for competitive advantage in volatile markets."
+title: Understanding Media Effects Impact On Behavior And Society
+description: Media effects shape behavior through cultivation and agenda setting theories
+  Gain actionable insights for meaningful media use Discover more inside
 ---
 
 

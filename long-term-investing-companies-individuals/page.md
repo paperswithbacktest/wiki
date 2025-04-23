@@ -1,6 +1,7 @@
 ---
-title: "Long-Term Investing for Companies and Individuals"
-description: "Explore successful long-term investment strategies for individuals and companies Learn how algorithmic trading enhances investment outcomes and financial planning"
+title: Long-Term Investing Strategies for Companies and Individuals
+description: Long-term investing helps companies and individuals build wealth through
+  algorithmic data-driven diversification and tax planning Discover more inside
 ---
 
 

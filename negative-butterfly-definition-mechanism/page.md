@@ -1,6 +1,7 @@
 ---
-title: "Negative Butterfly: Definition and Mechanism"
-description: "Discover the negative butterfly bond trading strategy, its impact on managing interest rate risks, and the role of algorithmic trading in optimizing returns."
+title: Negative Butterfly Options Strategy for Large Market Swings
+description: Negative Butterfly provides an options strategy to profit from significant
+  price swings in uncertain markets with reduced upfront risk Discover more inside
 ---
 
 

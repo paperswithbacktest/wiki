@@ -1,6 +1,7 @@
 ---
-title: "Net Zero Asset Managers Initiative"
-description: "Explore the convergence of net-zero asset management and algo trading in driving sustainable investment strategies for climate action by 2050."
+title: Net Zero Asset Managers Initiative Drives Sustainable Investments
+description: Net Zero Asset Managers Initiative unites asset managers to set clear
+  carbon reduction targets and track progress toward 2050 goals Discover more inside
 ---
 
 

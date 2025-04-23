@@ -1,6 +1,7 @@
 ---
-title: "Narrow Basis in Finance"
-description: "Explore the dynamics of narrow basis and algorithmic trading in finance Understand how these strategies offer efficient trading opportunities and a competitive edge"
+title: Mastering Narrow Basis Analysis in Financial Markets
+description: Narrow basis reveals how tight spot and futures prices signal market
+  stability and shape trading strategies while highlighting risks. Discover more inside
 ---
 
 

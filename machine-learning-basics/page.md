@@ -1,6 +1,7 @@
 ---
-title: "Machine Learning Basics"
-description: Explore the essential role of machine learning in algorithmic trading as it analyzes vast financial data, discovers patterns, and predicts market trends with precision. Machine learning enables adaptive and dynamic trading strategies, providing a competitive edge in rapidly evolving financial landscapes by automating decision-making processes and optimizing trade execution based on data-driven insights.
+title: Machine Learning Fundamentals And Key Algorithms Explained
+description: Machine Learning empowers professionals to leverage data through clear
+  insights on models algorithms and deployment processes Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market Reaction to News"
-description: "Explore the impact of news on algorithmic trading and market reactions Discover how news analytics are integrated into trading models to predict trends effectively."
+title: Analyzing Market Reactions to Financial News Events
+description: Market reactions to financial news shape stock prices and investor strategies
+  using sentiment analysis and real time models Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Nasdaq Inc. Overview"
-description: "Discover how Nasdaq leverages cutting-edge technology to lead in algorithmic trading enabling faster, more efficient transactions with advanced AI strategies."
+title: Nasdaq Inc Guide To Global Markets Technology And Growth
+description: Nasdaq Inc powers global markets with advanced trading technology data
+  and risk management services that help businesses thrive Discover more inside.
 ---
 
 

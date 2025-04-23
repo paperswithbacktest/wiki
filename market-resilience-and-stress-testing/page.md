@@ -1,6 +1,7 @@
 ---
-title: "Market Resilience and Stress Testing"
-description: "Explore the importance of stress testing in algo trading to ensure market resilience. Learn how to identify strategy weaknesses and prepare for financial shocks."
+title: Enhancing Financial Market Resilience Through Stress Testing
+description: Stress Testing reveals market vulnerabilities before crises hit and guides
+  risk strategies to bolster financial resilience Discover more inside
 ---
 
 

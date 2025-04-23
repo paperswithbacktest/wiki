@@ -1,6 +1,7 @@
 ---
-title: "Multilateral Trading Facility (MTF)"
-description: "Explore Multilateral Trading Facilities and the role of algorithmic trading in modern financial markets Discover the impact of technology on trading efficiency"
+title: Understanding Multilateral Trading Facilities for Investors
+description: Multilateral Trading Facility platforms boost efficiency with lower fees,
+  diverse instruments and transparent matching. Discover more inside.
 ---
 
 

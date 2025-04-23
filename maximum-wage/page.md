@@ -1,6 +1,7 @@
 ---
-title: "Maximum Wage"
-description: "Explore the intersection of wage regulation, income limits, and algorithmic trading, examining their implications on economic equity and market efficiency."
+title: Understanding Maximum Wage Policies for Income Equality
+description: Maximum wage offers a framework to limit top earnings and reduce income
+  inequality while balancing economic growth and incentives Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Methods for Enhancing Portfolio Returns"
-description: "Uncover effective investment strategies to enhance portfolio returns with algorithmic trading Learn how to combine traditional and modern techniques to maximize gains"
+title: Comprehensive Strategies for Enhancing Portfolio Returns
+description: Portfolio returns can improve with smart asset allocation diversification
+  rebalancing and advanced techniques detailed here Discover more inside
 ---
 
 

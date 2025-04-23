@@ -1,6 +1,7 @@
 ---
-title: "Negative Convexity in Finance"
-description: "Explore the intricacies of negative convexity in bonds and its role in algorithmic trading to enhance your investment strategy and portfolio management."
+title: Negative Convexity in Bonds Impact on Price Volatility and Yield
+description: Negative Convexity shows how bonds with call options change in price
+  and yield when rates shift and explains risk management tactics Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mongolian Tögrög"
-description: "Explore the dynamics of the Mongolian Tögrög and its role in Mongolia's economy alongside the impact and potential challenges of algorithmic trading in forex markets."
+title: "Complete Guide To The Mongolian T\xF6gr\xF6g Currency System"
+description: "Mongolian T\xF6gr\xF6g fuels the economy with insights into its history\
+  \ denominations security features and key upcoming reforms Discover more inside"
 ---
 
 

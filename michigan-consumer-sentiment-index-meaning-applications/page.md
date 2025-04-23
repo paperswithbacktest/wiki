@@ -1,6 +1,7 @@
 ---
-title: "Michigan Consumer Sentiment Index: Meaning and Applications"
-description: "Explore how the Michigan Consumer Sentiment Index influences algorithmic trading strategies and informs investment decisions by reflecting economic trends."
+title: Comprehensive Guide to the Michigan Consumer Sentiment Index
+description: Michigan Consumer Sentiment Index tracks monthly views on current finances
+  and future outlook to guide economic decisions Discover more inside
 ---
 
 

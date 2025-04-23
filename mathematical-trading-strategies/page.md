@@ -1,6 +1,7 @@
 ---
-title: "Mathematical Trading Strategies Explained"
-description: Explore the world of mathematical trading strategies in algorithmic trading, where quantitative techniques leverage market data to refine trade execution, enhance efficiency, and boost profitability. Delve into the integration of mathematics including statistics, probability, and linear algebra to uncover market opportunities and optimize trading practices. This comprehensive guide highlights the pivotal role of mathematical models like moving averages and momentum indicators in algorithmic trading, empowering traders and investors to enhance decision-making and gain a competitive advantage in the ever-evolving financial markets.
+title: Mathematical Trading Strategies for Consistent Profit
+description: Mathematical trading strategies use formulas and stats to remove emotion
+  identify patterns and drive consistent results Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Multiple Share Classes and Super Voting Shares"
-description: "Explore how super-voting shares and algorithmic trading shape corporate governance, offering insights into modern financial strategies and market dynamics."
+title: Understanding Multiple Share Classes And Super Voting Shares
+description: Multiple share classes let companies balance voting rights and returns
+  while preserving founder control and attracting investors Discover more inside
 ---
 
 

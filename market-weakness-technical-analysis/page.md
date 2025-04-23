@@ -1,6 +1,7 @@
 ---
-title: "Market Weakness in Technical Analysis"
-description: "Discover how to identify and capitalize on market weakness using technical analysis and algo trading techniques for informed and strategic decision-making."
+title: Detecting Market Weakness with Key Technical Analysis Tools
+description: Market weakness indicators like moving averages RSI and volume reveal
+  when selling pressure builds so you can refine strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Net Debt Per Capita: Definition, Mechanism, and Importance"
-description: "Explore the intricacies of net debt and debt per capita, key financial metrics crucial for investors, analysts, and algorithmic trading strategies."
+title: Net Debt Per Capita Guide for Assessing National Financial Health
+description: Net Debt Per Capita shows how much debt each person bears after subtracting
+  assets and cash and informs policy decisions Discover more inside
 ---
 
 

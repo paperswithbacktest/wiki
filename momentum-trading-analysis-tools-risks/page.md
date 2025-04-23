@@ -1,6 +1,8 @@
 ---
-title: "Momentum in Trading: Analysis, Tools, and Risks"
-description: "Explore the dynamics of momentum in trading, along with the essential tools and risk factors. Unlock insights into strategies and algorithmic trading trends."
+title: Momentum Trading Explained The Role Of RSI And MACD Indicators
+description: Momentum Trading Explained provides clear insights on using RSI and MACD
+  to time market moves effectively with real examples and practical tips Discover
+  more inside
 ---
 
 

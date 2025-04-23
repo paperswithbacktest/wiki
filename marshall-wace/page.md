@@ -1,6 +1,7 @@
 ---
-title: "Marshall Wace"
-description: "Explore Marshall Wace's influence in algorithmic trading Discover how this leading asset management firm leverages innovative strategies and technology to excel in finance"
+title: Marshall Wace Hedge Fund Strategies and Global Impact
+description: Marshall Wace leverages quantitative analysis risk management and ESG
+  integration to optimize hedge fund performance globally Discover more inside
 ---
 
 

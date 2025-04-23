@@ -1,6 +1,7 @@
 ---
-title: "No Surprises Act and Healthcare Transparency"
-description: "Explore how the No Surprises Act enhances healthcare transparency by protecting patients from unexpected medical bills and leveraging technology for accurate billing."
+title: No Surprises Act Protects Patients From Unexpected Medical Bills
+description: No Surprises Act shields insured individuals from big unexpected medical
+  bills with clear billing rules and dispute resolution. Discover more inside.
 ---
 
 

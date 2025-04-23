@@ -1,6 +1,7 @@
 ---
-title: "Lost Decade in Japan: Historical Context and Causes"
-description: "Explore Japan's Lost Decade with insights on economic stagnation, the bubble burst, algorithmic trading's rise, and lessons for global financial resilience."
+title: Understanding Japan's Lost Decade and Its Economic Impact
+description: Japan's Lost Decade shows how asset bubbles banking crises policy delays
+  stalled growth reshaped society and weakened global position discover more inside
 ---
 
 

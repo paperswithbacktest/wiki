@@ -1,6 +1,7 @@
 ---
-title: "microstructure noise"
-description: "Understand microstructure noise in algorithmic trading: its causes, effects on pricing, and strategies to mitigate. Enhance your trading accuracy today."
+title: Understanding Microstructure Noise in Financial Markets
+description: Microstructure noise can mask true stock price trends causing misguided
+  trades Traders use advanced statistical models to filter noise Discover more inside
 ---
 
 

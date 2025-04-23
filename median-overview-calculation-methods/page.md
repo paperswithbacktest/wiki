@@ -1,6 +1,7 @@
 ---
-title: "Median: Overview and Calculation Methods"
-description: "The article explores the key role of the median in algorithmic trading and highlights its importance over other statistical measures like mean or mode. It explains how the median provides resilience against data anomalies and outliers, making it invaluable in high volatility markets. The piece covers methods to calculate the median using programming languages like Python and R, illustrating its application in financial analysis to enhance decision-making processes and strategy development. Understanding and using the median can lead to better risk management and more effective trading strategies."
+title: Understanding the Median in Statistics and Data Analysis
+description: Median in statistics shows the central value immune to outliers for clearer
+  data analysis in fields like real estate and finance. Discover more inside.
 ---
 
 

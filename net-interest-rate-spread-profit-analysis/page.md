@@ -1,6 +1,7 @@
 ---
-title: "Net Interest Rate Spread in Profit Analysis"
-description: "Discover how net interest rate spread and profit analysis enhance profitability in algo trading Explore their impact on strategic decision-making and financial success"
+title: Understanding Net Interest Rate Spread For Bank Profitability
+description: Net interest rate spread shows how banks boost profit margins by balancing
+  loan and deposit rates using strategic pricing Discover more inside
 ---
 
 

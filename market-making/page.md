@@ -1,6 +1,7 @@
 ---
-title: "Market Making and Algo Trading"
-description: Market making is a vital process in financial markets, where market makers continuously quote bid and ask prices for securities, ensuring liquidity and smooth trade execution. The evolution of market making, from traditional manual methods to sophisticated algorithmic trading, has enhanced market efficiency. Market makers profit from the bid-ask spread and take on the risk of holding inventory to facilitate trades. While market makers operate across different exchanges like NYSE, Nasdaq, and decentralized platforms using Automated Market Makers (AMMs), their role in maintaining orderly markets remains essential, supported by advances in technology and algorithmic strategies.
+title: Understanding Market Making And Algorithmic Trading Strategies
+description: Market making and algorithmic trading enhance liquidity and stability
+  with round the clock bid ask support and dynamic risk controls Discover more inside
 ---
 
 

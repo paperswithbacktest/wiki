@@ -1,6 +1,7 @@
 ---
-title: "market resiliency"
-description: "Explore the concept of Market Resilience in trading analytics to understand how markets quickly stabilize after significant trades This metric is essential for traders seeking stability and informed decision-making."
+title: Building Market Resiliency With Diversification and Policy
+description: Market resiliency hinges on strong risk management, diverse strategies
+  and supportive policies to absorb shocks and drive recovery Discover more inside
 ---
 
 

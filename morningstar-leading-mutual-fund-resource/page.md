@@ -1,6 +1,7 @@
 ---
-title: "Morningstar as a Leading Mutual Fund Resource"
-description: "Optimize your investment strategies with Morningstar's mutual fund insights and algorithmic trading techniques Learn how to manage risk and maximize returns"
+title: Morningstar Mutual Fund Analysis Tools and Ratings Guide
+description: Morningstar offers comprehensive mutual fund ratings and analysis tools
+  to help investors make informed choices and manage risk Discover more inside.
 ---
 
 

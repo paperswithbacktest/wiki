@@ -1,6 +1,7 @@
 ---
-title: "Minority Class (Machine Learning)"
-description: "Learn about the minority class in machine learning, its challenges, and techniques like oversampling and undersampling to improve model accuracy and fairness."
+title: Handling Minority Class Imbalance in Machine Learning Models
+description: Minority Class Imbalance can skew model results so explore oversampling
+  SMOTE class weighting and tailored metrics to boost fairness Discover more inside
 ---
 
 ![Image](images/1.png)

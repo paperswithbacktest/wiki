@@ -1,6 +1,7 @@
 ---
-title: "Manager Universe Benchmark: Advantages and Disadvantages"
-description: "Explore the impact of manager universe benchmarks in algo trading uncovering their advantages and disadvantages for investment performance evaluation."
+title: Manager Universe Benchmark For Assessing Investment Performance
+description: Manager Universe Benchmark gives you a clear peer comparison of money
+  managers with real data to evaluate performance, choose wisely Discover more inside
 ---
 
 

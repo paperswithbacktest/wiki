@@ -1,6 +1,7 @@
 ---
-title: "Maritime Law and Its Significance"
-description: "Explore the significance of maritime law and its impact on algorithmic trading in the shipping industry. Understand legal frameworks, challenges, and innovations."
+title: Guide to Maritime Law Fundamentals and International Conventions
+description: Maritime law unifies global regulations and conventions to ensure safe
+  sea trade, dispute resolution, and environmental protection Discover more inside
 ---
 
 

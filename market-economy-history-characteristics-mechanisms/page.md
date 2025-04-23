@@ -1,6 +1,7 @@
 ---
-title: "Market Economy: History, Characteristics, and Mechanisms"
-description: "Explore the history and mechanisms of market economies, focusing on key characteristics like supply and demand, and the impact of algorithmic trading."
+title: 'Market Economy Fundamentals: Principles, Roles and Impacts'
+description: Market economy relies on supply and demand and competition to efficiently
+  allocate resources and drive innovation across industries. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Members Exchange (MEMX) Overview"
-description: "Discover how Members Exchange (MEMX) offers a simplified, cost-efficient trading platform that supports algorithmic trading with advanced technology and transparency."
+title: Members Exchange MEMX Fair Low-Cost Stock Trading Platform
+description: MEMX provides a fair transparent stock exchange with lower fees and faster
+  execution, improving market access and trust Discover more inside.
 ---
 
 

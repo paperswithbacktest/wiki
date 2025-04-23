@@ -1,6 +1,7 @@
 ---
-title: "Mesh (Machine Learning)"
-description: "Explore how mesh structures enhance machine learning by visualizing and processing complex, high-dimensional data through interconnected grids for better spatial understanding."
+title: Understanding Mesh Architecture for Machine Learning Models
+description: Mesh architecture provides a structured grid of nodes to capture spatial
+  relationships in data and optimize machine learning models Discover more inside
 ---
 
 ![Image](images/1.png)

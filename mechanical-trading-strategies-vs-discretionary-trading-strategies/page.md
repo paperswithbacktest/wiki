@@ -1,6 +1,7 @@
 ---
-title: "Mechanical Trading Strategies vs. Discretionary Trading Strategies Explained"
-description: Explore the key differences and synergies between mechanical and discretionary trading strategies in this comprehensive guide. Understand how discretionary trading leverages human intuition to interpret market signals and adapt to conditions, while algorithmic trading uses pre-set rules for speed and consistency. Discover how combining these approaches can enhance trading performance in today's automated financial markets.
+title: Mechanical Versus Discretionary Trading Strategies Compared
+description: Mechanical trading strategy removes emotions by following fixed rules
+  while discretionary trading uses intuition and adaptability Discover more inside.
 ---
 
 

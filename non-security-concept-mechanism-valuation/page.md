@@ -1,6 +1,7 @@
 ---
-title: "Non-Security: Concept, Mechanism, and Valuation"
-description: "Explore the intricacies of valuing non-security financial instruments such as derivatives and commodities and the pivotal role of algorithmic trading in modern finance."
+title: Non-Security Concepts for Building Community Trust and Safety
+description: Non-security focuses on building trust and relationships to address insecurity
+  at its root and reduce reliance on strict measures. Discover more inside.
 ---
 
 

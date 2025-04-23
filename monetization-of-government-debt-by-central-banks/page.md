@@ -1,6 +1,7 @@
 ---
-title: "Monetization of Government Debt by Central Banks"
-description: "Explore how central banks manage government debt monetization, the role of algorithmic trading, and their combined impact on economic stability and inflation."
+title: Debt Monetization Insights Central Bank Strategies and Risks
+description: Debt monetization shows how central banks buy government bonds to boost
+  liquidity and control inflation through monetary policy. Discover more inside.
 ---
 
 

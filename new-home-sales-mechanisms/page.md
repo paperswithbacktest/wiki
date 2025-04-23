@@ -1,6 +1,7 @@
 ---
-title: "New Home Sales and Their Mechanisms"
-description: "Explore the impact of new home sales and algorithmic trading on real estate investments Discover how these dynamics shape market trends and investment strategies"
+title: Comprehensive Guide to New Home Sales and Market Trends
+description: New home sales analysis outlines builder strategies pricing factors financing
+  options and buyer considerations in the housing market Discover more inside
 ---
 
 

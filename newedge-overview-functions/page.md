@@ -1,6 +1,7 @@
 ---
-title: "Newedge: Overview and Functions"
-description: "Explore Newedge's journey into Société Générale, emphasizing its prowess in algorithmic trading and comprehensive brokerage services for institutional clients."
+title: Newedge Technology Solutions for Business Growth and Security
+description: Newedge simplifies business operations with cloud computing cybersecurity
+  and 24/7 IT support to keep systems secure and efficient Discover more inside
 ---
 
 

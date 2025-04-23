@@ -1,6 +1,7 @@
 ---
-title: "Market Breadth and Its Indicators in Investing"
-description: "Explore the significance of market breadth and investment indicators in finance to enhance trading strategies using insights and tools for informed decisions."
+title: Understanding Market Breadth Indicators for Informed Investing
+description: "Market breadth analysis reveals the strength of market moves by tracking\
+  \ indicators from advance\u2011decline lines to OBV. Discover more inside."
 ---
 
 

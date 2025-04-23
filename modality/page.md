@@ -1,6 +1,7 @@
 ---
-title: "Modality (Machine Learning)"
-description: "Discover how different modalities in machine learning enhance model performance by combining text, images, and sounds, enabling more accurate predictions."
+title: Multimodal Machine Learning for Enhanced Data Integration
+description: Multimodal Machine Learning combines text images and audio to boost model
+  accuracy by integrating diverse data sources efficiently Discover more inside
 ---
 
 ![Image](images/1.webp)

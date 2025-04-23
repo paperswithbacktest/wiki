@@ -1,6 +1,7 @@
 ---
-title: "Medium-Term Investment Time Periods"
-description: "Explore the benefits and challenges of medium-term investments in algorithmic trading defined as strategies with a timeframe of two to ten years for balanced growth."
+title: Medium-Term Investment Strategies For Balanced Growth
+description: Medium-term investments deliver a balanced asset mix to grow money over
+  one to five years with managed risk and steady returns Discover more inside.
 ---
 
 

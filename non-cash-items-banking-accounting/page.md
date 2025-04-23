@@ -1,6 +1,8 @@
 ---
-title: "Non-Cash Items in Banking and Accounting"
-description: "Explore how non-cash items in banking and accounting influence financial decision-making and leverage algorithmic trading for enhanced business operations."
+title: Understanding Non-Cash Items in Accounting and Banking
+description: Non-cash items reveal asset and compensation costs without impacting
+  cash flow and help investors and managers assess financial health Discover more
+  inside.
 ---
 
 

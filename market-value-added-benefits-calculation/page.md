@@ -1,6 +1,7 @@
 ---
-title: "Market Value Added: Benefits and Calculation"
-description: "Discover Market Value Added and its integration in algorithmic trading Learn how MVA assesses corporate performance and enhances trading strategy potential"
+title: Understanding Market Value Added And Its Role In Value Creation
+description: Market Value Added measures the wealth a company generates beyond its
+  invested capital to guide investment decisions for investors Discover more inside
 ---
 
 

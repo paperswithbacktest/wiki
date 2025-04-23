@@ -1,6 +1,7 @@
 ---
-title: "Multinomial Classification (Machine Learning)"
-description: "Explore multinomial classification in machine learning identifying multiple categories using tools like logistic regression with softmax function for probability outputs."
+title: Multinomial Classification in Machine Learning Explained
+description: Multinomial classification assigns instances to multiple categories using
+  softmax logistic regression trees and neural networks Discover more inside
 ---
 
 ![Image](images/1.png)

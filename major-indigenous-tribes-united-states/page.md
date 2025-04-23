@@ -1,6 +1,7 @@
 ---
-title: "Major Indigenous Tribes in the United States"
-description: "Explore how major Indigenous tribes in the United States engage in algorithmic trading blending traditional practices with cutting-edge financial technology."
+title: Overview of Major Indigenous Tribes in the United States
+description: Indigenous tribes in the United States have rich histories distinct cultures
+  and governance structures shaping American society Discover more inside.
 ---
 
 

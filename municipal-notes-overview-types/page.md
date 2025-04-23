@@ -1,6 +1,7 @@
 ---
-title: "Municipal Notes: Overview and Types"
-description: "Explore the intersection of municipal notes, bonds, and algorithmic trading in public finance. Learn how these elements transform investment strategies and market efficiency."
+title: Understanding Municipal Notes for Short-Term City Financing
+description: Municipal notes help cities secure short-term funding for infrastructure
+  projects before tax revenues arrive reducing cash flow risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Non-Convertible Currency"
-description: "Explore the multifaceted world of non-convertible currencies in algo trading Learn how algorithmic trading navigates the complexities and opportunities in restricted markets"
+title: Non-Convertible Currency Effects On International Trade
+description: Non-convertible currency limits international trade and investment while
+  empowering governments to manage economic stability Discover more inside.
 ---
 
 

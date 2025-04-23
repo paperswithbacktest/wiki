@@ -1,6 +1,7 @@
 ---
-title: "Net Short: Concept, Functionality, and Example"
-description: "Explore net short strategies where investors profit from falling asset prices using short selling and algorithmic trading to optimize trade execution and risk management."
+title: Understanding Net Short Positions In Financial Markets
+description: Net Short strategies show how investors profit from falling asset prices
+  by selling borrowed assets and covering positions Discover more inside.
 ---
 
 

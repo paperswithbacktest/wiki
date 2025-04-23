@@ -1,6 +1,7 @@
 ---
-title: "Net Interest Income: Definition and Calculation"
-description: "Discover how net interest income impacts bank profitability and the role of algorithmic trading in shaping interest calculations and profits in banking."
+title: Understanding Net Interest Income Calculation and Impact
+description: Net Interest Income reveals how banks measure profitability from loans
+  versus deposits helping stakeholders assess financial health Discover more inside.
 ---
 
 

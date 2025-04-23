@@ -1,6 +1,7 @@
 ---
-title: "Negative Balance in Short Selling of KaloBios Pharmaceuticals by E*TRADE Account Holder"
-description: "Explore the risks of short selling and algorithmic trading through the KaloBios Pharmaceuticals case that highlights the potential for negative balances."
+title: Understanding Negative Balances in KaloBios Short Selling
+description: Short selling KaloBios stock can cause negative balances if prices rise
+  unexpectedly, use stop loss orders and keep sufficient margin Discover more inside
 ---
 
 

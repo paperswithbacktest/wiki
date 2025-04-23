@@ -1,6 +1,7 @@
 ---
-title: "Lot in Stock and Bond Trading"
-description: "Explore the complexities of lot trading in stocks and bonds alongside algorithmic systems for informed decision-making in financial markets and strategy optimization."
+title: Understanding Lot Sizes in Stocks Bonds and Forex Trading
+description: Lot sizes shape trading costs liquidity and risk across global markets
+  Actively choose the right lot size to optimize your trades Discover more inside
 ---
 
 

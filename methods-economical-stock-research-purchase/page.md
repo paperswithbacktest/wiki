@@ -1,6 +1,7 @@
 ---
-title: "Methods for Economical Stock Research and Purchase"
-description: "Optimize stock research and investments with algorithmic trading for effective portfolio management. Harness data-driven insights and minimize costs for higher returns."
+title: Stock Investing Basics and Strategies for Beginner Investors
+description: Stock investing for beginners offers core concepts research tools financial
+  ratios and strategies to evaluate stocks with confidence Discover more inside
 ---
 
 

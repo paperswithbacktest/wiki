@@ -1,6 +1,7 @@
 ---
-title: "London Interbank Offered Rate and Its Applications"
-description: "Explore the influence of LIBOR in global financial markets and the implications of its 2023 phaseout on algorithmic trading and financial strategies."
+title: Understanding LIBOR and Transition to Alternative Benchmark Rates
+description: LIBOR underpins global loans and derivatives and is shifting to transparent
+  alternatives like SOFR and SONIA to restore market trust Discover more inside.
 ---
 
 

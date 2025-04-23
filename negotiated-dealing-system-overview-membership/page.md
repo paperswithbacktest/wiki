@@ -1,6 +1,7 @@
 ---
-title: "Negotiated Dealing System: Overview and Membership"
-description: "Explore the key features of India's Negotiated Dealing System a pivotal electronic trading platform operated by the RBI boosting market efficiency and transparency."
+title: Negotiated Dealing System Explained for Indian Securities Market
+description: Negotiated Dealing System lets banks and financial institutions trade
+  government securities with transparency and speed under RBI oversight Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Nobel Memorial Prize in Economic Sciences"
-description: "Explore the Nobel Prize in Economic Sciences' impact on algorithmic trading shaping innovative strategies through groundbreaking economic theories for trading excellence."
+title: Nobel Memorial Prize in Economic Sciences Influences Algorithmic Trading
+description: Nobel Memorial Prize in Economic Sciences highlights groundbreaking theories
+  that shape algorithmic trading models and market insights Discover more inside.
 ---
 
 

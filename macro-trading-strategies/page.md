@@ -1,6 +1,7 @@
 ---
-title: "Macro Trading Strategies Explained"
-description: Explore how macro trading strategies, when combined with algorithmic precision, can enhance investment decisions by leveraging broad economic insights like GDP growth and inflation rates. This page investigates into the evolution of trading strategies from manual to automated systems, highlighting the strategic advantages of integrating macroeconomic data into algorithmic models for improved market predictions and efficient trade execution. Discover the critical role of macro trading in navigating interconnected financial markets, driven by technological advancements and data analysis.
+title: Macro Trading Strategies and Indicators for Global Markets
+description: Macro trading uses key economic indicators interest rates and global
+  events to shape profitable strategies with risk management Discover more inside
 ---
 
 

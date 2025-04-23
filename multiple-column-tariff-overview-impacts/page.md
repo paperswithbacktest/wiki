@@ -1,6 +1,7 @@
 ---
-title: "Multiple Column Tariff: Overview and Impacts"
-description: "Explore the dynamic intersection of multiple column tariffs and algorithmic trading Discover their profound impacts on global trade and financial markets."
+title: Multiple Column Tariff Explained Its Structure And Impacts
+description: Multiple column tariff lets countries set varied import taxes by origin
+  to support trade partners and protect domestic industries Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mortgage Revenue Bond: Overview and Advantages"
-description: "Explore how Mortgage Revenue Bonds support affordable housing and how algorithmic trading optimizes their investment strategies for economic growth."
+title: Understanding Mortgage Revenue Bonds for Affordable Homeownership
+description: Mortgage Revenue Bonds enable agencies to fund lower interest loans and
+  offer tax exempt income to boost affordable homeownership. Discover more inside.
 ---
 
 

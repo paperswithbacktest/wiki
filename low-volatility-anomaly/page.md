@@ -1,6 +1,7 @@
 ---
-title: "Low-volatility anomaly"
-description: Explore the intriguing low-volatility anomaly, where stocks with lower volatility defy traditional financial theories by delivering higher risk-adjusted returns than their high-volatility counterparts. This anomaly questions the Capital Asset Pricing Model's risk-return assumptions and influences modern investment strategies, including algorithmic trading, which capitalizes on these inefficiencies. Discover the historical evidence supporting this phenomenon and understand the market dynamics that make low-volatility investing appealing, offering both challenges and opportunities for investors seeking to enhance returns while managing risk effectively.
+title: Understanding the Low-Volatility Anomaly in Investing
+description: Low-volatility anomaly reveals how less risky stocks can outperform expectations
+  and offer steady growth with reduced market swings Discover more inside
 ---
 
 

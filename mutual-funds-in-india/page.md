@@ -1,6 +1,7 @@
 ---
-title: "Mutual Funds in India"
-description: "Explore how mutual funds and algorithmic trading shape financial planning in India offering diversification professional management and efficient execution."
+title: Comprehensive Guide to Investing in Mutual Funds in India
+description: Mutual funds in India deliver expert managed diversification that grows
+  your wealth through SIPs with transparent fees and compliance Discover more inside
 ---
 
 

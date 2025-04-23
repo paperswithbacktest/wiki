@@ -1,6 +1,7 @@
 ---
-title: "Minsky Moment: Causes, History, and Examples"
-description: "Explore the causes and history of economic crises focusing on the Minsky Moment and algorithmic trading's impact on financial stability and market dynamics."
+title: Understanding Minsky Moments And Financial Crisis Triggers
+description: A Minsky Moment occurs when excessive borrowing and asset bubbles trigger
+  sudden price collapses and economic crises Discover more inside now
 ---
 
 

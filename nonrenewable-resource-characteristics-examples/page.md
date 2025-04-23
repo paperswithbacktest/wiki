@@ -1,6 +1,7 @@
 ---
-title: "Nonrenewable Resource Characteristics and Examples"
-description: "Explore the characteristics of nonrenewable resources like fossil fuels and their relationship with algorithmic trading impacting global economies and environmental sustainability."
+title: Exploring Nonrenewable Resources And Their Societal Impact
+description: Nonrenewable resources deplete supplies harming the environment We examine
+  their impact and outline renewable solutions Discover more inside
 ---
 
 

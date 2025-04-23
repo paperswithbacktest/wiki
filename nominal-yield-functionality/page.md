@@ -1,6 +1,7 @@
 ---
-title: "Nominal Yield and Its Functionality"
-description: "Explore how bond yields, nominal yields, and algorithmic trading intertwine to enhance investment strategies and portfolio optimization in today's financial markets."
+title: Understanding Nominal Yield in Bond Investment Strategies
+description: Nominal yield gives a basic bond interest rate metric for comparing returns
+  with market price and yield to maturity precisely Discover more inside
 ---
 
 

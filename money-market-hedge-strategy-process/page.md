@@ -1,6 +1,7 @@
 ---
-title: "Money Market Hedge: Strategy and Process"
-description: "Discover how a money market hedge can mitigate currency risk using financial instruments and algorithmic trading to secure investments in a volatile market."
+title: Money Market Hedge For Effective Currency Risk Management
+description: Money market hedge uses foreign currency borrowing and home investing
+  to lock exchange rates fix costs and reduce currency risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "MarketQA (Quantitative Analytics)"
-description: Discover how MarketQA revolutionizes algorithmic trading by providing advanced quantitative analytics solutions that optimize trading strategies. Harness mathematical models, statistical analyses, and computational techniques to uncover market patterns and make data-driven decisions with enhanced efficiency and effectiveness. MarketQA empowers traders and investment firms with cutting-edge tools, improving their ability to navigate complex financial markets and boost trading performance. Explore the future of quantitative trading and the role of technology in transforming the financial industry.
+title: MarketQA Guide to Data-Driven Investment and Market Analysis
+description: MarketQA uses AI driven data analysis to simplify complex market trends
+  and provide clear investment insights you can act on Discover more inside
 ---
 
 

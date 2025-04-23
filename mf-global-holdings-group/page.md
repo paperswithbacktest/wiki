@@ -1,6 +1,7 @@
 ---
-title: "MF Global Holdings Group"
-description: "Explore the complexities of brokerage and investment firms through the lens of financial crises and algorithmic trading to understand market dynamics and risks."
+title: MF Global Holdings Group Collapse And Risk Management Failures
+description: MF Global Holdings Group collapse exposed faulty risk controls and client
+  fund misuse Learn how enhanced rules safeguard investments Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Maastricht Treaty: History, Purpose, and Significance"
-description: "Explore the Maastricht Treaty's pivotal role in shaping the EU's economic and political landscape and its impact on algorithmic trading trends in Europe."
+title: Maastricht Treaty and the Foundation of the Modern European Union
+description: Maastricht Treaty created the EU framework euro and shared policies for
+  defense and justice boosting cooperation across Europe Discover more inside.
 ---
 
 

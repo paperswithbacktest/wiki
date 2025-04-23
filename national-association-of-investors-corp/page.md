@@ -1,6 +1,7 @@
 ---
-title: "National Association Of Investors Corp"
-description: "Explore the synergy of investor education through BetterInvesting, investment clubs, and algorithmic trading to empower financial growth and strategic investing."
+title: National Association of Investors Corp Investment Education
+description: National Association of Investors Corp offers resources and guidance
+  to master stock investing through BetterInvesting and clubs Discover more inside
 ---
 
 

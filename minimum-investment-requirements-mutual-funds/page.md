@@ -1,6 +1,7 @@
 ---
-title: "Minimum Investment Requirements for Mutual Funds"
-description: "Discover how mutual funds offer diverse investment opportunities for both novice and seasoned investors by understanding essential factors such as minimum investment requirements and algorithmic trading. This article provides insights into how these elements impact investment strategies, enabling you to align your portfolio with evolving financial markets and achieve long-term objectives."
+title: Understanding Mutual Fund Minimum Investment Requirements
+description: Mutual fund minimum investment requirements help cover management costs
+  and promote stable long term investing for smarter portfolios Discover more inside
 ---
 
 

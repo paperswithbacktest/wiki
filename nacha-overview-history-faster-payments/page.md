@@ -1,6 +1,7 @@
 ---
-title: "Nacha: Overview, Historical Development, and Role in Faster Payments"
-description: "Explore how Nacha transforms payments and impacts algorithmic trading with efficient transactions enhancing speed and strategy in an evolving financial landscape."
+title: Nacha's Role in Securing and Accelerating ACH Payments
+description: Nacha sets standards for the ACH network to ensure secure and reliable
+  faster payments from same day transfers to fraud protection. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Major Shareholders of eBay"
-description: "Explore the dynamics between eBay's major shareholders and algorithmic trading's impact on its stock performance in this insightful analysis for investors."
+title: Understanding eBay Shareholder Structure and Major Investors
+description: eBay shareholders shape governance dividends and stock value Discover
+  how top investors like Vanguard BlackRock influence strategy Discover more inside
 ---
 
 

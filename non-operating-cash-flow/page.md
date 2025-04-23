@@ -1,6 +1,7 @@
 ---
-title: "Non-Operating Cash Flow"
-description: "Explore the critical role of non-operating cash flow in financial analysis and algorithmic trading to enhance your trading strategies and investment decisions."
+title: Understanding Non-Operating Cash Flow for Financial Health
+description: Non-operating cash flow highlights extra income and costs outside core
+  operations so investors can assess true financial health Discover more inside.
 ---
 
 

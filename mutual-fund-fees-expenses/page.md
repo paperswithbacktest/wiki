@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Fees and Expenses"
-description: "Discover how mutual fund fees and expenses affect your investment returns and explore how algorithmic trading can optimize costs for better performance."
+title: Mutual Fund Fees And Expenses Explained For Investors
+description: Mutual fund fees and expenses affect your investment returns by covering
+  management and marketing costs Discover ways to cut fees Discover more inside
 ---
 
 

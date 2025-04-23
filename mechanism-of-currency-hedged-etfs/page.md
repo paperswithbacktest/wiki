@@ -1,6 +1,7 @@
 ---
-title: "Mechanism of Currency-Hedged ETFs"
-description: "Explore how currency-hedged ETFs and algorithmic trading work together to manage currency risk and optimize investment returns in global markets."
+title: Understanding Currency-Hedged ETFs for International Investors
+description: Currency-Hedged ETFs deliver stable returns by reducing currency risk
+  in foreign markets while outlining hedging strategies and costs Discover more inside.
 ---
 
 

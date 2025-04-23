@@ -1,6 +1,7 @@
 ---
-title: "Net Order Imbalance Indicator"
-description: "Discover the significance of the Net Order Imbalance Indicator in algorithmic trading. Gain insights into market dynamics for enhanced decision-making and strategic advantage."
+title: Understanding the Net Order Imbalance Indicator for Traders
+description: Net Order Imbalance Indicator reveals premarket supply and demand to
+  help traders predict price moves at market open and close Discover more inside.
 ---
 
 

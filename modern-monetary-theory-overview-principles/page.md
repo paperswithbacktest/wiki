@@ -1,6 +1,7 @@
 ---
-title: "Modern Monetary Theory: Overview and Principles"
-description: "Explore the impact of Modern Monetary Theory on algorithmic trading which challenges traditional economic paradigms by redefining fiscal policy and market strategies."
+title: Understanding Modern Monetary Theory and Its Market Impact
+description: Modern Monetary Theory highlights how governments with sovereign currencies
+  fund public services and curb inflation using tax tools. Discover more inside.
 ---
 
 

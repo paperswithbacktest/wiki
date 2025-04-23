@@ -1,6 +1,8 @@
 ---
-title: "Market Capitalization in Stock Evaluation"
-description: "Explore the impact of market capitalization on stock evaluation and algorithmic trading to devise strategies that optimize returns while managing risks effectively."
+title: Market Capitalization Explained For Informed Stock Investment
+description: Market capitalization reveals company size and value to guide investors
+  in comparing stocks and managing risk across different cap categories Discover more
+  inside
 ---
 
 

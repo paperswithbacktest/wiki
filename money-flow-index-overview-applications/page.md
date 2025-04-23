@@ -1,6 +1,7 @@
 ---
-title: "Money Flow Index: Overview and Applications"
-description: "Explore the Money Flow Index (MFI) and its role in algorithmic trading as a powerful indicator combining price and volume to analyze market trends effectively."
+title: Money Flow Index Calculation and Interpretation for Investors
+description: Money Flow Index helps investors identify overbought and oversold stocks
+  by analyzing price and volume for timely trade decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mechanics of Vanguard Index Funds"
-description: "Discover the synergy between Vanguard index funds and algorithmic trading uncovering innovative strategies for optimizing portfolio performance and investment returns."
+title: A Comprehensive Guide to Vanguard Index Funds and Strategies
+description: Vanguard Index Funds offer low cost passive investing that tracks market
+  indexes and spreads risk for long term growth Discover more inside today
 ---
 
 

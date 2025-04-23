@@ -1,6 +1,7 @@
 ---
-title: "Lock-Up Option: Overview and Mechanism"
-description: "Discover the importance of lock-up options and algorithmic trading in financial markets. Learn how they stabilize IPOs and optimize trading strategies."
+title: Understanding Lock-Up Options in IPOs for Stable Stock Pricing
+description: Lock-up option periods prevent large IPO shareholders from flooding the
+  market and stabilize stock prices during critical early months Discover more inside
 ---
 
 

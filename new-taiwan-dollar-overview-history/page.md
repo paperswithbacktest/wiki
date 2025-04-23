@@ -1,6 +1,7 @@
 ---
-title: "New Taiwan Dollar: Overview and History"
-description: "Explore the significance of the New Taiwan Dollar in Taiwan's economy including its history and role in algorithmic trading and the Forex market."
+title: Understanding the New Taiwan Dollar History Value and Policies
+description: New Taiwan Dollar value and stability are managed by Taiwan's central
+  bank to support economic growth and global trade. Discover more inside.
 ---
 
 

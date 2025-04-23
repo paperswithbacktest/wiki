@@ -1,6 +1,7 @@
 ---
-title: "MINTs: Inclusion Criteria and Historical Context"
-description: "Explore the inclusion criteria and historical context of the MINT countries for algorithmic trading insights. Learn about their economic potential and growth opportunities."
+title: MINT Economies Growth Potential in Emerging Global Markets
+description: MINT economies in Mexico Indonesia Nigeria and Turkey reveal growth potential
+  with demographics and policy reforms Discover more inside
 ---
 
 

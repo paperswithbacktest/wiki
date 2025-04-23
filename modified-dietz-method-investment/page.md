@@ -1,6 +1,7 @@
 ---
-title: "Modified Dietz Method in Investment"
-description: "Explore the Modified Dietz method in investment performance measurement for accurate return calculations amid frequent cash flows in algorithmic trading."
+title: Understanding the Modified Dietz Method for Investment Returns
+description: Modified Dietz Method helps investors gauge performance by weighting
+  cash flows based on timing providing accurate return insights Discover more inside.
 ---
 
 

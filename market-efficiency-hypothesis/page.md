@@ -1,6 +1,7 @@
 ---
-title: "Market efficiency hypothesis"
-description: "Explore the Efficient Market Hypothesis in the context of algorithmic trading where rapid data processing enhances market efficiency while raising volatility concerns."
+title: Understanding the Efficient Market Hypothesis and Its Forms
+description: Efficient Market Hypothesis shows how stock prices reflect all information
+  and shapes passive and active investment strategies Discover more inside.
 ---
 
 

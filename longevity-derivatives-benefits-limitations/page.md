@@ -1,6 +1,7 @@
 ---
-title: "Longevity Derivatives: Benefits and Limitations"
-description: "Explore the benefits and limitations of longevity derivatives and algorithmic trading in modern markets. Discover how these tools impact risk management strategies."
+title: Longevity Derivatives Explained for Pension Funds and Insurers
+description: Longevity derivatives help insurers and pension funds transfer lifespan
+  risk and stabilize payouts using swaps and bonds. Discover more inside.
 ---
 
 

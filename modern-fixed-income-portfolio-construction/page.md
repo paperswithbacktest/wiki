@@ -1,6 +1,7 @@
 ---
-title: "Modern Fixed-Income Portfolio Construction"
-description: "Enhance your fixed-income portfolio management with algorithmic trading strategies to optimize returns and manage risks effectively in a changing market landscape."
+title: Building a Balanced Fixed-Income Portfolio for Steady Income
+description: Fixed-income portfolio strategies provide steady income and balance risk
+  via bond diversification and credit management Discover more inside.
 ---
 
 

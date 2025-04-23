@@ -1,6 +1,8 @@
 ---
-title: "Mini-Perm Loans and Their Uses Compared to Construction Loans"
-description: "Explore the differences between mini-perm and construction loans in real estate financing, and discover how algorithmic trading enhances financial strategies."
+title: Differences Between Mini-Perm Loans and Construction Loans
+description: Mini-perm loan bridges construction financing and long-term loans by
+  giving developers time to stabilize and prove project performance Discover more
+  inside
 ---
 
 

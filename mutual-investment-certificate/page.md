@@ -1,6 +1,7 @@
 ---
-title: "Mutual Investment Certificate"
-description: "Discover the benefits and challenges of investment certificates, mutual funds, and algorithmic trading to enhance your portfolio and achieve financial growth."
+title: Mutual Investment Certificates Explained for Diversification
+description: Mutual Investment Certificates offer diversified exposure to stocks and
+  bonds while fund managers optimize returns and control risk Discover more inside
 ---
 
 

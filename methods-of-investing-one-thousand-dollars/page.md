@@ -1,6 +1,7 @@
 ---
-title: "Methods of Investing One Thousand Dollars"
-description: "Maximize your $1000 investment with algorithmic trading Learn how to leverage algo trading for improved efficiency and potential returns with innovative strategies"
+title: Essential Strategies for Investing $1,000 Effectively
+description: "Investing $1,000 wisely explores savings accounts CDs stocks ETFs REITs\
+  \ and robo\u2011advisors to match your goals and risk profile Discover more inside."
 ---
 
 

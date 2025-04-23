@@ -1,6 +1,7 @@
 ---
-title: "Microstructural features"
-description: Explore the intricate world of algorithmic trading and market microstructure to learn how these elements influence trading strategies and execution in modern financial markets. Discover the importance of understanding order types, the Limit Order Book, and market liquidity to develop effective trading strategies. This insight is crucial for traders to navigate and thrive in the fast-paced world of electronic markets.
+title: Microstructural Features in Materials Science and Their Impact
+description: Microstructural features determine material strength flexibility and
+  reliability by revealing grains defects and boundaries Discover more inside
 ---
 
 

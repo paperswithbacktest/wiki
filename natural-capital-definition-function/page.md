@@ -1,6 +1,7 @@
 ---
-title: "Natural Capital: Definition and Function"
-description: "Explore the significance of natural capital and its integration in economic systems through algorithmic trading for sustainability and environmental balance."
+title: Natural Capital Explained Benefits Valuation and Conservation
+description: Natural capital provides clean water air and stable ecosystems that underpin
+  economies Use valuation to guide resource management Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Neural Architecture Search (Nas) (Machine Learning)"
-description: "Discover how Neural Architecture Search (NAS) automates neural network design to improve efficiency and performance, saving time and outperforming manual methods."
+title: Neural Architecture Search Explained for Efficient Models
+description: Neural Architecture Search automates network design with smart search
+  and validation to save time and boost model performance Discover more inside
 ---
 
 ![Image](images/1.png)

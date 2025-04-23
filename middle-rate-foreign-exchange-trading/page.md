@@ -1,6 +1,7 @@
 ---
-title: "Middle Rate in Foreign Exchange Trading"
-description: "Explore the significance of middle rate in forex trading and how algorithmic strategies optimize it to enhance trade efficiency minimize costs and maximize profits."
+title: Understanding the Middle Rate in Foreign Exchange Trading
+description: Middle rate reveals the true value of currencies by averaging bid and
+  ask prices to help traders minimize costs and improve decisions Discover more inside.
 ---
 
 

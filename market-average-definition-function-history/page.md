@@ -1,6 +1,7 @@
 ---
-title: "Market Average: Definition, Function, and Historical Context"
-description: "Explore how market averages and algorithmic trading redefine financial strategies with insights into key financial metrics and economic indicators."
+title: Market Averages Definition Types And Practical Applications
+description: Market averages offer a concise view of stock market performance by defining
+  indices types and guiding portfolio decisions Discover more inside
 ---
 
 

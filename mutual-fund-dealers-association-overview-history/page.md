@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Dealers Association: Overview and History"
-description: "Discover how the Mutual Fund Dealers Association regulates Canada's mutual fund dealers amidst the rise of algorithmic trading ensuring market integrity and investor protection."
+title: Mutual Fund Dealers Association Investor Protection Framework
+description: MFDA enforces rules training and compliance to protect Canadian investors
+  in the mutual fund industry while ensuring fair practices Discover more inside.
 ---
 
 

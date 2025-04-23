@@ -1,6 +1,7 @@
 ---
-title: "Market makers"
-description: "Explore the critical role of market makers in financial markets, their strategies for liquidity provision, and the advanced technologies that enhance trade execution."
+title: Understanding Market Makers And Their Impact On Liquidity
+description: Market makers ensure smooth trading by providing liquidity through buying
+  and selling assets managing spreads and controlling risk Discover more inside
 ---
 
 

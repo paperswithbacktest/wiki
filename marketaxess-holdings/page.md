@@ -1,6 +1,7 @@
 ---
-title: "MarketAxess Holdings"
-description: "Discover MarketAxess Holdings' revolutionary role in electronic trading with advanced algorithms boosting market efficiency and connectivity for global investors."
+title: MarketAxess Holdings Electronic Bond Trading Platform Overview
+description: MarketAxess Holdings streamlines electronic bond trading with advanced
+  analytics and secure execution to optimize trades Discover more inside
 ---
 
 

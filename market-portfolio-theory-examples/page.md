@@ -1,6 +1,7 @@
 ---
-title: "Market Portfolio: Theory and Examples"
-description: "Explore market portfolio theory and algorithmic trading with examples Learn how these concepts optimize investment strategies by balancing risk and returns."
+title: Understanding Market Portfolio in Modern Investment Strategies
+description: Market Portfolio diversifies across stocks bonds and assets to balance
+  risk and reward while matching market performance. Discover more inside.
 ---
 
 

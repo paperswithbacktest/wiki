@@ -1,6 +1,8 @@
 ---
-title: "Market Indexes: Function, Types, and Examples"
-description: "Discover the vital role of market indices and algorithmic trading in finance Learn how these tools shape investment strategies and industry practices"
+title: Understanding Market Indices And Their Investment Roles
+description: Market index fundamentals clarified in clear terms so you can compare
+  investments calculate index values and leverage indexes for smarter strategies Discover
+  more inside.
 ---
 
 

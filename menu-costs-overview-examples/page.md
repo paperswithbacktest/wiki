@@ -1,6 +1,7 @@
 ---
-title: "Menu Costs: Overview and Examples"
-description: "Discover how menu costs affect price adjustments and economic stability. Explore examples in algorithmic trading and their impact on market efficiency."
+title: Menu Costs and Their Effects on Pricing Strategies and Inflation
+description: Menu costs shape how businesses adjust prices and influence price stickiness
+  and inflation with practical examples and insights. Discover more inside.
 ---
 
 

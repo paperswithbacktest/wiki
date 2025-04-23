@@ -1,6 +1,8 @@
 ---
-title: "Nassim Taleb’s Strategy Explained"
-description: "Explore Nassim Taleb's barbell strategy in algorithmic trading to enhance risk management, maximize returns, and foster antifragility in volatile markets."
+title: "Mastering Antifragility with Nassim Taleb\u2019s Risk Strategies"
+description: Antifragility and risk management with Nassim Taleb focus on thriving
+  amid Black Swan surprises through barbell investing and adaptive planning Discover
+  more inside
 ---
 
 

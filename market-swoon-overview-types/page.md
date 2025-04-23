@@ -1,6 +1,7 @@
 ---
-title: "Market Swoon: Overview and Types"
-description: "Explore the dynamics of market swoons and algorithmic trading during economic downturns Discover strategies to navigate volatility and ensure market stability"
+title: Understanding Market Swoons Impact and Investor Strategies
+description: Market swoon sparks rapid stock drops for investors Spot swoons early
+  diversify to limit losses and seize low price opportunities Discover more inside
 ---
 
 

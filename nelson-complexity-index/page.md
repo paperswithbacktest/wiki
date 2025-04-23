@@ -1,6 +1,7 @@
 ---
-title: "Nelson Complexity Index"
-description: "Explore the Nelson Complexity Index (NCI) a key metric for assessing refinery capabilities and its impact on trading strategies and market dynamics in the oil industry."
+title: Understanding the Nelson Complexity Index for Oil Refineries
+description: Nelson Complexity Index assigns scores to refinery units to show processing
+  power and guide strategic oil investment decisions Discover more inside.
 ---
 
 

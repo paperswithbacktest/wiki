@@ -1,6 +1,7 @@
 ---
-title: "Marginal Propensity to Invest"
-description: "Explore how the Marginal Propensity to Invest (MPI) informs investment decisions in modern finance with algorithmic trading advancements shaping economic strategies."
+title: Understanding Marginal Propensity to Invest for Economic Growth
+description: Marginal Propensity to Invest shows how extra income fuels business investment
+  and economic growth with clear examples and formulas Discover more inside
 ---
 
 

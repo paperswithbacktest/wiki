@@ -1,6 +1,7 @@
 ---
-title: "Non-Traded Real Estate Investment Trust"
-description: "Explore the unique benefits of non-traded REITs in real estate investing, including reduced volatility and consistent income, empowered by algorithmic trading insights."
+title: "Understanding Non\u2011Traded REITs Benefits Risks and Investment Process"
+description: "Non\u2011Traded REITs offer higher dividend yields and portfolio diversification\
+  \ while posing liquidity and fee challenges Discover more inside"
 ---
 
 

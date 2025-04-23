@@ -1,6 +1,7 @@
 ---
-title: "Measuring Portfolio Variance"
-description: "Explore how financial metrics portfolio variance and algorithmic trading empower investors to enhance investment analysis and manage risks in financial markets."
+title: Calculating Portfolio Variance for Effective Risk Management
+description: Portfolio variance helps you measure and manage investment risk by analyzing
+  asset weights correlations and diversifying effectively Discover more inside.
 ---
 
 

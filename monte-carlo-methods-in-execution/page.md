@@ -1,6 +1,7 @@
 ---
-title: "Monte Carlo methods in execution"
-description: "Explore the impact of Monte Carlo methods on algorithmic trading to model risk and uncertainty by simulating diverse market conditions and refining strategies."
+title: Monte Carlo Methods for Financial Execution and Risk Management
+description: Monte Carlo methods simulate thousands of financial scenarios to estimate
+  risk and inform smarter investment decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market Maker: Role and Revenue Generation"
-description: "Explore the roles of market makers and algorithmic trading in modern finance. Discover how they enhance liquidity, efficiency, and market stability."
+title: Understanding Market Makers And Their Role In Market Liquidity
+description: Market makers ensure market liquidity and stable trading by buying and
+  selling with bid ask spreads while mitigating risks Discover more inside
 ---
 
 

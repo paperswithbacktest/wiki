@@ -1,6 +1,7 @@
 ---
-title: "Matched Book in Finance"
-description: "Discover the evolution of finance with matched book investments & algo trading Learn how these strategies optimize trade execution & enhance liquidity"
+title: Mastering Matched Book Strategy for Financial Institutions
+description: Matched Book strategy helps banks balance lending and borrowing while
+  optimizing liquidity and managing risk for stable operations Discover more inside.
 ---
 
 

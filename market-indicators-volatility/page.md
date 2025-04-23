@@ -1,6 +1,7 @@
 ---
-title: "Market Indicators of Volatility"
-description: "Explore market indicators reflecting volatility crucial for algorithmic trading. Understand economic influences, assess risks, and seize opportunities amid market dynamics."
+title: Market Volatility Indicators for Smarter Investment Strategies
+description: Market volatility indicators help investors gauge risk with VIX ATR and
+  Bollinger Bands for smarter portfolio decisions Discover more inside.
 ---
 
 

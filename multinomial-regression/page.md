@@ -1,6 +1,7 @@
 ---
-title: "Multinomial Regression (Machine Learning)"
-description: "Understand Multinomial Regression with insights into its purpose, assumptions, data preparation, mathematical formulation, and coefficient interpretation."
+title: Multinomial Regression Explained Key Concepts And Applications
+description: Multinomial Regression guides you through data prep model fitting and
+  evaluation for reliable categorical predictions Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Moving Averages: Simple, Weighted, and Exponential"
-description: "Explore the essential role of moving averages in algorithmic trading encompassing SMA WMA and EMA to identify trends and make informed market decisions."
+title: Comprehensive Guide To Moving Averages SMA WMA And EMA
+description: Moving average methods for SMAs WMAs and EMAs smooth data and reveal
+  market trends faster using weighted and exponential formulas Discover more inside.
 ---
 
 

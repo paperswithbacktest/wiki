@@ -1,6 +1,7 @@
 ---
-title: "Neutral Doji Candlestick Pattern Explained"
-description: Explore the neutral doji candlestick pattern in algorithmic trading which signifies market indecision with its nearly identical opening and closing prices. Learn how this pattern can indicate trend reversals or continuations and how traders leverage it for strategic decision-making through backtesting and technical analysis tools.
+title: Neutral Doji Candlestick Pattern Explained for Traders
+description: Neutral Doji candlestick pattern helps traders identify market indecision
+  and anticipate trend shifts using confirmation signals. Discover more inside.
 ---
 
 

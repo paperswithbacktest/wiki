@@ -1,6 +1,7 @@
 ---
-title: "Modified Following and Its Applications"
-description: "Explore how algorithmic trading principles are transforming social media algorithms to enhance user engagement and personalized content experiences."
+title: Understanding Modified Following Date Adjustment in Finance
+description: Modified following ensures payments and settlements on business days
+  and keeps them within the original month for precise scheduling Discover more inside.
 ---
 
 

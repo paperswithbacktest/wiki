@@ -1,6 +1,8 @@
 ---
-title: "Montréal Exchange: Overview and Operational Mechanism"
-description: "Explore the Montréal Exchange and its pivotal role in Canada's financial markets, focusing on trading mechanisms, algorithmic trading, and market dynamics."
+title: "Exploring the Montr\xE9al Exchange As Canada's Options Hub"
+description: "Montr\xE9al Exchange empowers investors with a reliable platform for\
+  \ options futures and ETF trading while managing risk effectively Discover more\
+  \ inside."
 ---
 
 

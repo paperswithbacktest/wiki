@@ -1,6 +1,7 @@
 ---
-title: "Monetary Accord of 1951"
-description: "Explore the significance of the Monetary Accord of 1951 and its impact on the autonomy of the Federal Reserve and U.S. economic policy. Discover how this pivotal agreement set the stage for central bank independence and modern monetary frameworks, alongside the revolutionary developments in algorithmic trading that transform financial markets."
+title: Monetary Accord of 1951 Empowers Federal Reserve Independence
+description: Monetary Accord of 1951 granted the Federal Reserve control over interest
+  rates to combat inflation and stabilize the postwar economy. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market Efficiency: Perspectives and Illustrations"
-description: "Explore how market efficiency intertwines with economic theories and algorithmic trading, offering insights into modern trading strategies and financial market dynamics."
+title: Market Efficiency Explained How Information Shapes Asset Prices
+description: Market efficiency shows how information is reflected in asset prices
+  across three efficiency levels to guide smarter investing Discover more inside.
 ---
 
 

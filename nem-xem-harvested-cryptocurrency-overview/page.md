@@ -1,6 +1,7 @@
 ---
-title: "NEM (XEM): Harvested Cryptocurrency Overview"
-description: "Explore the transformative potential of NEM's XEM cryptocurrency and the role of algorithmic trading in optimizing digital finance strategies. Discover how NEM's unique Proof-of-Importance system and advanced blockchain architecture support decentralized transactions and secure record management. This page provides insights into XEM's efficiency and the advantages it offers within the cryptocurrency ecosystem. Learn about algo trading's impact on managing market volatility and enhancing trading outcomes, offering a comprehensive overview of future prospects for NEM and XEM in the evolving financial landscape."
+title: NEM XEM Blockchain Proof Of Importance And Harvesting Explained
+description: NEM blockchain uses Proof of Importance and harvesting to reward active
+  users while enabling custom tokens with Mosaics Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Master's Trust: Definition, Mechanisms, and Varieties"
-description: "Explore master's trusts and trust mechanisms vital in algo trading Enhance your understanding of pooled investments to navigate financial markets confidently"
+title: Understanding Master's Trust for Corporate Pension Management
+description: Master's Trust provides a secure structure for companies to manage employee
+  pension funds with expert trustees and legal compliance Discover more inside
 ---
 
 

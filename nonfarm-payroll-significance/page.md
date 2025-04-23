@@ -1,6 +1,7 @@
 ---
-title: "Nonfarm Payroll Significance"
-description: "Discover how Nonfarm Payroll data influences algorithmic trading strategies and its significance in economic analysis. Learn about its impact on financial markets."
+title: Understanding Nonfarm Payroll Data Impact on US Economy
+description: Nonfarm Payroll data shows US job market trends and their influence on
+  markets and policy in active voice Discover more inside
 ---
 
 

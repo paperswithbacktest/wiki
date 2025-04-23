@@ -1,6 +1,7 @@
 ---
-title: "Long-Legged Doji: Overview, Importance, and Trading Strategies"
-description: "Discover the significance of the Long-Legged Doji candlestick pattern in trading Identify key strategies and the role of algorithmic trading for market insights"
+title: Understanding the Long-Legged Doji Candlestick Pattern
+description: Long-Legged Doji pattern reveals market indecision and signals trend
+  reversals with identification tips and confirmation signals Discover more inside.
 ---
 
 

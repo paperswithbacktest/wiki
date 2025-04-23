@@ -1,6 +1,7 @@
 ---
-title: "NAN Trap (Machine Learning)"
-description: "Learn what a NAN Trap is in machine learning and how it can affect your model's performance. Discover techniques to prevent and handle NAN issues effectively."
+title: Resolving NAN Traps in Machine Learning for Model Stability
+description: NAN Trap errors stall model training by creating undefined values. Use
+  data cleaning preprocessing to maintain stable ML performance Discover more inside
 ---
 
 ![Image](images/1.png)

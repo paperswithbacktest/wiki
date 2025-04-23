@@ -1,6 +1,7 @@
 ---
-title: "Merrill Edge 2024 Review"
-description: "Explore Merrill Edge's 2024 review focusing on algo trading with no account minimums and $0 commissions on stocks and ETFs offering user-friendly tools and investment options."
+title: Merrill Edge Account Guide and Platform Features Overview
+description: Merrill Edge makes managing investments simple with commission-free trades
+  planning tools and seamless Bank of America integration Discover more inside.
 ---
 
 

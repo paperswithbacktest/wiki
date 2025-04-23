@@ -1,6 +1,7 @@
 ---
-title: "Market Discipline Mechanisms and Functions"
-description: "Explore market discipline mechanisms and functions in algorithmic trading Understand the role of regulation and incentives in ensuring financial stability today"
+title: Understanding Market Discipline in Financial Institutions
+description: Market discipline drives financial institutions to manage risks through
+  investor and depositor oversight and reputation pressures Discover more inside
 ---
 
 

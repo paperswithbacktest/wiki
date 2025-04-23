@@ -1,6 +1,7 @@
 ---
-title: "Marginal Analysis in Business and Economics"
-description: "Discover how marginal analysis aids decision-making in economics and algo trading by evaluating cost benefits, optimizing strategies, and enhancing efficiency."
+title: Applying Marginal Analysis To Optimize Business Decisions
+description: Marginal Analysis empowers businesses to compare extra costs and benefits
+  of small changes to maximize profit and resource use Discover more inside.
 ---
 
 

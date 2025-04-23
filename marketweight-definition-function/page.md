@@ -1,6 +1,7 @@
 ---
-title: "Marketweight: Definition and Function"
-description: "Explore the marketweight investment strategy and its role in algorithmic trading Learn how these concepts optimize portfolio performance and enhance decision-making"
+title: Understanding Marketweight for Balanced Portfolio Management
+description: Marketweight analysis helps investors align stocks with benchmark indexes
+  for balanced portfolio exposure and controlled risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Net Foreign Assets: Creditor and Debtor Status"
-description: "Explore the intricate dynamics of net foreign assets and their impact on a nation's creditor or debtor status in the global economy with insights into algo trading strategies."
+title: Understanding Net Foreign Assets and Their Economic Impact
+description: Net foreign assets measure the financial health of a country by comparing
+  assets to liabilities and revealing currency strength. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Losing Your Shirt: Meaning and Origins"
-description: "Explore the vivid idiom 'losing your shirt' its origins and relevance in algorithmic trading Understand potential risks and protect your investments"
+title: Losing Your Shirt Idiom Explained With Examples and Origins
+description: Losing Your Shirt explains the meaning and usage of this financial idiom
+  with real world examples to boost your financial vocabulary Discover more inside.
 ---
 
 

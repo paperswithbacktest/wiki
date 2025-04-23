@@ -1,6 +1,7 @@
 ---
-title: "New York Stock Exchange Group"
-description: "Explore the impact of algorithmic trading on the New York Stock Exchange with insights into its speed and efficiency, challenges, and benefits in today's markets."
+title: Comprehensive Guide to the New York Stock Exchange Group
+description: New York Stock Exchange Group explained for investors with clear insights
+  on trading operations governance and market roles Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Lockdown: Definition, Mechanism, and Examples"
-description: "Explore the impact of COVID-19 lockdowns on algorithmic trading and global economies, revealing the balance between public health measures and economic stability."
+title: Lockdown Defined Comprehensive Guide to Phases and Impacts
+description: Explore lockdown measures with clear definitions enforcement phases and
+  impacts to help you grasp economic and social outcomes Discover more inside
 ---
 
 

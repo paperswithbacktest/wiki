@@ -1,6 +1,7 @@
 ---
-title: "Net Profits Interest: Explanation and Examples"
-description: "Explore how Net Profits Interest in resource industries offers risk-free revenue while algorithmic trading enhances precision in investment strategies."
+title: Net Profits Interest Explained for Oil and Gas Investors
+description: Net profits interest gives investors a share of oil and gas project profits
+  after costs and outlines risks rewards legal steps Discover more inside
 ---
 
 

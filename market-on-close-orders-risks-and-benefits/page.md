@@ -1,6 +1,7 @@
 ---
-title: "Market-on-Close Orders: Risks and Benefits"
-description: "Explore the strategic edge of Market-on-Close (MOC) orders in algorithmic trading. Learn how to optimize trades at day's end, harnessing closing price benefits."
+title: Understanding Market-On-Close Orders For End-Of-Day Trading
+description: Market-on-close orders execute trades at the day's closing price to capture
+  the average market value and reduce intraday volatility Discover more inside
 ---
 
 

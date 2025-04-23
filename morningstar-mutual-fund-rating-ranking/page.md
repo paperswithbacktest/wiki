@@ -1,6 +1,7 @@
 ---
-title: "Morningstar Mutual Fund Rating and Ranking"
-description: "Explore the intersection of Morningstar's mutual fund ratings and algorithmic trading to enhance investment strategies by evaluating risks and maximizing returns."
+title: Comprehensive Guide to Morningstar Mutual Fund Ratings
+description: Morningstar mutual fund ratings provide star and analyst assessments
+  for risk adjusted performance with monthly updates Discover more inside
 ---
 
 

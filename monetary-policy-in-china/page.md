@@ -1,6 +1,7 @@
 ---
-title: "Monetary Policy in China"
-description: "Explore how China harmonizes monetary policy and algorithmic trading to drive economic growth and stabilize markets in an evolving financial landscape."
+title: China's Monetary Policy Framework and Central Bank Instruments
+description: China monetary policy relies on PBOC interest rate shifts and bond operations
+  to balance growth inflation and currency stability Discover more inside
 ---
 
 

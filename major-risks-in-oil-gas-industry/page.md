@@ -1,6 +1,7 @@
 ---
-title: "Major Risks in the Oil and Gas Industry"
-description: "Explore the major risks facing the oil and gas industry including political instability regulatory challenges and market volatility despite technological advances"
+title: Oil And Gas Industry Safety Risks And How To Mitigate Them
+description: Oil and gas safety risks include fires equipment failures and environmental
+  hazards. Take proven safety measures to protect workers Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Major Research Papers"
-description: Explore key research papers on algorithmic trading, focusing on optimal execution, market impact, and market making. These papers provide valuable insights into the mathematical models and strategies that underpin trading, including the Almgren-Chriss framework, market microstructure analysis, and high-frequency trading in limit order books. Ideal for anyone looking to deepen their understanding of how financial markets operate and how to navigate their complexities through data-driven strategies.
+title: Understanding Major Research Paper Components and Impact
+description: Major Research Paper explains each section from introduction to conclusion
+  and shows how to ensure quality through peer review Discover more inside
 ---
 
 

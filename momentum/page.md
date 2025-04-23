@@ -1,6 +1,7 @@
 ---
-title: "Momentum"
-description: Discover the concept of Momentum in Algorithmic Trading and its significance in capitalizing on existing market trends. Learn about historical context, theoretical explanations, and practical implementations of momentum strategies through technical indicators like Moving Averages (SMA & EMA) and Relative Strength Index (RSI). Explore the evolution of momentum trading from manual to algorithmic practices.
+title: Understanding Momentum in Physics and Its Applications
+description: Momentum in physics explains how mass and velocity define motion and
+  how conservation laws predict collisions and practical uses Discover more inside.
 ---
 
 

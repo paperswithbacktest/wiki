@@ -1,6 +1,7 @@
 ---
-title: "McClellan Summation Index"
-description: "Explore the McClellan Summation Index for insights into market breadth and trends Ideal for traders and analysts in technical and algorithmic trading strategies"
+title: Understanding The McClellan Summation Index For Market Trends
+description: McClellan Summation Index provides a view of advancing and declining
+  stocks to reveal market trends and support investment decisions Discover more inside
 ---
 
 

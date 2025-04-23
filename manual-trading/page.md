@@ -1,6 +1,7 @@
 ---
-title: "Manual Trading"
-description: "Discover the differences between manual and algorithmic trading to optimize your financial strategies. Explore human intuition versus automated efficiency."
+title: Manual Trading Essentials Tools Strategies and Risk Management
+description: Manual trading empowers you to make informed buy and sell decisions using
+  research and charts while managing risk and emotions Discover more inside
 ---
 
 

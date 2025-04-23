@@ -1,6 +1,7 @@
 ---
-title: "Maurice Allais: Biography and Major Contributions"
-description: "Explore Maurice Allais' impact as a Nobel-winning economist known for his work on market equilibrium and behavioral economics influencing algorithmic trading."
+title: Maurice Allais Nobel Economist and Pioneer of the Allais Paradox
+description: Maurice Allais offers key insights into how decision making and markets
+  interact reshaping economic policy and behavior. Discover more inside.
 ---
 
 

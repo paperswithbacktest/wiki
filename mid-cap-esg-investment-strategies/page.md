@@ -1,6 +1,8 @@
 ---
-title: "Mid-Cap ESG Investment Strategies"
-description: "Explore mid-cap ESG investment strategies enhanced by algorithmic trading to achieve financial success and positive societal impact through sustainable investing."
+title: "Assessing ESG Performance in Mid\u2011Cap Investing Strategies"
+description: "Mid\u2011cap companies offer balanced ESG growth potential with active\
+  \ environmental social and governance initiatives driving stability and returns\
+  \ Discover more inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "MT (Machine Learning)"
-description: "Explore Machine Learning and understand its significance in today's AI-driven world. Learn the differences between ML and traditional programming methods."
+title: Machine Learning Fundamentals Concepts Types and Applications
+description: Machine Learning transforms data into insights through algorithms explained
+  clearly from basics to ethics and deployment Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

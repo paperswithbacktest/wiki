@@ -1,6 +1,7 @@
 ---
-title: "Mean Absolute Error (Mae) (Machine Learning)"
-description: "Discover the Mean Absolute Error (MAE) in machine learning, a key metric in evaluating prediction accuracy by calculating the average absolute differences."
+title: Understanding Mean Absolute Error for Reliable Model Evaluation
+description: Mean Absolute Error shows average prediction error in original units
+  so teams can evaluate model performance and manage outliers Discover more inside.
 ---
 
 ![Image](images/1.png)

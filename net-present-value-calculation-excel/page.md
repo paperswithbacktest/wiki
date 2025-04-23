@@ -1,6 +1,7 @@
 ---
-title: "Net Present Value Calculation in Excel"
-description: "Master the art of calculating Net Present Value (NPV) in Excel for algorithmic trading to evaluate investment profitability effectively. Learn how to use Excel's NPV and XNPV functions to analyze investment opportunities, consider the time value of money, and optimize trading strategies by comparing projected future cash flows. This guide provides a step-by-step approach to leveraging Excel's capabilities for financial analysis in the fast-paced world of algo trading, helping traders make informed decisions and maximize investment returns."
+title: Essential Guide to Net Present Value Calculations in Excel
+description: Net Present Value calculations in Excel demystify how to discount future
+  cash flows to present value for accurate investment decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market Basket in Investing"
-description: "Discover how market baskets and algorithmic trading revolutionize investing. Learn to diversify risk, optimize returns, and leverage technology for smarter strategies."
+title: Market Basket Investing Strategies for Diversified Portfolios
+description: Market basket investing spreads risk and aligns your portfolio with market
+  themes through active rebalancing for stable growth Discover more inside
 ---
 
 

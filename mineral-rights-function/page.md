@@ -1,6 +1,7 @@
 ---
-title: "Mineral Rights and Their Function"
-description: "Explore the complex relationship between mineral rights, mining regulations, and algorithmic trading in shaping the global economy and resource management."
+title: Comprehensive Guide to Mineral Rights Ownership and Extraction
+description: Mineral rights give legal control over underground resources explore
+  how ownership leasing extraction influence property value Discover more inside
 ---
 
 

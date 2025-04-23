@@ -1,6 +1,7 @@
 ---
-title: "Lost Share Certificate and Stock Ownership"
-description: "Explore the vital role of stock ownership and documentation, highlighting the impact of algorithmic trading on markets and addressing challenges with lost share certificates."
+title: Share Certificate Replacement and Ownership Protection Guide
+description: Share certificate holders can replace lost certificates, safeguard assets
+  and navigate legal steps with guidance. Discover more inside
 ---
 
 

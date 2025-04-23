@@ -1,6 +1,7 @@
 ---
-title: "National Stock Exchange of India Limited"
-description: "Explore the National Stock Exchange of India's role in revolutionizing securities trading through algorithmic trading and its impact on market efficiency and transparency."
+title: Understanding The National Stock Exchange Of India For Traders
+description: National Stock Exchange of India leverages its electronic NEAT platform
+  to ensure fast fair trading and transparent market operations Discover more inside
 ---
 
 

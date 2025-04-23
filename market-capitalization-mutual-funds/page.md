@@ -1,6 +1,7 @@
 ---
-title: "Market Capitalization Mutual Funds"
-description: "Explore the intersection of market cap funds and algorithmic trading within mutual funds to optimize investment strategies enhance diversification and improve efficiency."
+title: Comprehensive Guide to Market Capitalization Mutual Funds
+description: Market capitalization mutual funds let investors align company size with
+  risk tolerance and growth goals managed by experts Discover more inside
 ---
 
 

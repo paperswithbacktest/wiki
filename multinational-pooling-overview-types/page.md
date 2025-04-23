@@ -1,6 +1,7 @@
 ---
-title: "Multinational Pooling: Overview and Types"
-description: "Discover the integration of multinational pooling and algorithmic trading to optimize risk management and financial strategies for global corporations."
+title: Optimizing Global Employee Benefits With Multinational Pooling
+description: Multinational pooling helps companies cut insurance costs and simplify
+  global benefits management while spreading risk across borders Discover more inside.
 ---
 
 

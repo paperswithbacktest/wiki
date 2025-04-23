@@ -1,6 +1,7 @@
 ---
-title: "Naive Bayes Algorithm Explained"
-description: Discover how the Naive Bayes algorithm, a simple yet effective probabilistic classifier, can transform algorithmic trading strategies. This article investigates into the principles of Naive Bayes, its assumptions, and its applications in finance, offering insights for traders aiming to incorporate machine learning into their trading decisions for enhanced precision and efficiency.
+title: Naive Bayes Algorithm Explained for Text and Trading Applications
+description: Naive Bayes algorithm demystified to help you implement and optimize
+  probabilistic classifiers for text and trading scenarios Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Monetarism and Inflation Control Through Money Supply"
-description: "Explore the role of monetarism and algorithmic trading in inflation control and economic stability by examining their impact on financial market dynamics."
+title: Monetarism and Money Supply Control for Price Stability
+description: Monetarism highlights how central banks can control the money supply
+  to curb inflation and support steady economic growth Discover more inside.
 ---
 
 

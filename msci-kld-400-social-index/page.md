@@ -1,6 +1,7 @@
 ---
-title: "MSCI KLD 400 Social Index"
-description: "Explore the MSCI KLD 400 Social Index and the role of algorithmic trading in advancing sustainable investing strategies that align with ESG principles."
+title: Understanding the MSCI KLD 400 Social Index for ESG Investing
+description: MSCI KLD 400 Social Index offers investors a way to back companies that
+  excel in ESG criteria and deliver competitive returns Discover more inside
 ---
 
 

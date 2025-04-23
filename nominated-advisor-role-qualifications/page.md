@@ -1,6 +1,7 @@
 ---
-title: "Nominated Advisor: Role and Qualifications"
-description: "Nominated Advisors (NOMADs) are crucial for firms eyeing AIM listings aiding in regulatory compliance and adapting to the shift towards algorithmic trading."
+title: Nominated Advisor Roles and Responsibilities on AIM Market
+description: Nominated Advisor services guide AIM companies through compliance, listing
+  prep, and ongoing oversight to uphold market rules Discover more inside
 ---
 
 

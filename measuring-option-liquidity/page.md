@@ -1,6 +1,7 @@
 ---
-title: "Measuring Option Liquidity"
-description: "Explore the intricacies of option liquidity in trading with insights into measuring liquidity through daily volume and open interest facilitated by algorithmic trading."
+title: Understanding Option Liquidity Through Key Market Metrics
+description: Option liquidity affects trading costs and execution speed by showing
+  you how easy it is to buy or sell contracts at fair prices. Discover more inside.
 ---
 
 

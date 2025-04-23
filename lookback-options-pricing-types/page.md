@@ -1,6 +1,7 @@
 ---
-title: "Lookback Options: Pricing and Types"
-description: "Discover the pricing and advantages of lookback options in algorithmic trading Explore how these exotic derivatives offer optimal pricing and hedging strategies"
+title: Comprehensive Guide to Lookback Options for Investors
+description: Lookback options let investors use the optimal asset price reached during
+  the contract to maximize gains and reduce risk. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Net Current Asset Value Per Share"
-description: "Explore how Net Current Asset Value Per Share (NCAVPS) aids in identifying undervalued stocks and the role of algorithms in enhancing trading strategies."
+title: Net Current Asset Value Per Share Explained for Value Investors
+description: Net Current Asset Value Per Share helps investors find undervalued stocks
+  by comparing assets to liabilities and revealing equity Discover more inside
 ---
 
 

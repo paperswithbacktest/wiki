@@ -1,6 +1,7 @@
 ---
-title: "Net Loss: Calculation and Examples"
-description: "Discover the essential role of net loss calculation in algorithmic trading and learn how to optimize performance by managing risks and improving strategies."
+title: Understanding Net Loss in Business Financial Statements
+description: Net loss shows when business expenses exceed revenue highlighting cost
+  issues and guiding strategic decisions for improvement Discover more inside
 ---
 
 

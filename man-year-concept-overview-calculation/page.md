@@ -1,6 +1,7 @@
 ---
-title: "Man-Year: Concept, Overview and Calculation"
-description: "Discover the role of man-years in work measurement and how it advances project management and algorithmic trading for increased efficiency and success."
+title: Understanding Man-Year Calculations for Project Planning
+description: Man-year metrics help you accurately estimate labor needs and budgets
+  for long-term projects with real examples and tips Discover more inside.
 ---
 
 

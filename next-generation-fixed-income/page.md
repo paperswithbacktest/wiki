@@ -1,6 +1,7 @@
 ---
-title: "Next Generation Fixed Income"
-description: "Explore the transformative impact of algorithmic trading on fixed income markets with next-generation finance. Discover how innovation optimizes investment strategies."
+title: Next Generation Fixed Income Investments for Modern Portfolios
+description: Fixed income strategies deliver steady returns and diversify risk while
+  exploring private debt asset-backed securities and green bonds Discover more inside.
 ---
 
 

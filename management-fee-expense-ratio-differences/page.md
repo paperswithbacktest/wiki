@@ -1,6 +1,7 @@
 ---
-title: "Management Fee and Expense Ratio Differences"
-description: "Understand the differences between management fees and expense ratios in investment funds Learn how these costs impact returns and algorithmic trading strategies"
+title: Understanding Management Fees and Expense Ratios for Investors
+description: Management fees and expense ratios cut into investment returns. Calculate
+  compare and reduce these costs to boost portfolio results Discover more inside
 ---
 
 

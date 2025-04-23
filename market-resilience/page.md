@@ -1,6 +1,7 @@
 ---
-title: "Market resilience"
-description: "Enhance your understanding of how algorithmic trading impacts market resilience with strategies to manage risks and regulatory frameworks that ensure market stability."
+title: Building Market Resilience With Policy And Diversification
+description: Market resilience relies on diverse industries effective government policies
+  and adaptive technology to bounce back from shocks Discover more inside
 ---
 
 

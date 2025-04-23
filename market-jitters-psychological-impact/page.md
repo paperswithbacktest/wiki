@@ -1,6 +1,7 @@
 ---
-title: "Market Jitters: Overview and Psychological Impact"
-description: "Explore the psychological impact of market jitters on investor behavior and how algo trading offers strategies to manage financial anxiety and market dynamics."
+title: Understanding Market Jitters And Their Impact On Investments
+description: Market jitters trigger sharp price swings and influence investor behavior
+  with expert strategies to secure your portfolio Discover more inside
 ---
 
 

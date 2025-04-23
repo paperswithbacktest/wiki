@@ -1,6 +1,7 @@
 ---
-title: "Implications of Negative Alpha on Investment Strategies"
-description: "Understand the role of negative alpha in algorithmic trading Explore its influence on investment strategies and the potential use of negative alpha as a sell signal"
+title: Managing Negative Alpha to Improve Portfolio Performance
+description: Negative Alpha happens when investments trail market returns and erode
+  value Rebalance assets and shift to low fee options to restore growth Discover more
 ---
 
 

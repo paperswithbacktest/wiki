@@ -1,6 +1,7 @@
 ---
-title: "metaorders imbalance"
-description: "Explore how metaorder imbalances impact algorithmic trading strategies enhance market liquidity understanding and offer traders a competitive edge in financial markets"
+title: Understanding Metaorder Imbalance in Financial Markets
+description: Metaorder imbalance analysis helps traders manage big orders to minimize
+  market impact and secure better average prices. Discover more inside.
 ---
 
 

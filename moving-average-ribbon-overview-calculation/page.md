@@ -1,6 +1,7 @@
 ---
-title: "Moving Average Ribbon: Overview and Calculation"
-description: "Discover the moving average ribbon a technical analysis tool that aids traders in identifying market trends and optimizing algorithmic trading strategies."
+title: Understanding Moving Average Ribbon For Trend Analysis
+description: Moving Average Ribbon visualizes short and long term price trends with
+  averages on one chart to guide informed trading decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Moral Hazard and the 2008 Financial Crisis"
-description: "Explore the critical role of moral hazard and algorithmic trading in the 2008 financial crisis outlining their impact on global financial systems and risk management."
+title: Understanding Moral Hazard in the 2008 Financial Crisis
+description: Moral hazard drives banks to take bigger risks when they expect government
+  bailouts causing unstable markets and taxpayer burdens Discover more inside
 ---
 
 

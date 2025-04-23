@@ -1,6 +1,7 @@
 ---
-title: "Low Exercise Price Option: Overview, Advantages and Disadvantages"
-description: "Explore the strategic potential of Low Exercise Price Options (LEPOs) in algo trading offering leveraged exposure with minimal exercise price for savvy investors."
+title: Low Exercise Price Options LEPOs Explained for Investors
+description: LEPO trading offers low exercise price options for investors to access
+  stock movements with minimal capital and favorable tax benefits Discover more inside
 ---
 
 

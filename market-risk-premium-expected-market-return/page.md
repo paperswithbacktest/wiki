@@ -1,6 +1,7 @@
 ---
-title: "Market Risk Premium and Expected Market Return"
-description: "Explore the essential roles of market risk premium and expected market return in algorithmic trading to optimize strategies and manage financial risks effectively."
+title: Market Risk Premium Explained for Smarter Investment Decisions
+description: Market risk premium shows the extra return investors require for equity
+  risk and guides portfolio decisions with CAPM analysis. Discover more inside.
 ---
 
 

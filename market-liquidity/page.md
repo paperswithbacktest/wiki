@@ -1,6 +1,7 @@
 ---
-title: "Market liquidity"
-description: Market liquidity is essential for efficient trading, allowing assets to be quickly bought or sold without significant price changes. It impacts investment strategies, especially in algorithmic trading, which needs high liquidity for optimal performance. This article explores how liquidity affects trading speed, costs, and strategies, offering insights into its role in financial markets.
+title: Understanding Market Liquidity and Its Role in Financial Markets
+description: Market liquidity defines how easily investors buy or sell assets without
+  large price shifts This guide covers key measures and risks Discover more inside
 ---
 
 

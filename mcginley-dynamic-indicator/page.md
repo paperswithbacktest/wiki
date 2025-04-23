@@ -1,6 +1,7 @@
 ---
-title: "McGinley Dynamic Indicator"
-description: "Discover the McGinley Dynamic Indicator a cutting-edge tool in algorithmic trading that minimizes lag and adapts to market speed for accurate trend analysis."
+title: Understanding the McGinley Dynamic Indicator for Trend Analysis
+description: McGinley Dynamic Indicator adapts to market speed for clearer trend signals
+  and helps traders make informed entries and exits Discover more inside
 ---
 
 

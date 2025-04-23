@@ -1,6 +1,7 @@
 ---
-title: "Net Long: Concepts and Examples"
-description: "Explore net long positions and algorithmic trading in financial markets Discover how these strategies optimize returns with data-driven decisions and market insights"
+title: Understanding Net Long Positions in Trading Markets
+description: Net Long positions reveal how owning more assets than you sell can maximize
+  your profit potential in futures and forex trading Discover more inside.
 ---
 
 

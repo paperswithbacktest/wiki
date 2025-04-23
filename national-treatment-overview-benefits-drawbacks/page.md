@@ -1,6 +1,7 @@
 ---
-title: "National Treatment: Overview, Benefits, and Drawbacks"
-description: "Explore the intersection of national treatment and algorithmic trading in international trade policy unraveling their impact on global commerce and market competition."
+title: Understanding National Treatment in International Trade
+description: National Treatment ensures foreign goods face no extra taxes or restrictions
+  compared to domestic products boosting fair competition Discover more inside
 ---
 
 

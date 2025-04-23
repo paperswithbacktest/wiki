@@ -1,6 +1,7 @@
 ---
-title: "Mini Lot: Definition, Overview, and Alternatives"
-description: "Explore mini lot forex trading to manage risk with reduced financial exposure. Discover how mini lots balance risk and reward with algorithmic strategies."
+title: Understanding Mini Lots in Forex Trading for Beginners
+description: Mini lots reduce margin requirements and limit potential losses while
+  letting new traders build skills with smaller forex positions Discover more inside
 ---
 
 

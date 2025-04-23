@@ -1,6 +1,8 @@
 ---
-title: "Negative Directional Indicator: Function and Mechanics"
-description: "Explore the function and mechanics of the Negative Directional Indicator in algorithmic trading Discover how it identifies downtrends to enhance trading strategies"
+title: Understanding the Negative Directional Indicator in Trading
+description: Negative Directional Indicator tracks bearish pressure with smoothed
+  downward moves and pairing with DMI ADX for clearer trend signals Discover more
+  inside
 ---
 
 

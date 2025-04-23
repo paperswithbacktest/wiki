@@ -1,6 +1,7 @@
 ---
-title: "Margrabe's formula"
-description: "Explore Margrabe's formula a key tool in algo trading for pricing exchange options evaluating asset volatilities correlations and aiding decision-making in financial markets."
+title: Understanding Margrabe's Formula for Exchange Option Pricing
+description: Margrabe's formula values exchange options by factoring asset prices
+  volatility time to maturity and correlation ensuring accurate pricing Discover inside
 ---
 
 

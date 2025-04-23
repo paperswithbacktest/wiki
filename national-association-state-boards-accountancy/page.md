@@ -1,6 +1,8 @@
 ---
-title: "National Association of State Boards of Accountancy"
-description: "Explore the evolving role of NASBA in regulating accountancy amid the rise of algorithmic trading Discover how state boards uphold standards in a tech-driven era"
+title: National Association of State Boards of Accountancy Overview
+description: National Association of State Boards of Accountancy defines CPA standards
+  exam management and ongoing education to ensure qualified ethical accountants Discover
+  more inside
 ---
 
 

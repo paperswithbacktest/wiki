@@ -1,6 +1,7 @@
 ---
-title: "National Stock Exchange of India: Overview and Functionality"
-description: "Explore the National Stock Exchange of India's pivotal role in revolutionizing trading with algo trading technology enhancing efficiency and transparency."
+title: National Stock Exchange of India Explained for Investors
+description: National Stock Exchange of India offers a secure technology-driven platform
+  with insights on indices trading and regulations Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Loan Credit Default Swap Index"
-description: "Explore the Loan Credit Default Swap Index's role in managing credit risk with insights into algorithmic trading. Essential for informed financial decisions."
+title: Understanding Loan Credit Default Swap Index Risk Management
+description: Loan Credit Default Swap Index helps banks and investors protect against
+  loan defaults by spreading credit risk across a portfolio Discover more inside.
 ---
 
 

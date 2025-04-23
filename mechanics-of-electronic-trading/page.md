@@ -1,6 +1,7 @@
 ---
-title: "Mechanics of Electronic Trading"
-description: "Explore the evolution and mechanics of electronic trading. Learn how algorithmic strategies enhance market efficiency and democratize access in financial markets."
+title: Understanding Electronic Trading Systems and Market Dynamics
+description: Electronic trading delivers real-time market access, lower fees, and
+  advanced risk tools to boost efficiency and control Discover more inside
 ---
 
 

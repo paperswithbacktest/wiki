@@ -1,6 +1,7 @@
 ---
-title: "Negative Interest Rate Policy: Applications and Examples"
-description: "Explore the implications of Negative Interest Rate Policy (NIRP) and how algorithmic trading can adapt to these economic shifts Learn strategies to navigate NIRP dynamics"
+title: Understanding Negative Interest Rate Policy For Economic Growth
+description: Negative interest rate policy charges banks to encourage lending and
+  stimulate growth while evaluating effects on savers Discover more inside
 ---
 
 

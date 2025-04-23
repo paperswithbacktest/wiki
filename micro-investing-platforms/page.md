@@ -1,6 +1,7 @@
 ---
-title: "Micro-Investing Platforms"
-description: "Discover how micro-investing platforms and algorithmic trading are revolutionizing finance enabling seamless, automated investing for all skill levels."
+title: "Understanding Micro\u2011Investing and Its Wealth Building Benefits"
+description: Micro-investing platforms automate investing spare change to build wealth
+  with low barriers to entry easy setup and expert guidance Discover more inside
 ---
 
 

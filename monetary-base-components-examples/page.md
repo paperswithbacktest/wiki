@@ -1,6 +1,7 @@
 ---
-title: "Monetary Base Components and Examples"
-description: "Explore the evolving dynamics of the monetary base and algorithmic trading uncovering how central banks influence currency supply while algorithms reshape trading paradigms."
+title: Monetary Base Fundamentals And Central Bank Policy Tools
+description: The monetary base underpins the money supply while central banks control
+  reserves and circulation for economic stability Discover more inside.
 ---
 
 

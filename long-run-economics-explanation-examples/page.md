@@ -1,6 +1,7 @@
 ---
-title: "Long Run in Economics: Explanation and Examples"
-description: "Explore how long-run economic principles intersect with algorithmic trading to enhance decision-making through cost analysis, market dynamics, and technology."
+title: Comprehensive Guide to the Long Run in Economic Theory
+description: Long run in economics shows how firms adjust production, scale operations
+  and cut costs over time to maintain market balance Discover more inside
 ---
 
 

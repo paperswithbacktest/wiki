@@ -1,6 +1,7 @@
 ---
-title: "Microstructure noise modeling"
-description: "Explore market microstructure noise in algorithmic trading uncovering its sources like transaction costs and strategies for refining robust trading methods."
+title: Understanding Microstructure Noise in Financial Markets
+description: Microstructure noise can obscure true asset values and distort trading
+  with random price swings. Explore models to manage noise Discover more inside
 ---
 
 

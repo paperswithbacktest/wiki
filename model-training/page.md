@@ -1,6 +1,7 @@
 ---
-title: "Model Training (Machine Learning)"
-description: "Learn the fundamentals of model training in machine learning including data preparation splitting data into training and testing sets and optimizing performance"
+title: Effective Model Training Techniques for Machine Learning
+description: Model training guides algorithms to learn data patterns through split
+  training testing and tuning to improve predictive accuracy Discover more inside.
 ---
 
 ![Image](images/1.png)

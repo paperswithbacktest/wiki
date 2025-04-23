@@ -1,6 +1,7 @@
 ---
-title: "Neural Network"
-description: Discover the future of algorithmic trading as we deep dive into the revolutionary role of neural networks. Neural networks, modeled after the human brain, process vast financial data sets to detect trends, anticipate market movements, and optimize trading strategies. Learn about their concrete applications, challenges, and the promising integration with other AI technologies.
+title: Guide To Neural Network Fundamentals And Applications
+description: Neural network fundamentals cover key concepts neurons layers training
+  methods and architectures with tips on avoiding overfitting Discover more inside
 ---
 
 

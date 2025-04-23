@@ -1,6 +1,7 @@
 ---
-title: "Mobile Trading: Overview and Examples"
-description: "Explore the transformative world of mobile and algorithmic trading where digital platforms and trading apps offer efficiency flexibility and market access on-the-go"
+title: Essential Guide to Mobile Trading Apps and Strategies
+description: Mobile trading apps provide real time market data risk management tools
+  and secure two factor authentication so you can trade smarter Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mathematical Economics: Applications and Criticisms"
-description: "Explore the synergy between economic modeling, mathematical economics, economic theory, and algorithmic trading crucial for modern economic analysis and financial market decisions. Understand how mathematical tools transform theories into testable models, providing insights into market dynamics and policy decisions. Discover how algorithmic trading leverages these models to optimize returns and manage risks, highlighting the significance of these integrated disciplines for strategic planning and economic forecasting."
+title: Understanding Mathematical Economics Models and Applications
+description: Mathematical economics uses equations and models to offer precise insights
+  into market dynamics policy impacts and forecasting Discover more inside.
 ---
 
 

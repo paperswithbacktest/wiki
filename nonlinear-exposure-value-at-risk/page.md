@@ -1,6 +1,7 @@
 ---
-title: "Nonlinear Exposure in Value at Risk"
-description: "Explore nonlinear exposure in algorithmic trading using Value at Risk for effective risk management Enhance strategies with advanced methods like Monte Carlo simulation"
+title: Managing Value at Risk and Nonlinear Exposure in Portfolios
+description: Value at Risk uses Monte Carlo simulations delta normal models and stress
+  testing to quantify nonlinear portfolio exposures in risk management Discover more
 ---
 
 

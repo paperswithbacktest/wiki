@@ -1,6 +1,7 @@
 ---
-title: "Mid-Cap Value Stocks: Overview and Examples"
-description: "Discover the potential of mid-cap value stocks with this insightful overview combining growth and stability. Learn how value investing and algo trading maximize returns."
+title: Mid-Cap Value Stocks Guide For Balanced Growth And Stability
+description: Mid-Cap value stocks offer balanced growth and stability in mid-cap markets
+  using key ratios to spot undervaluation and manage risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mental Accounting and Cognitive Bias"
-description: "Explore how cognitive biases like mental accounting affect algorithmic trading decisions by skewing perceptions and strategies Learn to mitigate their impact"
+title: Understanding Mental Accounting and Cognitive Bias in Finance
+description: Mental accounting makes us assign money to mental buckets for bills savings
+  or fun, driving spending saving and debt choices Discover more inside
 ---
 
 

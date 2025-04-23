@@ -1,6 +1,7 @@
 ---
-title: "Major Risks for International Investors"
-description: "Explore key international investment risks and discover how algorithmic trading helps mitigate issues like currency volatility and political instability."
+title: Understanding International Investment Risks for Investors
+description: International investment risks cover currency political economic and
+  liquidity factors that affect returns Manage risks to protect assets Discover more
 ---
 
 

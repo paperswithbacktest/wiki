@@ -1,6 +1,7 @@
 ---
-title: "Metrics Api (Tf.Metrics) (Machine Learning)"
-description: "Discover how TensorFlow's Metrics API enhances your machine learning projects by providing easy-to-use tools for evaluating model performance and implementing custom metrics."
+title: Understanding TensorFlow Metrics API for Model Evaluation
+description: TensorFlow Metrics API lets you track and analyze model performance with
+  built in and custom metrics in real time and optimize models Discover more inside
 ---
 
 ![Image](images/1.jpeg)

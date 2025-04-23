@@ -1,6 +1,8 @@
 ---
-title: "Naked Put Options"
-description: "Discover the key aspects of naked put options in algo trading from benefits to risks as seasoned traders sell puts without owning underlying assets for premiums."
+title: 'Exploring Naked Put Options: Risks Rewards and Strategies'
+description: Naked put options guide explains how to sell puts without owning stock
+  outlines risks rewards margin needs and strategic tips for advanced traders Discover
+  more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Ludwig Von Mises: Biography and Economic Theories"
-description: "Explore how Ludwig von Mises's Austrian economic theories intersect with modern algorithmic trading offering insights into free market efficiencies and trading strategies."
+title: Ludwig von Mises And The Rise Of Austrian Free Market Economics
+description: Ludwig von Mises shaped Austrian School economics with human action theory
+  free market insights and critiques of central planning Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mini-Batch (Machine Learning)"
-description: "Discover the concept of mini-batch in machine learning and how it enhances model training by balancing speed and accuracy during the learning process."
+title: Understanding Mini-Batch Gradient Descent for Neural Networks
+description: Mini-Batch Gradient Descent speeds up training and stabilizes updates
+  using small data subsets for better generalization Discover more inside.
 ---
 
 ![Image](images/1.png)

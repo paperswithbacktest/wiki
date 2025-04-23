@@ -1,6 +1,7 @@
 ---
-title: "Naive Diversification and Investment Optimization"
-description: "Explore naive diversification and investment optimization in portfolio management Learn how strategy simplicity and algorithmic trading optimize returns and manage risks."
+title: Optimized Diversification Techniques for Investment Portfolios
+description: Optimized diversification uses portfolio theory to balance risk and return
+  while reducing naive diversification pitfalls Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Matrix Factorization (Machine Learning)"
-description: "Explore Matrix Factorization in machine learning to uncover hidden patterns and enhance recommendation systems through techniques like SVD and NMF."
+title: Matrix Factorization Techniques for Effective ML Recommendations
+description: Matrix Factorization boosts recommendation accuracy by revealing hidden
+  user item patterns with SVD NMF and gradient descent Discover more inside
 ---
 
 ![Image](images/1.jpeg)

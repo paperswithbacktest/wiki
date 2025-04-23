@@ -1,6 +1,7 @@
 ---
-title: "Methods for Enhancing Investment Performance"
-description: "Explore diverse investment strategies and algorithmic trading to optimize financial performance. Learn actionable tips for better investment outcomes and risk management."
+title: Comprehensive Guide to Investment Strategies and Principles
+description: Investment strategies guide you from basic principles diversification
+  and asset allocation to advanced techniques for sustained growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Local vs. Global Models"
-description: "Explore the differences between local and global models in algorithmic trading Discover how each model can optimize your trading strategies and decisions"
+title: Comparing Local and Global AI Models for Privacy and Performance
+description: Understand local and global AI models key trade offs in privacy speed
+  reliability and intelligence then choose the ideal solution Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Markit Group"
-description: "Discover how Markit Group revolutionizes algorithmic trading through high-quality data solutions and analytics, enhancing precision and efficiency in financial markets."
+title: Markit Group Financial Services Overview and Key Insights
+description: Markit Group delivers financial data risk management and credit insights
+  empowering banks and businesses to make informed decisions Discover more inside
 ---
 
 

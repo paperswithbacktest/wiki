@@ -1,6 +1,7 @@
 ---
-title: "Major Holdings in Warren Buffett's Investment Portfolio"
-description: "Discover Warren Buffett's major stock holdings in Berkshire Hathaway's diverse portfolio. Learn about value investing principles and the role of algo trading."
+title: Warren Buffett Portfolio And Value Investing Philosophy
+description: Warren Buffett portfolio reveals value investing focused top holdings
+  in companies with strong economic moats for long term growth Discover more inside
 ---
 
 

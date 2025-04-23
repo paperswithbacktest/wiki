@@ -1,6 +1,7 @@
 ---
-title: "Municipal Inflation-Linked Securities"
-description: "Explore the synergy of municipal inflation-linked securities and algorithmic trading to enhance portfolio resilience and optimize trades in uncertain markets."
+title: "Municipal Inflation\u2011Linked Securities as an Inflation Hedge"
+description: Municipal inflation-linked securities protect from rising prices by adjusting
+  payments with inflation for steady returns Discover more inside
 ---
 
 

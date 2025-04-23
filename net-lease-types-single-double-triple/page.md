@@ -1,6 +1,7 @@
 ---
-title: "Net Lease Types: Single, Double, Triple"
-description: "Explore single, double, and triple net leases in real estate, along with algorithmic trading's impact on investment strategies, efficiency, and risk management."
+title: Guide to Net Lease Types Single Double and Triple Net Leases
+description: Net Lease agreements clarify cost responsibilities in single double and
+  triple net leases and offer negotiation and valuation insights Discover more inside
 ---
 
 

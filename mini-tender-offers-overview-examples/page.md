@@ -1,6 +1,7 @@
 ---
-title: "Mini-Tender Offers: Overview and Examples"
-description: "Explore the intricacies of mini-tender offers and algorithmic trading in modern finance. Understand their strategies, benefits, risks, and investor impact."
+title: Mini-Tender Offers Explained Benefits Risks And Strategies
+description: Mini-tender offer insights show how these small share purchase bids differ
+  from regular tenders and outline key risks and benefits Discover more inside
 ---
 
 

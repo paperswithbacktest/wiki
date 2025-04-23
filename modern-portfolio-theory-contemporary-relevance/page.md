@@ -1,6 +1,7 @@
 ---
-title: "Modern Portfolio Theory: Contemporary Relevance"
-description: "Explore Modern Portfolio Theory and its synergy with algorithmic trading in today's investment strategies Learn how these concepts drive data-driven financial innovation"
+title: Modern Portfolio Theory Explained Insights for Risk and Return
+description: Modern Portfolio Theory empowers investors to optimize risk and return
+  through diversified portfolios and efficient frontier analysis Discover more inside.
 ---
 
 

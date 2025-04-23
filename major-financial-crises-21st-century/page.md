@@ -1,6 +1,7 @@
 ---
-title: "Major Financial Crises of the 21st Century"
-description: "Explore how major 21st-century financial crises and the rise of algorithmic trading have reshaped global markets highlighting their impact on volatility and systemic risks."
+title: Key Financial Crises in Modern History and Their Impact
+description: Financial crises shape economies with debt shocks Explore causes effects
+  and prevention from the Dot-com Bubble to the 2008 crash Discover more inside
 ---
 
 

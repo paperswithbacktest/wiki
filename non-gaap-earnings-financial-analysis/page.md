@@ -1,6 +1,7 @@
 ---
-title: "Non-GAAP Earnings and Their Role in Financial Analysis"
-description: "Explore the pivotal role of Non-GAAP earnings in financial analysis and algorithmic trading. Understand how these metrics impact investment decisions with transparency and precision."
+title: Non-GAAP Earnings Explained Impact on Company Performance
+description: Non-GAAP earnings offer a clearer view of companies ongoing performance
+  by excluding one-time costs and stock compensation Discover more inside.
 ---
 
 

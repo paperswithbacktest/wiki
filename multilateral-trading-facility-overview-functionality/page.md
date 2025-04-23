@@ -1,6 +1,7 @@
 ---
-title: "Multilateral Trading Facility: Overview and Functionality"
-description: "Discover the advantages and functionalities of Multilateral Trading Facilities and how they offer enhanced liquidity and diverse trading opportunities in the financial market."
+title: Understanding Multilateral Trading Facilities and Regulations
+description: Multilateral Trading Facilities offer flexible, cost efficient trading
+  of stocks, bonds and derivatives across global time zones Discover more inside.
 ---
 
 

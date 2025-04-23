@@ -1,6 +1,7 @@
 ---
-title: "Magic Formula Investing"
-description: "Discover how the Magic Formula, a stock-picking strategy by Joel Greenblatt, integrates with algorithmic trading to enhance investment outcomes in today's market."
+title: Magic Formula Investing Guide for Value-Focused Stock Selection
+description: Magic Formula Investing ranks stocks by earnings yield and return on
+  capital to spot undervalued stocks with annual rebalancing, discover more inside.
 ---
 
 

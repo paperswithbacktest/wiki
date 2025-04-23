@@ -1,6 +1,7 @@
 ---
-title: "Moving average"
-description: Discover how moving averages, essential statistical tools in algorithmic trading, help traders analyze and smooth out price data to identify market trends. Learn about different types, including Simple, Cumulative, and Weighted Moving Averages, and their unique roles in reducing short-term noise, highlighting longer-term trends, and guiding strategic trading decisions.
+title: Moving Averages Explained For Financial Trend Analysis
+description: Moving averages smooth out data fluctuations to reveal clear trends in
+  markets and beyond for smarter decision making across sectors Discover more inside
 ---
 
 

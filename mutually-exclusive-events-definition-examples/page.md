@@ -1,6 +1,7 @@
 ---
-title: "Mutually Exclusive Events: Definition and Examples"
-description: "Discover how understanding mutually exclusive events enhances algorithmic trading strategies Learn about their significance in managing risks and optimizing decisions"
+title: Understanding Mutually Exclusive Events in Probability
+description: Mutually Exclusive Events clarify how to add probabilities without overlap
+  Explore examples and improve your probability skills Discover more inside
 ---
 
 

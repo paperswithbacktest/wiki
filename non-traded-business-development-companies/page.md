@@ -1,6 +1,7 @@
 ---
-title: "Non-Traded Business Development Companies"
-description: "Explore the benefits and challenges of investing in non-traded BDCs and the transformative role of algorithmic trading in optimizing returns and managing risks."
+title: Understanding Non-Traded Business Development Companies
+description: Non-Traded BDCs deliver high dividend income and diversification through
+  small business lending while balancing liquidity risk Discover more inside
 ---
 
 

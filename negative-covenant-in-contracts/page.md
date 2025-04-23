@@ -1,6 +1,7 @@
 ---
-title: "Negative Covenant in Contracts"
-description: "Explore the role of negative covenants in contracts, crucial for risk management and stability, especially in algorithmic trading and corporate finance sectors."
+title: Negative Covenants in Contracts for Protecting Business Interests
+description: Negative covenants in contracts define what parties cannot do to safeguard
+  interests, ensure compliance and uphold trust. Discover more inside.
 ---
 
 

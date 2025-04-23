@@ -1,6 +1,7 @@
 ---
-title: "Nominal Rate of Return"
-description: "Explore the significance of nominal rate of return in investment strategies alongside algorithmic trading. Learn how these concepts influence profitability and decision-making."
+title: Understanding Nominal Rate Of Return For Investment Growth
+description: Nominal Rate Of Return shows raw investment growth before accounting
+  for inflation and taxes and helps investors gauge performance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mark-to-Model Valuation"
-description: "Explore the integration of mark-to-model valuation with algorithmic trading in today's financial markets Understand the synergy for effective asset management"
+title: Understanding Mark-To-Model Valuation Methods in Finance
+description: Mark-To-Model Valuation uses models and scenarios to estimate complex
+  asset values when market data is scarce and highlights key risks Discover more inside
 ---
 
 

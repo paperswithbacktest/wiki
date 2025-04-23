@@ -1,6 +1,7 @@
 ---
-title: "Multi-Class Logistic Regression (Machine Learning)"
-description: "Explore the essentials of multi-class logistic regression how it predicts categories with the softmax function and differs from binary logistic regression."
+title: Multi-Class Logistic Regression for Precise Classification
+description: Multi-Class Logistic Regression applies the softmax function to assign
+  accurate class probabilities and streamline predictions Discover more inside
 ---
 
 ![Image](images/1.jpeg)

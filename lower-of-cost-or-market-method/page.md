@@ -1,6 +1,7 @@
 ---
-title: "Lower of Cost or Market Method"
-description: "Explore the foundational Lower of Cost or Market (LCM) method in inventory valuation and its impact on algorithmic trading strategies within financial reporting."
+title: Understanding the Lower of Cost or Market Inventory Method
+description: Lower of Cost or Market method prevents inventory overvaluation by using
+  the lower cost or market value and promotes transparency. Discover more inside
 ---
 
 

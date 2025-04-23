@@ -1,6 +1,7 @@
 ---
-title: "Market Failure in Economics: Types and Causes"
-description: "Discover how market failures disrupt economic efficiency due to public goods, externalities, and information asymmetries, and the dual role of algo trading."
+title: Market Failure Explained Causes Types and Policy Responses
+description: Market failure occurs when prices omit social costs causing inefficient
+  markets Governments intervene to restore balance Discover more inside.
 ---
 
 

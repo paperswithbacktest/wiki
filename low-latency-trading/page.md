@@ -1,6 +1,7 @@
 ---
-title: "Low-Latency Trading"
-description: "Discover the advantages of low-latency algorithmic trading and learn how cutting-edge technology reduces execution time for a competitive edge in fast markets."
+title: "Comprehensive Guide to Low\u2011Latency Trading Systems and Technology"
+description: Low latency trading uses high speed infrastructure to process orders
+  in milliseconds capture price differences and boost efficiency Discover more inside.
 ---
 
 

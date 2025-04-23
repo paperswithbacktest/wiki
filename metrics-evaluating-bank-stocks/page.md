@@ -1,6 +1,7 @@
 ---
-title: "Metrics for Evaluating Bank Stocks"
-description: "Explore key metrics to evaluate bank stocks and enhance algorithmic trading strategies. Gain insights to make informed decisions in financial markets."
+title: Essential Financial Metrics for Evaluating Bank Stocks
+description: Bank stocks evaluation uses key metrics like P/E P/B ROA ROE NIM and
+  loan loss provisions to assess performance and risk Discover more inside.
 ---
 
 

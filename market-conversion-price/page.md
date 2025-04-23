@@ -1,6 +1,7 @@
 ---
-title: "Market Conversion Price"
-description: "Explore the critical components of algorithmic trading and market conversion price with insights into stock conversion practices and essential financial terms."
+title: Understanding Market Conversion Price in Convertible Securities
+description: Market Conversion Price helps investors compare costs against stock values
+  and choose optimal conversion timing for better returns Discover more inside
 ---
 
 

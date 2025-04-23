@@ -1,6 +1,7 @@
 ---
-title: "Long Leg: Meaning and Function with Examples"
-description: "Explore the role of the long leg in algo trading, focusing on its use in options strategies to optimize returns and manage risks amid market volatility."
+title: Biological Functions and Evolutionary Benefits of Long Legs
+description: Long legs boost running speed jumping ability reach and survival through
+  biomechanics genetics and environmental adaptation Discover more inside.
 ---
 
 

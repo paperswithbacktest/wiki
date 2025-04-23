@@ -1,6 +1,7 @@
 ---
-title: "Micro Accounting: Overview and Mechanisms"
-description: "Explore the roles and benefits of accounting methods in micro accounting and algorithmic trading Discover how they enhance financial management and compliance"
+title: Mastering Micro Accounting for Small Business Financial Clarity
+description: Micro accounting helps small businesses record every penny in detail
+  to spot cost leaks boost efficiency and make informed decisions Discover more inside
 ---
 
 

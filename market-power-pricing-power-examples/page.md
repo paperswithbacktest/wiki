@@ -1,6 +1,7 @@
 ---
-title: "Market Power and Pricing Power: Explanation and Examples"
-description: "Discover how market power, pricing power, and algorithmic trading impact financial markets and shape investment strategies in today's economy."
+title: Market Power and Pricing Power Explained for Business Strategy
+description: Market power defines how firms control prices and pricing power shows
+  how they keep customers loyal while boosting profits. Discover more inside.
 ---
 
 

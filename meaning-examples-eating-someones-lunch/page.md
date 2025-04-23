@@ -1,6 +1,7 @@
 ---
-title: "Meaning and Examples of 'Eating Someone's Lunch'"
-description: "Discover the meaning of "eating someone's lunch" in algorithmic trading and learn how businesses use advanced strategies to gain a competitive edge."
+title: Eating Someone's Lunch Definition and Business Strategies
+description: Eating Someone's Lunch reveals how rivals can capture your market share
+  and offers actionable steps to safeguard your business. Discover more inside.
 ---
 
 

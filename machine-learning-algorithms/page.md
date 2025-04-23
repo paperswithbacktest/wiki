@@ -1,6 +1,7 @@
 ---
-title: "Machine learning algorithms for beginners"
-description: Discover the essential machine learning algorithms for beginners, including Linear Regression and Logistic Regression. Understand their applications, importance, and how they form the foundation for more complex algorithms in this evolving field. Master these basics to unlock the potential of artificial intelligence and data-driven problem solving.
+title: Essential Machine Learning Algorithms for Beginners
+description: Machine Learning Algorithms give beginners a clear overview of key models
+  from regression to neural networks with practical examples Discover more inside.
 ---
 
 

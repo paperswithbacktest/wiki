@@ -1,6 +1,7 @@
 ---
-title: "Loan Credit Default Swap: Overview and Mechanism"
-description: "Discover the dynamics of Loan Credit Default Swaps (LCDS) in algo trading their impact on credit risk management and how they enhance market efficiency."
+title: Guide to Loan Credit Default Swaps and Risk Management
+description: Loan Credit Default Swap protection helps banks manage lending risk and
+  support economic growth by spreading risk to investors. Discover more inside.
 ---
 
 

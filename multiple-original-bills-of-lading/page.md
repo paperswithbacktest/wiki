@@ -1,6 +1,7 @@
 ---
-title: "Multiple Original Bills of Lading"
-description: "Explore the importance of bills of lading in global shipping and the growing impact of algorithmic trading on logistics and finance in this detailed guide."
+title: Understanding Multiple Original Bills of Lading in Shipping
+description: Multiple Original Bills of Lading ensure each party in international
+  shipping has an original document to track and transfer goods. Discover more inside.
 ---
 
 

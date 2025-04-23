@@ -1,6 +1,7 @@
 ---
-title: "ML (Machine Learning)"
-description: "Discover the power of Machine Learning where computers learn from data to solve complex problems quickly and enhance efficiency across various industries."
+title: Understanding Machine Learning Fundamentals and Key Techniques
+description: Machine Learning enables computers to learn from data to solve complex
+  tasks accurately and efficiently with real-world applications Discover more inside.
 ---
 
 ![Image](images/1.png)

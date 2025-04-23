@@ -1,6 +1,7 @@
 ---
-title: "MarketsWiki Daily Highlight"
-description: "Explore the dynamic world of financial markets with MarketsWiki's insights into algorithmic trading. Gain vital knowledge on trends, efficiency, and market innovations."
+title: MarketsWiki Daily Highlight Newsletter Overview and Insights
+description: MarketsWiki Daily Highlight delivers market news with a main story and
+  updates on stocks bonds and crypto for key insights Discover more inside
 ---
 
 

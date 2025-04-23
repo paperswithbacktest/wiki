@@ -1,6 +1,7 @@
 ---
-title: "multi-agent trading systems"
-description: "Explore multi-agent trading systems and how they leverage AI to optimize algorithmic trading strategies achieving superior results through role specialization."
+title: Optimizing Financial Markets with Multi-Agent Trading Systems
+description: Multi-agent trading systems use agents to analyze market data, share
+  insights, and execute trades faster while reducing risk Discover more inside
 ---
 
 

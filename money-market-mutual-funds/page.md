@@ -1,6 +1,7 @@
 ---
-title: "Money Market Mutual Funds"
-description: "Explore how money market funds, mutual funds, and algorithmic trading can enhance investment strategies for optimal portfolio performance and financial goals."
+title: Understanding Money Market Mutual Funds For Short Term Stability
+description: Money market mutual funds offer low risk access to short term securities
+  with yields above savings accounts while retaining liquidity Discover more inside
 ---
 
 

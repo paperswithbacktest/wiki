@@ -1,6 +1,7 @@
 ---
-title: "MCSI Barra"
-description: Enhance your trading strategies with MSCI Barra, a leading analytics platform in algorithmic trading. This tool aids traders and investors by offering sophisticated risk management and portfolio optimization insights. Discover how MSCI Barra integrates into trading systems, improving performance and helping market participants navigate complexities with precision. Whether you're an expert or new to trading, this page provides invaluable insights into leveraging MSCI Barra for a competitive edge in dynamic financial environments.
+title: MSCI Barra Indexes and Risk Management Tools Explained
+description: MSCI Barra provides indexes and risk analytics with robust insights help
+  investors assess market trends and manage portfolio risks Discover more inside
 ---
 
 

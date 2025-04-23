@@ -1,6 +1,7 @@
 ---
-title: "Loss aversion"
-description: Explore the impact of loss aversion on algorithmic trading and discover strategies to mitigate its effects. Learn how this psychological bias influences trading decisions by prioritizing risk avoidance over potential gains leading to suboptimal performance and increased market volatility. Gain insights into programming considerations and strategies to help traders overcome the challenges posed by loss aversion enhancing decision-making and financial outcomes in the fast-paced realm of algorithmic trading.
+title: Understanding Loss Aversion and Its Impact on Decision Making
+description: Loss aversion drives choices by making losses feel heavier than gains
+  leading to cautious moves in shopping, investing and finance. Discover more inside.
 ---
 
 

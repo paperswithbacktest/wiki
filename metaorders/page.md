@@ -1,6 +1,7 @@
 ---
-title: "Metaorders"
-description: "Discover how metaorders optimize algorithmic trading by reducing market impact and transaction costs Master this strategy to enhance market stability and efficiency"
+title: Metaorder Execution Techniques for Improved Trading Efficiency
+description: Metaorders help traders break large orders into smaller trades to minimize
+  market impact and improve execution using VWAP TWAP Discover more inside
 ---
 
 

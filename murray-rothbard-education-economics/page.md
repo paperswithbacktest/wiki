@@ -1,6 +1,7 @@
 ---
-title: "Murray Rothbard on Education and Economics"
-description: "Explore Murray Rothbard's impact on education economics and algorithmic trading Learn how his libertarian views shape modern discussions on market dynamics and freedoms"
+title: Murray Rothbard Free Market Education and Economic Freedom
+description: Murray Rothbard free market education champions competition and governance
+  to enhance independent thinking and quality learning Discover more inside
 ---
 
 

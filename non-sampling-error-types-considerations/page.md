@@ -1,6 +1,7 @@
 ---
-title: "Non-Sampling Error: Types and Considerations"
-description: "Explore the impact of non-sampling errors in data collection affecting algorithmic trading and financial decisions. Learn to mitigate errors for accurate analysis."
+title: Reducing Non-Sampling Errors for Accurate Survey Data
+description: Non-sampling errors affect survey accuracy we offer proven methods to
+  detect and correct common data mistakes and improve results Discover more inside
 ---
 
 

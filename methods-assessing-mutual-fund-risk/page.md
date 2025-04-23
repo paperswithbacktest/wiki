@@ -1,6 +1,7 @@
 ---
-title: "Methods for Assessing Mutual Fund Risk"
-description: "Explore methods to assess mutual fund risks with algorithmic trading to optimize returns and minimize losses through advanced financial analysis and prediction tools."
+title: Mutual Fund Risk Assessment With Key Metrics And Models
+description: Mutual fund risk metrics like standard deviation beta Sharpe ratio and
+  stress testing help you choose investments matching your goals Discover more inside
 ---
 
 

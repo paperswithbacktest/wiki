@@ -1,6 +1,7 @@
 ---
-title: "Maldivian Rufiyaa"
-description: "Explore the unique trading opportunities with the Maldivian Rufiyaa using algorithmic trading strategies to navigate market volatility influenced by tourism dynamics."
+title: Understanding the Maldivian Rufiyaa Currency and Its Management
+description: Maldivian Rufiyaa currency overview explores history, exchange rate drivers,
+  denominations and central bank management insights Discover more inside.
 ---
 
 

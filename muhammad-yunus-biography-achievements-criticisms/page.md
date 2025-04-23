@@ -1,6 +1,7 @@
 ---
-title: "Muhammad Yunus: Biography, Achievements, Criticisms"
-description: "Explore the life and impact of Muhammad Yunus, the pioneer of microfinance, his achievements with Grameen Bank, and his vision for global poverty alleviation."
+title: Muhammad Yunus And The Rise Of Microfinance And Social Business
+description: Muhammad Yunus pioneered microfinance with Grameen Bank to empower millions
+  out of poverty giving small loans that drive social change Discover more inside
 ---
 
 

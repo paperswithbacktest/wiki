@@ -1,6 +1,7 @@
 ---
-title: "Mortgage Cash Flow Obligation: Overview, Risks, and Structure"
-description: "Explore the dynamics of mortgage cash flow obligations and their impact on financial strategy. Learn about risks, structures, and the role of algorithmic trading."
+title: Understanding Mortgage Cash Flow Obligations for Investors
+description: Mortgage Cash Flow Obligations help investors access diversified mortgage
+  payments for steady income and risk management Discover more inside.
 ---
 
 

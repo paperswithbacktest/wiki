@@ -1,6 +1,7 @@
 ---
-title: "Modern Portfolio Theory and Its Application by Investors"
-description: "Discover how integrating Modern Portfolio Theory with algorithmic trading empowers investors to optimize portfolios, balancing risk and return in real-time."
+title: Modern Portfolio Theory For Optimal Risk And Return Management
+description: Modern Portfolio Theory shows how diversifying assets with the efficient
+  frontier balances risk and return for informed investing Discover more inside
 ---
 
 

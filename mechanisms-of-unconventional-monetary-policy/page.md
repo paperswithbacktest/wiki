@@ -1,6 +1,7 @@
 ---
-title: "Mechanisms of Unconventional Monetary Policy"
-description: "Explore the synergy between unconventional monetary policy and algorithmic trading in shaping financial markets and economic stability."
+title: Unconventional Monetary Policy Tools And Economic Impacts
+description: Unconventional monetary policy explains how central banks deploy QE and
+  negative rates to spur growth and stabilize inflation Discover more inside.
 ---
 
 

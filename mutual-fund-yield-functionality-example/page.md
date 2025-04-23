@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Yield: Definition and Functionality with Example"
-description: "Discover the functionality of mutual fund yields and algorithmic trading techniques Explore how they contribute to a balanced and profitable investment strategy"
+title: Mutual Fund Yield Comprehensive Guide For Income Investors
+description: Mutual fund yield shows the income from interest and dividends relative
+  to share price giving investors insight into reliable returns Discover more inside
 ---
 
 

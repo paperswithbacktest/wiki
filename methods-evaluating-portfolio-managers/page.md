@@ -1,6 +1,7 @@
 ---
-title: "Methods for Evaluating Portfolio Managers"
-description: "Explore the evolving dynamics of evaluating portfolio managers in algo trading. Discover strategies to optimize performance through innovation and technology."
+title: Key Metrics for Evaluating Portfolio Manager Performance
+description: Portfolio manager evaluation uses metrics like Sharpe ratio alpha and
+  Sortino ratio to measure risk adjusted returns and consistency Discover more inside.
 ---
 
 

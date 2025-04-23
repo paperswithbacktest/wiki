@@ -1,6 +1,7 @@
 ---
-title: "NinjaTrader Platform Review"
-description: "Explore NinjaTrader a versatile trading platform known for powerful algo trading tools and a C#-based scripting environment for creating custom strategies."
+title: NinjaTrader Trading Platform Guide For Charting And Automation
+description: NinjaTrader empowers traders with advanced charting automation and backtesting
+  tools to optimize trades and improve performance. Discover more inside
 ---
 
 

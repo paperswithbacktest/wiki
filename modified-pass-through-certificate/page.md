@@ -1,6 +1,7 @@
 ---
-title: "Modified Pass-Through Certificate"
-description: "Explore the intersection of modified pass-through certificates and algorithmic trading to enhance investment strategies and manage financial risks effectively."
+title: Comprehensive Guide to Modified Pass-Through Certificates
+description: Modified Pass-Through Certificate investing demystified in this clear
+  guide covering features risks issuers and tax implications Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Major Traded Currencies"
-description: "Discover key traded currencies in Forex and the impact of algo trading Explore currency dynamics market mechanics and future trading trends"
+title: Understanding Major Traded Currencies in the Forex Market
+description: Major traded currencies drive global finance and trade with high liquidity
+  and policy impacts and influence market movements. Discover more inside.
 ---
 
 

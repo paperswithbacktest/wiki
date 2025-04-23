@@ -1,6 +1,7 @@
 ---
-title: "National Insurance Contributions Overview"
-description: "Explore the impact of National Insurance Contributions on algorithmic trading. Discover how fiscal policies like NICs influence financial markets and trading strategies."
+title: Comprehensive Guide to National Insurance Contributions in the UK
+description: National Insurance Contributions fund state benefits and shape pension
+  eligibility. See how NIC classes rates and refunds work. Discover more inside.
 ---
 
 

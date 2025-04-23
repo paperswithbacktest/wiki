@@ -1,6 +1,7 @@
 ---
-title: "Narrow-Based Weighted Average"
-description: "Explore the impact of narrow-based weighted averages in algorithmic trading for safeguarding investor equity during funding rounds and optimizing trade strategies."
+title: Understanding Narrow-Based Weighted Average for Equity Dilution
+description: Narrow-Based Weighted Average adjusts share prices by using common stock
+  to limit dilution and protect early investors Discover more inside today
 ---
 
 

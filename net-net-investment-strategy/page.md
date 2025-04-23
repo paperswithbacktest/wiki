@@ -1,6 +1,7 @@
 ---
-title: "Net-Net Investment Strategy"
-description: "Unlock the potential of net-net investing with algorithmic trading Discover how combining these strategies can optimize stock selection and enhance returns"
+title: Mastering the Net-Net Investment Strategy for Value Investors
+description: Net-Net investment strategy spots stocks trading below net current assets
+  to secure a safety margin and requires careful analysis Discover more inside
 ---
 
 

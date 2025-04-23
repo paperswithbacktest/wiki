@@ -1,6 +1,7 @@
 ---
-title: "Methods for Generating Passive Income in 2024"
-description: "Discover how to boost financial stability in 2024 with passive income strategies. Learn the transformative role of algorithmic trading for consistent returns."
+title: Passive Income Strategies For Financial Independence In 2024
+description: Passive income helps you earn money with rental properties, digital products,
+  and automation tools in 2024 to boost financial freedom Discover more inside.
 ---
 
 

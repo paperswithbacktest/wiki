@@ -1,6 +1,7 @@
 ---
-title: "NEX: Overview, Functionality, Advantages, and Disadvantages"
-description: "Explore the NEX exchange's role within algo trading including its benefits for struggling companies lower costs and unique challenges in investor perception."
+title: Understanding NEX Trading Platform for Small Company Investments
+description: NEX trading platform helps small companies raise capital through fair
+  stock trading while offering investors growth opportunities. Discover more inside.
 ---
 
 

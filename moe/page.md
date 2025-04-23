@@ -1,6 +1,7 @@
 ---
-title: "Moe (Machine Learning)"
-description: "Explore the Mixture of Experts (Moe) in machine learning where smaller expert models and a gating network collaborate for improved data handling and predictions."
+title: Understanding Mixture of Experts Models in Machine Learning
+description: Mixture of Experts models combine specialized networks with a gating
+  network to boost prediction accuracy and adapt to complex data Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Non-Dividend Quality Stocks"
-description: "Discover the potential of non-dividend quality stocks in algo trading and explore strategic insights for maximizing growth and navigating market risks"
+title: Non-Dividend Quality Stocks For Long Term Capital Appreciation
+description: Non-Dividend Quality Stocks offer growth-focused investors a roadmap
+  to identify strong companies with robust earnings and cash flow Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Michael Lewis - American Author"
-description: "Explore Michael Lewis's insightful take on algorithmic trading in 'Flash Boys' and his unique ability to unravel the complexities of high-frequency trading practices."
+title: Michael Lewis Biography Business Finance and Sports Insights
+description: Michael Lewis made finance narratives accessible through data insights
+  and engaging storytelling demystifying complex topics Discover more inside
 ---
 
 

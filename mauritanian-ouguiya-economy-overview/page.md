@@ -1,6 +1,7 @@
 ---
-title: "Mauritanian Ouguiya and Economy Overview"
-description: "Explore how Mauritania's resource-based economy impacts the Mauritanian Ouguiya and discover the role of algorithmic trading in the evolving forex market."
+title: 'Mauritanian Ouguiya And Economy: A Comprehensive Analysis'
+description: Mauritanian Ouguiya reforms boost stability by curbing inflation and
+  driving sector diversification in mining fishing agriculture Discover more inside
 ---
 
 

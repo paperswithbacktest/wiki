@@ -1,6 +1,7 @@
 ---
-title: "Major Oil Producers in Asia"
-description: "Explore major oil producers in Asia including China and India alongside the rise of algorithmic trading in the oil market and future industry challenges."
+title: Asian Oil Production A Comprehensive Industry Overview
+description: Asian oil production accounts for 42 percent of global output with insights
+  on top producers reserves and extraction methods Discover more inside.
 ---
 
 

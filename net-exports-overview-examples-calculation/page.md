@@ -1,6 +1,7 @@
 ---
-title: "Net Exports: Overview, Examples, and Calculation"
-description: "Explore net exports with this comprehensive guide covering their impact on trade balance and GDP The role of algorithmic trading in economic indicators is also discussed"
+title: Understanding Net Exports Impact On Trade Balance And Growth
+description: Net exports measure how much a country earns from exports versus imports
+  to reveal surpluses or deficits and inform policy decisions. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of New Keynesian and Keynesian Economics"
-description: "Explore the distinctions and intersections between Keynesian and New Keynesian economics in algorithmic trading Discover how these theories shape trading strategies"
+title: Keynesian vs New Keynesian Economics Explained in Depth
+description: Keynesian economics and New Keynesian theory show how fiscal and monetary
+  policies boost demand and address price stickiness. Discover more inside
 ---
 
 

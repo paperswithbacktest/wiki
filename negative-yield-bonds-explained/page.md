@@ -1,6 +1,7 @@
 ---
-title: "Negative Yield Bonds Explained"
-description: "Discover the dynamics of negative yield bonds and algorithmic trading in today's financial markets, exploring their implications for investors and economic trends."
+title: Understanding Negative Yield Bonds and Their Market Impact
+description: Negative yield bonds often cost investors money but can serve as a safe
+  haven in volatile markets and reveal central bank signals Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Major Shareholders of General Motors"
-description: "Explore GM's major shareholders and the impact of algorithmic trading on its stock performance Insights on how algorithms influence GM's market valuation"
+title: Major Shareholders Of General Motors And Their Impact
+description: Major shareholders of General Motors wield voting power to steer board
+  decisions and stock prices while supporting long term growth Discover more inside
 ---
 
 

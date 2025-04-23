@@ -1,6 +1,7 @@
 ---
-title: "Methods of Preparing for a Market Crash"
-description: "Prepare for market crashes with strategies in diversification, algorithmic trading, and proactive financial planning to protect and grow your investments."
+title: Essential Strategies for Preparing for a Market Crash
+description: Market crash guide shows you build emergency savings diversify assets
+  set stop loss orders for better protection Discover more inside
 ---
 
 

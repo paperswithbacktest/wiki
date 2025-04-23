@@ -1,6 +1,7 @@
 ---
-title: "Multiple Linear Regression"
-description: "Explore the power of Multiple Linear Regression in algorithmic trading for enhanced market predictions using multiple variables and Python implementation."
+title: Understanding Multiple Linear Regression for Accurate Predictions
+description: Multiple Linear Regression shows how various variables affect predictions
+  and provides model diagnostics for reliable results Discover more inside.
 ---
 
 

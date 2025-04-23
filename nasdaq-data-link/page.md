@@ -1,6 +1,7 @@
 ---
-title: "NASDAQ Data Link Guide"
-description: Maximize your trading potential with the Nasdaq Data Link, a crucial tool for algorithmic traders offering a diverse range of datasets. Enhance the precision and speed of trading algorithms by integrating this comprehensive data into your strategies. Delve into the variety of data available, from traditional financial metrics to unconventional sources such as satellite imagery and social sentiment. Learn to utilize the Quandl API to access this invaluable information, boosting your trading capabilities and staying competitive in the fast-paced market environment.
+title: Harness NASDAQ Data Link for Reliable Data Insights
+description: NASDAQ Data Link simplifies access to financial economic and alternative
+  data via APIs ensuring up to date accurate insights Discover more inside
 ---
 
 

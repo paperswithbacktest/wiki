@@ -1,6 +1,7 @@
 ---
-title: "Main Segments of the Real Estate Industry"
-description: "Discover the key segments of the real estate industry and how algorithmic trading is transforming investment strategies with precise data analysis and insights."
+title: Understanding Real Estate Industry Segments and Their Roles
+description: Real estate industry segments offer an overview of residential commercial
+  industrial land and REIT investment strategies with insights Discover more inside
 ---
 
 

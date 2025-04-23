@@ -1,6 +1,8 @@
 ---
-title: "Mario Draghi: Significance in Economics"
-description: "Explore Mario Draghi's economic policies and their impact on the evolving world of algorithmic trading reflecting on how central bank strategies shape financial technologies."
+title: "Mario Draghi\u2019s ECB Reforms and Eurozone Economic Stability"
+description: "Mario Draghi\u2019s quantitative easing and whatever it takes commitment\
+  \ stabilized the Eurozone economy and influenced central banking. Discover more\
+  \ inside."
 ---
 
 

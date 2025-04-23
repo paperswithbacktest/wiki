@@ -1,6 +1,7 @@
 ---
-title: "Model development"
-description: Explore the essentials of algorithmic trading, a transformative method in financial markets that uses computer algorithms for swift and accurate trade execution. Learn how to develop robust trading models with a strategic blend of technology and quantitative methods, such as machine learning and data analytics, while understanding the balance of risks and benefits involved. Discover key concepts, from trading signals to model backtesting, and define your trading goals effectively for success in both short-term and long-term market strategies.
+title: Machine Learning Model Development For Algorithmic Trading
+description: Machine Learning Model Development covers model selection data cleaning
+  training evaluation and deployment for real world use Discover more inside
 ---
 
 

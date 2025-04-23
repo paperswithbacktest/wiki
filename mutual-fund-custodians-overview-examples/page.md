@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Custodians: Overview and Examples"
-description: "Explore the critical roles of fund custodians and mutual funds in finance, and how algorithmic trading and investment management enhance modern financial markets."
+title: Understanding Mutual Fund Custodians Roles and Responsibilities
+description: Mutual fund custodians safeguard investments and ensure regulatory compliance
+  while providing transparent reporting and secure transactions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Modified Duration Formula and Application"
-description: "Explore the application of modified duration in bond trading and algorithmic strategies to better manage interest rate risk and optimize investment portfolios."
+title: Understanding Modified Duration in Bond Price Risk Management
+description: Modified Duration quantifies bond price sensitivity to interest rate
+  shifts helping investors gauge risk and optimize portfolios Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Montreal Exchange"
-description: "Explore the Montreal Exchange's role in transforming financial markets with algorithmic trading, offering innovative derivatives for efficient and advanced trading strategies."
+title: Montreal Exchange Overview for Trading Options, Futures and Rates
+description: Montreal Exchange explains Canadas options futures and interest rate
+  markets to help investors manage risk and plan financial strategies Discover more
+  inside
 ---
 
 

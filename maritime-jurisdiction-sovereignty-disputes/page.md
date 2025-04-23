@@ -1,6 +1,7 @@
 ---
-title: "Maritime Jurisdiction And Sovereignty Disputes"
-description: "Explore how maritime boundary disputes influence algorithmic trading and investment strategies, highlighting the impact of geopolitical tensions on global markets."
+title: Understanding Maritime Jurisdiction and Sovereignty Disputes
+description: Maritime jurisdiction defines a country's control from territorial seas
+  to EEZ under UNCLOS with an overview of sovereignty disputes Discover more inside
 ---
 
 

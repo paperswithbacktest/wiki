@@ -1,6 +1,7 @@
 ---
-title: "Marginal Propensity to Save"
-description: "Explore the significance of Marginal Propensity to Save and algorithmic trading in shaping investment strategies. Understand how these concepts impact economic behavior."
+title: Understanding Marginal Propensity to Save in Economics
+description: Marginal propensity to save measures how much extra income savers keep
+  rather than spend informing economic forecasts and planning Discover more inside.
 ---
 
 

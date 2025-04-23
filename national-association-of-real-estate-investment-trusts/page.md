@@ -1,6 +1,7 @@
 ---
-title: "National Association of Real Estate Investment Trusts"
-description: "Discover how REITs under Nareit's guidance and algorithmic trading are transforming real estate investment by optimizing strategies and maximizing returns."
+title: Understanding NAREITs Role In Real Estate Investment Trusts
+description: NAREIT provides research and resources to empower real estate investment
+  trusts and investors with market insights and guidance Discover more inside.
 ---
 
 

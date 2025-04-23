@@ -1,6 +1,7 @@
 ---
-title: "Master-Feeder Structure: Operation and Advantages"
-description: "Explore the operation and advantages of the master-feeder structure in algo trading Discover how this fund setup enhances strategy execution and investment outcomes"
+title: Understanding Master-Feeder Structures for Investment Funds
+description: Master-feeder structure centralizes investments into a single fund to
+  reduce costs, improve tax efficiency and streamline management Discover more inside.
 ---
 
 

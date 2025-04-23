@@ -1,6 +1,7 @@
 ---
-title: "Malawian Kwacha: Significance and Economic History"
-description: "Discover the economic history and significance of the Malawian Kwacha from its inception to its role in modern algo trading and financial markets."
+title: Comprehensive Guide To The Malawian Kwacha And Its Dynamics
+description: Malawian Kwacha overview covers its history value shifts and Reserve
+  Bank role in stabilizing currency and managing inflation Discover more inside
 ---
 
 

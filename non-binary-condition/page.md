@@ -1,6 +1,7 @@
 ---
-title: "Non-Binary Condition (Machine Learning)"
-description: "Explore non-binary conditions in machine learning where outcomes exceed two categories. Discover algorithms like decision trees and neural networks that tackle such complexities."
+title: Non-Binary Classification Strategies in Machine Learning
+description: Non-Binary Classification enables models to predict multiple categories
+  using softmax neural networks and class balancing techniques Discover more inside
 ---
 
 ![Image](images/1.png)

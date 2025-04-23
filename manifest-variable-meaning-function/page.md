@@ -1,6 +1,7 @@
 ---
-title: "Manifest Variable: Meaning and Function"
-description: "Discover how manifest and latent variables impact algorithmic trading Explore their functions in data-driven strategies for effective trades and market insights"
+title: Manifest Variables Versus Latent Variables in Research
+description: Manifest variables deliver clear direct measurements for research and
+  analysis across disciplines with practical examples and methods Discover more inside.
 ---
 
 

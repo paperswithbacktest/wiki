@@ -1,6 +1,7 @@
 ---
-title: "Mandatorily Redeemable Shares"
-description: "Explore how mandatorily redeemable shares and algorithmic trading are reshaping corporate finance, offering enhanced flexibility and precision in investment strategies."
+title: Understanding Mandatorily Redeemable Shares and Their Impacts
+description: Mandatorily redeemable shares let investors secure guaranteed returns
+  and companies access funding with minimal equity dilution. Discover more inside
 ---
 
 

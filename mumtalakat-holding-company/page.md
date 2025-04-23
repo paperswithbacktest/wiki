@@ -1,6 +1,7 @@
 ---
-title: "Mumtalakat Holding Company"
-description: "Discover how Mumtalakat integrates AI and algorithmic trading to enhance investment strategies driving economic diversification and sustainable growth in Bahrain."
+title: Mumtalakat Holding Company Driving Bahrain Economic Growth
+description: Mumtalakat Holding Company stewards Bahrain non-oil assets to diversify
+  the economy across hospitality finance and manufacturing Discover more inside.
 ---
 
 

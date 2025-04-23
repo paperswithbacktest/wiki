@@ -1,6 +1,7 @@
 ---
-title: "Methods for Quickly Increasing a Company's Liquidity Ratio"
-description: "Explore strategies to enhance a company's liquidity ratio quickly with insights on algorithmic trading benefits such as efficiency and reduced transaction costs."
+title: Essential Liquidity Ratios for Evaluating Company Health
+description: Liquidity ratios reveal a companys capacity to meet short term bills
+  with current assets and offer strategies to boost cash flow Discover more inside
 ---
 
 

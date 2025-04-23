@@ -1,6 +1,7 @@
 ---
-title: "Loss Aversion in Trading: Risks and Strategies"
-description: "Discover how loss aversion influences trading decisions and risk management strategies in algorithmic trading to enhance decision-making and success."
+title: Overcoming Loss Aversion in Trading to Improve Performance
+description: Loss aversion in trading erodes gains when losers linger and winners
+  exit too soon Use stop-loss and diversification to trade calmly Discover more inside
 ---
 
 

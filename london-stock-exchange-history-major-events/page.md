@@ -1,6 +1,7 @@
 ---
-title: "London Stock Exchange: History and Major Events"
-description: "Explore the rich history of the London Stock Exchange and its key events including the rise of algorithmic trading that transformed global finance dynamics."
+title: London Stock Exchange Evolution from Coffee Houses to Digital Era
+description: London Stock Exchange traces its growth from 1801 coffee house origins
+  to digital trading fintech advances and global mergers Discover more inside
 ---
 
 

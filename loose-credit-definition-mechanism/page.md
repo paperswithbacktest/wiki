@@ -1,6 +1,7 @@
 ---
-title: "Loose Credit: Definition and Mechanism"
-description: "Explore the critical interplay between loose credit, financial policy, and algorithmic trading, and their combined influence on modern economic dynamics."
+title: Loose Credit Effects on Economic Growth and Stability
+description: Loose credit makes loans cheaper to spark growth but must be managed
+  to avoid financial crises and inflation Discover more inside
 ---
 
 

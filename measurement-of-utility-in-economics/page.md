@@ -1,6 +1,7 @@
 ---
-title: "Measurement of Utility in Economics"
-description: "Explore the fusion of economic utility measurement and algorithmic trading Discover how these concepts enhance trading strategies and drive market efficiency"
+title: Understanding Utility in Economics Theory and Applications
+description: Utility in economics measures satisfaction from goods and services and
+  informs consumer choice and practical trading strategies Discover more inside
 ---
 
 

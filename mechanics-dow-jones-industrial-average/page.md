@@ -1,6 +1,7 @@
 ---
-title: "Mechanics of the Dow Jones Industrial Average"
-description: "Explore the Dow Jones Industrial Average and the impact of algorithmic trading on investments providing insights into market trends and algorithm-driven strategies."
+title: Understanding the Dow Jones Industrial Average Stock Market Index
+description: Dow Jones Industrial Average tracks the performance of 30 major US companies
+  to gauge market health and guide investment choices Discover more inside.
 ---
 
 

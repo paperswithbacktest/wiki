@@ -1,6 +1,7 @@
 ---
-title: "MonaCoin: Overview and Functionality"
-description: "Explore how MonaCoin, Japan's first digital currency, blends meme culture with blockchain efficiency, offering algorithmic trading potential and rapid transactions."
+title: "MonaCoin Explained A Complete Guide to Japan\u2019s Cryptocurrency"
+description: MonaCoin offers a secure and user friendly cryptocurrency designed for
+  easy transactions and mining in Japan and beyond Discover more inside.
 ---
 
 

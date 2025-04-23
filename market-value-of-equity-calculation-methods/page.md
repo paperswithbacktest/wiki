@@ -1,6 +1,7 @@
 ---
-title: "Market Value of Equity and Calculation Methods"
-description: "Explore how market value of equity and algorithmic trading impact modern investment strategies, providing insights into equity valuation and financial metrics."
+title: Understanding Market Value of Equity for Financial Analysis
+description: Market value of equity measures company value by multiplying stock price
+  and shares outstanding to guide informed investment decisions Discover more inside
 ---
 
 

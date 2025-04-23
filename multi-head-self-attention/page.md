@@ -1,6 +1,7 @@
 ---
-title: "Multi-Head Self-Attention (Machine Learning)"
-description: "Explore Multi-Head Self-Attention in machine learning to understand how it enhances data understanding by processing inputs through multiple perspectives."
+title: Understanding Multi-Head Self-Attention in Machine Learning
+description: Multi-Head Self-Attention improves data understanding by using multiple
+  attention heads to capture diverse patterns and relationships Discover more inside
 ---
 
 ![Image](images/1.webp)

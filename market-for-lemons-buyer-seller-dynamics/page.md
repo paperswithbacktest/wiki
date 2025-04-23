@@ -1,6 +1,7 @@
 ---
-title: "Market for Lemons: Buyer and Seller Dynamics"
-description: "Explore buyer and seller dynamics in markets with information asymmetry and algorithmic trading Learn how trust and market efficiency are affected and strategies to mitigate these challenges"
+title: Understanding the Market for Lemons and Information Asymmetry
+description: Market for Lemons shows how information asymmetry erodes quality and
+  drives market collapse. Signaling warranties build buyer trust Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "NAV Return and Market Return Comparison"
-description: "Explore the intricacies of calculating NAV and market returns in algorithmic trading Understand the impact on investment strategies and portfolio optimization"
+title: Comparing NAV Return and Market Return for Fund Performance
+description: NAV Return and market return comparison effectively shows how investors
+  assess fund manager performance fees and benchmark gaps. Discover more inside.
 ---
 
 

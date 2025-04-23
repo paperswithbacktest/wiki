@@ -1,6 +1,7 @@
 ---
-title: "Mt. Gox: History and Collapse"
-description: "Explore the rise and dramatic fall of Mt. Gox, the world's largest Bitcoin exchange in its time, and the impact of its collapse on crypto regulations."
+title: Lessons Learned From The Mt Gox Bitcoin Exchange Collapse
+description: Mt Gox taught the crypto industry crucial security and transparency lessons
+  to prevent future exchange failures and rebuild trust Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Long the Basis: Concept, Functionality, and Examples"
-description: "Explore the concept and functionality of the 'long the basis' strategy in algo trading a method for hedging and profiting from commodity price movements through technology."
+title: Long the Basis Strategy in Commodity Futures Trading
+description: Long the Basis helps producers lock in commodity prices by owning goods
+  and selling futures to hedge risk and capture price spreads Discover more inside
 ---
 
 

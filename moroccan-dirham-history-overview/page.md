@@ -1,6 +1,7 @@
 ---
-title: "Moroccan Dirham: History and Overview"
-description: "Explore the historical and economic significance of the Moroccan Dirham and its role in algo trading Learn how the MAD impacts tourism investment and forex markets"
+title: The Moroccan Dirham Explained Its History and Future Prospects
+description: Moroccan Dirham insights cover history, denominations, exchange rates
+  and economic impact highlighting stability and future outlook Discover more inside
 ---
 
 

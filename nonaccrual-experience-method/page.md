@@ -1,6 +1,7 @@
 ---
-title: "Nonaccrual Experience Method"
-description: "Discover how the Nonaccrual Experience (NAE) Method enhances financial reporting by accurately managing bad debts and refining algorithmic trading strategies."
+title: Nonaccrual Experience Method for Effective Loan Loss Provisioning
+description: Nonaccrual Experience Method helps banks use past loan data to forecast
+  losses and enhance stability through prudent provisioning Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Multi-Index Options"
-description: "Explore the benefits of multi-index options in algorithmic trading to optimize strategies and manage risks with precision for enhanced portfolio performance."
+title: Understanding Multi-Index Options for Diversified Portfolios
+description: Multi-index options help diversify your portfolio by spreading risk across
+  several indices and simplify investment management. Discover more inside.
 ---
 
 

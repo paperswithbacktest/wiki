@@ -1,6 +1,7 @@
 ---
-title: "Market Breadth Explained"
-description: Market breadth indicators are vital for traders and investors seeking insights into the financial market's health. These tools analyze the ratio of advancing to declining stocks to evaluate market momentum and sentiment. By assessing the market's breadth beyond index price changes, traders gain a clearer view of underlying conditions. In modern trading, market breadth indicators are crucial in algorithmic strategies, enhancing decision-making precision by assessing market trends and optimizing strategies for risk management and opportunities. Key indicators include the Advance-Decline Line and the New Highs-Lows Index, integral to automated trading systems and market analysis.
+title: Comprehensive Market Breadth Analysis for Informed Investing
+description: Market breadth reveals true market strength by tracking advancing and
+  declining stocks to confirm trends and anticipate reversals Discover more inside
 ---
 
 

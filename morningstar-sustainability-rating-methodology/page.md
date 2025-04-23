@@ -1,6 +1,7 @@
 ---
-title: "Morningstar Sustainability Rating and Methodology"
-description: "Explore the Morningstar Sustainability Rating to understand ESG criteria in investment funds Featuring a five-globe system it's essential for ethical investors"
+title: Understanding The Morningstar Sustainability Rating For Investors
+description: Morningstar Sustainability Rating helps investors assess fund ESG performance
+  through updates and methodology to align investments Discover more inside
 ---
 
 

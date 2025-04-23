@@ -1,6 +1,7 @@
 ---
-title: "Low-latency"
-description: Discover the critical role of low latency in algorithmic trading, where rapid data processing and execution are paramount for success. Understand how achieving ultra-low latency offers a competitive edge, facilitating high-frequency trading that reacts to market changes in microseconds. Explore the technical factors impacting latency, including network architecture, proximity to exchanges, and cutting-edge technologies, all of which are vital to maintaining an efficient trading infrastructure. Learn how minimizing latency can significantly enhance trading performance and profitability in the fast-paced world of capital markets.
+title: Understanding Network Latency and How to Reduce It
+description: Network latency can disrupt gaming and financial trading with frustrating
+  delays. This guide covers measurement and optimization tips Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Monetarism: Theory, Formula, and Comparison with Keynesian Economics"
-description: "Explore the intersection of Keynesian Economics and Monetarism with algorithmic trading Discover their impact on modern financial strategies and market dynamics"
+title: 'Monetarism Explained: Money Supply, Inflation and Policy'
+description: Monetarism explains how steady money supply control shapes inflation
+  and economic stability with insights from key economists Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Material News"
-description: "Explore how material news, financial reporting, corporate disclosures, and algorithmic trading shape investor strategies and impact market volatility in finance."
+title: Understanding Material News Impact On Investment Decisions
+description: Material news empowers investors with timely company updates and analysis
+  to shape smarter stock decisions. Stay informed and discover more inside
 ---
 
 

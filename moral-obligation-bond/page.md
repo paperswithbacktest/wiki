@@ -1,6 +1,7 @@
 ---
-title: "Moral Obligation Bond"
-description: "Discover the unique world of moral obligation bonds and their role in public finance and explore how algorithmic trading is transforming bond markets."
+title: Understanding Moral Obligation Bonds And Their Risks
+description: Moral Obligation Bonds fund public projects through a moral promise instead
+  of legal backing, balancing higher yields with risk. Discover more inside.
 ---
 
 

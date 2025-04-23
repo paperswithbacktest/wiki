@@ -1,6 +1,7 @@
 ---
-title: "Margin Account Requirements for Short Selling Stocks"
-description: "Explore margin account requirements for short selling stocks and delve into the role of Regulation T in managing financial risks in algorithmic trading strategies."
+title: Margin Account Requirements for Short Selling Explained
+description: Margin account requirements for short selling set initial and maintenance
+  margins to manage risk and avoid margin calls Discover more inside
 ---
 
 

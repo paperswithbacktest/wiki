@@ -1,6 +1,7 @@
 ---
-title: "Non-Deliverable Forward: Structure and Currency Markets"
-description: "Explore the role of Non-Deliverable Forwards in currency markets and algorithmic trading and how they enable hedging and speculation in restricted markets."
+title: Understanding Non-Deliverable Forwards for Currency Risk
+description: Non-Deliverable Forwards provide cash-settled hedges for currency volatility
+  in restricted markets using fixed rates, notional amounts Discover more inside.
 ---
 
 

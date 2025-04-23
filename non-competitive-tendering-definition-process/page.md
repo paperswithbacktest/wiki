@@ -1,6 +1,7 @@
 ---
-title: "Non-Competitive Tendering: Definition and Process"
-description: "Discover how non-competitive tendering and algorithmic trading reshape procurement and market strategies enhancing decision-making and operational efficiency."
+title: Non-Competitive Tendering Process Explained Benefits And Risks
+description: Non-competitive tendering streamlines procurement when only one supplier
+  can deliver, but requires diligent cost oversight Discover more inside
 ---
 
 

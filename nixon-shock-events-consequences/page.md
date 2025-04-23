@@ -1,6 +1,8 @@
 ---
-title: "Nixon Shock: Events and Consequences"
-description: "Explore the shift from the Bretton Woods System through the Nixon Shock of 1971 to the rise of algorithmic trading and its impact on modern financial markets."
+title: Nixon Shock Effects on Dollar Convertibility and Global Finance
+description: "Nixon Shock redefined the dollar\u2019s gold convertibility ending Bretton\
+  \ Woods and sparking floating exchange rates Summarize its lasting impact on policy\
+  \ and markets Discover more inside."
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Micro Risk: Definition and Mechanism"
-description: "Explore the critical role of managing micro risks in algorithmic trading to secure investments and maintain profitable strategies amidst market volatility."
+title: Micro Risk Fundamentals and Strategies for Effective Investment
+description: Micro risk analysis helps investors identify company-specific threats
+  and apply proven mitigation strategies that protect portfolios. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Multimodal Instruction-Tuned (Machine Learning)"
-description: "Explore the world of multimodal instruction-tuned machine learning where AI learns from text images and sounds simultaneously for enhanced real-life usability."
+title: Understanding Multimodal Instruction-Tuned Learning Models
+description: Multimodal instruction-tuned machine learning integrates text images
+  and audio to deliver accurate context aware AI responses Discover more inside
 ---
 
 ![Image](images/1.png)

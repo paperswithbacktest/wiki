@@ -1,6 +1,7 @@
 ---
-title: "Methods for Measuring Economic Externalities"
-description: "Explore the measurement of externalities in algorithmic trading and its impact on market dynamics to enhance efficiency and stability in financial markets."
+title: Measuring Economic Externalities Using Key Valuation Methods
+description: Measuring economic externalities uncovers societal costs and benefits
+  using hedonic pricing contingent valuation travel cost methods Discover more inside
 ---
 
 

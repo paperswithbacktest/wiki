@@ -1,6 +1,7 @@
 ---
-title: "Measures of Corporate Financial Health"
-description: "Explore corporate financial health and algo trading synergy with key indicators like liquidity solvency and profitability for optimized financial strategies."
+title: Evaluating Corporate Financial Health Through Key Financial Metrics
+description: Corporate financial health hinges on analyzing ratios and statements
+  to assess stability and profitability Discover more inside
 ---
 
 

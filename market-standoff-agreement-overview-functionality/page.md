@@ -1,6 +1,7 @@
 ---
-title: "Market Standoff Agreement: Overview and Functionality"
-description: "Explore market standoff agreements and algo trading in finance Discover how these key elements stabilize IPOs and enhance trading efficiency and liquidity"
+title: Market Standoff Agreements And Post-IPO Price Stability
+description: Market Standoff Agreement ensures new shareholders hold shares after
+  an IPO to stabilize stock prices and build investor trust Discover more inside.
 ---
 
 

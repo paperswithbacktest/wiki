@@ -1,6 +1,8 @@
 ---
-title: "Mutual Fund Liquidity Ratio"
-description: "Enhance your investment strategies by mastering liquidity ratios in mutual funds and algorithmic trading Understand key metrics to unlock superior returns."
+title: Understanding Liquidity Ratio in Mutual Funds for Better Investing
+description: Liquidity ratio in mutual funds shows how quickly assets can be converted
+  to cash and helps investors choose funds matching their access needs Discover more
+  inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market Perform Rating"
-description: "Master the nuances of market perform ratings in investment and algorithmic trading Navigate financial analysis for informed decisions and optimize trading strategies."
+title: Understanding Market Perform Rating in Stock Analysis
+description: Market Perform Rating helps investors match market returns by identifying
+  steady equities that move with market trends today Discover more inside
 ---
 
 

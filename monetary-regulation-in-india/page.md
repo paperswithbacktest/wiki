@@ -1,6 +1,7 @@
 ---
-title: "Monetary Regulation in India"
-description: "Explore the dynamics of India's monetary regulation and its interplay with algorithmic trading enhancing financial transparency while addressing systemic risks."
+title: Understanding Monetary Regulation in India With the RBI
+description: Monetary regulation in India ensures price stability and supports growth
+  through RBI tools like repo rate and reserve adjustments Discover more inside.
 ---
 
 

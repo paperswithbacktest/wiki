@@ -1,6 +1,7 @@
 ---
-title: "New Zealand Dollar: Overview and Functionality"
-description: "Explore the dynamics of the New Zealand Dollar in forex trading and how algorithmic strategies can optimize trading decisions for better market performance."
+title: "Comprehensive Guide to New\_Zealand\_Dollar History\_Value and\_Trade"
+description: "New\_Zealand\_Dollar explains its history symbols interest rate effects\
+  \ and export impact so you can master currency movements Discover more inside"
 ---
 
 

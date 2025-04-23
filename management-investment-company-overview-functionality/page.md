@@ -1,6 +1,7 @@
 ---
-title: "Management Investment Company: Overview and Functionality"
-description: "Explore the world of investment management and algorithmic trading Discover how investment companies optimize portfolios balancing returns and risks with cutting-edge technology"
+title: Management Investment Companies for Diversified Portfolio Success
+description: Management Investment Company pools capital to buy diverse securities
+  and reduce risk as experts optimize returns for investors Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Luca Capriotti"
-description: "Explore the career of Luca Capriotti, a leader in algorithmic trading and risk management, known for innovations in Adjoint Algorithmic Differentiation at UBS."
+title: Luca Capriotti Finance Technologist and Educator at Citadel
+description: Luca Capriotti advances finance technology at Citadel with advanced math
+  and computing while simplifying complex concepts Discover more inside.
 ---
 
 

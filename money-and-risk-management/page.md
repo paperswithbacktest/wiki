@@ -1,6 +1,7 @@
 ---
-title: "Money and risk management"
-description: Improve your algorithmic trading performance with effective money and risk management strategies designed to optimize profitability and control potential losses. Learn about key techniques such as position sizing, leverage, and capital allocation. Understand essential risk management practices including stop-loss orders, volatility-based sizing, and diversification to safeguard against market volatility and unforeseen events. Explore the importance of quality data and robust trading platforms in enhancing trade execution efficiency. Discover how to develop and refine your trading algorithms for sustainable financial growth and long-term success in a dynamic market environment.
+title: Effective Money Management and Risk Mitigation for Investors
+description: Money management delivers a clear path from budgeting to advanced risk
+  mitigation using diversification asset allocation and hedging Discover more inside
 ---
 
 

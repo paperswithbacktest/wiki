@@ -1,6 +1,7 @@
 ---
-title: "NAB Business Confidence Index: Overview and Function"
-description: "Explore the role of the NAB Business Confidence Index in Australia's economy and its impact on algorithmic trading providing insights for strategic decision-making."
+title: Understanding the NAB Business Confidence Index and Its Uses
+description: NAB Business Confidence Index tracks monthly business sentiment on sales
+  profits and employment to inform policy and investments Discover more inside.
 ---
 
 

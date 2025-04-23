@@ -1,6 +1,7 @@
 ---
-title: "Merton Miller: Biography, Theorem, Notable Contributions"
-description: "Discover the life and legacy of Merton H. Miller focusing on his pivotal contributions to finance including the groundbreaking Modigliani-Miller theorem."
+title: Merton Miller And The Modigliani-Miller Theorem Explained
+description: Modigliani-Miller theorem shows capital structure does not alter firm
+  value under perfect markets and highlights real world factors Discover more inside
 ---
 
 

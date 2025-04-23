@@ -1,6 +1,7 @@
 ---
-title: "Market Tracking Strategies for Busy Investors"
-description: "Explore innovative market tracking strategies tailored for busy investors leveraging algorithmic trading to maximize returns and stay ahead in a dynamic sector."
+title: Effective Market Tracking Strategies for Busy Investors
+description: Market tracking helps busy investors monitor holdings with mobile alerts
+  routine checks and economic data to make informed decisions Discover more inside
 ---
 
 

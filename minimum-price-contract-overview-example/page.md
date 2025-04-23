@@ -1,6 +1,7 @@
 ---
-title: "Minimum Price Contract: Overview and Example"
-description: "Explore the essential role of minimum price contracts in mitigating market volatility, offering security and predictability in commodity and agricultural markets."
+title: Minimum Price Contracts in Agriculture and Commodity Markets
+description: Minimum price contract helps farmers secure predictable revenue by setting
+  a price floor for crops and unlocking market upside. Discover more inside.
 ---
 
 

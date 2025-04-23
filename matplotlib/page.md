@@ -1,6 +1,7 @@
 ---
-title: "Matplotlib (Machine Learning)"
-description: "Discover the power of Matplotlib in machine learning as a vital tool for creating visual data insights. Learn how to install and use it for data plots."
+title: Matplotlib Visualization Techniques For Machine Learning
+description: Matplotlib simplifies machine learning data visualization with line plots
+  scatter plots histograms heatmaps and custom styling Discover more inside.
 ---
 
 ![Image](images/1.png)

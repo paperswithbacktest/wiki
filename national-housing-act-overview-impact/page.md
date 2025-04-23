@@ -1,6 +1,7 @@
 ---
-title: "National Housing Act: Overview and Impact"
-description: "Explore the impact of the National Housing Act on the US housing market and how algorithmic trading reshapes housing finance in this insightful analysis."
+title: Understanding the National Housing Act and Its Lasting Impact
+description: National Housing Act drives affordable homeownership by insuring loans
+  with smaller down payments and longer repayment terms Discover more inside.
 ---
 
 

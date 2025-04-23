@@ -1,6 +1,7 @@
 ---
-title: "Monetary Union Index of Consumer Prices"
-description: "Explore the significance of the Monetary Union Index of Consumer Prices in the eurozone economic landscape and its role in algorithmic trading and policy-making."
+title: Understanding the Monetary Union Index of Consumer Prices
+description: Monetary Union Index of Consumer Prices tracks inflation across the eurozone
+  in a harmonized index showing cost of living trends Discover more inside
 ---
 
 

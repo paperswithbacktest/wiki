@@ -1,6 +1,7 @@
 ---
-title: "Marubozu Candlestick Pattern"
-description: "Discover the Marubozu candlestick pattern's significance in technical analysis and its application in algorithmic trading for effective market predictions."
+title: Mastering Marubozu Candlestick Patterns For Market Analysis
+description: Marubozu candlestick patterns reveal strong market pressure and help
+  predict price movements with clarity and confidence Discover more inside.
 ---
 
 

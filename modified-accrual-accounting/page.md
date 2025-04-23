@@ -1,6 +1,7 @@
 ---
-title: "Modified Accrual Accounting"
-description: "Explore the intersection of government accounting and algorithmic trading through modified accrual accounting to enhance transparency and improve fiscal management."
+title: Understanding Modified Accrual Accounting for Government Budgets
+description: Modified accrual accounting helps governments record revenue when available
+  and expenses when due to improve short term budget planning Discover inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "MoneroV: Overview and Functionality"
-description: "Discover MoneroV a cryptocurrency enhancing privacy and scalability in trades Learn about its features differences from Monero and impact on trading strategies"
+title: MoneroV Privacy Cryptocurrency with Fast Proof of Stake
+description: MoneroV uses Proof of Stake to deliver private, energy-efficient transactions
+  that keep your financial data secure and anonymous Discover more inside.
 ---
 
 

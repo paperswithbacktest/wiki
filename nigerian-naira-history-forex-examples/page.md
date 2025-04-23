@@ -1,6 +1,7 @@
 ---
-title: "Nigerian Naira: History and Forex Examples"
-description: "Discover the history of the Nigerian Naira and its dynamic role in Forex markets with the rise of algorithmic trading transforming currency exchange strategies."
+title: Understanding the History, Value and Impact of the Nigerian Naira
+description: Nigerian Naira has evolved since its 1973 introduction through oil price
+  swings and policy reforms shaping its value and market role. Discover more inside.
 ---
 
 

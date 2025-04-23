@@ -1,6 +1,7 @@
 ---
-title: "National Bureau of Economic Research"
-description: Explore the role of the National Bureau of Economic Research in advancing algorithmic trading amidst technological innovation in financial markets. This article investigates into NBER's influential contributions to developing sophisticated trading models, informing market behaviors and efficiencies through rigorous research. Discover the interplay between economic studies and algo trading strategies, alongside insights into AI's future impact on trading markets.
+title: Understanding the NBER and Its Role in Economic Analysis
+description: NBER analyzes economic cycles and defines recessions to guide policy
+  decisions through rigorous research and business cycle dating Discover more inside
 ---
 
 

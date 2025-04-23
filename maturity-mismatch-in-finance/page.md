@@ -1,6 +1,7 @@
 ---
-title: "Maturity Mismatch in Finance"
-description: "Explore the concept of maturity mismatch in finance learn risk management strategies and discover how algorithmic trading helps optimize liquidity and portfolios."
+title: Maturity Mismatch in Finance Risks and Management Strategies
+description: Maturity mismatch threatens liquidity when long term assets meet short
+  term liabilities Banks use reserves to align cash flows Discover more inside
 ---
 
 

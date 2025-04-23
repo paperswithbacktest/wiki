@@ -1,6 +1,7 @@
 ---
-title: "Model Parallelism (Machine Learning)"
-description: "Model parallelism in machine learning divides large models across multiple devices to enable efficient training and tackle memory limits, enhancing speed and scalability."
+title: Mastering Model Parallelism for Large Scale Machine Learning
+description: Model parallelism lets you split and train large machine learning models
+  across GPUs while improving training speed and memory usage. Discover more inside.
 ---
 
 ![Image](images/1.png)

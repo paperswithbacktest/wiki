@@ -1,6 +1,7 @@
 ---
-title: "Natural Gas Equivalent: Concept, Calculation, Application"
-description: "Explore the natural gas equivalent concept in energy trading and its role in algo trading Enhance decision-making with energy conversion and algorithm strategies"
+title: Understanding Natural Gas Equivalent For Energy Comparisons
+description: Natural Gas Equivalent lets energy managers compare the energy content
+  of gas oil and coal to optimize fuel choices and planning Discover more inside
 ---
 
 

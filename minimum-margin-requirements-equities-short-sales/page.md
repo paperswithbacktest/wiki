@@ -1,6 +1,8 @@
 ---
-title: "Minimum Margin Requirements for Equities Short Sales"
-description: "Understand the essentials of margin requirements in equity short sales and algorithmic trading Explore how these factors impact trading strategies and risk management"
+title: Understanding Minimum Margin Requirements for Equity Short Sales
+description: Minimum margin requirements ensure investors maintain funds to cover
+  short sale losses avoid margin calls and support market stability Discover more
+  inside
 ---
 
 

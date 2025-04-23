@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Theorem: Significance and Mechanism"
-description: "Discover the mutual fund theorem's significance in finance and its role in investment strategies alongside algorithmic trading for portfolio optimization."
+title: Mutual Fund Theorem for Effective Portfolio Diversification
+description: Mutual Fund Theorem simplifies portfolio diversification by blending
+  safe bond and growth stock funds to match your risk profile Discover more inside
 ---
 
 

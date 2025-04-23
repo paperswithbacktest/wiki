@@ -1,6 +1,8 @@
 ---
-title: "Netherlands Antillean Guilder"
-description: "Explore the impact of algorithmic trading on the Caribbean market with a focus on the Netherlands Antillean Guilder learn about its benefits challenges and future trends."
+title: Understanding the Netherlands Antillean Guilder Currency
+description: "Netherlands Antillean Guilder supports local economies and trade in\
+  \ Cura\xE7ao and Sint Maarten with a stable dollar peg and oversight Discover more\
+  \ inside."
 ---
 
 

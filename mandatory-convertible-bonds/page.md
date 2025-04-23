@@ -1,6 +1,7 @@
 ---
-title: "Mandatory Convertible Bonds"
-description: "Explore the hybrid nature of mandatory convertible bonds and their role in algorithmic trading for enhanced market efficiency and strategic capital management."
+title: Understanding Mandatory Convertible Bonds for Investors
+description: Mandatory convertible bonds let investors convert debt to stock for upside
+  with lower cash outlay and portfolio diversification Discover more inside.
 ---
 
 

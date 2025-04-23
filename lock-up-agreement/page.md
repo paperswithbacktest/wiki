@@ -1,6 +1,7 @@
 ---
-title: "Lock-Up Agreement"
-description: "Explore the significant role of lock-up agreements in IPOs, their impact on stock price stability, and how algorithmic trading adjusts to these phases."
+title: Lock-Up Agreements Explained for Post-IPO Price Stability
+description: Lock-up agreement ensures post-IPO stock stability by limiting insider
+  sales with clear legal terms and boosting investor confidence Discover more inside
 ---
 
 

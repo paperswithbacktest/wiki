@@ -1,6 +1,7 @@
 ---
-title: "MSCI ACWI Ex-U.S.: Overview, Function, and Calculation"
-description: "Discover the role of MSCI ACWI in investment strategies and algorithmic trading Learn how this index helps in diversifying portfolios globally"
+title: Exploring the MSCI ACWI Ex-US Index for Global Diversification
+description: MSCI ACWI Ex-US index offers diversification across developed and emerging
+  non US markets with strategic market cap weighting Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "NEO Cryptocurrency and Its Applications"
-description: "Explore the intersection of NEO cryptocurrency blockchain and algorithmic trading Understand NEO's smart economy and discover trading strategies and tools"
+title: NEO Cryptocurrency Platform Features Governance And Applications
+description: NEO cryptocurrency offers a democratic secure network with dual token
+  utility efficient smart contracts and governance Discover more inside.
 ---
 
 

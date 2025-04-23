@@ -1,6 +1,7 @@
 ---
-title: "Non-Standard Monetary Policy"
-description: "Explore the intricate dynamics between monetary policy, central banking, and algorithmic trading to understand their collective impact on global finance."
+title: Non-Standard Monetary Policy Tools and Their Impact
+description: Non-standard monetary policy uses tools like quantitative easing and
+  forward guidance to boost spending and contain inflation Discover more inside
 ---
 
 

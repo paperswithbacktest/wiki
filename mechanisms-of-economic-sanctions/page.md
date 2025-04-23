@@ -1,6 +1,7 @@
 ---
-title: "Mechanisms of Economic Sanctions"
-description: "Explore the role of algorithmic trading in economic sanctions enforcement. Understand the mechanisms, impact on global trade, and future trends in sanctions policy."
+title: 'Understanding Economic Sanctions: Goals, Types, and Impact'
+description: Economic sanctions use trade and financial measures to pressure governments
+  change policies assess impacts and influence global trade Discover more inside.
 ---
 
 

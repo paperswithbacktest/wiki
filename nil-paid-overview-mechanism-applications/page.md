@@ -1,6 +1,7 @@
 ---
-title: "Nil Paid: Overview, Mechanism, and Applications"
-description: "Explore the synergy between nil-paid rights and algorithmic trading to enhance investment strategies Discover how these financial innovations redefine trading mechanisms and opportunities"
+title: Understanding Nil Paid Rights in Equity Rights Issues
+description: Nil Paid rights provide shareholders a cost-free option to purchase discounted
+  equity during rights issues or trade them for profit. Discover more inside.
 ---
 
 

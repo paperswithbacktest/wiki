@@ -1,6 +1,8 @@
 ---
-title: "Multiplier in Finance and Economics"
-description: "Explore the intersection of multiplier economics and algorithmic trading in finance with an in-depth look at how these pivotal concepts shape modern financial systems. Understand the multiplier effect, which amplifies economic activity following initial expenditure and its crucial role in fiscal policy and investment strategies. Discover the impact of algorithmic trading in enhancing market liquidity and reducing transaction costs while acknowledging the associated risks. This page provides valuable insights for traders and economists aiming to leverage these interactions in developing innovative financial strategies."
+title: Understanding the Economic Multiplier Effect and Its Impact
+description: Economic multiplier effect shows how initial spending amplifies total
+  economic activity through successive rounds of consumption and investment Discover
+  more inside
 ---
 
 

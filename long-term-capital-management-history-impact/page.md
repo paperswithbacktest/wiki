@@ -1,6 +1,7 @@
 ---
-title: "Long-Term Capital Management: History and Impact"
-description: "Explore the rise and fall of Long-Term Capital Management a hedge fund known for its algorithmic trading strategies and impact on financial risk management."
+title: Lessons From the Long-Term Capital Management Collapse
+description: LTCM collapse reveals the risks of excessive leverage and interconnected
+  markets while guiding smarter risk management practices Discover more inside.
 ---
 
 

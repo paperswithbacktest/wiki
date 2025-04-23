@@ -1,6 +1,7 @@
 ---
-title: "Natural Gas Liquids: Types and Examples"
-description: "Explore Natural Gas Liquids like ethane and propane, their industrial uses, and how algorithmic trading is shaping the NGL commodities market."
+title: 'Natural Gas Liquids Guide: Processing Applications and Trading'
+description: Natural gas liquids simplify energy and petrochemical processes from
+  extraction methods to advanced algorithmic trading insights Discover more inside
 ---
 
 

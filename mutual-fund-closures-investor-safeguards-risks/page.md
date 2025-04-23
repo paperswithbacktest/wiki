@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Closures: Investor Safeguards or Risks"
-description: "Explore the impact of mutual fund closures on investments and discover how algorithmic trading and investment protection funds safeguard investor interests."
+title: Key Investor Guide to Mutual Fund Closure Procedures
+description: Mutual fund closure covers why funds close the steps of asset liquidation
+  fee impacts and investor safeguards so you stay informed Discover more inside.
 ---
 
 

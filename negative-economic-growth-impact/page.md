@@ -1,6 +1,7 @@
 ---
-title: "Negative Economic Growth and Its Impact"
-description: "Explore how negative economic growth and algorithmic trading intersect shaping financial markets and global economies with complex challenges and opportunities."
+title: Understanding Negative Economic Growth and Its Impacts
+description: Negative economic growth shows how shrinking GDP leads to job losses
+  and price changes as fiscal and monetary policies drive recovery Discover more inside
 ---
 
 

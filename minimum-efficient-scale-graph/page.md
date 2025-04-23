@@ -1,6 +1,7 @@
 ---
-title: "Minimum Efficient Scale with Graph"
-description: "Explore how economies of scale, minimum efficient scale, and algorithmic trading intertwine to optimize business efficiency and competitive market advantage."
+title: Achieving Minimum Efficient Scale To Optimize Business Costs
+description: Minimum Efficient Scale shows businesses how to reach the ideal production
+  size to lower costs, remain competitive and optimize resources Discover more
 ---
 
 

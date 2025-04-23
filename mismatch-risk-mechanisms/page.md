@@ -1,6 +1,7 @@
 ---
-title: "Mismatch Risk and Its Mechanisms"
-description: "Explore the dynamics of mismatch risk in algorithmic trading and discover strategies for effectively managing risks to optimize trading performance in financial markets."
+title: Understanding Mismatch Risk in Financial Institutions
+description: Mismatch risk arises when banks face timing gaps between assets and liabilities
+  Proactive plans maintain liquidity and limit losses Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Marijuana ETFs: Advantages and Disadvantages"
-description: "Discover the opportunities and challenges of investing in marijuana ETFs and the impact of algorithmic trading on these investment vehicles. Explore how these ETFs provide diversified access to the cannabis industry, the pros and cons of such investments, and how cutting-edge trading strategies can enhance returns in a volatile market."
+title: Comprehensive Guide To Investing In Marijuana ETFs
+description: Marijuana ETFs deliver diversified cannabis stock exposure while managing
+  legal risks Investors can optimize portfolio growth Discover more inside
 ---
 
 

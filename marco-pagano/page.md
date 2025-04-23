@@ -1,6 +1,7 @@
 ---
-title: "Marco Pagano"
-description: "Explore the academic journey of Marco Pagano, an economist with expertise in finance, market microstructure, and corporate finance. Discover his contributions and roles."
+title: Marco Pagano Italian Economist and Financial Policy Advisor
+description: Marco Pagano boosts efficiency and governance in financial markets via
+  research and advising that strengthens banking systems Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Local volatility"
-description: "Discover the crucial role of local volatility in pricing derivatives and the impact of algo trading in modern finance for optimizing trade strategies."
+title: Understanding Local Volatility Models in Option Pricing
+description: Local volatility models reveal how option prices change across time and
+  price levels to guide smarter trading decisions. Discover more inside.
 ---
 
 

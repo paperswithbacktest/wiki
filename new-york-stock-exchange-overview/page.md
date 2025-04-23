@@ -1,6 +1,7 @@
 ---
-title: "New York Stock Exchange Overview"
-description: "Discover how algorithmic trading has revolutionized the NYSE, boosting liquidity, efficiency, and market stability for over 2300 listed companies."
+title: Understanding the New York Stock Exchange and Its Trading Dynamics
+description: New York Stock Exchange overview explains its history trading systems
+  and listing requirements in active voice Discover more inside
 ---
 
 

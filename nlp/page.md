@@ -1,6 +1,8 @@
 ---
-title: "NLP (Machine Learning)"
-description: "Explore NLP's role in AI and machine learning to bridge human and computer communication enhancing language tasks like translation speech recognition and text analysis"
+title: Understanding Natural Language Processing And Its Key Components
+description: Natural Language Processing lets computers interpret text and speech
+  using tokenization syntax parsing models and evaluate performance Discover more
+  inside
 ---
 
 ![Image](images/1.png)

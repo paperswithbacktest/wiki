@@ -1,6 +1,7 @@
 ---
-title: "Money on the Sidelines: Concept and Mechanism"
-description: "Discover how money on the sidelines impacts market dynamics and the role of algorithmic trading in shaping investment strategies and market behavior."
+title: Debunking the Money on the Sidelines Myth in Finance
+description: Money on the Sidelines refers to funds in savings and bonds not boosting
+  market capital and experts say it merely shifts between assets Discover more
 ---
 
 

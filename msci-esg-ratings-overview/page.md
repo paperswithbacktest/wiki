@@ -1,6 +1,7 @@
 ---
-title: "MSCI ESG Ratings Overview"
-description: "Explore MSCI ESG Ratings for insights on sustainable investments aligning ethical values with financial success in algorithmic trading and modern strategies."
+title: Understanding MSCI ESG Ratings for Sustainable Investors
+description: MSCI ESG Ratings measure environmental social and governance performance
+  guiding investors to align portfolios with values manage risk Discover more inside
 ---
 
 

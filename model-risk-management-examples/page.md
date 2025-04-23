@@ -1,6 +1,7 @@
 ---
-title: "Model Risk: Management and Examples"
-description: "Explore the challenges of model risk in algorithmic trading and learn strategies for effective risk management to ensure robust and resilient trading systems."
+title: Comprehensive Model Risk Management Practices for Organizations
+description: Model risk management helps firms identify, assess and mitigate flaws
+  in decision models to prevent costly errors and ensure stability Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Non-Objecting Beneficial Owner"
-description: "Uncover the strategic advantage of understanding the synergy between Non-Objecting Beneficial Owners and algorithmic trading in modern finance."
+title: Guide to Non-Objecting Beneficial Owner NOBO Benefits and Risks
+description: Non-Objecting Beneficial Owner status gives investors direct updates
+  votes and company news while preserving privacy safeguards Discover more inside.
 ---
 
 

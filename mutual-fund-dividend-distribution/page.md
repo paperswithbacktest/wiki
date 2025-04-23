@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Dividend Distribution"
-description: "Optimize your investment strategy with insights into mutual fund dividend distribution and algorithmic trading to enhance both income and portfolio growth."
+title: Understanding Mutual Fund Dividend Distributions For Investors
+description: Mutual fund dividends offer investors regular income or long term growth
+  by distributing or reinvesting earnings from stock holdings Discover more inside.
 ---
 
 

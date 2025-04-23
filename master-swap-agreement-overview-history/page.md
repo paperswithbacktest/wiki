@@ -1,6 +1,7 @@
 ---
-title: "Master Swap Agreement: Overview and Historical Context"
-description: "Explore the Master Swap Agreement's history and its pivotal role in algorithmic trading by understanding its structure's evolution in OTC derivatives."
+title: Master Swap Agreements for Effective Financial Risk Management
+description: Master Swap Agreements set a clear framework for swap transactions to
+  streamline financial risk management and secure payments Discover more inside
 ---
 
 

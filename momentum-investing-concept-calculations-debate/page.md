@@ -1,6 +1,7 @@
 ---
-title: "Momentum Investing: Concept, Calculations, and Debate"
-description: "Explore how synergy between momentum investing and algorithmic trading optimizes strategies in financial markets and leverages market trends for improved outcomes."
+title: Momentum Investing Strategy Guide For Stock Market Investors
+description: Momentum Investing helps you harness price trends using RSI and moving
+  averages enabling faster decisions and risk control Discover more inside
 ---
 
 

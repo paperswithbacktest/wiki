@@ -1,6 +1,7 @@
 ---
-title: "Major Shareholders of Primerica, Inc."
-description: "Explore how algorithmic trading impacts major shareholders of Primerica Inc., a leading financial services company specializing in products for middle-income households."
+title: Primerica Inc Ownership Breakdown and Shareholder Impact
+description: Primerica Inc ownership structure reveals how institutional and insider
+  investors shape governance and strategy with aligned interests Discover more inside
 ---
 
 

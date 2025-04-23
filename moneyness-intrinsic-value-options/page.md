@@ -1,6 +1,7 @@
 ---
-title: "Moneyness and Intrinsic Value of Options"
-description: "Explore moneyness and intrinsic value in options trading to enhance algorithmic strategies Gain insights into evaluating profitability and optimizing trading decisions"
+title: Comprehensive Guide to Option Moneyness and Intrinsic Value
+description: Option moneyness evaluates profitability by comparing market and strike
+  prices along with intrinsic and time value factors Discover more inside
 ---
 
 

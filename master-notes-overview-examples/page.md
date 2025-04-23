@@ -1,6 +1,7 @@
 ---
-title: "Master Notes: Overview and Examples"
-description: "Explore the benefits of master notes and algorithmic trading in finance Learn how these instruments enhance diversification risk management and investment returns"
+title: 'Master Notes: A Comprehensive Guide To Efficient Study Summaries'
+description: Master Notes help you compile key concepts examples and connections into
+  one organized resource for faster review and retention Discover more inside
 ---
 
 

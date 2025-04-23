@@ -1,6 +1,7 @@
 ---
-title: "Mean Return: Calculation and Benefits"
-description: "Explore the calculation and benefits of mean return in algorithmic trading to improve investment strategies by leveraging financial metrics and predictive insights."
+title: Understanding Mean Return in Finance and Its Importance
+description: Mean return provides a clear average of investment performance and shows
+  how to calculate and use it for smarter portfolio decisions Discover more inside.
 ---
 
 

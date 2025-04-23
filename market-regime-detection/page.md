@@ -1,6 +1,7 @@
 ---
-title: "market regime detection"
-description: "Market regime detection is vital for algorithmic trading enabling traders to adapt strategies to market phases using models like Hidden Markov Models for optimal results."
+title: Market Regime Detection Strategies for Smarter Investing
+description: Market regime detection helps investors identify market phases and adjust
+  strategies with data driven insights to improve investments Discover more inside
 ---
 
 

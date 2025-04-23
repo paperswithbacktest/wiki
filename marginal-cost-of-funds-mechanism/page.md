@@ -1,6 +1,7 @@
 ---
-title: "Marginal Cost of Funds and Its Mechanism"
-description: "Explore the significance of the marginal cost of funds in algorithmic trading Analyze how financial mechanisms and costs impact modern trading strategies for success"
+title: Understanding the Marginal Cost of Funds for Banks
+description: Marginal cost of funds guides banks to set rates for loans and deposits
+  based on actual funding costs and risk management Discover more inside.
 ---
 
 

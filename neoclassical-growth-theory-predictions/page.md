@@ -1,6 +1,7 @@
 ---
-title: "Neoclassical Growth Theory and Its Predictions"
-description: "Explore the synergy between neoclassical growth theory and algorithmic trading to understand economic growth predictions and their impact on financial strategies."
+title: Neoclassical Growth Theory Explained Capital Labor and Technology
+description: Neoclassical Growth Theory explores how capital labor and technology
+  drive economic expansion and convergence across countries Discover more inside.
 ---
 
 

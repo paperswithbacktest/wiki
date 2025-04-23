@@ -1,6 +1,7 @@
 ---
-title: "Long-Term Outlook for Metals and Mining Sector"
-description: "Explore the long-term growth of the metals and mining sector with a focus on algorithmic trading's impact on market efficiency, liquidity, and future trends."
+title: Metals and Mining Industry Trends in Demand and Sustainability
+description: Metals and mining industry adapts to rising demand through sustainable
+  practices and new technologies for growth and resilience Discover more inside
 ---
 
 

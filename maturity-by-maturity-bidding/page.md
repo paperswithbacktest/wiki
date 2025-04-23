@@ -1,6 +1,7 @@
 ---
-title: "Maturity by Maturity Bidding"
-description: "Explore the growing relevance of maturity bidding in investment strategies and algorithmic trading Discover how these tools optimize financial outcomes for investors"
+title: Optimizing Bond Portfolios With Maturity by Maturity Bidding
+description: Maturity by Maturity Bidding empowers investors with precise bond maturity
+  control to match cash needs and optimize financial planning Discover more inside
 ---
 
 

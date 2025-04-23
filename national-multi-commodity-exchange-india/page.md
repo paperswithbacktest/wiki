@@ -1,6 +1,7 @@
 ---
-title: "National Multi-Commodity Exchange of India"
-description: "Explore how the National Multi-Commodity Exchange (NMCE) utilizes algorithmic trading to enhance efficiency and accessibility in India's commodity market."
+title: National Multi-Commodity Exchange of India Explained
+description: National Multi-Commodity Exchange of India offers a futures market for
+  commodities helping farmers and traders lock in prices Discover more inside
 ---
 
 

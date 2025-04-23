@@ -1,6 +1,7 @@
 ---
-title: "Mission Investors Exchange: Overview and Membership Process"
-description: "Explore the transformative role of Mission Investors Exchange in impact investing. Discover membership types and the alignment of financial goals with social values."
+title: Mission Investors Exchange Impact Investing Network
+description: Mission Investors Exchange connects foundations and investors with tools
+  and insights for social and environmental impact investments Discover more inside
 ---
 
 

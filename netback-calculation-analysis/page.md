@@ -1,6 +1,7 @@
 ---
-title: "Netback Calculation and Analysis"
-description: "Explore the role of netback calculations and algorithmic trading in the oil and gas industry Discover how these strategies optimize profitability and trading decisions."
+title: Netback Calculation Insights for Oil and Gas Profitability
+description: Netback calculation reveals profitability per barrel by deducting transport
+  taxes royalties and marketing costs in oil and gas Discover more inside.
 ---
 
 

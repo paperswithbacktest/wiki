@@ -1,6 +1,7 @@
 ---
-title: "Motor Vehicle Sales"
-description: "Explore how algorithmic trading is transforming the vehicle sales market by enhancing efficiency and transparency. Embrace innovation with ALgo and Carvana."
+title: Comprehensive Guide to Starting a Motor Vehicle Sales Business
+description: Motor vehicle sales demand strategic planning and legal compliance We
+  cover sourcing marketing and tech solutions to boost your sales Discover more inside
 ---
 
 

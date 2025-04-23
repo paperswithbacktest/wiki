@@ -1,6 +1,7 @@
 ---
-title: "Loan Participation Note"
-description: "Explore the benefits of Loan Participation Notes LPNs including yield enhancement risk diversification and algorithmic trading integration in investment portfolios"
+title: Understanding Loan Participation Notes for Steady Income Investors
+description: Loan Participation Notes offer steady income through shared loan payments
+  and help diversify portfolios while managing risk Discover more inside
 ---
 
 

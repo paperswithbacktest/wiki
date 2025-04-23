@@ -1,6 +1,7 @@
 ---
-title: "Net Proceeds: Calculation and Examples"
-description: "Explore how net proceeds influence algorithmic trading strategies by understanding their calculation and crucial role in optimizing financial performance and decision-making strategies."
+title: Understanding Net Proceeds Calculation and Practical Examples
+description: Net proceeds show the amount you keep after subtracting fees taxes and
+  commissions from gross proceeds Get clear calculation tips Discover more inside.
 ---
 
 

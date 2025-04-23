@@ -1,6 +1,7 @@
 ---
-title: "Myron Scholes: Economist and Nobel Laureate"
-description: "Discover the accomplishments of economist and Nobel laureate Myron Scholes known for co-developing the Black-Scholes model revolutionizing option pricing."
+title: Myron Scholes and the Black-Scholes Model in Finance
+description: Black-Scholes model guides investors to manage risk and price options
+  with accuracy Myron Scholes contributions reshaped finance Discover more inside
 ---
 
 

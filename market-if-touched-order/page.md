@@ -1,6 +1,7 @@
 ---
-title: "Market-If-Touched Order"
-description: "Optimize your trading strategy with Market-if-Touched (MIT) orders Learn how they automate market engagement streamline decision-making and manage risks effectively"
+title: Understanding Market-If-Touched Orders for Strategic Trading
+description: Market-If-Touched order lets you set automatic buy or sell triggers at
+  specific prices to execute trades without constant monitoring Discover more inside
 ---
 
 

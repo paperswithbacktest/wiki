@@ -1,6 +1,7 @@
 ---
-title: "Namecoin: Overview and Functionality"
-description: "Discover how Namecoin combines blockchain technology with algorithmic trading to optimize decentralized online identity systems and enhance trading efficiency."
+title: Understanding Namecoin Blockchain and .bit Domain Registration
+description: Namecoin lets you secure and manage decentralized .bit domains while
+  offering digital currency functions on a tamper proof blockchain Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "List of Major Russian Oil Companies"
-description: "Discover major Russian oil companies and explore how algorithmic trading is reshaping the oil market enhancing efficiency and influencing global dynamics."
+title: Major Russian Oil Companies Overview Rosneft Gazprom Neft Lukoil
+description: Russian oil companies Rosneft Gazprom Neft Lukoil boost revenue with
+  exploration production refining exports and support jobs Discover more inside
 ---
 
 

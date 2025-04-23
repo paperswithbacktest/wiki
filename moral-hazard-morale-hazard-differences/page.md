@@ -1,6 +1,8 @@
 ---
-title: "Moral Hazard and Morale Hazard: Differences"
-description: "Explore the distinctions between moral and morale hazard in financial markets Learn how these concepts interact with algorithmic trading and affect market stability"
+title: 'Moral Hazard and Morale Hazard: Key Concepts and Solutions'
+description: Moral hazard occurs when individuals take greater risks because they
+  are protected while morale hazard stems from low motivation; Discover solutions
+  inside
 ---
 
 

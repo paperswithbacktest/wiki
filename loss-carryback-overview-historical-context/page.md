@@ -1,6 +1,7 @@
 ---
-title: "Loss Carryback: Overview and Historical Context"
-description: "Explore the convergence of loss carryback tax strategies, financial history, and algorithmic trading to maximize gains and improve tax efficiency in finance."
+title: 'Understanding Loss Carryback: How Businesses Claim Tax Refunds'
+description: Loss Carryback lets firms reclaim taxes paid in prior years by offsetting
+  current losses against past profits for immediate cash flow relief Discover more
 ---
 
 

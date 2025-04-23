@@ -1,6 +1,7 @@
 ---
-title: "Macro Accounting: Overview and Functionality"
-description: "Explore the interplay of macro accounting and algorithmic trading, uncover how they drive financial strategies, and gain insights into economic indicators."
+title: Comprehensive Guide to Macro Accounting and Economic Indicators
+description: Macro Accounting reveals national income, GDP trends, inflation and trade
+  balance dynamics to inform policy and economic forecasts Discover more inside.
 ---
 
 

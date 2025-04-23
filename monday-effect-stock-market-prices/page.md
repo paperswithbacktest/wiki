@@ -1,6 +1,7 @@
 ---
-title: "Monday Effect on Stock Market Prices"
-description: "Discover the Monday Effect's potential impact on stock markets and algorithmic trading Explore this intriguing trend for valuable trading insights"
+title: Understanding the Monday Effect in Stock Market Behavior
+description: Monday Effect trends show how weekend news and investor psychology drive
+  Monday selloffs and how traders mitigate risks Discover more inside.
 ---
 
 

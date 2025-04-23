@@ -1,6 +1,7 @@
 ---
-title: "MiFID II Regulations and Impact"
-description: "Explore the impact of MiFID II regulations on algorithmic trading, focusing on transparency, market integrity, and enhanced investor protection in the EU."
+title: Understanding MiFID II Rules for Transparency and Investor Protection
+description: MiFID II rules ensure firms disclose costs risks and report trades to
+  strengthen market transparency and protect investors Discover more inside
 ---
 
 

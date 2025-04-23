@@ -1,6 +1,7 @@
 ---
-title: "Market Cornering: Definition, Mechanisms, and Legal Implications"
-description: "Explore the complexities of market cornering its mechanisms and legal implications in algorithmic trading Discover how these elements impact financial markets"
+title: 'Market Cornering: Risks, Mechanisms, and Regulatory Safeguards'
+description: Market cornering inflates prices disrupts supply and risks antitrust
+  fines. See key mechanisms impacts and legal safeguards Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "NASDAQ Global Select Market Composite Overview"
-description: "Explore the NASDAQ Global Select Market Composite and its impact on global markets Discover how algo trading reshapes financial dynamics and enhances efficiency"
+title: Understanding the Nasdaq Global Select Market Composite
+description: NASDAQ Global Select Market Composite tracks top Nasdaq companies under
+  strict standards so investors gain clear market insights Discover more inside
 ---
 
 

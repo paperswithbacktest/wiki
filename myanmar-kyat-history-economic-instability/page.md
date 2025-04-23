@@ -1,6 +1,7 @@
 ---
-title: "Myanmar Kyat: History and Economic Instability"
-description: "Explore the Myanmar Kyat's rich history and economic instability influenced by both traditional factors and modern algorithmic trading dynamics."
+title: Myanmar Kyat Fluctuations and Their Impact on Economic Stability
+description: Explore how Myanmar Kyat fluctuations affect prices trade and stability
+  in the Myanmar economy by revealing market drivers and risks Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mixed Lot: Overview, Functionality, and Benefits"
-description: "Explore the integration of mixed lot logistics with algorithmic trading to optimize inventory management enhance trading performance and improve supply chain efficiency."
+title: Understanding Mixed Lots in Trading and Financial Markets
+description: Mixed lots help you diversify portfolios reduce trading fees manage risk
+  and optimize asset allocation across markets cut complexity Discover more inside
 ---
 
 

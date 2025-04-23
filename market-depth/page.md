@@ -1,6 +1,7 @@
 ---
-title: "Market depth"
-description: Discover the significance of market depth in algorithmic trading and how it enhances trade execution and strategy optimization. Learn how this crucial concept allows traders to assess market liquidity, anticipate price movements, and manage risk with precision. Explore the impact of factors like tick size and trading restrictions on market depth, and see how algorithms leverage this data to improve decision-making and profitability. Whether you're a seasoned trader or new to the financial world, understanding market depth can transform your trading approach.
+title: Comprehensive Guide to Understanding Market Depth in Trading
+description: Market Depth reveals liquidity levels real-time to help you understand
+  order book dynamics and manage execution risks with precision Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Style Box"
-description: "Explore the integration of style box mutual funds and algorithmic trading to enhance investment strategies and optimize portfolios for better returns."
+title: Understanding the Mutual Fund Style Box for Portfolio Decisions
+description: Mutual fund style box provides clear insights into fund sizes and style
+  categories to guide smarter portfolio choices Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market Cycles: How They Work and Their Types"
-description: "Unlock insights into market cycles and improve trading strategies by understanding the phases of expansion and contraction Explore how algorithmic trading optimizes this knowledge"
+title: Market Cycles Explained Professional Strategies for Investors
+description: Market cycles guide investment timing through expansion contraction bull
+  bear phases to optimize risk management and maximize returns Discover more inside
 ---
 
 

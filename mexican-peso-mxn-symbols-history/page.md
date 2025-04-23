@@ -1,6 +1,7 @@
 ---
-title: "Mexican Peso (MXN): Symbols and History"
-description: "Explore the evolution of the Mexican Peso MXN from its historical roots to its current role in algorithmic trading and global financial markets."
+title: Mexican Peso Currency Overview And Exchange Rate Factors
+description: Mexican Peso overview in a comprehensive guide that covers its origins
+  design changes denominations exchange factors and global impact Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Managed Accounts and Mutual Funds: Comparison and Functionality"
-description: "Gain insights into the nuances between managed accounts mutual funds and algorithmic trading Discover how each investment type functions to optimize your strategy"
+title: Understanding Managed Accounts Versus Mutual Funds
+description: Managed accounts deliver personalized investment decisions while mutual
+  funds offer lower minimums and diversified portfolios Discover more inside
 ---
 
 

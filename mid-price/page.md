@@ -1,6 +1,7 @@
 ---
-title: "Mid price"
-description: Algorithmic trading revolutionizes financial markets by automating trade execution with minimal human intervention. A key concept in this domain is the mid-price, which averages the bid and ask prices to assess a fair asset value. This metric is essential for crafting, back-testing, and executing cost-effective trading strategies, enabling traders to refine algorithms for greater accuracy and profitability. Understanding mid-price and its nuances, such as rounding conventions and market fluidity, is crucial. In dynamic environments, mid-price serves as a stable reference point, aiding in effective risk management and optimizing trades within algorithmic systems.
+title: Mid Price Calculation and Importance in Financial Markets
+description: Mid price gives traders a balanced estimate of asset value by averaging
+  bid and ask prices and helps guide buy and sell decisions Discover more inside
 ---
 
 

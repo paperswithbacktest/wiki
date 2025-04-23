@@ -1,6 +1,7 @@
 ---
-title: "Monthly Income Preferred Securities"
-description: "Invest in Monthly Income Preferred Securities to enjoy steady income with monthly dividends Use algorithmic trading for optimized returns and reduced risks"
+title: Monthly Income Preferred Securities Strategies For Steady Income
+description: Monthly Income Preferred Securities provide regular payouts and attractive
+  yields while detailing risks and diversification strategies Discover more inside.
 ---
 
 

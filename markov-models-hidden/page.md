@@ -1,6 +1,7 @@
 ---
-title: "Markov models (hidden)"
-description: Explore the use of Hidden Markov Models (HMM) in algorithmic trading to boost strategy effectiveness. Understand how these models detect hidden market regimes to adapt strategies and improve risk-adjusted returns. Discover HMM's role in predicting market behaviors and applying them via trading platforms like QSTrader for real-time strategy enhancement. Delve into trading strategy development and risk management through regime identification using robust probabilistic models.
+title: Hidden Markov Model Fundamentals And Practical Applications
+description: Hidden Markov Model offers a framework to infer unseen states from observed
+  data using transition and emission probabilities Discover more inside
 ---
 
 

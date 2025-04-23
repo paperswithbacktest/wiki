@@ -1,6 +1,7 @@
 ---
-title: "Mean-Variance Analysis"
-description: "Explore mean-variance analysis in portfolio theory and algorithmic trading Discover strategies to optimize risk and return in dynamic financial markets"
+title: Mean-Variance Analysis for Optimal Portfolio Risk and Return
+description: Mean-Variance Analysis helps investors balance risk and return through
+  efficient frontier insights and portfolio optimization Discover more inside
 ---
 
 

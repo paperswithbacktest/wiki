@@ -1,6 +1,7 @@
 ---
-title: "Monetarism: Concepts and Examples"
-description: "Explore the relationship between monetarism and algorithmic trading as this page investigates into how economic theory shapes modern financial practices and policy impacts."
+title: Monetarism Principles And Impact On Global Economic Policy
+description: Monetarism explains how steady control of the money supply shapes inflation
+  management and economic growth with policy insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "MBA Refinance Index"
-description: "Explore the key factors influencing mortgage refinancing and learn how algorithmic trading impacts the MBA Refinance Index and the broader mortgage market."
+title: Understanding the MBA Refinance Index and Housing Market Trends
+description: MBA Refinance Index tracks weekly home loan refinancing activity to reveal
+  market shifts and guide smarter mortgage strategies Discover more inside.
 ---
 
 

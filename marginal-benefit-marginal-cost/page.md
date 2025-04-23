@@ -1,6 +1,7 @@
 ---
-title: "Marginal Benefit and Marginal Cost"
-description: "Explore how marginal benefit and cost principles enhance algorithmic trading strategies. Learn to optimize performance by balancing trade decisions efficiently."
+title: Marginal Benefit and Marginal Cost for Optimal Decision Making
+description: Marginal Benefit and Marginal Cost help you compare extra gains and expenses
+  to make smarter decisions on product output. Discover more inside.
 ---
 
 

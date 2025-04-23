@@ -1,6 +1,7 @@
 ---
-title: "Mumbai Interbank Bid Rate: Overview and History"
-description: "Discover how the Mumbai Interbank Bid Rate MIBID and MIBOR influence India's financial market, algorithmic trading, and their critical role in liquidity management."
+title: Exploring the Mumbai Interbank Bid Rate in Indian Money Market
+description: Mumbai Interbank Bid Rate sets borrowing costs between banks in India
+  and influences loan and savings rates in the financial system Discover more inside
 ---
 
 

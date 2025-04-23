@@ -1,6 +1,7 @@
 ---
-title: "Major Donors to the Clinton Campaign"
-description: "Explore the key donors behind Hillary Clinton's 2016 campaign and the innovative use of algorithmic trading in political fundraising strategies."
+title: Major Donors to the Clinton Campaign and Their Strategic Impact
+description: Clinton campaign donors contributed millions from industries like finance
+  technology media and unions to fund ads staffing and travel Discover more inside
 ---
 
 

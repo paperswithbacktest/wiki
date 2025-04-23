@@ -1,6 +1,7 @@
 ---
-title: "Mechanical Trading Strategies: The Comprehensive Guide"
-description: Explore the foundations of mechanical trading strategies, including market selection, position sizing, entry and exit rules, stops and targets, and systematized decision-making. Learn how technical indicators play a crucial role in informing and validating trading decisions in this comprehensive guide to mechanical trading.
+title: Fundamentals and Components of Mechanical Trading Strategies
+description: Mechanical trading strategies use predefined entry exit risk management
+  rules to remove emotion and enable consistent trading results Discover more inside
 ---
 
 

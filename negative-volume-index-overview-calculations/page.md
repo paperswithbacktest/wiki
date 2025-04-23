@@ -1,6 +1,7 @@
 ---
-title: "Negative Volume Index: Overview and Calculations"
-description: "Explore the Negative Volume Index (NVI) as a distinctive tool in algorithmic trading offering insights into market dynamics during low-volume days to reveal smarter money trends."
+title: Understanding the Negative Volume Index in Stock Analysis
+description: Negative Volume Index reveals how smart money moves on low volume days
+  to anticipate stock trends and boost trading decisions Discover more inside.
 ---
 
 

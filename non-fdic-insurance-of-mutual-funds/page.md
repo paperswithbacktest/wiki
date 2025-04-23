@@ -1,6 +1,7 @@
 ---
-title: "Non-FDIC Insurance of Mutual Funds"
-description: "Explore the dynamics of mutual funds and algorithmic trading in investment strategies focusing on the risks without FDIC coverage and the role of diversification."
+title: Understanding FDIC Insurance and Mutual Fund Investment Safety
+description: FDIC insurance secures deposit accounts up to 250000 but does not cover
+  mutual funds Explore strategies to protect your investments Discover more inside.
 ---
 
 

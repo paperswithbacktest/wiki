@@ -1,6 +1,7 @@
 ---
-title: "Masked Language Model (Machine Learning)"
-description: "Discover the power of Masked Language Models in machine learning Learn how they predict masked words to better understand language context and relationships"
+title: Understanding Masked Language Models in Machine Learning
+description: Masked Language Models boost NLP by predicting masked words with bidirectional
+  context for translation summarization and QA Discover more inside
 ---
 
 ![Image](images/1.png)

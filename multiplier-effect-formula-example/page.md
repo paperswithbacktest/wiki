@@ -1,6 +1,7 @@
 ---
-title: "Multiplier Effect: Formula and Example"
-description: "Explore the multiplier effect in economic theory and its role in algorithmic trading Learn how spending increases amplify economic output and impact trading strategies"
+title: Multiplier Effect in Economics Explained With Key Formulas
+description: Multiplier Effect in Economics shows how spending triggers a chain of
+  income and spending that amplifies growth in sectors. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Net Liabilities to Policyholders' Surplus: Explanation and Function"
-description: "Explore how net liabilities to policyholders' surplus ratios impact insurer solvency and the role of algorithmic trading in optimizing financial strategies."
+title: Understanding Net Liabilities to Policyholders' Surplus Ratio
+description: Net Liabilities to Policyholders Surplus Ratio highlights owed amounts
+  versus surplus to gauge insurer strength for solvency decisions Discover more inside
 ---
 
 

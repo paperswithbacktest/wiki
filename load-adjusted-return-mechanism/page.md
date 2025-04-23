@@ -1,6 +1,7 @@
 ---
-title: "Load-Adjusted Return and Its Mechanism"
-description: "Explore load-adjusted return and algorithmic trading mechanics to grasp investment performance better, ensuring realistic insights into profitability and strategy optimization."
+title: Load-Adjusted Returns for Accurate Investment Performance
+description: Load-adjusted return reveals your true investment growth after fees by
+  accounting for front-end, back-end, and ongoing charges Discover more inside
 ---
 
 

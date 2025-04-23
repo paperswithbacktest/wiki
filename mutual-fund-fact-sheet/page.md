@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Fact Sheet"
-description: "Explore the benefits of mutual funds and algorithmic trading through this comprehensive guide to mutual fund fact sheets and modern trading systems for investors."
+title: Understanding Mutual Fund Fact Sheets for Informed Investing
+description: Mutual Fund Fact Sheet outlines key fees performance holdings and risk
+  measures to guide confident investment decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Load: Significance, Types, and Considerations"
-description: "Explore the dynamics of load in algorithmic trading Learn about different load types and their impact on profitability to optimize your trading strategies effectively"
+title: Understanding Structural Loads in Engineering and Construction
+description: Structural loads define forces on structures from dead live and environmental
+  sources ensuring safety and cost efficiency Discover more inside
 ---
 
 

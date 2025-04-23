@@ -1,6 +1,7 @@
 ---
-title: "Net Tangible Assets"
-description: "Discover the significance of Net Tangible Assets in evaluating a company's financial health. Explore its role in investment strategy and algorithmic trading."
+title: Complete Guide to Net Tangible Assets for Investors
+description: Net Tangible Assets measure the worth of a business by subtracting liabilities
+  and intangibles so investors can assess stability. Discover more inside.
 ---
 
 

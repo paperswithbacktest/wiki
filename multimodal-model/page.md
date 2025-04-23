@@ -1,6 +1,7 @@
 ---
-title: "Multimodal Model (Machine Learning)"
-description: "Discover the power of multimodal models in machine learning which integrate text images and more for advanced problem-solving like self-driving cars and healthcare."
+title: Understanding Multimodal Models in Machine Learning
+description: Multimodal models merge text images and video to enhance tasks like image
+  captioning and diagnosis with unified data processing Discover more inside.
 ---
 
 ![Image](images/1.webp)

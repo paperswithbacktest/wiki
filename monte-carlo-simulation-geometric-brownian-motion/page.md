@@ -1,6 +1,7 @@
 ---
-title: "Monte Carlo Simulation Using Geometric Brownian Motion"
-description: "Explore Monte Carlo simulations using Geometric Brownian Motion to enhance algorithmic trading strategies by predicting asset price movements and managing risks effectively."
+title: Monte Carlo Simulation With Geometric Brownian Motion Modeling
+description: Monte Carlo simulation using Geometric Brownian Motion models stock price
+  paths for forecasting to evaluate risk and future returns Discover more.
 ---
 
 

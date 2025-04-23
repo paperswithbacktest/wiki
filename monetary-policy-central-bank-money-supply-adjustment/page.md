@@ -1,6 +1,7 @@
 ---
-title: "Monetary Policy: Mechanisms of Central Bank Money Supply Adjustment"
-description: "Explore how central bank monetary policies and algorithmic trading shape financial markets influencing economic growth interest rates and liquidity dynamics."
+title: Understanding Monetary Policy Tools and Their Economic Impact
+description: Monetary policy drives economic stability and growth by adjusting interest
+  rates reserve requirements and bond operations discover more inside
 ---
 
 

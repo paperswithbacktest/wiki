@@ -1,6 +1,7 @@
 ---
-title: "Negative Carry Pair: Explanation and Example"
-description: "Discover the nuances of negative carry pair trading in forex and learn how algo trading can optimize strategies to maximize potential returns in volatile markets."
+title: Mastering Negative Carry Pairs in Forex Trading Strategies
+description: Negative carry pairs in forex force traders to pay interest costs on
+  borrowed high-rate currency balanced by potential gains Discover more inside.
 ---
 
 

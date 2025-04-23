@@ -1,6 +1,7 @@
 ---
-title: "Mid-Cap Fund Overview and Examples"
-description: "Discover the strategic advantages of mid-cap funds and the role of algorithmic trading in optimizing investments offering a balanced growth and stability profile."
+title: Understanding Mid Cap Funds Benefits Risks and Strategies
+description: Mid cap funds offer a balance between growth and stability by focusing
+  on mid sized companies to boost returns while managing risk Discover more inside.
 ---
 
 

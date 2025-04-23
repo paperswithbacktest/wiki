@@ -1,6 +1,7 @@
 ---
-title: "Local Exchange Trading Systems"
-description: "Explore modern trading systems, including LETS and algorithmic trading. Learn how these systems offer alternatives to traditional trading and promote local economies."
+title: Local Exchange Trading System Benefits And Community Impact
+description: Local Exchange Trading System lets neighbors trade skills and goods using
+  credits to boost community self-reliance and support others. Discover more inside.
 ---
 
 

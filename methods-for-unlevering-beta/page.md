@@ -1,6 +1,7 @@
 ---
-title: "Methods for Unlevering Beta"
-description: "Explore the dynamic world of finance with a focus on understanding beta and its unlevered counterpart as essential metrics in investment strategy. This article investigates into the importance of unlevered beta by stripping away financial leverage effects to reveal intrinsic business risk. Gain insights into how these concepts impact algorithmic trading, risk assessments, and portfolio management, equipping investors and financial professionals with the knowledge to make informed decisions in a constantly evolving market landscape."
+title: Understanding and Calculating Unlevered Beta for Investors
+description: Unlevered beta helps investors assess true operational risk by stripping
+  out debt impact and comparing companies fairly Discover more inside.
 ---
 
 

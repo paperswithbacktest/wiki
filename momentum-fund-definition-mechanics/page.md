@@ -1,6 +1,7 @@
 ---
-title: "Momentum Fund: Definition and Mechanics"
-description: "Explore the dynamic world of momentum funds and algorithmic trading where upward market trends and automated strategies combine to optimize investment returns."
+title: Understanding Momentum Funds Strategies Risks and Returns
+description: Momentum funds leverage recent winners by buying rising stocks and exiting
+  before downturns while managing volatility and fees Discover more inside.
 ---
 
 

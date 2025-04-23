@@ -1,6 +1,7 @@
 ---
-title: "Milestones of American Women"
-description: "Discover the pivotal achievements of American women in algorithmic trading and how their innovation and leadership have transformed the finance industry."
+title: American Women's Rights Key Milestones From Seneca Falls To Today
+description: American women's rights history charts pivotal milestones from Seneca
+  Falls through Title IX and MeToo shaping equality today. Discover more inside
 ---
 
 

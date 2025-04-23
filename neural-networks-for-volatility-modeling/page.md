@@ -1,6 +1,7 @@
 ---
-title: "Neural networks for volatility modeling"
-description: "Explore how neural networks enhance volatility modeling in algorithmic trading Discover machine learning's role in predicting market risk and developing strategies"
+title: Applying Neural Networks to Volatility Modeling in Finance
+description: Neural network volatility modeling delivers flexible risk forecasts by
+  learning complex market patterns from historical data. Discover more inside.
 ---
 
 

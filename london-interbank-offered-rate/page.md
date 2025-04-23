@@ -1,6 +1,7 @@
 ---
-title: "London Interbank Offered Rate"
-description: "Explore the transition from LIBOR to new benchmarks like SOFR and its impact on algorithmic trading, ensuring reliable and transparent financial markets."
+title: LIBOR Benchmark Explained And Transition To New Reference Rates
+description: LIBOR benchmark overview explains its calculation controversies and phaseout
+  plus guidance on shifting to reliable new rates Discover more inside
 ---
 
 

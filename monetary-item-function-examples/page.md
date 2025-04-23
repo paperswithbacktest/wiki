@@ -1,6 +1,7 @@
 ---
-title: "Monetary Item: Function and Examples"
-description: "Explore the role of monetary assets in financial accounting and their impact on algorithmic trading Discover how these essentials drive modern financial strategies"
+title: Understanding Monetary Items in Financial Accounting
+description: Monetary items include cash bank balances loans and receivables tracked
+  to reflect true value under inflation and currency changes Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Model Router (Machine Learning)"
-description: "Discover the role of a Model Router in machine learning systems and learn how it selects the best model for each task to enhance accuracy and efficiency."
+title: Understanding Model Routers in Machine Learning Pipelines
+description: Model Router dynamically matches data types to the optimal model improving
+  speed and accuracy in real-time machine learning workflows. Discover more inside
 ---
 
 ![Image](images/1.png)

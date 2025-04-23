@@ -1,6 +1,7 @@
 ---
-title: "Natural Language Understanding (Machine Learning)"
-description: "Explore Natural Language Understanding a crucial part of AI that enables machines to grasp human language intentions emotions and context for better interactions"
+title: Essential Guide to Natural Language Understanding in AI
+description: Natural Language Understanding helps computers interpret human speech
+  and text for chatbots, voice assistants and translation apps. Discover more inside.
 ---
 
 ![Image](images/1.png)

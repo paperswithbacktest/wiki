@@ -1,6 +1,7 @@
 ---
-title: "Marginal Rate of Technical Substitution"
-description: "Explore the impact of blending traditional economic principles and technological advancements in finance with a focus on the Marginal Rate of Technical Substitution (MRTS) and algorithmic trading. Discover how these concepts optimize resource use and enhance trading efficiency for businesses seeking competitive advantages in production and financial markets."
+title: Marginal Rate Of Technical Substitution In Production Efficiency
+description: Marginal rate of technical substitution helps firms optimize labor and
+  capital trade offs for steady output and reduced costs. Discover more inside
 ---
 
 

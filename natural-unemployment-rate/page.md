@@ -1,6 +1,7 @@
 ---
-title: "Natural Unemployment Rate"
-description: "Discover how the natural unemployment rate influences algorithmic trading strategies. Explore key insights into unemployment economics and its market impact."
+title: Understanding the Natural Unemployment Rate and Its Implications
+description: Natural unemployment rate reveals the job market baseline at full capacity
+  and informs policy on inflation and training Discover more inside.
 ---
 
 

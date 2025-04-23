@@ -1,6 +1,7 @@
 ---
-title: "Net Debt Versus Gross Debt: Key Considerations"
-description: "Explore the critical role of net and gross debt metrics in evaluating company finances within algorithmic trading, highlighting their impact on trading decisions."
+title: Understanding Net Debt and Gross Debt for Financial Health
+description: Net debt shows how cash reserves reduce gross debt to reveal company
+  leverage and risk enabling informed investment decisions Discover more inside
 ---
 
 

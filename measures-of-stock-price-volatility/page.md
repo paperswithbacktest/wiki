@@ -1,6 +1,7 @@
 ---
-title: "Measures of Stock Price Volatility"
-description: "Explore the essential measures of stock price volatility and their significance in algorithmic trading to optimize risk management and maximize returns."
+title: Understanding Stock Price Volatility and Its Key Measures
+description: Stock Price Volatility helps investors measure and interpret market swings
+  with standard deviation beta ATR and Bollinger Bands Discover more inside.
 ---
 
 

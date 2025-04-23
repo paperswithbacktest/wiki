@@ -1,6 +1,7 @@
 ---
-title: "Merrill Lynch"
-description: "Explore Merrill Lynch's robust integration of algorithmic trading to enhance trading efficiency and innovation in the investment banking sector for clients globally."
+title: 'Merrill Lynch Overview: History Services and Future Prospects'
+description: Merrill Lynch offers personalized wealth management drawing on its century
+  legacy to guide investments retirement planning and banking Discover more inside
 ---
 
 

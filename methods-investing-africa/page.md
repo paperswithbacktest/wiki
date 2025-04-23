@@ -1,6 +1,7 @@
 ---
-title: "Methods of Investing in Africa"
-description: "Explore investment opportunities in Africa's growing economy with algorithmic trading Discover strategies to navigate diverse markets and maximize returns"
+title: Comprehensive Guide To Investing In African Markets And Sectors
+description: Investing in African markets offers diverse options from real estate
+  to fintech with insights on sector risks and strategies Discover more inside
 ---
 
 

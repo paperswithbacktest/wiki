@@ -1,6 +1,7 @@
 ---
-title: "Money Flow in Trading"
-description: "Explore the Money Flow Index MFI in algorithmic trading to enhance market analysis with price and volume data helping traders optimize their strategies."
+title: Understanding Money Flow in Trading for Investment Decisions
+description: Money Flow tracks capital moving into or out of stocks to identify buying
+  selling pressure refine signals and guide smarter trades Discover more inside
 ---
 
 

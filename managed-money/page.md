@@ -1,6 +1,7 @@
 ---
-title: "Managed Money"
-description: "Explore managed funds and algorithmic trading as they reshape investment strategies with professional management and automated trade precision for optimal returns."
+title: Managed Money Services A Comprehensive Investor Guide
+description: Managed money services let professionals handle your portfolio for growth
+  and risk management while you save time and effort Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Macroeconomic Factors: Types, Examples, and Impact"
-description: "Explore how macroeconomic factors like fiscal policies, geopolitical events, and natural disasters impact algorithmic trading, shaping market strategies."
+title: Understanding Macroeconomic Factors and Their Economic Impact
+description: Macroeconomic factors shape growth spending investment jobs inflation
+  and interest rates Get insights for better financial planning Discover more inside
 ---
 
 

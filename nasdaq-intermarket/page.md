@@ -1,6 +1,7 @@
 ---
-title: "Nasdaq Intermarket"
-description: "Explore the intricate world of Nasdaq's algorithmic trading systems Dive into the evolution and innovation driving high-frequency trades and market efficiency"
+title: Nasdaq Intermarket Trading System Explained
+description: Nasdaq Intermarket connects global stock exchanges to reveal the best
+  prices in real time for faster, efficient trading Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Monte Carlo simulations in trading"
-description: "Explore the role of Monte Carlo simulations in algorithmic trading to assess risk and enhance strategy performance by modeling diverse market scenarios."
+title: Implementing Monte Carlo Simulations in Trading Strategies
+description: Monte Carlo simulations help traders see risks and rewards by running
+  thousands of market scenarios to refine strategies. Discover more inside.
 ---
 
 

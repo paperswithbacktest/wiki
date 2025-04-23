@@ -1,6 +1,7 @@
 ---
-title: "Noncumulative Financial Instruments"
-description: "Explore noncumulative financial instruments and algorithmic trading to diversify investment portfolios maximize returns and improve trading efficiency."
+title: A Guide To Noncumulative Financial Instruments Benefits And Risks
+description: Noncumulative financial instruments give issuers payment flexibility
+  and can boost returns for investors when dividends are paid. Discover more inside
 ---
 
 

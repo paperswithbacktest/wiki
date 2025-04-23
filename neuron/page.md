@@ -1,6 +1,7 @@
 ---
-title: "Neuron (Machine Learning)"
-description: "Explore neurons in machine learning as vital components of neural networks where they process inputs, apply weights and biases, and use activation functions to learn."
+title: Fundamentals Of Neurons In Neural Networks For Machine Learning
+description: Neurons in neural networks process weighted inputs biases and activation
+  functions in active layers to learn complex patterns Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "New York State Cryptocurrency Mining Moratorium Bill"
-description: "Explore New York's legislative response to crypto mining environmental impacts with the Cryptocurrency Mining Moratorium Bill balancing innovation and sustainability."
+title: Understanding New York Cryptocurrency Mining Moratorium Bill
+description: Cryptocurrency mining moratorium in New York halts operations for two
+  years to assess environmental impacts to guide regulations. Discover more inside.
 ---
 
 

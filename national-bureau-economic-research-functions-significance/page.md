@@ -1,6 +1,7 @@
 ---
-title: "National Bureau of Economic Research: Functions and Significance"
-description: "Explore how the National Bureau of Economic Research influences algorithmic trading by offering critical economic insights essential for designing robust trading strategies."
+title: National Bureau Of Economic Research Key Functions And Impact
+description: National Bureau of Economic Research provides clear insights into recession
+  dating methods research programs and policy impact Discover more inside
 ---
 
 

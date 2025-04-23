@@ -1,6 +1,7 @@
 ---
-title: "Market Risk Premium in Investing"
-description: "Explore the significance of the market risk premium in investing and the role of algorithmic trading in maximizing returns while managing investment risks."
+title: Market Risk Premium Explained for Smarter Investment Decisions
+description: Market risk premium guides investors by quantifying expected returns
+  over bonds while balancing risk and reward in portfolios Discover more inside.
 ---
 
 

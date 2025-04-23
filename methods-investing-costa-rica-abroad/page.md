@@ -1,6 +1,7 @@
 ---
-title: "Methods of Investing in Costa Rica From Abroad"
-description: "Explore various investment strategies for Costa Rica, focusing on algorithmic trading to optimize returns amid its stable economic environment and diverse sectors."
+title: Comprehensive Guide to Investing in Costa Rica for Foreigners
+description: Invest in Costa Rica with confidence using this guide covering requirements
+  taxes visas real estate and sustainable options Discover more inside
 ---
 
 

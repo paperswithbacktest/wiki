@@ -1,6 +1,7 @@
 ---
-title: "London Metal Exchange: Overview and History"
-description: "Explore the London Metal Exchange's rich history and its evolution into modern digital trading, highlighting the impact of algorithmic trading on market dynamics."
+title: London Metal Exchange Guide to Market Operations and Warehousing
+description: London Metal Exchange insights trading and warehousing shape global metal
+  prices ensure supply and help businesses manage risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Long-Legged Doji Candlestick Pattern"
-description: Explore the nuances of the long-legged doji candlestick pattern in trading and its significance in predicting market trends. This guide investigates into its unique characteristics, role in technical analysis, and application in algorithmic trading to enhance decision-making and trading strategies. Discover how this pattern, characterized by long upper and lower shadows and a minimal real body, indicates market indecision and potential trend reversals, aiding traders in both manual and automated contexts.
+title: Long-Legged Doji Candlestick Identifying Market Reversals
+description: Long-Legged Doji signals market indecision and potential price reversals
+  by showing buyer seller balance and trend shifts Discover more inside
 ---
 
 

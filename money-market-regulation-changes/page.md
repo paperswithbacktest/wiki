@@ -1,6 +1,7 @@
 ---
-title: "Money Market Regulation Changes"
-description: "Stay informed about recent regulatory changes in money markets and algorithmic trading Discover how these updates affect liquidity risk and trading dynamics"
+title: Understanding Money Market Regulations and Their Impact
+description: Money market regulations ensure funds hold more cash and disclose true
+  net asset values to boost stability and protect investors Discover more inside
 ---
 
 

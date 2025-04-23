@@ -1,6 +1,7 @@
 ---
-title: "Michele Treccani"
-description: "Discover Michele Treccani's journey from theoretical physics to leading roles in algorithmic trading and blockchain analytics at Algorand Foundation."
+title: Michele Treccani Italian Entrepreneur Investor And Philanthropist
+description: Michele Treccani blends smart investments in technology real estate and
+  finance with charity projects supporting education and health Discover more inside
 ---
 
 

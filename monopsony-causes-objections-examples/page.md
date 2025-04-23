@@ -1,6 +1,7 @@
 ---
-title: "Monopsony: Causes, Objections, and Examples"
-description: "Explore the effects of monopsony on market dynamics and algorithmic trading intersect. Understand causes objections examples and implications for investors and regulators."
+title: Understanding Monopsony Power in Labor and Product Markets
+description: Monopsony power drives down wages and lowers product quality in markets
+  with one buyer while regulation restores fairer conditions Discover more inside
 ---
 
 

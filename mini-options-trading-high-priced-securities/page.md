@@ -1,6 +1,7 @@
 ---
-title: "Mini Options and Trading High-Priced Securities"
-description: "Explore the potential of mini options and algorithmic trading to manage risk and optimize returns in high-priced securities with greater flexibility and efficiency."
+title: "Mini Options Strategies for Trading High\u2011Priced Stocks Affordably"
+description: Mini Options make it easier and more affordable to trade high-priced
+  stocks with smaller contracts that cut costs while managing risk Discover more inside.
 ---
 
 

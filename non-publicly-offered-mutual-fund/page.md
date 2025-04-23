@@ -1,6 +1,7 @@
 ---
-title: "Non-Publicly Offered Mutual Fund"
-description: "Explore the unique investment opportunities of non-publicly offered mutual funds combined with algorithmic trading for accredited investors seeking high returns."
+title: Non-Publicly Offered Mutual Funds Explained for Select Investors
+description: Non-publicly offered mutual funds provide select investors flexible strategies
+  with lower fees and access to exclusive investments Discover more inside
 ---
 
 

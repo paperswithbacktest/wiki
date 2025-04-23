@@ -1,6 +1,7 @@
 ---
-title: "Mumbai Interbank Offered Rate and Mumbai Interbank Bid Rate Comparison"
-description: "Compare MIBOR and MIBID rates vital for India's banking sector They benchmark short-term lending and influence financial products and trading strategies"
+title: Understanding MIBOR And MIBID As India Interbank Benchmarks
+description: MIBOR and MIBID benchmarks explain daily interbank lending and borrowing
+  rates in India with transparent calculation methods. Discover more inside.
 ---
 
 

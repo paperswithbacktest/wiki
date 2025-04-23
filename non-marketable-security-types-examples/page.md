@@ -1,6 +1,7 @@
 ---
-title: "Non-Marketable Security Types and Examples"
-description: "Explore non-marketable securities and algorithmic trading techniques to optimize investment strategies. Understand their roles in shaping financial markets."
+title: Understanding Non-Marketable Securities and Their Benefits
+description: Non-marketable securities offer stable government backed investments
+  for long term goals such as retirement or education Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Major Shareholders of PepsiCo"
-description: "Explore the major shareholders of PepsiCo and the role of algorithmic trading in optimizing stock investments uncovering their impact on market performance and investor confidence."
+title: PepsiCo Major Shareholders Influence and Ownership Overview
+description: PepsiCo major shareholders Vanguard BlackRock and State Street shape
+  governance and strategy through voting power and stakes Discover more inside.
 ---
 
 

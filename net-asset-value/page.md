@@ -1,6 +1,7 @@
 ---
-title: "Net Asset Value"
-description: "Discover the crucial role of Net Asset Value (NAV) in investment valuation and algorithmic trading and learn how it guides investors in strategic decision-making."
+title: Understanding Net Asset Value for Mutual and ETF Funds
+description: Net Asset Value helps investors determine daily share value by tracking
+  asset and liability changes and fund performance Discover more inside
 ---
 
 

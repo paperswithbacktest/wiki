@@ -1,6 +1,7 @@
 ---
-title: "Market Capitalization"
-description: "Explore the intricacies of market capitalization and algorithmic trading as pivotal elements in stock market investment strategies. Gain insights into how market cap categorizes company sizes and influences investment decisions, while algorithmic trading reshapes transaction execution with advanced technology. Understand essential financial metrics like P/E ratios and EPS to optimize investment choices in this dynamic financial ecosystem."
+title: Comprehensive Guide to Market Capitalization for Investors
+description: Market capitalization reveals the size and value of companies in the
+  stock market helping investors compare firms and manage risk Discover more inside
 ---
 
 

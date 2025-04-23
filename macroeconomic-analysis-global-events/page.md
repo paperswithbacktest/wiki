@@ -1,6 +1,7 @@
 ---
-title: "Macroeconomic Analysis of Global Events"
-description: "Explore how global economic events influence macroeconomic indicators and enhance algorithmic trading strategies for informed decision-making in dynamic markets."
+title: Macroeconomic Analysis for Global Events and Algorithmic Trading
+description: Macroeconomic analysis reveals how global events affect GDP inflation
+  and guides algorithmic trading to navigate market shifts Discover more inside.
 ---
 
 

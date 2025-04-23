@@ -1,6 +1,7 @@
 ---
-title: "Marginal Propensity to Import"
-description: "Explore how integrating the Marginal Propensity to Import into algorithmic trading enhances market predictions by analyzing economic indicators and global trade dynamics."
+title: Marginal Propensity to Import Explained for Economic Impact
+description: Marginal Propensity to Import measures how income changes affect import
+  spending trade balances and informs economic policy decisions Discover more inside
 ---
 
 

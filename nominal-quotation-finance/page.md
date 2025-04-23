@@ -1,6 +1,7 @@
 ---
-title: "Nominal Quotation in Finance"
-description: "Explore how nominal quotations in finance provide essential hypothetical price points for traders to develop strategies and navigate the complexities of algorithmic trading."
+title: Understanding Nominal Quotation in Bonds and Forex Markets
+description: Nominal quotation clarifies bond face value and currency exchange rates
+  to help investors assess yields and risks effectively Discover more inside.
 ---
 
 

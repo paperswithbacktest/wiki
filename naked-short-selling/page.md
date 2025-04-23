@@ -1,6 +1,8 @@
 ---
-title: "Naked Short Selling"
-description: "Explore the complexities of naked short selling and algorithmic trading in today's financial markets Learn about their impact on market dynamics and regulations"
+title: Understanding Naked Short Selling Risks and Regulatory Controls
+description: Naked short selling exposes investors to unexpected price drops and market
+  imbalances while regulatory measures enforce strict delivery requirements Discover
+  more inside.
 ---
 
 

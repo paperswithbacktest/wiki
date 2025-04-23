@@ -1,6 +1,7 @@
 ---
-title: "Mr. Market: 75th Anniversary, Key Lessons, and Warren Buffett's Insights"
-description: "Discover how Warren Buffett's timeless investment lessons apply to algorithmic trading in this exploration of traditional wisdom and modern technology."
+title: Mastering Mr Market Concept for Strategic Value Investing
+description: Mr Market concept teaches investors to ignore market moods and seize
+  low price opportunities by focusing on real company value Discover more inside.
 ---
 
 

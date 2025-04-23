@@ -1,6 +1,7 @@
 ---
-title: "Multi-Currency Note Facility Explained"
-description: "Discover the synergy between multi-currency note facilities and algorithmic trading to optimize multinational financial operations and mitigate currency risks."
+title: Multi-Currency Note Facility Explained for Global Businesses
+description: Multi-Currency Note Facility helps companies borrow in key currencies
+  to match financial needs while reducing exchange rate risks Discover more inside
 ---
 
 

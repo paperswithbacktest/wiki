@@ -1,6 +1,7 @@
 ---
-title: "Nicaraguan Córdoba: Overview and Example"
-description: "Explore the Nicaraguan Córdoba's role in forex and algorithmic trading to unlock unique investment opportunities and strategies in the global market."
+title: "Nicaraguan C\xF3rdoba Currency History and Future Outlook"
+description: "Nicaraguan C\xF3rdoba exchange rate and policy analysis reveals how\
+  \ history denominations and inflation shape its value over time Discover more inside"
 ---
 
 

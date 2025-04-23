@@ -1,6 +1,7 @@
 ---
-title: "Non-Interest-Bearing Current Liability"
-description: "Discover the significance of non-interest-bearing current liabilities in corporate finance and algorithmic trading. Understand how they influence liquidity and strategic decisions."
+title: Managing Non-Interest-Bearing Current Liabilities for Cash Flow
+description: Non-Interest-Bearing Current Liabilities are debts due within a year
+  without interest charges that improve cash flow management. Discover more inside.
 ---
 
 

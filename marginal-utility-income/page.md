@@ -1,6 +1,7 @@
 ---
-title: "Marginal Utility of Income"
-description: "Explore how marginal utility, income dynamics, and algorithmic trading influence modern finance, shaping efficient trading strategies and economic policies."
+title: Understanding the Marginal Utility of Income in Economics
+description: Marginal utility of income shows how each extra dollar brings less satisfaction
+  as earnings rise and guides redistribution policy Discover more inside
 ---
 
 

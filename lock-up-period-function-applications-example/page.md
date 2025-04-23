@@ -1,6 +1,7 @@
 ---
-title: "Lock-Up Period: Function, Applications, and Example"
-description: "Discover the crucial role of lock-up periods in financial markets, especially in IPOs and hedge funds. Learn how these periods prevent early sell-offs, stabilize stock prices, and align interests of investors. Explore the impact of lock-up periods on investment strategies and how algorithmic trading aids in managing risks and capitalizing on market opportunities. This page offers insights into the function, applications, and examples of lock-up periods in the context of algorithmic trading."
+title: Understanding Lock-Up Periods to Stabilize IPO Stock Prices
+description: Lock-Up Periods keep IPO stock prices stable by restricting early investor
+  share sales and easing market adjustment for investors Discover more inside
 ---
 
 

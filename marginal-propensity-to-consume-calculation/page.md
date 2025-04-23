@@ -1,6 +1,7 @@
 ---
-title: "Marginal Propensity to Consume Calculation"
-description: "Explore the integration of Marginal Propensity to Consume in algorithmic trading discover its economic impact on consumer behavior and market trends analysis."
+title: Understanding the Marginal Propensity to Consume Concept
+description: Marginal Propensity to Consume defines how extra income turns into spending
+  and drives economic growth with clear calculation insights Discover more inside
 ---
 
 

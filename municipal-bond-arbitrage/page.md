@@ -1,6 +1,7 @@
 ---
-title: "Municipal Bond Arbitrage"
-description: "Explore municipal bond arbitrage and algorithmic trading to optimize returns in the bond market Learning about tax-exempt securities and cutting-edge trading tactics"
+title: Exploring Municipal Bond Arbitrage Strategies and Risks
+description: Municipal bond arbitrage shows investors how to profit from tax exempt
+  yields and interest rate spreads while managing risk Discover more inside
 ---
 
 

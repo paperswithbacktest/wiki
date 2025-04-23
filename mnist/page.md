@@ -1,6 +1,7 @@
 ---
-title: "Mnist (Machine Learning)"
-description: "Explore the MNIST dataset a collection of 70,000 grayscale images of handwritten digits. Ideal for beginners in machine learning and image recognition tasks."
+title: Comprehensive Guide to the MNIST Dataset for Machine Learning
+description: MNIST dataset offers 70,000 handwritten digits to train and test image
+  recognition models with efficient preprocessing and training Discover more inside
 ---
 
 ![Image](images/1.webp)

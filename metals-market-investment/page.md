@@ -1,6 +1,7 @@
 ---
-title: "Metals Market Investment"
-description: "Explore the transformative role of algorithmic trading in the metals market enhancing precision and speed in trading decisions for savvy investors."
+title: Comprehensive Guide to Investing in the Metals Market
+description: Metals market investing offers strategies for trading physical metals
+  and ETFs with active risk management and market insights Discover more inside
 ---
 
 

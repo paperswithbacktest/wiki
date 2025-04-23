@@ -1,6 +1,7 @@
 ---
-title: "Negative Effects of Low Unemployment"
-description: "Explore the unexpected challenges low unemployment imposes on economic stability and algorithmic trading, revealing complex market dynamics and trading strategies."
+title: Understanding Low Unemployment Effects on Economy and Wages
+description: Low unemployment fuels wage growth and boosts consumer spending while
+  creating inflation pressures when wages outpace prices. Discover more inside.
 ---
 
 

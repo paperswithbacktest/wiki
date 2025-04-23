@@ -1,6 +1,7 @@
 ---
-title: "Majority Shareholder: Rights and Privileges"
-description: "Explore the dynamic relationship between majority shareholders, corporate governance, and algorithmic trading. Understand their impact on strategic decisions and shareholder rights."
+title: Understanding Majority Shareholder Rights And Responsibilities
+description: Majority shareholder rights grant voting power to elect directors and
+  guide strategy Stay informed to protect your investment Discover more inside.
 ---
 
 

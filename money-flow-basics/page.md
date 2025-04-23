@@ -1,6 +1,7 @@
 ---
-title: "Money Flow Basics"
-description: "Explore money flow basics, currency movements, and algorithmic trading to enhance your financial market strategies. Master these skills for better investment outcomes."
+title: Understanding Money Flow Analysis for Informed Investments
+description: Money Flow analysis reveals how capital moves through stocks and markets
+  to guide better trading and investment strategies Discover more inside
 ---
 
 

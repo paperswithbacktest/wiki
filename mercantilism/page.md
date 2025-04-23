@@ -1,6 +1,7 @@
 ---
-title: "Mercantilism"
-description: "Explore how historical mercantilism contrasts with modern algorithmic trading, highlighting the evolution from government-regulated economic policies to technology-driven trade mechanisms."
+title: Comprehensive Guide to Mercantilism Principles and Global Impact
+description: Mercantilism shaped global wealth by enforcing positive trade balances
+  leveraging colonies and tariffs to boost national power Discover more inside
 ---
 
 

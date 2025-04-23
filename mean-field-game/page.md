@@ -1,6 +1,7 @@
 ---
-title: "mean field game"
-description: "Explore the synergy of Mean Field Games and algorithmic trading to optimize high-frequency trading strategies, enhance market liquidity, and reduce costs."
+title: Understanding Mean Field Games and Their Key Mathematical Tools
+description: Mean Field Games leverage average agent interactions to simplify complex
+  decision models across economics traffic and epidemiology Discover more inside.
 ---
 
 

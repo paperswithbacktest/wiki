@@ -1,6 +1,7 @@
 ---
-title: "Mercantilism in British Colonial America"
-description: "Explore the impact of mercantilism on British colonial America and its evolution into modern trading practices like algorithmic trading emphasizing economic efficiency."
+title: Mercantilism in British Colonial America and Its Impact
+description: Mercantilism in British Colonial America shaped trade to enrich Britain
+  and sparked colonial unrest that led to revolution Discover more inside
 ---
 
 

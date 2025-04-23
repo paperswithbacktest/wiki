@@ -1,6 +1,7 @@
 ---
-title: "National Defense Authorization Act Overview"
-description: "Explore how the National Defense Authorization Act impacts US defense policy and spending, highlighting the role of algorithmic trading in modern defense strategy."
+title: Comprehensive Guide to the National Defense Authorization Act
+description: National Defense Authorization Act explains how Congress sets the military
+  budget and rules that shape defense funding and benefits Discover more inside.
 ---
 
 

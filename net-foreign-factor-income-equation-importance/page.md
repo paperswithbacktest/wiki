@@ -1,6 +1,7 @@
 ---
-title: "Net Foreign Factor Income: Equation and Importance"
-description: "Understand Net Foreign Factor Income's importance and its impact on algorithmic trading strategies. Discover how NFFI shapes global economic interactions."
+title: Understanding Net Foreign Factor Income And Its Economic Role
+description: Net Foreign Factor Income shows foreign earnings minus payments to overseas
+  investors to reveal true economic strength of a country Discover more inside
 ---
 
 

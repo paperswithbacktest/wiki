@@ -1,6 +1,7 @@
 ---
-title: "Mathematics of Betting Odds and Gambling"
-description: "Explore the intricate relationship between mathematics and gambling as cutting-edge algorithms and mathematical principles redefine betting odds and strategies. Learn how probability theory assists bettors in making informed decisions and discover the role of algorithmic trading in enhancing betting performance. This guide investigates into traditional and modern gambling methodologies, offering valuable insights into risk management and strategic advancements in the industry."
+title: Understanding Betting Odds and Gambling Mathematics Explained
+description: Betting odds explained with clear examples of formats probability expected
+  value and house edge to help you make smarter wagers Discover more inside.
 ---
 
 

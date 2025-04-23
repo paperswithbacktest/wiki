@@ -1,6 +1,7 @@
 ---
-title: "Methods of Holding Real Property Titles"
-description: "Discover the various methods of holding real property titles and their significance in real estate transactions. Learn about joint tenancy, tenancy in common, tenants by entirety, sole ownership, and community property, and explore the innovative application of algorithmic trading in real estate for enhanced efficiency and decision-making. Understanding these key concepts ensures smoother property dealings and leverages technology for effective investment strategies."
+title: Understanding Methods of Holding Real Property Titles
+description: Real property title ownership methods affect transfers taxes and estate
+  planning Explore sole ownership and joint tenancy Discover more inside
 ---
 
 

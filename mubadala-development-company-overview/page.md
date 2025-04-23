@@ -1,6 +1,7 @@
 ---
-title: "Mubadala Development Company Overview"
-description: "Explore Mubadala Investment Company's strategic expansion into algorithmic trading as it integrates advanced technologies and diversifies its global portfolio."
+title: Mubadala Development Company Overview And Global Impact
+description: Mubadala Development Company drives Abu Dhabi economy with global energy
+  technology real estate investments and sustainability focus Discover more inside
 ---
 
 

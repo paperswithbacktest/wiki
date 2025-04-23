@@ -1,6 +1,8 @@
 ---
-title: "Nominal Gross Domestic Product"
-description: "Explore the significance of nominal GDP in algorithmic trading, highlighting its role in economic assessments and market predictions without inflation adjustments."
+title: Nominal GDP Explained Definition Uses And Limitations
+description: Nominal GDP measures the output of an economy in current prices with
+  inflation effects See how it informs economic policy and spending Discover more
+  inside
 ---
 
 

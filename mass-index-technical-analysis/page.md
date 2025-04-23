@@ -1,6 +1,7 @@
 ---
-title: "Mass Index in Technical Analysis"
-description: "Explore the Mass Index a technical indicator for trend reversals in trading Analyze its unique focus on price range volatility and its role in algo trading"
+title: Using the Mass Index in Technical Analysis for Market Reversals
+description: Mass Index analyzes daily price ranges to signal trend reversals with
+  key EMA thresholds and improve trading decisions. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "National Market System Plan"
-description: "Discover how the National Market System Plan promotes transparency and efficiency in U.S. equity markets by supporting algorithmic trading and enhancing competition."
+title: Understanding the National Market System Plan for Stocks
+description: National Market System Plan drives fair efficient trading by requiring
+  exchanges to share best prices and boost transparency. Discover more inside.
 ---
 
 

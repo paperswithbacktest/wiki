@@ -1,6 +1,7 @@
 ---
-title: "Multi-Agent Reinforcement Learning"
-description: "Explore Multi-Agent Reinforcement Learning to enhance algorithmic trading strategies. Learn how autonomous agents collaborate to optimize trading in complex markets."
+title: Multi-Agent Reinforcement Learning Concepts and Applications
+description: Multi-Agent Reinforcement Learning drives agents to learn cooperative
+  and competitive strategies in dynamic environments Discover more inside.
 ---
 
 

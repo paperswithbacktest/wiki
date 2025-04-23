@@ -1,6 +1,7 @@
 ---
-title: "Metric (Machine Learning)"
-description: "Explore various metrics used in machine learning to evaluate model performance including accuracy precision recall and more to enhance your predictive analyses."
+title: Machine Learning Metrics Explained for Effective Model Evaluation
+description: Machine learning metrics evaluate model performance for classification
+  and regression helping you choose the right measures Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

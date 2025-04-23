@@ -1,6 +1,7 @@
 ---
-title: "NAHB/Wells Fargo Housing Market Index"
-description: "Explore the impact of the NAHB/Wells Fargo Housing Market Index on algorithmic trading strategies to enhance real estate investment decisions and market insights."
+title: Understanding the NAHB Wells Fargo Housing Market Index
+description: NAHB Wells Fargo Housing Market Index tracks builder confidence in new
+  home markets to reveal trends and forecast housing demand. Discover more inside.
 ---
 
 

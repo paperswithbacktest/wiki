@@ -1,6 +1,7 @@
 ---
-title: "Nonstationarity (Machine Learning)"
-description: "Discover how nonstationarity impacts machine learning and explore techniques like time series analysis and adaptive learning to improve predictive model accuracy."
+title: Handling Nonstationarity in Machine Learning Models
+description: Nonstationarity in machine learning can erode model performance as data
+  patterns shift. Adaptive preprocessing restores accuracy. Discover more inside
 ---
 
 ![Image](images/1.jpeg)

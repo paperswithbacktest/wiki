@@ -1,6 +1,7 @@
 ---
-title: "Major Cryptocurrency Hacks"
-description: "Explore the pivotal cryptocurrency hacks highlighting cybersecurity challenges and the role of algorithmic trading in shaping a secure digital finance landscape."
+title: Cryptocurrency Hack Risks and Prevention Strategies
+description: Cryptocurrency hack risks include phishing and malware Use cold wallets
+  and two factor authentication to protect your assets Discover more inside
 ---
 
 

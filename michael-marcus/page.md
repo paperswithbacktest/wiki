@@ -1,6 +1,7 @@
 ---
-title: "Michael Marcus: A Trading Legend"
-description: Explore the legacy of Michael Marcus, a legendary trader who revolutionized the commodities market through his innovative strategies and early adoption of algorithmic trading. Delve into his journey from modest beginnings to staggering success and discover how his methodologies have shaped modern trading practices.Marcus’s intuitive and systematic approach, emphasizing trend analysis, risk management, and rapid loss-cutting, continues to influence traders worldwide and underscores the transformative power of technology in trading. Discover the strategic insights that have cemented Marcus’s status as a pioneer in algorithmic trading.
+title: Michael Marcus Trading Success And Risk Management Insights
+description: Michael Marcus enhanced risk management and trend following with proven
+  strategies for consistent trading growth and mentorship Discover more inside.
 ---
 
 

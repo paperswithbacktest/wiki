@@ -1,6 +1,7 @@
 ---
-title: "Lynx Asset Management"
-description: "Lynx Asset Management masters algorithmic trading with advanced technologies for efficient market strategies, ensuring optimized, data-driven investment decisions."
+title: Lynx Asset Management Guide to Sustainable Investment Strategies
+description: Lynx Asset Management leverages quantitative research and sustainability
+  criteria to balance risk and growth for investors Discover more inside.
 ---
 
 

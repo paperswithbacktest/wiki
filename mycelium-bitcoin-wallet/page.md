@@ -1,6 +1,7 @@
 ---
-title: "Mycelium Bitcoin Wallet"
-description: "Explore Mycelium Bitcoin Wallet's strong privacy security features and integrated algo trading to enhance digital asset management and optimize trading strategies."
+title: Mycelium Bitcoin Wallet Complete Setup And Security Guide
+description: Mycelium Bitcoin Wallet lets you securely store and send Bitcoin on Android
+  or iOS. Integrate hardware wallets and control fees. Discover more inside.
 ---
 
 

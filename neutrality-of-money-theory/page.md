@@ -1,6 +1,7 @@
 ---
-title: "Neutrality of Money Theory"
-description: "Explore the interconnectedness of monetary theory the neutrality of money and algorithmic trading in shaping modern financial systems and their economic impact."
+title: Understanding the Neutrality of Money Theory in Economics
+description: Neutrality of Money Theory explains how long term money supply shifts
+  drive inflation without impacting real output or employment Discover more inside
 ---
 
 

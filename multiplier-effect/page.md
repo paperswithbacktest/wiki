@@ -1,6 +1,7 @@
 ---
-title: "Multiplier Effect"
-description: "Explore the synergy between macroeconomic theory and algorithmic trading on this comprehensive page detailing the multiplier effect. Learn how initial spending changes can profoundly impact economic output and how algo trading uses precision technology to optimize financial strategies. Delve into examples of the multiplier effect, enhancing market efficiency and illustrating economic interconnectedness for informed financial decision-making."
+title: Understanding the Multiplier Effect in Economic Growth
+description: Multiplier effect shows how initial spending sparks income and consumption
+  that boosts economic growth to inform fiscal decisions Discover more inside.
 ---
 
 

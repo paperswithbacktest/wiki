@@ -1,6 +1,7 @@
 ---
-title: "Nominee and Nominee Accounts"
-description: "Discover how nominee accounts and algorithmic trading are reshaping modern finance Enhancing asset management and trading speed they offer efficiency and protection"
+title: Complete Guide to Nominee Accounts for Financial Planning
+description: Nominee account lets you appoint a trusted agent to manage finances when
+  you cant oversee them yourself with security and compliance. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Model Capacity (Machine Learning)"
-description: "Discover how model capacity in machine learning affects a model's ability to learn and generalize. Learn to balance capacity to prevent overfitting."
+title: Balancing Model Capacity in Machine Learning for Optimal Results
+description: Model capacity shapes machine learning by balancing complexity to prevent
+  overfitting or underfitting Adjust capacity for your data Discover more inside
 ---
 
 ![Image](images/1.png)

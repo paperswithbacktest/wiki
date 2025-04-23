@@ -1,6 +1,7 @@
 ---
-title: "Non-Client Order: Overview and Functionality"
-description: "Explore the dynamics of non-client orders in algo trading Understand how these transactions impact modern trading enhancing transparency and market integrity"
+title: Understanding Non-Client Orders in Brokerage Firms
+description: Non-Client Orders allow brokers to trade for firm accounts while safeguarding
+  client trades with clear separation and compliance Discover more inside
 ---
 
 

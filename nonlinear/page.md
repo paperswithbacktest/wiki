@@ -1,6 +1,7 @@
 ---
-title: "Nonlinear (Machine Learning)"
-description: "Explore nonlinear machine learning models which excel in capturing complex data patterns using techniques like neural networks and decision trees for various applications."
+title: Understanding Nonlinear Machine Learning Models and Applications
+description: Nonlinear machine learning models capture complex data patterns beyond
+  linear assumptions to improve image recognition and forecasting Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Non-Response Bias (Machine Learning)"
-description: "Discover how non-response bias affects machine learning models and learn strategies to mitigate its impact for better predictions and decisions."
+title: Understanding Non-Response Bias in Machine Learning Models
+description: Non-response bias in machine learning skews model accuracy by excluding
+  underrepresented data explore detection mitigation strategies discover more inside
 ---
 
 ![Image](images/1.png)

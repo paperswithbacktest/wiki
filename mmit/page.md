@@ -1,6 +1,7 @@
 ---
-title: "Mmit (Machine Learning)"
-description: "Learn about machine learning as a form of AI where computers self-improve by analyzing data unlike traditional programming which requires explicit instructions."
+title: Essential Guide To Machine Learning Concepts And Applications
+description: Machine learning shows how computers learn from data using algorithms
+  for tasks like prediction clustering and reinforcement learning Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

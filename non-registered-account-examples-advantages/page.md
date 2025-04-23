@@ -1,6 +1,7 @@
 ---
-title: "Non-Registered Account: Examples and Advantages"
-description: "Explore the benefits of non-registered accounts for Canadian investors including liquidity and unlimited deposits enhanced by algorithmic trading strategies."
+title: Understanding Non-Registered Investment Accounts in Canada
+description: Non-Registered Investment Accounts offer flexibility and no contribution
+  limits with tax strategies like tax-loss harvesting. Discover more inside.
 ---
 
 

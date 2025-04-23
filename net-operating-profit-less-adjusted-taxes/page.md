@@ -1,6 +1,7 @@
 ---
-title: "Net Operating Profit Less Adjusted Taxes"
-description: "Understand NOPLAT and its significance in algorithmic trading to enhance investment strategies by focusing on operational profits post-tax adjustments for optimal decisions."
+title: Net Operating Profit Less Adjusted Taxes Explained
+description: NOPLAT reveals core operational profit after tax adjustments so investors
+  can compare efficiency and value potential Discover more inside today.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Neuroeconomics: Concepts and Research Areas"
-description: "Explore how neuroeconomics combines neuroscience economics and psychology to influence algorithmic trading by understanding cognitive and emotional decision-making processes"
+title: Neuroeconomics Insights How Brain Science Transforms Economic Decisions
+description: Neuroeconomics reveals how brain regions shape decision making and why
+  emotions influence choices so you can predict behavior more accurately Discover
+  more inside.
 ---
 
 

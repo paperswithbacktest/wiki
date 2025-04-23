@@ -1,6 +1,7 @@
 ---
-title: "Market Risk Exposure of Mutual Funds"
-description: "Explore the dynamics of mutual funds market risk exposure and algorithmic trading Learn about strategies for managing investment risk in the evolving financial landscape"
+title: Measuring and Managing Market Risk Exposure in Mutual Funds
+description: Measure market risk in mutual funds with beta and standard deviation
+  then reduce exposure via diversification and asset allocation Discover more inside
 ---
 
 

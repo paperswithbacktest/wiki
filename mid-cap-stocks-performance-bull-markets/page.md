@@ -1,6 +1,7 @@
 ---
-title: "Mid-Cap Stocks Performance in Bull Markets"
-description: "Discover how mid-cap stocks perform in bull markets and the role of algorithmic trading in enhancing returns Learn strategies for maximizing market gains"
+title: Mid-Cap Stocks Performance In Bull Market Conditions
+description: Mid-cap stocks often deliver solid growth in bull markets while balancing
+  risk through sector diversification and strategic analysis Discover more inside.
 ---
 
 

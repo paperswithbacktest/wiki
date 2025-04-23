@@ -1,6 +1,7 @@
 ---
-title: "Net Debt-to-EBITDA Ratio in Financial Analysis"
-description: "Explore the importance of the Net Debt-to-EBITDA ratio in algorithmic trading highlighting its role in evaluating company leverage financial stability and guiding trading strategies."
+title: Understanding Net Debt-to-EBITDA Ratio for Financial Health
+description: Net Debt-to-EBITDA ratio helps gauge a companys leverage by comparing
+  debt to earnings offering insights to assess financial health Discover more inside
 ---
 
 

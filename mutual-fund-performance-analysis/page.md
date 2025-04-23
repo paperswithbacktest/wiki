@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Performance Analysis"
-description: "Analyze mutual fund performance using algo trading insights to enhance investment strategies and manage risks effectively for optimized returns."
+title: Mutual Fund Performance Analysis Metrics and Benchmarks
+description: Mutual fund performance analysis uncovers key metrics benchmarks and
+  risk adjusted returns to guide smarter investment choices Discover more inside.
 ---
 
 

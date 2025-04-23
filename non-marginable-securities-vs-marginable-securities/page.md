@@ -1,6 +1,7 @@
 ---
-title: "Non-Marginable Securities vs. Marginable Securities"
-description: "Discover the differences between marginable and non-marginable securities and how algorithmic trading can enhance your strategies in today's markets."
+title: Understanding Marginable and Non Marginable Securities
+description: Marginable and non marginable securities determine how investors borrow
+  funds and manage trading risks with margin accounts Discover more
 ---
 
 

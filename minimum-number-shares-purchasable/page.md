@@ -1,6 +1,7 @@
 ---
-title: "Minimum Number of Shares Purchasable"
-description: "Explore how algorithmic trading enables access to stock markets with minimal investments by utilizing automated strategies and fractional shares for beginner investors."
+title: Understanding Minimum Number of Shares Purchasable for Investors
+description: Minimum number of shares purchasable impacts your investment strategy.
+  Navigate company and broker rules to diversify your holdings Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Marquette Partners"
-description: "Explore Marquette Partners' innovative algorithmic trading strategies enhancing market efficiency and competitive edge through advanced technology and expertise."
+title: Marquette Partners Property Investment and Value Creation
+description: Marquette Partners transforms properties with strategic renovations to
+  deliver steady returns and community enhancements Discover more inside
 ---
 
 

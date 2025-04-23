@@ -1,6 +1,7 @@
 ---
-title: "Market-Moving Economic Indicators"
-description: "Explore how economic indicators drive market movements and algorithmic trading strategies Discover their impact on financial markets for informed trading decisions"
+title: Understanding Economic Indicators And Their Market Impact
+description: Economic indicators guide investors and policymakers by revealing trends
+  in GDP inflation and employment and shaping market strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market resiliency modeling"
-description: "Explore how market resiliency modeling in algorithmic trading ensures stability and efficiency in financial markets by mitigating risks and adapting to volatility."
+title: Understanding Market Resiliency Modeling for Economic Stability
+description: Market resiliency modeling helps businesses anticipate economic shocks
+  and reinforce stability through scenarios and stress tests Discover more inside
 ---
 
 

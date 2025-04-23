@@ -1,6 +1,8 @@
 ---
-title: "Modifying Strike Price After Trade Execution"
-description: "Dive into the complexities of options trading with insights on modifying strike prices and trade execution using algorithmic strategies for optimized returns."
+title: Understanding Strike Price in Options Trading and Its Limitations
+description: Strike price in options trading defines the set price for buying or selling
+  when exercised and influences profit potential while outlining key risks and strategies
+  Discover more inside.
 ---
 
 

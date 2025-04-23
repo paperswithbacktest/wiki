@@ -1,6 +1,7 @@
 ---
-title: "Mozambique New Metical: History and Economic Impact"
-description: "Explore the history and impact of Mozambique's currency, the metical, from its inception in 1980 to the influence of algorithmic trading today."
+title: Understanding the Mozambique New Metical Currency System
+description: Mozambique New Metical stabilizes the economy by controlling inflation
+  and guiding monetary policy for daily transactions Discover more inside.
 ---
 
 

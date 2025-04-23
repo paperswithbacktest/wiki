@@ -1,6 +1,7 @@
 ---
-title: "Market impact models"
-description: "Explore market impact models vital for minimizing costs in algorithmic trading by predicting asset price changes due to trade activities in dynamic markets."
+title: Understanding Market Impact Models for Effective Trading
+description: Market impact models help traders predict and manage price shifts from
+  large orders so they can optimize execution and reduce costs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "MetaTrader Platform Overview"
-description: "Discover the transformative capabilities of the MetaTrader platform, a leading choice in algorithmic trading for its advanced tools and robust automated trading support. Ideal for both novice and experienced traders, MetaTrader offers sophisticated charting, comprehensive market analysis, and the powerful MQL5 programming language to refine trading strategies and gain a competitive edge. Elevate your trading experience with its user-friendly interface and the flexibility to create tailored algorithms for enhanced performance and consistency across forex, indices, and commodities markets."
+title: MetaTrader Platform Guide for Automated and Manual Trading
+description: MetaTrader platform delivers charting tools indicators and automated
+  trading with Expert Advisors for smarter strategies Discover more inside
 ---
 
 

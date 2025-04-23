@@ -1,6 +1,7 @@
 ---
-title: "Log loss scoring"
-description: Explore the role of Logarithmic Loss or log loss in algorithmic trading where accurate and confident model predictions are essential. Log loss evaluates trading algorithms by penalizing incorrect predictions made with high confidence ensuring models provide reliable probability estimates. This intensive analysis demonstrates how log loss contributes to the refinement of trading strategies by enhancing model calibration and predictive accuracy critical for successful financial outcomes in competitive markets.
+title: Understanding Log Loss in Machine Learning Models and Trading
+description: Log loss measures model prediction accuracy by penalizing overconfident
+  errors and guiding calibration for reliable probabilities. Discover more inside.
 ---
 
 

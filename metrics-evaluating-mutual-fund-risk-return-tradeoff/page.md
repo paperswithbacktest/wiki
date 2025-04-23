@@ -1,6 +1,7 @@
 ---
-title: "Metrics for Evaluating Mutual Fund Risk-Return Tradeoff"
-description: "Explore metrics to evaluate mutual fund risk-return using algorithmic trading insights combining traditional analysis and technology for optimized portfolios."
+title: Mutual Fund Risk-Return Metrics and Performance Assessment
+description: Mutual fund risk-return metrics reveal how ratios like Sharpe ratio alpha
+  and beta assess performance and manage portfolio risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Machine learning risk models"
-description: "Explore how machine learning risk models are revolutionizing algorithmic trading by improving decision-making, mitigating risks, and enhancing strategy performance."
+title: Machine Learning Risk Models for Improving Predictive Accuracy
+description: Machine learning risk models drive better predictions by uncovering patterns
+  and improving accuracy in finance and insurance Discover more inside
 ---
 
 

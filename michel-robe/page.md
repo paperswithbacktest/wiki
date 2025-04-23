@@ -1,6 +1,7 @@
 ---
-title: "Michel Robe"
-description: "Michel Robe is a distinguished expert in algorithmic trading with extensive academic and governmental experience, noted for his research on financial derivatives."
+title: Michel Robe Finance Professor Leading Risk Management Research
+description: Michel Robe is a finance professor who shares unique insights on financial
+  markets and risk management at University of Illinois Discover more inside
 ---
 
 

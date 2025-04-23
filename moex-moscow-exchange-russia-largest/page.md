@@ -1,6 +1,7 @@
 ---
-title: "MOEX: Moscow Exchange, Russia's Largest Financial Market"
-description: "Discover MOEX Russia's premier financial market supporting equity bonds and algo trading boosting market efficiency and attracting global investors."
+title: Essential Guide to the Moscow Exchange Operations and Instruments
+description: Moscow Exchange overview presents history instruments indices trading
+  process and regulations so you can invest with confidence Discover more inside
 ---
 
 

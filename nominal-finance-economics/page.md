@@ -1,6 +1,7 @@
 ---
-title: "Nominal in Finance and Economics"
-description: "Unlock the secrets of nominal value and algorithmic trading in finance Discover key economic distinctions and their impact on investment strategies today"
+title: Understanding Nominal Versus Real Values in Economics
+description: Nominal versus real values show how inflation skews economic and financial
+  figures and why adjusting for price changes matters Discover more inside
 ---
 
 

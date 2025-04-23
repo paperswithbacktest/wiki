@@ -1,6 +1,7 @@
 ---
-title: "Loan-to-Deposit Ratio"
-description: "Explore the importance of the Loan-to-Deposit Ratio in banking. Learn how it reflects a bank's liquidity and lending practices, impacting financial health and strategy."
+title: Understanding Bank Loan-to-Deposit Ratio and Its Impact
+description: Loan-to-Deposit Ratio shows how banks balance lending and reserves to
+  maintain liquidity and profits with smart risk management Discover more inside
 ---
 
 

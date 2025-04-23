@@ -1,6 +1,7 @@
 ---
-title: "Nasdaq Capital Market Requirements"
-description: "Explore the dual themes of Nasdaq Capital Market requirements and algorithmic trading's role in trading efficiency liquidity and market dynamics."
+title: Nasdaq Capital Market Listing and Corporate Governance Standards
+description: Nasdaq Capital Market Listing Requirements define financial and governance
+  criteria to help companies qualify and maintain listing Discover more inside
 ---
 
 

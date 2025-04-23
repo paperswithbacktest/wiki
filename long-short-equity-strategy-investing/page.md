@@ -1,6 +1,7 @@
 ---
-title: "Long-Short Equity Strategy in Investing"
-description: "Discover the intricacies of long-short equity strategies in investing with algorithmic trading to navigate market volatility optimize returns and manage risks effectively."
+title: Implementing a Long-Short Equity Strategy for Balanced Returns
+description: Long-Short Equity Strategy uses both buys and short sales to balance
+  risk and returns in volatile markets with active management Discover more inside
 ---
 
 

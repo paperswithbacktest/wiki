@@ -1,6 +1,7 @@
 ---
-title: "Marginal Utility and Consumer Choice"
-description: "Explore the synergy between marginal utility consumer choice theory and algorithmic trading to understand decision-making in economics and financial markets."
+title: Understanding Marginal Utility in Consumer Decision Making
+description: Marginal utility explains how each additional unit of a good adds less
+  satisfaction shaping consumer choice and pricing strategies Discover more inside.
 ---
 
 

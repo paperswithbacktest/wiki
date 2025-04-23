@@ -1,6 +1,7 @@
 ---
-title: "Net Exposure: Concepts, Examples, and Risks"
-description: "Explore crucial concepts such as net exposure, financial risk, and algorithmic trading to form effective investment strategies in today's dynamic markets."
+title: Understanding Net Exposure for Effective Risk Management
+description: Net exposure shows portfolio directional risk and helps you balance long
+  and short positions to manage market risk effectively Discover more inside.
 ---
 
 

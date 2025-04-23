@@ -1,6 +1,7 @@
 ---
-title: "Mosaic Theory in Financial Research"
-description: "Explore the Mosaic Theory in financial research to gain competitive insights through diverse data integration, ensuring ethical and legal compliance."
+title: Applying Mosaic Theory in Financial Analysis for Better Investing
+description: Mosaic Theory helps investors combine public data from news reports and
+  media to uncover trends and make informed investment choices Discover more inside
 ---
 
 

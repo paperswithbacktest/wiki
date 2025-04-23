@@ -1,6 +1,7 @@
 ---
-title: "Municipal Securities Rulemaking Board"
-description: "Explore the impact of algorithmic trading on municipal securities where the MSRB ensures a stable market blending technology with regulatory frameworks."
+title: Comprehensive Guide to the Municipal Securities Rulemaking Board
+description: Municipal Securities Rulemaking Board enforces transparency and fair
+  practices in municipal bond markets to protect investors Discover more inside
 ---
 
 

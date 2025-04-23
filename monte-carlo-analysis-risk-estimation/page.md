@@ -1,6 +1,7 @@
 ---
-title: "Monte Carlo Analysis in Risk Estimation"
-description: "Explore risk estimation in algorithmic trading with Monte Carlo analysis to project financial outcomes and enhance strategy robustness against market uncertainties."
+title: Harnessing Monte Carlo Analysis for Effective Risk Estimation
+description: Monte Carlo Analysis models random outcomes in multiple runs to quantify
+  project and financial risks with data driven insights Discover more inside.
 ---
 
 

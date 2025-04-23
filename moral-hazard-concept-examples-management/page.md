@@ -1,6 +1,7 @@
 ---
-title: "Moral Hazard: Concept, Examples, and Management"
-description: "Explore the concept of moral hazard in economic theory, especially in algorithmic trading, and discover strategies for mitigating excessive risk-taking in financial markets."
+title: Understanding Moral Hazard Impacts and Mitigation Strategies
+description: Moral hazard makes insured parties more prone to risk when losses are
+  covered apply safeguards share risk and protect stakeholders Discover more inside.
 ---
 
 

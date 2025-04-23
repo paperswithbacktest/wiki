@@ -1,6 +1,7 @@
 ---
-title: "Margin of Safety: Meaning and Examples"
-description: "Understand the margin of safety concept in investing for risk management with examples and learn how financial analysis aids in its application in algorithmic trading."
+title: Understanding Margin of Safety in Business and Investing
+description: Margin of safety lets businesses and investors gauge their risk buffer
+  by comparing sales to break even and market value Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "News Trader and the 'Buy the Rumor, Sell the News' Strategy"
-description: "Discover how financial rumors and news trading impact market dynamics with insights into algorithmic strategies Explore the 'buy the rumor sell the news' tactic"
+title: Mastering Buy the Rumor Sell the News Trading Strategy
+description: Buy the Rumor Sell the News strategy helps traders use market rumors
+  to time entries and exits and manage risk for profit Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Log-Normal Distribution: Applications and Calculation"
-description: "Discover how the log-normal distribution enhances algorithmic trading with its unique properties and financial applications improving trading strategy performance."
+title: Understanding the Log-Normal Distribution in Statistical Modeling
+description: Log-normal distribution helps analyze skewed data by converting values
+  to a normal curve and calculating key metrics efficiently Discover more inside
 ---
 
 

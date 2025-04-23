@@ -1,6 +1,7 @@
 ---
-title: "Mukesh Ambani: Education, Achievements, and Influence"
-description: "Explore the educational background and impactful achievements of Mukesh Ambani as he transforms Reliance Industries into a global leader with influential innovations."
+title: Mukesh Ambani Business Empire And Strategic Leadership
+description: Mukesh Ambani transformed Reliance Industries into a diversified leader
+  in energy telecom retail and philanthropy driving innovation Discover more inside
 ---
 
 

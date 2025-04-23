@@ -1,6 +1,7 @@
 ---
-title: "Major Revenue Sources of Johnson & Johnson"
-description: "Explore Johnson & Johnson's major revenue sources from Pharmaceuticals, Medical Devices, and Consumer Products as the company harnesses algorithmic trading for growth."
+title: Johnson & Johnson Revenue Breakdown by Business Segments
+description: Johnson & Johnson Revenue analysis uncovers how pharmaceutical medical
+  device and consumer health segments fuel the companys earnings Discover more inside
 ---
 
 

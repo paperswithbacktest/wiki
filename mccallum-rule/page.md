@@ -1,6 +1,7 @@
 ---
-title: "McCallum Rule"
-description: "Explore the McCallum Rule's impact on monetary policy and algorithmic trading; discover its framework for setting monetary base targets using GDP and velocity of money."
+title: Understanding the McCallum Rule for Monetary Policy
+description: McCallum Rule guides central banks to adjust money supply based on nominal
+  GDP gaps to stabilize inflation and foster steady growth Discover more inside
 ---
 
 

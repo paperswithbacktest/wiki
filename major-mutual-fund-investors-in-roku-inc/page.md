@@ -1,6 +1,7 @@
 ---
-title: "Major Mutual Fund Investors in Roku Inc."
-description: "Explore major mutual fund investors in Roku Inc with a focus on the role of algorithmic trading in optimizing investment strategies and enhancing returns."
+title: Mutual Fund Investment Trends and Impact on Roku Inc
+description: Mutual fund investments in Roku Inc illustrate how asset managers shape
+  ownership and drive stock performance over time Discover more inside.
 ---
 
 

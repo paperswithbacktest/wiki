@@ -1,6 +1,7 @@
 ---
-title: "Methods of Behavioral Modeling for Consumer Behavior Analysis"
-description: "Explore advanced methods of behavioral modeling for consumer behavior analysis in algorithmic trading. Gain insights to optimize marketing and trading strategies."
+title: Behavioral Modeling Techniques for Consumer Behavior Analysis
+description: Behavioral modeling reveals shopper patterns in purchase history and
+  online activity to guide marketing strategies and boost sales Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Micro Lot and Standard Lot in Trading"
-description: "Discover the crucial role of lot sizes in forex trading, focusing on micro and standard lots. This guide helps both new and seasoned traders choose the right lot size to optimize strategies and manage risk effectively. Explore the benefits and limitations of different lot sizes, and learn how algorithmic trading can enhance execution and minimize emotional biases. Gain insights into trading dynamics to navigate the complexities of forex markets for improved outcomes."
+title: Understanding Forex Micro Lots and Standard Lot Trading
+description: Forex lot sizes shape your trading outcomes Compare micro lots and standard
+  lots to adjust leverage position sizing and manage risk Discover more inside
 ---
 
 

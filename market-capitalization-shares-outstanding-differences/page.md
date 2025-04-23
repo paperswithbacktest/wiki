@@ -1,6 +1,7 @@
 ---
-title: "Market Capitalization and Shares Outstanding: Differences"
-description: "Learn the key differences between market capitalization and shares outstanding along with the role of algorithmic trading in making informed investment decisions."
+title: Understanding Market Capitalization and Shares Outstanding
+description: Market capitalization and outstanding shares help investors measure company
+  size risk and value using share price and total shares Discover more inside
 ---
 
 

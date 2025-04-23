@@ -1,6 +1,7 @@
 ---
-title: "Market Identifier Code: Purpose, Uses, and Types"
-description: "Market Identifier Codes (MICs) are crucial in algorithmic trading, enhancing efficiency by uniquely identifying trading venues and streamlining global market transactions."
+title: Market Identifier Codes Explained For Clear Global Trading
+description: Market Identifier Codes assign unique four letter tags to exchanges ensuring
+  accurate settlement reporting and compliance Discover more inside.
 ---
 
 

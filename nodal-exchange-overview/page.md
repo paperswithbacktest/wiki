@@ -1,6 +1,7 @@
 ---
-title: "Nodal Exchange Overview"
-description: "Explore the pivotal role of Nodal Exchange in North America's commodity markets and how it harnesses algorithmic trading to enhance efficiency and risk management."
+title: Comprehensive Guide to Nodal Exchange Energy Trading Platform
+description: Nodal Exchange offers a location specific energy trading platform that
+  boosts market accuracy and risk management with secure clearing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Negative Gearing: Concepts, Mechanisms, and Profitability"
-description: "Explore the interconnected roles of negative gearing and algorithmic trading in maximizing investment strategy profitability. Unlock financial insights today."
+title: Understanding Negative Gearing in Real Estate Investing
+description: Negative gearing offsets rent shortfalls against taxable income and targets
+  future property growth with tax benefits and risks Discover more inside
 ---
 
 

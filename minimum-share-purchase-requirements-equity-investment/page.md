@@ -1,6 +1,7 @@
 ---
-title: "Minimum Share Purchase Requirements for Equity Investment"
-description: "Discover how minimum share purchase requirements and fractional shares have transformed equity investment making it accessible for all. Learn about algorithmic trading's role."
+title: Understanding Minimum Share Purchase Requirements for Investors
+description: Minimum share purchase requirements affect how investors build balanced
+  portfolios explaining rules and strategies to meet thresholds Discover more inside
 ---
 
 

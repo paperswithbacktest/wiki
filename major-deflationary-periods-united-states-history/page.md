@@ -1,6 +1,7 @@
 ---
-title: "Major Deflationary Periods in United States History"
-description: "Discover key historical deflationary periods in U.S. history and their economic impacts Learn how these insights can enhance algorithmic trading strategies"
+title: Understanding Deflation Causes Impact and Policy Responses
+description: Deflation pressures can stall economic growth by reducing demand and
+  raising real debt burdens in historical and modern contexts Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Marginalism: Principles, Functioning, and Examples"
-description: "Explore how marginalism—a key economic concept—enhances algorithmic trading by focusing on incremental changes in costs and benefits for optimal decision-making."
+title: Understanding Marginalism in Economics and Decision Making
+description: Marginalism explains how cost-benefit analysis shapes real-world choices
+  in consumption production and policy decisions. Discover more inside.
 ---
 
 

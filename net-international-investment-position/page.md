@@ -1,6 +1,7 @@
 ---
-title: "Net International Investment Position"
-description: "Explore the dynamic interplay between Net International Investment Position and algorithmic trading to enhance strategic investment decisions in global markets."
+title: Net International Investment Position and Economic Health
+description: Net International Investment Position shows if a country lends more abroad
+  or borrows from global markets to gauge economic health Discover more inside.
 ---
 
 

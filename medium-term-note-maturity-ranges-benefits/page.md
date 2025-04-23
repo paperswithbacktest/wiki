@@ -1,6 +1,7 @@
 ---
-title: "Medium Term Note: Maturity Ranges and Benefits"
-description: "Explore the advantages and maturity ranges of Medium Term Notes in banking Learn how MTNs and algorithmic trading optimize financial strategies in today's market"
+title: A Guide To Medium Term Notes Benefits Risks And Strategies
+description: Medium Term Notes offer investors flexible debt options with tailored
+  maturities interest rates and profiles for balanced risk Discover more inside
 ---
 
 

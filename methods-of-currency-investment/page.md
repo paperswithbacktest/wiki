@@ -1,6 +1,7 @@
 ---
-title: "Methods of Currency Investment"
-description: "Explore the dynamic world of forex trading with insights into traditional strategies and the modern advancements of algorithmic trading. Understand key techniques for investing in the largest and most liquid financial market, emphasizing risk management and strategic diversification to harness its potential while navigating inherent challenges."
+title: Professional Guide to Currency Investment and Forex Trading
+description: Currency investment offers a step by step breakdown of forex basics risk
+  management and advanced strategies to grow your portfolio Discover more inside.
 ---
 
 

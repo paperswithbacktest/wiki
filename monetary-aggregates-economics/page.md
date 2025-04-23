@@ -1,6 +1,7 @@
 ---
-title: "Monetary Aggregates in Economics"
-description: "Explore the intricate relationship between monetary aggregates, money supply, and algorithmic trading and their collective impact on economic stability and trading strategies."
+title: Understanding Monetary Aggregates And Policy Implications
+description: Monetary aggregates measure money supply across liquidity levels to guide
+  central bank decisions on inflation and growth Discover more inside.
 ---
 
 

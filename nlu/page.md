@@ -1,6 +1,7 @@
 ---
-title: "NLU (Machine Learning)"
-description: "Explore how Natural Language Understanding, a subset of AI with machine learning, enables computers to comprehend and interpret human language effectively."
+title: Natural Language Understanding in Machine Learning Explained
+description: Natural Language Understanding empowers machines to interpret human intent
+  and context with ML models for more natural conversations Discover more inside
 ---
 
 ![Image](images/1.png)

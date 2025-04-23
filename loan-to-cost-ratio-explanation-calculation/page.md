@@ -1,6 +1,7 @@
 ---
-title: "Loan-to-Cost Ratio Explanation and Calculation"
-description: "Explore the critical role of the Loan-to-Cost ratio in real estate financing and its integration with algorithmic trading. This article investigates into how the LTC ratio helps assess investment feasibility and risk, while highlighting the innovative integration of technology in real estate investments for optimized decision-making and enhanced portfolio management."
+title: Understanding Loan-to-Cost Ratio in Real Estate Projects
+description: Loan-to-Cost Ratio shows how much lenders will fund versus total project
+  costs and guides borrowing decisions with real examples Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market Creation: Definition and Mechanisms"
-description: "Explore market creation and mechanisms in trading Understand the impact of algorithmic trading on market dynamics liquidity and price discovery for traders"
+title: Market Creation Strategies for Sustainable Business Growth
+description: Market Creation empowers companies to pioneer demand with innovative
+  research and strategic planning to drive sustainable growth Discover more inside.
 ---
 
 

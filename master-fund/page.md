@@ -1,6 +1,7 @@
 ---
-title: "Master Fund"
-description: "Explore the benefits and intricacies of the master-feeder fund structure in algorithmic trading Discover how this setup optimizes strategy execution and management"
+title: Master Funds Explained Key Structures Benefits and Risks
+description: Master Funds offer pooled investment from multiple feeder funds to lower
+  trading costs increase efficiency and diversify risks Discover more inside.
 ---
 
 

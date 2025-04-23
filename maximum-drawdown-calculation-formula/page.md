@@ -1,6 +1,7 @@
 ---
-title: "Maximum Drawdown and Calculation Formula"
-description: "Explore the importance of maximum drawdown in algorithmic trading Understand this key metric for managing investment risk and optimizing trading strategies"
+title: Understanding Maximum Drawdown in Investment Risk Management
+description: Maximum Drawdown reveals the largest historical loss an investment can
+  face and helps you gauge risk tolerance effectively. Discover more inside.
 ---
 
 

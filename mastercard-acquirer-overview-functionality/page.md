@@ -1,6 +1,7 @@
 ---
-title: "Mastercard Acquirer: Overview and Functionality"
-description: "Discover how Mastercard enhances global payment processing as an acquirer, utilizing secure partnerships and algorithmic trading for seamless, efficient transactions."
+title: Understanding Mastercard Acquirer Roles In Secure Payments
+description: Mastercard Acquirer services streamline payment acceptance and enhance
+  fraud protection for businesses with secure transactions Discover more inside.
 ---
 
 

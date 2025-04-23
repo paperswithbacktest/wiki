@@ -1,6 +1,7 @@
 ---
-title: "Net National Product"
-description: "Discover the significance of Net National Product (NNP) as a key economic indicator that captures the net value of goods and services produced by a nation's citizens accounting for asset depreciation. Learn how NNP differs from Gross Domestic Product (GDP) and its importance in evaluating economic sustainability. Explore how NNP is utilized in algorithmic trading to enhance decision-making and portfolio returns. This page provides insights into NNP's calculation its role in assessing economic health and its application in trading strategies in the global economic landscape."
+title: Understanding Net National Product and Its Economic Significance
+description: Net National Product reveals true economic growth by subtracting asset
+  depreciation to measure sustainable wealth accumulation. Discover more inside.
 ---
 
 

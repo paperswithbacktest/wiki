@@ -1,6 +1,7 @@
 ---
-title: "Marginal Rate of Substitution in Economics"
-description: "Explore the intersection of Marginal Rate of Substitution and algorithmic trading See how consumer choice theory impacts trading strategies and market dynamics​."
+title: Understanding the Marginal Rate of Substitution in Economics
+description: Marginal Rate of Substitution reveals how consumers trade goods to maintain
+  satisfaction and predict buying behavior for insight. Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "MEMX: Overview, Functionality, and Purpose"
-description: "Discover how MEMX, a member-owned exchange, reshapes US equities trading by enhancing competition, transparency, and cost-effectiveness, ideal for algo trading."
+title: "MEMX Exchange: A Transparent Low\u2011Cost Stock Trading Platform"
+description: MEMX lowers trading costs with a transparent platform and tiered fee
+  structure that boosts market fairness and speed for all investors Discover more
+  inside
 ---
 
 

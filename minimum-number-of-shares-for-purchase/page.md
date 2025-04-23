@@ -1,6 +1,7 @@
 ---
-title: "Minimum Number of Shares for Purchase"
-description: "Explore the benefits of algorithmic and fractional trading to enhance stock market accessibility and efficiency Learn how tech reshapes investment strategies"
+title: Understanding Minimum Share Purchase Requirements for Investors
+description: Minimum share purchase requirements can restrict investing choices Use
+  strategies to pick stocks and brokers within your budget Discover more inside
 ---
 
 

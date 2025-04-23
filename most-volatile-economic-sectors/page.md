@@ -1,6 +1,7 @@
 ---
-title: "List of Most Volatile Economic Sectors"
-description: "Explore the most volatile economic sectors and learn how algorithmic trading assists in managing and capitalizing on market fluctuations for potential profit."
+title: Measuring and Managing Economic Volatility Across Sectors
+description: Economic volatility shapes strategies across tech energy and healthcare
+  by revealing sector risks and measurement methods Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Lucas Wedge: Concept and Mechanism with Example"
-description: "Explore the Lucas Wedge concept and its role in algorithmic trading Enhance your understanding of economic growth metrics like GDP and their impact on trading strategies"
+title: Lucas Wedge in Surgery and Economic Growth Explained
+description: Lucas Wedge enhances surgical visibility and illuminates policy impacts
+  on GDP growth with clear explanations and practical insights Discover more inside.
 ---
 
 

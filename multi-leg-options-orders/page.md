@@ -1,6 +1,7 @@
 ---
-title: "Multi-Leg Options Orders"
-description: "Explore the world of multi-leg options orders and algorithmic trading in derivatives to enhance market strategies optimize efficiency and reduce trading costs."
+title: Mastering Multi-Leg Options Orders for Strategic Trading
+description: Multi-leg options orders combine calls and puts to manage risk and optimize
+  profit potential while adapting to market moves Discover more inside
 ---
 
 

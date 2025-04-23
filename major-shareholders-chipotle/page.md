@@ -1,6 +1,7 @@
 ---
-title: "Major Shareholders of Chipotle"
-description: "Discover how algorithmic trading impacts Chipotle investors by enhancing trading precision, cost efficiency, and market analysis for optimized shareholder value."
+title: Major Chipotle Shareholders and Their Ownership Impact
+description: Chipotle shareholders shape governance and strategy through voting rights
+  dividends ownership trends and influence corporate actions Discover more inside
 ---
 
 

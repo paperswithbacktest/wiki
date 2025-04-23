@@ -1,6 +1,7 @@
 ---
-title: "Monetary Theory: Overview and Examples"
-description: "Explore the evolving intersection of monetary theory and algorithmic trading in today's financial landscape. Understand the foundational economic concepts shaping modern markets and how technological advancements like algo trading are applied to optimize trading strategies and enhance market efficiency."
+title: Monetary Theory Fundamentals for Stable Economic Growth
+description: Monetary Theory shows how central banks adjust money supply and interest
+  rates to control inflation and foster stable economic growth. Discover more inside
 ---
 
 

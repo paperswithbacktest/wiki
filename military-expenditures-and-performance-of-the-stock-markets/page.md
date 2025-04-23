@@ -1,6 +1,7 @@
 ---
-title: "Military Expenditures and Performance of the Stock Markets"
-description: Explore the complex relationship between military expenditures and stock market performance. This article examines whether countries with significant defense budgets experience superior market returns compared to those with less emphasis on military spending. Through analysis of literature and empirical data, the study provides insights into how national defense investments influence economic indicators and investor confidence.
+title: Impact of Military Expenditure on Stock Market Performance
+description: Military expenditure shapes economic growth and stock market trends by
+  driving defense industry profits and investor confidence Discover more inside
 ---
 
 

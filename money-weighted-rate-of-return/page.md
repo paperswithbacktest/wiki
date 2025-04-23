@@ -1,6 +1,7 @@
 ---
-title: "Money-Weighted Rate of Return"
-description: "Discover the benefits of the Money-Weighted Rate of Return MWRR in evaluating investments considering cash flow timing and magnitude for accurate insights."
+title: Money-Weighted Rate of Return MWRR Explained for Investors
+description: Money-Weighted Rate of Return reveals how your cash flow timing impacts
+  investment returns and guides smarter portfolio choices Discover more inside.
 ---
 
 

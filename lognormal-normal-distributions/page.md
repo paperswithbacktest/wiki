@@ -1,6 +1,7 @@
 ---
-title: "Lognormal and Normal Distributions"
-description: "Explore the significance of normal and lognormal distributions in finance and algo trading to model risks returns and asset prices for informed decision-making."
+title: Understanding Normal And Lognormal Distributions In Data Analysis
+description: Get clear definitions key differences use cases and transformations for
+  normal and lognormal distributions in data analysis and finance Discover more inside
 ---
 
 

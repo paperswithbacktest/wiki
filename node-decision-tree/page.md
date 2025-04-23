@@ -1,6 +1,7 @@
 ---
-title: "Node (Decision Tree) (Machine Learning)"
-description: "A node in a decision tree represents decision points and splits data based on input features aiding in prediction modeling through root internal and leaf nodes."
+title: Understanding Decision Tree Nodes in Machine Learning
+description: Decision tree nodes determine optimal splits at root internal and leaf
+  levels to improve model accuracy and interpretability Discover more inside.
 ---
 
 ![Image](images/1.png)

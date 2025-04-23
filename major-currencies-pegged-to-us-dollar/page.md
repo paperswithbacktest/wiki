@@ -1,6 +1,7 @@
 ---
-title: "Major Currencies Pegged to the U.S. Dollar"
-description: "Explore the significant impact of currency exchange rates on national economies and their role in influencing trade balances and economic growth. Discover the dynamics of pegged currencies, where nations tie their currency value to the U.S. dollar to ensure stability and mitigate market volatility. Delve into how this practice interacts with algorithmic trading strategies, aiding in maintaining stable economic environments. Uncover why many countries, like Saudi Arabia and Hong Kong, opt to peg their currencies to the U.S. dollar, leveraging its global financial dominance to foster economic predictability and growth."
+title: Understanding Currency Pegs to the U.S. Dollar and Their Impact
+description: Currency pegs to the U.S. dollar stabilize exchange rates reduce trade
+  risk and boost investment while constraining monetary policy Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Net Present Value of Growth Opportunities"
-description: "Discover the intersection of Net Present Value and growth opportunities in algorithmic trading Learn how to leverage financial analysis for optimal investment strategies"
+title: Understanding Net Present Value of Growth Opportunities
+description: NPV of Growth Opportunities measures project value by discounting cash
+  flows and initial costs to guide investment decisions Discover more inside
 ---
 
 

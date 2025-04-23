@@ -1,6 +1,7 @@
 ---
-title: "Maximum Leverage: Concept and Examples"
-description: "Explore the concept of maximum leverage and its role in algorithmic trading Learn how investors use borrowed capital to boost returns and manage financial risks"
+title: Understanding Financial Leverage Benefits Risks and Strategies
+description: Financial leverage helps investors amplify returns and manage risks from
+  calculation to advanced strategies and real world examples Discover more inside
 ---
 
 

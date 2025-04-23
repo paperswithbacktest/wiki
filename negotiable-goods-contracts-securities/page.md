@@ -1,6 +1,7 @@
 ---
-title: "Negotiable Goods, Contracts, and Securities"
-description: "Discover the crucial roles of negotiable goods, securities contracts, and algorithmic trading in modern finance and their impact on global markets."
+title: Understanding Negotiable Instruments and Their Key Features
+description: Negotiable instruments streamline asset transfers with clear value rights
+  risk management and modernization via digital tools Discover more inside.
 ---
 
 

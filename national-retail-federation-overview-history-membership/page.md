@@ -1,6 +1,7 @@
 ---
-title: "National Retail Federation: Overview, History, and Membership"
-description: "Explore the role of the National Retail Federation in the retail sector its advocacy for tech advancement and how membership benefits entities through algotrading insights"
+title: National Retail Federation Overview History and Member Benefits
+description: National Retail Federation offers research insights on retail strategy
+  and government advocacy plus member benefits to drive growth Discover more inside
 ---
 
 

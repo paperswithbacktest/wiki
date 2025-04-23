@@ -1,6 +1,7 @@
 ---
-title: "Mitigation Banking Basics"
-description: "Explore the connection between wetland restoration, conservation, mitigation banking, and algo trading, showcasing innovative solutions for environmental and financial sectors."
+title: The Role of Mitigation Banking in Environmental Restoration
+description: Mitigation banking offsets development impacts by selling credits from
+  restored ecosystems to maintain environmental health Discover more inside.
 ---
 
 

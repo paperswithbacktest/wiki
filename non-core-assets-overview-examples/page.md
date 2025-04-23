@@ -1,6 +1,7 @@
 ---
-title: "Non-Core Assets: Overview and Examples"
-description: "Explore how non-core assets and algorithmic trading are revolutionizing financial strategies, improving liquidity, risk management, and asset optimization."
+title: Optimizing Business Focus Through Non-Core Asset Divestment
+description: Divesting non-core assets can streamline operations and improve efficiency,
+  freeing capital to strengthen core business performance Discover more inside.
 ---
 
 

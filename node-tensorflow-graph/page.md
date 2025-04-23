@@ -1,6 +1,7 @@
 ---
-title: "Node (Tensorflow Graph) (Machine Learning)"
-description: "Discover the role and function of nodes within a TensorFlow graph including operation and variable nodes and how they contribute to machine learning models."
+title: Understanding TensorFlow Nodes in Computational Graphs
+description: TensorFlow nodes define operations and variables within a computational
+  graph to optimize model performance on CPUs and GPUs Discover more inside.
 ---
 
 ![Image](images/1.png)

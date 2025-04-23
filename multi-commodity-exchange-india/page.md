@@ -1,6 +1,7 @@
 ---
-title: "Multi Commodity Exchange of India Ltd."
-description: "Explore the pivotal role of Multi Commodity Exchange of India in algorithmic trading Learn how algo trading revolutionizes commodity markets for traders and investors"
+title: Multi Commodity Exchange of India MCX Explained for Investors
+description: Multi Commodity Exchange of India MCX empowers investors to manage commodity
+  price risk with futures contracts and real time trading Discover more inside
 ---
 
 

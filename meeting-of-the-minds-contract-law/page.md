@@ -1,6 +1,7 @@
 ---
-title: "Meeting of the Minds in Contract Law"
-description: "Explore the complexity of the "meeting of the minds" in contract law with a focus on its significance in algorithmic trading and evolving legal challenges."
+title: Understanding Meeting of the Minds in Contract Law
+description: Meeting of the minds ensures all parties fully understand contract terms
+  and avoid disputes to secure enforceable agreements Discover more inside.
 ---
 
 

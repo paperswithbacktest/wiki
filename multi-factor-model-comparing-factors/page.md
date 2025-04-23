@@ -1,6 +1,7 @@
 ---
-title: "Multi-Factor Model for Comparing Factors"
-description: "Explore the power of multi-factor models in algorithmic trading to compare factors influencing asset prices These models enhance data-driven investment decisions."
+title: Multi-Factor Models Explained for Smarter Investment Decisions
+description: Multi-factor models help investors analyze drivers of stock performance
+  for smarter portfolio choices and better risk management Discover more inside
 ---
 
 

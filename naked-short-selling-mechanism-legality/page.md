@@ -1,6 +1,7 @@
 ---
-title: "Naked Short Selling: Mechanism and Legality"
-description: "Explore the dynamics of naked short selling and its implications in algo trading Discover how this controversial practice impacts market stability and regulation"
+title: Understanding Naked Short Selling Risks And Market Impact
+description: Naked short selling poses market risks by enabling sales without borrowed
+  shares that can destabilize prices and hurt investors Discover more inside
 ---
 
 

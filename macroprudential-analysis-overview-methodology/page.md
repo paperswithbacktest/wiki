@@ -1,6 +1,8 @@
 ---
-title: "Macroprudential Analysis: Overview and Methodology"
-description: "Explore macroprudential analysis, risk management, and financial stability in modern financial systems, examining their impact on systemic risk control and algorithmic trading."
+title: Understanding Macroprudential Analysis for Financial Stability
+description: "Macroprudential analysis offers a system\u2011wide view of financial\
+  \ risks with real\u2011time data and stress tests to strengthen stability Discover\
+  \ more inside"
 ---
 
 

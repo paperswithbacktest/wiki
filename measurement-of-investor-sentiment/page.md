@@ -1,6 +1,7 @@
 ---
-title: "Measurement of Investor Sentiment"
-description: "Explore the impact of investor sentiment on algorithmic trading and market dynamics Learn how sentiment analysis can enhance trading strategies and decision-making"
+title: Investor Sentiment Explained Understanding Market Psychology
+description: Investor Sentiment drives stock price movements and helps you time trades
+  using surveys market indicators and social media signals Discover more inside.
 ---
 
 

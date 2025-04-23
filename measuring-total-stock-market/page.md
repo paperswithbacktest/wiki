@@ -1,6 +1,7 @@
 ---
-title: "Measuring the Total Stock Market"
-description: "Explore the complexities of the stock market through algo trading insights Learn how market indexes like S&P 500 and DJIA help measure market performance"
+title: Understanding Total Stock Market Measurement And Key Indices
+description: Total stock market measurement shows how to gauge market health using
+  key indices global coverage and statistical methods in real time Discover more inside
 ---
 
 

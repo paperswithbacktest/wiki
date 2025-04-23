@@ -1,6 +1,7 @@
 ---
-title: "Mainstream Economics: Overview and Criticisms"
-description: "Explore the interplay between mainstream economics and algorithmic trading as emerging critiques and technologies challenge traditional theories and influence market dynamics."
+title: Introduction to Mainstream Economics Principles and Models
+description: Mainstream economics uses proven models to explain supply and demand,
+  policy impacts and empirical methods for modern challenges Discover more inside.
 ---
 
 

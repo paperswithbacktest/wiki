@@ -1,6 +1,7 @@
 ---
-title: "Longitudinal Data in Finance and Economics"
-description: "Explore how longitudinal data transforms financial forecasting and economic analysis enabling robust algorithmic trading strategies and data-driven decision making."
+title: Analyzing Longitudinal Data in Finance and Economics
+description: Longitudinal data in finance and economics reveals evolving trends and
+  supports deeper analysis by addressing collection challenges Discover more inside.
 ---
 
 

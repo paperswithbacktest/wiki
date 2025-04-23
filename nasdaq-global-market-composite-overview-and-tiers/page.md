@@ -1,6 +1,7 @@
 ---
-title: "NASDAQ Global Market Composite Overview and Tiers"
-description: "Explore NASDAQ's dynamic tiers and Global Market Composite in algorithmic trading Learn how this structure shapes investment strategies globally"
+title: Understanding The NASDAQ Global Market Composite Index
+description: NASDAQ Global Market Composite tracks global NASDAQ listings to reveal
+  market trends and help you make smarter investment decisions Discover more inside
 ---
 
 

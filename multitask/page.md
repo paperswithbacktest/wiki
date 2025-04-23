@@ -1,6 +1,7 @@
 ---
-title: "Multitask (Machine Learning)"
-description: "Discover multitask learning in machine learning as models tackle multiple tasks simultaneously enhancing efficiency and performance across varied applications."
+title: Multitask Learning Techniques to Improve Machine Learning Models
+description: Multitask learning trains models on multiple tasks at once to boost efficiency
+  and accuracy by leveraging shared patterns. Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "New Economy: Overview and Company Examples"
-description: "Explore the transformative impact of the new economy driven by tech giants like Amazon and Google, and the rise of algorithmic trading reshaping investment strategies."
+title: The New Economy Shift Shaping Global Markets and Jobs
+description: New Economy reshapes businesses with digital innovation and global connectivity
+  expansion flexible work and evolving data issues Discover more inside
 ---
 
 

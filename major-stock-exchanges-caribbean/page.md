@@ -1,6 +1,7 @@
 ---
-title: "Major Stock Exchanges of the Caribbean"
-description: "Discover the vibrant financial markets of the Caribbean with thriving stock exchanges in countries like Jamaica and Barbados offering diverse investment opportunities."
+title: Understanding Caribbean Stock Exchanges and Market Growth
+description: Caribbean Stock Exchanges enable fair trading and investment in Jamaica
+  and Trinidad Tobago with key market insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Model (Machine Learning)"
-description: "Explore machine learning models as tools that predict by learning from data with examples like linear regression decision trees and reinforcement learning"
+title: Understanding Machine Learning Models and Algorithms
+description: Machine learning models learn from data to predict outcomes using supervised
+  and unsupervised learning and cover training evaluation Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "National Income Accounting: Mechanisms and Examples"
-description: "Explore how national income accounting and economic indicators shape financial analysis through algorithmic trading, offering insights for informed decision-making."
+title: Understanding National Income Accounting for Economic Policy
+description: "National income accounting tracks a country\u2019s production earnings\
+  \ spending and personal income to guide policy and economic growth Discover more\
+  \ inside"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Market Risk and Equity Risk Premium"
-description: "Explore the essential concepts of market risk and equity risk premium in algorithmic trading. Understand how these elements shape investment strategies and optimize returns."
+title: Understanding Market Risk and Equity Risk Premium Dynamics
+description: Equity risk premium and market risk help investors assess stock returns
+  relative to bonds and optimize portfolio allocation Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Locating a Company's Profit and Loss Statement"
-description: "Locate important insights in a profit and loss statement to guide financial decisions in algorithmic trading and assess a company's financial health effectively."
+title: Understanding Profit and Loss Statements For Business Finance
+description: Profit and loss statement clarifies revenue costs and net profit to help
+  businesses optimize finances and investors assess risk Discover more inside.
 ---
 
 

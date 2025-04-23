@@ -1,6 +1,7 @@
 ---
-title: "Loss Leader Strategy in Retail"
-description: "Explore how the loss leader strategy in retail enhances sales with below-cost pricing attracting customers who buy additional high-margin items, linked to algo trading."
+title: Implementing a Loss Leader Strategy for Retail Profitability
+description: Loss leader strategy attracts shoppers with discounted products then
+  boosts overall sales through targeted upsells and cross-selling Discover more inside.
 ---
 
 

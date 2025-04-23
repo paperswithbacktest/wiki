@@ -1,6 +1,7 @@
 ---
-title: "Marginable Securities: Mechanism and Purchase"
-description: "Explore how marginable securities and algorithmic trading revolutionize investment strategies by amplifying returns and optimizing efficiency in modern finance."
+title: Understanding Marginable Securities and Their Role in Investing
+description: Marginable securities let you leverage your portfolio with borrowed funds
+  while managing risks maintenance margins and margin calls Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mean Average Precision At K (Map@K) (Machine Learning)"
-description: "Discover the significance of Mean Average Precision at K (MAP@K) in machine learning and how it enhances model performance in ranking relevant items."
+title: Understanding Mean Average Precision at K in Machine Learning
+description: Mean Average Precision at K measures how well machine learning models
+  rank relevant items in the top K results to evaluate performance Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Marshall Plan: Purpose and Historical Impact"
-description: "Explore the transformative impact of the Marshall Plan on post-WWII Europe and its influence on modern economic strategies like algorithmic trading."
+title: Marshall Plan Effects On Postwar Reconstruction And Integration
+description: Marshall Plan rebuilt war torn Europe with 13 billion in aid to boost
+  economies, curb communism and foster cooperation among nations. Discover more inside
 ---
 
 

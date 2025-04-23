@@ -1,6 +1,7 @@
 ---
-title: "London Metal Exchange Overview"
-description: "Discover the pivotal role of the London Metal Exchange in global metal markets exploring its diverse trading methods and the impact of algorithmic trading."
+title: Understanding the London Metal Exchange Markets and Operations
+description: London Metal Exchange sets global metal prices and provides risk management
+  with market insights on trading, warehousing, and futures Discover more inside
 ---
 
 

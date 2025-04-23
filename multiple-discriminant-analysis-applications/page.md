@@ -1,6 +1,7 @@
 ---
-title: "Multiple Discriminant Analysis and Its Applications"
-description: "Explore Multiple Discriminant Analysis in algo trading and finance Learn how MDA refines investment decisions by analyzing complex datasets and trading algorithms"
+title: Multiple Discriminant Analysis Guide for Effective Classification
+description: Multiple Discriminant Analysis classifies data by finding variables that
+  distinguish groups and accurately predicts observations Discover more inside
 ---
 
 

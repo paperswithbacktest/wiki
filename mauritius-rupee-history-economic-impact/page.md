@@ -1,6 +1,7 @@
 ---
-title: "Mauritius Rupee: History and Economic Impact"
-description: "Explore the historical evolution and modern economic impact of the Mauritius Rupee including the rise of algorithmic trading in the Mauritian financial sector."
+title: Historical And Economic Significance Of The Mauritius Rupee
+description: Mauritius Rupee evolution traced from colonial origins to its modern
+  economic role and exchange rate impacts on trade and inflation Discover more inside.
 ---
 
 

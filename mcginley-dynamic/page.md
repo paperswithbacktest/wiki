@@ -1,6 +1,7 @@
 ---
-title: "McGinley Dynamic Explained"
-description: Discover the McGinley Dynamic Indicator, a powerful tool that enhances trading analysis by reducing lag and adapting to market changes more effectively than traditional moving averages. Designed by John R. McGinley, this indicator is invaluable for algorithmic traders seeking timely and accurate market insights. Our in-depth exploration covers its calculation, advantages over conventional averages, and applications in trading strategies, offering a comprehensive guide to leveraging this innovative approach for improved trading decisions.
+title: Mastering the McGinley Dynamic Indicator for Trend Analysis
+description: The McGinley Dynamic Indicator adapts moving averages to market speed,
+  reducing lag and false signals for clearer trend following. Discover more inside.
 ---
 
 

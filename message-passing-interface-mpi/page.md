@@ -1,6 +1,7 @@
 ---
-title: "Message Passing Interface (MPI)"
-description: Discover how the Message Passing Interface (MPI) enhances algorithmic trading by enabling parallel processing for high-speed, data-intensive tasks. This article examines MPI's role in improving computational efficiency, reducing latency, and supporting real-time data analysis in trading systems. Explore the benefits, technical setup, and challenges of implementing MPI to optimize trade execution and find profitable opportunities in financial markets.
+title: Complete Guide To The Message Passing Interface MPI Standard
+description: Message Passing Interface provides a clear guide to parallel programming
+  and process communication in scientific and big data projects Discover more inside
 ---
 
 

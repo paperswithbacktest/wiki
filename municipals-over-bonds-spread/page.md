@@ -1,6 +1,7 @@
 ---
-title: "Municipals-Over-Bonds Spread"
-description: "Explore the evolving landscape of municipal bond trading through algorithmic strategies focusing on understanding the Municipal-Over-Bonds (MOB) spread and optimizing trade efficiency."
+title: Municipals-Over-Bonds Spread Explained for Investors
+description: Municipals-Over-Bonds Spread helps investors compare municipal and Treasury
+  yields to assess value against risk and make informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Locating a BIPOC Financial Advisor or Planner"
-description: "Discover the importance of finding BIPOC financial advisors and understand how diversity in finance boosts innovation, equity, and better client relations."
+title: Expert Guide to Finding and Hiring a BIPOC Financial Advisor
+description: BIPOC financial advisor guide offers trusted directories cultural competence
+  and fee insights to empower your financial goals Discover more inside.
 ---
 
 

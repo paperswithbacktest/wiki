@@ -1,6 +1,7 @@
 ---
-title: "McClellan Oscillator: Function and Interpretation"
-description: "Explore the McClellan Oscillator and its role in algo trading Unlock market sentiment insights Gauge momentum and predict reversals with this tool"
+title: Using The McClellan Oscillator To Gauge Stock Market Momentum
+description: McClellan Oscillator tracks market breadth by comparing advancing and
+  declining stocks to reveal turning points and trend strength Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mont Pelerin Society: Overview and History"
-description: "Explore how the Mont Pelerin Society's classical liberal ideals shape contemporary practices like algorithmic trading enhancing modern economic policies."
+title: Mont Pelerin Society Origins And Influence On Neoliberal Thought
+description: Mont Pelerin Society explores the founding ideas and global impact of
+  free market principles on economic policy and political thought Discover more inside
 ---
 
 

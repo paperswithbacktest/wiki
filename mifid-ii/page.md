@@ -1,6 +1,7 @@
 ---
-title: "MiFID II"
-description: "MiFID II enhances financial market transparency in the EU, governing algorithmic trading to ensure market integrity and stability through stringent regulations."
+title: Understanding MiFID II Investor Protections and Transparency
+description: MiFID II enhances market transparency and investor protection by enforcing
+  clear disclosures trading rules and reporting standards Discover more inside.
 ---
 
 

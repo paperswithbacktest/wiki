@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Wrap: Overview and Functionality"
-description: "Discover how mutual fund wraps integrate algorithmic trading to optimize investment strategies, enhance decision-making, and maximize portfolio performance."
+title: Understanding Mutual Fund Wrap Accounts for Efficient Investing
+description: Mutual fund wrap simplifies investing by bundling professional advice
+  management and trades under one fee to streamline costs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Macanese Pataca: Overview and Functionality"
-description: "Explore how the Macanese Pataca integrates into Macau's economy and algorithmic trading highlighting its stability and impact on local and global markets."
+title: Macanese Pataca Currency History and Economic Importance
+description: Macanese Pataca is the official currency of Macau linked to the Hong
+  Kong Dollar for stable transactions and easy currency exchange Discover more inside
 ---
 
 

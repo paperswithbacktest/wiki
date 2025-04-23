@@ -1,6 +1,7 @@
 ---
-title: "Maven Securities"
-description: "Discover how Maven Securities leverages algorithmic trading innovation to dominate financial markets with speed precision and advanced technology integration."
+title: Maven Securities Algorithmic Trading for Institutional Investors
+description: Maven Securities uses advanced algorithmic trading to deliver quick,
+  risk-managed investment decisions for pension funds and insurers Discover more inside
 ---
 
 

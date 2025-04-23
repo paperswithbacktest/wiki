@@ -1,6 +1,7 @@
 ---
-title: "Non-stationarity in financial data"
-description: "Discover how non-stationarity in financial data impacts algorithmic trading and explore effective strategies to convert such data into stationary form for better forecasts."
+title: Managing Non-Stationarity in Financial Time Series Data
+description: Non-stationarity in financial time series skews forecasts so we apply
+  differencing to stabilize data for modeling and risk control Discover more inside
 ---
 
 

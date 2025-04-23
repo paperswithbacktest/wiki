@@ -1,6 +1,7 @@
 ---
-title: "Mobile Banking"
-description: "Explore how mobile and digital banking transform financial services with AI and blockchain while algorithmic trading reshapes markets for faster trades."
+title: The Complete Guide To Mobile Banking Security And Features
+description: Mobile banking turns your smartphone into a secure bank branch so you
+  can check balances, pay bills, set goals and track transactions Discover more inside
 ---
 
 

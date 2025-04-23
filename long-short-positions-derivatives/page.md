@@ -1,6 +1,7 @@
 ---
-title: "Long and Short Positions in Derivatives"
-description: "Explore long and short positions in derivatives to understand how algorithmic trading enhances strategy and precision for traders and investors alike."
+title: Understanding Long and Short Positions in Derivatives
+description: Long and short positions in derivatives let traders seize market moves
+  with contracts to profit while managing risk with leverage Discover more inside
 ---
 
 

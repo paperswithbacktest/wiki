@@ -1,6 +1,7 @@
 ---
-title: "Lyon & Turnbull Auctioneers"
-description: "Discover how Lyon & Turnbull blends traditional art auctions with cutting-edge algorithmic trading insights redefining investment strategies in the art market."
+title: Lyon & Turnbull Auctioneers A Guide to Art and Antique Auctions
+description: Lyon & Turnbull Auctioneers delivers expert guidance on bidding consigning
+  and authenticity verification for art antiques and jewelry Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Momentum strategies"
-description: Explore the dynamics of momentum strategies in algorithmic trading, focusing on securities with strong trends. Discover technical indicators like Moving Averages and RSI that help identify momentum shifts. Learn how algo trading implements these strategies to optimize trade execution and potentially enhance profitability.
+title: Momentum Investing Strategies for Riding Market Trends
+description: Momentum investing harnesses recent stock price trends to capture gains
+  and manage risks with simple rules and indicators Discover more inside
 ---
 
 

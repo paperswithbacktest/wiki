@@ -1,6 +1,8 @@
 ---
-title: "Negative log loss scores"
-description: Explore the significance of negative Log Loss scores in algorithmic trading. Understand how this metric evaluates classification model performance, optimizing trading strategies by measuring prediction accuracy and confidence. Discover how minimizing Log Loss aids traders in refining models to enhance financial outcomes, and learn common misconceptions about this crucial evaluation tool in data science and finance.
+title: Understanding Log Loss in Machine Learning Models
+description: Log loss measures how prediction probabilities match actual outcomes
+  in classification models to improve accuracy and reduce overconfidence Discover
+  more inside
 ---
 
 

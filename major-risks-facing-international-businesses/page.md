@@ -1,6 +1,7 @@
 ---
-title: "Major Risks Facing International Businesses"
-description: "Explore the major risks international businesses face, from currency fluctuations to algorithmic trading, and learn strategies to mitigate these challenges."
+title: Managing International Business Risks with Analytics and Strategy
+description: International business risks demand proactive strategies and analytics
+  to anticipate currency political and supply challenges Discover more inside.
 ---
 
 

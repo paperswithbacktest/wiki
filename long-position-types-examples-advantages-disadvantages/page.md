@@ -1,6 +1,7 @@
 ---
-title: "Long Position: Types, Examples, Advantages, and Disadvantages"
-description: "Explore long positions in trading including types examples and benefits paired with algorithmic trading insights to optimize strategies for financial success."
+title: Understanding Long Positions in Investing for Better Returns
+description: Long position investing means buying assets expecting price gains over
+  time Learn how to start manage and optimize your long positions Discover more inside
 ---
 
 

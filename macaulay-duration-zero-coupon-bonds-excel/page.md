@@ -1,6 +1,7 @@
 ---
-title: "Macaulay Duration of Zero-Coupon Bonds in Excel"
-description: "Explore how to calculate Macaulay Duration for zero-coupon bonds in Excel to enhance your algorithmic trading strategies by understanding bond sensitivity to interest rates."
+title: "Calculating Macaulay Duration for Zero\u2011Coupon Bonds in Excel"
+description: Macaulay Duration for zero-coupon bonds shows how bond price sensitivity
+  ties directly to time to maturity and interest rate shifts. Discover more inside.
 ---
 
 

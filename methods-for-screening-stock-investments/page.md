@@ -1,6 +1,7 @@
 ---
-title: "Methods for Screening Stock Investments"
-description: "Explore essential methods for successful stock investment screening Stock screening stock ideas and algo trading enhance strategies providing data-driven insights and efficiency"
+title: Comprehensive Stock Screening Strategies for Informed Investors
+description: Stock screening filters stocks by financial ratios sector trends and
+  technical indicators so you pinpoint promising investments Discover more inside
 ---
 
 

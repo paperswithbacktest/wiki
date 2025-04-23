@@ -1,6 +1,7 @@
 ---
-title: "Money Market Mutual Fund Liquidity Facility"
-description: "Explore the critical role of liquidity facilities, MMMFs, and algorithmic trading in modern finance, highlighting their impact during economic crises."
+title: Understanding the Money Market Mutual Fund Liquidity Facility
+description: Money Market Mutual Fund Liquidity Facility lets banks secure cash fast
+  with high quality fund assets to steady markets during crises Discover more inside
 ---
 
 

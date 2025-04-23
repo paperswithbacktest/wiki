@@ -1,6 +1,8 @@
 ---
-title: "Major Mutual Fund and ETF Investors in Procter & Gamble"
-description: "Explore the top mutual funds and ETFs investing in Procter & Gamble to understand their strategies and the role of algorithmic trading in boosting P&G's market influence."
+title: Investing in Procter & Gamble With Mutual Funds and ETFs
+description: "Procter & Gamble mutual funds and ETFs deliver diversified exposure\
+  \ to a stable company with low\u2011cost index and dividend strategies Discover\
+  \ more inside."
 ---
 
 

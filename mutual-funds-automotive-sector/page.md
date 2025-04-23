@@ -1,6 +1,7 @@
 ---
-title: "Mutual Funds Focused on the Automotive Sector"
-description: "Explore investment opportunities in automotive mutual funds and algo trading Discover diversified exposure to the evolving auto sector and optimize strategies for better returns"
+title: Investing in Automotive Sector Mutual Funds for Growth
+description: Automotive sector mutual funds provide targeted exposure to car makers
+  parts with expert management to diversify risk and pursue returns. Discover more.
 ---
 
 

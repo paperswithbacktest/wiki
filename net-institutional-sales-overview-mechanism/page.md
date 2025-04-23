@@ -1,6 +1,7 @@
 ---
-title: "Net Institutional Sales: Overview and Mechanism"
-description: "Explore how Net Institutional Sales impacts institutional trading by revealing investor sentiment and market trends in the evolving financial landscape."
+title: Net Institutional Sales Explained for Smart Investment Decisions
+description: Net Institutional Sales reveal how big investors influence market movements
+  and guide your strategy with timely insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Marginal Value at Risk"
-description: "Discover the significance of Marginal Value at Risk in algorithmic trading and enhance your risk management strategies with this essential metric."
+title: Understanding Marginal Value At Risk For Portfolio Management
+description: Marginal Value at Risk analysis reveals how small asset changes impact
+  portfolio risk and guides smarter investment decisions Discover more inside
 ---
 
 

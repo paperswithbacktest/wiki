@@ -1,6 +1,7 @@
 ---
-title: "MSCI All Country World Index Overview"
-description: "Discover the MSCI All Country World Index's pivotal role in global investing as a benchmark for market performance and its integration with algorithmic trading."
+title: MSCI All Country World Index Explained for Global Investors
+description: MSCI All Country World Index provides a comprehensive benchmark for tracking
+  developed and emerging market equities in one measure. Discover more inside.
 ---
 
 

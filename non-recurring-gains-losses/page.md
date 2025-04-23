@@ -1,6 +1,7 @@
 ---
-title: "Non-Recurring Gains and Losses"
-description: "Explore non-recurring gains and losses in financial accounting and their impact on algorithmic trading. Learn to analyze and interpret financial statements effectively."
+title: Understanding Non-Recurring Gains and Losses in Finance
+description: Non-recurring gains and losses separate one-time events from ongoing
+  earnings so investors can gauge true financial performance Discover more inside
 ---
 
 

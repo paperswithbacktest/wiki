@@ -1,6 +1,7 @@
 ---
-title: "MAR Ratio and Its Alternatives"
-description: "Discover how the MAR Ratio helps investors evaluate risk-adjusted returns in algorithmic trading and explore its applications benefits and its comparison with other metrics."
+title: Evaluating Investments With MAR Ratio For Risk Adjusted Returns
+description: MAR Ratio gives investors a clear risk adjusted performance metric by
+  comparing annual growth to drawdowns to balance returns and risk Discover more
 ---
 
 

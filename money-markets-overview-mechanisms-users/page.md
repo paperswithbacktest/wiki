@@ -1,6 +1,7 @@
 ---
-title: "Money Markets: Overview, Mechanisms, and Users"
-description: "Explore the dynamics of money markets, key users like banks and corporations, and the impact of algorithmic trading on liquidity and interest rate management."
+title: Understanding Money Markets and Their Key Instruments
+description: Money market instruments help maintain liquidity and manage short-term
+  cash needs across banks companies and governments. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Micro-Hedge: Functionality and Example"
-description: "Discover the intricacies of micro-hedging and its role in risk management in algo trading Learn to minimize risks and safeguard investment portfolios effectively"
+title: Micro Hedge Strategies for Precise Small-Scale Risk Management
+description: Micro hedge methods let investors protect specific assets with targeted
+  instruments increasing control over risk management Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Negative Feedback: Mechanism and Function"
-description: "Explore how negative feedback mechanisms in algorithmic trading stabilize financial markets by managing volatility, enhancing market balance, and optimizing trades."
+title: Understanding Negative Feedback Mechanisms For System Stability
+description: Negative feedback stabilizes biological, electronic and financial systems
+  by self-regulating deviations to maintain equilibrium. Discover more inside.
 ---
 
 

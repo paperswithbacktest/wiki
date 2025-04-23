@@ -1,6 +1,7 @@
 ---
-title: "National Diamond Theory"
-description: "Explore the synergy between Michael Porter's National Diamond Model and algorithmic trading to enhance global business competitiveness in evolving markets."
+title: Understanding National Diamond Theory for Global Competitiveness
+description: "National Diamond Theory shows how factor conditions demand and related\
+  \ industries shape a nation\u2019s global competitive advantage Discover more inside."
 ---
 
 

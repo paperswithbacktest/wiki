@@ -1,6 +1,7 @@
 ---
-title: "Net Debt and Assessed Valuation"
-description: "Discover the key roles of net debt and assessed valuation in finance and their impact on algorithmic trading strategies for investors and analysts."
+title: Analyzing Net Debt and Assessed Valuation for Financial Health
+description: Net debt and assessed valuation offer insights into corporate leverage
+  and property tax liabilities guiding strategic decisions. Discover more inside.
 ---
 
 

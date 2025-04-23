@@ -1,6 +1,7 @@
 ---
-title: "Meta-order execution"
-description: "Meta-order execution in algo trading minimizes market impact and optimizes trade efficiency for large trades using advanced execution algorithms and strategies."
+title: Meta-Order Execution Strategies for Optimal Trade Performance
+description: Meta-Order Execution breaks large trades into smaller slices to optimize
+  pricing reduce market impact and maintain confidentiality Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Monetary Conditions Index: Overview and Calculation"
-description: "Explore the Monetary Conditions Index MCI a crucial economic measure that assesses monetary policy effects using interest and exchange rates for algorithmic trading."
+title: Understanding the Monetary Conditions Index for Policy Decisions
+description: Monetary Conditions Index combines interest rates and exchange rates
+  into one clear measure to guide policy adjustments effectively Discover more inside.
 ---
 
 

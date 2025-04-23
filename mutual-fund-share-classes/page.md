@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Share Classes"
-description: "Explore mutual fund share classes and algorithmic trading strategies in this detailed guide Learn about diverse investment types and how to optimize your portfolio"
+title: Complete Guide to Mutual Fund Share Classes and Fees
+description: Mutual fund share classes vary in fees and features so you can match
+  your investment horizon and amount for optimal returns Discover more inside.
 ---
 
 

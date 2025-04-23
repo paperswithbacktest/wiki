@@ -1,6 +1,7 @@
 ---
-title: "Metals and Mining Sector Overview"
-description: "Explore the intersection of metals mining and algorithmic trading showcasing how tech innovations impact markets and drive efficiency in resource allocation."
+title: Comprehensive Guide to the Metals and Mining Sector
+description: Metals and mining sector highlights key extraction methods, major metal
+  uses, impacts and future trends Discover more inside.
 ---
 
 

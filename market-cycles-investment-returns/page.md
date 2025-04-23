@@ -1,6 +1,7 @@
 ---
-title: "Market Cycles and Investment Returns"
-description: "Discover how understanding market cycles and utilizing algorithmic trading can enhance investment returns by optimizing strategies in a dynamic financial environment."
+title: Understanding Market Cycles for Smarter Investment Decisions
+description: Market cycles help investors optimize buy and sell timing across expansion
+  and contraction phases for improved returns Discover more inside.
 ---
 
 

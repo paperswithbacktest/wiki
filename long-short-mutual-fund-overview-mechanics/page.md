@@ -1,6 +1,8 @@
 ---
-title: "Long-Short Mutual Fund: Overview and Mechanics"
-description: "Explore the mechanics of long-short mutual funds utilizing algorithmic trading to enhance portfolio management by capitalizing on market inefficiencies."
+title: Long-Short Mutual Funds Explained for Informed Investors
+description: Long-short mutual funds combine buying and selling tactics to shield
+  portfolios in volatile markets and pursue gains across conditions Discover more
+  inside
 ---
 
 

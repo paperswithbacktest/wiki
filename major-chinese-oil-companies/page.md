@@ -1,6 +1,7 @@
 ---
-title: "Major Chinese Oil Companies"
-description: "Explore major Chinese oil firms like CNPC, Sinopec, and CNOOC as they leverage algorithmic trading to enhance operational efficiencies and market strategies."
+title: Major Chinese Oil Companies Powering National and Global Energy
+description: Chinese oil companies boost energy security and drive global markets
+  with green innovation and sustainable energy investments Discover more inside
 ---
 
 

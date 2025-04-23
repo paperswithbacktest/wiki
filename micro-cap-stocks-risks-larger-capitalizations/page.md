@@ -1,6 +1,7 @@
 ---
-title: "Micro-Cap Stocks and Risks Compared to Larger Capitalizations"
-description: "Explore the risks of investing in volatile micro-cap stocks and using algorithmic trading Learn how these factors make the stock market dynamic yet challenging"
+title: Investing In Micro-Cap Stocks Risks Rewards And Strategies
+description: Micro-Cap Stocks provide growth potential but carry high risks from low
+  liquidity limited data and volatility. Discover expert strategies inside
 ---
 
 

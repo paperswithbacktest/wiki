@@ -1,6 +1,7 @@
 ---
-title: "Micro Mining in Cryptocurrency"
-description: "Explore the dynamic world of cryptocurrency with insights into micro mining and algorithmic trading Discover how tech transforms digital currency generation"
+title: Micro Mining Cryptocurrency for Profitable Small Scale Gains
+description: "Micro mining cryptocurrency lets you earn digital coins using smartphones\
+  \ or low\u2011power computers with minimal cost and energy. Discover more inside."
 ---
 
 

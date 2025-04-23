@@ -1,6 +1,7 @@
 ---
-title: "Model Cascading (Machine Learning)"
-description: "Model cascading in machine learning involves using multiple models in sequence for efficient predictions enhancing speed and resource management."
+title: Model Cascading in Machine Learning for Efficient Predictions
+description: Model Cascading in machine learning uses a tiered sequence of models
+  to accelerate predictions and save computational resources Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Node (Neural Network) (Machine Learning)"
-description: "Discover how nodes function within neural networks as decision-makers processing inputs using weights and activation functions, contributing to machine learning."
+title: Understanding Neural Network Nodes How They Work and Learn
+description: Neural network nodes use weights biases and activation functions to process
+  data recognize patterns and refine predictions Discover more inside.
 ---
 
 ![Image](images/1.png)

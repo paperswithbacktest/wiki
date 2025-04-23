@@ -1,6 +1,7 @@
 ---
-title: "Meaning and Uses of 'Book' in Finance"
-description: "Uncover the meaning of 'book' in finance and explore its practical uses in algo trading. Learn key financial terms, their applications, and essential reads for enthusiasts."
+title: 'Understanding The Finance Book: Definition Types And Uses'
+description: Financial book tracks company transactions assets and liabilities providing
+  clear financial reporting and compliance assurances Discover more inside.
 ---
 
 

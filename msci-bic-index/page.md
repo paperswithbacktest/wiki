@@ -1,6 +1,7 @@
 ---
-title: "MSCI BIC Index"
-description: "Explore the MSCI BIC Index to understand emerging markets in Brazil, India, and China and how algorithmic trading enhances investment strategies."
+title: Comprehensive MSCI BIC Index Guide For Emerging Market Investors
+description: MSCI BIC Index tracks large and mid-cap stocks in Brazil India and China
+  to guide emerging market investments with real-time insights Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Nasdaq-100 Index Overview"
-description: "Explore the NASDAQ-100 Index a key benchmark of 100 top non-financial tech-driven companies shaping innovation and growth in the U.S. and globally."
+title: Complete Nasdaq-100 Index Guide For Informed Investors
+description: Nasdaq-100 Index shows how 100 non-financial leaders in tech retail and
+  healthcare perform to help investors benchmark returns Discover more inside
 ---
 
 

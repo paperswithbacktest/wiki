@@ -1,6 +1,7 @@
 ---
-title: "Nonparametric Statistics Overview and Examples"
-description: "Explore the advantages of nonparametric statistics in algorithmic trading Discover how these flexible methods enhance data analysis and trading strategies"
+title: Nonparametric Statistics Methods and Practical Applications
+description: Nonparametric statistics deliver distribution-free techniques for non-normal
+  datasets covering key tests and real-world examples Discover more inside
 ---
 
 

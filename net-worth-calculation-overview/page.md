@@ -1,6 +1,8 @@
 ---
-title: "Net Worth Calculation and Overview"
-description: "Explore the role of algorithmic trading in wealth assessment and net worth calculation to optimize financial strategies in today's dynamic market environment."
+title: 'Understanding Net Worth: How to Calculate and Improve It'
+description: Net worth provides a clear view of your financial health by tracking
+  assets and liabilities to guide your savings and debt strategies. Discover more
+  inside
 ---
 
 

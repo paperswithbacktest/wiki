@@ -1,6 +1,7 @@
 ---
-title: "Multi-Asset Class: Fund Types and Benefits"
-description: "Discover the benefits of multi-asset class investing and how algorithmic trading enhances portfolio management. Learn about fund types for diverse investment goals."
+title: Understanding Multi-Asset Class Funds And Their Advantages
+description: Multi-Asset Class Funds reduce risk and enhance returns through diverse
+  exposure to stocks bonds real estate and commodities Discover more inside
 ---
 
 

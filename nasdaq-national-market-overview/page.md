@@ -1,6 +1,7 @@
 ---
-title: "Nasdaq National Market Overview"
-description: "Explore the Nasdaq National Market and algorithmic trading's impact on modern finance. Learn how algo trading enhances speed efficiency and market dynamics."
+title: Understanding the Nasdaq National Market and Its Listing Rules
+description: Nasdaq National Market offers guidance on listing requirements trading
+  hours and market sectors to help you invest confidently Discover more inside
 ---
 
 

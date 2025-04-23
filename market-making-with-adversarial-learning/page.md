@@ -1,6 +1,7 @@
 ---
-title: "Market-Making with Adversarial Learning"
-description: "Explore the transformative role of adversarial learning in algorithmic market-making to enhance trade efficiency, liquidity, and robust strategy adaptation."
+title: Enhancing Market-Making with Adversarial Learning Models
+description: Adversarial learning improves market-making strategies by efficiently
+  generating and testing trading plans against live data Discover more inside
 ---
 
 

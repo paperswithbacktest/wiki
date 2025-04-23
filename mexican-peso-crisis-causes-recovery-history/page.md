@@ -1,6 +1,7 @@
 ---
-title: "Mexican Peso Crisis: Causes, Recovery, and Historical Context"
-description: "Explore the Mexican Peso Crisis of 1994 including its causes, the recovery efforts, and the significance of algorithmic trading in managing economic volatility."
+title: Understanding the Mexican Peso Crisis and Recovery
+description: Mexican Peso Crisis showed the dangers of heavy debt and currency pegs
+  This analysis details how reforms and US support restored stability Discover inside
 ---
 
 

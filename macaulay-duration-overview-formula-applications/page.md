@@ -1,6 +1,7 @@
 ---
-title: "Macaulay Duration: Overview, Formula, and Applications"
-description: "Explore Macaulay Duration a vital metric in bond trading that measures interest rate sensitivity and aids algorithmic trading by refining risk management strategies."
+title: Understanding Macaulay Duration in Bond Valuation and Risk
+description: Macaulay Duration shows the average time to recover bond cash flows and
+  reveals interest rate sensitivity to manage portfolios Discover more inside
 ---
 
 

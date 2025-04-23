@@ -1,6 +1,7 @@
 ---
-title: "Market Equilibrium Models"
-description: "Explore market equilibrium models in algorithmic trading to optimize trade execution and enhance market efficiency by understanding supply-demand dynamics."
+title: Market Equilibrium Models in Economics and Financial Markets
+description: Market Equilibrium Models show how supply and demand determine prices
+  and quantities and guide policy decisions and trading strategies Discover more inside.
 ---
 
 

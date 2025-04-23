@@ -1,6 +1,7 @@
 ---
-title: "Natural Language Processing (Machine Learning)"
-description: "Explore the essence of Natural Language Processing AI helping computers understand and generate human language through machine learning applications in daily life"
+title: Natural Language Processing Fundamentals and Applications
+description: Natural Language Processing equips computers to understand human language
+  using tokenization semantic analysis and machine learning Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

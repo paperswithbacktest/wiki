@@ -1,6 +1,7 @@
 ---
-title: "Micromarket Liquidity Risk"
-description: "Explore the complexities of micromarket liquidity risk in algorithmic trading Learn strategies for managing liquidity challenges ensuring market stability and profitability"
+title: Understanding and Managing Liquidity Risk in Micromarkets
+description: Liquidity risk in micromarkets slows trades and erodes returns Explore
+  metrics strategies and machine learning to manage risk Discover more inside.
 ---
 
 

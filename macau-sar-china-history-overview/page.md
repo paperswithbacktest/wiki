@@ -1,6 +1,7 @@
 ---
-title: "Macau SAR, China: History and Overview"
-description: "Explore the dynamic and culturally rich region of Macau, China, renowned for its unique blend of Chinese and Portuguese influences. Often called the 'Las Vegas of Asia', Macau is famous for its thriving gaming and tourism industries set against a backdrop of baroque churches and traditional temples. Discover the region's strategic economic developments, including its growing prowess in algorithmic trading, as this vibrant SAR leverages its historical roots and political autonomy to thrive as a global financial and cultural hub."
+title: Macau SAR China Guide History Economy Culture And Governance
+description: Macau SAR China offers an in depth look at its history economy culture
+  and governance under one country two systems policy Discover more inside.
 ---
 
 

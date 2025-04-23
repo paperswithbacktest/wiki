@@ -1,6 +1,7 @@
 ---
-title: "National Stock Exchange of India Overview"
-description: "Explore the impact of algorithmic trading on the National Stock Exchange of India its evolution from electronic systems to modern algo trading and regulatory insights."
+title: Comprehensive Guide to the National Stock Exchange of India
+description: National Stock Exchange of India offers an overview of trading hours
+  indices and instruments to guide informed investment decisions Discover more inside
 ---
 
 

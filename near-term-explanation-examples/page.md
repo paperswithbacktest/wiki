@@ -1,6 +1,7 @@
 ---
-title: "Near Term: Explanation and Examples"
-description: "Discover the synergy between near-term financial planning and algorithmic trading to efficiently achieve short-term investment goals amidst market fluctuations."
+title: Understanding Near Term Planning and Its Impact on Decisions
+description: Near Term planning supports quick decisions in finance project management
+  and risk assessment to keep teams agile and deliver results Discover more inside
 ---
 
 

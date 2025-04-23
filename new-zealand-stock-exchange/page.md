@@ -1,6 +1,7 @@
 ---
-title: "New Zealand Stock Exchange"
-description: "Explore the role of the New Zealand Stock Exchange in financial markets discover its range of products and the impact of algorithmic trading on efficiency."
+title: "New\_Zealand Stock Exchange Investor Guide and Market Overview"
+description: "New\_Zealand Stock Exchange outlines how to start investing on the NZX\
+  \ covers indices securities trading hours and listing rules Discover more inside"
 ---
 
 

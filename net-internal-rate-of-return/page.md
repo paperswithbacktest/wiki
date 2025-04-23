@@ -1,6 +1,7 @@
 ---
-title: "Net Internal Rate of Return"
-description: "Explore the synergy between Net Internal Rate of Return and algorithmic trading to refine investment models and achieve consistent profitability in financial markets."
+title: Net Internal Rate Of Return For Accurate Investment Analysis
+description: Net Internal Rate Of Return gives you a precise measure of investment
+  performance by accounting for timing of cash flows and fees Discover more inside.
 ---
 
 

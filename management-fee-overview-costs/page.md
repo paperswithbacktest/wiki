@@ -1,6 +1,7 @@
 ---
-title: "Management Fee: Overview and Costs"
-description: "Explore the impact of management fees on algorithmic trading strategies Discover how these costs influence profitability and investor decision-making."
+title: Comprehensive Investor Guide to Management Fees and Returns
+description: Management fees affect your returns and net asset growth so compare expense
+  ratios choose low cost funds for lasting performance Discover more inside
 ---
 
 

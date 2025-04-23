@@ -1,6 +1,7 @@
 ---
-title: "Non-Hydraulic Fracturing: Overview and Mechanisms"
-description: "Explore non-hydraulic fracturing methods that minimize environmental impact by eliminating water usage in energy extraction and discover their financial optimization through algorithmic trading."
+title: Non-Hydraulic Fracturing for Sustainable Oil and Gas Extraction
+description: Non-hydraulic fracturing cuts water use and pollution in oil and gas
+  extraction by using heat or chemicals to boost recovery Discover more inside
 ---
 
 

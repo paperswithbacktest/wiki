@@ -1,6 +1,7 @@
 ---
-title: "Monte Carlo Simulation in Excel"
-description: "Explore the intersection of Monte Carlo simulations and algorithmic trading in Excel to boost financial forecasting and data-driven strategies with this guide."
+title: Monte Carlo Simulation Setup in Excel for Predictive Analysis
+description: Monte Carlo Simulation in Excel lets you forecast outcomes and assess
+  risk by running thousands of scenarios in your spreadsheet Discover more inside.
 ---
 
 

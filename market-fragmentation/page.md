@@ -1,6 +1,7 @@
 ---
-title: "Market fragmentation"
-description: "Market fragmentation challenges algorithmic trading by complicating pricing and liquidity across multiple venues. Discover strategies to thrive in this dispersed market landscape."
+title: Understanding Market Fragmentation Causes Impacts And Solutions
+description: Market fragmentation challenges companies by splitting markets into segments
+  with unique rules and customer preferences. Discover more inside.
 ---
 
 

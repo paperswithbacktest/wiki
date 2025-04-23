@@ -1,6 +1,7 @@
 ---
-title: "Net Receivables: Overview and Calculation"
-description: "Explore the significance of net receivables in financial management and algorithmic trading. Learn how they influence cash flow, liquidity, and strategic decision-making."
+title: Understanding Net Receivables for Business Financial Health
+description: Net receivables show the actual funds a company expects after deductions
+  for doubtful accounts and drive cash flow planning. Discover more inside.
 ---
 
 

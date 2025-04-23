@@ -1,6 +1,7 @@
 ---
-title: "Negative Correlation Coefficient Explanation"
-description: "Discover how understanding negative correlation coefficients is essential in algorithmic trading for effective decision-making and risk management. This fundamental statistical concept highlights inverse relationships between variables, offering traders insights into market dynamics. Learn how leveraging these correlations enhances trading strategies and optimizes portfolio performance amidst the fast-paced financial markets."
+title: Understanding Negative Correlation Coefficients in Statistics
+description: Negative correlation coefficient reveals how two variables move inversely
+  with calculation examples interpretation and visualization Discover more inside.
 ---
 
 

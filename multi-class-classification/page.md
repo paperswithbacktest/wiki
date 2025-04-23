@@ -1,6 +1,8 @@
 ---
-title: "Multi-Class Classification (Machine Learning)"
-description: "Explore multi-class classification in machine learning, its algorithms, and strategies for handling imbalanced datasets with insights on OvA and OvO approaches."
+title: Comprehensive Guide to Multi-Class Classification in Machine Learning
+description: Multi-class classification covers decision trees random forests neural
+  networks and evaluation metrics precision recall to boost model performance Discover
+  more inside
 ---
 
 ![Image](images/1.jpeg)

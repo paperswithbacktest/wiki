@@ -1,6 +1,7 @@
 ---
-title: "Long-Term Investment Strategy: Monthly Stock Contributions Over Three Decades"
-description: "Explore a robust long-term investment strategy by combining monthly stock contributions with algorithmic trading. Benefit from disciplined growth and data-driven insights."
+title: Monthly Stock Contributions For A Long-Term Investment Strategy
+description: Long-term investment strategy uses monthly stock contributions to harness
+  dollar-cost averaging and compounding for steady growth Discover more inside.
 ---
 
 

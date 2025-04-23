@@ -1,6 +1,7 @@
 ---
-title: "Minority Depository Institutions: Overview and Development"
-description: "Discover how Minority Depository Institutions foster financial inclusivity, support minority communities with tailored services, and explore algorithmic trading's impact."
+title: Minority Depository Institutions and Their Community Impact
+description: Minority Depository Institutions strengthen communities with tailored
+  banking solutions fostering economic growth and wealth creation Discover more inside
 ---
 
 

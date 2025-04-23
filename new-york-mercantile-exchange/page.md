@@ -1,6 +1,7 @@
 ---
-title: "New York Mercantile Exchange"
-description: "Explore the impact of algorithmic trading at NYMEX that enhances commodity trading efficiency by automating speed and price discovery in dynamic markets."
+title: Comprehensive Guide To The New York Mercantile Exchange NYMEX
+description: NYMEX enables companies to set future prices for energy and metals through
+  futures contracts reducing volatility and aiding planning Discover more inside
 ---
 
 

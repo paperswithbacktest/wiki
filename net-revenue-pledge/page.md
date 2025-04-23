@@ -1,6 +1,7 @@
 ---
-title: "Net Revenue Pledge"
-description: "Explore the synergy of net revenue pledges and algorithmic trading in finance Discover how these strategies enhance municipal bonds' credit and optimize returns"
+title: Understanding the Net Revenue Pledge in Municipal Finance
+description: Net Revenue Pledge shows how using leftover profits after costs can secure
+  loan repayments and boost lender confidence Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Mechanism Design Theory and Its Functionality"
-description: "Explore mechanism design theory's role in algorithmic trading to achieve desired economic outcomes amidst strategic behavior and incomplete information in markets."
+title: Mechanism Design Theory Principles and Real World Applications
+description: Mechanism Design Theory explains how to set rules that align self-interest
+  with efficiency in auctions pricing and public services Discover more inside
 ---
 
 

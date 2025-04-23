@@ -1,6 +1,7 @@
 ---
-title: "Metcalf Report Overview"
-description: "Explore the enduring relevance of the 1976 Metcalf Report in today's algorithmic trading landscape highlighting ongoing regulatory challenges and market implications."
+title: Metcalf Report Recommendations for Power Station Security
+description: Metcalf Report outlines expert strategies to strengthen power station
+  security with enhanced cameras fences and monitoring Discover more inside.
 ---
 
 

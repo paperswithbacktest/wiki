@@ -1,6 +1,7 @@
 ---
-title: "New Deal: Significance, Overview, History"
-description: "Explore the significance and history of the New Deal its impact on economic stability and the evolution of financial systems toward modern practices like algorithmic trading."
+title: "New Deal Programs That Transformed America\u2019s Economy and Society"
+description: New Deal programs drove US recovery after the Great Depression by creating
+  jobs, aiding farmers, and launching Social Security. Discover more inside.
 ---
 
 

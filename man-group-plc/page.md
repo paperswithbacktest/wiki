@@ -1,6 +1,7 @@
 ---
-title: "Man Group PLC"
-description: "Discover Man Group's evolution into a global investment leader known for hedge fund expertise and pioneering algorithmic trading. Explore its innovative strategies."
+title: Man Group PLC Investment Management and Quantitative Strategies
+description: Man Group PLC uses advanced technology and quantitative investing to
+  deliver tailored investment solutions and manage risk Discover more inside.
 ---
 
 

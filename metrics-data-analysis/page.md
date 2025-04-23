@@ -1,6 +1,7 @@
 ---
-title: "Metrics in Data Analysis"
-description: "Explore essential metrics in algorithmic trading to optimize strategies through data analysis. Enhance profitability and risk management with key insights."
+title: Key Metrics for Data Analysis and Trading Algorithm Performance
+description: Metrics in data analysis offer clear insights into performance, quality,
+  and trends for business and trading decisions Discover more inside.
 ---
 
 

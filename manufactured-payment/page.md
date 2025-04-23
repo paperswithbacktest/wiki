@@ -1,6 +1,7 @@
 ---
-title: "Manufactured Payment"
-description: "Explore the intricacies of manufactured payments in securities lending and the pivotal role of algorithmic trading in modern finance to enhance market efficiency."
+title: Understanding Manufactured Payments in Securities Lending Markets
+description: Manufactured payment ensures lenders maintain dividend income when they
+  lend securities and uphold fair market transactions Discover more inside
 ---
 
 

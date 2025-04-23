@@ -1,6 +1,8 @@
 ---
-title: "National Defense Authorization Act of 2023"
-description: "The National Defense Authorization Act of 2023 allocates $858 billion to U.S. defense, emphasizing military advancements, personnel pay, and algorithmic trading potential."
+title: National Defense Authorization Act 2023 Military Budget Explained
+description: "National Defense Authorization Act 2023 sets an $858\_billion defense\
+  \ budget, enhances pay benefits cybersecurity & R&D across branches Discover more\
+  \ inside"
 ---
 
 

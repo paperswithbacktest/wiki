@@ -1,7 +1,7 @@
 ---
-title: "Navinder Singh Sarao"
-description: "Discover the story of Navinder Singh Sarao key figure in the 2010 Flash Crash uncovering the impact of algorithmic trading and market manipulation.
-"
+title: Navinder Singh Sarao Spoofing And The 2010 Flash Crash Impact
+description: Navinder Singh Sarao spoofed orders that triggered the 2010 Flash Crash
+  revealing market risks and prompting new safeguards Discover more inside
 ---
 
 

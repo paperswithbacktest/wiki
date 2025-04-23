@@ -1,6 +1,7 @@
 ---
-title: "Long-Term Growth and Value Investing"
-description: "Explore long-term growth and value investing through the lens of algorithmic trading. Enhance your investment strategy with data-driven insights for sustained success."
+title: Comparing Long-Term Growth And Value Investing Strategies
+description: Long-term growth investing and value investing strategies can be combined
+  to optimize returns and manage risk through research Discover more inside.
 ---
 
 

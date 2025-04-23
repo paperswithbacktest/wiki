@@ -1,6 +1,7 @@
 ---
-title: "Neoliberalism: Overview, Examples, and Discussion"
-description: "Explore the interplay of neoliberalism and algorithmic trading in finance uncovering their combined impact on market efficiency and the associated risks."
+title: 'Understanding Neoliberalism: History, Principles, and Impacts'
+description: Neoliberalism shapes global economies through free markets deregulation
+  and privatization while fueling debates on inequality and growth Discover inside
 ---
 
 

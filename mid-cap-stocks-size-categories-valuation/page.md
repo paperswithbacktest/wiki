@@ -1,6 +1,7 @@
 ---
-title: "Mid-Cap Stocks: Size Categories and Valuation"
-description: "Explore the potential of mid-cap stocks in investment portfolios. Discover their growth, valuation significance, and role in algorithmic trading strategies."
+title: Mid-Cap Stocks Guide to Balanced Growth and Risk Management
+description: Mid-cap stocks deliver balanced growth with moderate risk. Use valuation
+  metrics for portfolio decisions to optimize returns. Discover more inside
 ---
 
 

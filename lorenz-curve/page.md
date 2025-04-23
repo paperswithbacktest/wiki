@@ -1,6 +1,7 @@
 ---
-title: "Lorenz Curve"
-description: "Explore income inequality the Lorenz curve and algorithmic trading with insights into economic distribution shaping policies in today's financial markets."
+title: Understanding the Lorenz Curve for Income Inequality Analysis
+description: Lorenz Curve visualizes income and wealth distribution across populations
+  to assess inequality and guide policy decisions Discover more inside
 ---
 
 

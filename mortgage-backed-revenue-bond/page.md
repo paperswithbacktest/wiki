@@ -1,6 +1,7 @@
 ---
-title: "Mortgage-Backed Revenue Bond"
-description: "Discover the intricacies of mortgage-backed and revenue bonds and explore how algorithmic trading is reshaping bond markets for savvy investors."
+title: Understanding Mortgage-Backed Revenue Bonds in Housing Finance
+description: Mortgage-Backed Revenue Bonds tap mortgage payments to fund housing initiatives
+  and deliver consistently steady investor returns. Discover more inside.
 ---
 
 

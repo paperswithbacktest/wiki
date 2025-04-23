@@ -1,6 +1,7 @@
 ---
-title: "Mean field games"
-description: "Explore the intersection of mean field games and algorithmic trading within quantitative finance. Uncover frameworks that enhance market modeling and strategy development."
+title: Mean Field Games Theory and Practical Applications
+description: Mean field games models reveal how individual choices drive traffic patterns
+  and financial market trends with numerical methods Discover more inside.
 ---
 
 

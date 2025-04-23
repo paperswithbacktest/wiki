@@ -1,6 +1,7 @@
 ---
-title: "Multiple: Calculation and Types"
-description: "Explore the calculations and types of algorithmic trading strategies used to enhance financial outcomes. Gain insights into trend following and more."
+title: Fundamentals of Multiples and Algorithmic Trading Calculations
+description: Multiples guide number patterns and LCM calculations while algorithmic
+  trading calculations drive trend following strategies Discover more inside
 ---
 
 

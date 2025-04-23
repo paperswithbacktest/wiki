@@ -1,6 +1,7 @@
 ---
-title: "Mechanism and Case Study of Unlimited Bond Purchase"
-description: "Explore the interplay of financial policy, quantitative easing, and algorithmic trading redefining the economic landscape and understanding the future of finance."
+title: Unlimited Bond Purchases Explained Mechanism Risks And Impact
+description: Unlimited bond purchases put new money into markets by buying bonds to
+  lower long-term rates and encourage borrowing for growth. Discover more inside
 ---
 
 

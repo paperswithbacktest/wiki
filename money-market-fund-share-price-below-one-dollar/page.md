@@ -1,6 +1,7 @@
 ---
-title: "Money Market Fund Share Price Falling Below One Dollar"
-description: "Explore why money market funds can drop below $1 per share examining causes like economic distress and risky investments and the role of algo trading in risk management."
+title: Maintaining Stability in Money Market Fund Share Prices
+description: Money market fund share price analysis helps investors understand risks
+  when funds break the buck and how to avoid losses Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Negative Return: Concept and Examples"
-description: "Discover the intricacies of negative returns in algorithmic trading Understand how advanced tech and strategic risk management mitigate financial setbacks for success"
+title: Understanding Negative Investment Returns and Their Impact
+description: Negative returns occur when investments sell below purchase cost at a
+  loss. Discover causes and tips to safeguard your portfolio. Discover more inside.
 ---
 
 

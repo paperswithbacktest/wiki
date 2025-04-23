@@ -1,6 +1,7 @@
 ---
-title: "Morningstar Risk Rating Overview"
-description: "Explore the synergy between Morningstar's risk ratings and algorithmic trading, essential tools for balancing risk and returns in evolving investment strategies."
+title: Understanding the Morningstar Risk Rating for Investors
+description: Morningstar Risk Rating gives investors a one-to-five score based on
+  fund volatility and peer comparison to guide smarter choices. Discover more inside.
 ---
 
 

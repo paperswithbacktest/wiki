@@ -1,6 +1,7 @@
 ---
-title: "Lump of Labor Fallacy"
-description: "Explore the impact of the lump of labor fallacy on job markets and the role of algorithmic trading in shaping the global economy and labor dynamics."
+title: Debunking the Lump of Labor Fallacy in Economic Policy
+description: Lump of Labor Fallacy misleads by treating jobs as a fixed supply while
+  businesses and technology drive job creation and growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "National Payment Systems: Clearing and Settlement"
-description: "Explore how national payment systems and algorithmic trading enhance financial transactions by ensuring efficiency, security, and integration in global markets."
+title: Understanding Clearing and Settlement in National Payment Systems
+description: National payment systems define secure clearing and settlement processes
+  risks and innovations to ensure fast reliable transactions Discover more inside
 ---
 
 

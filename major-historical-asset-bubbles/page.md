@@ -1,6 +1,7 @@
 ---
-title: "Major Historical Asset Bubbles"
-description: "Explore how historical asset bubbles like the Dutch Tulip Mania and the 2008 Financial Crisis shape economies, influenced by speculative trading and algorithmic practices."
+title: Understanding Historical Asset Bubbles and Their Economic Impact
+description: Asset bubbles have shaped markets from Tulip Mania to the 2008 housing
+  crisis revealing key lessons for modern policy and investment. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Nasdaq-100 Index: Composition, Weighting, and Trading"
-description: "Explore the Nasdaq-100 index including its composition and weighting Learn about algorithmic trading strategies and their benefits such as speed and precision"
+title: Guide to Understanding and Trading the Nasdaq-100 Index
+description: Nasdaq-100 Index breakdown explains composition weighting calculation
+  and key trading approaches for ETFs options and sector plays. Discover more inside.
 ---
 
 

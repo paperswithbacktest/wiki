@@ -1,6 +1,7 @@
 ---
-title: "Net Unrealized Appreciation and Tax Treatment"
-description: "Explore the tax advantages of Net Unrealized Appreciation (NUA) for employer stock within retirement plans to reduce tax liabilities. This piece investigates into NUA's tax treatment, its benefits over ordinary income taxation, and the strategic use of algorithmic trading to maximize after-tax returns. Learn how leveraging NUA can facilitate enhanced retirement planning by optimizing stock sale timing in alignment with favorable tax scenarios."
+title: Net Unrealized Appreciation Tax Treatment for Company Stock
+description: Net Unrealized Appreciation lets you pay income tax on cost basis while
+  capital gains on stock growth receive lower rates Discover more inside.
 ---
 
 

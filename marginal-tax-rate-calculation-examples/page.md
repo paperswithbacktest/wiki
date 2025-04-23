@@ -1,6 +1,7 @@
 ---
-title: "Marginal Tax Rate and Calculation with Examples"
-description: "Explore the concept of marginal tax rates in progressive taxation and understand its impact on financial decisions and algorithmic trading strategies."
+title: Understanding Marginal Tax Rates for Income Planning
+description: Marginal tax rate explains how much you pay on each additional dollar
+  and influences your work and investment choices. Discover more inside.
 ---
 
 

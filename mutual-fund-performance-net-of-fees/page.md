@@ -1,6 +1,7 @@
 ---
-title: "Mutual Fund Performance Reporting: Net of Fees Consideration"
-description: "Explore how mutual fund performance is reported net of fees and the role of algorithmic trading in enhancing returns, helping investors make informed decisions."
+title: Understanding Net Of Fees Performance In Mutual Funds
+description: Mutual fund fees can erode your investment gains, so understanding net
+  of fees performance helps you choose funds wisely Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Machine Learning in Trading"
-description: "Explore the rise of machine learning in algorithmic trading where AI analyzes vast data sets to enhance decision-making processes and optimize trading strategies."
+title: Machine Learning in Trading Strategies and Risk Management
+description: Machine learning in trading delivers data driven insights to optimize
+  strategies manage risk and adapt to changing markets Discover more inside
 ---
 
 

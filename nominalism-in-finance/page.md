@@ -1,6 +1,7 @@
 ---
-title: "Nominalism in Finance"
-description: "Explore the intersection of nominalism monetary theory and algorithmic trading in finance Discover how these concepts are revolutionizing financial strategies today"
+title: Understanding Nominalism in Finance and Its Market Impact
+description: Nominalism in finance shows how money value relies on collective trust
+  shaping asset prices inflation and monetary policy Discover more inside
 ---
 
 

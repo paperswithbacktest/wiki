@@ -1,6 +1,7 @@
 ---
-title: "M2 Money Supply"
-description: "This article investigates into the impact of algorithmic trading on financial markets and its reliance on key economic indicators, with a focus on the M2 money supply. M2 encompasses cash, checking deposits, and near money, playing a crucial role in guiding trading strategies. Understanding M2's influence can enhance trading decisions by providing insights into market liquidity and fluctuations, helping traders and investors navigate economic conditions and optimize outcomes. This piece offers foundational knowledge on M2 and its significance for both traders and the broader economic landscape."
+title: Understanding M2 Money Supply Definition Components and Impact
+description: M2 money supply measures cash coins checking savings and time deposits
+  to reveal economic liquidity and inflation trends Discover more inside
 ---
 
 

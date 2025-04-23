@@ -1,6 +1,7 @@
 ---
-title: "Mid-Cap Stock Indexes"
-description: "Explore mid-cap stock indexes and algorithmic trading strategies to optimize your investment portfolio by balancing growth potential and financial stability."
+title: "Mid\u2011Cap Stock Indexes Explained for Strategic Portfolio Growth"
+description: "Mid\u2011cap stock indexes balance growth and risk by tracking mid\u2011\
+  sized company performance and guiding investment strategies Discover more inside"
 ---
 
 

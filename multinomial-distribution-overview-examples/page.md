@@ -1,6 +1,7 @@
 ---
-title: "Multinomial Distribution Overview and Examples"
-description: "Explore the significance of the multinomial distribution in algorithmic trading and finance, learn how it aids in making data-driven decisions by modeling multiple outcomes."
+title: Understanding Multinomial Distribution Applications and Theory
+description: Multinomial Distribution calculates outcome probabilities for experiments
+  with multiple categories using clear formulas and examples Discover more inside.
 ---
 
 

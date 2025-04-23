@@ -1,6 +1,7 @@
 ---
-title: "MBA Purchase Index: Significance and Mechanism"
-description: "Explore how the MBA Purchase Index and algorithmic trading intersect to enhance real estate investment strategies, providing insights into market dynamics."
+title: MBA Purchase Index Analysis For US Housing Market Trends
+description: MBA Purchase Index data reveals weekly mortgage application trends to
+  inform investors policymakers on housing market health Discover more inside.
 ---
 
 

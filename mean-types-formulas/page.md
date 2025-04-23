@@ -1,6 +1,7 @@
 ---
-title: "Mean: Types and Formulas"
-description: "Explore how different types of mean such as arithmetic geometric and harmonic are vital in algorithmic trading strategies for more informed financial decisions."
+title: Comprehensive Guide to the Mean in Statistics and Finance
+description: Mean in statistics provides a clear and fundamental average measure across
+  data sets with applications from finance to forecasting Discover more inside
 ---
 
 

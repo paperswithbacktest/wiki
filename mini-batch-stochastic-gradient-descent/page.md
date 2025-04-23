@@ -1,6 +1,7 @@
 ---
-title: "Mini-Batch Stochastic Gradient Descent (Machine Learning)"
-description: "Discover Mini-Batch Stochastic Gradient Descent a popular method for efficiently training machine learning models with large datasets by using mini-batches."
+title: Mini-Batch SGD Explained for Large-Scale Model Training
+description: Mini-Batch SGD speeds up model training by balancing efficiency and stability
+  when handling large datasets in machine learning Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

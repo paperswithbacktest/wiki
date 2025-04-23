@@ -1,6 +1,7 @@
 ---
-title: "Louis Bachelier"
-description: "Explore Louis Bachelier's groundbreaking contributions to financial mathematics and algorithmic trading, showcasing his lasting influence on modern trading systems."
+title: Louis Bachelier Pioneer of Financial Mathematics and Random Walks
+description: Louis Bachelier introduced random walk theory to model stock prices and
+  laid the foundation for modern financial mathematics Discover more inside
 ---
 
 

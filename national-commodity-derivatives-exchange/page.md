@@ -1,6 +1,8 @@
 ---
-title: "National Commodity and Derivatives Exchange"
-description: "Explore the impact of algorithmic trading in NCDEX derivatives for enhanced risk management and swift execution within India's leading commodity exchange."
+title: "Understanding NCDEX: India\u2019s Trusted Commodity Trading Exchange"
+description: "NCDEX is India\u2019s leading commodity exchange offering futures trading\
+  \ in agricultural products metals and energy for price stability and market transparency\
+  \ Discover more inside."
 ---
 
 

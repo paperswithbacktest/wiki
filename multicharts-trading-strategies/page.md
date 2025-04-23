@@ -1,6 +1,7 @@
 ---
-title: "MultiCharts Trading Strategies Explained"
-description: Discover the powerful features of MultiCharts, an advanced trading platform optimized for algorithmic trading. With its robust backtesting capabilities and seamless integration with various brokers and data feeds, MultiCharts is ideal for both novice and experienced traders. Utilize its sophisticated charting tools, comprehensive portfolio management, and automated trading options to develop and efficiently execute trading strategies while minimizing market risks.
+title: MultiCharts Trading Platform for Developing Automated Strategies
+description: MultiCharts empowers traders to analyze markets test strategies and automate
+  trades with real time data and detailed backtesting tools Discover more inside.
 ---
 
 

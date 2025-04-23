@@ -1,6 +1,7 @@
 ---
-title: "Nonperforming Asset Types"
-description: "Explore the types of Non-Performing Assets affecting banking profitability and stability. Learn how NPAs are classified and managed to mitigate risks."
+title: Understanding Nonperforming Assets and Their Impact on Banks
+description: Nonperforming assets risk bank profits and economic health. This article
+  explains NPA types, their effects and management strategies. Discover more inside
 ---
 
 

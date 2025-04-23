@@ -1,6 +1,7 @@
 ---
-title: "Net Operating Losses and Carryforward Rules"
-description: "Explore how net operating loss carryforwards impact tax strategies in algorithmic trading, focusing on leveraging financial losses to optimize future tax obligations."
+title: Understanding Net Operating Loss Carryforward Benefits
+description: Net Operating Loss carryforward lets businesses reduce future tax by
+  using past losses to offset profits in later years Discover more insights inside
 ---
 
 

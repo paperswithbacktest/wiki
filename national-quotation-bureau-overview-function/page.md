@@ -1,6 +1,7 @@
 ---
-title: "National Quotation Bureau: Overview and Function"
-description: "Explore the crucial role of the National Quotation Bureau in the OTC market and learn how algorithmic trading is transforming investment opportunities."
+title: National Quotation Bureau Pink Sheets Evolution and Impact
+description: National Quotation Bureau modernized off exchange securities tracking
+  with electronic pink sheets on OTC Markets Group for real time quotes Discover more
 ---
 
 

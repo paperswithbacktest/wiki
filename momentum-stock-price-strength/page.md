@@ -1,6 +1,7 @@
 ---
-title: "Momentum and Stock Price Strength"
-description: "Explore market strength and stock price momentum in algorithmic trading to gain a competitive edge. Learn about key indicators and strategies for improved insights."
+title: Momentum Trading in Stocks Using RSI MACD and Trend Analysis
+description: Momentum trading in stocks helps you harness trend strength with RSI
+  MACD and practical risk tips for smarter entries and exits Discover more inside.
 ---
 
 

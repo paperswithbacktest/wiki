@@ -1,6 +1,7 @@
 ---
-title: "Negative Class (Machine Learning)"
-description: "Explore the concept of the negative class in machine learning essential for accurate classification models by understanding non-target categories."
+title: Understanding the Negative Class in Machine Learning Models
+description: Negative class in machine learning guides threshold and imbalance techniques
+  to reduce false positives while improving accuracy Discover more inside
 ---
 
 ![Image](images/1.png)

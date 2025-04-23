@@ -1,6 +1,7 @@
 ---
-title: "Long Inverse Floating Exempt Receipt"
-description: "Explore how Long Inverse Floating Exempt Receipts and algorithmic trading combine to create innovative investment strategies that optimize returns and manage risk."
+title: Understanding Long Inverse Floating Exempt Receipts
+description: Long Inverse Floating Exempt Receipt provides a hedge against market
+  downturns with adjustable rates and tax benefits. Discover more inside
 ---
 
 

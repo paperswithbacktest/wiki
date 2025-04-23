@@ -1,6 +1,7 @@
 ---
-title: "Margaret Thatcher: Political Biography"
-description: "Explore Margaret Thatcher's transformative economic policies and their impact on modern algorithmic trading highlighting her enduring legacy in global finance."
+title: Margaret Thatcher Political Career and Lasting Legacy
+description: Margaret Thatcher reshaped Britain with free-market reforms privatization
+  and bold global leadership while redefining social policy Discover more inside
 ---
 
 

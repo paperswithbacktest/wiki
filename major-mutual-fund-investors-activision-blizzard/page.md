@@ -1,6 +1,7 @@
 ---
-title: "Major Mutual Fund Investors in Activision Blizzard"
-description: "Discover key mutual fund investments in Activision Blizzard and explore how algorithmic trading impacts the gaming and technology markets for strategic growth."
+title: Activision Blizzard Mutual Fund Investor Ownership and Influence
+description: Activision Blizzard mutual fund investors hold 30 to 40 percent of shares
+  and influence governance and strategy for long term growth Discover more inside
 ---
 
 

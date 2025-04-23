@@ -1,6 +1,7 @@
 ---
-title: "N-Gram (Machine Learning)"
-description: "Explore the concept of N-Grams in machine learning and natural language processing, including bigrams and trigrams, their applications, and how they enhance text analysis."
+title: Essential N-Gram Models and Applications in Machine Learning
+description: N-Gram models break text into sequences to improve machine learning predictions
+  for translation classification and sentiment analysis Discover more inside
 ---
 
 ![Image](images/1.png)

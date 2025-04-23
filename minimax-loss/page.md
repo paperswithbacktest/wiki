@@ -1,6 +1,7 @@
 ---
-title: "Minimax Loss (Machine Learning)"
-description: "Minimax Loss in machine learning focuses on minimizing the maximum possible loss, enhancing model robustness against worst-case scenarios and adversarial inputs."
+title: Minimax Loss in Machine Learning for Improved Model Robustness
+description: Minimax Loss trains models to perform reliably under worst-case scenarios
+  by optimizing maximum loss against adversarial inputs Discover more inside.
 ---
 
 ![Image](images/1.png)

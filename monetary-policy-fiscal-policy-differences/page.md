@@ -1,6 +1,7 @@
 ---
-title: "Monetary Policy and Fiscal Policy: Key Differences"
-description: "Explore the distinctions between monetary and fiscal policy and their impacts on algorithmic trading. Understand how these economic strategies interact in a globalized economy."
+title: Monetary And Fiscal Policy Explained For Economic Stability
+description: Monetary and fiscal policy help banks and governments control inflation
+  jobs and growth through interest rates spending and taxes Discover more inside.
 ---
 
 

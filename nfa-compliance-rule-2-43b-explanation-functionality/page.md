@@ -1,6 +1,7 @@
 ---
-title: "NFA Compliance Rule 2-43b: Explanation and Functionality"
-description: "Discover how NFA Compliance Rule 2-43b impacts forex trading and algorithmic strategies Learn about hedging restrictions FIFO requirements and trader adaptations"
+title: NFA Compliance Rule 2-43b Standards for Customer Fund Segregation
+description: NFA Compliance Rule 2-43b enforces written policies and audits to keep
+  customer funds safe through segregation and accountability Discover more inside
 ---
 
 

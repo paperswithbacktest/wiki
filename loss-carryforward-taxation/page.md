@@ -1,6 +1,7 @@
 ---
-title: "Loss Carryforward in Taxation"
-description: "Explore the advantages of loss carryforward in algo trading understand tax implications offsetting future gains with past losses to reduce tax liabilities effectively."
+title: Understanding Loss Carryforward in Business Tax Planning
+description: Loss Carryforward lets businesses apply past losses to reduce future
+  tax liabilities and smooth cash flow over time Boost recovery Discover more inside
 ---
 
 
