@@ -1,6 +1,7 @@
 ---
-title: "Risks Associated with Investing in Art and Collectibles"
-description: "Explore the unique risks and potential rewards of investing in art collectibles and algorithmic trading to diversify your portfolio while navigating market challenges."
+title: Investing In Art And Collectibles A Comprehensive Guide
+description: Art and collectibles offer a unique way to diversify your portfolio while
+  navigating risks like liquidity authenticity and costs Discover more inside
 ---
 
 

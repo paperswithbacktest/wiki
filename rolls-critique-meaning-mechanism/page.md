@@ -1,6 +1,7 @@
 ---
-title: "Roll's Critique: Meaning and Mechanism"
-description: "Explore the intricacies of Roll's Critique and the Efficient Market Hypothesis in financial markets. Understand their impact on CAPM, market efficiency, and algorithmic trading."
+title: Understanding Roll's Critique of the CAPM Market Portfolio
+description: Roll's Critique warns testing CAPM fails without a market portfolio including
+  stocks bonds real estate and collectibles skewing beta Discover more inside
 ---
 
 

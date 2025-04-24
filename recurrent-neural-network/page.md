@@ -1,6 +1,7 @@
 ---
-title: "Recurrent Neural Network (Machine Learning)"
-description: "Learn about Recurrent Neural Networks RNNs a type of neural network with memory-like features enabling them to process sequences ideal for time series tasks"
+title: Recurrent Neural Networks Explained Components and Applications
+description: Recurrent Neural Networks use hidden states and gating to capture temporal
+  dependencies in text and time series data actively. Discover more inside.
 ---
 
 

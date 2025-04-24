@@ -1,6 +1,7 @@
 ---
-title: "Short Sale Rule: History and Controversy"
-description: "Discover the history and controversies of the short sale rule in stock markets. Understand its impact on algorithmic trading, market stability, and investor dynamics."
+title: Short Sale Rule Evolution Impact and Regulatory Updates
+description: Short Sale Rule curbs market volatility by limiting short sales to upticks
+  and shows its history impact on liquidity Discover more inside today.
 ---
 
 

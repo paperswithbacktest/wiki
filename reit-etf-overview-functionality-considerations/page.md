@@ -1,6 +1,7 @@
 ---
-title: "REIT ETF: Overview, Functionality, and Considerations"
-description: "Explore how REIT ETFs combine real estate investment with the benefits of algorithmic trading offering diversification, liquidity, and data-driven strategies."
+title: Understanding REIT ETFs for Income and Diversification
+description: REIT ETF investing offers diversified real estate exposure and regular
+  dividend income while minimizing risk through pooled holdings Discover more inside.
 ---
 
 

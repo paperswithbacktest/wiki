@@ -1,6 +1,7 @@
 ---
-title: "Role of Asset Managers in Real Estate"
-description: "Explore how asset managers optimize real estate investments through strategic planning and algorithmic trading to maximize returns and navigate market complexities."
+title: Understanding the Role of a Real Estate Asset Manager
+description: Real estate asset manager strategies boost property income and value
+  by optimizing leases budgeting and sustainable upgrades Discover more inside.
 ---
 
 

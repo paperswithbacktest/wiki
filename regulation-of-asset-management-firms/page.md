@@ -1,6 +1,7 @@
 ---
-title: "Regulation of Asset Management Firms"
-description: "Explore the evolving role of algorithmic trading in asset management as firms navigate a complex regulatory landscape to ensure investor protection and market integrity."
+title: Asset Management Regulation for Investor Protection
+description: Asset management regulation safeguards investors and promotes market
+  stability by enforcing transparency and risk controls in firms Discover more inside.
 ---
 
 

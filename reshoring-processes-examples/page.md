@@ -1,6 +1,7 @@
 ---
-title: "Reshoring: Processes and Examples"
-description: "Explore the growing trend of reshoring and its impact on supply chains and algorithmic trading Learn how businesses navigate these evolving economic landscapes"
+title: Reshoring Strategies to Boost Local Manufacturing Competitiveness
+description: Reshoring enables companies to bring production home to cut tariffs and
+  shipping expenses improve quality and create local jobs Discover more inside
 ---
 
 

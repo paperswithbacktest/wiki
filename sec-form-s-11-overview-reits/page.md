@@ -1,6 +1,7 @@
 ---
-title: "SEC Form S-11: Overview and Application in REITs"
-description: "Explore how SEC Form S-11, REITs, and algorithmic trading reshape real estate investments, offering transparency, efficiency, and new market opportunities."
+title: Comprehensive Guide To SEC Form S-11 For REIT Compliance
+description: SEC Form S-11 helps REITs deliver comprehensive project specifics financial
+  health and risk disclosures to guide informed investing Discover more inside
 ---
 
 

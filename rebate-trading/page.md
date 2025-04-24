@@ -1,6 +1,7 @@
 ---
-title: "Rebate Trading Explained"
-description: Rebate trading is an algorithmic trading strategy focused on earning financial incentives for adding liquidity to markets. It leverages the rebate structures of ECNs, digital platforms that connect buyers and sellers, by using limit orders to provide liquidity. This strategy involves placing trades to capture rebates, crucial in high-frequency, high-volume environments, and requires careful management of trading costs like spreads and fees. Successful traders optimize their strategies to systematically earn rebates, balance between adding and removing liquidity, and execute numerous efficient transactions for sustained profitability.
+title: Rebate Trading Fundamentals, Platforms, and Strategies Guide
+description: Rebate trading empowers traders to earn consistent rebates on every transaction
+  while balancing fees and risks with proven strategies. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-SAR Overview"
-description: "Explore the evolution of SEC financial reporting from Form N-SAR to Form N-CEN and its impact on modern practices like algorithmic trading and regulatory compliance."
+title: Understanding SEC Form N-SAR Semiannual Reporting Requirements
+description: SEC Form N-SAR guides investment companies through semiannual reporting
+  obligations with components and best practices for compliance Discover more inside
 ---
 
 

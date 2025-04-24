@@ -1,6 +1,7 @@
 ---
-title: "Regularization (Machine Learning)"
-description: "Regularization in machine learning reduces overfitting by penalizing complex models enhancing their ability to generalize on unseen data through L1 and L2 techniques."
+title: Regularization Techniques and Best Practices in Machine Learning
+description: Regularization in machine learning prevents overfitting by penalizing
+  complex models and balancing bias variance with L1 L2 techniques Discover more inside
 ---
 
 

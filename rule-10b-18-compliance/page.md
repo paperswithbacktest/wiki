@@ -1,6 +1,7 @@
 ---
-title: "Rule 10b-18 and Compliance"
-description: "Explore Rule 10b-18 and its impact on stock buyback compliance. Discover how algorithmic trading integrates with this SEC rule to ensure market fairness."
+title: Understanding SEC Rule 10b-18 Safe Harbor for Stock Buybacks
+description: Rule 10b-18 ensures companies repurchase shares within SEC safe harbor
+  using volume timing and price limits to maintain fair markets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Regulation Q: Overview, Historical Context, and Modern Impact"
-description: "Explore Regulation Q’s historical influence on banking and its impact on financial stability and innovation, highlighting its relevance in today's regulation dynamics."
+title: Regulation Q Impact on Interest Rates and Banking Stability
+description: Regulation Q shaped bank interest rules 1933-2011, capping rates on checking
+  and savings, ensuring stability and competition. Discover more inside.
 ---
 
 

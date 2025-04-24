@@ -1,6 +1,7 @@
 ---
-title: "Real Value and Nominal Value: Differences and Calculation Example"
-description: "Explore the crucial distinctions between real value and nominal value in financial analysis, particularly in algorithmic trading. Understand how these fundamental concepts impact trading strategies by examining their methods of calculation and implications. Learn how real values, adjusted for inflation, provide a more accurate assessment of market performance and help traders make informed investment decisions based on true economic conditions."
+title: Nominal and Real Values Explained for Purchasing Power
+description: Nominal and real values help you understand how inflation and price changes
+  affect purchasing power and financial decisions. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Short Selling Procedures"
-description: "Explore short selling and algorithmic trading to maximize returns and manage risks in dynamic financial markets. Learn strategies tactics and their risks."
+title: Short Selling Guide Strategies Risks and Regulatory Requirements
+description: Short Selling provides a clear guide to risks requirements and strategies
+  for profiting from falling stocks while managing costs Discover more inside.
 ---
 
 

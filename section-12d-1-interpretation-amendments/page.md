@@ -1,6 +1,7 @@
 ---
-title: "Section 12D-1: Interpretation and Amendments"
-description: "Explore recent amendments to Section 12D-1 addressing algorithmic trading legalities enhancing fair market practices and investment opportunities while ensuring compliance."
+title: Section 12D-1 Investor Protection Rules for Honest Fund Advertising
+description: Section 12D-1 ensures investment companies provide clear honest advertising
+  and avoid misleading claims for mutual funds and ETFs Discover more inside
 ---
 
 

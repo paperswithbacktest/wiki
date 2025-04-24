@@ -1,6 +1,7 @@
 ---
-title: "Risk-Adjusted Discount Rate Guide"
-description: "Understand how risk-adjusted discount rates like CAPM help evaluate investments in algorithmic trading by factoring in volatility to determine true value."
+title: Understanding Risk Adjusted Discount Rates for Smart Investing
+description: Risk adjusted discount rate clarifies investment valuations by accounting
+  for risk severity and future cash flow uncertainty Discover more inside.
 ---
 
 

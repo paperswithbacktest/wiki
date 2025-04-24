@@ -1,6 +1,7 @@
 ---
-title: "Self-Study Plan for Becoming a Quantitative Analyst"
-description: Explore a comprehensive self-study plan designed to equip aspiring quantitative analysts for a career in algorithmic trading. This guide investigates into educational pathways and essential resources, encompassing key mathematical models, statistical techniques, and financial theories. Discover how expertise in quantitative finance can open doors to lucrative opportunities across hedge funds, investment banks, and fintech firms, enabling professionals to devise robust trading strategies and optimize financial performance. Ideal for those eager to embrace the dynamic intersection of finance, mathematics, and technology.
+title: Comprehensive Guide to Quantitative Analyst Skills and Careers
+description: Quantitative analysis explores essential math programming and statistical
+  tools for building financial models and launching your career Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Robinson-Patman Act Overview and Criticisms"
-description: "Explore the intricacies of the Robinson-Patman Act and algorithmic trading Discover how price discrimination challenges fair competition amidst evolving antitrust laws"
+title: Robinson-Patman Act Key Provisions for Fair Competition
+description: Robinson-Patman Act protects small businesses by banning discriminatory
+  pricing and offering competitive defenses and penalties Discover more inside.
 ---
 
 

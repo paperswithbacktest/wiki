@@ -1,6 +1,7 @@
 ---
-title: "Real Bills Doctrine"
-description: "Explore the intersection of the Real Bills Doctrine and algorithmic trading in modern finance Discover historical insights on monetary policy and economic stability"
+title: Understanding the Real Bills Doctrine in Modern Banking
+description: Real Bills Doctrine shows how tying bank lending to short term goods
+  shaped economic stability and reveals its modern policy legacy Discover more inside
 ---
 
 

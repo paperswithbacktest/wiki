@@ -1,6 +1,7 @@
 ---
-title: "RiskMetrics in Value at Risk Methodology"
-description: "Explore how RiskMetrics enhances risk management in algorithmic trading, enabling traders to estimate potential losses efficiently using the Value at Risk methodology."
+title: Understanding RiskMetrics Value at Risk Methodology
+description: RiskMetrics Value at Risk provides a statistical method to estimate potential
+  portfolio losses using historical data and correlations Discover more inside.
 ---
 
 

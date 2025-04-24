@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-2: Overview and Components"
-description: "Discover the importance of SEC Form N-2 in closed-end funds' regulatory compliance and its impact on algorithmic trading strategies in the US financial market."
+title: Understanding SEC Form N-2 Requirements for Investment Filings
+description: SEC Form N-2 ensures companies disclose key offering details and risks
+  so investors assess closed end and business development funds Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Risks Associated with Investing in ETFs"
-description: "Explore the risks associated with investing in Exchange-Traded Funds and the complexities introduced by algorithmic trading to make informed financial decisions."
+title: Understanding Key ETF Risks and Mitigation Strategies
+description: ETF Risks impact portfolios with market volatility and tracking error
+  Active strategies help you diversify and protect investments Discover more inside.
 ---
 
 

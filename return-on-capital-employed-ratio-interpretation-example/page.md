@@ -1,6 +1,7 @@
 ---
-title: "Return on Capital Employed: Ratio, Interpretation, Example"
-description: "Understand the synergy between Return on Capital Employed and algorithmic trading to maximize investment returns. Explore capital efficiency and advanced trading strategies."
+title: Return on Capital Employed Explained for Investors and Analysts
+description: Return on Capital Employed reveals how efficiently companies generate
+  profits from capital, enables informed peer comparisons Discover more inside
 ---
 
 

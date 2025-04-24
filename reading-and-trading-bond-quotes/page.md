@@ -1,6 +1,7 @@
 ---
-title: "Reading and Trading Bond Quotes"
-description: "Discover the world of bond trading to understand bond quotes which reveal price and yield insights crucial for informed investment strategies in algo trading."
+title: Understanding Bond Quotes For Smarter Fixed Income Investments
+description: Bond quotes guide shows how to read price yield and credit impact so
+  you can assess bond value and risk with confidence Discover more inside.
 ---
 
 

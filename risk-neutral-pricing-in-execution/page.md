@@ -1,6 +1,7 @@
 ---
-title: "Risk-Neutral Pricing in Execution"
-description: "Explore risk-neutral pricing in algorithmic trading, a crucial concept for valuing assets without risk premiums. Enhance trading strategies with this approach."
+title: Risk-Neutral Pricing For Options And Derivative Valuation
+description: Risk-neutral pricing uses expected future values and risk-free rates
+  to simplify derivative valuation and model option costs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Short-Form Prospectus Distribution System"
-description: "The Short-Form Prospectus Distribution System streamlines the update process for securities offerings in Canada enabling speed, transparency, and efficiency in algorithmic trading."
+title: Understanding the Short-Form Prospectus Distribution System
+description: Short-Form Prospectus Distribution System lets companies issue securities
+  faster at lower cost while ensuring compliance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Royal Bank of Scotland"
-description: "Explore the evolution of banking and finance in Scotland with the rise of algorithmic trading led by the Royal Bank of Scotland. Discover its impact and implications."
+title: Royal Bank of Scotland History Services And Future Prospects
+description: Royal Bank of Scotland offers a comprehensive look at its 1727 founding
+  history services digital evolution and sustainability plans Discover more inside
 ---
 
 

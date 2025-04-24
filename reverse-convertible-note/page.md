@@ -1,6 +1,7 @@
 ---
-title: "Reverse Convertible Note"
-description: "Discover high-yield investment opportunities with Reverse Convertible Notes combining debt and equity features to navigate market volatility and enhance portfolio returns."
+title: Comprehensive Guide to Reverse Convertible Notes Explained
+description: Reverse Convertible Note investments deliver higher coupon income and
+  clearly explain conversion risks for informed investors Discover more inside
 ---
 
 

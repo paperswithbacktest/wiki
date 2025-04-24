@@ -1,6 +1,7 @@
 ---
-title: "Relative Purchasing Power Parity in Economics"
-description: "Explore the relationship between Relative Purchasing Power Parity and algorithmic trading Learn how understanding exchange rates and inflation impacts financial markets"
+title: Understanding Relative Purchasing Power Parity and Exchange Rates
+description: Relative Purchasing Power Parity helps predict long term currency movements
+  by linking inflation differentials with exchange rates Discover more inside.
 ---
 
 

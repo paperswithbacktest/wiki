@@ -1,6 +1,7 @@
 ---
-title: "Reconstruction Finance Corporation: Overview and Functionality"
-description: "Explore the impact of the Reconstruction Finance Corporation on the US economy during the Great Depression and its influence on modern financial policies like algorithmic trading."
+title: Reconstruction Finance Corporation Role And Impact In US Economy
+description: Reconstruction Finance Corporation stabilized US banks and businesses
+  through the Great Depression with key loans and investments Discover more inside
 ---
 
 

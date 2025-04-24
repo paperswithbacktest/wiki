@@ -1,6 +1,7 @@
 ---
-title: "Responsibilities of the United States Secretary of Energy"
-description: "Discover how the U.S. Secretary of Energy applies algorithmic trading strategies to revolutionize energy management, improve efficiency, and optimize distribution."
+title: Roles And Responsibilities Of United States Secretary Of Energy
+description: Secretary of Energy drives US energy policy and security by advancing
+  renewable technologies and safeguarding nuclear assets Discover more inside
 ---
 
 

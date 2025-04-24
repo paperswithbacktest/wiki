@@ -1,6 +1,7 @@
 ---
-title: "Rent Stabilization: Mechanisms, Functionality, and Case Studies"
-description: "Explore how rent stabilization policies aim to balance affordable housing and fair landlord returns while algorithmic trading impacts rental markets and tenant protection."
+title: Understanding Rent Stabilization Policies and Their Impact
+description: Rent stabilization sets predictable increases to help tenants budget
+  and protect communities while ensuring returns for landlords Discover more inside
 ---
 
 

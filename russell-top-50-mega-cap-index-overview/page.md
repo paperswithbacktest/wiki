@@ -1,6 +1,7 @@
 ---
-title: "Russell Top 50 Mega Cap Index Overview"
-description: "Explore the Russell Top 50 Mega Cap Index highlighting algorithmic trading's role in mega-cap stocks and its impact on investment strategies and market trends."
+title: Comprehensive Guide to the Russell Top 50 Mega Cap Index
+description: Russell Top 50 Mega Cap Index tracks performance of the 50 largest US
+  companies helping investors quickly gauge market trends Discover more inside
 ---
 
 

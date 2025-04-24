@@ -1,6 +1,7 @@
 ---
-title: "Regulation E and Electronic Fund Transfers"
-description: "Learn about Regulation E and its role in ensuring secure electronic fund transfers crucial for algorithmic trading while safeguarding consumer rights."
+title: Regulation E Protections For Electronic Fund Transfers
+description: Regulation E requires banks to disclose fees and limits for electronic
+  transfers and protects you from unauthorized transactions. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Replay Buffer (Machine Learning)"
-description: "A Replay Buffer in machine learning stores past experiences for agents to learn from enabling efficient training by allowing diverse and uncorrelated sampling."
+title: Implementing Effective Replay Buffers for Reinforcement Learning
+description: Replay Buffer in reinforcement learning stores past experiences and breaks
+  data correlations to stabilize deep Q learning training. Discover more inside.
 ---
 
 

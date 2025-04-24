@@ -1,6 +1,7 @@
 ---
-title: "Reference Asset"
-description: "Explore the dynamic world of investment strategies with insights on financial and investment assets reference assets and algorithmic trading to optimize market returns."
+title: Reference Assets in Finance Benchmark Investment Performance
+description: Reference assets help investors compare and measure investment performance
+  against benchmarks to guide smarter decisions. Discover more inside.
 ---
 
 

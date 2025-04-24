@@ -1,6 +1,7 @@
 ---
-title: "Rights of Accumulation: Breakpoints and Examples"
-description: "Explore how Rights of Accumulation and investment breakpoints reduce mutual fund sales charges helping investors optimize costs and maximize returns."
+title: Mutual Fund Rights of Accumulation Explained for Investors
+description: Rights of Accumulation let investors lower mutual fund sales charges
+  as total investments reach breakpoints and save on fees. Discover more inside.
 ---
 
 

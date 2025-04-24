@@ -1,6 +1,8 @@
 ---
-title: "Risks of Losing More Than Invested in Stock Shorting"
-description: "Explore the high risks of shorting stocks and the dangers of algo trading in the stock market Learn how to manage potential losses and safe investment strategies"
+title: Understanding Risks and Strategies in Stock Short Selling
+description: Stock shorting involves borrowing shares to sell high and rebuy low while
+  facing unlimited loss potential active risk management is essential Discover more
+  inside.
 ---
 
 

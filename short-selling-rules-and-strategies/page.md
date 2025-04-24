@@ -1,6 +1,7 @@
 ---
-title: "Short Selling: Rules and Strategies"
-description: "Explore the intricacies of short selling and algorithmic trading to enhance portfolio performance. Learn strategies to mitigate risks and maximize returns in dynamic markets."
+title: Short Selling Explained How It Works Risks and Strategies
+description: Short selling shows how to profit from falling stocks with steps requirements
+  and risk management strategies to improve decisions Discover more inside
 ---
 
 

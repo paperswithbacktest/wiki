@@ -1,6 +1,7 @@
 ---
-title: "Record Date and Its Importance with Example"
-description: "Discover the importance of record dates in dividend investing and algorithmic trading Learn how they impact shareholder eligibility and trading strategies"
+title: Understanding Record Date and Ex-Dividend Date for Investors
+description: Record date determines which shareholders qualify for dividends and benefits
+  and helps investors plan trades around ex-dividend timing Discover more inside.
 ---
 
 

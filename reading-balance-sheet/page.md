@@ -1,6 +1,7 @@
 ---
-title: "Reading a Balance Sheet"
-description: "Discover how balance sheets influence algorithmic trading by providing key insights into financial health assets liabilities and shareholders' equity."
+title: Complete Balance Sheet Analysis for Assessing Financial Health
+description: Balance sheet analysis reveals how assets liabilities and equity determine
+  liquidity solvency and company value using key ratios Discover more inside
 ---
 
 

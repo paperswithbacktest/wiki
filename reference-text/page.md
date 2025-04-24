@@ -1,6 +1,7 @@
 ---
-title: "Reference Text (Machine Learning)"
-description: "Enhance your machine learning models with reference texts that serve as benchmarks for comparison optimizing tasks like sentiment analysis and language translation."
+title: Reference Text In Machine Learning Training And Evaluation
+description: Reference Text provides machine learning models with high quality labeled
+  benchmarks to improve training accuracy and reduce bias Discover more inside.
 ---
 
 

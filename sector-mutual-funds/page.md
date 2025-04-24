@@ -1,6 +1,7 @@
 ---
-title: "Sector Mutual Funds"
-description: "Explore sector mutual funds and algo trading to enhance your portfolio. Discover strategies to diversify, manage risks, and boost returns in financial markets."
+title: Understanding Sector Mutual Funds for Smarter Investing
+description: Sector mutual funds offer targeted exposure to growth industries while
+  balancing risk with expert strategic diversification. Discover more inside.
 ---
 
 

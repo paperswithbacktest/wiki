@@ -1,6 +1,7 @@
 ---
-title: "Reinforcement learning in trading"
-description: "Enhance your trading strategies with Deep Reinforcement Learning a powerful tool for data-driven insights and adaptive decision-making in financial markets."
+title: Reinforcement Learning Strategies for Automated Trading
+description: Reinforcement learning trading models adapt to market changes by learning
+  feedback signals and optimizing trades for profits Discover more inside
 ---
 
 

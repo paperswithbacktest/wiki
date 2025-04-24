@@ -1,6 +1,7 @@
 ---
-title: "Segregated Witness"
-description: "Explore how Segregated Witness impacts Bitcoin's scalability by increasing transaction efficiency and reducing fees. Discover its role in advancing algorithmic trading and the Lightning Network as it addresses key challenges and enhances transaction security and throughput."
+title: Understanding Segregated Witness and How SegWit Improves Bitcoin
+description: SegWit speeds up and secures Bitcoin transactions by separating signature
+  data to boost capacity enabling upgrades and reducing fees Discover more inside
 ---
 
 

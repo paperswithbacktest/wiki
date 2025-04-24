@@ -1,6 +1,7 @@
 ---
-title: "Revenue Ton Mile"
-description: "Discover how Revenue Ton Mile and algorithmic trading can streamline logistics operations enhance profitability and optimize supply chain efficiency in today's market."
+title: Understanding Revenue Ton Mile for Transport Efficiency
+description: Revenue Ton Mile enables transport companies to measure revenue per ton
+  and mile to optimize pricing, routes and capacity management Discover more inside.
 ---
 
 

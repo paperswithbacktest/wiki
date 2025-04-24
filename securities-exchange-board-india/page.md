@@ -1,6 +1,7 @@
 ---
-title: "Securities and Exchange Board of India"
-description: "Explore the role of the Securities and Exchange Board of India in regulating algo trading bringing transparency and efficiency to India's financial markets."
+title: Understanding SEBI Regulatory Framework and Investor Protection
+description: SEBI strengthens investor confidence by enforcing transparent market
+  rules and preventing fraud across Indian securities markets Discover more inside.
 ---
 
 

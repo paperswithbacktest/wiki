@@ -1,6 +1,7 @@
 ---
-title: "Segment Margin: Definition and Calculation"
-description: "Discover key insights into segment margin calculations in algo trading Explore how interpreting segment margins aids in strategic decisions and risk management"
+title: Understanding Segment Margin for Business Profitability
+description: Segment margin shows how each unit profits by subtracting direct costs
+  from sales to guide resource allocation and planning Discover more inside
 ---
 
 

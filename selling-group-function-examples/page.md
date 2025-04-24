@@ -1,6 +1,7 @@
 ---
-title: "Selling Group: Function and Examples"
-description: "Explore the role of algorithmic trading within selling groups in financial markets. Discover how technology enhances efficiency, pricing, and distribution."
+title: Understanding Selling Groups For Securities Distribution
+description: Selling group members expand investor reach by distributing new securities
+  efficiently with digital tools and data driven insights Discover more inside.
 ---
 
 

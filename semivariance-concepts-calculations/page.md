@@ -1,6 +1,7 @@
 ---
-title: "Semivariance: Concepts and Calculations"
-description: "Explore semivariance as a key metric for evaluating downside risk in investment portfolios useful for algorithmic trading and enhancing decision-making."
+title: Understanding Semivariance for Effective Downside Risk Analysis
+description: Semivariance measures downside risk by isolating returns below a target
+  so you can build portfolios that match your risk tolerance. Discover more inside.
 ---
 
 

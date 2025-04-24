@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 18-K: Overview and Functionality"
-description: "SEC Form 18-K is vital for transparency in global finance, informing investors about foreign government securities and supporting algorithmic trading strategies."
+title: SEC Form 18-K Requirements for Mining and Natural Resources Firms
+description: SEC Form 18-K provides annual insights on mining operations production
+  and risks to help investors make informed decisions Discover more inside
 ---
 
 

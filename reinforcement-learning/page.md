@@ -1,6 +1,7 @@
 ---
-title: "Reinforcement Learning"
-description: Discover the intersection of Reinforcement Learning and Algo Trading, where an agent makes decisions based on rewards or penalties in the financial market. Understand its components, applications, advantages, and challenges. Dive deeper into this adaptive machine learning paradigm for advanced trading strategies.
+title: A Comprehensive Guide to Reinforcement Learning Principles
+description: Reinforcement learning shows how agents optimize decisions via trial
+  and error in complex real and simulated environments Discover more inside.
 ---
 
 

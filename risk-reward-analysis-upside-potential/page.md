@@ -1,6 +1,7 @@
 ---
-title: "Risk and Reward Analysis: Upside Potential"
-description: "Explore the intricacies of risk and reward in investment analysis, and discover how algorithmic trading maximizes upside potential for optimized financial decisions."
+title: Evaluating Upside Potential in Investment Decisions
+description: Upside Potential analysis helps investors measure growth and balance
+  risk with key metrics, scenario planning, and diversification Discover more inside
 ---
 
 

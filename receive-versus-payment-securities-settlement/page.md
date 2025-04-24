@@ -1,6 +1,7 @@
 ---
-title: "Receive Versus Payment in Securities Settlement"
-description: "Secure securities settlements with Receive Versus Payment ensuring simultaneous exchange of payment and securities to minimize risk and enhance trust in trading."
+title: Understanding Receive Versus Payment Securities Settlement
+description: Receive Versus Payment ensures buyers get securities only when they pay
+  simultaneously reducing settlement risk and speeding up trades Discover more inside
 ---
 
 

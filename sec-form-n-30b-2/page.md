@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-30B-2"
-description: "Ensure compliance in algorithmic trading with SEC Form N-30B-2 Discover how this essential filing enhances transparency and protects investor interests."
+title: Understanding SEC Form N-30B-2 Filing Requirements and Compliance
+description: SEC Form N-30B-2 ensures transparent reporting of insurance separate
+  accounts with detailed financial statements twice a year Discover more inside.
 ---
 
 

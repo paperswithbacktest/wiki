@@ -1,6 +1,7 @@
 ---
-title: "Regulation N: Overview and Application"
-description: "Explore the key components of Regulation N and its impact on advertising in the financial sector alongside essential regulations for algorithmic trading compliance."
+title: SEC Regulation N Compliance for Foreign Private Issuers
+description: Regulation N helps foreign private issuers file accurate SEC reports
+  for market transparency and investor protection Discover more inside today
 ---
 
 

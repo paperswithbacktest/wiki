@@ -1,6 +1,7 @@
 ---
-title: "Residual Sum of Squares: Calculation and Explanation"
-description: "Discover how Residual Sum of Squares (RSS) enhances algorithmic trading by quantifying model accuracy and guiding the refinement of trading strategies."
+title: Understanding Residual Sum of Squares for Better Models
+description: Residual Sum of Squares quantifies model accuracy by summing squared
+  residuals and helps you compare model fits effectively Discover more inside.
 ---
 
 

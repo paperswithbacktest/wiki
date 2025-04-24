@@ -1,6 +1,7 @@
 ---
-title: "R Finance Guide"
-description: Discover how R empowers algorithmic trading with its statistical prowess, robust libraries, and data visualization capabilities. This guide explores R's role in building and deploying quantitative trading strategies, emphasizing its advantage in data manipulation and analysis. Learn about essential R packages and how they enhance financial computations, offering traders a competitive edge in today's fast-paced markets.
+title: R Programming for Financial Analysis and Portfolio Management
+description: R Programming empowers finance professionals to analyze datasets model
+  risk forecast trends and visualize results with robust tools Discover more inside
 ---
 
 

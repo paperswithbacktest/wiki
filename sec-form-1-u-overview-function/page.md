@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 1-U Overview and Function"
-description: "Explore the importance of SEC Form 1-U for algorithmic trading firms ensuring compliance with regulatory disclosure to maintain transparency and investor trust."
+title: Understanding SEC Form 1-U Filing Requirements and Process
+description: SEC Form 1-U ensures Regulation A offerings stay transparent by providing
+  timely updates on funds raised and securities sold Discover more inside
 ---
 
 

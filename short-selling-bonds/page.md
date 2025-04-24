@@ -1,6 +1,7 @@
 ---
-title: "Short Selling Bonds"
-description: "Explore short selling bonds with algorithmic trading in investment portfolios. Learn the nuances of bond strategies, risks, and benefits for market diversity."
+title: Short Selling Bonds A Comprehensive Guide To Risks And Strategies
+description: Short selling bonds demands market insight and discipline. Explore steps
+  to capitalize on falling bond prices while managing risks discover more inside
 ---
 
 

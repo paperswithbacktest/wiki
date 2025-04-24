@@ -1,6 +1,7 @@
 ---
-title: "Residual Standard Deviation: Formula and Examples"
-description: "Explore the role of residual standard deviation in algorithmic trading models Enhance your understanding of statistical concepts and improve prediction accuracy."
+title: Guide to Residual Standard Deviation in Regression Analysis
+description: Residual standard deviation quantifies how far regression predictions
+  deviate from actual data showing model fit and reliability Discover more inside.
 ---
 
 

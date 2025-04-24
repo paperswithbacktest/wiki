@@ -1,6 +1,7 @@
 ---
-title: "Short Selling Mechanism"
-description: "Explore the mechanisms of short selling and algorithmic trading within investment finance. Learn how these strategies impact market dynamics and trading efficiency."
+title: Short Selling Explained Strategies Risks and Market Impact
+description: Short selling enables investors to profit from stock declines while hedging
+  portfolios Explore short squeezes costs and market impacts Discover more inside
 ---
 
 

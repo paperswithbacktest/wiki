@@ -1,6 +1,7 @@
 ---
-title: "Regulation NMS Overview"
-description: "Explore the key components of Regulation NMS which aims to ensure fair pricing and transparency in US equity markets amidst algorithmic trading advancements."
+title: Regulation NMS Ensures Fair And Efficient Stock Market Trading
+description: Regulation NMS enforces best price rules access and transparent market
+  data sharing to protect investors and boost trading efficiency Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Robert C. Merton: Biography and Achievements"
-description: "Explore the life and achievements of Robert C. Merton an eminent economist whose work on the Black-Scholes-Merton model reshaped finance and algorithmic trading."
+title: Robert C Merton Biography and Contributions to Finance
+description: Robert C Merton revolutionized option pricing with the Black-Scholes-Merton
+  model and developed risk management methods for modern finance Discover more inside.
 ---
 
 

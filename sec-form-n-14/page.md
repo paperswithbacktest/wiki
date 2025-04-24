@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-14"
-description: "Explore the synergy between SEC Form N-14 and algorithmic trading to understand how investment companies navigate regulatory compliance and leverage advanced trading technologies."
+title: Understanding SEC Form N-14 For Investment Company Mergers
+description: SEC Form N-14 helps investors understand merger and reorganization details
+  from fees to structure for confident decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Roy's Safety-First Criterion"
-description: "Discover Roy's Safety-First Criterion for effective risk management in algorithmic trading Stay ahead in volatile markets by prioritizing safety and stable returns"
+title: Implementing Roy's Safety-First Criterion for Safer Investments
+description: Roy's Safety-First Criterion guides investors to set a disaster level
+  and pick investments with minimal shortfall risk to protect capital Discover more
 ---
 
 

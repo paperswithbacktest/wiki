@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Consultant: Types and Comparison with Agents"
-description: "Explore the unique roles of real estate consultants and agents and how algorithmic trading reshapes the industry Learn about strategic guidance vs transaction focus"
+title: Essential Role And Services Of A Real Estate Consultant
+description: Real estate consultants offer expert market analysis and investment guidance
+  to simplify property transactions and maximize returns Discover more inside
 ---
 
 

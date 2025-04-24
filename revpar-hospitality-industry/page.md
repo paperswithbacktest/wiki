@@ -1,6 +1,7 @@
 ---
-title: "RevPAR in Hospitality Industry"
-description: "Leverage algorithmic trading strategies to enhance hotel revenue management and maximize RevPAR with data-driven insights and predictive analytics."
+title: Measuring Hotel Success With RevPAR Revenue Per Available Room
+description: RevPAR tracks revenue per available room by combining ADR and occupancy
+  rate to optimize pricing strategies and boost profitability Discover more inside
 ---
 
 

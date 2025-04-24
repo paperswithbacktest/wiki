@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-6"
-description: "Explore the importance of SEC Form N-6 in variable life insurance covering crucial investment insights risks and company financial health to aid informed decisions."
+title: Understanding SEC Form N-6 For Variable Life Insurance Accounts
+description: SEC Form N-6 helps insurers register separate accounts for variable life
+  insurance with the SEC to boost transparency and compliance Discover more inside
 ---
 
 

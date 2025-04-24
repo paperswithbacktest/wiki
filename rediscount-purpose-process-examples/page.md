@@ -1,6 +1,7 @@
 ---
-title: "Rediscount: Purpose, Process, Examples"
-description: "Explore the purpose and process of rediscount banking and its role in liquidity and economic stability alongside the impact of algorithmic trading."
+title: 'Rediscounting Explained: Central Bank Liquidity Management'
+description: Rediscounting lets banks use existing loans as collateral to secure quick
+  central bank funding and manage liquidity effectively. Discover more inside.
 ---
 
 

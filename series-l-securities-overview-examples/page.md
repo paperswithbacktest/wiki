@@ -1,6 +1,7 @@
 ---
-title: "Series L Securities: Overview and Examples"
-description: "Explore the dynamic interplay between Series L Securities and algorithmic trading in modern finance. Discover how they enhance investment strategies and risk management."
+title: Understanding Series L Securities Long-Term Investment Benefits
+description: Series L Securities combine lower upfront fees with clear deferred sales
+  charge and tax guidance to support long-term investing Discover more inside.
 ---
 
 

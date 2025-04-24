@@ -1,6 +1,7 @@
 ---
-title: "Securitization and Its Impact on Liquidity"
-description: "Discover how securitization and algorithmic trading enhance liquidity and market efficiency driving financial innovation in today's dynamic trading environment."
+title: Understanding Securitization Benefits Risks And Market Impact
+description: Securitization transforms loan pools into tradable securities to boost
+  liquidity and spread risk for banks and investors. Discover more inside.
 ---
 
 

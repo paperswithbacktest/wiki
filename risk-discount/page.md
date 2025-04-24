@@ -1,6 +1,7 @@
 ---
-title: "Risk Discount"
-description: "Explore the vital role of risk discounts in algorithmic trading. Learn how these tools are indispensable for managing financial risk and optimizing asset valuation."
+title: Understanding Risk Discount in Financial Investment Valuation
+description: Risk Discount adjusts expected cash flows for uncertainty so investors
+  compare opportunities accurately and make informed decisions Discover more inside
 ---
 
 

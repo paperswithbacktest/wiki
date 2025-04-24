@@ -1,6 +1,7 @@
 ---
-title: "SABR volatility model"
-description: "Explore the SABR volatility model for algo trading to enhance predictive accuracy in options markets by capturing market complexities and volatility dynamics."
+title: Understanding The SABR Volatility Model For Option Pricing
+description: SABR volatility model refines option pricing by modeling dynamic risk
+  factors, volatility smiles and skews for precise valuations. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC MEF Filings"
-description: "Explore the significance of SEC MEF filings and algorithmic trading in financial markets Understand how regulatory frameworks impact market transparency and investor protection"
+title: Understanding SEC MEF Filings and Their Importance for Companies
+description: SEC MEF filing explains a companys financial performance risk factors
+  and future plans in clear language to empower informed investing Discover more inside
 ---
 
 

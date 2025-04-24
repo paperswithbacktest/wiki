@@ -1,6 +1,7 @@
 ---
-title: "SEC 30-Day Yield Calculation and Examples"
-description: "Explore key financial concepts such as SEC yield and 30-day yield that enhance investment strategies in algo trading Learn to maximize returns while managing risks"
+title: Understanding SEC 30-Day Yield For Investment Fund Comparisons
+description: SEC 30-Day Yield shows annualized income after expenses so investors
+  can compare fund performance and make informed decisions Discover more inside.
 ---
 
 

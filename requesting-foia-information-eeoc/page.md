@@ -1,6 +1,7 @@
 ---
-title: "Requesting FOIA Information from the EEOC"
-description: "Explore how to request EEOC data through FOIA in the context of algorithmic trading Discover the benefits complexities and ethical considerations involved"
+title: Comprehensive Guide to Submitting FOIA Requests to the EEOC
+description: FOIA request to the EEOC simplified with step by step guidance on precise
+  record descriptions fee waivers appeals and response times Discover more inside
 ---
 
 

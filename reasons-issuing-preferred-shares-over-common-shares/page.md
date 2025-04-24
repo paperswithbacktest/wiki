@@ -1,6 +1,7 @@
 ---
-title: "Reasons for Issuing Preferred Shares Over Common Shares"
-description: "Explore the strategic benefits of issuing preferred shares over common shares in corporate finance with insights into algorithmic trading for optimal investment decisions."
+title: Key Differences Between Preferred Shares And Common Shares
+description: Preferred Shares deliver fixed dividends and preserve control while common
+  shares offer variable returns and voting rights Discover more inside
 ---
 
 

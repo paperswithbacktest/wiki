@@ -1,6 +1,7 @@
 ---
-title: "SEC Form ARS"
-description: "Discover the importance of SEC Form ARS in providing insight into a company’s financial performance and strategic direction with shareholder-focused transparency."
+title: Understanding SEC Form ARS Annual Report to Shareholders
+description: SEC Form ARS provides shareholders a clear snapshot of company performance
+  with financial statements CEO insights and key updates Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Real Effective Exchange Rate Explained"
-description: Discover how the Real Effective Exchange Rate (RER) plays a pivotal role in algorithmic trading by providing insights into currency valuation beyond nominal rates. Understand how RER accounts for inflation differentials, offering a true picture of purchasing power and impacting forex strategy development. This guide investigates into RER’s significance and application in optimizing trading algorithms and exploiting market inefficiencies. Explore how integrating RER into trading tactics can lead to more informed decisions and a competitive edge in the dynamic forex markets.
+title: Real Effective Exchange Rate and Its Impact on Competitiveness
+description: Real Effective Exchange Rate measures currency competitiveness by adjusting
+  for inflation and trade weights to guide economic policy Discover more inside
 ---
 
 

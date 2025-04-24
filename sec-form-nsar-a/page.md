@@ -1,6 +1,7 @@
 ---
-title: "SEC Form NSAR-A"
-description: "Explore the transition from SEC Form NSAR-A to Form N-CEN and its significance in algorithmic trading regulatory compliance, crucial for market transparency."
+title: Essential Guide to SEC Form NSAR-A Filing Requirements
+description: SEC Form NSAR-A provides mutual funds and ETFs clear semiannual filing
+  steps, deadlines, compliance tips and reporting requirements Discover more inside
 ---
 
 

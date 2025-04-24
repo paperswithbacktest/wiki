@@ -1,6 +1,7 @@
 ---
-title: "Risks of Contracts for Difference"
-description: "Explore the risks of CFD trading when combined with algorithmic strategies. Understand potential challenges and exposures for successful, responsible trading."
+title: Comprehensive Overview of CFD Trading Risks and Mechanics
+description: CFD trading covers controlling leverage margin calls and market volatility
+  to protect your capital and minimize exposure Discover more inside.
 ---
 
 

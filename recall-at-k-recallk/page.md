@@ -1,6 +1,7 @@
 ---
-title: "Recall At K (Recall@K) (Machine Learning)"
-description: "Discover how Recall at K evaluates model performance in machine learning by measuring relevant items within top K results, enhancing recommendation systems."
+title: Understanding Recall@K Metric in Machine Learning Systems
+description: Recall@K measures how many relevant items appear in the top k results
+  to evaluate performance in search and recommendation systems Discover more inside
 ---
 
 

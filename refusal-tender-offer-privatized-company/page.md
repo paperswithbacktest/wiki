@@ -1,6 +1,7 @@
 ---
-title: "Refusal of Tender Offer by Privatized Company"
-description: "Explore how private companies use corporate finance strategies, tender offers, and algorithmic trading to maximize value, ensure liquidity, and drive innovation."
+title: Strategies for Refusing Tender Offers in Privatized Firms
+description: Tender offer refusals require boards to assess valuation fiduciary duties
+  and stakeholder impacts to safeguard company control Discover more inside
 ---
 
 

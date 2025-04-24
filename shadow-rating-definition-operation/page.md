@@ -1,6 +1,7 @@
 ---
-title: "Shadow Rating: Definition and Operation"
-description: "Explore the convergence of shadow rating credit assessment and algorithmic trading as they redefine financial strategies and decision-making in today's markets."
+title: Understanding Shadow Credit Ratings for Strategic Financial Planning
+description: Shadow ratings provide companies a private credit assessment to guide
+  strategic decisions and borrowing readiness Discover more inside
 ---
 
 

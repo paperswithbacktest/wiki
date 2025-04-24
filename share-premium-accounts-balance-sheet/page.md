@@ -1,6 +1,7 @@
 ---
-title: "Share Premium Accounts in the Balance Sheet"
-description: "Explore balance sheets share premiums and algorithmic trading to understand corporate financial strategies optimize operations and enhance investment decisions."
+title: Understanding the Share Premium Account in Equity Reporting
+description: Share premium account shows extra capital over par value and how firms
+  use this equity reserve to fund expansions or cover losses Discover more inside.
 ---
 
 

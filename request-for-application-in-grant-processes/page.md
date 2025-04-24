@@ -1,6 +1,7 @@
 ---
-title: "Request for Application in Grant Processes"
-description: "Securing grants is vital for funding innovation in algorithmic trading, enabling advanced development without debt, enhancing competitiveness, and fostering tech advancements."
+title: Complete Guide to the Request for Application Grant Process
+description: Request for Application explains grant requirements deadlines review
+  criteria and eligibility to help you prepare a strong proposal Discover more inside.
 ---
 
 

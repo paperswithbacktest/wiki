@@ -1,6 +1,7 @@
 ---
-title: "R: Applications and Financial Formulas"
-description: "Explore how R programming enhances financial data analysis and algorithmic trading Streamline your investment strategies with R's robust statistical tools and visualization capabilities"
+title: Essential Techniques for Financial Analysis with R
+description: Financial Analysis with R provides step-by-step guidance on setup data
+  management statistical modeling portfolio optimization Discover more inside
 ---
 
 

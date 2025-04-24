@@ -1,6 +1,7 @@
 ---
-title: "Ranking (Machine Learning)"
-description: "Learn about ranking in machine learning which orders items by relevance enhancing user experience in search engines recommendation systems and advertising."
+title: Understanding Ranking Techniques in Machine Learning
+description: Ranking in machine learning sorts items by relevance to enhance search
+  and recommendations in real time driving user engagement Discover more inside
 ---
 
 

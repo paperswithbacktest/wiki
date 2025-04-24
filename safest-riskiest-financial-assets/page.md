@@ -1,6 +1,7 @@
 ---
-title: "Safest and Riskiest Financial Assets"
-description: "Explore the relationship between financial assets and algo trading to optimize returns while managing risk. Key insights on asset safety, trading strategies, and market dynamics."
+title: Understanding Safe and Risky Financial Assets for Investors
+description: Financial assets range from safe savings accounts and government bonds
+  to stocks and crypto helping you build a diversified portfolio Discover more inside
 ---
 
 

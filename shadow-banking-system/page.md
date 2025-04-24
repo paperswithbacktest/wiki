@@ -1,6 +1,7 @@
 ---
-title: "Shadow Banking System"
-description: "Explore the shadow banking system and its role in global finance including its relationship with algorithmic trading and potential impact on financial stability."
+title: A Comprehensive Guide To The Shadow Banking System
+description: Shadow banking system offers alternative funding and investment options
+  outside traditional banks while carrying unique risks Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Risk-Seeking Behavior"
-description: "Explore the intersection of risk-seeking behavior and algorithmic trading Discover how risk preferences affect strategies and the importance of robust risk management"
+title: Exploring Risk-Seeking Behavior Across Finance And Daily Life
+description: Risk-seeking behavior shapes decisions from investments to extreme sports
+  by uncovering its causes effects and management strategies Discover more inside.
 ---
 
 

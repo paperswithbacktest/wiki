@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between PPI and CPI"
-description: "Explore the relationship between PPI and CPI in algorithmic trading Understand how these economic indicators are integrated into trading strategies to enhance decision-making"
+title: Producer Price Index And Consumer Price Index Explained
+description: Producer Price Index and Consumer Price Index data show how input costs
+  flow to consumer prices guiding business and policy decisions Discover more inside
 ---
 
 

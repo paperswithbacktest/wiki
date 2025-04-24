@@ -1,6 +1,7 @@
 ---
-title: "Rolling Settlement"
-description: "Learn about rolling settlement and its role in modern financial transactions Discover how it streamlines trade processing and enhances liquidity in algo trading"
+title: Understanding Rolling Settlement in Modern Stock Markets
+description: Rolling settlement accelerates stock market trades by shortening settlement
+  times to T+1 or T+2, reducing risk and improving liquidity Discover more inside
 ---
 
 

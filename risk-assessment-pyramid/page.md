@@ -1,6 +1,7 @@
 ---
-title: "Risk Assessment and Pyramid"
-description: "Explore the importance of risk assessment in algo trading using the risk pyramid to balance investments, ensuring effective risk management and optimizing strategies."
+title: Effective Risk Assessment Using the Risk Pyramid Framework
+description: Risk assessment guides teams to identify evaluate and prioritize hazards
+  with a risk pyramid framework to manage risks effectively Discover more inside
 ---
 
 

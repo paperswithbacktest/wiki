@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 10-12B Overview"
-description: "Discover the significance of SEC Form 10-12B in company spinoffs and its impact on algorithmic trading. Learn about securities registration and market strategies."
+title: Understanding SEC Form 10-12B Requirements for Going Public
+description: SEC Form 10-12B guides companies through disclosing financial statements
+  and leadership details and risks to list stocks on an exchange Discover more inside
 ---
 
 

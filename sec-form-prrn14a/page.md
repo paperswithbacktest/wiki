@@ -1,6 +1,7 @@
 ---
-title: "SEC Form PRRN14A"
-description: "Discover the significance of SEC Form PRRN14A in corporate governance and its impact on algorithmic trading to stay informed and proactive in market strategies."
+title: SEC Form PRRN14A Filing Guide And Requirements Explained
+description: SEC Form PRRN14A explains how to file disclosures for mergers and reorganizations
+  It outlines key requirements deadlines Discover more inside
 ---
 
 

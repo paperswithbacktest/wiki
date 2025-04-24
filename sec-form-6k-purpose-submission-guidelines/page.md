@@ -1,6 +1,8 @@
 ---
-title: "SEC Form 6-K: Purpose and Submission Guidelines"
-description: "SEC Form 6-K is crucial for international firms engaged in algorithmic trading on U.S. exchanges ensuring transparency compliance and informed investor relations."
+title: Understanding SEC Form 6-K Filing Requirements for Foreign Issuers
+description: SEC Form 6-K explains how foreign issuers share key updates with US investors
+  ensuring transparency on financial results deals and management changes Discover
+  more inside
 ---
 
 

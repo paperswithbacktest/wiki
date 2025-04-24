@@ -1,6 +1,7 @@
 ---
-title: "Risk-Neutral Measures"
-description: "Risk-neutral measures simplify derivative pricing by standardizing asset valuations, using risk-free rates and streamlining financial models for algorithmic trading."
+title: Understanding Risk Neutral Measures in Financial Mathematics
+description: Risk Neutral Measure simplifies derivative pricing by adjusting probabilities
+  so expected returns match the risk-free rate Discover more inside
 ---
 
 

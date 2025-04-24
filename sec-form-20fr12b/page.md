@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 20FR12B"
-description: "SEC Form 20FR12B is essential for foreign firms entering US markets with algorithmic trading ensuring compliance with SEC regulations and fostering transparency."
+title: Understanding SEC Form 20FR12B Registration Requirements
+description: SEC Form 20FR12B explains how foreign companies can register securities
+  in the US with disclosures filing steps and compliance advice Discover more inside
 ---
 
 

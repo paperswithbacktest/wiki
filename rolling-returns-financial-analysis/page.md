@@ -1,6 +1,7 @@
 ---
-title: "Rolling Returns in Financial Analysis"
-description: "Learn how rolling returns enhance financial analysis and algorithmic trading by smoothing out volatility, revealing trends, and enabling strategic investment decisions."
+title: Understanding Rolling Returns for Consistent Investment Insights
+description: Rolling returns reveal the consistency and volatility of investments
+  over time and guide smarter portfolio decisions. Discover more inside today.
 ---
 
 

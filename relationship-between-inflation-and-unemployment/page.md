@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between Inflation and Unemployment"
-description: "Explore the interplay between inflation and unemployment in the context of algorithmic trading Discover how trading algorithms influence financial markets."
+title: Economic Relationship Between Inflation and Unemployment
+description: Inflation and Unemployment shape economies through a complex tradeoff
+  influenced by policy tools measures and expectations Discover more inside.
 ---
 
 

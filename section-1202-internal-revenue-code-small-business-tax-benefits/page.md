@@ -1,6 +1,8 @@
 ---
-title: "Section 1202 Of The Internal Revenue Code And Small Business Tax Benefits"
-description: "Explore the intersection of IRC Section 1202 small business tax benefits, and algo trading Discover strategies to optimize tax outcomes and investment returns"
+title: Qualified Small Business Stock Tax Exclusion Under Section 1202
+description: Section 1202 of the Internal Revenue Code offers small business investors
+  a 100% exclusion on gains up to 10 million or 10x basis when held five years or
+  more Discover more inside
 ---
 
 

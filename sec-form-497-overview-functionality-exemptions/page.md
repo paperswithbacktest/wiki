@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 497: Overview, Functionality, and Exemptions"
-description: "Discover how SEC Form 497 serves as a vital tool for mutual fund disclosures, enhancing transparency and aiding investors in algorithmic and traditional trading decisions."
+title: SEC Form 497 Filing Requirements for Investment Companies
+description: SEC Form 497 helps investment companies keep investors informed on critical
+  updates deadlines exemptions and filing requirements Discover more inside
 ---
 
 

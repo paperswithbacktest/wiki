@@ -1,6 +1,7 @@
 ---
-title: "Range in Trading: Examples and Implications"
-description: "Explore how trading range analysis and algorithmic trading can enhance trading strategies by identifying market equilibrium phases and anticipating price movements."
+title: Mastering Trading Ranges By Identifying Support And Resistance
+description: Trading range strategies help you identify support and resistance levels
+  to time your entries and exits and anticipate breakouts Discover more inside
 ---
 
 

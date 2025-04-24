@@ -1,6 +1,7 @@
 ---
-title: "Section 1231 Property and Tax Treatment"
-description: "Explore Section 1231 property tax advantages for algorithmic trading, balancing capital gains and ordinary losses to enhance investment strategies and optimize returns."
+title: Understanding Section 1231 Property Tax Benefits and Strategies
+description: Section 1231 property gains and losses get tax treatment that lowers
+  capital gains and offsets other income for business planning Discover more inside.
 ---
 
 

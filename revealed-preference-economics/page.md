@@ -1,6 +1,7 @@
 ---
-title: "Revealed Preference Economics"
-description: "Explore how revealed preference theory enhances algorithmic trading by linking consumer choices to market trends, boosting predictive power and trading efficiency."
+title: Revealed Preference Theory Principles and Economic Applications
+description: Revealed preference theory reveals genuine consumer choices by analyzing
+  real actions instead of surveys to refine economic models. Discover more inside.
 ---
 
 

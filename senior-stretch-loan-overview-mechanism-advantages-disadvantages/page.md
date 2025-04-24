@@ -1,6 +1,7 @@
 ---
-title: "Senior Stretch Loan: Overview, Mechanism, Advantages and Disadvantages"
-description: "Explore the benefits and risks of senior stretch loans, a hybrid debt structure catering to middle-market firms with unique funding needs alongside algorithmic trading."
+title: Comprehensive Guide to Senior Stretch Loans Benefits and Risks
+description: Senior Stretch Loans combine senior and mezzanine debt into one package
+  to fund growth at lower cost while simplifying financing Discover more inside
 ---
 
 

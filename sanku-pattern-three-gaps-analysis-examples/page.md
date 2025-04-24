@@ -1,6 +1,7 @@
 ---
-title: "Sanku Pattern: Three Gaps Analysis and Examples"
-description: "Explore the Sanku Pattern also known as the Three Gaps Pattern a key tool in technical analysis. Learn how to leverage it in algo trading for better decisions."
+title: Understanding the Sanku Pattern in Technical Analysis
+description: Sanku pattern identifies three price gaps that signal trend reversals
+  or continuations with clear entry and exit cues for traders Discover more inside.
 ---
 
 

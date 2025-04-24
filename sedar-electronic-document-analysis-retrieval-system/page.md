@@ -1,6 +1,7 @@
 ---
-title: "Sedar: Electronic Document Analysis and Retrieval System"
-description: "Discover how SEDAR supports algorithmic trading by providing fast access to essential financial data ensuring efficiency and transparency in Canadian markets."
+title: Understanding the SEDAR System for Canadian Corporate Filings
+description: SEDAR system offers free access to Canadian filings such as financial
+  statements and annual reports to help investors decide Discover more inside
 ---
 
 

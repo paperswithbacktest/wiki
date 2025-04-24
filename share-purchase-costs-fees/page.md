@@ -1,6 +1,7 @@
 ---
-title: "Share Purchase Costs and Fees"
-description: "Discover how share purchase costs and fees impact your trading strategy Understand broker commissions transaction fees and the impact of algo trading expenses"
+title: Understanding Share Purchase Costs and Fees for Investors
+description: Share purchase costs and fees shape your returns by adding brokerage
+  exchange and regulatory charges Learn how to reduce expenses Discover more inside
 ---
 
 

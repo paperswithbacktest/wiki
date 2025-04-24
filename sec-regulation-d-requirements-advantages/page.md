@@ -1,6 +1,7 @@
 ---
-title: "SEC Regulation D: Requirements and Advantages"
-description: "Learn about SEC Regulation D a key regulation for raising capital through private placements in algo trading without SEC registration burdens."
+title: Understanding SEC Regulation D for Private Securities Offerings
+description: SEC Regulation D streamlines private capital fundraising by offering
+  tailored exemptions and filing guidelines to help companies grow Discover more inside
 ---
 
 

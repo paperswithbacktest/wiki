@@ -1,6 +1,7 @@
 ---
-title: "Responsibilities of Hedge Fund Analysts"
-description: "Explore the critical role of hedge fund analysts in identifying investment opportunities and the impact of algorithmic trading on fund performance."
+title: Guide to Hedge Fund Analyst Roles and Career Progression
+description: Hedge Fund Analyst research guides managers with market analysis financial
+  modeling and risk control to drive investment decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Residential Rental Property: Tax Advantages and Disadvantages"
-description: "Explore the tax benefits and challenges of investing in residential rental properties. Understand deductions, depreciation, and tax strategies for better returns."
+title: Comprehensive Guide To Residential Rental Property Tax Benefits
+description: Rental property tax benefits cut taxable income with deductions for mortgage
+  interest depreciation and taxes to improve cash flow Discover more inside
 ---
 
 

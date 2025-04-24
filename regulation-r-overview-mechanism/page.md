@@ -1,6 +1,7 @@
 ---
-title: "Regulation R: Overview and Mechanism"
-description: "Explore financial regulation with a focus on Regulation R and algorithmic trading dynamics. Learn how compliance shapes stable, competitive banking practices."
+title: Regulation R Compliance for Banks and Broker-Dealers
+description: Regulation R sets rules for banks and broker-dealers to ensure fair investment
+  advice and sales that prevent conflicts of interest Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Shadow Pricing Overview and Applications"
-description: "Explore shadow pricing applications in algorithmic trading and economic valuation to optimize resource allocation, enhancing market efficiency and policymaking."
+title: Shadow Pricing for Informed Economic Decision Making
+description: Shadow pricing assigns value to clean air time and resources revealing
+  hidden project costs and guiding smarter economic decisions Discover more inside.
 ---
 
 

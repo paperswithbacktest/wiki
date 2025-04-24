@@ -1,6 +1,7 @@
 ---
-title: "Reasons for Reverse Stock Splits"
-description: "Discover how reverse stock splits impact algorithmic trading and investor strategies Learn how these corporate actions affect stock prices and market perceptions"
+title: Reverse Stock Splits Mechanics Impact and Trading Strategies
+description: Reverse Stock Splits adjust share structure and pricing covering mechanics
+  benefits risks and algorithmic trading data adjustments Discover more inside
 ---
 
 

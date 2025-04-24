@@ -1,6 +1,7 @@
 ---
-title: "Risks of Low-Cost Out-of-the-Money Options"
-description: "Explore the risks and opportunities of low-cost out-of-the-money options in algorithmic trading. Learn strategies to manage financial risks effectively."
+title: Managing Risks And Rewards Of Low-Cost Out-Of-The-Money Options
+description: Out of the money options deliver a low-cost way to leverage stock moves
+  while managing risk with spreads and stop-loss orders Discover more inside.
 ---
 
 

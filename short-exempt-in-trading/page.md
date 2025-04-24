@@ -1,6 +1,7 @@
 ---
-title: "Short Exempt in Trading"
-description: "Discover the essentials of short exempt trading regulations in the stock market. Learn how they shape trading strategies and impact algorithmic trading."
+title: Understanding Short Exempt Trades in Stock Market Regulation
+description: Short exempt trades let market makers balance orders during short sale
+  restrictions boosting market stability and liquidity Discover more inside
 ---
 
 

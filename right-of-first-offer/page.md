@@ -1,6 +1,7 @@
 ---
-title: "Right of First Offer"
-description: "Discover how Right of First Offer (ROFO) clauses enhance algorithmic trading strategies by securing preferential terms and optimizing asset transactions."
+title: Understanding Right of First Offer Agreements in Business
+description: Right of First Offer agreements grant holders first chance to buy assets
+  under defined timelines while streamlining deals. Discover more inside.
 ---
 
 

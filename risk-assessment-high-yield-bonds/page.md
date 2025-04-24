@@ -1,6 +1,7 @@
 ---
-title: "Risk Assessment of High-Yield Bonds"
-description: "Explore the risk assessment of high-yield bonds using algorithmic trading strategies Learn how to manage default risks and improve investment outcomes effectively"
+title: Essential Factors and Models for High-Yield Bond Risk Assessment
+description: High-yield bond risk assessment explains how credit ratings financial
+  health and market factors influence yields and risks Discover more inside
 ---
 
 

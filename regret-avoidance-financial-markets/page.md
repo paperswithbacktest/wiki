@@ -1,6 +1,8 @@
 ---
-title: "Regret Avoidance in Financial Markets"
-description: "Explore how regret avoidance in financial markets influences trading decisions and how algorithmic trading can mitigate emotional biases to enhance trading outcomes."
+title: 'Regret Avoidance in Financial Markets: Impacts and Strategies'
+description: Regret avoidance describes how fear of losses shapes investor decisions
+  and can hinder returns Learn active strategies like goal setting and dollar cost
+  averaging to overcome regret and optimize portfolios Discover more inside.
 ---
 
 

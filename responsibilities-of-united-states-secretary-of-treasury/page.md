@@ -1,6 +1,7 @@
 ---
-title: "Responsibilities of the United States Secretary of the Treasury"
-description: "Explore the crucial role of the US Secretary of the Treasury in economic policy and regulation, focusing on the impact of algorithmic trading on market stability."
+title: Understanding the Role of the United States Treasury Secretary
+description: United States Secretary of the Treasury oversees federal finances, managing
+  debt, taxes and global policy to ensure economic stability Discover more inside
 ---
 
 

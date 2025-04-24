@@ -1,6 +1,7 @@
 ---
-title: "Recording and Reporting Changes in Accounting Principles"
-description: "Discover key accounting practices and the role of algorithmic trading in financial reporting. Explore their impact on transparency and market dynamics."
+title: Change in Accounting Principles Explained for Reliable Reporting
+description: Change in accounting principle can reshape financial statements and boost
+  transparency by following FASB and IASB guidelines. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Replica (Machine Learning)"
-description: "Replica machine learning enhances efficiency and reliability by using multiple model copies for distributed training ensuring faster processing and robust system performance."
+title: Replica Machine Learning for Scalable Efficient Model Training
+description: Replica machine learning uses multiple model copies across machines to
+  speed up training and ensure reliability in critical systems Discover more inside
 ---
 
 

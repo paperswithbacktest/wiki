@@ -1,6 +1,7 @@
 ---
-title: "Recursive Competitive Equilibrium"
-description: "Recursive Competitive Equilibrium helps economists model economic dynamics and optimize algorithmic trading decisions by understanding supply-demand balance."
+title: Recursive Competitive Equilibrium Explained for Dynamic Economies
+description: Recursive Competitive Equilibrium reveals how agents use expectations
+  and prices to achieve stable market dynamics over time. Discover more inside.
 ---
 
 

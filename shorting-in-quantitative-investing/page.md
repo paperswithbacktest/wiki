@@ -1,6 +1,7 @@
 ---
-title: "Shorting in quantitative investing"
-description: Explore the intricacies of shorting in quantitative investing and algorithmic trading as a strategy to benefit from declining prices. Learn how short selling leverages advanced algorithms for market-neutral positions and enhancing liquidity. Understand the mechanics strategic applications and risks of shorting in diverse financial markets including stocks and options. Discover how quantitative strategies utilize shorting for hedging and arbitrage along with insights on implementation in algorithmic trading systems.
+title: Comprehensive Guide to Short Selling in Quantitative Investing
+description: Short selling helps investors manage risk and capture gains in down markets
+  using data driven models and stop loss orders Discover more inside.
 ---
 
 

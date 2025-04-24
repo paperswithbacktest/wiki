@@ -1,6 +1,7 @@
 ---
-title: "Seven Eight Capital"
-description: "Explore Seven Eight Capital's pioneering role in algorithmic trading leveraging advanced techniques and data insights to enhance market efficiency and liquidity."
+title: Seven Eight Capital Quantitative Investing For Sustainable Growth
+description: Seven Eight Capital uses data driven quantitative investing to guide
+  clients with math portfolio optimization and tailored support Explore more inside
 ---
 
 

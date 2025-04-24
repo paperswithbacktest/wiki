@@ -1,6 +1,7 @@
 ---
-title: "Session Pricing Explanation"
-description: "Learn about session pricing and algorithmic trading in today's market Discover how technology enhances pricing strategies and offers a competitive edge"
+title: Optimizing Session Pricing Strategies for Service Businesses
+description: Session pricing helps businesses charge based on time and expertise while
+  ensuring fair value and boosting profits for services Discover more inside
 ---
 
 

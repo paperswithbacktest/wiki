@@ -1,6 +1,7 @@
 ---
-title: "Satoshi Cycle: Mechanism and Bitcoin Price History"
-description: "Explore the intriguing connection between the Satoshi Cycle and Bitcoin's volatile price history. Discover the impact of algorithmic trading on cryptocurrency markets."
+title: 'Satoshi Cycle Explained: Key Phases Shaping Bitcoin Price'
+description: Satoshi Cycle shows Bitcoin patterns across accumulation markup distribution
+  markdown phases to help investors time trades effectively Discover more inside
 ---
 
 

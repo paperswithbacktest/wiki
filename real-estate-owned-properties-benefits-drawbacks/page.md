@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Owned Properties: Benefits and Drawbacks"
-description: "Explore the synergy of REO properties and algorithmic trading in real estate Learn the benefits and drawbacks of tech-driven investments in distressed assets"
+title: Comprehensive Guide to Buying Bank-Owned REO Properties
+description: REO properties offer buyers discounted access to bank owned homes with
+  guidance on finding financing, inspections and legal steps Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Secured Bonds in Fixed Income: Overview and Examples"
-description: "Discover the transformative role of algorithmic trading in secured bonds within fixed income Learn about bond types and how they impact market dynamics "
+title: Secured Bonds Asset-Backed Fixed Income Investment Guide
+description: Secured Bonds offer a lower risk fixed income option backed by specific
+  assets to help investors protect capital and earn returns Discover more inside
 ---
 
 

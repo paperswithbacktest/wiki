@@ -1,6 +1,7 @@
 ---
-title: "Rank (Tensor) (Machine Learning)"
-description: "Explore the fundamentals of tensors in machine learning, their ranks, and applications in frameworks like TensorFlow and PyTorch for efficient data handling."
+title: Understanding Tensor Rank in Machine Learning Frameworks
+description: Tensor Rank defines the number of dimensions a machine learning model
+  processes so you can optimize data shapes and operations Discover more inside.
 ---
 
 

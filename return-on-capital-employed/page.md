@@ -1,6 +1,7 @@
 ---
-title: "Return on Capital Employed"
-description: "Discover how Return on Capital Employed combines with algorithmic trading to enhance investment returns. Explore capital efficiency and its critical role in maximizing profits in today’s complex markets. Learn how ROCE measures a company’s ability to generate profits from its capital base and why it stands out as a robust metric for strategic financial decision-making. Understand the dynamics of ROCE across various industries and how algorithmic tools can optimize portfolio performance, offering a sophisticated approach to achieving superior financial outcomes."
+title: Understanding Return On Capital Employed For Investor Analysis
+description: Return on Capital Employed shows how efficiently a company turns capital
+  into profit and empowers investors to make informed choices Discover more inside.
 ---
 
 

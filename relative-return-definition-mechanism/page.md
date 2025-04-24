@@ -1,6 +1,7 @@
 ---
-title: "Relative Return: Definition and Mechanism"
-description: "Explore relative return in algorithmic trading to assess investment performance relative to benchmarks. Understand key financial metrics for informed decision-making."
+title: Understanding Relative Return in Investment Performance Analysis
+description: Relative return measures investment performance against benchmarks to
+  reveal true added value and guide smarter portfolio decisions Discover more inside
 ---
 
 

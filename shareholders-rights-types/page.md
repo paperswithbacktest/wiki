@@ -1,6 +1,7 @@
 ---
-title: "Shareholders: Rights and Types"
-description: "Explore the roles and types of investors and shareholders, understand algorithmic trading's impact on modern markets, and gain insights into corporate governance."
+title: Shareholder Rights And Influence In Corporate Governance
+description: Shareholder ownership offers voting rights dividends and influence in
+  corporate governance. Explore share types and impact strategies. Discover more inside
 ---
 
 

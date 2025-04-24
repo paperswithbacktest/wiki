@@ -1,6 +1,7 @@
 ---
-title: "Rules for Successful Trading"
-description: "Explore the essentials of algorithmic trading to achieve financial success Learn how algo trading can enhance market efficiency and optimize trading decisions"
+title: 'Essential Trading Guide: Strategies, Risk Management & Analysis'
+description: Trading Guide lays out how to build a clear trading plan master risk
+  management and analyze market trends for consistent results Discover more inside
 ---
 
 

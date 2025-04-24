@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 10-QT"
-description: "Explore SEC Form 10-QT and its role in financial reporting for non-standard periods, while understanding the impact of algo trading on market transparency."
+title: Understanding SEC Form 10-QT Transitional Financial Reports
+description: SEC Form 10-QT explains how companies report financial results during
+  a fiscal year transition period ensuring clear investor insights Discover more inside
 ---
 
 

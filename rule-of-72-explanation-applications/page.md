@@ -1,6 +1,7 @@
 ---
-title: "Rule of 72: Explanation and Applications"
-description: "Discover the Rule of 72 and its applications in finance and algorithmic trading to simplify estimating investment doubling time and analyze strategy growth."
+title: Understanding the Rule of 72 for Estimating Investment Growth
+description: Rule of 72 offers a quick way to estimate how many years your investment
+  takes to double at a fixed interest rate using simple math discover more inside
 ---
 
 

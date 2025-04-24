@@ -1,6 +1,7 @@
 ---
-title: "Romanian Leu: History and Economic Role"
-description: "Explore the Romanian Leu's historical evolution and its crucial role in Romania's economy, including the rise of algorithmic trading and its modern implications."
+title: Understanding the Evolution and Impact of the Romanian Leu
+description: Romanian Leu history and design reveal how this currency has evolved
+  and stabilized the economy of Romania while shaping trade Discover more inside.
 ---
 
 

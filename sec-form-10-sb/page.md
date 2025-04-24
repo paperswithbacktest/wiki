@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 10-SB"
-description: "Explore the historical impact of SEC Form 10-SB on small business securities registration and its role in modern algorithmic trading strategies."
+title: Understanding SEC Form 10-SB Requirements for Small Businesses
+description: SEC Form 10-SB guides small businesses through stock registration by
+  covering eligibility, required disclosures and filing deadlines. Discover more inside.
 ---
 
 

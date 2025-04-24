@@ -1,6 +1,7 @@
 ---
-title: "Sell-Off: Overview, Mechanism, Causes, and Illustrative Example"
-description: "Explore the dynamics of sell-offs including mechanisms and causes with insights into algorithmic trading in volatile markets to enhance trade strategy."
+title: Understanding Market Sell-Offs Triggers, Impacts and Strategies
+description: Market sell-off risk stems from economic signals and sentiment shifts
+  Explore actions to foresee downturns and safeguard investments Discover more inside
 ---
 
 

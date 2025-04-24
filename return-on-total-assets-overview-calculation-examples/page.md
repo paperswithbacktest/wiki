@@ -1,6 +1,7 @@
 ---
-title: "Return on Total Assets: Overview and Calculation Examples"
-description: "Explore how Return on Total Assets (ROTA) impacts algorithmic trading strategies by enhancing asset evaluation, optimizing decisions, and improving returns."
+title: Maximizing Business Performance with Return on Total Assets
+description: Return on Total Assets helps investors and managers see how efficiently
+  assets generate earnings before interest and taxes. Discover more inside
 ---
 
 

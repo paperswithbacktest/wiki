@@ -1,6 +1,7 @@
 ---
-title: "Short-Term Investment Options"
-description: "Explore short-term investment options and algorithmic trading strategies to enhance financial planning. Discover how these investments offer liquidity and capital preservation while algo trading maximizes trading efficiency and potential returns. Learn about the benefits and challenges of short-term investment vehicles like money market accounts, treasury bills, and certificates of deposit, and how they differ from long-term strategies. This guide provides insights into utilizing these financial tools to achieve tailored financial goals including capital growth, liquidity management, and risk reduction."
+title: Short-Term Investment Options for Accessible and Secure Savings
+description: Short-term investments offer liquid options like savings accounts CDs
+  and money market funds to keep cash safe while earning interest, discover more inside
 ---
 
 

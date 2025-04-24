@@ -1,6 +1,7 @@
 ---
-title: "Shareholder Services Agent"
-description: "Explore the crucial role of shareholder service agents in finance, bridging companies and investors, ensuring smooth transactions, and supporting algorithmic trading."
+title: Responsibilities And Role Of A Shareholder Services Agent
+description: Shareholder Services Agent oversee records communications dividends and
+  compliance to ensure smooth shareholder relations Discover more inside.
 ---
 
 

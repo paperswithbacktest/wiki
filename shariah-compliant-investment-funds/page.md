@@ -1,6 +1,7 @@
 ---
-title: "Shariah-Compliant Investment Funds"
-description: "Discover the transformative impact of algorithmic trading within Shariah-compliant investment funds where technology enhances ethical, profitable investing."
+title: Principles and Practices of Shariah-Compliant Investment Funds
+description: Shariah-compliant investment funds align portfolios with Islamic ethics
+  through profit sharing and ethical screening and oversight Discover more inside.
 ---
 
 

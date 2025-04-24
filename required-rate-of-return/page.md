@@ -1,6 +1,7 @@
 ---
-title: "Required Rate of Return"
-description: "Explore the intersection of investment returns and algorithmic trading Discover methods to enhance portfolio performance using advanced trading technologies"
+title: Understanding the Required Rate of Return for Smart Investing
+description: Required Rate of Return sets the minimum return investors need based
+  on risk free rate and risk premium to make smarter choices Discover more inside
 ---
 
 

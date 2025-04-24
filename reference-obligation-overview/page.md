@@ -1,6 +1,7 @@
 ---
-title: "Reference Obligation Overview"
-description: "Explore the essential role of reference obligations in credit derivatives and learn how algorithmic trading aids in managing these complex financial tools for optimal risk management."
+title: Reference Obligations Explained for Credit Derivatives Trading
+description: Reference obligation serves as the benchmark in credit derivatives ensuring
+  clarity and risk management for loans in CDS contracts Discover more inside
 ---
 
 

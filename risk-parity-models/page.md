@@ -1,6 +1,7 @@
 ---
-title: "Risk-parity models"
-description: "Explore the innovative world of risk parity models in algo trading Discover how balancing risk, not capital, enhances portfolio diversification and stability"
+title: Understanding Risk Parity Models For Balanced Portfolio Risk
+description: Risk parity model balances risk across assets to enhance portfolio stability
+  and reduce large losses through balanced allocations. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Sharpe Ratio and Its Implications for Investors"
-description: "Discover the significance of the Sharpe Ratio for investors and algorithmic trading Explore its role in evaluating risk-adjusted returns and optimizing strategies."
+title: Sharpe Ratio Explained Risk-Adjusted Returns for Investors
+description: Sharpe Ratio helps investors assess risk adjusted returns by comparing
+  performance to a risk free benchmark for informed decisions Discover more inside.
 ---
 
 

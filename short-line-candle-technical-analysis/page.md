@@ -1,6 +1,7 @@
 ---
-title: "Short Line Candle in Technical Analysis"
-description: "Explore Short Line Candle patterns in algorithmic trading to improve market analysis and decision making Harness candlestick insights for strategic trades."
+title: Understanding Short Line Candle Patterns in Trading
+description: Short line candle patterns reveal when market momentum slows and signal
+  potential reversals to help traders plan entries and exits Discover more inside
 ---
 
 

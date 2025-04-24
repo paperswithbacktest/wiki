@@ -1,6 +1,7 @@
 ---
-title: "Regulation J: Overview and Functionality"
-description: "Explore the critical role of Regulation J in payment processing ensuring security and consistency for banks in handling checks and electronic funds transfers."
+title: Comprehensive Guide to Federal Regulation J for Banks
+description: Regulation J ensures fast reliable check processing and secure electronic
+  transfers among banks with Federal Reserve oversight Discover more inside.
 ---
 
 

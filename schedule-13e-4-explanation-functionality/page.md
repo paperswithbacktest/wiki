@@ -1,6 +1,7 @@
 ---
-title: "Schedule 13E-4: Explanation and Functionality"
-description: "Explore the history and impact of Schedule 13E-4, its role in tender offers and algorithmic trading, and its eventual replacement by Schedule TO-I."
+title: Understanding Schedule 13E-4 Share Buyback Filing Requirements
+description: Schedule 13E-4 explains SEC requirements for transparent share buyback
+  outlining filing steps deadlines and amendments Discover more inside today.
 ---
 
 

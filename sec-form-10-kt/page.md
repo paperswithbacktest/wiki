@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 10-KT"
-description: "Explore the essentials of SEC Form 10-KT a vital report for companies changing fiscal year-end offering insights for investors and algo trading strategies."
+title: Understanding SEC Form 10-KT Fiscal Year Transition Reporting
+description: SEC Form 10-KT provides investors clear interim financial reporting during
+  fiscal year changes for accurate performance insights. Discover more inside
 ---
 
 

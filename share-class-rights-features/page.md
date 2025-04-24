@@ -1,6 +1,7 @@
 ---
-title: "Share Class: Rights and Features"
-description: "Explore the impact of share class differentiation and shareholder rights on algorithmic trading strategies in financial markets. Empower investment decisions with AI insights."
+title: Understanding Share Class Rights, Benefits and Corporate Control
+description: Share class choices affect voting power dividends investor strategies
+  enabling informed capital structure and governance decisions Discover more inside.
 ---
 
 

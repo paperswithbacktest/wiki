@@ -1,6 +1,7 @@
 ---
-title: "Reverse Cash-and-Carry Arbitrage"
-description: "Explore reverse cash-and-carry arbitrage using algorithmic trading to exploit market inefficiencies between spot and futures prices for potential profits."
+title: Understanding Reverse Cash-and-Carry Arbitrage Strategies
+description: Reverse Cash-and-Carry Arbitrage lets traders profit from spot and futures
+  price gaps by short selling high and buying back lower Discover more inside.
 ---
 
 

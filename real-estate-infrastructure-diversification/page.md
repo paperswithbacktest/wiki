@@ -1,6 +1,7 @@
 ---
-title: "Real Estate and Infrastructure Diversification"
-description: "Explore how diversifying with real estate infrastructure and algorithmic trading can enhance returns and manage risks in modern investment portfolios."
+title: Diversification Strategies for Real Estate and Infrastructure
+description: Real estate diversification spreads investments across property types
+  and regions to reduce risk and boost returns in changing markets Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Risk-Adjusted Capital Ratio: Analysis and Calculation"
-description: "Explore the role of risk-adjusted capital ratios in improving the stability and performance of algorithmic trading strategies in diverse economic conditions."
+title: Risk-Adjusted Capital Ratio Explained for Financial Institutions
+description: Risk-Adjusted Capital Ratio helps banks quantify capital needed to cover
+  losses and maintain stability across lending and investments Discover more inside.
 ---
 
 

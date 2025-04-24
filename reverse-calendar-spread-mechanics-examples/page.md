@@ -1,6 +1,7 @@
 ---
-title: "Reverse Calendar Spread: Mechanics and Examples"
-description: "Explore the mechanics of a reverse calendar spread strategy in algorithmic trading designed to profit from market volatility by using options with differing expirations."
+title: Mastering Reverse Calendar Spreads in Options Trading
+description: Reverse calendar spread captures swift stock moves by buying near term
+  options and selling longer term options to hedge risk Discover more inside
 ---
 
 

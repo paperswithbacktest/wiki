@@ -1,6 +1,7 @@
 ---
-title: "Ripple"
-description: "Explore Ripple's unique blockchain and algorithmic trading potential Discover how Ripple's efficiency and speed enhance trading strategies in the crypto market"
+title: Leveraging Ripple and the XRP Ledger for Faster Global Payments
+description: Ripple streamlines international transfers with banks using XRP and a
+  fast consensus protocol to cut costs and speed up payments Discover more inside
 ---
 
 

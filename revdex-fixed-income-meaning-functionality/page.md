@@ -1,6 +1,7 @@
 ---
-title: "Revdex in Fixed Income: Meaning and Functionality"
-description: "Explore the transformative impact of algorithmic trading on fixed income markets and the role of Revdex in optimizing bonds portfolios for investors."
+title: Understanding Revdex Benchmark For Revenue Bond Investments
+description: Revdex index tracks revenue bond performance to help investors assess
+  yield trends risk and diversification in fixed income portfolios Discover more inside
 ---
 
 

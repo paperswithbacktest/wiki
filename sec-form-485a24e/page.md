@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 485A24E"
-description: "Explore the significance of SEC Form 485A24E for investment companies as it aligns with the rapidly evolving algorithmic trading, emphasizing compliance and innovation."
+title: SEC Form 485A24E Filing Guide for Investment Companies
+description: SEC Form 485A24E lets investment companies register or update securities
+  with the SEC accurately and timely to avoid filing mistakes. Discover more inside.
 ---
 
 

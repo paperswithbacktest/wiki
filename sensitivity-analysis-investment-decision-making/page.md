@@ -1,6 +1,7 @@
 ---
-title: "Sensitivity Analysis in Investment Decision-Making"
-description: "Explore the synergy of sensitivity analysis financial analysis and algorithmic trading in investment decisions to enhance risk management and strategic planning."
+title: Sensitivity Analysis for Effective Investment Risk Management
+description: Sensitivity analysis reveals which factors most impact your investment
+  outcomes and helps you proactively manage risks. Discover more inside now
 ---
 
 

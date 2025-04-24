@@ -1,6 +1,7 @@
 ---
-title: "Reserves-to-Production Ratio"
-description: "Explore the significance of the Reserves-to-Production Ratio in the energy sector and its role in enhancing algorithmic trading strategies for better market insights."
+title: Reserves To Production Ratio Explained For Energy Planning
+description: Reserves-to-Production Ratio lets you estimate how long oil and gas reserves
+  will last at current rates and guides energy planning Discover more inside.
 ---
 
 

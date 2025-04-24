@@ -1,6 +1,7 @@
 ---
-title: "Share Certificate"
-description: "Explore the essentials of share certificates stock ownership and algorithmic trading Discover how these elements intertwine in modern investment strategies"
+title: Comprehensive Guide to Share Certificates and Ownership Rights
+description: Share certificates prove ownership rights provide dividend claims and
+  simplify transfers so you can manage investments with confidence Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 18-12B Overview"
-description: "Explore the essential role of SEC Form 18-12B in transparent financial reporting for algorithmic trading within U.S. securities markets ensuring compliance."
+title: SEC Form 18-12B Guide to Filing Securities in the Philippines
+description: SEC Form 18-12B explains key requirements for Philippine companies to
+  register securities with transparency and protect investors Discover more inside
 ---
 
 

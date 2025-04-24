@@ -1,6 +1,7 @@
 ---
-title: "Risk-Based Capital Requirement: Calculation and Tiers"
-description: "Explore the crucial role of risk-based capital requirements and financial tiers in algorithmic trading. Learn how these regulations ensure trading resilience and risk management."
+title: Understanding Risk-Based Capital Requirements in Banking
+description: Risk-Based Capital Requirements ensure banks hold capital proportional
+  to asset risk to absorb losses and stay compliant and resilient Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Regulation K: Overview and Functionality"
-description: "Explore how Regulation K shapes international banking operations and its impact on algorithmic trading ensuring fair practices within global financial markets."
+title: Understanding Regulation K for International Banking Compliance
+description: Regulation K guides banks in setting up foreign branches with Fed oversight,
+  managing investments and mitigating international risks discover more inside
 ---
 
 

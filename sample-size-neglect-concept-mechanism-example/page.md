@@ -1,6 +1,7 @@
 ---
-title: "Sample Size Neglect: Concept, Mechanism, and Example"
-description: "Explore the concept of sample size neglect in algorithmic trading and understand its impact on decision-making processes and trading strategy effectiveness."
+title: Understanding Sample Size Neglect in Statistical Analysis
+description: Sample size neglect misleads conclusions by exposing risks of small samples
+  so you make informed decisions based on robust data Discover more inside.
 ---
 
 

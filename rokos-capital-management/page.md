@@ -1,6 +1,7 @@
 ---
-title: "Rokos Capital Management"
-description: "Rokos Capital Management excels in hedge fund strategies through algorithmic trading leveraging data-driven decisions efficiency and innovation by Chris Rokos."
+title: Rokos Capital Management Hedge Fund Strategies and Performance
+description: Rokos Capital Management uses advanced quantitative trading and risk
+  management to grow investor capital and navigate market volatility Discover more
 ---
 
 

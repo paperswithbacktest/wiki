@@ -1,6 +1,7 @@
 ---
-title: "Record Date vs. Payable Date"
-description: "Explore how algorithmic trading can enhance dividend strategies by understanding crucial dates like record and payable dates to optimize investment returns."
+title: Record Date and Payable Date Explained for Dividend Investors
+description: Record date and payable date guide shows when shareholders qualify and
+  receive dividends so you can plan trading and investments Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Segregated Fund"
-description: "Explore investment strategies involving segregated funds and algorithmic trading to optimize returns and manage risks in an evolving financial landscape."
+title: Segregated Funds Guarantees And Benefits For Secure Investing
+description: Segregated funds protect your capital with maturity and death guarantees
+  plus probate avoidance and privacy for secure investing Discover more inside
 ---
 
 

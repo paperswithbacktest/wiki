@@ -1,6 +1,7 @@
 ---
-title: "Security Market Indicator Series: Overview and Functionality"
-description: "Explore the role of Security Market Indicator Series and technical tools in algorithmic trading to enhance strategies and leverage data-driven insights effectively."
+title: Understanding the Security Market Indicator Series for Investors
+description: Security Market Indicator Series provides timely real time insights on
+  stock prices volume and returns to help you invest wisely Discover more inside
 ---
 
 

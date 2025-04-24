@@ -1,6 +1,7 @@
 ---
-title: "Settlement Process: T+1, T+2, and T+3"
-description: "Explore the pivotal role of T+1, T+2, and T+3 settlement cycles in financial markets, impacting liquidity and risk in traditional and algorithmic trading."
+title: Understanding T+1 Settlement Cycle in Financial Markets
+description: T+1 settlement cycle accelerates trade completion by settling in one
+  day, reduces risk and optimizes capital use efficiently Discover more inside
 ---
 
 

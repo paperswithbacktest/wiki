@@ -1,6 +1,7 @@
 ---
-title: "Sealed-Bid Auction in Real Estate"
-description: "Discover how sealed-bid auctions coupled with algorithmic trading are revolutionizing real estate sales by enhancing decision-making and maximizing asset value."
+title: Sealed-Bid Auctions in Real Estate for Buyers and Sellers
+description: Sealed-bid real estate auctions offer a private competitive process to
+  boost sale price and simplify bidding for buyers and sellers Discover more inside
 ---
 
 

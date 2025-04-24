@@ -1,6 +1,7 @@
 ---
-title: "Reverse-Engineering DCF for Stock Price Evaluation"
-description: "Explore reverse-engineering the DCF model for stock valuation to derive market growth assumptions, enhance algorithmic trading, and improve investment accuracy."
+title: Reverse-Engineering DCF Models for Accurate Stock Valuation
+description: Reverse-engineering DCF uncovers market implied growth rates and valuation
+  assumptions so you can assess if a stock is fairly priced Discover more inside
 ---
 
 

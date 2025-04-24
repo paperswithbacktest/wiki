@@ -1,6 +1,7 @@
 ---
-title: "Rebalancing frequency impact"
-description: "Explore the impact of rebalancing frequency in algorithmic trading Discover how strategic adjustments optimize portfolio performance and manage investment risks effectively"
+title: Optimizing Portfolio Rebalancing Frequency for Long Term Goals
+description: Rebalancing frequency helps keep your investments aligned with goals
+  while managing risk and costs in active strategies Discover more inside.
 ---
 
 

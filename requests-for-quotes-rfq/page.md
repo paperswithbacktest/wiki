@@ -1,6 +1,7 @@
 ---
-title: "requests for quotes (RFQ)"
-description: "Enhance your algorithmic trading strategies with Request for Quote (RFQ) to access better liquidity, competitive pricing, and improved trade execution efficiency."
+title: Understanding The Request For Quote RFQ Process In Procurement
+description: Request for Quote guides buyers through defining requirements and comparing
+  supplier quotes to secure optimal pricing and fairness Discover more inside.
 ---
 
 

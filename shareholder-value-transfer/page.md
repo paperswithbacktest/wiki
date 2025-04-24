@@ -1,6 +1,7 @@
 ---
-title: "Shareholder Value Transfer"
-description: "understood and executed. By optimizing trading strategies and minimizing errors, algorithmic trading plays a crucial role in enhancing shareholder value and market efficiency."
+title: Optimizing Shareholder Value Transfer for Sustainable Growth
+description: Shareholder Value Transfer helps companies distribute profits via dividends
+  and buybacks balancing growth and risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Risk Tolerance"
-description: "Explore how understanding risk tolerance in algorithmic trading impacts investment strategies asset allocation and portfolio management for enhanced financial outcomes"
+title: Understanding Risk Tolerance in Financial Planning
+description: Risk tolerance guides your financial decisions by matching your comfort
+  level with investment options and market fluctuations. Discover more inside.
 ---
 
 

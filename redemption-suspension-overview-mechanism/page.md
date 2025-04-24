@@ -1,6 +1,7 @@
 ---
-title: "Redemption Suspension: Overview and Mechanism"
-description: "Explore the intricate dynamics of redemption suspensions in hedge funds and the impact of algorithmic trading on financial regulation and investor confidence."
+title: Understanding Redemption Suspension in Investment Funds
+description: Redemption suspension lets funds protect liquidity by pausing withdrawals
+  during market stress while preserving investor value Discover more inside
 ---
 
 

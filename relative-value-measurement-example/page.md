@@ -1,6 +1,7 @@
 ---
-title: "Relative Value: Measurement and Example"
-description: "Explore how valuation metrics like Economic Value Added and Relative Value enhance algorithmic trading strategies, boosting decision-making and risk management."
+title: Relative Value Insights For Informed Investment Decision Making
+description: Relative Value shows how to compare investments using metrics like P/E
+  ratios price to book and yield to make smarter decisions Discover more inside.
 ---
 
 

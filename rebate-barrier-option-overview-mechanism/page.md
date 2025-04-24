@@ -1,6 +1,7 @@
 ---
-title: "Rebate Barrier Option: Overview and Mechanism"
-description: "Explore the world of rebate barrier options in algorithmic trading and learn how these exotic options provide risk management and trading strategy advantages."
+title: Rebate Barrier Options A Comprehensive Guide for Investors
+description: Rebate barrier options offer a safety net by refunding part of your premium
+  if the barrier is unmet while enabling targeted exposure Discover more inside
 ---
 
 

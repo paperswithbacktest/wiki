@@ -1,6 +1,7 @@
 ---
-title: "Share Buybacks and Redemptions"
-description: "Explore effective financial strategies like share buybacks and redemptions. Learn how algorithmic trading optimizes these tactics to enhance shareholder value."
+title: Understanding Share Buybacks and Redemptions for Investors
+description: Share buybacks and redemptions reshape equity by reducing outstanding
+  shares boosting value and improving EPS and optimizing ownership Discover more inside
 ---
 
 

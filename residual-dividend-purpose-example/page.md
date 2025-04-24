@@ -1,6 +1,7 @@
 ---
-title: "Residual Dividend: Purpose and Example"
-description: "Explore the strategic residual dividend policy in corporate finance to prioritize growth reinvestment before shareholder payouts, enhancing long-term value."
+title: Understanding Residual Dividend Policy in Corporate Finance
+description: Residual Dividend Policy ensures companies fund growth before rewarding
+  shareholders with leftover profits for balanced returns Discover more inside.
 ---
 
 

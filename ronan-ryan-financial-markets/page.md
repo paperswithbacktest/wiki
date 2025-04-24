@@ -1,6 +1,7 @@
 ---
-title: "Ronan Ryan: Key Figure in Financial Markets"
-description: "Explore Ronan Ryan's pivotal role in advocating for fair trading practices, addressing imbalances in high-frequency trading, and enhancing market integrity."
+title: Ronan Ryan Bassist and Producer Behind God Is an Astronaut
+description: Ronan Ryan applies his engineering skills as bassist and producer for
+  God Is an Astronaut to craft immersive post-rock soundscapes Discover more inside
 ---
 
 

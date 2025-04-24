@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 25: Purpose and Considerations"
-description: "Understanding SEC Form 25 and its implications is crucial for businesses navigating delisting decisions and leveraging algo trading in a dynamic financial environment."
+title: Understanding SEC Form 25 Delisting Requirements and Process
+description: SEC Form 25 explains how companies delist shares with a 10 day waiting
+  period and investor alerts ensuring smooth transition Discover more inside
 ---
 
 

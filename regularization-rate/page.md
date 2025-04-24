@@ -1,6 +1,7 @@
 ---
-title: "Regularization Rate (Machine Learning)"
-description: "Discover how regularization in machine learning prevents overfitting by adding a penalty to model complexity Explore L1 and L2 techniques and their impact"
+title: Understanding Regularization Rate in Machine Learning Models
+description: Regularization rate controls model complexity to prevent overfitting
+  while maintaining accuracy in machine learning models. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Sheep as a Pejorative for Herd-Like Investor Behavior"
-description: "Explore the psychological forces driving herd-like investor behavior and their impact on financial markets, and understand algorithmic trading's role in these dynamics."
+title: Understanding Herd Mentality In Investing And Market Bubbles
+description: Herd Mentality in Investing can fuel asset bubbles and rapid crashes
+  but you can avoid losses with clear research and strategy Discover more inside
 ---
 
 

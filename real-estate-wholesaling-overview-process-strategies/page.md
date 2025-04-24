@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Wholesaling: Overview, Process, and Strategies"
-description: "Discover real estate wholesaling strategies and processes for fast-paced investment opportunities. Learn about the benefits of algo trading and property investment."
+title: Real Estate Wholesaling Guide Steps Strategies and Legal Tips
+description: Real estate wholesaling lets you secure low cost deals, assign contracts
+  for profit and handle legal and marketing processes smoothly Discover more inside
 ---
 
 

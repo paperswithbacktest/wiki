@@ -1,6 +1,7 @@
 ---
-title: "Random Walk Theory"
-description: "Explore the significance of Random Walk Theory in finance and its influence on algorithmic trading. Understand how this theory posits that stock prices follow an unpredictable path, which impacts market efficiency and investment strategies. Discover how algorithmic trading leverages this randomness to enhance decision-making and potentially improve trading performance, while emphasizing the importance of disciplined, data-driven approaches in navigating market dynamics."
+title: Random Walk Theory Explained For Effective Portfolio Investing
+description: Random Walk Theory highlights how stock prices move unpredictably and
+  why a diversified index fund strategy secures market returns Discover more inside
 ---
 
 

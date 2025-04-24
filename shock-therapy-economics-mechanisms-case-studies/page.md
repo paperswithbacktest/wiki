@@ -1,6 +1,7 @@
 ---
-title: "Shock Therapy in Economics: Mechanisms and Case Studies"
-description: "Explore the intersection of economic shock therapy and algorithmic trading, analyzing their impact on market efficiency and reform in transitioning economies."
+title: Shock Therapy in Economics Comprehensive Guide and Analysis
+description: Shock therapy in economics outlines rapid market reforms price liberalization
+  privatization and case studies for insights Discover more inside
 ---
 
 

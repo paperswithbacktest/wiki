@@ -1,6 +1,7 @@
 ---
-title: "Ratio Call Write"
-description: "Explore the ratio call write strategy in options trading Learn how algorithmic trading optimizes this high-risk approach to maximize income from premiums"
+title: Mastering Ratio Call Write Strategy for Consistent Option Income
+description: Ratio Call Write strategy helps you generate extra premium income while
+  managing risk in stable markets Discover more inside
 ---
 
 

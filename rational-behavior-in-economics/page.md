@@ -1,6 +1,7 @@
 ---
-title: "Rational Behavior in Economics"
-description: "Explore how rational behavior in economics intertwines with algo trading enhancing market strategies with technology to optimize financial decisions."
+title: Principles of Rational Behavior in Economic Decision Making
+description: Rational behavior in economics shows how people make utility maximizing
+  choices with limited information and real world constraints Discover more inside
 ---
 
 

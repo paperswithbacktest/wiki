@@ -1,6 +1,7 @@
 ---
-title: "Sensitivity analysis"
-description: Discover how sensitivity analysis in algorithmic trading can enhance the reliability and resilience of trading strategies. This essential tool allows traders to optimize strategies by systematically varying input parameters and observing their effects on performance. From seasoned traders to beginners, understanding sensitivity analysis offers significant insights, enabling informed decision-making and strategic adjustments. Learn about key techniques like Monte Carlo simulations and parameter optimization, and explore how platforms like Build Alpha provide advanced resources for conducting these analyses effectively. Unlock the potential for long-term success in algo trading with robust strategy development.
+title: Understanding Sensitivity Analysis for Better Decision Making
+description: Sensitivity analysis reveals which variables most affect your model outcomes
+  so you can make informed decisions and plan for risks Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Richmond Manufacturing Index Overview"
-description: "Explore the Richmond Manufacturing Index and its impact on algorithmic trading This key economic indicator informs investment strategies with insights from manufacturing activity"
+title: Richmond Manufacturing Index Explained and Its Economic Impact
+description: Richmond Manufacturing Index tracks factory orders shipments and hiring
+  in the Fifth Fed District to inform investors and policymakers Discover more inside
 ---
 
 

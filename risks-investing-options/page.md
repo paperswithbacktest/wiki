@@ -1,6 +1,7 @@
 ---
-title: "Risks of Investing in Options"
-description: "Explore the risks associated with investing in options and algorithmic trading including market, liquidity, and counterparty risk for effective strategy execution."
+title: Managing Options Trading Risk With Proven Strategies
+description: Options trading risk demands a clear grasp of leverage time decay and
+  volatility to manage risk; apply hedging spreads, stop losses Discover more inside.
 ---
 
 

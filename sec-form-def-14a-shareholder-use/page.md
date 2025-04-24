@@ -1,6 +1,7 @@
 ---
-title: "SEC Form DEF 14A for Shareholder Use"
-description: "Explore how SEC Form DEF 14A intersects with shareholder decisions and algorithmic trading to enhance informed voting on corporate governance issues."
+title: Understanding SEC Form DEF 14A Definitive Proxy Statement
+description: SEC Form DEF 14A provides shareholders proxy and meeting insights on
+  leadership pay and performance outlook to guide informed voting Discover more inside
 ---
 
 

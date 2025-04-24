@@ -1,6 +1,7 @@
 ---
-title: "Regulatory Measures Post-2008 Financial Crisis"
-description: "Explore the impact of regulatory measures post-2008 crisis on algorithmic trading as governments sought to enhance transparency and market stability."
+title: Understanding Post-2008 Financial Regulation and Reform Measures
+description: Post-2008 financial regulation reinforces bank capital stress tests and
+  oversight to secure the system and protect consumers Discover more inside
 ---
 
 

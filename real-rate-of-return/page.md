@@ -1,6 +1,7 @@
 ---
-title: "Real Rate of Return"
-description: "Discover the impact of inflation on your investments with insights on real rate of return and how algorithmic trading helps optimize inflation-adjusted gains."
+title: Understanding the Real Rate of Return for Investors
+description: Real rate of return reveals how much your investments truly grow after
+  inflation and taxes so you can plan confidently. Discover more inside.
 ---
 
 

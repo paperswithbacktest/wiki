@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Agent Roles and Compensation"
-description: "Discover the evolving roles and compensation models for real estate agents as technology and algorithmic trading redefine industry dynamics and transaction processes."
+title: Understanding the Role and Benefits of a Real Estate Agent
+description: Real estate agent guidance simplifies buying and selling from pricing
+  strategy and market analysis to negotiations and paperwork. Discover more inside.
 ---
 
 

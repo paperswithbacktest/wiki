@@ -1,6 +1,7 @@
 ---
-title: "Reinforcement learning for order execution"
-description: "Explore the transformative impact of reinforcement learning on order execution in algorithmic trading. Discover how AI-driven strategies optimize trade efficiency and profitability."
+title: Reinforcement Learning for Optimized Order Execution in Trading
+description: Reinforcement learning optimizes order execution by minimizing market
+  impact and boosting fill prices with real-time feedback. Discover more inside.
 ---
 
 

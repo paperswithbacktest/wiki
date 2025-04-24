@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between Neoclassical Economics and Neoliberalism"
-description: "Explore the intricate link between neoclassical economics and neoliberalism in shaping modern financial systems and the evolution of algorithmic trading."
+title: Neoclassical Economics Underpinning Neoliberal Policy
+description: Neoclassical economics explores how rational choice and supply demand
+  shaped neoliberal policies to foster market competition Discover more inside.
 ---
 
 

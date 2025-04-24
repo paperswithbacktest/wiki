@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between Marginal Revenue and Total Revenue"
-description: "Discover the relationship between marginal revenue and total revenue in the context of algorithmic trading. Explore how these economic concepts influence pricing decisions and profitability in modern market dynamics. Learn how algo trading leverages these principles for strategic trading outcomes and gain valuable insights to enhance your financial strategies."
+title: Understanding Marginal Revenue and Total Revenue Calculations
+description: Marginal revenue shows how much extra money each additional sale adds
+  and guides pricing and production decisions for higher profits Discover more inside
 ---
 
 

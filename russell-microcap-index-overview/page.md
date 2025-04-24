@@ -1,6 +1,7 @@
 ---
-title: "Russell Microcap Index Overview"
-description: "Explore the Russell Microcap Index and the role of algo trading in microcap markets Learn about investment opportunities and risks associated with microcap stocks"
+title: Understanding the Russell Microcap Index for Investors
+description: Russell Microcap Index tracks the performance of the smallest 1000 US
+  companies giving investors insight on microcap growth and risk. Discover more inside
 ---
 
 

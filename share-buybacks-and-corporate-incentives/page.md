@@ -1,6 +1,7 @@
 ---
-title: "Share Buybacks and Corporate Incentives"
-description: "Discover how share buybacks and algorithmic trading influence corporate finance Learn strategies to enhance shareholder value while adapting to market changes"
+title: Share Buybacks Explained How Firms Enhance Shareholder Value
+description: Share buybacks let companies invest in themselves by cutting share counts
+  and boosting EPS to increase shareholder value Discover more inside
 ---
 
 

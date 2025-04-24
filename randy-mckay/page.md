@@ -1,6 +1,8 @@
 ---
-title: "Randy McKay: A Trading Legend"
-description: Discover the impressive journey of Randy McKay, a trading legend known for his transformative strategies in the investment world. With a career spanning over 30 years, McKay has turned modest sums into multi-million dollar successes, earning him a place in "New Market Wizards." Learn how his methodologies have influenced both novice and seasoned traders, and explore the impact of his strategies on algorithmic trading. Gain insight into his trading philosophy, notable achievements, and the innovative approaches that continue to inspire the trading community.
+title: Randy McKay Trading Strategies Risk Management Technical Analysis
+description: Randy McKay trading strategies emphasize disciplined risk management
+  and clear trading plans while leveraging technical analysis tools Discover more
+  inside.
 ---
 
 

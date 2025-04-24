@@ -1,6 +1,7 @@
 ---
-title: "SEC Form S-6"
-description: "Discover how SEC Form S-6 regulates the fast-evolving world of algo trading by ensuring transparency and protecting investor interests in algorithm-driven UITs."
+title: Complete Guide to SEC Form S-6 for Unit Investment Trusts
+description: SEC Form S-6 registration guide covers requirements processes fees and
+  risks to ensure compliant unit investment trust filings Discover more inside
 ---
 
 

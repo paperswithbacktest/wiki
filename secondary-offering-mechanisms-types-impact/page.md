@@ -1,6 +1,7 @@
 ---
-title: "Secondary Offering: Mechanisms, Types, and Impact"
-description: "Explore the mechanisms and impact of secondary offerings in the stock market emphasizing the role of algorithmic trading in managing these complex equity issuances."
+title: Understanding Secondary Offerings in Corporate Finance
+description: Secondary offering overview shows how dilutive and non-dilutive share
+  sales raise capital while guiding investors on potential impacts Discover more inside
 ---
 
 

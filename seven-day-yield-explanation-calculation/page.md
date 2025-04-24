@@ -1,6 +1,7 @@
 ---
-title: "Seven-Day Yield: Explanation and Calculation"
-description: "Learn about the seven-day yield a crucial metric in money market funds used to assess short-term performance and project annualized returns for informed investing."
+title: Understanding Seven Day Yield in Money Market Funds
+description: Seven Day Yield shows weekly earnings annualized for money market funds
+  to help investors compare performance to make informed choices Discover more inside
 ---
 
 

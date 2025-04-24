@@ -1,6 +1,7 @@
 ---
-title: "Request For Quotes"
-description: "Explore Request for Quotes trading in algorithmic finance to enhance trade efficiency liquidity and pricing strategies amidst dynamic financial markets."
+title: RFQ Process Explained Understanding Request For Quotes
+description: RFQ guides you through each step of the request for quotes process from
+  drafting clear requirements to evaluating supplier responses Discover more inside.
 ---
 
 

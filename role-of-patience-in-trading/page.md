@@ -1,6 +1,7 @@
 ---
-title: "Role of Patience in Trading"
-description: "Explore the critical role of patience in trading and algorithmic trading Discover how patience can enhance trade execution, decision-making, and profitability in volatile markets"
+title: Mastering Patience in Trading for Consistent Success
+description: Patience in trading empowers beginners to wait for optimal entry and
+  exit points, stick to plans and manage risk effectively Discover more inside
 ---
 
 

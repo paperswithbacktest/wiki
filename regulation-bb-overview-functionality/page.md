@@ -1,6 +1,7 @@
 ---
-title: "Regulation BB: Overview and Functionality"
-description: "Explore Regulation BB and its impact on fair lending practices in financial institutions. Understand the regulatory landscape of algorithmic trading and its challenges."
+title: Understanding Regulation BB Requirements and Impacts
+description: Regulation BB ensures banks and credit unions disclose fees and services
+  clearly to protect consumers and promote financial inclusion Discover more inside
 ---
 
 

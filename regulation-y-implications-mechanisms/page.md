@@ -1,6 +1,7 @@
 ---
-title: "Regulation Y: Implications and Mechanisms"
-description: "Explore Regulation Y's impact on bank governance and its relevance to algorithmic trading Risk management and capital adequacy align trading with regulatory standards"
+title: Regulation Y Guidelines for Bank Holding Company Compliance
+description: Regulation Y ensures safe bank holding company operations by defining
+  change in control and acquisition rules and reserve requirements Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Risks Common to All Stocks"
-description: "Explore the risks common to all stocks in algo trading with a focus on managing financial, investment, and market risks to safeguard investments وتسري الكهرباء خلالها لتتحرك وتضيء المصباح."
+title: Essential Stock Market Risks Every Investor Should Know
+description: Stock market risks stem from volatility inflation and rate shifts. Use
+  smart strategies to manage exposure and protect returns. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Limited Partnership"
-description: "Explore the synergy between Real Estate Limited Partnerships and algorithmic trading for savvy investment strategies using pooled resources and tech-driven insights."
+title: Understanding Real Estate Limited Partnerships for Investors
+description: Real Estate Limited Partnership investing lets you pool capital to acquire
+  larger properties, share profits and manage risks Discover more inside.
 ---
 
 

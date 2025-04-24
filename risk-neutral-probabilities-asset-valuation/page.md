@@ -1,6 +1,7 @@
 ---
-title: "Risk-Neutral Probabilities and Their Role in Asset Valuation"
-description: "Explore the significance of risk-neutral probabilities in asset valuation and algorithmic trading This article examines their role in fair pricing of derivatives"
+title: Understanding Risk-Neutral Probabilities in Option Pricing
+description: Risk-neutral probabilities streamline option pricing by focusing on payoffs
+  discounted at the risk free rate to set fair values Discover more inside
 ---
 
 

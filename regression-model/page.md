@@ -1,6 +1,7 @@
 ---
-title: "Regression Model (Machine Learning)"
-description: "Discover how regression models in machine learning predict continuous outcomes with algorithms like linear and polynomial regression for accurate forecasting."
+title: Understanding Regression Models in Machine Learning
+description: Regression Models explained including linear logistic and regularized
+  methods Evaluate performance with MSE and R squared Discover more inside
 ---
 
 

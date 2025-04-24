@@ -1,6 +1,7 @@
 ---
-title: "SEC Form F-10: Overview and Requirements"
-description: "Learn about SEC Form F-10 for Canadian issuers offering securities in the U.S. Explore its role, requirements, and impact on cross-border trading."
+title: Understanding SEC Form F-10 for Canadian Securities Registration
+description: SEC Form F-10 helps Canadian companies register securities in the US
+  under MJDS accounting rules for efficient cross border offerings Discover more inside
 ---
 
 

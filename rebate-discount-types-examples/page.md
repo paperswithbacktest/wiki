@@ -1,6 +1,7 @@
 ---
-title: "Rebate and Discount: Types and Examples"
-description: "Discover the strategic role of rebates in algo trading. Explore how rebate and discount models can enhance profitability and market strategies."
+title: Understanding Rebates and Discounts For Consumers and Businesses
+description: Rebates and discounts help you save money with clear definitions, benefits,
+  types, and strategies for consumers and businesses. Discover more inside.
 ---
 
 

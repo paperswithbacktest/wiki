@@ -1,6 +1,7 @@
 ---
-title: "Sensato Investors"
-description: "Discover how Sensato Investors combines cutting-edge algorithms and traditional investment strategies in algorithmic trading to optimize returns and efficiency."
+title: Sensato Investors Sustainable Impact and ESG Investing Strategies
+description: Sensato Investors delivers sustainable impact investment strategies that
+  align financial growth with ESG goals through expert research Discover more inside
 ---
 
 

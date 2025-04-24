@@ -1,6 +1,7 @@
 ---
-title: "Short Date Forward Contracts"
-description: "Explore short date forward contracts and their integration with algorithmic trading Learn how these financial instruments enhance market efficiency and risk management"
+title: Understanding Short Date Forward Contracts for Risk Management
+description: Short Date Forward Contract helps businesses and farmers lock in prices
+  for near-term assets to manage risk and budget confidently Discover more inside.
 ---
 
 

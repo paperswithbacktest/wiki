@@ -1,6 +1,8 @@
 ---
-title: "SEC Form PRE 14A: Overview and Requirements"
-description: "The SEC Form PRE 14A plays a crucial role in corporate governance by providing shareholders with essential information for informed voting before key company meetings."
+title: Understanding SEC Form PRE 14A Preliminary Proxy Statement
+description: SEC Form PRE 14A explains key meeting details directors compensation
+  and voting issues in clear language to help shareholders prepare and make informed
+  decisions Discover more inside
 ---
 
 

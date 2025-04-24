@@ -1,6 +1,7 @@
 ---
-title: "Requirement of Demat Accounts for Mutual Funds"
-description: "Explore how demat accounts, mutual funds, and algorithmic trading integrate to optimize your investment strategies, enhancing efficiency and diversification."
+title: Benefits and Process of Holding Mutual Funds in Demat Account
+description: Demat account mutual funds let you track all investments in one place
+  and speed up transactions with electronic convenience Discover more inside
 ---
 
 

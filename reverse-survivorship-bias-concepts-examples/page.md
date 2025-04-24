@@ -1,6 +1,7 @@
 ---
-title: "Reverse Survivorship Bias: Concepts and Examples"
-description: "Discover the intricacies of reverse survivorship bias in algorithmic trading Understand how this overlooked bias affects decision-making and strategy refinement"
+title: Understanding Reverse Survivorship Bias for Better Decisions
+description: Reverse survivorship bias distorts insights by focusing on failures and
+  omitting successes in business finance and investing Discover more inside.
 ---
 
 

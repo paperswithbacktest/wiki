@@ -1,6 +1,7 @@
 ---
-title: "Relu (Machine Learning)"
-description: "ReLU, or Rectified Linear Unit, is a widely used activation function in neural networks. It is simple to compute and helps address the vanishing gradient problem, enhancing learning efficiency."
+title: Understanding ReLU Activation Function in Neural Networks
+description: ReLU activation function boosts neural network training by preventing
+  vanishing gradients and accelerating convergence for deep models Discover more inside
 ---
 
 

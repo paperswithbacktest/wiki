@@ -1,6 +1,7 @@
 ---
-title: "Roy's safety-first criterion"
-description: Explore Roy's safety-first criterion, a vital risk management method for algorithmic trading, focusing on minimizing the probability of returns dropping below a minimum acceptable return. This structured framework enhances investment protection against volatile markets, ensuring algorithmic decisions prioritize capital safety.
+title: Roy's Safety-First Criterion for Safer Investment Decisions
+description: Roy's Safety-First Criterion helps investors minimize the chance of losses
+  beyond a set disaster level and protect capital effectively. Discover more inside.
 ---
 
 

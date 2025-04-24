@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-Q Overview"
-description: "Explore the evolution of SEC Form N-Q and its replacement by Form N-PORT, highlighting changes in reporting frequency and data transparency for investment companies."
+title: Understanding SEC Form N-Q Quarterly Portfolio Holdings Report
+description: SEC Form N-Q gives investors quarterly transparency into mutual fund
+  holdings stock bond allocations and portfolio changes Discover more inside
 ---
 
 

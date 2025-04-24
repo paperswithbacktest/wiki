@@ -1,6 +1,7 @@
 ---
-title: "Responsibility for Shareholders' Interests"
-description: "Explore the interplay between shareholder interests, corporate responsibility, and algo trading in today's financial markets to gain insights on market dynamics."
+title: "Protecting Shareholders\u2019 Interests Through Effective Governance"
+description: "Responsibility for shareholders\u2019 interests guides companies toward\
+  \ transparent reporting effective governance and value creation Discover more inside"
 ---
 
 

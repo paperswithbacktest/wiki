@@ -1,6 +1,7 @@
 ---
-title: "Sell in May and Go Away: Overview and Analysis"
-description: "Explore the potential of combining the \"Sell in May and Go Away\" strategy with algorithmic trading to optimize stock market performance. This article investigates into how algorithmic systems can enhance traditional investment strategies by leveraging historical trends, minimizing emotional bias, and maximizing trade efficiency. Discover the advantages of using predefined criteria for timely market entries and exits, and learn how technology can help investors refine their approaches to respond to evolving market dynamics and improve portfolio management."
+title: Sell in May and Go Away Investment Strategy Explained
+description: Sell in May and Go Away offers a seasonal investing framework backed
+  by data so you can manage risk and optimize timing Discover more inside.
 ---
 
 

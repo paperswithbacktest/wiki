@@ -1,6 +1,7 @@
 ---
-title: "Retiree Dividend Reinvestment Considerations"
-description: "Explore retiree investment strategies with dividend reinvestment and algorithmic trading to boost portfolio growth with automated, efficient financial planning."
+title: Dividend Reinvestment Strategies for Retirees Seeking Growth
+description: Dividend reinvestment helps retirees grow savings through compounding
+  yields and manage inflation while balancing income needs. Discover more inside.
 ---
 
 

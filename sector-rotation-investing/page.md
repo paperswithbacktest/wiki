@@ -1,6 +1,7 @@
 ---
-title: "Sector Rotation in Investing"
-description: "Discover how sector rotation and algorithmic trading unite to enhance investment strategies by leveraging economic cycles and advanced technology in financial markets."
+title: Sector Rotation Strategies for Investing Across Economic Cycles
+description: Sector rotation helps investors shift funds into sectors best suited
+  for each stage of the economic cycle while managing risk Discover more inside
 ---
 
 

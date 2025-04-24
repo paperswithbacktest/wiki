@@ -1,6 +1,7 @@
 ---
-title: "Robert F. Engle III: Nobel Prize in Economics"
-description: "Discover Robert F. Engle III’s groundbreaking ARCH model that revolutionized financial volatility modeling earning him the Nobel Prize and transforming algorithmic trading."
+title: Robert F. Engle and the ARCH Model Revolution in Finance
+description: Robert F. Engle pioneered ARCH model to forecast market volatility and
+  strengthen risk management practices for banks and investors Discover more inside
 ---
 
 

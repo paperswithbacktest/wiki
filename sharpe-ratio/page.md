@@ -1,6 +1,7 @@
 ---
-title: "Sharpe ratio"
-description: Explore the role of the Sharpe Ratio in algorithmic trading as it helps traders balance risk and return effectively. This essential metric, introduced by Nobel laureate William F. Sharpe, evaluates investment performance by assessing excess returns against risk-free rates adjusted for volatility. The article investigates into how the Sharpe Ratio aids traders in identifying efficient trading strategies by measuring risk-adjusted returns, thus enhancing decision-making in complex algorithmic trading environments. Understanding these dynamics is crucial for developing sustainable and profitable trading methodologies in financial markets.
+title: Understanding the Sharpe Ratio for Risk-Adjusted Returns
+description: Sharpe Ratio reveals the return you earn per unit of risk in your investments
+  to compare strategies and choose efficient portfolios Discover more inside.
 ---
 
 

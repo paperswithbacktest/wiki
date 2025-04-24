@@ -1,6 +1,7 @@
 ---
-title: "Risk-return spectrum"
-description: "Explore the risk-return spectrum in algorithmic trading to balance financial gains against potential losses with strategic risk management and informed decisions."
+title: Navigating the Risk-Return Spectrum For Informed Investing
+description: Risk-return spectrum insights help investors balance potential rewards
+  with risk across asset classes and set realistic goals Discover more inside
 ---
 
 

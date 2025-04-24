@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Investing for Beginners"
-description: "Explore real estate investing for beginners with a focus on algorithmic trading Discover strategies to enhance returns and navigate the market confidently"
+title: Real Estate Investing Strategies For Beginners To Build Wealth
+description: Real estate investing gives beginners a clear roadmap on financing market
+  analysis property management and tax planning Discover more inside.
 ---
 
 

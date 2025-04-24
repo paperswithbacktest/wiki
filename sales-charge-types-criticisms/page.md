@@ -1,6 +1,7 @@
 ---
-title: "Sales Charge: Types and Criticisms"
-description: "Explore the impact of sales charges on investments learn about their types and criticisms and discover how algorithmic trading can help mitigate these costs"
+title: Understanding Mutual Fund Sales Charges And Their Impact
+description: Sales charge fees reduce mutual fund returns. This guide breaks down
+  front end back end and level loads to help pick the right fund Discover more inside
 ---
 
 

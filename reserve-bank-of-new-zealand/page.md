@@ -1,6 +1,7 @@
 ---
-title: "Reserve Bank of New Zealand"
-description: "Explore the Reserve Bank of New Zealand's vital role in economic stability focusing on monetary policy and the impact of algorithmic trading on financial markets."
+title: Reserve Bank of New Zealand Functions and Economic Stability
+description: Reserve Bank of New Zealand secures financial stability with monetary
+  policy tools interest rate management and bank regulation Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Reflexivity: Mechanisms, History, and Theoretical Perspectives"
-description: "Explore the transformative impact of reflexivity theory in finance and its significant role in the rise of algorithmic trading. This article investigates into the feedback loops between investors' perceptions and market fundamentals, challenging traditional economic views. It highlights George Soros's pivotal contributions and examines the evolution of algorithmic trading, from its origins to its profound influence on modern financial strategies. Discover the interplay between reflexivity and technology that shapes financial markets today."
+title: Understanding Reflexivity in Social Science Research
+description: Reflexivity in social sciences helps researchers examine personal biases
+  in their work boost transparency for more reliable findings Discover more inside
 ---
 
 

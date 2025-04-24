@@ -1,6 +1,7 @@
 ---
-title: "Revenue Anticipation Note"
-description: "Explore how municipalities utilize Revenue Anticipation Notes and algorithmic trading to enhance fiscal management and secure short-term funding effectively."
+title: Understanding Revenue Anticipation Notes for Government Financing
+description: Revenue Anticipation Notes provide short term funding before tax revenues
+  arrive to maintain services and streamline budgeting Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Reserve Bank of Australia: Overview and History"
-description: "Discover the Reserve Bank of Australia's role in shaping economic policies and examine the rise of algorithmic trading that influences global financial systems."
+title: Reserve Bank of Australia Roles and Monetary Policy Explained
+description: Reserve Bank of Australia manages the Australian money supply and interest
+  rates to stabilise prices and promote growth Discover more inside
 ---
 
 

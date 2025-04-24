@@ -1,6 +1,7 @@
 ---
-title: "Risk Assets: Examples From Stocks to Cryptocurrencies"
-description: "Explore the dynamic world of risk assets including stocks and cryptocurrencies and discover how algorithmic trading is transforming investment strategies for better risk management."
+title: 'Risk Assets Explained: Stocks Cryptocurrencies And Commodities'
+description: Risk assets include stocks cryptocurrencies and commodities balance risk
+  and reward through diversification and hedging Discover more inside
 ---
 
 

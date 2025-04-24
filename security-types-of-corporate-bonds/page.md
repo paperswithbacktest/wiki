@@ -1,6 +1,7 @@
 ---
-title: "Security Types of Corporate Bonds"
-description: "Explore security types of corporate bonds and how algorithmic trading enhances efficiency Learn about secured vs unsecured bonds seniority features and recovery rates"
+title: Understanding Corporate Bond Security and Its Main Types
+description: Corporate bond security protects investors by backing bonds with assets
+  and covenants for added protection in market investments Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Selling Away: Process and Example"
-description: "Explore the dynamics of selling away in algo trading amidst evolving financial guidelines Understand investment advising and the role of financial regulations"
+title: Understanding Selling Away Risks and Compliance Requirements
+description: Selling away exposes investors to unapproved assets without oversight
+  and risks legal action. Find out how to protect your portfolio Discover more inside
 ---
 
 

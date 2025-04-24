@@ -1,6 +1,7 @@
 ---
-title: "Relative Strength Index in Forex Trading"
-description: "Explore the use of the Relative Strength Index in algorithmic Forex trading for better entry and exit points Learn how RSI enhances trade performance"
+title: Mastering Relative Strength Index in Forex Trading
+description: Relative Strength Index helps forex traders spot overbought and oversold
+  conditions and anticipate trend reversals with clear signals Discover more inside.
 ---
 
 

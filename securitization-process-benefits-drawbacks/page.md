@@ -1,6 +1,7 @@
 ---
-title: "Securitization: Process, Benefits, and Drawbacks"
-description: "Explore the complex world of securitization and algorithmic trading Discover how these financial processes impact market dynamics while balancing innovation and risk."
+title: 'Understanding Securitization: Process, Benefits and Risks'
+description: Securitization turns loans into tradable assets to free capital, spread
+  risk and boost lending power for banks and investors alike Discover more inside
 ---
 
 

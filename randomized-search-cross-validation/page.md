@@ -1,6 +1,8 @@
 ---
-title: "Randomized search cross-validation"
-description: Explore the role of randomized search cross-validation in optimizing algorithmic trading strategies. This method enhances predictive model performance through efficient hyperparameter tuning, crucial in the dynamic and data-intensive financial markets. Unlike exhaustive grid searches, randomized search explores randomly selected parameter subsets, saving computational resources while maintaining accuracy. Understanding its implementation can give traders a strategic advantage by creating robust and adaptable models for better decision-making and profitability amidst complex market conditions.
+title: Randomized Search Cross Validation Techniques for Model Optimization
+description: Randomized search cross validation speeds up hyperparameter tuning by
+  sampling parameter combinations and validating performance in repeated folds Discover
+  more inside
 ---
 
 

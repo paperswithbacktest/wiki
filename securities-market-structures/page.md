@@ -1,6 +1,7 @@
 ---
-title: "Securities Market Structures"
-description: "Explore the complexities of securities market structures and algorithmic trading Learn how financial markets operate optimize strategies and aid economic growth"
+title: Comprehensive Guide to Securities Market Structures and Functions
+description: Securities market insights on primary and secondary markets dark pools
+  and electronic trading help investors make informed choices Discover more inside
 ---
 
 

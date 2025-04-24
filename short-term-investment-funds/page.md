@@ -1,6 +1,7 @@
 ---
-title: "Short-Term Investment Funds"
-description: "Explore the synergy of short-term investment funds and algorithmic trading for liquidity, efficiency, and strategic financial management in modern finance."
+title: Short-Term Investment Funds Explained Professional Guide
+description: Short-Term Investment Funds offer stable returns by investing in safe
+  securities with quick access and low risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Regulation O in Banking: Purpose, Applications, and Requirements"
-description: "Explore Regulation O in banking and its impact on insider credit regulations and algorithmic trading compliance to ensure financial stability and fairness."
+title: Regulation O Protects Fair Loan Terms for Bank Insiders
+description: Regulation O enforces equal lending terms and borrowing limits for bank
+  insiders to maintain fairness and stability Discover key insights inside.
 ---
 
 

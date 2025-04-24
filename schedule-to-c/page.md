@@ -1,6 +1,7 @@
 ---
-title: "Schedule TO-C"
-description: "Explore the intersection of Schedule TO-C filings, tender offers, and algorithmic trading in financial markets. Learn how compliance guides transparency and investor protection."
+title: Understanding Schedule TO-C Requirements for SEC Tender Offers
+description: Schedule TO-C outlines the SEC filing process share buyback requirements
+  and risk disclosures to ensure compliance and transparency Discover more inside
 ---
 
 

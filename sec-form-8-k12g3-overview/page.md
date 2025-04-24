@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 8-K12G3 Overview"
-description: "Explore the significance of SEC Form 8-K12G3 in notifying new security issuers post-merger and its crucial role in algorithmic trading strategies and market transparency."
+title: Understanding SEC Form 8-K12G3 Exemption Reporting Requirements
+description: SEC Form 8-K12G3 alerts investors when securities become exempt from
+  reporting rules, ensuring compliance and transparency Discover more inside.
 ---
 
 

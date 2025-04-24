@@ -1,6 +1,7 @@
 ---
-title: "SEC Rule 144: Holding Periods and Regulations"
-description: "Explore the complexities of SEC Rule 144, crucial for navigating holding periods and regulations in algo trading Ensure compliance while optimizing trading strategies"
+title: Understanding SEC Rule 144 Resale Requirements for Securities
+description: SEC Rule 144 explains how to resell restricted and control securities
+  with holding periods and volume limits to protect fair markets Discover more inside.
 ---
 
 

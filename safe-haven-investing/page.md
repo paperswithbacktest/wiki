@@ -1,6 +1,7 @@
 ---
-title: "Safe Haven in Investing"
-description: "Explore the interplay between safe haven investments and algorithmic trading to enhance portfolio stability and returns during market volatility while minimizing risk."
+title: Navigating Safe Haven Investments In Volatile Markets
+description: Safe Haven Investments offer protection during market downturns by balancing
+  your portfolio with assets like gold bonds and currencies Discover more inside
 ---
 
 

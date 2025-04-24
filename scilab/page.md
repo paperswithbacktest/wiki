@@ -1,6 +1,7 @@
 ---
-title: "Scilab"
-description: Explore the advantages of using Scilab for algorithmic trading and see how this open-source tool offers robust numerical computation capabilities essential for developing efficient trading strategies. With its cost-effective nature and rich features like data visualization and integration with other programming languages, Scilab is ideal for financial modeling and quantitative analysis. Discover how traders and analysts can leverage Scilab's flexibility and functionality to craft sophisticated models and gain a competitive edge in the fast-paced world of algorithmic trading.
+title: Scilab Tutorial for Numerical Computation and Data Analysis
+description: Scilab offers free open-source tools for numerical computing data analysis
+  and visualization with beginner guides to advanced methods Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Rent Guarantee Insurance Overview"
-description: "Discover effective strategies for landlords to secure rental income and protect their investments with rent guarantee insurance and algorithmic trading."
+title: Rent Guarantee Insurance Explained for Landlord Protection
+description: Rent Guarantee Insurance ensures landlords maintain rental income when
+  tenants default by covering unpaid rent and legal fees Discover more inside
 ---
 
 

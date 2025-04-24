@@ -1,6 +1,7 @@
 ---
-title: "Schedule TO-T"
-description: "Explore the complexities of Schedule TO-T and its vital role in tender offers in relation to algorithmic trading ensuring transparency and strategic leverage."
+title: Understanding Schedule TO-T Filings for Tender Offer Compliance
+description: Schedule TO-T filings detail share counts price and timelines for SEC
+  review ensuring transparent tender offers and protect investors Discover more inside
 ---
 
 

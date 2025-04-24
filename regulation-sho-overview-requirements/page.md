@@ -1,6 +1,7 @@
 ---
-title: "Regulation SHO: Overview and Requirements"
-description: "Explore Regulation SHO and its influence on short selling in U.S. markets highlighting its impact on market integrity compliance and the role of algorithmic trading."
+title: Understanding SEC Regulation SHO and Short Selling Rules
+description: Regulation SHO ensures fair short selling by enforcing locate and close-out
+  rules to prevent naked shorts and market disruptions. Discover more inside.
 ---
 
 

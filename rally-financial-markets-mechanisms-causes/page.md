@@ -1,6 +1,7 @@
 ---
-title: "Rally in Financial Markets: Mechanisms and Causes"
-description: "Explore the dynamics of financial market rallies and their causes including economic indicators corporate earnings and government policies. Understand the role of algorithmic trading."
+title: Market Rally Explained Causes Effects And Risks For Investors
+description: Market rally insights cover economic indicators central bank policies
+  investor sentiment and technical signals to guide your timing Discover more inside
 ---
 
 

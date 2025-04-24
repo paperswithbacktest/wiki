@@ -1,6 +1,7 @@
 ---
-title: "Regulation P: Overview and Compliance"
-description: "Explore Regulation P compliance for algorithmic trading Learn how financial institutions handle consumer data under this privacy regulation essential for protecting information"
+title: Regulation P Compliance Guide for Financial Privacy Protection
+description: Regulation P requires financial companies to disclose personal data practices
+  and empower customers to control sharing. Discover more inside.
 ---
 
 

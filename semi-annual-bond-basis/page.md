@@ -1,6 +1,7 @@
 ---
-title: "Semi-Annual Bond Basis"
-description: "Discover the importance of Semi-Annual Bond Basis in bond trading and how algorithmic trading optimizes strategies for comparing yields across different payment schedules."
+title: Understanding Semi-Annual Bond Basis for Fair Yield Comparison
+description: Semi-Annual Bond Basis converts varied bond yields into a semiannual
+  framework so investors can compare returns fairly and easily Discover more inside
 ---
 
 

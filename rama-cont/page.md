@@ -1,6 +1,7 @@
 ---
-title: "Rama Cont"
-description: "Discover the pioneering work of Rama Cont, a leading academic in mathematical finance and algorithmic trading, shaping global research and industry practices."
+title: Rama Cont Stochastic Process Models and Financial Risk Management
+description: Rama Cont applies advanced stochastic analysis in mathematical finance
+  to model market dynamics and improve risk management. Discover more inside.
 ---
 
 

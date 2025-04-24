@@ -1,6 +1,7 @@
 ---
-title: "Resident Alien Status"
-description: "Discover the intersection of U.S. immigration and algorithmic trading. Learn how resident alien status and a U.S. Green Card open doors in the finance sector."
+title: Understanding US Resident Alien Status and Requirements
+description: Resident alien status explains how to secure a US green card and outlines
+  rights responsibilities tax rules and paths to citizenship Discover more inside.
 ---
 
 

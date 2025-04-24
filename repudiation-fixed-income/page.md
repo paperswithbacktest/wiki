@@ -1,6 +1,8 @@
 ---
-title: "Repudiation in Fixed Income"
-description: "Explore the intricacies of fixed income repudiation and the transformative role of algorithmic trading in modern financial markets, enhancing investment strategies."
+title: Understanding Repudiation Risk in Fixed Income Securities
+description: Repudiation in fixed income explains how refusal to honor bond debt affects
+  investors and markets and outlines strategies to manage this risk Discover more
+  inside.
 ---
 
 

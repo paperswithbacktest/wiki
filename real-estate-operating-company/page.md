@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Operating Company"
-description: "Explore the innovative fusion of real estate investments and algorithmic trading offering enhanced strategies for REOCs to optimize portfolios and boost efficiencies."
+title: Real Estate Operating Company Guide To Growth And Operations
+description: Real Estate Operating Company offers flexible property management construction
+  and development strategies to boost investor growth Discover more inside
 ---
 
 

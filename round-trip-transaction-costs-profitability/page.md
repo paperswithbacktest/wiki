@@ -1,6 +1,7 @@
 ---
-title: "Round Trip Transaction Costs and Profitability"
-description: "Explore how transaction costs impact profitability in algorithmic trading, emphasizing the significance of round-trip transactions. This article provides insights into understanding and minimizing transaction costs, including commissions, fees, bid-ask spreads, and market impact costs. By optimizing these costs, traders can enhance net profits and maintain the competitiveness of their trading strategies. Discover strategies for refining execution processes and ensuring efficient, profitable trading outcomes in dynamic market environments."
+title: Understanding Round Trip Transaction Costs and Profit Impact
+description: Round Trip Transaction Costs can erode your profits by adding commissions
+  and spreads Reduce fees to maximize and protect returns Discover more inside
 ---
 
 

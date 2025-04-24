@@ -1,6 +1,7 @@
 ---
-title: "Short Covering in Finance"
-description: "Discover the intricacies of short covering in finance learn how it impacts market dynamics and explore the role of algorithmic trading in optimizing strategies"
+title: Short Covering in Finance Effects Risks and Trading Strategies
+description: Short covering lets traders manage risk and identify potential short
+  squeezes by quickly closing borrowed share positions. Discover more inside.
 ---
 
 

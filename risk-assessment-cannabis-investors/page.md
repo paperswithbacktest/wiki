@@ -1,6 +1,7 @@
 ---
-title: "Risk Assessment of Cannabis Investors"
-description: "Explore the risks and opportunities of investing in the cannabis market through algorithmic trading, understanding regulatory impacts, market volatility, and growth potential."
+title: Navigating Legal and Financial Risks in Cannabis Investing
+description: Cannabis investing involves navigating shifting regulations and market
+  volatility while managing financial and operational risks Discover more inside
 ---
 
 

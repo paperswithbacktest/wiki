@@ -1,6 +1,7 @@
 ---
-title: "Securities Act of 1933: Overview and Impact"
-description: "Explore the impact of the Securities Act of 1933 on modern financial practices, including algorithmic trading, emphasizing transparency and investor protection."
+title: Key Investor Protections Under The Securities Act Of 1933
+description: Securities Act of 1933 demands transparent disclosures and SEC registration
+  to effectively protect investors in public offerings. Discover more inside
 ---
 
 

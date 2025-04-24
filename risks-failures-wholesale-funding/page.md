@@ -1,6 +1,7 @@
 ---
-title: "Risks and Failures of Wholesale Funding"
-description: "Explore the risks and failures associated with wholesale funding and algorithmic trading in banking Uncover key insights into financial risk management strategies"
+title: Strategies for Mitigating Wholesale Funding Risks in Banking
+description: Wholesale funding exposes banks to liquidity and maturity risks while
+  providing essential capital. Discover active risk management strategies inside
 ---
 
 

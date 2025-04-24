@@ -1,6 +1,7 @@
 ---
-title: "Shapley Value and Its Applications"
-description: "Explore the Shapley value's role in cooperative game theory and its impact on algorithmic trading for fair distribution of gains among coalition members."
+title: Shapley Value Concept and Calculation for Fair Gain Sharing
+description: Shapley value provides a way to calculate a fair share for each participant
+  by averaging marginal contributions in every coalition Discover more inside
 ---
 
 

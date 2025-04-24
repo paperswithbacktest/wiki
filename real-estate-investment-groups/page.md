@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Investment Groups"
-description: "Explore the potential of Real Estate Investment Groups and algorithmic trading to enhance investment returns and manage risks in real estate portfolios."
+title: Essential Investor Guide To Real Estate Investment Groups
+description: Real Estate Investment Group funds pool investor capital to acquire and
+  manage rental properties for diversified passive income Discover more inside
 ---
 
 

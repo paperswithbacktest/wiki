@@ -1,6 +1,7 @@
 ---
-title: "Scalars, Vectors, Matrices, and Tensors: Linear Algebra for Deep Learning"
-description: Explore the critical distinctions and applications of tensors and matrices in algorithmic trading, enhancing decision-making by understanding when to utilize each data structure. This analysis empowers traders to optimize strategies, harness tensors for complex data, and improve the efficiency of modern trading systems.
+title: Scalars Vectors Matrices and Tensors Explained for Deep Learning
+description: Tensors speed up deep learning by processing multi dimensional data with
+  efficient scalar vector matrix operations and optimizations Discover more
 ---
 
 

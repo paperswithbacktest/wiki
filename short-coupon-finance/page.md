@@ -1,6 +1,7 @@
 ---
-title: "Short Coupon in Finance"
-description: "Explore the intricacies of bonds, short coupons, and algorithmic trading to enhance investment strategies and portfolio management in modern finance."
+title: Understanding Short Coupon Bonds And Their Impact On Pricing
+description: Short coupon affects first bond interest and pricing to keep yields consistent
+  empowering investors with valuation insights Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Réjean Dupuis"
-description: "Explore the career of Réjean Dupuis a pioneer in algorithmic trading and quantitative finance Learn about his educational background and industry impact"
+title: "R\xE9jean Dupuis Educational Leadership and Teaching Legacy"
+description: "R\xE9jean Dupuis transformed classroom engagement and school culture\
+  \ with collaborative teaching strategies and supportive leadership Discover more\
+  \ inside"
 ---
 
 

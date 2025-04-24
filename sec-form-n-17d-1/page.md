@@ -1,7 +1,7 @@
 ---
-title: "SEC Form N-17D-1"
-description: "Discover the significance of SEC Form N-17D-1 in ensuring transparency and compliance in SBICs and algorithmic trading through detailed financial disclosure.
-"
+title: Comprehensive Guide to SEC Form N-17D-1 Filing Requirements
+description: SEC Form N-17D-1 reporting informs regulators of broker dealer connections
+  to ensure fair practices and protect investors Discover more inside
 ---
 
 

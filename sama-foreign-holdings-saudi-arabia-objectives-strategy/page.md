@@ -1,6 +1,7 @@
 ---
-title: "Sama Foreign Holdings in Saudi Arabia: Objectives and Strategy"
-description: "Discover how SAMA Foreign Holdings leverages algorithmic trading to optimize international investments and maintain Saudi Arabia's economic resilience."
+title: Sama Foreign Holdings Fuels Saudi Global Business Expansion
+description: Sama Foreign Holdings helps Saudi companies expand globally with investment
+  and strategic guidance to navigate new markets Discover more inside
 ---
 
 

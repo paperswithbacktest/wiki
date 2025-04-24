@@ -1,6 +1,7 @@
 ---
-title: "Reasons Investors Favor Stock Buybacks"
-description: "Discover why investors prefer stock buybacks for enhancing shareholder value and explore the role of algorithmic trading in maximizing investment returns."
+title: Stock Buybacks A Comprehensive Guide to Share Repurchases
+description: Stock buybacks reduce outstanding shares to boost earnings per share
+  and signal financial health while balancing growth priorities Discover more inside
 ---
 
 

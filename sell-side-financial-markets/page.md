@@ -1,6 +1,7 @@
 ---
-title: "Sell-Side in Financial Markets"
-description: "Explore the critical role of sell-side in financial markets focusing on investment banking and algorithmic trading to ensure liquidity and market efficiency."
+title: Key Functions Of The Sell-Side In Financial Markets
+description: Sell-side firms connect companies and investors with underwriting research
+  trading and risk management while navigating regulations Discover more inside.
 ---
 
 

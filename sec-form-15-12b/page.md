@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 15-12B"
-description: "Explore SEC Form 15-12B and its role in the deregistration of securities. Discover how it impacts algorithmic trading, market dynamics, and liquidity strategies."
+title: SEC Form 15-12B Deregistration Requirements and Process Guide
+description: SEC Form 15-12B outlines the deregistration process to stop public reporting
+  obligations and streamline regulatory exit Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Rectangle: Definition and Applications"
-description: "Explore the role of rectangle patterns in algorithmic trading and how they aid in identifying market trends. Learn to use these geometric insights for strategic trading."
+title: Rectangle Properties Calculations and Practical Applications
+description: Explore rectangle fundamentals in this guide from basic properties to
+  advanced applications in design engineering and graphics Discover more inside.
 ---
 
 

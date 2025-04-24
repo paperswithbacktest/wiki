@@ -1,6 +1,7 @@
 ---
-title: "Reference Base Period: Definition and Functionality"
-description: "Understand time series analysis and the crucial role of a reference base period in economic indices and algorithmic trading strategies to enhance forecasts."
+title: Understanding Reference Base Period in Economic Analysis
+description: Reference base period provides a clear starting point for comparing economic
+  and statistical data over time in any industry Discover more inside.
 ---
 
 

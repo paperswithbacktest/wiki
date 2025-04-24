@@ -1,6 +1,7 @@
 ---
-title: "Risks of Over-the-Counter Trading"
-description: "Explore the risks of over-the-counter and algorithmic trading focusing on liquidity issues, lack of transparency, potential for errors, and market manipulation."
+title: Understanding Over-The-Counter Trading Risks and Opportunities
+description: Over-the-counter trading gives investors direct access to unique securities
+  while managing risks like liquidity and transparency Discover more inside
 ---
 
 

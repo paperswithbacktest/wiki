@@ -1,6 +1,7 @@
 ---
-title: "Retail Investor and Their Market Impact"
-description: "Explore how retail investors and their participation in algorithmic trading are reshaping financial markets with enhanced efficiency and opportunities."
+title: Retail Investors Influence on Stock Prices and Market Liquidity
+description: Retail investors shape stock prices, market volatility, and liquidity
+  through coordinated trades and tech driven platforms Discover more inside.
 ---
 
 

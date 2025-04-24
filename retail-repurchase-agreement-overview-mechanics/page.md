@@ -1,6 +1,8 @@
 ---
-title: "Retail Repurchase Agreement: Overview and Mechanics"
-description: "Explore the dynamics of retail repurchase agreements and algorithmic trading in the repo market Discover how they enhance liquidity and refine investment strategies"
+title: Understanding Retail Repurchase Agreements for Quick Cash Needs
+description: Retail repurchase agreements offer investors and small businesses a way
+  to use securities as collateral for short-term loans with clear terms and low interest
+  rates Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Roll Yield: Understanding Positive and Negative Outcomes"
-description: "Discover the crucial role of roll yield in futures trading and how it impacts algorithmic trading strategies Explore positive and negative outcomes for traders"
+title: Understanding Roll Yield in Futures for Informed Investing
+description: Roll yield affects futures investors by showing how contract expirations
+  impact gains or losses in contango or backwardation markets. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Registered Holder"
-description: "Explore the key aspects of algorithmic trading and the vital role of registered holders in modern stock investment strategies to maximize your portfolio's potential."
+title: Understanding Registered Holder Rights and Responsibilities
+description: Registered holder status grants direct ownership benefits voting rights
+  dividends and outlines key responsibilities and transfer steps Discover more inside
 ---
 
 

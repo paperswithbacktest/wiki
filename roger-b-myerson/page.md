@@ -1,6 +1,7 @@
 ---
-title: "Roger B. Myerson"
-description: "Explore Roger B. Myerson's impact in economics with insights into game theory and mechanism design's role in shaping algorithmic trading strategies."
+title: Roger B. Myerson's Game Theory and Mechanism Design Insights
+description: Game theory and mechanism design pioneer Roger B. Myerson developed auctions
+  that ensure honest choices to improve market efficiency Discover more inside.
 ---
 
 

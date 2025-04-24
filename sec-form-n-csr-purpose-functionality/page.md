@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-CSR: Purpose and Functionality"
-description: "Discover the purpose and functionality of SEC Form N-CSR essential for ensuring transparency and compliance in mutual funds and protecting investors."
+title: Understanding SEC Form N-CSR Requirements and Filing
+description: SEC Form N-CSR details how investment companies file certified shareholder
+  reports twice a year to ensure investor protection Discover more inside.
 ---
 
 

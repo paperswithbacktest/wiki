@@ -1,6 +1,7 @@
 ---
-title: "Sampling Errors in Statistics"
-description: "Explore sampling errors in statistics and their impact on algorithmic trading. Learn to identify, mitigate, and understand errors for robust trading models."
+title: Comprehensive Guide to Sampling Error in Statistical Research
+description: Sampling error can skew results when samples misrepresent a population
+  Explore how random sampling and optimal sample size reduce bias Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Secular vs. Cyclical Markets: Overview and Examples"
-description: "Explore the dynamics of secular and cyclical markets and learn how algorithmic trading influences these trends for informed investment decisions."
+title: Understanding Secular and Cyclical Markets for Better Investing
+description: Secular and cyclical markets guide explains long term trends vs short
+  term cycles to help you align investments with market outlooks Discover more inside
 ---
 
 

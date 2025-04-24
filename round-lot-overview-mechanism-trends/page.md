@@ -1,6 +1,7 @@
 ---
-title: "Round Lot: Overview, Mechanism, and Current Trends"
-description: "Explore how round lot and algorithmic trading shape modern stock markets from trade execution efficiency to evolving trends that impact trader strategies."
+title: Understanding Round Lots in Stock Trading for Investors
+description: Round lot trading standardizes share quantities to simplify transactions
+  reduce costs and boost liquidity for smoother investing Discover more inside.
 ---
 
 

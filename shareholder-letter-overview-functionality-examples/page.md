@@ -1,6 +1,7 @@
 ---
-title: "Shareholder Letter: Overview, Functionality, and Examples"
-description: "Shareholder letters enhance corporate communication by building investor trust and transparency crucial in navigating today's algorithmic trading-influenced markets."
+title: Crafting Clear and Effective Shareholder Letters
+description: Shareholder letters explain their purpose components and best practices
+  to strengthen investor relations and corporate transparency Discover more inside.
 ---
 
 

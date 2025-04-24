@@ -1,6 +1,7 @@
 ---
-title: "SEC Form PRER14A"
-description: "Discover how SEC Form PRER14A impacts shareholder voting on key corporate matters and its role in algorithmic trading insights for informed investment strategies."
+title: 'Understanding SEC Form PRER14A: Preliminary Proxy Statement Guide'
+description: SEC Form PRER14A provides shareholders with clear details on proposed
+  corporate changes helping them make informed votes Discover more inside.
 ---
 
 

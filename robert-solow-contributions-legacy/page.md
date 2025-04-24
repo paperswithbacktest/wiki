@@ -1,6 +1,7 @@
 ---
-title: "Robert M. Solow: Contributions and Legacy"
-description: "Explore Robert M. Solow's influential economic growth theories, including the Nobel-winning Solow Model's impact on modern practices like algorithmic trading."
+title: Robert Solow and the Solow Growth Model for Economic Policy
+description: Solow Growth Model shows how technology improvements, savings and investment
+  combine to drive economic growth and shape policy Discover more inside.
 ---
 
 

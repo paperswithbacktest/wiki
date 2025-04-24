@@ -1,6 +1,7 @@
 ---
-title: "Ras Al Khaimah Investment Authority"
-description: "Explore investment opportunities with Ras Al Khaimah Investment Authority as it leverages algorithmic trading to drive economic growth and attract global investors."
+title: Ras Al Khaimah Investment Authority Key Functions And Benefits
+description: Ras Al Khaimah Investment Authority accelerates growth with tax free
+  zones foreign ownership tailored support and job creation Discover more inside
 ---
 
 

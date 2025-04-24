@@ -1,6 +1,7 @@
 ---
-title: "Royal Bank of Canada Overview"
-description: "Explore the impact of algorithmic trading within the Canadian financial sector as it enhances efficiency and innovation, helping banks like RBC stay competitive."
+title: Royal Bank of Canada Services Performance and Strategic Growth
+description: Royal Bank of Canada offers comprehensive banking, investment and CSR
+  solutions while boosting growth through innovation Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Required Yield and Its Functionality"
-description: "Discover the significance of required yield in algorithmic trading Understand its role in evaluating investment opportunities and optimizing trading strategies"
+title: Understanding Required Yield for Smarter Investment Decisions
+description: Required yield helps investors set clear return targets and compare opportunities
+  based on risk and timeline to optimize portfolios Discover more inside.
 ---
 
 

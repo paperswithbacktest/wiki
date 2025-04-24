@@ -1,6 +1,7 @@
 ---
-title: "Reinforcement Learning (RL)"
-description: "Discover how Reinforcement Learning revolutionizes algorithmic trading by enabling adaptive strategies that optimize decision-making amid market fluctuations."
+title: Key Concepts and Applications of Reinforcement Learning
+description: Reinforcement Learning empowers agents to learn optimal strategies through
+  trial and error in gaming, robotics and algorithmic trading Discover more inside
 ---
 
 

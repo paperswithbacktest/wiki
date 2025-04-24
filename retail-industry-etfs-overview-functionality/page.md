@@ -1,6 +1,7 @@
 ---
-title: "Retail Industry ETFs: Overview and Functionality"
-description: "Explore Retail Industry ETFs and their role in global markets Combining insights from the retail sector and algorithmic trading for innovative investment strategies"
+title: Investing in Retail Industry ETFs for Diversified Growth
+description: Retail industry ETFs offer diversified exposure to top retail companies
+  while reducing risk and fees Discover more inside
 ---
 
 

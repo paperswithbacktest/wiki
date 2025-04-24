@@ -1,6 +1,7 @@
 ---
-title: "SEC Cryptocurrency Regulations for Financial Advisors"
-description: "Explore how financial advisors can navigate SEC regulations amid the rise of cryptocurrency and algorithmic trading. Understand the complexities of compliance while benefiting from opportunities in emerging digital assets. Discover the importance of balancing innovation with regulatory oversight to protect investors and foster market integrity in the fast-evolving financial landscape."
+title: Navigating SEC Crypto Regulations for Financial Advisors
+description: SEC Crypto Regulations help advisors meet compliance on disclosures custody
+  and research to protect clients and avoid penalties Discover more inside
 ---
 
 

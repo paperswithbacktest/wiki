@@ -1,6 +1,7 @@
 ---
-title: "Shooting Star Candle Strategy Explained"
-description: Discover the power of the Shooting Star Candle Strategy in algorithmic trading to identify potential market reversals. Learn how this pattern, marked by its unique candlestick formation, enhances trade decisions by automating pattern detection and execution, optimizing market responsiveness with precision and speed.
+title: Understanding Shooting Star Candle Patterns for Effective Trading
+description: Use Shooting Star Candle signals for spotting reversals after bullish
+  runs by confirming long upper wicks with volume analysis Discover more inside
 ---
 
 

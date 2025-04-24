@@ -1,7 +1,7 @@
 ---
-title: Origins and Evolution of Quid Slang for the British Pound
-description: Quid slang for the British pound traces its origins and shows how people
-  use it in everyday UK and Ireland conversations. Discover more inside.
+title: Understanding Quid Slang Origins And Usage In UK Currency
+description: Quid slang reveals its mysterious origins and everyday use in the UK
+  and Ireland offering clear insights into currency culture Discover more inside.
 ---
 
 

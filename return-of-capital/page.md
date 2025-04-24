@@ -1,6 +1,7 @@
 ---
-title: "Return of Capital"
-description: "Explore how Return of Capital (ROC) influences algorithmic trading strategies helping investors optimize tax liabilities while enhancing investment returns."
+title: Understanding Return of Capital Impact on Investor Taxes
+description: Return of Capital gives you cash back without selling shares by lowering
+  cost basis and deferring taxes so you can reinvest funds Discover more inside.
 ---
 
 

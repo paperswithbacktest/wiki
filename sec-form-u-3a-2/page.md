@@ -1,6 +1,7 @@
 ---
-title: "SEC Form U-3A-2"
-description: "Discover the significance of SEC Form U-3A-2 in financial regulation tackling insider trading and promoting transparency within the market for fairness and integrity."
+title: Understanding SEC Form U-3A-2 for Public Utility Exemptions
+description: SEC Form U-3A-2 helps public utility holding companies secure PUHCA exemptions
+  with clear filing guidance and mistake avoidance Discover more inside
 ---
 
 

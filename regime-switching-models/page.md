@@ -1,6 +1,7 @@
 ---
-title: "Regime-switching models"
-description: "Explore how regime-switching models enhance trading strategies by analyzing market conditions, allowing traders to optimize performance and manage risk effectively."
+title: Implementing Markov Regime Switching Models for Time Series
+description: Regime switching model techniques help identify state transitions in
+  time series data and improve forecasting accuracy. Discover more inside.
 ---
 
 

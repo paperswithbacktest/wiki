@@ -1,6 +1,7 @@
 ---
-title: "RICS House Price Balance"
-description: "Explore the UK real estate market with insights from the RICS House Price Balance and algorithmic trading to make informed investment decisions."
+title: Understanding RICS House Price Balance for UK Property Trends
+description: RICS House Price Balance offers a monthly snapshot of UK housing trends
+  from surveyor insights to effectively guide buyers sellers Discover more inside
 ---
 
 

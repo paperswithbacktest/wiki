@@ -1,6 +1,7 @@
 ---
-title: "Short Run in Economics: Overview and Examples"
-description: "Explore the synergistic relationship between short-run economic principles and algorithmic trading in this comprehensive article. Discover how fixed inputs define short-run market analysis and influence trading strategies. Uncover the advantages of algorithmic trading like speed and efficiency in adapting to short-term market changes. Learn how integrating short-run economics with algorithmic trading can optimize strategies and enhance decision-making in today's dynamic financial markets."
+title: Understanding the Short Run in Economics and Business Responses
+description: Short run in economics shows how firms adjust production and manage fixed
+  versus variable costs when capacity is limited; discover more inside.
 ---
 
 

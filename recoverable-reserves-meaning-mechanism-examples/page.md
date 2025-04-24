@@ -1,6 +1,7 @@
 ---
-title: "Recoverable Reserves: Meaning, Mechanism, and Examples"
-description: "Explore how the synergy between oil and gas recoverable reserves and algorithmic trading reshapes energy markets boosting efficiency and strategic resource management."
+title: Understanding Recoverable Reserves in Oil, Gas and Minerals
+description: Recoverable reserves reveal how technology cost and market factors shape
+  the oil gas mineral resources we can extract and use Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Role and Significance of the Reserve Bank of India"
-description: "The Reserve Bank of India regulates algo trading to balance innovation and stability ensuring market integrity and security amidst technological advances."
+title: Understanding The Reserve Bank Of India Functions And Roles
+description: Reserve Bank of India shapes monetary policy and regulates banks to maintain
+  price stability and financial security to support growth Discover more inside
 ---
 
 

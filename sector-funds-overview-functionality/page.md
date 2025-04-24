@@ -1,6 +1,7 @@
 ---
-title: "Sector Funds: Overview and Functionality"
-description: "Explore the synergy of sector funds and algorithmic trading in finance. Learn how these tools offer targeted exposure and efficiency, reshaping investment strategies."
+title: Sector Funds Investment Guide Risks Performance And Strategy
+description: Sector funds let you target industries for gains while balancing risk
+  with diversification strategies backed by research Discover more inside.
 ---
 
 

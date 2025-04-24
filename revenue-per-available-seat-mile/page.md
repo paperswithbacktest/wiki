@@ -1,6 +1,7 @@
 ---
-title: "Revenue Per Available Seat Mile"
-description: "Explore the crucial role of Revenue Per Available Seat Mile in airline strategy for maximizing revenue and operational efficiency with advanced technologies."
+title: Revenue Per Available Seat Mile (RASM) Explained for Airlines
+description: Revenue per Available Seat Mile metric shows how airlines maximize income
+  per seat mile by optimizing pricing routes and services Discover more inside.
 ---
 
 

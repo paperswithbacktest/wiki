@@ -1,6 +1,7 @@
 ---
-title: "Rag (Machine Learning)"
-description: "RAG in machine learning enhances AI responses by combining retrieval systems with language models enabling access to real-time data for accurate results."
+title: Understanding Retrieval-Augmented Generation in Machine Learning
+description: Retrieval-Augmented Generation combines AI retrieval and generative models
+  to deliver accurate up-to-date responses. Discover more inside today.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Reserve-Replacement Ratio"
-description: "Discover how reserve-replacement ratios and algorithmic trading are revolutionizing the energy industry’s landscape amidst global economic shifts and challenges."
+title: Understanding the Reserve-Replacement Ratio in Oil and Gas
+description: Reserve-Replacement Ratio helps oil and gas firms gauge sustainability
+  by measuring new reserves versus production each year Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Robert J. Aumann: Contributions and Recognition"
-description: "Discover Robert J. Aumann's groundbreaking contributions to game theory and their impact on algorithmic trading enhancing strategic decision-making and market analysis."
+title: Robert J. Aumann's Game Theory Breakthroughs and Influence
+description: Robert J. Aumann game theory research reveals how repeated interactions
+  and correlated equilibrium shape economic decisions. Discover more inside.
 ---
 
 

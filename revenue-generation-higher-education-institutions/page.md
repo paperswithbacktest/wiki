@@ -1,6 +1,7 @@
 ---
-title: "Revenue Generation in Higher Education Institutions"
-description: "Explore how higher education institutions can leverage algorithmic trading as an innovative revenue stream to diversify income and achieve financial sustainability."
+title: Revenue Generation Strategies for Higher Education Institutions
+description: Revenue generation in higher education reveals funding sources and tactics
+  online programs partnerships and data driven strategies Discover more inside
 ---
 
 

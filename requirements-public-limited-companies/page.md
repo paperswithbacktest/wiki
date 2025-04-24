@@ -1,6 +1,7 @@
 ---
-title: "Requirements for Public Limited Companies"
-description: "Discover how public limited companies structure impacts algorithmic trading success and navigate the dynamic financial markets with enhanced strategic insights."
+title: Public Limited Company Requirements and Compliance Guide
+description: Public limited company formation requires minimum share capital and board
+  oversight ensuring transparency and compliance Discover more inside
 ---
 
 

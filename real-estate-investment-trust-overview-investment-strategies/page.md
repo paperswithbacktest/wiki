@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Investment Trust: Overview and Investment Strategies"
-description: "Explore how Real Estate Investment Trusts (REITs) and algorithmic trading strategies revolutionize real estate investment, enhancing returns and portfolio management."
+title: A Complete Guide To Investing In Real Estate Investment Trusts
+description: Real Estate Investment Trusts offer a way to earn regular income and
+  liquidity by pooling funds to own rent producing properties Discover more inside.
 ---
 
 

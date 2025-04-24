@@ -1,6 +1,7 @@
 ---
-title: "Rater (Machine Learning)"
-description: "Discover the crucial role of raters in machine learning. Understand how accurate data labeling by raters enhances model performance and reliability."
+title: Understanding the Role of Raters in Machine Learning Data Quality
+description: Rater in machine learning play a key role in labeling and validating
+  data to boost model accuracy and reliability Discover more inside
 ---
 
 

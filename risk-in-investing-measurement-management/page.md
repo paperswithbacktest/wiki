@@ -1,6 +1,7 @@
 ---
-title: "Risk in Investing: Measurement and Management"
-description: "Explore essential risk measurement and management strategies in algo trading to enhance investment success and navigate fast-paced market environments effectively."
+title: Understanding Investment Risk Management And Measurement
+description: Investment risk measurement helps investors manage losses using standard
+  deviation beta and VaR for smarter portfolio decisions Discover more inside.
 ---
 
 

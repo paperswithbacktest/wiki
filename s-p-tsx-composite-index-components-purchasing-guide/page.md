@@ -1,6 +1,7 @@
 ---
-title: "S&P/TSX Composite Index: Components and Purchasing Guide"
-description: "Explore a comprehensive guide to the S&P/TSX Composite Index its components and how to invest using algorithmic trading for optimized market engagement."
+title: Understanding the S&P/TSX Composite Index for Investors
+description: Explore the S&P/TSX Composite Index strategies for Canadian investing
+  with insights on eligibility sectors and risk management Discover more inside
 ---
 
 

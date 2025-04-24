@@ -1,6 +1,7 @@
 ---
-title: "Risk-Adjusted Return Explained"
-description: Explore the intricacies of risk-adjusted return in algorithmic trading to gain a comprehensive understanding of investment performance by balancing potential returns with associated risks. Discover key metrics like the Sharpe Ratio, Treynor Ratio, and Jensen’s Alpha, which provide unique insights to optimize trading strategies. This guide highlights the significance of these metrics in evaluating trading algorithms, ensuring profitable and sustainable strategies in diverse market conditions.
+title: Understanding Risk-Adjusted Return Metrics for Investors
+description: Risk-adjusted return shows investors the reward per unit of risk and
+  enables fair investment comparisons to optimize portfolios Discover more inside.
 ---
 
 

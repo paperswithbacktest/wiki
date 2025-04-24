@@ -1,6 +1,7 @@
 ---
-title: "Self-exciting processes in market microstructure"
-description: "Explore the application of self-exciting processes, or Hawkes processes, in high-frequency trading to understand market microstructure and predict price movements."
+title: Understanding Self-Exciting Processes in Market Microstructure
+description: Self-exciting processes shape market volatility and liquidity by modeling
+  event clustering and guiding risk management Discover more inside.
 ---
 
 

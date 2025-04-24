@@ -1,6 +1,7 @@
 ---
-title: "SEC Release IA-1092: Overview and Historical Context"
-description: "Explore SEC Release IA-1092 and its pivotal role in guiding investment advisors through regulatory complexities in the age of algorithmic trading solutions."
+title: SEC Release IA-1092 Rules for Investment Advisers Clarified
+description: SEC Release IA-1092 sets clear standards for investment advisers to protect
+  client assets and ensure honest recordkeeping. Discover more inside
 ---
 
 

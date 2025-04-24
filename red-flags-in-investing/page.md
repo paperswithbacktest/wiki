@@ -1,6 +1,7 @@
 ---
-title: "Red Flags in Investing"
-description: "Navigate the complexities of algorithmic trading with insights on identifying financial red flags Perform due diligence to leverage its benefits while mitigating risks"
+title: Identifying Red Flags in Investing to Protect Your Portfolio
+description: Red flags in investing help you spot warning signs like unrealistic returns
+  and unregistered sellers to safeguard your assets. Discover more inside.
 ---
 
 

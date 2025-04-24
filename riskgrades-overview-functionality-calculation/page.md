@@ -1,6 +1,8 @@
 ---
-title: "RiskGrades: Overview, Functionality, and Calculation"
-description: "Explore how RiskGrades offer a standardized measure of financial asset risk and the role algorithmic trading plays in enhancing trading speed and precision."
+title: Understanding RiskGrades A Comprehensive Investment Risk Metric
+description: RiskGrades simplify investment risk assessment with a clear 0 to 1000
+  volatility scale helping investors compare assets and tailor portfolios to risk
+  tolerance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Risks of Investing in Familiar Companies"
-description: "Explore the risks of investing in familiar companies versus the opportunities and challenges of algorithmic trading in today's evolving financial markets."
+title: Smart Strategies for Investing in Familiar Companies
+description: Investing in familiar companies exposes you to overconfidence and home
+  bias Learn to evaluate financial health and diversify holdings Discover more inside
 ---
 
 

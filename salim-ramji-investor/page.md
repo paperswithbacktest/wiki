@@ -1,6 +1,7 @@
 ---
-title: "Salim Ramji (Investor)"
-description: "Discover how investor Salim Ramji revolutionized finance with algorithmic trading at BlackRock and explore his future impact as the new Vanguard CEO."
+title: Salim Ramji ETF Innovator and Finance Executive Profile
+description: Salim Ramji drives ETF innovation and strategic growth with customer-focused
+  finance leadership across BlackRock and Visa Discover more inside.
 ---
 
 

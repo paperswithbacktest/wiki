@@ -1,6 +1,7 @@
 ---
-title: "Self-Study Plan for Becoming a Quantitative Developer"
-description: Learn the essentials of becoming a quantitative developer with this comprehensive self-study plan focused on algorithmic trading. Discover the role of a quant developer, the necessary skills, and the typical workplaces in the finance industry. Gain insights into the responsibilities involving mathematical models, programming skills, and financial market knowledge required for building high-performance trading systems. This guide also explores the symbiotic relationship between quant developers and algorithmic traders, highlighting the distinct roles they play in optimizing automated trading strategies.
+title: Essential Skills and Responsibilities of a Quantitative Developer
+description: Quantitative developer roles demand coding expertise math and finance
+  knowledge to build models test strategies and integrate systems Discover more inside.
 ---
 
 

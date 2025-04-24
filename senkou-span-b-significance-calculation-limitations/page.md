@@ -1,6 +1,8 @@
 ---
-title: "Senkou Span B: Significance, Calculation, and Limitations"
-description: "Explore Senkou Span B within the Ichimoku Cloud for insights into market trends and potential reversals essential for enhancing algorithmic trading strategies."
+title: Understanding Senkou Span B in Ichimoku Technical Analysis
+description: Senkou Span B helps traders project future support and resistance by
+  averaging 52-period highs and lows and plotting 26 periods ahead. Discover more
+  inside
 ---
 
 

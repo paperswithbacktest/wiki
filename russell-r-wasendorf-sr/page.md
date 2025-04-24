@@ -1,6 +1,7 @@
 ---
-title: "Russell R. Wasendorf Sr."
-description: "Explore the intricacies of financial scandals, investment fraud, and algorithmic trading through notable cases. Learn from past events to protect market integrity."
+title: Russell R. Wasendorf Sr Fraud at Peregrine Financial Group
+description: Peregrine Financial Group fraud uncovered Russell Wasendorf Sr stole
+  millions from clients prompting new regulatory reforms Discover more inside
 ---
 
 

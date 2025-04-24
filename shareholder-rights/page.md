@@ -1,6 +1,7 @@
 ---
-title: "Shareholder Rights"
-description: "Explore corporate governance investor rights and algorithmic trading to understand their impact on financial markets and shareholder interests in a digital world."
+title: Shareholder Rights Explained A Guide to Investor Protections
+description: Shareholder rights let investors vote on decisions get financial reports
+  receive dividends and protect their investments Discover more inside
 ---
 
 

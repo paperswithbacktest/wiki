@@ -1,6 +1,7 @@
 ---
-title: "Ripple Swell: Overview and Mechanisms"
-description: "Discover Ripple Swell an influential annual event spotlighting blockchain advancements and algorithmic trading in cryptocurrency industries. Join industry leaders in shaping the future of financial technologies."
+title: Ripple Swell Event Drives Faster Cross-Border Payments Globally
+description: Ripple Swell brings banks and fintech leaders together to explore XRP
+  and XRP Ledger technology for instant cross-border payments Discover more inside.
 ---
 
 

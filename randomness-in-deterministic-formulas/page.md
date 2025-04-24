@@ -1,6 +1,7 @@
 ---
-title: "Randomness in Deterministic Formulas"
-description: "Explore how randomness enhances deterministic formulas in algorithmic trading by improving adaptability and performance in unpredictable financial markets."
+title: Pseudo Random Number Generators In Deterministic Systems
+description: Pseudo Random Number Generators use deterministic formulas to simulate
+  unpredictable sequences in games science and finance Discover more inside
 ---
 
 

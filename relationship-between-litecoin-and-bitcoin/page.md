@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between Litecoin and Bitcoin"
-description: "Explore the relationship between Litecoin and Bitcoin in algo trading, highlighting unique features, market roles, and strategies for maximizing trading efficiency."
+title: Comparing Litecoin Vs Bitcoin Features Uses And Performance
+description: Litecoin vs Bitcoin comparison shows faster transactions lower fees and
+  larger supply enabling seamless everyday payments Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Return on Assets Calculation"
-description: "Explore the significance of Return on Assets in algo trading. Learn how ROA measures a company's efficiency in using assets to generate profits and why it's vital in finance."
+title: Analyzing Return on Assets ROA to Improve Business Performance
+description: Return on Assets ROA shows how efficiently a company uses its assets
+  to drive profit and benchmark performance against peers Discover more inside
 ---
 
 

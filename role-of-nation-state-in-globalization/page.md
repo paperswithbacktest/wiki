@@ -1,6 +1,7 @@
 ---
-title: "Role of the Nation-State in Globalization"
-description: "Explore the dynamic role of nation-states in globalization focusing on algorithmic trading's impact on economy and policy in an increasingly interconnected world."
+title: Nation States Shaping Globalization and Economic Policies
+description: Nation States shape global economic policies and trade agreements while
+  balancing sovereignty cultural identity and environment Discover more inside.
 ---
 
 

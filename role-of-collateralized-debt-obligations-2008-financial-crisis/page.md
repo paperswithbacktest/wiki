@@ -1,6 +1,7 @@
 ---
-title: "Role of Collateralized Debt Obligations in the 2008 Financial Crisis"
-description: "Explore how Collateralized Debt Obligations and algorithmic trading amplified the 2008 financial crisis revealing market vulnerabilities and systemic risks."
+title: Understanding Collateralized Debt Obligations in Modern Finance
+description: Collateralized Debt Obligations use tranches to balance loan risk and
+  returns while sparking the 2008 crisis and reforms. Discover more inside.
 ---
 
 

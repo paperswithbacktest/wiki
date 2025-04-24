@@ -1,6 +1,7 @@
 ---
-title: "Roles of Traders and Investors"
-description: "Explore the roles of traders and investors in algorithmic trading as it transforms financial markets by enhancing liquidity efficiency and strategic decision-making."
+title: Understanding the Difference Between Traders and Investors
+description: Trader vs Investor roles differ in time horizons risk tolerance and strategies
+  Choose the right approach for your goals Discover more inside.
 ---
 
 

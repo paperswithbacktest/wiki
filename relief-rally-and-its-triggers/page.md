@@ -1,6 +1,7 @@
 ---
-title: "Relief Rally and Its Triggers"
-description: "Explore how relief rallies and algorithmic trading shape financial markets Gain insights into the triggers and dynamics driving these temporary market upswings"
+title: Understanding Stock Market Relief Rallies and Their Key Drivers
+description: Relief rally lifts stocks after declines but often fades fast so investors
+  must spot triggers and manage risk Discover more inside
 ---
 
 

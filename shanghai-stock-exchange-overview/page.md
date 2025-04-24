@@ -1,6 +1,7 @@
 ---
-title: "Shanghai Stock Exchange Overview"
-description: "Discover how the Shanghai Stock Exchange leverages algorithmic trading, enhancing market efficiency and liquidity, in the world's largest stock exchange."
+title: Shanghai Stock Exchange Overview for Investors and Traders
+description: Shanghai Stock Exchange connects domestic and global investors with detailed
+  insights on A shares B shares bonds and trading tools Discover more inside.
 ---
 
 

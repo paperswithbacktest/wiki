@@ -1,6 +1,7 @@
 ---
-title: "Reconstitution: Process and Impact on Investors"
-description: "Explore the impact of index reconstitution and algorithmic trading on investment strategies Discover how these factors shape investor decisions and portfolio alignment"
+title: Comprehensive Guide to Reconstitution in Investment Funds
+description: Reconstitution in investing explores stock splits reverse splits and
+  portfolio tweaks that affect fund performance and liquidity Discover more inside
 ---
 
 

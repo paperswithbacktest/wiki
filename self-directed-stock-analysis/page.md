@@ -1,6 +1,7 @@
 ---
-title: "Self-Directed Stock Analysis"
-description: "Explore the synergy of investment strategies, financial education, stock analysis, and algorithmic trading to navigate financial markets and make informed decisions."
+title: Mastering Self-Directed Stock Analysis For Smart Investing
+description: Self-directed stock analysis empowers you to study financial statements
+  ratios and trends to make informed investment decisions Discover more inside
 ---
 
 

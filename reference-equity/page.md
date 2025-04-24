@@ -1,6 +1,7 @@
 ---
-title: "Reference Equity"
-description: "Explore the intersection of equity and algorithmic trading in financial markets Unlock insights into ownership, capital allocation, and automated strategies' impact."
+title: Algorithmic Trading With VWAP And TWAP For Optimal Execution
+description: Algorithmic trading VWAP and TWAP strategies deliver precise execution
+  by balancing market impact and costs in varied conditions Discover more inside
 ---
 
 

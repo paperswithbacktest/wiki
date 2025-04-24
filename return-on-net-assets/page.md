@@ -1,6 +1,7 @@
 ---
-title: "Return on Net Assets"
-description: "Explore how Return on Net Assets (RONA) enhances algorithmic trading by optimizing asset utilization. Understand RONA's calculation for smarter investment."
+title: 'Return On Net Assets: Measuring Asset Efficiency With RONA'
+description: Return On Net Assets explains how to calculate RONA assess asset efficiency
+  compare industry benchmarks and improve performance Discover more inside
 ---
 
 

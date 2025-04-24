@@ -1,6 +1,7 @@
 ---
-title: "Ricardo-Barro Effect: Overview and Criticism"
-description: "Explore the Ricardo-Barro effect and its criticisms in the context of fiscal policy and algorithmic trading Its role in economic debates and impact on market behavior"
+title: Understanding the Ricardo-Barro Effect in Fiscal Policy
+description: Ricardo-Barro Effect shows how government borrowing can lead to higher
+  personal savings and neutralize fiscal stimulus Discover more inside.
 ---
 
 

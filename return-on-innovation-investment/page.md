@@ -1,6 +1,7 @@
 ---
-title: "Return on Innovation Investment"
-description: "Discover actionable insights on optimizing return on investment through innovation and algorithmic trading, enhancing profitability in the digital market landscape."
+title: Measuring Return on Innovation Investment for Smarter Decisions
+description: Return on Innovation Investment shows companies how new project costs
+  compare to profits so they can optimize funding and drive growth Discover more inside
 ---
 
 

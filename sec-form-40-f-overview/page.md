@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 40-F Overview"
-description: "Discover the importance of SEC Form 40-F for Canadian firms in U.S. markets and its role in financial reporting and algorithmic trading efficiency."
+title: Understanding SEC Form 40-F Filing for Canadian Companies
+description: SEC Form 40-F enables Canadian companies to simplify US reporting by
+  using Canadian disclosures and ensure investor transparency Discover more inside
 ---
 
 

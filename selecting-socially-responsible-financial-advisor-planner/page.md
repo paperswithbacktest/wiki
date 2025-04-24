@@ -1,6 +1,7 @@
 ---
-title: "Selecting a Socially Responsible Financial Advisor or Planner"
-description: "Choose a socially responsible financial advisor skilled in SRI and ethical finance Align investments with your values through expert guidance on ESG and impact strategies"
+title: Socially Responsible Financial Advisor to Align Money With Values
+description: Socially responsible financial advisor helps you invest in companies
+  aligned with your values for growth and positive impact Discover more inside.
 ---
 
 

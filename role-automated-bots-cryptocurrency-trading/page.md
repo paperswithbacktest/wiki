@@ -1,6 +1,7 @@
 ---
-title: "Role of Automated Bots in Cryptocurrency Trading"
-description: "Explore the transformative impact of automated bots in cryptocurrency trading Discover how algorithmic strategies optimize trades mitigate risks and maximize returns"
+title: Cryptocurrency Trading Bots From Basics to Advanced Strategies
+description: Cryptocurrency trading bots automate buy and sell decisions around the
+  clock and help you set up tailored rules for every skill level Discover more inside
 ---
 
 

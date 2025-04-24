@@ -1,6 +1,7 @@
 ---
-title: "Rectified Linear Unit (Relu) (Machine Learning)"
-description: "Explore the Rectified Linear Unit (ReLU) activation function used in neural networks for efficient learning. Learn its advantages, variations, and applications."
+title: Understanding Rectified Linear Unit Activation in Neural Networks
+description: Rectified Linear Unit activation speeds up neural network training by
+  avoiding vanishing gradients and enabling deeper architectures Discover more inside.
 ---
 
 

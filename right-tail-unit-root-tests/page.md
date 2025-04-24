@@ -1,6 +1,7 @@
 ---
-title: "Right-tail unit-root tests"
-description: Explore the importance of right-tail unit-root tests in algorithmic trading to detect non-stationary and explosive behaviors in financial data crucial for anticipating asset bubbles and market trends-enhancing trading strategies and risk management in complex markets.
+title: Right-Tail Unit Root Tests for Stationarity in Time Series
+description: Right-Tail Unit Root Tests provide reliable stationarity checks for time
+  series data and ensure your forecasts use stable inputs Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Sample Distribution and Applications"
-description: "Discover how statistical sampling distributions and Monte Carlo simulations enhance algorithmic trading by refining strategies and improving decision-making."
+title: Understanding Sample Distributions in Statistical Analysis
+description: Sample distributions show how sample averages vary and inform population
+  estimates using the Central Limit Theorem and bootstrapping Discover more inside
 ---
 
 

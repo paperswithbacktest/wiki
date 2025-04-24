@@ -1,6 +1,7 @@
 ---
-title: "SEC Form PX14A6G Overview and Function"
-description: "Explore the role of SEC Form PX14A6G in enhancing corporate governance and shareholder communication within the fast-evolving landscape of algorithmic trading."
+title: Understanding SEC Form PX14A6G Requirements for Shareholders
+description: SEC Form PX14A6G informs shareholders about upcoming meetings voting
+  and management changes with transparent details and deadlines Discover more inside
 ---
 
 

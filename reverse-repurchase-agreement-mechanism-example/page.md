@@ -1,6 +1,7 @@
 ---
-title: "Reverse Repurchase Agreement: Mechanism and Example"
-description: "Explore the critical role of Reverse Repurchase Agreements in financial markets to maintain liquidity and stability through short-term borrowing mechanisms."
+title: Understanding Reverse Repurchase Agreements and Market Liquidity
+description: Reverse repurchase agreements help effectively manage short term liquidity
+  and control money supply through secured transactions. Discover more inside.
 ---
 
 

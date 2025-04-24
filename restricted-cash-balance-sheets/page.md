@@ -1,6 +1,7 @@
 ---
-title: "Restricted Cash on Balance Sheets"
-description: "Explore the significance of restricted cash in balance sheets and its impact on algorithmic trading strategies. Understand how this accounts for liquidity and investment decisions."
+title: Understanding Restricted Cash On Company Balance Sheets
+description: Restricted cash shows funds set aside for specific purposes helping you
+  gauge true liquidity and ensure accurate reporting. Discover more inside.
 ---
 
 

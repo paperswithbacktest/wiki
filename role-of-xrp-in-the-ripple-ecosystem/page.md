@@ -1,6 +1,7 @@
 ---
-title: "Role of XRP in the Ripple Ecosystem"
-description: "Discover how XRP facilitates cross-border transactions in the Ripple ecosystem and explore its integration in algorithmic trading for better speed and efficiency."
+title: How XRP Powers Faster and Cheaper International Payments
+description: XRP streamlines global payments with rapid settlement and minimal fees
+  so businesses and individuals can transfer funds instantly Discover more inside
 ---
 
 

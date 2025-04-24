@@ -1,6 +1,7 @@
 ---
-title: "Reversal Amount: Overview and Mechanism"
-description: "Explore the intricacies of reversal amounts and their role in algorithmic trading Essential for understanding market shifts and enhancing trading strategies."
+title: Understanding Reversal Amounts and Transaction Reversals
+description: Reversal amounts restore funds in canceled or mistaken transactions while
+  covering reversal steps legal and accounting guidelines Discover more inside.
 ---
 
 

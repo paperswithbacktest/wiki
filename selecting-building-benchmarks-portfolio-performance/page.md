@@ -1,6 +1,7 @@
 ---
-title: "Selecting and Building Benchmarks for Portfolio Performance Measurement"
-description: "Explore key strategies for measuring portfolio performance using benchmarks and algorithmic trading techniques to improve investment success and risk management."
+title: Effective Portfolio Benchmarking Strategies for Investors
+description: Portfolio benchmarking empowers investors to choose benchmarks that match
+  their strategies and assess risk adjusted performance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Russian Ruble: Overview of Russia's Currency"
-description: "Explore the significance of the Russian ruble in global finance and the impact of algorithmic trading on currency markets and trading strategies."
+title: Comprehensive Guide to Russian Ruble History and Exchange Value
+description: Explore Russian Ruble insights from its history, denominations and exchange
+  rate factors to policy impacts and future prospects Discover more inside.
 ---
 
 

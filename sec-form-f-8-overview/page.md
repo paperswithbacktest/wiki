@@ -1,6 +1,7 @@
 ---
-title: "SEC Form F-8 Overview"
-description: "Explore the implications of SEC Form F-8 and algorithmic trading in financial markets focusing on Canadian companies accessing U.S. markets and evolving regulatory challenges."
+title: Understanding SEC Form F-8 Requirements for Foreign Issuers
+description: SEC Form F-8 helps foreign issuers register merger and acquisition securities
+  with disclosure of terms and risks to protect investors. Discover more inside
 ---
 
 

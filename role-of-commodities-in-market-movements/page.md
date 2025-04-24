@@ -1,6 +1,7 @@
 ---
-title: "Role of Commodities in Market Movements"
-description: "Explore how commodities like gold, oil, and copper influence market trends and understand the transformative role of algorithmic trading in financial markets."
+title: Understanding Commodity Markets and Their Economic Impact
+description: Commodity markets shape inflation, economic growth and portfolio diversification
+  through supply demand shifts and geopolitical events Discover more inside.
 ---
 
 

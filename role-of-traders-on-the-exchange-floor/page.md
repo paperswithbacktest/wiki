@@ -1,6 +1,7 @@
 ---
-title: "Role of Traders on the Exchange Floor"
-description: "Explore the transformation of trading practices from traditional exchange floor traders to modern algorithmic trading in financial markets. Delve into the historical evolution, the role of human intuition, technological advancements, and the impact on market dynamics, liquidity, and efficiency. Gain insights into the benefits and challenges accompanying algorithmic trading, including speed, precision, and systemic risks, to better understand the current and future landscape of financial trading."
+title: 'Trader on the Exchange Floor: Roles Skills and Strategies'
+description: Exchange floor traders explore roles environment orders data analysis
+  risk management advanced strategies to trade effectively Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Real Estate Options: Investing and Profit Strategies"
-description: "Explore how real estate investing merges with algorithmic trading, providing new avenues for profits and diversification through innovative investment strategies."
+title: Comprehensive Guide to Real Estate Investing Strategies
+description: Real Estate Investing helps you build wealth using rental properties
+  flipping and REITs with proven risk controls and value strategies Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Risks of Investing in Marijuana Stocks"
-description: "Explore the promising yet volatile world of marijuana stocks and algorithmic trading. Learn about investment risks, opportunities, and market dynamics."
+title: Key Risks And Growth Prospects For Marijuana Stock Investments
+description: Marijuana stocks require assessing legal risks market volatility and
+  company financial health to make informed investment choices Discover more inside.
 ---
 
 

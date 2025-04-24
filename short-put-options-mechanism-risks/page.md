@@ -1,6 +1,7 @@
 ---
-title: "Short Put Options: Mechanism and Risks"
-description: "Explore the workings and risks of trading short put options in the derivative markets and how algorithmic trading revolutionizes this strategy."
+title: Complete Guide to Selling Short Put Options for Investors
+description: Short put options let you collect premiums and set buy prices while managing
+  risk with margin and protective puts increasing income Discover more inside.
 ---
 
 

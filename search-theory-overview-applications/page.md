@@ -1,6 +1,7 @@
 ---
-title: "Search Theory: Overview and Applications"
-description: "Explore the key insights of search theory in economic decision-making highlighting its role in addressing market frictions and enhancing algorithmic trading."
+title: Search Theory Fundamentals Models and Real World Applications
+description: Search Theory improves efficiency by guiding optimal search strategies
+  across everyday tasks and economics with actionable models Discover more inside
 ---
 
 

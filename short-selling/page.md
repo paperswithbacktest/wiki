@@ -1,6 +1,7 @@
 ---
-title: "Short Selling"
-description: Discover the intricacies of short selling, a strategy used in algorithmic trading to maximize profits. Learn why investors choose to short sell, its risks, and how it's employed in algo trading for volatility navigation and significant profits. Dive deeper with recommended resources.
+title: Understanding Short Selling Strategies Risks and Benefits
+description: Short Selling lets you profit from falling stocks while using margin
+  controls hedging and stop loss orders to manage risk Discover more inside
 ---
 
 

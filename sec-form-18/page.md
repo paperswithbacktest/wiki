@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 18"
-description: "Discover how SEC Form 18 and algorithmic trading impact U.S. markets Learn about foreign securities disclosure and the SEC's role in regulating trading practices"
+title: Complete Guide to SEC Form 18 Registration and Filing
+description: SEC Form 18 details the key registration steps for private securities
+  sales under SEC rules and safeguards investor interests. Discover more inside.
 ---
 
 

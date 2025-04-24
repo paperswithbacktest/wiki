@@ -1,6 +1,7 @@
 ---
-title: "Relative Vigor Index in Forex Trading Strategy"
-description: "Explore how the Relative Vigor Index enhances forex trading strategies with its ability to gauge trend strength and improve decision-making in algorithmic trading."
+title: Understanding The Relative Vigor Index In Forex Trading
+description: Relative Vigor Index helps traders gauge forex trend strength and identify
+  reversals with smoothed signals for clearer entries Discover more inside
 ---
 
 

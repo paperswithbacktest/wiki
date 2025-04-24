@@ -1,6 +1,7 @@
 ---
-title: "Risk Parity Asset Allocation"
-description: Risk Parity Asset Allocation explores an innovative investment strategy aimed at achieving balanced risk distribution across various assets by focusing on asset volatility. It addresses the risk imbalance in traditional portfolios that often results from higher volatility assets, leading to potential instability. The strategy involves calculating marginal risk contributions to adjust asset weights, ensuring equal risk contribution. The concept gained prominence through Bridgewater Associates' All Weather fund, which illustrated its effectiveness in achieving stable returns across market conditions. Additionally, the page examines portfolio types like equally-weighted portfolios and naïve risk parity, highlighting the limitations of simplistic strategies in risk management.
+title: Risk Parity Asset Allocation Strategies for Balanced Portfolios
+description: Risk parity asset allocation balances risk evenly across stocks bonds
+  and commodities to smooth returns and protect your portfolio Discover more inside
 ---
 
 

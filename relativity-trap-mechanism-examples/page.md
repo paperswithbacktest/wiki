@@ -1,6 +1,7 @@
 ---
-title: "Relativity Trap: Mechanism and Examples"
-description: "Explore the relativity trap in algorithmic trading which affects decision-making by favoring comparative assessments over absolute values learn to enhance trading strategies."
+title: Understanding the Relativity Trap in Decision Making
+description: Relativity trap reveals how shifts in time perception skew decisions
+  and behavior in marketing discover strategies to avoid bias and make smarter choices
 ---
 
 

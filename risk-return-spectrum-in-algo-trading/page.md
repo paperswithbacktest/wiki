@@ -1,6 +1,7 @@
 ---
-title: "Risk-Return Spectrum in Algo Trading"
-description: "Explore the risk-return spectrum in Algo Trading and discover strategies that balance potential gains and inherent risks using sophisticated algorithms."
+title: Understanding the Risk-Return Spectrum in Algorithmic Trading
+description: Algo trading risk-return spectrum offers a clear framework for balancing
+  potential profits and risks in automated strategies Discover more inside
 ---
 
 

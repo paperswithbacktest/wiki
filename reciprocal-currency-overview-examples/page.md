@@ -1,6 +1,7 @@
 ---
-title: "Reciprocal Currency: Overview and Examples"
-description: "Explore how reciprocal currency exchange and algorithmic trading intersect to boost efficiency and profitability in global financial markets. Discover key concepts and examples."
+title: Understanding Reciprocal Currency Systems in Local Communities
+description: Reciprocal currency keeps money circulating within communities to support
+  local businesses and build trust through skill exchanges Discover more inside.
 ---
 
 

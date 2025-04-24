@@ -1,6 +1,7 @@
 ---
-title: "Russell Investments Overview"
-description: "Discover how Russell Investments leverages algorithmic trading and AI to transform financial management, enhance decision-making, and optimize investment outcomes."
+title: Russell Investments Guide to Services and Investment Strategies
+description: Russell Investments delivers multi-asset solutions and research based
+  strategies to help clients reach financial goals with confidence Discover more inside
 ---
 
 

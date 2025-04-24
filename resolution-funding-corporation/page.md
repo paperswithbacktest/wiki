@@ -1,6 +1,7 @@
 ---
-title: "Resolution Funding Corporation"
-description: "Resolution Funding Corporation enhances financial stability by leveraging algorithmic trading to optimize its operations using advanced technology for precise and agile execution."
+title: Resolution Funding Corporation's Role In Savings And Loan Crisis
+description: Resolution Funding Corporation issued $30 billion in bonds to finance
+  savings and loan crisis cleanup and restore economic stability Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Settlement Risk: Types and Mitigation Strategies"
-description: "Explore types and strategies for mitigating settlement risk in algorithmic trading Discover methods to safeguard financial transactions and enhance market stability"
+title: Settlement Risk in Financial Transactions and Effective Defenses
+description: Settlement risk arises when one party fails to deliver after payment.
+  See how CCP DvP RTGS and AI solutions reduce settlement risk Discover more inside
 ---
 
 

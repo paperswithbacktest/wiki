@@ -1,6 +1,7 @@
 ---
-title: "SEC Regulations on Social Media Use"
-description: "Explore how the SEC regulates social media use for public companies focusing on compliance, transparency, and the impact of algorithmic trading in the digital age."
+title: Understanding SEC Social Media Regulations for Public Companies
+description: SEC social media regulations ensure material company news reaches all
+  investors simultaneously and uphold market fairness Discover more inside.
 ---
 
 

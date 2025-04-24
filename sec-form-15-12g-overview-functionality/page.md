@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 15-12G: Overview and Functionality"
-description: "SEC Form 15-12G allows companies to terminate securities registration, reducing compliance costs and enhancing operational flexibility, impacting market transparency."
+title: SEC Form 15-12G Deregistration Guide for Public Companies
+description: SEC Form 15-12G outlines how companies cancel public registration to
+  reduce reporting costs protect privacy streamline operations Discover more inside
 ---
 
 

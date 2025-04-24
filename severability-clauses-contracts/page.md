@@ -1,6 +1,7 @@
 ---
-title: "Severability Clauses in Contracts"
-description: "Explore the importance of severability clauses in algorithmic trading contracts ensuring stability by maintaining enforceability when specific terms are invalidated."
+title: Understanding Severability Clauses to Safeguard Your Contracts
+description: Severability clause protects agreements by removing illegal clauses to
+  preserve enforceable terms boosting contract stability Discover more inside
 ---
 
 

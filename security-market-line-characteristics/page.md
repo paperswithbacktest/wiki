@@ -1,6 +1,7 @@
 ---
-title: "Security Market Line Characteristics"
-description: "Explore the Security Market Line as part of the CAPM to evaluate asset pricing and risk in algo trading Gain insights into optimal investment strategies"
+title: Security Market Line Fundamentals and CAPM Applications
+description: Security Market Line clarifies risk and return under CAPM guiding investors
+  to identify mispriced securities and optimize portfolios Discover more inside
 ---
 
 

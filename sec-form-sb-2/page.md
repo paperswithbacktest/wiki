@@ -1,6 +1,7 @@
 ---
-title: "SEC Form SB-2"
-description: "Explore the impact and historical significance of SEC Form SB-2 on small businesses seeking public offerings and its connection to algorithmic trading."
+title: Understanding SEC Form SB-2 for Small Business Securities
+description: SEC Form SB-2 helps small businesses register and sell securities with
+  fewer disclosures to raise capital more efficiently Discover more inside.
 ---
 
 

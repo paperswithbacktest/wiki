@@ -1,6 +1,7 @@
 ---
-title: "Risk Aversion Measurement in Modern Portfolio Theory"
-description: "Explore how risk aversion shapes investment strategies through Modern Portfolio Theory and algorithmic trading, optimizing portfolios for risk and return balance."
+title: Understanding Risk Aversion in Modern Portfolio Theory
+description: Risk aversion measures investor discomfort with uncertainty and directs
+  portfolio diversification under Modern Portfolio Theory Discover more inside.
 ---
 
 

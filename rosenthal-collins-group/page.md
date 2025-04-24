@@ -1,6 +1,7 @@
 ---
-title: "Rosenthal Collins Group"
-description: "Rosenthal Collins Group LLC excels in commodities trading with innovative algorithmic tools and global reach offering superior trading platforms and financial services."
+title: Rosenthal Collins Group Company Profile And Trading Solutions
+description: Rosenthal Collins Group delivers secure futures stocks and forex trading
+  with expert market analysis and risk management Discover more inside.
 ---
 
 

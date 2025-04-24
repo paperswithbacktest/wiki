@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Market Tiers"
-description: "Explore how financial technology is transforming real estate through property classification, market tier analysis, and algorithmic trading, enhancing investment strategies."
+title: Understanding Real Estate Market Tiers For Informed Investing
+description: Real estate market tiers guide buyers and investors to evaluate luxury
+  mid tier and affordable properties for better decisions Discover more inside
 ---
 
 

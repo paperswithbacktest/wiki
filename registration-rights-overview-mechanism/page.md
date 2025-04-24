@@ -1,6 +1,7 @@
 ---
-title: "Registration Rights: Overview and Mechanism"
-description: "Explore the crucial role of registration rights and the impact of algorithmic trading in securities investment to understand market dynamics and investment strategies."
+title: Understanding Registration Rights Essentials for Investors
+description: Registration rights give investors control over when and how they sell
+  shares to public markets while ensuring smoother IPO timing Discover more inside.
 ---
 
 

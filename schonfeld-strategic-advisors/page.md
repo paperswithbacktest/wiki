@@ -1,6 +1,7 @@
 ---
-title: "Schonfeld Strategic Advisors"
-description: Schonfeld Strategic Advisors, a leading hedge fund headquartered in New York City, is renowned for its expert use of algorithmic trading techniques. With a history dating back to 1988, the firm has evolved into a multi-strategy powerhouse managing approximately $13.8 billion in assets as of 2023. Under the leadership of CEO Ryan Tolkin, Schonfeld leverages technology and innovation to thrive in diverse financial markets, employing sophisticated algorithms and data-driven strategies to achieve superior returns. As a prominent player in the global financial landscape, the firm continues to expand its influence, underscored by strategic acquisitions and a commitment to compliance and sustainable growth.
+title: Schonfeld Strategic Advisors Investment Strategies Overview
+description: Schonfeld Strategic Advisors combines quantitative and fundamental investing
+  and active risk management to grow client assets Discover more inside.
 ---
 
 

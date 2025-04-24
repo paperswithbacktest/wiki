@@ -1,6 +1,7 @@
 ---
-title: "Retail Fund: Objectives and Investment Strategies"
-description: "Explore retail fund objectives and investment strategies with a focus on algorithmic trading Gain insights into managing portfolios and optimizing returns while managing risks"
+title: 'Understanding Retail Funds: A Guide to Diversified Investments'
+description: Retail funds offer everyday investors professional management, diversified
+  portfolios and clear fee structures to grow wealth. Discover more inside.
 ---
 
 

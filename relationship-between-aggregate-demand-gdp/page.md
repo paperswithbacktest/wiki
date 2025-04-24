@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between Aggregate Demand and GDP"
-description: "Explore the intricate relationship between aggregate demand and GDP and how it informs algorithmic trading strategies to anticipate market shifts in economic cycles."
+title: Understanding the Relationship Between Aggregate Demand and GDP
+description: Aggregate demand shapes GDP by driving spending patterns and production
+  levels to predict economic shifts and guide policy decisions. Discover more inside.
 ---
 
 

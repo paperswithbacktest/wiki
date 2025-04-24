@@ -1,6 +1,8 @@
 ---
-title: "Seller-Financed Real Estate Transactions"
-description: "Explore the benefits of seller-financed real estate transactions where sellers offer buyer financing directly allowing for faster deals and flexible terms."
+title: Seller Financing Explained For Real Estate Transactions
+description: Seller financing lets buyers with limited credit secure properties with
+  flexible terms while sellers earn steady interest income on their sale Discover
+  more inside
 ---
 
 

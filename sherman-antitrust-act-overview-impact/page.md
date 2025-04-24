@@ -1,6 +1,7 @@
 ---
-title: "Sherman Antitrust Act: Overview and Impact"
-description: "Explore the pivotal role of the Sherman Antitrust Act in combating monopolistic practices and fostering competition, with insights into its relevance in algorithmic trading."
+title: 'Sherman Antitrust Act Explained: Origins Provisions and Impact'
+description: Sherman Antitrust Act outlines how US law curbs monopolies and unfair
+  business collusion to protect competition and consumers Discover more inside
 ---
 
 

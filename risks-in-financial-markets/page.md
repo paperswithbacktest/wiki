@@ -1,6 +1,7 @@
 ---
-title: "Risks in Financial Markets"
-description: "Explore the challenges and strategies of managing market risks in algorithmic trading Learn about systemic non-systemic and operational risks and mitigation tactics"
+title: Understanding and Managing Risks in Financial Markets
+description: Financial market risks include liquidity credit and systemic challenges.
+  Use diversification and hedging to safeguard your portfolio. Discover more inside
 ---
 
 

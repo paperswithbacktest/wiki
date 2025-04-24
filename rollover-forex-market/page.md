@@ -1,6 +1,7 @@
 ---
-title: "Rollover in the Forex Market"
-description: "Discover how the forex market facilitates global trade and investment with currency trading, a pivotal financial activity involving major currency pairs like EUR/USD and USD/JPY. Understand forex rollover, which impacts positions held overnight, and explore the role of algorithmic trading in enhancing trade precision and efficiency. This comprehensive guide offers insights into market fundamentals, rollover dynamics, and the innovation of algo trading, helping traders navigate the ever-evolving forex landscape while optimizing strategies and managing risks."
+title: Understanding Forex Rollover Impact on Overnight Trading Costs
+description: Forex rollover applies interest based on currency rate differentials
+  on overnight trades Calculate swap costs and optimize positions Discover more inside.
 ---
 
 

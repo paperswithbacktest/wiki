@@ -1,6 +1,7 @@
 ---
-title: "Shareholders' Agreement: Key Sections and Example"
-description: "Explore the critical components of shareholders' agreements in the context of corporate governance and algorithmic trading for stable business operations."
+title: Comprehensive Guide to Shareholders' Agreements and Key Clauses
+description: Shareholders' agreement outlines share transfer profit sharing and dispute
+  resolution rules to protect owners for smooth governance Discover more inside
 ---
 
 

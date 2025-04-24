@@ -1,6 +1,7 @@
 ---
-title: "Restricted Funds: Types and Legal Considerations"
-description: "Explore the interplay between restricted funds and algorithmic trading in financial markets Understand legal intricacies and regulatory challenges for fund management"
+title: Essential Guide to Restricted Funds Management for Nonprofits
+description: Restricted funds management helps nonprofits track donations by type,
+  maintain compliance, and build trust with donors. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Regulation T Requirements and Example"
-description: "Explore Regulation T's key aspects and its impact on algorithmic trading Learn how it shapes margin trading guidelines and why compliance is crucial for traders"
+title: Understanding Regulation T Margin Requirements for Investors
+description: Regulation T sets initial and maintenance margin rules to help investors
+  manage borrowing risk and maintain stability in stock trading Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-PX"
-description: "Explore the crucial role of SEC Form N-PX in enhancing investment transparency by mandating annual disclosure of proxy voting records by registered investment funds. Gain insights into how mutual funds and companies vote, aligning investment choices with personal values and governance philosophies. Learn how these disclosures impact algorithmic trading, offering data-driven strategies a competitive edge by understanding voting patterns and market predictions. Dive into the evolving landscape of financial technologies, fostering investor knowledge in navigating transparency and corporate governance effectively."
+title: Key Requirements for SEC Form N-PX Annual Voting Disclosure
+description: SEC Form N-PX filing shows how funds vote on shareholder issues to boost
+  transparency and help you align investments with your values Discover more inside.
 ---
 
 

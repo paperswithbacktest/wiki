@@ -1,6 +1,7 @@
 ---
-title: "Securities Lending and Its Mechanism"
-description: "Explore the intricate mechanisms of securities lending and algorithmic trading in modern financial markets. Understand how securities lending enhances market liquidity, providing opportunities for additional income and risk management. Discover how algorithmic trading revolutionizes trade execution with speed and accuracy. Unlock insights into maximizing returns and managing risks effectively through these pivotal financial strategies."
+title: 'Securities Lending Explained: Process Risks And Market Impact'
+description: Securities lending lets investors earn fees by loaning securities while
+  borrowers use for short selling and arbitrage Discover risks and benefits inside
 ---
 
 

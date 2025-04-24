@@ -1,6 +1,7 @@
 ---
-title: "Short Selling: Selling Assets Not Owned"
-description: "Explore the dynamics of short selling and algorithmic trading to understand how these advanced strategies can boost returns while managing risks effectively."
+title: Understanding Short Selling Risks Benefits And Market Impact
+description: Short selling equips investors with clear insights into processes risks
+  and market impact helping them make informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Short Selling and Company Float"
-description: "Discover insights into short selling, company floats, and algorithmic trading in the stock market Learn how these key concepts influence investment strategies and market dynamics"
+title: Understanding Company Float and Its Impact on Short Selling
+description: Company float shows the number of shares open for short selling and shapes
+  market volatility and squeeze risk for investors Discover more inside
 ---
 
 

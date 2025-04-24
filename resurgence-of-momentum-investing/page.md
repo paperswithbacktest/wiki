@@ -1,6 +1,7 @@
 ---
-title: "Resurgence of Momentum Investing"
-description: "Discover how momentum investing combined with algorithmic trading is shaping modern investment strategies by leveraging trends and automating trades for optimal returns."
+title: Momentum Investing Strategies and Principles for Investors
+description: Momentum investing uses price trends and charts to capture market moves
+  while managing risk through adaptive strategies Discover more inside
 ---
 
 

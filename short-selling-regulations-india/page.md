@@ -1,6 +1,7 @@
 ---
-title: "Short Selling Regulations in India"
-description: "Explore the intricacies of short selling regulations and algorithmic trading in India, focusing on SEBI's role in ensuring market integrity and investor confidence."
+title: Understanding Short Selling Regulations in India for Investors
+description: Short Selling Regulations in India enforce borrowing rules and limits
+  to maintain market stability and safeguard investors Discover more inside
 ---
 
 

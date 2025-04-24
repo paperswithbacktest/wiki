@@ -1,6 +1,7 @@
 ---
-title: "Realized Yield and Its Varieties"
-description: "Explore the essentials of realized yield and algorithmic trading Learn about yield types like bond and dividend yield and their role in optimizing investment strategies"
+title: Understanding Realized Yield and Its Role in Investments
+description: Realized yield reveals the actual returns from interest payments and
+  price changes so you can make informed portfolio decisions Discover more inside
 ---
 
 

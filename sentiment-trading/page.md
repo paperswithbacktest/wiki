@@ -1,6 +1,7 @@
 ---
-title: "Sentiment Trading"
-description: Discover the importance of Sentiment Trading in Algo Trading. Learn how sentiment indicators like VIX, High-Low Index, Bullish Percentage Index, and Moving Averages help predict market movements based on investor psychology.
+title: Mastering Sentiment Trading Strategies for Market Success
+description: Sentiment trading uses social media and news analysis to gauge market
+  mood and anticipate price moves with data-driven tools. Discover more inside.
 ---
 
 

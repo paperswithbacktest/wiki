@@ -1,6 +1,7 @@
 ---
-title: "Runaway Gap: Meaning and Mechanism"
-description: "Explore the mechanisms and significance of runaway gaps in algorithmic trading. Learn how these gaps influence market trends and enhance trading strategies."
+title: Comprehensive Guide to Runaway Gaps in Financial Markets
+description: Runaway gaps in financial markets reveal strong trend continuation opportunities
+  including detection methods and risk management Discover more inside.
 ---
 
 

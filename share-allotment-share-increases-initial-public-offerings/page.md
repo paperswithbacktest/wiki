@@ -1,6 +1,7 @@
 ---
-title: "Share Allotment, Share Increases, and Initial Public Offerings"
-description: "Explore the complexities of IPO share allotment, share increase dynamics, and algorithmic trading impacts to make informed investment decisions in evolving markets."
+title: Understanding Share Allotment Process and IPO Mechanisms
+description: Share allotment explained with methods like pro-rata, book building and
+  preferential issues to optimize fundraising and ownership Discover more inside
 ---
 
 

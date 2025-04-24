@@ -1,6 +1,7 @@
 ---
-title: "Sample weights"
-description: Discover the significance of sample weights in algorithmic trading to enhance model precision and adaptability. Learn how traders leverage these weights to prioritize data, refine predictions, and manage risk in dynamic financial markets. Explore techniques for applying sample weights, including time-decay weighting, to improve trading outcomes by focusing on the most relevant data while maintaining model robustness.
+title: Using Sample Weights for Fair and Accurate Data Analysis
+description: Sample weights ensure data imbalances are corrected to reduce bias and
+  improve model accuracy in analyses Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Share Dilution Risks and Formula"
-description: "Understand the risks and formula associated with share dilution in algo trading Discover how share issuance impacts investments and the role of tech in trading systems"
+title: Understanding Share Dilution and Its Impact on Shareholders
+description: Share dilution cuts investor ownership when companies issue new shares
+  but using funds strategically can grow value and offset effects Discover more inside
 ---
 
 

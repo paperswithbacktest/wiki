@@ -1,6 +1,7 @@
 ---
-title: "Series I Bonds: Rates, Risks, and Tax Implications"
-description: "Explore the benefits and risks of Series I Bonds as a low-risk investment option with inflation protection, and discover how they impact portfolio management and algorithmic trading strategies."
+title: Series I Bonds Guide to Inflation Protected Returns
+description: Series I Bonds offer inflation protection with a dual rate structure
+  and flexible purchase options backed by the US Treasury. Discover more inside.
 ---
 
 

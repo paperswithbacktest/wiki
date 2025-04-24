@@ -1,6 +1,7 @@
 ---
-title: "Risk Assessment Methods and Comparison: Qualitative vs. Quantitative"
-description: "Explore the intricacies of risk assessment in algorithmic trading by comparing quantitative and qualitative methods to optimize trading strategies and manage risks."
+title: Qualitative and Quantitative Risk Assessment Methods
+description: Risk assessment uses qualitative and quantitative methods to identify
+  and prioritize threats for informed decision making. Discover more inside.
 ---
 
 

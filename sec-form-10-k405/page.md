@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 10-K405"
-description: "Explore the historical role of SEC Form 10-K405 in insider trading disclosures and its impact on algorithmic trading strategy development in today's markets."
+title: SEC Form 10-K405 Filing Guide for Publicly Traded Companies
+description: SEC Form 10-K405 helps public companies correct missed executive stock
+  disclosures and maintain transparency and compliance Discover more inside
 ---
 
 

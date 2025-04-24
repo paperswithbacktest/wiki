@@ -1,6 +1,7 @@
 ---
-title: "Role of Wall Street in the Global Economy"
-description: "Explore Wall Street’s pivotal role in the global economy and the transformative impact of algorithmic trading, highlighting its influence on financial markets."
+title: The Role Of Wall Street In Shaping Global Financial Markets
+description: Wall Street impacts global markets through stock trades, bonds and policy
+  shifts that shape consumer confidence and economic growth Discover more inside
 ---
 
 

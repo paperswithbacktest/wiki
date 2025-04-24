@@ -1,6 +1,7 @@
 ---
-title: "Serial Correlation: Identification and Analysis"
-description: "Explore serial correlation and autocorrelation in time series analysis to enhance algo trading strategies by identifying patterns and predicting market trends."
+title: Understanding Serial Correlation in Time Series Data Analysis
+description: Serial correlation helps you see how past data drive future values in
+  time series models improving forecast accuracy and reliability Discover more inside.
 ---
 
 

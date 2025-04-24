@@ -1,6 +1,7 @@
 ---
-title: "Reinvesting in REIT Dividends"
-description: "Explore the strategic benefits of reinvesting REIT dividends through algorithmic trading to optimize income and growth in your real estate investment portfolio."
+title: Reinvesting REIT Dividends for Long Term Growth
+description: REIT dividend reinvestment can boost portfolio growth through compounding
+  and strategic share purchases Discover more inside.
 ---
 
 

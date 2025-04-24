@@ -1,6 +1,7 @@
 ---
-title: "Sentiment scoring for trading"
-description: "Explore the pivotal role of sentiment scoring in algorithmic trading and discover how investor emotions influence market trends and trading decisions."
+title: Implementing Sentiment Scoring in Trading for Better Decisions
+description: Sentiment scoring in trading delivers real-time mood analysis from social
+  media and news to guide buy and sell decisions Discover more inside
 ---
 
 

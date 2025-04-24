@@ -1,6 +1,7 @@
 ---
-title: "Regression Analysis in Business"
-description: "Discover how regression analysis empowers businesses in data-driven decision-making and algorithmic trading by modeling complex relationships and predicting market trends."
+title: Regression Analysis in Business and Algorithmic Trading
+description: Regression Analysis helps businesses and traders uncover data-driven
+  insights to improve decision-making and forecasting Discover more inside.
 ---
 
 

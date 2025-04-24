@@ -1,6 +1,7 @@
 ---
-title: "Short-Term Paper: Overview and Functionality"
-description: "Explore how short-term paper and algorithmic trading enhance investment strategies with low-risk, liquid options and advanced trading techniques for optimal returns."
+title: Understanding Short-Term Paper Types Uses and Risks
+description: Short-term paper provides a secure liquid investment for managing cash
+  flow through treasury bills commercial paper and CDs Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Radner Equilibrium in Economic Theory"
-description: "Explore Radner Equilibrium to understand market mechanics under uncertainty. Discover its impact on modern economic paradigms and algorithmic trading strategies."
+title: Understanding Radner Equilibrium in Markets With Uncertainty
+description: Radner Equilibrium shows how global markets balance under uncertainty
+  using probability forecasts contingent contracts and trading Discover more inside
 ---
 
 

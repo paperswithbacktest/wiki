@@ -1,6 +1,7 @@
 ---
-title: "Shareholder Equity Calculation"
-description: "Explore the synergy between shareholder equity and algorithmic trading to make informed investments. Learn how equity metrics enhance trading strategies and optimize returns."
+title: Shareholder Equity Explained Insights Into Valuation and Metrics
+description: Shareholder equity shows the true net worth of a company by detailing
+  assets minus liabilities and outlining key components and ratios Discover more inside.
 ---
 
 

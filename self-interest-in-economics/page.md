@@ -1,6 +1,7 @@
 ---
-title: "Self-Interest in Economics"
-description: "Explore the role of self-interest in economics and its impact on algorithmic trading. Learn how self-interest drives innovation and efficiency in financial markets, while presenting both opportunities and challenges. Discover insights into the mechanisms of algorithmic trading and its implications for market dynamics and economic growth."
+title: Understanding Self-Interest in Economic Decisions and Market Outcomes
+description: Self-interest drives economic choices from personal spending to market
+  competition Discover how it shapes growth and fairness Discover more inside
 ---
 
 

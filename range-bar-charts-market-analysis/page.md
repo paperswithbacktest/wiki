@@ -1,6 +1,7 @@
 ---
-title: "Range Bar Charts in Market Analysis"
-description: "Discover the power of range bar charts in market analysis for algo trading Learn how these price-based charts enhance trend detection and trading strategies"
+title: Range Bar Charts For Market Analysis And Trend Identification
+description: Range Bar Chart analysis reveals price ranges and volatility insights
+  to inform trading decisions and filter market noise Discover more inside.
 ---
 
 

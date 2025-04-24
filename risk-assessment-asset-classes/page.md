@@ -1,6 +1,7 @@
 ---
-title: "Risk Assessment of Asset Classes"
-description: "Explore the world of finance by understanding the risks associated with asset classes and the role of algorithmic trading. Learn to balance risk and return in investments like equities, bonds, money markets, and real estate. Discover how algorithmic trading enhances decision-making and how statistical models aid in risk management for optimized returns."
+title: Comprehensive Strategies for Asset Class Risk Assessment
+description: Asset class risk assessment helps investors evaluate risks in stocks,
+  bonds, real estate and commodities to create balanced portfolios Discover more inside
 ---
 
 

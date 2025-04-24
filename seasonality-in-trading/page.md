@@ -1,6 +1,7 @@
 ---
-title: "Seasonality in Trading"
-description: "Explore how seasonality impacts trading with algorithmic strategies that capitalize on recurring trends. Learn tools for analysis and popular market patterns."
+title: Understanding Seasonality in Trading for Smarter Market Timing
+description: Seasonality in trading helps investors uncover market patterns across
+  stocks and commodities to improve timing and strategy Discover more inside
 ---
 
 

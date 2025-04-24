@@ -1,6 +1,7 @@
 ---
-title: "Sequential Pay Collateralized Mortgage Obligation"
-description: "Explore the intricacies of Sequential Pay CMOs and their integration with algorithmic trading Expect insights on structured payment methods and trading strategies"
+title: Understanding Sequential Pay CMO Mortgage Obligation Structure
+description: Sequential Pay CMO structures allocate mortgage cash flows in a set order
+  so investors can manage risk and returns across tranches Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Savior Plan Overview"
-description: "Explore strategic planning in algorithmic trading with the Savior Plan framework enhancing algo efficiency resilience and financial performance for investors."
+title: Understanding the Latter-Day Saints Savior Plan Doctrine
+description: Savior Plan guides you through Gods plan for spiritual growth and eternal
+  life by following Jesus Christ and making purposeful choices Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 144: Filing Rules and Example"
-description: "Learn about SEC Form 144 filing rules for selling restricted securities and its impact on algorithmic trading to ensure regulatory compliance and market transparency."
+title: Understanding SEC Form 144 Filing Requirements and Procedures
+description: SEC Form 144 shows how to submit notices for restricted or control securities
+  sales while meeting holding periods and volume limits Discover more inside
 ---
 
 

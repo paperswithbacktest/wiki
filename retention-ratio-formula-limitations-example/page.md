@@ -1,6 +1,7 @@
 ---
-title: "Retention Ratio: Formula, Limitations, and Example"
-description: "Explore the significance of the retention ratio as a crucial financial metric in assessing a company's growth potential and strategic focus. This comprehensive guide highlights the calculation methods, limitations, and the role of the retention ratio in algorithmic trading and financial analysis. Understand how retained earnings influence reinvestment strategies and the balance between rewarding shareholders and fostering expansion for a well-rounded investment perspective. Discover the insights this ratio provides and how it can inform your investment decisions."
+title: Retention Ratio Explained A Guide To Growth And Dividends
+description: Retention ratio reveals how much profit a company reinvests for growth
+  versus dividends giving insights into investment strategy Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 305B2"
-description: "Understand the essentials of SEC Form 305B2 in algorithmic trading. Learn its importance for transparency and compliance in securities issuance for financial firms."
+title: Understanding SEC Form 305B2 Requirements for Debt Security Changes
+description: SEC Form 305B2 details how companies report changes to debt security
+  terms in active voice ensuring transparency and compliance Discover more inside.
 ---
 
 

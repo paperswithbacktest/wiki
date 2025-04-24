@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Mortgage Investment Conduit"
-description: "Discover how Real Estate Mortgage Investment Conduits (REMICs) and algorithmic trading optimize real estate portfolios through structured finance and advanced tech."
+title: Understanding REMIC Investments for Reliable Income
+description: REMIC investments pool mortgage loans into tax efficient securities that
+  deliver steady income streams while diversifying risk Discover more inside
 ---
 
 

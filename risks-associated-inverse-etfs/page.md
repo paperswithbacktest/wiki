@@ -1,6 +1,7 @@
 ---
-title: "Risks Associated with Inverse ETFs"
-description: "Explore the risks of inverse ETFs in algorithmic trading including their complexity volatility and short-term use. Essential insights for informed investment strategies"
+title: 'Understanding Inverse ETFs: Mechanisms Risks And Strategies'
+description: Guide to inverse ETFs explains how these funds profit from market declines
+  and highlights key risks with mitigation strategies Discover more inside.
 ---
 
 

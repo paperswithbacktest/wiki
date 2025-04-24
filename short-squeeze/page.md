@@ -1,6 +1,7 @@
 ---
-title: "Short squeeze"
-description: "Explore how short squeezes impact algorithmic trading strategies by understanding their mechanics and exploiting market shifts, with insights drawn from historical events."
+title: Short Squeeze Mechanics Indicators Risks And Strategies
+description: Short squeeze mechanics and risks with key indicators regulators track
+  and strategies investors use to anticipate market moves Discover more inside.
 ---
 
 

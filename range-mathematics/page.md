@@ -1,6 +1,7 @@
 ---
-title: "Range in Mathematics"
-description: "Explore the significance of range in algorithmic trading where it aids in assessing market volatility and enhances decision-making. This page investigates into defining and applying the range, highlighting its role in optimizing trading strategies and managing risks in the financial markets. Learn how traders use range to gauge market conditions and automate strategies through algorithms for improved efficiency and potential returns."
+title: Understanding Range in Mathematics and Its Trading Applications
+description: Range in mathematics measures data spread and function outputs from basics
+  to trading strategies with Python code examples Discover more inside
 ---
 
 

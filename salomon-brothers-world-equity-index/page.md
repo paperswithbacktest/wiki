@@ -1,6 +1,7 @@
 ---
-title: "Salomon Brothers World Equity Index"
-description: "Explore the transformative impact of algorithmic trading and the legacy of the Salomon Brothers World Equity Index in reshaping modern global equity markets."
+title: Guide to Using the Salomon Brothers World Equity Index
+description: Salomon Brothers World Equity Index tracks global market performance
+  to guide investors in making informed allocation decisions. Discover more inside
 ---
 
 

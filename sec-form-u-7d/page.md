@@ -1,6 +1,7 @@
 ---
-title: "SEC Form U-7D"
-description: "Explore SEC Form U-7D's crucial role in regulatory compliance for utility leasing and automated trading ensuring transparency and protecting market integrity."
+title: SEC Form U-7D Guide for Utility Asset Transaction Reporting
+description: SEC Form U-7D streamlines utility asset transaction reporting with clear
+  steps accurate disclosures and on time filing deadlines Discover more
 ---
 
 

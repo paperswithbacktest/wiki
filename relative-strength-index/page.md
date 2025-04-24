@@ -1,6 +1,7 @@
 ---
-title: "Relative strength index"
-description: Discover the power of the Relative Strength Index (RSI), a crucial momentum oscillator in algorithmic trading and technical analysis. Developed by J. Welles Wilder, RSI assesses price movement speed and changes, aiding traders in identifying overbought or oversold conditions. Operating on a 0 to 100 scale, an RSI above 70 suggests overbought, and below 30 indicates oversold. Widely adopted in automated strategies, RSI improves trade precision and entry/exit timing. Its flexibility and integration with other indicators enhance algorithmic trading strategies, proving essential for understanding market dynamics.
+title: Understanding the Relative Strength Index for Market Analysis
+description: Relative Strength Index helps traders measure price momentum and spot
+  overbought or oversold conditions to guide trades Discover more inside
 ---
 
 

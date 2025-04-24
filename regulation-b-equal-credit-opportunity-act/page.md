@@ -1,6 +1,7 @@
 ---
-title: "Regulation B and the Equal Credit Opportunity Act"
-description: "Explore Regulation B and the Equal Credit Opportunity Act's role in fair lending amidst the rise of algorithmic trading emphasizing compliance and innovation."
+title: Understanding Regulation B Under the Equal Credit Opportunity Act
+description: Regulation B ensures fair credit decisions by requiring lenders to respond
+  within set timeframes and explain denials clearly Discover more inside
 ---
 
 

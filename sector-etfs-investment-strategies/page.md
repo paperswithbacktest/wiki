@@ -1,6 +1,7 @@
 ---
-title: "Sector ETFs and Investment Strategies"
-description: "Explore how sector ETFs and algorithmic trading intersect to optimize investment strategies. Learn to harness these tools for enhanced diversification and informed decision-making."
+title: Understanding Sector ETFs For Targeted Industry Investments
+description: Sector ETFs enable targeted industry exposure with diversification and
+  trading flexibility Leverage risk controls to boost returns Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Rho: Usage, Calculation, and Examples"
-description: "Explore how rho, a crucial metric in financial derivatives, impacts option valuation and trading strategies in algorithmic trading, enhancing risk management."
+title: Understanding Rho in Option Pricing and Interest Rates
+description: Rho in option pricing measures how interest rate shifts affect call and
+  put values across maturities to guide trading decisions Discover more inside.
 ---
 
 

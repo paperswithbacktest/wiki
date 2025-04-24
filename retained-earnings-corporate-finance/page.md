@@ -1,6 +1,7 @@
 ---
-title: "Retained Earnings in Corporate Finance"
-description: "Explore how retained earnings impact corporate finance and algorithmic trading By understanding retained earnings gain insights into company growth and investment strategies"
+title: Retained Earnings Explained For Corporate Growth Strategies
+description: Retained earnings show how companies reinvest profits to fuel growth
+  manage debt and boost shareholder value with proven strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Riskless Principal and NASD Notice"
-description: "Explore riskless principal transactions and NASD guidelines in algorithmic trading Discover how brokers minimize market risk and maintain transparency in trades"
+title: Riskless Principal Transactions Explained Under NASD Notice 99-93
+description: Riskless principal transactions ensure brokers execute simultaneous securities
+  trades at clear fees and comply with NASD Notice Discover more inside
 ---
 
 

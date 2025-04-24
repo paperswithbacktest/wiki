@@ -1,6 +1,7 @@
 ---
-title: "Scalping in Forex Trading"
-description: "Discover the essentials of forex scalping in algo trading focusing on rapid trades and automation to enhance efficiency and profit in this fast-paced strategy."
+title: Mastering Forex Scalping Techniques for Quick Market Profits
+description: Forex Scalping guides traders through key strategies from technical indicators
+  to risk management and trading discipline Discover more inside
 ---
 
 

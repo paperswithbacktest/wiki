@@ -1,6 +1,7 @@
 ---
-title: "Securities Investor Protection Corporation"
-description: "Discover the critical role of the Securities Investor Protection Corporation in safeguarding investor assets amid the complexities of algorithmic trading."
+title: Understanding SIPC Investor Protection and Coverage Limits
+description: SIPC fully restores securities and cash up to 500,000 when a member brokerage
+  firm fails creating a safety net for investors Discover more inside.
 ---
 
 

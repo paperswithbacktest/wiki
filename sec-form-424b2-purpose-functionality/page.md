@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 424B2: Purpose and Functionality"
-description: "Learn the purpose and functionality of SEC Form 424B2 in securities offerings and algorithmic trading highlighting its role in transparency and market dynamics."
+title: Understanding SEC Form 424B2 Prospectus Supplements
+description: SEC Form 424B2 helps companies file prospectus supplements with detailed
+  securities info to protect investors and ensure compliance Discover more inside.
 ---
 
 

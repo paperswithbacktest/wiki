@@ -1,6 +1,7 @@
 ---
-title: "QVR Advisors"
-description: "Discover how QVR Advisors leads in algorithmic trading with data-driven strategies and advanced algorithms that optimize market trading efficiency and accuracy."
+title: QVR Advisors Quantitative Value Investing For Strategic Returns
+description: QVR Advisors applies quantitative value investing to uncover undervalued
+  stocks and optimize client portfolios for long term growth Discover more inside.
 ---
 
 

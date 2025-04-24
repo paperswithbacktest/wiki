@@ -1,6 +1,7 @@
 ---
-title: "Ratio Analysis for Company Comparison"
-description: "Explore the intricate relationship between ratio analysis and algorithmic trading in financial markets. Discover how key financial ratios help investors assess company performance while aiding the development of sophisticated trading algorithms for improved decision-making and competitive advantage."
+title: Financial Ratio Analysis for Comparing Company Performance
+description: Financial ratio analysis evaluates company performance by measuring liquidity
+  profitability to inform investment decisions Discover more inside
 ---
 
 

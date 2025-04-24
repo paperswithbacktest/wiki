@@ -1,6 +1,7 @@
 ---
-title: "Risks of Trading Low-Volume Stocks"
-description: "Explore the unique risks tied to trading low-volume stocks in algorithmic trading including liquidity issues, price volatility, and strategic mitigation techniques."
+title: Understanding Low-Volume Stocks Risks and Trading Strategies
+description: Low-volume stocks require research to manage liquidity risks and bid-ask
+  spreads Use limit and stop-loss orders to control volatility Discover more inside
 ---
 
 

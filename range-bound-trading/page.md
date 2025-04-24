@@ -1,6 +1,7 @@
 ---
-title: "Range-Bound Trading"
-description: "Explore the essentials of range-bound trading in algorithmic markets by learning strategies that capitalize on price oscillations between support and resistance levels."
+title: Mastering Range-Bound Trading Using Support and Resistance
+description: Range-bound trading helps you identify support and resistance levels
+  and use RSI and Bollinger Bands to time entries and exits. Discover more inside.
 ---
 
 

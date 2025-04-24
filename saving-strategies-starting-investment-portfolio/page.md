@@ -1,6 +1,8 @@
 ---
-title: "Saving Strategies for Starting an Investment Portfolio"
-description: "Discover strategies to start your investment portfolio with insights on savings habits, algorithmic trading, and financial planning to achieve financial security."
+title: Building a Diversified Investment Portfolio for Beginners
+description: Investment Portfolio strategies help you spread risk and grow wealth
+  with smart budgeting automated savings and tax advantaged accounts Discover more
+  inside.
 ---
 
 

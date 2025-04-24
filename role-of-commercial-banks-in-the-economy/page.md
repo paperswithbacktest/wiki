@@ -1,6 +1,7 @@
 ---
-title: "Role of Commercial Banks in the Economy"
-description: "Explore the vital functions that commercial banks fulfill in the economy, from managing deposits to providing loans that fuel growth and trade. Delve into the transformative impact of algorithmic trading on banking, enhancing efficiency and market dynamics. Understand how banks balance traditional roles with cutting-edge technologies, shaping financial stability and offering insights into the challenges and opportunities posed by automation and modern banking practices."
+title: Understanding the Role of Commercial Banks in Economic Growth
+description: Commercial banks fuel economic growth by offering deposit, loan, and
+  investment services that empower individuals and businesses Discover more inside
 ---
 
 

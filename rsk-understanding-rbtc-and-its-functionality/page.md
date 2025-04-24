@@ -1,6 +1,7 @@
 ---
-title: "RSK: Understanding RBTC and Its Functionality"
-description: "Explore RBTC and the RSK blockchain to learn how this Bitcoin extension integrates smart contracts for enhanced trading and decentralized applications."
+title: Unlock Bitcoin Smart Contracts with RSK and RBTC Integration
+description: RSK brings smart contracts to Bitcoin with RBTC and a secure two-way
+  peg system that ensures seamless value transfers and lower fees Discover more inside
 ---
 
 

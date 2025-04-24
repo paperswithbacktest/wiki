@@ -1,6 +1,7 @@
 ---
-title: "Rights Issue"
-description: "Explore the essential concepts of stock offerings, rights issues, and algorithmic trading to understand their impact on capital markets. Learn how companies raise funds and manage equity to enhance their financial position while offering investors opportunities to expand their portfolios. Navigate the intricacies of these financial mechanisms to make informed investment decisions in a rapidly evolving trading landscape."
+title: Rights Issue Effects On Shareholder Equity And Company Value
+description: Rights issue gives shareholders the opportunity to buy discounted shares
+  to maintain their equity and support company growth Discover more inside.
 ---
 
 

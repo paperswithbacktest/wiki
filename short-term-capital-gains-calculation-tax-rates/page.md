@@ -1,6 +1,7 @@
 ---
-title: "Short-Term Capital Gains: Calculation and Tax Rates"
-description: "Learn about the taxation of short-term capital gains from algo trading including calculation methods and strategies to optimize investment returns."
+title: Understanding Short-Term Capital Gains Tax and Strategies
+description: Short-term capital gains are taxed as ordinary income so timing sales
+  and harvesting losses can strategically lower your liability Discover more inside
 ---
 
 

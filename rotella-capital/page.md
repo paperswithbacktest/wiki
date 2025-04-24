@@ -1,6 +1,7 @@
 ---
-title: "Rotella Capital"
-description: "Rotella Capital Management leads in algorithmic trading with cutting-edge technology and data-driven strategies for optimal trading performance and investor confidence."
+title: Rotella Capital Investment Strategies for Long-Term Portfolio Growth
+description: Rotella Capital guides investors through diversified investment strategies
+  and risk management to build financial growth and resilience Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Riba in Islam and Its Prohibition"
-description: "Explore the prohibition of Riba in Islamic finance and its impact on algorithmic trading Discover ethical solutions aligning with Islamic principles in modern markets"
+title: Exploring Riba in Islam and Its Prohibition in Modern Finance
+description: Riba in Islam is banned to prevent unfair interest and foster profit
+  loss sharing in modern finance Explore types and rulings Discover more inside
 ---
 
 

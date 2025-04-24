@@ -1,6 +1,8 @@
 ---
-title: "Secondary Market: Functionality and Pricing"
-description: "Discover insights into the secondary market and algorithmic trading as components of financial markets. This page covers the processes behind trading existing securities, examines the role of pricing in market operations, and explores the significant impact of algorithmic trading on efficiency and cost reduction. Learn about the types of financial markets and understand how they facilitate resource allocation and economic growth."
+title: Understanding Secondary Market Operations and Dynamics
+description: Secondary market trading drives liquidity and price discovery across
+  securities while brokers and dealers enable seamless transactions Discover more
+  inside
 ---
 
 

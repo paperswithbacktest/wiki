@@ -1,6 +1,7 @@
 ---
-title: "Scalp Trading in Forex: Definition and Risks"
-description: "Discover the key aspects of forex scalp trading including its definition risks and the impact of algorithmic trading on this fast-paced strategy."
+title: Forex Scalp Trading Techniques for Consistent Success
+description: Forex scalp trading demands quick decisions and discipline to capture
+  small market moves. Explore risk controls and trading tools. Discover more inside.
 ---
 
 

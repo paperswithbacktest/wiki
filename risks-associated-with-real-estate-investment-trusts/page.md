@@ -1,6 +1,7 @@
 ---
-title: "Risks Associated with Real Estate Investment Trusts"
-description: "Explore the risks of investing in Real Estate Investment Trusts and discover how algorithmic trading could mitigate these challenges for better returns."
+title: Comprehensive Guide to Real Estate Investment Trusts and Risks
+description: Real estate investment trusts provide regular dividends and diversified
+  property exposure explore types benefits and risks Discover more inside.
 ---
 
 

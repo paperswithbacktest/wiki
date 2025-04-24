@@ -1,6 +1,7 @@
 ---
-title: "Repayment Processes for Various Loan Types"
-description: "Explore various loan types and their repayment strategies highlighting the role of algorithmic trading in optimizing and streamlining the loan management process."
+title: Understanding the Loan Repayment Process for All Loan Types
+description: Loan repayment process explained clearly to guide you through different
+  loan types choices interest rates and payment options Discover more inside.
 ---
 
 

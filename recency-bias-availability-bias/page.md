@@ -1,6 +1,7 @@
 ---
-title: "Recency Bias and Availability Bias"
-description: "Explore how cognitive biases like recency and availability bias can influence algorithmic trading decisions. Understand how these biases, rooted in human psychology, can impact the development and effectiveness of automated trading systems, leading to potential errors and inefficiencies. Discover strategies to mitigate these biases for improved trading outcomes."
+title: Understanding Recency and Availability Bias in Decision Making
+description: Recency bias and availability bias distort decisions by weighing recent
+  events over data Mitigate these biases for balanced choices Discover more inside
 ---
 
 

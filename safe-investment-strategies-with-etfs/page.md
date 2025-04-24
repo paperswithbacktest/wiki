@@ -1,6 +1,7 @@
 ---
-title: "Safe Investment Strategies with ETFs"
-description: "Explore safe investment strategies with ETFs and algo trading Learn to use exchange-traded funds and algorithmic trading to diversify and optimize portfolio management"
+title: Essential Exchange Traded Funds Guide for Beginner Investors
+description: ETFs let you spread your investments across diverse assets to manage
+  risk and simplify trading with transparent fees for growth Discover more inside
 ---
 
 

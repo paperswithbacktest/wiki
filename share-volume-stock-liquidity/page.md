@@ -1,6 +1,7 @@
 ---
-title: "Share Volume and Stock Liquidity"
-description: "Explore stock liquidity and share volume in algo trading Discover how these dynamics enhance market efficiency and inform smarter investment strategies"
+title: Understanding Share Volume And Stock Liquidity For Investors
+description: Share volume reveals stock trading activity and liquidity levels so investors
+  can make informed decisions on entry and exit. Discover more inside.
 ---
 
 

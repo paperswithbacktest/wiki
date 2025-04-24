@@ -1,6 +1,7 @@
 ---
-title: "Schiller, Robert"
-description: Robert Shiller's CAPE ratio is a pivotal financial metric offering long-term market valuation perspectives while algorithmic trading harnesses AI to transform trade execution strategies providing speed and precision. This article explores their synergy and how AI enhances CAPE's application for refined market analysis and investment strategy in dynamic financial landscapes.
+title: Robert Shiller's Behavioral Economics And Market Insights
+description: Robert Shiller shows how emotions influence markets and housing prices
+  with unique valuation tools like the CAPE ratio. Discover more inside.
 ---
 
 

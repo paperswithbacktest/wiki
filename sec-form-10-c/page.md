@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 10-C"
-description: "Explore the historical impact of SEC Form 10-C on corporate disclosures and its lasting influence on transparency and accountability in algorithmic trading."
+title: Navigating SEC Form 10-C Filings for New Securities
+description: SEC Form 10-C filings ensure transparent reporting of new stock and bond
+  issuances while helping investors make informed decisions Discover more inside.
 ---
 
 

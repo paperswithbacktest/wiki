@@ -1,6 +1,7 @@
 ---
-title: "Relative Vigor Index in Trading"
-description: "Explore the Relative Vigor Index for insights into market momentum and trends Ideal for algorithmic trading Enhance trading strategies and decision-making"
+title: Relative Vigor Index Explained for Effective Trend Trading
+description: Relative Vigor Index helps traders confirm trend strength and spot reversals
+  by comparing closing prices to trading ranges Discover more inside.
 ---
 
 

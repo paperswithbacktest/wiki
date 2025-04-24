@@ -1,6 +1,7 @@
 ---
-title: "Role of Index Numbers in Economics"
-description: "Explore how economic indicators and index numbers form the foundation of algorithmic trading enhancing strategies by offering insights into market dynamics."
+title: Understanding Economic Index Numbers and Their Applications
+description: Index numbers simplify economic data into clear metrics that track price
+  and output changes over time to inform decision making Discover more inside.
 ---
 
 

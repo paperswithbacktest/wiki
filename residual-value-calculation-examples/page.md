@@ -1,6 +1,7 @@
 ---
-title: "Residual Value Calculation and Examples"
-description: "Explore the intersections of residual value, depreciation, and asset valuation in algorithmic trading to enhance financial analysis and optimize trading strategies."
+title: Understanding Residual Value in Leasing and Asset Valuation
+description: Residual value drives smarter lease and depreciation planning by revealing
+  asset worth at lease end and guiding investment strategies. Discover more inside
 ---
 
 

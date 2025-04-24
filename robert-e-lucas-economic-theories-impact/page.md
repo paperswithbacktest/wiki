@@ -1,6 +1,7 @@
 ---
-title: "Robert E. Lucas: Economic Theories and Impact"
-description: "Explore how Robert E. Lucas Jr.'s economic theories, like rational expectations, shape algorithmic trading strategies today enhancing market adaptability and efficiency."
+title: Impact Of Robert E. Lucas On Modern Macroeconomic Modeling
+description: Robert E. Lucas reshaped macroeconomic models by introducing rational
+  expectations and the Lucas critique to improve policy forecasts Discover more inside
 ---
 
 

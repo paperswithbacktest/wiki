@@ -1,6 +1,7 @@
 ---
-title: "Shareholder Value Added: Overview and Formula"
-description: "Explore how Shareholder Value Added can enhance trading strategies by focusing on long-term value creation beyond costs in algorithmic trading contexts"
+title: Shareholder Value Added Measures for Sustainable Corporate Growth
+description: Shareholder Value Added helps investors assess how companies use capital
+  to generate returns and guide strategic decisions Discover more inside.
 ---
 
 

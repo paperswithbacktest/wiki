@@ -1,6 +1,7 @@
 ---
-title: "Sectoral Currency"
-description: "Explore the impact of algorithmic trading on the financial sector, examining its role in global markets, sectoral currencies, and economic innovation."
+title: Understanding Sectoral Currency Benefits And Challenges
+description: Sectoral currency empowers industries to maintain liquidity, streamline
+  trade, and foster growth while buffering economic swings. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Rule 10b-5 and Securities Fraud"
-description: "Explore the connection between Rule 10b-5 securities fraud and algorithmic trading Discover how regulation impacts market integrity and financial stability"
+title: Understanding SEC Rule 10b-5 Securities Fraud Protections
+description: Rule 10b-5 safeguards investors by outlining materiality scienter and
+  liability standards in securities fraud claims with examples Discover more inside
 ---
 
 

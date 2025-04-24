@@ -1,6 +1,7 @@
 ---
-title: "Selfish Mining and Its Mechanism"
-description: "Explore blockchain attacks and the mechanism of selfish mining a strategy disrupting cryptocurrency mining and impacting algorithmic trading reliability."
+title: Understanding Selfish Mining in Blockchain Technology
+description: Selfish mining undermines blockchain fairness by hiding blocks and wasting
+  network resources while gaining extra rewards. Discover more inside
 ---
 
 

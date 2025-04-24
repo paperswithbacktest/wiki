@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 10-12G: Purpose and Function"
-description: "Learn about SEC Form 10-12G its role in securities registration and its impact on algo trading providing transparency and compliance in financial markets."
+title: Comprehensive Guide to SEC Form 10-12G Filing Requirements
+description: SEC Form 10-12G details the registration process obligations and disclosures
+  required to go public and maintain investor transparency Discover more inside
 ---
 
 

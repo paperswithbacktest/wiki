@@ -1,6 +1,7 @@
 ---
-title: "Repo 105: Overview and Mechanism"
-description: "Explore the ethical and regulatory challenges of Repo 105 and algorithmic trading with insights into their impact on financial transparency and market stability."
+title: Repo 105 Sale Accounting and Its Effect on Financial Statements
+description: Repo 105 enabled Lehman Brothers to temporarily hide debt by treating
+  repurchase agreements as sales and skewing financial reports Discover more inside
 ---
 
 

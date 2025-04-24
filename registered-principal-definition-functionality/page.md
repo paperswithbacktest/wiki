@@ -1,6 +1,7 @@
 ---
-title: "Registered Principal: Definition and Functionality"
-description: "Explore the roles of registered principal investment firms within the financial industry, their compliance with regulations, and the impact of algorithmic trading."
+title: Key Responsibilities And Role Of A Registered Principal
+description: Registered Principals supervise investment sales enforce regulations
+  train staff and maintain compliance to safeguard markets Discover more inside
 ---
 
 

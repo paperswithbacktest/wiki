@@ -1,6 +1,7 @@
 ---
-title: "Reasons to Consider Investing"
-description: "Explore the benefits of algorithmic trading in investing as technology enhances trading efficiency optimizing asset growth systematically and devoid of emotions."
+title: Essential Investing Strategies for Building Long Term Wealth
+description: Investing empowers beginners to build wealth over time through strategies
+  like diversification compounding and tax planning Discover more inside.
 ---
 
 

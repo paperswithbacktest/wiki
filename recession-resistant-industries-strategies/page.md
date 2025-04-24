@@ -1,6 +1,7 @@
 ---
-title: "Recession Resistant Industries and Strategies"
-description: "Discover effective strategies and invest in recession-resistant industries with algorithmic trading for economic resilience and portfolio stability during downturns."
+title: Recession Resistant Industries and Business Survival Strategies
+description: Recession resistant industries stabilize revenue by meeting basic needs
+  as businesses cut costs innovate and diversify Discover more inside.
 ---
 
 

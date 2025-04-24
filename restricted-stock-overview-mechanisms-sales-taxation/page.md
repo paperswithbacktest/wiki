@@ -1,6 +1,7 @@
 ---
-title: "Restricted Stock: Overview, Mechanisms, Sales, and Taxation"
-description: "Explore the mechanisms, sales, and taxation of restricted stocks in the world of algo trading Discover strategies for optimizing your investments and navigating complex tax landscapes"
+title: Comprehensive Guide to Restricted Stock for Employees
+description: Restricted stock gives employees company shares under vesting schedules
+  while streamlining tax planning and retention strategies Discover more inside.
 ---
 
 

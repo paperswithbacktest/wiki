@@ -1,6 +1,7 @@
 ---
-title: "Risk Curve: Explanation and Considerations"
-description: "Explore effective risk management in algorithmic trading Learn about risk assessment the risk curve and strategies for optimizing trading outcomes"
+title: Understanding The Risk Curve For Smarter Decision Making
+description: Risk curve analysis measures the trade off between risk and reward in
+  finance health and engineering to guide smarter decisions Discover more inside.
 ---
 
 

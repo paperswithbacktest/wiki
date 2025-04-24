@@ -1,6 +1,7 @@
 ---
-title: "Rule 147 Overview and Recent Amendments"
-description: "Explore how Rule 147 and its amendment Rule 147A modernize securities regulation for local businesses, enhancing capital raising via algorithmic trading."
+title: Understanding SEC Rule 147 Intrastate Offerings and Amendments
+description: Rule 147 lets small businesses raise capital through intrastate offerings
+  without SEC registration, streamlining local investments Discover more inside.
 ---
 
 

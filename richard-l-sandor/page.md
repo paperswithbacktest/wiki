@@ -1,6 +1,7 @@
 ---
-title: "Richard L. Sandor"
-description: "Explore the evolution of financial markets with Richard Sandor's transformative impact on environmental finance and algorithmic trading for a sustainable future."
+title: Richard L. Sandor And The Birth Of Carbon Trading Markets
+description: Richard L. Sandor pioneered the Chicago Climate Exchange and financial
+  futures to help companies manage emissions and market risk Discover more inside.
 ---
 
 

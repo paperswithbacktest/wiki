@@ -1,6 +1,7 @@
 ---
-title: "Risk-Free Rate of Return"
-description: "Explore the critical roles of ROI, the risk-free rate, and algorithmic trading in financial decision-making Gain insights into these fundamental investment concepts"
+title: Understanding the Risk-Free Rate of Return in Finance
+description: Risk-free rate defines the baseline yield on government securities and
+  guides investment valuation and portfolio strategy Discover more inside
 ---
 
 

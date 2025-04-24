@@ -1,6 +1,7 @@
 ---
-title: "Recommended Investment Books by Financial Advisors"
-description: "Discover essential investment books endorsed by financial advisors to navigate the evolving markets. Explore algorithmic trading and gain crucial financial insights."
+title: Essential Investment Books for Beginners and Advanced Investors
+description: Investment books cover key topics from market strategies to risk management
+  and portfolio diversification with actionable advice Discover more inside
 ---
 
 

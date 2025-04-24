@@ -1,6 +1,7 @@
 ---
-title: "Rolling EPS: Overview and Example"
-description: "Discover how Rolling EPS enhances financial analysis and algorithmic trading by providing a dynamic view of a company's earnings performance. This advanced metric updates continuously, offering timely insights beyond traditional EPS measures. Uncover how rolling EPS elevates trading strategies by integrating real-time data, supporting informed investment decisions in a rapidly evolving market landscape."
+title: Rolling EPS Explained A Clear Measure Of Company Performance
+description: Rolling EPS gives a clearer picture of earnings over the past year and
+  helps investors make smarter stock decisions Discover insights inside
 ---
 
 

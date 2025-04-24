@@ -1,6 +1,7 @@
 ---
-title: "Reinforcement Learning for Trading"
-description: "Explore how Reinforcement Learning enhances algorithmic trading by optimizing decision-making with AI. Learn strategies for adaptable, efficient market analysis."
+title: Reinforcement Learning in Trading for Smarter Market Decisions
+description: Reinforcement learning in trading explains algorithms and reward functions
+  to optimize profit and control risk in real markets. Discover more inside.
 ---
 
 

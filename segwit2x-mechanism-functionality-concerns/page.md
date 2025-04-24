@@ -1,6 +1,8 @@
 ---
-title: "SegWit2x: Mechanism, Functionality, and Concerns"
-description: "Explore the impact of SegWit2x on blockchain scalability and algorithmic trading. Understand its role in increasing Bitcoin's transaction speed and network capacity."
+title: Understanding SegWit2x Bitcoin Upgrade and Its Impact
+description: SegWit2x combines Segregated Witness deployment and a planned 2 MB block
+  increase to boost Bitcoin speed and scalability amid community debate Discover more
+  inside.
 ---
 
 

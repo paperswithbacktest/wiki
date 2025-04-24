@@ -1,6 +1,7 @@
 ---
-title: "Reinforcement Learning From Human Feedback (Rlhf) (Machine Learning)"
-description: "Learn how Reinforcement Learning from Human Feedback (RLHF) trains AI by incorporating human feedback, enhancing its ability to align with human values."
+title: Understanding Reinforcement Learning From Human Feedback
+description: Reinforcement Learning From Human Feedback trains AI with human guidance
+  to align decisions with human values more accurately Discover more inside.
 ---
 
 

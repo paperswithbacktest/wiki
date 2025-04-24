@@ -1,6 +1,7 @@
 ---
-title: "Regulation A: Overview and Tiers"
-description: "Explore the synergy between Regulation A offerings and algorithmic trading Understainding Tier 1 and Tier 2's implications offers a roadmap for dynamic investment strategies"
+title: Regulation A Capital Raising Guide For Small Business Growth
+description: Regulation A streamlines capital raising for small businesses through
+  two tiers with clear SEC requirements and investor protections Discover more inside.
 ---
 
 

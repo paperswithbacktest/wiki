@@ -1,6 +1,7 @@
 ---
-title: "Share Purchase Rights: Overview and Mechanism"
-description: "Explore the dynamics of share purchase rights and algorithmic trading Learn how these tools empower investors to optimize portfolios and enhance returns"
+title: Understanding Share Purchase Rights for Shareholders
+description: Share Purchase Rights let shareholders buy new shares at a discount to
+  maintain ownership while raising company capital Discover more inside.
 ---
 
 

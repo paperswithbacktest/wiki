@@ -1,6 +1,7 @@
 ---
-title: "SEC Form MSD: Overview and Examples"
-description: "Explore the regulatory framework of municipal securities dealers with a focus on SEC Form MSD and the impact of algorithmic trading on market dynamics."
+title: Comprehensive Guide to Filing SEC Form MSD for Transfer Agents
+description: SEC Form MSD guide offers clear steps on filing requirements and amendments
+  and avoiding common mistakes to ensure compliance Discover more inside
 ---
 
 

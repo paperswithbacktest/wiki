@@ -1,6 +1,7 @@
 ---
-title: "Random walking"
-description: Explore the incorporation of Random Walk Theory in algorithmic trading and its implications for market predictability and strategy development. Understand how traders leverage randomness, challenges in market forecasting, and opportunities for designing robust trading algorithms amidst inherent market unpredictability.
+title: Random Walk Theory in Finance and Time Series Analysis
+description: Random Walk models show how analysts analyze unpredictable paths from
+  stock prices to particle diffusion in finance and science. Discover more inside.
 ---
 
 

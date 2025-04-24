@@ -1,6 +1,7 @@
 ---
-title: "Separate Account: Functionality and Types"
-description: "Explore the benefits of separate account investment options and the transformative role of algorithmic trading in enhancing investment efficiency and customization."
+title: Separate Accounts For Personalized Investment Strategies
+description: Separate account management gives direct ownership and customizable investment
+  strategies tailored to your goals and tax efficiency Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Sentiment analysis in trading"
-description: "Explore the transformative role of sentiment analysis in algo trading to enhance predictions by combining market psychology with data-driven strategies."
+title: Sentiment Analysis Applications In Trading And Market Decisions
+description: Sentiment analysis in trading helps you gauge market mood by analyzing
+  social media and news to inform buy or sell decisions Discover more inside.
 ---
 
 

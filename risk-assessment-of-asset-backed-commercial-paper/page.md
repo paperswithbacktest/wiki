@@ -1,6 +1,7 @@
 ---
-title: "Risk Assessment of Asset-Backed Commercial Paper"
-description: "Dive into the world of asset-backed commercial paper and algorithmic trading to explore key investment risks and strategies for informed financial decisions."
+title: Asset-Backed Commercial Paper Risk Management Techniques
+description: Asset-Backed Commercial Paper risk assessment shows how to evaluate credit
+  and liquidity and use credit enhancements to secure returns Discover more inside
 ---
 
 

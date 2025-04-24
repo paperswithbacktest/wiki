@@ -1,6 +1,7 @@
 ---
-title: "Secular Trends in Stock Investing"
-description: "Understand secular trends in stock investing including strategies and algorithmic trading to elevate your investing skills and make informed financial decisions."
+title: Understanding Secular Trends to Guide Long-Term Stock Investing
+description: Secular trends in stock investing reveal long-term market shifts driven
+  by technology demographics and sustainability trends. Discover more inside
 ---
 
 

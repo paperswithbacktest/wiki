@@ -1,6 +1,7 @@
 ---
-title: "Recovery Property: Definition and Mechanism"
-description: "Explore the pivotal role of recovery properties in real estate investments and algorithmic trading Discover strategies to optimize returns and mitigate market risks"
+title: Ensuring Data Integrity With Database Recovery Property
+description: Database recovery property helps restore data accurately after failures
+  using logs and checkpoints to uphold ACID integrity Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Short Selling and the Implementation of Bans"
-description: "Explore the impact of short selling and algorithmic trading in finance. Discover regulations, their motivations, and how they shape market stability and risk."
+title: Understanding Short Selling Bans and Their Market Impact
+description: Short selling bans can stabilize markets temporarily but carry hidden
+  risks such as inflated prices and enforcement challenges Discover more inside.
 ---
 
 

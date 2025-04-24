@@ -1,6 +1,7 @@
 ---
-title: "Registered Investment Advisor: Roles and Responsibilities"
-description: "Explore the roles and responsibilities of Registered Investment Advisors in the fast-evolving world of algorithmic trading and their impact on investment strategies."
+title: Understanding Registered Investment Advisors and Their Role
+description: Registered Investment Advisor overview explains RIA roles duties compliance
+  and investment strategies with a fiduciary focus Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Methods Used by the SEC to Monitor Insider Trading"
-description: "Discover how the SEC leverages algorithmic tools and data analytics to monitor insider trading and ensure fairness and transparency in financial markets."
+title: SEC Surveillance Techniques for Detecting Insider Trading
+description: Insider trading detection by the SEC uses advanced data analysis and
+  AI to spot suspicious market patterns and protect investors Discover more inside
 ---
 
 

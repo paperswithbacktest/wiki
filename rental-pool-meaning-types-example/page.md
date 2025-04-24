@@ -1,6 +1,7 @@
 ---
-title: "Rental Pool: Meaning, Types, and Example"
-description: "Explore the dynamic world of real estate investment with insights into rental pools and algorithmic trading to enhance portfolio returns and diversification."
+title: Understanding Timeshare Rental Pools and Their Benefits
+description: Rental pool options let timeshare owners earn passive income without
+  finding renters while resorts manage bookings and maintenance Discover more inside
 ---
 
 

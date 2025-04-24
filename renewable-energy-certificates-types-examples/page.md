@@ -1,6 +1,7 @@
 ---
-title: "Renewable Energy Certificates: Types and Examples"
-description: "Explore the integration of Renewable Energy Certificates with algorithmic trading to understand their impact on clean energy markets and sustainable practices."
+title: Understanding Renewable Energy Certificates and Their Impact
+description: Renewable Energy Certificates offer a way to support clean power and
+  boost renewable projects with every megawatt hour purchased. Discover more inside.
 ---
 
 

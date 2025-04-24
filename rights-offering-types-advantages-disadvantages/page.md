@@ -1,6 +1,7 @@
 ---
-title: "Rights Offering: Types, Advantages, and Disadvantages"
-description: "Discover the intricacies of rights offerings and their role in equity finance. Explore the advantages and challenges these strategies pose in capital markets."
+title: 'Rights Offering Explained: A Complete Shareholder Guide'
+description: Rights offering lets shareholders buy discounted shares to maintain ownership
+  and support company growth with simple steps Discover more inside.
 ---
 
 

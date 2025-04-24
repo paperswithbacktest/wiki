@@ -1,6 +1,7 @@
 ---
-title: "Russell 1000 Index: Overview, Holdings, and Performance"
-description: "Explore the synergy between Russell 1000 investments and algorithmic trading Discover how this approach optimizes returns with speed and precision"
+title: Russell 1000 Index Methodology And Performance Explained
+description: Russell 1000 Index shows how the largest US companies perform through
+  annual rebalancing and market cap weighting for benchmarking. Discover more inside.
 ---
 
 

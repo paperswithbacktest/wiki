@@ -1,6 +1,7 @@
 ---
-title: "Revenue Per Occupied Room (RevPOR)"
-description: "Master hotel revenue management with a focus on RevPOR to optimize guest spending and ancillary revenues using data-driven strategies for maximum profitability."
+title: Understanding And Optimizing Revenue Per Occupied Room RevPOR
+description: RevPOR Revenue Per Occupied Room reveals guest spending so hoteliers
+  can refine pricing and upsell services to increase revenue Discover more inside
 ---
 
 

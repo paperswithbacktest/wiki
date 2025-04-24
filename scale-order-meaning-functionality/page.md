@@ -1,6 +1,7 @@
 ---
-title: "Scale Order: Meaning and Functionality"
-description: "Explore the role of scale orders in algorithmic trading and their impact on business efficiency Discover how economic scaling enhances trade execution and growth."
+title: Understanding Scale Orders In Trading For Better Risk Management
+description: Scale orders in trading allow you to split trades across multiple price
+  levels to manage risk and achieve better average prices Discover more inside
 ---
 
 

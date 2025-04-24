@@ -1,6 +1,7 @@
 ---
-title: "SAC Capital Advisors"
-description: SAC Capital Advisors, founded by Steven A. Cohen in 1992, became a prominent hedge fund recognized for innovative strategies and technology-driven trading. Despite its success and substantial market influence through algorithmic trading, the firm faced significant legal challenges, notably insider trading allegations. These issues led to substantial financial penalties and the transformation into Point72 Asset Management. The SAC Capital saga highlights the need for ethical compliance and regulatory vigilance within the hedge fund industry.
+title: The Rise and Fall of SAC Capital Advisors Hedge Fund
+description: SAC Capital Advisors rose to a $14B hedge fund then paid a $1.8B insider
+  trading fine and relaunched as Point72 Asset Management Discover more inside.
 ---
 
 

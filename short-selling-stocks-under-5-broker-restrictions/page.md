@@ -1,6 +1,7 @@
 ---
-title: "Short Selling Stocks Under $5: Broker Restrictions and Regulations"
-description: "Discover the nuances of short selling stocks under $5, penny stocks, and algorithmic trading Understand broker restrictions and regulations to trade strategically"
+title: Managing Risks And Strategies For Short Selling Stocks Under $5
+description: Short selling stocks under $5 involves broker rules regulations volatile
+  markets use tactics to manage risk and protect capital discover more inside
 ---
 
 

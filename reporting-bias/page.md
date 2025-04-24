@@ -1,6 +1,7 @@
 ---
-title: "Reporting Bias (Machine Learning)"
-description: "Learn about reporting bias in machine learning how it affects model performance and techniques to mitigate it for more accurate and fair algorithms."
+title: Detect and Mitigate Reporting Bias in Machine Learning
+description: Reporting bias in machine learning skews results and fairness. Discover
+  how to detect and mitigate bias to build models you can trust. Discover more inside
 ---
 
 

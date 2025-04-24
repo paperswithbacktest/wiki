@@ -1,6 +1,7 @@
 ---
-title: "SEC Form CB"
-description: "Explore the pivotal role of SEC Form CB in regulating cross-border tender offers and rights offerings while navigating algorithmic trading complexities."
+title: Understanding SEC Form CB Filing Requirements and Procedures
+description: SEC Form CB guides investors through major corporate changes by detailing
+  merger and reorganization processes active and transparent Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Range Accrual Options: Types and Calculations"
-description: "Explore range accrual options in algo trading as these financial derivatives offer high returns within set index ranges through careful risk management."
+title: Range Accrual Options Mechanics and Trading Strategies
+description: Range Accrual Options let investors earn daily payouts when an asset
+  stays within a set range and manage exposure to volatility Discover more inside
 ---
 
 

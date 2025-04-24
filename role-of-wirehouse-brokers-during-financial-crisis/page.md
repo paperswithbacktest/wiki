@@ -1,6 +1,7 @@
 ---
-title: "Role of Wirehouse Brokers During the Financial Crisis"
-description: "Explore the pivotal role of wirehouse brokers in financial crises and the impact of algorithmic trading on the industry highlighting past challenges and evolving strategies."
+title: Wirehouse Brokers Role and Lessons From the Financial Crisis
+description: Wirehouse brokers adapted during the 2008 financial crisis by refocusing
+  on client centric risk management and transparent advice Discover more inside.
 ---
 
 

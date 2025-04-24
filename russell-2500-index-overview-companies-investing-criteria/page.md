@@ -1,6 +1,7 @@
 ---
-title: "Russell 2500 Index: Overview, Companies, Investing Criteria"
-description: "Discover the exciting potential of the Russell 2500 Index, a key U.S. market indicator that highlights dynamic small to mid-cap firms, ideal for innovative investing."
+title: Russell 2500 Index Overview for Small and Mid-Cap Investors
+description: Russell 2500 Index tracks the performance of small to mid cap US companies
+  and offers growth potential with diversified exposure. Discover more inside.
 ---
 
 

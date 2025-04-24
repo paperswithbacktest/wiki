@@ -1,6 +1,7 @@
 ---
-title: "Revenue Passenger Mile"
-description: "Explore how Revenue Passenger Mile (RPM) and algorithmic trading transform airline industry efficiency by optimizing operations and enhancing investment strategies."
+title: Understanding Revenue Passenger Mile And Its Impact On Airlines
+description: Revenue Passenger Mile measures miles flown by paying customers and helps
+  airlines improve capacity use and route pricing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC Form F-4: Purpose and Structure"
-description: "Explore the purpose and structure of SEC Form F-4 in the context of mergers and acquisitions and how algorithmic trading impacts these regulatory processes."
+title: SEC Form F-4 Guide for Cross-Border Mergers and Acquisitions
+description: SEC Form F-4 outlines key details of cross-border mergers and acquisitions
+  to keep investors informed and drive transparency Discover more inside.
 ---
 
 

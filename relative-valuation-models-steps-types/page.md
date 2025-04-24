@@ -1,6 +1,7 @@
 ---
-title: "Relative Valuation Models: Steps and Types"
-description: "Explore the steps and types of relative valuation models in algo trading and learn how these tools influence investment strategies and market dynamics."
+title: Mastering Relative Valuation Models for Informed Investing
+description: Relative valuation models simplify comparisons with P/E P/B EV/EBITDA
+  ratios to assess company value and guide investment decisions Discover more inside
 ---
 
 

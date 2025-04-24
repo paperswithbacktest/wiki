@@ -1,6 +1,7 @@
 ---
-title: "Record Date and Ex-Dividend Date Differences"
-description: "Discover the intricacies of dividend investing, focusing on the importance of record and ex-dividend dates, and how the integration of algorithmic trading techniques can enhance investment strategies. Learn how to optimize trading decisions by leveraging detailed knowledge of dividend timelines for improved income generation and capital gains."
+title: Understanding Record Date and Ex-Dividend Date in Stock Dividends
+description: Record date and ex-dividend date define eligible dividend recipients
+  by ensuring trades settle on time and help optimize timing Discover more inside.
 ---
 
 

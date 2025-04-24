@@ -1,6 +1,8 @@
 ---
-title: "Ray Dalio’s All-Weather Portfolio Explained"
-description: Discover the intricacies of Ray Dalio's All-Weather Portfolio, a resilient investment strategy designed to thrive in diverse economic climates through balanced asset diversification. Explore how algorithmic trading enhances this approach by optimizing asset allocation, improving risk management, and streamlining portfolio operations for consistent, long-term financial stability and performance.
+title: All-Weather Portfolio Overview Ray Dalio Strategy Explained
+description: All-Weather Portfolio protects investments across economic cycles by
+  diversifying in stocks bonds commodities and gold while balancing risk parity Discover
+  more inside.
 ---
 
 

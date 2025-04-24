@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 13F: Overview, Filing Requirements, Key Issues"
-description: "Discover the role of SEC Form 13F in algorithmic trading its filing requirements and how it provides strategic insights into institutional investment behaviors."
+title: Understanding SEC Form 13F Requirements and Filing Process
+description: SEC Form 13F reports quarterly holdings of institutional investors so
+  you can spot market trends and refine your investment strategy. Discover more inside.
 ---
 
 

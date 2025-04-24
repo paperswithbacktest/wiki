@@ -1,6 +1,7 @@
 ---
-title: "Short Sale Against the Box"
-description: "Explore the integration of short selling in algorithmic trading to maximize profits in fluctuating markets Discover strategies for informed and efficient trading"
+title: Understanding Short Sales Against the Box for Investor Hedging
+description: Short sale against the box helps investors lock in gains and delay taxes
+  by offsetting long positions with borrowed shares Discover more inside
 ---
 
 

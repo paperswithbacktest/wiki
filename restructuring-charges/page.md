@@ -1,6 +1,7 @@
 ---
-title: "Restructuring Charges"
-description: "Explore how restructuring charges in algorithmic trading impact financial statements and investor strategies. Understand these charges for better financial insights."
+title: Understanding Restructuring Charges Impact on Financial Health
+description: Restructuring charges outline company costs from layoffs to lease terminations
+  and help investors assess long term strategy Discover more inside
 ---
 
 

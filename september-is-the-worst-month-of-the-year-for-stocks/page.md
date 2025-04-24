@@ -1,6 +1,7 @@
 ---
-title: "September: The Worst Month of the Year for Stocks"
-description: Discover why September is known as a challenging month for the stock market and how it impacts algorithmic trading systems. Understand historical patterns, their effects on algorithms, and strategies to optimize performance and manage risks during these volatile periods. Equip yourself with insights to anticipate market trends and enhance the resilience of your trading strategies.
+title: September Effect Impact On Global Stock Market Performance
+description: September Effect insights reveal why stocks dip in this month from end
+  year selloffs seasonal shifts and Q3 earnings backed by data Discover more inside
 ---
 
 

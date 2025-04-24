@@ -1,6 +1,8 @@
 ---
-title: "Restaurants & Food Delivery Alternative Data"
-description: Explore how alternative data can transform the restaurant and food delivery sectors by providing vital insights beyond traditional metrics. Learn how businesses can utilize data from sources like geo-location and social media to enhance strategic planning and customer satisfaction. Discover the benefits of incorporating alternative data into algorithmic trading to identify new opportunities and make informed decisions in a rapidly evolving market landscape.
+title: Alternative Data Insights for Smarter Restaurant and Delivery Decisions
+description: Alternative data in restaurants and food delivery uncovers customer trends
+  through social media, reviews, and satellite imagery to boost service and operations.
+  Discover more inside.
 ---
 
 

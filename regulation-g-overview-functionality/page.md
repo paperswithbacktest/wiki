@@ -1,6 +1,7 @@
 ---
-title: "Regulation G: Overview and Functionality"
-description: "Explore the significance of Regulation G in algorithmic trading, highlighting the importance of transparency, compliance, and ethical trading practices in financial markets."
+title: Understanding SEC Regulation G Non-GAAP Disclosure Requirements
+description: Regulation G requires public companies to report non GAAP and GAAP earnings
+  together to improve transparency and investor trust Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC Schedule 13E-3: Purpose and Mechanism"
-description: "Explore how SEC Schedule 13E-3 impacts algorithmic trading by ensuring transparency in going-private transactions Dive into regulatory influence on trading dynamics"
+title: Understanding SEC Schedule 13E-3 Going Private Requirements
+description: SEC Schedule 13E-3 details the going private process including participants
+  deadlines and conflict disclosures to protect shareholders Discover more inside
 ---
 
 

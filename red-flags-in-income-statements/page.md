@@ -1,6 +1,7 @@
 ---
-title: "Red Flags in Income Statements"
-description: "Explore the critical red flags in income statements that investors should watch for in algorithmic trading contexts to ensure financial health and stability."
+title: Identifying Red Flags in Income Statements for Financial Health
+description: Income statement red flags help you spot cost spikes and revenue shifts
+  so you can address issues early and protect finances Discover more inside.
 ---
 
 

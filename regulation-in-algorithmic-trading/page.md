@@ -1,6 +1,7 @@
 ---
-title: "Regulation in Algorithmic Trading"
-description: "Explore the evolving landscape of algorithmic trading regulation with a focus on SEBI's recent updates aiming to ensure transparency and market integrity."
+title: Algorithmic Trading Regulation Best Practices for Compliance
+description: Algorithmic trading regulation ensures fair stable markets with clear
+  compliance rules robust risk management and regulatory oversight Discover more inside
 ---
 
 

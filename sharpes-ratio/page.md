@@ -1,6 +1,7 @@
 ---
-title: "Sharpes ratio"
-description: "Explore how algorithmic trading leverages the Sharpe Ratio to assess risk-adjusted returns and optimize strategy effectiveness for enhanced investment outcomes."
+title: Understanding the Sharpe Ratio for Risk-Adjusted Returns
+description: Sharpe Ratio reveals how much extra return you gain per unit of risk
+  using clear calculations practical insights and examples Discover more inside
 ---
 
 

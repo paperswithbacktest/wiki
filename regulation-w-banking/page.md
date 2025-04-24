@@ -1,6 +1,7 @@
 ---
-title: "Regulation W in Banking"
-description: "Explore how Regulation W impacts financial stability and algorithmic trading, shedding light on the intricate dynamics of banking regulations in modern markets."
+title: Understanding Regulation W And Its Affiliate Lending Rules
+description: Regulation W limits bank affiliate lending risk with caps on collateral
+  and reporting rules to safeguard financial stability Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Regulation Fair Disclosure and Transparency"
-description: "Explore Regulation Fair Disclosure's impact on algorithmic trading emphasizing transparency and equal access to information to ensure fair market practices."
+title: 'Understanding Regulation FD: Ensuring Fair Market Disclosure'
+description: Regulation FD ensures all investors receive material company updates
+  at the same time fostering market fairness and transparency. Discover more inside.
 ---
 
 

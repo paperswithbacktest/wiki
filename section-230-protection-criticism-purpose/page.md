@@ -1,6 +1,7 @@
 ---
-title: "Section 230: Protection, Criticism, and Purpose"
-description: "Explore Section 230's role in online platform liability and its impact on algorithmic trading. Uncover legal and ethical challenges intersecting tech, law, and finance."
+title: Understanding Section 230 Protections and Proposed Reforms
+description: Section 230 shields platforms from liability for user posts and lets
+  them remove harmful content while supporting free speech online Discover more inside
 ---
 
 

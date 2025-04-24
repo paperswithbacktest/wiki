@@ -1,6 +1,7 @@
 ---
-title: "Return on Average Capital Employed (ROACE)"
-description: "Explore how Return on Average Capital Employed (ROACE) enhances financial analysis by assessing a company's capital efficiency and profitability for better investment decisions."
+title: Return on Average Capital Employed ROACE Guide for Investors
+description: ROACE provides a clear view of capital efficiency by dividing EBIT by
+  average capital helping investors compare companies Discover more inside.
 ---
 
 

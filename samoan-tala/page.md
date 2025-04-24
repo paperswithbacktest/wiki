@@ -1,6 +1,7 @@
 ---
-title: "Samoan Tala"
-description: "Explore the significance of the Samoan Tala as a symbol of national identity and economic sovereignty, and discover its role in modern algorithmic trading."
+title: Comprehensive Guide to the Samoan Tala Currency and Economy
+description: Samoan Tala is Samoa official currency managed by the Central Bank to
+  ensure stability in daily transactions in coins and banknotes. Discover more inside.
 ---
 
 

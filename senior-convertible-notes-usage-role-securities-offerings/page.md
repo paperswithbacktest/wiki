@@ -1,6 +1,7 @@
 ---
-title: "Senior Convertible Notes: Usage and Role in Securities Offerings"
-description: "Explore the dual nature of senior convertible notes as a mix of debt and equity providing issuers with strategic financing solutions and investors with potential equity gains."
+title: Understanding Senior Convertible Notes for Corporate Financing
+description: Senior convertible notes offer companies a blend of debt protection and
+  equity upside by letting investors convert loans into stock Discover more inside.
 ---
 
 

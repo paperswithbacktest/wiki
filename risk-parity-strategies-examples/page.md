@@ -1,6 +1,7 @@
 ---
-title: "Risk Parity Strategies and Examples"
-description: "Discover risk parity strategies for algorithmic trading and learn how to balance risk across portfolios. Explore advanced techniques for optimizing investments."
+title: Risk Parity Strategy Explained for Smoothed Portfolio Growth
+description: Risk parity strategy balances risk across stocks bonds and commodities
+  to deliver smoother returns and mitigate volatility Discover more inside
 ---
 
 

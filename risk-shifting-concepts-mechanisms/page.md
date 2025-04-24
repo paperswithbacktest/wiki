@@ -1,6 +1,7 @@
 ---
-title: "Risk Shifting: Concepts and Mechanisms"
-description: "Discover the essentials of risk shifting and algorithmic trading in financial markets Understand the mechanisms and implications of transferring and managing risks."
+title: Understanding Risk Shifting Strategies in Corporate Finance
+description: Risk Shifting in corporate finance lets firms transfer losses to insurers
+  lenders and derivatives to safeguard assets and fuel growth Discover more inside
 ---
 
 

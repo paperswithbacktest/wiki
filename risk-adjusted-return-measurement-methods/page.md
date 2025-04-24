@@ -1,6 +1,7 @@
 ---
-title: "Risk-Adjusted Return and Measurement Methods"
-description: "Explore the significance of risk-adjusted returns and algorithmic trading in modern finance Essential metrics and strategies for optimal investment performance"
+title: Understanding Risk-Adjusted Return Metrics For Smart Investing
+description: Risk-adjusted return equips investors to compare performance fairly by
+  balancing gains and volatility for a portfolio strategy. Discover more inside.
 ---
 
 

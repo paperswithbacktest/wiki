@@ -1,6 +1,7 @@
 ---
-title: "Robotic Process Automation and Its Benefits"
-description: "Explore the synergy of Robotic Process Automation and algorithmic trading to boost efficiency and accuracy in the financial sector optimizing trading strategies."
+title: Robotic Process Automation Guide for Business Efficiency
+description: Robotic Process Automation boosts efficiency by automating repetitive
+  tasks around the clock so teams deliver accurate results faster Discover more inside
 ---
 
 

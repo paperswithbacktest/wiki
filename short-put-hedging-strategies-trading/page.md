@@ -1,6 +1,7 @@
 ---
-title: "Short Put Hedging Strategies in Trading"
-description: "Explore the integration of short put hedging strategies in algorithmic trading for enhanced risk management and trading efficiency in financial markets."
+title: Understanding Short Put Options For Effective Portfolio Hedging
+description: Short put options generate income while hedging against modest stock
+  declines and cushioning minor losses. Discover effective risk management tips inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "September Investments: Challenges and Insights"
-description: "Explore the influence of algorithmic trading in September's volatile markets where historical trends highlight unique investment challenges and opportunities."
+title: September Investment Strategies for Smart Portfolio Growth
+description: September investment strategies help you navigate end of fiscal year
+  volatility and optimize your portfolio with tax savvy moves Discover more inside
 ---
 
 

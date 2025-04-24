@@ -1,6 +1,7 @@
 ---
-title: "Schedule 13G: Purpose and Filing Requirements"
-description: "Explore the role of Schedule 13G, a key SEC filing, essential for passive investors holding over 5% of a company. Understand its impact on algo trading."
+title: Understanding Schedule 13G Filings for Passive Investors
+description: Schedule 13G lets passive investors with over 5% holdings report ownership
+  under SEC rules with clear deadlines and criteria Discover more inside
 ---
 
 

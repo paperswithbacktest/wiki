@@ -1,6 +1,7 @@
 ---
-title: "Relative Valuation of Stocks"
-description: "Discover the essentials of relative stock valuation and algorithmic trading through equity analysis Dive into financial strategies to boost investment success"
+title: Comprehensive Guide To Relative Valuation Of Stocks
+description: Relative Valuation lets investors compare stocks using P/E P/B EV EBITDA
+  ratios to spot mispriced opportunities for smarter decisions Discover more inside
 ---
 
 

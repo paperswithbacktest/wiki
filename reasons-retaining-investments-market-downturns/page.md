@@ -1,6 +1,7 @@
 ---
-title: "Reasons for Retaining Investments After Market Downturns"
-description: "Discover effective strategies for managing investments during market downturns with a focus on algorithmic trading and the importance of retaining positions. This article highlights why holding investments can mitigate losses and how algorithmic trading can optimize decision-making during volatile periods. Embrace a long-term perspective with diversified investments to achieve stability and align with financial goals despite market challenges."
+title: Investment Strategies for Retaining Assets During Market Downturns
+description: Market downturns can offer chances to buy low and rebuild portfolios
+  through diversification and dollar cost averaging Discover more inside
 ---
 
 

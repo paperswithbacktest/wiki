@@ -1,6 +1,7 @@
 ---
-title: "Regulation C: Overview and Scope"
-description: "Explore the intricacies of Regulation C and its impact on algorithmic trading, focusing on transparency, compliance, and the challenges faced by market participants."
+title: Understanding Regulation C Home Mortgage Disclosure Act
+description: Regulation C requires lenders to report detailed home loan data to ensure
+  fair treatment across races genders and geographies Discover more inside
 ---
 
 

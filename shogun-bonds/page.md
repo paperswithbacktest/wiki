@@ -1,6 +1,7 @@
 ---
-title: "Shogun Bonds"
-description: "Explore the unique world of Shogun Bonds in Japan's vast financial market where foreign entities issue non-yen denominated bonds enhanced by algorithmic trading."
+title: Guide To Shogun Bonds Issuance In Japanese Yen Markets
+description: Shogun Bonds offer foreign companies a way to raise yen funding directly
+  from Japanese investors while managing currency risk. Discover more inside.
 ---
 
 

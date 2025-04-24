@@ -1,6 +1,7 @@
 ---
-title: "Russell 3000 Value Index Overview and Functionality"
-description: "Explore the Russell 3000 Value Index as it showcases value stocks with low P/B ratios and high dividend yields ideal for algorithmic trading strategies."
+title: A Comprehensive Guide to the Russell 3000 Value Index
+description: Russell 3000 Value Index tracks US stocks with low price-to-book and
+  strong dividend yield to highlight undervalued opportunities Discover more inside
 ---
 
 

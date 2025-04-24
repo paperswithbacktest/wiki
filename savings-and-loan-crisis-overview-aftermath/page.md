@@ -1,6 +1,7 @@
 ---
-title: "Savings and Loan Crisis: Overview and Aftermath"
-description: "Discover the legacy of the Savings and Loan Crisis its economic impact and lessons for modern finance including the rise of algorithmic trading and risk management."
+title: Understanding the Savings and Loan Crisis and Its Impact
+description: Savings and Loan Crisis overview shows how 1980s deregulation and interest
+  swings triggered failures and reforms to protect savers. Discover more inside.
 ---
 
 

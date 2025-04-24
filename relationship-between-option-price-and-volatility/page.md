@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between Option Price and Volatility"
-description: "Explore the link between option pricing and volatility in algorithmic trading Discover how volatility impacts option premiums and influences trading strategies"
+title: Understanding Option Volatility and Its Impact on Pricing
+description: Option volatility drives option pricing by quantifying market risk and
+  guiding hedging strategies with Black-Scholes and VIX insights Discover more inside.
 ---
 
 

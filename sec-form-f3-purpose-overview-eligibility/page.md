@@ -1,6 +1,7 @@
 ---
-title: "SEC Form F-3: Purpose, Overview, and Eligibility"
-description: "SEC Form F-3 provides foreign issuers streamlined access to U.S. capital markets facilitating securities offerings. Learn about its eligibility and benefits here."
+title: SEC Form F-3 Explained For Foreign Issuers In US Markets
+description: SEC Form F-3 streamlines capital raising for foreign issuers in the US
+  market by reducing paperwork and fast tracking registration Discover more inside.
 ---
 
 

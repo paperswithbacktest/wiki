@@ -1,6 +1,7 @@
 ---
-title: "Scope of the Wealth Management and Financial Advisory Industry"
-description: "Explore the wealth management industry's current scale and future growth potential, focusing on how algorithmic trading is reshaping financial advisory practices."
+title: Comprehensive Wealth Management And Financial Advisory Guide
+description: Wealth management and financial advisory services empower clients to
+  optimize investments taxes and retirement planning Discover more inside.
 ---
 
 

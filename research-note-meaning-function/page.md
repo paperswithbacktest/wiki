@@ -1,6 +1,7 @@
 ---
-title: "Research Note: Meaning and Function"
-description: "Explore how research notes enhance algo trading by offering timely market insights improving strategy precision and efficiency amidst evolving market trends."
+title: Crafting Effective Research Notes for Rapid Information Sharing
+description: Research notes summarize key findings and accelerate information sharing
+  across disciplines with concise structure tips Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Return on Invested Capital"
-description: "Explore how Return on Invested Capital (ROIC) optimizes algorithmic trading by enhancing capital efficiency assessment to boost investment decisions and profitability."
+title: Understanding Return on Invested Capital for Investors
+description: Return on Invested Capital shows how companies convert every dollar invested
+  into profit while guiding better investment decisions Discover more inside
 ---
 
 

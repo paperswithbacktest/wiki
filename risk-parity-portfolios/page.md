@@ -1,6 +1,7 @@
 ---
-title: "Risk Parity Portfolios"
-description: Optimize your investment strategy with a focus on risk parity portfolios in algo trading. This approach shifts the emphasis from equal capital distribution to achieving equal risk contribution across all assets, enhancing portfolio stability and diversification. Learn how algorithmic trading can leverage risk parity for more consistent returns by dynamically managing risk factors. Discover practical insights and step-by-step guidance on constructing risk parity portfolios using Python, catering to both novice and seasoned investors. Explore the benefits, challenges, and theoretical foundations of this innovative approach to asset allocation in financial markets.
+title: Building a Balanced Risk Parity Investment Portfolio
+description: Risk parity portfolio spreads risk across assets using leverage and diversification
+  to improve stability and smooth returns in varied markets Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Return On Average Equity: Overview and Significance"
-description: "Discover how Return on Average Equity (ROAE) offers a refined view on profitability and its significance in both investment analysis and algorithmic trading strategies."
+title: Return on Average Equity ROAE Explained for Investor Analysis
+description: Return on Average Equity offers a clear view of how companies leverage
+  average shareholder equity to drive profit and efficiency Discover more inside.
 ---
 
 

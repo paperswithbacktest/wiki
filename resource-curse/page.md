@@ -1,6 +1,7 @@
 ---
-title: "Resource Curse"
-description: "Explore how natural resources impact economic growth and the challenges of the resource curse Investigate the role of algorithmic trading in resource-dependent sectors"
+title: Understanding the Resource Curse and Its Global Impact
+description: Resource Curse threatens economic stability fosters corruption and conflict
+  without transparent governance and fair distribution Discover more inside
 ---
 
 

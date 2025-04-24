@@ -1,6 +1,7 @@
 ---
-title: "Self-Exciting Processes"
-description: "Explore the role of self-exciting processes like Hawkes in algo trading enhancing predictive accuracy and capturing market dynamics for profitable decision-making."
+title: Understanding Self-Exciting Processes in Seismology and Finance
+description: Self-exciting processes show how events from earthquakes to market moves
+  and media posts cluster in time offering modeling insights Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Rights Issues in Finance"
-description: "Explore rights issues and algorithmic trading in finance. Understand their impact on investment strategies and market dynamics, enhancing your financial insights."
+title: Rights Issue Guide for Corporate Finance and Investors
+description: Rights issue lets current shareholders buy new shares at a discount to
+  fund growth and avoid dilution by taking planned action Discover more inside.
 ---
 
 

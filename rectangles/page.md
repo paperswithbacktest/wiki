@@ -1,6 +1,7 @@
 ---
-title: "Rectangles"
-description: "Discover the significance of rectangle patterns in algorithmic trading Learn how these formations help traders identify consolidation phases and potential breakouts"
+title: Essential Rectangle Geometry Explained with Formulas and Uses
+description: Rectangle properties and formulas provide methods to calculate area perimeter
+  and diagonals for construction design and education Discover more inside
 ---
 
 

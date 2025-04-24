@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between Money Supply and GDP"
-description: "Explore the dynamic link between GDP, money supply, and algorithmic trading Learn how economic indicators guide financial strategies in complex markets"
+title: Understanding the Relationship Between Money Supply and GDP
+description: Money supply and GDP reveal how central banks balance growth and inflation
+  by adjusting liquidity to boost economic output Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "SEC Form F-6: Overview and Eligibility Criteria"
-description: "Explore SEC Form F-6 and understand its key role in registering American Depositary Receipts ADRs with the SEC vital for global investment and algo trading."
+title: Understanding SEC Form F-6 for ADR Registration and Compliance
+description: SEC Form F-6 guide shows how banks set up ADR programs to trade stocks
+  on US exchanges with compliance and investor protection Discover more inside
 ---
 
 

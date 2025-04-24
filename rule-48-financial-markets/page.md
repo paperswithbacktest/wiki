@@ -1,6 +1,7 @@
 ---
-title: "Rule 48 in Financial Markets"
-description: "Explore Rule 48, a NYSE mechanism for managing market volatility, alongside the impact of algorithmic trading on financial markets and stock exchanges."
+title: 'Understanding Rule 48: Ensuring Fair and Orderly Trading'
+description: Rule 48 halts trading during extreme volatility so investors can assess
+  news and make informed decisions preserving market fairness Discover more inside.
 ---
 
 

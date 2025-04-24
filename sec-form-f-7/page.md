@@ -1,6 +1,7 @@
 ---
-title: "SEC Form F-7"
-description: "SEC Form F-7 simplifies cross-border securities offerings for Canadian issuers in the U.S. via the MJDS enhancing access to U.S. capital markets."
+title: Navigating SEC Form F-7 for Canadian Securities Offerings
+description: SEC Form F-7 streamlines access for Canadian companies to US securities
+  markets using existing disclosures and simplifies compliance Discover more inside
 ---
 
 

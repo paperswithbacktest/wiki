@@ -1,6 +1,7 @@
 ---
-title: "Share Disposition in Company Liquidation"
-description: "Explore asset distribution in company liquidation and the influence of algorithmic trading a crucial aspect in navigating financial and legal complexities in modern finance."
+title: Understanding Share Disposition in Company Liquidation
+description: Share disposition in company liquidation explains how shares become worthless
+  as assets settle debts and outlines residual payments Discover more inside
 ---
 
 

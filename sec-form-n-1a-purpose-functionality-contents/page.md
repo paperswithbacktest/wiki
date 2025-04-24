@@ -1,6 +1,7 @@
 ---
-title: "SEC Form N-1A: Purpose, Functionality, and Contents"
-description: "Explore how SEC Form N-1A guides mutual funds in the era of algorithmic trading highlighting its role in compliance and innovation for investor protection."
+title: Understanding SEC Form N-1A Registration for Mutual Funds
+description: SEC Form N-1A presents fund objectives fees and risks in a prospectus
+  to help investors compare funds and make informed decisions Discover more inside.
 ---
 
 

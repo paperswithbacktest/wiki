@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 15 Overview and Application"
-description: "Discover the importance of SEC Form 15 for algorithmic trading companies seeking deregistration to reduce regulatory burdens and enhance strategic flexibility."
+title: Understanding SEC Form 15 Deregistration Process and Impacts
+description: SEC Form 15 explains how companies can deregister from the SEC to save
+  costs and regain privacy in a 90 day process with clear steps Discover more inside.
 ---
 
 

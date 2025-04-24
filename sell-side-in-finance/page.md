@@ -1,6 +1,7 @@
 ---
-title: "Sell Side in Finance"
-description: "Discover how sell-side algorithmic trading is transforming financial markets by enhancing market efficiency, optimizing trade execution, and boosting profitability."
+title: Understanding Sell Side Firms and Their Role in Finance
+description: Sell side firms help companies raise capital through underwriting research
+  and trading services to improve market efficiency Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Short Selling in Real Estate"
-description: "Explore the innovative fusion of real estate investment with short selling and algorithmic trading uncovering opportunities and challenges in modern financial markets."
+title: Understanding Short Sale Process for Homeowners and Investors
+description: Short sale guide walks homeowners and investors through lender approval
+  to closing while lowering credit impact and tax liability. Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Roll Down: Definition, Mechanism, and Variations"
-description: "Explore the roll down strategy in algorithmic trading focusing on how it adapts positions to market shifts to optimize trading outcomes and manage risks."
+title: Understanding Roll Downs for Seamless Retirement Account Transfers
+description: Roll down strategies let you move retirement savings between accounts
+  tax deferred while keeping funds growing and consolidated for better management
+  Discover more inside.
 ---
 
 

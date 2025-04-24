@@ -1,6 +1,7 @@
 ---
-title: "Risk-On Risk-Off Investing Strategies"
-description: "Explore risk-on and risk-off investing strategies within the intricate realm of financial markets Discover how algorithmic trading enhances risk management and portfolio efficiency"
+title: Understanding Risk-On and Risk-Off Investing Strategies
+description: Risk-On and Risk-Off Investing guides you to adjust portfolios based
+  on economic indicators and market signals for optimal balance. Discover more inside.
 ---
 
 

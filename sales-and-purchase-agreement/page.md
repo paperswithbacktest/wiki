@@ -1,6 +1,7 @@
 ---
-title: "Sales and Purchase Agreement"
-description: "Discover the essential role Sales and Purchase Agreements play in transactions across various industries including real estate and algorithmic trading."
+title: Essential Guide to Drafting Sales and Purchase Agreements
+description: Sales and Purchase Agreement defines clear terms payment methods conditions
+  precedent and remedies to protect buyers and sellers Discover more inside
 ---
 
 

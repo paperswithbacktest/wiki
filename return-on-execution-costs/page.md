@@ -1,6 +1,7 @@
 ---
-title: "Return on execution costs"
-description: Discover the key to boosting your profitability in algorithmic trading by understanding and optimizing execution costs. Explore strategies for minimizing bid-ask spreads, slippage, and market impact to enhance net returns. This guide dives into essential techniques for managing these costs within high-frequency trading environments, helping traders refine their algorithms and achieve superior financial outcomes. Learn to leverage market conditions and advanced strategies like VWAP and TWAP to navigate the trading landscape with confidence and skill.
+title: Calculating Return on Execution Costs for Business Efficiency
+description: Return on Execution Costs helps businesses evaluate daily spending vs
+  earnings to boost profitability and optimize operations Discover more inside
 ---
 
 

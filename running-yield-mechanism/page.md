@@ -1,6 +1,7 @@
 ---
-title: "Running Yield and Its Mechanism"
-description: "Explore how running yield enhances investment analysis in algorithmic trading by providing insights into income generation and returns for optimizing strategies."
+title: Understanding Running Yield for Accurate Bond Income Evaluation
+description: Running yield shows your real time bond income potential by relating
+  annual interest to current price in a clear simple measure Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Recording Cash Purchases in a Company’s Income Statement"
-description: "Explore how cash purchases are recorded in financial statements and their impact on a company's income statement within the context of algorithmic trading."
+title: Recording Cash Purchases in Company Financial Statements
+description: Cash purchase accounting explains how to record transactions on balance
+  sheet income and cash flow statements with tips for accuracy Discover more inside.
 ---
 
 

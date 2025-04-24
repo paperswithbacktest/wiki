@@ -1,6 +1,7 @@
 ---
-title: "Rank (Ordinality) (Machine Learning)"
-description: "Explore the importance of rank or ordinality in machine learning where order matters in data like ratings affecting algorithms for search and recommendations."
+title: Rank Data Techniques and Ordinal Regression in Machine Learning
+description: Rank Data drives ML models to respect item order and improves search
+  and recommendation while handling ties and missing values Discover more inside
 ---
 
 

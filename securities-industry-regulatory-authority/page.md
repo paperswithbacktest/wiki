@@ -1,6 +1,7 @@
 ---
-title: "Securities Industry Regulatory Authority"
-description: "Explore the pivotal role of algorithmic trading in modern markets and how FINRA's regulatory measures safeguard trade efficiency and market integrity."
+title: Understanding the Securities Industry Regulatory Authority
+description: Securities Industry Regulatory Authority sets market rules ensures compliance
+  and educates investors to safeguard your investments Discover more inside.
 ---
 
 

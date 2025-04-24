@@ -1,6 +1,7 @@
 ---
-title: "Sale and Repurchase Agreement"
-description: "Explore the synergy between Sale and Repurchase Agreements and algorithmic trading to enhance liquidity management and efficiency in modern financial markets."
+title: Understanding Sale and Repurchase Agreements in Finance
+description: Sale and Repurchase Agreement shows how institutions secure short term
+  cash by selling assets and repurchasing at set prices Discover more inside.
 ---
 
 

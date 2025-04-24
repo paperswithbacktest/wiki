@@ -1,6 +1,7 @@
 ---
-title: "REDIPlus trading platform (Goldman Sachs)"
-description: Explore the REDIPlus trading platform by Goldman Sachs, renowned for its integration of algorithmic trading and high-performance execution management. Catering to a global market with access to 95 markets across 30 countries, REDIPlus empowers traders with advanced tools, seamless system integration, and comprehensive analytics to optimize trading strategies efficiently.
+title: REDIPlus Trading Platform Overview for Institutional Investors
+description: REDIPlus trading platform connects global markets and uses data-driven
+  tools for smarter trades while ensuring compliance Discover more inside
 ---
 
 

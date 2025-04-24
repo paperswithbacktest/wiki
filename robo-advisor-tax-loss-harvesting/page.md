@@ -1,6 +1,8 @@
 ---
-title: "Robo-Advisor Tax-Loss Harvesting"
-description: "Discover how robo-advisors, tax-loss harvesting, and algorithmic trading are revolutionizing investment strategies for optimal portfolio management."
+title: Robo-Advisor Tax-Loss Harvesting Strategies for Investors
+description: Robo-Advisor Tax-Loss Harvesting automates selling losing investments
+  to reduce your taxable gains while maintaining your portfolio balance Discover more
+  inside
 ---
 
 

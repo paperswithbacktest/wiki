@@ -1,6 +1,7 @@
 ---
-title: "Return Calculation on Short Sales"
-description: "Explore how short sales in algorithmic trading offer profit from market declines by borrowing and selling securities with advanced strategies and precision execution."
+title: Calculating Returns on Short Sales and Mitigating Risk
+description: Short sales let investors profit from falling stocks by borrowing shares
+  to sell high and repurchase low while managing costs and risk Discover more inside
 ---
 
 

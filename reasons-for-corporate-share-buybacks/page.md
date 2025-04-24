@@ -1,6 +1,7 @@
 ---
-title: "Reasons for Corporate Share Buybacks"
-description: "Explore the reasons behind corporate share buybacks and how algorithmic trading optimizes these strategies to boost shareholder value and market confidence."
+title: Corporate Share Buybacks and Their Impact On Shareholder Value
+description: Share buybacks boost stock value by reducing outstanding shares and improve
+  capital use while investors control when to pay taxes Discover more inside
 ---
 
 

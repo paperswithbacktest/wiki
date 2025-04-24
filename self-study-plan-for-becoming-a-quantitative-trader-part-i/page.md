@@ -1,6 +1,7 @@
 ---
-title: "Self-Study Plan for Becoming a Quantitative Trader"
-description: Discover how to become a quantitative trader with this comprehensive self-study plan. Explore key concepts, tools, and strategies essential in quantitative and algorithmic trading, blending mathematical models, statistical analyses, and automated algorithms to identify trading opportunities. Learn about the skills required, career paths, and challenges faced by professionals in this field, and gain insight into the future of quantitative trading within financial markets. Empower yourself with the knowledge to navigate and thrive in the dynamic world of algorithmic trading.
+title: Essential Guide to Quantitative Trading Strategies and Tools
+description: Quantitative trading applies math, data, and programming to automate
+  trading decisions, optimize performance, and manage risk. Discover more inside.
 ---
 
 

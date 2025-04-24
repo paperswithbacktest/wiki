@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 3: Overview and Filing Requirements"
-description: "Navigate the complexities of insider trading and SEC Form 3 filing for algo trading, ensuring transparency and compliance to maintain market integrity and trust."
+title: SEC Form 3 Guide to Initial Insider Ownership Reporting
+description: SEC Form 3 explains the initial insider ownership disclosure process
+  and key filing requirements and deadlines in the EDGAR system Discover more inside
 ---
 
 

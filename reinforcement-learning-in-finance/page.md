@@ -1,6 +1,7 @@
 ---
-title: "reinforcement learning in finance"
-description: "Explore the transformative role of reinforcement learning in algorithmic trading offering adaptive strategies for dynamic financial markets and optimized decision-making."
+title: Reinforcement Learning Strategies for Dynamic Financial Trading
+description: Reinforcement learning boosts financial trading by learning from market
+  feedback and adapting strategies for optimized portfolios Discover more inside.
 ---
 
 

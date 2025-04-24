@@ -1,6 +1,7 @@
 ---
-title: "Rupee: Indian Currency Overview"
-description: "Explore the impact of the Indian rupee's valuation on algorithmic trading and global markets Discover factors influencing INR and enhance trading strategies"
+title: Complete Guide To The Indian Rupee History Value And Management
+description: "Discover how the Indian Rupee evolved from its history and symbol through\
+  \ denominations and RBI\u2019s active exchange management Explore more inside."
 ---
 
 

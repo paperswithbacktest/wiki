@@ -1,6 +1,7 @@
 ---
-title: "Shadow Market: Definition and Mechanisms"
-description: "Explore the intricacies of shadow markets and algorithmic trading in this guide Learn how these unregulated markets operate and their impact on the economy"
+title: Understanding Shadow Markets Risks Mechanisms and Impacts
+description: Shadow markets use dark web platforms and crypto to enable unregulated
+  transactions that bypass authorities and evade detection Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Risk Graph: Overview and Applications"
-description: "Navigate the complexities of algorithmic trading with risk graphs Learn to manage financial risks and enhance your trading strategies using these visual tools"
+title: Risk Graphs Explained Visual Tools for Investment Risk Analysis
+description: Risk graphs show profit or loss across price levels so investors and
+  managers can assess risk visually and make informed decisions Discover more inside.
 ---
 
 

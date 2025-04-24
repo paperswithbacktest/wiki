@@ -1,6 +1,7 @@
 ---
-title: "Serial Options: Overview and Examples"
-description: "Explore serial options and algorithmic trading in modern finance Discover how these innovative tools can enhance risk management and optimize investments."
+title: Understanding Serial Communication Protocols and Performance
+description: Serial communication lets devices exchange data bit by bit using UART
+  and SPI protocols Optimize configuration and troubleshoot Discover more inside
 ---
 
 

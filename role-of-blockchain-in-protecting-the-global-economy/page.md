@@ -1,6 +1,7 @@
 ---
-title: "Role of Blockchain in Protecting the Global Economy"
-description: "Explore how blockchain technology safeguards the global economy by enhancing transparency and efficiency in financial transactions and algorithmic trading."
+title: Blockchain Technology for a Secure and Transparent Global Economy
+description: Blockchain technology secures the global economy with an immutable transparent
+  ledger that prevents fraud and cuts transaction costs Discover more inside
 ---
 
 

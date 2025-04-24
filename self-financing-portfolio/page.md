@@ -1,6 +1,7 @@
 ---
-title: "Self-financing portfolio"
-description: "Discover the power of self-financing portfolios in algo trading to develop capital-efficient strategies without additional funding for optimized market performance."
+title: Self-Financing Portfolio Strategies For Long-Term Growth
+description: Self-financing portfolio lets you reinvest profits and manage risk by
+  using internal returns to grow assets sustainably Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Representativeness bias"
-description: Explore representativeness bias in algorithmic trading and its effects on trading decisions. Learn how this cognitive bias leads to oversimplified choices by focusing on perceived similarities rather than comprehensive analysis. Understand how traders and developers can mitigate these impacts to create more effective trading systems. Discover the role of the representativeness heuristic, its influence on trading strategies, and the importance of integrating robust statistical approaches for better financial outcomes.
+title: Representativeness Bias in Decision Making and Mitigation
+description: Representativeness bias can skew judgments by relying on stereotypes
+  instead of facts. Apply practical methods to reduce bias Discover more inside.
 ---
 
 

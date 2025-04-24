@@ -1,6 +1,7 @@
 ---
-title: "Rent Ceiling: Overview, Advantages, and Disadvantages"
-description: "Explore the dynamics of rent ceilings and their intersection with algorithmic trading in real estate Learn the benefits and challenges of these regulatory measures"
+title: Understanding Rent Ceilings and Their Impact on Housing Markets
+description: Rent ceiling policies limit rental rates to keep housing affordable while
+  balancing market supply and housing quality trade offs Discover more inside.
 ---
 
 

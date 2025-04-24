@@ -1,6 +1,7 @@
 ---
-title: "Securities Offerings: Purposes and Types"
-description: "Discover the synergy between securities offerings and algorithmic trading Explore their significance and impact on modern financial markets and investments"
+title: Securities Offerings Guide Exploring Types Purposes and Processes
+description: Securities offerings explained with clear insights on IPOs private placements
+  secondary offerings processes benefits and regulations Discover more inside
 ---
 
 

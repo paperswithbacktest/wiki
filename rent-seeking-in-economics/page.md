@@ -1,6 +1,7 @@
 ---
-title: "Rent Seeking in Economics"
-description: "Explore the dynamics of rent seeking in economics, particularly within algorithmic trading. This page investigates into how entities utilize resources to gain economic benefits without enhancing productivity or societal welfare, often through regulatory manipulation. It examines the intersection of rent-seeking behavior and algo trading's efficiencies, shedding light on regulatory challenges and the broader impact on market competition and innovation. Understanding these interactions is crucial for fostering fair and innovative financial markets that serve broader societal interests."
+title: Rent Seeking in Economics and Its Effects on Growth
+description: Rent seeking undermines economic growth by diverting resources to unproductive
+  influence activities and stifling competition. Discover more inside.
 ---
 
 

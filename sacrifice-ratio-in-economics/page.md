@@ -1,6 +1,7 @@
 ---
-title: "Sacrifice Ratio in Economics"
-description: "Explore the intricate dynamics of the sacrifice ratio in economics and how it measures the cost of reducing inflation amidst algorithmic trading impacts on market behavior."
+title: Understanding the Sacrifice Ratio for Economic Policy Decisions
+description: Sacrifice ratio measures the output loss needed to bring down inflation
+  and guides policymakers in balancing growth and prices Discover more inside
 ---
 
 

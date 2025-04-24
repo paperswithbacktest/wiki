@@ -1,6 +1,7 @@
 ---
-title: "Richest Middle Class by Country"
-description: "Discover how middle class wealth distribution intersects with algorithmic trading highlighting impacts on economic growth and wealth disparities globally."
+title: Understanding Middle Class Wealth Across Diverse Economies
+description: Middle Class Wealth varies by country based on income cost of living
+  and social factors Explore measures trends and drivers Discover more inside
 ---
 
 

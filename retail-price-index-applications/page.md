@@ -1,6 +1,7 @@
 ---
-title: "Retail Price Index and Its Applications"
-description: "Discover how the Retail Price Index (RPI) informs inflation and enhances algorithmic trading strategies, providing insights into market trends and investment opportunities."
+title: Understanding the Retail Price Index as a Key Inflation Indicator
+description: Retail Price Index measures price changes in a household basket to adjust
+  wages pensions and effectively guide policy decisions Discover more inside
 ---
 
 

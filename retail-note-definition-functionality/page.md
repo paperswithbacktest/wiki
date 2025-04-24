@@ -1,6 +1,7 @@
 ---
-title: "Retail Note: Definition and Functionality"
-description: "Discover the significance of retail notes and their role in individual investing and algorithmic trading strategies to optimize fixed income investments."
+title: Understanding Retail Notes as a Secure Fixed Income Option
+description: Retail notes offer investors fixed interest payments and predictable
+  returns with low risk and accessible minimums today Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Return on Market Value of Equity"
-description: "Discover how Market Value of Equity and Return on Market Value of Equity (ROME) provide vital insights into company value and performance in algorithmic trading."
+title: Return on Market Value of Equity Explained for Investors
+description: Return on Market Value of Equity shows how companies translate market
+  value into profit for investors wanting performance insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Securities and Exchange Commission (SEC)"
-description: "Explore the SEC's evolving role in regulating algorithmic trading while balancing innovation, safeguarding investors, and ensuring transparent markets."
+title: "Securities And Exchange Commission\u2019s Role In Market Integrity"
+description: Securities and Exchange Commission safeguards investors by enforcing
+  rules, promoting transparency, and ensuring fair markets. Discover more inside.
 ---
 
 

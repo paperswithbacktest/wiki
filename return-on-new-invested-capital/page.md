@@ -1,6 +1,7 @@
 ---
-title: "Return on New Invested Capital"
-description: "Explore the significance of RONIC in investment strategies and algorithmic trading to enhance capital efficiency and investment performance analysis."
+title: Understanding Return on New Invested Capital for Investors
+description: Return on New Invested Capital reveals how effectively new projects boost
+  profits and guides smarter investment choices Discover more inside.
 ---
 
 

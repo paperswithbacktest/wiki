@@ -1,6 +1,7 @@
 ---
-title: "Run: Meaning, Functionality, and Example"
-description: "Explore the essentials of algorithmic trading including its significance functionality and practical examples to enhance trading strategies and market interactions."
+title: Algorithmic Trading Strategies and Risk Management Essentials
+description: Algorithmic Trading overview covers strategies risk management and optimization
+  to boost performance in financial markets Discover more inside
 ---
 
 

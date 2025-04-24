@@ -1,6 +1,7 @@
 ---
-title: "Short Selling: Trading Stocks Without Ownership"
-description: "Explore short selling and algorithmic trading to understand how investors capitalize on stock price movements while navigating the associated risks and rewards."
+title: Short Selling Explained Strategies Risks And Benefits
+description: Short selling lets investors profit when stocks fall by selling borrowed
+  shares and rebuying at lower prices to capture gains Discover more inside
 ---
 
 

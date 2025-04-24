@@ -1,6 +1,7 @@
 ---
-title: "SEC Form 1-A: Overview and Historical Context"
-description: "Understand the essential role of SEC Form 1-A in streamlining small to mid-sized companies' access to public capital markets under Regulation A while considering the impact of algorithmic trading."
+title: Understanding SEC Form 1-A for Regulation A Offerings
+description: SEC Form 1-A streamlines public fundraising for small companies with
+  clear guidance on eligibility filing and compliance Discover more inside.
 ---
 
 

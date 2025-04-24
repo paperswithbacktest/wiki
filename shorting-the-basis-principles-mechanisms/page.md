@@ -1,6 +1,6 @@
 ---
 title: "Shorting The Basis: Principles And Mechanisms"
-description: "Explore "Short the Basis" in futures trading to mitigate price risks by securing price differentials. Learn principles, mechanisms, and algorithmic innovations."
+description: "Explore Short the Basis in futures trading to mitigate price risks by securing price differentials. Learn principles, mechanisms, and algorithmic innovations."
 ---
 
 

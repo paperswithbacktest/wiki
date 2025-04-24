@@ -1,6 +1,7 @@
 ---
-title: "Sensitivity: Overview and Benefits"
-description: "Explore the significance of sensitivity analysis in algorithmic trading It enhances strategy robustness by evaluating parameter impact optimizing performance under market fluctuations"
+title: Understanding Sensitivity Across Psychology and Finance
+description: Sensitivity shapes how we feel and react from everyday emotions to market
+  shifts by examining psychological and financial insights. Discover more inside.
 ---
 
 

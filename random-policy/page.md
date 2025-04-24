@@ -1,6 +1,7 @@
 ---
-title: "Random Policy (Machine Learning)"
-description: "A Random Policy in machine learning selects actions randomly, serving as a baseline for performance comparison and aiding understanding of algorithm improvements."
+title: Understanding Random Policy in Reinforcement Learning
+description: Random Policy in reinforcement learning establishes a baseline for comparing
+  advanced strategies while exploring all actions evenly. Discover more inside
 ---
 
 

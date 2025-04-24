@@ -1,6 +1,7 @@
 ---
-title: "Recessionary Gap: Causes and Examples"
-description: "Explore the causes and examples of recessionary gaps and the role of algorithmic trading in analyzing these economic phenomena. Understand how economic downturns impact GDP and employment, leading to unused resources, and discover how modern trading technologies help investors navigate market volatility during these challenging times. Learn about potential policy interventions and the macroeconomic implications of recessionary gaps for a more informed approach to economic decision-making."
+title: Understanding Recessionary Gaps and Their Economic Impact
+description: Recessionary gap means real GDP falls below potential output leaving
+  jobs idle See how fiscal and monetary measures revive growth Discover more inside.
 ---
 
 

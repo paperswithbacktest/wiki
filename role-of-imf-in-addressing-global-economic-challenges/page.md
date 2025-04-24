@@ -1,6 +1,7 @@
 ---
-title: "Role of the IMF in Addressing Global Economic Challenges"
-description: "Explore how the IMF and algorithmic trading impact global economic stability and market dynamics with insights into their intersection and mutual influences."
+title: International Monetary Fund Guide to Global Economic Stability
+description: IMF offers loans expert policy advice and surveillance to help countries
+  stabilize and grow their economies and build resilience Discover more inside
 ---
 
 

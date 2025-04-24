@@ -1,6 +1,7 @@
 ---
-title: "Repurchase Agreement"
-description: "Explore the synergy of repurchase agreements and algorithmic trading in finance. Learn how these tools manage liquidity, risk, and enhance investment returns."
+title: Understanding Repurchase Agreements for Short Term Financing
+description: A repurchase agreement provides banks short term liquidity by selling
+  securities at one price and repurchasing them at a higher rate Discover more inside
 ---
 
 

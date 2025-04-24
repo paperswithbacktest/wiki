@@ -1,6 +1,7 @@
 ---
-title: "Risks Associated with Algorithmic High-Frequency Trading"
-description: "Explore the complexities of algorithmic and high-frequency trading in financial markets Understand the systemic risks and volatility challenges they present"
+title: Managing Risks in High-Frequency Trading and Market Volatility
+description: High-frequency trading entails liquidity, volatility and cybersecurity
+  risks that can destabilize markets and squeeze smaller traders Discover more inside
 ---
 
 

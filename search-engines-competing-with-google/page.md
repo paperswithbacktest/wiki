@@ -1,6 +1,7 @@
 ---
-title: "Search Engines Competing With Google"
-description: "Explore how search engines like Bing, Yahoo, DuckDuckGo, and Ecosia compete with Google, impacting algorithmic trading and promoting privacy and sustainability."
+title: Search Engine Competition Across Google Bing And DuckDuckGo
+description: Search engine competition analysis reveals how Google Bing and DuckDuckGo
+  leverage AI, privacy and unique features to win users Discover more inside
 ---
 
 

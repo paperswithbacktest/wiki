@@ -1,6 +1,7 @@
 ---
-title: "Rubinomics"
-description: "Explore Rubinomics and its influence on US economic policy under Robert Rubin emphasizing fiscal discipline free markets and its connection to algo trading."
+title: Understanding Rubinomics And Its Impact On US Economic Policy
+description: Rubinomics shaped 1990s fiscal policy by cutting deficits to drive lower
+  interest rates and boost investment to fuel job creation Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Shitcoin"
-description: "Explore the intersection of shitcoin volatility and algorithmic trading to gain insights into potential high-risk, high-reward strategies in the dynamic crypto market."
+title: Understanding Shitcoin Risks Characteristics and Impact
+description: Shitcoin risks stem from volatile prices weak teams and unclear roadmaps
+  Spot red flags and protect your crypto portfolio Discover more inside
 ---
 
 

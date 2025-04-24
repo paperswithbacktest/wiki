@@ -1,6 +1,7 @@
 ---
-title: "Semi-Strong Form Efficiency and Market Hypothesis"
-description: "Explore the semi-strong form of the Efficient Market Hypothesis and its impact on algorithmic trading Discover how public information shapes market efficiency"
+title: Exploring Semi-Strong Form Efficiency in Modern Financial Markets
+description: Semi-Strong Form Efficiency means public news instantly reflects in stock
+  prices helping investors refine strategies and grasp market shifts Discover more
 ---
 
 

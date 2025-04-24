@@ -1,6 +1,7 @@
 ---
-title: "Recession-Proof Strategies and Examples"
-description: "Discover how recession-proof strategies, financial resilience, and algorithmic trading can maintain stability and optimize investments during economic downturns."
+title: Recession-Proof Your Business with Proven Survival Strategies
+description: Recession-proof business strategies help businesses spot downturns cut
+  costs diversify offerings maintain stability in tough times Discover more inside.
 ---
 
 

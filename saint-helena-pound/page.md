@@ -1,6 +1,7 @@
 ---
-title: "Saint Helena Pound"
-description: "Explore the role of the Saint Helena Pound in algorithmic trading Learn how its stable GBP peg offers unique opportunities for low-risk strategies in niche markets"
+title: Understanding the Saint Helena Pound Currency Peg and Usage
+description: Saint Helena Pound offers a stable currency pegged to the British Pound
+  with unique banknotes and coins for island transactions Discover more inside.
 ---
 
 

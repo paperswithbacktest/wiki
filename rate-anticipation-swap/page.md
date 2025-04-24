@@ -1,6 +1,7 @@
 ---
-title: "Rate Anticipation Swap"
-description: "Manage interest rate risk effectively with rate anticipation swaps in algo trading. Leverage predictive strategies and automation for optimized portfolio performance."
+title: Understanding Rate Anticipation Swaps for Risk Management
+description: Rate Anticipation Swaps help firms hedge future interest changes by swapping
+  fixed and floating rates to manage interest risk Discover more inside
 ---
 
 

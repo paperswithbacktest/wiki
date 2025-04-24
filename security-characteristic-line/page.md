@@ -1,6 +1,7 @@
 ---
-title: "Security characteristic line"
-description: "Explore the pivotal role of the Security Characteristic Line in algorithmic trading Learn how SCL helps assess asset performance and enhance trading strategies"
+title: Understanding the Security Characteristic Line in Finance
+description: Security Characteristic Line helps track returns against the market to
+  assess risk sensitivity and alpha for better portfolio insights Discover more inside
 ---
 
 

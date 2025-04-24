@@ -1,6 +1,7 @@
 ---
-title: "Risk Premiums as Investment Compensation"
-description: "Explore the role of risk premiums in investment compensation and how algorithmic trading enhances decision-making, optimizing strategy and portfolio performance."
+title: Understanding Risk Premium and Its Role in Portfolio Optimization
+description: Risk Premium measures the return investors demand for higher risk and
+  informs portfolio optimization to balance gains and losses Discover more inside.
 ---
 
 

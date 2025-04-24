@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Settlement Procedures Act Overview"
-description: "Explore the Real Estate Settlement Procedures Act's impact on transparent real estate transactions and the intersection with algorithmic trading innovations."
+title: Guide To The Real Estate Settlement Procedures Act RESPA
+description: RESPA ensures homebuyers receive clear mortgage estimates through Loan
+  Estimate and Closing Disclosure forms plus kickback protection Discover more inside
 ---
 
 

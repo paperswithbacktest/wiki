@@ -1,6 +1,7 @@
 ---
-title: "Role of ROA and ROE in Assessing Corporate Health"
-description: "Explore how ROA and ROE, key financial ratios, measure corporate health and enhance algorithmic trading strategies for optimal investment decisions."
+title: Return on Assets ROA and Return on Equity ROE Explained
+description: Return on Assets and Return on Equity highlight how efficiently a firm
+  uses assets and shareholder funds to generate profit Discover more inside
 ---
 
 

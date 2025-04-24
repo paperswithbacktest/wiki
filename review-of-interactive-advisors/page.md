@@ -1,6 +1,7 @@
 ---
-title: "Review of Interactive Advisors"
-description: "Review Interactive Advisors' automated investing platform to explore its range of portfolios and innovative features like tax-loss harvesting and socially responsible investing."
+title: Interactive Advisors Robo-Advising for Personalized Investments
+description: Interactive Advisors uses robo-advising to tailor diversified portfolios
+  based on your goals and risk level while keeping fees low. Discover more inside.
 ---
 
 

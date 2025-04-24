@@ -1,6 +1,7 @@
 ---
-title: "Regulation H Overview and Mechanism"
-description: "Explore the intersection of Regulation H and algorithmic trading in banking Discover the essential compliance guidelines that ensure sound financial practices"
+title: Regulation H Guidelines for Federal Reserve Member Banks
+description: Regulation H helps Federal Reserve member banks uphold safety and soundness
+  with capital requirements risk management and reporting Discover more inside
 ---
 
 

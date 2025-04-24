@@ -1,6 +1,7 @@
 ---
-title: "SEC Regulations on Short Selling"
-description: "Explore SEC regulations on short selling and algorithmic trading, vital for market stability and integrity Learn how these rules impact traders and investors alike"
+title: Understanding SEC Short Selling Rules and Market Protections
+description: SEC short selling rules ensure fair market practices by enforcing uptick
+  locate and close out requirements and enhancing transparency Discover more inside.
 ---
 
 

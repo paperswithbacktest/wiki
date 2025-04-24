@@ -1,6 +1,7 @@
 ---
-title: "Recommendation System (Machine Learning)"
-description: "Discover how recommendation systems in machine learning enhance user experience by providing personalized content suggestions through collaborative and content-based filtering techniques."
+title: Understanding Machine Learning Recommendation Systems and Methods
+description: Recommendation systems combine collaborative and content based methods
+  with hybrid approaches to deliver personalized suggestions Discover more inside.
 ---
 
 

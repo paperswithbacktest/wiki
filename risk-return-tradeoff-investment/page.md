@@ -1,6 +1,7 @@
 ---
-title: "Risk-Return Tradeoff in Investment"
-description: "Explore the essential risk-return tradeoff in investment and algorithmic trading with strategies to balance potential rewards and risk levels effectively."
+title: Understanding the Risk-Return Tradeoff in Investments
+description: Risk-return tradeoff explains balancing gains and losses with volatility
+  measures diversification metrics to optimize portfolios Discover more inside.
 ---
 
 

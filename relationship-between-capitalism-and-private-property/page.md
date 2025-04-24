@@ -1,6 +1,7 @@
 ---
-title: "Relationship Between Capitalism and Private Property"
-description: "Explore the dynamic interplay of capitalism and private property with the rise of algorithmic trading highlighting their impact on economic efficiency and wealth distribution."
+title: Role of Private Property in Capitalism and Economic Growth
+description: Private property in capitalism gives individuals control over assets
+  to build wealth, boost innovation and drive economic growth. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "RLHF (Reinforcement Learning from Human Feedback)"
-description: Reinforcement Learning from Human Feedback (RLHF) is transforming algorithmic trading by incorporating human expertise into reinforcement learning models. This innovative approach allows trading algorithms to learn from human insights, capturing market nuances often overlooked by traditional methods. RLHF offers continuous improvement and adaptability, but it also faces challenges like human bias and scalability issues. As AI evolves, RLHF is set to play a crucial role in shaping more resilient and efficient trading strategies, combining human intuition with the power of machine learning.
+title: Understanding Reinforcement Learning From Human Feedback
+description: Reinforcement Learning from Human Feedback helps AI learn complex tasks
+  with clear reward models and improves decision making Discover more inside
 ---
 
 

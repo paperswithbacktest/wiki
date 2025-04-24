@@ -1,6 +1,7 @@
 ---
-title: "Sectoral Bargaining: Overview, Mechanisms, and Debate"
-description: "Explore the dynamics of sectoral bargaining and algorithmic trading and their impact on labor negotiations and financial markets in this insightful overview."
+title: 'Sectoral Bargaining: Industry-Wide Wage and Condition Standards'
+description: Sectoral bargaining sets uniform pay and work standards across an entire
+  industry boosting fairness and reducing inequality. Discover more inside.
 ---
 
 

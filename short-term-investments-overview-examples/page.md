@@ -1,6 +1,7 @@
 ---
-title: "Short-Term Investments: Overview and Examples"
-description: "Explore the benefits of short-term investments and algorithmic trading to enhance your portfolio with strategies that boost liquidity and optimize returns."
+title: Short-Term Investments Explained for Quick Financial Returns
+description: Short-term investments help preserve capital earn interest and maintain
+  liquidity for near-term goals with minimal risk Discover more inside
 ---
 
 

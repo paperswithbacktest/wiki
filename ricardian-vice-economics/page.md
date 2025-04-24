@@ -1,6 +1,7 @@
 ---
-title: "Ricardian Vice in Economics"
-description: "Explore the concept of Ricardian vice in economics and its critique of oversimplified models, especially in the context of algorithmic trading and market complexities."
+title: Addressing the Ricardian Vice in Economic Theory and Policy
+description: Ricardian Vice exposes risks of oversimplified economic models and urges
+  integration of real world data for reliable policy advice Discover more inside
 ---
 
 

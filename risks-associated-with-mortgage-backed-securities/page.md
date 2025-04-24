@@ -1,6 +1,7 @@
 ---
-title: "Risks Associated with Mortgage-Backed Securities"
-description: "Explore the risks of mortgage-backed securities in algo trading, including prepayment, credit, and market volatility risks. Understand their economic implications."
+title: Understanding Mortgage-Backed Securities Risks and Structures
+description: Mortgage-Backed Securities offer income but include credit interest rate
+  and prepayment risks plus strategies to manage them Discover more inside
 ---
 
 

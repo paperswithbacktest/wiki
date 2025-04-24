@@ -1,6 +1,7 @@
 ---
-title: "Risk-Free Rate Puzzle"
-description: "Explore the Risk-Free Rate Puzzle and its implications for algorithmic trading Learn why government bonds yield lower returns than equities and its impact on strategies"
+title: Understanding the Risk-Free Rate Puzzle for Investment Decisions
+description: Risk-free rate puzzle reveals why government bond yields defy models
+  and reshape asset pricing and portfolio strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Refco Inc."
-description: "Discover the impact of the Refco scandal on global finance and its role in advancing algorithmic trading for improved transparency and risk management."
+title: Refco Inc From Broker Pioneer to Bankruptcy and Lessons Learned
+description: Refco Inc overview traces its rise from broker services to a major bankruptcy
+  caused by hidden debt exposing governance gaps. Discover more inside.
 ---
 
 

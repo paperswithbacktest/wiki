@@ -1,6 +1,7 @@
 ---
-title: "Real Estate Investment Trusts"
-description: "Explore the benefits of integrating algorithmic trading with Real Estate Investment Trusts REITs to enhance precision and optimize investment strategies."
+title: Complete Guide to Investing in Real Estate Investment Trusts
+description: Real estate investment trusts offer reliable dividends and portfolio
+  diversification with manageable risks and tax considerations Discover more inside.
 ---
 
 

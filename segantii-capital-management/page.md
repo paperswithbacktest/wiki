@@ -1,6 +1,7 @@
 ---
-title: "Segantii Capital Management"
-description: "Explore how Segantii Capital Management excels in algo trading with innovative strategies and advanced tech to deliver consistent high returns in financial markets."
+title: Segantii Capital Management Market Neutral Investing Strategies
+description: Segantii Capital Management uses market neutral investing and global
+  market insights to deliver steady returns while managing risk Discover more inside
 ---
 
 

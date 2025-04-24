@@ -1,6 +1,7 @@
 ---
-title: "Relative Value Fund"
-description: "Discover how relative value funds utilize strategies to exploit pricing discrepancies between financial instruments aiming for consistent returns and market neutrality."
+title: Understanding Relative Value Funds Investment Strategies
+description: Relative Value Funds use arbitrage and pairs trading to profit from price
+  gaps with reduced market exposure and careful management Discover more inside
 ---
 
 

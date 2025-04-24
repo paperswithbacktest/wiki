@@ -1,6 +1,7 @@
 ---
-title: "Reasons for 20%+ Dividend Yield of REIT ETN MORL"
-description: "Explore the reasons behind the 20%+ dividend yield of MORL ETN Discover its leverage impact on returns and risks alongside algorithmic trading insights"
+title: Understanding MORL ETN Dividend Yield and Investment Risks
+description: MORL ETN leverages global mortgage REITs to deliver high monthly dividends
+  and exposes leverage and issuer risks for investors Discover more inside
 ---
 
 

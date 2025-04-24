@@ -1,6 +1,7 @@
 ---
-title: "Return on Risk-Adjusted Capital Formula and Example"
-description: "Explore the Return on Risk-Adjusted Capital formula used for evaluating investment profitability in algorithmic trading by balancing potential returns with risk."
+title: Understanding Return on Risk-Adjusted Capital in Finance
+description: Return on Risk-Adjusted Capital assesses profitability against risk to
+  guide better investments and efficient capital use. Discover more inside
 ---
 
 

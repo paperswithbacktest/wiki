@@ -1,6 +1,7 @@
 ---
-title: "SEC Form BD: Purpose and Usage"
-description: "Explore the key role of SEC Form BD in broker-dealer registration and its impact on algo trading. Discover its importance in regulatory compliance and market integrity."
+title: Comprehensive Guide to SEC Form BD Broker-Dealer Registration
+description: SEC Form BD covers essential disclosures filing steps deadlines fees
+  and updates for broker-dealer registration under SEC rules Discover more inside.
 ---
 
 

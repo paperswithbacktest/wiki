@@ -1,6 +1,7 @@
 ---
-title: "Samurai Bond"
-description: "Explore the impact of Samurai Bonds on global finance by understanding their role in Japan's capital market offering foreign investors currency diversification and regulatory assurance."
+title: Samurai Bonds Explained for Foreign Issuers in Japan
+description: Samurai Bonds let foreign issuers raise yen cost effectively from the
+  vast Japanese savings pool while reducing currency exposure Discover more inside.
 ---
 
 

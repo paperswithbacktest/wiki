@@ -1,6 +1,7 @@
 ---
-title: "Sequestration: Definition, Mechanisms, and Exemptions"
-description: "Explore sequestration mechanisms budget exemptions and the influence of fiscal policies on algorithmic trading in financial markets Discover key insights here"
+title: Understanding Sequestration in Environment and Finance Explained
+description: Sequestration explains how carbon dioxide is stored in nature and via
+  technology while governments manage budget cuts effectively Discover more inside
 ---
 
 

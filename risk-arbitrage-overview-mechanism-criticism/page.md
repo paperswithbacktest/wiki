@@ -1,6 +1,7 @@
 ---
-title: "Risk Arbitrage: Overview, Mechanism, and Criticism"
-description: "Explore risk arbitrage: a strategy exploiting price differences during corporate mergers using algorithmic trading for fast precise executions."
+title: Understanding Risk Arbitrage in Mergers and Acquisitions
+description: Risk arbitrage helps investors profit from merger spreads by assessing
+  deal probability regulatory approval timing and price gaps Discover more inside
 ---
 
 

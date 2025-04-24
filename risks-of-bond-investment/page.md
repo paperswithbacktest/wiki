@@ -1,6 +1,8 @@
 ---
-title: "Risks of Bond Investment"
-description: "Explore the inherent risks of bond investments including interest rate and inflation impacts and learn how algorithmic trading can optimize strategy and returns."
+title: Complete Guide to Bond Investing Risks and Strategies
+description: Bond Investing involves risks from interest rates credit risk inflation
+  liquidity and tax implications Use diversification to protect returns Discover more
+  inside.
 ---
 
 

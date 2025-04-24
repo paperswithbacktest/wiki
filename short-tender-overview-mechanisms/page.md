@@ -1,6 +1,7 @@
 ---
-title: "Short Tender: Overview and Mechanisms"
-description: "Explore the nuances of short tender and algorithmic trading to enhance your stock market strategies. Learn how these methods optimize trading efficiency."
+title: Understanding Short Tender Offers For Quick Share Buybacks
+description: Short Tender offers enable companies to swiftly repurchase shares and
+  protect against hostile takeovers while boosting share value Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Regret Theory: Concepts, Psychological Aspects, and Applications"
-description: "Explore how regret theory in behavioral economics influences decision-making in algorithmic trading by integrating psychological insights and emotional factors for improved outcomes."
+title: Understanding Regret Theory And Its Role In Decision Making
+description: Regret Theory reveals how anticipated regret and rejoicing influence
+  choices and improve decision making processes for professionals Discover more inside
 ---
 
 

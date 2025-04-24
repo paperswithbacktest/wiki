@@ -1,6 +1,7 @@
 ---
-title: "Risk-Free Return: Calculations and Examples"
-description: "Explore the concepts of risk-free return calculations and algorithmic trading to optimize investment strategies and enhance portfolio performance."
+title: Understanding Risk-Free Return and Its Financial Applications
+description: Risk-Free Return sets the baseline for comparing safe and risky investments
+  by showing the minimum yield on government securities Discover more inside.
 ---
 
 

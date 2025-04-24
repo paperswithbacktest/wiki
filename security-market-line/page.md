@@ -1,6 +1,7 @@
 ---
-title: "Security market line"
-description: "Explore the Security Market Line's role in assessing asset risk and return in algo trading Discover how SML aids in identifying mispriced securities for profit."
+title: Understanding the Security Market Line in Financial Analysis
+description: Security Market Line guides investors to evaluate asset risk and expected
+  returns with CAPM insights for informed decisions Discover more inside
 ---
 
 

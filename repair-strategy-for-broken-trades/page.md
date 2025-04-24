@@ -1,6 +1,7 @@
 ---
-title: "Repair Strategy for Broken Trades"
-description: "Explore repair strategies for broken trades in algorithmic trading to minimize financial losses and enhance performance by mitigating execution errors and market risks."
+title: Comprehensive Guide to Repairing Broken Trade Transactions
+description: Broken trade repairs demand quick resolution and clear communication
+  to restore market trust while minimizing losses and delays. Discover more inside
 ---
 
 

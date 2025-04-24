@@ -1,6 +1,7 @@
 ---
-title: "Shelf Offering: Explanation, Mechanism, Benefits, and Example"
-description: "Discover the mechanics and benefits of shelf offerings a flexible capital-raising strategy in trading. Understand how they influence market dynamics and investor strategies."
+title: Shelf Offering Overview Benefits Process and Investor Insights
+description: Shelf offering lets companies register securities once and sell stocks
+  or bonds over time with flexibility and reduced costs Discover more inside.
 ---
 
 

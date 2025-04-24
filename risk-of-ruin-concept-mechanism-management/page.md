@@ -1,6 +1,7 @@
 ---
-title: "Risk of Ruin: Concept, Mechanism, and Management"
-description: "Explore strategies to manage risk of ruin in algorithmic trading Understand key concepts and methodologies to ensure sustainable and profitable trading operations"
+title: Understanding Risk Of Ruin Across Finance And Gambling
+description: Risk of Ruin analysis shows how starting capital bet size and win probability
+  affect chances of going broke in finance and gambling Discover more inside
 ---
 
 

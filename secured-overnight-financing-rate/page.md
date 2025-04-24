@@ -1,6 +1,7 @@
 ---
-title: "Secured Overnight Financing Rate"
-description: "Explore the role of the Secured Overnight Financing Rate in algo trading and its impact on loans Learn about SOFR's global shift from LIBOR and new market dynamics"
+title: Secured Overnight Financing Rate SOFR Explained and Applied
+description: SOFR provides a transparent transaction-based benchmark for overnight
+  Treasury financing costs and helps set fair loan rates Discover more inside
 ---
 
 
