@@ -1,6 +1,7 @@
 ---
-title: "Online Purchase of Mutual Funds"
-description: "Explore the world of online mutual fund investments and algorithmic trading Learn to select platforms manage fees and optimize strategies for better returns"
+title: A Comprehensive Guide To Investing In Mutual Funds Online
+description: Investing in mutual funds online lets you diversify your portfolio with
+  professional management low fees and easy trading Discover more inside
 ---
 
 

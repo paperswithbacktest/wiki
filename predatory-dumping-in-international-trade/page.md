@@ -1,6 +1,7 @@
 ---
-title: "Predatory Dumping in International Trade"
-description: "Explore the dynamics of predatory dumping in international trade and the role of algorithmic trading in shaping market trends while ensuring economic stability."
+title: Understanding Predatory Dumping in International Trade
+description: Predatory dumping fails domestic rivals by selling below cost abroad
+  then hiking prices Protect industries with anti dumping duties Discover more inside
 ---
 
 

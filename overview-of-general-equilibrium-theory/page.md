@@ -1,6 +1,7 @@
 ---
-title: "Overview of General Equilibrium Theory"
-description: "Explore how General Equilibrium Theory influences modern algorithmic trading by analyzing interconnected markets resource allocation and economic equilibrium models."
+title: Understanding General Equilibrium Theory In Modern Economics
+description: General equilibrium theory shows how interconnected markets find balance
+  through supply and demand and guides policy and analysis Discover more inside
 ---
 
 

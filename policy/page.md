@@ -1,6 +1,8 @@
 ---
-title: "Policy (Machine Learning)"
-description: "Learn how policies in machine learning guide decision-making in agents Understand their role in reinforcement learning and the differences from models"
+title: Policy Concepts in Machine Learning and Reinforcement Learning
+description: Machine Learning policy defines agent action rules to optimize rewards
+  while balancing exploration and exploitation in reinforcement learning Discover
+  more
 ---
 
 

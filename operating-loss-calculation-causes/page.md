@@ -1,6 +1,7 @@
 ---
-title: "Operating Loss: Calculation and Causes"
-description: "Explore operating losses in algo trading businesses, understanding calculation methods, common causes, and strategies for minimizing financial setbacks."
+title: 'Understanding Operating Loss: Causes, Calculation and Strategies'
+description: Operating loss reveals where costs exceed revenues and highlights actionable
+  strategies for cost control tax planning and growth Discover more inside
 ---
 
 

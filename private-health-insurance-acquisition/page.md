@@ -1,6 +1,7 @@
 ---
-title: "Private Health Insurance Acquisition"
-description: "Discover how private health insurance and algorithmic trading can enhance personal finance strategies by managing risks and optimizing investments."
+title: Private Health Insurance Explained Benefits Coverage and Costs
+description: Private health insurance gives you faster care and wider provider choice
+  with clear cost and coverage insights to pick the right plan Discover more inside
 ---
 
 

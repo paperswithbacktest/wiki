@@ -1,6 +1,7 @@
 ---
-title: "Properties, Types, and Uses of Money"
-description: "Discover the key properties and types of money and explore its vital roles in economies alongside the transformative impact of algorithmic trading."
+title: Key Functions and Types of Money in Modern Economies
+description: Money shapes trade savings and growth by serving as a medium of exchange
+  store of value and unit of account in modern economies Discover more inside
 ---
 
 

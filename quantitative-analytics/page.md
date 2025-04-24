@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Analytics"
-description: Explore the transformative impact of quantitative analytics on algorithmic trading as they offer a systematic advantage in financial markets. By employing advanced mathematical models and technology, traders analyze large datasets to identify market opportunities and improve trading accuracy. Key strategies include statistical arbitrage, mean reversion, and trend following, necessitating a sound grasp of complex math principles. As technology evolves, the integration of AI and machine learning enhances the efficacy of trading systems, making understanding quantitative analytics essential for success in the dynamic world of trading.
+title: Comprehensive Guide to Quantitative Analytics in Business
+description: Quantitative analytics uses data driven methods to uncover trends optimize
+  models and validate insights for smarter business decisions Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Price-to-Sales Ratio and Calculation"
-description: "Explore the Price-to-Sales ratio—a key financial metric used to evaluate a company's valuation relative to its revenue. Learn its importance in finance and algo trading."
+title: Understanding the Price-to-Sales Ratio Valuation Metric
+description: Price-to-Sales Ratio offers investors a clear view of how much they pay
+  for each sales dollar and helps compare companies in the same industry Discover
+  more inside
 ---
 
 

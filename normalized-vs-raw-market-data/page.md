@@ -1,6 +1,7 @@
 ---
-title: "Normalized vs Raw Market Data"
-description: Explore the critical role of market data in algorithmic trading and the choice between normalized versus raw data. Normalized market data offers a standardized, streamlined approach for easier integration with trading strategies, while raw data provides comprehensive, unprocessed details directly from market feeds. This article investigates into the advantages and challenges of each data type, helping traders decide which aligns best with their goals and technical capabilities. Understanding these differences is key to developing effective and efficient trading strategies and enhancing overall performance in the fast-paced world of algo trading.
+title: Key Differences Between Raw and Normalized Market Data
+description: Normalized market data helps investors compare global prices on one scale
+  spot trends and use scaling smoothing standardization Discover more inside
 ---
 
 

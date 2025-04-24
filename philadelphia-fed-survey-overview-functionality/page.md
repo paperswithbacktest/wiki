@@ -1,6 +1,7 @@
 ---
-title: "Philadelphia Fed Survey: Overview and Functionality"
-description: "Understand the Philadelphia Fed Survey's role in gauging regional economic health and its impact on algorithmic trading with essential data insights."
+title: Understanding the Philadelphia Fed Manufacturing Survey
+description: Philadelphia Fed Survey delivers monthly diffusion index insights on
+  manufacturing trends in Pennsylvania New Jersey and Delaware Discover more inside
 ---
 
 

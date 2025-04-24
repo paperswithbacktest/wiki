@@ -1,6 +1,7 @@
 ---
-title: "Price-to-Rent Ratio: Assessing Buy vs. Rent Decision"
-description: "Explore how the Price-to-Rent Ratio and algorithmic trading insights can guide housing market decisions balancing buying vs renting options for optimal value."
+title: Understanding Price to Rent Ratio for Informed Buy vs Rent Decisions
+description: Price to rent ratio helps compare home buying versus renting costs with
+  active insights on market trends and key factors Discover more inside
 ---
 
 

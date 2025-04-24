@@ -1,6 +1,7 @@
 ---
-title: "Oligopsony: Definition, Mechanisms, and Examples"
-description: "Explore the influence of oligopsony on market structures with examples from industries like fast food and cocoa while examining the role of algorithmic trading."
+title: Understanding Oligopsony Markets and Their Economic Impact
+description: Oligopsony gives few buyers power to set prices and influence suppliers
+  and wages while affecting market growth and quality Discover more inside.
 ---
 
 

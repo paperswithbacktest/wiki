@@ -1,6 +1,7 @@
 ---
-title: "Oligarchs: Definition and Mechanisms"
-description: "Explore the intertwining world of oligarchies and algorithmic trading Learn how modern oligarchs leverage technology to influence markets politics and democratic processes"
+title: Oligarch Definition Influence and Impact on Politics and Economy
+description: Oligarchs often leverage wealth to sway politics and control industries
+  worldwide by funding campaigns and owning media outlets Discover more inside
 ---
 
 

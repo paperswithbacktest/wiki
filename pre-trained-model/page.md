@@ -1,6 +1,7 @@
 ---
-title: "Pre-Trained Model (Machine Learning)"
-description: "Discover pre-trained models in machine learning to save time and resources Learn how these models provide a head start for specific tasks through transfer learning"
+title: Understanding Pre-Trained Models for Efficient Machine Learning
+description: Pre-trained models accelerate machine learning by reusing existing data
+  to cut training time and resources and simplify fine-tuning. Discover more inside.
 ---
 
 

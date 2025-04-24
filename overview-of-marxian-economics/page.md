@@ -1,6 +1,7 @@
 ---
-title: "Overview of Marxian Economics"
-description: "Explore the intersection of Marxian economics and algorithmic trading, examining how Marx's critique of capitalism relates to modern financial technologies and market disparities."
+title: Marxian Economics Key Concepts Surplus Value And Class Struggle
+description: Marxian economics examines how surplus value and class struggle shape
+  inequality and economic change to propose fairer systems Discover more inside.
 ---
 
 

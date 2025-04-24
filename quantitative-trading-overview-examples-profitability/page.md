@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Trading: Overview, Examples, and Profitability"
-description: "Explore quantitative trading's role in today's financial markets with insights into how mathematical models and data-driven strategies increase trading efficiency."
+title: Quantitative Trading Strategies Explained for Modern Investors
+description: Quantitative trading uses data driven models to remove emotion and boost
+  consistency in market decisions and manage risk Discover more inside
 ---
 
 

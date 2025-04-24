@@ -1,6 +1,7 @@
 ---
-title: "Personal Income and Outlays"
-description: "Explore how technology reshapes personal finance and investment through personal income, outlays, and algorithmic trading strategies for optimal financial management."
+title: Understanding Personal Income and Outlays for Financial Planning
+description: Personal income and outlays guide helps you track earnings and expenses
+  so you can budget effectively for a secure financial future Discover more inside.
 ---
 
 

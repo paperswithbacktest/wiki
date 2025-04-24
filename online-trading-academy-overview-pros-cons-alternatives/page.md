@@ -1,6 +1,7 @@
 ---
-title: "Online Trading Academy: Overview, Advantages, Disadvantages, and Alternatives"
-description: "Discover the Online Trading Academy's pros and cons alongside insights into algorithmic trading education, helping you make informed trading decisions."
+title: Online Trading Academy Course Guide Overview And Benefits
+description: Online Trading Academy offers hands on courses from Core Strategy to
+  advanced levels with mentors and simulators for practice Discover more inside
 ---
 
 

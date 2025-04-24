@@ -1,6 +1,7 @@
 ---
-title: "Outlier Detection (Machine Learning)"
-description: "Improve data accuracy by detecting anomalies in machine learning using methods like Z-score, IQR, and Isolation Forest to make informed decisions."
+title: Outlier Detection Methods Explained for Accurate Data Analysis
+description: Outlier Detection helps you identify and handle unusual data points to
+  improve model accuracy and insights in your analyses Discover more inside.
 ---
 
 ![Image](images/1.png)

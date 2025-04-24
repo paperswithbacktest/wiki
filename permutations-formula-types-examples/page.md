@@ -1,6 +1,7 @@
 ---
-title: "Permutations: Formula, Types, and Examples"
-description: "Explore the crucial role of permutations in algorithmic trading Learn how these mathematical concepts optimize trading strategies by evaluating trade sequences"
+title: Understanding Permutations And Their Role In Algorithmic Trading
+description: Permutations describe arranging items when order matters optimizing algorithmic
+  trading sequences with detailed formulas and examples Discover more inside
 ---
 
 

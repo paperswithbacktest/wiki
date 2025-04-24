@@ -1,6 +1,7 @@
 ---
-title: "OpenSea"
-description: "Explore the world of NFTs and algorithmic trading on OpenSea a leading decentralized marketplace where you can buy sell and trade unique digital assets."
+title: OpenSea NFT Marketplace Guide for Buyers and Sellers
+description: OpenSea offers an NFT marketplace with easy wallet integration, transparent
+  fees, fast transactions and flexible selling options Discover more inside
 ---
 
 

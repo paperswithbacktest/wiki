@@ -1,6 +1,7 @@
 ---
-title: "Patent Value Evaluation Methods and Types"
-description: "Explore patent valuation methods and their role in strategic business decisions and algorithmic trading Discover traditional and AI-driven techniques to maximize patent value."
+title: Key Patent Valuation Methods to Assess Patent Worth
+description: Patent valuation applies cost income and market methods to determine
+  patent value, market potential, legal strength and tech impact Discover more inside
 ---
 
 

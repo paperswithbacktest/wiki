@@ -1,6 +1,7 @@
 ---
-title: "Point and figure chart"
-description: Experience the unique methodology of Point and Figure (P&F) charting—a time-independent technique in technical analysis that highlights major price movements by filtering out market noise. P&F charts employ a grid system marked with Xs and Os to illustrate upward and downward price trends, respectively, offering a clear visual of support, resistance, and potential breakout points. Key tools, such as 45-degree trend lines, provide invaluable insights for traders, aiding in identifying trend directions and reversals. Highly relevant in algorithmic trading, P&F charts facilitate data-driven decisions by showcasing pure price action, free from time-based distractions.
+title: Comprehensive Guide to Point and Figure Charting for Traders
+description: Point and figure charts help traders filter minor price moves and spot
+  clear trends support resistance levels improve trading strategy Discover more inside
 ---
 
 

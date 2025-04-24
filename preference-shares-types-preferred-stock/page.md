@@ -1,6 +1,7 @@
 ---
-title: "Preference Shares and Types of Preferred Stock"
-description: "Explore different types of preferred stocks and discover how algorithmic trading enhances investment strategies by optimizing trades and increasing market efficiency."
+title: Understanding Preference Shares Types Rights and Benefits
+description: Preference shares offer fixed dividend priority and options like convertible
+  or participating stock to balance risk and income Discover more inside
 ---
 
 

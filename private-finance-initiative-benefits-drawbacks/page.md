@@ -1,6 +1,7 @@
 ---
-title: "Private Finance Initiative: Benefits and Drawbacks"
-description: "Explore the potential of Private Finance Initiatives and Public-Private Partnerships in leveraging private sector capabilities for public-sector projects. Delve into the benefits and challenges of PFIs, their intersection with algorithmic trading, and the evolving financial landscape. Discover how innovative trading technologies can optimize financial flows, enhance risk management, and contribute to more efficient public infrastructure development."
+title: Understanding the Private Finance Initiative Benefits and Risks
+description: Private Finance Initiative lets governments spread project costs and
+  allocate risk to private firms for infrastructure delivery Discover more inside
 ---
 
 

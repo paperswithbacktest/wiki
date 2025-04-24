@@ -1,6 +1,7 @@
 ---
-title: "Options: Types, Spreads, Examples, and Risk Metrics"
-description: "Explore the significance of options spreads and algorithmic trading in modern finance. Understand risk metrics like the Greeks to elevate trading strategies."
+title: Understanding Options Trading and Spread Strategies
+description: Options trading guide explains calls puts spreads risk metrics and advanced
+  strategies to leverage moves and protect assets Discover more inside
 ---
 
 

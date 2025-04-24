@@ -1,6 +1,7 @@
 ---
-title: "Paradox of Thrift in Economics"
-description: "Explore the paradox of thrift in economics, where individual savings can impact overall demand and economic growth, intertwined with algo trading dynamics."
+title: Understanding the Paradox of Thrift in Modern Economies
+description: Paradox of Thrift reveals how collective saving can slow economic growth
+  during downturns and shows why balanced spending matters Discover more inside
 ---
 
 

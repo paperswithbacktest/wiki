@@ -1,6 +1,7 @@
 ---
-title: "Option Series: Meaning and Function"
-description: "Explore the dynamics of algo trading in today's markets Learn how algorithms optimize portfolio efficiency by executing rapid trades with precision and minimal risk"
+title: 'Understanding Option Series: Key Concepts and Strategies'
+description: Option series group options with matching strike prices and expirations
+  to streamline strategy analysis and risk management Discover more inside.
 ---
 
 

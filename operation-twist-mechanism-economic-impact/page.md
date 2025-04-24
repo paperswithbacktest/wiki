@@ -1,6 +1,7 @@
 ---
-title: "Operation Twist: Mechanism and Economic Impact"
-description: "Explore the intricate dynamics of Operation Twist a Federal Reserve strategy to modify interest rates and its interplay with algorithmic trading in today’s economy."
+title: Understanding Operation Twist And Its Impact On Interest Rates
+description: Operation Twist uses bond swaps to reshape the yield curve and lower
+  long term rates spurring borrowing and investment Discover more inside.
 ---
 
 

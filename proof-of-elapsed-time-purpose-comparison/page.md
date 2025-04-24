@@ -1,6 +1,7 @@
 ---
-title: "Proof of Elapsed Time: Purpose and Comparison with Proof of Work"
-description: "Explore the advantages of Proof of Elapsed Time over Proof of Work for blockchain consensus highlighting energy efficiency and improved scalability in trading platforms."
+title: Proof of Elapsed Time Consensus for Greener Blockchain Networks
+description: Proof of Elapsed Time uses Intel secure chips to randomize block selection
+  and cut energy use for fair and efficient blockchains Discover more inside
 ---
 
 

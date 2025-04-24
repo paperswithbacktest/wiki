@@ -1,6 +1,7 @@
 ---
-title: "Overview of the Employment Report"
-description: "Discover how labor statistics and employment reports guide economics and trading strategies. Unveil insights into job market dynamics and algorithmic trading impacts."
+title: Understanding the US Employment Report and Economic Impact
+description: Employment report breaks down monthly job gains unemployment rates and
+  economic signals to inform policy and investment choices Discover more inside
 ---
 
 

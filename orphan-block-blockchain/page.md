@@ -1,6 +1,7 @@
 ---
-title: "Orphan Block in Blockchain"
-description: "Explore the role of orphan blocks in blockchain technology and their impact on algorithmic trading. Understand how these blocks affect data consistency and trading strategies."
+title: Orphan Blocks In Blockchain Networks And Their Impact
+description: Orphan blocks in blockchain networks slow confirmations and reduce miner
+  rewards yet keep transactions valid by reallocating them Discover more inside
 ---
 
 

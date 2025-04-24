@@ -1,6 +1,7 @@
 ---
-title: "Qtum: Overview and Functionality"
-description: "Explore the synergy between QTUM blockchain’s security and Ethereum’s smart contracts, unveiling how algorithmic trading transforms financial strategies effectively."
+title: 'Qtum Blockchain: Secure Smart Contracts for Businesses'
+description: Qtum Blockchain powers eco-friendly Proof of Stake networks and simplifies
+  smart contract development for businesses. Discover more inside today.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Odd Date: Definition, Function, Significance"
-description: "Explore the significance and impact of odd dates in algorithmic trading Discover how these calendar anomalies create unique opportunities and challenges for traders"
+title: Odd Dates Explained and Applied in Scheduling and Trading
+description: "Odd dates help organize time and enhance trading analytics with pattern-based\
+  \ scheduling and algorithmic models for market insights\_Discover more inside."
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Qualified Foreign Institutional Investor Regulations"
-description: "Explore the role of the Qualified Foreign Institutional Investor program in enabling algorithmic trading within China's stock markets enhancing foreign investment."
+title: Qualified Foreign Institutional Investor Regulations in China
+description: Qualified Foreign Institutional Investor rules open China markets to
+  global investors with controlled capital quotas for steady growth Discover more
+  inside
 ---
 
 

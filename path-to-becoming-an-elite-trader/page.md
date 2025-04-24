@@ -1,6 +1,7 @@
 ---
-title: "Path to Becoming an Elite Trader"
-description: "Discover the path to becoming an elite trader through strategic planning, disciplined practices, and algorithmic trading to enhance performance and success."
+title: Beginner to Advanced Trading Strategies and Essential Concepts
+description: Trading strategies and core concepts demystify buying selling stocks
+  and currencies from beginner basics to advanced techniques Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Office of the Superintendent of Financial Institutions"
-description: "Explore OSFI's pivotal role in overseeing financial institutions in Canada, focusing on the regulation of technological advancements like algorithmic trading."
+title: OSFI's Role in Safeguarding Canada's Financial Stability
+description: OSFI ensures Canadian banks and insurers meet capital and governance
+  standards to protect consumer trust in the financial system Discover more inside
 ---
 
 

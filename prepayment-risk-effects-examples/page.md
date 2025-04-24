@@ -1,6 +1,7 @@
 ---
-title: "Prepayment Risk: Effects and Examples"
-description: "Explore the concept of prepayment risk in finance analyze its effects on investments like mortgage-backed securities and discover strategies in algorithmic trading."
+title: Managing Prepayment Risk in Mortgage Backed Investments
+description: Prepayment risk in mortgage investments can disrupt expected cash flows
+  and reduce yields due to early loan payoffs. Discover more inside.
 ---
 
 

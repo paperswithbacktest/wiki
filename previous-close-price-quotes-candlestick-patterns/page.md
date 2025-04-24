@@ -1,6 +1,7 @@
 ---
-title: "Previous Close: Price Quotes and Candlestick Patterns"
-description: "Explore algorithmic trading with insights on candlestick patterns, price quotes, and previous close metrics to craft successful trading strategies."
+title: Understanding Previous Close in Candlestick Trading Analysis
+description: Previous Close benchmarks stock performance while candlestick patterns
+  show buyer seller momentum so traders make informed decisions Discover more inside
 ---
 
 

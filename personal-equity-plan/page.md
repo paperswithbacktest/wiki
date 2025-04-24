@@ -1,6 +1,7 @@
 ---
-title: "Personal Equity Plan"
-description: "Explore the evolution of personal investment with insights on Personal Equity Plans (PEPs), Individual Savings Accounts (ISAs), and the rise of algorithmic trading."
+title: Personal Equity Plans Explained Tax-Free Stock Market Investing
+description: Personal Equity Plan guides UK investors through tax free stock investing
+  with rules limits and strategies to optimize returns Discover more inside.
 ---
 
 

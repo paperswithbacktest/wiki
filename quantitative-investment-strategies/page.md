@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Investment Strategies"
-description: "Explore the transformative impact of algorithmic trading and quantitative finance strategies with insights on optimizing investments through data-driven methodologies."
+title: Understanding Quantitative Investment Strategies for Steady Gains
+description: Quantitative investment strategies use data driven models and backtesting
+  to remove emotion and optimize returns while managing risk Discover more inside
 ---
 
 

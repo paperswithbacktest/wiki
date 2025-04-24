@@ -1,6 +1,7 @@
 ---
-title: "Q-Learning (Machine Learning)"
-description: "Learn about Q-Learning a core method in reinforcement learning where agents learn optimal strategies by assessing action rewards over time using a Q-table."
+title: Understanding Q-Learning in Reinforcement Learning Systems
+description: Q-Learning explains how agents use Q-tables and update rules to learn
+  optimal actions through exploration and exploitation Discover more inside
 ---
 
 

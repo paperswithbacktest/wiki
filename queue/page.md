@@ -1,6 +1,7 @@
 ---
-title: "Queue (Machine Learning)"
-description: "Learn about Queues in machine learning Discover how they manage data flow efficiently for training models handle real-time data and improve algorithm performance"
+title: Understanding Queue Data Structures in Machine Learning
+description: Queue data structures streamline machine learning workflows by organizing
+  real time data streams and boosting training efficiency Discover more inside.
 ---
 
 

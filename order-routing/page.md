@@ -1,6 +1,7 @@
 ---
-title: "order routing"
-description: "Discover how order routing in algorithmic trading enhances trade execution by directing orders to optimal venues for lower costs and improved outcomes."
+title: Order Routing Systems Enhancing Trading Efficiency And Speed
+description: Order routing streamlines trading by selecting venues based on speed
+  cost and price for faster executions and better pricing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Variance: Formula and Calculation Example"
-description: "Explore portfolio variance and its vital role in assessing investment risk Learn calculation techniques to optimize strategies in algorithmic trading"
+title: Understanding Portfolio Variance Formula and Risk Management
+description: Portfolio variance measures the risk of your investments and shows how
+  asset correlations impact your portfolio stability. Discover more inside.
 ---
 
 

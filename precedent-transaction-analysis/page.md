@@ -1,6 +1,7 @@
 ---
-title: "Precedent Transaction Analysis"
-description: "Explore precedent transaction analysis in algo trading to derive a company's market value using historical transaction data, enhancing strategic decisions in M&A."
+title: Precedent Transaction Analysis for Effective Company Valuations
+description: Precedent Transaction Analysis provides a real world benchmark using
+  past deal data to estimate company value in todays market Discover more inside.
 ---
 
 

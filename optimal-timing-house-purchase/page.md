@@ -1,6 +1,7 @@
 ---
-title: "Optimal Timing for House Purchase"
-description: "Discover the ideal time to buy a house using data analytics and algorithmic technology to navigate market fluctuations and economic conditions effectively."
+title: Timing Your House Purchase with Market Trends and Finances
+description: Timing a house purchase requires assessing market trends interest rates
+  and personal finances so you buy with confidence Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Profit Factor Explained"
-description: Explore the intricacies of the Profit Factor in algorithmic trading with this comprehensive guide. Understand how this key metric evaluates profitability and risk management by analyzing the ratio of gross profits to gross losses. Learn how traders, hedge funds, and financial institutions can leverage the Profit Factor to optimize trading strategies, appreciate risk-return trade-offs, and make informed decisions in a competitive market. Discover the significance of balancing the Profit Factor with other metrics like the Sharpe Ratio for a robust assessment of strategy performance.
+title: Understanding Profit Factor in Trading Strategy Performance
+description: Profit Factor lets traders assess strategy performance by comparing total
+  profits with losses in active trades and enhance decisions. Discover more inside.
 ---
 
 

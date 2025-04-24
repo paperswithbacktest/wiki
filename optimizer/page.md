@@ -1,6 +1,7 @@
 ---
-title: "Optimizer (Machine Learning)"
-description: "Learn how optimizers improve machine learning models by adjusting parameters for better predictions Understand gradient descent and advanced algorithms like Adam"
+title: Comprehensive Guide to Machine Learning Optimizers and Techniques
+description: Machine Learning Optimizers guide models through loss landscapes by adjusting
+  parameters to speed up learning and boost performance Discover more inside
 ---
 
 ![Image](images/1.png)

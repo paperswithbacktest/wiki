@@ -1,6 +1,7 @@
 ---
-title: "Plowback Ratio: Calculation and Example"
-description: "Explore the significance of plowback ratio in algo trading, learn its calculation, and understand how this metric aids investors in evaluating a company's growth potential."
+title: Understanding the Plowback Ratio and Its Investor Impact
+description: Plowback ratio shows how much profit a company retains to reinvest and
+  influence dividends use this guide to evaluate growth potential Discover more inside
 ---
 
 

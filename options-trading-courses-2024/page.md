@@ -1,6 +1,7 @@
 ---
-title: "Options Trading Courses 2024"
-description: "Explore the latest in options trading courses for 2024 focusing on algo trading strategies to enhance investment skills and stay competitive in the market."
+title: 2024 Options Trading Courses for Beginners and Intermediate
+description: Options trading courses guide from basics to advanced strategies with
+  interactive lessons and real scenarios to build market confidence Discover more
 ---
 
 

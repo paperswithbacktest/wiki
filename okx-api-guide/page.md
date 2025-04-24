@@ -1,6 +1,7 @@
 ---
-title: "OKX API Guide"
-description: Explore the OKX API Guide for insights into algorithmic trading in cryptocurrency markets. Learn how to set up and optimize trading algorithms using OKX's robust platform, which offers tools like REST and WebSocket APIs for efficient data access and trade execution. Enhance your trading precision and operational efficiency with advanced features while maintaining security and performance in fast-paced environments.
+title: Complete Guide to Implementing OKX API for Crypto Trading
+description: OKX API integration streamlines crypto trading with secure key management
+  endpoints for orders account balances and real time data Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Psychological Aspects of Support and Resistance"
-description: "Explore the psychological dynamics of support and resistance in algo trading to better understand how market sentiment and investor behavior influence price trends."
+title: Psychological Factors That Shape Support And Resistance Levels
+description: Support and resistance levels form as fear greed and biases shape price
+  floors and ceilings helping traders anticipate breakouts Discover more inside.
 ---
 
 

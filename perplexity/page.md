@@ -1,6 +1,7 @@
 ---
-title: "Perplexity (Machine Learning)"
-description: "Perplexity measures language model accuracy by evaluating likelihood of word sequences Lower perplexity indicates better prediction and performance"
+title: Understanding Perplexity in Language Model Evaluation
+description: Perplexity helps you measure how well language models predict text by
+  quantifying model surprise through entropy based metrics Discover more inside
 ---
 
 

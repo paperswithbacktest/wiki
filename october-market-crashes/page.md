@@ -1,6 +1,7 @@
 ---
-title: "October Market Crashes"
-description: "Explore the October Effect and market crashes influenced by algorithmic trading Learn historical insights and strategies to manage October volatility"
+title: Understanding October Market Crashes and Their Impact
+description: October Market Crashes reveal historical causes economic effects and
+  proven strategies for investors to manage volatility Discover more inside.
 ---
 
 

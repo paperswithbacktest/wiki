@@ -1,6 +1,7 @@
 ---
-title: "Petro Gold"
-description: "Explore the unique intersection of Venezuela's Petro Gold cryptocurrency and algorithmic trading to uncover innovative opportunities and strategies for savvy investors."
+title: Understanding Petro Gold Cryptocurrency Backed by Gold Reserves
+description: Petro Gold is a government backed cryptocurrency tied to Venezuela gold
+  reserves for greater stability and economic support Discover more inside
 ---
 
 

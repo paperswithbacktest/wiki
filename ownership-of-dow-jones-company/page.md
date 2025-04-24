@@ -1,6 +1,7 @@
 ---
-title: "Ownership of Dow Jones & Company"
-description: "Explore the crucial role of Dow Jones & Company in the evolving financial landscape where media ownership intertwines with algorithmic trading's rapid transformation."
+title: Dow Jones & Company Ownership Under News Corp Since 2007
+description: Dow Jones & Company details its acquisition by News Corp in 2007 covering
+  ownership history business segments and impact on operations Discover more inside
 ---
 
 

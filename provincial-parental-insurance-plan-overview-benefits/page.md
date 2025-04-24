@@ -1,6 +1,7 @@
 ---
-title: "Provincial Parental Insurance Plan: Overview and Benefits"
-description: "Explore the Provincial Parental Insurance Plan offering financial stability for new parents in Quebec by substituting income and providing comprehensive parental benefits."
+title: Understanding Quebec Parental Insurance Plan Benefits
+description: Quebec Parental Insurance Plan helps parents take up to 50 weeks leave
+  with flexible benefits based on earnings for family time Discover more inside
 ---
 
 

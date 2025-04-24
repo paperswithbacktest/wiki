@@ -1,6 +1,7 @@
 ---
-title: "Prime Credit: Meaning and Operation"
-description: "Explore the critical concepts of prime credit, credit ratings, and algorithmic trading. Understand how they shape financial literacy and decision-making effectively."
+title: Prime Credit Card Benefits Eligibility And Application Guide
+description: Prime Credit Card delivers lower interest rates higher credit limits
+  and cash back rewards while you build credit responsibly Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Ownership Timing in Stock Transactions: Trade Date vs. Settlement Date"
-description: "Gain insights into stock trading by understanding trade and settlement dates. Learn their impact on ownership, strategies, and the role of algorithmic trading."
+title: Trade Date And Settlement Date In Stock Transactions Explained
+description: Trade date and settlement date define when you own stocks and pay for
+  them ensuring you capture dividends and secure voting rights Discover more inside
 ---
 
 

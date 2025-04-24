@@ -1,6 +1,7 @@
 ---
-title: "Order book"
-description: This page provides an in-depth exploration of order books in financial and algorithmic trading. It explains the structure and function of order books, including bids, asks, and order matching, and their vital role in securities trading by ensuring transparency and price discovery. The page also investigates into advanced concepts like the crossed book phenomenon, the significance of the "Top of the Book," and order book depth, elucidating their impact on market dynamics and trading strategies. It aims to enhance understanding of order books' essential role in both human and algorithmic trading contexts, encouraging further inquiry into their applications.
+title: Comprehensive Guide to Order Book Trading Mechanics
+description: Order book trading reveals how to read bid and ask depth imbalances use
+  advanced analytics optimize liquidity and price discovery Discover more inside
 ---
 
 

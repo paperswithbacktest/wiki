@@ -1,6 +1,7 @@
 ---
-title: "Price Elasticity and Its Impact on Supply and Demand"
-description: "Explore how price elasticity impacts supply and demand in algorithmic trading Learn how understanding elasticity can enhance strategic trading decision-making"
+title: Understanding Price Elasticity of Demand and Its Implications
+description: Price elasticity of demand reveals how sensitive customers are to price
+  changes and guides smarter pricing strategies for profit. Discover more inside.
 ---
 
 

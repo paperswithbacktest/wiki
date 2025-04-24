@@ -1,6 +1,7 @@
 ---
-title: "Passive Loss in Investing"
-description: "Explore the synergy between passive loss, investment strategies, and algorithmic trading to optimize portfolios with minimal effort and maximize long-term returns."
+title: Understanding Passive Losses in Investing and Tax Planning
+description: Passive loss rules explain how investors deduct rental and investment
+  losses and carry forward unused losses to optimize tax outcomes Discover more inside
 ---
 
 

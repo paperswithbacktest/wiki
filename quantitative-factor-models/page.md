@@ -1,6 +1,7 @@
 ---
-title: "quantitative factor models"
-description: "Discover how quantitative factor models drive successful algorithmic trading strategies by analyzing data-driven insights for optimized decision-making and higher returns."
+title: Understanding Quantitative Factor Models For Investment Success
+description: Quantitative factor models deliver insights into investment drivers and
+  risk to improve portfolio performance and reduce bias Discover more inside.
 ---
 
 

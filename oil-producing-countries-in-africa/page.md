@@ -1,6 +1,7 @@
 ---
-title: "Oil-Producing Countries in Africa"
-description: "Explore how oil-producing countries like Nigeria and Angola are leveraging algorithmic trading to transform Africa's oil industry and drive economic growth."
+title: Oil Production in Africa Leading Producers and Economic Impact
+description: Oil Production in Africa underpins economies from Nigeria to Angola highlighting
+  key challenges historical growth and future outlook Discover more inside
 ---
 
 

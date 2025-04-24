@@ -1,6 +1,7 @@
 ---
-title: "Ommer Block in Cryptocurrency"
-description: "Discover the role of ommer blocks in Ethereum's blockchain and their impact on cryptocurrency algorithmic trading. Gain insights to optimize trading strategies."
+title: Understanding Ommer Blocks and Their Role in Ethereum Mining
+description: Ommer block rewards keep Ethereum mining fair by compensating miners
+  for valid orphaned blocks and speeding transaction confirmations Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Portfolio Management"
-description: "Explore the transformative power of quantitative portfolio management and algorithmic trading in modern finance by optimizing investment decisions through data-driven strategies."
+title: Quantitative Portfolio Management Through Data Driven Models
+description: Quantitative portfolio management leverages data and computational models
+  across markets to optimize risk and returns in real time. Discover more inside.
 ---
 
 

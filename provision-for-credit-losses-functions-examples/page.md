@@ -1,6 +1,7 @@
 ---
-title: "Provision for Credit Losses: Functions and Examples"
-description: "Explore provisions for credit losses and their role in financial stability within algorithmic trading Detailed examples and calculations illustrate key concepts"
+title: Understanding Provision for Credit Losses in Financial Reporting
+description: Provision for credit losses helps businesses prepare for potential loan
+  defaults and ensures financial reporting and compliance Discover more inside
 ---
 
 

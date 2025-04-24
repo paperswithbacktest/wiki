@@ -1,6 +1,7 @@
 ---
-title: "Normative Economics"
-description: "Explore the intersection of normative economics and algorithmic trading highlighting value-based economic decisions and the role of technology in trading strategies."
+title: Normative Economics Explained What It Is Why It Matters
+description: normative economics explores value-based policy judgments guiding debates
+  on fairness equity and social welfare Discover more inside.
 ---
 
 

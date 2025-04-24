@@ -1,6 +1,7 @@
 ---
-title: "Profitability of Spread Betting"
-description: "Explore the significant profitability potential in spread betting and algorithmic trading through leveraged bets and automated execution. Enhance market strategies and gains."
+title: Spread Betting Strategies to Maximize Long Term Profitability
+description: Spread betting profitability improves when you use risk management leverage
+  and analysis to protect capital and boost returns Discover more inside.
 ---
 
 

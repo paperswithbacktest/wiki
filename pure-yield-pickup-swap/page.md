@@ -1,6 +1,7 @@
 ---
-title: "Pure Yield Pickup Swap"
-description: "Discover how interest rate swaps, yield pickup strategies, and algorithmic trading synergize to enhance fixed income portfolios for optimal returns and risk management."
+title: How Pure Yield Pickup Swaps Boost Bond Portfolio Income
+description: Pure Yield Pickup Swaps let investors increase bond income by swapping
+  lower yield bonds for higher rate ones without added risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Precision (Machine Learning)"
-description: "Learn about precision in machine learning the metric that measures the accuracy of a model's positive predictions and its importance in minimizing false positives."
+title: Understanding Precision in Machine Learning Classification Models
+description: Precision in machine learning ensures accurate positive predictions by
+  minimizing false positives and boosting model reliability Discover more inside.
 ---
 
 

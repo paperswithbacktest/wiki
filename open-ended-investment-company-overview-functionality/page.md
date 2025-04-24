@@ -1,6 +1,7 @@
 ---
-title: "Open-Ended Investment Company: Overview and Functionality"
-description: "Explore the synergy between Open-Ended Investment Companies and algorithmic trading to understand how technology enhances investment flexibility and strategy."
+title: Open-Ended Investment Company Comprehensive Guide For Investors
+description: Open-Ended Investment Company enables investors to buy and redeem shares
+  at NAV for a diversified and liquid portfolio and expert management Discover more
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Passporting in Financial Services"
-description: "Explore the significance of passporting in financial services and its impact on algorithmic trading within the EEA. Learn how cross-border regulation shapes market strategies."
+title: Understanding Passporting in Financial Services Across the EEA
+description: Passporting in financial services lets firms use a single EEA authorization
+  to expand across markets saving time and cost Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Positive Class (Machine Learning)"
-description: "Learn about the positive class in machine learning and its importance in binary classification problems with techniques for dealing with imbalanced data."
+title: Understanding the Positive Class in Machine Learning Models
+description: Positive class in machine learning helps define target outcomes and optimize
+  models using precision recall and F1 score. Discover more inside.
 ---
 
 

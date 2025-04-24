@@ -1,6 +1,7 @@
 ---
-title: "option market liquidity"
-description: "Explore how algorithmic trading enhances options market liquidity by increasing transaction speed, tightening bid-ask spreads, and improving price stability."
+title: Option Market Liquidity Explained and Its Trading Effects
+description: Option market liquidity guides you to trade efficiently by evaluating
+  bid ask spreads, volume and open interest for smoother trading Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Output Layer (Machine Learning)"
-description: "Discover the role of the output layer in machine learning neural networks Learn how it makes predictions for classification and regression problems using different activation functions"
+title: Understanding the Output Layer and Activation in Neural Networks
+description: Output layer in neural networks determines predictions via softmax sigmoid
+  or ReLU for classification and regression tasks Discover more inside
 ---
 
 ![Image](images/1.png)

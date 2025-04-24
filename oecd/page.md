@@ -1,6 +1,7 @@
 ---
-title: "OECD"
-description: "Explore the OECD's role in shaping global economic policies with a focus on algorithmic trading's impact on market liquidity and financial stability."
+title: OECD Initiatives for Global Economic Growth and Cooperation
+description: OECD helps countries share research and set policy standards to boost
+  economic growth education and environmental protection Discover more inside.
 ---
 
 

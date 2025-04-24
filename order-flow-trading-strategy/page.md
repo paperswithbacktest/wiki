@@ -1,6 +1,7 @@
 ---
-title: "Order Flow Trading Strategy"
-description: Explore the compelling world of order flow trading strategy within algorithmic trading by delving into how traders analyze buy and sell orders to predict market movements. Gain insights into the advantages of understanding market sentiment and liquidity dynamics over traditional analysis techniques. Discover essential tools like footprint charts and the VWAP indicator used for enhanced trading accuracy. Learn about backtesting strategies informed by order flow data to optimize performance and decision-making. This comprehensive guide equips traders with the knowledge to leverage order flow for superior trading outcomes.
+title: Order Flow Trading Essentials for Better Market Decisions
+description: Order Flow Trading reveals real time market dynamics by analyzing buy
+  and sell orders to guide smarter trade decisions Discover more inside today
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Qube Research & Technologies: A Leading Quantitative Investment Firm"
-description: Qube Research & Technologies Limited (QRT) is a leading British quantitative investment firm specializing in algorithmic trading and advanced quantitative methods. Leveraging cutting-edge technology, QRT excels in analyzing vast financial data, optimizing investment decisions, and predicting market movements with precision. Originally part of Credit Suisse, QRT emerged as a standalone entity following the implementation of the Volcker Rule, emphasizing its expertise in systematic trading strategies. Under the leadership of founders Pierre-Yves Morlat and Laurent Laizet, QRT has achieved significant growth and innovation in financial markets, managing US$20 billion in assets by 2024.
+title: Quantitative Finance Strategies at Qube Research & Technologies
+description: Qube Research & Technologies leverages quantitative analysis and machine
+  learning to optimize investment decisions and manage risk Discover more inside
 ---
 
 

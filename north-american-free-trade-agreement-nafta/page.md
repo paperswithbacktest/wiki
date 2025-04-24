@@ -1,6 +1,7 @@
 ---
-title: "North American Free Trade Agreement (NAFTA)"
-description: "Explore the impact of NAFTA on algorithmic trading in North America enhancing efficiency and market access by removing trade barriers among US Canada and Mexico"
+title: North American Free Trade Agreement Overview And Benefits
+description: NAFTA boosted trade across North America by removing tariffs and barriers
+  to reduce costs expand markets and attract investment Discover more inside
 ---
 
 

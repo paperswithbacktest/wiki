@@ -1,6 +1,7 @@
 ---
-title: "Potential Future Collectible Purchases"
-description: "Discover future investment potential with collectibles and algorithmic trading Learn strategies to diversify portfolios mitigate risks and maximize profits"
+title: Complete Guide to Starting and Investing in Collectibles
+description: Collectibles can become a profitable hobby when you learn how to select
+  rare items value them store properly and track market trends Discover more inside
 ---
 
 

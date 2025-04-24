@@ -1,6 +1,7 @@
 ---
-title: "Price to Tangible Book Value Ratio"
-description: "Explore the importance of the Price to Tangible Book Value (PTBV) ratio in financial assessments and algorithmic trading strategies. This guide discusses how PTBV provides a conservative valuation by focusing on tangible assets, offering insights into a company's lower-bound value for investors. Learn how integrating PTBV in algo trading can identify undervalued stocks and improve investment outcomes. Discover when PTBV is most applicable, especially in capital-intensive industries, and how it complements other financial metrics for a comprehensive analysis."
+title: Price to Tangible Book Value Ratio Explained for Investors
+description: Price to Tangible Book Value Ratio helps investors gauge if a stock is
+  fairly priced against its hard assets and uncover value Discover more inside
 ---
 
 

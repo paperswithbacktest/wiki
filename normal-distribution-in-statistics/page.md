@@ -1,6 +1,7 @@
 ---
-title: "Normal Distribution in Statistics"
-description: "Explore how the normal distribution aids algorithmic trading by helping traders interpret market data, predict movements and refine strategies for better decision-making."
+title: Exploring The Normal Distribution And Statistical Applications
+description: Normal distribution models data around the mean so you can gauge outcome
+  probabilities and compare datasets effectively Discover more inside.
 ---
 
 

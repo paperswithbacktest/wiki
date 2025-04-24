@@ -1,6 +1,7 @@
 ---
-title: "Open Banking: Mechanisms and Risks"
-description: "Open Banking transforms finance via APIs connecting banks and third-party providers Enhancing services it also raises serious data security and privacy concerns"
+title: Open Banking Explained Comprehensive Guide To Financial APIs
+description: Open banking lets consumers use secure APIs for budgeting payments and
+  loans under strict consent encryption standards. Discover more inside.
 ---
 
 

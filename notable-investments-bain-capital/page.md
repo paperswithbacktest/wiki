@@ -1,6 +1,7 @@
 ---
-title: "Notable Investments by Bain Capital"
-description: "Explore Bain Capital's notable investments in fintech and algorithmic trading as this global firm embraces technology-driven strategies to redefine investment practices."
+title: Bain Capital Investment Strategy History And Future Trends
+description: Bain Capital uses diverse investment strategies from private equity to
+  life sciences to boost company growth and value Discover more inside.
 ---
 
 

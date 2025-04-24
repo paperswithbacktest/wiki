@@ -1,6 +1,7 @@
 ---
-title: "Proportional Consolidation in Accounting"
-description: "Explore how proportional consolidation in accounting and algorithmic trading strategies impact financial reporting aiding investors in making informed decisions."
+title: Proportional Consolidation in Joint Venture Financial Statements
+description: Proportional consolidation lets companies report their share of joint
+  venture assets liabilities and income in financial statements Discover more inside.
 ---
 
 

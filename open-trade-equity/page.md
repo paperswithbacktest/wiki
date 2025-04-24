@@ -1,6 +1,7 @@
 ---
-title: "Open Trade Equity"
-description: "Discover the fundamental role of Open Trade Equity in trading strategies. Learn how OTE impacts risk management and decision-making in both manual and algo trading."
+title: Understanding Open Trade Equity for Effective Trading Strategies
+description: Open Trade Equity provides real-time insights into unrealized gains and
+  losses to optimize risk management and strategy performance Discover more inside.
 ---
 
 

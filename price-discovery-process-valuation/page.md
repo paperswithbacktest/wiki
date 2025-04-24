@@ -1,6 +1,7 @@
 ---
-title: "Price Discovery Process and Comparison with Valuation"
-description: "Explore the intricate processes of price discovery and valuation in financial markets while understanding the role of algorithmic trading in enhancing market efficiency."
+title: Understanding the Price Discovery Process in Financial Markets
+description: Price discovery in financial markets efficiently balances supply demand
+  and information flow to set fair stock prices in real time Discover more inside.
 ---
 
 

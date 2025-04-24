@@ -1,6 +1,7 @@
 ---
-title: "Per Share Basis: Explanation and Application"
-description: "Explore the critical role of per-share financial metrics in investment analysis and algorithmic trading. Understand how EPS, cash flow, and more guide data-driven decisions."
+title: Understanding Per Share Basis Financial Metrics and Valuation
+description: Per share basis financial metrics break down company results per share
+  for clearer comparisons and valuation insights Discover more inside today.
 ---
 
 

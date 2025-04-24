@@ -1,6 +1,7 @@
 ---
-title: "Premium Bond: Overview, Mechanics, and Yield"
-description: "Explore premium bonds, bond yields, and algorithmic trading to optimize your investment strategy. Learn how interest rates and credit ratings impact bond values."
+title: Premium Bonds Explained Government Backed Prize Savings In The UK
+description: Premium Bonds offer secure government backed savings with monthly tax
+  free prize draws and flexible instant cash out options Discover more inside.
 ---
 
 

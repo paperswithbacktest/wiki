@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Runoff: Explanation and Examples"
-description: "Explore the intricacies of portfolio runoff and algorithmic trading in investment strategies Learn how they impact asset management and optimize returns"
+title: Portfolio Runoff Management Strategies and Key Metrics
+description: Portfolio runoff reduces risk by winding down loans and reallocating
+  funds with metrics like runoff rate and recovery rate Discover more inside
 ---
 
 

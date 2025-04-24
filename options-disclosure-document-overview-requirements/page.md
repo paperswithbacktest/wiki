@@ -1,6 +1,7 @@
 ---
-title: "Options Disclosure Document: Overview and Requirements"
-description: "Explore the essentials of algorithmic trading including financial requirements, investment documentation, and options disclosure to enhance trading strategies."
+title: Understanding The Options Disclosure Document For Investors
+description: Options Disclosure Document outlines components risks and compliance
+  steps so investors make informed decisions with confidence Discover more inside
 ---
 
 

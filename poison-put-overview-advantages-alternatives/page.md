@@ -1,6 +1,7 @@
 ---
-title: "Poison Put: Overview, Advantages, and Alternatives"
-description: "Explore the strategic role of poison puts in corporate finance enhance acquisition defenses and mitigate risks, providing insights for savvy investors and corporations."
+title: Poison Put Clauses in Bond Contracts Explained for Investors
+description: Poison Put lets bondholders demand early repayment if a takeover or credit
+  downgrade occurs securing investments with a flexible exit Discover more inside
 ---
 
 

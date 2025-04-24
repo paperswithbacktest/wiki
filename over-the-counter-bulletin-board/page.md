@@ -1,6 +1,7 @@
 ---
-title: "Over-the-Counter Bulletin Board"
-description: "Explore the impact of algorithmic trading on OTC markets, focusing on the legacy of the Over-the-Counter Bulletin Board and its role in shaping today's trading environment."
+title: Essential Guide to Over-the-Counter Bulletin Board Trading
+description: Over-the-Counter Bulletin Board investing requires research to navigate
+  risks and liquidity limits while accessing emerging stocks Discover more inside
 ---
 
 

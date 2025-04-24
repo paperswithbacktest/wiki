@@ -1,6 +1,7 @@
 ---
-title: "Payback Period: Overview and Calculation Methods"
-description: "Discover how the payback period metric aids in rapid assessment of investment recovery in algorithmic trading and enhances financial strategy evaluation."
+title: Understanding the Payback Period in Investment Analysis
+description: Payback period helps you gauge how quickly an investment repays its cost
+  with a clear calculation method and risk insights Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Numeraire: Definition, History, and Function"
-description: "Explore the integral role of numeraire in economics and finance by understanding its historical context, mathematical foundations, and practical applications in algo trading."
+title: 'Understanding Numeraire: A Fundamental Unit of Account'
+description: Numeraire provides a unit of account to compare assets and simplify derivative
+  pricing in financial markets for smarter financial decisions Discover inside
 ---
 
 

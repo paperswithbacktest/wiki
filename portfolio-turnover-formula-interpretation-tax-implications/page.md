@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Turnover: Formula, Interpretation, and Tax Implications"
-description: "Explore the significance of portfolio turnover in investment strategies including its impact through algorithmic trading, tax implications, and cost management."
+title: Understanding Portfolio Turnover for Smarter Investment Decisions
+description: Portfolio turnover measures trading frequency and its impact on costs
+  taxes and returns so you can refine your investment approach Discover more inside
 ---
 
 

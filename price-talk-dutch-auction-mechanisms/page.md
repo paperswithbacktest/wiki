@@ -1,6 +1,7 @@
 ---
-title: "Price Talk and Dutch Auction Mechanisms"
-description: "Discover the unique Dutch auction method in financial markets, its role in algorithmic trading, and how it enhances price discovery and democratizes public offerings."
+title: Dutch Auction and Price Talk Strategies in Bond Markets
+description: Dutch auction and price talk guide bond issuers and underwriters to set
+  fair market prices and improve sale outcomes Discover more inside
 ---
 
 

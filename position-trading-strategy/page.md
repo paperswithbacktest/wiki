@@ -1,6 +1,7 @@
 ---
-title: "Position Trading Strategy Explained"
-description: Explore the world of position trading strategies within algorithmic trading. Learn how traders hold financial securities for extended periods to capitalize on long-term market trends, using automated systems to reduce emotional bias and handle trades efficiently. Discover various strategies, their benefits, challenges, and the role of fundamental and technical analysis in enhancing decision-making. Understand how backtested approaches offer insights into maximizing market gains and capturing enduring trends in financial markets.
+title: Position Trading Strategies for Long-Term Market Trends
+description: Position trading captures long-term trends by using fundamental analysis
+  with clear risk controls and defined entry and exit rules Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Option-Adjusted Spread (OAS)"
-description: "Explore the essential role of Option-Adjusted Spread in algorithmic trading for assessing bond risk-adjusted returns, enhancing strategies with advanced analysis."
+title: Option-Adjusted Spread For Accurate Bond Valuation
+description: Option-Adjusted Spread clarifies the true yield of bonds with embedded
+  options by adjusting for early payoff risk and volatility. Discover more inside.
 ---
 
 

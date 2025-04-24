@@ -1,6 +1,7 @@
 ---
-title: "Methods to Overcome Limitations of Black-Scholes Model"
-description: "Explore methods to enhance the Black-Scholes Model in algo trading by overcoming its limitations for improved option pricing and risk management strategies."
+title: Understanding The Black-Scholes Model For Option Pricing
+description: Black-Scholes model revolutionized options pricing by providing a systematic
+  valuation framework that adapts for dividends and costs Discover more inside
 ---
 
 

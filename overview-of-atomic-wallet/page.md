@@ -1,6 +1,7 @@
 ---
-title: "Overview of Atomic Wallet"
-description: "Atomic Wallet offers a secure platform for managing digital assets with features like atomic swaps and staking ideal for elevating your algo trading strategies."
+title: Complete Atomic Wallet Guide for Secure Crypto Management
+description: Atomic Wallet lets you securely store, manage and trade over 500 cryptocurrencies
+  in a decentralized app with built in exchange tools Discover more inside
 ---
 
 

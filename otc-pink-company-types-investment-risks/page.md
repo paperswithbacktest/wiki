@@ -1,6 +1,7 @@
 ---
-title: "OTC Pink: Company Types and Investment Risks"
-description: "Explore OTC Pink markets and understand their investment risks including limited disclosures and high volatility. Learn how algorithmic trading can help mitigate these risks."
+title: OTC Pink Market Tiers Risks and Benefits Explained
+description: OTC Pink Market offers insights into tier differences, benefits and risks
+  so you can assess investment opportunities with confidence Discover more inside
 ---
 
 

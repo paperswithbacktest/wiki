@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Tracking on Yahoo Finance"
-description: "Track your portfolio efficiently with Yahoo Finance's integrated platform offering comprehensive tools for portfolio management and algorithmic trading."
+title: Investment Portfolio Tracking And Management With Yahoo Finance
+description: Portfolio tracking on Yahoo Finance lets you monitor stocks ETFs and
+  bonds set alerts track performance and optimize investments Discover more inside
 ---
 
 

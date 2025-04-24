@@ -1,6 +1,7 @@
 ---
-title: "Origins of the GBP/USD Currency Pair's Nickname 'Cable'"
-description: "Explore the origins of the GBP/USD forex pair's nickname 'Cable' and discover how algorithmic trading can enhance its profitability through precision and speed."
+title: Origins And Evolution Of The GBP/USD Cable Currency Pair
+description: GBP/USD currency pair earned its Cable nickname from 1800s telegraph
+  and shows how communication shaped modern forex trading Discover more inside
 ---
 
 

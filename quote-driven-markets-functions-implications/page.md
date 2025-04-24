@@ -1,6 +1,7 @@
 ---
-title: "Quote-Driven Markets: Functions and Implications"
-description: "Explore the functions and implications of quote-driven markets in algorithmic trading Learn how market makers enhance liquidity and efficiency while maintaining price stability"
+title: Understanding Quote-Driven Markets and Dealer Roles
+description: Quote-driven markets rely on dealers to post bid and ask prices maintaining
+  liquidity and transparent spreads enabling trades Discover more inside.
 ---
 
 

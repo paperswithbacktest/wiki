@@ -1,6 +1,7 @@
 ---
-title: "Overview of Bittrex Exchange"
-description: "Explore Bittrex Exchange's vast cryptocurrency selection and advanced trading tools designed for both beginners and pros seeking algorithmic trading opportunities."
+title: Comprehensive Guide to Bittrex Cryptocurrency Exchange
+description: Bittrex cryptocurrency exchange offers secure trading with low fees unlimited
+  coin support and advanced tools for beginners and pros Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Prospectus: Examples, Uses, and Interpretation"
-description: "Unlock the potential of prospectus insights and algorithmic trading in the financial markets Learn to interpret key financial documents for smarter investments"
+title: Complete Guide To Reading And Understanding A Prospectus
+description: Prospectus outlines a companys business financial status risks and offering
+  terms to help you make informed investment decisions Discover more inside
 ---
 
 

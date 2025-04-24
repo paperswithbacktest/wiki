@@ -1,6 +1,7 @@
 ---
-title: "Pricing of Non-Deliverable Forwards"
-description: "Discover how algorithmic trading revolutionizes non-deliverable forwards (NDFs), enhancing currency risk management in volatile markets through tech-driven strategies."
+title: Factors Influencing Non-Deliverable Forward Pricing Models
+description: Non-Deliverable Forward pricing relies on interest rate gaps and market
+  risks to help businesses hedge restricted currencies Discover more inside
 ---
 
 

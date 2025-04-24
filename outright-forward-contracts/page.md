@@ -1,6 +1,7 @@
 ---
-title: "Outright Forward Contracts"
-description: "Discover how outright forward contracts in forex markets help manage currency risk by locking in future rates and how algorithmic trading boosts efficiency."
+title: Outright Forward Contracts A Practical Hedging Strategy Overview
+description: Outright Forward Contracts lock in exchange rates to manage currency
+  risk, plan budgets, secure cash flow and streamline hedging. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Price Value of a Basis Point and Its Applications"
-description: "Understand the Price Value of a Basis Point (PVBP) and its critical role in bond price analysis and algorithmic trading. This article explores the PVBP's impact on bond price sensitivity to interest rate changes, essential for managing interest rate risk. Learn about the methodologies for calculating PVBP and its significance in financial analysis and automated trading strategies. Enhance your trading decisions by leveraging this metric to optimize investment outcomes and navigate the complexities of modern financial markets effectively."
+title: Understanding Price Value of a Basis Point for Bond Risk
+description: Price Value of a Basis Point helps investors measure bond price sensitivity
+  to tiny rate shifts and manage risk effectively Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Peter Lynch Investment Strategy Explained"
-description: Explore Peter Lynch's legendary investment strategy as it intersects with the modern world of algorithmic trading. Discover how Lynch's principles of value investing and growth potential, like his concept of "ten baggers," can be enhanced with algorithmic precision. Learn how aligning traditional investing philosophies with advanced computational techniques can create new opportunities for optimizing trading activities in today's fast-paced financial markets.
+title: Peter Lynch Investment Strategy Explained For Long-Term Growth
+description: Peter Lynch investment strategy shows how to find undervalued companies
+  using buy what you know and PEG ratio analysis to build long-term wealth Discover
+  more inside
 ---
 
 

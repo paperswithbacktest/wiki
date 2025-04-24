@@ -1,6 +1,7 @@
 ---
-title: "Overview of the Dow Jones Industrial Average"
-description: "Explore the impact of algorithmic trading on the Dow Jones Industrial Average and discover how automated trading strategies can enhance investment efficiency."
+title: Dow Jones Industrial Average Explained for Investors
+description: Dow Jones Industrial Average measures performance of 30 leading US companies
+  to gauge market trends and inform investment decisions. Discover more inside.
 ---
 
 

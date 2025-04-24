@@ -1,6 +1,7 @@
 ---
-title: "Quantbox Research"
-description: "Discover Quantbox Research's innovative contributions to algorithmic trading offering advanced tools and insights to optimize strategies for modern financial markets."
+title: Quantbox Research Data Driven Quantitative Trading Solutions
+description: Quantbox Research delivers data driven quantitative analysis and machine
+  learning insights to optimize trading performance and timing Discover more inside
 ---
 
 

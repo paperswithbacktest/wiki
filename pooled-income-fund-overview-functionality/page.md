@@ -1,6 +1,7 @@
 ---
-title: "Pooled Income Fund Overview and Functionality"
-description: "Discover the synergy of pooled income funds and algorithmic trading for optimized investment returns and tax benefits while supporting charitable causes."
+title: A Complete Guide to Pooled Income Funds for Charitable Investors
+description: Pooled Income Fund offers lifetime payments tax deductions no capital
+  gains tax supporting causes you care about Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Patent Trolls"
-description: "Explore the challenges posed by patent trolls in algorithmic trading focusing on litigation tactics and their impact on innovation and resource allocation."
+title: Understanding Patent Trolls and Their Impact on Innovation
+description: Patent trolls drain resources and stifle innovation by targeting businesses
+  with costly lawsuits and legal fees Discover key defense strategies inside
 ---
 
 

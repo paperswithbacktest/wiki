@@ -1,6 +1,7 @@
 ---
-title: "Okun's Law: Formula, History, and Limitations"
-description: "Explore Okun's Law and its relevance to economic theory and trading strategies as it bridges unemployment with GDP, assisting in market forecasting."
+title: 'Okun''s Law Explained: Unemployment Impacts on GDP Growth'
+description: Okun's Law shows how a 1 percent rise in unemployment cuts GDP 2 percent
+  and helps forecast economic growth Discover more inside
 ---
 
 

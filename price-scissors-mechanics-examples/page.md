@@ -1,6 +1,7 @@
 ---
-title: "Price Scissors: Mechanics and Examples"
-description: "Explore how market pricing dynamics, the price scissors theory, and algorithmic trading interact, shaping economies and guiding investor and policy strategies."
+title: Understanding Price Scissors And Their Economic Consequences
+description: Price scissors occur when farmers get lower crop prices while input costs
+  rise squeezing profits and slowing economic growth. Discover more inside.
 ---
 
 

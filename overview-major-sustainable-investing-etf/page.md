@@ -1,6 +1,7 @@
 ---
-title: "Overview of a Major Sustainable Investing ETF"
-description: "Explore the dynamics of sustainable investing and how algorithmic trading enhances ESG investment strategies through ETFs and funds focused on sustainability."
+title: Understanding Sustainable Investing ETFs for ESG Focused Portfolios
+description: Sustainable investing ETF offers a way to back companies with strong
+  ESG practices while pursuing solid returns and manageable fees Discover more inside
 ---
 
 

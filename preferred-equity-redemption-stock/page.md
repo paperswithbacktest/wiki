@@ -1,6 +1,7 @@
 ---
-title: "Preferred Equity Redemption Stock"
-description: "Unlock the complexities of Preferred Equity Redemption Stock in algorithmic trading Discover how PERCs and PERCS offer investment flexibility with unique equity and debt traits"
+title: Understanding Preferred Equity Redemption Stock PERCS Mechanics
+description: PERCS delivers higher fixed dividends and automatic equity conversion
+  at maturity with capped upside for steady income and growth Discover more inside.
 ---
 
 

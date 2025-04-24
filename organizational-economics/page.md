@@ -1,6 +1,7 @@
 ---
-title: "Organizational Economics"
-description: "Explore how organizational economics and economic theory enhance business strategies, focusing on their pivotal role in algorithmic trading and competitive advantage."
+title: Organizational Economics Key Principles and Applications
+description: Organizational Economics applies incentive and transaction cost theories
+  to boost decision making and operational efficiency Discover more inside
 ---
 
 

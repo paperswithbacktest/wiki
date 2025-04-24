@@ -1,6 +1,7 @@
 ---
-title: "Origins of Currency Symbols"
-description: "Explore the fascinating evolution of currency from barter to digital forms Discover how currency symbols and algorithmic trading shape global financial landscapes today"
+title: Exploring Currency Symbol Origins And Their Global Impact
+description: Currency symbols reveal their history and global roles from dollar to
+  rupee origins while clarifying design and usage standards Discover more inside.
 ---
 
 

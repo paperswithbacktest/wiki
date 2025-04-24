@@ -1,6 +1,7 @@
 ---
-title: "Python quantitative finance"
-description: Discover the power of Python in quantitative finance. Learn how to set up a Python environment, grasp foundational concepts, and explore essential libraries like NumPy, Pandas, Matplotlib, Scipy, and statsmodels. Master data structures, algorithms, and techniques for market analysis with practical examples and resources.
+title: Python Libraries for Quantitative Finance Analysis and Modeling
+description: Python for quantitative finance drives data analysis modeling algorithmic
+  trading and risk management with NumPy Pandas SciPy Discover more inside
 ---
 
 

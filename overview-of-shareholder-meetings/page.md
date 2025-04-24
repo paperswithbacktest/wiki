@@ -1,6 +1,7 @@
 ---
-title: "Overview of Shareholder Meetings"
-description: "Explore the critical intersection of shareholder meetings, investor relations, corporate governance, and algorithmic trading in today’s evolving financial landscape."
+title: Comprehensive Guide to Effective Shareholder Meetings
+description: Shareholder meeting procedures ensure owners can vote on leadership and
+  corporate changes with transparency and efficiency. Discover more inside.
 ---
 
 

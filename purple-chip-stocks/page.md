@@ -1,6 +1,7 @@
 ---
-title: "Purple Chip Stocks"
-description: "Discover the potential of purple chip stocks in algorithmic trading Dive into the stability and robust earnings of purple chips plus tech-driven market advantages"
+title: Purple Chip Stocks Combining Stability and Growth Potential
+description: Purple Chip Stocks offer investors a blend of established company stability
+  and tech-driven growth potential for balanced portfolios Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "OEX S&P 100 Index: Overview and Functionality"
-description: "Explore algorithmic trading with the OEX S&P 100 Index to enhance market participation and optimize trading strategies through speed and precision."
+title: Guide to the OEX S&P 100 Index for Professional Investors
+description: OEX S&P 100 Index overview explains selection criteria market cap weighting
+  and strategic uses for benchmarking and trading options Discover more inside.
 ---
 
 

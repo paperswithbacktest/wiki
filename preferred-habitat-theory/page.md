@@ -1,6 +1,7 @@
 ---
-title: "Preferred Habitat Theory"
-description: "Discover how preferred habitat theory influences algo trading by understanding the impact of interest rates and bond yields on financial markets dynamics."
+title: Understanding Preferred Habitat Theory In Bond Markets
+description: Preferred Habitat Theory explains how investor bond preferences shape
+  interest rates across maturities and term structure Discover more inside
 ---
 
 

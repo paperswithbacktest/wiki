@@ -1,6 +1,7 @@
 ---
-title: "Qualified Dividends and Taxation"
-description: "Explore the complexities of qualified dividend taxation and algo trading to optimize investment strategies. Learn how these factors impact returns and tax obligations."
+title: Qualified Dividends Tax Guide and Holding Period Requirements
+description: Qualified dividends offer lower tax rates than ordinary income and require
+  specific holding periods and eligible issuers to qualify. Discover more inside.
 ---
 
 

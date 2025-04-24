@@ -1,6 +1,7 @@
 ---
-title: "Oversold Concept in Stock Market with Examples"
-description: "Explore the nuances of oversold stocks and algo trading to optimize your stock market strategies. Learn about key indicators to identify undervalued opportunities."
+title: Identifying Oversold Stocks Using RSI And Moving Averages
+description: Oversold stocks reveal buying opportunities when RSI and moving averages
+  hit key levels. Active strategies help manage risk and timing Discover more inside
 ---
 
 

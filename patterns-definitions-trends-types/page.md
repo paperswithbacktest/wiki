@@ -1,6 +1,7 @@
 ---
-title: "Patterns: Definitions, Trends, and Types"
-description: "Explore the significance of patterns in algorithmic trading, uncovering types, trends, and their role in enhancing trading strategies for informed decision-making."
+title: Understanding Patterns and Pattern Recognition Across Disciplines
+description: Pattern recognition uncovers recurring structures in nature art science
+  math and computing to improve predictions and design Discover more inside.
 ---
 
 

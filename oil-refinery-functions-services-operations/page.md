@@ -1,6 +1,7 @@
 ---
-title: "Oil Refinery: Functions, Services, and Operations"
-description: "Discover how oil refineries function, offering essential services in the upstream, midstream, and downstream sectors while exploring algo trading innovations."
+title: Understanding Oil Refinery Operations and Key Refining Processes
+description: Oil Refinery operations turn crude oil into gasoline diesel and jet fuel
+  while ensuring safety quality and environmental compliance Discover more inside.
 ---
 
 

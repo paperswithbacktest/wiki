@@ -1,6 +1,7 @@
 ---
-title: "PHLX Housing Sector Index: Components and Examples"
-description: "Discover the PHLX Housing Sector Index HGX and its role in tracking housing market trends Learn about its components and impact on algorithmic trading strategies"
+title: PHLX Housing Sector Index HGX Explained Calculation And Analysis
+description: PHLX Housing Sector Index offers insights into how home builders flooring
+  and mortgage stocks reflect market trends and investor cues Discover more inside.
 ---
 
 

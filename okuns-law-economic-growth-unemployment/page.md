@@ -1,6 +1,8 @@
 ---
-title: "Okun's Law: Relationship Between Economic Growth and Unemployment"
-description: "Discover how Okun's Law illustrates the link between economic growth and unemployment Explore its impact on algorithmic trading and economic policies"
+title: "Okun\u2019s Law Explained Professional Guide for Economic Growth Analysis"
+description: "Okun\u2019s Law explains how GDP growth impacts unemployment rates with\
+  \ a clear 1% growth to 0.5% jobless ratio. Understand its uses limitations and real\
+  \ world applications Discover more inside"
 ---
 
 

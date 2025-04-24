@@ -1,6 +1,7 @@
 ---
-title: "Public Securities Association Overview"
-description: "Discover the transformative impact of algorithmic trading and the legacy of the Public Securities Association in shaping modern financial strategies and prepayment models."
+title: Public Securities Association Standards And Market Influence
+description: Public Securities Association set clear municipal bond trading standards
+  that enhance transparency and efficiency in bond markets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Prompt (Machine Learning)"
-description: "Learn how prompts guide machine learning models improve task performance and influence outputs Explore prompt types, design challenges, and optimization techniques."
+title: Effective Prompt Engineering for Machine Learning Models
+description: Prompt engineering helps you craft clear instructions to guide language
+  models toward accurate and relevant results across tasks Discover more inside
 ---
 
 

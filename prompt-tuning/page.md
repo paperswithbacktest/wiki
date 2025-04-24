@@ -1,6 +1,7 @@
 ---
-title: "Prompt Tuning (Machine Learning)"
-description: "Explore how prompt tuning improves machine learning models without altering them Discover its benefits for efficient fine-tuning and enhanced performance"
+title: Prompt Tuning for Large Language Models in Machine Learning
+description: Prompt tuning refines interactions with language models for better responses
+  on specific tasks without retraining the model Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Public and Private Blockchains: Challenges and Gaps"
-description: "Explore public vs private blockchains in algo trading, assessing their distinct benefits and challenges for transparency, security, efficiency, and scalability."
+title: Comparing Public and Private Blockchains for Business Use
+description: Public and private blockchains deliver transparency security and speed
+  for organizations while overcoming unique challenges Discover more inside.
 ---
 
 

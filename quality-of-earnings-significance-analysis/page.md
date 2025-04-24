@@ -1,6 +1,7 @@
 ---
-title: "Quality of Earnings: Significance and Analysis"
-description: "Understand the role of earnings quality in financial decisions and algorithmic trading Learn to evaluate financial performance and enhance investment strategies"
+title: Assessing Quality of Earnings to Improve Investment Decisions
+description: Quality of earnings analysis reveals whether profits stem from core operations
+  or one time events ensuring smarter investment choices Discover more inside
 ---
 
 

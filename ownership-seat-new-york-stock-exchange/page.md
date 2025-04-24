@@ -1,6 +1,7 @@
 ---
-title: "Ownership of a Seat on the New York Stock Exchange"
-description: "Discover the evolution of ownership on the NYSE and the impact of algorithmic trading in modern markets exploring prestige, influence, and tech advancements."
+title: History And Evolution Of NYSE Seat Ownership Explained
+description: NYSE seat ownership charts the shift from exclusive floor seats to trading
+  licenses and explains how access and regulation evolved Discover more inside.
 ---
 
 

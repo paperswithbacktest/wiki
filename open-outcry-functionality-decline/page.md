@@ -1,6 +1,7 @@
 ---
-title: "Open Outcry: Functionality and Decline"
-description: "Explore the evolution of open outcry to algorithmic trading as financial markets transition to efficiency and speed driven by technology and real-time data analysis."
+title: Evolution Of Open Outcry Trading In Global Financial Markets
+description: Open outcry trading uses hand signals and shouting to enable direct fast
+  deals and price discovery and liquidity in modern markets Discover more inside
 ---
 
 

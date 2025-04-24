@@ -1,6 +1,7 @@
 ---
-title: "Paloma Partners"
-description: "Discover Paloma Partners' pioneering expertise in algorithmic trading Learn how this firm leverages cutting-edge technology for strategic market success"
+title: Paloma Partners Quantitative Investing Strategies and Insights
+description: Paloma Partners uses quantitative models and risk management to optimize
+  diversified portfolios and fuel steady client growth Discover more inside.
 ---
 
 

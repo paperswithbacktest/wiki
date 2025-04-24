@@ -1,6 +1,7 @@
 ---
-title: "Payback Period Calculation Using Excel"
-description: "Discover how to calculate the payback period using Excel for algorithmic trading strategies with precision and speed enhancing your investment analysis."
+title: Mastering Payback Period Calculations with Excel Tools
+description: Payback period analysis in Excel shows how to set up cash flows, use
+  formulas and advanced functions to track investment recovery Discover more inside
 ---
 
 

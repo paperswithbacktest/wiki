@@ -1,6 +1,7 @@
 ---
-title: "Ownership of Student Loan Debt in the United States"
-description: "Explore the impacts of immense student loan debt on US economic patterns and personal decisions, while understanding the influence of algorithmic trading."
+title: Student Loan Debt Trends and Economic Impact on Borrowers
+description: Student loan debt now exceeds 1.7 trillion dollars in the US and forces
+  borrowers to adjust home buying saving and career choices Discover more inside
 ---
 
 

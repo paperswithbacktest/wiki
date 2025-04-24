@@ -1,6 +1,7 @@
 ---
-title: "price impact curves"
-description: "Explore how trades impact market prices with price impact curves an essential tool in algorithmic trading Learn to optimize strategies by understanding trade effects"
+title: Understanding Price Impact Curves for Strategic Trade Execution
+description: Price impact curves help traders optimize large trades by mapping price
+  movements and liquidity dynamics for smarter execution Discover more inside.
 ---
 
 

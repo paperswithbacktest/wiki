@@ -1,6 +1,7 @@
 ---
-title: "Odd Lot in Trading"
-description: "Explore the nuances of odd lot algorithmic trading. Learn how combining these concepts can enhance market strategies and reveal investor sentiments."
+title: Comprehensive Guide to Odd Lot Trading and Market Impact
+description: Odd lot trading gives smaller investors flexibility to trade nonstandard
+  share amounts and uncovers market trends and cost insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "NYSE Arca: Overview, History, and Membership"
-description: "NYSE Arca is a leading electronic securities exchange, renowned for its focus on exchange-traded products and robust algorithmic trading capabilities. This platform stands at the forefront of modern trading by offering advanced infrastructure that supports high-frequency trading and efficient market operations. Through its unique market structure, including narrow bid-ask spreads and liquidity incentives, NYSE Arca enhances market efficiency and accessibility for diverse participants. Its commitment to leveraging technology ensures superior execution quality and adaptability to evolving trading needs, maintaining its edge in the fast-paced financial landscape."
+title: NYSE Arca Guide to Electronic Trading History and Benefits
+description: NYSE Arca enables brokers to trade ETFs stocks and options electronically
+  using advanced systems while offering membership benefits Discover more inside.
 ---
 
 

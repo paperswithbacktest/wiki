@@ -1,6 +1,7 @@
 ---
-title: "Over-the-Counter Derivatives"
-description: "Explore the intricacies of over-the-counter derivatives and the role of algorithmic trading in modern finance focusing on risk management and market efficiency."
+title: Understanding Over-the-Counter Derivatives in Finance
+description: Over-the-Counter Derivatives offer customizable risk management and market
+  speculation using swaps and options with direct dealing Discover more inside.
 ---
 
 

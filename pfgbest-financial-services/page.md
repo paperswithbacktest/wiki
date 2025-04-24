@@ -1,6 +1,7 @@
 ---
-title: "PFGBest Financial Services"
-description: "Explore the rise and fall of PFGBest, a pioneer in algorithmic trading. Discover its impact on financial services and the scandal that led to its closure."
+title: PFGBest Financial Services Fraud and Company Collapse
+description: PFGBest Financial Services collapse revealed founder fraud that cost
+  traders millions and highlighted need for honest oversight Discover more inside
 ---
 
 

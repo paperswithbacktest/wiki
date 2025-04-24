@@ -1,6 +1,7 @@
 ---
-title: "Quantitative finance jobs"
-description: Discover the dynamic world of quantitative finance – where math meets finance. Learn about careers, sectors, education, and essential qualifications, including roles such as Quantitative Analyst. Unlock a rewarding path in financial innovation.
+title: Comprehensive Guide to Quantitative Finance Careers and Skills
+description: Quantitative Finance uses advanced math and coding to build predictive
+  models, manage risk and drive professional growth Discover more inside.
 ---
 
 

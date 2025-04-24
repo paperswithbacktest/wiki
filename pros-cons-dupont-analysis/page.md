@@ -1,6 +1,7 @@
 ---
-title: "Pros and Cons of DuPont Analysis"
-description: "Evaluate the benefits and limitations of DuPont Analysis in automated trading Learn how dissecting ROE into key components aids informed investment decisions"
+title: 'DuPont Analysis: Understanding Return on Equity Components'
+description: DuPont Analysis breaks down ROE into profit margin asset turnover and
+  financial leverage to reveal key performance drivers Discover more inside.
 ---
 
 

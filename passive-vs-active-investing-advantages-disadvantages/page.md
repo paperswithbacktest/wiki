@@ -1,6 +1,7 @@
 ---
-title: "Passive vs. Active Investing: Advantages and Disadvantages"
-description: "Discover the distinct benefits and challenges of passive investing, active investing, and algorithmic trading in today's financial markets. Choose the strategy that aligns with your investment goals and risk tolerance for informed decision-making and potential wealth growth."
+title: Passive Vs Active Investing Differences Explained
+description: Passive vs Active Investing compares costs potential returns tax impact
+  and performance to help you choose the right strategy Discover more inside
 ---
 
 

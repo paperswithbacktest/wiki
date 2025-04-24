@@ -1,6 +1,7 @@
 ---
-title: "Optimal inventory management for market makers"
-description: "Optimize your inventory management in algorithmic trading to boost liquidity and profitability by exploring models and strategies tailored for market makers."
+title: Optimal Inventory Management Techniques for Market Makers
+description: Inventory management helps market makers balance holdings and mitigate
+  risk with algorithms and analytics for stable profits Discover more inside
 ---
 
 

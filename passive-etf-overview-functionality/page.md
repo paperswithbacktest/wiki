@@ -1,6 +1,7 @@
 ---
-title: "Passive ETF: Overview and Functionality"
-description: "Explore how passive ETFs and algorithmic trading can optimize investment strategies by enhancing liquidity reducing costs and improving returns effectively."
+title: Passive ETFs Explained A Comprehensive Guide For Investors
+description: Passive ETFs deliver low-fee index exposure with predictable returns
+  and broad diversification. Explore management, costs and risks. Discover more inside.
 ---
 
 

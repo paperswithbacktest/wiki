@@ -1,6 +1,7 @@
 ---
-title: "Participating Preferred Stock: Mechanism and Examples"
-description: "Explore the mechanism of participating preferred stock and discover examples in algorithmic trading Enhance your portfolio with fixed income and profit potential"
+title: Guide to Participating Preferred Stock for Investors
+description: Participating preferred stock ensures capital return first and lets investors
+  share in extra profits for growth potential Discover more inside
 ---
 
 

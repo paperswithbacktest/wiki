@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Weighting Methods and Calculations"
-description: "Explore portfolio weighting methods and algorithmic trading techniques to optimize investment allocation Discover strategies for robust financial management"
+title: Portfolio Weighting Strategies for Balanced Investment Risk
+description: Portfolio weighting helps balance risk and reward by allocating assets
+  using equal weighting market-cap and risk parity Discover more inside.
 ---
 
 

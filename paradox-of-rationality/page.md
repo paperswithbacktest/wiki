@@ -1,6 +1,7 @@
 ---
-title: "Paradox of Rationality"
-description: "Explore the paradox of rationality in algorithmic trading where irrational decisions may outperform rational models and enhance trading strategies."
+title: Understanding the Paradox of Rationality in Decision Making
+description: Paradox of Rationality reveals how strict logic can backfire in group
+  decisions and why cooperation often delivers better results. Discover more inside.
 ---
 
 

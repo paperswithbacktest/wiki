@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Manager: Roles and Types"
-description: "Explore the dynamic role of portfolio managers blending finance expertise with algorithmic trading to optimize investment strategies in a tech-driven landscape."
+title: Understanding the Role and Responsibilities of Portfolio Managers
+description: Portfolio Manager responsibilities include risk management strategies
+  and essential qualifications to optimize client investments Discover more inside
 ---
 
 

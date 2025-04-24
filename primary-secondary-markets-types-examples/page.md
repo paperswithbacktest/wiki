@@ -1,6 +1,7 @@
 ---
-title: "Primary and Secondary Markets: Types and Examples"
-description: "Explore the differences between primary and secondary financial markets and their role in capital flow, with insights on algorithmic trading's impact on modern trading."
+title: Understanding Primary And Secondary Securities Markets
+description: Primary and secondary markets connect issuers and investors by selling
+  new securities and enabling trading of existing ones Discover more inside.
 ---
 
 

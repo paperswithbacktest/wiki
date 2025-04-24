@@ -1,6 +1,7 @@
 ---
-title: "Order Flow Analysis"
-description: "Discover the essentials of order flow analysis in algorithmic trading to understand market dynamics and optimize your trading strategies for better results."
+title: Mastering Order Flow Analysis for Better Trading Decisions
+description: Order flow analysis provides real-time insights into buy and sell orders
+  to help traders identify market pressure and timing Discover more inside.
 ---
 
 

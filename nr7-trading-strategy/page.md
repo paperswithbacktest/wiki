@@ -1,6 +1,7 @@
 ---
-title: "NR7 Trading Strategy"
-description: The NR7 Trading Strategy page details a volatility-based algorithmic trading technique developed by Tony Crabel that identifies narrow trading ranges to anticipate market breakouts. Suitable for novice and experienced traders, the NR7 strategy aims to exploit low-volatility phases and capture significant market movements. The article explores its mechanics, advantages, and challenges, emphasizing risk management and the integration of additional indicators for optimization. By understanding and implementing this strategy effectively, traders can enhance their portfolios and navigate dynamic market conditions profitably.
+title: Comprehensive Guide to the NR7 Trading Strategy and Breakouts
+description: NR7 trading strategy identifies narrow volatility days to time breakout
+  entries with clear risk controls and profit targets. Discover more inside.
 ---
 
 

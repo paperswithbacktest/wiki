@@ -1,6 +1,7 @@
 ---
-title: "PHLX Semiconductor Sector Index Components"
-description: "Explore the PHLX Semiconductor Sector Index Components and discover key insights into the semiconductor industry and its dynamics affecting algorithmic trading."
+title: Investor Guide to the PHLX Semiconductor Sector Index
+description: PHLX Semiconductor Sector Index gives investors clarity on semiconductor
+  stock inclusion criteria rebalancing and performance trends Discover more inside.
 ---
 
 

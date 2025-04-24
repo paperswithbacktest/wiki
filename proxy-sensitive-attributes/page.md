@@ -1,6 +1,7 @@
 ---
-title: "Proxy (Sensitive Attributes) (Machine Learning)"
-description: "Explore how proxy variables are used in machine learning to substitute hard-to-measure attributes and the potential biases they can introduce into models."
+title: Proxy Variables and Fairness in Machine Learning Models
+description: Proxy variables can introduce bias when linked to sensitive attributes
+  Detect and mitigate proxy bias to ensure fairness Discover more inside
 ---
 
 

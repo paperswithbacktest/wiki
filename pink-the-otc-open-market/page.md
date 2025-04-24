@@ -1,7 +1,7 @@
 ---
-title: "Pink: The OTC Open Market"
-description: "Explore the Pink Sheets in the OTC market  
-Discover how algorithmic trading impacts liquidity and volatility in a dynamic space designed for innovative companies and insightful investors"
+title: Understanding Pink OTC Open Market Mechanics And Risks
+description: Pink OTC Open Market allows investors to trade small company and international
+  stocks with growth potential and higher risk. Discover more inside.
 ---
 
 

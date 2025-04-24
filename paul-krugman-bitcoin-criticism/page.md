@@ -1,6 +1,7 @@
 ---
-title: "Paul Krugman's Criticisms of Bitcoin"
-description: "Explore Paul Krugman's critiques of Bitcoin, focusing on its lack of intrinsic value, potential for financial instability, and environmental impact. Discover how his views tie into broader concerns about financial innovation and regulation."
+title: "Paul Krugman\u2019s Critical View of Bitcoin\u2019s Viability"
+description: Bitcoin criticism by Nobel economist Paul Krugman highlights its volatility
+  energy consumption scalability and illicit use risks Discover more inside.
 ---
 
 

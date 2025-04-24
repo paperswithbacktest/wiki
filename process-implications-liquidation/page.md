@@ -1,6 +1,7 @@
 ---
-title: "Process and Implications of Liquidation"
-description: "Explore the intricate process of liquidation in algorithmic trading, highlighting asset distribution and liquidation strategies to optimize returns during business closures."
+title: Understanding Company Liquidation Process and Key Stakeholders
+description: Liquidation lets companies convert assets into cash to settle debts in
+  a fair legal process and ensure creditor repayment Discover more inside
 ---
 
 

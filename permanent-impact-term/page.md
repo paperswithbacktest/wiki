@@ -1,6 +1,7 @@
 ---
-title: "Permanent impact term"
-description: "Explore the crucial Permanent Impact Term in algorithmic trading, impacting trade costs and strategy by influencing a security's long-term market price."
+title: Permanent Impact Terms Explained From Environment to Trading
+description: Permanent impact terms determine long lasting effects across environmental
+  assessments and trading strategies with actionable insights Discover more inside
 ---
 
 

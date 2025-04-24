@@ -1,6 +1,7 @@
 ---
-title: "Paris Agreement and COP21: History and Structure"
-description: "Explore the Paris Agreement's impact on global climate policy and the role of algorithmic trading in sustainable finance for a low-carbon future."
+title: Understanding the Paris Agreement Global Climate Accord
+description: Paris Agreement commits 196 nations to limit warming under 2C with national
+  emission plans and support for vulnerable economies Discover more inside.
 ---
 
 

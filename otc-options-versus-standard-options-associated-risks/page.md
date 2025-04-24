@@ -1,6 +1,7 @@
 ---
-title: "OTC Options Versus Standard Options and Associated Risks"
-description: "Explore the differences between OTC and standard options in trading Learn about their benefits risks and the impact of algorithmic trading on options markets"
+title: Customization And Risk Of OTC Options Versus Standard Options
+description: OTC options offer customizable contracts and pricing compared to standard
+  options while helping investors manage counterparty risk Discover more inside.
 ---
 
 

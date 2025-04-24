@@ -1,6 +1,8 @@
 ---
-title: "Put-Call Parity: Formula and Application"
-description: "Explore the concept of put-call parity and its applications in algorithmic trading Learn how this principle aids in identifying arbitrage opportunities and market equilibrium"
+title: Understanding Put-Call Parity Principles in Options Pricing
+description: Put-Call Parity explains how call and put option prices relate to stock
+  price and strike value to reveal arbitrage chances in active markets Discover more
+  inside
 ---
 
 

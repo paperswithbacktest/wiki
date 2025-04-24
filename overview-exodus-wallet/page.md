@@ -1,6 +1,7 @@
 ---
-title: "Overview of Exodus Wallet"
-description: "Discover the Exodus Wallet and learn its features, benefits, and integration with algorithmic trading to enhance your cryptocurrency storage and trading strategies."
+title: Exodus Wallet Complete Guide to Setup Features and Security
+description: Exodus Wallet provides step by step setup security and advanced management
+  tools to store send and stake cryptocurrencies Discover more inside.
 ---
 
 

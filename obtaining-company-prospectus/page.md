@@ -1,6 +1,7 @@
 ---
-title: "Obtaining a Company's Prospectus"
-description: "Discover how algorithmic trading and a company's prospectus are key to informed investing Gain insights to optimize your strategies in today's financial markets"
+title: Understanding a Company Prospectus for Informed Investments
+description: Company prospectus reveals business model financial health and risks
+  enabling you to easily make informed investment choices Discover more inside
 ---
 
 

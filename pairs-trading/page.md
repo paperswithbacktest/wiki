@@ -1,6 +1,7 @@
 ---
-title: "Pairs trading"
-description: "Explore the advanced pairs trading strategy designed for market-neutral profit via statistical arbitrage. Ideal for varying market conditions leveraging asset correlations."
+title: Mastering Pairs Trading Strategy for Market Neutral Profits
+description: Pairs trading uses market neutral tactics by pairing correlated stocks
+  for profit when price divergences revert to the mean. Discover more inside
 ---
 
 

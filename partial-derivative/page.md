@@ -1,6 +1,7 @@
 ---
-title: "Partial Derivative (Machine Learning)"
-description: "Learn what a partial derivative is in machine learning and how it optimizes models by influencing parameter adjustments using gradient descent algorithms."
+title: Understanding Partial Derivatives in Machine Learning Models
+description: Partial derivatives in machine learning explain how adjusting one input
+  impacts model performance through gradient descent. Discover more inside
 ---
 
 ![Image](images/1.png)

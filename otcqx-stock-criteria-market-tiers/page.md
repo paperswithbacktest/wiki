@@ -1,6 +1,7 @@
 ---
-title: "OTCQX: Stock Criteria and Market Tiers"
-description: "Explore the elite OTCQX market tier for diverse investing opportunities. Discover how algorithmic trading enhances efficiency in this unique trading platform."
+title: OTCQX Listing Requirements And Benefits For Global Companies
+description: OTCQX provides established companies transparent listing standards and
+  investor trust with clear governance and reporting requirements Discover more inside
 ---
 
 

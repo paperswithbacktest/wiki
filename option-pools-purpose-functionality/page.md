@@ -1,6 +1,7 @@
 ---
-title: "Option Pools: Purpose and Functionality"
-description: "Explore how option pools and algorithmic trading drive startup equity strategies, enabling talent retention and enhancing financial efficiency for growth."
+title: Complete Guide to Company Option Pool Creation and Management
+description: Option pool guides cover sizing, dilution impact, vesting schedules and
+  tax effects to align employee incentives with company growth Discover more inside
 ---
 
 

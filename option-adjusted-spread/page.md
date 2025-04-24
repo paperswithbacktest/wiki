@@ -1,6 +1,7 @@
 ---
-title: "Option-adjusted spread"
-description: "Explore the significance of Option-Adjusted Spread in algorithmic trading for insights into risk-adjusted returns and dynamic evaluation of bonds with embedded options."
+title: Understanding Option-Adjusted Spread for Accurate Bond Valuation
+description: Option-Adjusted Spread shows extra yield from credit risk by adjusting
+  for embedded options to help investors compare bonds clearly Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quote Currency"
-description: "Discover the essentials of quote currencies and algorithmic trading in Forex to enhance your trading success by mastering market dynamics and technology-driven strategies."
+title: Understanding Quote Currency Roles in Forex Trading
+description: Quote currency shows how much of one currency you need to buy another,
+  enabling smarter forex strategies and risk management Discover more inside
 ---
 
 

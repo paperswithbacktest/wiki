@@ -1,6 +1,7 @@
 ---
-title: "Piggyback Registration: Definition and Mechanism"
-description: "Explore the intricacies of piggyback registration and algorithmic trading with our guide on securities financial terms essential for savvy investors in today’s market."
+title: Understanding Piggyback Registration for Shareholders
+description: Piggyback registration lets smaller shareholders join a companys share
+  sale to access SEC filing secure better pricing for their shares Discover more inside
 ---
 
 

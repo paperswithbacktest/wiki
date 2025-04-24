@@ -1,6 +1,7 @@
 ---
-title: "Price Discovery"
-description: "Explore how algorithmic trading shapes price discovery in financial markets, enhancing speed, accuracy, and transparency by automating trade execution through advanced technologies."
+title: Understanding Price Discovery Mechanisms in Financial Markets
+description: Price discovery shows investors the true value of assets by balancing
+  supply and demand and enhancing market transparency Discover more inside
 ---
 
 

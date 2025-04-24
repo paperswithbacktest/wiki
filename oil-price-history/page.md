@@ -1,6 +1,7 @@
 ---
-title: "Oil Price History"
-description: "Explore the historical volatility of oil prices driven by geopolitics and economics and discover how algorithmic trading is transforming oil market strategies."
+title: Oil Price Trends And Influencing Factors In Global Markets
+description: Oil prices reflect supply demand shifts geopolitical events and technology
+  advances shaping global markets and future trends Discover more inside.
 ---
 
 

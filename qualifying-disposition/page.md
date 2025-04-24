@@ -1,6 +1,7 @@
 ---
-title: "Qualifying Disposition"
-description: "Unlock the potential of qualifying dispositions in algorithmic trading for tax-efficient investment strategies while maximizing returns in financial markets."
+title: Qualifying Disposition Tax Guide for ESPP and ISO Investors
+description: Qualifying disposition rules help optimize tax savings on ESPP and ISO
+  stock by meeting required holding periods and reporting gains Discover more inside
 ---
 
 

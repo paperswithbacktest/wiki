@@ -1,6 +1,7 @@
 ---
-title: "NYSE Historical Pricing in Fractions"
-description: "Explore the historical shift from fractions to decimal pricing on the NYSE and its impact on algorithmic trading and market efficiency."
+title: Understanding NYSE Fractional Stock Pricing History And Impact
+description: NYSE fractional pricing used halves quarters eighths and sixteenths until
+  2000 when decimalization enhanced transparency Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Market Making"
-description: "Discover the transformative power of quantitative market making and algorithmic trading in modern finance for efficient liquidity and enhanced execution speed."
+title: Quantitative Market Making Strategies and Risk Management
+description: Quantitative market making uses data driven algorithms to optimize trades,
+  manage inventory and control risk for consistent profits Discover more inside.
 ---
 
 

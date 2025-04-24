@@ -1,6 +1,7 @@
 ---
-title: "Overview of Coinmama"
-description: "Coinmama offers a beginner-friendly cryptocurrency trading platform, prioritizing simplicity, user security, and support, but with limited crypto options."
+title: Complete Guide to Using Coinmama for Secure Crypto Purchases
+description: Coinmama provides a secure way to buy and sell popular cryptocurrencies
+  with card or bank payments and robust customer support. Discover more inside.
 ---
 
 

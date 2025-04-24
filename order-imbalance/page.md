@@ -1,6 +1,7 @@
 ---
-title: "Order imbalance"
-description: "Explore the crucial role of order imbalance in algorithmic trading to predict market shifts and refine strategies by analyzing buy and sell disparities."
+title: Understanding Order Imbalance in Financial Market Trading
+description: Order imbalance reveals shifts in market supply and demand to signal
+  price moves. Traders use these signals for better timing. Discover more inside.
 ---
 
 

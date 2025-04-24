@@ -1,6 +1,7 @@
 ---
-title: "Petter Kolm"
-description: "Explore Petter Kolm's impactful journey in quantitative finance as a professor, advisor, and author, known for pioneering developments in algorithmic trading."
+title: Petter Kolm Quantitative Finance Expert and Educator
+description: Petter Kolm teaches quantitative finance and applies advanced math to
+  guide companies and students toward smarter money decisions. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Personal Financial Advisor"
-description: "Explore the synergy of personal finance and algo trading, where tech-driven tools enhance financial management strategies for a secure financial future."
+title: Comprehensive Guide to Choosing a Personal Financial Advisor
+description: Personal financial advisor guidance simplifies budgeting tax and investment
+  planning with strategies to help you reach goals faster Discover more inside
 ---
 
 

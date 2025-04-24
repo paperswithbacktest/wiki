@@ -1,6 +1,7 @@
 ---
-title: "Open-Market Transactions: Definition, Process, and Reasons"
-description: "Explore open-market transactions and the rise of algo trading Learn about their impact on financial markets and how they offer insights and opportunities for investors"
+title: Understanding Open-Market Transactions and Their Impact
+description: Open-Market transaction insights on how companies buy or sell their own
+  shares to influence stock price and secure capital Discover more inside
 ---
 
 

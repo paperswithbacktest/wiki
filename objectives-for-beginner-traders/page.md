@@ -1,6 +1,7 @@
 ---
-title: "Objectives for Beginner Traders"
-description: "Beginner traders can learn to set effective trading goals and explore foundational strategies in this guide designed to aid successful navigation in algo trading."
+title: 'Comprehensive Guide for Beginner Traders: Essential Steps'
+description: Beginner trader will learn how to set goals, manage risk, and build a
+  trading plan with essential practical tools and strategies Discover more inside.
 ---
 
 

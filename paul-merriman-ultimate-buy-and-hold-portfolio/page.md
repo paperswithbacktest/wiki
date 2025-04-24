@@ -1,6 +1,8 @@
 ---
-title: "Paul Merriman Ultimate Buy-and-Hold Portfolio Explained"
-description: Explore how the Paul Merriman Ultimate Buy-and-Hold Portfolio, famed for its diversification and risk management, integrates with algorithmic trading. This analysis highlights its balanced strategy of stock and bond allocation, designed for enhanced returns with minimized risk. Discover how backtesting and historical performance contribute to its reliability for automated trading systems.
+title: Paul Merriman Ultimate Buy And Hold Portfolio Investment Guide
+description: Ultimate Buy And Hold Portfolio offers a simple asset allocation strategy
+  for steady long term growth with U S and international stocks plus bonds Discover
+  more inside
 ---
 
 

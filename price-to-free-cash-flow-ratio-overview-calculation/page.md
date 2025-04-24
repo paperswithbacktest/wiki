@@ -1,6 +1,7 @@
 ---
-title: "Price to Free Cash Flow Ratio: Overview and Calculation"
-description: "Explore the Price to Free Cash Flow ratio to assess company valuation and cash flow. Discover its role in algorithmic trading and investment analysis."
+title: Understanding Price to Free Cash Flow Ratio for Investors
+description: Price to Free Cash Flow ratio reveals how much investors pay for company
+  cash generation and guides smarter stock decisions. Discover more inside.
 ---
 
 

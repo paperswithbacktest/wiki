@@ -1,6 +1,7 @@
 ---
-title: "Pax (Machine Learning)"
-description: "Pax is a machine learning framework by Google designed for building complex models efficiently, offering seamless scalability and customization for diverse tasks."
+title: Pax Machine Learning Framework for Scalable Model Training
+description: Pax machine learning framework accelerates scalable model training across
+  systems with flexible customization and experimentation Discover more inside
 ---
 
 ![Image](images/1.png)

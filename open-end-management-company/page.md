@@ -1,6 +1,7 @@
 ---
-title: "Open-End Management Company"
-description: "Explore the transformative impact of algorithmic trading in open-end management funds, offering access to diversified, expertly-managed portfolios for investors."
+title: Understanding Open-End Management Companies and Their Benefits
+description: Open-End Management Companies offer investors professional fund oversight
+  with daily NAV pricing and flexible share redemption Discover more inside.
 ---
 
 

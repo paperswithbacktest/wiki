@@ -1,6 +1,7 @@
 ---
-title: "Passive Foreign Investment Company"
-description: "Explore the complexities of Passive Foreign Investment Companies (PFICs) in algo trading, from intricate IRS regulations to effective tax strategies and compliance."
+title: Understanding Passive Foreign Investment Companies Tax Rules
+description: Passive Foreign Investment Company rules explain how US taxpayers report
+  foreign funds to avoid extra taxes and penalties. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Opco and Propco Comparison"
-description: "Explore how the Propco/Opco model enhances algo trading by separating asset ownership and operations reducing risk and improving efficiency in financial markets."
+title: Understanding Opco and Propco Structures for Business Success
+description: Opco and Propco structures separate daily operations from property to
+  optimize finances risk management and tax strategies Discover more inside
 ---
 
 

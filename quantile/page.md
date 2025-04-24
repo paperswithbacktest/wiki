@@ -1,6 +1,7 @@
 ---
-title: "Quantile (Machine Learning)"
-description: "Explore the role of quantiles in machine learning and statistics Learn how they divide datasets to analyze data distribution and assess model performance"
+title: Quantiles and Quantile Regression for Machine Learning
+description: Quantile regression shows data distribution at key percentiles and improves
+  model accuracy by handling outliers and uncertainty Discover more inside
 ---
 
 

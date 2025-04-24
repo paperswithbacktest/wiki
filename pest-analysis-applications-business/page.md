@@ -1,6 +1,7 @@
 ---
-title: "PEST Analysis: Applications and Uses in Business"
-description: "Explore how PEST analysis enhances business strategy and decision-making in algorithmic trading by assessing political economic social and technological factors."
+title: Mastering PEST Analysis for Strategic Business Planning
+description: PEST Analysis helps businesses spot political economic social technological
+  trends to plan ahead and capture new growth opportunities Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "principal-agent problems in trading"
-description: "Explore principal-agent issues in algorithmic trading where misaligned incentives between investors and automated systems may affect trading outcomes."
+title: Mitigating Principal-Agent Problems in Trading Relationships
+description: Principal-agent problem in trading can erode investor returns. Explore
+  transparency and aligned incentives to protect investments Discover more inside
 ---
 
 

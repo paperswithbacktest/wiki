@@ -1,6 +1,7 @@
 ---
-title: "Position Sizing in Trading"
-description: Position sizing is crucial in algorithmic trading, focusing on risk management and optimizing profits by determining how much capital to allocate per trade. By effectively sizing positions, traders can limit exposure to losses, ensure consistent returns, and align with strategies for disciplined trading. This article investigates into position sizing strategies, including fixed units and advanced techniques like the Kelly Criterion, to empower traders with tools for success. Understanding position sizing helps mitigate trading biases and transform strategies to match risk tolerance and return objectives, crucial for achieving consistent and profitable outcomes.
+title: Position Sizing Techniques for Risk Managed Trading
+description: Position sizing guides traders to manage risk by limiting each trade
+  size and adapting to market volatility for steady results Discover more inside
 ---
 
 

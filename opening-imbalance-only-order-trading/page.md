@@ -1,6 +1,7 @@
 ---
-title: "Opening Imbalance-Only Order in Trading"
-description: "Understand how Opening Imbalance-Only Orders influence market dynamics. Enhance trading strategies with insights into imbalances during opening sessions."
+title: Opening Imbalance-Only Orders Explained for Market Open
+description: Opening Imbalance-Only Order lets traders leverage opening auction imbalances
+  to secure better prices effectively at market open Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Principal Private Residence Requirements in Canada"
-description: "Explore Canada's Principal Private Residence requirements and the growing field of algorithmic trading to make informed financial decisions and optimize tax benefits."
+title: Principal Private Residence Tax Exemption Rules in Canada
+description: Principal private residence status in Canada exempts profit from capital
+  gains tax when selling your main home gain tax benefits while managing multiple
+  properties Discover more inside
 ---
 
 

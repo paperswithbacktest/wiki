@@ -1,6 +1,7 @@
 ---
-title: "Price-to-Book Ratio and Its Function"
-description: "Explore the critical role of the Price-to-Book (P/B) Ratio in investment analysis and algorithmic trading to uncover potential undervaluation or overvaluation opportunities."
+title: Understanding the Price-to-Book Ratio for Smart Investing
+description: Price-to-Book Ratio helps investors see if a stock is valued fairly versus
+  its assets by offering clear calculation and interpretation Discover more inside
 ---
 
 

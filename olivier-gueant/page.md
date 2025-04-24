@@ -1,6 +1,7 @@
 ---
-title: "Olivier Guéant"
-description: "Discover the profound impact of Olivier Guéant on algorithmic trading with insights into his research on market liquidity and optimal execution in finance."
+title: "Olivier Gu\xE9ant Shaping Market Microstructure and Financial Models"
+description: "Olivier Gu\xE9ant applies financial mathematics and market microstructure\
+  \ research to trading strategy education and industry practice. Discover more inside."
 ---
 
 

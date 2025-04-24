@@ -1,6 +1,7 @@
 ---
-title: "Price Improvement Mechanisms"
-description: "Explore how algorithmic trading strategies enhance price improvement by leveraging advanced technology. Discover the impact on efficiency and profitability in finance."
+title: Understanding Price Improvement Mechanisms in Trading
+description: Price improvement mechanisms help traders get better prices and enhance
+  market fairness while boosting liquidity and efficiency Discover more inside.
 ---
 
 

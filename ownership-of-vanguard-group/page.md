@@ -1,6 +1,7 @@
 ---
-title: "Ownership of Vanguard Group"
-description: "Discover how Vanguard Group revolutionizes investment management through its unique mutual ownership model and advanced algorithmic trading. This approach allows Vanguard to deliver low-cost, transparent investment options while aligning with investor interests. Explore Vanguard's commitment to innovation and efficiency, ensuring optimal investment performance in a rapidly evolving financial landscape."
+title: "Vanguard Group Client\u2011Owned Structure and Investment Benefits"
+description: Vanguard Group ownership model keeps fees low and aligns investor goals
+  providing cost efficient index funds and clear governance Discover more inside
 ---
 
 

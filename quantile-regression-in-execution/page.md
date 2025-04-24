@@ -1,6 +1,7 @@
 ---
-title: "quantile regression in execution"
-description: "Quantile regression enhances algo trading by modeling asset return distributions enabling improved risk management and strategy optimization under varying market conditions."
+title: Quantile Regression for Execution Time Prediction and Analysis
+description: Quantile regression shows how factors impact execution times at different
+  data percentiles to improve project performance Discover more inside
 ---
 
 

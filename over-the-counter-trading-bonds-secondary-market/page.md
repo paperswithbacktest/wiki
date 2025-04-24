@@ -1,6 +1,7 @@
 ---
-title: "Over-the-Counter Trading of Bonds in the Secondary Market"
-description: "Explore the dynamics of over-the-counter bond trading in the secondary market with a focus on algorithmic trading's role in enhancing liquidity and efficiency."
+title: Comprehensive Guide To OTC Bond Trading Risks And Benefits
+description: OTC bond trading provides access to bonds not on exchanges with flexible
+  terms but demands research on liquidity and counterparty risk Discover more inside
 ---
 
 

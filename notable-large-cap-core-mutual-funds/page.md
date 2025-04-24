@@ -1,6 +1,7 @@
 ---
-title: "Notable Large-Cap Core Mutual Funds"
-description: "Discover the benefits of large-cap and core mutual funds alongside the innovative role of algorithmic trading in modern investment strategies for stable returns."
+title: Understanding Large-Cap Core Mutual Funds for Steady Growth
+description: Large-cap core mutual funds offer a balanced approach with stable returns
+  and lower risk over time backed by key performance metrics Discover more inside.
 ---
 
 

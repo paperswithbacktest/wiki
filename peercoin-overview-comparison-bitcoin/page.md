@@ -1,6 +1,7 @@
 ---
-title: "Peercoin: Overview and Comparison to Bitcoin"
-description: "Explore the similarities and differences between Peercoin and Bitcoin, focusing on their technologies, market positions, and the impact of algorithmic trading strategies."
+title: Peercoin Vs Bitcoin Energy Efficiency Through Proof Of Stake
+description: Peercoin uses proof of stake to lower transaction fees cut energy consumption
+  and sustain stable inflation and secure the network Discover more inside
 ---
 
 

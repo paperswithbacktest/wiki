@@ -1,6 +1,7 @@
 ---
-title: "Penny Stocks"
-description: "Explore the intersection of penny stocks and algorithmic trading to uncover high-risk, high-reward investment opportunities in the dynamic stock market arena."
+title: Guide to Researching and Investing in Penny Stocks
+description: Penny stocks carry high risk but offer growth potential when you research
+  financial reports, apply proven strategies, and manage risk Discover more inside.
 ---
 
 

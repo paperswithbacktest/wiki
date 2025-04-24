@@ -1,6 +1,7 @@
 ---
-title: "Order Flow Dynamics"
-description: "Discover the power of order flow dynamics in algorithmic trading and enhance your market insights Gain an edge with real-time analysis of buy and sell orders"
+title: Understanding Order Flow in Financial Markets for Traders
+description: Order flow in financial markets reveals buying and selling pressure to
+  anticipate price moves, refine strategy and trade confidently Discover more inside
 ---
 
 

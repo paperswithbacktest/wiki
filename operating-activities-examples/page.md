@@ -1,6 +1,7 @@
 ---
-title: "Operating Activities and Examples"
-description: "Explore the integration of cash flow analysis and algorithmic trading to enhance decision-making in financial markets Learn how businesses can optimize efficiency and returns"
+title: Understanding Operating Activities in Cash Flow Statements
+description: Operating activities reveal how much cash a company generates from its
+  core business and manage expenses to maintain financial health Discover more inside.
 ---
 
 

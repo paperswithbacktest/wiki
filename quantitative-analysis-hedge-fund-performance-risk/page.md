@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Analysis in Hedge Fund Performance and Risk"
-description: "Explore how hedge funds use quantitative analysis to boost performance and manage risk by leveraging mathematical models and algorithmic trading strategies."
+title: Quantitative Analysis In Hedge Funds Metrics And Strategies
+description: Quantitative analysis reveals how hedge funds use data driven models
+  to measure performance risk and strategy effectiveness Discover more inside.
 ---
 
 

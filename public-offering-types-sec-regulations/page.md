@@ -1,6 +1,7 @@
 ---
-title: "Public Offering: Types and SEC Regulations"
-description: "Explore the types of public offerings, like IPOs and secondary offerings, and the SEC regulations guiding them, vital for investors and businesses alike."
+title: Understanding Public Offerings And SEC Compliance Processes
+description: Public offering insights guide you through IPO FPO and secondary offerings
+  while ensuring SEC compliance at each step Discover more inside today
 ---
 
 

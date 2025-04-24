@@ -1,6 +1,7 @@
 ---
-title: "Private Credit and Private Equity: Key Differences"
-description: "Explore key differences between private credit private equity and algo trading for informed investment decisions Understand risk returns liquidity and more"
+title: Private Credit Vs Private Equity Key Investment Differences
+description: Private Credit vs Private Equity compares lending and ownership approaches
+  so investors balance risk and returns in portfolios Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Pledging Requirement: Definition and Function"
-description: "Explore the critical role of pledging requirements and collateral in algorithmic trading Discover how these elements optimize strategies and manage risks effectively"
+title: Understanding Pledging Requirements in Financial Risk Management
+description: Pledging requirements provide a framework for using assets like homes
+  or vehicles as collateral to secure loans and manage risk Discover more inside.
 ---
 
 

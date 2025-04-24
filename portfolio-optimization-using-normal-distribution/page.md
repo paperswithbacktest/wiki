@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Optimization Using Normal Distribution"
-description: "Optimize your investment strategy by integrating normal distribution with algorithmic trading. Discover how statistical models enhance risk management and returns."
+title: Understanding Normal Distribution in Portfolio Optimization
+description: Normal distribution guides portfolio optimization by quantifying returns
+  and risk for better diversification and volatility control Discover more inside
 ---
 
 

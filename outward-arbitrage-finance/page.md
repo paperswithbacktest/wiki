@@ -1,6 +1,7 @@
 ---
-title: "Outward Arbitrage in Finance"
-description: "Explore the synergy between arbitrage and algorithmic trading in finance. Learn how this combination maximizes investment gains and market efficiency."
+title: Understanding Outward Arbitrage Mechanics And Strategies
+description: Outward arbitrage generates profit by buying goods where prices are lower
+  and selling where they are higher while covering costs Discover more inside
 ---
 
 

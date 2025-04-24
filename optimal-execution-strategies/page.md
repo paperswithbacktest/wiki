@@ -1,6 +1,7 @@
 ---
-title: "Optimal Execution Strategies"
-description: "Explore optimal execution strategies in algorithmic trading to minimize market impact and costs. Learn about VWAP, TWAP, and the role of AI in enhancing trade efficiency."
+title: Optimal Execution Strategy In Trading To Minimize Market Impact
+description: Optimal execution strategy helps traders break large orders into smaller
+  pieces to minimize market impact and reduce costs. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Price-Earnings Relative"
-description: "Enhance your trading strategies by understanding P/E and PEG ratios in stock valuation and their application in algorithmic trading for informed decisions."
+title: Price-Earnings Relative Guide for Accurate Stock Valuations
+description: Price-Earnings Relative reveals if a stock is overvalued or undervalued
+  against industry peers for informed decision making Discover more inside
 ---
 
 

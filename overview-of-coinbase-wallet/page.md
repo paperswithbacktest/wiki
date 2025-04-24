@@ -1,6 +1,7 @@
 ---
-title: "Overview of Coinbase Wallet"
-description: "Discover the versatility of Coinbase Wallet for managing digital currencies with secure storage and explore the benefits of algorithmic trading for optimized investments."
+title: Comprehensive Guide to Using and Securing Coinbase Wallet
+description: Coinbase Wallet secures your Bitcoin and tokens with private keys enabling
+  secure transactions while streamlining dApp integration Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Off-The-Run Treasury Yield Curve"
-description: "Explore the intricacies of off-the-run Treasury yield curves and algorithmic trading to enhance your fixed-income investment strategies and portfolio performance."
+title: "Understanding the Off\u2011The\u2011Run Treasury Yield Curve Importance"
+description: "Off\u2011the\u2011Run Treasury Yield Curve explains how older U.S. government\
+  \ bonds offer liquidity premiums and unique market insights for investors Discover\
+  \ more inside."
 ---
 
 

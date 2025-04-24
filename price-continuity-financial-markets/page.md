@@ -1,6 +1,7 @@
 ---
-title: "Price Continuity in Financial Markets"
-description: "Explore the critical role of price continuity in financial markets understanding its significance in algorithmic trading and stock trading to enhance stability and efficiency."
+title: Price Continuity Explained for Traders and Investors
+description: Price continuity in financial markets supports stability and liquidity
+  by curbing sudden price jumps and promoting fair trading Discover more inside.
 ---
 
 

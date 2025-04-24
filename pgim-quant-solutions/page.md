@@ -1,6 +1,7 @@
 ---
-title: "PGIM Quant Solutions"
-description: "Discover how PGIM Quant Solutions leverages AI and machine learning in algorithmic trading to enhance asset management efficiency and set new industry standards."
+title: PGIM Quant Solutions Comprehensive Quantitative Investing
+description: PGIM Quant Solutions uses quantitative analysis to create tailored equity
+  bond and multi asset strategies with integrated ESG factors Discover more inside
 ---
 
 

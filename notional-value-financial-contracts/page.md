@@ -1,6 +1,7 @@
 ---
-title: "Notional Value in Financial Contracts"
-description: "Discover the significance of notional value in derivatives and algorithmic trading Learn how these financial components interact to optimize trading strategies"
+title: Understanding Notional Value in Financial Contracts
+description: Notional value explains the total exposure of derivatives and futures
+  showing contract size and risk exposure in active terms Discover more inside
 ---
 
 

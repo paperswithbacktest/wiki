@@ -1,6 +1,7 @@
 ---
-title: "Presidential History and Federal Income Tax Trends"
-description: "Explore the impact of U.S. presidential tax policies on federal income tax trends and how their legacy shapes market dynamics and algorithmic trading today."
+title: Federal Income Tax Evolution Through US Presidential History
+description: Federal income tax evolved under US presidents with changing rates and
+  deductions influencing revenue and economic growth Discover more inside.
 ---
 
 

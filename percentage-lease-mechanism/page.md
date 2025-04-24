@@ -1,6 +1,7 @@
 ---
-title: "Percentage Lease and Its Mechanism"
-description: "Explore the dynamics of percentage leases in retail real estate which links rent to sales performance benefiting both landlords and tenants. Discover its adaptability and incentives."
+title: Percentage Lease Agreements for Retail and Commercial Properties
+description: Percentage lease agreements tie rent to sales for shared success with
+  breakpoints and lower base rent supporting tenant growth Discover more inside.
 ---
 
 

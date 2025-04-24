@@ -1,6 +1,7 @@
 ---
-title: "Order placement optimization"
-description: "Enhance your understanding of order placement optimization in algorithmic trading to boost profits by minimizing costs with strategic and timely execution."
+title: Order Placement Optimization for Supply Chain Management
+description: Order placement optimization reduces inventory waste and cuts costs through
+  data analytics and automation in supply chain operations Discover more inside
 ---
 
 

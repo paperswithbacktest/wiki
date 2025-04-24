@@ -1,6 +1,7 @@
 ---
-title: "Participation Bias (Machine Learning)"
-description: "Discover how participation bias impacts machine learning models and why diverse data collection is vital to create fair and accurate predictions for all groups."
+title: Mitigating Participation Bias in Machine Learning Models
+description: Participation bias can skew fairness, mitigate it with diverse data collection
+  reweighting and bias detection to build equitable ML Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

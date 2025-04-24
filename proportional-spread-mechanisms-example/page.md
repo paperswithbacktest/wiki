@@ -1,6 +1,7 @@
 ---
-title: "Proportional Spread and Its Mechanisms"
-description: "Explore the intricacies of proportional spreads in algorithmic trading to understand how they influence market efficiency and decision-making in spread trading strategies."
+title: Understanding Proportional Spread for Fair Resource Allocation
+description: Proportional spread shows how to allocate resources fairly and gauge
+  market liquidity through ratio analysis and share calculations Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Primary Recovery: Meaning and Function"
-description: "Explore primary recovery's role in the oil industry and how algo trading is transforming market dynamics and oil extraction strategies for improved efficiency."
+title: Understanding Primary Recovery in Oil and Gas Extraction
+description: Primary recovery uses reservoir pressure to extract the first 10 to 15
+  percent of oil and sets the stage for further methods Discover more inside.
 ---
 
 

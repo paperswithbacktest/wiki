@@ -1,6 +1,7 @@
 ---
-title: "Price-to-Book Ratio"
-description: "Explore the significance of the Price-to-Book Ratio in algorithmic trading and learn how it helps assess company valuation to identify investment opportunities."
+title: Understanding the Price-to-Book Ratio for Investors
+description: Price-to-Book Ratio helps investors compare stock market price to book
+  value per share in real time to identify undervalued stocks. Discover more inside.
 ---
 
 

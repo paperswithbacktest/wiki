@@ -1,6 +1,7 @@
 ---
-title: "Overview of the Securities and Exchange Commission"
-description: "Discover how the SEC ensures market integrity and investor protection amidst the rise of algorithmic trading Explore its history and role in modern markets"
+title: Comprehensive Guide to the Securities and Exchange Commission
+description: Securities and Exchange Commission enforces disclosure rules preventing
+  insider trading empowering smarter investments securely Discover more inside
 ---
 
 

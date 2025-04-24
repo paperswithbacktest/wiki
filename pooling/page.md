@@ -1,6 +1,7 @@
 ---
-title: "Pooling (Machine Learning)"
-description: "Pooling in machine learning minimizes data size while retaining critical features improving neural networks efficiency via methods like max and average pooling."
+title: Essential Pooling Techniques for Convolutional Neural Networks
+description: Pooling in machine learning cuts data dimensions to speed computation
+  while preserving key features and improving model generalization Discover more inside
 ---
 
 

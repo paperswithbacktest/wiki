@@ -1,6 +1,7 @@
 ---
-title: "Profits Interest vs. Capital Interest"
-description: "Explore profits interest vs capital interest in algo trading for informed financial decisions and strategic growth. Understand key distinctions and their business impacts."
+title: Understanding Profits Interest Versus Capital Interest in LLCs
+description: Profits interest and capital interest offer equity shares with tax and
+  vesting terms to align incentives and reward contributions Discover more inside.
 ---
 
 

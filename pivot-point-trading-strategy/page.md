@@ -1,6 +1,8 @@
 ---
-title: "Pivot Point Trading Strategy Explained"
-description: Explore the benefits and applications of the pivot point trading strategy in algorithmic trading. Learn how pivot points, calculated from previous market data, help identify support and resistance levels to inform trading decisions. Discover strategies that leverage pivot points, their role in market trend detection, and how they enhance automated trading efficiency.
+title: Understanding Pivot Points Trading Strategies for Market Trends
+description: Pivot points in trading guide you to identify key support and resistance
+  levels using previous price data turning insights into actionable trades Discover
+  more inside
 ---
 
 

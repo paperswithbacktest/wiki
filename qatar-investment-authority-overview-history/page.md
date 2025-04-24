@@ -1,6 +1,7 @@
 ---
-title: "Qatar Investment Authority: Overview and History"
-description: "Discover the Qatar Investment Authority its history and strategic approaches in global investments and algorithmic trading aimed at optimizing Qatar's financial future"
+title: Qatar Investment Authority Global Strategy And Economic Impact
+description: Qatar Investment Authority invests Qatar surplus funds across real estate
+  finance and technology to diversify the economy Discover more inside.
 ---
 
 

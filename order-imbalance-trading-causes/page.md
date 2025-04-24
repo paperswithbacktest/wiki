@@ -1,6 +1,7 @@
 ---
-title: "Order Imbalance in Trading and Its Causes"
-description: "Understand order imbalance in trading and effective strategies to leverage its dynamics with algorithmic tools Gain insights into market sentiment and price movements"
+title: Understanding Order Imbalance in Stock Market Trading
+description: Order Imbalance insights show how buy and sell pressures drive price
+  shifts and help traders make informed moves with real-time data Discover more inside.
 ---
 
 

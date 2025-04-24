@@ -1,6 +1,7 @@
 ---
-title: "Outstanding Shares and Float"
-description: "Discover how outstanding shares and stock float influence market behavior and algorithmic trading strategies in this comprehensive guide. Learn about the role of these financial metrics in calculating a company's value and how they affect stock liquidity and price stability. Understand the impact of algorithmic trading in modern markets, leveraging data-driven insights for rapid, efficient trade executions that capitalize on volatile and liquid stock conditions. Explore key concepts essential for optimizing investment decisions and maintaining a competitive trading edge."
+title: Understanding Outstanding Shares Versus Stock Float
+description: Outstanding shares and float reveal company valuation and liquidity Explore
+  how these metrics affect stock price and volatility Discover more inside.
 ---
 
 

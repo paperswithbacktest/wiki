@@ -1,6 +1,7 @@
 ---
-title: "Prominent Day Trading Courses"
-description: "Explore the evolving world of day trading and algorithmic trading courses. Enhance your trading skills with effective strategies and risk management insights."
+title: A Comprehensive Guide To Choosing Day Trading Courses That Work
+description: Day trading courses provide hands on training in risk management, chart
+  analysis and live trading sessions with expert support Discover more inside
 ---
 
 

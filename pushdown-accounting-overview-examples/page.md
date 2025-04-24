@@ -1,6 +1,8 @@
 ---
-title: "Pushdown Accounting: Overview and Examples"
-description: "Explore the intersection of pushdown accounting and algorithmic trading in modern finance, highlighting their impact on financial reporting and transparency."
+title: Pushdown Accounting Explained for Accurate Post-Acquisition Reporting
+description: "Pushdown accounting adjusts a bought company\u2019s assets and liabilities\
+  \ to reflect purchase price for clearer post-acquisition financials Discover more\
+  \ inside."
 ---
 
 

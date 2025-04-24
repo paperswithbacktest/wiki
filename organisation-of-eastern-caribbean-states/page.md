@@ -1,6 +1,7 @@
 ---
-title: "Organisation of Eastern Caribbean States"
-description: "Explore the role of algorithmic trading in the Organisation of Eastern Caribbean States enhancing market efficiency and financial integration while navigating challenges."
+title: Overview of the Organisation of Eastern Caribbean States OECS
+description: Organisation of Eastern Caribbean States fosters seamless trade security
+  and cultural exchange to boost economic growth Discover more inside
 ---
 
 

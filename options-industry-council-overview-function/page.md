@@ -1,6 +1,7 @@
 ---
-title: "Options Industry Council: Overview and Function"
-description: "Explore the Options Industry Council's vital role in educating investors about options trading with resources on strategies, algorithmic trading, and market dynamics."
+title: Options Industry Council Educational Resources for Traders
+description: Options Industry Council provides free videos articles courses and calculators
+  to help traders learn options trading safely Discover more inside.
 ---
 
 

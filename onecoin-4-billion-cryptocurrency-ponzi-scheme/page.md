@@ -1,6 +1,7 @@
 ---
-title: "OneCoin: The $4 Billion Cryptocurrency Ponzi Scheme"
-description: "Explore the deception of OneCoin the infamous Ponzi scheme disguised as a cryptocurrency revolution that defrauded investors of $4 billion with false promises"
+title: OneCoin Scam Explained Investors Lost Billions in Fraud
+description: OneCoin scam analysis shows how fake cryptocurrency promises defrauded
+  investors and offers key lessons to avoid future fraud Discover more inside.
 ---
 
 

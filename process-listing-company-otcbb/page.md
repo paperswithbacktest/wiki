@@ -1,6 +1,7 @@
 ---
-title: "Process for Listing a Company on the OTCBB"
-description: "Explore the process of listing a company on the OTCBB, a vital platform for small businesses, with insights into market maker roles and algorithmic trading impact."
+title: Understanding OTCBB Listing Requirements and Compliance Process
+description: OTCBB listing simplifies trading small company stocks by detailing SEC
+  reporting market maker roles and compliance steps Discover more inside
 ---
 
 

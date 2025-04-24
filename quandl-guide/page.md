@@ -1,6 +1,7 @@
 ---
-title: "Quandl Guide"
-description: Explore the significance of algorithmic trading with our Quandl Guide. Delve into how computer algorithms enhance trading efficiency, reduce costs, and exploit market opportunities at unprecedented speeds. Learn about the Yahoo Finance API, a vital tool for accessing real-time and historical financial data crucial for algorithmic trading. This guide covers the API's integration capabilities with platforms like Python, enabling seamless data retrieval to support informed decision-making and strategy development. Harness the full potential of the Yahoo Finance API to boost your algorithmic trading operations.
+title: Optimizing Algorithmic Trading With Yahoo Finance API Integration
+description: Yahoo Finance API delivers real-time and historical market data for efficient
+  algorithmic trading and backtesting of strategies Discover more inside
 ---
 
 Algorithmic trading refers to the use of computer algorithms to execute trades in financial markets. This method of trading utilizes pre-set rules and models to determine the timing, price, and quantity of trades, often processing high volumes of data at speeds unachievable by human traders. The significance of algorithmic trading in today's markets is profound, as it provides increased efficiency, reduced transaction costs, and the capability to exploit opportunities within milliseconds. Consequently, algos dominate many exchanges worldwide, handling significant percentages of trades.

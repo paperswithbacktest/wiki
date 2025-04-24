@@ -1,6 +1,7 @@
 ---
-title: "Optimal Asset Allocation Strategies"
-description: "Discover optimal asset allocation strategies in algo trading to enhance investment outcomes by balancing risk and reward through portfolio management and technology."
+title: Asset Allocation Strategies For Diversified Investment Success
+description: Asset allocation helps balance risk and reward by spreading investments
+  across stocks bonds and cash for steady long term growth Discover more inside.
 ---
 
 

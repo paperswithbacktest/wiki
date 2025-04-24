@@ -1,6 +1,7 @@
 ---
-title: "Orphan Drug Tax Credit Overview"
-description: "Explore the role of the orphan drug tax credit in stimulating rare disease treatment development and how algorithmic trading optimizes these incentives for pharma."
+title: Understanding the Orphan Drug Tax Credit Benefits and Process
+description: Orphan Drug Tax Credit cuts development costs for rare disease treatments
+  by refunding 25% of qualified clinical testing expenses Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Qualified Eligible Participant"
-description: "Explore the role of Qualified Eligible Participants in algorithmic trading and their access to advanced investment opportunities and regulatory considerations in finance."
+title: Qualified Eligible Participant Status Explained for Investors
+description: Qualified Eligible Participant requirements outline investor criteria
+  for CFTC regulated commodity pools private funds and benefits Discover more inside
 ---
 
 

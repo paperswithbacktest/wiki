@@ -1,6 +1,7 @@
 ---
-title: "Prompt-Based Learning (Machine Learning)"
-description: "Discover how Prompt-Based Learning enhances machine learning by focusing on specific tasks or questions, improving accuracy and efficiency in model responses."
+title: Prompt-Based Learning Drives Precision in Machine Learning
+description: Prompt-Based Learning guides models with precise instructions and examples
+  to deliver relevant responses across languages and coding Discover more inside.
 ---
 
 

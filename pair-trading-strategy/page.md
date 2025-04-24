@@ -1,6 +1,7 @@
 ---
-title: "Pairs Trading Strategy Explained"
-description: Discover the intricacies of pairs trading, a dynamic market-neutral strategy in algorithmic trading. This strategy leverages the price relationship between two correlated assets to exploit temporary divergences, allowing traders to potentially profit regardless of market direction. Our article investigates into the principles, benefits, and challenges of pairs trading, highlighting how advancements in algorithms have facilitated its implementation for enhanced risk management and diversification in financial markets. Explore how traders use statistical tools and advanced data analysis to navigate this sophisticated strategy effectively.
+title: Mastering Pairs Trading Strategy for Market Neutral Profits
+description: Pairs trading offers a market neutral approach by profiting on price
+  divergence of correlated stocks with built in risk management Discover more inside
 ---
 
 

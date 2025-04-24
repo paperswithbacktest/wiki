@@ -1,6 +1,7 @@
 ---
-title: "Overview of Inflation"
-description: "Explore the intricate link between inflation and algorithmic trading Understand how economic trends influence market dynamics and strategic financial planning"
+title: 'Understanding Inflation: Measurement, Causes, and Effects'
+description: Inflation impacts consumer budgets and investments so measuring its causes
+  and effects helps you plan financial strategies. Discover more inside.
 ---
 
 

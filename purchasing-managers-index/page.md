@@ -1,6 +1,7 @@
 ---
-title: "Purchasing Managers Index"
-description: "Discover the significance of the Purchasing Managers Index (PMI) in algorithmic trading as a vital economic indicator that offers insights into industry health and market trends. Learn how traders leverage PMI data for crafting robust strategies and understand its role in predicting market movements and economic turning points, enhancing decision-making in forex trading."
+title: Understanding the Purchasing Managers Index and Economic Growth
+description: Purchasing Managers Index gives early insight into business growth by
+  tracking new orders production employment and deliveries. Discover more inside.
 ---
 
 

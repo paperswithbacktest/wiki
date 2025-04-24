@@ -1,6 +1,7 @@
 ---
-title: "Nova to Ursa Ratio"
-description: "Explore the Nova/Ursa ratio in algo trading, integrating astronomy insights with market sentiment indicators to enhance your investment strategies."
+title: Comprehensive Guide to the Nova to Ursa Ratio in Astronomy
+description: Nova to Ursa Ratio provides precise comparison of nova brightness to
+  Ursa Major stars guiding observations and data analysis. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Notable Inventory Fraud Cases"
-description: "Explore significant inventory fraud cases in algorithmic trading uncovering notorious scandals like Equity Funding and Crazy Eddie while understanding emerging risks."
+title: Comprehensive Guide to Detecting and Preventing Inventory Fraud
+description: Inventory fraud threatens operations and profits, but you can stop it
+  with strong internal controls and auditing techniques. Discover more inside
 ---
 
 

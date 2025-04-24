@@ -1,6 +1,7 @@
 ---
-title: "Oil Field: Overview and Operations"
-description: "Explore the impact of oil field operations and algorithmic trading on the energy sector highlighting technology's role in shaping the modern energy economy."
+title: Oil Field Operations Explained From Discovery To Extraction
+description: Oil field operations cover discovery drilling monitoring extraction and
+  transport while managing environmental impacts and safety Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Preemptive Rights in Stock Issuance"
-description: "Explore the dynamics of preemptive rights in stock issuance and understand how they protect shareholders from dilution while leveraging algorithmic trading."
+title: Essential Guide To Preemptive Rights in Stock Issuance
+description: Preemptive rights let shareholders buy new stock first to maintain ownership
+  percentage and prevent dilution during stock issuances Discover more inside.
 ---
 
 

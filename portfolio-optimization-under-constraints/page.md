@@ -1,6 +1,7 @@
 ---
-title: "portfolio optimization under constraints"
-description: "Explore portfolio optimization in algorithmic trading to maximize returns under constraints. Discover techniques to manage constraints and automate trading."
+title: Advanced Techniques for Constrained Portfolio Optimization
+description: Constrained portfolio optimization uses efficient frontier and linear
+  programming to balance risk and return within real world limits Discover more inside
 ---
 
 

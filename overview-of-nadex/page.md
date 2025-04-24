@@ -1,6 +1,7 @@
 ---
-title: "Overview of Nadex"
-description: "Explore Nadex for binary options trading in the US with its regulated, transparent environment. Ideal for novices and pros, offering algo trading tools."
+title: Essential Nadex Trading Guide For Binary Options And Spreads
+description: Nadex trading offers regulated binary options and spreads with clear
+  fees demo accounts and risk tools to trade confidently Discover more inside
 ---
 
 

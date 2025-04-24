@@ -1,6 +1,7 @@
 ---
-title: "Political Arbitrage in Financial Markets"
-description: "Discover the impact of political arbitrage and algorithmic trading on financial markets and learn how these strategies can optimize investment performance."
+title: Mastering Political Arbitrage in Financial Markets for Investors
+description: Political arbitrage can boost returns by predicting market reactions
+  to elections and policy shifts with data analytics Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Qualified Institutional Buyer"
-description: "Explore the role of Qualified Institutional Buyers in algorithmic trading examining their impact on market liquidity and investment strategies within private securities transactions."
+title: Qualified Institutional Buyer Definition Criteria and Impact
+description: Qualified Institutional Buyer lets large institutions tap private placements
+  and Rule 144A securities under streamlined compliance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Offsetting Transaction: Definition and Examples"
-description: "Explore the concept of offsetting transactions in algorithmic trading and discover how these strategies mitigate risk and enhance trading performance."
+title: Understanding Offsetting Transactions in Financial Markets
+description: Offsetting transactions let investors cancel earlier trades to control
+  risk and lock in gains with precision Discover more inside
 ---
 
 

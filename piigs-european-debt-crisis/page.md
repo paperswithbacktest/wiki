@@ -1,6 +1,7 @@
 ---
-title: "PIIGS and the European Debt Crisis"
-description: "Explore the impact of algorithmic trading on the European Debt Crisis and the PIIGS countries. Analyze crisis origins and EU stabilization measures."
+title: Understanding PIIGS Countries in the European Debt Crisis
+description: PIIGS countries faced high debt and strain during the European Debt Crisis
+  and adopted EU backed austerity and recovery measures Discover more inside
 ---
 
 

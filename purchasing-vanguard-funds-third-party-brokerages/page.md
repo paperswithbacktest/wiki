@@ -1,6 +1,7 @@
 ---
-title: "Purchasing Vanguard Funds Through Third-Party Brokerages"
-description: "Explore how to purchase Vanguard funds through third-party brokerages with insights into algorithmic trading for optimizing investment strategies efficiently."
+title: Investing in Vanguard Funds Through Third Party Brokerages
+description: Vanguard funds investors can open third party brokerage accounts with
+  guidance on buying funds understanding fees taxes and strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Adjustment and Renewal"
-description: "Discover the synergy of financial planning, investment strategy, portfolio management, and algo trading to optimize financial success in evolving markets."
+title: Comprehensive Guide To Portfolio Adjustment For Investors
+description: Portfolio Adjustment helps investors align their holdings with evolving
+  goals market shifts and risk tolerance while optimizing returns Discover more inside
 ---
 
 

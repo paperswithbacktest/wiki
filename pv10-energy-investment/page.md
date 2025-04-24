@@ -1,6 +1,7 @@
 ---
-title: "PV10 in Energy Investment"
-description: "Explore the impact of PV10 metrics on energy investments and discover how algorithmic trading enhances strategies by processing real-time market data for optimal decisions."
+title: PV10 Valuation Methods for Oil and Gas Investments
+description: PV10 valuation offers a unified method to value future oil and gas cash
+  flows at a 10% discount rate and improve project comparison Discover more inside
 ---
 
 

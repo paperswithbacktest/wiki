@@ -1,6 +1,7 @@
 ---
-title: "Purchasing Chinese Yuan"
-description: "Explore the significance of the Chinese Yuan in global markets and discover how algorithmic trading can optimize currency exchange with cutting-edge efficiency."
+title: Chinese Yuan Currency Exchange and Investment Guide
+description: This guide explains Chinese Yuan exchange to help travelers and investors
+  navigate rates, restrictions and trading options. Discover more inside.
 ---
 
 

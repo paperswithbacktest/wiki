@@ -1,6 +1,7 @@
 ---
-title: "Parity Price in Investing"
-description: "Learn about parity price, financial formulas, and algorithmic trading to enhance your investment strategy. Discover how these concepts optimize portfolio decisions."
+title: Understanding Parity Price In Options And Equity Markets
+description: Parity Price helps investors compare call and put option values at the
+  strike price and spot mispriced options for smarter trades. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Qualified Special Representative Agreement"
-description: "Explore the synergy between Qualified Special Representative Agreements and algorithmic trading focusing on their role in enhancing market operations and contract fulfillment."
+title: Overview of Qualified Special Representative Agreements
+description: Qualified Special Representative Agreement ensures clear authority duties
+  and protections when appointing an agent abroad Discover more inside
 ---
 
 

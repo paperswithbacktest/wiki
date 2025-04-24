@@ -1,6 +1,7 @@
 ---
-title: "Overview of Fannie Mae and Freddie Mac"
-description: "Explore how Fannie Mae and Freddie Mac are embracing algorithmic trading to revolutionize mortgage finance enhancing liquidity, efficiency, and risk management."
+title: Fannie Mae and Freddie Mac Roles in the US Housing Market
+description: Fannie Mae and Freddie Mac support stable mortgage financing by buying
+  lender loans to lower rates and boost homeownership Discover more inside
 ---
 
 

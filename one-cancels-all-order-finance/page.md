@@ -1,6 +1,7 @@
 ---
-title: "One-Cancels-All Order in Finance"
-description: "Explore the intricacies of One-Cancels-All orders in algo trading to enhance trading strategies reduce risks and streamline execution for optimal outcomes."
+title: Understanding One-Cancels-All Orders in Trading Strategies
+description: One-Cancels-All order lets traders place multiple linked orders so when
+  one fills the rest cancel reducing duplicate trades and risk Discover more inside
 ---
 
 

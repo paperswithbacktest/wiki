@@ -1,6 +1,7 @@
 ---
-title: "Normalcy Bias and Its Impact on Investment Strategies"
-description: "Discover how normalcy bias affects investment decisions and how algo trading can mitigate its impact leading to more rational and resilient strategies."
+title: Overcoming Normalcy Bias in Investment Decision Making
+description: Normalcy bias in investing can cause overlooked risks and missed opportunities
+  Diversify with scenario analysis to protect portfolios Discover more inside
 ---
 
 

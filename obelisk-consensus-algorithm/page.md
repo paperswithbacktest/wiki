@@ -1,6 +1,7 @@
 ---
-title: "Obelisk Consensus Algorithm"
-description: "Explore the innovative Obelisk consensus algorithm within the Skycoin ecosystem. Discover how it enhances blockchain technology and influences algorithmic trading."
+title: Obelisk Consensus Algorithm for Fast Fair Blockchain Networks
+description: Obelisk Consensus Algorithm delivers fast fair agreement in blockchain
+  networks through equal node voting and immediate finalization Discover more inside.
 ---
 
 

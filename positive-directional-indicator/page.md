@@ -1,6 +1,7 @@
 ---
-title: "Positive Directional Indicator"
-description: "Explore the Positive Directional Indicator in algo trading to gauge trend strength and direction Boost your strategy in stocks forex and commodities"
+title: Positive Directional Indicator Explained for Effective Trading
+description: Positive Directional Indicator measures upward momentum and guides trading
+  decisions through calculated values and real examples Discover more inside.
 ---
 
 

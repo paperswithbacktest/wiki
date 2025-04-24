@@ -1,6 +1,7 @@
 ---
-title: "Qstick Indicator: Calculation and Examples"
-description: "Explore the Qstick indicator a unique tool for assessing market trends and momentum through the average difference in closing and opening prices in algo trading"
+title: Understanding the Qstick Indicator for Trend Strength Analysis
+description: Qstick indicator measures trend strength by averaging closing minus opening
+  prices to assess risks and guide buy and sell decisions. Discover more inside.
 ---
 
 

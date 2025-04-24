@@ -1,6 +1,7 @@
 ---
-title: "Operating Netback: Overview and Benefits"
-description: "Explore the importance of operating netback in oil and gas finance and the impact of algorithmic trading on market dynamics. Learn strategies for profit maximization."
+title: Maximizing Profit With Operating Netback In Oil And Gas
+description: Operating Netback shows profit per unit after deducting production and
+  transport costs for oil and gas and guides investment decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "price impact functions"
-description: "Explore the significance of price impact functions in algorithmic trading and how they affect trade execution cost efficiency and market stability."
+title: Price Impact Functions Explained For Optimal Trading Decisions
+description: Price impact functions help traders predict price changes plan smarter
+  order sizing to reduce market impact and lower trading costs Discover more inside
 ---
 
 

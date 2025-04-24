@@ -1,6 +1,7 @@
 ---
-title: "Proposals for California Secession"
-description: "Explore the prospects of California secession and its potential impact on politics, economy, and society Learn about Calexit's feasibility and technological implications"
+title: California Secession Explained History Arguments And Impact
+description: California secession discussions explore historical roots legal and economic
+  challenges opinion shifts and geopolitical impacts Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Plain Vanilla Swap: Overview and Mechanism"
-description: "Explore the essentials of plain vanilla swaps and algorithmic trading Mechanisms in these financial tools provide risk management and improve market strategies"
+title: Plain Vanilla Swaps Explained for Interest Rate Risk Management
+description: Plain Vanilla Swaps enable firms to exchange fixed and floating interest
+  payments to stabilize cash flows and manage rate risk. Discover more inside.
 ---
 
 

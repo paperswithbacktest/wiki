@@ -1,6 +1,7 @@
 ---
-title: "Premium Adjustable Convertible Securities"
-description: "Explore the dynamics of Premium Adjustable Convertible Securities and how they integrate with algo trading strategies for optimal investment returns."
+title: Guide to Premium Adjustable Convertible Securities PACS
+description: Premium Adjustable Convertible Securities combine bond safety with variable
+  stock conversion for upside potential and steady income. Discover more inside.
 ---
 
 

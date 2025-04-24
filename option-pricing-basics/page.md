@@ -1,6 +1,7 @@
 ---
-title: "Option Pricing Basics"
-description: "Explore the fundamentals of option pricing and algorithmic trading in financial markets. Learn about key models like Black-Scholes and binomial pricing that calculate the fair value of options using factors like asset price and volatility. Discover how algorithmic trading enhances efficiency and precision by automating data analysis and trade execution. Understand the synergy between these technologies that helps traders navigate market complexities and optimize strategies in real-time, leading to greater transparency and decisions based on data-driven insights."
+title: Option Pricing Models Explained for Modern Traders
+description: Option Pricing Models deliver a framework to value options from Black
+  Scholes and binomial to Monte Carlo while managing risk Discover more inside
 ---
 
 

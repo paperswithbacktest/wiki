@@ -1,6 +1,7 @@
 ---
-title: "Parameter-Efficient Tuning (Machine Learning)"
-description: "Parameter-Efficient Tuning in machine learning optimizes models by adjusting only a subset of parameters saving time and resources while preserving knowledge."
+title: Parameter-Efficient Tuning Strategies For Machine Learning Models
+description: Parameter-Efficient Tuning adapts pretrained models with minimal adjustment
+  to save time and compute and preserve performance. Discover more inside.
 ---
 
 ![Image](images/1.png)

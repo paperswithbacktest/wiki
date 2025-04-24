@@ -1,6 +1,7 @@
 ---
-title: "One-Hot Encoding (Machine Learning)"
-description: "One-Hot Encoding transforms categorical data into a numerical format, allowing machine learning models to process categories efficiently without implying any order."
+title: Understanding One-Hot Encoding for Categorical Data in ML
+description: One-Hot Encoding turns categories into binary vectors to boost model
+  accuracy without ordering bias and streamline data handling. Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Optimal Number of Stocks in a Portfolio"
-description: "Discover how algorithmic trading and portfolio diversification can optimize investment strategies by spreading risk and maximizing returns. Learn the ideal number of stocks for diversification and how algorithms facilitate efficient asset allocation and dynamic portfolio management."
+title: Optimal Number of Stocks in a Portfolio for Diversification
+description: Stock portfolio optimization balances risk and returns by finding the
+  optimal number of stocks across sectors using correlation, discover more inside
 ---
 
 

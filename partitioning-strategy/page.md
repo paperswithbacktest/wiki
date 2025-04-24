@@ -1,6 +1,7 @@
 ---
-title: "Partitioning Strategy (Machine Learning)"
-description: "Discover the importance and methods of partitioning strategies in machine learning Learn about data division techniques like holdout k-fold and stratified sampling"
+title: Data Partitioning Strategies for Reliable Machine Learning
+description: Data partitioning strategies help machine learning models generalize
+  by preventing overfitting and boosting evaluation accuracy. Discover more inside.
 ---
 
 ![Image](images/1.png)

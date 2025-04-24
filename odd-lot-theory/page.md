@@ -1,6 +1,7 @@
 ---
-title: "Odd Lot Theory"
-description: "Explore the Odd Lot Theory's role in stock trading and its use in algorithmic strategies Discover how retail investor behaviors can signal market trends"
+title: Understanding Odd Lot Theory for Stock Market Predictions
+description: Odd Lot Theory reveals how small investor trades may signal market reversals
+  and helps you anticipate stock trends with confidence Discover more inside
 ---
 
 

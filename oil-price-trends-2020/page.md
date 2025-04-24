@@ -1,6 +1,7 @@
 ---
-title: "Oil Price Trends in 2020"
-description: "Explore the multifaceted causes and effects of 2020 oil market volatility influenced by COVID-19 and geopolitical tensions with insights into algorithmic trading."
+title: Key Oil Price Trends and Influencing Factors in 2020
+description: Oil prices in 2020 reflect supply demand imbalances geopolitical tensions
+  and market speculation shaping recovery forecasts. Discover more inside.
 ---
 
 

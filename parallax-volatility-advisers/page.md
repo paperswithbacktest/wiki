@@ -1,6 +1,8 @@
 ---
-title: "Parallax Volatility Advisers"
-description: "Explore Parallax Volatility Advisers to learn their innovative approach to algorithmic trading with a focus on volatility strategies for optimal market performance."
+title: Professional Parallax Volatility Advisers Investment Management
+description: Parallax Volatility Advisers manages market volatility with data driven
+  strategies and advanced technology to help investors reach financial goals in uncertain
+  markets Discover more inside.
 ---
 
 

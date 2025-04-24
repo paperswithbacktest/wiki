@@ -1,6 +1,7 @@
 ---
-title: "Put Option in Bonds: Explanation and Implications"
-description: "Discover how bond put options can diversify your investment strategy offering flexibility to manage risk effectively in volatile markets and fluctuating interest rates."
+title: Understanding Putable Bonds and Bond Put Option Benefits
+description: Putable Bonds give investors a safety net against rising rates by letting
+  them sell bonds back early and reinvest at better yields Discover more inside.
 ---
 
 

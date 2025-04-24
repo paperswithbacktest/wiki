@@ -1,6 +1,7 @@
 ---
-title: "Petroleum: Importance and Investment"
-description: "Explore the transformation of petroleum investment with algorithmic trading insights Learn how advanced trading optimizes energy resource management and market dynamics"
+title: Comprehensive Guide to the Petroleum Industry and Investments
+description: Petroleum industry overview from formation and everyday uses to economic
+  impacts environmental risks and investment strategies Discover more inside.
 ---
 
 

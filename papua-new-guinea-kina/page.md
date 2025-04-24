@@ -1,6 +1,7 @@
 ---
-title: "Papua New Guinea Kina"
-description: "Explore the dynamics of Papua New Guinea Kina PGK its role in the economy and the potential of algorithmic trading with this unique currency."
+title: Comprehensive Guide To The Papua New Guinea Kina Currency
+description: Papua New Guinea Kina overview covers history denominations exchange
+  drivers and policy insights to guide your currency decisions Discover more inside
 ---
 
 

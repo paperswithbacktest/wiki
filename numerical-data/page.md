@@ -1,6 +1,7 @@
 ---
-title: "Numerical Data (Machine Learning)"
-description: "Discover the role of numerical data in machine learning including preprocessing steps and how it differs from categorical data Explore sources and handling techniques"
+title: Understanding Numerical Data in Machine Learning Applications
+description: Numerical data drives machine learning by enabling precise calculations
+  scaling and feature selection for better predictions Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Old Economy: Concepts and Examples"
-description: "Explore the key concepts and examples of the old economy focusing on traditional industries like manufacturing agriculture and mining and their historical significance."
+title: Understanding the Old Economy and Its Key Challenges
+description: Old economy sectors from manufacturing to agriculture shape our daily
+  essentials while adapting to technology and globalization Discover more inside.
 ---
 
 

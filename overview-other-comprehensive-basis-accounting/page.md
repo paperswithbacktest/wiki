@@ -1,6 +1,7 @@
 ---
-title: "Overview of Other Comprehensive Basis of Accounting"
-description: "Discover the crucial role of accounting methods in financial reporting and algorithmic trading, exploring OCBOA as a flexible alternative to GAAP."
+title: Understanding the Other Comprehensive Basis of Accounting OCBOA
+description: OCBOA accounting simplifies financial statements by offering cash basis
+  income tax or regulatory methods tailored to business needs Discover more inside.
 ---
 
 

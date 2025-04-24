@@ -1,6 +1,8 @@
 ---
-title: "Option Pricing Theory: History, Models, and Objectives"
-description: "Explore the history, essential models, and objectives of option pricing theory in algorithmic trading and understand its impact on financial markets today."
+title: "Understanding Option Pricing Theory and Black\u2011Scholes Model"
+description: "Option pricing theory shows how Black\u2011Scholes and binomial models\
+  \ price fair call and put options so traders manage risk effectively Discover more\
+  \ inside."
 ---
 
 

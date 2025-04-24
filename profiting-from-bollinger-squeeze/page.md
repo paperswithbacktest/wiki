@@ -1,6 +1,8 @@
 ---
-title: "Profiting from the Bollinger Squeeze"
-description: "Learn to profit from market volatility using the Bollinger Squeeze in algo trading Understand how this strategy predicts breakouts for optimal trades"
+title: Bollinger Squeeze Trading Strategy Explained for Stock Breakouts
+description: Bollinger Squeeze helps traders spot low volatility periods signaling
+  potential breakouts and act decisively when price moves beyond the bands Discover
+  more inside.
 ---
 
 

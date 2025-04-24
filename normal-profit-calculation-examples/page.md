@@ -1,6 +1,7 @@
 ---
-title: "Normal Profit: Calculation and Examples"
-description: "Explore the fundamentals of normal profit in algo trading Discover calculation methods and examples that aid in informed strategic financial decisions"
+title: Understanding Normal Profit and Its Role in Business Performance
+description: Normal profit defines the minimum return a business needs to cover explicit
+  and opportunity costs while staying viable in the market Discover more inside
 ---
 
 

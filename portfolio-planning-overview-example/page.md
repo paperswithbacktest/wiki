@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Planning: Overview and Example"
-description: "Explore the essential elements of portfolio planning for algorithmic trading. Understand how to integrate strategy and technology for effective financial management."
+title: Effective Portfolio Planning Strategies for Investors
+description: Portfolio Planning helps investors set clear goals, balance risk tolerance,
+  and diversify assets to optimize returns over time Discover more inside
 ---
 
 

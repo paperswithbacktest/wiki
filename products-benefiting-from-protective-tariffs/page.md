@@ -1,6 +1,7 @@
 ---
-title: "Products Benefiting from Protective Tariffs"
-description: "Discover how protective tariffs and algorithmic trading shape global trade dynamics and influence domestic industries, consumer prices, and economic policies."
+title: Protective Tariffs Impact on Domestic Industries and Trade
+description: Protective tariffs shape local markets by raising import costs to support
+  domestic growth and jobs while balancing consumer costs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Out-of-Sample Trading Tests Explained"
-description: Explore the significance of out-of-sample testing in algorithmic trading and learn how it ensures the robustness and adaptability of trading strategies. Discover the methodology behind data division, avoid overfitting pitfalls, and boost confidence in strategy deployment with practical insights and best practices in dynamic financial markets.
+title: Out-of-Sample Trading Test for Reliable Strategy Performance
+description: Out-of-Sample trading tests validate your strategy on unseen data to
+  ensure robust real-world performance while avoiding overfitting. Discover more inside.
 ---
 
 

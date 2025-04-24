@@ -1,6 +1,7 @@
 ---
-title: "Property Dividend"
-description: "Discover the benefits of property dividends and how algorithmic trading can enhance investment strategies by optimizing returns and managing resources efficiently."
+title: Property Dividends Explained Benefits Risks And Applications
+description: Property dividends let companies reward shareholders with assets instead
+  of cash boosting liquidity and offering fresh asset value Discover more inside
 ---
 
 

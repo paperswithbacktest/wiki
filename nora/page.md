@@ -1,6 +1,7 @@
 ---
-title: "Nora (Machine Learning)"
-description: "Nora blends neural networks and decision trees for efficient, interpretable machine learning, making it ideal for transparent decisions in complex data scenarios."
+title: Understanding Nora Neural Oblivious Randomized Aggregation Model
+description: Nora Neural Oblivious Randomized Aggregation enables transparent predictions
+  by integrating decision trees and improving training Discover more inside
 ---
 
 ![Image](images/1.png)

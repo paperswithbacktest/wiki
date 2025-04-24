@@ -1,6 +1,7 @@
 ---
-title: "Order book trading strategies"
-description: Master the art of order book analysis for advanced trading strategies. Understand bid and ask prices, market spread, depth, and more to gain insights on market sentiment, liquidity, and price movements. Use order books effectively for trade execution, strategy formulation, anticipating breakouts or reversals, and managing risk.
+title: Mastering Order Book Analysis for Strategic Market Trading
+description: Order Book Analysis reveals real time market depth and liquidity to empower
+  precise trading decisions and improve risk management Discover more inside
 ---
 
 

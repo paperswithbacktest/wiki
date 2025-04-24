@@ -1,6 +1,7 @@
 ---
-title: "Prudent Person Rule"
-description: "Explore the integration of the Prudent Person Rule with modern algorithmic trading and fiduciary duties to manage investments prudently in today's market."
+title: Understanding the Prudent Person Rule in Fiduciary Management
+description: Prudent Person Rule guides fiduciaries handling trust and pension funds
+  toward safe, steady growth with investment principles Discover more inside.
 ---
 
 

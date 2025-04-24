@@ -1,6 +1,7 @@
 ---
-title: "Onerous Contracts and Accounting Rules"
-description: "Explore the essentials of accounting rules and their impact on financial strategies focusing on GAAP IFRS onerous contracts and algorithmic trading insights."
+title: Understanding Onerous Contracts and Their Accounting Impact
+description: Onerous contracts require businesses to recognize and measure future
+  losses promptly on financial statements for accurate reporting Discover more inside
 ---
 
 

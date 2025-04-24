@@ -1,6 +1,7 @@
 ---
-title: "Noon Rate in Financial Markets"
-description: "Explore how algorithmic trading is transforming the forex market by improving efficiency and precision while addressing risks and opportunities in USD/CAD trades."
+title: Understanding the Noon Rate in Currency Markets Explained
+description: Noon rate provides a standardized midday exchange rate snapshot to guide
+  your currency transactions and financial planning effectively Discover more inside
 ---
 
 

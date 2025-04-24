@@ -1,6 +1,7 @@
 ---
-title: "Possible Reserves: Definition and Examples"
-description: "Explore the integration of reserve classification, resource estimation, and algorithmic trading in the energy sector to optimize operations and inform investment strategies."
+title: Understanding Possible Reserves in Oil and Gas Exploration
+description: Possible reserves guide energy companies in planning future exploration
+  and assessing risks and rewards of untapped oil and gas fields Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Performance Shares: Purpose and Restrictions"
-description: "Explore the purpose and restrictions of performance shares in algo trading and understand their impact on aligning interests, optimizing performance, and driving value."
+title: Understanding Performance Shares in Employee Compensation
+description: Performance shares tie employee rewards to company goals boosting motivation
+  retention and aligning interests with performance metrics Discover more inside
 ---
 
 

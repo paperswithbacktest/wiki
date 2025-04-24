@@ -1,6 +1,7 @@
 ---
-title: "Overview of Decentralized Dark Pool Trading Platforms"
-description: "Discover the transformative world of decentralized dark pool trading platforms using blockchain and algorithmic trading for secure, anonymous transactions."
+title: Understanding Decentralized Dark Pool Trading Platforms
+description: Decentralized dark pool trading platforms let investors execute large
+  trades without moving market prices while ensuring privacy. Discover more inside.
 ---
 
 

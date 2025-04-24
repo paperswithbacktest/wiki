@@ -1,6 +1,7 @@
 ---
-title: "Overview of the Export-Import Bank of the United States"
-description: "Discover the role of the Export-Import Bank of the United States and how algorithmic trading enhances trade finance efficiency for U.S. exporters."
+title: How the Export-Import Bank Strengthens US Exports and Jobs
+description: Export-Import Bank reduces risk for US exporters by offering loans guarantees
+  and insurance to boost overseas sales and job growth Discover more inside
 ---
 
 

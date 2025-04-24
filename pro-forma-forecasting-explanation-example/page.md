@@ -1,6 +1,7 @@
 ---
-title: "Pro-Forma Forecasting: Explanation and Example"
-description: "Explore pro-forma forecasting for algo trading including income statements balance sheets and cash flow analysis to enhance strategic financial planning."
+title: 'Pro-Forma Forecasting: Strategic Financial Planning Guide'
+description: Pro-Forma Forecasting helps businesses project future finances and test
+  scenarios to guide informed decisions and strategic planning Discover more inside
 ---
 
 

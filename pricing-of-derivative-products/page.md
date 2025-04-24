@@ -1,6 +1,7 @@
 ---
-title: "Pricing of Derivative Products"
-description: "Explore the intricacies of derivative pricing in algorithmic trading with insights on models like Black-Scholes and Binomial"
+title: Understanding Derivative Pricing Models in Financial Markets
+description: Derivative pricing applies models and market data to accurately value
+  futures options and swaps and support risk management. Discover more inside
 ---
 
 

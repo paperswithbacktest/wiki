@@ -1,6 +1,7 @@
 ---
-title: "Pivot Points in Technical Analysis"
-description: "Pivot points are essential in technical analysis for predicting market movements gauging support and resistance levels and developing effective trading strategies."
+title: Pivot Points in Technical Analysis for Smart Trading
+description: Pivot points help you identify support and resistance levels based on
+  prior price action ensuring clearer trade entries Discover more inside.
 ---
 
 

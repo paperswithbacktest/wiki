@@ -1,6 +1,7 @@
 ---
-title: "Operating Income in Financial Accounting"
-description: "Understand the critical role of operating income in financial accounting and algorithmic trading Explore how profitability, financial metrics, and automated strategies intersect"
+title: Operating Income Explained for Financial Accounting and Analysis
+description: Operating income reveals profit from core activities before taxes and
+  interest and helps you gauge business efficiency and health. Discover more inside.
 ---
 
 

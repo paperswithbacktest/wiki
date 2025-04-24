@@ -1,6 +1,7 @@
 ---
-title: "Purchasing Power Parity"
-description: "Discover how Purchasing Power Parity aids in exchange rate analysis and boosts algorithmic trading strategies for better forex decisions and arbitrage opportunities."
+title: Understanding Purchasing Power Parity for Global Economics
+description: Purchasing Power Parity shows the value of money across countries by
+  comparing a basket of goods to refine economic analysis Discover more inside
 ---
 
 

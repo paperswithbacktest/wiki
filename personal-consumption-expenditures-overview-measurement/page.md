@@ -1,6 +1,7 @@
 ---
-title: "Personal Consumption Expenditures: Overview and Measurement"
-description: "Explore the critical role of Personal Consumption Expenditures (PCE) in economic analysis and how it informs algorithmic trading strategies. This article investigates into the integration of PCE data within algo trading models to enhance trading precision and market insights. Traders can leverage these robust data-driven approaches to optimize their strategies and better anticipate market movements in today’s dynamic financial landscape."
+title: Key Insights Into Personal Consumption Expenditures
+description: Personal Consumption Expenditures show how consumer spending shapes economic
+  policy and informs rate decisions. Discover data sources and trends inside.
 ---
 
 

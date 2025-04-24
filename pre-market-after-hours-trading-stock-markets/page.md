@@ -1,6 +1,7 @@
 ---
-title: "Pre-Market and After-Hours Trading in Stock Markets"
-description: "Explore the dynamics of pre-market and after-hours trading in stocks Discover the role of algorithmic strategies in navigating these extended trading periods effectively"
+title: Pre-Market and After-Hours Trading Explained for Investors
+description: Pre-market and after-hours trading lets investors act on late-breaking
+  news and optimize stock prices outside regular hours. Discover more inside.
 ---
 
 

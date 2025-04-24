@@ -1,6 +1,7 @@
 ---
-title: "Positive Confirmation and Negative Confirmation"
-description: "In algorithmic trading positive and negative confirmations help validate strategies by verifying signals or identifying discrepancies enhancing trading accuracy and performance."
+title: Understanding Positive and Negative Confirmation in Audits
+description: Positive and negative confirmation provide direct audit checks to reduce
+  errors and fraud by requiring clear responses and follow up. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Orphan Drug Designation: Significance and Mechanism"
-description: "Explore the intersection of orphan drug designation and algorithmic trading where investors harness exclusive rights and regulatory incentives for strategic gains."
+title: Understanding Orphan Drug Designation Benefits and Process
+description: Orphan Drug Designation reduces costs for rare disease therapies by offering
+  tax breaks market exclusivity and development funding Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Q Ticker Symbol: Function and Significance"
-description: "Explore how ticker symbols serve as vital identifiers in algorithmic trading systems driving precision and efficiency in executing trades in financial markets."
+title: Understanding the Q Ticker Symbol for Bankrupt Companies
+description: Q ticker symbol alerts investors when a company is in bankruptcy and
+  shows its impact on trading decisions and capital raising. Discover more inside.
 ---
 
 

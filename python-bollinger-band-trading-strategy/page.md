@@ -1,6 +1,7 @@
 ---
-title: "Python Bollinger Band Trading Strategy Explained"
-description: Discover how to implement a Bollinger Band trading strategy using Python in this comprehensive guide. Explore the benefits of algorithmic trading and the role of Python's powerful libraries in creating effective trading algorithms. Learn about Bollinger Bands, a key technical analysis tool for assessing market volatility, and how to set up your Python environment to calculate and apply these bands. Empower yourself with the knowledge to develop and backtest a trading strategy, leveraging Python and Bollinger Bands to optimize your trading performance.
+title: Implementing Bollinger Band Trading Strategies With Python
+description: Bollinger Band strategy in Python shows how to compute SMA and standard
+  deviation, generate buy and sell signals and backtest Discover more inside.
 ---
 
 

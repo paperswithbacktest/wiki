@@ -1,6 +1,7 @@
 ---
-title: "ProShares UltraPro Short S&P 500 ETF"
-description: "Discover the ins and outs of the ProShares UltraPro Short S&P 500 ETF with a focus on leverage, risks, and algorithmic trading strategies for investors."
+title: ProShares UltraPro Short S&P 500 ETF Investor Guide
+description: ProShares UltraPro Short S&P 500 ETF offers 3x inverse daily returns
+  for short-term market hedging with clear risk and cost insights Discover more inside
 ---
 
 

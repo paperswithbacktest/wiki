@@ -1,6 +1,7 @@
 ---
-title: "Price Ratchet: Origins and Effects"
-description: "Explore the origins and effects of the price ratchet phenomenon and algorithmic trading in finance and economics. Understand their lasting market implications."
+title: Price Ratchet Mechanisms Explained for Startup Investors
+description: Price ratchet shows how companies effectively safeguard early investments
+  when share prices drop and guide funding strategies Discover more inside.
 ---
 
 

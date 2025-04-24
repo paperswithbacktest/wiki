@@ -1,6 +1,7 @@
 ---
-title: "Outliers (Machine Learning)"
-description: "Learn about outliers in machine learning including their impact on model performance and common detection methods like Z-score and Isolation Forest."
+title: Machine Learning Outlier Detection Methods and Best Practices
+description: Outlier detection in machine learning helps you identify and manage anomalous
+  data points that skew model performance and insights Discover more inside.
 ---
 
 ![Image](images/1.png)

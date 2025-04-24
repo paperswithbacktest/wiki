@@ -1,6 +1,7 @@
 ---
-title: "Peak of Business Cycle"
-description: "Explore how economic indicators and algorithmic trading intersect within business cycles particularly at economic peaks Optimize trading strategies with data insights"
+title: Key Indicators and Strategies for the Peak of a Business Cycle
+description: Peak of a Business Cycle signals max growth with low unemployment and
+  rising inflation. Uncover key indicators and prep tactics. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Overview of the Overseas Private Investment Corporation"
-description: "Explore the synergy of the U.S. International Development Finance Corporation and algorithmic trading in enhancing private overseas investments and economic growth."
+title: OPIC Supports US Investments in Developing Countries
+description: OPIC reduces investment risks for US businesses with loans guarantees
+  and insurance in developing markets creating jobs driving growth Discover more inside
 ---
 
 

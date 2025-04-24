@@ -1,6 +1,7 @@
 ---
-title: "Quadeye"
-description: "Quadeye leverages advanced algorithms and cutting-edge technology to optimize trading strategies offering speed precision and adaptability in financial markets."
+title: Quadeye Camera System Four Lens Wide Angle Imaging Technology
+description: Quadeye camera system uses four lenses to capture a seamless wide view
+  for security and filmmaking with standard computing hardware Discover more inside
 ---
 
 

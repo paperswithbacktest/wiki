@@ -1,6 +1,7 @@
 ---
-title: "Order Book: Function and Components"
-description: "Explore the function and components of order books in algorithmic trading to enhance market strategies and execution efficiency for optimized trading outcomes."
+title: Understanding Order Books in Modern Trading Systems
+description: Order book data reveals live bid ask activity and price discovery insights
+  to boost trading decisions and market liquidity. Discover more inside.
 ---
 
 

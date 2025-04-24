@@ -1,6 +1,7 @@
 ---
-title: "On-The-Run Treasuries and Their Trading Mechanisms"
-description: "Explore the mechanics of on-the-run Treasuries in algo trading, highlighting their liquidity, strategic importance, and the impact of advanced trading algorithms."
+title: On-The-Run Treasuries A Comprehensive Guide For Investors
+description: On-The-Run Treasuries offer active liquidity, narrow bid ask spreads
+  and real time pricing for U.S. government debt investors. Discover more inside.
 ---
 
 

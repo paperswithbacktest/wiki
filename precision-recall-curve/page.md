@@ -1,6 +1,7 @@
 ---
-title: "Precision-Recall Curve (Machine Learning)"
-description: "Understand how the Precision-Recall Curve evaluates machine learning model performance on imbalanced datasets by balancing precision and recall metrics effectively."
+title: Precision-Recall Curve Guide for Imbalanced Classification Models
+description: Precision-Recall Curve shows precision and recall tradeoffs across thresholds
+  in imbalanced datasets and guides model evaluation Discover more inside
 ---
 
 

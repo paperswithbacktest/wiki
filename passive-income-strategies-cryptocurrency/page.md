@@ -1,6 +1,7 @@
 ---
-title: "Passive Income Strategies in Cryptocurrency"
-description: "Explore effective passive income strategies in cryptocurrency by leveraging algo trading. Discover how staking, yield farming, and lending can provide steady returns with minimal effort, while understanding the efficiency of algorithmic trading in maximizing profits. Gain insights into optimizing your crypto investments through automated systems, ensuring rapid responses to market changes for enhanced income opportunities."
+title: Earning Passive Income Through Cryptocurrency Staking and Lending
+description: Passive income through cryptocurrency uses staking lending yield farming
+  and liquidity pools to generate earnings with minimal effort Discover more inside
 ---
 
 

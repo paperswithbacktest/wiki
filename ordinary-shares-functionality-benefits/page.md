@@ -1,6 +1,7 @@
 ---
-title: "Ordinary Shares: Functionality and Benefits"
-description: "Discover the benefits of ordinary shares, key shareholder rights, and the impact of algorithmic trading on the modern financial markets for smarter investing"
+title: Understanding Ordinary Shares How to Invest and Manage Risk
+description: Ordinary shares offer voting rights dividend potential and capital growth
+  Explore buying shares risk management and diversification Discover more inside.
 ---
 
 

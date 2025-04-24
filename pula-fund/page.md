@@ -1,6 +1,7 @@
 ---
-title: "Pula Fund"
-description: "Explore the impact of the Pula Fund on Botswana's economy with insights into its governance, investment strategies, and innovative use of algorithmic trading."
+title: Understanding Botswana's Pula Fund Sovereign Wealth Strategy
+description: Pula Fund preserves Botswana diamond revenues through diversified global
+  investments that grow savings for future generations Discover more inside.
 ---
 
 

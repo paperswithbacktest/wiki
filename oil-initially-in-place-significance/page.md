@@ -1,6 +1,7 @@
 ---
-title: "Oil Initially In Place and Its Significance"
-description: "Discover the significance of Oil Initially in Place (OIIP) in the oil and gas industry and the innovative role of algorithmic trading in oil reserve investments."
+title: Understanding Oil Initially In Place for Reservoir Planning
+description: Oil Initially In Place explains how to calculate reservoir volume porosity
+  saturation and recovery factor to improve project economics Discover more inside
 ---
 
 

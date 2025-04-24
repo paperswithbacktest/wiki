@@ -1,6 +1,7 @@
 ---
-title: "Praxis (Machine Learning)"
-description: "Praxis in machine learning bridges theory with practice by applying models to real-world problems, refining skills and improving models through practical implementation."
+title: Mastering Machine Learning Praxis for Real World Applications
+description: Machine Learning Praxis applies real world workflows from data collection
+  to model deployment using iterative testing and refinement. Discover more inside.
 ---
 
 

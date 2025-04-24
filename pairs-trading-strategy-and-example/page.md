@@ -1,6 +1,7 @@
 ---
-title: "Pairs Trading Strategy and Example"
-description: "Explore the mechanics and benefits of pairs trading within algorithmic frameworks to exploit price anomalies for optimized market-neutral strategies."
+title: Pairs Trading Strategy Explained for Market Neutral Returns
+description: Pairs trading taps price divergences by buying one stock and selling
+  its correlated pair then exit as spreads revert to mean Discover more inside
 ---
 
 

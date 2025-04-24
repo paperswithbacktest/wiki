@@ -1,6 +1,7 @@
 ---
-title: "Psychological Traps in Investing"
-description: "Explore the impact of psychological traps on investing decisions, including algorithmic trading Examine biases like overconfidence and loss aversion and learn strategies to mitigate them"
+title: Navigating Psychological Traps in Investing for Better Outcomes
+description: Psychological traps in investing derail decisions by fueling biases but
+  this article shows strategies to improve portfolio returns. Discover more inside.
 ---
 
 

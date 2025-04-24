@@ -1,6 +1,7 @@
 ---
-title: "Peer Review"
-description: "Peer review is vital in algorithmic trading academia enhancing credibility and innovation by validating research through expert evaluations in a complex landscape."
+title: Ensuring Research Integrity With Rigorous Peer Review
+description: Peer review safeguards research integrity by using rigorous expert feedback
+  to catch errors, improve validity and reduce bias. Discover more inside
 ---
 
 

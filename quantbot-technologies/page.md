@@ -1,6 +1,7 @@
 ---
-title: "Quantbot Technologies"
-description: "Discover the cutting-edge algorithmic trading solutions by Quantbot Technologies. Enhance trading efficiency, minimize errors, and leverage high-speed data analysis."
+title: Quantbot Technologies Quantitative Trading and AI Innovations
+description: Quantbot Technologies leverages AI driven algorithms and quantitative
+  trading to optimize stock market decisions for investors Discover more inside
 ---
 
 

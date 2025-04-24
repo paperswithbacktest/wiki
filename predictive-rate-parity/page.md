@@ -1,6 +1,7 @@
 ---
-title: "Predictive Rate Parity (Machine Learning)"
-description: "Ensure fair predictions in machine learning with Predictive Rate Parity by achieving equal accuracy across diverse groups for ethical and unbiased decision-making."
+title: Ensuring Predictive Rate Parity in Machine Learning Models
+description: Predictive Rate Parity ensures your machine learning models predict fairly
+  across all groups by balancing accuracy and fairness Discover more inside.
 ---
 
 

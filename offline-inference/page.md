@@ -1,6 +1,7 @@
 ---
-title: "Offline Inference (Machine Learning)"
-description: "Explore offline inference in machine learning, enabling predictions on local devices without internet, enhancing privacy and efficiency in various applications."
+title: Comprehensive Guide to Offline Inference in Machine Learning
+description: Offline inference in machine learning enables models to run locally on
+  devices ensuring data privacy and fast performance Discover more inside
 ---
 
 ![Image](images/1.png)

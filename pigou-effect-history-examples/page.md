@@ -1,6 +1,7 @@
 ---
-title: "Pigou Effect: History and Examples"
-description: "Explore the Pigou Effect in economics and its link to algo trading Learn how real wealth boosts consumer spending amidst deflation, impacting financial markets"
+title: Understanding the Pigou Effect in Modern Economic Policy
+description: Pigou Effect shows how falling prices boost consumer wealth and spending
+  to drive economic recovery and growth by countering deflation Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Piggyback Registration Rights: Overview and Mechanism"
-description: "Explore the importance of piggyback registration rights in investment securities and algorithmic trading for portfolio liquidity optimization."
+title: Understanding Piggyback Registration Rights for Shareholders
+description: Piggyback registration rights let investors and key employees sell shares
+  alongside an IPO under set terms to ease the sale process Discover more inside
 ---
 
 

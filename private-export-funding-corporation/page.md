@@ -1,6 +1,7 @@
 ---
-title: "Private Export Funding Corporation"
-description: "Explore the role of the Private Export Funding Corporation in boosting U.S. exports through financial products and strategic partnerships in today's global market."
+title: Private Export Funding Corporation PEFCO Guide For US Exporters
+description: PEFCO offers US exporters direct loans to foreign buyers backed by EXIM
+  Bank guarantees and risk management to grow overseas Discover more inside
 ---
 
 

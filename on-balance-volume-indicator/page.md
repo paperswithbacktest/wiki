@@ -1,6 +1,7 @@
 ---
-title: "On-Balance Volume Indicator"
-description: "Explore the On-Balance Volume indicator to enhance your trading strategies By analyzing volume flow OBV helps forecast price changes and assess market trends"
+title: Mastering On-Balance Volume OBV Indicator For Trend Analysis
+description: On-Balance Volume OBV reveals buying and selling pressure to confirm
+  trends and identify reversals with actionable insights Discover more inside
 ---
 
 

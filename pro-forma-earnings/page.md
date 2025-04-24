@@ -1,6 +1,7 @@
 ---
-title: "Pro-Forma Earnings"
-description: "Explore pro-forma earnings in corporate finance and algorithmic trading. Understand their role in financial reporting and how they impact market behavior."
+title: Understanding Pro-Forma Earnings Versus GAAP for Investors
+description: Pro-forma earnings remove one-time costs to reveal regular business performance
+  and provide clarity alongside GAAP figures Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Pay Czar"
-description: "Explore the origins and impact of executive pay regulation post-2008 crisis focusing on the Pay Czar's role in ensuring responsible compensation at firms with federal aid."
+title: Pay Czar Executive Compensation Oversight and Impact
+description: Pay Czar oversight keeps executive compensation fair when companies receive
+  government aid by setting pay limits to protect taxpayers Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Productivity and Costs Overview"
-description: "Explore the impact of algorithmic trading on productivity and economic costs. Discover how this tech-driven trend optimizes trade execution and market efficiency."
+title: Optimizing Business Productivity Through Cost Management
+description: Business productivity improves when costs are managed with technology,
+  training and workflows to boost output and reduce expenses Discover more inside.
 ---
 
 

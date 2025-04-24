@@ -1,6 +1,7 @@
 ---
-title: "Predictive Analytics: Model Types and Applications"
-description: "Explore the role of predictive analytics in algorithmic trading, highlighting various model types like regression, time series, decision trees and neural networks."
+title: Predictive Analytics Models, Techniques and Industry Applications
+description: Predictive analytics uses data and machine learning models to forecast
+  trends and guide decision making across industries Discover more inside
 ---
 
 

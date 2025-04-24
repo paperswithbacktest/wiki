@@ -1,6 +1,7 @@
 ---
-title: "Pure Play: Examples of Niche Investment Strategies"
-description: "Discover the transformative world of niche investing strategies with our in-depth look at pure play and algo trading Explore how focused investments can maximize returns"
+title: Understanding Pure Play Investments in Focused Market Strategies
+description: Pure play investments let you focus on one industry for clear performance
+  insights risk assessment and strategic growth planning Discover more inside
 ---
 
 

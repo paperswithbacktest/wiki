@@ -1,6 +1,7 @@
 ---
-title: "Pyramiding in Finance"
-description: "Explore the strategic method of pyramiding in algorithmic trading where traders scale successful positions aligning risk management with market momentum."
+title: Mastering Pyramiding in Trading Strategies for Investors
+description: Pyramiding uses gains to add to winning positions while managing risk
+  with clear exit rules and stop loss to protect capital Discover more inside
 ---
 
 

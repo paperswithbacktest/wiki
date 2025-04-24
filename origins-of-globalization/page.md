@@ -1,6 +1,7 @@
 ---
-title: "Origins of Globalization"
-description: "Explore the origins of globalization through economic history trade relationships and algorithmic trading Discover how these elements shape the modern world economy."
+title: The Evolution Of Globalization From Silk Road To Digital Age
+description: Globalization has linked cultures, economies and innovations from ancient
+  trade routes to modern technology driving global growth Discover more inside.
 ---
 
 

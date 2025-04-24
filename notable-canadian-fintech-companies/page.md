@@ -1,6 +1,7 @@
 ---
-title: "Notable Canadian Fintech Companies"
-description: "Explore the innovation of Canadian fintech companies driving the evolution of financial services through algo trading technology, transforming the industry landscape."
+title: Canadian Fintech Companies Shaping the Future of Banking
+description: Canadian fintech companies drive secure digital banking with affordable
+  tools to simplify finances and boost inclusion nationwide Discover more inside.
 ---
 
 

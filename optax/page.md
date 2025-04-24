@@ -1,6 +1,7 @@
 ---
-title: "Optax (Machine Learning)"
-description: "Optax is a flexible library by DeepMind, offering diverse optimization algorithms for enhancing machine learning models, easily integrating with existing frameworks."
+title: Harnessing Optax For Efficient Machine Learning Optimization
+description: Optax simplifies model optimization by offering flexible optimizers and
+  custom learning rate schedules for faster results. Discover more inside.
 ---
 
 ![Image](images/1.png)

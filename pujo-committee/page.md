@@ -1,6 +1,7 @@
 ---
-title: "Pujo Committee"
-description: "Explore the intersection of tradition and technology in Durga Puja as we delve into how Pujo committees use algorithmic trading to manage festival funds efficiently."
+title: Pujo Committee Investigation of Wall Street Money Trust
+description: Pujo Committee findings revealed the Money Trusts unchecked control over
+  finance and spurred reforms like the Federal Reserve Act Discover more inside
 ---
 
 

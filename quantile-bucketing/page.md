@@ -1,6 +1,8 @@
 ---
-title: "Quantile Bucketing (Machine Learning)"
-description: "Quantile Bucketing groups continuous data into equal-sized bins based on quantiles enhancing model performance by handling skewed data more effectively."
+title: Effective Quantile Bucketing Techniques for Machine Learning
+description: Quantile Bucketing converts continuous data into categorical bins to
+  improve model predictions and manage outliers in machine learning Discover more
+  inside
 ---
 
 

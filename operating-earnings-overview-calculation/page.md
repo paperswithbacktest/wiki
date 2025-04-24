@@ -1,6 +1,7 @@
 ---
-title: "Operating Earnings: Overview and Calculation"
-description: "Explore how operating earnings serve as a vital indicator of a company's financial health and their significance in algorithmic trading strategies."
+title: Operating Earnings Explained For Accurate Financial Analysis
+description: Operating earnings reveal core profitability by isolating revenue minus
+  operating costs and inform valuation and analysis. Discover more inside
 ---
 
 

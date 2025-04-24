@@ -1,6 +1,7 @@
 ---
-title: "Price-to-Earnings Ratio in the Oil and Gas Drilling Industry"
-description: "Explore how the price-to-earnings ratio and algorithmic trading improve investment strategies in the volatile oil and gas drilling industry for optimal returns."
+title: Price To Earnings Ratio Explained For Oil And Gas Drilling
+description: Price to earnings ratio helps investors assess oil and gas drilling valuations
+  by comparing share price to EPS and industry factors Discover more inside
 ---
 
 

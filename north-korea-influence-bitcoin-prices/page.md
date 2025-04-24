@@ -1,6 +1,7 @@
 ---
-title: "North Korea and Its Influence on Bitcoin Prices"
-description: "Explore the complex relationship between North Korea and Bitcoin markets focusing on how its strategies impact prices and global economic security considerations."
+title: North Korea Bitcoin Use and Its Global Economic Impact
+description: North Korea Bitcoin use for sanctions evasion fuels price volatility
+  and shapes global crypto regulations exposing market risks Discover more inside
 ---
 
 

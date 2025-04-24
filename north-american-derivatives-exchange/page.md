@@ -1,6 +1,7 @@
 ---
-title: "North American Derivatives Exchange"
-description: "Explore Nadex a leading derivatives exchange offering binary options bull spreads and algo trading for diverse strategies under CFTC regulation."
+title: Comprehensive NADEX Guide To Trading Binary Options And Spreads
+description: NADEX offers a regulated platform for trading binary options and spreads
+  with set risk limits and advanced tools for traders Discover more inside
 ---
 
 

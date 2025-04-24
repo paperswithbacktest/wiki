@@ -1,6 +1,7 @@
 ---
-title: "Nordic Model: Advantages and Disadvantages"
-description: "Discover the Nordic Model's benefits and challenges in the context of modern algo trading, exploring its unique economic system and welfare policies."
+title: Understanding the Nordic Model of Market Economy and Welfare
+description: Nordic Model combines market freedom with a strong welfare system to
+  promote equality and shared prosperity for all citizens Discover more inside
 ---
 
 

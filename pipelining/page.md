@@ -1,6 +1,7 @@
 ---
-title: "Pipelining (Machine Learning)"
-description: "Streamline your machine learning process with pipelining by automating data preparation and model training, ensuring efficiency and reducing errors."
+title: Master Machine Learning Pipelines for Efficient Model Workflows
+description: Machine learning pipelines automate data preprocessing, feature selection,
+  and model training to save time and reduce errors Discover more inside
 ---
 
 

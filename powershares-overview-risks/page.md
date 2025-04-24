@@ -1,6 +1,7 @@
 ---
-title: "Powershares Overview and Risks"
-description: "Explore how PowerShares, now Invesco ETFs, and algorithmic trading blend to create innovative investment strategies revolutionizing financial markets."
+title: Comprehensive Guide to Powershares ETFs and Investment Strategies
+description: Powershares ETFs deliver flexible equity bond and thematic fund options
+  to build a diversified portfolio with confidence Discover more inside.
 ---
 
 

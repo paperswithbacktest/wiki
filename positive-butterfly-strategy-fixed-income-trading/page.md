@@ -1,6 +1,7 @@
 ---
-title: "Positive Butterfly Strategy in Fixed Income Trading"
-description: "Explore the Positive Butterfly Strategy in fixed income trading leveraging algorithmic techniques to optimize bond portfolios by interpreting yield curve movements efficiently."
+title: Understanding the Positive Butterfly Strategy in Fixed Income
+description: Positive Butterfly Strategy in fixed income trading profits on yield
+  curve steepening by trading short, long and medium bonds Discover more inside
 ---
 
 

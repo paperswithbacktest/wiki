@@ -1,6 +1,7 @@
 ---
-title: "Price-To-Earnings Formula in Excel"
-description: "Learn how to calculate the Price-to-Earnings ratio in Excel for algorithmic trading This guide explains its importance in stock valuation and strategy development"
+title: Step-by-Step Guide to Calculating the P/E Ratio in Excel
+description: P/E ratio calculations in Excel help you assess stock valuation quickly
+  using simple formulas and formatting techniques. Discover practical methods inside.
 ---
 
 

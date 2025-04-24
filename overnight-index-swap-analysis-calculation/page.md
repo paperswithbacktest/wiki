@@ -1,6 +1,7 @@
 ---
-title: "Overnight Index Swap: Analysis and Calculation"
-description: "Explore Overnight Index Swap analysis and calculation in algorithmic trading Uncover how OIS provides insights into interest rate trends and enhances trading strategies"
+title: Understanding Overnight Index Swaps for Effective Risk Management
+description: Overnight Index Swap explains how banks manage interest rate risk with
+  benchmark rates hedging strategies and calculation techniques Discover more inside
 ---
 
 

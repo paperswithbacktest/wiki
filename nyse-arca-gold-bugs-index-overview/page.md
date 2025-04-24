@@ -1,6 +1,7 @@
 ---
-title: "NYSE Arca Gold BUGS Index Overview"
-description: "Explore the NYSE Arca Gold BUGS Index, a key tool for investors in gold mining companies with minimal hedging, and learn about algo trading advantages."
+title: Understanding the NYSE Arca Gold BUGS Index for Investors
+description: NYSE Arca Gold BUGS Index tracks unhedged gold mining stocks by market
+  cap so investors can gauge sector health and trends Discover more inside
 ---
 
 

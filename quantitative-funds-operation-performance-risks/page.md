@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Funds: Operation, Performance, and Risks"
-description: "Explore the world of quantitative funds and algorithmic trading, highlighting their operation, performance, and risks in today's data-driven investment landscape."
+title: Quantitative Funds Overview Of Data-Driven Investment Strategies
+description: Quantitative funds apply algorithms and data analysis to optimize investments,
+  control risk, and enhance returns in volatile markets Discover more inside.
 ---
 
 

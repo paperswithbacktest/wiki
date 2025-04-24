@@ -1,6 +1,7 @@
 ---
-title: "Quantamental Trading Strategy Explained"
-description: Discover the transformative quantamental trading strategy that fuses quantitative and fundamental analyses to enhance algorithmic trading decisions. Learn how this sophisticated approach combines statistical models with traditional financial insights for a competitive edge in complex markets. Explore techniques like machine learning and alternative data integration that enrich analysis for accurate market predictions and strategic advantage.
+title: Quantamental Trading Strategy Using Data And Fundamental Analysis
+description: Quantamental trading merges algorithmic data with fundamental company
+  insights to drive smarter investment choices and boost returns Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Put Option Writing"
-description: "Explore put option writing in algorithmic trading examining how selling put options can generate income and manage risk with automated trading strategies."
+title: Writing Put Options Professional Guide to Risks and Rewards
+description: Writing put options requires understanding strike prices margin requirements
+  and risk management to generate steady premium income Discover more inside.
 ---
 
 

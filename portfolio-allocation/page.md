@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Allocation"
-description: "Explore the key benefits of algorithmic trading in portfolio allocation to enhance investment efficiency minimize risks and maximize returns in financial markets."
+title: Optimizing Your Investment Strategy With Portfolio Allocation
+description: Portfolio allocation helps investors balance risk and return through
+  diversification tailored to goals and timelines with rebalancing Discover more inside.
 ---
 
 

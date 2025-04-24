@@ -1,6 +1,7 @@
 ---
-title: "Normal Distribution: Characteristics, Applications, and Formula"
-description: "Explore the role of normal distribution in algorithmic trading Understand its applications in predicting market behavior and enhancing risk assessment strategies"
+title: Understanding the Normal Distribution in Statistics and Finance
+description: Normal Distribution provides a clear guide to its characteristics formula
+  and real world uses from statistics to algorithmic trading Discover more inside.
 ---
 
 

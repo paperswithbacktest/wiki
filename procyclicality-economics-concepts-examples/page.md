@@ -1,6 +1,7 @@
 ---
-title: "Procyclicality in Economics: Concepts and Examples"
-description: "Explore how procyclicality impacts economic cycles and algorithmic trading capitalize on these patterns to enhance trading strategies and financial outcomes."
+title: Understanding Procyclicality in Economics and Its Impacts
+description: Procyclicality in economics shows how lending and spending cycles intensify
+  booms and busts and how policy measures can smooth growth Discover more inside.
 ---
 
 

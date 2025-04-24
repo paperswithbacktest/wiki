@@ -1,6 +1,7 @@
 ---
-title: "Principal Orders: Functionality and Implications"
-description: "Explore the impact of Principal Orders in algorithmic trading including their role in market dynamics risk management and profit strategies through POOM insights."
+title: Understanding Principal Orders In Financial Trading Transactions
+description: Principal orders use broker inventory to complete trades at competitive
+  pricing while highlighting conflicts of interest Discover more inside
 ---
 
 

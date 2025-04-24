@@ -1,6 +1,7 @@
 ---
-title: "Objectives of Financial Accounting"
-description: "Explore how financial accounting aids stakeholders in decision-making by providing transparency in corporate health and strategic planning alongside algorithmic trading."
+title: Key Objectives, Benefits, and Practices of Financial Accounting
+description: Financial accounting provides clear reports on transactions to help investors
+  and managers assess performance and ensure compliance. Discover more inside
 ---
 
 

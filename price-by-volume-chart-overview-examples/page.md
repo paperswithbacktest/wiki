@@ -1,6 +1,7 @@
 ---
-title: "Price by Volume Chart: Overview and Examples"
-description: "Explore the significance of Price by Volume (PBV) charts in trading by understanding volume and price relationships to enhance strategy and decision-making."
+title: Mastering Price by Volume Charts for Effective Trading
+description: Price by Volume charts reveal support and resistance levels by mapping
+  share volumes at each price so you can time trades with clarity Discover more inside
 ---
 
 

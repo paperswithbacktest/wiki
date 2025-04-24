@@ -1,6 +1,7 @@
 ---
-title: "Poisson jumps"
-description: "Explore Poisson jumps in algorithmic trading to model abrupt market movements manage risk and enhance strategies revealing deeper financial market insights."
+title: Understanding Poisson Jump Processes in Financial Modeling
+description: Poisson jumps help model sudden changes using jump intensity to improve
+  risk assessment and strategy in finance and physics. Discover more inside.
 ---
 
 

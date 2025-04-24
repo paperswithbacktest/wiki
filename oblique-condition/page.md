@@ -1,6 +1,7 @@
 ---
-title: "Oblique Condition (Machine Learning)"
-description: "Understand the concept of oblique conditions in machine learning for improving decision trees with non-parallel splits offering complex decision boundaries and enhanced predictions."
+title: Leveraging Oblique Conditions for Enhanced Decision Tree Accuracy
+description: Oblique conditions in decision trees capture complex feature interplay
+  to improve model accuracy with manageable computational cost. Discover more inside.
 ---
 
 ![Image](images/1.png)

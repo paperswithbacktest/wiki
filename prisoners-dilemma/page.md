@@ -1,6 +1,7 @@
 ---
-title: "Prisoner's Dilemma"
-description: "Explore the strategic complexities of the Prisoner's Dilemma in algorithmic trading, where cooperation and competition drive decision-making and influence market outcomes."
+title: Understanding the Prisoner's Dilemma in Algorithmic Trading
+description: Prisoner's Dilemma shows how trust and strategy drive algorithmic trading
+  to optimize market outcomes in competitive environments Discover more inside.
 ---
 
 

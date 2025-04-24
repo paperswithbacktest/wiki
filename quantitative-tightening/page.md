@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Tightening"
-description: "Explore central banking's role in economic tightening and how algorithmic trading adapts to policy shifts and increased market volatility for global stability."
+title: Quantitative Tightening a Central Bank Tool to Control Inflation
+description: Quantitative Tightening helps central banks reduce money supply and keep
+  inflation in check by selling bonds and letting them mature. Discover more inside.
 ---
 
 

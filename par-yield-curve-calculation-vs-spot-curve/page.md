@@ -1,6 +1,7 @@
 ---
-title: "Par Yield Curve: Calculation and Comparison with Spot Curve"
-description: "Explore how par and spot yield curves are essential for understanding bond markets and algorithmic trading. Learn to use these curves for better investment strategies."
+title: Guide to Par Yield Curve Calculation Comparison and Applications
+description: Par yield curve analysis reveals how to calculate yields for bonds at
+  face value and apply curve insights in portfolio decisions Discover more inside.
 ---
 
 

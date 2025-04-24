@@ -1,6 +1,7 @@
 ---
-title: "Plunge Protection Team"
-description: "Explore the role of the Plunge Protection Team in stabilizing US markets amidst volatility focusing on advisory measures and implications for algorithmic trading."
+title: Plunge Protection Team Mandate And Impact On Market Stability
+description: Plunge Protection Team monitors market trends and coordinates agencies
+  to prevent severe downturns and safeguard stability. Discover more inside.
 ---
 
 

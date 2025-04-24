@@ -1,6 +1,7 @@
 ---
-title: "Patronage Dividend"
-description: "Explore the unique financial model of patronage dividends in cooperatives and how algorithmic trading can enhance member benefits and profitability."
+title: Understanding Patronage Dividends in Cooperative Businesses
+description: Patronage dividend returns cooperative profits based on member usage
+  enhancing loyalty, providing tax advantages and equity growth Discover more inside
 ---
 
 

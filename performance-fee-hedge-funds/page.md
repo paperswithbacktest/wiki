@@ -1,6 +1,8 @@
 ---
-title: "Performance Fee in Hedge Funds"
-description: "Explore performance fees in hedge funds and their impact on investor returns Discover the role of algo trading in optimizing strategies and managing risks"
+title: Understanding Hedge Fund Performance Fees and Their Impact
+description: Hedge fund performance fees align manager and investor goals by rewarding
+  profits while managing risks through hurdle rates and high-water marks Discover
+  more inside
 ---
 
 

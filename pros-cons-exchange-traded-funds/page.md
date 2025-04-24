@@ -1,6 +1,7 @@
 ---
-title: "Pros and Cons of Exchange-Traded Funds"
-description: "Discover the advantages and risks of exchange-traded funds and algorithmic trading in this comprehensive guide to optimizing your investment strategy."
+title: Exchange-Traded Funds Explained A Guide To Diversification
+description: Exchange-traded funds offer cost-efficient diversification with flexible
+  trading low expense ratios and tax benefits and liquidity discover more inside
 ---
 
 

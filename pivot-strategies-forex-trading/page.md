@@ -1,6 +1,7 @@
 ---
-title: "Pivot Strategies in Forex Trading"
-description: "Master pivot strategies in forex trading to enhance decision-making with algorithmic tools This guide explores pivot points a key aspect for predicting trends"
+title: Forex Pivot Points Explained for Support and Resistance Levels
+description: Forex pivot points help traders identify support and resistance levels
+  using prior day highs lows and closes to guide trades Discover more inside.
 ---
 
 

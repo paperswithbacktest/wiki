@@ -1,6 +1,7 @@
 ---
-title: "Preferences Equity Redemption Cumulative Stock"
-description: "Explore the unique features of Preference Equity Redemption Cumulative Stock and its role in algorithmic trading Discover enhanced dividends and strategic insights"
+title: PERCS Explained Preferences Equity Redemption Cumulative Stock
+description: PERCS deliver steady cumulative dividends and potential stock conversion
+  at maturity while limiting upside and downside risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Pearson Coefficient: Overview and Historical Context"
-description: "Explore the significance of the Pearson correlation coefficient in algorithmic trading, enhancing investment strategies by analyzing statistical relationships between assets."
+title: Comprehensive Guide To The Pearson Correlation Coefficient
+description: Pearson Correlation Coefficient measures strength and direction of linear
+  relationships and guides practical data analysis Discover more inside.
 ---
 
 

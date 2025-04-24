@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Rebalancing Algorithms"
-description: "Explore portfolio rebalancing algorithms for efficient asset management Discover types benefits and methodologies to optimize your investment strategy"
+title: Efficient Portfolio Rebalancing Algorithms For Risk Management
+description: Portfolio rebalancing algorithms adjust asset mix automatically to preserve
+  target risk profile while reducing fees and taxes Discover more inside.
 ---
 
 

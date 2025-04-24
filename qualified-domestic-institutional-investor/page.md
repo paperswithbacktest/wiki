@@ -1,6 +1,7 @@
 ---
-title: "Qualified Domestic Institutional Investor"
-description: "Explore how domestic investors are leveraging Qualified Domestic Institutional Investor programs and algorithmic trading to diversify portfolios globally."
+title: Qualified Domestic Institutional Investor QDII Program Guide
+description: QDII lets Chinese investors diversify risk by accessing global stocks
+  bonds and funds under government limits Explore benefits risks Discover more inside
 ---
 
 

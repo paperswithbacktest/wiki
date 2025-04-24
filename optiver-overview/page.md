@@ -1,6 +1,7 @@
 ---
-title: "Optiver Overview"
-description: "Optiver leads in algorithmic trading by integrating tech-driven strategies to boost liquidity and market efficiency, showcasing innovation in financial operations."
+title: Optiver Market Making Strategies and Global Trading Operations
+description: Optiver market making drives liquidity and improves trading efficiency
+  with advanced technology and risk management Discover more inside
 ---
 
 

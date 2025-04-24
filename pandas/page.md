@@ -1,6 +1,7 @@
 ---
-title: "Pandas (Machine Learning)"
-description: "Pandas simplifies data manipulation for machine learning by offering easy-to-use structures for cleaning and preparing data, ensuring it's ready for model training."
+title: Essential Pandas Techniques for Machine Learning Data Preparation
+description: Pandas simplifies data loading cleaning and transformation for machine
+  learning workflows so you can prepare data efficiently Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

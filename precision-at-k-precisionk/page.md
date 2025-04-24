@@ -1,6 +1,7 @@
 ---
-title: "Precision At K (Precision@K) (Machine Learning)"
-description: "Precision@K evaluates how well a machine learning model ranks relevant items at the top positions of a list crucial for improving search and recommendation systems."
+title: Understanding Precision@K for Evaluating Machine Learning Models
+description: Precision@K measures how well a model ranks relevant items in its top
+  K results to boost search and recommendation accuracy. Discover more inside.
 ---
 
 

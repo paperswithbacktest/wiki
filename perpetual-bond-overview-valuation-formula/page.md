@@ -1,6 +1,7 @@
 ---
-title: "Perpetual Bond: Overview and Valuation Formula"
-description: "Explore perpetual bonds and their valuation in the context of algorithmic trading Discover how these fixed-income securities influence modern investment strategies and portfolio management"
+title: Perpetual Bonds Key Features Risks and Valuation Explained
+description: Perpetual bonds deliver steady income and explain how to assess risk
+  and price changes from interest rate shifts for portfolios Discover more inside.
 ---
 
 

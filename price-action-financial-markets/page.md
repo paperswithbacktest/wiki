@@ -1,6 +1,7 @@
 ---
-title: "Price Action in Financial Markets"
-description: "Explore the dynamic world of financial markets with insights into price action and algorithmic trading to enhance strategy and decision-making processes."
+title: Price Action Analysis Guide for Beginners and Advanced Traders
+description: Price Action empowers traders to interpret market moves using chart patterns
+  support and resistance levels and entry and exit signals Discover more inside.
 ---
 
 

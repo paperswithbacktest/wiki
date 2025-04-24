@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Diversification Strategies"
-description: "Enhance your investment portfolio with diversification strategies and algorithmic trading insights for optimized performance and reduced risk."
+title: Effective Portfolio Diversification Strategies for Investors
+description: Portfolio diversification reduces risk by spreading investments across
+  stocks bonds real estate while boosting stability Discover more inside
 ---
 
 

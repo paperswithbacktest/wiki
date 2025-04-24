@@ -1,6 +1,7 @@
 ---
-title: "Old Mission Capital"
-description: "Explore how Old Mission Capital leverages technology in algorithmic trading to optimize efficiency innovate strategies and enhance trading outcomes in financial markets."
+title: Old Mission Capital Pioneering Electronic Trading and Liquidity
+description: Old Mission Capital uses technology to streamline electronic trading
+  and ensure market liquidity with robust risk management Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Poverty Trap: Causes and Solutions"
-description: "Explore the self-reinforcing mechanisms of poverty traps and discover economic, socio-political, and environmental solutions, including algorithmic trading strategies."
+title: Understanding Poverty Traps and Strategies for Economic Mobility
+description: Poverty traps lock families in cycles that limit vital services while
+  targeted policies and microfinance break the cycle Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Political Economy: History and Applications"
-description: "Explore the complex interplay of political economy, economic history, and algorithmic trading to gain insights into the modern economic landscape and its dynamics."
+title: Exploring Political Economy Its Origins Evolution and Impact
+description: Political Economy explores how political rules shape markets and influence
+  wealth distribution with strategies for fair policy design Discover more inside
 ---
 
 

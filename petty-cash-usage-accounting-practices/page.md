@@ -1,6 +1,7 @@
 ---
-title: "Petty Cash: Usage and Accounting Practices"
-description: "Explore the interplay of accounting cash management, petty cash practices, and algorithmic trading for effective financial strategies in today's dynamic environment."
+title: Effective Petty Cash Fund Management In Small Businesses
+description: Petty cash management streamlines expense tracking by teaching setup
+  of funds storage security reconciliation and digital tools Discover more inside.
 ---
 
 

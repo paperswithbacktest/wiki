@@ -1,6 +1,7 @@
 ---
-title: "Outside Days: Analysis and Examples"
-description: "Explore the significance of outside days in algo trading with this detailed analysis Unveil how these two-bar patterns drive decisions in volatile markets"
+title: Understanding Outside Day Candlestick Patterns in Trading
+description: Outside Day candlestick patterns reveal market sentiment shifts and identify
+  key support and resistance levels for precise trading insights Discover more inside
 ---
 
 

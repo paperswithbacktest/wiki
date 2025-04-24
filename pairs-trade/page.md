@@ -1,6 +1,7 @@
 ---
-title: "Pairs trade"
-description: Explore algorithmic trading's market-neutral strategy, pairs trading, which capitalizes on temporary price discrepancies between correlated securities. By taking long and short positions, traders exploit mean-reversion dynamics without exposure to broad market movements. Learn about the strategy's origins, mechanics, advantages, and challenges, including model-based approaches that enhance decisions and risk management in volatile markets. Discover how pairs trading's statistical foundation remains a powerful tool for navigating today's financial landscapes.
+title: Mastering Pairs Trading Strategies for Market Neutral Investing
+description: Pairs trading cuts market risk and profits from divergence in correlated
+  stocks with entry exit guidelines and stop loss orders Discover more inside
 ---
 
 

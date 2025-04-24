@@ -1,6 +1,7 @@
 ---
-title: "PAst Sign Search algorithm"
-description: "Discover the PAst Sign Search algorithm's unique ability to utilize historical data for precise predictions and improve decision-making in algorithmic trading."
+title: Past Sign Search Algorithm for Efficient Problem Solving
+description: Past Sign Search algorithm leverages past results to guide choices and
+  accelerate problem solving with adaptive memory updates Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Profitability Strategies in Pairs Trading"
-description: "Discover profitability strategies in pairs trading and how algorithmic trading enhances them. Learn how to capitalize on price discrepancies for steady returns."
+title: Pairs Trading Strategy for Market Neutral Profit Generation
+description: Pairs Trading uses price divergences to buy undervalued and shorting
+  overvalued stocks in a market neutral strategy to boost returns Discover more inside
 ---
 
 

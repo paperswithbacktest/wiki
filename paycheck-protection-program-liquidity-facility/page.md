@@ -1,6 +1,7 @@
 ---
-title: "Paycheck Protection Program Liquidity Facility"
-description: "Explore the impact of the Paycheck Protection Program Liquidity Facility on algorithmic trading and its role in supporting small businesses during economic challenges."
+title: How the Paycheck Protection Program Liquidity Facility Works
+description: Paycheck Protection Program Liquidity Facility lets lenders pledge PPP
+  loans as collateral to boost small business funding amid the pandemic Discover more
 ---
 
 

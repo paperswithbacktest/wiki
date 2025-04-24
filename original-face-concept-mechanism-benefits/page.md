@@ -1,6 +1,7 @@
 ---
-title: "Original Face: Concept, Mechanism, and Benefits"
-description: "Explore the mechanics and benefits of algorithmic trading. Discover how automated systems enhance decision-making, analyze data, and improve trading efficiency."
+title: Exploring the Original Face in Zen Buddhist Practice
+description: Original Face meditation uncovers your true self through Zen mindfulness
+  and koans revealing inner peace calm and connection to others Discover more inside
 ---
 
 

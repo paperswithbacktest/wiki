@@ -1,6 +1,7 @@
 ---
-title: "Penalty Bid Mechanism"
-description: "Explore the impact of penalty bids in algorithmic trading and their role in maintaining price integrity during IPOs while navigating regulatory constraints."
+title: Understanding Penalty Bid Mechanisms in Auction Processes
+description: Penalty bid mechanism enforces fines on auction winners who back out
+  to ensure serious bids and fair, reliable auctions Discover more inside
 ---
 
 

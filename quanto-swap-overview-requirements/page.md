@@ -1,6 +1,7 @@
 ---
-title: "Quanto Swap: Overview and Requirements"
-description: "Explore the intricacies of quanto swaps, advanced financial derivatives that facilitate currency risk management and access to foreign interest rates in global markets."
+title: Understanding Quanto Swaps for Currency Risk Management
+description: Quanto Swap agreements let investors mitigate currency risk by exchanging
+  foreign asset returns in their home currency at a set rate. Discover more inside
 ---
 
 

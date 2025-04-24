@@ -1,6 +1,7 @@
 ---
-title: "Order Splitting: Overview and Examples"
-description: "Explore algorithmic trading strategies like VWAP, TWAP, and Implementation Shortfall that optimize order execution by minimizing market impact and enhancing efficiency."
+title: Comprehensive Guide to Order Splitting for Efficient Delivery
+description: Order splitting ensures customers receive available items faster while
+  maintaining clear communication and efficient inventory control Discover more inside
 ---
 
 

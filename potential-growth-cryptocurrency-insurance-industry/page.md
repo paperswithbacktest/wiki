@@ -1,6 +1,7 @@
 ---
-title: "Potential Growth of Cryptocurrency Insurance Industry"
-description: "Explore how cryptocurrency and algorithmic trading are revolutionizing the insurance industry enabling efficient transactions and advanced risk assessment."
+title: Comprehensive Overview of Cryptocurrency Insurance Coverage
+description: Cryptocurrency insurance protects digital assets from hacks theft and
+  custody errors so you can safeguard crypto holdings with confidence Discover more
 ---
 
 

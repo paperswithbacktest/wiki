@@ -1,6 +1,7 @@
 ---
-title: "Outcome Bias and Its Mechanisms"
-description: "Explore outcome bias in algorithmic trading and how cognitive biases affect decision-making processes impacting trading strategies and decisions."
+title: Understanding Outcome Bias and Improving Decision Making
+description: Outcome bias influences how we judge decisions by results instead of
+  the process and hinders learning Review processes to reduce bias Discover more inside
 ---
 
 

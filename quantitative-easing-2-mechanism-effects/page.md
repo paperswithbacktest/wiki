@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Easing 2: Mechanism and Effects"
-description: "Explore the impact of Quantitative Easing 2 on the economy and its influence on algorithmic trading strategies during a period marked by increased liquidity and global market shifts."
+title: 'Understanding Quantitative Easing 2: Mechanics and Impact'
+description: Quantitative Easing 2 offers a clear overview of how the Fed uses bond
+  purchases to lower rates and spur growth while managing risks Discover more inside
 ---
 
 

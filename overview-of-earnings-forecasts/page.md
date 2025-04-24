@@ -1,6 +1,7 @@
 ---
-title: "Overview of Earnings Forecasts"
-description: "Explore the transformative role of AI in algorithmic trading Discover how advanced algorithms enhance market prediction improve trade efficiency and shape future strategies"
+title: Understanding Earnings Forecasts For Smarter Investment Decisions
+description: Earnings forecasts help investors gauge company performance by leveraging
+  data and market trends for informed stock decisions. Discover more inside.
 ---
 
 

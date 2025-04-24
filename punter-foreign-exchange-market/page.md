@@ -1,6 +1,7 @@
 ---
-title: "Punter in the Foreign Exchange Market"
-description: "Explore how punters embrace algorithmic trading in forex to enhance risk-taking strategies tapping into market inefficiencies with speed and precision."
+title: Guide To Forex Market Punter Strategies And Risk Management
+description: Forex Market Punter guide covers essential definitions strategies tools
+  and risk management so you can trade with greater confidence Discover more inside
 ---
 
 

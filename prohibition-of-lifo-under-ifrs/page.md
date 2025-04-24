@@ -1,6 +1,7 @@
 ---
-title: "Prohibition of LIFO Under IFRS"
-description: "Explore how the prohibition of LIFO under IFRS impacts financial reporting and compliance. Learn how algorithmic trading is reshaping market strategies."
+title: Prohibition of LIFO Under IFRS Accounting Standards Explained
+description: LIFO IFRS prohibition explains why inventory method is banned under global
+  standards and outlines FIFO and weighted average options. Discover more inside.
 ---
 
 

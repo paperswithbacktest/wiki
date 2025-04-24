@@ -1,6 +1,7 @@
 ---
-title: "Potential Resignation of India's Central Bank Governor"
-description: "Rumors about the resignation of India's central bank governor are causing turmoil in financial markets highlighting the role of central bank policies and algo trading."
+title: Economic Impact of Reserve Bank of India Governor Resignation
+description: Reserve Bank of India Governor leads monetary policy through crises and
+  a potential resignation could unsettle domestic markets Discover more inside
 ---
 
 

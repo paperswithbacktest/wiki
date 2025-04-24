@@ -1,6 +1,7 @@
 ---
-title: "Overview of Deribit Platform"
-description: "Explore the Deribit platform for crypto trading with a focus on algorithmic strategies. Benefit from advanced tools and robust API for optimal trading performance."
+title: Deribit Cryptocurrency Options and Futures Trading Platform
+description: Deribit cryptocurrency exchange offers advanced options and futures trading
+  with robust security and tools for informed decision making Discover more inside.
 ---
 
 

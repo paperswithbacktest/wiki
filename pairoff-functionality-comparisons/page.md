@@ -1,6 +1,7 @@
 ---
-title: "Pairoff: Functionality and Comparisons"
-description: "Explore algorithmic trading with a focus on pairoff transactions Learn how these strategies streamline operations mitigate risks and enhance market efficiency"
+title: Pairoff Collaboration Tool and Trading Strategy Integration
+description: Pairoff streamlines team collaboration with flexible pairing scheduling
+  history tracking easy interface and API integrations Discover more inside
 ---
 
 

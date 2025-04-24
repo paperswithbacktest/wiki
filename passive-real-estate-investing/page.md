@@ -1,6 +1,7 @@
 ---
-title: "Passive Real Estate Investing"
-description: "Discover the world of passive real estate investing with strategies like REITs and algo trading for sustainable income without active management effort."
+title: Essential Passive Real Estate Investing Strategies for Beginners
+description: Passive real estate investing lets you earn rental income without managing
+  properties yourself while diversifying your portfolio Discover more inside.
 ---
 
 

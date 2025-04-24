@@ -1,6 +1,8 @@
 ---
-title: "Price Level Targeting: Mechanisms and Implementation"
-description: "Explore the intricate dynamics of price level targeting and algorithmic trading in today's financial landscape Learn about their mechanisms impact and future implications"
+title: "Price Level Targeting Explained: Stabilizing Money\u2019s Value"
+description: Price level targeting offers a strategy to keep average prices steady
+  over time and enhance economic predictability for planning and investment Discover
+  more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Notable Currency Trades in History"
-description: "Explore the historical evolution of currency trading and the profound impact of algorithmic strategies on the forex market's efficiency and dynamics."
+title: Notable Currency Trades That Shaped the Global Economy
+description: Notable currency trades show how key interventions like the Plaza Accord
+  and Black Wednesday shaped global markets and economies Discover more inside
 ---
 
 

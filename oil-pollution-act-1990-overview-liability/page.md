@@ -1,6 +1,7 @@
 ---
-title: "Oil Pollution Act of 1990: Overview and Liability"
-description: "Explore the Oil Pollution Act of 1990's impact on environmental liability and its influence on financial markets through algorithmic trading dynamics."
+title: Comprehensive Analysis of the Oil Pollution Act of 1990
+description: Oil Pollution Act of 1990 requires spill prevention plans and funds rapid
+  cleanup to protect marine life and ensure accountability Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quantization (Machine Learning)"
-description: "Quantization in machine learning optimizes models for efficiency on low-power devices by reducing numerical precision which may slightly impact accuracy."
+title: Quantization in Machine Learning Models for Efficient Deployment
+description: Quantization in machine learning shrinks model size and speeds up inference
+  on low-power devices while preserving accuracy Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quoted Price: Definition and Implications"
-description: "Explore the significance of quoted price in financial markets and algo trading, its impact on investment decisions, and the importance of accurate pricing data."
+title: Quoted Price Explained Definition Usage and Key Considerations
+description: Quoted price clarifies how sellers set personalized costs and what influences
+  estimates for transparency and legal compliance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quality Opportunity Fund Overview"
-description: "Discover the Quality Opportunity Fund overview highlighting its focus on high-quality investments and the role of algorithmic trading in enhancing strategic returns."
+title: Quality Opportunity Fund Investment Strategies And Benefits
+description: Quality Opportunity Fund delivers growth by investing in high quality
+  companies with diversified risk and steady returns Discover more inside.
 ---
 
 

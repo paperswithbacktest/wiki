@@ -1,6 +1,7 @@
 ---
-title: "Price Innovation Adjusted Earnings"
-description: "Explore the integration of adjusted earnings with algorithmic trading for better investment decisions by understanding company valuations and market dynamics."
+title: Price Innovation Adjusted Earnings Explained for Investors
+description: Price Innovation Adjusted Earnings gives investors a clearer picture
+  of true profits by adjusting for inflation and innovation Discover more inside
 ---
 
 

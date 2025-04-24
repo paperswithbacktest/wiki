@@ -1,6 +1,7 @@
 ---
-title: "Ornstein-Uhlenbeck (O-U) process"
-description: Explore the significance of the Ornstein-Uhlenbeck process in algorithmic trading where its mean-reverting traits provide traders with a robust tool for mean reversion and pairs trading strategies. Gain insights into its mathematical foundations and practical applications in financial modeling enhancing market prediction and strategy development.
+title: Ornstein-Uhlenbeck Process Explained for Finance and Physics
+description: Ornstein-Uhlenbeck process models mean reversion with random fluctuations
+  to predict asset prices and particle movement Discover more inside.
 ---
 
 

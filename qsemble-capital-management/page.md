@@ -1,6 +1,7 @@
 ---
-title: "Qsemble Capital Management"
-description: "Explore Qsemble Capital Management's innovative algorithmic trading strategies delivering high-speed data-driven investment solutions for maximized returns."
+title: Qsemble Capital Management Quantitative Investment Strategies
+description: Qsemble Capital Management uses data driven algorithms to select top
+  performing stocks and manage risk for consistent growth Discover more inside.
 ---
 
 

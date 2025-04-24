@@ -1,6 +1,7 @@
 ---
-title: "Parameter (Machine Learning)"
-description: "Explore the role and significance of parameters in machine learning models delve into their differences from hyperparameters and learn about parameter tuning and estimation."
+title: Machine Learning Parameters Explained for Model Optimization
+description: Machine learning parameters drive model accuracy by learning optimal
+  weights biases and settings to improve predictions Discover more inside.
 ---
 
 ![Image](images/1.png)

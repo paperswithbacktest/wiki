@@ -1,6 +1,7 @@
 ---
-title: "Plutocracy: Meaning and Examples"
-description: "Explore the intersection of plutocracy and algorithmic trading to understand how wealth distribution influences financial markets and policy."
+title: Plutocracy Explained Government by Wealth and Power
+description: Plutocracy Defined explores how wealth shapes political power and impacts
+  inequality in society Discover more inside
 ---
 
 

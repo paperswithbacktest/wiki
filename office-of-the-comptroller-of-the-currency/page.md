@@ -1,6 +1,7 @@
 ---
-title: "Office of the Comptroller of the Currency"
-description: "Explore how the Office of the Comptroller of the Currency and other U.S. regulatory bodies manage financial stability and market integrity in algorithmic trading."
+title: Office of the Comptroller of the Currency Roles and Functions
+description: Office of the Comptroller of the Currency oversees national banks through
+  exams rules and enforcement to ensure safety and fairness Discover more inside
 ---
 
 

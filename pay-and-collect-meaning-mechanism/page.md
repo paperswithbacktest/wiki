@@ -1,6 +1,7 @@
 ---
-title: "Pay and Collect: Meaning and Mechanism"
-description: "Explore the meaning and mechanism of pay and collect in algo trading and understand how technology transforms transactions and financial operations."
+title: Implementing Pay and Collect Services to Boost Retail Efficiency
+description: Pay and Collect streamlines customer convenience and reduces shipping
+  costs by enabling fast online purchases and in store pickups Discover more inside.
 ---
 
 

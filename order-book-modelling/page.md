@@ -1,6 +1,7 @@
 ---
-title: "Order Book Modelling"
-description: "Explore the essentials of order book modelling in algotrading Discover how simulating order flows and incorporating historical data enhances trading strategies and profitability"
+title: Understanding Order Book Mechanics in Financial Markets
+description: Order book mechanics in financial markets explain how bids and asks set
+  prices and depth analysis guides trading decisions Discover more inside
 ---
 
 

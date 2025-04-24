@@ -1,6 +1,7 @@
 ---
-title: "Position Sizing in Investment"
-description: "Discover the critical role of position sizing in investment and algorithmic trading for effective risk management and maximized returns in today's markets."
+title: Position Sizing for Optimal Risk Management in Your Portfolio
+description: Position sizing helps investors manage risk with methods from fixed percentage
+  to Kelly Criterion while keeping portfolios balanced Discover more inside.
 ---
 
 

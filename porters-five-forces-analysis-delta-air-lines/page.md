@@ -1,6 +1,7 @@
 ---
-title: "Porter's Five Forces Analysis of Delta Air Lines"
-description: "Explore Delta Air Lines' strategic use of Porter's Five Forces in combating competition and optimizing operations through innovative technologies like algorithmic trading."
+title: Porter's Five Forces Analysis of Delta Air Lines Strategy
+description: Porter's Five Forces Analysis reveals how Delta Air Lines handles competition,
+  supplier power and market threats to refine strategy Discover more inside.
 ---
 
 

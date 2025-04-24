@@ -1,6 +1,7 @@
 ---
-title: "Phillips Curve Economic Theory"
-description: "Explore the relationship between inflation and unemployment through the Phillips Curve theory alongside the impact of algorithmic trading on these economic variables."
+title: Understanding the Phillips Curve Trade-Offs in Economic Policy
+description: Phillips Curve explains the trade-off between unemployment and inflation
+  and guides policymakers balancing jobs and price stability Discover more inside.
 ---
 
 

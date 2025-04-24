@@ -1,6 +1,7 @@
 ---
-title: "On-The-Run Treasury Yield Curve"
-description: "Explore the integration of the on-the-run Treasury yield curve and algorithmic trading in bond markets to optimize strategies and unlock new opportunities."
+title: Essential Guide to the On-The-Run Treasury Yield Curve
+description: On-The-Run Treasury Yield Curve delivers daily U.S. Treasury rates for
+  bills notes and bonds to guide financial decisions Discover more inside
 ---
 
 

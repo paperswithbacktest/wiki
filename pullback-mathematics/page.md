@@ -1,6 +1,7 @@
 ---
-title: "Pullback in Mathematics"
-description: "Explore how pullbacks in category theory can optimize algorithmic trading strategies by enhancing market analysis and improving decision-making. Discover the intersection of abstract mathematics and finance to refine trading models through universal insights into market dynamics."
+title: Understanding Pullbacks in Category Theory and Their Applications
+description: Pullbacks in Category Theory combine two morphisms into a universal object
+  that ensures consistent mapping with examples and applications. Discover more inside.
 ---
 
 

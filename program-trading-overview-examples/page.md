@@ -1,6 +1,7 @@
 ---
-title: "Program Trading: Overview and Examples"
-description: "Discover how program trading transforms financial markets with advanced algorithms enhancing liquidity reducing costs and optimizing complex strategies"
+title: Program Trading Strategies And Market Impact Explained
+description: Program trading uses algorithms to execute rapid stock trades, optimize
+  pricing and manage market volatility with automated trades Discover more inside
 ---
 
 

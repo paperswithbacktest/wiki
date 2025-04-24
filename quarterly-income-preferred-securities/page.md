@@ -1,6 +1,7 @@
 ---
-title: "Quarterly Income Preferred Securities"
-description: "Explore the benefits and risks of Quarterly Income Preferred Securities and how algorithmic trading can enhance their market performance for investors."
+title: Comprehensive Guide To Quarterly Income Preferred Securities
+description: Quarterly Income Preferred Securities deliver fixed three month dividends
+  and help companies manage debt for reliable income Discover more inside.
 ---
 
 

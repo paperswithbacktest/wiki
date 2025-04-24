@@ -1,6 +1,7 @@
 ---
-title: "Pegging of the Chinese Yuan"
-description: "Explore the Chinese Yuan's currency peg and its impact on global markets and economic stability alongside the role of algorithmic trading in currency management."
+title: Understanding the Chinese Yuan Peg to the US Dollar
+description: Chinese Yuan peg boosts trade and stability by fixing its value to the
+  US dollar while balancing economic control and flexibility. Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "PanAgora"
-description: "Explore PanAgora's innovative approach to algorithmic trading where cutting-edge technology meets quantitative research for impactful trading strategies."
+title: PanAgora Investment Strategies Quantitative Equity And AI Insights
+description: PanAgora investment strategies leverage quantitative analysis AI and
+  machine learning to optimize portfolios for growth and risk management Discover
+  more inside.
 ---
 
 

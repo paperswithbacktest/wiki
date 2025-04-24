@@ -1,6 +1,7 @@
 ---
-title: "Proof of Work in Blockchain"
-description: "Explore how Proof of Work in blockchain enhances algorithmic trading by boosting security and transparency with blockchain's immutable ledger for reliable data analysis."
+title: Understanding Proof of Work Consensus in Blockchain Security
+description: Proof of Work secures blockchain by having miners solve puzzles to add
+  blocks and deter double spending by adjusting difficulty. Discover more inside
 ---
 
 

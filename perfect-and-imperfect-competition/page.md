@@ -1,6 +1,7 @@
 ---
-title: "Perfect and Imperfect Competition"
-description: "Explore the dynamics of perfect and imperfect competition in trading markets and the transformative role of algorithmic trading in modern financial landscapes."
+title: Understanding Perfect and Imperfect Competition in Markets
+description: Perfect Competition and Imperfect Competition shape market efficiency
+  and firm strategies from pricing to barriers to entry Discover more inside.
 ---
 
 

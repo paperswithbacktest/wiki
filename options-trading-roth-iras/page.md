@@ -1,6 +1,7 @@
 ---
-title: "Options Trading in Roth IRAs"
-description: "Explore the potential of combining options trading with Roth IRAs and algorithmic trading to optimize retirement investment strategies. Learn how options trading can generate income and manage risk within a tax-advantaged Roth IRA. Discover how algorithmic trading enhances these strategies by automating decisions, enabling precise and systematic market opportunities. Unlock the benefits of this powerful investment synergy for a secure and prosperous retirement."
+title: Options Trading Strategies And Rules For Roth IRA Investors
+description: Options trading in a Roth IRA lets you grow retirement savings tax free
+  by using covered strategies and buying calls or puts safely. Discover more inside.
 ---
 
 

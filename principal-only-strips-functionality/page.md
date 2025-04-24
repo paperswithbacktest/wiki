@@ -1,6 +1,7 @@
 ---
-title: "Principal-Only Strips and Their Functionality"
-description: "Explore the unique features of Principal-Only strips in algo trading These instruments focus solely on principal repayments from MBS pools offering strategic investment opportunities"
+title: Understanding Principal Only Strips in Mortgage Securities
+description: Principal-only strips offer investors faster mortgage principal repayments
+  from MBS while managing rate risks and timing uncertainties Discover more inside
 ---
 
 

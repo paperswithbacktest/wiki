@@ -1,6 +1,7 @@
 ---
-title: "Price Taker in Perfect Competition"
-description: "Explore the interconnectedness of price takers, perfect competition, and algorithmic trading in economic theory and financial markets, enhancing market efficiency."
+title: Understanding Price Takers in Perfectly Competitive Markets
+description: Price Taker firms accept market prices and focus on cost efficiency to
+  maximize output where price equals marginal cost Discover more inside.
 ---
 
 

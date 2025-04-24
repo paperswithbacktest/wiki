@@ -1,6 +1,7 @@
 ---
-title: "Original Issue Discount: Formula and Applications"
-description: "Explore the significance of Original Issue Discount in finance including its calculation and applications in algorithmic trading to optimize bond investments."
+title: Mastering Original Issue Discount Calculations and Tax Reporting
+description: Original Issue Discount helps investors spread bond interest income and
+  meet IRS reporting requirements with simple calculation steps Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Overnight Limit: Definition and Functionality"
-description: "Explore the concept of banking overnight limits, vital for risk management, financial stability, and their integration into algorithmic trading for market efficiency."
+title: Understanding Overnight Limits in Banking Risk Management
+description: Overnight limit rules help banks manage risk by capping funds held abroad
+  nightly and enforcing compliance via tech controls Discover more inside
 ---
 
 

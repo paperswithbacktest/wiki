@@ -1,6 +1,7 @@
 ---
-title: "Populous World: Historical Significance and Functionality"
-description: "Explore the historical influence of population dynamics on economic growth and algorithmic trading. Understand demographic changes to optimize trading strategies."
+title: Populous World Game Guide Urban Planning and Social City Building
+description: Populous World lets you build dynamic cities collaborate on projects
+  trade resources with global players and master growth strategies Discover more inside
 ---
 
 

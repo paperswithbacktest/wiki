@@ -1,6 +1,7 @@
 ---
-title: "Payout Ratio: Overview and Calculation"
-description: "Explore how the payout ratio can shape investment strategies in dividend-focused algorithmic trading. Learn key metrics to gauge a company's financial health."
+title: Payout Ratio Explained For Assessing Dividends and Growth
+description: Payout ratio reveals how much of earnings are paid as dividends and what
+  it signals for income and growth in different industries. Discover more inside.
 ---
 
 

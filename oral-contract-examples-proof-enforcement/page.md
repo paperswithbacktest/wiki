@@ -1,6 +1,7 @@
 ---
-title: "Oral Contract: Examples, Proof, and Enforcement"
-description: "Explore the significance of oral contracts in algo trading understand their enforceability and ensure seamless operations with crucial principles of contract law."
+title: 'Oral Contract Basics: Enforceability, Risks And Best Practices'
+description: Oral contract provides insights on validity, essential elements, proof
+  methods and Statute of Frauds limits to prevent disputes. Discover more inside.
 ---
 
 

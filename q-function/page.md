@@ -1,6 +1,7 @@
 ---
-title: "Q-Function (Machine Learning)"
-description: "Learn about Q-Function in machine learning and its role in reinforcement learning by helping agents estimate future rewards and make optimal decisions."
+title: Understanding Q-Function in Reinforcement Learning Algorithms
+description: Q-Function in reinforcement learning calculates expected rewards for
+  actions and powers policy optimization with Q-learning and DQN Discover more inside
 ---
 
 

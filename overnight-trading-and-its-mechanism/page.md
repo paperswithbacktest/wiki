@@ -1,6 +1,7 @@
 ---
-title: "Overnight Trading and Its Mechanism"
-description: "Explore the intricacies of stock market overnight trading Discover its benefits risks and the role of algorithmic trading within this after-hours financial landscape"
+title: Essential Guide to Overnight Trading Risks and Strategies
+description: Overnight trading uses risk controls and focused strategies to navigate
+  low liquidity and price swings during off hours Discover more inside.
 ---
 
 

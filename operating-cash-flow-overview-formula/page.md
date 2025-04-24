@@ -1,6 +1,7 @@
 ---
-title: "Operating Cash Flow: Overview and Formula"
-description: "Discover how Operating Cash Flow (OCF) enhances algorithmic trading strategies by offering key insights into financial health and opportunities for improved market outcomes."
+title: Understanding Operating Cash Flow to Measure Business Health
+description: Operating cash flow shows how much cash companies generate from core
+  operations and informs decisions to improve financial health Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Precious Metals: Investment Strategies and Examples"
-description: "Explore diverse precious metal investment strategies with insights into physical assets, ETFs, mining stocks, and algorithmic trading to optimize portfolio growth."
+title: Professional Guide to Investing in Precious Metals
+description: Investing in precious metals builds a secure portfolio by balancing risk
+  and adding stability with gold silver platinum and palladium Discover more inside.
 ---
 
 

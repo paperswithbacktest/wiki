@@ -1,6 +1,7 @@
 ---
-title: "Purchasing Alternative Investments"
-description: "Discover the transformative power of alternative investments and algorithmic trading. Explore strategies, benefits, and risks to diversify and enhance returns."
+title: Understanding Alternative Investments for Diversified Portfolios
+description: Alternative investments diversify your portfolio with real estate private
+  equity commodities and art to enhance returns Discover more inside.
 ---
 
 

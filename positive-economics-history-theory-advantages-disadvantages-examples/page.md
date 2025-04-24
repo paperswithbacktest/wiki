@@ -1,6 +1,7 @@
 ---
-title: "Positive Economics: History, Theory, Advantages and Disadvantages, Examples"
-description: "Explore the history, theory, and impact of positive economics, focusing on algorithmic trading as a practical application in modern financial markets."
+title: Understanding Positive Economics Principles and Applications
+description: Positive economics uses data driven analysis to reveal real effects of
+  economic policies and support informed decision making Discover more inside.
 ---
 
 

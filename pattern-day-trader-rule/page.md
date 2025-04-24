@@ -1,6 +1,7 @@
 ---
-title: "Pattern Day Trader Rule"
-description: "Understand the Pattern Day Trader rule and its impact on day trading and algorithmic strategies in margin accounts Learn the $25K minimum rule and compliance tips"
+title: Understanding the Pattern Day Trader Rule in US Markets
+description: Pattern Day Trader Rule requires a minimum equity of 25000 to help traders
+  manage risk and avoid trading restrictions effectively Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Qualified Institutional Placement Rules"
-description: "Explore Qualified Institutional Placement rules and their role in capital markets Learn how QIP enhances liquidity and fosters algorithmic trading for investors"
+title: Qualified Institutional Placement QIP Process Explained in India
+description: Qualified Institutional Placement gives companies a fast way to raise
+  capital from institutional buyers under clear regulatory rules Discover more inside.
 ---
 
 

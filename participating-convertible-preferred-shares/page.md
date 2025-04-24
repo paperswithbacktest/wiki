@@ -1,6 +1,7 @@
 ---
-title: "Participating Convertible Preferred Shares"
-description: "Discover how convertible preferred shares offer income stability & growth potential, and how algorithmic trading enhances their management for strategic gains."
+title: Understanding Participating Convertible Preferred Shares
+description: Participating Convertible Preferred Shares offer priority payouts and
+  conversion flexibility for security and upside potential. Discover more inside.
 ---
 
 

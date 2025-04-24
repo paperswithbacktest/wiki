@@ -1,6 +1,7 @@
 ---
-title: "Oldest Mutual Funds"
-description: "Explore the historical evolution of mutual funds, from their 18th-century roots to modern-day strategies, including algorithmic trading and diversification."
+title: Exploring the Evolution and Benefits of Oldest Mutual Funds
+description: Oldest mutual funds offer decades of performance insights risk management
+  adaptive strategies to guide investors through market cycles Discover more inside
 ---
 
 

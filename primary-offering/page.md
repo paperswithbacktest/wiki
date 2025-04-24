@@ -1,6 +1,7 @@
 ---
-title: "Primary Offering"
-description: "Explore the intricacies of IPOs and primary offerings, focusing on how algorithmic trading reshapes market dynamics, enhances liquidity, and impacts pricing."
+title: A Comprehensive Guide to Primary Offerings and IPO Processes
+description: Primary offering enables companies to raise capital by selling new shares
+  with underwriter support and regulatory oversight. Discover more inside.
 ---
 
 

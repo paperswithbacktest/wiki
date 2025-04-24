@@ -1,6 +1,8 @@
 ---
-title: "Option Income Funds: Overview and Benefits"
-description: "Explore option income funds and algo trading strategies to boost returns and manage risks. Learn about income generation through options and algorithm integration."
+title: Understanding Option Income Funds for Steady Investor Returns
+description: Option Income Funds use call and put options to generate regular premiums
+  and balance portfolio risks for steady payouts and potential growth Discover more
+  inside
 ---
 
 

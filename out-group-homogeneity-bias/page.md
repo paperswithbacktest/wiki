@@ -1,6 +1,7 @@
 ---
-title: "Out-Group Homogeneity Bias (Machine Learning)"
-description: "Explore Out-Group Homogeneity Bias in machine learning a tendency to perceive out-group members uniformly learn its causes consequences and mitigation strategies"
+title: Addressing Out-Group Homogeneity Bias in Machine Learning
+description: Out-Group Homogeneity Bias skews ML models by treating groups as uniform.
+  Bolster fairness with balanced data and ongoing monitoring. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

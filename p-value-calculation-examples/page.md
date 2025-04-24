@@ -1,6 +1,7 @@
 ---
-title: "P-Value Calculation and Examples"
-description: "This article explores the application of p-value calculations in algorithmic trading, highlighting its importance in measuring statistical significance during hypothesis testing. By understanding and utilizing p-values, traders can validate strategies with data-driven evidence, discerning genuine market patterns from random chance. This piece further explains the methodology of p-value computation, emphasizing its role in optimizing trading models and making informed decisions."
+title: Understanding P-Values in Statistical Analysis
+description: P-value explains the probability of results occurring by chance under
+  the null hypothesis and guides your significance decisions Discover more inside.
 ---
 
 

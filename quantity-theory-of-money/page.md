@@ -1,6 +1,7 @@
 ---
-title: "Quantity Theory of Money"
-description: "Explore how money supply influences inflation and the role of algorithmic trading in managing market dynamics. Understand monetary policies and trading strategies."
+title: Understanding the Quantity Theory of Money in Modern Economies
+description: Quantity Theory of Money explains how shifts in money supply drive inflation
+  and influence monetary policy in real economies Discover more inside
 ---
 
 

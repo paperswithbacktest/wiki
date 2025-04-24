@@ -1,6 +1,7 @@
 ---
-title: "Percentage of Completion and Completed Contract Methods"
-description: "Explore the integration of traditional accounting methods with algorithmic trading to enhance financial reporting and trading strategies for long-term projects."
+title: Percentage of Completion vs Completed Contract Methods
+description: Percentage of Completion method lets you recognize revenue as projects
+  progress and contrasts with Completed Contract reporting Discover more inside.
 ---
 
 

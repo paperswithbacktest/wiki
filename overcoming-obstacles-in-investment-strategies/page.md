@@ -1,6 +1,7 @@
 ---
-title: "Overcoming Obstacles in Investment Strategies"
-description: "Explore investment strategies to overcome emotional and market barriers. Discover how algorithmic trading enhances decision-making for improved financial outcomes."
+title: Investment Strategies to Overcome Common Investing Barriers
+description: Investment Strategies equip you to tackle financial obstacles with goal
+  setting risk management and diversification to build confidence Discover more
 ---
 
 

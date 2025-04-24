@@ -1,6 +1,7 @@
 ---
-title: "POV (Percentage of Volume)"
-description: "Explore the Percentage of Volume algorithm to optimize trades by aligning with market volume fluctuations and minimize impact in algorithmic trading strategies."
+title: Understanding Percentage Of Volume POV In Trading Markets
+description: Percentage of Volume provides traders with real time insight into market
+  impact and guides trade execution to minimize price swings Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quality Spread Differential: Definition and Mechanism"
-description: "Explore the vital role of Quality Spread Differential in finance Discover how understanding QSD aids investment decisions and strategic asset allocation"
+title: Understanding Quality Spread Differential for Bond Investments
+description: Quality Spread Differential guides investors to balance yield of riskier
+  bonds with credit risk and refine portfolios effectively Discover more inside
 ---
 
 

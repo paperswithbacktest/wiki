@@ -1,6 +1,7 @@
 ---
-title: "Optimal stopping problems"
-description: "Explore optimal stopping problems in algorithmic trading to enhance strategic decision-making. Learn about their mathematical foundations for better trade timing."
+title: Optimal Stopping Problems From Theory To Practical Algorithms
+description: Optimal stopping problems help you balance risk and reward to pick the
+  best option with dynamic programming martingale methods Discover more inside
 ---
 
 

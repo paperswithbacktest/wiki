@@ -1,6 +1,7 @@
 ---
-title: "Overview of The Accounting Review"
-description: "The Accounting Review, an influential journal by the American Accounting Association, disseminates peer-reviewed research advancing academic and practical accounting practices."
+title: The Accounting Review Journal Overview and Research Impact
+description: The Accounting Review publishes bimonthly peer reviewed research on accounting
+  measurement rulemaking and practice trends Discover more inside.
 ---
 
 

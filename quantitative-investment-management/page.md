@@ -1,6 +1,8 @@
 ---
-title: "Quantitative Investment Management"
-description: "Explore quantitative investment management and algorithmic trading which leverage mathematical models and technology to optimize financial market strategies."
+title: Quantitative Investment Management Strategies and Key Components
+description: Quantitative investment management explains how quants use data analysis
+  and algorithms to make consistent investment decisions and manage risk Discover
+  more inside.
 ---
 
 

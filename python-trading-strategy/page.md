@@ -1,6 +1,7 @@
 ---
-title: "Python Trading Strategy Explained"
-description: Explore the transformative impact of Python in algorithmic trading as it empowers investors to create efficient and robust trading strategies. Uncover how Python’s simplicity and powerful libraries like NumPy, Pandas, and Quandl make it an ideal choice for conducting complex data analyses, turning historical and real-time data into actionable insights. This guide dives deep into the role of Python in automating trades, improving decision-making, and enhancing profitability in today’s fast-paced financial markets, making it accessible to both novice and seasoned traders seeking enhanced trading capabilities.
+title: Developing Python Trading Strategies for Algorithmic Trading
+description: Python trading strategy guide shows how to build test and optimize strategies
+  with key libraries risk controls and advanced methods Discover more inside
 ---
 
 

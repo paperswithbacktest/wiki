@@ -1,6 +1,7 @@
 ---
-title: "Private Equity in Real Estate Investing and Returns"
-description: "Discover the dynamic synergy between private equity real estate investing and algorithmic trading for optimized returns and strategic property management."
+title: Harnessing Algorithmic Trading in Private Equity Real Estate
+description: Private equity real estate benefits from algorithmic trading and data-driven
+  models to boost returns and optimize risk management Discover more inside
 ---
 
 

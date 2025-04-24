@@ -1,6 +1,7 @@
 ---
-title: "Oil-to-Natural Gas Price Ratio"
-description: "Discover the intricacies of the oil-to-natural gas price ratio and its impact on algorithmic trading in the dynamic and evolving energy market landscape."
+title: A Comprehensive Guide to the Oil to Natural Gas Price Ratio
+description: Oil to natural gas price ratio analysis helps energy companies and investors
+  compare commodity values to inform energy decisions Discover more inside
 ---
 
 

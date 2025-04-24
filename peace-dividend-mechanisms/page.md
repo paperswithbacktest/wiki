@@ -1,6 +1,7 @@
 ---
-title: "Peace Dividend and Its Mechanisms"
-description: "Explore how peace dividends influence economic growth by reallocating defense spending to social welfare and infrastructure. Discover insights into fiscal strategies."
+title: Understanding the Peace Dividend and Its Economic Benefits
+description: Peace dividend frees funds for infrastructure education and healthcare
+  by shifting military budgets to economic growth and trade Discover more inside
 ---
 
 

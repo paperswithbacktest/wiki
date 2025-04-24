@@ -1,6 +1,7 @@
 ---
-title: "Polarized Fractal Efficiency: Concept and Application"
-description: "Explore the innovative Polarized Fractal Efficiency indicator to enhance your algorithmic trading strategies by analyzing market trends and efficiency dynamics."
+title: Understanding Polarized Fractal Efficiency For Smarter Trading
+description: Polarized Fractal Efficiency tracks clarity of market patterns to help
+  traders spot trends and guide buy and sell decisions Discover more inside.
 ---
 
 

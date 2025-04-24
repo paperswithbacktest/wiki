@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Lender: Overview, Advantages, and Disadvantages"
-description: "Portfolio lending offers flexibility by tailoring loans to borrower needs, making it ideal for non-traditional income earners but involves higher lender risk."
+title: Portfolio Lenders Explained Benefits And Risks For Borrowers
+description: Portfolio lenders keep loans in house offering flexible financing for
+  unique properties or borrowers while managing risk Discover more inside.
 ---
 
 

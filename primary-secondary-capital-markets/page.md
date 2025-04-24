@@ -1,6 +1,7 @@
 ---
-title: "Primary and Secondary Capital Markets"
-description: "Explore the dynamics of primary and secondary capital markets in algo trading learn how they facilitate capital flow trading efficiency and market liquidity."
+title: Comprehensive Guide To Primary And Secondary Capital Markets
+description: Primary and secondary capital markets reveal how companies raise funds
+  while investors trade stocks and bonds in real time Discover more inside
 ---
 
 

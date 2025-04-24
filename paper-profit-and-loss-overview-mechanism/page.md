@@ -1,6 +1,7 @@
 ---
-title: "Paper Profit and Loss: Overview and Mechanism"
-description: "Explore the intricacies of paper profit and loss in algorithmic trading. Learn how unrealized gains impact trading strategies and decision-making frameworks."
+title: Understanding Paper Profits and Losses for Smarter Investing
+description: Paper profits and losses show unrealized gains and risks so you can track
+  value changes optimize sell timing and manage tax impacts. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Prediction Bias (Machine Learning)"
-description: "Learn what prediction bias in machine learning means and how it affects model performance and fairness Explore causes solutions and impact on demographic groups"
+title: Understanding And Mitigating Prediction Bias In Machine Learning
+description: Prediction bias in machine learning skews model fairness and accuracy
+  but can be detected and mitigated with diverse data. Discover more inside.
 ---
 
 

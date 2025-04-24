@@ -1,6 +1,7 @@
 ---
-title: "Option Greeks: Four Key Factors for Risk Assessment"
-description: "Explore the crucial role of Option Greeks in options trading and algorithmic strategies Understand Delta Gamma Theta and Vega for effective risk management and decision-making"
+title: Comprehensive Guide to Option Greeks for Risk Management
+description: Option Greeks reveal how price time and volatility impact options so
+  traders manage risk optimize strategies and protect portfolios Discover more inside
 ---
 
 

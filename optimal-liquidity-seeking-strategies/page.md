@@ -1,6 +1,7 @@
 ---
-title: "Optimal Liquidity Seeking Strategies"
-description: "Discover optimal liquidity seeking strategies in algorithmic trading to execute large orders efficiently with minimal market impact using advanced algorithms."
+title: Effective Liquidity Seeking Strategies in Financial Markets
+description: Liquidity seeking strategies help optimize order types market depth and
+  algorithmic methods to minimize market impact and costs Discover more inside
 ---
 
 

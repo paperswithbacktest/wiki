@@ -1,6 +1,7 @@
 ---
-title: "Quantification of Investment Risk"
-description: "Explore the crucial role of risk quantification in investment strategies and algorithmic trading. This page investigates into financial modeling as a means to assess potential outcomes, along with the importance of managing both individual and institutional investment risks. Discover how algo trading employs sophisticated algorithms to enhance trading efficiency while emphasizing the need for robust risk management strategies. The integration of financial modeling, risk quantification, and algorithmic trading fosters strategic approaches to investing in volatile markets."
+title: Quantifying Investment Risk With Key Metrics And Models
+description: Investment risk quantification shows how to measure losses using metrics
+  like VaR standard deviation and beta to help manage exposure Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Office of Federal Housing Enterprise Oversight"
-description: "Explore the impact of algorithmic trading on housing finance and understand OFHEO's regulatory legacy as it transitions to the Federal Housing Finance Agency."
+title: Overview of the Office of Federal Housing Enterprise Oversight
+description: Office of Federal Housing Enterprise Oversight ensured Fannie Mae and
+  Freddie Mac stability with rule enforcement and risk oversight Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Proliferation of Mutual Funds"
-description: "Explore mutual funds and algorithmic trading examining their principles and impact on financial markets Gain insights to inform more effective investment decisions"
+title: Mutual Funds Explained Benefits Risks And Future Trends
+description: Mutual Funds offer professional management and diversification while
+  outlining benefits risks and trends to guide investors Discover more inside.
 ---
 
 

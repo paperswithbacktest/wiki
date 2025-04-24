@@ -1,6 +1,8 @@
 ---
-title: "Outward Direct Investment: Overview and History"
-description: "Explore the synergy of outward direct investment and algorithmic trading in international business and discover how these strategies drive global financial success."
+title: Understanding Outward Direct Investment for Global Growth
+description: Outward Direct Investment helps companies broaden markets and secure
+  resources while managing global risks with strategic partnerships Discover more
+  inside
 ---
 
 

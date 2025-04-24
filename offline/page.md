@@ -1,6 +1,7 @@
 ---
-title: "Offline (Machine Learning)"
-description: "Offline machine learning involves training models with a fixed dataset at once making it ideal for scenarios where real-time updates aren't needed."
+title: Offline Machine Learning Techniques And Practical Applications
+description: Offline machine learning trains models on fixed datasets for reliable
+  predictions periodic retraining ensures up to date results discover more inside
 ---
 
 ![Image](images/1.png)

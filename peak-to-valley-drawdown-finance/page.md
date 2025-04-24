@@ -1,6 +1,7 @@
 ---
-title: "Peak-to-Valley Drawdown in Finance"
-description: "Explore peak-to-valley drawdown in algorithmic trading to understand its impact on risk management and investment strategy optimization."
+title: Understanding Peak-to-Valley Drawdown for Investment Risk
+description: Peak-to-Valley Drawdown shows the decline from peak to trough so investors
+  can gauge portfolio risk and refine strategies. Discover more inside.
 ---
 
 

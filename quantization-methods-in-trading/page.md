@@ -1,6 +1,7 @@
 ---
-title: "quantization methods in trading"
-description: "Discover the power of quantization methods in algorithmic trading to optimize data processing and enhance model performance, driving competitive advantage."
+title: Quantization Techniques for Efficient Algorithmic Trading
+description: Quantization methods convert continuous market data into discrete levels
+  for faster trading decisions and better risk management Discover more inside.
 ---
 
 

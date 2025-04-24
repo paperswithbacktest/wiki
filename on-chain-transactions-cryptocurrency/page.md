@@ -1,6 +1,7 @@
 ---
-title: "On-Chain Transactions in Cryptocurrency"
-description: "Explore how on-chain transactions and algorithmic trading redefine cryptocurrency dynamics with blockchain security and automated strategies for optimal trading."
+title: Understanding On-Chain Cryptocurrency Transactions
+description: On-chain transactions record crypto transfers on the blockchain for secure
+  permanent records while balancing fees and speed Discover more inside
 ---
 
 

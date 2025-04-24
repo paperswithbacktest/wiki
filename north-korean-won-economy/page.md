@@ -1,6 +1,7 @@
 ---
-title: "North Korean Won and Economy"
-description: "Explore the North Korean Won's role in a closed economy its challenges in international forex markets and the potential for algorithmic trading innovations."
+title: North Korean Won Explained Impact On Economy And Exchange Rates
+description: North Korean Won faces tight government controls rapidly fluctuating
+  exchange rates and informal markets shaping everyday life Discover more inside
 ---
 
 

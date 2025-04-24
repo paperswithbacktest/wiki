@@ -1,6 +1,7 @@
 ---
-title: "Options Strategies During Economic Downturns"
-description: "Navigate economic downturns with strategic options and algorithmic trading to mitigate risks, maximize returns, and enhance financial resilience and growth."
+title: Options Strategies to Safeguard Your Portfolio in Downturns
+description: Options strategies can help you protect investments during economic downturns
+  from basic puts and covered calls to collars and spreads Discover more inside
 ---
 
 

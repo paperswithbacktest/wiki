@@ -1,6 +1,7 @@
 ---
-title: "Quid (Currency Slang)"
-description: "Explore the cultural and financial significance of the currency slang "quid" in British trade and its impact on modern algorithmic trading systems."
+title: Origins and Evolution of Quid Slang for the British Pound
+description: Quid slang for the British pound traces its origins and shows how people
+  use it in everyday UK and Ireland conversations. Discover more inside.
 ---
 
 

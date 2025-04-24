@@ -1,6 +1,7 @@
 ---
-title: "Preference Shares and Ordinary Shares"
-description: "Explore the key differences between ordinary and preference shares and how they fit diverse investment strategies while considering algorithmic trading advancements."
+title: Preference Shares vs Ordinary Shares Explained for Investors
+description: Preference shares offer priority dividends and steadier returns while
+  ordinary shares deliver voting rights and growth potential Discover more inside
 ---
 
 

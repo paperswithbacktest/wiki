@@ -1,6 +1,7 @@
 ---
-title: "Nontariff Barriers: Mechanisms, Types, and Examples"
-description: "Explore the influence of non-tariff barriers on international trade and algorithmic trading Discover strategies to mitigate their impact and optimize market efficiency"
+title: Understanding Nontariff Barriers in International Trade
+description: Nontariff barriers drive global trade controls with quotas licensing
+  and standards protecting local industries while raising costs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Placement Ratio"
-description: "Explore how strategic financial analysis, placement ratio, and algorithmic trading can enhance investment strategies and navigate dynamic financial markets effectively."
+title: Understanding Placement Ratio Impact Importance and Calculation
+description: Placement ratio shows the percentage of graduates who land jobs and guides
+  program improvements by revealing market trends Discover more inside.
 ---
 
 

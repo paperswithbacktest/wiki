@@ -1,6 +1,7 @@
 ---
-title: "Quadrature"
-description: "Explore the critical role of quadrature in algorithmic trading This mathematical technique enhances options pricing and risk management by improving prediction precision"
+title: Numerical Quadrature Methods for Accurate Integration
+description: Numerical quadrature enables accurate area estimation under complex curves
+  with trapezoidal Simpsons and Gaussian methods Discover more inside.
 ---
 
 

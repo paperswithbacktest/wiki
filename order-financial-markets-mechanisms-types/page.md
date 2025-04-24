@@ -1,6 +1,7 @@
 ---
-title: "Order in Financial Markets: Mechanisms and Types"
-description: "Explore the essentials of order types and trading mechanisms in financial markets Discover how algorithmic trading optimizes strategies for trader success"
+title: Understanding Order Types in Financial Markets and Trading
+description: Order types in financial markets give investors control with market,
+  limit and stop trades to manage risk and improve execution. Discover more inside
 ---
 
 

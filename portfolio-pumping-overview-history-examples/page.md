@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Pumping: Overview, History, and Examples"
-description: "Explore portfolio pumping and stock market manipulation in algo trading, learn about the history, examples, and ethical concerns within financial markets."
+title: 'Understanding Portfolio Pumping: Mechanics Risks and Regulatory Controls'
+description: Portfolio pumping can inflate fund performance through strategic end-period
+  stock buys revealing motives and detection methods in active voice with insights
+  to protect investors Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Paul Samuelson: Nobel Laureate and Economic Researcher"
-description: "Discover how Paul Samuelson's groundbreaking work revolutionized economic theory and influenced algorithmic trading strategies through enduring insights."
+title: Paul Samuelson's Neoclassical Synthesis and Economic Influence
+description: Paul Samuelson shaped modern economics through his neoclassical synthesis
+  revealed preference theory and influential textbook Discover more inside.
 ---
 
 

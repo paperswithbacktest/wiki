@@ -1,6 +1,7 @@
 ---
-title: "Quadrix"
-description: "Explore Quadrix algo trading to boost your investment strategies using advanced geometry and algorithms, gaining insights into stock performance metrics."
+title: Comprehensive Guide to Quadrix Puzzle Game and Strategies
+description: Quadrix guides you from basic 4x4 puzzle rules to expert pattern and
+  backtracking strategies with mathematical insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Offering Circular Overview"
-description: "Explore the crucial role of investment offering circulars in algorithmic trading, offering transparency and insights to investors in dynamic financial markets."
+title: Offering Circular Complete Guide To Purpose Components And Use
+description: Offering Circular provides key company details security terms and risk
+  factors to empower informed investment choices Discover more inside.
 ---
 
 

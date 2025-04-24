@@ -1,6 +1,7 @@
 ---
-title: "Operating Cash Flow Calculation Using Excel"
-description: "Learn about calculating operating cash flow using Excel to enhance financial analysis and boost algorithmic trading strategies by integrating cash flow insights."
+title: Calculating Operating Cash Flow Using Excel Spreadsheets
+description: Operating cash flow explained in Excel with formulas for noncash adjustments
+  working capital changes and accurate cash generation Discover more inside
 ---
 
 

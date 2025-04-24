@@ -1,6 +1,7 @@
 ---
-title: "Operation (Op) (Machine Learning)"
-description: "Learn about Operations (Ops) in machine learning Understand how they perform computations in models and play a crucial role in optimization and training"
+title: Understanding Operations in Machine Learning Models
+description: Machine learning operations break models into modular tasks for scalable
+  training and efficient performance and simplify debugging Discover more inside.
 ---
 
 ![Image](images/1.png)

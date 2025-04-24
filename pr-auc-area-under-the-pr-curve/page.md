@@ -1,6 +1,7 @@
 ---
-title: "Pr Auc (Area Under The Pr Curve) (Machine Learning)"
-description: "Explore the significance of PR AUC in machine learning and discover its role in evaluating model performance, especially in handling unbalanced datasets."
+title: Understanding PR AUC Performance Metric in Machine Learning
+description: PR AUC evaluation guides your model to balance precision and recall on
+  imbalanced data for clearer performance insights. Discover more inside.
 ---
 
 

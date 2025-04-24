@@ -1,6 +1,7 @@
 ---
-title: "Questrade Overview"
-description: "Explore Questrade's algo trading leader in Canada featuring advanced platforms tools and a wide range of assets perfect for tech-savvy investors."
+title: Questrade Online Brokerage Guide For Canadian Investors
+description: Questrade offers low-fee trading accounts, stocks, ETFs, and tools to
+  help Canadians build and optimize portfolios with confidence Discover more inside.
 ---
 
 

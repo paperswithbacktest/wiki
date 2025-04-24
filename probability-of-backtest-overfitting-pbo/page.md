@@ -1,6 +1,7 @@
 ---
-title: "Probability of backtest overfitting (PBO)"
-description: Explore the critical concept of the Probability of Backtest Overfitting (PBO) in algorithmic trading. Discover how PBO identifies the risk of overfitting trading strategies to historical data, potentially leading to unreliable real-time performance. Understand why addressing backtest overfitting is essential for avoiding illusory strategy success and improving predictive power. Learn methodologies to mitigate overfitting effects, enhancing the strategy validation process to bridge the gap between predicted and actual trading outcomes.
+title: Understanding The Probability Of Backtest Overfitting Metric
+description: Probability of Backtest Overfitting helps traders test strategies across
+  multiple data sets and avoid costly failures in real markets. Discover more inside
 ---
 
 

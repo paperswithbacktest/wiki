@@ -1,6 +1,7 @@
 ---
-title: "Octave"
-description: Explore the advantages of using Octave for algorithmic trading. Octave is a powerful open-source programming language, offering robust numerical computation capabilities akin to MATLAB without the high costs. Perfect for traders who need to handle large datasets and execute complex mathematical operations, Octave supports efficient development of trading algorithms. This article details how Octave enhances trading strategies by enabling rapid prototyping, data analysis, and simulation, potentially boosting efficiency and profitability in today's fast-paced financial markets.
+title: Octave User Guide To Installation And Core Programming
+description: Octave simplifies engineering and scientific computations with free tools
+  covering installation data types arithmetic plotting Discover more inside
 ---
 
 

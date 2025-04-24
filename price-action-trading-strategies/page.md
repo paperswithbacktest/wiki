@@ -1,6 +1,7 @@
 ---
-title: "Price Action Trading Strategies"
-description: "Discover how combining price action trading and algorithmic strategies can enhance market analysis and execution offering traders improved efficiency and insight."
+title: 'Price Action Trading Guide: Principles Patterns and Strategies'
+description: Price action trading helps traders read charts spot support resistance
+  and candlestick patterns refine strategy for smarter entries Discover more inside.
 ---
 
 

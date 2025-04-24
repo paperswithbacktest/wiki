@@ -1,6 +1,7 @@
 ---
-title: "Overview of Treasury Inflation-Protected Securities"
-description: "Explore Treasury Inflation-Protected Securities TIPS and their integration with algorithmic trading to enhance investment strategies combat inflation and optimize portfolios."
+title: "Investing In Treasury Inflation\u2011Protected Securities TIPS Guide"
+description: TIPS protect your money against inflation by adjusting principal and
+  interest with CPI changes securing your purchasing power Discover more now
 ---
 
 

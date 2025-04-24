@@ -1,6 +1,7 @@
 ---
-title: "Probability of strategy failure"
-description: Explore the potential risks of algorithmic trading and discover strategies to mitigate failures in this comprehensive guide. Delve into the factors affecting strategy success and learn how to apply statistical methods like Monte Carlo simulations to anticipate outcomes. Enhance your understanding of strategy vulnerabilities and bolster the resilience of your trading practices in the complex and dynamic financial markets.
+title: Probability Of Strategy Failure Explained With Statistical Tools
+description: Probability of Strategy Failure helps you apply statistical tools risk
+  management and scenario analysis to predict and mitigate risks Discover more inside.
 ---
 
 

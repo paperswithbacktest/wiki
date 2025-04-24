@@ -1,6 +1,7 @@
 ---
-title: "Points in Stock Market"
-description: "Understanding stock market points is key for traders and investors to analyze market trends and make informed decisions using algorithmic trading efficiently."
+title: Understanding Stock Market Points and How They Impact Investors
+description: Stock market points measure unit changes in indexes and stocks to guide
+  smarter investment decisions and track market trends Discover more inside.
 ---
 
 

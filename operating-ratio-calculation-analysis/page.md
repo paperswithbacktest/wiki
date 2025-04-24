@@ -1,6 +1,7 @@
 ---
-title: "Operating Ratio: Calculation and Analysis"
-description: "Explore the role of the operating ratio in analyzing algorithmic trading performance by assessing operational efficiency and optimizing trading strategies for success."
+title: Understanding Operating Ratio for Efficient Cost Management
+description: Operating Ratio shows how efficiently your business controls costs relative
+  to sales and guides improvements for profitability Discover more inside.
 ---
 
 

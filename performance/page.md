@@ -1,6 +1,7 @@
 ---
-title: "Performance (Machine Learning)"
-description: "Explore the performance metrics in machine learning including accuracy precision recall and F1 score to ensure your model makes accurate predictions on unseen data"
+title: Evaluating Machine Learning Model Performance Metrics
+description: Machine learning performance metrics gauge model accuracy and reliability
+  for real-world applications Optimize models with insights Discover more inside.
 ---
 
 

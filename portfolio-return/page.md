@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Return"
-description: "Explore the impact of algorithmic trading on portfolio returns and management. Learn how leveraging automation enhances investment precision and strategy in real-time markets."
+title: Understanding Portfolio Return Calculation and Key Metrics
+description: Portfolio return shows overall investment performance by calculating
+  weighted gains across assets and comparing to benchmarks Discover more inside.
 ---
 
 

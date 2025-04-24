@@ -1,6 +1,7 @@
 ---
-title: "Optimal Control in Trading"
-description: "Discover the synergy between algorithmic trading and optimal control in financial markets Learn how complex algorithms enhance trade execution and risk management"
+title: Optimal Control Strategies for Trading Risk and Profit Management
+description: Optimal control in trading uses mathematical models and real-time algorithms
+  to boost profits and curb risks with adaptive strategies Discover more inside.
 ---
 
 

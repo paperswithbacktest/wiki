@@ -1,6 +1,7 @@
 ---
-title: "Orange Book Overview and Functionality"
-description: "Explore the critical role of FDA's Orange Book in the pharmaceutical and financial sectors learn how drug approvals impact markets and guide investment strategies."
+title: FDA Orange Book Guide to Approved and Generic Drug Information
+description: FDA Orange Book provides monthly updates on approved and generic drug
+  equivalences with patent and rating details for informed choices Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Analysts: Roles and Evolution"
-description: "Explore the evolving role of quantitative analysts in finance who harness mathematical models and algorithms to innovate trading strategies and reshape markets."
+title: Understanding the Role of a Quantitative Analyst in Finance
+description: Quantitative analyst roles use math programming and data to build predictive
+  models manage risk and drive investment decisions Discover more inside
 ---
 
 

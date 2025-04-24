@@ -1,6 +1,7 @@
 ---
-title: "PEGY Ratio: Price/Earnings to Growth and Dividend Yield"
-description: "Explore the benefits of using the PEGY ratio in algorithmic trading for a nuanced stock evaluation by balancing growth potential and income generation."
+title: Understanding the PEGY Ratio for Comprehensive Stock Valuation
+description: PEGY ratio measures stock value by combining earnings and dividend growth
+  to highlight undervalued stocks for smarter investments Discover more inside.
 ---
 
 

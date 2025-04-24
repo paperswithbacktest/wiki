@@ -1,6 +1,7 @@
 ---
-title: "Positional Encoding (Machine Learning)"
-description: "Understand positional encoding in transformers how it provides sequence order information using sine and cosine functions to improve model comprehension of input data."
+title: Understanding Positional Encoding in Transformer Models
+description: Positional encoding helps transformer models understand word order via
+  sinusoidal and learned methods to improve sequence insight Discover more inside.
 ---
 
 

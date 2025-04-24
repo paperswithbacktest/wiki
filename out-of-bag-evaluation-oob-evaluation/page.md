@@ -1,6 +1,7 @@
 ---
-title: "Out-Of-Bag Evaluation (Oob Evaluation) (Machine Learning)"
-description: "Learn about Out-Of-Bag (OOB) evaluation an efficient way to assess random forest model performance, saving time by using OOB samples without extra data splits."
+title: Understanding Out Of Bag Evaluation for Random Forest Models
+description: Out Of Bag Evaluation delivers model performance estimates for random
+  forests without a test set and supports hyperparameter tuning Discover more inside
 ---
 
 ![Image](images/1.png)

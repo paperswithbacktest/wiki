@@ -1,6 +1,7 @@
 ---
-title: "Noon Average Rate Contract"
-description: "Explore the transformative role of Noon Average Rate Contracts in currency markets and how their principles inform modern algorithmic trading strategies."
+title: Understanding Noon Average Rate Contracts for Business Savings
+description: Noon Average Rate Contract helps businesses lock in lower midday electricity
+  rates to control energy costs and improve budgeting Discover more inside
 ---
 
 

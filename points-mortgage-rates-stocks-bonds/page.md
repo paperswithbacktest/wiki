@@ -1,6 +1,7 @@
 ---
-title: "Points in Mortgage Rates, Stocks, and Bonds"
-description: "Explore how mortgage rates stocks bonds and algorithmic trading interconnect influencing investment strategies and economic outcomes for informed decision-making."
+title: Understanding Points in Mortgage Rates, Stocks and Bonds
+description: Points in mortgage rates let you lower your interest rate upfront while
+  stock and bond point changes guide investment decisions Discover more inside
 ---
 
 

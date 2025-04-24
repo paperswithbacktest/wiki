@@ -1,6 +1,7 @@
 ---
-title: "Okcoin (OKX): History and Operations"
-description: "Explore the history and operations of OKX and Okcoin with a focus on algorithmic trading Discover robust tools for enhancing your cryptocurrency strategies"
+title: Okcoin OKX Cryptocurrency Exchange Platform Overview
+description: Okcoin OKX offers a secure and user friendly way to trade Bitcoin Ethereum
+  and more with advanced features and robust security Discover more inside.
 ---
 
 

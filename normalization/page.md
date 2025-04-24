@@ -1,6 +1,7 @@
 ---
-title: "Normalization (Machine Learning)"
-description: "Learn how normalization enhances machine learning models by scaling data to a common range to improve algorithm performance and convergence speed."
+title: Essential Data Normalization Techniques for Machine Learning
+description: Data normalization in machine learning aligns feature scales to boost
+  training efficiency with min-max and Z-score methods Discover more inside.
 ---
 
 ![Image](images/1.webp)

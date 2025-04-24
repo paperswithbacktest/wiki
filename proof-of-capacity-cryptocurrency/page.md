@@ -1,6 +1,7 @@
 ---
-title: "Proof of Capacity in Cryptocurrency"
-description: "Explore the energy-efficient Proof of Capacity consensus mechanism for cryptocurrencies and its implications for algorithmic trading within evolving blockchain technology."
+title: Proof of Capacity Explained for Energy Efficient Crypto Mining
+description: Proof of Capacity mining lets users secure blockchain using precomputed
+  hard drive plots for energy efficient and accessible minting Discover more inside
 ---
 
 

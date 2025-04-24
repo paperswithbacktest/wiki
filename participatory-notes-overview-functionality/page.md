@@ -1,6 +1,7 @@
 ---
-title: "Participatory Notes: Overview and Functionality"
-description: "Explore the role of Participatory Notes and algorithmic trading in finance They simplify foreign investments in India and enhance trading efficiency in markets"
+title: Understanding Participatory Notes and Their Market Impact
+description: Participatory Notes let foreign investors access Indian markets anonymously
+  while managing risks and transparency challenges Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Order Flow Imbalance Indicators"
-description: "Explore the importance of Order Flow Imbalance Indicators in high-frequency trading to gain insights into market dynamics and enhance algorithmic strategies."
+title: Understanding Order Flow Imbalance Indicators for Traders
+description: Order Flow Imbalance Indicators reveal buying and selling pressures so
+  traders identify market trends and improve timing Discover more inside
 ---
 
 

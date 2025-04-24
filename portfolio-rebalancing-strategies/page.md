@@ -1,6 +1,8 @@
 ---
-title: "Portfolio Rebalancing Strategies"
-description: "Optimize your investment outcomes with portfolio rebalancing strategies in algo trading Discover techniques to maintain balance and achieve financial goals"
+title: Professional Guide to Portfolio Rebalancing Strategies
+description: Portfolio rebalancing helps maintain your target asset allocation and
+  manage risk through methods like calendar and threshold rebalancing Discover more
+  inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Proof of Burn in Cryptocurrency"
-description: "Explore Proof of Burn in cryptocurrency and its role in algorithmic trading Discover how this consensus mechanism offers sustainable blockchain solutions"
+title: Understanding Proof of Burn Consensus in Cryptocurrency Networks
+description: Proof of Burn boosts blockchain security while reducing energy use by
+  permanently destroying coins to earn validation rights Discover more inside
 ---
 
 

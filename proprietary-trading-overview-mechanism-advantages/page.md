@@ -1,6 +1,7 @@
 ---
-title: "Proprietary Trading: Overview, Mechanism, and Advantages"
-description: "Explore the dynamics of proprietary and algorithmic trading Discover how these advanced trading strategies enhance efficiency profitability and market positioning"
+title: Comprehensive Guide to Proprietary Trading Mechanisms and Risks
+description: Proprietary trading deploys firm capital in algorithmic event driven
+  strategies with robust risk controls and real time insights Discover more inside
 ---
 
 

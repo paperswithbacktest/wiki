@@ -1,6 +1,7 @@
 ---
-title: "Principles-Based vs. Rules-Based Accounting"
-description: "Explore the crucial relationship between financial reporting accounting rules and principles in algo trading Understand how these affect trading strategies."
+title: Comparing Principles-Based and Rules-Based Accounting Methods
+description: Principles-based accounting uses broad guidelines to reflect true economic
+  reality while rules-based standards ensure consistency Discover more inside.
 ---
 
 

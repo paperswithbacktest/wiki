@@ -1,6 +1,7 @@
 ---
-title: "Optimum Currency Area Theory in Economics"
-description: "Explore the intersection of Optimum Currency Area theory and algorithmic trading, examining their impact on currency stability and monetary policy in economic unions."
+title: Understanding the Optimum Currency Area Theory and Criteria
+description: Optimum Currency Area Theory outlines when regions can adopt a shared
+  currency by ensuring labor mobility and fiscal integration Discover more inside
 ---
 
 

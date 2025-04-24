@@ -1,6 +1,7 @@
 ---
-title: "Online Inference (Machine Learning)"
-description: "Online inference in machine learning enables real-time predictions using trained models, essential for immediate-response applications like fraud detection."
+title: Understanding Online Inference for Real-Time Machine Learning
+description: Online inference powers real-time machine learning with instant predictions
+  and adaptive updates for drift management and reliability Discover more inside.
 ---
 
 ![Image](images/1.png)

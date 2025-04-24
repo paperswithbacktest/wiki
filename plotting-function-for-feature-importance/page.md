@@ -1,6 +1,7 @@
 ---
-title: "Plotting function for feature importance"
-description: Explore the critical role of feature importance in refining trading models for algorithmic trading. This guide investigates into visualizing feature relevance, essential for enhancing predictive accuracy and efficiency. Discover techniques to identify top influencing factors, streamline models, and adapt to market shifts. Unlock insights into making informed, data-driven trading decisions that align with industry standards and optimize performance.
+title: Understanding Feature Importance in Machine Learning Models
+description: Feature importance shows which data inputs drive your ML model and helps
+  simplify features for better performance and interpretability Discover more inside
 ---
 
 

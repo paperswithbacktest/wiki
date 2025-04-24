@@ -1,6 +1,7 @@
 ---
-title: "Python for Trading: The Ultimate Guide"
-description: Discover why Python is the go-to language in algorithmic trading, its rich libraries, community support, and interactivity making it ideal for data analysis, strategy development, and integration with other systems. Begin your trading journey with a step-by-step guide to installation and setup on various platforms.
+title: Python for Trading Guide to Data Analysis and Strategies
+description: Python for trading empowers you to analyze market data create visual
+  charts and automate strategies with Pandas NumPy and yfinance Discover more inside.
 ---
 
 

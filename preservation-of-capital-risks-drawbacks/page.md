@@ -1,6 +1,8 @@
 ---
-title: "Preservation of Capital: Risks and Drawbacks"
-description: "Discover the importance of capital preservation in algorithmic trading Learn about balancing growth with risk management to protect your investments effectively"
+title: Capital Preservation Strategies for Secure Long Term Investments
+description: Preservation of capital focuses on protecting your initial investment
+  while managing inflation and risks with low-risk assets and diversification Discover
+  more inside
 ---
 
 

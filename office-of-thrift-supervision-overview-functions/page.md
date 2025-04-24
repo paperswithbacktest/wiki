@@ -1,6 +1,7 @@
 ---
-title: "Office of Thrift Supervision: Overview and Functions"
-description: "Explore the legacy of the Office of Thrift Supervision and its impact on financial oversight while examining algorithmic trading's role in modern markets."
+title: Understanding the Office of Thrift Supervision Role and History
+description: Office of Thrift Supervision oversaw savings and loan associations with
+  rigorous risk checks and consumer safeguards from 1989 to 2011 Discover more inside
 ---
 
 

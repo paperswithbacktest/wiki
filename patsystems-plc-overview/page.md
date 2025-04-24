@@ -1,6 +1,7 @@
 ---
-title: "Patsystems PLC Overview"
-description: "Explore Patsystems Plc's cutting-edge trading platforms and risk management solutions designed for algorithmic and futures trading in global financial markets."
+title: Patsystems PLC Trading Platform History and Market Position
+description: Patsystems PLC offers a reliable electronic trading platform that connects
+  traders to global markets with real-time data and support. Discover more inside.
 ---
 
 

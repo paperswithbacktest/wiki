@@ -1,6 +1,7 @@
 ---
-title: "Overview of Fiscal and Monetary Policy"
-description: "Explore the dynamic interaction of fiscal and monetary policy as key economic management tools, alongside algorithmic trading's tech-based financial impacts."
+title: Fiscal And Monetary Policy Fundamentals For Economic Stability
+description: Fiscal and monetary policies guide economic growth and stability effectively
+  through spending taxes and interest rate tools Explore their impact inside
 ---
 
 

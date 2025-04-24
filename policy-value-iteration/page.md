@@ -1,6 +1,7 @@
 ---
-title: "Policy-Value Iteration"
-description: "Harness reinforcement learning methods like Policy-Value Iteration to enhance trading strategies in dynamic markets improving decision-making and reducing risks."
+title: Policy-Value Iteration Explained for Faster Reinforcement Learning
+description: Policy-Value Iteration combines policy and value updates to speed up
+  reinforcement learning convergence and improve decision making. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Objective Function (Machine Learning)"
-description: "Explore objective functions in machine learning and understand their role in guiding algorithms to improve model performance by minimizing or maximizing certain metrics."
+title: Understanding Objective Functions in Machine Learning Models
+description: Objective function guides machine learning models to optimal performance
+  by defining goals and driving parameter adjustments Discover more inside
 ---
 
 ![Image](images/1.jpeg)

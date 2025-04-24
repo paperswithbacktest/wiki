@@ -1,6 +1,7 @@
 ---
-title: "Overview of the International Monetary Fund"
-description: "Discover the intersection of algorithmic trading and AI with the IMF's role in economic stability Explore challenges, opportunities, and regulatory needs"
+title: Understanding the International Monetary Fund Structure and Role
+description: International Monetary Fund delivers support, guidance and economic surveillance
+  to boost stability and growth for members Discover more inside
 ---
 
 

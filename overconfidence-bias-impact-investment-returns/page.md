@@ -1,6 +1,7 @@
 ---
-title: "Overconfidence Bias and Its Impact on Investment Returns"
-description: "Discover how overconfidence bias affects investment returns and learn to mitigate its impact with insights from behavioral finance and algo trading strategies."
+title: Overconfidence Bias Impact On Investment Decision Making
+description: Overconfidence bias drives overtrading and neglect of diversification,
+  lowering returns. Use research and planning to manage risk Discover inside.
 ---
 
 

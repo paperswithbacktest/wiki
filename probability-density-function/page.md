@@ -1,6 +1,7 @@
 ---
-title: "Probability Density Function (Machine Learning)"
-description: "Explore the role of Probability Density Functions in machine learning. Understand how PDFs model data distributions and enhance algorithm precision."
+title: Understanding Probability Density Functions in Machine Learning
+description: Probability Density Functions model how data is distributed in machine
+  learning to improve predictions and decision making. Discover more inside.
 ---
 
 

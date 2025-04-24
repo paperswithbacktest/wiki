@@ -1,6 +1,7 @@
 ---
-title: "Quota"
-description: "Understand how allocation quotas manage capital in algorithmic trading ensuring efficient distribution and risk control for optimized trade execution and strategy success."
+title: Understanding Allocation Quotas in Algorithmic Trading
+description: Allocation Quota in algorithmic trading allocates capital using fixed
+  volume percentages or confidence based models to balance risk Discover more inside
 ---
 
 

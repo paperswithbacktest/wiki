@@ -1,6 +1,7 @@
 ---
-title: "Overview of Mutual Fund Prospectuses"
-description: "Discover the intricacies of mutual fund prospectuses and explore how algorithmic trading is revolutionizing modern finance for enhanced investment strategies."
+title: Understanding Mutual Fund Prospectus Components and Importance
+description: Mutual fund prospectus guides investors through fund objectives risks
+  fees and management details to support informed decisions Discover more inside
 ---
 
 

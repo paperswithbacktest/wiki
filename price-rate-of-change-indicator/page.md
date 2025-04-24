@@ -1,6 +1,7 @@
 ---
-title: "Price Rate of Change Indicator"
-description: "Discover the power of the Rate of Change (ROC) indicator, a crucial momentum-based tool in trading. This article offers a comprehensive guide on the ROC, covering its calculation, significance, and use in algorithmic trading to enhance decision-making. Learn how the ROC helps traders assess market momentum, anticipate trends, and make informed moves by identifying potential overbought or oversold conditions. Understand the limitations and optimize the application of ROC in trading strategies for improved performance and better market insights."
+title: Understanding the Price Rate of Change Indicator in Trading
+description: Price Rate of Change Indicator measures stock momentum by comparing current
+  and past prices to guide trading decisions Discover more inside
 ---
 
 

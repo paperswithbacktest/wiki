@@ -1,6 +1,8 @@
 ---
-title: "Quantity Supplied and Supply Curve Factors"
-description: "Explore how economic factors shape the supply curve and the role of algorithmic trading in modern markets. Learn to navigate supply dynamics effectively."
+title: Understanding Quantity Supplied And Supply Curve Dynamics
+description: Quantity supplied measures how much producers offer at various prices
+  and explores how costs technology and policies shift the supply curve Discover more
+  inside.
 ---
 
 

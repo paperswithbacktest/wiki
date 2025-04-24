@@ -1,6 +1,7 @@
 ---
-title: "Pre-Training (Machine Learning)"
-description: "Discover the power of pre-training in machine learning where models learn from vast datasets to enhance performance on specific tasks with less data."
+title: Understanding Pre-Training in Machine Learning Models
+description: Pre-training in machine learning builds core knowledge from broad datasets
+  to speed fine-tuning on specific tasks with limited data. Discover more inside
 ---
 
 

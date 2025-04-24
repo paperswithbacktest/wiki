@@ -1,6 +1,8 @@
 ---
-title: "Plm (Machine Learning)"
-description: "Explore Pre-trained Language Models (PLMs) in machine learning for efficient language processing adaptable to various tasks like translation and sentiment analysis."
+title: Implementing Pre-Trained Language Models in Machine Learning
+description: Pre-trained Language Models use extensive text data to master language
+  patterns for versatile NLP tasks like translation and summarization Discover more
+  inside
 ---
 
 

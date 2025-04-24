@@ -1,6 +1,7 @@
 ---
-title: "Options Contract Overview and Types"
-description: "Discover the intricacies of options contracts and algorithmic trading Learn how financial derivatives like call and put options can enhance trading strategies"
+title: Understanding Options Contracts and Trading Strategies
+description: Options contracts define your right to buy or sell assets at set prices
+  while managing risk and leverage in active trading Discover more inside.
 ---
 
 

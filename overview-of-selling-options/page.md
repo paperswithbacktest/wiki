@@ -1,6 +1,7 @@
 ---
-title: "Overview of Selling Options"
-description: "Discover the intersection of options and algorithmic trading focused on selling strategies Learn about the tools traders use for risk management and profitability"
+title: Mastering Option Selling Strategies For Investment Income
+description: Option selling helps investors earn income by collecting premiums and
+  controlling risks through covered calls and secure puts. Discover more inside.
 ---
 
 

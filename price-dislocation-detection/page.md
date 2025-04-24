@@ -1,6 +1,7 @@
 ---
-title: "Price Dislocation Detection"
-description: "Discover how algorithmic trading leverages advanced algorithms to detect price dislocation in financial markets enabling traders to capitalize on mispriced assets."
+title: Detecting Price Dislocation Opportunities in Financial Markets
+description: Price Dislocation detection helps investors spot mispriced assets by
+  leveraging market inefficiencies and real time analytics Discover more inside
 ---
 
 

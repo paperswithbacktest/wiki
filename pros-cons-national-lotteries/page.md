@@ -1,6 +1,7 @@
 ---
-title: "Pros and Cons of National Lotteries"
-description: "Explore the pros and cons of national lotteries and their integration with algo trading. Delve into benefits, drawbacks, and the impact on revenue and fairness."
+title: National Lotteries Driving Revenue and Community Development
+description: National lottery proceeds fund schools roads and healthcare while offering
+  a chance to win big prizes and support communities Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Phupinder Gill: Professional Overview"
-description: "Explore Phupinder Gill's influential role in advancing algorithmic trading at CME Group and his lasting impact on financial markets innovation and operations."
+title: Phupinder Gill Leadership At Chicago Mercantile Exchange
+description: Phupinder Gill transformed the Chicago Mercantile Exchange through strategic
+  mergers and tech upgrades fueling growth Discover more inside today
 ---
 
 

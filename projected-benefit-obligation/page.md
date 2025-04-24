@@ -1,6 +1,7 @@
 ---
-title: "Projected Benefit Obligation"
-description: "Explore the intersection of actuarial accounting and algorithmic trading in pension management Discover how these elements shape future financial strategies"
+title: Understanding Projected Benefit Obligation For Pension Planning
+description: Projected Benefit Obligation estimates required funding for future pension
+  liabilities by factoring salary growth and interest rates Discover more inside
 ---
 
 

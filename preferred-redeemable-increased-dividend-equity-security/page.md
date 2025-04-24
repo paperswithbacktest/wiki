@@ -1,6 +1,7 @@
 ---
-title: "Preferred Redeemable Increased Dividend Equity Security"
-description: "Explore the innovative Preferred Redeemable Increased Dividend Equity Securities (PRIDES) and their fusion of equity and fixed-income features with algorithmic trading."
+title: Understanding Preferred Redeemable Increased Dividend Securities
+description: PRIDES offer growing dividend income and company redemption flexibility
+  helping investors boost income growth while managing risk Discover more inside.
 ---
 
 

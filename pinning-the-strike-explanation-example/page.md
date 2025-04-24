@@ -1,6 +1,7 @@
 ---
-title: "Pinning the Strike: Explanation and Example"
-description: "Explore the dynamics of 'pinning the strike' in options trading and understand its link with market forces like labor strikes and algorithmic trading strategies."
+title: Understanding Pinning the Strike in Options Trading
+description: Pinning the Strike in options trading causes stocks to hover near strike
+  price at expiry, affecting trading decisions and strategies. Discover more inside.
 ---
 
 

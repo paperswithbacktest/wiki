@@ -1,6 +1,7 @@
 ---
-title: "Protecting Investment Portfolios from Inflation and Deflation"
-description: "Enhance investment portfolio resilience with algorithmic trading strategies tailored for inflation and deflation conditions to protect and optimize financial outcomes."
+title: Protecting Investment Portfolios From Inflation and Deflation
+description: Inflation and deflation can erode returns but diversifying into stocks
+  bonds real estate and commodities helps protect portfolios Discover more inside
 ---
 
 

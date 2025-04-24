@@ -1,6 +1,7 @@
 ---
-title: "Police Funding Reform"
-description: "Explore the multifaceted intersection of law enforcement funding police reform and algorithmic trading with insights into resource optimization and fair policing strategies."
+title: Reallocating Police Funding to Strengthen Community Services
+description: Police funding reform reshapes city budgets by boosting mental health
+  support and social services to improve safety Discover more inside
 ---
 
 

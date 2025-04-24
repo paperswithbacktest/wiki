@@ -1,6 +1,7 @@
 ---
-title: "Predictive Parity (Machine Learning)"
-description: "Predictive Parity ensures machine learning models are fair by making predictions equally accurate for all groups reducing bias based on race or gender."
+title: Achieving Predictive Parity in Machine Learning Models
+description: Predictive Parity ensures your machine learning models make fair and
+  accurate positive predictions across all groups. Discover more inside today.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Proven Reserves: Definition and Function"
-description: "Explore proven reserves and algorithmic trading's role in shaping energy markets. Learn how these elements enhance economic stability and market prediction."
+title: Understanding Proven Reserves for Energy Resource Planning
+description: Proven Reserves help energy firms and governments plan production and
+  forecast supply with reliable data and advanced tools Discover more inside
 ---
 
 

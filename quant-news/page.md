@@ -1,6 +1,7 @@
 ---
-title: "Quant New"
-description: Explore the role of quantitative news analysis in algorithmic trading and its transformative impact on financial markets. Discover how advanced technologies like natural language processing and machine learning convert textual data into actionable trading insights. Learn about the processes, benefits, and future developments of quant news in trading strategies, allowing traders to make informed decisions and gain a competitive edge in fast-paced environments.
+title: Quant New Investment Funds With Advanced Algorithms And Data
+description: Quant New investment funds leverage algorithms and data sources to guide
+  trading decisions with reduced bias and faster execution Discover more inside
 ---
 
 

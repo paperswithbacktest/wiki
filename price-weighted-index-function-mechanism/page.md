@@ -1,6 +1,7 @@
 ---
-title: "Price-Weighted Index: Function and Mechanism"
-description: "Discover how price-weighted indices function and their impact on algorithmic trading with insights into market trends and strategic trading execution."
+title: Price-Weighted Indexes Explained And Their Market Impact
+description: Price-weighted index values stocks by share price not market cap to show
+  how high-priced stocks drive index movements Discover more insights inside.
 ---
 
 

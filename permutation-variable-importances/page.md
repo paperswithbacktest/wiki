@@ -1,6 +1,7 @@
 ---
-title: "Permutation Variable Importances (Machine Learning)"
-description: "Understand machine learning model's feature importance with Permutation Variable Importance. Identify crucial features by shuffling values and observing performance changes."
+title: Understanding Permutation Variable Importance in Machine Learning
+description: Permutation Variable Importance shows which features drive your model
+  by shuffling values and measuring prediction changes Discover more inside
 ---
 
 

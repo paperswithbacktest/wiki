@@ -1,6 +1,7 @@
 ---
-title: "Order Protection Rule"
-description: "Discover how the Order Protection Rule in algorithmic trading safeguards investors by ensuring trades are executed at the best available prices across markets."
+title: Understanding the Order Protection Rule in Stock Trading
+description: Order Protection Rule ensures investors get the best available stock
+  price by enforcing fair trade execution across markets. Discover more inside.
 ---
 
 

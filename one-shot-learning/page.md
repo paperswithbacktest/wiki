@@ -1,6 +1,7 @@
 ---
-title: "One-Shot Learning (Machine Learning)"
-description: "Discover the power of One-Shot Learning in machine learning where models recognize new objects from minimal examples ideal for rare data challenges."
+title: One-Shot Learning Techniques for Rapid Machine Recognition
+description: One-Shot Learning enables models to recognize new objects with just a
+  single example using Siamese networks and metric learning. Discover more inside.
 ---
 
 ![Image](images/1.png)

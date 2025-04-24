@@ -1,6 +1,7 @@
 ---
-title: "Origins of Supply and Demand Law"
-description: "Explore how the fundamental law of supply and demand shapes algorithmic trading strategies by predicting market dynamics and optimizing investment outcomes."
+title: Supply and Demand Principles Shaping Economic Markets
+description: Supply and Demand fundamentals explain how market forces set prices and
+  quantities from classical theory to modern markets Discover more inside
 ---
 
 

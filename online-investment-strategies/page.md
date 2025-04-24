@@ -1,6 +1,7 @@
 ---
-title: "Online Investment Strategies"
-description: "Explore the world of digital investing and algorithmic trading and discover how online platforms provide unprecedented access and strategies for modern investors."
+title: Complete Guide to Online Investing Strategies and Platforms
+description: Online investing empowers you to build a diversified portfolio with the
+  right platforms budgeting and risk tactics for beginners Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Ocean Tomo"
-description: "Explore the intersection of intellectual property valuation and algorithmic trading to enhance your business strategy and investment decisions in the digital age."
+title: Ocean Tomo Intellectual Property Valuation And Auction Services
+description: Ocean Tomo helps businesses value and monetize intellectual property
+  with expert valuation legal support and patent auctions. Discover more inside.
 ---
 
 

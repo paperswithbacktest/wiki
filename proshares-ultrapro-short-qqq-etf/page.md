@@ -1,6 +1,7 @@
 ---
-title: "ProShares UltraPro Short QQQ ETF (SQQQ)"
-description: "Discover ProShares UltraPro Short QQQ ETF SQQQ focusing on 3x leveraged inverse trading and algorithmic strategies ideal for short-term market downturns."
+title: ProShares UltraPro Short QQQ ETF SQQQ Leverage and Risks
+description: SQQQ offers triple inverse Nasdaq-100 exposure for short term traders
+  managing daily leverage risk and reward for active trading Discover more inside
 ---
 
 

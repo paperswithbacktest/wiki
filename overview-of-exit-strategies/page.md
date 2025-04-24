@@ -1,6 +1,7 @@
 ---
-title: "Overview of Exit Strategies"
-description: "Explore key exit strategies in algorithmic trading and business planning Learn how to efficiently manage risk secure profits and adapt to market changes"
+title: Developing an Exit Strategy in Business That Maximizes Value
+description: Exit strategy in business helps owners plan a profitable departure by
+  boosting value through growth team building and legal readiness Discover more inside.
 ---
 
 

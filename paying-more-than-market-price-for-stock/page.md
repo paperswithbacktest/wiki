@@ -1,6 +1,7 @@
 ---
-title: "Understanding Paying More Than Market Price for a Stock"
-description: "Explore why investors might pay more than the market price for a stock in the context of algorithmic trading and its impact on liquidity and volatility."
+title: Why Investors Overpay for Stocks Above Market Price
+description: Overpay for stocks above market price increases loss risk Compare market
+  price to intrinsic value to effectively avoid overpaying Discover more inside
 ---
 
 

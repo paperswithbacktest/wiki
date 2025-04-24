@@ -1,6 +1,7 @@
 ---
-title: "Overview of Coinme"
-description: "Coinme simplifies cryptocurrency access through Bitcoin ATMs and partnerships, offering a user-friendly platform for buying, selling, and trading digital currencies efficiently."
+title: Coinme Cash To Crypto Made Easy With Coinstar Kiosks
+description: Coinme lets beginners buy and sell cryptocurrency with cash at Coinstar
+  kiosks nationwide while securing funds in a simple wallet app. Discover more inside
 ---
 
 

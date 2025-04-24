@@ -1,6 +1,7 @@
 ---
-title: "Prepetition Liability: Definition, Function, and Limitations"
-description: "Explore the intricacies of prepetition liability in algorithmic trading examining its impact on bankruptcy, financial obligations, and strategic management."
+title: Understanding Prepetition Liability in Bankruptcy Proceedings
+description: Prepetition liability determines bankruptcy debt priority and repayment
+  Manage obligations, secure creditor interests Discover more inside
 ---
 
 

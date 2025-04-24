@@ -1,6 +1,7 @@
 ---
-title: "Purchasing Pundi X Cryptocurrency"
-description: "Explore how to buy Pundi X cryptocurrency and leverage algorithmic trading for optimal investment strategies in the dynamic crypto market."
+title: Complete Guide To Buying And Securing Pundi X Cryptocurrency
+description: Pundi X simplifies crypto payments and guides you through buying storing
+  and securing NPXS tokens with POS machines and wallets Discover more inside
 ---
 
 

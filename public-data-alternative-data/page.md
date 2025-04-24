@@ -1,6 +1,7 @@
 ---
-title: "Public Data Alternative Data"
-description: Explore the use of public and alternative data in algorithmic trading to enhance market insights and optimize strategies. Discover how traders combine traditional and non-traditional data sources to gain a competitive edge with timely and unique information. Learn about the benefits and challenges of integrating diverse data sets like social media sentiment and satellite imagery.
+title: Navigating Public Data and Alternative Data for Smarter Decisions
+description: Public data and alternative data provide clear definitions, applications
+  and benefits for research business decisions and analytics Discover more inside
 ---
 
 

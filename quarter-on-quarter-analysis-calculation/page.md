@@ -1,6 +1,7 @@
 ---
-title: "Quarter-on-Quarter Analysis and Calculation"
-description: "Explore how Quarter-on-Quarter analysis enhances algo trading by offering insights into short-term financial trends and seasonal fluctuations in market performance."
+title: Quarter-on-Quarter Analysis For Business Decision Making
+description: Quarter-on-Quarter Analysis reveals short-term performance shifts by
+  comparing quarterly results enabling timely adjustments Discover more inside.
 ---
 
 

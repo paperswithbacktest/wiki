@@ -1,6 +1,7 @@
 ---
-title: "Percentage Change Calculation"
-description: "Discover the vital role of percentage change in algorithmic trading Enhance your trading strategies by understanding market dynamics through price movements and trends"
+title: Mastering Percentage Change Calculation For Financial Analysis
+description: Percentage change shows growth or decline with clear formulas from basic
+  calculation to compound methods ensuring accurate analysis Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Price Efficiency: Concept, Examples, and Limitations"
-description: "Explore the concept of price efficiency in financial markets, its implications in algorithmic trading, and understand its limitations in modern economic analysis."
+title: Understanding Price Efficiency in Financial Markets
+description: Price efficiency ensures market prices reflect all known information
+  so investors make informed decisions and trust fair valuations Discover more inside
 ---
 
 

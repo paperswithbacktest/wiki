@@ -1,6 +1,7 @@
 ---
-title: "Origin of the Name 'Wall Street'"
-description: "Explore the historical roots and modern impact of Wall Street and algorithmic trading The article examines their origins and how technology shapes financial markets today"
+title: Wall Street Origins and Its Enduring Global Economic Influence
+description: Wall Street has evolved from a 17th century defense wall into the center
+  of global finance, shaping markets and economies worldwide. Discover more inside.
 ---
 
 

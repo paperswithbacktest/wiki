@@ -1,6 +1,7 @@
 ---
-title: "Quant Reading List: Python Programming"
-description: Discover how Python is revolutionizing algorithmic trading and quantitative finance with its simplicity, versatility, and extensive library support. This comprehensive guide investigates into Python's role in automating trading decisions, enhancing trading efficiency, and minimizing emotional biases. Explore key Python libraries like NumPy, pandas, and Matplotlib, crucial for financial data manipulation and analysis, and gain insights into building robust trading strategies. Ideal for both beginners and experts, this article highlights Python's scalability, community support, and its growing influence in the financial industry.
+title: Comprehensive Python Fundamentals Guide For Beginners
+description: Python fundamentals guide explains data types control structures functions
+  modules and advanced libraries in a clear format Discover more inside
 ---
 
 

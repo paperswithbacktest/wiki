@@ -1,6 +1,7 @@
 ---
-title: "Profitability of Couch-Potato Portfolios"
-description: "Explore the simplicity and profitability of couch-potato portfolios in algo trading Learn about passive investing strategy and how to enhance it with algorithmic solutions"
+title: Building a Simple Couch-Potato Portfolio for Steady Growth
+description: Couch-Potato Portfolio simplifies investing using low-cost index funds
+  and minimal maintenance for consistent long-term growth. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Overcoming Bad Trading Habits and Adhering to Rules"
-description: "Learn to overcome bad trading habits and adhere to rules in algo trading Enhance your skills with sound strategies discipline and effective habits"
+title: Effective Strategies To Overcome Bad Trading Habits
+description: Trading habits can make or break performance without disciplined planning
+  risk management and a journal to track emotions and trades Discover more inside
 ---
 
 

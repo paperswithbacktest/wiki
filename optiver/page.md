@@ -1,6 +1,7 @@
 ---
-title: "Optiver"
-description: "Explore Optiver's pivotal role in algorithmic trading, leveraging advanced technology for efficient trading strategies that enhance market liquidity and decision-making."
+title: 'Optiver Overview: Trading Technology and Global Market Impact'
+description: Optiver uses advanced algorithms and smart math to enhance market liquidity
+  and manage risk for fair trading environments Discover more inside.
 ---
 
 

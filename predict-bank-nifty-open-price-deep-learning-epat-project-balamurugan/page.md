@@ -1,6 +1,7 @@
 ---
-title: "Predicting Bank Nifty Open Price with Deep Learning (EPAT Project)"
-description: Predict Bank Nifty open prices with deep learning using advanced algorithms and strategies. Gain insights into economic indicators and market sentiment. Enhance trading decisions with technical and fundamental analyses for improved forecast accuracy in a dynamic banking sector market.
+title: Bank Nifty Open Price Prediction With Deep Learning Models
+description: Bank Nifty open price prediction uses deep learning with LSTM and GRU
+  to forecast market openings and reduce trading risk Discover more inside.
 ---
 
 

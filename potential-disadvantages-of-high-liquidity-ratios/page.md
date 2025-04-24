@@ -1,6 +1,7 @@
 ---
-title: "Potential Disadvantages of High Liquidity Ratios"
-description: "Explore potential drawbacks of high liquidity ratios in algorithmic trading and understand their impact on market behavior and investment strategies."
+title: Liquidity Ratios And Their Role In Business Financial Health
+description: Liquidity ratios reveal how a company can meet short term obligations
+  while exposing cash management risks and opportunity costs Discover more inside.
 ---
 
 

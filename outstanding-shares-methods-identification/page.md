@@ -1,6 +1,7 @@
 ---
-title: "Outstanding Shares and Methods of Identification"
-description: "Explore the essential concepts of outstanding shares and algorithmic trading Learn how stock identification impacts trading strategies and enhances decision-making in today's market"
+title: Outstanding Shares Explained Impact on Market Cap and EPS
+description: Outstanding Shares reveal a companys circulating equity and shape market
+  cap EPS and dilution from splits buybacks or issuances Discover more inside.
 ---
 
 

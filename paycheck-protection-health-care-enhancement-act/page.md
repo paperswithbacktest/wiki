@@ -1,6 +1,7 @@
 ---
-title: "Paycheck Protection and Health Care Enhancement Act"
-description: "Explore the Paycheck Protection and Health Care Enhancement Act's role in stabilizing small businesses and strengthening healthcare during the COVID-19 crisis."
+title: Paycheck Protection and Health Care Enhancement Act Explained
+description: Paycheck Protection and Health Care Enhancement Act provides $310B in
+  PPP loans plus $100B for hospitals testing to curb COVID-19 Discover more inside
 ---
 
 

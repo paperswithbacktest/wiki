@@ -1,6 +1,7 @@
 ---
-title: "Principal component analysis (PCA)"
-description: Explore the significance of Principal Component Analysis (PCA) in algorithmic trading as a crucial technique for simplifying complex datasets and enhancing trading strategies. Learn how PCA reduces data dimensionality, identifies key market factors, and optimizes portfolios to aid in risk management and decision-making, while understanding its limitations and practical applications within this field.
+title: Principal Component Analysis Guide for Effective Data Reduction
+description: Principal Component Analysis simplifies data by creating new variables
+  that capture major variation and reduce dimensionality Discover more inside.
 ---
 
 

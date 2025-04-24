@@ -1,6 +1,7 @@
 ---
-title: "Pre-Reimbursement Expense Ratio"
-description: "Explore the impact of expense ratios and reimbursement practices on algorithmic trading strategies for enhanced investment performance and cost efficiency."
+title: Pre-Reimbursement Expense Ratio Explained for Informed Investing
+description: Pre-Reimbursement Expense Ratio reveals true fund costs before waivers
+  so investors can compare funds and plan for long term growth Discover more inside
 ---
 
 

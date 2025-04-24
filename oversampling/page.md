@@ -1,6 +1,7 @@
 ---
-title: "Oversampling (Machine Learning)"
-description: "Explore oversampling in machine learning to balance imbalanced datasets using techniques like SMOTE improve model performance on minority classes efficiently."
+title: Effective Oversampling Techniques for Imbalanced Machine Learning
+description: Oversampling in machine learning balances imbalanced data by creating
+  synthetic minority examples to boost model accuracy and fairness Discover more inside
 ---
 
 ![Image](images/1.png)

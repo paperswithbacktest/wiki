@@ -1,6 +1,7 @@
 ---
-title: "Pass-Through Rate: Mechanism and Examples"
-description: "Explore the key role of pass-through rates in algorithmic trading with mortgage-backed securities understanding their impact on investor returns in changing economic landscapes."
+title: Pass-Through Rates Explained for Smarter Investment Decisions
+description: Pass-Through Rate shows how much investment earnings get passed to investors
+  using clear examples so you can compare REITs and funds Discover more inside.
 ---
 
 

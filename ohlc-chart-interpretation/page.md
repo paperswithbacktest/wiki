@@ -1,6 +1,7 @@
 ---
-title: "OHLC Chart Interpretation"
-description: "Understand the power of OHLC charts in financial market analysis Discover how Open High Low Close charts aid in technical analysis and algorithmic trading strategies."
+title: Complete Guide to Reading and Interpreting OHLC Charts
+description: OHLC chart analysis helps traders visualize price movements and identify
+  key patterns for informed decisions using volume indicators. Discover more inside.
 ---
 
 

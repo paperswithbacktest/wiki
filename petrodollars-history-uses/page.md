@@ -1,6 +1,7 @@
 ---
-title: "Petrodollars: History and Uses"
-description: "Explore the intricate relationship between petrodollars, currency markets, and algorithmic trading in shaping global economic policies and financial stability."
+title: Understanding Petrodollars and Their Impact on the Global Economy
+description: Petrodollars support the US dollar and global trade by fueling dollar
+  demand in oil markets and funding sovereign wealth projects Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Outperform in Finance and Investing"
-description: "Explore how algorithmic trading transforms finance with advanced strategies for rapid, efficient trades. Learn about its advantages, challenges, and impacts."
+title: Personal Finance Principles and Investment Strategies Guide
+description: Personal finance covers budgeting, debt management, investing basics,
+  diversification and risk assessment to secure your future Discover more inside.
 ---
 
 

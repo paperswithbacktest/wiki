@@ -1,6 +1,7 @@
 ---
-title: "Overallotment in Financial Markets"
-description: "Explore the interplay between overallotment stock offerings and algorithmic trading in financial markets to understand modern IPO price stabilization and market dynamics."
+title: Understanding Overallotment Options for IPO Price Stability
+description: Overallotment option lets underwriters sell extra shares to meet demand
+  and stabilize IPO prices by adjusting share supply Discover more inside.
 ---
 
 

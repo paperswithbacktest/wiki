@@ -1,6 +1,7 @@
 ---
-title: "Positive Correlation Between Inflation and Unemployment"
-description: "Explore the complex link between inflation and unemployment, and see how algorithmic trading offers insights into these key economic indicators for smarter investing."
+title: Analyzing Inflation and Unemployment Positive Correlations
+description: Inflation and unemployment dynamics show how price shifts and job market
+  changes interact and evolve across economies in real time Discover more inside.
 ---
 
 

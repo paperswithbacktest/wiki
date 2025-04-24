@@ -1,6 +1,7 @@
 ---
-title: "Price Formation"
-description: "Price formation is key in algorithmic trading influencing trade decisions and market efficiency As traders decode price dynamics they better optimize strategies"
+title: Comprehensive Guide to Price Formation Across Market Structures
+description: Price formation explains how supply and demand market participants and
+  other factors shape prices in different market structures. Discover more inside.
 ---
 
 

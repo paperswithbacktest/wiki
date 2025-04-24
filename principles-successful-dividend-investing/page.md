@@ -1,6 +1,7 @@
 ---
-title: "Principles of Successful Dividend Investing"
-description: "Discover the synergy between dividend investing and algorithmic trading to optimize portfolio performance by leveraging income growth and strategic trading."
+title: Dividend Investing Guide To Building Sustainable Income
+description: Dividend investing builds steady income by selecting quality stocks reinvesting
+  payouts and managing risk for sustainable growth Discover more inside.
 ---
 
 

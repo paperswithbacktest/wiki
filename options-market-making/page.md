@@ -1,6 +1,8 @@
 ---
-title: "Options market-making"
-description: "Explore the intricacies of options market-making through algorithmic trading Discover key strategies used by market makers to enhance liquidity and efficiency"
+title: Professional Options Market-Maker Roles Strategies Explained
+description: Options market-maker functions involve providing liquidity managing risk
+  and optimizing trades actively with hedging strategies and tech tools Discover more
+  inside.
 ---
 
 

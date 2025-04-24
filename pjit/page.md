@@ -1,6 +1,7 @@
 ---
-title: "Pjit (Machine Learning)"
-description: "Pjit accelerates large machine learning models by efficiently partitioning tasks across a computer's resources, enhancing speed and data handling capabilities."
+title: Optimizing Machine Learning with Pjit Partitioned JIT
+description: Pjit boosts large machine learning model performance by partitioning
+  workloads across resources and optimizing memory use. Discover more inside.
 ---
 
 

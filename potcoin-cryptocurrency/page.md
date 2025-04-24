@@ -1,6 +1,7 @@
 ---
-title: "PotCoin Cryptocurrency"
-description: "Discover how PotCoin, a niche cryptocurrency tailored for the cannabis industry, partners with algo trading for efficient, secure transactions."
+title: PotCoin Cryptocurrency Guide for the Cannabis Industry
+description: PotCoin offers a secure blockchain payment solution tailored for the
+  cannabis industry to streamline transactions without banks Discover more inside.
 ---
 
 

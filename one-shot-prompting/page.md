@@ -1,6 +1,7 @@
 ---
-title: "One-Shot Prompting (Machine Learning)"
-description: "Explore how one-shot prompting in machine learning enables models to perform tasks with just one example efficiently, saving time and resources."
+title: Understanding One-Shot Prompting in Machine Learning Models
+description: One-Shot Prompting boosts machine learning by teaching models new tasks
+  with a single example and embeddings for quick adaptation Discover more inside
 ---
 
 ![Image](images/1.jpeg)

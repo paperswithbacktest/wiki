@@ -1,6 +1,7 @@
 ---
-title: "Open Offer and Rights Issue"
-description: "Explore the dynamics of stock offerings like rights issues and open offers, and discover how algorithmic trading is reshaping capital-raising strategies."
+title: Corporate Finance Open Offers and Rights Issues Explained
+description: Open offer and rights issue guide clarifies how companies raise capital
+  or change control by selling shares to shareholders Discover more inside
 ---
 
 

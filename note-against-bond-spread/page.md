@@ -1,6 +1,7 @@
 ---
-title: "Note Against Bond Spread"
-description: "Explore the synergy between bond spreads and algorithmic trading in this insightful guide Enhance your investment strategies with data-driven approaches in modern markets"
+title: Understanding Note Against Bond Spread in Debt Markets
+description: Note against bond spread shows yield difference between issuer short
+  and long term debt guiding risk assessment for investments Discover more inside
 ---
 
 

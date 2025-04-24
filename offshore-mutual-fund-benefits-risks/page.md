@@ -1,6 +1,7 @@
 ---
-title: "Offshore Mutual Fund: Benefits and Risks"
-description: "Explore the benefits and challenges of offshore mutual funds in algorithmic trading including tax advantages international diversification and potential risks."
+title: Understanding Offshore Mutual Funds Benefits and Risks
+description: Offshore mutual funds offer tax advantages and global diversification
+  while highlighting critical risks and regulatory factors Discover more inside
 ---
 
 

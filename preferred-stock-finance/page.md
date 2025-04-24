@@ -1,6 +1,7 @@
 ---
-title: "Preferred Stock (Finance)"
-description: "Explore the synergy between preferred stocks and algo trading innovative approaches enabling enhanced dividend claims while optimizing trading strategies."
+title: Comprehensive Guide to Preferred Stock Types Benefits and Risks
+description: Preferred stock delivers fixed dividends and priority asset claims to
+  reduce risk and covers types tax implications and conversion Discover more inside
 ---
 
 

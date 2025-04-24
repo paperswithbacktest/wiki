@@ -1,6 +1,7 @@
 ---
-title: "Portable Alpha: Definition and Mechanism"
-description: "Discover the strategic innovation of portable alpha in investment strategies and explore how separating active returns from market exposure can enhance diversification and potential returns. Learn about the transformative role of algorithmic trading in executing these sophisticated strategies, improving trade efficiency, and risk management to create robust investments that navigate today's complex financial markets effectively."
+title: Understanding Portable Alpha Strategies for Improved Returns
+description: Portable Alpha separates investment skill from market exposure to boost
+  risk adjusted returns and diversify portfolios Discover more inside.
 ---
 
 

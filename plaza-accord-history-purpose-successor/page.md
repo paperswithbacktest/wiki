@@ -1,6 +1,7 @@
 ---
-title: "Plaza Accord: History, Purpose, and Successor"
-description: "The page discusses the history and effects of the Plaza Accord, an international agreement signed in 1985 by the United States, France, Germany, the United Kingdom, and Japan to address the overvaluation of the U.S. dollar and its impact on global trade imbalances. It examines the motivations behind the Accord, its immediate effects on curbing the dollar's value, and subsequent international monetary policies. The Accord's legacy includes influencing modern currency interventions and the rise of algorithmic trading as a tool for managing currency markets in today's global economy."
+title: Understanding the Plaza Accord Impact on Global Currency Markets
+description: Plaza Accord reshaped currency values to boost US exports and restore
+  trade balance through coordinated dollar interventions. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Oil Sands"
-description: "Explore the impact of oil sands on the global energy market and how algorithmic trading enhances its economic viability while addressing environmental concerns."
+title: Oil Sands Extraction Methods and Environmental Impacts
+description: Oil sands extraction deploys advanced methods to boost production reduce
+  emissions restore land and support economic growth Discover more inside.
 ---
 
 

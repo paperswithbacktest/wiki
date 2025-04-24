@@ -1,6 +1,7 @@
 ---
-title: "Quantitative behavioral finance"
-description: "Explore quantitative behavioral finance in algorithmic trading, where psychological insights and biases enhance market modeling and refine automated trading strategies."
+title: Quantitative Behavioral Finance Principles and Applications
+description: Quantitative behavioral finance uses data and models to uncover how emotions
+  and biases influence investment choices Discover actionable insights inside
 ---
 
 

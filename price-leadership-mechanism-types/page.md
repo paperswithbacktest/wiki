@@ -1,6 +1,8 @@
 ---
-title: "Price Leadership Mechanism and Types"
-description: "Discover the intricate dynamics of oligopolistic markets with a focus on price leadership and its impact on trading strategies. Explore how algorithmic trading enhances market efficiency and price discovery, providing strategic tools for companies within oligopolies. Understand various models of price leadership and the role of advanced trading algorithms in anticipating market conditions and competitor actions to maintain competitive advantage."
+title: Price Leadership Mechanisms Explained for Competitive Markets
+description: Price leadership mechanisms define how leading firms set industry prices
+  and guide competitors to follow ensuring market stability and predictability Discover
+  more inside.
 ---
 
 

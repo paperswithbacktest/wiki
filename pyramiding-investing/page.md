@@ -1,6 +1,7 @@
 ---
-title: "Pyramiding in Investing"
-description: "Explore the potential of pyramiding in algorithmic trading with strategies that maximize profits using accrued gains while minimizing risks and human biases."
+title: Pyramiding Strategy in Investing for Portfolio Growth
+description: Pyramiding in investing helps you build positions using profits and technical
+  analysis to manage risk and maximize returns Discover more inside
 ---
 
 

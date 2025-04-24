@@ -1,6 +1,7 @@
 ---
-title: "Pipeline (Machine Learning)"
-description: "Simplify machine learning with pipelines which organize and automate data workflows ensuring efficient and consistent processing from raw data to model output."
+title: Comprehensive Guide to Building Machine Learning Pipelines
+description: Machine learning pipelines automate preprocessing modeling and evaluation
+  for consistent reliable results while streamlining workflow Discover more inside
 ---
 
 

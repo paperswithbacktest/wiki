@@ -1,6 +1,8 @@
 ---
-title: "Purchasing Fractional Shares Through Fidelity Investments"
-description: "Invest in high-value stocks with minimal funds through fractional shares on Fidelity Discover algorithmic trading benefits and democratize your investment journey"
+title: Professional Guide to Buying Fractional Shares with Fidelity
+description: Fractional shares let investors buy parts of expensive stocks with as
+  little as $1 while diversifying portfolios and setting up automatic investments
+  Discover more inside
 ---
 
 

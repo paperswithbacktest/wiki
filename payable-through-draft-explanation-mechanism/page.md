@@ -1,6 +1,7 @@
 ---
-title: "Payable-Through-Draft: Explanation and Mechanism"
-description: "Learn about Payable-Through-Drafts and their role in simplifying banking and algorithmic trading transactions with enhanced security and efficiency."
+title: Payable Through Drafts For Secure International Business Payments
+description: Payable Through Drafts simplify international payments with trusted bank
+  guarantees to secure funds and confirm goods delivery Discover more inside
 ---
 
 

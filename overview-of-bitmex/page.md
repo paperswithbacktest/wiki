@@ -1,6 +1,7 @@
 ---
-title: "Overview of BitMEX"
-description: "Explore BitMEX's advanced algorithmic trading features for cryptocurrency. Discover tools for portfolio management, swift trades, and maximizing returns efficiently."
+title: BitMEX Cryptocurrency Futures And Margin Trading Platform
+description: BitMEX offers leveraged cryptocurrency futures and perpetual contracts
+  backed by multi signature security and precision margin control Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Permanent Wyoming Mineral Trust Fund"
-description: "Explore the Wyoming Mineral Trust Fund's strategic role in state economy with insights on its history, economic impact, and use of algorithmic trading for asset management."
+title: Permanent Wyoming Mineral Trust Fund Secures Future State Revenue
+description: Permanent Wyoming Mineral Trust Fund invests oil and gas revenues to
+  support state budget and services during industry downturns. Discover more inside
 ---
 
 

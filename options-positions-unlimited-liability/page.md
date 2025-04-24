@@ -1,6 +1,7 @@
 ---
-title: "Options Positions with Unlimited Liability"
-description: "Understand the risks of options trading with unlimited liability such as naked positions and explore strategies like algorithmic trading to manage and mitigate losses."
+title: Understanding Unlimited Liability in Options Trading
+description: Unlimited Liability in Options Trading poses significant risk but can
+  be limited with hedges stop loss orders and margin controls Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Online (Machine Learning)"
-description: "Discover the benefits of online machine learning how it quickly adapts to new data enhancing accuracy and efficiency, ideal for real-time applications."
+title: Understanding Online Machine Learning and Its Key Concepts
+description: Online machine learning updates models with each new data point for efficient
+  streaming predictions and concept drift handling Discover more inside
 ---
 
 ![Image](images/1.jpeg)

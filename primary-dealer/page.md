@@ -1,6 +1,7 @@
 ---
-title: "Primary Dealer"
-description: "Explore the synergy between government securities primary dealers and algorithmic trading in financial markets highlighting the dynamics shaping modern finance."
+title: The Role of Primary Dealers in Government Securities Markets
+description: Primary dealers enable governments to raise funds by trading securities
+  directly, ensuring market liquidity and sharing vital insights Discover more inside
 ---
 
 

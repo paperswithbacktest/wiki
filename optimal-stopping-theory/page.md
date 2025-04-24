@@ -1,6 +1,7 @@
 ---
-title: "Optimal Stopping Theory"
-description: "Optimal Stopping Theory enhances decision-making in algorithmic trading by providing tools to determine the optimal timing for buy or sell actions, boosting returns."
+title: Optimal Stopping Theory Explained for Real-World Decisions
+description: Optimal Stopping Theory helps you pick the right moment to act by evaluating
+  sequential choices and balancing risk and reward Discover more inside
 ---
 
 

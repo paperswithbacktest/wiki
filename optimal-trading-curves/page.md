@@ -1,6 +1,7 @@
 ---
-title: "Optimal trading curves"
-description: "Optimize algorithmic trade execution by integrating optimal trading curves to minimize market impact and enhance profitability in dynamic environments."
+title: Optimal Trading Curves for Improved Market Timing and Returns
+description: Optimal Trading Curves help investors balance risk cost and timing with
+  proven models and market insights for smarter execution Discover more inside.
 ---
 
 

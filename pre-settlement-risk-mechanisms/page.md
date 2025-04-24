@@ -1,6 +1,7 @@
 ---
-title: "Pre-Settlement Risk and Its Mechanisms"
-description: "Explore the mechanisms of pre-settlement risk in algorithmic trading. Learn how it influences trading strategies and the role of algorithms in mitigating these risks."
+title: Managing Pre-Settlement Risk in Financial Transactions
+description: Pre-settlement risk exposes firms to losses before settlement Using margins
+  credit limits and monitoring mitigates exposure Discover more inside.
 ---
 
 

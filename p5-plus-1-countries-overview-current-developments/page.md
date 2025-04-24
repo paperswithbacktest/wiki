@@ -1,6 +1,7 @@
 ---
-title: "P5+1 Countries: Overview and Current Developments"
-description: "Explore the dynamic interplay between P5+1 nuclear diplomacy and algorithmic trading's impact on global financial markets. Delve into current developments."
+title: P5+1 Countries Explained Their Evolving Role in Nuclear Diplomacy
+description: P5+1 unites UN Security Council powers and Germany to limit Irans nuclear
+  program under the 2015 JCPOA while reinforcing security Discover more inside
 ---
 
 

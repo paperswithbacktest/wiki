@@ -1,6 +1,7 @@
 ---
-title: "PSA Prepayment Model"
-description: "Explore how the PSA prepayment model integrates with algorithmic trading to enhance decision-making in managing mortgage-backed securities risks and optimize portfolios."
+title: Understanding the PSA Prepayment Model for Mortgages
+description: PSA Prepayment Model forecasts mortgage prepayments with a standard benchmark
+  and variable speeds so investors manage risk Discover more inside
 ---
 
 

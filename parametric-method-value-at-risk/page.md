@@ -1,6 +1,7 @@
 ---
-title: "Parametric Method in Value at Risk"
-description: "Explore how the parametric method in Value at Risk offers a computationally efficient way to assess potential losses in algorithmic trading environments."
+title: Understanding Parametric Value at Risk Calculation Method
+description: Parametric Value at Risk uses statistical models to quantify portfolio
+  loss at chosen confidence levels with clear methodology Discover more inside
 ---
 
 

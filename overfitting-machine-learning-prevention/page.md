@@ -1,6 +1,7 @@
 ---
-title: "Overfitting in Machine Learning and Prevention Methods"
-description: "Discover effective techniques to prevent overfitting in algorithmic trading models ensuring robust performance in dynamic market conditions for lasting success."
+title: Understanding Overfitting in Machine Learning Models
+description: Overfitting in Machine Learning causes models to learn noise instead
+  of patterns. Regularization and cross validation help prevent it Discover more inside
 ---
 
 

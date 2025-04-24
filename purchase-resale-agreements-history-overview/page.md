@@ -1,6 +1,7 @@
 ---
-title: "Purchase and Resale Agreements: History and Overview"
-description: "Explore the influence of Purchase and Resale Agreements in algorithmic trading Discover how these financial tools impact market liquidity and risk management strategies"
+title: Purchase And Resale Agreements From Fundamentals To Market Impact
+description: Purchase and resale agreements outline terms for buying and resale help
+  protect parties with legal clarity and ensure smooth deals Discover more.
 ---
 
 

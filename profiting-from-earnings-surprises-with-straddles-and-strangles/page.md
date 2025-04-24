@@ -1,6 +1,7 @@
 ---
-title: "Profiting from Earnings Surprises with Straddles and Strangles"
-description: "Profiting from earnings surprises using straddles and strangles can boost algorithmic trading returns during high market volatility events like company announcements."
+title: Trading Earnings Surprises with Straddles and Strangles
+description: Earnings straddles and strangles let you profit from volatile post-earnings
+  stock moves by effectively balancing risk and cost. Discover more inside.
 ---
 
 

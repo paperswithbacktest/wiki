@@ -1,6 +1,7 @@
 ---
-title: "Price Persistence: Concept, Mechanism, and Example"
-description: "Explore the concepts and mechanisms of price persistence in algorithmic trading Understand how asset prices maintain their trajectory and its impact on market strategies"
+title: Price Persistence in Economics Explored for Policy and Inflation
+description: Price persistence reveals how long price changes stick in markets and
+  guides economic policy to manage inflation and growth. Discover more inside.
 ---
 
 

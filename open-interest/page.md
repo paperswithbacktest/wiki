@@ -1,6 +1,7 @@
 ---
-title: "Open interest"
-description: Open interest is a vital metric in futures and options trading, offering insights into market activity and sentiment. It measures the number of active contracts and reflects investor interest and potential market movements. A high open interest can indicate strong trends, while declining interest might suggest market consolidation. This article explores open interest's role in trading, especially in algorithmic strategies, where it helps craft precise predictive models. Understanding open interest assists traders in making informed decisions, anticipating market trends, and enhancing trading strategies in the dynamic world of trading.
+title: Open Interest Explained How It Shapes Market Trends and Liquidity
+description: Open interest shows market liquidity and trend strength to help traders
+  optimize entry and exit decisions and manage risk. Discover more inside.
 ---
 
 

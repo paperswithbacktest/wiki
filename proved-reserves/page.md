@@ -1,6 +1,7 @@
 ---
-title: "Proved Reserves"
-description: "Explore the impact of algo trading on oil and gas markets as automation meets energy management revealing keys to navigating modern energy economics."
+title: Understanding Proved Reserves and Their Role in Energy Planning
+description: Proved reserves are confirmed amounts of oil and gas companies can extract
+  with current technology and prices driving investments Discover more inside
 ---
 
 

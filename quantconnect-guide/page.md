@@ -1,6 +1,7 @@
 ---
-title: "QuantConnect Guide"
-description: QuantConnect is an innovative platform revolutionizing algorithmic trading by providing a comprehensive suite of tools for traders to research, design, test, and deploy strategies across various asset classes. With its open-source nature, community support, and advanced infrastructure, it caters to both beginners and experienced quants. The platform enables precise backtesting, real-time trading, and integration with multiple brokerages, while its machine learning models and multi-language support enhance strategy development. QuantConnect’s user-friendly environment and collaborative ecosystem make it a valuable resource for traders aiming to excel in competitive financial markets.
+title: Getting Started With QuantConnect for Algorithmic Trading
+description: QuantConnect helps traders and developers build and optimize algorithmic
+  trading strategies with real market data and community tools Discover more inside.
 ---
 
 

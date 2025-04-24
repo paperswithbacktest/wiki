@@ -1,6 +1,7 @@
 ---
-title: "Paxos Consensus Algorithm"
-description: "Explore the Paxos consensus algorithm, a crucial protocol in distributed systems for ensuring consistency, reliability, and fault tolerance in applications like algo trading."
+title: Guide to the Paxos Consensus Algorithm for Distributed Systems
+description: Paxos Consensus Algorithm guides you through its roles phases and variations
+  to achieve reliable agreement in distributed systems Discover more inside.
 ---
 
 

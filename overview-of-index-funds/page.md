@@ -1,6 +1,7 @@
 ---
-title: "Overview of Index Funds"
-description: "Explore index funds and algorithmic trading in financial markets Learn how these strategies offer diverse investment solutions and optimize trading efficiency"
+title: Index Funds Explained A Simple Guide To Passive Investing
+description: Index funds offer low cost market exposure and diversification to reduce
+  risk and simplify investing across major indices Discover more inside
 ---
 
 

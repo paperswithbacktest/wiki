@@ -1,6 +1,7 @@
 ---
-title: "Overreaction: Mechanisms and Examples"
-description: "Explore the mechanisms and examples of overreaction in algorithmic trading, examining how cognitive biases like fear and greed influence market dynamics and trade strategies."
+title: Algorithmic Trading Strategies to Exploit Market Overreactions
+description: Algorithmic trading uses behavioral analysis to exploit market overreactions
+  and capture mispricings with precision and speed. Discover more inside.
 ---
 
 

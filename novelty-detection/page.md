@@ -1,6 +1,7 @@
 ---
-title: "Novelty Detection (Machine Learning)"
-description: "Novelty detection in machine learning identifies new or unusual data not previously encountered by a model. It's crucial for applications like fraud detection and trend identification."
+title: Novelty Detection in Machine Learning Algorithms and Applications
+description: Novelty detection trains models on known data to flag unseen or unusual
+  inputs in fraud prevention monitoring and trend analysis. Discover more inside.
 ---
 
 ![Image](images/1.png)

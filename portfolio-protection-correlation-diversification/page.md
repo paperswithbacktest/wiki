@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Protection Through Correlation Diversification"
-description: "Explore how correlation, diversification, and algorithmic trading combine for effective portfolio protection maximizing returns while minimizing risk in investments."
+title: Effective Correlation Diversification for Investment Portfolios
+description: Correlation diversification helps investors balance risk and boost portfolio
+  stability using low or negatively correlated assets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Python Correlation Guide"
-description: Explore the essential role of correlation in algorithmic trading and discover how Python's powerful libraries streamline data analysis. Learn to integrate correlation insights for more informed decision-making, risk management, and market predictions with tools like Pandas and NumPy. Enhance your trading strategies with this comprehensive Python Correlation Guide, offering both beginners and seasoned traders the tools to navigate market complexities effectively.
+title: Comprehensive Guide to Correlation Analysis in Python
+description: Correlation analysis in Python shows how to measure data relationships
+  and visualize results using Pandas NumPy Matplotlib and SciPy Discover more inside
 ---
 
 

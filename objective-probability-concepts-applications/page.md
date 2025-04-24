@@ -1,6 +1,7 @@
 ---
-title: "Objective Probability: Concepts and Applications"
-description: "Explore the role of objective probability in algorithmic trading to enhance decision-making by leveraging statistical analysis for effective risk management and strategy development."
+title: Understanding Objective Probability And Its Applications
+description: Objective probability provides a data driven approach to assess event
+  likelihood in science finance and risk management Discover more inside.
 ---
 
 

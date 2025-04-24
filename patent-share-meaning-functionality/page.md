@@ -1,6 +1,7 @@
 ---
-title: "Patent Share: Meaning and Functionality"
-description: "Explore the role of patents in algorithmic trading and their impact on innovation and IP protection within the fintech sector, fostering economic growth and security."
+title: Patent Share Guide Benefits Risks and How to Participate
+description: Patent share helps companies share risks costs and resources to accelerate
+  development while ensuring clear rights and rewards Discover more inside.
 ---
 
 

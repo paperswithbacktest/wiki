@@ -1,6 +1,7 @@
 ---
-title: "Price Slippage"
-description: "Explore price slippage in algorithmic trading, understanding its impact on trade execution and strategies. Learn techniques to manage this vital trading factor."
+title: Understanding Price Slippage in Financial Trading Markets
+description: Price slippage alters your expected trade price when orders fill at different
+  levels in fast markets Discover causes and mitigation Discover more inside
 ---
 
 

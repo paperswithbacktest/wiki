@@ -1,6 +1,7 @@
 ---
-title: "Preferred Dividend Coverage Ratio"
-description: "Enhance your investment strategies with insights into the Preferred Dividend Coverage Ratio and algorithmic trading to optimize portfolio performance."
+title: Understanding the Preferred Dividend Coverage Ratio for Investors
+description: Preferred Dividend Coverage Ratio shows if a firm can cover preferred
+  dividend obligations with earnings guiding investment decisions Discover more inside
 ---
 
 

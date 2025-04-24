@@ -1,6 +1,7 @@
 ---
-title: "Overview of Penny Stocks"
-description: "Explore the high-risk high-reward world of penny stocks and algo trading featuring insights on market dynamics strategy integration and investor tips."
+title: Guide To Investing In Penny Stocks And Managing Risk
+description: Penny stocks offer low cost access to high growth opportunities Use research
+  and risk strategies for informed investing Discover more inside
 ---
 
 

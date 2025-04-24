@@ -1,6 +1,7 @@
 ---
-title: "Public-Private Investment Program: Overview and Mechanisms"
-description: "Explore the Public-Private Investment Program and algorithmic trading the synergy that stabilizes financial markets by addressing risks and enhancing opportunities."
+title: Understanding the Public-Private Investment Program PPIP
+description: Public-Private Investment Program PPIP helps banks offload toxic assets
+  to restore stability and boost lending for economic recovery Discover more inside
 ---
 
 

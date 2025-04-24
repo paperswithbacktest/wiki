@@ -1,6 +1,7 @@
 ---
-title: "Pros and Cons of Automated Trading Systems"
-description: "Explore the advantages and disadvantages of automated trading systems Discover how algo trading can enhance trading efficiency while posing potential risks"
+title: Understanding Automated Trading Systems for Beginner Investors
+description: Automated trading systems streamline market analysis and risk management
+  for beginners by executing algorithmic rules swiftly Discover more inside.
 ---
 
 

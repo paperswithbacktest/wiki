@@ -1,6 +1,7 @@
 ---
-title: "Order book imbalance strategies"
-description: "Explore effective algorithmic trading strategies using order book imbalance to predict short-term price movements and optimize high-frequency trading outcomes."
+title: Order Book Imbalance Insights For Effective Trading Strategies
+description: Order book imbalance reveals supply and demand shifts to help traders
+  predict short term price moves and improve decision making Discover more inside.
 ---
 
 

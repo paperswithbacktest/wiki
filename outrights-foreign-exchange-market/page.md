@@ -1,6 +1,7 @@
 ---
-title: "Outrights in the Foreign Exchange Market"
-description: "Explore the role of FX outrights in algorithmic trading Discover how these instruments mitigate currency risk and optimize trading in the dynamic forex market"
+title: 'FX Outrights Explained: How Forward Forex Transactions Work'
+description: FX Outrights help businesses and investors lock in future exchange rates
+  to manage currency risk and plan budgets with certainty. Discover more inside.
 ---
 
 

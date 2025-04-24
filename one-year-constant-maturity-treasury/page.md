@@ -1,6 +1,7 @@
 ---
-title: "One-Year Constant Maturity Treasury"
-description: "Discover how One-Year Constant Maturity Treasury notes and algorithmic trading influence investment strategies enhancing portfolio management and financial success."
+title: Understanding the One-Year Constant Maturity Treasury Rate
+description: One-Year CMT rate provides daily insight into U.S. short-term interest
+  trends so investors and savers can make informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Options Industry Council Overview"
-description: "Explore the synergy between algorithmic trading and options in derivatives markets Learn how this tech evolution enhances trading efficiency and portfolio strategies"
+title: Options Industry Council Guide To Options Trading Education
+description: Options Industry Council delivers free education resources tools and
+  support to help you master options trading and manage risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Pareto Efficiency and Production Possibility Frontier"
-description: "Explore Pareto Efficiency and Production Possibility Frontier in algorithmic trading to optimize resource allocation and economic outcomes with advanced models."
+title: Pareto Efficiency and Production Possibility Frontier Explained
+description: Pareto Efficiency and the Production Possibility Frontier show how economies
+  use resources to maximize output and balance trade-offs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Planned Amortization Class Tranche"
-description: "Discover the role of Planned Amortization Class tranches in structured finance and algorithmic trading offering stability and risk management for investors."
+title: Understanding PAC Tranches in Mortgage-Backed Securities
+description: PAC Tranches offer predictable cash flow by using support tranches to
+  manage prepayment risks for steady investor returns Discover more inside
 ---
 
 

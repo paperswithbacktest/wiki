@@ -1,6 +1,7 @@
 ---
-title: "North Sea Brent Crude: Overview, Investment, History"
-description: "Explore the significance of North Sea Brent Crude oil as a global price benchmark and its investment potential in the evolving landscape of algorithmic trading."
+title: North Sea Brent Crude Oil as a Global Pricing Benchmark
+description: Brent Crude oil sets global oil prices as the key benchmark. Explore
+  its extraction process pricing drivers and investment risks. Discover more inside
 ---
 
 

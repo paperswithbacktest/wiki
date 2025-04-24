@@ -1,6 +1,7 @@
 ---
-title: "Percentage of Global Money in Bitcoin"
-description: "Explore the impact of Bitcoin in global finance with insights into its algorithmic trading involvement scarcity-driven value and potential as a global currency."
+title: Tracking the Percentage of Global Money Supply in Bitcoin
+description: Global money supply in Bitcoin stays under one percent while market cap
+  shifts regulations and adoption shape its share Discover more inside
 ---
 
 

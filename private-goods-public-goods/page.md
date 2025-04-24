@@ -1,6 +1,7 @@
 ---
-title: "Private Goods and Public Goods"
-description: "Explore the distinctions between private, public, and economic goods, and learn how algorithmic trading impacts their valuation and market behavior in economic theory."
+title: Key Differences Between Private and Public Goods Explained
+description: Private goods and public goods differ by excludability and rivalry The
+  article details their economic impact and policy challenges Discover more inside
 ---
 
 

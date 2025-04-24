@@ -1,6 +1,7 @@
 ---
-title: "Platinum: Properties and Applications"
-description: "Explore the unique properties of platinum and its critical role in industry and investment. Learn about its intersection with algorithmic trading."
+title: Platinum Properties Applications and Environmental Impact
+description: Platinum is a rare metal prized for corrosion resistance and catalytic
+  performance across jewelry automotive and medical devices Discover more inside
 ---
 
 

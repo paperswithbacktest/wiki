@@ -1,6 +1,7 @@
 ---
-title: "order matching"
-description: "Order matching in algorithmic trading pairs buy and sell orders for efficient trade execution using sophisticated algorithms ensuring market efficiency and fair pricing."
+title: Efficient Order Matching in Modern Stock Trading Platforms
+description: Order matching connects buyers and sellers by pairing top buys with lowest
+  sells using price-time priority to ensure fair trades. Discover more inside
 ---
 
 

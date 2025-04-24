@@ -1,6 +1,7 @@
 ---
-title: "Qualitative Factors in Evaluating Company Excellence"
-description: "Explore the essential role of qualitative analysis in algorithmic trading to evaluate company excellence by considering management, culture, and market conditions."
+title: Evaluating Company Excellence with Qualitative Factors
+description: Qualitative factors shape company success by revealing culture, leadership,
+  and customer satisfaction to assess long term potential Discover more inside.
 ---
 
 

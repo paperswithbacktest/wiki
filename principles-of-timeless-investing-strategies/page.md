@@ -1,6 +1,7 @@
 ---
-title: "Principles of Timeless Investing Strategies"
-description: "Explore timeless investing strategies by understanding core financial principles like diversification and risk management, and embrace the efficiency of algorithmic trading."
+title: Timeless Investing Strategies for Long-Term Wealth Building
+description: Timeless investing focuses on steady growth through patient diversified
+  portfolios using compound interest and disciplined planning Discover more inside.
 ---
 
 

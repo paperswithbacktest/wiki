@@ -1,6 +1,7 @@
 ---
-title: "Post-Modern Portfolio Theory"
-description: "Discover the vital synergy between Post-Modern Portfolio Theory and algorithmic trading that redefines risk management and optimizes investment strategies."
+title: Post-Modern Portfolio Theory for Downside Risk Management
+description: Post-Modern Portfolio Theory focuses on downside risk with semi-deviation
+  and Sortino Ratio to safeguard investments & optimize returns Discover more
 ---
 
 

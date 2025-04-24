@@ -1,6 +1,7 @@
 ---
-title: "Order Book: Definition and Functionality"
-description: "Discover how order book and algorithmic trading optimize market strategies enhancing precision and speed in financial markets for competitive trading advantage."
+title: Understanding the Trading Order Book and Market Dynamics
+description: Order book shows real time buy and sell orders to help traders gauge
+  liquidity depth market sentiment and trade smarter Discover more inside.
 ---
 
 

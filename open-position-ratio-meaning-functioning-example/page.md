@@ -1,6 +1,7 @@
 ---
-title: "Open Position Ratio: Meaning and Functioning with Example"
-description: "Explore the impact of the open position ratio in algo trading learn how it shapes strategies with examples and tips for enhanced decision-making and risk management."
+title: Understanding the Open Position Ratio for Trading Insights
+description: Open Position Ratio reveals market sentiment by comparing long and short
+  bets to guide smarter trading decisions with other tools Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Price-to-Earnings Ratio: Formula and Examples"
-description: "Learn about the Price-to-Earnings ratio a vital metric in algo trading that helps investors assess stock value by comparing market price to earnings per share."
+title: Understanding the Price-to-Earnings Ratio for Investors
+description: Price-to-Earnings Ratio helps you gauge if a stock is overvalued or undervalued
+  by comparing its price to earnings and peers Discover more inside
 ---
 
 

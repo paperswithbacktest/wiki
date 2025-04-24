@@ -1,6 +1,7 @@
 ---
-title: "Pool Factor: Explanation, Benefits, and Calculations"
-description: "Explore pool factors in algorithmic trading to understand how they affect financial calculations and investment strategies. Learn their benefits and implementation."
+title: Pool Factor Explained for Mortgage-Backed Securities Investors
+description: Pool factor helps investors track remaining value in mortgage-backed
+  securities and adjust strategies as prepayments impact yields Discover more inside.
 ---
 
 

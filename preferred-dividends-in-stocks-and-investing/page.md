@@ -1,6 +1,8 @@
 ---
-title: "Preferred Dividends in Stocks and Investing"
-description: "Discover how combining preferred dividends with algorithmic trading can optimize your investment strategy offering stability and precision for better returns."
+title: Understanding Preferred Dividends And Their Role In Investments
+description: Preferred dividends offer fixed income priority over common shares and
+  help stabilize your portfolio Learn how they work Tax implications and risks explained
+  Discover more inside.
 ---
 
 

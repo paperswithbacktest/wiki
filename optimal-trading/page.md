@@ -1,6 +1,7 @@
 ---
-title: "Optimal Trading"
-description: "Explore the transformative world of algorithmic trading which leverages advanced algorithms to improve trading efficiency reduce errors and ensure consistency."
+title: Essential Principles for Optimal Trading and Risk Management
+description: Optimal trading helps you set clear goals manage risk and refine strategies
+  for sustained growth in markets from stocks to forex Discover more inside
 ---
 
 

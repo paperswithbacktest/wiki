@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Income: Overview, Examples, and Enhancement Strategies"
-description: "Discover how to enhance portfolio income through diversified investment strategies, algorithmic trading, and tax advantages for sustainable earnings growth."
+title: Comprehensive Guide to Building Portfolio Income Streams
+description: Portfolio income lets investors earn dividends, capital gains and interest
+  through diversified investments for steady growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Pareto Principle: 80/20 Rule"
-description: "Discover how the Pareto Principle or 80/20 Rule applies to algorithmic trading strategies where a minority of efforts yield the majority of profits."
+title: Applying The Pareto Principle And 80/20 Rule For Efficiency
+description: Pareto Principle highlights the 20 percent of tasks that generate 80
+  percent of results to boost productivity and efficiency Discover more inside.
 ---
 
 

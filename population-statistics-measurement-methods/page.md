@@ -1,6 +1,7 @@
 ---
-title: "Population in Statistics and Measurement Methods"
-description: "Explore the interplay of population statistics and algorithmic trading and discover how demographic trends can enhance trading strategies for optimal financial outcomes."
+title: Understanding Population in Statistics and Sampling Methods
+description: Population in statistics defines the full group under study and shows
+  how sampling delivers reliable insights with less time and cost Discover more inside
 ---
 
 

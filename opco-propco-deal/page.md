@@ -1,6 +1,7 @@
 ---
-title: "Opco/Propco Deal"
-description: "Explore the Opco/Propco model's potential in optimizing investment with algorithmic trading, focusing on financial flexibility and strategic asset separation."
+title: Understanding Opco/Propco Deal Structure Benefits and Risks
+description: Opco/Propco deal structures let companies split operations and real estate
+  to boost efficiency and financing flexibility Discover more inside.
 ---
 
 

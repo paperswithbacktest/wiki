@@ -1,6 +1,7 @@
 ---
-title: "Optimal execution"
-description: "Optimize your trading strategy with optimal execution in algorithmic trading minimizing market impact and transaction costs for superior trade performance."
+title: Optimal Execution Strategies For Large Financial Orders
+description: Optimal execution uses advanced algorithms to spread large orders, minimize
+  market impact, and lower trading costs for better pricing Discover more inside.
 ---
 
 

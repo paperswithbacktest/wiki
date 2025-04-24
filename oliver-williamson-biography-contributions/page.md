@@ -1,6 +1,8 @@
 ---
-title: "Oliver Williamson: Biography and Contributions"
-description: "Explore the groundbreaking work of Oliver E. Williamson, a pioneer in New Institutional Economics and Transaction Cost Economics, impacting modern economic analysis."
+title: Transaction Cost Economics Insights from Oliver Williamson
+description: "Transaction Cost Economics Explain how Williamson\u2019s framework clarifies\
+  \ when firms should internalize operations versus outsource to save resources and\
+  \ enhance efficiency Discover more inside."
 ---
 
 

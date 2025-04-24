@@ -1,6 +1,7 @@
 ---
-title: "Pig: Definition, Functionality, and Example"
-description: "Explore the role of the 'Pig' in algorithmic trading where innovative algorithms manage behavioral finance, ensuring disciplined and strategic trading."
+title: Understanding Apache Pig for Simplified Big Data Processing
+description: Apache Pig simplifies big data tasks by converting Pig Latin scripts
+  into Hadoop jobs so you focus on insights not infrastructure Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Pro Rata: Meaning and Calculation Formula"
-description: "Explore the meaning of pro rata and understand its calculation formula alongside insights into algorithmic trading This article aids financial decision-making"
+title: Pro Rata Definition Formula and Practical Applications
+description: Pro rata allocates costs time and resources fairly in finance insurance
+  and business for dividends refunds rent and pay adjustments Discover more inside
 ---
 
 

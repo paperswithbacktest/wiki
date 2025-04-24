@@ -1,6 +1,7 @@
 ---
-title: "Overview of Quantitative Analysis"
-description: "Explore the vital role of quantitative analysis in algorithmic trading. Learn how data-driven, mathematical methods optimize investment strategies and risk management."
+title: Key Concepts And Tools For Effective Quantitative Analysis
+description: Quantitative analysis provides a comprehensive overview of data collection
+  math methods and tools to inform evidence based decisions Discover more inside.
 ---
 
 

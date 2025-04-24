@@ -1,6 +1,7 @@
 ---
-title: "Political Economy Research Institute Overview"
-description: "Explore the intersection of political economy and algorithmic trading, analyzing how economic policies shape resource distribution and market operations in financial sectors."
+title: PERI at UMass Amherst Advances Fair Economy and Climate Action
+description: PERI at UMass Amherst examines how economic policies shape fair wages
+  job growth and climate resilience to inform equitable solutions Discover more inside
 ---
 
 

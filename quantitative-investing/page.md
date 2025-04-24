@@ -1,6 +1,7 @@
 ---
-title: "Quantitative investing"
-description: to sophisticated algorithms to process large datasets, identifying profitable opportunities and optimizing trade executions with minimal human intervention. As technology continues to evolve, the potential for more advanced and precise quantitative trading models grows, catering to both institutional and individual investors seeking systematic approaches to the stock market's unpredictability.
+title: Quantitative Investing Explained With Data-Driven Techniques
+description: Quantitative investing uses data-driven models to remove emotional bias
+  and uncover patterns for systematic portfolio optimization Discover more inside.
 ---
 
 

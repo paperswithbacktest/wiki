@@ -1,6 +1,7 @@
 ---
-title: "Price Elasticity in Relation to Supply and Demand"
-description: "Explore how price elasticity influences supply and demand in algorithmic trading Enhance your trading strategies by understanding market dynamics and predicting trends"
+title: Price Elasticity of Demand Explained for Business Strategy
+description: Price Elasticity of Demand shows how consumer buying responds to price
+  shifts and guides actionable optimal pricing strategies. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Patriot Act: History and Powers"
-description: "Explore the history and powers of the Patriot Act, a legislation enacted in response to terrorist attacks on September 11, 2001. The act expanded government surveillance and investigative authorities to enhance national security, sparking ongoing debates on civil liberties and privacy. This page investigates into the implications for constitutional rights and the financial sector, including algorithmic trading, as institutions navigate new compliance requirements. Understanding the balance between security measures and individual freedoms is crucial in comprehending the broader impact of the Patriot Act."
+title: Understanding The Patriot Act Benefits Risks And Privacy Concerns
+description: Patriot Act overview presents its history key provisions and privacy
+  impact in modern counterterrorism efforts with expert analysis. Discover more inside.
 ---
 
 

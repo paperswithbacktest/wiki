@@ -1,6 +1,7 @@
 ---
-title: "Performance-Based Index"
-description: "Explore the synergy between financial index investment and algorithmic trading to optimize strategies and achieve superior trading performance."
+title: Understanding Performance Based Indexes for Investment and Finance
+description: Performance Based Indexes measure key indicators like returns customer
+  satisfaction and risk to give a clear performance picture Discover more inside
 ---
 
 

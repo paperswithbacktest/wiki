@@ -1,6 +1,7 @@
 ---
-title: "Production Costs of iPhone"
-description: "Explore Apple's strategic approach to iPhone production costs including raw materials labor logistics and algorithmic trading to maintain quality and profitability"
+title: Understanding iPhone Production Costs and Components
+description: iPhone production costs reveal how Apple manages materials assembly labor
+  and overhead to optimize manufacturing efficiency Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Opening a Robo-Advisor Account in 2024"
-description: "Explore the synergy of robo-advisors and algorithmic trading in 2024 Discover how these technologies offer low-cost personalized investment strategies"
+title: Robo Advisor Investment Guide How Automated Portfolios Work
+description: Robo advisor simplifies portfolio management by using algorithms for
+  automated rebalancing and cost efficient investing Discover more inside
 ---
 
 

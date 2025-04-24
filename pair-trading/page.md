@@ -1,6 +1,7 @@
 ---
-title: "Pairs Trading"
-description: Discover the intricacies of pair trading in algo trading, including its theoretical framework based on cointegration and Z-score analysis. Explore historical applications and learn how top hedge funds employ this strategy. Python code snippets provided for identifying cointegration, calculating correlation, and determining Z-scores. Begin your journey into the world of pairs trading today.
+title: Understanding Pairs Trading Strategy for Market-Neutral Profits
+description: Pairs trading guides you through selecting, analyzing, and managing market-neutral
+  stock pairs using correlation and spread techniques Discover more inside
 ---
 
 

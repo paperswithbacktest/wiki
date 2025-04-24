@@ -1,6 +1,7 @@
 ---
-title: "Order-Driven Market: Functionality and Mechanisms"
-description: "Explore key concepts of order-driven markets and algorithmic trading to understand how they influence trade executions and participant interactions in market dynamics."
+title: Order-Driven Market Mechanics With Price Discovery and Liquidity
+description: Order-driven market systems match buyers and sellers transparently to
+  set fair prices and maintain liquidity efficiently in real time Discover more inside.
 ---
 
 

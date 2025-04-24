@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Asset Management"
-description: "Explore Quantitative Asset Management and Algo Trading, discover data-driven strategies, advanced tools, and key insights for optimizing financial outcomes."
+title: Quantitative Asset Management Strategies and Best Practices
+description: Quantitative asset management uses math and data to remove emotion from
+  investing and deliver consistent risk-managed returns Discover more inside.
 ---
 
 

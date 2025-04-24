@@ -1,6 +1,7 @@
 ---
-title: "Purchasing a Property with Existing Tenants"
-description: "Explore the complexities of buying property with existing tenants and the role of algorithmic trading in real estate investment strategies for optimized returns."
+title: Buying a Property With Existing Tenants Benefits and Risks
+description: Buying a property with existing tenants secures rental income from day
+  one and limits screening work while clarifying lease terms Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Volatility Reduction Strategies"
-description: "Explore effective strategies to manage portfolio volatility using algorithmic trading Learn how algorithms help minimize risk and enhance trading efficiency"
+title: Effective Portfolio Volatility Reduction Strategies For Investors
+description: Portfolio volatility management helps investors reduce risk and smooth
+  returns with diversification asset allocation and rebalancing Discover more inside.
 ---
 
 

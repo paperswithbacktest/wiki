@@ -1,6 +1,7 @@
 ---
-title: "Permanent Capital Vehicle: Overview and Benefits"
-description: "Explore the benefits of Permanent Capital Vehicles and their synergy with algorithmic trading. Learn how this innovative investment approach offers stability and growth."
+title: Understanding Permanent Capital Vehicles for Long-Term Investing
+description: Permanent Capital Vehicles deliver stable long-term growth with tax advantages
+  and structured liquidity planning for investor security Discover more inside
 ---
 
 

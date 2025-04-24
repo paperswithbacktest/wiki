@@ -1,6 +1,7 @@
 ---
-title: "Prompt Engineering (Machine Learning)"
-description: "Prompt engineering refines how we communicate with AI models for improved accuracy and performance empowering better outputs without changing the model itself."
+title: Mastering Prompt Engineering Techniques for AI Language Models
+description: Prompt Engineering guides AI models to deliver accurate responses by
+  refining input and context. Enhance model performance and speed. Discover more inside
 ---
 
 

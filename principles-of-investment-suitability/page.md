@@ -1,6 +1,7 @@
 ---
-title: "Principles of Investment Suitability"
-description: "Discover the foundations of investment suitability combining systematic principles and algorithmic trading to optimize portfolios and align with financial goals."
+title: Ensuring Investment Suitability Through Risk and Goal Alignment
+description: Investment suitability ensures your choices match risk tolerance time
+  horizon and financial goals to optimize returns and stability Discover more inside
 ---
 
 

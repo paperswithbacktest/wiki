@@ -1,6 +1,7 @@
 ---
-title: "Overview of the Securities Transfer Agents Medallion Program"
-description: "Explore the intersection of the Medallion Program and algorithmic trading highlighting their roles in ensuring secure and efficient financial transactions. Discover their impact on modern securities trading."
+title: Understanding the Securities Transfer Agents Medallion Program
+description: Securities Transfer Agents Medallion Program secures stock and bond transfers
+  with Medallion Guarantees to help prevent fraud Discover more inside
 ---
 
 

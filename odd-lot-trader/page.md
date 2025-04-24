@@ -1,6 +1,7 @@
 ---
-title: "Odd Lot Trader"
-description: "Explore the intricacies of odd lot and algorithmic trading to maximize stock market strategies and opportunities with advanced, efficient trading technologies."
+title: Understanding Odd Lot Trading for Small Investors
+description: Odd lot trading lets small investors buy shares under 100 for flexible
+  entry and risk management while navigating fees and pricing Discover more inside.
 ---
 
 

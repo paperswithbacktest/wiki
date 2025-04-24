@@ -1,6 +1,7 @@
 ---
-title: "Pooled Funds: Examples, Benefits, and Drawbacks"
-description: "Explore pooled funds and algorithmic trading with real-world examples, analyzing their benefits and drawbacks to help you make informed investment decisions."
+title: Understanding Pooled Funds for Diversified Investment Success
+description: Pooled funds let you invest in a diverse portfolio managed by experts
+  to spread risk and lower costs while aiming for steady growth Discover more inside
 ---
 
 

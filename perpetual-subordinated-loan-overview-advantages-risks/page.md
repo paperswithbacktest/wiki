@@ -1,6 +1,7 @@
 ---
-title: "Perpetual Subordinated Loan: Overview, Advantages, and Risks"
-description: "Explore perpetual subordinated loans and algo trading Discover how these complex financial instruments affect risk management and investment strategies"
+title: Perpetual Subordinated Loans Guide for Issuers and Investors
+description: Perpetual subordinated loans offer funding to issuers and higher yields
+  to investors highlighting risks and regulatory benefits Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Management: Types and Strategies"
-description: "Discover the essential synergy between investment strategies, financial planning, portfolio management, and algorithmic trading to enhance your financial management skills. Learn how these components intersect to build a resilient financial plan that aligns with your goals while optimizing returns and managing risks effectively. Explore tailored strategies according to risk profiles and market conditions to achieve long-term financial success."
+title: Portfolio Management Techniques and Strategies for Investors
+description: Portfolio management helps investors balance risk and return by diversifying
+  and adjusting portfolios over time with proven strategies Discover more inside
 ---
 
 

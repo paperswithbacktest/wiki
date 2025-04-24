@@ -1,6 +1,7 @@
 ---
-title: "Overall Liquidity Ratio and Its Function"
-description: "Discover the essential role of liquidity ratios in financial health and algo trading. Learn how businesses analyze these metrics to navigate market challenges."
+title: Understanding Overall Liquidity Ratio for Financial Health
+description: Overall Liquidity Ratio reveals how companies cover short term debts
+  with current assets and shows ways to improve liquidity Discover more inside
 ---
 
 

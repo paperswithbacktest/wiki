@@ -1,7 +1,7 @@
 ---
-title: "Pure Discount Instruments"
-description: "Explore the synergy between pure discount bonds and algorithmic trading to optimize investment returns in today's fast-paced financial markets efficiently.
-"
+title: Understanding Pure Discount Instruments and Zero Coupon Bonds
+description: Pure discount instruments deliver transparent returns by buying below
+  face value and redeeming at maturity for a set profit Discover more inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Private Investment in Public Equity"
-description: "Explore how private investments in public equity shape financial markets and how algorithmic trading transforms these transactions, enhancing profitability."
+title: Private Investment in Public Equity PIPE Explained for Investors
+description: Private Investment in Public Equity PIPE helps public companies raise
+  capital quickly and cost effectively while offering investors discounted shares
+  and growth potential Discover more inside.
 ---
 
 

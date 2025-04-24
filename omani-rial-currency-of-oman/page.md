@@ -1,6 +1,8 @@
 ---
-title: "Omani Rial: Currency of Oman"
-description: "Explore the economic role of the Omani Rial in global markets and its interaction with algorithmic trading which enhances currency liquidity and market efficiency."
+title: Understanding the Omani Rial Currency and Its Global Strength
+description: "Omani Rial shapes Oman\u2019s economy and global trade, and its history\
+  \ and subdivisions show stability under the Central Bank of Oman. Discover more\
+  \ inside"
 ---
 
 

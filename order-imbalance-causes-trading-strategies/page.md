@@ -1,6 +1,7 @@
 ---
-title: "Order Imbalance: Causes and Trading Strategies"
-description: "Explore causes of order imbalance and effective trading strategies in algorithmic trading. Enhance your market understanding to optimize trading decisions."
+title: Understanding Order Imbalance and Its Impact on Stocks
+description: Order imbalance reveals supply and demand gaps driving stock price changes.
+  Traders anticipate trends to refine strategies. Discover more inside.
 ---
 
 

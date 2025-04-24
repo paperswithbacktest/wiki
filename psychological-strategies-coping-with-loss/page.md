@@ -1,6 +1,7 @@
 ---
-title: "Psychological Strategies for Coping with Loss"
-description: "Learn psychological strategies to effectively manage emotional responses and stress from trading losses in algorithmic trading to improve decision-making and resilience."
+title: Effective Strategies for Coping With Grief and Loss
+description: Coping with grief guides you through loss stages using mindfulness, journaling,
+  CBT and social support to heal and move forward Discover more inside
 ---
 
 

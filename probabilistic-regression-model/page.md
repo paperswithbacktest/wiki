@@ -1,6 +1,7 @@
 ---
-title: "Probabilistic Regression Model (Machine Learning)"
-description: "Explore probabilistic regression models in machine learning to understand how they predict outcomes as well as the uncertainty in those predictions for informed decision-making."
+title: Understanding Probabilistic Regression Models in Machine Learning
+description: Probabilistic regression models output prediction ranges and likelihood
+  measures to quantify uncertainty and guide decision making. Discover more inside.
 ---
 
 

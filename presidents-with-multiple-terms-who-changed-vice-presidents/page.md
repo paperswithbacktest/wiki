@@ -1,6 +1,7 @@
 ---
-title: "Presidents with Multiple Terms Who Changed Vice Presidents"
-description: "Explore how US presidents with multiple terms strategically changed vice presidents to influence political dynamics and affect stock market patterns."
+title: US Presidents Who Changed Vice Presidents Between Terms
+description: Changes in vice presidents reveal how US presidents reshaped leadership
+  between terms and why those shifts influenced politics Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Prisoner's Dilemma in Business and Economy"
-description: "Discover how the Prisoner's Dilemma in game theory influences strategic decision-making in business, especially through the lens of algorithmic trading."
+title: Business Strategies to Overcome the Prisoner's Dilemma
+description: Prisoner's Dilemma helps businesses build trust, use tit for tat and
+  Nash tactics to avoid price wars and boost cooperation. Discover more inside.
 ---
 
 

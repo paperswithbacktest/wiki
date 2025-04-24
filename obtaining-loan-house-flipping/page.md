@@ -1,6 +1,7 @@
 ---
-title: "Obtaining a Loan for House Flipping"
-description: "Explore the dynamic realm of house flipping with a comprehensive guide to securing loans and optimizing strategies using algorithmic trading concepts. Learn how different loan options like hard money, conventional mortgages, and private lender loans can fuel your investment ventures, and discover how to apply data-driven insights for a competitive edge in real estate. This informative resource investigates into the nuances of loan acquisition, the art of renovation and resale, and the innovative application of algorithmic models, equipping investors with the knowledge to navigate the real estate market efficiently."
+title: Complete Guide to House Flipping Loan Types and Qualifications
+description: House Flipping Loans explained with key types rates and qualification
+  tips to help you secure the best financing option Discover more inside
 ---
 
 

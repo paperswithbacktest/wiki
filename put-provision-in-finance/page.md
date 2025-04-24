@@ -1,6 +1,7 @@
 ---
-title: "Put Provision in Finance"
-description: "Discover how put provisions and algorithmic trading in the financial markets enhance investment strategies and risk management for optimized returns."
+title: Put Provisions in Bonds Enhance Investor Flexibility and Security
+description: Put provision gives bondholders right to sell bonds back to issuers for
+  added risk protection and cash flexibility when markets shift Discover more inside.
 ---
 
 

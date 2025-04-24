@@ -1,6 +1,7 @@
 ---
-title: "Provisions of the Consolidated Appropriations Act, 2021"
-description: "Explore how the 2021 Consolidated Appropriations Act influences algorithmic trading through fiscal policies and regulations essential for investors and institutions."
+title: Consolidated Appropriations Act 2021 Insights for Federal Funding
+description: Consolidated Appropriations Act 2021 provides funding for healthcare,
+  education, small businesses, economic relief and infrastructure Discover more inside
 ---
 
 

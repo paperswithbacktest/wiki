@@ -1,6 +1,7 @@
 ---
-title: "Priced Out in Behavioral Economics"
-description: "Explore the intersection of behavioral economics and algorithmic trading to uncover insights on market dynamics and refine strategies amid rising costs and biases."
+title: Behavioral Economics Insights on Pricing and Being Priced Out
+description: Behavioral economics reveals how pricing strategies influence choices
+  and affordability while exposing biases and price sensitivity Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Pairs Trading Guide"
-description: Discover the benefits of pair trading within algorithmic trading. This guide explores how traders use computer-driven strategies to identify opportunities and execute trades efficiently. Learn the mechanics behind pairs trading, a market-neutral strategy that capitalizes on price disparities between correlated assets, offering profitable avenues even in volatile markets. Understand how to identify asset pairs and use statistical models to enhance trading accuracy for maximized returns.
+title: Mastering Pairs Trading Strategy for Market Neutral Profits
+description: Pairs trading uses price divergences to profit while reducing market
+  risk by pairing long and short positions in correlated stocks. Discover more inside
 ---
 
 

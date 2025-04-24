@@ -1,6 +1,7 @@
 ---
-title: "Parameter Server (Ps) (Machine Learning)"
-description: "Discover how a Parameter Server system streamlines distributed machine learning by efficiently managing model updates across multiple machines for faster training."
+title: Parameter Server Architecture for Distributed Machine Learning
+description: Parameter Server synchronizes model parameters across distributed workers
+  for faster ML training with consistent updates Discover more inside
 ---
 
 ![Image](images/1.png)

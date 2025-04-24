@@ -1,6 +1,7 @@
 ---
-title: "Outliers in quantitative investing"
-description: Discover the impact of outliers in quantitative investing and algorithmic trading where mathematical models and algorithms guide trading decisions. Outliers are data points that deviate significantly from norms and can be caused by market anomalies or significant events. Understanding and managing these outliers is crucial as they can mislead trading algorithms causing errors in predictions and decisions if not properly accounted for. Learn the importance of robust outlier detection strategies in maintaining the accuracy and effectiveness of trading systems to prevent overfitting and financial losses.
+title: Managing Outliers in Quantitative Investing Strategies
+description: Outliers in quantitative investing reveal risks and opportunities with
+  Z score IQR and ML methods to refine data, improve decisions Discover more inside
 ---
 
 

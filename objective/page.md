@@ -1,6 +1,7 @@
 ---
-title: "Objective (Machine Learning)"
-description: "Ensure fairness and transparency in machine learning with objective models designed to perform ethically across diverse groups, building trust and equity."
+title: Ensuring Fairness And Transparency With Objective Machine Learning
+description: Objective machine learning ensures models meet clear goals for fairness
+  transparency and accuracy while building trust in decisions Discover more inside.
 ---
 
 ![Image](images/1.png)

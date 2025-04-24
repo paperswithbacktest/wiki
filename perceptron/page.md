@@ -1,6 +1,7 @@
 ---
-title: "Perceptron (Machine Learning)"
-description: "A Perceptron is a simple type of artificial neural network for binary classification, using inputs, weights, and a bias to separate data into two classes."
+title: Understanding the Perceptron Model in Machine Learning
+description: Perceptron fundamentals explain how a simple neural unit classifies data
+  using weighted inputs bias activation and trains itself Discover more inside
 ---
 
 

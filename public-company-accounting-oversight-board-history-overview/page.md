@@ -1,6 +1,7 @@
 ---
-title: "Public Company Accounting Oversight Board: History and Overview"
-description: "Explore the history and role of the Public Company Accounting Oversight Board in enhancing audit transparency and integrity in complex financial markets."
+title: PCAOB Oversight Standards Ensuring Reliable Financial Reporting
+description: PCAOB sets auditing standards inspects firms and enforces rules to keep
+  public company financial reports accurate and reliable Discover more inside
 ---
 
 

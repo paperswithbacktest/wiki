@@ -1,6 +1,8 @@
 ---
-title: "Qualitative Analysis of Biotech Companies"
-description: "Discover the key qualitative factors essential for evaluating biotech companies in algo trading Gain insights into management expertise strategy and regulatory landscape"
+title: Qualitative Analysis Strategies for Evaluating Biotech Company Potential
+description: Qualitative analysis in biotech uncovers key factors like management
+  expertise research pipeline and partnerships to assess company prospects effectively
+  Discover more inside.
 ---
 
 

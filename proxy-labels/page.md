@@ -1,6 +1,7 @@
 ---
-title: "Proxy Labels (Machine Learning)"
-description: "Explore proxy labels in machine learning and learn how they enable model training when true labels are unavailable, along with their challenges and benefits."
+title: Understanding Proxy Labels In Machine Learning Models
+description: Proxy labels in machine learning help train models when real labels are
+  unavailable using related data for quicker insights Discover more inside
 ---
 
 

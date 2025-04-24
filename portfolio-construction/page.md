@@ -1,6 +1,7 @@
 ---
-title: "Portfolio construction"
-description: Discover how algorithmic trading redefines portfolio construction with a focus on automation and precision. This comprehensive guide investigates into strategic asset selection, effective risk management, and the dynamic portfolio adjustments essential for optimizing returns and mitigating risks. Explore the integration of data-driven decision-making and quantitative analysis in creating diversified portfolios, leveraging advanced tools and methodologies to navigate market fluctuations and enhance trading outcomes.
+title: Portfolio Construction Strategy for Algorithmic Trading
+description: Portfolio construction balances risk and reward through diversification
+  asset allocation rebalancing in algorithmic trading Discover more inside
 ---
 
 

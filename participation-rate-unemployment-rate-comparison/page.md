@@ -1,6 +1,7 @@
 ---
-title: "Participation Rate and Unemployment Rate Comparison"
-description: "Explore how participation and unemployment rates impact economic health and algorithmic trading by providing vital insights into workforce dynamics and market trends."
+title: Understanding Participation and Unemployment Rates in Economics
+description: Participation rate and unemployment rate define workforce engagement
+  and job market health with definitions methods trends Discover more inside
 ---
 
 

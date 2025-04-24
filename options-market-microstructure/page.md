@@ -1,6 +1,7 @@
 ---
-title: "Options Market Microstructure"
-description: "Explore the options market microstructure and algorithmic trading strategies that optimize trade execution and enhance market performance."
+title: Understanding Options Market Microstructure For Smarter Trading
+description: Options market microstructure explains how order types bid ask spreads
+  and liquidity impact trading costs and execution. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Quartile: Definition and Applications"
-description: "Explore how quartile statistics enhance algorithmic trading strategies providing insights into data distribution and improving decision-making in financial markets."
+title: Understanding Quartiles in Statistics for Data Distribution
+description: Quartiles in statistics divide data into four parts to reveal distribution
+  spread and interquartile range for variability insights Discover more inside.
 ---
 
 

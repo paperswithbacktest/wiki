@@ -1,6 +1,7 @@
 ---
-title: "Price impact models"
-description: "Explore price impact models in algorithmic trading to understand how trades affect market prices. Discover model types and optimize trade execution."
+title: Understanding Price Impact Models for Optimized Trade Execution
+description: Price Impact Models reveal how large trades shift prices and guide traders
+  to execute orders more efficiently while minimizing costs Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Popularity of Mutual Funds"
-description: "Explore the rise of mutual funds and algorithmic trading in modern finance Discover how these trends transform investment strategies for diverse investors"
+title: Mutual Funds Explained Benefits Risks and Strategies
+description: Mutual Funds pool investor savings into professionally managed, diversified
+  portfolios with low minimums across risk profiles Discover more inside
 ---
 
 

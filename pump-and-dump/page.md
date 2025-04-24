@@ -1,6 +1,7 @@
 ---
-title: "Pump and dump"
-description: "Explore the intricate dynamics of pump and dump schemes in algorithmic trading, uncovering their impact on market integrity and the regulatory challenges they present."
+title: Understanding Pump and Dump Schemes in Stocks and Crypto
+description: Pump and dump schemes inflate prices with hype risking losses. Spot warning
+  signs, learn legal risks and protect your investments Discover more inside.
 ---
 
 

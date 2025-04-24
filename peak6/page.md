@@ -1,6 +1,7 @@
 ---
-title: "Peak6"
-description: "Explore how Peak6 revolutionizes algo trading with innovative strategies using AI and big data to enhance performance and navigate dynamic market conditions."
+title: Peak6 Technology Driven Solutions for Trading, Insurance, Gaming
+description: Peak6 leverages smart technology to streamline trading, insurance and
+  gaming services while managing risks and driving efficiency. Discover more inside.
 ---
 
 

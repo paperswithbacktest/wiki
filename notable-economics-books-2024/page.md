@@ -1,6 +1,7 @@
 ---
-title: "Notable Economics Books of 2024"
-description: "Explore the best economics books of 2024 focusing on algorithmic trading highlighting the latest insights and strategies for modern financial markets."
+title: Notable Economics Books of 2024 Explaining Core Concepts
+description: Notable economics books of 2024 break down supply and demand scarcity
+  and sustainable growth with clear examples and insights Discover more inside
 ---
 
 

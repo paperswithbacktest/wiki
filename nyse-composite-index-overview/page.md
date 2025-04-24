@@ -1,6 +1,7 @@
 ---
-title: "NYSE Composite Index Overview"
-description: "Explore the relationship between the NYSE Composite Index and algorithmic trading Discover how tech advances implement swift efficient trades in dynamic markets"
+title: Understanding The NYSE Composite Index And Its Market Role
+description: The NYSE Composite Index tracks all common and preferred stocks on the
+  NYSE to reveal market trends and guide investment decisions Discover more inside.
 ---
 
 

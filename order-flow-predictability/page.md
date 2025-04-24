@@ -1,6 +1,7 @@
 ---
-title: "Order Flow Predictability"
-description: "Explore order flow predictability in algorithmic trading to gain market insights, improve decision-making, and enhance trade execution and risk management."
+title: Understanding Order Flow in Financial Markets for Informed Trading
+description: Order flow in financial markets reveals buy and sell pressures to help
+  traders spot market trends and make smarter decisions Discover more inside.
 ---
 
 

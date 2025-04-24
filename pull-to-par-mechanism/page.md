@@ -1,6 +1,7 @@
 ---
-title: "Pull-To-Par Mechanism"
-description: "Explore the pull to par effect in bond valuation and how algorithmic trading optimizes investment returns by leveraging market price movements."
+title: Understanding the Pull-To-Par Mechanism for Bond Investments
+description: Pull-To-Par Mechanism uses reserve funds to buy bonds at lower prices
+  to stabilize investment value and reduce downside risk. Discover more inside.
 ---
 
 

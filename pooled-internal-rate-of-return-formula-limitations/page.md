@@ -1,6 +1,7 @@
 ---
-title: "Pooled Internal Rate of Return: Explanation, Formula, and Limitations"
-description: "Explore the significance of the Pooled Internal Rate of Return in investment analysis. Learn about its calculation and application in optimizing trading strategies."
+title: Understanding Pooled Internal Rate of Return for Portfolios
+description: Pooled Internal Rate of Return aggregates cash flows across investments
+  to efficiently reveal overall portfolio performance Discover more inside
 ---
 
 

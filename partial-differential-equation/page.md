@@ -1,6 +1,7 @@
 ---
-title: "Partial Differential Equation"
-description: "Explore the role of partial differential equations in algorithmic trading. These equations help model market dynamics, aiding in strategy development and risk assessment."
+title: Partial Differential Equations in Algorithmic Trading and Finance
+description: Partial differential equations enable predictive models in algorithmic
+  trading for precise risk assessment and strategy optimization Discover more inside
 ---
 
 

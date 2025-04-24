@@ -1,6 +1,7 @@
 ---
-title: "Promotional Certificate of Deposit Rates"
-description: "Enhance your investment strategy by exploring how promotional CD rates combined with algorithmic trading can maximize returns through tech-empowered efficiency."
+title: Navigating Promotional CD Rates And Terms For Savers
+description: Promotional CD rates can boost your savings with higher interest but
+  require careful term review minimums and penalties Discover more inside today.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Inside a Proprietary Trading Desk"
-description: Discover the intricacies of proprietary trading desks in this comprehensive guide exploring their unique roles within financial institutions. Understand how these desks utilize advanced technology and strategic acumen to execute high-stakes trades using the firm's capital without client involvement. Delve into the benefits and challenges faced in this dynamic sector and explore potential career paths for aspiring traders in an environment that thrives on innovation and precision.
+title: Guide to Proprietary Trading Desk Roles Strategies and Risks
+description: Proprietary trading desk operations explained with active insights on
+  risk management market liquidity and profitable strategies Discover more inside
 ---
 
 

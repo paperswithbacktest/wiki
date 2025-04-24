@@ -1,6 +1,7 @@
 ---
-title: "Outlay Cost: Definition and Mechanism"
-description: "Explore the definition and mechanism of outlay costs in algorithmic trading and learn how managing these expenses can maximize profitability and efficiency."
+title: Guide To Outlay Cost Definition Components And Examples
+description: Outlay cost details the actual expenses businesses pay for purchases
+  and investments, guiding better budgeting and decision making. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Petro Cryptocurrency: Implications and Concerns"
-description: "Explore how petroleum-dependent economies can leverage cryptocurrency and algorithmic trading to diversify amid global economic shifts and market volatility."
+title: Understanding Petro Cryptocurrency Backed By Venezuelan Oil
+description: Petro cryptocurrency offers an oil backed currency to stabilize the Venezuelan
+  economy despite sanctions and trust issues Discover more inside
 ---
 
 

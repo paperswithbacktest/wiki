@@ -1,6 +1,7 @@
 ---
-title: "Prime Trading"
-description: "Discover the power of Prime Trading a sophisticated form of algorithmic trading that optimizes strategies for improved returns and minimized risks."
+title: Complete Guide To Prime Trading And Risk Management
+description: Prime Trading empowers financial institutions to execute large trades
+  manage risks and optimize performance with advanced tools Discover more inside.
 ---
 
 

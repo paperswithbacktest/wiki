@@ -1,6 +1,7 @@
 ---
-title: "Piotroski Score"
-description: "Explore how integrating the Piotroski Score with algorithmic trading can enhance stock selection and boost investment returns by leveraging financial health insights."
+title: Understanding The Piotroski Score For Investment Analysis
+description: Piotroski Score uses nine key financial metrics to assess company health
+  in real time and guide smarter investment decisions Discover more inside.
 ---
 
 

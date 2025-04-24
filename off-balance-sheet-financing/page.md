@@ -1,6 +1,8 @@
 ---
-title: "Off-Balance Sheet Financing"
-description: "Explore how off-balance sheet financing and algorithmic trading intersect to influence corporate finance and investment strategies globally, shaping modern markets."
+title: "Off\u2011Balance Sheet Financing Explained for Financial Transparency"
+description: "Off\u2011balance sheet financing lets companies keep certain debts and\
+  \ assets off their main statements to appear healthier and manage risks effectively\
+  \ Discover more inside"
 ---
 
 

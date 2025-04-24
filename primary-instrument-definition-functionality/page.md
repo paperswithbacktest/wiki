@@ -1,6 +1,7 @@
 ---
-title: "Primary Instrument: Definition and Functionality"
-description: "Explore the core principles of algorithmic trading and primary instruments. Learn how algo trading enhances efficiency, speed, and data-driven decisions."
+title: Primary Instruments Guide To Direct Measurement and Applications
+description: Primary instruments deliver direct measurements in science and music,
+  explore types, functions, calibration and applications. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Plotly in Python"
-description: Explore how Python and Plotly enhance algorithmic trading through dynamic data visualization. This page details Python's powerful libraries for financial analytics alongside Plotly's interactive charting capabilities which transform complex datasets into intuitive visual insights aiding traders in market analysis and strategic refinement. Learn the seamless process of integrating Plotly into Python environments, facilitating real-time, data-driven trading decisions with robust graphing tools pivotal for assessing market trends and developing sophisticated trading strategies.
+title: Essential Guide To Plotly In Python Data Visualization
+description: Plotly in Python makes creating interactive charts easy with simple code
+  and customization options to visualize your data Discover more inside.
 ---
 
 

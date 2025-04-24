@@ -1,6 +1,7 @@
 ---
-title: "Quantitative Analysis in Finance"
-description: "Explore the dynamics of quantitative analysis and algorithmic trading in finance Uncover how data-driven techniques enhance investment strategies and market operations"
+title: Quantitative Analysis in Finance Tools Models and Risk Management
+description: Quantitative analysis in finance uses statistical models and AI to assess
+  risk optimize portfolios and guide investment decisions Discover more inside.
 ---
 
 

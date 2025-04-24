@@ -1,6 +1,7 @@
 ---
-title: "Origins of Bull and Bear Markets"
-description: "Explore the origins and impacts of bull and bear markets while learning about algorithmic trading This guide covers key market terms and trading strategies"
+title: Understanding Bull and Bear Markets Impact and Strategies
+description: Bull and Bear Markets guide outlines origins key traits and investor
+  strategies to navigate market swings with confidence Discover more inside.
 ---
 
 

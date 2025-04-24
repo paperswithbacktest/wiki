@@ -1,6 +1,7 @@
 ---
-title: "Quick Liquidity Ratio: Overview and Examples"
-description: "Explore the quick liquidity ratio's role in financial analysis and algo trading, highlighting the ability to assess short-term obligations using liquid assets."
+title: Understanding the Quick Liquidity Ratio for Financial Health
+description: Quick Liquidity Ratio shows if liquid assets and receivables can cover
+  short term debts and helps improve cash flow management Discover more inside.
 ---
 
 

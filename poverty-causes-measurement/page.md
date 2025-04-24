@@ -1,6 +1,7 @@
 ---
-title: "Poverty: Causes and Measurement"
-description: "Explore the complexities of poverty its causes and measurement methods. Discover how algorithmic trading insights could inform strategies for poverty alleviation."
+title: Understanding Poverty Measurement Types Causes and Global Impact
+description: Poverty affects millions through income education and policy gaps This
+  guide explains measurement methods causes effects and solutions Discover more inside
 ---
 
 

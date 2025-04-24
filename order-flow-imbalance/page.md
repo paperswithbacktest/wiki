@@ -1,6 +1,7 @@
 ---
-title: "order flow imbalance"
-description: "Explore order flow imbalance in algorithmic trading to uncover key market dynamics Understand its calculation implications and how it signals trading opportunities"
+title: Order Flow Imbalance Insights for Informed Trading Strategies
+description: Order flow imbalance reveals buying and selling pressure in real time
+  to guide traders for smarter trades with actionable insights Discover more inside.
 ---
 
 

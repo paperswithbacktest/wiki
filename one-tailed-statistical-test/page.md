@@ -1,6 +1,7 @@
 ---
-title: "One-Tailed Statistical Test"
-description: "Explore how one-tailed statistical tests optimize algorithmic trading by enabling precise analysis of market trends and validating trading strategies effectively."
+title: Understanding One-Tailed Statistical Tests in Research
+description: One-tailed tests focus statistical analysis on a single direction to
+  boost detection power and guide accurate conclusions Discover more inside.
 ---
 
 

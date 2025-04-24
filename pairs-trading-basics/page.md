@@ -1,6 +1,7 @@
 ---
-title: "Pairs Trading: Basics"
-description: Explore the fundamentals of pairs trading, a market-neutral strategy in algorithmic trading that capitalizes on statistical relationships between two assets to uncover trading opportunities. Rooted in co-integration, this approach allows traders to profit from temporary price deviations while hedging against market risks. Designed for controlled risk environments, pairs trading has evolved through technological advancements, making it more accessible to individual traders. Discover how statistical tools and tests enhance precision in identifying promising trades and ensure that chosen asset pairs maintain stable relationships over time.
+title: Comprehensive Guide To Pairs Trading Strategies And Methods
+description: Pairs trading uses a market neutral approach matching correlated assets
+  to capture gains from price convergence with statistical rigor Discover more inside
 ---
 
 

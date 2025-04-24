@@ -1,6 +1,7 @@
 ---
-title: "Quote Currency in Foreign Exchange"
-description: "Explore the crucial role of quote currency in forex trading and how algorithmic trading enhances market efficiency. Discover the dynamics of currency pairs and their impact on trading strategies in the ever-evolving realm of global finance."
+title: Understanding the Role of Quote Currency in Forex Trading
+description: Quote currency shows how much of the secondary currency you need to buy
+  one unit of the base currency and guides trading decisions. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Psychological Traits of Successful Traders"
-description: "Explore the psychological traits that empower successful traders in algorithmic trading. Learn how discipline emotional control and resilience contribute to better market outcomes."
+title: Psychological Traits Every Trader Needs For Long Term Success
+description: Trader psychology shapes key habits like patience discipline and emotion
+  management to navigate market swings effectively Discover more inside
 ---
 
 

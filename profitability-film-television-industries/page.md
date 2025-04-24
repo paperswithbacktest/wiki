@@ -1,6 +1,7 @@
 ---
-title: "Comparison of Profitability in the Film and Television Industries"
-description: "Explore the evolving profitability of the film and television industries with insights into revenue streams and the impact of algorithmic trading."
+title: Comparing Profitability in Film and Television Industries
+description: Film and television profitability depends on revenue streams production
+  expenses distribution and digital strategies to boost returns Discover more inside
 ---
 
 

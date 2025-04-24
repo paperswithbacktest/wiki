@@ -1,6 +1,7 @@
 ---
-title: "Overview of the Australian Securities and Investments Commission"
-description: "Explore ASIC's role in regulating algorithmic trading in Australia focusing on fostering fairness and transparency while ensuring market integrity through proactive strategies."
+title: Key Roles of the Australian Securities and Investments Commission
+description: ASIC ensures fair financial markets by enforcing regulations, guiding
+  investors and addressing misconduct across sectors Discover more inside.
 ---
 
 

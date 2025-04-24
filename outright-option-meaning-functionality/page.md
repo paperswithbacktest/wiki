@@ -1,6 +1,7 @@
 ---
-title: "Outright Option: Meaning and Functionality"
-description: "Explore the intricacies of outright options and their function in algo trading Gain insights into options trading strategies and financial derivatives for better market engagement"
+title: Outright Options Trading Fundamentals And Key Strategies
+description: Outright options offer a flexible way to hedge or profit from market
+  moves through precise strike prices and expiration dates. Discover more inside.
 ---
 
 

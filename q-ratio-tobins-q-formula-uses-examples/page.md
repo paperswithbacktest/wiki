@@ -1,6 +1,7 @@
 ---
-title: "Q Ratio and Tobin's Q: Formula, Uses, and Examples"
-description: "Explore how the Q Ratio and Tobin's Q can enhance algo trading strategies by providing insights into market valuations and identifying investment opportunities."
+title: Understanding Tobin's Q Ratio to Evaluate Stock Valuations
+description: Tobin's Q Ratio measures market value relative to replacement asset cost
+  providing insight on stock valuations and economic trends Discover more inside.
 ---
 
 

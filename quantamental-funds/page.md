@@ -1,6 +1,7 @@
 ---
-title: "Quantamental funds"
-description: Discover the innovative world of quantamental investing, a strategy that integrates quantitative and fundamental analysis to enhance trading and investment decision-making. This approach leverages mathematical models and in-depth company evaluations to exploit market inefficiencies, offering a strategic edge in algorithmic trading. Learn about quantamental funds, their techniques, and significance in modern finance, providing investors and traders with a comprehensive toolkit to navigate volatile markets with precision and insight.
+title: Quantamental Investment Funds Combining Data and Fundamental Analysis
+description: Quantamental funds blend quantitative data and fundamental analysis to
+  enhance returns and manage risk effectively Discover more inside
 ---
 
 

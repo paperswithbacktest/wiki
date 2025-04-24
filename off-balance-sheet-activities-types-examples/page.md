@@ -1,6 +1,7 @@
 ---
-title: "Off-Balance Sheet Activities: Types and Examples"
-description: "Explore the impact of off-balance sheet activities on financial health and algorithmic trading Learn types examples and regulations shaping modern financial landscapes"
+title: Understanding Off-Balance Sheet Activities and Their Risks
+description: Off-balance sheet activities help companies manage hidden debt and share
+  risk via leases joint ventures and SPEs with clear disclosure Discover more inside
 ---
 
 

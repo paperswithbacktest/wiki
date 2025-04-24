@@ -1,6 +1,8 @@
 ---
-title: "Odd-Lot Buyback: Mechanism and Example"
-description: "Explore the mechanism of odd-lot buybacks and their role in algorithmic trading to improve market efficiency maximize shareholder value, and enhance liquidity."
+title: Understanding Odd-Lot Buyback Benefits for Small Shareholders
+description: Odd-Lot Buyback lets small shareholders sell under-100 share lots at
+  a fair price while streamlining company shares for improved value Discover more
+  inside
 ---
 
 

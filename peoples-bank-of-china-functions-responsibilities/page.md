@@ -1,6 +1,7 @@
 ---
-title: "People's Bank of China: Functions and Responsibilities"
-description: "Discover the key functions and responsibilities of the People's Bank of China and its influence on algorithmic trading in China's financial markets."
+title: People's Bank of China Roles and Functions Explained
+description: People's Bank of China manages money supply interest rates and yuan stability
+  while overseeing banks to maintain economic balance Discover more inside.
 ---
 
 

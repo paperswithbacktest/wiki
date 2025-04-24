@@ -1,6 +1,8 @@
 ---
-title: "Producer Surplus: Formula and Example"
-description: "Explore the intricacies of producer surplus with algorithmic trading Learn about market efficiency resource allocation and economic welfare in modern markets"
+title: Understanding Producer Surplus and Its Economic Significance
+description: Producer surplus measures the extra benefit producers earn when they
+  sell above their minimum acceptable price on supply demand graphs Discover more
+  inside
 ---
 
 

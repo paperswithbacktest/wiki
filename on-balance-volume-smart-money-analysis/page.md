@@ -1,6 +1,7 @@
 ---
-title: "On-Balance Volume and Smart Money Analysis"
-description: "Discover how On-Balance Volume (OBV) enhances smart money analysis in algorithmic trading Learn to anticipate market trends and refine trading strategies"
+title: Comprehensive Guide to On-Balance Volume and Smart Money Analysis
+description: On-Balance Volume shows how volume shifts confirm or warn price trends
+  and drive Smart Money Analysis for clearer trading decisions Discover more inside
 ---
 
 

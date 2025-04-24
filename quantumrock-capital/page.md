@@ -1,6 +1,7 @@
 ---
-title: "Quantumrock Capital"
-description: "Quantumrock Capital leverages cutting-edge algorithmic trading technology to optimize strategies and enhance market outcomes focusing on innovation and AI."
+title: Quantumrock Capital Technology Investment and Growth Strategies
+description: Quantumrock Capital invests in and advises innovative technology businesses
+  to drive growth and job creation across global markets. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Operating Income Before Depreciation and Amortization"
-description: "Explore how Operating Income Before Depreciation and Amortization (OIBDA) provides insights into a company's operational performance, essential for algorithmic trading."
+title: Operating Income Before Depreciation and Amortization Explained
+description: Operating Income Before Depreciation and Amortization reveals core cash
+  flow from business operations by excluding noncash charges Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Plutonomy: Definition, Function, and Criteria"
-description: "Explore the impact of plutonomy and algorithmic trading on wealth inequality and economic theories Learn how these concepts shape modern economic landscapes"
+title: Understanding Plutonomy Economic Systems Driven by Wealth
+description: Plutonomy describes economies driven by a small group of wealthy individuals
+  whose spending shapes growth and inequality Discover more inside.
 ---
 
 

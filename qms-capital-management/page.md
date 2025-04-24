@@ -1,6 +1,7 @@
 ---
-title: "QMS Capital Management"
-description: "Discover the impactful role of QMS Capital Management in algorithmic trading with cutting-edge quantitative techniques for superior financial performance."
+title: QMS Capital Management Quantitative Investing Strategies
+description: QMS Capital Management uses advanced math and computer algorithms to
+  optimize portfolios and manage risk for steady growth Discover more inside
 ---
 
 

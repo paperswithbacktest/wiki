@@ -1,6 +1,7 @@
 ---
-title: "Overview of the Cannabis Industry"
-description: "Explore the merger of the cannabis industry and algorithmic trading underscoring growth potential through innovation in volatile markets fostering new investment avenues."
+title: Global Cannabis Industry Uses, Regulations, and Market Trends
+description: Cannabis Industry insights on global medicinal and recreational uses,
+  regulations, products and market trends to guide decisions Discover more inside
 ---
 
 

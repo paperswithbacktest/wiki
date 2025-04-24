@@ -1,6 +1,7 @@
 ---
-title: "Pine Script Trading Strategies"
-description: Discover the power of Pine Script for developing algorithmic trading strategies. Learn how this specialized scripting language from TradingView can enhance precision, reduce human errors, and optimize your trading approach. Explore various strategies, understand the advantages of automation, and leverage community resources to boost your trading success with custom techniques.
+title: Developing Pine Script Trading Strategies on TradingView
+description: Pine Script trading strategies guide to building custom indicators backtest
+  performance manage risk and use techniques on TradingView Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Notable Vanguard Fixed-Income Funds"
-description: "Explore notable Vanguard fixed-income funds with a focus on algorithmic trading for optimized investments Discover diversified portfolios and steady income options"
+title: "Complete Guide to Vanguard Fixed\u2011Income Funds and Strategies"
+description: Vanguard fixed-income funds deliver low cost bond income with flexible
+  risk options transparent low fees and diverse bond types Discover more inside
 ---
 
 

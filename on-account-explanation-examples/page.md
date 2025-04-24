@@ -1,6 +1,7 @@
 ---
-title: "On Account: Explanation and Examples"
-description: "Explore the critical role of journal entries and algorithmic trading in finance Discover how they ensure precise accounting and innovative trading strategies"
+title: Understanding On Account Payments for Businesses and Customers
+description: On account payments let customers pay in parts while boosting loyalty,
+  highlighting key risks and helping businesses manage cash flow Discover more inside.
 ---
 
 

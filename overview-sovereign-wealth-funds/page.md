@@ -1,6 +1,7 @@
 ---
-title: "Overview of Sovereign Wealth Funds"
-description: "Explore the intersection of sovereign wealth funds and algorithmic trading Learn how SWFs leverage technology to optimize asset management and drive economic stability"
+title: Understanding Sovereign Wealth Funds and Their Impact
+description: Sovereign wealth funds invest resource revenues in diversified global
+  assets to build economic resilience and sustainable growth Discover more inside.
 ---
 
 

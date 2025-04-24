@@ -1,6 +1,7 @@
 ---
-title: "One-Vs.-All (Machine Learning)"
-description: "One-vs.-All is a machine learning strategy for multi-class classification by training separate binary models for each class compared to all others. Simple and flexible."
+title: One-Vs-All Classification Strategy for Multi-Class Models
+description: One-Vs-All classification splits multi-class problems into binary models
+  to simplify training evaluation and address imbalance Discover more inside.
 ---
 
 ![Image](images/1.png)

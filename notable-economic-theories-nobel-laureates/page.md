@@ -1,6 +1,8 @@
 ---
-title: "Notable Economic Theories by Nobel Laureates"
-description: "Explore how Nobel Prize-winning economic theories integrate with algorithmic trading to enhance financial systems by improving efficiency, precision, and decision-making."
+title: Nobel Prize in Economic Sciences Impact on Modern Economic Theories
+description: Nobel Prize in Economic Sciences laureates shaped modern economics with
+  theories on growth welfare markets and behavior. Explore their impact Discover more
+  inside.
 ---
 
 

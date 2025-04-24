@@ -1,6 +1,7 @@
 ---
-title: "quantitative portfolio execution"
-description: "Explore the world of quantitative portfolio execution where algorithmic trading harnesses mathematical models and data to refine financial strategies efficiently."
+title: Effective Quantitative Portfolio Execution for Modern Investors
+description: Quantitative portfolio execution uses data driven algorithms to optimize
+  trade timing reduce market impact and manage risk effectively Discover more inside
 ---
 
 

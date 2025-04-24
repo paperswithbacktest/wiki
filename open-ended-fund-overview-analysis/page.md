@@ -1,6 +1,7 @@
 ---
-title: "Open-Ended Fund: Overview and Analysis"
-description: "Explore the flexibility and benefits of open-ended funds, including liquidity and professional management, plus the impact of algorithmic trading on fund performance."
+title: Open-Ended Funds Explained Benefits Risks and Strategies
+description: Open-ended fund investments offer flexible trading daily NAV pricing
+  and expert management for easy portfolio adjustments Discover more inside
 ---
 
 

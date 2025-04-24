@@ -1,6 +1,7 @@
 ---
-title: "Oil Investment and Tax Incentives"
-description: "Explore strategic oil investment opportunities and tax incentives, highlighting the role of algorithmic trading. Navigate the complexities of this volatile market."
+title: Oil Investment Tax Incentives Explained for Investors
+description: Oil investment tax incentives lower costs and boost returns by enabling
+  deductions on exploration and drilling expenses Discover more inside
 ---
 
 

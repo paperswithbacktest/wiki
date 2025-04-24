@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Construction Through Style Investing"
-description: "Explore the intersection of style investing and algorithmic trading in portfolio construction Learn how these elements optimize returns and manage financial risk"
+title: Style Investing Strategies For Balanced Portfolio Construction
+description: Style investing guides you to choose value and growth stocks to build
+  a resilient diversified portfolio that adapts to market shifts Discover more inside.
 ---
 
 

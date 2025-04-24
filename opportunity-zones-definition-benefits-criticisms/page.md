@@ -1,6 +1,8 @@
 ---
-title: "Opportunity Zones: Definition, Benefits, and Criticisms"
-description: "Explore the benefits and criticisms of Opportunity Zones and algorithmic trading Discover their potential impacts on investment strategies and community development"
+title: Opportunity Zone Investments Tax Advantages for Community Growth
+description: "Opportunity Zone investments deliver tax reductions on capital gains\
+  \ while supporting under\u2011invested communities through business and real estate\
+  \ development Discover more inside"
 ---
 
 

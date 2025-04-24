@@ -1,6 +1,7 @@
 ---
-title: "Oil-Currency Correlation"
-description: "Explore the intricate correlation between oil prices and currency values. Understand how global oil fluctuations impact forex markets and enhance trading strategies."
+title: Understanding Oil-Currency Correlation in Global Currency Markets
+description: Oil-currency correlation shows how oil price shifts drive currency strength
+  in exporters and importers while shaping forex trends. Discover more inside.
 ---
 
 

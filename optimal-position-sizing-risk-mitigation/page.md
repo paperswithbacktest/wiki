@@ -1,6 +1,7 @@
 ---
-title: "Optimal Position Sizing and Risk Mitigation"
-description: "Explore optimal position sizing and risk management techniques in algorithmic trading to enhance returns minimize losses and adapt to market dynamics effectively."
+title: Position Sizing Strategies for Effective Trading Risk Management
+description: Position sizing helps traders calculate trade amounts using risk per
+  trade stop loss and volatility to protect capital and manage risk Discover more
 ---
 
 

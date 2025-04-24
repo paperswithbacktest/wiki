@@ -1,6 +1,7 @@
 ---
-title: "Prospect Theory and Its Mechanisms"
-description: "Explore how prospect theory reshapes algorithmic trading by incorporating behavioral insights into market strategies enhancing predictive accuracy and risk management."
+title: Understanding Prospect Theory in Behavioral Economics
+description: Prospect Theory explains how loss aversion and probability weighting
+  shape choices providing insights to refine decision making Discover more inside
 ---
 
 

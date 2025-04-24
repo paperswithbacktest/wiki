@@ -1,6 +1,7 @@
 ---
-title: "Portfolio Performance Evaluation"
-description: "Explore key metrics for evaluating portfolio performance within algorithmic trading, vital for optimizing strategies, improving risk management, and enhancing investment returns."
+title: Comprehensive Guide to Portfolio Performance Evaluation Metrics
+description: Portfolio performance evaluation delivers insights on investment returns
+  risk and ratios using metrics from ROI to Monte Carlo Discover more inside.
 ---
 
 

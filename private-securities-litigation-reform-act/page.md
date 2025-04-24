@@ -1,6 +1,7 @@
 ---
-title: "Private Securities Litigation Reform Act"
-description: "Explore the impact of the Private Securities Litigation Reform Act and algorithmic trading on securities litigation amidst evolving legal and financial landscapes."
+title: Understanding the Private Securities Litigation Reform Act
+description: Private Securities Litigation Reform Act raised evidence thresholds and
+  safe harbor rules to discourage meritless fraud suits Discover more inside
 ---
 
 

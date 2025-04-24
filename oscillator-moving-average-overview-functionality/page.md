@@ -1,6 +1,7 @@
 ---
-title: "Oscillator of Moving Average: Overview and Functionality"
-description: "Explore the functionality of the Oscillator of Moving Average in algorithmic trading Learn how OSMA helps traders identify market trends and momentum shifts"
+title: Guide to the Oscillator of Moving Average for Trading Strategies
+description: Oscillator of Moving Average helps traders compare current price to recent
+  averages to spot trend shifts and refine buy sell timing Discover more inside.
 ---
 
 

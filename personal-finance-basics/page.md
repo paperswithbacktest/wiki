@@ -1,6 +1,7 @@
 ---
-title: "Personal Finance Basics"
-description: "Explore personal finance and algorithmic trading to optimize your financial strategy. Learn how budgeting, investing, and tech-driven trading can secure your future."
+title: Personal Finance Essentials For Budgeting Saving And Investing
+description: Personal finance insights on budgeting saving investing credit debt management
+  and retirement planning help you manage money wisely Discover more inside.
 ---
 
 

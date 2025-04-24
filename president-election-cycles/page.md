@@ -1,6 +1,7 @@
 ---
-title: "President Election Cycles Explained"
-description: Explore the influence of the 4-year presidential cycle on stock market performance and its implications for algorithmic trading strategies. Understand how historical patterns associated with U.S. presidential terms can guide investment decisions and enhance market returns. Learn how backtesting and data analysis support these strategies while considering adaptability to political and economic shifts.
+title: Understanding the Full Presidential Election Cycle Process
+description: Presidential election cycle explains each phase from primaries and conventions
+  to voting and Electoral College decisions Discover more inside.
 ---
 
 

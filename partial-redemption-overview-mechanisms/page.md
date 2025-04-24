@@ -1,6 +1,7 @@
 ---
-title: "Partial Redemption: Overview and Mechanisms"
-description: "Discover how partial redemption and algorithmic trading revolutionize investment strategies, optimizing risk management and enhancing portfolio performance."
+title: Understanding Partial Redemption For Corporate Debt Management
+description: Partial redemption lets investors reclaim capital early while adjusting
+  bond holdings to optimize returns and manage risk Discover more inside
 ---
 
 

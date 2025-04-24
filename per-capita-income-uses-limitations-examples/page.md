@@ -1,6 +1,7 @@
 ---
-title: "Per Capita Income: Uses, Limitations, and Examples"
-description: "Explore the complex ties between per capita income and algorithmic trading to better understand economic metrics used in crafting effective financial strategies."
+title: Understanding Per Capita Income as an Economic Measure
+description: Per capita income reveals average earnings per person and helps compare
+  economic well being to pinpoint inequality gaps Discover more inside
 ---
 
 

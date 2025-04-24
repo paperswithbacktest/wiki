@@ -1,6 +1,7 @@
 ---
-title: "Qatari Riyal: Overview and Functionality"
-description: "Explore the stability and predictability of the Qatari Riyal in algorithmic trading Discover opportunities in Qatar's evolving financial market"
+title: Understanding The Qatari Riyal Currency And Its Key Features
+description: Qatari Riyal stability from its US dollar peg boosts Qatar economy with
+  secure notes and coins managed by Qatar Central Bank Discover more inside
 ---
 
 

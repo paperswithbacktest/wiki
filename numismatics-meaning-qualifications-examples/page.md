@@ -1,6 +1,7 @@
 ---
-title: "Numismatics: Meaning, Qualifications, and Examples"
-description: "Explore the enduring allure of numismatics and its intersection with algorithmic trading highlighting their historical and modern financial significance."
+title: Comprehensive Guide to Numismatics and Money Collecting
+description: Numismatics explores the history art of coins paper money and tokens
+  while guiding you through tools grading and authentication Discover more inside.
 ---
 
 

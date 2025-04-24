@@ -1,6 +1,7 @@
 ---
-title: "Putable Common Stock"
-description: "Explore the benefits and strategies of common stock, putable stock, and algorithmic trading to maximize returns and mitigate risks in financial portfolios."
+title: Comprehensive Guide To Putable Common Stock For Investors
+description: Putable common stock gives investors a safety net by allowing share sellbacks
+  at a set price Explore its benefits risks and valuation Discover more inside
 ---
 
 

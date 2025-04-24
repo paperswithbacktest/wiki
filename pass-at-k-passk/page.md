@@ -1,6 +1,7 @@
 ---
-title: "Pass At K (Pass@K) (Machine Learning)"
-description: "Pass@K is a metric used in machine learning to evaluate the probability that at least one relevant item is within the top K positions in a ranked list."
+title: Understanding Pass@K Metric For Evaluating Model Rankings
+description: Pass@K metric measures the chance of finding a relevant result in top
+  K rankings Optimize model evaluations with Pass@K Discover more inside
 ---
 
 ![Image](images/1.png)

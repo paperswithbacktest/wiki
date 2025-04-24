@@ -1,6 +1,7 @@
 ---
-title: "Pin Risk in Options Trading"
-description: "Explore the complexities of options trading including pin risk and algorithmic trading strategies to manage risks and optimize trading performance."
+title: Understanding Pin Risk in Options Trading Strategies
+description: Pin risk in options trading can result in surprise stock assignments
+  at expiration Identify setups and apply risk management tactics Discover more inside
 ---
 
 

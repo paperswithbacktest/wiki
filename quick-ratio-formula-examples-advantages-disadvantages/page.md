@@ -1,6 +1,7 @@
 ---
-title: "Quick Ratio: Formula, Examples, Advantages, and Disadvantages"
-description: "Discover the quick ratio's significance in evaluating a company's immediate liquidity in algo trading. Learn its formula, advantages, and implications here."
+title: Understanding the Quick Ratio for Business Liquidity Analysis
+description: Quick Ratio shows how a company can cover short term debts using its
+  most liquid assets including cash securities and receivables Discover more inside
 ---
 
 

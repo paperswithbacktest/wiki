@@ -1,6 +1,7 @@
 ---
-title: "Principal Shareholder: Role and Requirements"
-description: "Explore the role and responsibilities of principal shareholders in corporate governance and the impact of algo trading on investment strategies and stock market dynamics."
+title: Understanding Principal Shareholder Rights and Responsibilities
+description: Principal shareholder guide on rights responsibilities and governance
+  empowers strategic decisions and safeguards investments Discover more inside
 ---
 
 

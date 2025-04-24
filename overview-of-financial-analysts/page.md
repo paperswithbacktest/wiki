@@ -1,6 +1,7 @@
 ---
-title: "Overview of Financial Analysts"
-description: "Explore dynamic finance careers like investment analysis and algo trading Drive growth with key skills optimize strategies using insights and technology"
+title: Understanding the Role of a Financial Analyst in Business
+description: Financial Analyst roles blend quantitative analysis and market insight
+  to optimize investments and drive business growth Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Proprietary Trading Firms: Overview and Comparisons"
-description: "Discover the benefits of proprietary and algorithmic trading for modern financial markets and learn how these strategies enhance liquidity and market efficiency."
+title: Understanding Proprietary Trading Firms and Their Strategies
+description: Proprietary Trading Firms deploy in-house capital and robust risk controls
+  to execute precise trades driving profits across markets. Discover more inside
 ---
 
 

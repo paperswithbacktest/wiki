@@ -1,6 +1,8 @@
 ---
-title: "Proof of Reserves"
-description: "Explore the essential role of Proof of Reserves in crypto auditing and algorithmic trading to ensure transparency and integrity in the cryptocurrency market."
+title: Building Trust with Crypto Proof of Reserves Audits
+description: Proof of Reserves ensures crypto companies have enough assets to cover
+  customer holdings and boosts transparency and confidence in your funds Discover
+  more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Price Fixing in Business and Economics"
-description: "Explore the complexities of price fixing in business economics and its impact on market dynamics with the rise of algorithmic trading and its regulation."
+title: Price Fixing Explained Impact and Legal Consequences
+description: Price fixing undermines competition and drives up consumer costs Explores
+  types examples detection methods and legal consequences Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Open Orders in Trading: Mechanics and Causes"
-description: "Explore the mechanics of open orders and algorithmic trading in the financial markets Learn how these tools optimize trade execution and manage risks efficiently"
+title: Understanding Open Orders and Strategies on Trading Platforms
+description: Open orders automate trades to manage risk protect profits and avoid
+  missed trades by setting target prices on your trading platform. Discover more inside
 ---
 
 

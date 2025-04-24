@@ -1,6 +1,7 @@
 ---
-title: "Price-to-Cash Flow Ratio"
-description: "Explore the importance of the Price-to-Cash Flow ratio for financial valuation, highlighting its application in algorithmic trading and investment decision-making."
+title: Understanding the Price to Cash Flow Ratio for Investors
+description: Price to Cash Flow Ratio gives investors a valuation metric comparing
+  share price to cash flow per share to avoid earnings distortion Discover more inside
 ---
 
 

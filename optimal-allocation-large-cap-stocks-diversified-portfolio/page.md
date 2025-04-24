@@ -1,6 +1,7 @@
 ---
-title: "Optimal Allocation of Large-Cap Stocks in a Diversified Portfolio"
-description: "Optimize your portfolio with large-cap stocks and algorithmic trading strategies Discover how diversification and modern trading can enhance returns and minimize risk"
+title: Strategic Allocation of Large-Cap Stocks for Steady Growth
+description: Large-cap stocks offer stability and steady growth while reducing volatility
+  with dividends sector diversification and risk balance Discover more inside
 ---
 
 

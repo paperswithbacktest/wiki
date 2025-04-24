@@ -1,6 +1,7 @@
 ---
-title: "Overview of SEC Filing Forms"
-description: "Explore the importance of SEC filings in investment and algorithmic trading. Learn how forms like 10-K and 10-Q provide vital insights into companies' financial health."
+title: Understanding SEC Filings and Their Role in Investment Decisions
+description: SEC filings provide investors with essential insights into company performance,
+  governance, and risks to make informed decisions Discover more inside.
 ---
 
 

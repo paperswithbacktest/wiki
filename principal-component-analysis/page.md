@@ -1,6 +1,7 @@
 ---
-title: "Principal Component Analysis"
-description: "Leverage Principal Component Analysis (PCA) in algorithmic trading to reduce data complexity while maintaining key patterns for more robust and efficient strategies."
+title: Understanding Principal Component Analysis for Data Insights
+description: Principal Component Analysis simplifies complex data by identifying key
+  features that capture most variance and improve visualization Discover more inside
 ---
 
 

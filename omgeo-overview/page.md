@@ -1,6 +1,7 @@
 ---
-title: "Omgeo Overview"
-description: "Omgeo revolutionizes post-trade processing in the financial industry by automating trade workflows, enhancing efficiency, reducing errors, and supporting algorithmic trading."
+title: Omgeo Trade Matching and Post-Trade Processing Services
+description: Omgeo trade matching helps financial firms ensure accurate stock records
+  and streamline post-trade processing for compliance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Options for Capital Protected Investment"
-description: "Explore capital-protected investment strategies enhanced by algorithmic trading techniques offering insights into safeguarding investments and minimizing risks effectively."
+title: Comprehensive Guide to Capital Protected Investments
+description: Capital protected investments safeguard your initial capital while offering
+  growth through a balanced mix of bonds and stocks Discover more inside.
 ---
 
 

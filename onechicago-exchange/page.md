@@ -1,6 +1,7 @@
 ---
-title: "OneChicago Exchange"
-description: "Explore the impact of algorithmic trading on financial markets, featuring OneChicago's use of advanced tech in single-stock futures for efficient, high-speed trades."
+title: OneChicago Exchange Single Stock Futures Trading Guide
+description: OneChicago Exchange offers specialized single stock futures trading with
+  risk management secure compliance and simplified membership Discover more inside
 ---
 
 

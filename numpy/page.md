@@ -1,6 +1,7 @@
 ---
-title: "Numpy (Machine Learning)"
-description: "Explore NumPy's powerful tools for machine learning including array manipulation, matrix operations, data preprocessing, and its efficient broadcasting feature."
+title: Essential NumPy Techniques for Efficient Machine Learning
+description: NumPy speeds up numerical computing with arrays and linear algebra to
+  streamline machine learning workflows and preprocessing Discover more inside
 ---
 
 ![Image](images/1.png)

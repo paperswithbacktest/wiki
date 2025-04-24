@@ -1,6 +1,7 @@
 ---
-title: "Oil Shale: Characteristics, Operation, and Historical Context"
-description: "Explore the complex interplay between oil shale energy, fossil fuels, and algorithmic trading Discover how these elements impact global energy and financial markets"
+title: Oil Shale Extraction Processing and Environmental Impacts
+description: Oil Shale extraction and processing explain kerogen conversion energy
+  use and environmental impacts to guide energy planning Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Polkadot (DOT): Overview, Historical Context, and Mechanism"
-description: "Explore the innovative blockchain platform Polkadot, a groundbreaking system introduced in 2020 by Dr. Gavin Wood that enhances scalability and interoperability. Designed for seamless deployment and operation of decentralized applications, Polkadot tackles major blockchain challenges such as security and governance. Its unique multi-chain architecture allows efficient data and value exchange across various networks through parachains and bridges, supporting high transaction throughput and cross-chain communication. With a nominated proof-of-stake mechanism, Polkadot empowers participants in decentralized governance and algorithmic trading, shaping the future of blockchain with advanced functionality and accessibility."
+title: Polkadot (DOT) Blockchain Platform Connecting Chains Explained
+description: Polkadot uses relay chain parachains and bridges to deliver seamless
+  blockchain interoperability scalability and staking rewards. Discover more inside.
 ---
 
 

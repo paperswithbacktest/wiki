@@ -1,6 +1,7 @@
 ---
-title: "Per Capita: Meaning, Calculation, and Applications"
-description: "Discover the intersection of statistical per capita economic measurement and algorithmic trading. Learn how these two fields synergize to enhance decision-making for investors and policymakers by combining nuanced economic evaluations with the precision and speed of algorithmic trading. Understand the applications and implications of this dynamic integration for redefined economic policy and investment strategies."
+title: Understanding Per Capita Economic Measurement and Applications
+description: Per Capita analysis reveals how income and resources are measured per
+  person to compare economies plan effective policies Discover more inside
 ---
 
 

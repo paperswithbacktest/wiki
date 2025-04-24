@@ -1,6 +1,7 @@
 ---
-title: "Pass-Through Certificate: Function and Mechanism"
-description: "Explore how pass-through certificates offer fixed income by pooling mortgage assets while algorithmic trading reshapes markets with automated trade execution."
+title: Understanding Pass-Through Certificates in Mortgage Investing
+description: Pass-Through Certificates provide steady income by passing mortgage payments
+  to investors and diversify portfolios with pooled loans Discover more inside
 ---
 
 
