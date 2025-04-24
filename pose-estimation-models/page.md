@@ -30,7 +30,7 @@ Another big use of pose estimation is in health and fitness. It can help people 
 
 ## Can you explain the basic architecture of OpenPose?
 
-OpenPose is a popular pose estimation model that uses a special kind of neural network called a Convolutional Neural Network (CNN) to find key points on people in pictures or videos. The basic idea is to take an image and turn it into a bunch of smaller parts, called feature maps, that help the model understand what it's seeing. OpenPose uses something called a Part Affinity Field (PAF) to connect these key points and figure out which ones belong to the same person. This helps it handle pictures with lots of people without getting confused.
+OpenPose is a popular pose estimation model that uses a special kind of [neural network](/wiki/neural-network) called a Convolutional Neural Network (CNN) to find key points on people in pictures or videos. The basic idea is to take an image and turn it into a bunch of smaller parts, called feature maps, that help the model understand what it's seeing. OpenPose uses something called a Part Affinity Field (PAF) to connect these key points and figure out which ones belong to the same person. This helps it handle pictures with lots of people without getting confused.
 
 The architecture of OpenPose starts with a backbone network, usually a pre-trained model like VGG-19 or ResNet, which processes the input image and extracts features. These features are then fed into two branches: one for predicting the confidence maps for each body part and another for predicting the PAFs that show how these parts are connected. By combining these two sets of predictions, OpenPose can accurately estimate the pose of multiple people in a single image. This two-stage approach, using both confidence maps and PAFs, makes OpenPose very good at handling complex scenes with many people moving around.
 
@@ -56,7 +56,7 @@ Another way FCPose stands out is by using a special kind of neural network calle
 
 Pose Contrastive Learning is a way to make pose estimation models better by teaching them to tell the difference between good and bad poses. Imagine you're learning to dance, and someone shows you both the right and wrong ways to move. By seeing these examples, you get better at knowing what a correct pose looks like. In the same way, Pose Contrastive Learning shows the model many examples of poses, some correct and some not, so it can learn to spot the right ones more easily.
 
-This method helps improve pose estimation by making the model focus on the important parts of the pose. Instead of just trying to guess where each body part is, the model learns to understand the overall shape and movement. This makes it more accurate, especially in tricky situations like when people are close together or moving quickly. By learning from contrasts, the model gets better at picking out the right pose, even if the picture or video isn't perfect.
+This method helps improve pose estimation by making the model focus on the important parts of the pose. Instead of just trying to guess where each body part is, the model learns to understand the overall shape and movement. This makes it more accurate, especially in tricky situations like when people are close together or moving quickly. By learning from contrasts, the model gets better at [picking](/wiki/asset-class-picking) out the right pose, even if the picture or video isn't perfect.
 
 ## Can you describe the concept of Pose Disentangling and its benefits in pose estimation?
 

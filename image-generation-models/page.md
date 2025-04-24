@@ -66,7 +66,7 @@ What makes AltDiffusion different is that it can make pictures that are easier t
 
 ## Can you describe the Differential Diffusion technique and its impact on image quality?
 
-Differential Diffusion is a way to make pictures using computers that tries to make the pictures look even better. It works by comparing two different ways of making the same picture and then picking the best parts from each way. Imagine you have two friends drawing the same thing, but one friend is really good at drawing the sky and the other is great at drawing trees. Differential Diffusion would take the sky from the first friend's drawing and the trees from the second friend's drawing to make one perfect picture.
+Differential Diffusion is a way to make pictures using computers that tries to make the pictures look even better. It works by comparing two different ways of making the same picture and then [picking](/wiki/asset-class-picking) the best parts from each way. Imagine you have two friends drawing the same thing, but one friend is really good at drawing the sky and the other is great at drawing trees. Differential Diffusion would take the sky from the first friend's drawing and the trees from the second friend's drawing to make one perfect picture.
 
 This technique helps make the pictures clearer and more detailed. By comparing and combining the best parts of different ways to make a picture, Differential Diffusion can fix small mistakes and make the final image look more real. It's like having a team of artists working together to make sure every part of the picture is as good as it can be. This means the pictures you get from Differential Diffusion are often more accurate and look better than pictures made by other methods.
 

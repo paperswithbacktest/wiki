@@ -18,7 +18,7 @@ These attacks are important because they show that machine learning models can b
 
 Adversarial attacks can mess up machine learning models by tricking them into making wrong guesses. Imagine a model that's really good at telling apart pictures of apples and oranges. Someone could change an apple picture just a tiny bit, so tiny that you wouldn't notice, but the model suddenly thinks it's an orange. These tiny changes are called adversarial examples. They can fool the model because the changes are in places that the model pays a lot of attention to, even if those places don't matter much to humans.
 
-These attacks are a big deal because they show that even the best models can be tricked. This can be dangerous in important places like hospitals or self-driving cars. If a self-driving car's model gets tricked into thinking a stop sign is something else, it could cause an accident. That's why people who study machine learning are always trying to find ways to make models stronger against these tricks. They might change how the models learn or add extra checks to catch the tricky inputs before they cause problems.
+These attacks are a big deal because they show that even the best models can be tricked. This can be dangerous in important places like hospitals or self-driving cars. If a self-driving car's model gets tricked into thinking a stop sign is something else, it could cause an accident. That's why people who study [machine learning](/wiki/machine-learning) are always trying to find ways to make models stronger against these tricks. They might change how the models learn or add extra checks to catch the tricky inputs before they cause problems.
 
 ## What are some common types of adversarial attacks?
 

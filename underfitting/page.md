@@ -28,7 +28,7 @@ Underfitting happens when a model is too simple to learn the patterns in the dat
 
 Another cause of underfitting is not using enough features in your dataset. If you're trying to predict whether it will rain and you only look at the current temperature, your model might underfit because it's not considering other important factors like humidity or wind speed. By adding more relevant features, you can help the model learn more about the data and reduce underfitting. Sometimes, underfitting can also happen if you don't train the model long enough. If you stop training too early, the model might not have had enough time to learn the patterns in the data properly.
 
-To fix underfitting, you might need to use a more complex model or add more features to your dataset. For example, if you're using a linear model like $$y = mx + b$$ and it's underfitting, you might switch to a polynomial model like $$y = ax^2 + bx + c$$ to capture more complex patterns. Or, if you're using a simple machine learning algorithm, you might try a more advanced one. By doing this, you can help the model better understand the data and make more accurate predictions.
+To fix underfitting, you might need to use a more complex model or add more features to your dataset. For example, if you're using a linear model like $$y = mx + b$$ and it's underfitting, you might switch to a polynomial model like $$y = ax^2 + bx + c$$ to capture more complex patterns. Or, if you're using a simple [machine learning](/wiki/machine-learning) algorithm, you might try a more advanced one. By doing this, you can help the model better understand the data and make more accurate predictions.
 
 ## How can you identify if a model is underfitting?
 
@@ -46,7 +46,7 @@ The consequences of underfitting can be serious. If a model underfits, it won't 
 
 Underfitting can happen in both simple and complex models, but it's more common in simple ones. Imagine you're trying to fit a straight line to data that actually forms a curve. If you use a simple linear model like $$y = mx + b$$, it might not be able to capture the curve, and this is underfitting. Simple models are more likely to underfit because they can't handle the complexity of the data well.
 
-Even complex models can underfit if they're not used correctly. For example, if you use a complex model like a neural network but don't give it enough data or features to learn from, it might still underfit. This happens because the model doesn't have enough information to learn the patterns in the data, even though it has the capacity to do so. So, underfitting can happen in any model if it's not given the right tools or data to learn properly.
+Even complex models can underfit if they're not used correctly. For example, if you use a complex model like a [neural network](/wiki/neural-network) but don't give it enough data or features to learn from, it might still underfit. This happens because the model doesn't have enough information to learn the patterns in the data, even though it has the capacity to do so. So, underfitting can happen in any model if it's not given the right tools or data to learn properly.
 
 ## What are some strategies to prevent underfitting?
 
@@ -74,11 +74,11 @@ For example, if you're trying to predict whether it will rain and you only look 
 
 ## What are the advanced techniques to address underfitting in deep learning?
 
-In deep learning, one advanced technique to address underfitting is to use more complex neural network architectures. For example, you might switch from a simple feedforward neural network to a more complex model like a convolutional neural network (CNN) or a recurrent neural network (RNN). These models have more layers and more parameters, which can help them learn more intricate patterns in the data. If you're using a simple model like $$y = mx + b$$ and it's not fitting the data well, trying a more complex model like a CNN can help capture the patterns better and reduce underfitting.
+In [deep learning](/wiki/deep-learning), one advanced technique to address underfitting is to use more complex neural network architectures. For example, you might switch from a simple feedforward neural network to a more complex model like a [convolutional neural network](/wiki/convolutional-neural-network) (CNN) or a recurrent neural network (RNN). These models have more layers and more parameters, which can help them learn more intricate patterns in the data. If you're using a simple model like $$y = mx + b$$ and it's not fitting the data well, trying a more complex model like a CNN can help capture the patterns better and reduce underfitting.
 
 Another technique is to use transfer learning. This means you start with a pre-trained model that has already learned from a large dataset, and then you fine-tune it on your specific data. This can be especially helpful if you don't have a lot of data to train your model on. By using a model that has already learned some general patterns, you can help it learn the specific patterns in your data more quickly and reduce underfitting. For example, you might use a pre-trained model from a large image dataset and then fine-tune it on your smaller dataset of specific images.
 
-Lastly, you can use techniques like data augmentation to increase the amount of training data. Data augmentation involves creating new training examples by applying transformations to your existing data, like rotating images or adding noise. This can help your model see more variations of the data and learn the patterns better. By using data augmentation, you can give your model more examples to learn from, which can help reduce underfitting.
+Lastly, you can use techniques like [data augmentation](/wiki/data-augmentation) to increase the amount of training data. Data augmentation involves creating new training examples by applying transformations to your existing data, like rotating images or adding noise. This can help your model see more variations of the data and learn the patterns better. By using data augmentation, you can give your model more examples to learn from, which can help reduce underfitting.
 
 ## How do you balance between underfitting and overfitting in model tuning?
 

@@ -83,3 +83,15 @@ Another way to improve discriminative models is to use regularization. Regulariz
 Discriminative models can be part of [deep learning](/wiki/deep-learning) by using neural networks, which are a type of deep learning model. Neural networks are made up of layers of connected nodes that learn to tell things apart by adjusting their connections. For example, a neural network might have an input layer where it looks at the data, some hidden layers where it finds patterns, and an output layer where it makes its guess. The model learns by changing the weights of the connections between nodes to make its guesses more accurate. This process is guided by a loss function, which tells the model how far off its guesses are from the right answers. By using techniques like backpropagation, the model can adjust its weights to make the loss function smaller, helping it learn better.
 
 One way to make discriminative models work even better with deep learning is to use advanced techniques like convolutional neural networks (CNNs) for things like image recognition. CNNs are good at finding patterns in images by using layers that look at small parts of the image and combine them to understand the whole picture. Another technique is to use recurrent neural networks (RNNs) for tasks like understanding text or speech, where the order of the data matters. RNNs can remember what they've seen before and use that to make better guesses about what comes next. By using these advanced deep learning architectures, discriminative models can handle more complex data and make more accurate predictions.
+
+## References & Further Reading
+
+[1]: Ng, A. Y., & Jordan, M. I. (2002). ["On Discriminative vs. Generative classifiers: A comparison of logistic regression and naive Bayes."](https://papers.nips.cc/paper/2001/file/7b7a53e239400a13bd6be6c91c4f6c4e-Paper.pdf) Advances in Neural Information Processing Systems 14.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Bishop, C. M. (2007). ["Discriminative vs. Generative" Classifiers."](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/Bishop-Valencia-07.pdf) International Conference on Machine Learning.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.

@@ -18,7 +18,7 @@ Another type of graphics model is the Markov Random Field (MRF). Unlike Bayesian
 
 ## How do graphics models differ from traditional machine learning models?
 
-Graphics models and traditional machine learning models both aim to understand and predict data, but they do so in different ways. Graphics models use graphs to show how different pieces of data are connected. These graphs have nodes, which are like points on a map, and edges, which are like roads connecting the points. The nodes represent variables, and the edges show how these variables depend on each other. This makes graphics models really good at showing complex relationships between data points. For example, in a weather model, graphics models can show how temperature, humidity, and rain are all connected.
+Graphics models and traditional [machine learning](/wiki/machine-learning) models both aim to understand and predict data, but they do so in different ways. Graphics models use graphs to show how different pieces of data are connected. These graphs have nodes, which are like points on a map, and edges, which are like roads connecting the points. The nodes represent variables, and the edges show how these variables depend on each other. This makes graphics models really good at showing complex relationships between data points. For example, in a weather model, graphics models can show how temperature, humidity, and rain are all connected.
 
 Traditional machine learning models, on the other hand, often use math formulas to predict outcomes based on input data. These models might use things like linear regression, where you try to draw a straight line through your data points, or decision trees, where you make a series of choices to reach a prediction. These models are great at finding patterns in data and making predictions, but they don't show the relationships between variables as clearly as graphics models do. For instance, a traditional model might predict the chance of rain based on temperature and humidity, but it won't show how these factors are connected in the same way a graphics model would.
 
@@ -82,4 +82,22 @@ Another technique to improve ManifoldPlus is to use "kernel methods." These meth
 
 Current research trends in graphics modeling with ManifoldPlus are focusing on making the tool work better with big data. Scientists are trying to find ways to handle more data faster and more accurately. They're using techniques like manifold alignment to combine different sets of data and see the big picture more clearly. For example, researchers are working on ways to line up data from different sources, like weather data from different countries, to make better predictions. The math behind this involves finding a transformation that minimizes the distance between corresponding points on different manifolds, which can be represented by the formula $$ \min_{f} \sum_{i,j} \| f(x_i) - y_j \|^2 $$. By doing this, ManifoldPlus can help understand complex relationships in large datasets, making it more useful for real-world applications.
 
-Future directions for ManifoldPlus include making it easier to use and more powerful. Researchers are looking into ways to automate the process of setting up the model so that it's less work for people. They're also exploring how to use ManifoldPlus in new areas, like biology and social networks, where understanding the connections between different pieces of data is really important. Another exciting area is combining ManifoldPlus with other machine learning techniques, like deep learning, to create even more accurate models. By working together, these methods could help us see patterns and make predictions that we couldn't before. This could lead to breakthroughs in fields like medicine, where understanding how different factors affect health could save lives.
+Future directions for ManifoldPlus include making it easier to use and more powerful. Researchers are looking into ways to automate the process of setting up the model so that it's less work for people. They're also exploring how to use ManifoldPlus in new areas, like biology and social networks, where understanding the connections between different pieces of data is really important. Another exciting area is combining ManifoldPlus with other machine learning techniques, like [deep learning](/wiki/deep-learning), to create even more accurate models. By working together, these methods could help us see patterns and make predictions that we couldn't before. This could lead to breakthroughs in fields like medicine, where understanding how different factors affect health could save lives.
+
+## References & Further Reading
+
+[1]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[2]: Koller, D., & Friedman, N. (2009). ["Probabilistic Graphical Models: Principles and Techniques."](https://dl.acm.org/doi/10.5555/1795555) MIT Press.
+
+[3]: Wainwright, M. J., & Jordan, M. I. (2008). ["Graphical Models, Exponential Families, and Variational Inference."](https://people.eecs.berkeley.edu/~jordan/papers/wainwright-jordan-fnt.pdf) Foundations and Trends® in Machine Learning, 1(1-2), 1-305.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[5]: MacKay, D. J. C. (2003). ["Information Theory, Inference, and Learning Algorithms."](https://assets.cambridge.org/97805216/42989/frontmatter/9780521642989_frontmatter.pdf) Cambridge University Press.
+
+[6]: Pearl, J. (1988). ["Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference."](https://dl.acm.org/doi/book/10.5555/534975) Morgan Kaufmann.
+
+[7]: Lauritzen, S. L. (1996). ["Graphical Models."](https://academic.oup.com/book/53988) Oxford University Press.
+
+[8]: ["Geometric Approaches to Differential Equations"](https://www.cambridge.org/us/universitypress/subjects/mathematics/differential-and-integral-equations-dynamical-systems-and-co/geometric-approaches-differential-equations) by Herbert Amann et al.

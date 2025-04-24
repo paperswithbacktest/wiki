@@ -40,7 +40,7 @@ where $$\mathbf{x}$$ is the input, $$\mathbf{z}$$ is the output, $$\sigma$$ is t
 
 ## How does a Dense Block enhance feature propagation in neural networks?
 
-A Dense Block helps neural networks learn better by connecting all the layers inside it to each other. In a regular neural network, each layer only connects to the next one. But in a Dense Block, every layer gets information from all the layers before it. This means that if you have four layers in a Dense Block, the fourth layer will get information directly from the first, second, and third layers, not just the third layer. This way, the network can reuse the features it learns and make sure important information doesn't get lost as it goes deeper.
+A Dense Block helps neural networks learn better by connecting all the layers inside it to each other. In a regular [neural network](/wiki/neural-network), each layer only connects to the next one. But in a Dense Block, every layer gets information from all the layers before it. This means that if you have four layers in a Dense Block, the fourth layer will get information directly from the first, second, and third layers, not just the third layer. This way, the network can reuse the features it learns and make sure important information doesn't get lost as it goes deeper.
 
 By connecting all the layers like this, a Dense Block makes it easier for the network to pass information from the beginning to the end. This is really helpful because it can stop the problem called "vanishing gradients," where the network has trouble learning as it gets deeper. The formula for how a layer in a Dense Block works is $$x_l = H_l([x_0, x_1, ..., x_{l-1}])$$, where $$x_l$$ is the output of the $$l$$-th layer, $$H_l$$ is the function of that layer, and $$[x_0, x_1, ..., x_{l-1}]$$ are the outputs of all the previous layers. This setup helps the network learn more detailed and useful features, making it better at tasks like recognizing objects in pictures.
 
@@ -70,7 +70,7 @@ The way a ResNeXt Block works is by splitting the image into many smaller parts 
 
 ## What are the advantages of using a Channel Attention Module in deep learning models?
 
-A Channel Attention Module helps deep learning models focus on the most important parts of an image. It does this by figuring out which features, or channels, are the most useful for understanding what's in the picture. Imagine you're looking at a photo of a dog. Some parts of the image, like the dog's eyes or fur, are more important for recognizing it's a dog. The Channel Attention Module helps the network pay more attention to these important parts and less attention to the less important ones, like the background. This makes the network better at recognizing objects and understanding images.
+A Channel Attention Module helps [deep learning](/wiki/deep-learning) models focus on the most important parts of an image. It does this by figuring out which features, or channels, are the most useful for understanding what's in the picture. Imagine you're looking at a photo of a dog. Some parts of the image, like the dog's eyes or fur, are more important for recognizing it's a dog. The Channel Attention Module helps the network pay more attention to these important parts and less attention to the less important ones, like the background. This makes the network better at recognizing objects and understanding images.
 
 The way a Channel Attention Module works is by using a special formula to decide how much attention to pay to each channel. The formula is $$y = x \odot \sigma(W_2 \cdot \text{ReLU}(W_1 \cdot \text{GlobalAveragePool}(x)))$$, where $$x$$ is the input, $$y$$ is the output, $$\sigma$$ is the sigmoid function, $$\odot$$ means multiplying each part, and $$W_1$$ and $$W_2$$ are numbers that help the network learn. By using this formula, the Channel Attention Module can help the network see the most important parts of the image and ignore the less important ones. This makes the network more accurate and efficient, especially when dealing with complex images.
 
@@ -85,3 +85,25 @@ Another big change in Inception-v3 is the use of "asymmetric convolutions." This
 The Ghost Module is a special part of some neural networks that makes them faster and better at understanding images. It does this by using a trick called "cheap operations." Instead of using a lot of big calculations to find features in the image, the Ghost Module uses smaller and simpler calculations. It starts with a regular convolutional layer, which is a common way to find features in images. Then, it adds something called "ghost features," which are extra features that are easy to calculate but still help the network understand the image better. By using these ghost features, the network can see more details without needing more calculations, making it faster and more efficient.
 
 Another important part of the Ghost Module is how it combines the regular features with the ghost features. It does this by using a formula that looks like $$y = \text{Concat}(x, \text{Ghost}(x))$$, where $$y$$ is the output, $$x$$ is the input from the regular convolutional layer, and $$\text{Ghost}(x)$$ are the ghost features. This way, the network can use both the regular features and the ghost features to understand the image better. By using these advanced techniques, the Ghost Module helps the network perform better on tasks like recognizing objects in pictures, while also making it faster and more efficient.
+
+## References & Further Reading
+
+[1]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["Imagenet classification with deep convolutional neural networks."](https://dl.acm.org/doi/10.1145/3065386) Communications of the ACM, 60(6), 84-90.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep residual learning for image recognition."](https://ieeexplore.ieee.org/document/7780459) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
+
+[3]: Hu, J., Shen, L., & Sun, G. (2018). ["Squeeze-and-excitation networks."](https://ieeexplore.ieee.org/document/8578843) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 7132-7141).
+
+[4]: Huang, G., Liu, Z., van der Maaten, L., & Weinberger, K. Q. (2017). ["Densely connected convolutional networks."](https://ieeexplore.ieee.org/document/8099726) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4700-4708).
+
+[5]: Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., & Wojna, Z. (2016). ["Rethinking the inception architecture for computer vision."](https://arxiv.org/abs/1512.00567) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2818-2826).
+
+[6]: Wang, X., Girshick, R., Gupta, A., & He, K. (2018). ["Non-local neural networks."](https://arxiv.org/abs/1711.07971) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 7794-7803).
+
+[7]: Jaderberg, M., Simonyan, K., Zisserman, A., & Kavukcuoglu, K. (2015). ["Spatial transformer networks."](https://arxiv.org/abs/1506.02025) Advances in neural information processing systems, 28.
+
+[8]: Xie, S., Girshick, R., Dollár, P., Tu, Z., & He, K. (2017). ["Aggregated residual transformations for deep neural networks."](https://ieeexplore.ieee.org/document/8100117) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1492-1500).
+
+[9]: Woo, S., Park, J., Lee, J. Y., & Kweon, I. S. (2018). ["Cbam: Convolutional block attention module."](https://arxiv.org/abs/1807.06521) In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 3-19).
+
+[10]: Han, K., Wang, Y., Zhang, Q., Li, Z., & Xu, C. (2020). ["Ghostnet: More features from cheap operations."](https://ieeexplore.ieee.org/document/9157333) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 1580-1589).

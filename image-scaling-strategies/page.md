@@ -22,7 +22,7 @@ Another reason image scaling is important is that it can affect how well the mod
 
 ## What are the common challenges faced when scaling images for machine learning?
 
-One common challenge when scaling images for machine learning is choosing the right scaling method. Different methods like bilinear interpolation and nearest-neighbor interpolation can affect how the image looks after scaling. Bilinear interpolation makes the image smoother but can be slower to compute. Nearest-neighbor interpolation is faster but can make the image look blocky or pixelated. Choosing the wrong method can lead to a loss of important details in the image, which can make it harder for the machine learning model to learn from the image.
+One common challenge when scaling images for [machine learning](/wiki/machine-learning) is choosing the right scaling method. Different methods like bilinear interpolation and nearest-neighbor interpolation can affect how the image looks after scaling. Bilinear interpolation makes the image smoother but can be slower to compute. Nearest-neighbor interpolation is faster but can make the image look blocky or pixelated. Choosing the wrong method can lead to a loss of important details in the image, which can make it harder for the machine learning model to learn from the image.
 
 Another challenge is deciding what size to scale the images to. Machine learning models often need all images to be the same size, but choosing the right size can be tricky. If the images are scaled down too much, important details might be lost. If they are scaled up too much, the model might take longer to train and could overfit to the larger images. Finding the right balance is important for making sure the model can learn effectively and perform well on new images.
 
@@ -48,7 +48,7 @@ Once you have your scaled and cropped images, you can feed them into your machin
 
 ## Can FixRes be used with any type of neural network architecture?
 
-FixRes can be used with many types of neural network architectures, like Convolutional Neural Networks (CNNs) and others that work with images. The main idea of FixRes is to keep the original shape of pictures as much as possible when changing their size. This helps the neural network see the pictures more like they are in real life, which can make it better at recognizing things. So, any neural network that needs to process images can use FixRes to help it work better.
+FixRes can be used with many types of [neural network](/wiki/neural-network) architectures, like Convolutional Neural Networks (CNNs) and others that work with images. The main idea of FixRes is to keep the original shape of pictures as much as possible when changing their size. This helps the neural network see the pictures more like they are in real life, which can make it better at recognizing things. So, any neural network that needs to process images can use FixRes to help it work better.
 
 However, it's important to think about how FixRes fits with the specific needs of your neural network. Some networks might need more changes to work well with FixRes. For example, if your network expects all pictures to be a certain size, you might need to adjust it to handle the different sizes that FixRes can produce. But overall, FixRes can be a helpful tool for many kinds of neural networks that work with images, making them more accurate and effective.
 

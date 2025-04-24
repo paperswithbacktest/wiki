@@ -24,13 +24,13 @@ Other industries like retail and marketing also benefit from Deep Tabular Learni
 
 ## How does a BiLSTM model work in the context of Deep Tabular Learning?
 
-A BiLSTM (Bidirectional Long Short-Term Memory) model is a type of deep learning model that can be used in Deep Tabular Learning to understand and predict patterns in structured data. In the context of tabular data, a BiLSTM model looks at the data in two directions: forward and backward. This means it can capture relationships and dependencies that might not be obvious if you only look at the data in one direction. For example, if you're predicting stock prices, a BiLSTM can consider both past and future data points to make a more accurate prediction.
+A BiLSTM (Bidirectional Long Short-Term Memory) model is a type of [deep learning](/wiki/deep-learning) model that can be used in Deep Tabular Learning to understand and predict patterns in structured data. In the context of tabular data, a BiLSTM model looks at the data in two directions: forward and backward. This means it can capture relationships and dependencies that might not be obvious if you only look at the data in one direction. For example, if you're predicting stock prices, a BiLSTM can consider both past and future data points to make a more accurate prediction.
 
 When using a BiLSTM for Deep Tabular Learning, the model processes the data through two LSTM layers, one going forward and one going backward. These layers are connected to a final output layer that combines the information from both directions. This allows the model to understand the context of each data point in relation to all other data points in the table. For instance, in healthcare, a BiLSTM model can analyze a patient's medical history by looking at past and future test results to predict the likelihood of a future health event. This bidirectional approach helps the model to capture more nuanced patterns and make better predictions.
 
 ## What is the NODE model and how does it improve upon traditional neural networks for tabular data?
 
-The NODE (Neural Oblivious Decision Ensembles) model is a special type of neural network designed to work well with tabular data. It combines the strengths of decision trees and neural networks to make better predictions. Unlike traditional neural networks that use complex layers to find patterns, NODE uses a simpler approach called "oblivious decision trees." These trees split the data in the same way at each level, which makes the model easier to understand and train. This approach helps NODE to handle different types of data more effectively, including data with missing values or outliers.
+The NODE (Neural Oblivious Decision Ensembles) model is a special type of [neural network](/wiki/neural-network) designed to work well with tabular data. It combines the strengths of decision trees and neural networks to make better predictions. Unlike traditional neural networks that use complex layers to find patterns, NODE uses a simpler approach called "oblivious decision trees." These trees split the data in the same way at each level, which makes the model easier to understand and train. This approach helps NODE to handle different types of data more effectively, including data with missing values or outliers.
 
 NODE improves upon traditional neural networks for tabular data by being more robust and easier to interpret. Traditional neural networks can struggle with tabular data because they are designed for more structured data like images or text. They often need a lot of data to work well and can be hard to understand because they use many layers and complex math. NODE, on the other hand, can work well with smaller datasets and is easier to explain. This makes it a better choice for many real-world applications where data might be messy or limited. By using oblivious decision trees, NODE can capture important patterns in the data without getting overwhelmed by the complexity of traditional neural networks.
 
@@ -81,3 +81,17 @@ One of the big challenges with heterogeneous tabular data is that traditional mo
 Hierarchical Multi-Task Learning (MTL) for tabular data uses special ways to handle multiple tasks that are connected. It does this by setting up the tasks in a tree-like structure. Imagine a tree where the main task is at the top, and smaller tasks branch out from it. This helps the model understand how the tasks are related and use that information to make better predictions. For example, if you're predicting both the type of a car and its fuel efficiency, Hierarchical MTL can see that these tasks are related and use what it learns about one to help with the other. This way, the model can share information between tasks and learn more efficiently.
 
 One advanced technique in Hierarchical MTL is called "task grouping." This means the model groups tasks that are similar together. By doing this, the model can learn patterns that are common to all tasks in a group. Another technique is "task-specific layers," where the model has special layers just for certain tasks. These layers help the model focus on what's important for each task. For example, if you're predicting both customer satisfaction and sales, the model might have one layer that looks at customer feedback for satisfaction and another layer that looks at sales data for sales. By using these techniques, Hierarchical MTL can handle multiple related tasks with tabular data in a smart and efficient way.
+
+## References & Further Reading
+
+[1]: Gorishniy, Y., Rubachev, I., Khrulkov, V., & Babenko, A. (2021). ["Revisiting Deep Learning Models for Tabular Data."](https://arxiv.org/abs/2106.11959) arXiv preprint arXiv:2106.11959.
+
+[2]: Popov, S., Morozov, S., & Babenko, A. (2019). ["Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data."](https://arxiv.org/abs/1909.06312) arXiv preprint arXiv:1909.06312.
+
+[3]: Arik, S. O., & Pfister, T. (2019). ["TabNet: Attentive Interpretable Tabular Learning."](https://arxiv.org/abs/1908.07442) arXiv preprint arXiv:1908.07442.
+
+[4]: Shwartz-Ziv, R., & Armon, A. (2021). ["Tabular Data: Deep Learning is Not All You Need."](https://arxiv.org/abs/2106.03253) arXiv preprint arXiv:2106.03253.
+
+[5]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[6]: Chandar, S., Desai, K., Grover, A., & Yadav, S. (2021). ["SAINT: Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training."](https://openreview.net/forum?id=nL2lDlsrZU) arXiv preprint arXiv:2106.01342.

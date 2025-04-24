@@ -18,7 +18,7 @@ Using a Saver is important for several reasons. First, it allows you to pause yo
 
 A Saver is a helpful tool in machine learning that lets you save the important parts of your model, like its parameters, to a file. When you train a model, it learns from the data and changes its parameters to make better guesses. These parameters are what the model has learned, so saving them is important. With a Saver, you can stop training whenever you want, save the model's state, and then come back later to continue training without starting over. This is really useful if training takes a long time.
 
-Another way a Saver helps is by making it easy to share your trained model with others. After you finish training your model, you can save it and give the file to someone else. They can then load the model and use it right away without needing to train it themselves. This saves time and makes it easier to work with others on machine learning projects. Overall, a Saver is a key tool that helps manage the lifecycle of machine learning models by allowing you to save, pause, and share your work.
+Another way a Saver helps is by making it easy to share your trained model with others. After you finish training your model, you can save it and give the file to someone else. They can then load the model and use it right away without needing to train it themselves. This saves time and makes it easier to work with others on [machine learning](/wiki/machine-learning) projects. Overall, a Saver is a key tool that helps manage the lifecycle of machine learning models by allowing you to save, pause, and share your work.
 
 ## What are the key features of Saver for beginners?
 

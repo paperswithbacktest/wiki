@@ -18,7 +18,7 @@ In essence, the order book is more than a simple list of orders; it is a window 
 
 The mechanics of order books are integral to understanding market operations across various trading platforms. At its core, an order book is a list of buy and sell orders organized by price level. It acts as a ledger, showing real-time demand and supply for a particular asset. Each order listed in the book has a specific price and quantity, representing a trader's willingness to buy or sell at that price.
 
-In markets like stock exchanges, forex, and even cryptocurrency exchanges, order books play a crucial role. They provide a transparent view of the market's trading activity, allowing traders to see the quantity of orders at different price points. This transparency is vital for fair and efficient market functioning.
+In markets like stock exchanges, [forex](/wiki/forex-system), and even [cryptocurrency](/wiki/cryptocurrency) exchanges, order books play a crucial role. They provide a transparent view of the market's trading activity, allowing traders to see the quantity of orders at different price points. This transparency is vital for fair and efficient market functioning.
 
 When a buy order matches a sell order in terms of price, a trade occurs, and these orders are removed from the book. This process is facilitated by a **matching engine**, a sophisticated system that pairs buy and sell orders based on their price and time priority. The price at which these orders match becomes the latest market price for the asset.
 

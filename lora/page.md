@@ -22,7 +22,7 @@ The key difference in how LoRA works compared to traditional methods is in how i
 
 ## What are the main applications of Lora in machine learning?
 
-LoRA, or Low-Rank Adaptation, is mainly used to make big machine learning models work better on new tasks without needing to start training from scratch. Imagine you have a huge model that's good at understanding language. If you want it to be good at understanding medical texts too, you don't have to retrain the whole model. With LoRA, you just add some small parts to the model that you can train quickly. This way, you save time and computer power because you're only working on a tiny part of the model.
+LoRA, or Low-Rank Adaptation, is mainly used to make big [machine learning](/wiki/machine-learning) models work better on new tasks without needing to start training from scratch. Imagine you have a huge model that's good at understanding language. If you want it to be good at understanding medical texts too, you don't have to retrain the whole model. With LoRA, you just add some small parts to the model that you can train quickly. This way, you save time and computer power because you're only working on a tiny part of the model.
 
 One common use of LoRA is in natural language processing. For example, if you have a model that's already good at general language tasks, and you want it to be better at understanding legal documents, LoRA helps you do that faster. It adds small, trainable parts to the model, which means you can focus on teaching the model about legal terms without messing up what it already knows about general language. This makes it easier and quicker to use the same model for different kinds of language tasks.
 

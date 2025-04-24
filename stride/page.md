@@ -22,7 +22,7 @@ For example, when looking at pictures, traditional methods might check every pix
 
 ## What are the key components of the Stride machine learning framework?
 
-The Stride machine learning framework focuses on making the learning process faster and more efficient. It does this by taking larger steps through the data, which is called "striding." Instead of looking at every small piece of data, Stride looks at bigger chunks at once. This helps the computer cover more ground quickly and find patterns or make predictions faster. For example, when working with images, Stride might look at groups of pixels instead of individual ones, allowing it to understand the image more quickly.
+The Stride [machine learning](/wiki/machine-learning) framework focuses on making the learning process faster and more efficient. It does this by taking larger steps through the data, which is called "striding." Instead of looking at every small piece of data, Stride looks at bigger chunks at once. This helps the computer cover more ground quickly and find patterns or make predictions faster. For example, when working with images, Stride might look at groups of pixels instead of individual ones, allowing it to understand the image more quickly.
 
 Another key component of Stride is its ability to handle large datasets efficiently. Traditional machine learning might struggle with big data because it takes too long to process everything. Stride, on the other hand, can skip over less important parts of the data and focus on what matters more. This means it can work well with large amounts of information without slowing down. By using Stride, the computer can learn from big datasets faster and make better decisions based on the data it has.
 
@@ -38,7 +38,7 @@ After setting up the Stride algorithm, you start the training process. The compu
 
 Stride machine learning is particularly well-suited for problems involving large datasets, like those found in image recognition and natural language processing. In image recognition, Stride helps the computer look at groups of pixels instead of every single one. This makes it faster to understand what's in the picture. For example, if you're trying to identify different objects in a photo, Stride can quickly scan the image and focus on the important parts, like the shapes and colors of the objects.
 
-In natural language processing, Stride is useful for understanding long pieces of text. Instead of reading every word, the computer can take bigger steps and still get the main idea of the text. This is helpful when you have a lot of documents to go through, like books or articles. By using Stride, the computer can process this information more quickly and make sense of it without getting bogged down in every detail.
+In natural language processing, Stride is useful for understanding long pieces of text. Instead of reading every word, the computer can take bigger steps and still get the main idea of the text. This is helpful when you have a lot of documents to go through, like [books](/wiki/algo-trading-books) or articles. By using Stride, the computer can process this information more quickly and make sense of it without getting bogged down in every detail.
 
 ## How does Stride handle data preprocessing and feature engineering?
 

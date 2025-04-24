@@ -18,7 +18,7 @@ This technique is important for many reasons. For one, it helps restore old or d
 
 At a basic level, video inpainting models use a type of artificial intelligence called deep learning. These models are trained on lots of videos to learn how things move and look in different scenes. When a video has missing parts, the model looks at the surrounding frames and tries to guess what should be in the missing spots. It does this by finding patterns and using what it learned from other videos to fill in the gaps. The goal is to make the filled-in parts look as natural as possible, blending seamlessly with the rest of the video.
 
-To do this, the model often uses something called a neural network. This is like a big math problem that the computer solves to figure out what to put in the missing areas. The neural network looks at the pixels around the missing spot and uses them to create new pixels that fit well. It keeps adjusting until the filled-in part looks right. This process can be quite complex, but the basic idea is to use what the model knows about videos to make smart guesses and fill in the blanks.
+To do this, the model often uses something called a [neural network](/wiki/neural-network). This is like a big math problem that the computer solves to figure out what to put in the missing areas. The neural network looks at the pixels around the missing spot and uses them to create new pixels that fit well. It keeps adjusting until the filled-in part looks right. This process can be quite complex, but the basic idea is to use what the model knows about videos to make smart guesses and fill in the blanks.
 
 ## What are the common applications of video inpainting?
 

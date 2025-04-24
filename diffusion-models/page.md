@@ -26,7 +26,7 @@ In summary, while GANs use a competitive approach and VAEs use a latent space, D
 
 The basic principle behind Diffusion Models is the idea of adding noise to data and then learning how to remove that noise to create new data. Imagine you have a clear picture, and you slowly add more and more static until it's just a mess of noise. A Diffusion Model learns how to take that noisy mess and turn it back into a clear picture. This process is broken down into many small steps, where the model starts with random noise and gradually refines it into something that looks like the data it was trained on.
 
-This is done using a neural network that learns the reverse of the diffusion process. If we denote the forward diffusion process as adding noise over time steps $$ t $$, the model learns to predict the reverse process, effectively denoising the data step by step. This makes Diffusion Models very powerful for tasks like generating images, because they can create detailed and realistic pictures from scratch by carefully controlling each step of the denoising process.
+This is done using a [neural network](/wiki/neural-network) that learns the reverse of the diffusion process. If we denote the forward diffusion process as adding noise over time steps $$ t $$, the model learns to predict the reverse process, effectively denoising the data step by step. This makes Diffusion Models very powerful for tasks like generating images, because they can create detailed and realistic pictures from scratch by carefully controlling each step of the denoising process.
 
 ## Can you explain the concept of forward and reverse diffusion processes?
 
@@ -62,7 +62,7 @@ The other part of the model is learning the reverse diffusion process. This is w
 
 ## What are Consistency Models and how do they relate to Diffusion Models?
 
-Consistency Models are a type of machine learning model that aim to generate new data, like images or sounds, more quickly than Diffusion Models. Imagine you have a blurry picture and want to make it clear. Diffusion Models do this by slowly adding noise to a clear picture and then learning how to remove that noise step by step. Consistency Models, on the other hand, try to do the same thing but in fewer steps. They work by directly predicting a clear image from a noisy one, without needing to go through all the small steps that Diffusion Models use.
+Consistency Models are a type of [machine learning](/wiki/machine-learning) model that aim to generate new data, like images or sounds, more quickly than Diffusion Models. Imagine you have a blurry picture and want to make it clear. Diffusion Models do this by slowly adding noise to a clear picture and then learning how to remove that noise step by step. Consistency Models, on the other hand, try to do the same thing but in fewer steps. They work by directly predicting a clear image from a noisy one, without needing to go through all the small steps that Diffusion Models use.
 
 The main idea behind Consistency Models is to find a shortcut in the process of generating data. While Diffusion Models use a long series of steps to go from noise to a clear image, Consistency Models try to jump straight to the end result. This makes them faster and more efficient. They achieve this by learning a function that can take a noisy image and predict what the clear image should look like, using fewer steps than Diffusion Models. This makes Consistency Models a promising approach for applications where speed is important, like real-time image generation or quick data processing.
 

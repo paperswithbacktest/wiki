@@ -36,7 +36,7 @@ Together, the saved_model.pb file and the variables folder make up the SavedMode
 
 ## Can you explain the difference between SavedModel and other model formats like ONNX or PMML?
 
-SavedModel is a format used by TensorFlow to save and load machine learning models. It includes everything needed to run the model, like the model's architecture and weights. This makes it easy to move the model from one place to another, like from your computer to a server. SavedModel works well with different versions of TensorFlow, so you can be sure it will work reliably no matter where you use it.
+SavedModel is a format used by TensorFlow to save and load [machine learning](/wiki/machine-learning) models. It includes everything needed to run the model, like the model's architecture and weights. This makes it easy to move the model from one place to another, like from your computer to a server. SavedModel works well with different versions of TensorFlow, so you can be sure it will work reliably no matter where you use it.
 
 ONNX, which stands for Open Neural Network Exchange, is a format that can be used with many different machine learning tools, not just TensorFlow. It's like a common language that different tools can understand. This makes it easier to move models between different tools, but it might not include everything that a specific tool needs. PMML, or Predictive Model Markup Language, is another format that is used to represent models in a way that can be understood by different tools. It's often used for simpler models and is good for sharing models with people who might not use the same tools as you.
 

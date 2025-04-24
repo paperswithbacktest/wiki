@@ -18,7 +18,7 @@ For instance, when setting up a machine learning project, you might have a root 
 
 In machine learning projects, the root directory is the main folder that holds all the files and subfolders needed for the project. It's like the starting point of your project's file system. When you set up a machine learning project, you might create a root directory named something like 'my_ml_project'. Inside this root directory, you can organize different parts of your project, such as a 'data' folder for your datasets, a 'scripts' folder for your code, and a 'models' folder for saving your trained models. This organization helps you and your team find and use files easily.
 
-Using a well-organized root directory is important because it makes managing a machine learning project simpler. For example, if you need to run an experiment, you can quickly find the right data and scripts in their respective folders. Also, when working with others, a clear structure in the root directory helps everyone understand where to find and put files. This way, the root directory acts as the backbone of your project's file system, keeping everything tidy and accessible.
+Using a well-organized root directory is important because it makes managing a [machine learning](/wiki/machine-learning) project simpler. For example, if you need to run an experiment, you can quickly find the right data and scripts in their respective folders. Also, when working with others, a clear structure in the root directory helps everyone understand where to find and put files. This way, the root directory acts as the backbone of your project's file system, keeping everything tidy and accessible.
 
 ## What are the common contents found in the Root Directory of a machine learning project?
 

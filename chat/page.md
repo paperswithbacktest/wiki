@@ -18,7 +18,7 @@ One popular method for chat machine learning is using something called a neural 
 
 Chat machine learning and traditional chatbots work differently. Traditional chatbots follow a set of rules or scripts to respond to users. They look for specific words or phrases in what you say and then pick a response from a list of pre-written answers. This means they can only handle certain kinds of questions and might not understand if you ask something in a different way.
 
-On the other hand, chat machine learning uses artificial intelligence to learn from a lot of text data. It doesn't just follow rules; it tries to understand the patterns and meanings in language. This allows it to have more natural conversations because it can generate new responses based on what it has learned. So, even if you ask a question in a new way, a machine learning chatbot can often still understand and reply correctly.
+On the other hand, chat machine learning uses [artificial intelligence](/wiki/ai-artificial-intelligence) to learn from a lot of text data. It doesn't just follow rules; it tries to understand the patterns and meanings in language. This allows it to have more natural conversations because it can generate new responses based on what it has learned. So, even if you ask a question in a new way, a machine learning chatbot can often still understand and reply correctly.
 
 In summary, traditional chatbots are like following a recipe, while chat [machine learning](/wiki/machine-learning) is more like learning to cook by tasting and experimenting with different ingredients. This makes machine learning chatbots more flexible and better at understanding and responding to a wide range of questions and topics.
 

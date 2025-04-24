@@ -1,6 +1,7 @@
 ---
-title: "Shorting The Basis: Principles And Mechanisms"
-description: "Explore Short the Basis in futures trading to mitigate price risks by securing price differentials. Learn principles, mechanisms, and algorithmic innovations."
+title: Understanding Shorting the Basis Strategy in Futures Markets
+description: Shorting the Basis lets traders profit from narrowing gaps between futures
+  and spot prices with contract sales and asset trades Discover more inside
 ---
 
 

@@ -18,7 +18,7 @@ In mathematics and physics, "lambda" (often written as $$\lambda$$) is a commonl
 
 Lamda, or Language Model for Dialogue Applications, is different from other language models because it focuses on creating more natural and engaging conversations. While many language models are good at understanding and generating text, Lamda is specifically designed to be used in dialogue situations. This means it tries to understand the context of a conversation and respond in a way that feels more human-like. For example, if you ask Lamda a question, it will try to give a thoughtful answer that keeps the conversation going, rather than just providing a short, factual response.
 
-Another way Lamda differs is in how it was trained. Google used a lot of dialogue data to teach Lamda how to talk like a person. This is different from other models that might be trained on a wider variety of text, like books or articles. By focusing on dialogue, Lamda can better understand the back-and-forth nature of a conversation. This makes it more useful for applications like chatbots or virtual assistants, where having a natural conversation is important.
+Another way Lamda differs is in how it was trained. Google used a lot of dialogue data to teach Lamda how to talk like a person. This is different from other models that might be trained on a wider variety of text, like [books](/wiki/algo-trading-books) or articles. By focusing on dialogue, Lamda can better understand the back-and-forth nature of a conversation. This makes it more useful for applications like chatbots or virtual assistants, where having a natural conversation is important.
 
 ## What are the main applications of Lamda in dialogue systems?
 

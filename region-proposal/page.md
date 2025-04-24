@@ -25,9 +25,9 @@ Another reason Region Proposals are important is that they improve the accuracy 
 
 Region Proposal Networks (RPN) and traditional methods like Selective Search are both used to find areas in an image that might contain objects, but they work in different ways. Selective Search looks at the image and groups pixels together based on things like color, texture, and size. It then combines these groups to form bigger regions that might contain objects. This method can be slow because it has to look at the whole image and do a lot of grouping and merging.
 
-On the other hand, RPN uses a type of artificial intelligence called a neural network to quickly find these regions. It looks at the image and suggests many small boxes, called anchor boxes, that might contain objects. Then, it uses the neural network to decide which of these boxes are good guesses and adjusts them to better fit the objects. This makes RPN much faster and more accurate than Selective Search because it can learn from examples and improve over time.
+On the other hand, RPN uses a type of [artificial intelligence](/wiki/ai-artificial-intelligence) called a [neural network](/wiki/neural-network) to quickly find these regions. It looks at the image and suggests many small boxes, called anchor boxes, that might contain objects. Then, it uses the neural network to decide which of these boxes are good guesses and adjusts them to better fit the objects. This makes RPN much faster and more accurate than Selective Search because it can learn from examples and improve over time.
 
-In summary, while Selective Search relies on traditional image processing techniques to find regions, RPN uses advanced machine learning to do the same job more efficiently. This difference makes RPN a popular choice in modern object detection systems, where speed and accuracy are important.
+In summary, while Selective Search relies on traditional image processing techniques to find regions, RPN uses advanced [machine learning](/wiki/machine-learning) to do the same job more efficiently. This difference makes RPN a popular choice in modern object detection systems, where speed and accuracy are important.
 
 ## How does Selective Search generate region proposals?
 

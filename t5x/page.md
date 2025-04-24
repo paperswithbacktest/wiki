@@ -22,7 +22,7 @@ While T5 is the model that performs the actual language tasks, T5X provides the 
 
 ## What are the key features of T5X that make it suitable for machine learning tasks?
 
-T5X is designed to make machine learning tasks easier and faster. It helps researchers and developers build and train big language models like T5 without using too much time or computer power. T5X is very flexible, which means it can be used for many different tasks, like translating languages, answering questions, or summarizing text. This flexibility comes from its ability to work with different types of models and handle large datasets efficiently.
+T5X is designed to make [machine learning](/wiki/machine-learning) tasks easier and faster. It helps researchers and developers build and train big language models like T5 without using too much time or computer power. T5X is very flexible, which means it can be used for many different tasks, like translating languages, answering questions, or summarizing text. This flexibility comes from its ability to work with different types of models and handle large datasets efficiently.
 
 One of the key features of T5X is its speed. It uses smart ways to process data and train models, which makes everything run faster. This is important because training big models can take a long time, and T5X helps to cut down on that time. Another important feature is its scalability. T5X can handle models of different sizes and datasets of different scales, making it a good choice for both small projects and big research efforts. By providing these tools, T5X helps users to experiment and improve their language models more easily.
 

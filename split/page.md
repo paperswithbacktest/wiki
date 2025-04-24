@@ -18,7 +18,7 @@ For example, in a healthcare setting, a hospital might want to train a model to 
 
 Split machine learning is important in data science because it helps keep data private while still allowing us to build useful models. Imagine you have sensitive information, like medical records or financial data, that you can't share with others. With split machine learning, you can work with this data on your own computer and only send a small part of the results to someone else who is helping to build the model. This way, your private data stays safe, but you can still benefit from advanced machine learning techniques.
 
-This technique is especially useful in fields like healthcare, finance, and government, where data privacy is a big concern. For example, a hospital might want to use patient data to predict diseases but can't share that data due to privacy laws. Using split machine learning, the hospital can process the data locally and send only what's needed to a research group. The research group can then help build a model without ever seeing the actual patient data. This makes it possible to improve healthcare outcomes while keeping patient information secure.
+This technique is especially useful in fields like healthcare, finance, and government, where data privacy is a big concern. For example, a hospital might want to use patient data to predict diseases but can't share that data due to privacy laws. Using split [machine learning](/wiki/machine-learning), the hospital can process the data locally and send only what's needed to a research group. The research group can then help build a model without ever seeing the actual patient data. This makes it possible to improve healthcare outcomes while keeping patient information secure.
 
 ## How does split machine learning differ from traditional machine learning?
 
@@ -81,3 +81,15 @@ Using split machine learning with other techniques can also help solve some of t
 In the future, split machine learning is expected to become even more important as more organizations focus on keeping data private while still using advanced machine learning techniques. One trend we might see is the development of better and faster ways to split data and communicate between the data owner and the model trainer. This could mean using new types of encryption to make the communication more secure and efficient, so the model can be trained faster without risking data privacy. Another trend could be the integration of split machine learning with other privacy-focused techniques, like differential privacy, to make models even more secure and accurate.
 
 We might also see split machine learning being used in more industries and for more types of data. For example, it could be used in smart cities to analyze traffic patterns without sharing personal information about drivers, or in education to predict student performance without sharing private student data. As technology improves, split machine learning could become easier to set up and use, making it accessible to smaller organizations that don't have a lot of resources. This would help more people benefit from advanced machine learning while keeping their data safe.
+
+## References & Further Reading
+
+[1]: Vepakomma, P., Gupta, O., Swedish, T., & Raskar, R. (2018). Split learning for health: Distributed deep learning without sharing raw patient data. ["arXiv preprint arXiv:1812.00564"](https://arxiv.org/abs/1812.00564).
+
+[2]: Shokri, R., & Shmatikov, V. (2015). ["Privacy-preserving deep learning"](https://dl.acm.org/doi/10.1145/2810103.2813687). In Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security.
+
+[3]: Yang, Q., Liu, Y., Chen, T., & Tong, Y. (2019). ["Federated machine learning: Concept and applications"](https://arxiv.org/abs/1902.04885). ACM Transactions on Intelligent Systems and Technology.
+
+[4]: Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B., Mironov, I., Talwar, K., & Zhang, L. (2016). ["Deep learning with differential privacy"](https://arxiv.org/abs/1607.00133). In Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security.
+
+[5]: Bonawitz, K., et al. (2019). ["Towards Federated Learning at Scale: System Design"](https://arxiv.org/abs/1902.01046). In Proceedings of the 2nd SysML Conference.

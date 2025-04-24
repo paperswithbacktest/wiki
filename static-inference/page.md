@@ -20,7 +20,7 @@ Static inference and dynamic inference are two different ways to understand how 
 
 On the other hand, dynamic inference is like actually taking the journey and seeing what happens along the way. It involves running the model on real data and watching how it performs. This gives you a direct look at the model's behavior, its accuracy, and how it handles different situations. For instance, if you run a model on text data, dynamic inference will show you how well it understands and processes the words and sentences in real time.
 
-Both methods are important. Static inference helps you plan and optimize your model before you spend a lot of time training it. Dynamic inference gives you the real-world feedback you need to make the model better. Together, they help you build a more effective and efficient machine learning model.
+Both methods are important. Static inference helps you plan and optimize your model before you spend a lot of time training it. Dynamic inference gives you the real-world feedback you need to make the model better. Together, they help you build a more effective and efficient [machine learning](/wiki/machine-learning) model.
 
 ## What are the main benefits of using static inference in machine learning models?
 
@@ -38,7 +38,7 @@ Once you have a clear picture of the model's expected behavior, you can apply op
 
 Static inference works well with models that have a clear and straightforward structure. For example, linear models like linear regression or logistic regression are great for static inference because their equations are simple and easy to analyze. You can look at the model's coefficients and predict how it will behave with different kinds of data. If you know the model's formula is something like $$ y = \beta_0 + \beta_1 x_1 + \beta_2 x_2 $$, you can estimate how changes in $$ x_1 $$ and $$ x_2 $$ will affect $$ y $$ without running the model.
 
-Neural networks can also benefit from static inference, but it's a bit trickier because they have many layers and parameters. However, if you focus on the network's architecture, like the number of layers, the type of activation functions, and the input data's shape, you can make educated guesses about its performance. For instance, if you know your neural network will process images, you can predict that it will need a lot of memory to handle the pixel data. By analyzing these aspects, you can make adjustments to improve the model's efficiency before training.
+Neural networks can also benefit from static inference, but it's a bit trickier because they have many layers and parameters. However, if you focus on the network's architecture, like the number of layers, the type of activation functions, and the input data's shape, you can make educated guesses about its performance. For instance, if you know your [neural network](/wiki/neural-network) will process images, you can predict that it will need a lot of memory to handle the pixel data. By analyzing these aspects, you can make adjustments to improve the model's efficiency before training.
 
 Decision trees and random forests are another type of model where static inference can be useful. You can look at the tree's structure and the splits it makes to predict how it will classify new data. If you see that the tree splits mostly on certain features, you can infer that those features will be important for the model's decisions. By understanding the tree's logic, you can optimize the model's performance by focusing on the most relevant features before training.
 

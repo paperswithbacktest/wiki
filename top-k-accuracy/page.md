@@ -34,7 +34,7 @@ Here's a simple way to think about it: Imagine you have 100 predictions, and for
 
 ## What are the common values of K used in Top-K Accuracy?
 
-In machine learning, the most common values of K used in Top-K Accuracy are 1, 3, and 5. Top-1 Accuracy is the strictest measure because it only counts a prediction as correct if the model's top guess is right. Top-3 and Top-5 Accuracy are more relaxed, allowing the correct answer to be in the top 3 or top 5 guesses, respectively. These values are popular because they balance between being strict enough to be meaningful and lenient enough to show how well the model is doing overall.
+In [machine learning](/wiki/machine-learning), the most common values of K used in Top-K Accuracy are 1, 3, and 5. Top-1 Accuracy is the strictest measure because it only counts a prediction as correct if the model's top guess is right. Top-3 and Top-5 Accuracy are more relaxed, allowing the correct answer to be in the top 3 or top 5 guesses, respectively. These values are popular because they balance between being strict enough to be meaningful and lenient enough to show how well the model is doing overall.
 
 Choosing the right K depends on what you're trying to do with your model. For tasks where getting the exact top answer is important, like medical diagnosis, you might stick with Top-1 Accuracy. But for things like recommending products or movies, where it's okay to give a few good options, Top-3 or Top-5 Accuracy might be more useful. The formula to calculate Top-K Accuracy is simple: $$ \text{Top-K Accuracy} = \frac{\text{Number of correct predictions in top K}}{\text{Total number of predictions}} $$. This helps you see how often your model is close to being right, even if it doesn't always get the top spot.
 

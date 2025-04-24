@@ -30,7 +30,7 @@ In both cases, the goal is to make the data more balanced so the computer can le
 
 ## How does undersampling affect the performance of a machine learning model?
 
-Undersampling can help a machine learning model perform better when dealing with imbalanced data. By reducing the number of examples from the larger class to match the smaller one, the model gets a chance to learn about both classes equally well. For example, if you're trying to spot rare events like fraud, undersampling the common non-fraud cases can make the model pay more attention to the fraud cases, improving its ability to catch them.
+Undersampling can help a [machine learning](/wiki/machine-learning) model perform better when dealing with imbalanced data. By reducing the number of examples from the larger class to match the smaller one, the model gets a chance to learn about both classes equally well. For example, if you're trying to spot rare events like fraud, undersampling the common non-fraud cases can make the model pay more attention to the fraud cases, improving its ability to catch them.
 
 However, undersampling also has its downsides. When you throw away data, you might lose important information that could help the model learn better. Also, if you're not careful about which data you remove, you might end up with a less varied set of examples. This can make the model less good at understanding new data it hasn't seen before, which can hurt its overall performance. So, while undersampling can be helpful, it's important to use it carefully and consider other methods like oversampling or special algorithms designed for imbalanced data.
 
@@ -44,7 +44,7 @@ There's also a method called Cluster Centroids, which works by grouping similar 
 
 ## Can you explain the Random Undersampling method?
 
-Random undersampling is a way to balance data where one type of thing is much more common than another. Imagine you have a lot more pictures of dogs than cats. To help the computer learn about both equally well, you can use random undersampling to take away some dog pictures until you have the same number of dog and cat pictures. You do this by choosing which dog pictures to remove completely by chance, like picking numbers out of a hat.
+Random undersampling is a way to balance data where one type of thing is much more common than another. Imagine you have a lot more pictures of dogs than cats. To help the computer learn about both equally well, you can use random undersampling to take away some dog pictures until you have the same number of dog and cat pictures. You do this by choosing which dog pictures to remove completely by chance, like [picking](/wiki/asset-class-picking) numbers out of a hat.
 
 This method is easy to do because you don't need to think too hard about which pictures to keep or throw away. You just let luck decide. But there's a downside: by removing pictures randomly, you might accidentally get rid of important ones that could help the computer learn better. So, while random undersampling can help balance the data, it's important to be careful and maybe try other methods too, like adding more cat pictures or using special computer tricks designed for this kind of problem.
 

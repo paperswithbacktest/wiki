@@ -22,7 +22,7 @@ These functions help the network handle different types of data better. For exam
 
 ## Can you explain the basic concept behind the Swish activation function?
 
-The Swish activation function is a newer type of activation function that can help neural networks learn better. It's a bit like a mix between the ReLU and the sigmoid function. The cool thing about Swish is that it can adapt to the data it's working with, which means it can be more flexible than other functions. This adaptability can make the neural network perform better, especially with complex data.
+The Swish activation function is a newer type of activation function that can help neural networks learn better. It's a bit like a mix between the ReLU and the sigmoid function. The cool thing about Swish is that it can adapt to the data it's working with, which means it can be more flexible than other functions. This adaptability can make the [neural network](/wiki/neural-network) perform better, especially with complex data.
 
 The formula for the Swish function is pretty simple. It's written as $$ f(x) = x \cdot \sigma(x) $$, where $$ \sigma(x) $$ is the sigmoid function. This means that for any input $$ x $$, the Swish function multiplies $$ x $$ by the sigmoid of $$ x $$. The result is a smooth curve that's easy for the network to work with. Because of this, Swish can help the network learn and predict more accurately.
 
@@ -42,7 +42,7 @@ The way LEAF works is by using a formula that can be changed. The basic idea is 
 
 The SPLASH activation function is special because it can change itself to fit different kinds of data. It's like a chameleon that can adapt to its surroundings. SPLASH does this by using a formula that can be adjusted during training. The formula for SPLASH is $$ f(x) = \alpha \cdot \sigma(\beta \cdot x) $$, where $$ \alpha $$ and $$ \beta $$ are numbers that can be changed to make the function work better with the data. This means that as the neural network learns, it can tweak these numbers to make the function more suitable for the task at hand.
 
-This adaptability makes SPLASH really good at handling different types of data. For example, if the data needs a gentle curve to understand it, SPLASH can adjust to provide that. If the data needs a sharp turn, SPLASH can change to give that too. By being able to adapt, SPLASH helps the neural network learn and predict more accurately, making it a powerful tool for machine learning tasks.
+This adaptability makes SPLASH really good at handling different types of data. For example, if the data needs a gentle curve to understand it, SPLASH can adjust to provide that. If the data needs a sharp turn, SPLASH can change to give that too. By being able to adapt, SPLASH helps the neural network learn and predict more accurately, making it a powerful tool for [machine learning](/wiki/machine-learning) tasks.
 
 ## What makes modReLU unique among other adaptive activation functions?
 

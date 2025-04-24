@@ -22,7 +22,7 @@ For example, imagine a model that's trying to predict if emails are spam or not.
 
 ## What is the difference between TPR and sensitivity?
 
-True Positive Rate (TPR) and sensitivity are actually the same thing in the world of machine learning and statistics. They both measure how well a model can find the positive cases correctly. The formula for both TPR and sensitivity is $$ \text{TPR} = \text{Sensitivity} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}} $$. This means they are calculated in the same way, by dividing the number of true positives by the total number of actual positives.
+True Positive Rate (TPR) and sensitivity are actually the same thing in the world of [machine learning](/wiki/machine-learning) and [statistics](/wiki/bayesian-statistics). They both measure how well a model can find the positive cases correctly. The formula for both TPR and sensitivity is $$ \text{TPR} = \text{Sensitivity} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}} $$. This means they are calculated in the same way, by dividing the number of true positives by the total number of actual positives.
 
 In simple terms, if you're using a test or a model to check for something like a disease, TPR and sensitivity tell you how good the test is at catching the disease when it's really there. So, whether you call it TPR or sensitivity, it's all about how well the model or test can say "yes" when the answer should be "yes".
 

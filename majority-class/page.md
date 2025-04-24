@@ -20,7 +20,7 @@ To identify the majority class in a dataset, you need to count how many times ea
 
 You can do this counting manually if your dataset is small, but for larger datasets, you would typically use a computer program. In programming languages like Python, you could use libraries like Pandas to help you count the occurrences of each class. For instance, you might use the `value_counts()` function on a column of your dataset to see how many times each class appears, and then easily spot which class has the highest count.
 
-Identifying the majority class is important because it can help you understand your data better and make better decisions about how to build your machine learning model. If one class dominates your dataset, you might need to use techniques like oversampling the minority class or undersampling the majority class to balance your data. This can help your model learn to recognize all classes more effectively, rather than just guessing the majority class all the time.
+Identifying the majority class is important because it can help you understand your data better and make better decisions about how to build your [machine learning](/wiki/machine-learning) model. If one class dominates your dataset, you might need to use techniques like oversampling the minority class or undersampling the majority class to balance your data. This can help your model learn to recognize all classes more effectively, rather than just guessing the majority class all the time.
 
 ## Why is understanding the majority class important in machine learning?
 

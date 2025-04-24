@@ -28,7 +28,7 @@ The model in an Anchor Supervision system is designed to prioritize learning fro
 
 ## Can you explain the concept of FreeAnchor in Anchor Supervision?
 
-FreeAnchor is a special way of using Anchor Supervision in machine learning. It's called "FreeAnchor" because it lets the model pick its own anchors instead of using ones that people choose. In regular Anchor Supervision, people pick the anchors based on what they think is important. But with FreeAnchor, the model looks at all the data and decides which examples should be anchors. This can help the model learn better because it can focus on the examples that it thinks are most useful.
+FreeAnchor is a special way of using Anchor Supervision in [machine learning](/wiki/machine-learning). It's called "FreeAnchor" because it lets the model pick its own anchors instead of using ones that people choose. In regular Anchor Supervision, people pick the anchors based on what they think is important. But with FreeAnchor, the model looks at all the data and decides which examples should be anchors. This can help the model learn better because it can focus on the examples that it thinks are most useful.
 
 The idea behind FreeAnchor is to make the learning process more flexible and effective. By letting the model choose its own anchors, it can adapt to the data better and find the most important patterns. This can be especially helpful when the data is complicated or when there are a lot of different types of examples. FreeAnchor helps the model work smarter, not harder, by focusing on the right examples to learn from.
 

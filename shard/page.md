@@ -18,9 +18,9 @@ In practice, sharding can be implemented in various ways depending on the specif
 
 ## Why are shards used in machine learning models?
 
-Shards are used in machine learning models to handle large datasets that are too big for a single machine to process at once. By breaking the data into smaller pieces, or shards, the workload can be distributed across multiple machines or processed in smaller batches on a single machine. This helps manage memory usage better, as the entire dataset does not need to be loaded into memory all at once. Instead, each shard can be processed individually, making it easier to work with limited resources.
+Shards are used in [machine learning](/wiki/machine-learning) models to handle large datasets that are too big for a single machine to process at once. By breaking the data into smaller pieces, or shards, the workload can be distributed across multiple machines or processed in smaller batches on a single machine. This helps manage memory usage better, as the entire dataset does not need to be loaded into memory all at once. Instead, each shard can be processed individually, making it easier to work with limited resources.
 
-Additionally, using shards allows for parallel processing, which can speed up the training of machine learning models. When different machines or processors work on different shards at the same time, the overall time needed to train a model can be significantly reduced. This is particularly important in fields like deep learning, where models often need to be trained on vast amounts of data. By processing shards in parallel, the efficiency of the training process is improved, leading to faster model development and deployment.
+Additionally, using shards allows for parallel processing, which can speed up the training of machine learning models. When different machines or processors work on different shards at the same time, the overall time needed to train a model can be significantly reduced. This is particularly important in fields like [deep learning](/wiki/deep-learning), where models often need to be trained on vast amounts of data. By processing shards in parallel, the efficiency of the training process is improved, leading to faster model development and deployment.
 
 ## How does sharding improve the performance of machine learning algorithms?
 

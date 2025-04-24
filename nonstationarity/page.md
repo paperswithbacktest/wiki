@@ -79,3 +79,17 @@ One specific way to adapt ensemble methods for nonstationary data is to use tech
 Current research trends in handling nonstationarity in machine learning focus on developing more adaptive and robust models. One major trend is the use of online learning algorithms that continuously update themselves with new data. These algorithms can adjust to changes in the data over time, making them more effective for nonstationary environments. Researchers are also exploring ensemble methods that combine multiple models to improve prediction accuracy. By training different models on various subsets of the data or different time periods, these ensembles can better capture the evolving patterns in nonstationary data. Another area of interest is the development of new statistical tests and methods to detect and quantify nonstationarity, such as advanced versions of the Augmented Dickey-Fuller (ADF) test and the Kwiatkowski-Phillips-Schmidt-Shin (KPSS) test.
 
 Future directions in this field are likely to involve the integration of domain knowledge into machine learning models to better handle nonstationarity. For example, incorporating expert knowledge about how certain variables change over time can help models adapt more effectively. There is also a growing interest in developing models that can automatically detect and adapt to concept drift, where the relationship between input data and the target variable changes. This could involve creating algorithms that can identify when a model's performance starts to degrade and trigger retraining or model updates. Additionally, research into transfer learning and meta-learning could provide new ways to leverage knowledge from one task to improve performance on another, even as the data evolves. These advancements aim to make machine learning models more resilient and reliable in real-world applications where data is constantly changing.
+
+## References & Further Reading
+
+[1]: Chatfield, C. (2003). ["The Analysis of Time Series: An Introduction"](https://www.taylorfrancis.com/books/mono/10.4324/9780203491683/analysis-time-series-chris-chatfield). Chapman and Hall/CRC.
+
+[2]: Hamilton, J. D. (1994). ["Time Series Analysis"](https://api.pageplace.de/preview/DT0400.9780691218632_A40156688/preview-9780691218632_A40156688.pdf). Princeton University Press.
+
+[3]: Box, G. E. P., Jenkins, G. M., & Reinsel, G. C. (1994). ["Time Series Analysis: Forecasting and Control"](https://link.springer.com/chapter/10.1057/9781137291264_6). Prentice Hall.
+
+[4]: Gama, J., Žliobaitė, I., Bifet, A., Pechenizkiy, M., & Bouchachia, A. (2014). ["A Survey on Concept Drift Adaptation."](https://dl.acm.org/doi/10.1145/2523813) ACM Computing Surveys, 46(4), 1-37.
+
+[5]: Tsay, R. S. (2010). ["Analysis of Financial Time Series"](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470644560). Wiley Series in Probability and Statistics.
+
+[6]: Widmer, G., & Kubat, M. (1996). ["Learning in the Presence of Concept Drift and Hidden Contexts"](https://link.springer.com/article/10.1007/BF00116900). Machine Learning, 23, 69-101.

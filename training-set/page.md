@@ -22,7 +22,7 @@ Also, the training set helps the model understand the patterns in the data. When
 
 ## How do you collect data for a training set?
 
-Collecting data for a training set starts with figuring out what kind of data your machine learning model needs to learn from. For example, if you want to build a model that can recognize different types of flowers, you'll need lots of pictures of flowers. You can get these pictures from the internet, by taking your own photos, or by using special databases that have already collected this kind of data. It's important to make sure the data is good quality and includes a variety of examples, so the model can learn well.
+Collecting data for a training set starts with figuring out what kind of data your [machine learning](/wiki/machine-learning) model needs to learn from. For example, if you want to build a model that can recognize different types of flowers, you'll need lots of pictures of flowers. You can get these pictures from the internet, by taking your own photos, or by using special databases that have already collected this kind of data. It's important to make sure the data is good quality and includes a variety of examples, so the model can learn well.
 
 Once you have the data, you need to prepare it for the model. This means organizing the data and making sure it's in the right format. For example, if you're using pictures, you might need to resize them or adjust their colors. You also need to label the data, which means telling the model what each example is. If you're using flower pictures, you would label each one with the name of the flower. This step can be done by hand or sometimes with the help of other tools or people. After the data is ready, you can use it to train your model and help it learn.
 
@@ -57,7 +57,7 @@ Another important preprocessing step is encoding categorical data. This means tu
 
 The size of the training set is really important for how well a machine learning model can learn and do its job. If the training set is too small, the model might not see enough examples to understand the patterns in the data well. This can make the model perform badly because it might make a lot of mistakes when it sees new data. On the other hand, if the training set is big enough, the model can learn from a lot of different examples. This helps the model understand the data better and make better guesses when it sees new things.
 
-However, there's a point where making the training set even bigger doesn't help the model get much better. This is because the model can only learn so much, and after a certain size, adding more data won't make it perform much better. It's like studying for a test: after you've studied enough, reading more books won't help you much. So, you need to find a good balance where the training set is big enough for the model to learn well but not so big that it's wasting time and resources.
+However, there's a point where making the training set even bigger doesn't help the model get much better. This is because the model can only learn so much, and after a certain size, adding more data won't make it perform much better. It's like studying for a test: after you've studied enough, reading more [books](/wiki/algo-trading-books) won't help you much. So, you need to find a good balance where the training set is big enough for the model to learn well but not so big that it's wasting time and resources.
 
 ## What are the challenges of working with imbalanced training sets?
 
@@ -67,7 +67,7 @@ To fix this, you can try different things. One way is to make the training set m
 
 ## How can data augmentation techniques improve a training set?
 
-Data augmentation techniques can make a training set better by adding more examples for the model to learn from. When you have a small training set, the model might not see enough different situations to learn well. By using data augmentation, you can create new examples from the ones you already have. For example, if you're training a model to recognize pictures of cats, you can flip the pictures, rotate them, or change their colors a little bit. This gives the model more chances to learn and can help it do a better job when it sees new pictures.
+Data augmentation techniques can make a training set better by adding more examples for the model to learn from. When you have a small training set, the model might not see enough different situations to learn well. By using [data augmentation](/wiki/data-augmentation), you can create new examples from the ones you already have. For example, if you're training a model to recognize pictures of cats, you can flip the pictures, rotate them, or change their colors a little bit. This gives the model more chances to learn and can help it do a better job when it sees new pictures.
 
 Another way data augmentation helps is by making the training set more balanced. Sometimes, you might have a lot of examples of one thing but not enough of another. For instance, if you're trying to tell the difference between pictures of cats and dogs, but you have way more cat pictures, the model might learn to guess "cat" all the time. By using data augmentation to create more dog pictures, you can make the training set more even. This helps the model learn to tell the difference between cats and dogs better, making it more useful in real life.
 

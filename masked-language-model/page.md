@@ -18,7 +18,7 @@ MLMs are often used in models like BERT (Bidirectional Encoder Representations f
 
 A Masked Language Model works by taking a sentence and hiding some of its words. It then tries to guess what the hidden words are by looking at the words that come before and after them. For example, if you have the sentence "I like to eat ___ and drink water," the model will try to fill in the blank. It does this by understanding the context of the whole sentence. This helps the model learn how words relate to each other and how they are used in different situations.
 
-In practice, a Masked Language Model uses a technique called "masking" where a special token, often [MASK], is used to replace the hidden words. The model then processes the sentence with the [MASK] tokens and predicts what word should go in each masked spot. This is done using a neural network that has been trained on a large amount of text data. By repeatedly doing this on many sentences, the model gets better at understanding and predicting language, which can be very useful for tasks like completing sentences, translating languages, or answering questions.
+In practice, a Masked Language Model uses a technique called "masking" where a special token, often [MASK], is used to replace the hidden words. The model then processes the sentence with the [MASK] tokens and predicts what word should go in each masked spot. This is done using a [neural network](/wiki/neural-network) that has been trained on a large amount of text data. By repeatedly doing this on many sentences, the model gets better at understanding and predicting language, which can be very useful for tasks like completing sentences, translating languages, or answering questions.
 
 ## What is the purpose of masking in language models?
 

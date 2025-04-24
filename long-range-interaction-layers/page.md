@@ -22,7 +22,7 @@ This ability to capture long-distance relationships makes Long-Range Interaction
 
 ## What is the Lambda Layer and how does it relate to Long-Range Interaction Layers?
 
-The Lambda Layer is a type of layer in neural networks that lets you add custom functions to your model. It's like a special tool that you can use to do something specific that other layers can't do. For example, you might use a Lambda Layer to apply a custom mathematical function to your data. This can be really helpful if you need to do something that isn't covered by the standard layers in your neural network.
+The Lambda Layer is a type of layer in neural networks that lets you add custom functions to your model. It's like a special tool that you can use to do something specific that other layers can't do. For example, you might use a Lambda Layer to apply a custom mathematical function to your data. This can be really helpful if you need to do something that isn't covered by the standard layers in your [neural network](/wiki/neural-network).
 
 Lambda Layers can be related to Long-Range Interaction Layers because they can be used to create custom functions that help the model understand long-distance relationships in the data. For instance, you might use a Lambda Layer to apply a function that helps the model see how different parts of a long text are connected. This can make your model better at tasks like understanding long documents, where knowing how the beginning relates to the end is important. By using Lambda Layers in this way, you can make your model more powerful and able to handle complex tasks that need to look at the whole input.
 

@@ -22,11 +22,11 @@ At the same time, sensitive attributes can also be a double-edged sword. If we'r
 
 ## Can you give examples of common sensitive attributes?
 
-Sensitive attributes are pieces of information about people that can lead to unfair treatment if used the wrong way in machine learning. Some common examples include race, gender, age, and religion. These are things that we shouldn't use to judge someone's ability or worth, but sometimes, old data can have these biases built in.
+Sensitive attributes are pieces of information about people that can lead to unfair treatment if used the wrong way in [machine learning](/wiki/machine-learning). Some common examples include race, gender, age, and religion. These are things that we shouldn't use to judge someone's ability or worth, but sometimes, old data can have these biases built in.
 
 For example, if a company is using a computer program to decide who to hire, and the program looks at the race of the applicants, it might unfairly choose one group over another, even if they are equally qualified. This is why it's important to be careful with these sensitive pieces of information.
 
-Another example is age. If a machine learning model for insurance pricing uses age as a factor and ends up charging older people more just because they are older, that could be unfair. By knowing that age is a sensitive attribute, we can work to make sure the model doesn't treat people differently just because of their age.
+Another example is age. If a machine learning model for insurance pricing uses age as a [factor](/wiki/factor-investing) and ends up charging older people more just because they are older, that could be unfair. By knowing that age is a sensitive attribute, we can work to make sure the model doesn't treat people differently just because of their age.
 
 ## How do sensitive attributes impact fairness in machine learning?
 
@@ -68,7 +68,7 @@ Another way to measure bias is by looking at the model's performance across diff
 
 ## What are some advanced methods for handling sensitive attributes in deep learning models?
 
-In deep learning models, one advanced method for handling sensitive attributes is using adversarial training. This method involves training another model, called an adversary, to spot and remove bias from the main model. The main model tries to make good predictions without relying on sensitive attributes like race or gender, while the adversary tries to guess these attributes from the main model's decisions. By making the main model and the adversary work against each other, we can help the main model learn to make fair decisions. This is like a game where the main model tries to hide any bias, and the adversary tries to find it. Over time, the main model gets better at making fair choices without using sensitive information.
+In [deep learning](/wiki/deep-learning) models, one advanced method for handling sensitive attributes is using adversarial training. This method involves training another model, called an adversary, to spot and remove bias from the main model. The main model tries to make good predictions without relying on sensitive attributes like race or gender, while the adversary tries to guess these attributes from the main model's decisions. By making the main model and the adversary work against each other, we can help the main model learn to make fair decisions. This is like a game where the main model tries to hide any bias, and the adversary tries to find it. Over time, the main model gets better at making fair choices without using sensitive information.
 
 Another advanced technique is called "domain adaptation." This method helps the model work well for different groups of people by adjusting how it learns from the data. For example, if we're making a model to predict health outcomes, we might have data from different hospitals. Each hospital might have patients from different backgrounds. Domain adaptation helps the model learn from all these different groups without being biased toward any one group. By doing this, the model can treat everyone fairly, no matter where they come from or what sensitive attributes they have. This way, the model can make good decisions for everyone equally.
 
@@ -76,7 +76,7 @@ Another advanced technique is called "domain adaptation." This method helps the 
 
 Differential privacy is a way to protect sensitive attributes in machine learning by adding a bit of randomness to the data. This randomness helps keep personal information private while still letting us learn useful things from the data. For example, if we're looking at a dataset with people's ages, we might add some noise to the ages so no one can tell exactly how old any single person is. This way, the model can still learn about general trends without knowing too much about any one person's sensitive information.
 
-Using differential privacy helps make sure that machine learning models don't learn too much about sensitive attributes like race or gender. If a model knows too much about these details, it might make unfair decisions. By adding noise to the data, we can keep the model from picking up on these sensitive details and using them the wrong way. This helps protect people's privacy and makes sure the model treats everyone fairly.
+Using differential privacy helps make sure that machine learning models don't learn too much about sensitive attributes like race or gender. If a model knows too much about these details, it might make unfair decisions. By adding noise to the data, we can keep the model from [picking](/wiki/asset-class-picking) up on these sensitive details and using them the wrong way. This helps protect people's privacy and makes sure the model treats everyone fairly.
 
 ## What are the current research trends and future directions in handling sensitive attributes in machine learning?
 

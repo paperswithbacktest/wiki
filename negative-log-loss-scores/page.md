@@ -18,7 +18,7 @@ Log loss is often used in machine learning because it penalizes confident and wr
 
 ## Why is log loss used in machine learning?
 
-Log loss is used in machine learning because it helps measure how good a model is at predicting things. It looks at the difference between what the model thinks will happen and what actually happens. If a model is good at guessing right, the log loss score will be low. But if the model often guesses wrong, especially when it's very sure about its wrong guesses, the log loss score will be high. This makes log loss a good way to see if a model is working well or needs to be better.
+Log loss is used in [machine learning](/wiki/machine-learning) because it helps measure how good a model is at predicting things. It looks at the difference between what the model thinks will happen and what actually happens. If a model is good at guessing right, the log loss score will be low. But if the model often guesses wrong, especially when it's very sure about its wrong guesses, the log loss score will be high. This makes log loss a good way to see if a model is working well or needs to be better.
 
 Using log loss is helpful because it makes models try harder to be accurate. It's tougher on the model when it's wrong and confident than when it's right and confident. This means the model learns to be more careful and less overconfident. For example, if a model predicts a 90% chance of something happening and it doesn't, the log loss will be much higher than if it had predicted a 50% chance. This encourages models to be more precise, which is important in areas like predicting the weather, diagnosing diseases, or detecting fraud.
 

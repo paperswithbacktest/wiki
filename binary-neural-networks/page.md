@@ -18,7 +18,7 @@ In traditional neural networks, the weights are updated during training using gr
 
 Binary Neural Networks (BNNs) are important in machine learning because they make it possible to run complex models on devices with limited resources. Traditional neural networks need a lot of memory and processing power, which can be a problem for smaller devices like smartphones or embedded systems. BNNs, on the other hand, use weights that can only be -1 or +1, which means they use much less memory and can run faster. This makes BNNs very useful for applications where you want to use machine learning on devices that can't handle big, traditional networks.
 
-Another reason BNNs are important is that they can help make machine learning more energy-efficient. Because BNNs use less power to run, they can be used in situations where energy use is a big concern, like in battery-powered devices or in large data centers where energy costs can be high. By using BNNs, we can make machine learning models that are not only smaller and faster but also kinder to the environment. This is a big step forward in making machine learning more accessible and sustainable.
+Another reason BNNs are important is that they can help make [machine learning](/wiki/machine-learning) more energy-efficient. Because BNNs use less power to run, they can be used in situations where energy use is a big concern, like in battery-powered devices or in large data centers where energy costs can be high. By using BNNs, we can make machine learning models that are not only smaller and faster but also kinder to the environment. This is a big step forward in making machine learning more accessible and sustainable.
 
 ## How do BNNs reduce the computational complexity and memory usage compared to full-precision networks?
 
@@ -28,7 +28,7 @@ BNNs also make calculations simpler and faster. In full-precision networks, mult
 
 ## What is the basic architecture of a BNN?
 
-The basic architecture of a Binary Neural Network (BNN) is similar to a traditional neural network but with some key differences. A BNN has layers of neurons, just like a regular network, but the weights connecting these neurons are binary, meaning they can only be -1 or +1. This makes the network simpler and faster to run. In a BNN, the input data is also often binarized, which means it's turned into binary values before it goes through the network. This helps keep the whole process quick and efficient.
+The basic architecture of a Binary Neural Network (BNN) is similar to a traditional [neural network](/wiki/neural-network) but with some key differences. A BNN has layers of neurons, just like a regular network, but the weights connecting these neurons are binary, meaning they can only be -1 or +1. This makes the network simpler and faster to run. In a BNN, the input data is also often binarized, which means it's turned into binary values before it goes through the network. This helps keep the whole process quick and efficient.
 
 The way a BNN works is by using these binary weights to process the input data. When the data goes through the network, it's multiplied by the binary weights. This can be done with simple bitwise operations, like XOR, which are much faster than the usual multiplication and addition in full-precision networks. After going through the layers, the output of the BNN can be used for tasks like classification or prediction, just like in a regular neural network. The key is that BNNs can do all this while using less memory and power, which makes them great for smaller devices.
 

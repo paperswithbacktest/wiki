@@ -1,6 +1,7 @@
 ---
-title: "Side Pocketing: Functionality, Advantages, and Disadvantages"
-description: "Explore the impact of side pocketing and algorithmic trading in hedge funds Learn how these strategies manage risks and optimize investment returns"
+title: Side Pocketing in Investment Funds for Risk Management
+description: Side pocketing helps hedge funds separate illiquid assets to protect
+  new investors and give managers time to maximize value Discover more inside.
 ---
 
 

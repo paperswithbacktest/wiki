@@ -38,7 +38,7 @@ Another advantage of Dense Synthesized Attention is its ability to maintain good
 
 Random Synthesized Attention is a type of attention mechanism that uses randomness to create attention patterns. Instead of calculating attention scores for every pair of input elements like traditional attention mechanisms, Random Synthesized Attention generates attention weights using random processes. This approach can be much faster and use less memory because it doesn't need to do as many calculations. For example, it might use a random function to quickly create attention patterns that help the model focus on the important parts of the input data.
 
-One key feature of Random Synthesized Attention is its simplicity. By using randomness, it can create attention patterns without the need for complex calculations. This makes it easier to implement and can be especially useful for tasks where speed is more important than precision. Another key feature is its flexibility. Because it uses random processes, Random Synthesized Attention can be adapted to different types of data and tasks, making it a versatile tool for machine learning models.
+One key feature of Random Synthesized Attention is its simplicity. By using randomness, it can create attention patterns without the need for complex calculations. This makes it easier to implement and can be especially useful for tasks where speed is more important than precision. Another key feature is its flexibility. Because it uses random processes, Random Synthesized Attention can be adapted to different types of data and tasks, making it a versatile tool for [machine learning](/wiki/machine-learning) models.
 
 ## How does Random Synthesized Attention improve model performance?
 

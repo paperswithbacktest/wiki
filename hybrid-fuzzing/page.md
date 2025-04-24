@@ -18,7 +18,7 @@ Traditional fuzzing, on the other hand, usually sticks to one approach. It might
 
 Machine learning helps make hybrid fuzzing better by learning from past tests to make smarter choices about what to test next. It can look at the results of earlier tests and figure out which parts of a program are more likely to have bugs. This means it can focus on testing those parts more, instead of just trying random things. For example, if machine learning sees that a certain type of input often causes problems, it can make more inputs like that to test the program more thoroughly.
 
-Using machine learning also helps hybrid fuzzing adapt to different kinds of software. It can learn what works best for different programs and change its approach accordingly. This makes the fuzzing process more efficient because it doesn't waste time on tests that are less likely to find bugs. By combining different fuzzing methods and using machine learning to guide them, hybrid fuzzing can find more bugs faster and with less effort than traditional fuzzing.
+Using [machine learning](/wiki/machine-learning) also helps hybrid fuzzing adapt to different kinds of software. It can learn what works best for different programs and change its approach accordingly. This makes the fuzzing process more efficient because it doesn't waste time on tests that are less likely to find bugs. By combining different fuzzing methods and using machine learning to guide them, hybrid fuzzing can find more bugs faster and with less effort than traditional fuzzing.
 
 ## What are the basic components of a hybrid fuzzing system?
 
@@ -34,7 +34,7 @@ In MEUZZ, the machine learning part helps guide the fuzzer to create better test
 
 ## What types of machine learning algorithms are commonly used in hybrid fuzzing?
 
-In hybrid fuzzing, machine learning algorithms help make the testing process smarter and more efficient. Common types of machine learning used include supervised learning and reinforcement learning. Supervised learning algorithms, like decision trees and random forests, are used to predict which parts of the software are more likely to have bugs based on past test results. These algorithms learn from examples of what has worked before to guide the fuzzer in creating new test inputs.
+In hybrid fuzzing, machine learning algorithms help make the testing process smarter and more efficient. Common types of machine learning used include supervised learning and [reinforcement learning](/wiki/reinforcement-learning). Supervised learning algorithms, like decision trees and random forests, are used to predict which parts of the software are more likely to have bugs based on past test results. These algorithms learn from examples of what has worked before to guide the fuzzer in creating new test inputs.
 
 Reinforcement learning is another popular choice for hybrid fuzzing. This type of learning involves an agent that learns to make better decisions over time by getting rewards or penalties based on its actions. In the context of fuzzing, the agent tries different inputs and learns which ones are more likely to find bugs. This helps the fuzzer adapt its strategy to focus on the most promising areas of the software. By using these machine learning techniques, hybrid fuzzing can find more bugs faster and with less effort than traditional methods.
 
@@ -70,7 +70,7 @@ Another important measure is the quality of the bugs found. Not all bugs are the
 
 ## What future developments can we expect in the field of hybrid fuzzing with machine learning?
 
-In the future, we can expect hybrid fuzzing to become even smarter with the help of machine learning. As machine learning gets better, it will help fuzzers find bugs more quickly and accurately. This means that the fuzzers will be able to learn from more tests and make better guesses about where to look for bugs. They might use new types of machine learning, like deep learning, to understand the software even better. This could make fuzzing faster and help find bugs that are hard to see now.
+In the future, we can expect hybrid fuzzing to become even smarter with the help of machine learning. As machine learning gets better, it will help fuzzers find bugs more quickly and accurately. This means that the fuzzers will be able to learn from more tests and make better guesses about where to look for bugs. They might use new types of machine learning, like [deep learning](/wiki/deep-learning), to understand the software even better. This could make fuzzing faster and help find bugs that are hard to see now.
 
 Another thing we might see is hybrid fuzzing being used more in different kinds of software. Right now, it's mostly used for things like web browsers and operating systems. But in the future, it could be used for all sorts of programs, even the ones that are very complex or run on special kinds of computers. This would make all software safer and more reliable. Also, as computers get faster and can handle more data, hybrid fuzzing will be able to test even more parts of the software at once, making it even more effective.
 

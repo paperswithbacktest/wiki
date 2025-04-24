@@ -22,7 +22,7 @@ If the learning rate is too high, the model might overshoot the best solution an
 
 ## How does the learning rate affect the performance of a model?
 
-The learning rate is like a knob that you turn to decide how fast your machine learning model learns. If you set it too high, the model might jump around a lot and miss the best answer. It's like trying to find a treasure but taking such big steps that you keep walking past it. When the learning rate is too high, the model can become unstable and might not find the best solution because it overshoots the target.
+The learning rate is like a knob that you turn to decide how fast your [machine learning](/wiki/machine-learning) model learns. If you set it too high, the model might jump around a lot and miss the best answer. It's like trying to find a treasure but taking such big steps that you keep walking past it. When the learning rate is too high, the model can become unstable and might not find the best solution because it overshoots the target.
 
 On the other hand, if the learning rate is too low, the model will learn very slowly. It's like trying to find the same treasure but taking tiny steps. You'll eventually get there, but it might take a long time. A low learning rate can make the training process very slow, and the model might get stuck before reaching the best solution. Finding the right learning rate helps the model learn at a good speed and find the best solution more reliably.
 

@@ -18,7 +18,7 @@ The protocol provides the underlying framework—think of it as the plumbing—f
 
 0x Protocol works by providing a framework of smart contracts on the Ethereum blockchain that enables peer-to-peer token trading without a centralized authority. Here’s a breakdown of how it operates:
 
-At its core, 0x uses an off-chain order book and on-chain settlement system. This hybrid approach keeps things efficient. Users create trade orders—basically instructions saying, “I want to swap this token for that one at this price”—off-chain, meaning outside the blockchain. These orders are then shared through what’s called relayers, which are like decentralized matchmakers. Relayers host these order books and help buyers and sellers find each other, often charging a small fee for the service.
+At its core, 0x uses an off-chain [order book](/wiki/order-book-trading-strategies) and on-chain settlement system. This hybrid approach keeps things efficient. Users create trade orders—basically instructions saying, “I want to swap this token for that one at this price”—off-chain, meaning outside the blockchain. These orders are then shared through what’s called relayers, which are like decentralized matchmakers. Relayers host these order books and help buyers and sellers find each other, often charging a small fee for the service.
 
 When two parties agree on a trade, the actual swap happens on-chain via Ethereum smart contracts. The 0x smart contracts verify the order details—like making sure the signatures match and the funds are available—then execute the transfer of tokens directly between the users’ wallets. No funds are held by a middleman; they move straight from one user to the other.
 

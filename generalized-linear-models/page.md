@@ -30,7 +30,7 @@ Different link functions lead to different interpretations of the model's coeffi
 
 ## What are some common types of GLMs and their applications in machine learning?
 
-Generalized Linear Models (GLMs) are used in many areas of machine learning because they can handle different types of data. One common type of GLM is logistic regression, which is used for binary classification problems. In logistic regression, the link function is the logit function, $$g(\mu) = \ln\left(\frac{\mu}{1-\mu}\right)$$. This model predicts the probability that an event will happen, like whether an email is spam or not. Logistic regression is widely used in areas like medical diagnosis, credit scoring, and marketing.
+Generalized Linear Models (GLMs) are used in many areas of [machine learning](/wiki/machine-learning) because they can handle different types of data. One common type of GLM is logistic regression, which is used for binary classification problems. In logistic regression, the link function is the logit function, $$g(\mu) = \ln\left(\frac{\mu}{1-\mu}\right)$$. This model predicts the probability that an event will happen, like whether an email is spam or not. Logistic regression is widely used in areas like medical diagnosis, credit scoring, and marketing.
 
 Another type of GLM is Poisson regression, which is used for modeling count data. The link function for Poisson regression is the log function, $$g(\mu) = \ln(\mu)$$. This model is useful in fields like insurance, where you might want to predict the number of claims, or in healthcare, to predict the number of hospital visits. Poisson regression helps understand how different factors affect the expected count of events.
 

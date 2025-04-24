@@ -22,7 +22,7 @@ If we didn't use a test set, we might think our model is better than it really i
 
 ## How is a test set different from a training set and a validation set?
 
-A training set is the part of the data we use to teach our machine learning model. We show the model lots of examples from the training set, and it learns from them. This is where the model figures out patterns and relationships in the data. The goal is for the model to get good at making predictions or decisions based on what it has learned.
+A training set is the part of the data we use to teach our [machine learning](/wiki/machine-learning) model. We show the model lots of examples from the training set, and it learns from them. This is where the model figures out patterns and relationships in the data. The goal is for the model to get good at making predictions or decisions based on what it has learned.
 
 A validation set is different because we use it to check how well the model is doing while we are still training it. We can try out different settings or changes to the model and see which ones work best by looking at the results on the validation set. This helps us make the model better without using the test set, which we save for the very end.
 

@@ -22,7 +22,7 @@ These methods also help by figuring out the best way to divide the work without 
 
 ## What is AutoSync and how does it facilitate parallel processing in machine learning?
 
-AutoSync is a tool that helps make parallel processing easier in machine learning. When you're training a big model and using many computers at the same time, you need to make sure they all stay in sync. AutoSync does this automatically, so the computers can work together smoothly without you having to do extra work to keep them aligned.
+AutoSync is a tool that helps make parallel processing easier in [machine learning](/wiki/machine-learning). When you're training a big model and using many computers at the same time, you need to make sure they all stay in sync. AutoSync does this automatically, so the computers can work together smoothly without you having to do extra work to keep them aligned.
 
 By using AutoSync, you can focus more on building your model and less on managing the computers. It takes care of making sure all the parts of your model that are spread across different computers stay updated and work together correctly. This makes the whole process of training large models faster and more efficient.
 

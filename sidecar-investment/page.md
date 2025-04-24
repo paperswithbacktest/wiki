@@ -1,6 +1,7 @@
 ---
-title: "Sidecar Investment"
-description: "Explore sidecar investing and algorithmic trading as innovative strategies in today's investment world Discover how these approaches optimize returns and manage risks"
+title: Exploring Sidecar Investments Benefits Risks and Strategies
+description: Sidecar investments enable smaller investors to partner with experts
+  access unique deals mitigate risks and diversify their portfolio Discover more inside.
 ---
 
 

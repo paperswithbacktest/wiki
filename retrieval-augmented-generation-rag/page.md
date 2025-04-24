@@ -34,7 +34,7 @@ The second part of the RAG system is the generator, which takes the information 
 
 ## What types of data sources can be used with RAG?
 
-RAG can use many different types of data sources. It can work with text documents like books, articles, and websites. It can also use databases that store information in a structured way, like tables in a database. This means RAG can pull in information from places like Wikipedia, company reports, or even social media posts. As long as the data can be turned into text, RAG can use it to help answer questions.
+RAG can use many different types of data sources. It can work with text documents like [books](/wiki/algo-trading-books), articles, and websites. It can also use databases that store information in a structured way, like tables in a database. This means RAG can pull in information from places like Wikipedia, company reports, or even social media posts. As long as the data can be turned into text, RAG can use it to help answer questions.
 
 The retriever part of RAG looks through all these different sources to find the best matches for the question asked. It turns the question and the data into numbers and uses a formula like $$ \text{similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|} $$ to see how similar they are. This helps the retriever pick the most useful information to send to the generator. The generator then uses this information, along with what it learned during its training, to create a detailed and accurate answer.
 
@@ -64,7 +64,7 @@ Another challenge is keeping the information in the database up-to-date. RAG rel
 
 ## How can the performance of a RAG system be evaluated?
 
-To evaluate the performance of a RAG system, you can use different measures to see how well it answers questions. One way is to check how accurate the answers are. You can do this by comparing the answers RAG gives to the right answers. If the answers match a lot, then the RAG system is doing well. Another way is to see how relevant the information is that the retriever finds. You can use a formula like $$ \text{similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|} $$ to see if the retriever is picking the right documents. If the similarity score is high, it means the retriever is finding good information.
+To evaluate the performance of a RAG system, you can use different measures to see how well it answers questions. One way is to check how accurate the answers are. You can do this by comparing the answers RAG gives to the right answers. If the answers match a lot, then the RAG system is doing well. Another way is to see how relevant the information is that the retriever finds. You can use a formula like $$ \text{similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|} $$ to see if the retriever is [picking](/wiki/asset-class-picking) the right documents. If the similarity score is high, it means the retriever is finding good information.
 
 Another important thing to check is how fast the RAG system works. It should be able to find and use information quickly so that users don't have to wait too long for answers. You can measure this by timing how long it takes for the system to give an answer. Also, you might want to see how well the RAG system can handle a lot of different questions. You can test it with many different kinds of questions to see if it can give good answers for all of them. This helps you know if the system is useful for many different situations.
 

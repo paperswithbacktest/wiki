@@ -24,7 +24,7 @@ Both methods have their own strengths and are used depending on what the specifi
 
 ## What is the basic concept behind Tofu in model parallelism?
 
-Tofu, or Tensor Model Parallelism, is a way to split a big machine learning model across many devices so it can be trained faster. Imagine you have a huge puzzle that's too big to fit on one table. Instead of trying to squeeze it onto one table, you can spread the pieces across several tables. In Tofu, the model is like that puzzle, and the devices are like the tables. Each device gets a part of the model, and they work together to process the data and train the model.
+Tofu, or Tensor Model Parallelism, is a way to split a big [machine learning](/wiki/machine-learning) model across many devices so it can be trained faster. Imagine you have a huge puzzle that's too big to fit on one table. Instead of trying to squeeze it onto one table, you can spread the pieces across several tables. In Tofu, the model is like that puzzle, and the devices are like the tables. Each device gets a part of the model, and they work together to process the data and train the model.
 
 The key idea in Tofu is to split the model in a smart way so that the data can flow smoothly between the devices. This means that the model's layers are divided up, and each device handles a part of the computation. By doing this, Tofu can handle very large models that would be too big for one device alone. It's like having a team of workers, where each worker does a part of the job, and together they finish the task much faster than one worker could alone.
 

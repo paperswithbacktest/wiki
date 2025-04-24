@@ -81,3 +81,17 @@ Another thing to keep in mind is how you're going to use the OOB error estimates
 When you use OOB evaluation in a real-world scenario, you're looking at how well your random forest model will predict new data. The OOB error rate tells you the average mistake the model makes on data it hasn't seen before. If the OOB error rate is low, it's a good sign that your model is doing well and should work nicely on new data. For example, if you're using a random forest to predict whether a customer will buy a product, a low OOB error rate means your model is likely to make good guesses about future customers.
 
 Based on the OOB error rate, you can decide what to do next. If the error rate is high, you might need to go back and tweak your model's settings, like the number of trees or how deep they can grow. You can try different settings and check the OOB error rate each time to see if it gets better. If the error rate is already low, you might feel confident enough to use your model in the real world, knowing it will likely make good predictions. This way, OOB evaluation helps you make smart choices about your model without needing a separate test set.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine learning, 45(1), 5-32.
+
+[2]: Liaw, A., & Wiener, M. (2002). ["Classification and Regression by randomForest."](https://journal.r-project.org/articles/RN-2002-022/) R News.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[4]: Ho, T. K. (1995). ["Random decision forests"](https://ieeexplore.ieee.org/document/598994) In Proceedings of the Third International Conference on Document Analysis and Recognition (Vol. 1, pp. 278-282).
+
+[5]: Zhang, H. (2012). ["The Optimality of Naive Bayes."](https://www.cs.unb.ca/~hzhang/publications/FLAIRS04ZhangH.pdf) Journal of Machine Learning Research, 5, 1201-1233. 
+
+[6]: Dietterich, T. G. (2000). ["Ensemble methods in machine learning."](https://link.springer.com/chapter/10.1007/3-540-45014-9_1) In International Workshop on Multiple Classifier Systems (pp. 1-15).

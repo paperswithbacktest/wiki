@@ -18,7 +18,7 @@ In machine learning, video interpolation is important because it can improve the
 
 At a basic level, video interpolation models work by taking two frames of a video and creating new frames that fit smoothly between them. These models use algorithms to analyze the movement and changes between the two frames. They look at how objects move from one frame to the next and then calculate what the frames in between should look like. This process involves predicting the positions of pixels or objects at different points in time to generate new, intermediate frames.
 
-To do this, the models often use deep learning techniques, such as convolutional neural networks (CNNs). These networks are trained on lots of video data to learn how to predict intermediate frames accurately. For example, a model might learn to recognize that a ball moving from the left side of the frame to the right should appear in the middle of the frame in the interpolated frame. By understanding these patterns, the model can create smooth and realistic new frames that make the video look better and more fluid.
+To do this, the models often use [deep learning](/wiki/deep-learning) techniques, such as convolutional neural networks (CNNs). These networks are trained on lots of video data to learn how to predict intermediate frames accurately. For example, a model might learn to recognize that a ball moving from the left side of the frame to the right should appear in the middle of the frame in the interpolated frame. By understanding these patterns, the model can create smooth and realistic new frames that make the video look better and more fluid.
 
 ## What are some common applications of video interpolation?
 

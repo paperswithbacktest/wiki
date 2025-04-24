@@ -18,7 +18,7 @@ These transformations mimic the variations that might occur in real-world scenar
 
 Image data augmentation is important for training machine learning models because it helps to increase the amount of data available for training. When you have more data, the model can learn better and make more accurate predictions. This is especially useful when you start with a small dataset. By creating new versions of images through simple changes like rotating or flipping them, you can teach the model to recognize objects from different angles and in different conditions.
 
-Another reason why image data augmentation is important is that it helps the model to generalize better. This means the model can work well with new images it hasn't seen before. For example, if you're training a model to recognize dogs, data augmentation can show the model dogs in different poses or lighting. This makes the model more flexible and less likely to get confused by small changes in new images. By using data augmentation, you're making your model stronger and more reliable.
+Another reason why image [data augmentation](/wiki/data-augmentation) is important is that it helps the model to generalize better. This means the model can work well with new images it hasn't seen before. For example, if you're training a model to recognize dogs, data augmentation can show the model dogs in different poses or lighting. This makes the model more flexible and less likely to get confused by small changes in new images. By using data augmentation, you're making your model stronger and more reliable.
 
 ## What are some basic techniques for image data augmentation?
 
@@ -74,7 +74,7 @@ After testing many policies, AutoAugment picks the best one and uses it to chang
 
 ## What is the difference between RandAugment and AutoAugment?
 
-AutoAugment and RandAugment are both methods used to improve how well a machine learning model can recognize images by changing them in different ways. AutoAugment works by trying out a lot of different ways to change images, like flipping them or changing their brightness, and then picking the best set of changes that helps the model learn the best. It does this by testing these changes on a special set of images that it doesn't use for training, and then uses the best set of changes, called a policy, to change the training images.
+AutoAugment and RandAugment are both methods used to improve how well a [machine learning](/wiki/machine-learning) model can recognize images by changing them in different ways. AutoAugment works by trying out a lot of different ways to change images, like flipping them or changing their brightness, and then [picking](/wiki/asset-class-picking) the best set of changes that helps the model learn the best. It does this by testing these changes on a special set of images that it doesn't use for training, and then uses the best set of changes, called a policy, to change the training images.
 
 RandAugment, on the other hand, is a simpler and faster method. Instead of trying out lots of different ways to change images and picking the best one, RandAugment uses a simpler approach. It picks a few changes to make to the images, and how strong those changes should be, randomly. This means it doesn't need to test a lot of different options like AutoAugment does, which makes it quicker to use. Both methods help the model learn better, but RandAugment is easier and faster to set up and use.
 

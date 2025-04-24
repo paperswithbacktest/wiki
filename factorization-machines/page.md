@@ -18,7 +18,7 @@ In more technical terms, a Factorization Machine can model interactions between 
 
 Factorization Machines and traditional linear models both aim to predict outcomes based on input features, but they do so in different ways. A traditional linear model, like linear regression, uses a straightforward approach where each feature contributes to the prediction independently. The model's prediction is simply a weighted sum of the input features, where the weights are learned during training. This method works well when the relationships between features are simple and linear, but it struggles to capture more complex interactions between features.
 
-In contrast, a Factorization Machine is designed to capture these complex interactions more effectively. It does this by breaking down, or "factorizing," the features into smaller parts called latent factors. For example, if you have two features, the model can learn how these features interact by calculating the dot product of their latent factor vectors. This allows the model to understand and predict outcomes based on the relationships between features, even when the data is sparse and many feature values are missing. While traditional linear models might miss these interactions, Factorization Machines can uncover them, making them particularly useful in areas like recommendation systems where understanding user-item interactions is key.
+In contrast, a Factorization Machine is designed to capture these complex interactions more effectively. It does this by breaking down, or "factorizing," the features into smaller parts called latent factors. For example, if you have two features, the model can learn how these features interact by calculating the dot product of their latent [factor](/wiki/factor-investing) vectors. This allows the model to understand and predict outcomes based on the relationships between features, even when the data is sparse and many feature values are missing. While traditional linear models might miss these interactions, Factorization Machines can uncover them, making them particularly useful in areas like recommendation systems where understanding user-item interactions is key.
 
 ## What are the main components of a Factorization Machine?
 
@@ -74,7 +74,7 @@ For example, in a recommendation system, the relationship between a user's age a
 
 ## How do you implement a Factorization Machine using popular machine learning libraries?
 
-To implement a Factorization Machine using popular machine learning libraries like scikit-learn, you can use the `xlearn` library, which is specifically designed for factorization machines. First, you need to install `xlearn` using pip. Then, you can set up your data in a format that `xlearn` can understand, typically a CSV file with your features and target variable. You can use `xlearn` to create and train a Factorization Machine model. For example, you might use the following code to train a model:
+To implement a Factorization Machine using popular [machine learning](/wiki/machine-learning) libraries like scikit-learn, you can use the `xlearn` library, which is specifically designed for factorization machines. First, you need to install `xlearn` using pip. Then, you can set up your data in a format that `xlearn` can understand, typically a CSV file with your features and target variable. You can use `xlearn` to create and train a Factorization Machine model. For example, you might use the following code to train a model:
 
 ```python
 import xlearn as xl

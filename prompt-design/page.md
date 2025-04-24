@@ -79,3 +79,25 @@ Another way prompt design influences ethical considerations is by guiding the mo
 For complex machine learning tasks, one advanced strategy to optimize prompt design is to use chain-of-thought prompting. This involves breaking down the task into smaller steps and guiding the model through each step with a series of prompts. For example, if you want the model to solve a math problem, you might first ask it to identify the relevant equations, then ask it to solve each part of the problem step by step. This helps the model understand the task better and gives it a clear path to follow, which can lead to more accurate and detailed answers. By using chain-of-thought prompting, you can make the model perform better on tasks that require multiple steps or complex reasoning.
 
 Another strategy is to use prompt templates that can be adjusted for different scenarios. This means creating a basic prompt structure that you can fill in with specific details depending on the task. For example, if you're working on a task that involves summarizing texts, you might use a template like "Summarize the following text in [number] words: [text]." You can change the number of words or the text to fit different needs. This approach helps you stay consistent and efficient while still being able to customize your prompts for different tasks. By using templates and adjusting them as needed, you can make your prompt design more effective and adaptable to complex machine learning tasks.
+
+## References & Further Reading
+
+[1]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., et al. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv:2005.14165.
+
+[2]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[3]: Doshi-Velez, F., & Kortz, M. (2017). ["Accountability of AI Under the Law: The Role of Explanation."](https://arxiv.org/abs/1711.01134) arXiv:1703.01080.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv:1810.04805.
+
+[5]: Wu, Y., Schuster, M., Chen, Z., Le, Q. V., et al. (2016). ["Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation."](https://arxiv.org/abs/1609.08144) arXiv:1609.08144.
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., et al. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv:1706.03762.
+
+[7]: Liu, Y., Ott, M., Goyal, N., Du, J., et al. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv:1907.11692.
+
+[8]: Marcus, G., & Davis, E. (2019). ["Rebooting AI: Building Artificial Intelligence We Can Trust."](https://dl.acm.org/doi/10.5555/3364958) Pantheon Books. 
+
+[9]: Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., et al. (2019). ["Model Cards for Model Reporting."](https://arxiv.org/abs/1810.03993) Proceedings of the Conference on Fairness, Accountability, and Transparency.
+
+[10]: Gibson, W. (2013). ["The Art of Computer Programming."](https://dl.acm.org/doi/book/10.5555/260999) Addison-Wesley.

@@ -18,7 +18,7 @@ There are a few key steps in data parallel methods. First, the data is split int
 
 Data parallel methods help make machine learning models train faster by using many computers or processors at the same time. Instead of one computer doing all the work, the data is split into smaller pieces, and each piece is sent to a different computer. Each computer works on its own piece of data, figuring out how to make the model better based on that piece. This is like having many friends help you solve a big puzzle by working on different parts of it at the same time.
 
-Once all the computers finish working on their pieces, they share what they learned. The updates from each computer are combined to improve the overall model. This way, the model gets updated much faster than if only one computer was used. By speeding up the training process, data parallel methods allow you to handle bigger datasets and more complex models, making it easier to create powerful machine learning solutions.
+Once all the computers finish working on their pieces, they share what they learned. The updates from each computer are combined to improve the overall model. This way, the model gets updated much faster than if only one computer was used. By speeding up the training process, data parallel methods allow you to handle bigger datasets and more complex models, making it easier to create powerful [machine learning](/wiki/machine-learning) solutions.
 
 ## What is Local SGD and how does it differ from traditional SGD?
 

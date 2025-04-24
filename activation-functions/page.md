@@ -18,7 +18,7 @@ Activation functions introduce non-linearity into the network, which is crucial 
 
 Activation functions are crucial in neural networks because they help the network learn and make decisions by introducing non-linearity. Without activation functions, a neural network would only be able to learn linear relationships, no matter how many layers it has. Real-world data, however, is often complex and non-linear. By using activation functions, the network can understand and process these complex patterns, making it more effective at tasks like image recognition, language processing, and more.
 
-A simple example of an activation function is the ReLU (Rectified Linear Unit), which is defined as $$ f(x) = \max(0, x) $$. This means if the input is positive, it outputs the input itself, and if it's negative or zero, it outputs zero. This function helps the network learn faster and perform better because it's simple to compute and doesn't suffer from issues like the vanishing gradient problem, which can slow down or stop learning in deeper networks. By using activation functions like ReLU, the neural network can effectively learn and adapt to the data it's given.
+A simple example of an activation function is the ReLU (Rectified Linear Unit), which is defined as $$ f(x) = \max(0, x) $$. This means if the input is positive, it outputs the input itself, and if it's negative or zero, it outputs zero. This function helps the network learn faster and perform better because it's simple to compute and doesn't suffer from issues like the vanishing gradient problem, which can slow down or stop learning in deeper networks. By using activation functions like ReLU, the [neural network](/wiki/neural-network) can effectively learn and adapt to the data it's given.
 
 ## What is the difference between linear and non-linear activation functions?
 
@@ -52,7 +52,7 @@ However, Tanh also has some downsides. Like the Sigmoid function, Tanh can suffe
 
 ## Can you describe the GELU activation function and its benefits in deep learning?
 
-The GELU, or Gaussian Error Linear Unit, is a type of activation function used in deep learning. It's a bit more complex than ReLU but can help neural networks learn better. The GELU function is defined as $$ f(x) = x \cdot \Phi(x) $$, where $$ \Phi(x) $$ is the cumulative distribution function of the standard normal distribution. In simpler terms, GELU lets the network decide how much to "turn on" a neuron based on the input, but it does so in a smoother way than ReLU.
+The GELU, or Gaussian Error Linear Unit, is a type of activation function used in [deep learning](/wiki/deep-learning). It's a bit more complex than ReLU but can help neural networks learn better. The GELU function is defined as $$ f(x) = x \cdot \Phi(x) $$, where $$ \Phi(x) $$ is the cumulative distribution function of the standard normal distribution. In simpler terms, GELU lets the network decide how much to "turn on" a neuron based on the input, but it does so in a smoother way than ReLU.
 
 One big benefit of GELU is that it can help neural networks perform better on tasks like natural language processing and computer vision. This is because GELU can learn more complex patterns in data compared to simpler functions like ReLU. It's especially useful in large models like transformers, where it can help the network learn and adapt more effectively. While GELU is a bit more computationally expensive than ReLU, the improved performance it offers often makes it worth using in deep learning tasks.
 

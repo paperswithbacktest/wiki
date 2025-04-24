@@ -18,7 +18,7 @@ This type of machine learning is different from bidirectional or online learning
 
 ## How does unidirectional machine learning differ from bidirectional machine learning?
 
-Unidirectional machine learning is like a one-way street. Once the model is trained on a set of data, it can only use that knowledge to make predictions on new data. It cannot learn from the results of its predictions. For example, if a model predicts whether an email is spam and gets it wrong, it won't automatically get better at predicting the next time. The model stays the same until someone retrains it with new data.
+Unidirectional [machine learning](/wiki/machine-learning) is like a one-way street. Once the model is trained on a set of data, it can only use that knowledge to make predictions on new data. It cannot learn from the results of its predictions. For example, if a model predicts whether an email is spam and gets it wrong, it won't automatically get better at predicting the next time. The model stays the same until someone retrains it with new data.
 
 Bidirectional machine learning, on the other hand, is more like a two-way street. The model can learn from both the initial training data and the outcomes of its predictions. If the model makes a mistake, it can use that information to improve its performance over time. This type of learning is often used in systems that need to adapt quickly to changing conditions, like recommendation engines or fraud detection systems. The model keeps getting better as it sees more data and feedback.
 

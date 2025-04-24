@@ -110,7 +110,7 @@ class SimpleCNN(nn.Module):
         return x
 ```
 
-These examples show how to set up a basic convolutional neural network with one convolutional layer, a pooling layer, and a fully connected layer for classification.
+These examples show how to set up a basic [convolutional neural network](/wiki/convolutional-neural-network) with one convolutional layer, a pooling layer, and a fully connected layer for classification.
 
 ## What advanced techniques can be used to optimize convolutional filters for better performance?
 

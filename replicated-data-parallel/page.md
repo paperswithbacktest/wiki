@@ -24,7 +24,7 @@ Both methods have their advantages and challenges. Traditional Data Parallelism 
 
 ## What are the main benefits of using Replicated Data Parallel for training machine learning models?
 
-Replicated Data Parallel makes training machine learning models faster by using many computers or GPUs at the same time. In this method, the same model is copied onto each device, and each device works on a different part of the data. Because the work is split up, the training can be done much quicker than if it was done on just one device. This is especially helpful when you have a lot of data or a very complex model that would take too long to train otherwise.
+Replicated Data Parallel makes training [machine learning](/wiki/machine-learning) models faster by using many computers or GPUs at the same time. In this method, the same model is copied onto each device, and each device works on a different part of the data. Because the work is split up, the training can be done much quicker than if it was done on just one device. This is especially helpful when you have a lot of data or a very complex model that would take too long to train otherwise.
 
 Another big benefit is that Replicated Data Parallel is easier to set up and manage compared to other methods. In traditional Data Parallelism, you have to split the model into parts and send each part to a different device, which can be tricky. But with Replicated Data Parallel, you just copy the whole model to each device and divide the data. This makes it simpler to keep all the devices working together and updating the model correctly. Even though it uses more memory because each device needs a full copy of the model, the simplicity and speed can make it worth it for many machine learning projects.
 

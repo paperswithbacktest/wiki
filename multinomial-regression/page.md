@@ -54,7 +54,7 @@ Multinomial Regression is a way to predict the probability of an outcome that ca
 
 $$ P(Y = k | X) = \frac{\exp(\beta_k \cdot X)}{\sum_{j=0}^{K} \exp(\beta_j \cdot X)} $$
 
-Here, \( P(Y = k | X) \) is the probability that the outcome \( Y \) is in category \( k \) given the predictor variables \( X \). The term \( \beta_k \) represents the coefficients for category \( k \), and the softmax function ensures that the probabilities sum to 1 across all categories \( K \). The model estimates these coefficients using a method called maximum likelihood estimation, which finds the values of \( \beta \) that make the observed data most likely.
+Here, $P(Y = k | X)$ is the probability that the outcome $Y$ is in category $k$ given the predictor variables $X$. The term $\beta_k$ represents the coefficients for category $k$, and the softmax function ensures that the probabilities sum to 1 across all categories $K$. The model estimates these coefficients using a method called maximum likelihood estimation, which finds the values of $\beta$ that make the observed data most likely.
 
 In practice, you can use software like Python to fit a Multinomial Regression model. Here's a simple example using the `statsmodels` library:
 
@@ -80,7 +80,7 @@ This code sets up and fits a Multinomial Regression model, and then prints out a
 
 In Multinomial Regression, the coefficients represent how the predictor variables affect the log-odds of being in one category compared to the reference category. For each category, there is a set of coefficients. If a coefficient is positive, it means that as the predictor variable increases, the log-odds of being in that category (versus the reference category) also increase. If the coefficient is negative, the log-odds decrease as the predictor variable increases. The size of the coefficient shows how strong the effect is. For example, if the coefficient for a predictor is 0.5, it means that for every one-unit increase in that predictor, the log-odds of being in that category increase by 0.5.
 
-To understand the actual change in probability, you need to convert the log-odds to probabilities using the softmax function. The formula for this is $$ P(Y = k | X) = \frac{\exp(\beta_k \cdot X)}{\sum_{j=0}^{K} \exp(\beta_j \cdot X)} $$. This formula calculates the probability of being in category \( k \) given the predictor variables \( X \). The coefficients \( \beta_k \) are used in this calculation. So, while the coefficients themselves tell you about the log-odds, the softmax function helps you see how these log-odds translate into actual probabilities for each category. This way, you can see how changes in the predictors affect the chances of the outcome being in different categories.
+To understand the actual change in probability, you need to convert the log-odds to probabilities using the softmax function. The formula for this is $$ P(Y = k | X) = \frac{\exp(\beta_k \cdot X)}{\sum_{j=0}^{K} \exp(\beta_j \cdot X)} $$. This formula calculates the probability of being in category $k$ given the predictor variables $X$. The coefficients $\beta_k$ are used in this calculation. So, while the coefficients themselves tell you about the log-odds, the softmax function helps you see how these log-odds translate into actual probabilities for each category. This way, you can see how changes in the predictors affect the chances of the outcome being in different categories.
 
 ## What are the common metrics used to evaluate the performance of a Multinomial Regression model?
 

@@ -30,7 +30,7 @@ Lastly, there's the problem of not having enough good examples to train the mode
 
 ## What is the MSPFN model and how does it approach the deraining problem?
 
-The MSPFN model, which stands for Multi-Scale Progressive Fusion Network, is a machine learning model designed to remove rain from images. It works by using different levels of detail to understand and remove rain. The model looks at the image in small, medium, and large scales. By doing this, it can see both the big picture and the tiny details of the rain. This helps the model figure out where the rain is and how to get rid of it without messing up the rest of the image.
+The MSPFN model, which stands for Multi-Scale Progressive Fusion Network, is a [machine learning](/wiki/machine-learning) model designed to remove rain from images. It works by using different levels of detail to understand and remove rain. The model looks at the image in small, medium, and large scales. By doing this, it can see both the big picture and the tiny details of the rain. This helps the model figure out where the rain is and how to get rid of it without messing up the rest of the image.
 
 MSPFN uses something called progressive fusion to combine information from these different scales. It starts with the smallest scale and slowly adds in details from bigger scales. This way, the model can build up a clear image step by step. By the end, it has used all the information it needs to create a derained image that looks like it was taken on a clear day. This approach helps the model deal with the challenges of rain looking different at different distances and under different lighting conditions.
 

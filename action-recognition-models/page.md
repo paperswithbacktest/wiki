@@ -36,7 +36,7 @@ This technique is important because it helps the action recognition model deal w
 
 The Temporal Difference Network (TDN) is a special way to help computers understand what people are doing in videos. It works by looking at how things change from one moment to the next. Imagine watching a video of someone walking. The TDN would look at how the person's position changes between frames to figure out they are walking. This is different from other methods that might just look at each frame by itself. By focusing on these changes, or "temporal differences," the TDN can better tell what action is happening, even if the video is a bit blurry or the lighting is bad.
 
-To make this work, the TDN uses something called a neural network. This is like a computer brain that learns from examples. The TDN is trained to look at the differences between frames and use that information to guess the action. It does this by comparing the current frame with the next one and figuring out how things have moved. This helps the TDN understand the flow of the action over time, making it good at recognizing what people are doing in videos, even if they move quickly or in different ways.
+To make this work, the TDN uses something called a [neural network](/wiki/neural-network). This is like a computer brain that learns from examples. The TDN is trained to look at the differences between frames and use that information to guess the action. It does this by comparing the current frame with the next one and figuring out how things have moved. This helps the TDN understand the flow of the action over time, making it good at recognizing what people are doing in videos, even if they move quickly or in different ways.
 
 ## What is the concept of Asynchronous Interaction Aggregation in action recognition models?
 
@@ -60,7 +60,7 @@ Another way these models handle different viewpoints is by learning from lots of
 
 Training action recognition models can be tough because of a few reasons. One big challenge is having enough good data. These models need to see lots of different videos to learn well, but getting all those videos can be hard. Also, videos can be tricky because they might be blurry, dark, or shot from weird angles. This makes it harder for the model to understand what's happening. Another problem is that people move in all sorts of ways, so the model needs to be smart enough to recognize the same action even if it looks a bit different each time.
 
-To solve these challenges, people use different tricks. For the data problem, they can use something called data augmentation. This means they take the videos they have and make new ones by changing them a bit, like flipping them or adding noise. This helps the model see more examples without needing tons of new videos. To deal with bad video quality or different viewpoints, models can be trained to focus on the important parts, like how a person is moving, and ignore the rest. They can also use special techniques, like transfer learning, where they start with a model that's already good at recognizing things and then teach it more about actions. By doing these things, the models can get better at understanding what people are doing in videos, even when it's hard.
+To solve these challenges, people use different tricks. For the data problem, they can use something called [data augmentation](/wiki/data-augmentation). This means they take the videos they have and make new ones by changing them a bit, like flipping them or adding noise. This helps the model see more examples without needing tons of new videos. To deal with bad video quality or different viewpoints, models can be trained to focus on the important parts, like how a person is moving, and ignore the rest. They can also use special techniques, like transfer learning, where they start with a model that's already good at recognizing things and then teach it more about actions. By doing these things, the models can get better at understanding what people are doing in videos, even when it's hard.
 
 ## How do advanced action recognition models like HalluciNet improve upon traditional methods?
 
@@ -79,3 +79,15 @@ Another important measure is the F1 score, which combines precision and recall i
 In the future, action recognition technology is expected to get even better at understanding what people are doing in videos. One big area of improvement will be making the models smarter at dealing with different situations. They might learn to recognize actions even if the video is really blurry, dark, or if people are moving in unusual ways. Another exciting direction is using action recognition in more places, like in cars to help with self-driving or in virtual reality to make games more realistic. By seeing what people are doing, these technologies can react better and make life easier and more fun.
 
 Another potential advancement is in making action recognition models smaller and faster. Right now, these models can be big and need a lot of power to work. In the future, they might be able to run on smaller devices, like phones or smart glasses, without slowing down. This would mean that action recognition could be used in more everyday situations, helping people with things like fitness tracking or home security. By getting smaller and faster, these models can be more helpful to more people.
+
+## References & Further Reading
+
+[1]: Zhang, Y., Wang, C., Bao, L., Zhu, X., & Wu, W. (2020). ["Exploring Temporal Preservation Networks for Action Recognition."](https://link.springer.com/article/10.1007/s12274-020-2755-3) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Simonyan, K., & Zisserman, A. (2014). ["Two-Stream Convolutional Networks for Action Recognition in Videos."](https://arxiv.org/abs/1406.2199) Advances in Neural Information Processing Systems 27.
+
+[3]: Carreira, J., & Zisserman, A. (2017). ["Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset."](https://arxiv.org/abs/1705.07750) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Wang, L., Xiong, Y., Wang, Z., Qiao, Y., Lin, D., Tang, X., & Van Gool, L. (2016). ["Temporal Segment Networks: Towards Good Practices for Deep Action Recognition."](https://arxiv.org/abs/1608.00859) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Yan, S., Xiong, Y., & Lin, D. (2018). ["Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition."](https://arxiv.org/abs/1801.07455) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

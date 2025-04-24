@@ -18,7 +18,7 @@ To use the Shark pattern, traders first spot the X to A move, which is the start
 
 ## Who developed the Shark Harmonic Trading Strategy?
 
-The Shark Harmonic Trading Strategy was developed by Scott Carney. He is a well-known trader and author who has written many books about harmonic trading. Scott Carney came up with the Shark pattern as part of his work to find new ways to predict price movements in the markets.
+The Shark Harmonic Trading Strategy was developed by Scott Carney. He is a well-known trader and author who has written many [books](/wiki/algo-trading-books) about harmonic trading. Scott Carney came up with the Shark pattern as part of his work to find new ways to predict price movements in the markets.
 
 The Shark pattern is different from other harmonic patterns because it has a unique shape and specific ratios. Scott Carney noticed that this pattern could help traders spot good times to buy or sell. By using the Shark pattern, traders can look for the five points labeled X, A, B, C, and D, and use the special ratios between these points to make better trading decisions.
 

@@ -34,7 +34,7 @@ You keep doing this, letting the model guess on the rest of the pictures and add
 
 ## What are the advantages of using self-training in machine learning?
 
-Self-training in machine learning is a smart way to make your model better without needing more labeled data. Imagine you have a model that can already do some tasks, but you want it to get even better. With self-training, you can let the model use its own guesses on new, unlabeled data to teach itself. This means you don't have to spend time and money getting more data labeled by people. It's like letting the model learn on its own, which can be really helpful when getting more labeled data is hard or expensive.
+Self-training in [machine learning](/wiki/machine-learning) is a smart way to make your model better without needing more labeled data. Imagine you have a model that can already do some tasks, but you want it to get even better. With self-training, you can let the model use its own guesses on new, unlabeled data to teach itself. This means you don't have to spend time and money getting more data labeled by people. It's like letting the model learn on its own, which can be really helpful when getting more labeled data is hard or expensive.
 
 However, you have to be careful with self-training. If the model starts making wrong guesses and you use those guesses to train it more, it might start learning the wrong things. This is called "error propagation." To avoid this, you only use the guesses the model is very sure about. By doing this carefully, self-training can help your model improve without making too many mistakes. It's a great way to make the most out of the data you already have.
 

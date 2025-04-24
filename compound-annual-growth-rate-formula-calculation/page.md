@@ -31,7 +31,9 @@ On the other hand, the average annual growth rate is simpler. It adds up the gro
 
 The formula for calculating the Compound Annual Growth Rate (CAGR) is: 
 
-\[ \text{CAGR} = \left( \frac{\text{Ending Value}}{\text{Starting Value}} \right)^{\frac{1}{\text{Number of Years}}} - 1 \]
+$$
+\text{CAGR} = \left( \frac{\text{Ending Value}}{\text{Starting Value}} \right)^{\frac{1}{\text{Number of Years}}} - 1
+$$
 
 This formula might look complicated, but it's just a way to find out the average yearly growth rate that would take you from the starting value to the ending value over a certain number of years. You start by dividing the ending value by the starting value. Then, you raise that number to the power of one divided by the number of years. Finally, you subtract one from the result to get the CAGR. This helps smooth out any ups and downs that happened along the way, giving you a clear picture of the average growth rate over the whole period.
 

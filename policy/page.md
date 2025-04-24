@@ -19,7 +19,7 @@ For example, imagine a robot learning to navigate a maze. The policy would be th
 
 In machine learning, a model is like a machine that learns from data to make predictions or decisions. It uses the data to find patterns and relationships, and then it can predict things like whether an email is spam or what price a house might sell for. A model can be as simple as a line that fits through a set of points or as complex as a deep neural network with many layers.
 
-A policy, on the other hand, is a set of rules that an agent follows to take actions in a specific situation. It's used a lot in reinforcement learning, where the goal is to learn how to act in an environment to get the best reward. For example, a policy might tell a robot which way to move in a maze to reach the exit faster. While a model helps in understanding and predicting, a policy is more about deciding what to do next.
+A policy, on the other hand, is a set of rules that an agent follows to take actions in a specific situation. It's used a lot in reinforcement learning, where the goal is to learn how to act in an environment to get the best reward. For example, a policy might tell a robot which way to move in a maze to reach the [exit](/wiki/exit-strategy) faster. While a model helps in understanding and predicting, a policy is more about deciding what to do next.
 
 To sum it up, a model focuses on learning from data to make predictions, whereas a policy focuses on using learned information to make decisions and take actions. Both are important in [machine learning](/wiki/machine-learning), but they serve different purposes. A model might help you understand the world, while a policy helps you navigate it.
 

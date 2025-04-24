@@ -18,7 +18,7 @@ A GPU, or Graphics Processing Unit, was originally designed to handle graphics f
 
 A TPU, or Tensor Processing Unit, makes machine learning faster and more efficient. It does this by being really good at the kind of math that machine learning needs, like multiplying big sets of numbers called matrices. For example, if you have two matrices, A and B, the TPU can quickly calculate their product $$A \times B$$. This speeds up the process of training machine learning models, which means you can get results quicker and try out more ideas.
 
-TPUs are also designed to work well with lots of data. They can handle big chunks of information at once, which is important for machine learning because these models often need to look at a lot of data to learn well. This makes TPUs especially useful in places like data centers where there's a lot of data and a lot of machine learning happening. So, using TPUs can help make your machine learning projects run smoother and faster.
+TPUs are also designed to work well with lots of data. They can handle big chunks of information at once, which is important for [machine learning](/wiki/machine-learning) because these models often need to look at a lot of data to learn well. This makes TPUs especially useful in places like data centers where there's a lot of data and a lot of machine learning happening. So, using TPUs can help make your machine learning projects run smoother and faster.
 
 ## What are the key components of a TPU?
 
@@ -48,7 +48,7 @@ The fourth generation, TPU v4, was introduced in 2021. It had a big jump in perf
 
 ## How can a beginner start using TPUs for machine learning?
 
-To start using TPUs for machine learning, a beginner should first get familiar with Google's platform called Google Colab. Google Colab is a free online tool that lets you write and run code in your browser, and it has TPUs you can use. To use a TPU in Google Colab, you need to connect to a TPU runtime. You can do this by going to the "Runtime" menu, choosing "Change runtime type," and then selecting "TPU" as the hardware accelerator. Once you're connected, you can start using the TPU to speed up your machine learning tasks.
+To start using TPUs for machine learning, a beginner should first get familiar with Google's platform called Google Colab. Google Colab is a free online tool that lets you write and run code in your browser, and it has TPUs you can use. To use a TPU in Google Colab, you need to connect to a TPU runtime. You can do this by going to the "Runtime" menu, choosing "Change runtime type," and then selecting "TPU" as the hardware [accelerator](/wiki/accelerator). Once you're connected, you can start using the TPU to speed up your machine learning tasks.
 
 After setting up the TPU in Google Colab, you can start using it with popular machine learning libraries like TensorFlow. TensorFlow has special functions that make it easy to use TPUs. For example, you can use the `tf.distribute.TPUStrategy` to tell TensorFlow to use the TPU for your model. Here's a simple example of how to do this:
 

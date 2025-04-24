@@ -18,7 +18,7 @@ The reason Tf.Example is used is because it helps keep data organized and consis
 
 Tf.Example helps in organizing data for machine learning models by providing a structured way to store different types of data in a single format. Imagine you have a bunch of different pieces of information like numbers, words, and lists. Tf.Example acts like a special container where you can neatly pack all these different pieces. This makes it easy to handle and process the data because everything is in the same format, no matter what kind of information it is.
 
-When you use Tf.Example, you can easily label and categorize each piece of data. For example, if you're working on a project to predict house prices, you might have data like the number of bedrooms, the size of the house, and the location. With Tf.Example, you can tag each piece of information with a name, like "bedrooms" or "size", so the machine learning model knows exactly what each piece of data represents. This helps the model learn better because it gets clear and organized information, which leads to more accurate predictions.
+When you use Tf.Example, you can easily label and categorize each piece of data. For example, if you're working on a project to predict house prices, you might have data like the number of bedrooms, the size of the house, and the location. With Tf.Example, you can tag each piece of information with a name, like "bedrooms" or "size", so the [machine learning](/wiki/machine-learning) model knows exactly what each piece of data represents. This helps the model learn better because it gets clear and organized information, which leads to more accurate predictions.
 
 ## What are the basic components of a Tf.Example message?
 

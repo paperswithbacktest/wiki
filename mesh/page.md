@@ -79,3 +79,15 @@ Another technique is called quantization. Quantization means changing the weight
 Recent developments in Mesh machine learning have focused on improving its efficiency and applicability to new types of data. One exciting trend is the use of Mesh for processing point cloud data, which is common in 3D scanning and autonomous driving. Researchers are working on ways to make Mesh networks better at understanding these complex, unstructured data sets. For example, they're developing new algorithms that can handle the irregular connections in point clouds more effectively. This could lead to better performance in tasks like 3D object recognition and scene understanding, making Mesh even more useful in real-world applications.
 
 Another trend is the integration of Mesh with other machine learning techniques, like graph neural networks. By combining Mesh with graph neural networks, researchers are trying to create models that can capture both spatial and relational information in data. This hybrid approach could be particularly useful for tasks that involve understanding complex networks, such as social media analysis or molecular structure prediction. These advancements show that Mesh is not just a standalone tool but can be part of a larger, more versatile machine learning ecosystem, opening up new possibilities for solving challenging problems.
+
+## References & Further Reading
+
+[1]: Bronstein, M. M., Bruna, J., LeCun, Y., Szlam, A., & Vandergheynst, P. (2017). [Geometric Deep Learning: Going beyond Euclidean data.](https://arxiv.org/abs/1611.08097) IEEE Signal Processing Magazine, 34(4), 18-42.
+
+[2]: Defferrard, M., Bresson, X., & Vandergheynst, P. (2016). [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.](https://dl.acm.org/doi/10.5555/3157382.3157527) Advances in Neural Information Processing Systems 29.
+
+[3]: Bronstein, M. M., Bruna, J., Cohen, T., & Veličković, P. (2021). [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges.](https://arxiv.org/abs/2104.13478) arXiv preprint arXiv:2104.13478.
+
+[4]: Hanocka, R., Hertz, A., Fish, N., Giryes, R., Fleishman, S., & Cohen-Or, D. (2019). [MeshCNN: A Network with an Edge.](https://arxiv.org/abs/1809.05910) ACM Transactions on Graphics (TOG), 38(4), 1-12.
+
+[5]: Monti, F., Boscaini, D., Masci, J., Rodolà, E., Svoboda, J., & Bronstein, M. M. (2017). [Geometric deep learning on graphs and manifolds using mixture model CNNs.](https://arxiv.org/abs/1611.08402) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

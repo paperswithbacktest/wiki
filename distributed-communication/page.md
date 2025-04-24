@@ -18,7 +18,7 @@ In a typical distributed machine learning setup, each node may be responsible fo
 
 Distributed communication is important for machine learning because it allows us to handle big data and complex models that a single computer can't manage alone. When we have a lot of data, it's too much for one computer to process quickly. By spreading the data across many computers, each one can work on a smaller piece of the puzzle. This makes the whole process faster and lets us use more data to train better models.
 
-Also, distributed communication helps when we need a lot of computing power. Some machine learning models, like deep neural networks, need a lot of calculations. By using many computers together, we can do these calculations much faster. This is really helpful for things like training models for self-driving cars or understanding human speech, where we need quick and accurate results.
+Also, distributed communication helps when we need a lot of computing power. Some [machine learning](/wiki/machine-learning) models, like deep neural networks, need a lot of calculations. By using many computers together, we can do these calculations much faster. This is really helpful for things like training models for self-driving cars or understanding human speech, where we need quick and accurate results.
 
 ## What are the basic principles of distributed communication systems?
 
@@ -36,7 +36,7 @@ The way these computers talk to each other in a distributed system is also diffe
 
 In distributed machine learning, several common protocols help computers talk to each other. One popular protocol is the Message Passing Interface (MPI). MPI lets different computers send messages to each other, which is really helpful for sharing data and model updates. Another common protocol is the Remote Procedure Call (RPC). With RPC, one computer can ask another computer to do a task and then get the results back. This is useful for things like asking a node to process a part of the data and then sending the results back to the main computer.
 
-Another important protocol is the Parameter Server (PS) architecture. In this setup, there's a central server that keeps track of the model's parameters. The other computers, or workers, send their updates to this server, and the server then sends the updated parameters back to the workers. This helps keep everyone on the same page and makes sure the model is updated correctly. Lastly, there's the AllReduce protocol, which is used a lot in deep learning. AllReduce helps all the computers share their updates at the same time, so everyone can use the new information to update the model together. This can make the training process faster and more efficient.
+Another important protocol is the Parameter Server (PS) architecture. In this setup, there's a central server that keeps track of the model's parameters. The other computers, or workers, send their updates to this server, and the server then sends the updated parameters back to the workers. This helps keep everyone on the same page and makes sure the model is updated correctly. Lastly, there's the AllReduce protocol, which is used a lot in [deep learning](/wiki/deep-learning). AllReduce helps all the computers share their updates at the same time, so everyone can use the new information to update the model together. This can make the training process faster and more efficient.
 
 ## Can you explain the concept of 'Blink Communication' in distributed systems?
 

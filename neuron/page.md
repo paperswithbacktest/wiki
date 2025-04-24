@@ -79,3 +79,23 @@ The layers in between the input and output layers are called hidden layers. Neur
 One big trend in neuron design and functionality is making neurons more like the ones in our brains. Scientists are trying to make artificial neurons that can do more than just simple math. They want these neurons to be able to change and learn on their own, just like real brain cells. This is called neuromorphic computing. By making neurons that work more like real ones, researchers hope to build computers that can learn and think in new ways. For example, they might use something called spiking neural networks, where neurons send out quick bursts of signals, just like real brain cells. This could help computers use less energy and solve problems that are hard for regular neural networks.
 
 Another trend is making neurons better at working together. Researchers are looking at how to make the connections between neurons stronger and more flexible. They're using ideas like attention mechanisms, which help neurons focus on the most important information. This is like how you might pay more attention to certain things when you're trying to learn or solve a problem. By making neurons better at working together, neural networks can learn faster and make better decisions. For example, in a network that understands language, neurons might use attention to focus on key words in a sentence, helping the network understand the meaning better.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436–444.
+
+[3]: Nair, V., & Hinton, G. E. (2010). ["Rectified Linear Units Improve Restricted Boltzmann Machines."](https://dl.acm.org/doi/10.5555/3104322.3104425) Proceedings of the 27th International Conference on Machine Learning (ICML).
+
+[4]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification."](https://arxiv.org/abs/1502.01852) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: Schmidhuber, J. (2015). ["Deep Learning in Neural Networks: An Overview."](https://www.sciencedirect.com/science/article/pii/S0893608014002135) Neural Networks, 61, 85-117.
+
+[6]: Glorot, X., & Bengio, Y. (2010). ["Understanding the difficulty of training deep feedforward neural networks."](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics.
+
+[7]: Ioffe, S., & Szegedy, C. (2015). ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) Proceedings of the 32nd International Conference on Machine Learning (ICML).
+
+[8]: Hinton, G., Srivastava, N., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2012). ["Improving neural networks by preventing co-adaptation of feature detectors."](https://arxiv.org/abs/1207.0580) arXiv:1207.0580.
+
+[9]: Peng, H., & Shou, J. (2020). ["Research on the application of activation functions in deep neural networks."](https://arxiv.org/abs/2101.09957) IOP Conference Series: Materials Science and Engineering.

@@ -81,3 +81,15 @@ In unsupervised learning, GANs are useful because they can find patterns in the 
 GANs have a bright future ahead. They can be used to create new art, design products, and even help in medicine by making new data for research. In the future, GANs might be used to make movies and video games look even more realistic. They can also help in making self-driving cars safer by creating realistic scenarios for them to practice in. As computers get better and faster, GANs will be able to create even more detailed and lifelike data. This means that in the future, we might see GANs being used in many more fields, helping to solve big problems and create new things.
 
 However, there are also some ethical concerns about using GANs. One big worry is that they can be used to create fake news or fake videos that look real. This can be dangerous because it might trick people into believing things that aren't true. Another concern is about privacy. GANs can create fake data that looks like real data, which might be used to trick people or steal their information. As GANs get better, it's important for people to think about how to use them in a way that is safe and fair. This means making rules and guidelines to make sure GANs are used to help people, not hurt them.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Radford, A., Metz, L., & Chintala, S. (2015). ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](https://arxiv.org/abs/1511.06434) arXiv:1511.06434.
+
+[3]: Karras, T., Laine, S., & Aila, T. (2019). ["A Style-Based Generator Architecture for Generative Adversarial Networks."](https://arxiv.org/abs/1812.04948) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[4]: Creswell, A., White, T., Dumoulin, V., Arulkumaran, K., Sengupta, B., & Bharath, A. A. (2018). ["Generative Adversarial Networks: An Overview."](https://arxiv.org/abs/1710.07035) IEEE Signal Processing Magazine.
+
+[5]: Frid-Adar, M., Klang, E., Amitai, M., Goldberger, J., & Greenspan, H. (2018). ["Synthetic Data Augmentation using GAN for Improved Liver Lesion Classification."](https://arxiv.org/abs/1803.01229) IEEE Transactions on Medical Imaging.

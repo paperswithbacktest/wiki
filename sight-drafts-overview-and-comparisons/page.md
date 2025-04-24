@@ -1,6 +1,7 @@
 ---
-title: "Sight Drafts: Overview and Comparisons"
-description: "Explore sight drafts, bank drafts, and their significance in algorithmic trading. Understand these financial instruments to enhance market security and efficiency."
+title: Sight Drafts Explained for Secure International Trade
+description: Sight draft secures payment through the buyer bank before releasing goods
+  in transactions reducing risk and improving cash flow. Discover more inside.
 ---
 
 

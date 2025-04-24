@@ -18,7 +18,7 @@ Tokenizers are used in many areas of machine learning, especially in natural lan
 
 Tokenizers are important for natural language processing because they help computers understand and work with text. When you have a sentence or a paragraph, a tokenizer breaks it down into smaller parts called tokens. These tokens can be words, numbers, or even punctuation marks. By doing this, the computer can process the text more easily. For example, if you want to analyze a book, the computer needs to understand each word separately before it can understand the whole book.
 
-In natural language processing, tokenization is often the first step in preparing text for machine learning models. Once the text is broken into tokens, these tokens can be used as input for different kinds of models. For instance, in sentiment analysis, a model might look at the tokens to figure out if a review is positive or negative. Without tokenization, it would be much harder for the computer to understand the text and make accurate predictions. This is why tokenizers are a key part of making natural language processing work well.
+In natural language processing, tokenization is often the first step in preparing text for [machine learning](/wiki/machine-learning) models. Once the text is broken into tokens, these tokens can be used as input for different kinds of models. For instance, in sentiment analysis, a model might look at the tokens to figure out if a review is positive or negative. Without tokenization, it would be much harder for the computer to understand the text and make accurate predictions. This is why tokenizers are a key part of making natural language processing work well.
 
 ## What is the difference between word-based and character-based tokenization?
 

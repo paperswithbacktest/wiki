@@ -1,6 +1,7 @@
 ---
-title: "Sierra Leonean Leone"
-description: "Explore the role of the Sierra Leonean Leone in algorithmic trading to understand its impact on emerging markets and how traders can leverage this currency."
+title: Understanding the Sierra Leonean Leone Currency and Value
+description: Sierra Leonean Leone explained from its historical origins and denominations
+  to exchange rate dynamics inflation and monetary policies Discover more inside
 ---
 
 

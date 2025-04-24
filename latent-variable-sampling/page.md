@@ -22,7 +22,7 @@ For example, in a model that predicts customer behavior, latent variables might 
 
 ## What is the truncation trick and how is it used in latent variable sampling?
 
-The truncation trick is a clever way to simplify the process of sampling from complex distributions, especially when dealing with latent variables. In machine learning, we often need to sample from distributions that are hard to work with directly. The trick involves breaking down the sampling into two easier steps: first, we sample from a simpler distribution, and then we adjust those samples to match the complex distribution we're interested in. This makes it much easier to generate samples that accurately represent the latent variables we're trying to understand.
+The truncation trick is a clever way to simplify the process of sampling from complex distributions, especially when dealing with latent variables. In [machine learning](/wiki/machine-learning), we often need to sample from distributions that are hard to work with directly. The trick involves breaking down the sampling into two easier steps: first, we sample from a simpler distribution, and then we adjust those samples to match the complex distribution we're interested in. This makes it much easier to generate samples that accurately represent the latent variables we're trying to understand.
 
 For example, imagine you're trying to sample from a distribution that only has values between 0 and 1, but it's really hard to sample directly from this distribution. The truncation trick would let you first sample from a normal distribution, which is easy to sample from, and then adjust those samples to fall between 0 and 1. This way, you can still get good samples from the complex distribution without having to deal with all its complexities directly. This technique is particularly useful in algorithms like Markov Chain Monte Carlo (MCMC), where sampling from complex distributions is a key part of the process.
 
@@ -81,3 +81,19 @@ Another way to measure the effectiveness of Polya-Gamma augmentation is by check
 Combining latent variable sampling with variational inference can really boost model performance. Variational inference tries to find an easy-to-handle distribution that's close to the true distribution of the hidden factors in your model. It does this by minimizing a measure called the Kullback-Leibler divergence between the easy and the true distributions. By using variational inference with latent variable sampling, you can get the best of both worlds: the speed and simplicity of variational methods and the accuracy of sampling from the true distribution. This can make your model run faster and still give you good results, which is really helpful when you're working with big datasets or complex models.
 
 Another advanced technique to try is Markov Chain Monte Carlo (MCMC) with adaptive proposals. MCMC is a way to sample from complex distributions by creating a chain of samples that slowly explore the whole distribution. Adaptive proposals mean that the method learns from past samples to make better guesses about where to sample next. This can make the sampling process more efficient and help you find the best settings for your hidden factors more quickly. For example, if you're using a method like the Metropolis-Hastings algorithm, you can adjust the proposal distribution $$ q(x'|x) $$ based on the history of the chain to improve the acceptance rate and get better samples. Combining this with latent variable sampling can help you understand the hidden factors in your model more accurately and make better predictions.
+
+## References & Further Reading
+
+[1]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) The MIT Press.
+
+[2]: Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). ["Variational Inference: A Review for Statisticians."](https://arxiv.org/abs/1601.00670) Journal of the American Statistical Association, 112(518), 859-877.
+
+[3]: Holmes, C. C., & Held, L. (2006). ["Bayesian Auxiliary Variable Models for Binary and Multinomial Regression."](https://projecteuclid.org/journals/bayesian-analysis/volume-1/issue-1/Bayesian-auxiliary-variable-models-for-binary-and-multinomial-regression/10.1214/06-BA105.pdf) Bayesian Analysis, 1(1), 145-168.
+
+[4]: Polson, N. G., Scott, J. G., & Windle, J. (2013). ["Bayesian Inference for Logistic Models Using Pólya–Gamma Latent Variables."](https://www.tandfonline.com/doi/full/10.1080/01621459.2013.829001) Journal of the American Statistical Association, 108(504), 1339-1349.
+
+[5]: Neal, R. M. (2011). ["MCMC Using Hamiltonian Dynamics."](https://arxiv.org/abs/1206.1901) In Handbook of Markov Chain Monte Carlo (pp. 113-162). CRC Press.
+
+[6]: Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). ["Bayesian Data Analysis."](https://www.taylorfrancis.com/books/mono/10.1201/b16018/bayesian-data-analysis-david-dunson-donald-rubin-john-carlin-andrew-gelman-hal-stern-aki-vehtari) CRC Press.
+
+[7]: Wainwright, M. J., & Jordan, M. I. (2008). ["Graphical Models, Exponential Families, and Variational Inference."](https://people.eecs.berkeley.edu/~jordan/papers/wainwright-jordan-fnt.pdf) Foundations and Trends® in Machine Learning, 1(1-2), 1-305.

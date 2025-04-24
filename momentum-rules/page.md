@@ -18,7 +18,7 @@ Think of momentum like pushing a heavy ball down a hill. If you give the ball a 
 
 Momentum helps in optimizing neural networks by making the learning process faster and more stable. Imagine you're rolling a ball down a hill. If you push the ball, it keeps moving even when the slope gets less steep. Momentum in neural networks works the same way. It adds a bit of the previous update to the current update, helping the network keep moving in the right direction even when the gradient, or the slope of the error, gets smaller. This means the network can learn faster and avoid getting stuck in small dips along the way.
 
-In more technical terms, momentum adds a fraction of the previous update vector to the current update vector. If $$v_t$$ is the update vector at time $$t$$ and $$\nabla J(\theta_t)$$ is the gradient of the cost function at the current parameters $$\theta_t$$, the update rule with momentum can be described as:
+In more technical terms, [momentum](/wiki/momentum) adds a fraction of the previous update vector to the current update vector. If $$v_t$$ is the update vector at time $$t$$ and $$\nabla J(\theta_t)$$ is the gradient of the cost function at the current parameters $$\theta_t$$, the update rule with momentum can be described as:
 
 $$v_t = \gamma v_{t-1} + \eta \nabla J(\theta_t)$$
 
@@ -28,7 +28,7 @@ Here, $$\gamma$$ is the momentum coefficient, usually set between 0 and 1, and $
 
 ## What is the basic formula for Momentum in gradient descent?
 
-Momentum in gradient descent is like giving your learning process a helpful push. Imagine you're rolling a ball down a hill. If you give it a good push, it keeps rolling even when the slope gets less steep. In the same way, momentum helps your neural network keep moving in the right direction even when the gradient, or the slope of the error, gets smaller. This makes the learning faster and helps avoid getting stuck in small dips along the way.
+Momentum in gradient descent is like giving your learning process a helpful push. Imagine you're rolling a ball down a hill. If you give it a good push, it keeps rolling even when the slope gets less steep. In the same way, momentum helps your [neural network](/wiki/neural-network) keep moving in the right direction even when the gradient, or the slope of the error, gets smaller. This makes the learning faster and helps avoid getting stuck in small dips along the way.
 
 The basic formula for momentum in gradient descent adds a fraction of the previous update to the current update. If $$v_t$$ is the update vector at time $$t$$ and $$\nabla J(\theta_t)$$ is the gradient of the cost function at the current parameters $$\theta_t$$, the update rule with momentum can be written as:
 
@@ -52,7 +52,7 @@ Choosing the right value for $$\gamma$$ is important. A good balance helps the n
 
 ## What are the advantages of using Momentum in training deep learning models?
 
-Momentum helps deep learning models learn faster and smoother. Imagine you're rolling a ball down a hill. If you give the ball a good push, it keeps rolling even when the slope gets less steep. Momentum in deep learning works the same way. It adds a bit of the previous step to the current step, helping the model keep moving in the right direction even when the gradient, or the slope of the error, gets smaller. This means the model can learn quicker and avoid getting stuck in small dips along the way.
+Momentum helps [deep learning](/wiki/deep-learning) models learn faster and smoother. Imagine you're rolling a ball down a hill. If you give the ball a good push, it keeps rolling even when the slope gets less steep. Momentum in deep learning works the same way. It adds a bit of the previous step to the current step, helping the model keep moving in the right direction even when the gradient, or the slope of the error, gets smaller. This means the model can learn quicker and avoid getting stuck in small dips along the way.
 
 The momentum parameter, often called $$\gamma$$ (gamma), controls how much of the past steps the model remembers. If $$\gamma$$ is close to 1, the model remembers a lot, making it move faster and smoother. But if it's too close to 1, the model might overshoot and miss the best solution. If $$\gamma$$ is close to 0, the model forgets the past quickly, acting more like regular learning, which can be slower but more careful. By choosing the right value for $$\gamma$$, usually around 0.9, you can make the learning process more efficient and help the model find the best solution faster.
 
@@ -78,7 +78,7 @@ To find the best $$\gamma$$ for your problem, you can try different values and s
 
 Nesterov Accelerated Gradient (NAG) is a tweak to the regular momentum method that makes the learning process even faster and smoother. Imagine you're rolling a ball down a hill again. With regular momentum, you give the ball a push and then check where it is. But with NAG, you look ahead to where the ball will be after the push and then adjust your direction based on that. This helps the ball move more directly towards the bottom of the hill, avoiding overshooting or getting stuck in small dips along the way.
 
-In technical terms, NAG adjusts the update rule by first taking a step in the direction of the previous momentum and then calculating the gradient at that new point. The update rules for NAG are $$v_t = \gamma v_{t-1} + \eta \nabla J(\theta_t - \gamma v_{t-1})$$ and $$\theta_{t+1} = \theta_t - v_t$$. Here, $$\gamma$$ is the momentum coefficient, $$\eta$$ is the learning rate, and $$\nabla J(\theta_t - \gamma v_{t-1})$$ is the gradient calculated at the point where the model would be if it took a step based on the previous momentum. By looking ahead, NAG can correct its course more effectively, leading to faster and more stable learning.
+In technical terms, NAG adjusts the update rule by first taking a step in the direction of the previous momentum and then calculating the gradient at that new point. The update rules for NAG are $$v_t = \gamma v_{t-1} + \eta \nabla J(\theta_t - \gamma v_{t-1})$$ and $$\theta_{t+1} = \theta_t - v_t$$. Here, $$\gamma$$ is the momentum coefficient, $$\eta$$ is the learning rate, and $$\nabla J(\theta_t - \gamma v_{t-1})$$ is the gradient calculated at the point where the model would be if it took a step based on the previous momentum. By looking ahead, NAG can correct its [course](/wiki/best-algorithmic-trading-courses) more effectively, leading to faster and more stable learning.
 
 ## How can Momentum be combined with other optimization techniques like Adam or RMSprop?
 

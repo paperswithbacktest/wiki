@@ -1,6 +1,7 @@
 ---
-title: "Shrinkflation: Overview and Identification"
-description: "Discover how shrinkflation and algorithmic trading influence consumer economics. Explore methods to identify shrinkflation and its impact on market strategies."
+title: Understanding Shrinkflation Impact on Consumer Value and Behavior
+description: Shrinkflation shrinks product sizes while prices stay the same forcing
+  consumers to monitor unit costs and shop smarter Discover more inside.
 ---
 
 

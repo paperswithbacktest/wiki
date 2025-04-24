@@ -18,7 +18,7 @@ In machine learning, CAD design is important because it helps create the data th
 
 Machine learning helps make CAD design better by making the process faster and more accurate. For example, machine learning can look at a lot of past designs and find patterns or common mistakes. This way, when someone is designing something new, the software can suggest improvements or warn about possible issues before they become big problems. It's like having a smart helper that learns from experience and makes the design work smoother.
 
-Another way machine learning helps is by automating some parts of the design process. Imagine you need to design many similar parts, like screws or bolts. Machine learning can learn how to design these parts quickly and correctly, saving a lot of time. It can also help with things like optimizing the design to make it stronger or lighter, by trying out different options and choosing the best one based on what it has learned before. This makes the whole design process more efficient and can lead to better final products.
+Another way [machine learning](/wiki/machine-learning) helps is by automating some parts of the design process. Imagine you need to design many similar parts, like screws or bolts. Machine learning can learn how to design these parts quickly and correctly, saving a lot of time. It can also help with things like optimizing the design to make it stronger or lighter, by trying out different options and choosing the best one based on what it has learned before. This makes the whole design process more efficient and can lead to better final products.
 
 ## What is BRepNet and how does it relate to CAD design models?
 
@@ -52,7 +52,7 @@ Machine learning-assisted CAD design, on the other hand, uses computers to help 
 
 ## How does BRepNet use neural networks to process and understand CAD models?
 
-BRepNet uses a type of neural network called a Graph Neural Network (GNN) to understand and process CAD models. In a CAD model, the shape is made up of points, lines, and surfaces. BRepNet sees these parts as a graph, where the points are like nodes and the lines are like edges connecting them. The neural network learns how these nodes and edges fit together to make the whole shape. By looking at many different CAD models, BRepNet can learn patterns and understand how different shapes are built.
+BRepNet uses a type of [neural network](/wiki/neural-network) called a Graph Neural Network (GNN) to understand and process CAD models. In a CAD model, the shape is made up of points, lines, and surfaces. BRepNet sees these parts as a graph, where the points are like nodes and the lines are like edges connecting them. The neural network learns how these nodes and edges fit together to make the whole shape. By looking at many different CAD models, BRepNet can learn patterns and understand how different shapes are built.
 
 Once BRepNet has learned about these shapes, it can do useful things with them. For example, it can compare two different CAD models to see how similar they are, or it can help change a design to make it better. This is all done by the neural network figuring out the important parts of the model and how they connect. By using this technology, BRepNet makes working with CAD models easier and faster, helping designers and engineers do their jobs better.
 

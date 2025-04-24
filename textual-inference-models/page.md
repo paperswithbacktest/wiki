@@ -66,7 +66,7 @@ Another useful dataset is the Recognizing Textual Entailment (RTE) dataset serie
 
 ## How do advanced techniques like deep learning enhance Textual Inference Models?
 
-Deep learning helps Textual Inference Models understand and predict better by using big neural networks that can learn from lots of data. These networks are good at finding patterns in text that simpler models might miss. For example, deep learning models can learn how words relate to each other and how sentences are built. This helps the model understand not just the words, but also the meaning behind them. By using techniques like Long Short-Term Memory (LSTM) networks or Transformers, deep learning can keep track of long pieces of text and understand how different parts of the text connect to each other.
+Deep learning helps Textual Inference Models understand and predict better by using big neural networks that can learn from lots of data. These networks are good at finding patterns in text that simpler models might miss. For example, [deep learning](/wiki/deep-learning) models can learn how words relate to each other and how sentences are built. This helps the model understand not just the words, but also the meaning behind them. By using techniques like Long Short-Term Memory (LSTM) networks or Transformers, deep learning can keep track of long pieces of text and understand how different parts of the text connect to each other.
 
 These advanced techniques make Textual Inference Models more accurate and able to handle different kinds of text. For instance, a model using deep learning can better understand the context of a sentence and the subtle differences between similar words. This is important for tasks like translating languages or answering questions, where understanding the full meaning of the text is key. By training on large datasets, deep learning models can also adapt to new types of text and situations, making them more flexible and useful in real-world applications.
 
@@ -81,3 +81,21 @@ Another exciting area of research is the integration of external knowledge into 
 Textual Inference Models can be integrated into larger natural language processing systems to help these systems understand and process text better. For example, in a search engine, a Textual Inference Model can help figure out what a user really means when they type in a query. The model can look at the words and understand the context, which helps the search engine give more accurate results. In a chatbot or virtual assistant, Textual Inference Models can understand what a user is asking and give better answers. By adding these models to bigger systems, the systems can understand language more like a human does, making them more useful and helpful.
 
 Another way Textual Inference Models are used in larger systems is in machine translation. When translating from one language to another, understanding the meaning behind the words is important. A Textual Inference Model can help by figuring out the logical relationships between sentences in the original text and making sure the translation keeps those relationships. This makes translations more accurate and natural-sounding. In text summarization, these models can also help by understanding the main ideas in a long piece of text and creating a shorter summary that keeps the important points. By using Textual Inference Models, larger natural language processing systems can work better and give more useful results to users.
+
+## References & Further Reading
+
+[1]: Bowman, S. R., Angeli, G., Potts, C., & Manning, C. D. (2015). ["A large annotated corpus for learning natural language inference."](https://aclanthology.org/D15-1075/) Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing.
+
+[2]: Williams, A., Nangia, N., & Bowman, S. R. (2018). ["A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference."](https://aclanthology.org/N18-1101/) Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: MacCartney, B., & Manning, C. D. (2009). ["An Extended Model of Natural Logic."](https://aclanthology.org/W09-3714/) Proceedings of the Eighth International Conference on Computational Semantics. 
+
+[5]: Dagan, I., Glickman, O., & Magnini, B. (2005). ["The PASCAL Recognising Textual Entailment Challenge."](https://link.springer.com/chapter/10.1007/11736790_9) In Machine Learning Challenges Workshop.
+
+[6]: Chen, Q., Zhu, X., Ling, Z., Wei, S., Jiang, H., & Inkpen, D. (2016). ["Enhanced LSTM for Natural Language Inference."](https://aclanthology.org/P17-1152/) Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics.
+
+[7]: ["Natural Language Inference (NLI) - An overview."](https://towardsdatascience.com/natural-language-inference-an-overview-57c0eecf6517/) Towards Data Science. 
+
+[8]: Kiesel, J., Hagen, M., & Stein, B. (2017). ["State of the Art in Textual Entailment Studies"](https://aclanthology.org/P18-1022/) - State of the Art in Computational Advances.

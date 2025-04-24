@@ -36,7 +36,7 @@ Lastly, there's sentence tokenization, which splits text into sentences. This is
 
 ## How does tokenization impact the performance of machine learning models?
 
-Tokenization can really affect how well a machine learning model works. When text is broken down into tokens, it helps the model understand and process language better. If the tokens are chosen well, the model can learn faster and make better predictions. For example, using subword tokenization can help the model handle new or rare words by breaking them into parts it already knows. This can make the model more accurate and useful for tasks like translating languages or answering questions.
+Tokenization can really affect how well a [machine learning](/wiki/machine-learning) model works. When text is broken down into tokens, it helps the model understand and process language better. If the tokens are chosen well, the model can learn faster and make better predictions. For example, using subword tokenization can help the model handle new or rare words by breaking them into parts it already knows. This can make the model more accurate and useful for tasks like translating languages or answering questions.
 
 But, if tokenization is not done right, it can make the model perform worse. If the tokens are too big or too small, the model might have a hard time understanding the text. For example, if a model only sees whole words and never sees parts of words, it might struggle with words it hasn't seen before. Also, if the tokenization method is too complex, it might slow down the model's training and make it harder to use. So, choosing the right tokenization method is important for making sure the model works well and quickly.
 
@@ -54,7 +54,7 @@ Another way to optimize tokenization is by carefully handling special cases like
 
 ## What role do tokens play in deep learning models like transformers?
 
-In deep learning models like transformers, tokens are really important. They are the pieces of text that the model looks at and learns from. When you give a transformer a sentence, it breaks it into tokens first. These tokens could be words, parts of words, or even single characters. For example, the sentence "I like to eat apples" might be broken into tokens like "I", "like", "to", "eat", and "apples". The transformer then uses these tokens to understand the meaning of the sentence and do things like translate it into another language or answer questions about it.
+In [deep learning](/wiki/deep-learning) models like transformers, tokens are really important. They are the pieces of text that the model looks at and learns from. When you give a transformer a sentence, it breaks it into tokens first. These tokens could be words, parts of words, or even single characters. For example, the sentence "I like to eat apples" might be broken into tokens like "I", "like", "to", "eat", and "apples". The transformer then uses these tokens to understand the meaning of the sentence and do things like translate it into another language or answer questions about it.
 
 Tokens help transformers work well because they make it easier for the model to see patterns in the text. Transformers use something called attention to figure out how different tokens relate to each other. This helps the model understand the context and meaning of the whole sentence. For example, when translating "I like to eat apples" into Spanish, the transformer uses the tokens to figure out that "apples" should be translated as "manzanas" and not just as a random word. By breaking down the text into tokens, transformers can process and understand language in a way that's similar to how people do.
 
@@ -80,4 +80,16 @@ Another way to adapt tokenization for multilingual models is by using a shared v
 
 The latest advancements in tokenization techniques for machine learning have focused on making models more efficient and better at handling different languages. One big step forward is the use of more advanced subword tokenization methods, like SentencePiece. SentencePiece is a type of tokenization that doesn't need to know the language it's working with. It can break down text into subwords in a way that works for many different languages. This makes it easier for models to handle new or rare words and to work well with lots of different languages at the same time.
 
-Another advancement is the use of neural network-based tokenization. These methods use machine learning to figure out the best way to break down text into tokens. They can learn from the data and find patterns that traditional methods might miss. For example, a neural network might learn that certain words often go together and should be treated as one token, like "New York". This can help the model understand the text better and make more accurate predictions. By using these new techniques, tokenization can be more flexible and effective, leading to better performance in machine learning models.
+Another advancement is the use of [neural network](/wiki/neural-network)-based tokenization. These methods use machine learning to figure out the best way to break down text into tokens. They can learn from the data and find patterns that traditional methods might miss. For example, a neural network might learn that certain words often go together and should be treated as one token, like "New York". This can help the model understand the text better and make more accurate predictions. By using these new techniques, tokenization can be more flexible and effective, leading to better performance in machine learning models.
+
+## References & Further Reading
+
+[1]: Sennrich, R., Haddow, B., & Birch, A. (2015). ["Neural Machine Translation of Rare Words with Subword Units."](https://aclanthology.org/P16-1162/) Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
+
+[2]: Kudo, T. (2018). ["Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates."](https://aclanthology.org/P18-1007/) Conference on Empirical Methods in Natural Language Processing.
+
+[3]: Schuster, M., & Nakajima, K. (2012). ["Japanese and Korean Voice Search."](https://ieeexplore.ieee.org/document/6289079) Interspeech Conference.
+
+[4]: Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., ... & Dean, J. (2016). ["Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation."](https://arxiv.org/abs/1609.08144) arXiv preprint arXiv:1609.08144.
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.

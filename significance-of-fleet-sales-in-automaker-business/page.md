@@ -1,6 +1,7 @@
 ---
-title: "Significance of Fleet Sales in Automaker Business"
-description: "Discover the crucial role of fleet sales and algorithmic trading in the automotive industry for enhancing efficiency and profitability amidst market changes."
+title: Understanding Fleet Sales Strategies in the Automotive Industry
+description: Fleet sales help automakers improve efficiency inventory management and
+  profitability with bulk discounts and data insights. Discover more inside
 ---
 
 

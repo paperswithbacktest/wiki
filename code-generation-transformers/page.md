@@ -25,7 +25,7 @@ The model learns from a large dataset of existing code, which helps it understan
 
 Code Generation Transformers differ from traditional code generation methods mainly in how they work and how they learn. Traditional methods often use rule-based systems or templates to generate code. This means they follow a set of pre-defined rules to create code that fits certain patterns. For example, a traditional method might use a template to generate a function that adds two numbers. These methods are good at producing code that follows strict guidelines, but they can be limited because they rely on the rules and templates that humans set up.
 
-On the other hand, Code Generation Transformers use a type of artificial intelligence called deep learning. They learn from a large amount of existing code, which allows them to understand more complex patterns and relationships in code. Instead of following strict rules, they predict what code should come next based on what they've learned. For instance, if you ask a Code Generation Transformer to write a function that calculates the area of a circle, it might produce something like this:
+On the other hand, Code Generation Transformers use a type of [artificial intelligence](/wiki/ai-artificial-intelligence) called [deep learning](/wiki/deep-learning). They learn from a large amount of existing code, which allows them to understand more complex patterns and relationships in code. Instead of following strict rules, they predict what code should come next based on what they've learned. For instance, if you ask a Code Generation Transformer to write a function that calculates the area of a circle, it might produce something like this:
 
 ```python
 def calculate_circle_area(radius):
@@ -56,7 +56,7 @@ These models show how powerful Code Generation Transformers can be, making it ea
 
 CodeBERT is a type of AI model that helps understand and work with code. It's made by a company called Microsoft and it's good at tasks like translating code from one language to another or finding mistakes in code. CodeBERT learns from a big collection of code examples, which helps it understand how code works and how to write it correctly. For example, if you ask CodeBERT to translate a piece of Python code into JavaScript, it can do that by understanding the patterns in both languages.
 
-CodeBERT uses a special kind of neural network called a transformer, which is really good at understanding sequences of text. When you give CodeBERT a piece of code, it looks at the whole thing and tries to figure out what it means. It does this by breaking the code into smaller parts and looking at how those parts fit together. This helps CodeBERT understand the structure of the code and how to change it or fix it. For instance, if you give CodeBERT a function in Python that adds two numbers, it can understand that and maybe translate it into another language like this:
+CodeBERT uses a special kind of [neural network](/wiki/neural-network) called a transformer, which is really good at understanding sequences of text. When you give CodeBERT a piece of code, it looks at the whole thing and tries to figure out what it means. It does this by breaking the code into smaller parts and looking at how those parts fit together. This helps CodeBERT understand the structure of the code and how to change it or fix it. For instance, if you give CodeBERT a function in Python that adds two numbers, it can understand that and maybe translate it into another language like this:
 
 ```javascript
 function addNumbers(a, b) {

@@ -18,7 +18,7 @@ MNIST is very popular in the field of machine learning because it's a good start
 
 The MNIST dataset is important in machine learning because it's a simple and easy-to-use tool for beginners to start learning about image recognition. It contains 70,000 images of handwritten digits, which are split into a training set and a test set. This setup helps people practice building models that can recognize patterns in images. Since the images are grayscale and small, they don't need a lot of computer power to process, making it accessible for everyone, even those with basic computers.
 
-Another reason MNIST is important is that it's a standard benchmark for testing new machine learning methods. Many researchers and students have used it to compare how well different techniques work. Because so many people have worked with MNIST, there's a lot of information and results available, which helps everyone learn from each other. Even though it's a simple dataset, it has been crucial in helping to develop many new ideas and technologies in the field of artificial intelligence.
+Another reason MNIST is important is that it's a standard benchmark for testing new machine learning methods. Many researchers and students have used it to compare how well different techniques work. Because so many people have worked with MNIST, there's a lot of information and results available, which helps everyone learn from each other. Even though it's a simple dataset, it has been crucial in helping to develop many new ideas and technologies in the field of [artificial intelligence](/wiki/ai-artificial-intelligence).
 
 ## How is the MNIST dataset structured?
 
@@ -83,3 +83,21 @@ Another challenge is that MNIST is not a good test for how well a model can hand
 The MNIST dataset can be used to explore adversarial attacks, which are small changes made to images that can trick a machine learning model into making wrong predictions. For example, you can add tiny amounts of noise to an image of a digit in such a way that the model sees it as a different digit. This is interesting because it shows how even small, hard-to-notice changes can fool a model that usually does very well on the MNIST dataset. Researchers use MNIST to study these attacks because it's easy to work with and the results are clear to see. They can try different ways to create these adversarial images and see how the model reacts, helping them understand how to make models more robust against such attacks.
 
 To perform an adversarial attack on the MNIST dataset, you can use algorithms like the Fast Gradient Sign Method (FGSM). This method calculates the gradient of the loss with respect to the input image and then adds a small amount of noise in the direction of the gradient. For instance, if you want to make an image of the digit 5 look like a 3 to the model, you would use the following formula: $$ x_{adv} = x + \epsilon \cdot \text{sign}(\nabla_x J(\theta, x, y)) $$, where $$ x $$ is the original image, $$ \epsilon $$ is a small constant, and $$ \nabla_x J(\theta, x, y) $$ is the gradient of the loss function with respect to the input. By applying this method, you can generate adversarial examples and test how well your model can resist these attacks. This helps in developing better defenses and understanding the vulnerabilities of machine learning models.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-based learning applied to document recognition."](https://ieeexplore.ieee.org/document/726791) Proceedings of the IEEE, 86(11), 2278-2324.
+
+[2]: Deng, L. (2012). ["The MNIST database of handwritten digit images for machine learning research."](https://ieeexplore.ieee.org/document/6296535) IEEE Signal Processing Magazine, 29(6), 141-142.
+
+[3]: Goodfellow, I. J., Shlens, J., & Szegedy, C. (2015). ["Explaining and harnessing adversarial examples."](https://arxiv.org/abs/1412.6572) arXiv preprint arXiv:1412.6572.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet classification with deep convolutional neural networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[5]: Simard, P. Y., Steinkraus, D., & Platt, J. C. (2003). ["Best practices for convolutional neural networks applied to visual document analysis."](https://ieeexplore.ieee.org/document/1227801) Proceedings of ICDAR.
+
+[6]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer. 
+
+[7]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications. 
+
+[8]: Yann LeCun's website for ["MNIST handwritten digit database"](https://yann.lecun.org/exdb/mnist/index.html).

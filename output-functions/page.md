@@ -18,7 +18,7 @@ The output function can vary depending on the type of machine learning model bei
 
 The Softmax function is used in machine learning to turn a set of numbers into probabilities that add up to one. It's like a special tool that helps the computer decide which answer is the most likely out of many possible answers. Imagine you have a bunch of scores, and you want to know how sure the computer is about each one. The Softmax function takes these scores and makes them into a nice, easy-to-understand set of probabilities. The formula for the Softmax function is $$ \text{Softmax}(x_i) = \frac{e^{x_i}}{\sum_{j=1}^K e^{x_j}} $$, where $$x_i$$ is one of the scores, and the bottom part of the formula makes sure all the probabilities add up to one.
 
-Softmax is commonly used in classification tasks, especially in neural networks. For example, if you're trying to recognize different types of animals in pictures, the Softmax function can help the computer figure out the probability that a picture is a cat, a dog, or a bird. It's often used at the end of a neural network, where it takes the raw output from the network and turns it into a set of probabilities. This makes it easier for the computer to pick the most likely answer. In code, you might see the Softmax function implemented like this:
+Softmax is commonly used in classification tasks, especially in neural networks. For example, if you're trying to recognize different types of animals in pictures, the Softmax function can help the computer figure out the probability that a picture is a cat, a dog, or a bird. It's often used at the end of a [neural network](/wiki/neural-network), where it takes the raw output from the network and turns it into a set of probabilities. This makes it easier for the computer to pick the most likely answer. In code, you might see the Softmax function implemented like this:
 
 ```python
 import numpy as np
@@ -32,7 +32,7 @@ This function takes an array of numbers and turns them into probabilities that a
 
 ## What are heatmaps and how are they used as output functions in machine learning?
 
-Heatmaps are colorful pictures that show where something is happening a lot or a little. They use different colors to show different amounts, like using red for high amounts and blue for low amounts. In machine learning, heatmaps are used to show where a model is looking or what it's paying attention to. For example, if you're using a computer to recognize what's in a picture, a heatmap can show which parts of the picture the computer thinks are important for making its guess.
+Heatmaps are colorful pictures that show where something is happening a lot or a little. They use different colors to show different amounts, like using red for high amounts and blue for low amounts. In [machine learning](/wiki/machine-learning), heatmaps are used to show where a model is looking or what it's paying attention to. For example, if you're using a computer to recognize what's in a picture, a heatmap can show which parts of the picture the computer thinks are important for making its guess.
 
 In machine learning, heatmaps are often used as output functions to help people understand how a model works. For instance, in a model that looks at pictures, the heatmap might show that the model is focusing on the eyes and nose when trying to recognize a face. This helps people see if the model is looking at the right parts of the picture. By using heatmaps, people can check if the model is working the way they expect, and they can make changes to make it work better.
 

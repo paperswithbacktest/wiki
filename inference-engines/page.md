@@ -28,7 +28,7 @@ The user interface is how people interact with the inference engine. It's the pa
 
 ## What types of models can an inference engine process?
 
-An inference engine can process many different types of machine learning models. Some common ones include decision trees, which are like flowcharts that help make decisions by answering yes or no questions. Another type is neural networks, which are inspired by how the human brain works and are good at recognizing patterns in data, like images or sounds. There are also models like support vector machines, which are great for classification tasks, where you need to put things into different groups.
+An inference engine can process many different types of [machine learning](/wiki/machine-learning) models. Some common ones include decision trees, which are like flowcharts that help make decisions by answering yes or no questions. Another type is neural networks, which are inspired by how the human brain works and are good at recognizing patterns in data, like images or sounds. There are also models like support vector machines, which are great for classification tasks, where you need to put things into different groups.
 
 Besides these, inference engines can also handle simpler models like linear regression, which predicts a number based on other numbers. For example, it could predict house prices based on size and location. More complex models include ensemble methods like random forests, which combine many decision trees to make better predictions. No matter the type of model, the inference engine uses what the model learned during training to make sense of new data and make predictions or decisions.
 

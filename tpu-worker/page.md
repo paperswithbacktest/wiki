@@ -18,7 +18,7 @@ A GPU, or Graphics Processing Unit, was originally made to handle the visuals in
 
 A TPU worker is like a special helper in a big team working on machine learning projects. It's made to do the math that machine learning needs really fast. When you're training a big AI model, you break the work into smaller pieces. Each TPU worker takes one of these pieces and does its part of the math. By working together, all the TPU workers can finish the job much quicker than if just one was doing it all.
 
-Imagine you're trying to solve a giant puzzle. Each TPU worker is like a person working on a different section of the puzzle. They all talk to each other to make sure their pieces fit together right. This teamwork lets them solve the puzzle faster. In machine learning, this means the TPU workers help the AI learn and get better at its job more quickly.
+Imagine you're trying to solve a giant puzzle. Each TPU worker is like a person working on a different section of the puzzle. They all talk to each other to make sure their pieces fit together right. This teamwork lets them solve the puzzle faster. In [machine learning](/wiki/machine-learning), this means the TPU workers help the AI learn and get better at its job more quickly.
 
 ## What are the basic components of a TPU?
 
@@ -82,7 +82,7 @@ strategy = tf.distribute.TPUStrategy(resolver)
 
 ## What advanced techniques can be used to optimize TPU performance for specific machine learning tasks?
 
-To optimize TPU performance for specific machine learning tasks, one advanced technique is to use model parallelism. This means breaking your big model into smaller parts and letting different TPUs work on each part at the same time. For example, if you're training a huge neural network, you can split it across multiple TPUs so that each TPU can handle a different layer or section of the model. This helps speed up the training because the TPUs can work together to finish the job faster. You might use code like ```python
+To optimize TPU performance for specific machine learning tasks, one advanced technique is to use model parallelism. This means breaking your big model into smaller parts and letting different TPUs work on each part at the same time. For example, if you're training a huge [neural network](/wiki/neural-network), you can split it across multiple TPUs so that each TPU can handle a different layer or section of the model. This helps speed up the training because the TPUs can work together to finish the job faster. You might use code like ```python
 strategy = tf.distribute.experimental.TPUStrategy(resolver)
 with strategy.scope():
     model = create_model()
