@@ -1,6 +1,7 @@
 ---
-title: "Trend Following Indicators and Algo Trading"
-description: Discover the power of trend following in trading through this comprehensive guide. Learn about different types of trends, top indicators like Moving Averages (SMA & EMA), and how they help traders maximize profits, manage risk, and make informed decisions.
+title: Trend Following Indicators for Algorithmic Trading Success
+description: Trend Following Indicators guide traders and algorithms to spot trends
+  optimize entry points and manage risk for consistent results Discover more inside.
 ---
 
 

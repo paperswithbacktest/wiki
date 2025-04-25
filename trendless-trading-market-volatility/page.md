@@ -1,6 +1,7 @@
 ---
-title: "Trendless Trading and Market Volatility"
-description: "Explore the intricacies of trendless markets and market volatility and learn how algorithmic trading strategies can optimize trading results in unpredictable environments."
+title: Mastering Trendless Trading Strategies for Sideways Markets
+description: Trendless trading helps you profit from sideways markets with key technical
+  indicators and risk controls for consistent small gains Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Traveler's Dilemma"
-description: "Explore how the Traveler's Dilemma, rooted in game theory, enhances algorithmic trading strategies by balancing rational choices and maximizing payoffs."
+title: Understanding the Traveler's Dilemma in Game Theory
+description: Traveler's Dilemma shows how strategic underbidding leads to counterintuitive
+  outcomes and why fairness matters in decision making Discover more inside
 ---
 
 

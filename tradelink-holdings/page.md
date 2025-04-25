@@ -1,6 +1,7 @@
 ---
-title: "Tradelink Holdings"
-description: "Discover how Tradelink Holdings revolutionizes financial markets with cutting-edge algorithmic trading solutions enhancing efficiency and precision for clients."
+title: Tradelink Holdings Corporate Profile and Service Overview
+description: Tradelink Holdings streamlines trading in Singapore with secure electronic
+  data exchange and business connections to boost efficiency Discover more inside.
 ---
 
 

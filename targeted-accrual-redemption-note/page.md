@@ -1,6 +1,7 @@
 ---
-title: "Targeted Accrual Redemption Note"
-description: "Explore the benefits of Target Accrual Redemption Notes enhanced by algorithmic trading techniques to boost yields while managing risk in your portfolio."
+title: Targeted Accrual Redemption Notes Explained For Expert Investors
+description: Targeted Accrual Redemption Note provides a clear breakdown of structures
+  risks and payoffs to guide informed investors Discover more inside.
 ---
 
 

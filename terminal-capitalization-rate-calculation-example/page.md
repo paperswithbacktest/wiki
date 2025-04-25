@@ -1,6 +1,7 @@
 ---
-title: "Terminal Capitalization Rate and Calculation Example"
-description: "Discover the key components in real estate valuation focusing on capitalization rates and their significance for investors. Explore how innovations in algorithmic trading enhance cap rate estimations and offer a competitive edge. Understand the distinction between terminal and initial cap rates and their impact on long-term investment strategies. Delve into the calculation and implications of terminal cap rates and the integration of technology in property valuation."
+title: Terminal Capitalization Rate Explained For Real Estate Valuation
+description: Terminal Capitalization Rate helps investors accurately forecast property
+  resale value using projected NOI and cap rate estimates Discover more inside
 ---
 
 

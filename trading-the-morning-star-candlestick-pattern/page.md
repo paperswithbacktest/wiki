@@ -1,6 +1,7 @@
 ---
-title: "Trading the Morning Star Candlestick Pattern"
-description: "Discover the power of the Morning Star candlestick pattern in algorithmic trading Learn how this pattern predicts bullish market reversals and enhances trading strategies"
+title: Morning Star Candlestick Pattern Guide for Bullish Reversals
+description: Morning Star candlestick pattern signals bullish reversals after a downtrend
+  and shows how to confirm with RSI and support levels, Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "ThinkScript Guide"
-description: Unlock the power of algorithmic trading with our comprehensive guide to thinkScript on the Thinkorswim platform. Discover how to create custom studies, strategies, and alerts using this versatile scripting language to enhance your trading expertise. Perfect for both novice and skilled traders, this tutorial will show you how to optimize your trading strategies and automate decision-making processes, all while utilizing Thinkorswim's powerful features for advanced market analysis. Learn how to set up, test, and troubleshoot your scripts for a personalized and efficient trading experience today.
+title: Comprehensive ThinkScript Guide For ThinkorSwim Platform
+description: ThinkScript powers custom indicators and trading strategies in ThinkorSwim
+  with clear syntax examples and best practices Discover more inside
 ---
 
 

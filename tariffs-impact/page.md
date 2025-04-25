@@ -1,6 +1,7 @@
 ---
-title: "Tariffs and Their Impact"
-description: "Explore how tariffs and trade policies shape algorithmic trading and market dynamics impacting businesses and consumers worldwide in today's fast-paced economy."
+title: Understanding The Impact Of Tariffs On Global Trade And Economy
+description: Tariffs tax imported goods to raise prices and protect domestic industries.
+  Explore their impact on costs trade and supply chains. Discover more inside
 ---
 
 

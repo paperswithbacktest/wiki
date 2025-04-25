@@ -1,7 +1,7 @@
 ---
-title: Understanding Text Classification Models in Machine Learning
-description: Text classification uses algorithms from Naive Bayes to neural networks
-  to organize emails articles and customer messages efficiently Discover more inside
+title: Text Classification in Machine Learning Methods and Applications
+description: Text classification uses Naive Bayes SVM and deep learning to sort text
+  accurately while overcoming limited data and class imbalance Discover more inside
 ---
 
 ![Image](images/1.png)

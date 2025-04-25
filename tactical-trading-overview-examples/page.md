@@ -1,6 +1,7 @@
 ---
-title: "Tactical Trading: Overview and Examples"
-description: "Explore tactical and algorithmic trading to understand short-term market strategies and high-frequency trading insights Learn how to maximize returns and reduce risk"
+title: Tactical Trading Strategies For Short Term Market Gains
+description: Tactical trading leverages key indicators and tools to capitalize on
+  quick market movements summarize best practices and manage risks Discover more inside
 ---
 
 

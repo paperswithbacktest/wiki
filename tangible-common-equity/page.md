@@ -1,6 +1,7 @@
 ---
-title: "Tangible Common Equity"
-description: "Discover how Tangible Common Equity (TCE) impacts equity finance and algorithmic trading by providing a conservative measure of financial resilience and risk management."
+title: Understanding Tangible Common Equity in Bank Financial Health
+description: Tangible common equity reveals a bank's core capital and ability to absorb
+  losses helping investors assess financial stability Discover more inside
 ---
 
 

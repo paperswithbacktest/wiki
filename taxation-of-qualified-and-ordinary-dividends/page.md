@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Qualified and Ordinary Dividends"
-description: "Explore the tax implications of qualified and ordinary dividends and discover how algorithmic trading can enhance your investment strategy for optimal returns."
+title: Understanding Qualified and Ordinary Dividend Taxation
+description: Qualified dividends have lower tax rates than ordinary dividends Learn
+  eligibility criteria reporting steps and tax saving strategies Discover more inside.
 ---
 
 

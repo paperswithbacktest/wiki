@@ -1,6 +1,7 @@
 ---
-title: "Total Asset-To-Capital Ratio"
-description: "Explore the crucial role of the Total Asset-To-Capital ratio in algorithmic trading to assess a company's financial leverage and stability, enhancing trading strategies."
+title: Total Asset-To-Capital Ratio Explained for Informed Investments
+description: Total Asset-To-Capital Ratio reveals how companies fund assets using
+  capital and highlights financial health and risk management. Discover more inside.
 ---
 
 

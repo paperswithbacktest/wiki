@@ -1,6 +1,7 @@
 ---
-title: "Tezos (XTZ): Overview and Functionality in Cryptocurrency"
-description: "Discover Tezos XTZ's innovative on-chain governance and eco-friendly PoS mechanism Learn how this blockchain stands out in crypto and algorithmic trading"
+title: Essential Overview Of Tezos XTZ Self-Amending Blockchain
+description: Tezos offers a self-amending proof of stake blockchain that evolves through
+  user governance and energy-efficient baking. Discover more inside.
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Understanding Table Question Answering Models for Data Insights
-description: Table Question Answering Models enable users to extract insights from
-  complex tables with AI powered encoders and reasoning modules. Discover more inside.
+title: Understanding Table Question Answering Models in AI
+description: Table Question Answering Models simplify data analysis by interpreting
+  table structures and answering queries directly from spreadsheets Discover more
+  inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Total Shareholder Return Formula"
-description: "Discover how Total Shareholder Return (TSR) serves as a vital metric for evaluating investment performance, executive compensation, and algorithmic trading strategies."
+title: Understanding Total Shareholder Return Formula and Benefits
+description: Total Shareholder Return measures stock gains plus dividends to help
+  investors compare performance and optimize investment value Discover more inside
 ---
 
 

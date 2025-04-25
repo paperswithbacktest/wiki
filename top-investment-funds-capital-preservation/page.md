@@ -1,6 +1,7 @@
 ---
-title: "Top Investment Funds for Capital Preservation"
-description: "Explore top investment funds focusing on capital preservation through algorithmic trading to protect and maintain your investments in volatile markets."
+title: Capital Preservation Strategies to Protect Long Term Investments
+description: Capital preservation funds help investors protect principal with cost-effective
+  low-fee bonds diversified for stability and returns Discover more inside.
 ---
 
 

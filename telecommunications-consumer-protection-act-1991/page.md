@@ -1,6 +1,7 @@
 ---
-title: "Telecommunications Consumer Protection Act of 1991"
-description: "Explore the impact of the Telecommunications Consumer Protection Act of 1991 on telemarketing and its intersection with modern challenges like algorithmic trading."
+title: Telecommunications Consumer Protection Act of 1991 Overview
+description: Telecommunications Consumer Protection Act protects consumers from unwanted
+  calls and faxes with clear enforcement procedures Discover more inside.
 ---
 
 

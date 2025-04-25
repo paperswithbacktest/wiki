@@ -1,6 +1,7 @@
 ---
-title: "Tick imbalance bars (TIBs)"
-description: Discover the advantages of tick imbalance bars (TIBs) in algorithmic trading as they offer an adaptive approach to capturing market dynamics. Unlike traditional time-based methods, TIBs utilize trade frequency to signal significant trends, optimizing trading strategies through enhanced market insights. Learn how TIBs outperform conventional bars by aligning data sampling with informed trading, improving entry and exit decisions in the fast-paced financial markets.
+title: Understanding Tick Imbalance Bars for Better Market Analysis
+description: Tick Imbalance Bars reveal real time trade imbalances to help traders
+  spot market momentum and make timely decisions Discover more inside today
 ---
 
 

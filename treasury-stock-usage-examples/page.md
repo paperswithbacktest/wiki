@@ -1,6 +1,7 @@
 ---
-title: "Treasury Stock: Usage and Examples"
-description: "Understand the strategic use and impact of treasury stock and share repurchases. Explore how these financial actions affect earnings per share and investor sentiment."
+title: Treasury Stock And Its Strategic Impact On Corporate Finance
+description: Treasury stock lets companies reduce outstanding shares, boost earnings
+  per share and retain flexibility for future financing Discover more inside.
 ---
 
 

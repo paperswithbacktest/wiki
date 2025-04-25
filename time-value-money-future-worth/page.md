@@ -1,6 +1,7 @@
 ---
-title: "Time Value of Money and Future Worth"
-description: "Explore the Time Value of Money and its impact on financial decisions in trading Learn how to apply TVM principles for effective investment and future worth analysis"
+title: Mastering Time Value of Money for Smarter Financial Decisions
+description: Time Value of Money empowers smarter financial choices by showing how
+  inflation interest and compounding boost investments over time Discover more inside.
 ---
 
 

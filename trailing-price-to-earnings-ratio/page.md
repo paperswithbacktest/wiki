@@ -1,6 +1,7 @@
 ---
-title: "Trailing Price-To-Earnings Ratio"
-description: "Discover how the trailing Price-to-Earnings ratio aids algorithmic trading by valuing stocks with past earnings data, optimizing strategies for better trades."
+title: Understanding Trailing P/E Ratio for Stock Valuation Insights
+description: Trailing P/E Ratio shows how much investors pay for each dollar of past
+  earnings and helps you compare stocks in your industry Discover more inside.
 ---
 
 

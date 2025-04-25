@@ -1,7 +1,7 @@
 ---
-title: Understanding Target Variables in Machine Learning Models
-description: Target variable selection guides feature engineering managing imbalance
-  and evaluation to boost model prediction accuracy Discover more inside
+title: Understanding the Target Variable in Machine Learning Models
+description: Target variable in machine learning guides model predictions by defining
+  clear outcomes assess performance refine features Discover more inside.
 ---
 
 ![Image](images/1.png)

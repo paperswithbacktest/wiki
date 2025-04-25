@@ -1,6 +1,7 @@
 ---
-title: "Taylor Rule in Monetary Policy"
-description: "Explore the Taylor Rule's role in monetary policy and algorithmic trading. Learn how this economic tool aids in interest rate adjustments and economic stability."
+title: Understanding the Taylor Rule for Central Bank Interest Rates
+description: Taylor Rule delivers a clear formula for adjusting interest rates based
+  on inflation and output gap to guide central bank decisions Discover more inside.
 ---
 
 

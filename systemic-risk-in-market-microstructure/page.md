@@ -1,6 +1,7 @@
 ---
-title: "Systemic Risk in Market Microstructure"
-description: "Explore how algorithmic trading intersects with systemic risk and market microstructure, shedding light on its implications for financial stability and market dynamics."
+title: Understanding Systemic Risk in Financial Market Microstructure
+description: Systemic risk in market microstructure emerges when trading failures
+  trigger crises and outlines how to measure and mitigate exposure Discover more inside
 ---
 
 

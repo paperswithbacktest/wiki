@@ -1,6 +1,7 @@
 ---
-title: "Tail Risk Hedging Strategies Explained"
-description: Discover how tail risk hedging strategies can protect algorithmic trading portfolios from extreme market events. This guide explores the methodologies, strategic approaches, and benefits of incorporating tail hedging to stabilize investments against unpredictable financial disruptions.
+title: Tail Risk Hedging Strategies For Protecting Financial Portfolios
+description: Tail risk hedging protects your investments from rare financial shocks
+  with options and dynamic hedges to limit losses Discover more inside.
 ---
 
 

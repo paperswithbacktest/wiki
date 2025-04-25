@@ -1,6 +1,7 @@
 ---
-title: "Tax Implications of Reinvested Dividends"
-description: "Explore dividend taxation and reinvestment strategies in algo trading. Learn how to optimize your portfolio with insights into qualified vs ordinary dividends."
+title: Tax Strategies for Reinvested Dividends and Portfolio Growth
+description: Reinvested dividends face the same tax treatment as cash dividends yet
+  fuel compounding growth through DRIPs boosting cost basis Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Translation Risk and Its Mechanisms"
-description: "Explore how multinational corporations manage foreign exchange translation risk and currency exposure using algorithmic trading to protect financial stability."
+title: Comprehensive Guide to Translation Risk in Financial Reporting
+description: Translation Risk alters how foreign earnings appear in home currency
+  statements We outline how to measure manage and hedge exposure Discover more inside
 ---
 
 

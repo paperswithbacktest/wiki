@@ -1,6 +1,7 @@
 ---
-title: "Triple Net Lease: Definition and Applications"
-description: "Explore the dynamics of Triple Net Leases and how they impact both landlords and tenants. Learn about innovative applications like algorithmic trading in real estate."
+title: Triple Net Lease Essentials for Commercial Property Investors
+description: Triple net lease provides tenants control over taxes insurance and maintenance
+  and offers landlords stable income and reduced risk Discover more inside
 ---
 
 

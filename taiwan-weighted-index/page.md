@@ -1,6 +1,7 @@
 ---
-title: "Taiwan Weighted Index"
-description: "Explore the TSEC Weighted Index and its role as a key benchmark for Taiwan's stock market performance. Learn about algorithmic trading impacts."
+title: Comprehensive Guide to the Taiwan Weighted Index TAIEX
+description: Taiwan Weighted Index tracks top stocks to reveal market trends and guide
+  investors with market cap weighting for smarter decisions Discover more inside
 ---
 
 

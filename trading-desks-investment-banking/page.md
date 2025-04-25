@@ -1,6 +1,7 @@
 ---
-title: "Trading Desks in Investment Banking"
-description: "Explore the essential role of trading desks in investment banking and the impact of algorithmic trading in executing trades and optimizing strategies efficiently."
+title: Guide to Trading Desk Operations in Investment Banking
+description: Trading desk operations explained step by step to show how banks manage
+  risks, trade assets, and support clients in real time Discover more inside.
 ---
 
 

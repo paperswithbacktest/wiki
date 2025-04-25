@@ -1,6 +1,7 @@
 ---
-title: "Third World Countries: Criteria and List"
-description: "Explore how developing nations' classification affects global economic policies and trading. Discover the impact of algo trading on their economic prospects."
+title: Understanding Third World Origins Evolution and Global Impact
+description: Third World evolved from a Cold War geopolitical label to a modern development
+  term defined by economic social and political criteria Discover more inside.
 ---
 
 

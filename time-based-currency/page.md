@@ -1,6 +1,7 @@
 ---
-title: "Time-Based Currency"
-description: "Explore the intersection of time-based currency and algorithmic trading to discover innovative solutions for economic resilience and community exchange systems."
+title: Understanding Time-Based Currency Systems for Community Trade
+description: Time-based currency lets communities trade skills by exchanging hours
+  equally to strengthen local bonds and resources Discover more inside today.
 ---
 
 

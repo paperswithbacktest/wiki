@@ -1,6 +1,7 @@
 ---
-title: "Trading Strategies with Andrews' Pitchfork"
-description: "Discover the powerful combination of Andrews' Pitchfork and algorithmic trading to optimize your strategy. Learn about its application, structure, and benefits."
+title: Using Andrews' Pitchfork for Precise Trend Analysis
+description: Andrews' Pitchfork provides a clear framework to draw trend channels
+  identify entry and exit points and set stops and targets Discover more inside
 ---
 
 

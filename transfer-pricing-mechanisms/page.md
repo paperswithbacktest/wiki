@@ -1,6 +1,7 @@
 ---
-title: "Transfer Pricing and Its Mechanisms"
-description: "Explore the intricacies of transfer pricing and algo trading to optimize tax strategies, compliance, and global operations for multinational enterprises."
+title: Transfer Pricing Principles and Strategies for Multinationals
+description: Transfer pricing ensures fair internal deals with tax regulations while
+  covering key methods and principles to optimize strategy Discover more inside
 ---
 
 

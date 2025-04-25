@@ -1,6 +1,7 @@
 ---
-title: "Synthetic Collateralized Debt Obligation"
-description: "Explore the intersection of Synthetic CDOs and algorithmic trading in modern finance uncovering how these tools shape investment strategies and risk management."
+title: Synthetic Collateralized Debt Obligations Explained
+description: Synthetic CDOs let you bet on loan and bond performance using credit
+  default swaps Explore risks structure and market outlook Discover more inside
 ---
 
 

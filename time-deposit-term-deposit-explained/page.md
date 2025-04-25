@@ -1,6 +1,7 @@
 ---
-title: "Time Deposit and Term Deposit Explained"
-description: "Discover the benefits and risks of combining term deposits and algorithmic trading for a balanced investment portfolio featuring stable returns and growth potential."
+title: Key Differences and Benefits of Time and Term Deposits
+description: Time deposits offer higher interest for fixed terms and help you reach
+  savings goals with low risk Use laddering to optimize returns Discover more inside.
 ---
 
 

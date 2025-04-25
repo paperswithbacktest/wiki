@@ -1,6 +1,7 @@
 ---
-title: "Transferor: Functions and Technological Impact"
-description: "Explore how technological advancements, especially algo trading, impact financial markets and transferor roles, fostering efficiency, transparency, and market dynamics."
+title: Understanding the Role of a Transferor in Modern Transactions
+description: Transferor duties cover legal obligations and modern tech tools to secure
+  efficient asset transfers using blockchain and analytics. Discover more inside
 ---
 
 

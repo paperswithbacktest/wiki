@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Forex Trading"
-description: "Discover essential insights into the taxation of forex trading including the impact on profits, record-keeping requirements, and the role of algorithmic trading systems. Understand how different IRS sections affect tax obligations and explore the distinctions between ordinary income and capital gains taxes. This guide provides traders with the knowledge to ensure compliance and optimize financial returns, whether trading full-time or as a side venture. Proper categorization of trades, diligent record-keeping, and expert advice can significantly influence traders' net outcomes."
+title: Comprehensive Guide to Forex Trading Taxation and Reporting
+description: Forex trading taxes explained for investors with guidance on reporting
+  income capital gains account types and leveraging deductions Discover more inside
 ---
 
 

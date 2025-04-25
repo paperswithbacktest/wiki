@@ -1,6 +1,7 @@
 ---
-title: "Top Seven Books on Investing"
-description: "Explore a selection of top investing books that cover value investing, algorithmic trading, and investment psychology to enhance your financial strategies."
+title: Essential Investing Books to Build Your Investment Strategy
+description: Investing Books outline key principles for beginners and experienced
+  investors on diversifying your portfolio and managing risk Discover more inside
 ---
 
 

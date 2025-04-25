@@ -1,6 +1,7 @@
 ---
-title: "Time-Weighted Rate of Return Formula Usage"
-description: "Discover how the Time-Weighted Rate of Return formula evaluates investment performance, eliminates cash flow distortions, and enhances algorithmic trading strategies."
+title: Understanding Time-Weighted Rate of Return in Investments
+description: Time-Weighted Rate of Return provides a cash flow neutral view of investment
+  growth with clear calculation steps and examples Discover more inside
 ---
 
 

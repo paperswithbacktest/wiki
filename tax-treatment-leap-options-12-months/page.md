@@ -1,6 +1,7 @@
 ---
-title: "Tax Treatment of LEAP Options Held Over 12 Months"
-description: "Explore the tax advantages of LEAP options held over a year, focusing on their role in algorithmic trading for enhanced tax efficiency and investment returns."
+title: Tax Treatment Of LEAP Options Held Over Twelve Months
+description: LEAP options provide long-term flexibility and lower tax rates after
+  12 months by qualifying for beneficial capital gains treatment. Discover more inside.
 ---
 
 

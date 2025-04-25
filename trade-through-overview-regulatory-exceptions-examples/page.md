@@ -1,6 +1,7 @@
 ---
-title: "Trade-Through: Overview, Regulatory Exceptions, and Examples"
-description: "Explore the intricate world of trade-throughs in algorithmic trading including regulatory frameworks and exceptions crucial for maintaining market integrity."
+title: Navigating Trade-Throughs and Regulation in Financial Markets
+description: Trade-throughs occur when orders fill at worse prices than available
+  across exchanges, costing investors and impacting fairness Discover more inside.
 ---
 
 

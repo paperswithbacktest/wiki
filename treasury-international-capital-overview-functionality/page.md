@@ -1,6 +1,7 @@
 ---
-title: "Treasury International Capital: Overview and Functionality"
-description: "Discover the role and impact of Treasury International Capital in cross-border financial transactions and how it intersects with algorithmic trading systems."
+title: Understanding Treasury International Capital Data Flows
+description: Treasury International Capital data reveals monthly cross-border investment
+  trends and informs smart economic policies Discover more inside today
 ---
 
 

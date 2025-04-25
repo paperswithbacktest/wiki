@@ -1,7 +1,7 @@
 ---
-title: Understanding Tensor Processing Units for Machine Learning
-description: TPUs improve training speeds and memory capacity for complex machine
-  learning models in cloud and edge environments via Colab Discover more inside
+title: Tensor Processing Units Explained For Faster Machine Learning
+description: Tensor Processing Units accelerate machine learning by handling neural
+  network ops faster while managing memory efficiently Discover more inside
 ---
 
 ![Image](images/1.png)

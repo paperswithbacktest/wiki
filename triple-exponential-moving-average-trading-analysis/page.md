@@ -1,6 +1,8 @@
 ---
-title: "Triple Exponential Moving Average in Trading and Analysis"
-description: "Explore the Triple Exponential Moving Average (TEMA) to gain insights into market trends with enhanced accuracy and responsiveness for effective algorithmic trading strategies."
+title: Triple Exponential Moving Average Explained for Traders
+description: Triple Exponential Moving Average smooths price data with three EMAs
+  to reduce lag and spot trends faster for smarter trading decisions Discover more
+  inside
 ---
 
 

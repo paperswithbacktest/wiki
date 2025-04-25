@@ -1,6 +1,7 @@
 ---
-title: "Term Sheets: Components, Examples, and Key Terms"
-description: "Explore the essential components and significance of term sheets in algorithmic trading Learn how these documents impact investment negotiations and decisions"
+title: Understanding Term Sheets for Business Deals and Investments
+description: Term Sheets outline key investment terms valuation rights and conditions
+  to streamline negotiations and avoid confusion Discover more inside
 ---
 
 

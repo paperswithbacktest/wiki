@@ -1,6 +1,7 @@
 ---
-title: "Top-Rated Vanguard Funds by Morningstar"
-description: "Explore the top-rated Vanguard funds by Morningstar and discover how their low-cost, diversified investment options can enhance your portfolio. Learn about Vanguard's commitment to investor-centric policies and cost efficiency, and how high Morningstar ratings can guide your investment decisions. Understand the influence of algorithmic trading on financial strategies to maximize returns and manage risks in today's market landscape."
+title: Selecting Top Rated Vanguard Funds with Morningstar Ratings
+description: Vanguard funds rated by Morningstar help you choose low cost index investments
+  that balance risk and return with expert insights. Discover more inside.
 ---
 
 

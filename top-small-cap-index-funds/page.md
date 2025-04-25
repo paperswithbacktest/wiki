@@ -1,6 +1,7 @@
 ---
-title: "Top Small-Cap Index Funds"
-description: "Explore top small-cap index funds and algorithmic trading strategies to optimize investment returns. Learn how to balance risk and growth potential effectively."
+title: Comprehensive Guide To Investing In Small-Cap Index Funds
+description: Small-cap index funds offer a blend of growth potential and risk diversification
+  across small companies for long term investors Discover more inside.
 ---
 
 

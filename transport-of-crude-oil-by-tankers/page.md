@@ -1,6 +1,7 @@
 ---
-title: "Transport of Crude Oil by Tankers"
-description: "Discover how crude oil tankers play a vital role in global trade with insights into market dynamics, operational strategies, and algorithmic trading impacts."
+title: Global Crude Oil Tanker Transport Safety and Regulations
+description: Crude oil tanker transport combines advanced safety measures and global
+  routing logistics to minimize risks and environmental impact Discover more inside
 ---
 
 

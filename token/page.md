@@ -1,7 +1,7 @@
 ---
-title: Understanding Tokenization in Machine Learning Models
-description: Tokenization turns text into units for ML models to improve accuracy
-  and speed by using optimal methods for faster training Discover more inside
+title: Comprehensive Guide to Tokenization in Machine Learning
+description: Tokenization in machine learning turns text into tokens to improve model
+  performance by exploring key techniques types and challenges Discover more inside
 ---
 
 ![Image](images/1.png)

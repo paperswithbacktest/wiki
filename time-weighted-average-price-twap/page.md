@@ -1,6 +1,7 @@
 ---
-title: "Time-weighted average price (TWAP)"
-description: "Explore the intricacies of the Time-Weighted Average Price (TWAP) algorithm in algorithmic trading: a strategy designed to minimize market disruption by executing large orders in smaller, evenly distributed quantities over a set time frame, maintaining price stability and reducing execution costs for traders navigating volatile markets."
+title: Understanding Time-Weighted Average Price TWAP in Trading
+description: Time-Weighted Average Price helps traders spread large orders over time
+  to secure fairer execution and reduce market impact Discover more inside
 ---
 
 

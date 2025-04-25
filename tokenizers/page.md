@@ -1,7 +1,7 @@
 ---
-title: Comprehensive Guide to Tokenization in NLP and Machine Learning
-description: Tokenization improves NLP and ML by splitting text into tokens using
-  WordPiece and SentencePiece for more accurate model performance Discover more inside
+title: A Comprehensive Guide to Tokenizers in NLP and Machine Learning
+description: Tokenizers break text into tokens for machine learning and NLP tasks
+  using subword methods to handle new words efficiently Discover more inside
 ---
 
 ![Image](images/1.png)

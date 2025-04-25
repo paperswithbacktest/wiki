@@ -1,6 +1,7 @@
 ---
-title: "Treasury Stock and Balance Sheet Application"
-description: "Explore how treasury stock and algorithmic trading shape corporate finance and strategies. Gain insights into financial metrics and decision-making dynamics."
+title: Understanding Treasury Stock Basics And Financial Implications
+description: Treasury stock helps companies boost EPS and manage equity by repurchasing
+  shares Learn financial and strategic impacts Discover more inside
 ---
 
 

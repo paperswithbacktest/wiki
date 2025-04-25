@@ -1,6 +1,7 @@
 ---
-title: "Tips for Joining an Investment Club"
-description: "Explore investment clubs for collaborative investing learning, leverage algorithmic trading for speed and precision, and enjoy financial group benefits."
+title: Guide to Joining and Operating a Successful Investment Club
+description: Investment club members pool funds to explore stocks bonds and strategies
+  sharing risks rewards and building investing expertise Discover more inside
 ---
 
 

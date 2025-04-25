@@ -1,6 +1,7 @@
 ---
-title: "Trust Indenture Act of 1939: History and Provisions"
-description: "Explore the Trust Indenture Act of 1939, its historical context, key provisions, and its connection with the evolving world of algorithmic trading."
+title: Understanding the Trust Indenture Act of 1939 and Its Impact
+description: Trust Indenture Act of 1939 ensures bond investors receive clear disclosure
+  and trustee oversight to protect investments Discover more inside
 ---
 
 

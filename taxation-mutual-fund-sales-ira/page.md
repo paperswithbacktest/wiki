@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Mutual Fund Sales Within an IRA"
-description: "Explore how mutual fund sales within IRAs are taxed and the impact of algorithmic trading Learn strategies to optimize after-tax retirement outcomes"
+title: Tax Treatment of Mutual Funds in Traditional and Roth IRAs
+description: Mutual funds in an IRA grow tax deferred or tax free avoiding annual
+  dividend and capital gains taxes in traditional or Roth accounts Discover more inside
 ---
 
 

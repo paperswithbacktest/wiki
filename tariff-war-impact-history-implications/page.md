@@ -1,6 +1,7 @@
 ---
-title: "Tariff War: Impact, History, and Implications"
-description: "Explore the influence of tariff wars and algorithmic trading on the global economy understanding their impacts on trade policies and financial market dynamics."
+title: Understanding Tariff Wars And Their Economic Consequences
+description: Tariff wars raise prices disrupt supply chains and threaten global trade
+  while exploring historical examples and strategic solutions Discover more inside
 ---
 
 

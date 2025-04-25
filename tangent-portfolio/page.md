@@ -1,6 +1,7 @@
 ---
-title: "Tangent portfolio"
-description: "Master algorithmic trading concepts with our comprehensive guide on tangent portfolios crucial for optimal investment strategies achieving maximum risk-adjusted returns."
+title: Tangent Portfolio Strategies for Maximizing Risk-Adjusted Returns
+description: Tangent portfolio optimizes the mix of risk-free and risky assets to
+  maximize risk-adjusted returns using efficient frontier analysis Discover more inside
 ---
 
 

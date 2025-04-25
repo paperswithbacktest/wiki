@@ -1,6 +1,7 @@
 ---
-title: "Time Charter Equivalent Analysis and Calculation"
-description: "Explore the importance of Time Charter Equivalent (TCE) in shipping finance and algo trading Learn how TCE aids in evaluating vessel profitability and strategic decision-making"
+title: Time Charter Equivalent TCE Analysis for Shipping Profitability
+description: Time Charter Equivalent delivers a daily vessel revenue rate that compares
+  voyage earnings to costs for smarter charter decisions Discover more inside
 ---
 
 

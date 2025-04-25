@@ -1,6 +1,7 @@
 ---
-title: "Transition of Online Brokers from Cost Focus to Execution Quality"
-description: "Discover how online brokers are transitioning focus from low-cost trades to superior execution quality driven by the rise of algorithmic trading."
+title: Shifting Online Brokers From Cost Focus to Execution Quality
+description: Execution Quality has become the key differentiator as online brokers
+  evolve from low fees to faster trades at better prices Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Trade Working Capital"
-description: "Explore the vital role of trade working capital in business success and learn how its management aids financial decisions and enhances algorithmic trading strategies."
+title: Mastering Trade Working Capital For Optimal Business Liquidity
+description: Trade Working Capital balances receivables inventory and payables to
+  improve liquidity using calculation methods and optimization tactics Discover inside
 ---
 
 

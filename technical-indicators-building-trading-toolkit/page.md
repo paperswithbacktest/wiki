@@ -1,6 +1,7 @@
 ---
-title: "Technical Indicators for Building a Trading Toolkit"
-description: "Explore the strategic synergy of technical indicators and algo trading to enhance trading strategies and success by leveraging data-driven insights and automation."
+title: Comprehensive Guide to Trading with Technical Indicators
+description: Technical indicators help traders spot market trends manage risk and
+  refine entry and exit with RSI MACD and moving averages Discover more inside
 ---
 
 

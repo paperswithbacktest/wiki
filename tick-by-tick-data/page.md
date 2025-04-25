@@ -1,6 +1,7 @@
 ---
-title: "Tick-by-tick data"
-description: "Explore how tick-by-tick data enhances algorithmic trading with real-time market insights boosting precision and accuracy in rapidly changing environments."
+title: Understanding Tick-by-Tick Data for Financial Analysis
+description: Tick-by-Tick Data reveals every trade and empowers precise market analysis
+  from sources and tools to challenges and strategies Discover more inside.
 ---
 
 

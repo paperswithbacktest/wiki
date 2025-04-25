@@ -1,6 +1,7 @@
 ---
-title: "Time Decay: Mechanism and Effects"
-description: "Discover the role of time decay in options trading and its integration into algorithmic strategies. Learn how theta influences profitability and risk management."
+title: Understanding Time Decay in Options Trading Strategies
+description: Time decay in options trading measures how premiums erode as expiration
+  nears guiding you to optimize positions and manage risk Discover more inside
 ---
 
 

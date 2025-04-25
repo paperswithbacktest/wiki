@@ -1,6 +1,7 @@
 ---
-title: "Tragedy of the Commons in Economics"
-description: "Explore the interplay between the Tragedy of the Commons and algo trading in financial markets, highlighting challenges in achieving sustainable resource allocation."
+title: Tragedy of the Commons and Sustainable Resource Management
+description: Tragedy of the Commons shows how unregulated use depletes shared resources
+  and how rules cooperation and ownership can prevent misuse Discover more inside
 ---
 
 

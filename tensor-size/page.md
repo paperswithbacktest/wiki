@@ -1,7 +1,7 @@
 ---
-title: Choosing the Right Tensor Sizes for Machine Learning Performance
-description: Tensor Sizes affect memory usage speed and accuracy in deep learning.
-  Explore how to optimize dimensions for balanced performance. Discover more
+title: Optimizing Tensor Sizes for Efficient Machine Learning
+description: Tensor sizes shape model performance memory and accuracy Adjusting tensor
+  dimensions helps balance speed resource use and overfitting Discover more inside
 ---
 
 ![Image](images/1.jpeg)

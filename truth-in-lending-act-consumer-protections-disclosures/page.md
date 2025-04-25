@@ -1,6 +1,7 @@
 ---
-title: "Truth in Lending Act: Consumer Protections and Disclosures"
-description: "Explore the Truth in Lending Act's impact on consumer protection in algorithmic trading by ensuring transparent financial disclosures in credit transactions."
+title: Understanding the Truth in Lending Act and Your Rights
+description: Truth in Lending Act ensures lenders disclose APR fees total repayment
+  costs and grants consumers rights like a three day rescission Discover more inside.
 ---
 
 

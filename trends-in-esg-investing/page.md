@@ -1,6 +1,7 @@
 ---
-title: "Trends in ESG Investing"
-description: "Explore the growing synergy between ESG investing and algorithmic trading Discover how integrating sustainability into trading strategies is reshaping investment trends"
+title: Understanding ESG Investing Strategies For Sustainable Returns
+description: ESG investing supports sustainable companies delivering long term returns
+  by evaluating environmental social and governance factors Discover more inside
 ---
 
 

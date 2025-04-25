@@ -1,6 +1,7 @@
 ---
-title: "Top Line in Financial Statements"
-description: "Discover key financial concepts such as financial statements and algorithmic trading to enhance trading strategies and make informed investment decisions."
+title: Understanding Top Line Revenue in Financial Statements
+description: Top Line Revenue indicates total sales before expenses and helps businesses
+  plan growth strategies and assess financial health Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Systematic Investment Plan"
-description: "Discover how Systematic Investment Plans and algorithmic trading empower investors to achieve financial goals in today’s dynamic market through smart strategies."
+title: Systematic Investment Plan Strategies For Long Term Growth
+description: Systematic investment plan allows regular fund investing with rupee cost
+  averaging and compounding to build wealth over time Discover more inside
 ---
 
 

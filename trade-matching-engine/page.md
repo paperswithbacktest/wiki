@@ -1,6 +1,7 @@
 ---
-title: "Rewritten title"
-description: "Discover the impact of automated trading systems on financial markets and explore how algorithms drive efficiency speed and precision in trade execution."
+title: Rewritten Title Best Practices for Clear and Compelling Headlines
+description: Rewritten Title helps you create clear engaging headlines that match
+  your content and audience with proven steps and tools Discover more inside
 ---
 
 

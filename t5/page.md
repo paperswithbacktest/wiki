@@ -1,8 +1,7 @@
 ---
-title: Comprehensive Guide To The T5 Text To Text Transfer Model
-description: T5 model uses a unified text to text transformer pretrained on large
-  datasets, fine tuned for tasks like translation and summarization Discover more
-  inside
+title: Comprehensive T5 Text-to-Text Transfer Transformer Overview
+description: T5 Text-to-Text Transfer Transformer uses a unified text approach to
+  handle translation summarization and question answering Discover more inside.
 ---
 
 ![Image](images/1.png)

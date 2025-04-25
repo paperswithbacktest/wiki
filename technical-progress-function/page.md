@@ -1,6 +1,7 @@
 ---
-title: "Technical Progress Function"
-description: "Explore the impact of technological progress on economic growth with a focus on the technical progress function and algorithmic trading's role in financial markets."
+title: Understanding the Technical Progress Function in Economic Growth
+description: Technical Progress Function reveals how technology boosts productivity
+  and shapes economic growth projections across industries Discover more inside
 ---
 
 

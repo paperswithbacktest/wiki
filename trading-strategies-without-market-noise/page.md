@@ -1,6 +1,7 @@
 ---
-title: "Trading Strategies Without Market Noise"
-description: "Discover effective trading strategies that cut through market noise using algorithmic trading to enhance precision and profitability without human bias."
+title: Market Noise Filtering Strategies for Smarter Trading
+description: Market noise can lead to poor trades Focus on long term trends and tools
+  like moving averages and RSI to filter out fluctuations Discover more inside
 ---
 
 

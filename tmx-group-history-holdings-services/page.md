@@ -1,6 +1,7 @@
 ---
-title: "TMX Group: Overview of History, Holdings, and Services"
-description: "Explore TMX Group's pivotal role in Canadian financial markets, its major exchanges, and how it leverages algorithmic trading to innovate and bolster market operations."
+title: TMX Group Driving Growth Through Financial Market Services
+description: TMX Group powers Canadian markets by running the TSX and TSX Venture
+  Exchange and providing market data plus energy trading Discover more inside.
 ---
 
 

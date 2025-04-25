@@ -1,6 +1,7 @@
 ---
-title: "Tangible Net Worth"
-description: "Discover the vital role of tangible net worth, balance sheet analysis, and algorithmic trading in today's financial landscape. Learn how these key metrics provide a comprehensive framework for evaluating a company's financial health, offering insights crucial to investment strategies and risk management. Uncover the significance of tangible net worth in assessing a company's asset-backed value and its impact on informed decision-making in modern finance."
+title: Calculating Tangible Net Worth And Its Financial Importance
+description: Tangible Net Worth shows your asset value after subtracting debts and
+  intangibles so you can make informed financial decisions Discover more inside.
 ---
 
 

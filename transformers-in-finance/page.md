@@ -1,6 +1,8 @@
 ---
-title: "Transformers in Finance"
-description: "Discover the transformative role of AI and transformer models in finance, enhancing algorithmic trading and forecasting, offering groundbreaking insights."
+title: Transformers in Finance Drive Smarter Market Predictions
+description: Transformers in finance analyze market data and sentiment to deliver
+  actionable forecasts and insights for better investment decisions Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Treasury Bill Overview"
-description: "Explore the benefits of algorithmic trading for Treasury Bills including precision, efficiency, and optimized strategies to maximize returns and minimize risks."
+title: Comprehensive Guide to Treasury Bills and How They Work
+description: Treasury Bills offer safe short-term investments backed by the US government
+  with flexible maturities to manage risk and returns Discover more inside
 ---
 
 

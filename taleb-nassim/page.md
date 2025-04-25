@@ -1,6 +1,7 @@
 ---
-title: "Taleb, Nassim"
-description: Explore the impact of Nassim Nicholas Taleb's philosophies on algorithmic trading, emphasizing robust risk management and the Barbell Strategy. Discover how integrating Taleb's ideas helps traders prepare for rare, unpredictable market events, enhancing decision-making in financial markets. This article offers insights into leveraging these principles for innovative trading strategies focused on unpredictability and volatility.
+title: Understanding Nassim Taleb's Black Swan and Antifragile Insights
+description: Nassim Taleb explains how embracing uncertainty and antifragile strategies
+  transforms risk management and boosts resilience in finance Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Triple Top: Definition, Functionality, and Illustrations"
-description: "Learn how the Triple Top chart pattern indicates potential trend reversals in trading, its formation, implications, and strategies to capitalize on market shifts."
+title: Understanding the Triple Top Pattern in Technical Analysis
+description: Triple Top Pattern reveals a bearish reversal when three peaks stall
+  at the same high and volume confirms a support break Discover more inside
 ---
 
 

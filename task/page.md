@@ -1,7 +1,7 @@
 ---
-title: Complete Guide to Machine Learning Tasks and Techniques
-description: Machine learning tasks give a clear roadmap for selecting algorithms
-  preparing data and evaluating models to deliver reliable results Discover more inside.
+title: Understanding Machine Learning Tasks And Their Types
+description: Machine Learning Tasks cover classification regression clustering and
+  more guiding model selection and improving workflow efficiency Discover more inside.
 ---
 
 ![Image](images/1.png)

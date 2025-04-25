@@ -1,6 +1,7 @@
 ---
-title: "Trailing Free Cash Flow: Concept and Calculation"
-description: "Learn the importance of trailing Free Cash Flow its calculation and how it enhances algorithmic trading strategies by assessing financial health over time."
+title: Understanding Trailing Free Cash Flow and Its Investor Impact
+description: Trailing free cash flow shows the cash remaining after operations and
+  investments helping you gauge overall company financial health Discover more.
 ---
 
 

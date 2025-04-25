@@ -1,6 +1,7 @@
 ---
-title: "Turnover Ratios and Investment Fund Quality"
-description: "Explore how turnover ratios reveal investment fund quality and impacts of algorithmic trading on returns. Enhance your investment strategy with these insights."
+title: Investment Fund Turnover Ratios Explained for Investors
+description: Turnover ratio in investment funds shows how often assets are traded
+  and its impact on costs performance taxes and risk assessment Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Taxonomy Expansion in Machine Learning Models and Applications
-description: Taxonomy expansion efficiently organizes new machine learning methods
-  and data into clear categories to guide model selection Discover more inside.
+title: Iterative Taxonomy Expansion Model in Machine Learning
+description: Taxonomy Expansion applies iterative models with contextual analysis
+  to keep your machine learning taxonomy organized and current Discover more inside
 ---
 
 ![Image](images/1.png)

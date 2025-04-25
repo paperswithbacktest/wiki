@@ -1,7 +1,7 @@
 ---
-title: Optimizing Neural Networks with Ternarization in Machine Learning
-description: Ternarization in machine learning reduces weight precision to three values
-  improving model speed memory use and energy efficiency Discover more inside
+title: Ternarization in Machine Learning for Efficient Neural Networks
+description: Ternarization in machine learning reduces neural network weights to three
+  values improving memory and speed for edge devices Discover more inside.
 ---
 
 ![Image](images/1.png)

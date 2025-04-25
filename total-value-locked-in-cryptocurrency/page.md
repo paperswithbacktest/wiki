@@ -1,6 +1,7 @@
 ---
-title: "Total Value Locked in Cryptocurrency"
-description: "Discover how Total Value Locked (TVL) impacts cryptocurrency and algorithmic trading by providing vital insights into DeFi project health liquidity and investor confidence."
+title: Understanding Total Value Locked TVL in Decentralized Finance
+description: Total Value Locked TVL reveals how much capital is staked in DeFi protocols
+  and monitors platform health to guide smarter investments Discover more inside
 ---
 
 

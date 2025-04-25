@@ -1,7 +1,7 @@
 ---
-title: TensorFlow Serving Deployment Guide For Machine Learning Models
-description: TensorFlow Serving simplifies deploying and managing machine learning
-  models in production with versioning scaling and monitoring Discover more inside.
+title: TensorFlow Serving Guide for Deploying and Managing Models
+description: TensorFlow Serving simplifies managing and scaling production ML models
+  with seamless versioning using APIs and monitoring Discover more inside
 ---
 
 ![Image](images/1.png)

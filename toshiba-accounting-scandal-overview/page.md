@@ -1,6 +1,7 @@
 ---
-title: "Toshiba Accounting Scandal Overview"
-description: "Discover the Toshiba accounting scandal revealing corporate governance flaws and the impact of profit overstatement on financial markets and algorithmic trading."
+title: Toshiba Accounting Scandal Unveiled Lessons And Reforms
+description: Toshiba Accounting Scandal revealed profit overstatements and weak governance
+  prompting corporate and legal reforms to restore trust. Discover inside.
 ---
 
 

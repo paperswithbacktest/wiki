@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Endowments"
-description: "Explore the complexities of taxation and algorithmic trading in endowment management, enhancing financial strategies for non-profits to sustain their missions."
+title: Understanding Endowment Taxation and Its Operational Impact
+description: Endowment taxation clarifies income tax breaks reporting rules and investment
+  strategies for funding scholarships and charity Discover more inside.
 ---
 
 

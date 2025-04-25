@@ -1,6 +1,7 @@
 ---
-title: "Treynor Ratio Explained"
-description: Explore the role of the Treynor Ratio in algorithmic trading and understand its importance in evaluating risk-adjusted portfolio performance. Learn what a negative Treynor Ratio indicates and discover strategies for addressing challenges in automated trading systems to ensure effective risk management and strategic alignment.
+title: Mastering The Treynor Ratio For Market Risk-Adjusted Returns
+description: Treynor Ratio helps investors measure returns per unit of market risk
+  by comparing excess return over a risk free rate with beta Discover more inside.
 ---
 
 

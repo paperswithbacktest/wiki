@@ -1,6 +1,7 @@
 ---
-title: "Tick rule"
-description: Explore the significance of the tick rule in algorithmic trading and its role in enhancing trading strategies for high-frequency environments where rapid decision-making is crucial. Understand how tick data offers real-time insights into market conditions by capturing every price fluctuation enabling traders to detect trends and optimize their trades with precision. Delve into the mechanics of the tick rule which interprets directional movements in tick data allowing traders to capitalize on short-term market shifts and maximize potential profits by aligning trades with current market dynamics.
+title: Understanding the Tick Rule in Stock Market Trading
+description: Tick rule reveals stock price momentum by tracking upticks and downticks
+  in real time to guide smarter trading decisions Discover more inside
 ---
 
 

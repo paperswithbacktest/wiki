@@ -1,6 +1,7 @@
 ---
-title: "Troy Ounce: Overview and Historical Context"
-description: "Explore the historical and strategic importance of the troy ounce in gold trading, crucial for algorithmic traders seeking precision in the precious metals market."
+title: Understanding the Troy Ounce in Precious Metals Trading
+description: Troy ounce accuracy drives reliable valuations of gold silver and platinum
+  guiding traders through conversions and standards Discover more inside
 ---
 
 

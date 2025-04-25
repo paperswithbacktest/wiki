@@ -1,6 +1,7 @@
 ---
-title: "Tier 1 Capital Ratio and Calculation Formula"
-description: "Learn about the Tier 1 Capital Ratio and how algorithmic trading reshapes banking and finance Discover key metrics essential for stability and growth"
+title: Understanding Tier 1 Capital Ratio for Bank Stability
+description: Tier 1 Capital Ratio measures banks core capital strength relative to
+  risk-weighted assets ensuring financial resilience under stress Discover more inside
 ---
 
 

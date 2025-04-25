@@ -1,6 +1,7 @@
 ---
-title: "Transitioning from Employment to Stock Trading"
-description: "Explore the path from employment to trading as a career with a focus on algorithmic trading Discover the tools skills and mindset needed for success"
+title: Transitioning From Employment to Full Time Stock Trading
+description: Stock trading demands savings, market education, risk management, strategy
+  and emotional discipline to replace steady income Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Preventing Training-Serving Skew In Machine Learning Models
-description: Training-Serving Skew undermines model accuracy when training data diverges
-  from real inputs. Discover ways to detect, mitigate skew. Discover more inside.
+title: Preventing Training-Serving Skew in Machine Learning Models
+description: Training-Serving Skew arises when models see different deployment data
+  impacting accuracy We cover detection mitigation practices Discover more inside
 ---
 
 ![Image](images/1.png)

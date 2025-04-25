@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Corporate Bonds"
-description: "Explore corporate bonds and their taxation in algo trading. Understand tax implications on interest income, capital gains, and original issue discount."
+title: Understanding Tax Implications For Corporate Bond Investors
+description: Corporate bond taxation affects interest and capital gains Boost after-tax
+  yields with holding periods and tax loss harvesting Discover more inside
 ---
 
 

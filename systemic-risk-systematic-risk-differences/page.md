@@ -1,6 +1,7 @@
 ---
-title: "Systemic Risk and Systematic Risk: Differences"
-description: "Explore the differences between systemic and systematic risk in algo trading Understand how these risks impact financial stability and investment strategies"
+title: Comparing Systemic and Systematic Risk in Financial Markets
+description: Systemic risk spreads through financial systems while systematic risk
+  impacts entire markets Manage both and protect your portfolio Discover more inside
 ---
 
 

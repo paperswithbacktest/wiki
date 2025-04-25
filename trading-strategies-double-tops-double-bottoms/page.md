@@ -1,6 +1,7 @@
 ---
-title: "Trading Strategies for Double Tops and Double Bottoms"
-description: "Discover how double tops and bottoms enhance algo trading by automating pattern recognition to optimize trade entries and exits in volatile markets."
+title: Professional Guide to Double Top and Double Bottom Patterns
+description: Double top and double bottom patterns reveal M and W shapes to signal
+  reversals define entries stops and targets, confirm with volume Discover more inside
 ---
 
 

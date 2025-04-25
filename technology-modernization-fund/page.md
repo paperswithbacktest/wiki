@@ -1,6 +1,7 @@
 ---
-title: "Technology Modernization Fund"
-description: "Explore how the Technology Modernization Fund (TMF) boosts federal IT and impacts algo trading with enhanced infrastructure, speed, and security."
+title: Technology Modernization Fund Driving Federal Tech Upgrades
+description: Technology Modernization Fund updates federal systems to boost cybersecurity
+  efficiency and user access across agencies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Term Securities Lending Facility Overview"
-description: "Discover how the Term Securities Lending Facility supported liquidity during the 2008 financial crisis by allowing primary dealers access to Treasury securities."
+title: Term Securities Lending Facility Boosted Liquidity During Crisis
+description: Term Securities Lending Facility let primary dealers borrow safe securities
+  against illiquid assets to secure cash and stabilize markets Discover more inside
 ---
 
 

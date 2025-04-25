@@ -1,6 +1,7 @@
 ---
-title: "Tobin Tax: Mechanism and Examples"
-description: "Explore the Tobin Tax a form of Financial Transaction Tax aimed at curbing market speculation and volatility Enhance understanding of its mechanisms and global impact"
+title: Tobin Tax and Its Role in Global Currency Market Stability
+description: Tobin Tax can stabilize currency markets and generate funding for global
+  development and climate initiatives through minimal fees Discover more inside.
 ---
 
 

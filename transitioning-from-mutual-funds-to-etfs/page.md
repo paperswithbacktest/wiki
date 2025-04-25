@@ -1,6 +1,7 @@
 ---
-title: "Transitioning from Mutual Funds to ETFs"
-description: "Transitioning from mutual funds to ETFs with a focus on algorithmic trading offers investors enhanced portfolio diversification liquidity and efficiency, optimizing returns."
+title: Transitioning Your Portfolio From Mutual Funds to ETFs
+description: ETFs offer lower fees and flexible trading compared to mutual funds,
+  letting you keep more returns as you shift your investments. Discover more inside.
 ---
 
 

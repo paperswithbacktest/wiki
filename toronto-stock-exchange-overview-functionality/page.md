@@ -1,6 +1,7 @@
 ---
-title: "Toronto Stock Exchange: Overview and Functionality"
-description: "Explore the Toronto Stock Exchange's role in Canada's economy and the benefits of algorithmic trading, offering speed, efficiency, and market stability."
+title: Comprehensive Guide to the Toronto Stock Exchange TSX
+description: Toronto Stock Exchange TSX empowers investors with insights into trading
+  operations history markets and listing requirements Discover more inside.
 ---
 
 

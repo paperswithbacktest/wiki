@@ -1,6 +1,8 @@
 ---
-title: "Technical Analysis of Stocks for Beginners"
-description: "Explore technical analysis and algorithmic trading fundamentals to enhance decision-making and potential investment returns for stock market beginners."
+title: Technical Analysis Fundamentals for Effective Stock Trading
+description: Technical Analysis provides strategies to spot chart patterns indicators
+  trends support and resistance and make informed trading decisions Discover more
+  inside
 ---
 
 

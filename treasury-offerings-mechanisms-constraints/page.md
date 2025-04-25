@@ -1,6 +1,7 @@
 ---
-title: "Treasury Offerings: Mechanisms and Constraints"
-description: "Explore the dynamics of treasury offerings and algorithmic trading in financial markets Learn how government bonds and trading technologies shape investment strategies"
+title: Understanding Treasury Offerings and Their Economic Role
+description: Treasury offerings provide secure returns through auctions of bills notes
+  and bonds helping manage economic stability and inflation Discover more inside
 ---
 
 

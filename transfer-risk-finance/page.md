@@ -1,6 +1,7 @@
 ---
-title: "Transfer Risk in Finance"
-description: "Effectively manage financial risk in algo trading with strategies like risk transfer, essential for safeguarding investments amid market complexities and volatilities."
+title: Understanding Transfer Risk in International Trade and Finance
+description: Transfer risk arises when currency controls restrict cross-border payments
+  See methods to assess exposure and mitigate risk Discover more inside
 ---
 
 

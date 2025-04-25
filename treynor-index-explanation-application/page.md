@@ -1,6 +1,7 @@
 ---
-title: "Treynor Index: Explanation and Application"
-description: "Optimize your investment strategies with the Treynor Index, a key metric for assessing risk-adjusted returns crucial for investors and algorithmic traders."
+title: Understanding the Treynor Index for Risk-Adjusted Returns
+description: Explore the Treynor Index to measure portfolio performance per unit of
+  market risk and compare diversified investments with precision Discover more inside.
 ---
 
 

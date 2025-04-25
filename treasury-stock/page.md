@@ -1,6 +1,7 @@
 ---
-title: "Treasury Stock"
-description: "Explore the impact of treasury stock and algorithmic trading on corporate finance and market dynamics. Discover how share repurchases affect a company's financial health and perceived value, and understand the role of algorithmic trading in transforming investment strategies through technology-driven efficiencies. This article provides insights into key strategies for navigating today's financial environment."
+title: Understanding Treasury Stock and Its Impact on Share Value
+description: Treasury stock buybacks reduce outstanding shares, boost EPS, and influence
+  company valuation while balancing cash and growth Discover more inside
 ---
 
 

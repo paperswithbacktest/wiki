@@ -1,6 +1,7 @@
 ---
-title: "Tanzanian Shilling: Overview and History"
-description: "Explore the Tanzanian Shilling's history and significance in economic trends and forex markets Learn how algorithmic trading impacts TZS exchange rates and strategies"
+title: Understanding the Tanzanian Shilling and Its Economic Role
+description: Tanzanian Shilling overview covers its history denominations economic
+  impact exchange factors and central bank roles Discover more inside now.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Theory of Price in Economics"
-description: "Explore how price theory interacts with economic theories and algorithmic trading to understand market dynamics and optimize trading strategies."
+title: Guide to Price Theory and Market Pricing in Economics
+description: Price theory in economics explains how supply and demand set market prices
+  and inform strategies on costs policy and elasticity Discover more inside
 ---
 
 

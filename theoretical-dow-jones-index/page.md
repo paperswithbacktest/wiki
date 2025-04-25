@@ -1,6 +1,7 @@
 ---
-title: "Theoretical Dow Jones Index"
-description: "Explore the Theoretical Dow Jones Index as an innovative approach to market analysis using intraday highs and lows for enhanced trading insights and risk management."
+title: Understanding the Theoretical Dow Jones Index Methodology
+description: Theoretical Dow Jones Index provides a dynamic market view through average
+  daily highs lows with splits and dividend adjustments. Discover more inside.
 ---
 
 

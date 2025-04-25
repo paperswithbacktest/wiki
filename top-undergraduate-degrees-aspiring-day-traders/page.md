@@ -1,6 +1,7 @@
 ---
-title: "Top Undergraduate Degrees for Aspiring Day Traders"
-description: "Discover top undergraduate degrees for aspiring day traders and algo traders. Learn vital skills in finance, economics, and trading strategies for a bright future."
+title: Choosing an Undergraduate Degree for a Day Trading Career
+description: Day trading success depends on targeted undergraduate degrees that build
+  analytical technical and risk management skills Discover more inside
 ---
 
 

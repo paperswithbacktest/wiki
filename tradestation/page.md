@@ -1,6 +1,7 @@
 ---
-title: "TradeStation"
-description: "Optimize your algorithmic trading with TradeStation: a leading platform renowned for its powerful tools and seamless integration with UltraAlgo. Enjoy advanced charting, extensive historical data, customizable indicators, and multi-asset support to enhance your trading strategies. Exploit AI-driven backtesting and real-time market analytics to refine and execute strategies with precision and speed. Elevate your trading performance by leveraging TradeStation's robust offerings for superior market insights and opportunities."
+title: TradeStation Platform Guide For Beginner And Expert Traders
+description: TradeStation offers a powerful platform with advanced charting automated
+  strategies and educational resources to support traders Discover more inside
 ---
 
 

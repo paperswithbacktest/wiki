@@ -1,6 +1,7 @@
 ---
-title: "Systemic Risk in Banking: Causes and Examples"
-description: "Explore systemic risk in banking and how algorithmic trading impacts financial stability. Understand causes, examples, and regulatory measures to mitigate risks."
+title: Understanding Systemic Risk in Banking and Financial Stability
+description: Systemic risk in banking occurs when bank failures pose systemic threats
+  to financial stability. Explore steps to prevent crises Discover more inside.
 ---
 
 

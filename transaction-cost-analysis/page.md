@@ -1,6 +1,7 @@
 ---
-title: "Transaction Cost Analysis"
-description: "Transaction cost analysis is crucial in algorithmic trading to minimize costs and enhance profitability by addressing explicit and implicit trading expenses."
+title: Understanding Transaction Cost Analysis for Smarter Trading
+description: Transaction Cost Analysis uncovers hidden fees, market impact and timing
+  issues so traders optimize strategies and preserve profits Discover more inside.
 ---
 
 

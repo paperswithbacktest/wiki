@@ -1,6 +1,7 @@
 ---
-title: "Switzerland Cuts Interest Rates As Inflation Declines"
-description: "Switzerland cuts interest rates as inflation declines impacting global markets. The shift highlights the role of algo trading in adapting to economic changes."
+title: Swiss Interest Rate Cut and Its Economic and Currency Effects
+description: Swiss interest rate cut helps businesses and consumers borrow at lower
+  cost to support growth curb inflation and maintain stability Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Technical Strength in Market Analysis"
-description: "Explore how algorithmic trading combines economic assessments and technical analysis to develop optimized, efficient trading strategies in dynamic market conditions."
+title: Assessing Technical Strength Indicators for Market Trends
+description: Technical strength in market analysis uses moving averages RSI and volume
+  to help traders spot strong trends and make decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Treasury Stock Method"
-description: "Explore the integration of financial modeling, stock valuation, and algorithmic trading to enhance investment strategies and optimize financial decisions."
+title: Mastering the Treasury Stock Method for Accurate EPS Calculations
+description: Treasury Stock Method shows how option exercises alter share counts and
+  dilute EPS while company buybacks offset dilution. Discover more inside.
 ---
 
 

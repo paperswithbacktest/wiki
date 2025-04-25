@@ -1,7 +1,7 @@
 ---
-title: Essential Guide to Building Machine Learning Models With Tf.Keras
-description: Tf.Keras simplifies building and training neural network models with
-  TensorFlow by covering setup, layers, callbacks and deployment Discover more inside
+title: Tf.Keras Guide for Building and Training Neural Networks
+description: Tf.Keras streamlines model building and training by offering a user friendly
+  API with support for layers optimizers and callbacks Discover more inside.
 ---
 
 ![Image](images/1.png)

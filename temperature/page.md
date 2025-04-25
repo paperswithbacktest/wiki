@@ -1,7 +1,8 @@
 ---
-title: Temperature Scaling and Tuning in Machine Learning Models
-description: Temperature scaling in machine learning controls model confidence and
-  randomness to enhance prediction calibration and reliability. Discover more inside
+title: Understanding Temperature in Neural Networks Softmax Calibration
+description: Temperature in neural networks adjusts softmax probabilities to balance
+  model confidence and randomness for improved calibration and performance Discover
+  more inside.
 ---
 
 ![Image](images/1.jpeg)

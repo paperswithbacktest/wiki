@@ -1,6 +1,7 @@
 ---
-title: "Turnover costs"
-description: Explore the dynamics of turnover costs in algorithmic trading and their impact on profitability. Understand how frequent buying and selling of securities incurs expenses like brokerage fees and market impact costs, influencing net returns. Learn strategies to manage these costs, enhance trading performance, and maintain competitiveness in financial markets.
+title: 'Turnover Costs Explained: Impact, Calculation And Reduction'
+description: Turnover costs highlight hidden hiring training expenses and guide strategies
+  to reduce staff churn and improve retention. Discover more inside.
 ---
 
 

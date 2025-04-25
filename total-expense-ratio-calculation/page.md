@@ -1,6 +1,7 @@
 ---
-title: "Total Expense Ratio and Calculation"
-description: "Gain insights into the Total Expense Ratio TER and its crucial role in algorithmic trading Understand its calculation and impact on cost efficiency"
+title: Understanding Total Expense Ratio for ETFs and Mutual Funds
+description: Total expense ratio shows investors how much of their funds go to fees,
+  enabling cost-effective choices and long-term growth. Discover more inside.
 ---
 
 

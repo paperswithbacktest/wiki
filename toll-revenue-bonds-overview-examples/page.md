@@ -1,6 +1,7 @@
 ---
-title: "Toll Revenue Bonds: Overview and Examples"
-description: "Explore toll revenue bonds as essential tools for funding infrastructure, offering insights into their role and the transformative impact of algorithmic trading."
+title: Understanding Toll Revenue Bonds for Infrastructure Financing
+description: Toll revenue bonds fund roads bridges and tunnels with collected tolls
+  enabling infrastructure financing without raising taxes Discover more inside
 ---
 
 

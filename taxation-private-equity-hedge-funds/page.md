@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Private Equity and Hedge Funds"
-description: "Explore the intricate tax implications for private equity, hedge funds, and algorithmic trading to effectively manage investment strategies and optimize returns."
+title: Understanding Tax Strategies for Private Equity and Hedge Funds
+description: Private equity and hedge fund taxation explained to help investors optimize
+  net returns and cut tax burdens through planning Discover more inside.
 ---
 
 

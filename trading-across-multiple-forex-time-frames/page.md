@@ -1,6 +1,7 @@
 ---
-title: "Trading Across Multiple Forex Time Frames"
-description: "Explore the interplay between algorithmic trading and forex time frames to enhance your trading strategies Learn how adapting to various time frames improves outcomes"
+title: Master Forex Time Frame Strategies for Multi Time Frame Trading
+description: Forex time frames unlock clearer market trends by combining long and
+  short charts for precise entries and exits and risk management Discover more inside
 ---
 
 

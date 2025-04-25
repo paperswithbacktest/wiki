@@ -1,6 +1,7 @@
 ---
-title: "Treasury Lock in Fixed Income Trading"
-description: "Explore the crucial role of treasury locks and algorithmic trading in managing interest rate risk within fixed income markets for an efficient strategy."
+title: Understanding Treasury Locks to Manage Interest Rate Risk
+description: Treasury Lock secures current yields before a future purchase to manage
+  interest rate risk and preserve flexibility Discover more inside
 ---
 
 

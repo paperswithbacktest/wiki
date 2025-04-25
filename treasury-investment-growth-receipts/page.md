@@ -1,6 +1,7 @@
 ---
-title: "Treasury Investment Growth Receipts"
-description: "Discover the fusion of historical and modern strategies with Treasury Investment Growth Receipts Learn about zero-coupon bonds and algo trading in finance"
+title: Treasury Investment Growth Receipts Zero Coupon Bond Guide
+description: Treasury Investment Growth Receipts provide predictable zero coupon returns
+  by selling at a discount and maturing at face value Discover more inside
 ---
 
 

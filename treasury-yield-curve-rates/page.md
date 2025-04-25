@@ -1,6 +1,7 @@
 ---
-title: "Treasury Yield Curve Rates"
-description: "Discover how treasury yield curves can enhance algo trading strategies Learn to leverage this vital economic indicator to boost algorithmic decision-making"
+title: Understanding the Treasury Yield Curve and Its Economic Signals
+description: Treasury Yield Curve analysis reveals how bond maturities signal economic
+  trends and guide borrowing decisions with confidence Discover more inside.
 ---
 
 

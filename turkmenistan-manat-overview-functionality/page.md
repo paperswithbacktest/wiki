@@ -1,6 +1,7 @@
 ---
-title: "Turkmenistan Manat: Overview and Functionality"
-description: "Explore the Turkmenistan Manat's growing role in global finance, influenced by the rise of algorithmic trading, boosting market efficiency and liquidity."
+title: Turkmenistan Manat History, Value, and Exchange Policies
+description: Turkmenistan Manat insights cover history denominations and exchange
+  policies in a concise guide clarifying value drivers and risks. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Total Stockholders' Equity"
-description: "Enhance your algorithmic trading strategies by understanding financial statements. Leverage insights from stockholders' equity and balance sheets to predict market trends."
+title: Total Stockholders' Equity Explained For Investors And Analysts
+description: Total Stockholders' Equity reveals a company's net worth and guides investors
+  in evaluating financial strength with clear examples Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Theoretical Ex-Rights Price"
-description: "Optimize your trading strategy with insights into Theoretical Ex-Rights Price and its impact on rights issues. Gain knowledge to enhance investment decisions."
+title: Understanding Theoretical Ex-Rights Price for Investors
+description: Theoretical Ex-Rights Price gives investors a clear estimate of post-rights
+  issue stock value by blending current and new share values Discover more inside
 ---
 
 

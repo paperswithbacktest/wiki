@@ -1,6 +1,7 @@
 ---
-title: "Trayport (Company)"
-description: "Explore Trayport's role in transforming energy trading with cutting-edge algorithmic solutions that enhance market efficiency and profitability globally."
+title: Trayport Energy Trading Platform Overview and Key Features
+description: Trayport energy trading platform simplifies buying and selling energy
+  and carbon credits with real-time risk management tools. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Total Revenue Test in Economics"
-description: "Explore the role of the total revenue test in economics and algorithmic trading. Understand demand elasticity to enhance pricing strategies and boost profitability."
+title: Applying the Total Revenue Test to Measure Price Elasticity
+description: Total Revenue Test shows how revenue responds to price changes so you
+  can gauge demand elasticity and optimize pricing Discover more inside today
 ---
 
 

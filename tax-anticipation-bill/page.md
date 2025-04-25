@@ -1,6 +1,7 @@
 ---
-title: "Tax Anticipation Bill"
-description: "Explore how Tax Anticipation Bills and Notes bridge municipal finance gaps and the role of algorithmic trading in optimizing these instruments. Discover their impact on liquidity."
+title: Tax Anticipation Bills Explained for Government Cash Flow
+description: Tax Anticipation Bills help governments access funds quickly by offering
+  safe short term financing with predictable returns Discover more inside.
 ---
 
 

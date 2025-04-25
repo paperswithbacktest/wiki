@@ -1,6 +1,7 @@
 ---
-title: "Tit for Tat: Concept and Mechanism"
-description: "Explore the concept and mechanism of tit for tat strategy in algorithmic trading derived from game theory promoting cooperation and understanding its broad applications."
+title: Tit for Tat Strategy Explained Comprehensive Guide
+description: Tit for Tat is a game theory strategy that promotes cooperation by mirroring
+  actions to reward good behavior and deter bad conduct Discover more inside.
 ---
 
 

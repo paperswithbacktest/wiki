@@ -1,6 +1,7 @@
 ---
-title: "Trading Curb: Levels and Historical Overview"
-description: "Explore the complexities of market regulation with a focus on trading curbs and algorithmic trading Learn how these elements affect market stability and efficiency"
+title: Understanding Trading Curbs And Their Role In Market Stability
+description: Trading curbs help stabilize volatile markets by pausing trading at key
+  thresholds to curb panic and protect investors Discover more inside today.
 ---
 
 

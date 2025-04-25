@@ -1,6 +1,7 @@
 ---
-title: "TRON (TRX) Blockchain Platform"
-description: "Explore TRON's blockchain platform for algorithmic trading Discover how TRX ensures low-cost rapid transactions empowering traders with superior performance and scalability"
+title: Understanding TRON Blockchain And TRX Ecosystem Fundamentals
+description: TRON Blockchain powers fast low cost digital content sharing and lets
+  creators earn directly from audiences using TRX tokens Discover more inside.
 ---
 
 

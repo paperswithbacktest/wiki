@@ -1,6 +1,7 @@
 ---
-title: "Trader (Business)"
-description: "Explore the dynamic world of trading where traditional methods meet modern algo trading Learn how technology shapes strategies and boosts market efficiency"
+title: Guide to Trading Careers and Essential Trader Skills
+description: Trader roles in finance and retail require market analysis, risk management
+  and discipline for smart decision making in trading. Discover more inside.
 ---
 
 

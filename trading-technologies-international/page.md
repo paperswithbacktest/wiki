@@ -1,6 +1,7 @@
 ---
-title: "Trading Technologies International"
-description: "Explore how Trading Technologies International revolutionizes financial markets with advanced algorithmic trading systems enhancing efficiency and global connectivity."
+title: Trading Technologies International Platform and Services Guide
+description: Trading Technologies International offers fast reliable trading software
+  and APIs that deliver real-time market data and integration Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Transition to a Cashless Society"
-description: "Explore the shift towards a cashless society driven by digital payments and algorithmic trading. Discover the benefits and challenges of this financial evolution."
+title: Managing the Transition to a Cashless Society Smoothly
+description: Cashless Society offers faster payments but poses access security and
+  inclusion challenges Discover inclusive transition tactics Discover more inside
 ---
 
 

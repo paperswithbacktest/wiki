@@ -1,6 +1,7 @@
 ---
-title: "Treasury Receipt: Definition and Mechanism"
-description: "Explore the benefits of investing in treasury receipts and the impact of algorithmic trading in modern finance Gain insights into risk management and investment strategies"
+title: Understanding Treasury Receipts for Conservative Investors
+description: Treasury Receipt investments provide a secure way to lock in rates and
+  plan finances with government backing for low risk Discover more inside
 ---
 
 

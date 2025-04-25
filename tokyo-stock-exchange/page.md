@@ -1,6 +1,7 @@
 ---
-title: "Tokyo Stock Exchange"
-description: "Explore the vital role of Tokyo Stock Exchange in global finance with a focus on algorithmic trading's impact on market speed, efficiency, and evolution."
+title: Tokyo Stock Exchange Overview And Investment Guide
+description: Tokyo Stock Exchange guides investors through its history sections indices
+  and trading process helping them make informed decisions Discover more inside
 ---
 
 

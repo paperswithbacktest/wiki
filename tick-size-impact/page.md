@@ -1,6 +1,7 @@
 ---
-title: "tick size impact"
-description: "Explore how tick size influences algorithmic trading, market liquidity, and volatility. Understanding its impact helps in optimizing trading strategies and execution."
+title: Understanding Tick Size Effects On Market Liquidity And Stability
+description: Tick size determines price increments and influences trading liquidity,
+  stability and volatility through real world examples Discover more inside
 ---
 
 

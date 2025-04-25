@@ -1,7 +1,7 @@
 ---
-title: Understanding Twin Networks in Machine Learning Architectures
-description: Twin Networks use identical sub-networks to compare inputs and measure
-  similarity with contrastive loss and distance metrics Discover more inside.
+title: Twin Networks Architecture Explained for Machine Learning
+description: Twin Networks offer a Siamese neural design that compares inputs for
+  face recognition signature verification and one-shot learning Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Synthetic liquidity"
-description: "Explore the integral role of synthetic liquidity in algorithmic trading, where advanced algorithms create artificial market environments for strategy testing and innovation."
+title: Understanding Synthetic Liquidity in Financial Markets
+description: Synthetic liquidity simulates buyers and sellers in thin markets to maintain
+  stable prices and improve trading efficiency Discover more inside
 ---
 
 

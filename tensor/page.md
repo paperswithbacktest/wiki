@@ -1,7 +1,8 @@
 ---
-title: Understanding Tensors in Machine Learning Models and Frameworks
-description: Tensors power efficient data handling and key operations in machine learning
-  using GPU acceleration and streamlined training Discover more inside.
+title: Fundamentals of Tensors in Machine Learning and Deep Learning
+description: Tensors in machine learning efficiently handle complex data structures
+  and speed up model computations with operations like convolution and gradient descent
+  Discover more inside
 ---
 
 ![Image](images/1.jpeg)

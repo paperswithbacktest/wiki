@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Physical Gold and Silver Investments"
-description: "Explore the tax implications of investing in physical gold and silver with algorithmic trading Learn to optimize strategies and minimize tax liabilities"
+title: Understanding Tax Rules for Physical Gold and Silver Investments
+description: Tax rules for physical gold and silver clarify capital gains by holding
+  period collectible status and recordkeeping steps Discover more inside.
 ---
 
 

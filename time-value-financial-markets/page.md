@@ -1,6 +1,7 @@
 ---
-title: "Time Value in Financial Markets"
-description: "Explore the interplay of extrinsic and time value in financial derivatives and how algo trading impacts markets enhancing risk assessment and investment strategies."
+title: Time Value in Financial Markets and Its Impact on Instruments
+description: Time value in financial markets explains how the timing of cash flows
+  affects instrument pricing and investment decisions Discover more inside.
 ---
 
 

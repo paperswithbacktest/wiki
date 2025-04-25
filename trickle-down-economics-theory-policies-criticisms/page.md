@@ -1,6 +1,7 @@
 ---
-title: "Trickle-Down Economics: Theory, Policies, and Criticisms"
-description: "Explore the theory and impact of trickle-down economics including its principles policies and criticism while assessing the role of algorithmic trading in modern economic practices."
+title: Trickle-Down Economics Explained Origins Mechanisms And Criticism
+description: Trickle-down economics shows how tax cuts for the wealthy fuel investment
+  create jobs and boost growth while weighing critics concerns Discover more inside
 ---
 
 

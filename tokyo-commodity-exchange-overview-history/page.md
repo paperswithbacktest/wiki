@@ -1,6 +1,7 @@
 ---
-title: "Tokyo Commodity Exchange: Overview and History"
-description: "Explore the Tokyo Commodity Exchange TOCOM's history, offerings, and role in Japan's economic landscape, highlighting algorithmic trading's impact on efficiency."
+title: Tokyo Commodity Exchange History and Trading Functions
+description: Tokyo Commodity Exchange offers a regulated marketplace for trading major
+  commodities with transparent pricing and risk management Discover more inside
 ---
 
 

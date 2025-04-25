@@ -1,6 +1,7 @@
 ---
-title: "Trust Preferred Securities: Overview and Mechanism"
-description: "Explore the sophisticated world of Trust Preferred Securities the hybrid financial instruments reshaping capital strategies with algorithmic trading advancements."
+title: Understanding Trust Preferred Securities Benefits And Risks
+description: Trust Preferred Securities offer hybrid debt equity financing with tax
+  deductible payments and attractive yields but involve payment risks Discover more
 ---
 
 

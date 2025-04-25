@@ -1,6 +1,7 @@
 ---
-title: "Targeted Amortization Class"
-description: "Explore Targeted Amortization Class (TAC) bonds designed to mitigate prepayment risk and enhance yield with algorithmic trading offering stability and efficiency."
+title: Understanding Targeted Amortization Class Bonds for Investors
+description: Targeted Amortization Class bonds protect investors from prepayment risk
+  with a reserve account that ensures steady payments Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Trending Market: Overview and Functionality"
-description: "Discover how algorithmic trading leverages technology and AI to enhance financial trading strategies by automating decisions for precision and speed in the market."
+title: Understanding Market Trends in Trading and Investment
+description: Market trends analysis shows how to spot bullish or bearish signals with
+  moving averages and RSI for informed investment decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Trade Adjustment Assistance Program"
-description: "Explore the Trade Adjustment Assistance Program's role in retraining displaced workers for new opportunities including the potential for careers in algorithmic trading."
+title: Trade Adjustment Assistance Program Eligibility and Benefits
+description: Trade Adjustment Assistance Program supports workers affected by foreign
+  trade with job training relocation aid and income support Discover more inside
 ---
 
 

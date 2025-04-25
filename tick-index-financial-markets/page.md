@@ -1,6 +1,7 @@
 ---
-title: "Tick Index in Financial Markets"
-description: "Explore how the Tick Index enhances algorithmic trading by offering real-time market sentiment insights for better decision-making and strategy optimization."
+title: Understanding the Tick Index for Informed Market Trading
+description: Tick Index provides real time insight into market sentiment to help you
+  spot bullish or bearish trends and make informed trades Discover more inside.
 ---
 
 

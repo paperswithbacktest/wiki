@@ -1,6 +1,7 @@
 ---
-title: "TGS Management Company"
-description: "Explore TGS Management Company a leader in algorithmic trading known for pioneering sophisticated strategies enhancing efficiency and innovation globally."
+title: TGS Management Company Business Services and Trading Strategies
+description: TGS Management Company provides expert property finance HR and sustainability
+  alongside algorithmic trading strategies for growth Discover more inside
 ---
 
 

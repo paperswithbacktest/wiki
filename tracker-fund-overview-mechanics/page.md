@@ -1,6 +1,7 @@
 ---
-title: "Tracker Fund Overview and Mechanics"
-description: "Discover the strategies and benefits of tracker funds, index funds, and algorithmic trading to enhance portfolio performance and navigate modern financial markets."
+title: 'Understanding Tracker Funds: A Guide to Index Investing'
+description: Tracker Fund investing offers low-cost market replication and diversified
+  exposure with transparent management and minimal fees Discover more inside.
 ---
 
 

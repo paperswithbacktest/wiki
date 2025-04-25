@@ -1,6 +1,7 @@
 ---
-title: "Thomas Peterffy: Biography and Contributions"
-description: "Discover Thomas Peterffy's journey from Hungary to the forefront of electronic trading as the founder of Interactive Brokers revolutionizing Wall Street technology."
+title: Thomas Peterffy and the Rise of Electronic Stock Trading
+description: Thomas Peterffy revolutionized stock trading with Interactive Brokers
+  by using computers to open the market for everyone Discover more inside.
 ---
 
 

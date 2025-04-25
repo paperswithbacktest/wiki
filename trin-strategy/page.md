@@ -1,6 +1,7 @@
 ---
-title: "TRIN Strategy Explained"
-description: Explore the comprehensive guide to the Arms Index TRIN a crucial market sentiment indicator in algorithmic trading. Uncover the intricacies of its calculation and application in trading strategies. This article investigates into how the TRIN measures market strength and momentum by analyzing stock volumes providing traders with key insights into bullish or bearish trends. Discover its benefits and limitations to enhance your trading decisions and uncover potential market shifts armed with the power of the TRIN.
+title: Mastering the TRIN Strategy for Stock Market Sentiment
+description: TRIN Strategy shows market sentiment by comparing advancing and declining
+  stocks with volume to guide smarter trading decisions. Discover more inside
 ---
 
 

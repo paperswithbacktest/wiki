@@ -1,7 +1,7 @@
 ---
-title: Trigrams in Machine Learning and Natural Language Processing
-description: Trigrams boost NLP systems by capturing three word patterns to improve
-  text prediction translation and speech recognition Discover more inside.
+title: Understanding Trigram Models in Natural Language Processing
+description: Trigram models leverage three-word sequences to boost text prediction
+  accuracy and enhance language modeling with smoothing Discover more inside
 ---
 
 ![Image](images/1.png)

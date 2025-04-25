@@ -1,6 +1,7 @@
 ---
-title: "Timing of Mutual Fund Price Updates"
-description: "Explore the impact of algorithmic trading on mutual fund price updates and valuation. Discover insights to enhance investment strategies in this evolving landscape."
+title: Understanding Mutual Fund Price Updates And Daily NAV Timing
+description: Mutual Fund Price Updates shape your NAV and guide your buy or sell timing
+  each trading day with clear insights and transparency Discover more inside
 ---
 
 

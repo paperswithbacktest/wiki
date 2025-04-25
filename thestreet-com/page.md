@@ -1,6 +1,7 @@
 ---
-title: "TheStreet.com"
-description: Discover the transformative impact of algorithmic trading with TheStreet.com. Gain insights into how this platform supports traders and investors by providing expert analysis, real-time data, and comprehensive resources to optimize trading strategies in today's dynamic financial markets. Explore algorithmic techniques and tools that democratize access to sophisticated trading, empowering both retail and institutional traders to achieve enhanced trading outcomes.
+title: TheStreet.com Essential Guide to Financial News and Investing
+description: TheStreet.com delivers up-to-date financial news analysis tools and community
+  insights to help investors make informed decisions Discover more inside
 ---
 
 

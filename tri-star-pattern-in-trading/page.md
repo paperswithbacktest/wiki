@@ -1,6 +1,7 @@
 ---
-title: "Tri-Star Pattern in Trading"
-description: "Discover the Tri-Star pattern in trading a rare candlestick formation signaling potential market reversals Learn to identify and trade it with insights into algo strategies"
+title: Understanding the Tri-Star Candlestick Pattern for Reversals
+description: Tri-Star Pattern signals market reversals via three Doji candles marking
+  indecision then trend shifts. Confirm with indicators Discover more inside
 ---
 
 

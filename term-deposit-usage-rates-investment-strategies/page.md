@@ -1,6 +1,7 @@
 ---
-title: "Term Deposit: Usage, Rates, and Investment Strategies"
-description: "Explore term deposits and algorithmic trading trends, comparing stable returns with tech-driven investing to optimize portfolio diversification and growth."
+title: Term Deposit Investing for Higher Rates and Financial Security
+description: Term deposit accounts lock in fixed rates and low risk for savers Explore
+  how to compare terms set goals and maximize your returns Discover more inside.
 ---
 
 

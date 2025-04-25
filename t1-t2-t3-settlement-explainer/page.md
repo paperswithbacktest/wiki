@@ -1,6 +1,7 @@
 ---
-title: "T+1, T+2, and T+3 Settlement Explainer"
-description: "Explore T+1, T+2, and T+3 trade settlement cycles and their impact on algorithmic trading. Learn how they influence risk management and trading strategies."
+title: Understanding T+1 T+2 and T+3 Settlement Cycle Differences
+description: Settlement cycle defines the days between trade date and final settlement
+  ensuring efficient asset transfer and reduced risk Discover more inside.
 ---
 
 

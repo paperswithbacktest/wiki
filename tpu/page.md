@@ -1,7 +1,7 @@
 ---
-title: Tensor Processing Units Accelerate Machine Learning Performance
-description: TPU accelerates machine learning with matrix multiply units unified buffers
-  and parallelism for faster AI training and inference Discover more inside
+title: TPU Architecture and Machine Learning Performance Benefits
+description: TPU accelerates neural network training with matrix multiply units and
+  fast memory buffers for energy efficient AI workloads Discover more inside
 ---
 
 ![Image](images/1.jpeg)

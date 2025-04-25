@@ -1,6 +1,7 @@
 ---
-title: "The Magic Formula Strategy Explained"
-description: Discover the potential of the Magic Investing Formula for algorithmic trading as this article dissects its mechanics advantages and integration with algo-trading strategies. Learn how this quantitative approach streamlines stock selection by focusing on Return on Invested Capital and Earnings Yield ensuring emotionally unbiased decisions. Ideal for investors seeking precision and speed in stock analysis through algorithmic methods this guide will help determine if the Magic Formula suits your investment needs.
+title: Magic Formula Stock Strategy for Profitable Value Investing
+description: Magic Formula guides investors to select stocks with high return on capital
+  and earnings yield for consistent value growth Discover more inside
 ---
 
 

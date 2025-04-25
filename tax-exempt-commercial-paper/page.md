@@ -1,6 +1,7 @@
 ---
-title: "Tax-Exempt Commercial Paper"
-description: "Explore the intersection of tax-exempt commercial paper and algo trading as crucial tools in financial markets offering unique advantages for issuers and investors."
+title: Understanding Tax-Exempt Commercial Paper Benefits and Risks
+description: Tax-exempt commercial paper lets investors earn interest without taxes
+  for public projects. Understand key benefits risks. Discover more inside.
 ---
 
 

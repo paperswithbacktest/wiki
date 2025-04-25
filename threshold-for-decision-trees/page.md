@@ -1,7 +1,7 @@
 ---
-title: Decision Tree Thresholds Explained for Effective Model Splitting
-description: Decision tree thresholds improve splits by measuring impurity and information
-  gain to enhance accuracy and prevent overfitting Discover more inside
+title: Understanding Threshold Selection in Decision Tree Models
+description: Decision Tree Threshold selection boosts accuracy and controls complexity
+  using Gini impurity and entropy to optimize splits Discover more inside
 ---
 
 ![Image](images/1.png)

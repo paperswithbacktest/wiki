@@ -1,6 +1,8 @@
 ---
-title: "Tugrik: Functionality and Historical Overview"
-description: "Explore the Mongolian Tugrik's significance in Mongolia's economy and investments, focusing on its historical context and relevance in algorithmic trading."
+title: Comprehensive Overview Of The Mongolian Tugrik Currency System
+description: "Tugrik is Mongolia\u2019s official currency from 1925 to modern banknotes\
+  \ with unique designs and monetary policies that shape transactions Discover more\
+  \ inside"
 ---
 
 

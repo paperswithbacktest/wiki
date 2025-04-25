@@ -1,7 +1,7 @@
 ---
-title: Translational Invariance in Convolutional Neural Networks
-description: Translational invariance helps models detect objects anywhere in images
-  by using uniform filters and pooling for robust recognition Discover more inside
+title: Translational Invariance in CNNs for Image Recognition
+description: Translational invariance in CNNs drives robust image recognition by using
+  convolution filters and pooling to detect shifted patterns. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

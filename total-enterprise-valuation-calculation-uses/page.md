@@ -1,6 +1,7 @@
 ---
-title: "Total Enterprise Valuation: Calculation and Uses"
-description: "Explore how Total Enterprise Value (TEV) enhances trading strategies in algorithmic platforms by offering a detailed business valuation metric beyond market capitalization."
+title: Understanding Total Enterprise Value for Company Valuation
+description: Total Enterprise Value shows the true worth of a company by adding debt
+  and subtracting cash to guide informed investment decisions Discover more inside
 ---
 
 

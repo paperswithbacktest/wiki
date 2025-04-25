@@ -1,7 +1,7 @@
 ---
-title: Understanding Machine Learning Test Sets And Best Practices
-description: Test set evaluation in machine learning ensures models generalize to
-  new data by using representative splits and robust metrics Discover more inside
+title: Understanding Test Sets in Machine Learning Model Evaluation
+description: Test set evaluation ensures reliable model performance with representative
+  splits, no leakage, balanced sampling and clear metrics. Discover more inside.
 ---
 
 ![Image](images/1.png)

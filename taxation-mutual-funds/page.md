@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Mutual Funds"
-description: "Explore how taxation, mutual funds, and algorithmic trading converge to impact financial strategies. Learn to optimize investments for tax efficiency and returns."
+title: Comprehensive Guide To Mutual Fund Taxation And Planning
+description: Mutual fund taxation affects dividends interest and capital gains on
+  your returns Explore methods to lower tax liability Discover more inside.
 ---
 
 

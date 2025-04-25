@@ -1,7 +1,7 @@
 ---
-title: Text Span Machine Learning Techniques and Use Cases
-description: Text span machine learning extracts entity names phrases and relationships
-  to boost NLP accuracy with precise evaluation metrics Discover more inside
+title: Understanding Text Span Identification In Machine Learning
+description: Text span identification enables machine learning models to highlight
+  key phrases for tasks like NER sentiment analysis and QA Discover more inside
 ---
 
 ![Image](images/1.png)

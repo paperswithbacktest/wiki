@@ -1,6 +1,7 @@
 ---
-title: "TIBOR: Overview and Calculation Methodology"
-description: "Explore TIBOR's significance in Japan's financial markets, its calculation methodology, and its role in algorithmic trading, aiding investment decisions."
+title: Understanding TIBOR and Its Role in Japanese Finance
+description: TIBOR sets interbank lending rates in Japan by averaging daily bank quotes
+  with a waterfall methodology for market accuracy Discover more inside.
 ---
 
 

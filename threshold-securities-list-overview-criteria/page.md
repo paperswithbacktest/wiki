@@ -1,6 +1,7 @@
 ---
-title: "Threshold Securities List: Overview and Criteria"
-description: "Explore the significance of threshold securities and finance criteria in algorithmic trading to uncover potential market opportunities and enhance trading strategies."
+title: Threshold Securities List Explained for Investor Insight
+description: Threshold Securities List provides daily oversight on stocks with delivery
+  failures and shows how the SEC enforces fair trading Discover more inside
 ---
 
 

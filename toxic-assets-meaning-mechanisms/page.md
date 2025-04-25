@@ -1,6 +1,7 @@
 ---
-title: "Toxic Assets: Meaning and Mechanisms"
-description: "Explore the dynamics of toxic assets, asset valuation, financial crises, and algorithmic trading to understand their impacts on modern financial markets and investment strategies."
+title: Toxic Assets And Their Impact On Financial Stability
+description: Toxic assets weaken banks and slow growth by dragging down loan and investment
+  values See how regulators and banks manage these risks Discover more inside
 ---
 
 

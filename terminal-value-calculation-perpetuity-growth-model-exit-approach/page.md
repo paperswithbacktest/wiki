@@ -1,6 +1,7 @@
 ---
-title: "Terminal Value Calculation: Perpetuity Growth Model and Exit Approach"
-description: "Explore terminal value calculation methods like the perpetuity growth model and exit multiple approach essential for informed algorithmic trading decisions."
+title: Calculating Terminal Value Using Gordon Growth and Exit Multiples
+description: Terminal Value plays a crucial role in DCF models by projecting long-term
+  worth with perpetuity growth and exit multiple methods Discover more inside
 ---
 
 

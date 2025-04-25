@@ -1,7 +1,7 @@
 ---
-title: Understanding True Positive Rate in Machine Learning Models
-description: True Positive Rate measures how a model detects positive cases and balances
-  sensitivity with false positives for robust evaluation Discover more inside
+title: Understanding True Positive Rate In Machine Learning Models
+description: True Positive Rate measures model sensitivity quickly by comparing true
+  positives to actual positives in classification tasks Discover more inside.
 ---
 
 ![Image](images/1.png)

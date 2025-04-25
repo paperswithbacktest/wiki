@@ -1,6 +1,7 @@
 ---
-title: "Time in Force in Financial Markets"
-description: "Explore the significance of Time in Force (TIF) in algorithmic trading to enhance order execution precision, mitigate risk, and optimize trading strategies."
+title: Understanding Time in Force Orders for Effective Trading Strategy
+description: Time in Force Orders let traders control order duration and execution
+  across Day and GTC options with tailored risk control and timing Discover more inside
 ---
 
 

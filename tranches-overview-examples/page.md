@@ -1,6 +1,7 @@
 ---
-title: "Tranches: Overview and Examples"
-description: "Explore the concept of tranches in structured finance, their role in algorithmic trading, and how they provide tailored investment opportunities with varied risk levels."
+title: 'Understanding Financial Tranches: Risk Levels And Returns'
+description: Financial tranches divide assets into segments with varying risk and
+  return to match investor goals and streamline cash flows Discover more inside.
 ---
 
 

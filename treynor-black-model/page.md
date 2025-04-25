@@ -1,6 +1,7 @@
 ---
-title: "Treynor–Black model"
-description: Explore the Treynor–Black model's innovative approach to algorithmic trading, enhancing efficiency by integrating passive and active investment strategies. Understand its theoretical and mathematical foundations, and learn how to optimize portfolio performance through precision security selection and market exposure. Discover the model's application, challenges, and potential solutions for real-world trading success.
+title: Applying Treynor-Black Model to Optimize Portfolio Allocation
+description: Treynor-Black model blends active and passive investing to balance risk
+  and reward and guide optimal portfolio allocation. Discover more inside.
 ---
 
 

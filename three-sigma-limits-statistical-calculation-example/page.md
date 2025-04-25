@@ -1,6 +1,7 @@
 ---
-title: "Three Sigma Limits: Statistical Calculation and Example"
-description: "Explore the significance of three sigma limits in algo trading to assess market risks identify anomalies and enhance decision-making with statistical precision."
+title: Understanding Three Sigma Limits for Statistical Quality Control
+description: Three Sigma Limits measure data spread with 99.7% confidence around the
+  mean to spot anomalies and ensure consistent quality control. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Tax Anticipation Note: Purpose and Advantages"
-description: "Tax anticipation notes help municipalities manage cash flow by leveraging expected tax revenues. Explore how TANs, aided by algorithmic trading, optimize finances."
+title: Tax Anticipation Notes Explained For Municipal Cash Flow
+description: Tax Anticipation Notes provide short term funding to bridge municipal
+  revenue gaps and maintain essential services before tax season Discover more inside
 ---
 
 

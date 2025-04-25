@@ -1,6 +1,7 @@
 ---
-title: "Systematic Risk and Examples"
-description: "Explore the intricacies of systematic risk and its impact on algorithmic trading in this insightful article. Delve into the world of finance and understand the different types of risks that investors face including financial risk market risk and systematic risk. Discover how algorithmic trading interacts with these risks offering both opportunities and challenges. Learn about strategies to manage and mitigate risks effectively enhancing your trading decisions in today’s fast-paced financial environment."
+title: Understanding Systematic Risk And Its Impact On Investments
+description: Systematic risk shapes market trends from economic shifts political events
+  and disasters Use beta metrics diversify assets hedge risk Discover more inside.
 ---
 
 

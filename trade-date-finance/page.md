@@ -1,6 +1,7 @@
 ---
-title: "Trade Date in Finance"
-description: "Explore the synergy of trade date investing and algorithmic trading. Learn how these strategies optimize investments, maximize returns, and mitigate risks in finance."
+title: Understanding The Trade Date In Financial Transactions
+description: Trade date defines the moment when a financial trade is agreed and sets
+  the schedule for settlement accounting and reporting Discover more inside
 ---
 
 

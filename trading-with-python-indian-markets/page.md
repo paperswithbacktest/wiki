@@ -1,6 +1,7 @@
 ---
-title: "Trading with Python in Indian Markets"
-description: Explore the transformative impact of algorithmic trading in Indian financial markets driven by Python's powerful capabilities. This accessible language opens trading to a wider audience with its extensive libraries for data analysis and automation. Discover how Python integrates with Indian trading platforms like Zerodha’s Kite Connect offering tools for real-time market data access and automated trade execution. Delve into the evolution of trading in India supported by educational resources and how Python’s adaptability is influencing this dynamic landscape.
+title: Comprehensive Guide to Python Trading in the Indian Stock Market
+description: Python trading in the Indian stock market automates data analysis backtesting
+  and execution for investing with Python libraries Discover more inside
 ---
 
 

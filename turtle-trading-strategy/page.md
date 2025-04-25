@@ -1,6 +1,7 @@
 ---
-title: "Turtle Trading and Algo Trading"
-description: Turtle Trading, pioneered by Richard Dennis and William Eckhardt in the 1980s, revolutionized trend-following strategies by teaching a select group of novices systematic trading rules that focused on breakout signals, risk management, and disciplined position sizing. This article explores the core principles of Turtle Trading, its evolution in modern markets, and how it remains relevant in today's algorithmic trading landscape. Learn how to implement Turtle Trading strategies with tools like Python, risk management techniques, and insights from industry leaders.
+title: Turtle Trading Strategy Explained for Consistent Trend Profits
+description: Turtle Trading Strategy applies mechanical breakout rules and volatility-based
+  risk management to capture sustained trends. Discover more inside.
 ---
 
 ![Trend-following-backtest-1024x726.png](images/Trend-following-backtest-1024x726.png)

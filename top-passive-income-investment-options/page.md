@@ -1,6 +1,7 @@
 ---
-title: "Top Passive Income Investment Options"
-description: "Explore top passive income investment options with a focus on algorithmic trading to boost earnings automatically while diversifying your financial strategy."
+title: Professional Guide to Building Passive Income Portfolios
+description: Passive income provides financial freedom with dividend stocks real estate
+  digital products and bonds to build a diversified portfolio Discover more inside
 ---
 
 

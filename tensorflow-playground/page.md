@@ -1,7 +1,7 @@
 ---
-title: Hands On Neural Network Learning With TensorFlow Playground
-description: TensorFlow Playground offers interactive experiments that reveal network
-  basics with layers activations and regularization. Discover more inside
+title: Interactive Guide To Neural Networks Using TensorFlow Playground
+description: TensorFlow Playground lets beginners experiment with neural networks
+  in the browser and visualize learning dynamics in real time Discover more inside.
 ---
 
 ![Image](images/1.png)

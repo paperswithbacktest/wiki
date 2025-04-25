@@ -1,7 +1,7 @@
 ---
-title: Practical Guide to Time Series Modules in Machine Learning
-description: Time series modules in machine learning explain challenges methods and
-  real time integration for accurate trend forecasting Discover more inside
+title: Understanding Time Series Modules in Machine Learning
+description: Time series modules help you model trends seasonal effects and autocorrelation
+  for accurate forecasting and real time deployment Discover more inside
 ---
 
 ![Image](images/1.jpeg)

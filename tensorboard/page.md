@@ -1,7 +1,7 @@
 ---
-title: TensorBoard Visualization for Machine Learning Models
-description: TensorBoard provides real-time dashboards to track model accuracy loss
-  and resource usage making debugging and optimization seamless Discover more inside.
+title: TensorBoard Essentials for Visualizing and Optimizing ML Models
+description: TensorBoard provides real time visualization of training metrics and
+  model structures to optimize performance and debug effectively. Discover more inside.
 ---
 
 ![Image](images/1.gif)

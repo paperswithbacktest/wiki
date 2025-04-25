@@ -1,6 +1,7 @@
 ---
-title: "Trading Put Options on E*TRADE"
-description: "Explore put options trading on E*TRADE, a top platform for strategizing price declines. Discover algorithmic trading to enhance precision and efficiency."
+title: A Complete Guide to Trading Put Options on E*TRADE
+description: E*TRADE put options guide explains how to sell assets at set prices for
+  profit or protection using E*TRADE tools and strategies. Discover more inside.
 ---
 
 

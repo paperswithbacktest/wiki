@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Capital Gains from Mutual Funds in the United States"
-description: "Navigate the complexities of capital gains tax for mutual funds and algorithmic trading in the US Understand strategies to optimize tax efficiency and returns"
+title: Understanding Capital Gains Taxation for Mutual Fund Investors
+description: Capital gains from mutual funds vary by holding period and income level
+  Tax-efficient strategies lower your tax liability Discover more inside
 ---
 
 

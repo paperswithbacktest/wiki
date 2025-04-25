@@ -1,6 +1,7 @@
 ---
-title: "Tertiary Sector Industries"
-description: "Discover the transformative role of the tertiary sector and algorithmic trading in today's economy Unlock insights on optimizing investments and driving growth"
+title: Understanding the Tertiary Sector and Its Economic Role
+description: Tertiary sector services drive job creation and economic growth by meeting
+  consumer needs from retail to healthcare and education Discover more inside
 ---
 
 

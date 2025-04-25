@@ -1,6 +1,7 @@
 ---
-title: "Theodore W. Schultz: Biography and Contributions"
-description: "Explore the groundbreaking work of Theodore W. Schultz in agricultural development and human capital theory to understand his lasting impact on economics."
+title: Theodore W Schultz Human Capital Theory and Economic Legacy
+description: Theodore W Schultz redefined economic development by showing how investing
+  in education and health boosts productivity and growth Discover more inside.
 ---
 
 

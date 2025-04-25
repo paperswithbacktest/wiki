@@ -1,6 +1,7 @@
 ---
-title: "Treasury Direct Reinvestment Program"
-description: "Explore the benefits of Treasury Direct Reinvestment Plans with algorithmic trading to enhance investment returns through automated dividend reinvestments."
+title: Maximizing Savings With Treasury Direct Reinvestment Program
+description: Treasury Direct Reinvestment Program automates buying new US savings
+  bonds at maturity so your savings grow with minimal effort Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Understanding T5X Framework for Efficient Language Model Training
-description: T5X framework streamlines training and fine tuning of large language
-  models with scalable tools and efficient data processing Discover more inside.
+title: T5X Framework for Efficient Text-to-Text Model Training
+description: T5X helps researchers train large language models faster and more efficiently
+  for translation summarization and question answering Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

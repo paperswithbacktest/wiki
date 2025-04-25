@@ -1,6 +1,7 @@
 ---
-title: "Target Return and Investor Expectations"
-description: "Explore the impact of algorithmic trading on target return and investment expectations in finance. Learn how algorithms optimize ROI and enhance strategy precision."
+title: Understanding Target Return in Investment Strategy
+description: Target return helps investors set profit goals and tailor portfolios
+  by balancing risk with market insights for informed decisions Discover more inside
 ---
 
 

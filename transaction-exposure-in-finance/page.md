@@ -1,6 +1,7 @@
 ---
-title: "Transaction Exposure in Finance"
-description: "Explore transaction exposure in international finance and discover how algorithmic trading and hedging strategies can manage risks from currency fluctuations effectively."
+title: Understanding Transaction Exposure in International Finance
+description: Transaction exposure in finance highlights risks of currency rate changes
+  and offers hedging approaches to secure cash flows Discover more inside
 ---
 
 

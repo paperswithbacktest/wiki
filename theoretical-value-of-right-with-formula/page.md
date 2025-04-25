@@ -1,6 +1,7 @@
 ---
-title: "Theoretical Value of a Right with Formula"
-description: "Explore the theoretical value formula's role in financial rights and algorithmic trading Dive into valuation methods to optimize your investment strategies efficiently"
+title: Understanding Theoretical Value of Financial Rights Offerings
+description: Theoretical value of a right helps investors calculate savings in rights
+  offerings and guides smarter trading decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "TED Spread: Explanation, Application, and Calculation"
-description: "Learn about the TED Spread its importance in assessing credit risk and market liquidity and how it applies to algorithmic trading for informed market decisions."
+title: Understanding the TED Spread Risk Indicator in Finance
+description: TED Spread tracks the gap between T bill and Eurodollar rates to signal
+  market risk See how to calculate it and apply insights Discover more inside
 ---
 
 

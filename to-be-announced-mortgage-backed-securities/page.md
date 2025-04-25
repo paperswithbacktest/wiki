@@ -1,6 +1,7 @@
 ---
-title: "To Be Announced in Mortgage-Backed Securities"
-description: "Discover how algorithmic trading is transforming TBA mortgage-backed securities by enhancing liquidity speed and precision in a volatile market landscape."
+title: TBA Mortgage-Backed Securities Trading Key Mechanics and Benefits
+description: TBA mortgage-backed securities trading offers flexible settlement improved
+  liquidity and pricing stability to streamline lending. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Trend Trading Strategies"
-description: "Explore trend trading and algorithmic strategies in finance to capitalize on market movements Procedural insights enable informed and disciplined trading decisions"
+title: Essential Guide to Trend Trading Strategies and Indicators
+description: Trend trading uses moving averages, trend lines and RSI to spot market
+  momentum and reliable entry and exit points while managing risk Discover more inside
 ---
 
 

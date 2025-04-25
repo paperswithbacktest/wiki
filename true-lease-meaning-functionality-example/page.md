@@ -1,6 +1,8 @@
 ---
-title: "True Lease: Meaning, Functionality, and Example"
-description: "Explore the intricacies of true leases, their benefits, and role in algorithmic trading. Learn how they enhance financial flexibility and operational efficiency."
+title: Understanding True Lease Agreements for Business Equipment
+description: True lease agreements let businesses use expensive equipment without
+  buying it and treat payments as deductible expenses boosting cash flow Discover
+  more.
 ---
 
 

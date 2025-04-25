@@ -1,6 +1,7 @@
 ---
-title: "Tirone Levels and Their Function"
-description: "Explore the fundamentals of Tirone Levels in algorithmic trading, uncovering how these unique indicators identify key support and resistance areas for optimal decision-making."
+title: Understanding Tirone Levels for Market Support and Resistance
+description: Tirone levels identify support and resistance by dividing price ranges
+  into three key points traders can apply across markets Discover more inside.
 ---
 
 

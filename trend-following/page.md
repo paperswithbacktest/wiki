@@ -1,6 +1,7 @@
 ---
-title: "Trend following"
-description: Discover the historical roots, concepts, strategy development, and implementation of trend following in algorithmic trading. Learn how mathematical models and computational algorithms are used to recognize trends, generate signals, and execute trades autonomously. From ancient merchants to modern trend following funds like John W. Henry & Company, explore the power and profitability of this systematic trading strategy.
+title: Trend Following Strategies in Algorithmic Trading Systems
+description: Trend following in algorithmic trading uses data driven signals to capture
+  market movements and automate trades with risk controls Discover more inside
 ---
 
 

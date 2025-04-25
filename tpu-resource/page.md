@@ -1,7 +1,7 @@
 ---
-title: Understanding TPUs for Machine Learning Acceleration
-description: TPU accelerates machine learning by optimizing matrix computations parallelism
-  and memory for faster model training and inference Discover more inside
+title: Tensor Processing Units For Faster Machine Learning Workloads
+description: TPUs accelerate model training through fast matrix multiplications and
+  high bandwidth memory for efficient machine learning tasks Discover more inside
 ---
 
 ![Image](images/1.png)

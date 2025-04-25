@@ -1,6 +1,7 @@
 ---
-title: "Tree Diagram: Applications and Creation"
-description: "Explore how tree diagrams enhance algorithmic trading by simplifying data, improving strategy development, and aiding decision-making through visual insights."
+title: Tree Diagram Guide for Decision Making and Project Planning
+description: Tree Diagram provides a clear visual tool to simplify decision making
+  planning and probability analysis across industries Discover more inside
 ---
 
 

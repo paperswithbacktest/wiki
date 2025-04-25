@@ -1,6 +1,7 @@
 ---
-title: "Top 25 S&P 500 Stocks"
-description: "Discover the top 25 S&P 500 stocks with insights into algo trading. Learn how algorithms enhance trading efficiency and explore market strategies."
+title: Understanding the Top 25 S&P 500 Stocks and Their Performance
+description: Top 25 S&P 500 Stocks guide explains market cap selection performance
+  metrics risk and sector roles to support diversified portfolios Discover more inside
 ---
 
 

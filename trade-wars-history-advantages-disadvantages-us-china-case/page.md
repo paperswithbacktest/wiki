@@ -1,6 +1,7 @@
 ---
-title: "Trade Wars: History, Advantages and Disadvantages, U.S.-China Case Study"
-description: "Explore the intricacies of U.S.-China economic relations and trade wars, including their historical context, impact on global markets, and the role of algorithmic trading. This comprehensive analysis investigates into the economic strategies shaping international policies, providing insights into trade dynamics and future economic trajectories. Discover how trade disputes not only affect these two superpowers but also reverberate across global economic landscapes, altering investment flows, market stability, and international trade policies."
+title: Comprehensive Overview of Trade Wars and Their Economic Effects
+description: Trade wars reshape global economies with tariffs quotas and subsidies
+  to protect industries and disrupt global supply chains Discover more inside.
 ---
 
 

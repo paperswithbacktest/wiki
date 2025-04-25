@@ -1,6 +1,7 @@
 ---
-title: "Top Investment Courses of 2024"
-description: "Explore top investment courses in 2024 focusing on algorithmic trading and advanced techniques to enhance your investment strategies and financial success."
+title: 2024 Investment Courses Guide For Beginners To Advanced Investors
+description: Investment Courses in 2024 guide beginners through core concepts and
+  help intermediate and advanced investors select programs Discover more inside.
 ---
 
 

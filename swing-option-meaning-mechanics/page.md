@@ -1,6 +1,7 @@
 ---
-title: "Swing Option: Meaning and Mechanics"
-description: "Explore the dynamics of swing options and algorithmic trading in commodities markets to optimize investment strategies and mitigate risks effectively."
+title: Understanding Swing Options for Energy Commodity Flexibility
+description: Swing options let energy buyers adjust daily commodity volumes to manage
+  demand fluctuations and control costs with flexibility Discover more inside
 ---
 
 

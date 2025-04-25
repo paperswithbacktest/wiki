@@ -1,6 +1,7 @@
 ---
-title: "Tear Sheets in Finance and Their Comparison to a Prospectus"
-description: "Explore how tear sheets, prospectuses, and algorithmic trading tools transform financial decision-making by providing crucial data, insights, and automation."
+title: Understanding Tear Sheets in Finance for Investor Insights
+description: Tear sheet in finance offers a clear one page overview of company performance
+  and key metrics so investors can decide quickly Discover more inside
 ---
 
 

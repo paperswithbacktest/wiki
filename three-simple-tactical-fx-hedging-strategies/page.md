@@ -1,6 +1,7 @@
 ---
-title: "Three Simple Tactical FX Hedging Strategies"
-description: Discover effective FX hedging strategies that utilize algorithmic trading to manage currency risks and enhance portfolio resilience against adverse market movements. This article explores three key strategies focusing on momentum, carry, and value-based approaches to tailor hedging techniques according to risk tolerance and market scenarios for profit enhancement in dynamic foreign exchange markets.
+title: Tactical FX Hedging Strategies To Manage Currency Risk
+description: FX hedging helps businesses lock in rates reduce currency risk and improve
+  forecasting with tactical options swaps and forwards Discover more inside
 ---
 
 

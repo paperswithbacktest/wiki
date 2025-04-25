@@ -1,6 +1,7 @@
 ---
-title: "T-Distribution in Probability and Its Applications"
-description: "Explore how the t-distribution supports precise decision-making in algorithmic trading by evaluating strategies and managing risks with small data sets."
+title: Understanding the T-Distribution and Its Applications in Trading
+description: T-Distribution offers accurate insights for small sample analysis in
+  statistics and trading by modeling uncertainty and tail risks Discover more inside
 ---
 
 

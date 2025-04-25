@@ -1,6 +1,7 @@
 ---
-title: "Treasury Index: Meaning and Mechanism"
-description: "Explore the mechanism and significance of treasury indexes in algorithmic trading. Learn how tech-driven strategies use benchmarks to optimize investment decisions."
+title: Treasury Indexes Explained How Government Bond Benchmarks Work
+description: Treasury Indexes track US government bond yields to help investors gauge
+  rate trends and manage portfolio risk with smarter strategies Discover more inside
 ---
 
 

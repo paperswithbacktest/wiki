@@ -1,6 +1,7 @@
 ---
-title: "Treasury STRIPS: Overview and Investment Guide"
-description: "Explore Treasury STRIPS as secure zero-coupon bonds sold at a discount offering predictable returns and learn about algorithmic trading strategies to optimize investments."
+title: Comprehensive Guide to Investing in Treasury STRIPS
+description: Treasury STRIPS are safe smart zero coupon investments with fixed redemption
+  dates Tailor your savings to key future goals Discover more inside.
 ---
 
 

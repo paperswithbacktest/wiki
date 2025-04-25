@@ -1,6 +1,7 @@
 ---
-title: "Takedown Procedures and Shelf Offerings"
-description: "Explore the key aspects of takedown procedures and shelf offerings in algo trading Discover how these mechanisms enhance capital-raising strategies amid market changes"
+title: Comprehensive Guide to Takedown Procedures in Shelf Offerings
+description: Shelf offering takedown procedures enable companies to raise capital
+  flexibly by timing sales and optimizing underwriter margins Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Technical Indicators for Beginner Traders"
-description: "Learn the essentials of technical indicators and trading strategies for beginners. Discover how algorithmic trading can enhance decision-making and efficiency."
+title: Understanding Technical Indicators for Improved Trading Decisions
+description: Technical indicators help traders analyze market trends with tools like
+  moving averages and RSI to make informed buy sell decisions Discover more inside
 ---
 
 

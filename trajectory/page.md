@@ -1,7 +1,7 @@
 ---
 title: Key Concepts and Applications of Trajectory Machine Learning
-description: Trajectory machine learning analyzes model and object paths to reveal
-  dynamic data evolution and enhance prediction accuracy Discover more inside
+description: Trajectory machine learning reveals how data paths evolve in AI models
+  with core concepts applications and prediction methods Discover more inside
 ---
 
 ![Image](images/1.jpeg)

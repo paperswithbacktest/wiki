@@ -1,6 +1,7 @@
 ---
-title: "Two-Bin Inventory Control System"
-description: "Discover how the Two-Bin Inventory Control System streamlines inventory management by preventing stockouts and reducing excess with effective reordering strategies. This article explores its compatibility with Just-in-Time principles and its innovative application in algorithmic trading. Learn how this simple yet powerful system can enhance efficiency by maintaining continuous inventory flow and offering clear cues for timely replenishment."
+title: Two-Bin Inventory Control System for Efficient Stock Management
+description: Two-Bin Inventory Control System streamlines stock tracking by using
+  two bins to signal reorders automatically and prevent shortages Discover more inside
 ---
 
 

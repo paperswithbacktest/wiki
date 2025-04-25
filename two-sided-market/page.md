@@ -1,6 +1,7 @@
 ---
-title: "Two-Sided Market"
-description: "Explore the transformative power of two-sided markets in algorithmic trading Learn how platforms connect user groups optimize interactions and drive sustainable growth"
+title: Mastering Two-Sided Market Dynamics for Sustainable Growth
+description: Two-sided market insights show how platforms balance user groups and
+  harness network effects to drive growth and revenue Discover more inside
 ---
 
 

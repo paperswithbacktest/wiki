@@ -1,6 +1,7 @@
 ---
-title: "Target Date Funds Investment Guide for Millennials"
-description: "Explore how target date funds can simplify retirement planning for millennials offering automatic asset allocation and integrating algorithmic trading strategies."
+title: Target Date Funds For Millennials Saving For Retirement
+description: Target date funds help millennials automate retirement savings by shifting
+  from stocks to bonds as they age to safeguard growth Discover more inside.
 ---
 
 

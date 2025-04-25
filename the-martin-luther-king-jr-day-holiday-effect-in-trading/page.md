@@ -1,6 +1,7 @@
 ---
-title: "Martin Luther King Jr. Day Holiday Effect in Trading Explained"
-description: Explore the trading effects of Martin Luther King Jr. Day on algorithmic strategies with insights into market closures and necessary trading system adaptations. Understand how this US holiday impacts stock exchange operations and the adjustments required for algorithmic models due to the absence of trading activities, helping traders optimize their strategies for the holiday period.
+title: Martin Luther King Jr. Day Holiday Effect on Stocks and Trading
+description: Martin Luther King Jr Day trading patterns reveal a preholiday market
+  lift and postholiday volatility for smarter stock decisions Discover more inside
 ---
 
 

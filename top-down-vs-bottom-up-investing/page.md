@@ -1,6 +1,7 @@
 ---
-title: "Top-Down vs. Bottom-Up Investing"
-description: "Explore how top-down and bottom-up investing strategies differ and how algorithmic trading is revolutionizing investment practices for better decision-making."
+title: Comparing Top-Down And Bottom-Up Investing Approaches
+description: Top-down and bottom-up investing guide shows how to analyze the economy
+  and individual companies for informed portfolio decisions Discover more inside.
 ---
 
 

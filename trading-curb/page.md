@@ -1,6 +1,7 @@
 ---
-title: "Trading curb"
-description: Trading curbs, or circuit breakers, are vital mechanisms in financial markets designed to temporarily halt trading when significant price declines occur. These systems help maintain market stability during extreme volatility by preventing panic selling and allowing time for traders to assess information and make informed decisions. Circuit breakers are activated at set threshold levels, as seen on the NYSE with declines of 7%, 13%, and 20%. They provide necessary pause to facilitate orderly trading and protect investors from hasty market reactions, playing a crucial role in financial regulation and market integrity.
+title: Understanding Trading Curbs and Stock Market Circuit Breakers
+description: Trading curbs halt market trading during steep stock drops to curb panic
+  selling and give investors time to make informed decisions Discover more inside.
 ---
 
 

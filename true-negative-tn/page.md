@@ -1,7 +1,7 @@
 ---
-title: Understanding True Negatives in Machine Learning Models
-description: True Negatives measure how well a model rules out unwanted cases to improve
-  specificity and reduce false alarms in spam detection. Discover more inside.
+title: Understanding True Negatives In Machine Learning Models
+description: True negatives in machine learning show how models rule out unwanted
+  cases boost specificity and strengthen confidence in decisions Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Terrence A. Duffy and CME Group"
-description: "Discover the impact of Terrence A. Duffy's leadership on CME Group's rise in algorithmic trading and global derivatives market advancements."
+title: Terrence A. Duffy Leadership Elevates CME Group Innovation
+description: Terrence A. Duffy strategic leadership drives CME Group growth through
+  advanced trading technology and market transparency. Discover more inside.
 ---
 
 

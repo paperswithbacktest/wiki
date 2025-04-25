@@ -1,6 +1,7 @@
 ---
-title: "Troubled Asset Relief Program: Overview and Mechanism"
-description: "Explore the Troubled Asset Relief Program's pivotal role in stabilizing the 2008 financial sector, its link to algorithmic trading, and its lasting regulatory impact."
+title: Troubled Asset Relief Program Explained for Financial Stability
+description: Troubled Asset Relief Program shows how Treasury stabilizes banks and
+  restores lending after 2008 crisis ensuring economic recovery Discover more inside.
 ---
 
 

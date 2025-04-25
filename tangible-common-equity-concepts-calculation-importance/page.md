@@ -1,6 +1,7 @@
 ---
-title: "Tangible Common Equity: Concepts, Calculation, and Importance"
-description: "Explore the concepts, calculations, and importance of Tangible Common Equity in algorithmic trading. Learn how TCE aids in precise financial decision-making."
+title: Understanding Tangible Common Equity Definition and Calculation
+description: Tangible Common Equity shows a banks real core capital by excluding intangibles
+  and preferred equity to assess its solidity. Discover more inside.
 ---
 
 

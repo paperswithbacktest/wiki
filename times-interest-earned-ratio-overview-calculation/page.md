@@ -1,6 +1,7 @@
 ---
-title: "Times Interest Earned Ratio: Overview and Calculation"
-description: "Explore how the Times Interest Earned (TIE) ratio is crucial in assessing a company's debt obligations and its integration into algorithmic trading strategies."
+title: Understanding Times Interest Earned Ratio for Financial Health
+description: Times Interest Earned Ratio shows how effectively a company covers interest
+  expenses and evaluates its financial stability Discover more inside.
 ---
 
 

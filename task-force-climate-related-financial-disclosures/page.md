@@ -1,6 +1,7 @@
 ---
-title: "Task Force on Climate-Related Financial Disclosures"
-description: "Explore the synergy between TCFD climate risk disclosures and algorithmic trading to enhance risk management and optimize strategies in financial markets."
+title: TCFD Climate-Related Financial Disclosures Guide for Investors
+description: TCFD helps companies disclose climate governance strategy and risk metrics
+  so investors can assess risks and opportunities Discover more inside.
 ---
 
 

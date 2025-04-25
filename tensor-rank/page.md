@@ -1,7 +1,7 @@
 ---
-title: Understanding Tensor Rank in Machine Learning Models
-description: Tensor rank reveals data complexity and guides efficient ML models with
-  tensor decomposition and rank approximation to cut overfitting Discover more inside
+title: Tensor Rank Explained for Efficient Machine Learning Models
+description: Tensor rank determines data complexity in machine learning and guides
+  model design to boost efficiency and reduce overfitting Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

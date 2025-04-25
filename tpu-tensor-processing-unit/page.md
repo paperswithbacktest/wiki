@@ -1,6 +1,7 @@
 ---
-title: "TPU (Tensor Processing Unit)"
-description: Discover how Google's Tensor Processing Unit (TPU) is revolutionizing algorithmic trading with its speed, energy efficiency, and seamless integration with TensorFlow. Learn the significance of TPUs in quantitative trading strategies and their impact on market prediction and adaptation. Explore resources for learning more about trading strategies, libraries, datasets, and becoming a successful quant trader.
+title: Understanding Tensor Processing Units Architecture Uses and Setup
+description: Tensor Processing Unit boosts AI and machine learning performance with
+  optimized tensor calculations and efficient model training Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Top Coffee-Producing Countries"
-description: "Discover the top coffee-producing countries and explore how technological advances like algorithmic trading are reshaping the global coffee market."
+title: Top Coffee Producing Countries Brazil Vietnam And Colombia
+description: Top Coffee Producing Countries Brazil Vietnam and Colombia account for
+  over half of global production with region and bean insights Discover more inside
 ---
 
 

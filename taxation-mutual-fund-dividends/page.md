@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Mutual Fund Dividends"
-description: "Explore the complexities of mutual fund dividend taxation, with insights into ordinary, qualified, and capital gains distributions. Enhance returns by understanding tax impacts."
+title: Understanding Mutual Fund Dividend Taxation and Strategies
+description: Mutual fund dividends face varied tax rates based on qualified status
+  and holding period Reduce tax liability with strategic planning Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Temasek Holdings Overview and Operations"
-description: "Explore Temasek Holdings as a global financial powerhouse leveraging diverse investments and algorithmic trading to bolster Singapore's economy and innovation."
+title: Temasek Holdings Investment Strategy and Sustainability
+description: Temasek Holdings manages Singapores global portfolio with a focus on
+  impact investing ESG factors and sustainable growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Taxable Preferred Securities"
-description: "Explore the benefits and risks of taxable preferred securities and how algorithmic trading can optimize investments by enhancing trade efficiency and analysis."
+title: Understanding Taxable Preferred Securities for Steady Income
+description: Taxable Preferred Securities provide fixed income with priority payouts
+  while balancing tax liabilities and portfolio risk Discover more inside
 ---
 
 

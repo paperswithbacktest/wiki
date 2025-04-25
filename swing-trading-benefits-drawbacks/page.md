@@ -1,6 +1,7 @@
 ---
-title: "Swing Trading: Benefits and Drawbacks"
-description: "Explore the benefits and drawbacks of swing trading and algorithmic trading in this insightful article Discover how these strategies impact modern investors"
+title: 'Swing Trading Strategies: A Complete Guide for Beginners'
+description: Swing trading helps you profit from short term market moves with clear
+  technical strategies and risk management guidance for traders Discover more inside
 ---
 
 

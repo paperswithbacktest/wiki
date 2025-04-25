@@ -1,7 +1,7 @@
 ---
-title: Mastering Synchronous Pipeline Parallel for Faster ML Training
-description: Synchronous Pipeline Parallel accelerates large model training with synchronized
-  stages and micro-batching across multiple devices Discover more inside.
+title: Efficient Large Model Training with Synchronous Pipeline Parallel
+description: Synchronous Pipeline Parallel efficiently accelerates model training
+  across GPUs by synchronizing micro-batches to ensure accuracy Discover more inside
 ---
 
 ![Image](images/1.jpeg)

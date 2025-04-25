@@ -1,6 +1,7 @@
 ---
-title: "Top Vanguard Funds for Value Investing"
-description: "Discover top Vanguard funds ideal for value investing enhanced by algorithmic trading insights Achieve your long-term financial goals with lower costs and strategic growth"
+title: Vanguard Value Funds Guide to Building Your Long Term Portfolio
+description: Vanguard value funds deliver low cost diversified exposure to undervalued
+  stocks and simplify long term value investing Discover more inside.
 ---
 
 

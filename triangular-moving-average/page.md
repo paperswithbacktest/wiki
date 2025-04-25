@@ -1,6 +1,7 @@
 ---
-title: "Triangular Moving Average Explained"
-description: Explore the benefits of the Triangular Moving Average (TMA) in algorithmic trading to enhance your strategies. This comprehensive guide covers TMA’s advanced smoothing abilities and practical applications, helping traders mitigate short-term fluctuations to recognize prolonged market trends. Learn how TMA is calculated and utilized for better trading performance, focusing on its potential advantages for trend-following and mean-reversion strategies. Discover how TMA can clarify underlying market movements and be a valuable tool for making strategic trading decisions based on stable, long-term trends.
+title: Triangular Moving Average Explained for Clear Trend Signals
+description: Triangular Moving Average smooths price data with double averaging to
+  highlight trends and reduce noise for clearer trading decisions Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Temporary Account Policy"
-description: "Explore the essentials of temporary accounts, account policies, and algorithmic trading to enhance financial performance and decision-making in today's markets."
+title: Temporary Account Policy Strategies for Enhanced System Security
+description: Temporary account policy guidelines help you define clear durations access
+  levels and automated closures to protect company systems Discover more inside.
 ---
 
 

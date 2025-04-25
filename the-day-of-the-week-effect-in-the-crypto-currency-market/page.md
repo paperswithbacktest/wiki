@@ -1,6 +1,7 @@
 ---
-title: "The Day of the Week Effect in the Crypto Currency Market"
-description: Explore how the day of the week effect impacts cryptocurrency markets and its implications on trading strategies. This anomaly, often seen in traditional markets, suggests asset returns may vary by weekday. Discover research findings on Bitcoin's Monday effect and understand how such patterns could inform algorithmic trading, offering new ways to strategize in the evolving crypto landscape.
+title: Day of the Week Effect in Cryptocurrency Market Trends
+description: Day of the Week Effect in crypto markets reveals how returns shift on
+  specific weekdays to inform timing of buy and sell decisions Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Comprehensive Overview of Transformer Models in Machine Learning
-description: Transformer models deliver context aware processing and parallel attention
-  in NLP and computer vision with flexible architectures Discover more inside.
+title: Understanding Transformer Models in Machine Learning
+description: Transformer models revolutionize language processing with attention mechanisms
+  to boost accuracy and speed Discover more inside.
 ---
 
 ![Image](images/1.png)

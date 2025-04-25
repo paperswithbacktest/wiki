@@ -1,6 +1,7 @@
 ---
-title: "Top Holdings in Investment Portfolios"
-description: "Explore top holdings in investment portfolios and learn how algorithmic trading enhances portfolio management for optimized risk and rewards."
+title: Top Holdings in Investment Portfolios for Risk Management
+description: Top holdings analysis helps investors manage concentration risk and optimize
+  portfolio asset allocation for balanced growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "What is a Trading Edge?"
-description: Discover the essential concept of a trading edge in the context of algorithmic trading. A trading edge provides traders with a competitive advantage, enhancing win rates and optimizing entry and exit points. Explore how algorithmic trading leverages this edge through automation for precision and speed, minimizing human errors. Learn how to identify and maintain a trading edge, differentiate it from broader strategies, and utilize technology for backtesting and analysis. This article guides you in developing sustainable trading edges, adapting to market dynamics, and achieving success in the competitive trading landscape.
+title: Developing a Sustainable Trading Edge for Long Term Success
+description: Trading edge gives traders an advantage by combining technical analysis
+  fundamental insights and robust risk management Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Topside: Definition, Functionality, and Components"
-description: "Explore the critical components and functionality of algorithmic trading systems that drive trading efficiency from data input and processing to trade execution platforms."
+title: Understanding Offshore Platform Topsides Design and Functions
+description: Offshore platform topside design integrates key equipment accommodation
+  and safety features to optimize operations in harsh marine conditions Discover more
 ---
 
 

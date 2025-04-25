@@ -1,6 +1,7 @@
 ---
-title: "SWIFT"
-description: Discover the power of SWIFT in enhancing algorithmic trading with secure, standardized communication. This leading financial network connects over 11,000 institutions globally, ensuring rapid and accurate trade execution. Enhance your trading efficiency and reduce costs by integrating SWIFT's robust infrastructure with your algorithmic systems for seamless, reliable cross-border transactions.
+title: Understanding SWIFT Network for Secure International Payments
+description: SWIFT network connects banks worldwide with secure encrypted messaging
+  and real time tracking for efficient international transactions Discover more inside
 ---
 
 

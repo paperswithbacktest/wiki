@@ -1,6 +1,7 @@
 ---
-title: "Trending Shares"
-description: "Discover the advantages and challenges of algorithmic trading in today's fast-paced financial markets. Understand how algo-trading leverages sophisticated algorithms for efficient and precise stock market investing, minimizing emotional bias and maximizing speed. Explore the implications for investors and institutions as automation and big data reshape modern finance. Gain insights into the complexities and potential of algo-trading, and learn how automated systems are influencing trade management and execution for better investment outcomes."
+title: Understanding Trending Shares and Practical Investment Strategies
+description: Trending shares spotlight popular stocks with high trading volume Use
+  technical analysis and risk management to trade with confidence Discover more inside.
 ---
 
 

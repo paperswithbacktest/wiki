@@ -1,6 +1,7 @@
 ---
-title: "Trade Act of 1974"
-description: "Discover how the Trade Act of 1974 has shaped U.S. trade policy with provisions protecting industries while promoting international economic engagement."
+title: 'The Trade Act of 1974: Overview of Key Provisions and Impact'
+description: Trade Act of 1974 empowers the president to negotiate fair trade agreements
+  support workers through TAA enforce IP rights Discover more inside.
 ---
 
 

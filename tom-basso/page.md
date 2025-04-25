@@ -1,6 +1,7 @@
 ---
-title: "Tom Basso: A Trading Legend"
-description: Explore the legacy of Tom Basso, 'Mr. Serenity,' in algorithmic trading. Known for his emphasis on psychological insight and risk management, Basso's innovative methods integrate systematic trading with emotional balance. This article investigates into his profound impact on trading practices, highlighting his career, methodologies, and philosophies. Discover how Basso's disciplined approach, automated systems, and focus on investor psychology offer valuable lessons for maintaining an effective, balanced trading strategy today.
+title: Tom Basso Trading Strategies And Trendstat Risk Management
+description: Tom Basso outlines his Trendstat trading program risk management and
+  stop loss rules to guide investors to consistent results Discover more inside
 ---
 
 

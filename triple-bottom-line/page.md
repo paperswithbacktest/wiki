@@ -1,6 +1,7 @@
 ---
-title: "Triple Bottom Line"
-description: "Explore the intersection of CSR, sustainability, business ethics, and algorithmic trading to understand modern strategies for competitive and responsible practices."
+title: Understanding the Triple Bottom Line for Sustainable Success
+description: Triple Bottom Line balances people planet and profit metrics to drive
+  sustainable growth and boost stakeholder confidence Discover more inside.
 ---
 
 

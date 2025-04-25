@@ -1,6 +1,7 @@
 ---
-title: "Total Return Calculation and Examples"
-description: "Learn how total return calculations can enhance algorithmic trading strategies and improve investment performance evaluation by comprehensively measuring returns."
+title: A Comprehensive Understanding of Total Return in Investing
+description: Total Return in investing shows how price changes and income combine
+  to reveal your real gains and risks over time in any market. Discover more inside.
 ---
 
 

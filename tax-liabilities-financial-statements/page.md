@@ -1,6 +1,7 @@
 ---
-title: "Tax Liabilities in Financial Statements"
-description: "Explore the intersection of financial statements, tax liabilities, and algorithmic trading. Learn how accounting methods impact tax strategies and financial performance."
+title: Understanding Tax Liabilities in Company Financial Statements
+description: Tax liabilities define current and deferred obligations of a company
+  on the balance sheet and influence cash flow management Discover more inside.
 ---
 
 

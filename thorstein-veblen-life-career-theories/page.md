@@ -1,6 +1,7 @@
 ---
-title: "Thorstein Veblen: Life, Career, and Theories"
-description: "Explore Thorstein Veblen's theories on conspicuous consumption and their relevance in today's digital economy with a focus on algorithmic trading innovations."
+title: Thorstein Veblen and Conspicuous Consumption in Modern Finance
+description: Conspicuous consumption informs modern finance by revealing how status
+  driven spending and high frequency trading affect markets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Technical Analysis as a Self-Fulfilling Prophecy"
-description: "Explore how technical analysis can act as a self-fulfilling prophecy in algorithmic trading shaping market trends through collective trader behaviors and automated strategies."
+title: Understanding Self-Fulfilling Prophecies in Technical Analysis
+description: Technical analysis shows how trader actions on chart patterns can trigger
+  self-fulfilling prophecies and influence markets, discover more inside
 ---
 
 

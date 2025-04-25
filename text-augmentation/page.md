@@ -1,7 +1,7 @@
 ---
-title: Text Augmentation Techniques and Benefits for Machine Learning
-description: Text augmentation enhances training datasets by generating diverse sentence
-  variations using synonym replacement and back translation Discover more inside
+title: Text Augmentation Techniques for Robust Natural Language Models
+description: Text augmentation creates diverse training examples that boost model
+  accuracy and flexibility in natural language processing tasks. Discover more inside.
 ---
 
 ![Image](images/1.png)

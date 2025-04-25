@@ -1,6 +1,7 @@
 ---
-title: "Taxation of ETF Dividends"
-description: "Explore the complexities of ETF dividend taxation and discover how algorithmic trading can optimize your investment strategy to enhance returns and reduce risks."
+title: ETF Dividend Taxation and Strategies for Tax-Efficient Investing
+description: ETF dividend taxation affects your returns with qualified and non-qualified
+  rates and offers strategic reinvestment options for growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Trailer Fees: Mechanism, Advantages, and Disadvantages"
-description: "Explore the intricacies of trailer fees in algo trading, including their mechanism, advantages, and drawbacks, to make informed investment decisions."
+title: Understanding Trailer Fees in Mutual Fund Investments
+description: Trailer fees in mutual fund investments explain how advisor commissions
+  work and affect costs and performance discover more inside
 ---
 
 

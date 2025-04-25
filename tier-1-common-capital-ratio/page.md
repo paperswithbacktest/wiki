@@ -1,6 +1,7 @@
 ---
-title: "Tier 1 Common Capital Ratio"
-description: "Explore the synergy between Tier 1 Common Capital Ratios and algorithmic trading in banking. Understand key regulatory impacts and financial resilience dynamics."
+title: Understanding the Tier 1 Common Capital Ratio and Its Impact
+description: Tier 1 Common Capital Ratio assesses banks core equity versus risk weighted
+  assets to gauge financial resilience and stability Discover more inside
 ---
 
 

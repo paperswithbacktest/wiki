@@ -1,6 +1,7 @@
 ---
-title: "Trade Deficit and Its Market Impact"
-description: "Explore the economic implications of trade deficits and algorithmic trading examining how they influence market dynamics and shape global finance strategies."
+title: Understanding Trade Deficits and Their Economic Impact
+description: Trade deficit impacts currency value domestic industries jobs and inflation
+  and offers policy measures to restore balance Discover more inside
 ---
 
 

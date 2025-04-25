@@ -1,6 +1,7 @@
 ---
-title: "Tomorrow Next"
-description: "Explore the impact of algorithmic trading in forex markets, offering insights on leveraging innovations to enhance strategies, boost efficiency, and minimize errors."
+title: Understanding TOM/NEXT Forex Settlement for Faster Trading
+description: TOM/NEXT forex transactions streamline currency delivery two days after
+  trade to reduce liquidity costs and avoid extra holding fees Discover more inside
 ---
 
 

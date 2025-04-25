@@ -1,6 +1,7 @@
 ---
-title: "Trilemma in Economics: Definition and Examples"
-description: "Explore the intersection of trilemma economics and algorithmic trading, revealing how economic theories influence modern financial strategies and market dynamics."
+title: Exploring the Economic Trilemma in International Monetary Policy
+description: Economic trilemma shows why countries must pick two of exchange rate
+  stability free capital movement or independent monetary policy Discover more inside.
 ---
 
 

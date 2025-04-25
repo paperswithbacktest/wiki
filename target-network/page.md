@@ -1,7 +1,7 @@
 ---
-title: Understanding Target Networks in Deep Q Learning Algorithms
-description: Target Network stabilizes deep Q learning by offering slower-updating
-  targets for consistent value estimation and smoother training Discover more inside
+title: Understanding Target Networks in Deep Q Network Training
+description: Target Network stabilizes reinforcement learning by providing consistent
+  targets in DQN training and boosting reliability over time Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,8 @@
 ---
-title: "Text Instance Representations (Machine Learning)"
-description: "Explore various text instance representation techniques in machine learning including bag of words and word embeddings for processing and understanding language."
+title: Text Instance Representation With Fourier Contour Embedding
+description: Text instance representation transforms text shapes into numerical features
+  using Fourier Contour Embedding to enhance handwriting and font analysis Discover
+  more inside.
 ---
 
 ![Image](images/1.jpeg)

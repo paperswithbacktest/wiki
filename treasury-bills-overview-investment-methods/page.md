@@ -1,6 +1,7 @@
 ---
-title: "Treasury Bills: Overview and Investment Methods"
-description: "Discover the intricacies of Treasury Bills (T-Bills) and investment methods with a focus on algo trading. This comprehensive guide explores T-Bills as a secure, short-term investment option, their role in government financing, and their status as a benchmark for risk-free rates. Learn how algorithmic trading enhances T-Bill investment strategies by leveraging technology for efficient trading and risk mitigation. Discover methods to invest in T-Bills via TreasuryDirect or brokerage firms, and understand the auction process including competitive and non-competitive bidding options, to optimize your investment returns in modern financial markets."
+title: 'Treasury Bills Guide: Investing in Secure Short Term Assets'
+description: Treasury Bills deliver safe predictable returns with US government backed
+  short term loans bought at discount and paid at face value Discover more inside.
 ---
 
 

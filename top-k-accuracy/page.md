@@ -1,7 +1,7 @@
 ---
 title: Understanding Top-K Accuracy in Machine Learning Models
-description: Top-K Accuracy measures how often the correct answer appears in models
-  top K predictions and guides model optimization Discover more inside today
+description: Top-K Accuracy offers a flexible way to assess model predictions by checking
+  if correct labels appear in the top K results Discover more inside.
 ---
 
 ![Image](images/1.png)

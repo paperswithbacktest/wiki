@@ -1,6 +1,7 @@
 ---
-title: "Time Series Forecasting"
-description: "Explore time series forecasting in algorithmic trading Discover how traders use historical data to predict future trends and refine strategies to manage risks"
+title: Time Series Forecasting Fundamentals And Methods Explained
+description: Time series forecasting helps businesses predict trends, manage inventory,
+  and apply methods from simple to AI for smarter planning. Discover more inside.
 ---
 
 

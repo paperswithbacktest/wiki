@@ -1,7 +1,7 @@
 ---
-title: Comprehensive Guide to TPU Workers for Machine Learning
-description: TPU Workers accelerate machine learning tasks with hardware optimized
-  for parallel matrix operations for faster training Discover more inside
+title: Tensor Processing Unit Guide for Accelerated Machine Learning
+description: Tensor Processing Unit speeds machine learning with distributed matrix
+  computation on custom hardware and optimizes cloud performance Discover more inside
 ---
 
 ![Image](images/1.png)

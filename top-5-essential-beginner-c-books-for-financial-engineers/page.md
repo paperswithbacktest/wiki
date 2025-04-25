@@ -1,6 +1,7 @@
 ---
-title: "Top 5 Essential Beginner C++ Books for Financial Engineers"
-description: Explore the top 5 essential beginner C++ books for financial engineers focusing on algorithmic trading. Delve into the transformative role of algorithmic trading in finance and discover why C++ is a preferred language for constructing high-performance financial algorithms. Learn about critical C++ features that benefit financial applications and the process of developing trading strategies. This article offers insights into C++'s speed, memory efficiency, and real-time processing capabilities, making it a dominant force in sophisticated trading system development.
+title: Essential C++ Books for Beginner Financial Engineers
+description: C++ for Financial Engineers guides you through essentials from variables
+  to STL and templates for building financial models Discover more inside.
 ---
 
 

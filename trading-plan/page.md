@@ -1,6 +1,7 @@
 ---
-title: "Trading Plan"
-description: "Explore the essentials of algo trading and investment planning in financial markets. Learn how strategies, market dynamics, and technology can optimize your trading and financial goals while understanding risk management and resource allocation."
+title: Comprehensive Guide To Building A Professional Trading Plan
+description: A trading plan provides a clear roadmap for goal setting risk management
+  and market analysis to keep you disciplined and profitable Discover more inside.
 ---
 
 

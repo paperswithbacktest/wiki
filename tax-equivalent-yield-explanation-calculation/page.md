@@ -1,6 +1,7 @@
 ---
-title: "Tax-Equivalent Yield: Explanation and Calculation"
-description: "Explore how bond yield, tax-equivalent yield, and algorithmic trading intersect in investment strategies. Understand their roles in optimizing returns."
+title: Tax-Equivalent Yield Explained for Tax-Free Versus Taxable Bonds
+description: Tax-equivalent yield helps investors compare tax-free municipal bonds
+  to taxable alternatives by calculating after-tax returns. Discover more inside.
 ---
 
 

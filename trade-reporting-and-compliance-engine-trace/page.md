@@ -1,6 +1,7 @@
 ---
-title: "Trade Reporting and Compliance Engine (TRACE)"
-description: "Explore how TRACE revolutionizes trade reporting in algorithmic trading by enhancing transparency, data access, and regulatory compliance within financial markets."
+title: Understanding TRACE Trade Reporting and Compliance Engine
+description: TRACE provides transparent bond trade data to the public so investors
+  can make informed decisions and regulators monitor compliance Discover more inside.
 ---
 
 

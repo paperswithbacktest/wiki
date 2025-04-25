@@ -1,6 +1,8 @@
 ---
-title: "TriOptima (Financial Services)"
-description: "TriOptima leads in post-trade risk management for OTC derivatives, enabling firms to navigate regulatory requirements and enhance capital efficiency."
+title: TriOptima Solutions for Streamlining Derivatives Risk Management
+description: TriOptima trade compression and triResolve tools simplify derivatives
+  risk management for financial institutions while cutting costs and errors Discover
+  more inside
 ---
 
 

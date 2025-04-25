@@ -1,6 +1,7 @@
 ---
-title: "Tokenization in Finance"
-description: "Explore how tokenization and algorithmic trading intersect to innovate finance enhancing liquidity transparency and efficiency through digital assets on blockchain."
+title: Tokenization in Finance Enables Fractional Asset Ownership
+description: Tokenization in finance opens access to high value assets through secure
+  fractional digital tokens and transparent blockchain trading Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Theory of the Firm in Economics"
-description: "Explore the interplay between Theory of the Firm and algorithmic trading in economics highlighting how tech and economic principles guide strategic business decisions."
+title: Understanding the Theory of the Firm in Modern Economics
+description: Theory of the Firm explores how businesses decide between producing in-house
+  or outsourcing components based on costs and efficiency Discover more inside.
 ---
 
 

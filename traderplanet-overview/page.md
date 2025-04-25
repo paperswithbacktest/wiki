@@ -1,6 +1,7 @@
 ---
-title: "TraderPlanet Overview"
-description: "Explore the evolving world of algo trading and platforms like TraderPlanet essential for navigating modern financial markets and achieving investment success."
+title: TraderPlanet Trading Community for Beginners and Experts
+description: TraderPlanet connects traders with tutorials market insights and simulation
+  tools to help beginners and pros trade confidently Discover more inside.
 ---
 
 

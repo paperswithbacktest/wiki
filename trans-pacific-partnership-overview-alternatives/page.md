@@ -1,6 +1,7 @@
 ---
-title: "Trans-Pacific Partnership: Overview and Alternatives"
-description: "Explore the rise and fall of the Trans-Pacific Partnership and its alternatives Discover how algorithmic trading influences global trade agreements today"
+title: Trans-Pacific Partnership And CPTPP Trade Agreement Overview
+description: Trans-Pacific Partnership details how members lowered tariffs set common
+  rules on labor environment and IP to boost trade growth. Discover more inside
 ---
 
 

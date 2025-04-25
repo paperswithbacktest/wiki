@@ -1,6 +1,7 @@
 ---
-title: "Trading rules"
-description: Discover the essential trading rules for algorithmic trading to enhance efficiency and accuracy in your trading strategies. Learn how algorithmic trading leverages computer algorithms to execute trades automatically based on predefined conditions, eliminating emotional biases and capturing market opportunities with speed and precision. Explore the structured framework that guides trade executions systematically, ensuring consistency and optimizing strategies while managing risks. Understand the application of trading rules, such as backtesting and risk management, to refine strategies and stay competitive in the dynamic financial markets environment.
+title: Essential Trading Guide For Beginners And Experienced Traders
+description: Trading made clear from basics to advanced strategies with risk management
+  tips and analysis insights for beginners and pros Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Time-of-Day Order: Overview and Mechanism"
-description: "Learn how time-of-day orders and algorithmic trading strategies can optimize trade execution by capitalizing on predictable trading patterns and market inefficiencies."
+title: Time-of-Day Orders Explained for Precise Stock Trading
+description: Time-of-day orders let you schedule stock trades at specific times to
+  act on news and events while managing risk and time efficiently. Discover more inside.
 ---
 
 

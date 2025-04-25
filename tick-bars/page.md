@@ -1,6 +1,7 @@
 ---
-title: "Tick bars"
-description: Explore the fascinating impact of tick bars on algorithmic trading strategies, offering a unique, transaction-focused approach to market analysis that enhances trading precision and efficiency. Discover how tick bars differ from traditional time-based charts by recording trades based on transaction count, providing a clearer perspective on market dynamics without time constraints. Understand their advantages, limitations, and how they can unlock potential in trading strategies through reduced noise and improved signal generation, essential for developing robust trading algorithms tailored to specific market conditions.
+title: Understanding Tick Bars for Market Activity and Volatility
+description: Tick bars show market activity by forming bars based on trade count instead
+  of time intervals giving traders clearer volume signals. Discover more inside
 ---
 
 

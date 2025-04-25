@@ -1,6 +1,7 @@
 ---
-title: "systemic risk"
-description: "Algorithmic trading, while revolutionizing markets with speed and efficiency, also introduces systemic risks. These risks are crucial for institutions and regulators to address."
+title: Understanding Systemic Risk in the Global Financial System
+description: Systemic risk threatens financial stability but proactive regulation
+  and stress testing help prevent widespread crises Discover more inside now
 ---
 
 

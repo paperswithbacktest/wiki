@@ -1,6 +1,7 @@
 ---
-title: "Trading Halt: Overview, Mechanisms, and Causes"
-description: "Discover the role of trading halts in stabilizing markets during rapid price changes and their impact on algorithmic trading. Essential reading for traders."
+title: Exploring Trading Halts Mechanisms And Market Impact
+description: Trading halts provide a structured pause during significant news or volatility
+  to ensure market stability and fairness. Discover more inside.
 ---
 
 

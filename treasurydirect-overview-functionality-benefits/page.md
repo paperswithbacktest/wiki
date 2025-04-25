@@ -1,6 +1,7 @@
 ---
-title: "TreasuryDirect: Overview, Functionality, and Benefits"
-description: "Unlock the potential of TreasuryDirect and algorithmic trading Explore how to efficiently invest in U.S. Treasury securities and enhance bond strategies for better returns"
+title: Using TreasuryDirect For Investing In U.S. Government Securities
+description: TreasuryDirect enables investors to buy and manage U.S. government securities
+  directly with no fees on a secure user friendly platform Discover more inside
 ---
 
 

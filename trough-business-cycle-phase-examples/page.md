@@ -1,6 +1,7 @@
 ---
-title: "Trough in the Business Cycle: Phase Examples"
-description: "Explore how understanding the business cycle, particularly the trough phase, can enhance algorithmic trading strategies, unlocking investment opportunities during economic recoveries."
+title: Identifying Troughs in the Business Cycle for Economic Recovery
+description: Business cycle trough signals like rising GDP and falling unemployment
+  reveal turning points and guide policy responses. Discover more inside.
 ---
 
 

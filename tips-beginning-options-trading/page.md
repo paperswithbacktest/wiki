@@ -1,6 +1,7 @@
 ---
-title: "Tips for Beginning Options Trading"
-description: "Discover essential tips and strategies for beginning options trading with a focus on leveraging algo trading to enhance your investment potential and returns."
+title: Essential Options Trading Guide For Beginners And Beyond
+description: Options trading demystified with clear explanations of calls puts strategies
+  risk management and step by step tips for low cost entry Discover more inside
 ---
 
 

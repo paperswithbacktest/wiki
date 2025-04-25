@@ -1,6 +1,7 @@
 ---
-title: "Tax-Loss Harvesting for Individual Investors"
-description: "Explore tax-loss harvesting for individual investors with algorithmic trading strategies enhancing tax efficiency while staying compliant with regulations."
+title: Effective Tax-Loss Harvesting Strategies for Individual Investors
+description: Tax-loss harvesting helps investors reduce taxes by selling underperforming
+  assets and offsetting gains while complying with IRS rules Discover more inside
 ---
 
 

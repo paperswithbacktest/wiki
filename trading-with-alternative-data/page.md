@@ -1,6 +1,7 @@
 ---
-title: "Trading with Alternative Data"
-description: "Unlock trading potential with alternative data in algo trading Gain deeper market insights and an edge by incorporating non-traditional data sources like social media "
+title: Harnessing Alternative Data for Smarter Trading Strategies
+description: Alternative data unlocks unique market insights from sources like satellite
+  imagery and social media for better trading decisions Discover more inside
 ---
 
 

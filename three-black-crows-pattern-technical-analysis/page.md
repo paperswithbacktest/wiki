@@ -1,6 +1,7 @@
 ---
-title: "Three Black Crows Pattern in Technical Analysis"
-description: "Explore the Three Black Crows candlestick pattern used in technical analysis and algo trading Learn how to identify it and apply it to optimize trades"
+title: Three Black Crows Candlestick Pattern for Market Reversal
+description: Three Black Crows pattern signals bearish reversals. Traders confirm
+  shifts with volume and moving averages to time sells. Discover more inside
 ---
 
 

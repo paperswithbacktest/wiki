@@ -1,7 +1,7 @@
 ---
-title: Understanding TPU Slice Architecture for Efficient Model Training
-description: TPU Slice boosts deep learning by using matrix multiply units and high
-  bandwidth memory for faster energy efficient model training Discover more inside.
+title: Understanding TPU Slice Architecture And Machine Learning Use
+description: TPU Slice speeds deep learning training with matrix multiply units and
+  high bandwidth memory for efficient performance on Google Cloud Discover more inside
 ---
 
 ![Image](images/1.png)

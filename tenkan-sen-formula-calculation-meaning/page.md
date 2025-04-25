@@ -1,6 +1,7 @@
 ---
-title: "Tenkan-Sen: Formula, Calculation, and Meaning"
-description: "Explore Tenkan-Sen's impact on algorithmic trading Discover its calculation method and significance in optimizing trading strategies through the Ichimoku Cloud system"
+title: Understanding Tenkan-Sen Line in Ichimoku Technical Analysis
+description: Tenkan-Sen signals short term momentum and helps traders pinpoint optimal
+  entry and exit points in the Ichimoku system Discover more inside.
 ---
 
 

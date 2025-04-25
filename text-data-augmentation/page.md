@@ -1,7 +1,7 @@
 ---
-title: Text Data Augmentation Techniques for Machine Learning Models
-description: Text Data Augmentation expands your dataset by creating varied versions
-  of text to improve model accuracy, robustness and balance Discover more inside.
+title: Effective Text Data Augmentation Techniques for Machine Learning
+description: Text data augmentation strengthens models by generating varied text samples
+  that improve accuracy and robustness across NLP tasks Discover more inside.
 ---
 
 ![Image](images/1.png)

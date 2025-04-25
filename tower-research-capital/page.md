@@ -1,6 +1,7 @@
 ---
-title: "Tower Research Capital"
-description: "Explore Tower Research Capital's rise in algorithmic trading since 1998 with innovative strategies focused on speed precision and advanced technology."
+title: Tower Research Capital Market Making and Technology Leader
+description: Tower Research Capital uses advanced computer algorithms to ensure seamless
+  market making and efficient trading for financial products Discover more inside
 ---
 
 

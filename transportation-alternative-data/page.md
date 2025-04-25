@@ -1,6 +1,7 @@
 ---
-title: "Transportation Alternative Data"
-description: Discover how transportation alternative data is transforming algorithmic trading strategies by providing traders with unique insights into logistics and economic activities. Explore how data from sources like satellite imagery and GPS tracking is leveraged to enhance financial analysis, enabling more informed investment decisions and offering a competitive edge in the competitive financial markets.
+title: Transportation Alternative Data for Effective Urban Planning
+description: Transportation alternative data delivers real time insights on walking
+  biking and rideshare trends to shape urban planning Discover more inside
 ---
 
 

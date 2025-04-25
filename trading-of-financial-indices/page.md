@@ -1,6 +1,7 @@
 ---
-title: "Trading of Financial Indices"
-description: "Explore the world of financial indices and algorithmic trading. Learn how indices like the S&P 500 and NASDAQ serve as market benchmarks and how algo trading transforms market execution with automation and speed. Understand how the integration of these elements offers benefits like enhanced efficiency, improved risk management, and optimized strategies for investors. Dive into the evolving landscape where trading of financial indices through algorithms promises a more effective trading environment."
+title: Comprehensive Guide to Trading Financial Indices for Investors
+description: Financial indices help investors track market trends and trade futures
+  options index funds and ETFs using basic to advanced strategies Discover more inside
 ---
 
 

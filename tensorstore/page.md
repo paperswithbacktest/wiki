@@ -1,7 +1,7 @@
 ---
-title: Tensorstore Data Management for Large-Scale Machine Learning
-description: Tensorstore simplifies multi-dimensional data management across cloud
-  storage to accelerate large-scale machine learning workflows Discover more inside
+title: Efficient Tensorstore Data Management for Machine Learning
+description: Tensorstore simplifies handling large multi-dimensional datasets with
+  fast chunked storage versioning and ML integration Discover more inside
 ---
 
 ![Image](images/1.gif)

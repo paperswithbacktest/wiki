@@ -1,7 +1,7 @@
 ---
 title: Understanding Textual Meaning Extraction in Machine Learning
-description: Textual meaning in machine learning uses NLP and algorithms to extract
-  and interpret key insights from text at scale and speed Discover more inside.
+description: Textual meaning in machine learning explores how NLP and algorithms transform
+  text into actionable insights for sentiment, topics and entities Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Trading Plans: Mechanisms, Rules, and Examples"
-description: "Explore trading plans as critical tools in algorithmic trading with this detailed guide on mechanisms and rules Learn how to optimize your investment strategies"
+title: Building a Comprehensive Trading Plan for Consistent Success
+description: Trading plan empowers you to set goals, allocate risk, manage entries
+  and exits and adjust strategies for disciplined growth Discover more inside.
 ---
 
 

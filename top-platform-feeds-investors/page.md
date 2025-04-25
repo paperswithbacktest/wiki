@@ -1,6 +1,7 @@
 ---
-title: "Top Platform Feeds for Investors"
-description: "Discover top platforms and feeds for investors focused on algo trading Utilize modern investment tools to access real-time data make informed decisions and stay competitive"
+title: 'Platform Feeds for Investors: How Real Time Data Drives Decisions'
+description: Platform feeds deliver real time data news and expert analysis so investors
+  can identify trends and make informed decisions fast. Discover more inside
 ---
 
 

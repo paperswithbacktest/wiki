@@ -1,6 +1,7 @@
 ---
-title: "Trade-Weighted Dollar: Overview and Mechanism"
-description: "Explore the trade-weighted dollar's role in currency valuation and algorithmic trading for enhanced financial strategies and insights into global markets."
+title: Understanding the Trade-Weighted Dollar and Its Impact on Exports
+description: Trade-weighted dollar reveals US currency strength against top trading
+  partners guiding export pricing and import costs Discover more inside.
 ---
 
 

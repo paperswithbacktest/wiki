@@ -1,6 +1,7 @@
 ---
-title: "Terms of Trade: Indicator and Influencing Factors"
-description: "Explore the intricate dynamics of international trade through terms of trade indicators and algorithmic trading Discover how these factors shape global markets"
+title: Understanding Terms of Trade and Their Economic Impact
+description: Terms of Trade determine how much a country gains from exports versus
+  imports and guide policy to boost economic growth Discover more inside
 ---
 
 

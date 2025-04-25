@@ -1,6 +1,7 @@
 ---
-title: "Theta in Options Trading"
-description: "Discover the role of Theta in options trading and how algorithmic strategies leverage time decay to enhance portfolio performance and manage risks."
+title: Understanding Theta Time Decay in Options Trading Strategies
+description: Theta in options trading shows time decay effects so you can manage risk
+  and adjust strategies for covered calls and calendar spreads Discover more inside.
 ---
 
 

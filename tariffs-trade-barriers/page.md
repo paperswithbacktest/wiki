@@ -1,6 +1,7 @@
 ---
-title: "Tariffs and Trade Barriers"
-description: "Explore how trade barriers and tariffs impact algorithmic trading posing both challenges and opportunities in global markets by influencing economic variables."
+title: Understanding Tariffs And Trade Barriers In Global Markets
+description: Trade barriers show how tariffs quotas and non-tariff measures protect
+  local industries influence global commerce and market dynamics discover more inside
 ---
 
 

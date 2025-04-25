@@ -1,6 +1,7 @@
 ---
-title: "Top Dividend Indexes"
-description: "Explore top dividend indexes with insights on dividend investing index funds and algo trading to build a robust investment portfolio with steady income and growth."
+title: Understanding Dividend Index Investing for Steady Income Growth
+description: Dividend index investing delivers steady income by tracking dividend-paying
+  companies to enhance returns and reduce portfolio risk Discover more inside
 ---
 
 

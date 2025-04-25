@@ -1,6 +1,7 @@
 ---
-title: "Two-moment decision model"
-description: "Explore the two-moment decision model in algorithmic trading focusing on mean and variance to optimize investment strategies by balancing risk and reward."
+title: Understanding the Two-Moment Decision Model in Finance
+description: Two-moment decision model evaluates choices by balancing expected value
+  and risk in financial decisions for smarter investment results Discover more inside
 ---
 
 

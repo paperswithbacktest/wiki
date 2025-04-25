@@ -1,6 +1,7 @@
 ---
-title: "TMT & Entertainment Alternative Data"
-description: Explore the transformative impact of alternative data from the TMT and Entertainment sectors in algorithmic trading. Discover how traders leverage non-conventional datasets for unique insights and early trend detection to enhance predictive models and gain a competitive edge.
+title: Alternative Data Strategies for TMT and Entertainment Firms
+description: Alternative data helps TMT and entertainment companies gain insights
+  from social media and web traffic to refine decision making Discover more inside
 ---
 
 

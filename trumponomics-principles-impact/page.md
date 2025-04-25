@@ -1,6 +1,8 @@
 ---
-title: "Trumponomics: Principles and Impact"
-description: "Explore the impact of Trumponomics on financial markets and algorithmic trading during Trump's presidency focusing on tax reforms and trade policies."
+title: Trumponomics Explained Economic Policies Tax Cuts Tariffs Impact
+description: Trumponomics reshaped US growth through tax cuts deregulation and tariffs
+  boosting jobs and market activity while raising national debt and deficit Discover
+  more inside.
 ---
 
 

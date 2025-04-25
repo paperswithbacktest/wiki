@@ -1,6 +1,7 @@
 ---
-title: "Tick Size in Trading"
-description: "Explore the crucial role of tick size in trading and its impact on market liquidity, pricing, and algorithmic strategies in evolving financial markets."
+title: Understanding Tick Size and Its Impact on Market Trading
+description: Tick size shapes price movement and liquidity in markets by defining
+  minimum price increments and influencing trading strategies Discover more inside.
 ---
 
 

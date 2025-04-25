@@ -1,6 +1,7 @@
 ---
-title: "Treynor Ratio: Definition and Calculation Formula"
-description: "Explore the significance of the Treynor Ratio in algorithmic trading with insights into risk-adjusted returns and its application in optimizing investment strategies."
+title: Understanding the Treynor Ratio for Risk-Adjusted Returns
+description: Treynor Ratio quantifies how much excess return you earn per unit of
+  market risk guiding smarter portfolio choices Discover more inside Start today
 ---
 
 

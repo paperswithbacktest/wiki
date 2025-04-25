@@ -1,6 +1,7 @@
 ---
-title: "Trading ideas"
-description: Explore the world of algorithmic trading with insights into effective strategies that enhance trading efficiency and risk management. Learn how cutting-edge algorithms automate trade execution, refine decision-making, and optimize portfolio performance in modern financial markets.
+title: Complete Trading Guide For Beginners And Experienced Traders
+description: Trading beginners to experts get a clear overview of market types tools
+  strategies and risk controls in one comprehensive guide Discover more inside.
 ---
 
 

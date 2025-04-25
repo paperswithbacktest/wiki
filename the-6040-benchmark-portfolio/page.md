@@ -1,6 +1,8 @@
 ---
-title: "The 60/40 Benchmark Portfolio Explained"
-description: Discover how the 60/40 benchmark portfolio guides algorithmic trading, blending traditional asset allocation with modern algo strategies for optimal performance. Learn about the importance of this benchmark in strategy evaluation and decision-making within dynamic financial markets.
+title: Understanding The 60/40 Portfolio As An Investment Benchmark
+description: 60/40 portfolio provides a balanced benchmark with growth stability and
+  actionable rebalancing rules backed by historical performance insights Discover
+  more inside
 ---
 
 

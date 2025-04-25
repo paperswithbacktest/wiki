@@ -1,7 +1,7 @@
 ---
-title: Machine Learning Trajectory Prediction and Social Interaction
-description: Trajectory prediction uses past movement data to forecast future paths
-  of vehicles and pedestrians with social context analysis Discover more inside.
+title: Trajectory Prediction Models in Machine Learning Explained
+description: Trajectory prediction uses past movement data and models like Social-STGCNN
+  and OOSTraj to forecast future paths accurately Discover more inside.
 ---
 
 ![Image](images/1.png)

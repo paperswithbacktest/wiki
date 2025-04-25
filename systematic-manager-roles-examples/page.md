@@ -1,6 +1,7 @@
 ---
-title: "Systematic Manager: Roles and Examples"
-description: "Explore the transformative role of systematic managers in algorithmic trading using data-driven strategies to enhance efficiency reduce human error and optimize returns"
+title: Systematic Management in Algorithmic Trading and Investing
+description: Systematic management uses data-driven rules and algorithms to optimize
+  trading strategies and reduce emotional risk exposure Discover more inside
 ---
 
 

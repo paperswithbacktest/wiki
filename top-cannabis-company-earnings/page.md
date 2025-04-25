@@ -1,6 +1,7 @@
 ---
-title: "Top Cannabis Company Earnings"
-description: "Explore top cannabis company earnings and the role of algorithmic trading in this dynamic sector to gain insights into financial trends and industry strategies."
+title: Cannabis Company Earnings And Financial Performance Analysis
+description: Cannabis company earnings show revenue growth cost management and future
+  outlook for top operators in a dynamic regulatory market Discover more inside.
 ---
 
 

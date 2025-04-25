@@ -1,6 +1,7 @@
 ---
-title: "Time Value of Money and U.S. Dollar"
-description: "Explore the synergy of Time Value of Money and algorithmic trading to optimize financial strategies enhance portfolio management and improve return prospects."
+title: Understanding the Time Value of Money and US Dollar Valuation
+description: Time Value of Money helps you assess present versus future cash flows
+  accounting for inflation interest rates and dollar strength Discover more inside.
 ---
 
 

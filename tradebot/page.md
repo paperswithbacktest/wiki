@@ -1,6 +1,7 @@
 ---
-title: "Tradebot"
-description: "Discover the transformative world of algorithmic trading with Tradebots that execute trades with precision. Learn about types, benefits, and challenges of algo trading."
+title: Comprehensive Overview of Tradebots in Algorithmic Trading
+description: Tradebot solutions automate trading with precise algorithms real time
+  data feeds and risk controls to adapt to market shifts. Discover more inside.
 ---
 
 

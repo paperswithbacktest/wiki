@@ -1,6 +1,7 @@
 ---
-title: "Treasury Note: Maturities and Purchasing"
-description: "Explore the complexities of Treasury notes in this guide and discover how algorithmic trading optimizes bond investments by enhancing returns and reducing risks."
+title: Understanding Treasury Notes A Guide to Safe Government Investing
+description: Treasury notes offer secure fixed interest from 2 to 10 years with a
+  100 dollar minimum exempt from state taxes with simple auctions Discover more inside
 ---
 
 

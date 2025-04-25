@@ -1,7 +1,7 @@
 ---
-title: Tensor Processing Units Boost Machine Learning Performance
-description: Tensor Processing Units accelerate AI tasks by optimizing tensor operations
-  for faster training and inference across large datasets. Discover more inside.
+title: Understanding Tensor Processing Units and Their Advantages
+description: Tensor Processing Units speed up AI by handling large tensor workloads
+  with memory and systolic arrays for faster model training Discover more inside
 ---
 
 ![Image](images/1.jpeg)

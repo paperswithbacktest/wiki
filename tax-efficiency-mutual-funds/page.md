@@ -1,6 +1,7 @@
 ---
-title: "Tax Efficiency of Mutual Funds"
-description: "Discover how mutual funds and algo trading optimize tax efficiency to boost after-tax returns Provide insights on strategic tax management for investors"
+title: Mutual Fund Tax Efficiency Strategies for Investors
+description: Mutual fund tax efficiency helps investors lower liabilities by reducing
+  taxable events through smart fund choices and strategies Discover more inside
 ---
 
 

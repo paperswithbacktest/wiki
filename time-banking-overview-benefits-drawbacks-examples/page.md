@@ -1,6 +1,7 @@
 ---
-title: "Time Banking: Overview, Benefits and Drawbacks, Examples"
-description: "Explore the evolution of trading systems from barter to time banking and algorithmic trading Discover the benefits and challenges of these diverse methods"
+title: 'Time Banking: Building Community Through Skill Exchange'
+description: Time banking enables neighbors to trade skills by the hour to save money
+  build trust grow local support and strengthen community bonds Discover more inside
 ---
 
 

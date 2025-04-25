@@ -1,7 +1,7 @@
 ---
-title: Advanced Temporal Convolutions for Time Series Modeling
-description: Temporal Convolutions capture long-range time-series patterns with causal,
-  dilated and gated filters for accurate forecasts Discover more inside.
+title: Understanding Temporal Convolutions for Sequence Modeling
+description: Temporal Convolutions enable efficient time series modeling by capturing
+  long-range dependencies and real-time patterns across sequences Discover more inside
 ---
 
 ![Image](images/1.png)

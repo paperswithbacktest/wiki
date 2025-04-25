@@ -1,7 +1,7 @@
 ---
-title: Tensor Processing Units Architecture Use Cases And Performance
-description: TPU speeds up machine learning by optimizing matrix multiplications for
-  faster training and scalable inference across data centers. Discover more inside.
+title: Guide to Tensor Processing Units for Machine Learning
+description: Tensor Processing Unit accelerates machine learning tasks by optimizing
+  matrix operations memory throughput and scalability Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

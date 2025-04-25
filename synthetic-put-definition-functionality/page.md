@@ -1,6 +1,7 @@
 ---
-title: "Synthetic Put: Definition and Functionality"
-description: "Discover the power of synthetic puts in options trading Learn how these innovative strategies and algorithmic trading can optimize risk management and performance"
+title: Comprehensive Guide To Synthetic Put Options For Investors
+description: Synthetic put options let investors protect stocks by combining put purchases
+  with call sales to offset costs and limit losses Discover more inside
 ---
 
 

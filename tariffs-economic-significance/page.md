@@ -1,6 +1,7 @@
 ---
-title: "Tariffs and Their Economic Significance"
-description: "Explore the significance of tariffs and algorithmic trading in global markets understanding their effects on economic stability and strategies to navigate challenges."
+title: Tariffs Shaping Trade Prices and Domestic Industries
+description: Tariffs raise import prices to protect local industries reshape supply
+  chains and generate revenue yet risk trade tensions Discover more inside
 ---
 
 

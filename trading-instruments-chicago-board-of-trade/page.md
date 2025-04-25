@@ -1,6 +1,7 @@
 ---
-title: "Trading Instruments on the Chicago Board of Trade"
-description: "Explore the Chicago Board of Trade's trading instruments and the evolution of algorithmic trading in financial markets a blend of tradition and innovation."
+title: Trading Instruments and Strategies on the Chicago Board of Trade
+description: Chicago Board of Trade guide explains futures options hours margin and
+  risk management for agriculture to bonds and global markets Discover more inside
 ---
 
 

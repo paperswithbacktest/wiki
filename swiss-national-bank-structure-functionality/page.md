@@ -1,6 +1,7 @@
 ---
-title: "Swiss National Bank: Structure and Functionality"
-description: "Explore the Swiss National Bank's pivotal role in monetary policy and its complex interaction with algorithmic trading affecting global economic stability."
+title: An In-Depth Guide to the Swiss National Bank Roles and Functions
+description: Swiss National Bank oversees monetary supply interest rates currency
+  stability and financial system health through policy tools Discover more inside
 ---
 
 

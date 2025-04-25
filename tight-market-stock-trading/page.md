@@ -1,6 +1,7 @@
 ---
-title: "Tight Market in Stock Trading"
-description: "Explore the intersection of tight stock markets and algorithmic trading leveraging AI for swift decision-making identifying short-term financial opportunities."
+title: Understanding Tight Markets in Stock Trading for Investors
+description: Tight market conditions mean narrow bid ask spreads Use limit orders
+  and diversification to manage risk for small gains Discover more inside
 ---
 
 

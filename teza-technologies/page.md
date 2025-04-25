@@ -1,6 +1,7 @@
 ---
-title: "Teza Technologies"
-description: "Discover how Teza Technologies is revolutionizing algorithmic trading with innovative strategies and cutting-edge technology for enhanced market efficiency."
+title: Teza Technologies Algorithmic Trading and Technology Insights
+description: Teza Technologies uses algorithmic trading platforms to analyze market
+  data and optimize stock trades in real time for clients Discover more inside
 ---
 
 

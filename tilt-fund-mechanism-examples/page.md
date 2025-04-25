@@ -1,6 +1,7 @@
 ---
-title: "Tilt Fund: Mechanism and Examples"
-description: "Discover how tilt funds and algorithmic trading can optimize your investment strategy by enhancing returns and managing risk effectively in dynamic markets."
+title: Optimizing Portfolios With Tilt Funds and Algorithmic Trading
+description: Tilt funds and algorithmic trading help investors optimize portfolios
+  by combining targeted factor tilts with automated execution Discover more inside
 ---
 
 In the complex world of finance, understanding different investment mechanisms is crucial for investors looking to optimize their portfolios. Investors continuously seek strategies that can enhance returns and manage risk effectively. Tilt funds and algorithmic trading represent sophisticated strategies often employed to achieve these goals.

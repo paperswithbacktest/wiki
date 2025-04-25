@@ -1,6 +1,7 @@
 ---
-title: "Time bars"
-description: Explore the importance of time bars in algorithmic trading to gain a competitive edge. Time bars aggregate market data over fixed periods such as minutes or hours, aiding trend analysis and decision-making. This article investigates into their role in trading strategies, highlights their advantages in simplifying data analysis, and discusses limitations in volatile markets. Understand how time bars contribute to precise and consistent market evaluation for sound strategic decisions.
+title: Understanding Time Bars in Project Management and Trading
+description: Time Bars visualize project timelines and trading price movements to
+  simplify data analysis and improve decision making. Discover more inside.
 ---
 
 

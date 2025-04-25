@@ -1,6 +1,7 @@
 ---
-title: "Trillion-Dollar Coin: Concept and Applications"
-description: "Explore the trillion-dollar coin concept its role in addressing debt ceiling issues and potential impacts on economic strategy and algorithmic trading systems."
+title: Understanding the Trillion-Dollar Coin and Its Economic Impact
+description: Trillion-dollar coin idea explains legal authority and economic impact
+  and shows how minting a platinum coin could fund public needs Discover more inside.
 ---
 
 

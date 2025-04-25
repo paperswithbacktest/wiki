@@ -1,6 +1,7 @@
 ---
-title: "Trading Stocks in China and India from the United States"
-description: "Explore the complexities and opportunities of trading stocks in China and India from the United States Learn about globalization's impact and the role of algo trading"
+title: Navigating Stock Trading In China And India From The US
+description: Trading stocks in China and India from the US uses international brokerages
+  to access local exchanges and navigate hours and taxes Discover more inside
 ---
 
 

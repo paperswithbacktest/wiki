@@ -1,6 +1,7 @@
 ---
-title: "Transatlantic Trade and Investment Partnership"
-description: "Explore the complexities of the Transatlantic Trade and Investment Partnership its goals controversies and enduring influence on global trade discussions."
+title: Exploring the Transatlantic Trade and Investment Partnership
+description: TTIP streamlines US EU trade with reduced tariffs and unified rules to
+  drive jobs growth and protect standards in key industries Discover more inside
 ---
 
 

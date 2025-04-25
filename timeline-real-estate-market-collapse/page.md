@@ -1,6 +1,7 @@
 ---
-title: "Timeline of the Real Estate Market Collapse"
-description: "Explore the timeline of real estate market collapse due to factors like housing crises and algo trading Learn about bubbles impacts and historical lessons"
+title: Real Estate Market Collapse Causes And Global Impact
+description: Real estate market collapse reveals how risky lending and policy gaps
+  triggered global turmoil and reshaped housing standards Discover more inside.
 ---
 
 

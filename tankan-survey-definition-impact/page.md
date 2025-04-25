@@ -1,6 +1,7 @@
 ---
-title: "Tankan Survey: Definition and Impact"
-description: "Explore the Tankan Survey's impact on Japan's economy and how it informs monetary policy and algorithmic trading strategies amidst global economic shifts."
+title: Understanding the Tankan Survey Impact on Japan's Economy
+description: Tankan Survey data reveal quarterly business sentiment and its influence
+  on Bank of Japan policy shaping Japan economic health Discover more inside.
 ---
 
 

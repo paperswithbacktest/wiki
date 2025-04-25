@@ -1,6 +1,7 @@
 ---
-title: "Top Imports of the United States"
-description: "Discover how the United States, as a major global importer, navigates its vast import portfolio, impacting market dynamics and consumer pricing. The U.S. imported approximately 3.83 trillion USD in 2023, with key items including capital and consumer goods. Explore the role of technology in optimizing import practices and the influence of top trading partners such as Mexico, Canada, and China. Understand the vital importance of U.S. imports in supporting economic growth, meeting consumer needs, and maintaining international trade relations."
+title: Analyzing Top United States Imports by Value and Source Countries
+description: United States imports boost growth and job creation by sourcing cars
+  oil machinery electronics and medicines from global suppliers Discover more inside.
 ---
 
 

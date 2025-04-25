@@ -1,6 +1,7 @@
 ---
-title: "TSX Venture Exchange: Overview and Mechanisms"
-description: "Explore the role of the TSX Venture Exchange TSXV in Canada's stock market for small-cap investments and algorithmic trading pivotal for emerging companies."
+title: Understanding the TSX Venture Exchange for Small-Cap Growth
+description: TSX Venture Exchange empowers small-cap firms to raise capital, streamline
+  trading, and expand market presence with robust compliance Discover more inside.
 ---
 
 

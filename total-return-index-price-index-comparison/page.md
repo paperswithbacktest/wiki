@@ -1,6 +1,7 @@
 ---
-title: "Total Return Index and Price Index Comparison"
-description: "Explore the nuances between Total Return Index and Price Index in investment analysis and algorithmic trading strategies for optimal decision-making."
+title: Total Return Index Versus Price Index Explained Clearly
+description: Total Return Index shows real investment growth by combining price changes
+  and dividends for a complete view of performance Discover more inside.
 ---
 
 

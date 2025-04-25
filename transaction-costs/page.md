@@ -1,6 +1,7 @@
 ---
-title: "Transaction costs"
-description: Explore the impact of transaction costs in algorithmic trading and learn strategies to minimize expenses, enhancing profitability. Understand how brokerage commissions, market spreads, and other factors can erode profits and discover ways to effectively manage these costs to maintain a competitive edge in the fast-paced financial markets. Optimize trading strategies by considering key influencers such as market liquidity and trading frequency to achieve realistic profit expectations.
+title: Understanding Transaction Costs and Their Impact on Markets
+description: Transaction costs shape buying and selling decisions by adding fees time
+  and effort and affect market efficiency and firm strategy Discover more inside.
 ---
 
 

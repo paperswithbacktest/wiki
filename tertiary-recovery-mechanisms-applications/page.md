@@ -1,6 +1,7 @@
 ---
-title: "Tertiary Recovery: Mechanisms and Applications"
-description: "Explore enhanced oil recovery techniques thermal gas and chemical injections to maximize oil extraction efficiency and align with modern trading strategies."
+title: Tertiary Recovery Techniques for Enhanced Oil Extraction
+description: Tertiary recovery uses steam injection chemical treatments and gas flooding
+  to extract more oil beyond primary and secondary methods Discover more inside.
 ---
 
 

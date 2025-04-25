@@ -1,6 +1,7 @@
 ---
-title: "Top Online Forex Trading Courses of 2024"
-description: "Discover the best online forex trading courses of 2024 focusing on algo trading to enhance your trading skills and market knowledge efficiently."
+title: Online Forex Trading Courses Guide for Beginners and Experts
+description: Online forex trading courses guide you to select reputable programs covering
+  basics leverage market analysis and risk management Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Treasury Yield and Influencing Factors"
-description: "Explore how Treasury yields and algorithmic trading impact economic conditions and financial markets Discover their influence on interest rates and investment strategies"
+title: Investor Guide to Treasury Yields and Economic Impact
+description: Treasury yields drive investor returns and signal economic trends by
+  linking bond pricing to rate shifts and Fed policy. Discover more inside.
 ---
 
 

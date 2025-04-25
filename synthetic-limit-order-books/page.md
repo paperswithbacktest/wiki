@@ -1,6 +1,7 @@
 ---
-title: "Synthetic limit order books"
-description: "Explore the pivotal role of synthetic limit order books in algorithmic trading covering their benefits challenges and how they enhance market transparency and efficiency."
+title: Understanding Synthetic Limit Order Books for Market Simulation
+description: Synthetic limit order book models enable safe testing of trading strategies
+  using simulated market data with real-time dynamics Discover more inside.
 ---
 
 

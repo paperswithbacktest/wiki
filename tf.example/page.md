@@ -1,7 +1,8 @@
 ---
-title: Efficient Data Organization With TensorFlow Tf.Example Format
-description: Tf.Example simplifies organizing and labeling machine learning data in
-  TensorFlow for accurate model training and efficient pipelines Discover more inside
+title: Organizing Machine Learning Data with Tf.Example Format
+description: Tf.Example format provides a structured way to store and label diverse
+  data types for TensorFlow models improving organization and accuracy Discover more
+  inside
 ---
 
 ![Image](images/1.jpeg)

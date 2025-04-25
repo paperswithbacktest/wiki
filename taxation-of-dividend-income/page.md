@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Dividend Income"
-description: "Explore how dividends impact taxable income with a focus on algorithmic trading. Learn about the tax implications of qualified and non-qualified dividends, and how algorithms factor in dividend tax strategies. Gain insights into effectively managing dividend taxes within complex trading frameworks, and stay updated on trends affecting dividend taxation in an evolving financial landscape."
+title: Comprehensive Guide to Dividend Income Taxation Strategies
+description: Dividend income taxation explained with key distinctions between qualified
+  and ordinary dividends and strategic tips to minimize taxes Discover more inside
 ---
 
 

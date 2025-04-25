@@ -1,6 +1,7 @@
 ---
-title: "Systematica Investments"
-description: Systematica Investments, established in 2015 under the leadership of Leda Braga, is a prominent firm in the algorithmic trading arena. Renowned for integrating quantitative analysis and systematic trading strategies, the firm leverages mathematical models to enhance trading precision and efficiency. Systematica's data-driven approach eliminates human biases, allowing for quick analysis of vast data to identify market patterns. Emerging independently from BlueCrest Capital Management, Systematica focuses exclusively on advanced algorithmic strategies, empowered by its innovative use of big data and AI. Operating globally, Systematica exemplifies a modern, technology-driven approach to investment management.
+title: Understanding Systematica Investments Systematic Trading
+description: Systematica Investments applies systematic trading and quantitative analytics
+  to optimize portfolios and manage risk for clients Discover more inside.
 ---
 
 

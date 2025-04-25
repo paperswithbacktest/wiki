@@ -1,6 +1,7 @@
 ---
-title: "Trading Addiction and Its Effects"
-description: "Explore the intersection of trading addiction and algorithmic trading highlighting its impact on financial behavior and offering insights for responsible trading practices."
+title: 'Trading Addiction Explained: Causes, Effects and Solutions'
+description: Trading addiction can harm your finances mental health and relationships.
+  Explore effective signs treatments and prevention methods. Discover more inside
 ---
 
 

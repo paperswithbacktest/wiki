@@ -1,6 +1,7 @@
 ---
-title: "Tax Implications of Dividend Stocks"
-description: "Explore the tax implications of dividend stocks in algo trading Understand how dividends are taxed optimize investment strategies and enhance after-tax returns"
+title: Dividend Stock Taxation Guide for Individual Investors
+description: Dividend stock taxes shape your net income with qualified dividends holding
+  periods and reinvestment plans optimize returns Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Systematic Risk and Management Strategies"
-description: "Explore the essential role of systematic risk management strategies in algorithmic trading. Learn how to safeguard portfolios against market volatility effectively."
+title: Comprehensive Guide to Systematic Risk and Portfolio Management
+description: Systematic risk shapes market volatility and demands proactive management
+  through beta measurement asset allocation and hedging Discover more inside
 ---
 
 

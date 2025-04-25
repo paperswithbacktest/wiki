@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Capital Gains and Dividends"
-description: "Enhance investment returns by understanding capital gains and dividend taxation in algorithmic trading Stay informed about tax strategies to optimize portfolio performance"
+title: Understanding Capital Gains and Dividends Taxation
+description: Capital gains and dividends taxation with rate differences holding period
+  impacts qualified dividends and loss harvesting tips Discover more inside.
 ---
 
 

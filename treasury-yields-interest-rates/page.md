@@ -1,6 +1,7 @@
 ---
-title: "Treasury Yields and Interest Rates"
-description: "Explore the interconnected world of treasury yields and interest rates and their impact on financial markets and algorithmic trading in this insightful article. Understand how interest rates set by central banks influence economic activities by affecting consumer behavior and business investments, shaping borrowing costs and savings. Discover how treasury yields signal investor confidence and affect financial products, highlighting how the yield curve indicates economic trends. Gain insights into algorithmic trading's role in market efficiency and liquidity, along with associated risks. This article offers a comprehensive understanding for investors and traders to develop informed strategies."
+title: Understanding Treasury Yields Impact on Economy and Investments
+description: Treasury yields explain how government borrowing costs influence mortgage
+  and loan rates and guide investment decisions in active markets Discover more inside
 ---
 
 

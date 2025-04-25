@@ -1,7 +1,7 @@
 ---
-title: Understanding Textual Inference Models and Their Applications
-description: Textual inference models help computers reason between texts to enhance
-  search accuracy translation summarization question answering Discover more inside
+title: Understanding Textual Inference Models and Applications
+description: Textual Inference Models help machines reason about text to boost search
+  accuracy improve translations and summarization Discover more inside.
 ---
 
 ![Image](images/1.png)

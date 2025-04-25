@@ -1,6 +1,7 @@
 ---
-title: "Systematic Investment Strategies Explained"
-description: Explore the structured and rule-based approach of systematic investment strategies in algorithmic trading. By using quantitative models, these methods aim to deliver consistent long-term returns, minimizing human emotion and bias. Learn about the fundamental principles, advantages, and potential challenges of employing these strategies to enhance portfolio performance and risk management in dynamic market conditions. Discover how Python and other tools aid in developing and backtesting effective trading algorithms.
+title: Systematic Investment Strategies for Steady Long Term Growth
+description: Systematic investment strategies automate contributions smooth volatility
+  and apply dollar cost averaging for steady wealth growth Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Truth in Savings Act Overview"
-description: "Explore the vital role of the Truth in Savings Act in ensuring banking transparency and fairness, alongside the challenges of algorithmic trading in consumer protection."
+title: Understanding the Truth in Savings Act for Informed Savers
+description: Truth in Savings Act ensures clear disclosure of interest fees and APY
+  so consumers can compare accounts and choose wisely Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Tombstone Advertisements in Public Offerings"
-description: "Explore the vital role of tombstone ads in public offerings and the impact of algorithmic trading on modern finance, enhancing investment strategies and market liquidity."
+title: Understanding Tombstone Advertisements for Public Offerings
+description: Tombstone advertisement presents clear details of new stock and bond
+  offerings in a concise format that helps investors decide Discover more inside.
 ---
 
 

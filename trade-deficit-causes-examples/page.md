@@ -1,6 +1,8 @@
 ---
-title: "Trade Deficit: Causes and Examples"
-description: "Explore trade deficits and their economic impact through algorithmic trading insights. Learn how imports, exports, and policies shape global trade dynamics."
+title: Understanding Trade Deficits Impact Causes and Solutions
+description: Trade deficit explains how imports exceeding exports can affect national
+  debt and economic health through currency strength and policy shifts Discover more
+  inside
 ---
 
 

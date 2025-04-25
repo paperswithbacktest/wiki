@@ -1,6 +1,7 @@
 ---
-title: "Total Stock Funds: Overview and Benefits"
-description: "Explore the benefits of total stock funds and algorithmic trading Learn how combining these strategies can enhance portfolio diversification and optimize trading efficiency"
+title: Understanding Total Stock Market Funds for Diversified Investing
+description: Total stock market funds offer broad diversification with low fees and
+  passive index tracking, helping build a stable portfolio Discover more inside
 ---
 
 

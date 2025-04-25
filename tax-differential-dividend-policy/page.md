@@ -1,6 +1,7 @@
 ---
-title: "Tax Differential in Dividend Policy"
-description: "Explore the impact of tax differentials on corporate dividend policies and algorithmic trading. Understand how these elements influence investor strategies and corporate growth."
+title: Tax Differential Effects on Corporate Dividend Policies
+description: Tax differential shapes corporate dividend policy by balancing shareholder
+  tax burdens with reinvestment gains to optimize returns Discover more inside
 ---
 
 

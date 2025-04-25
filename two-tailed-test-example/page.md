@@ -1,6 +1,7 @@
 ---
-title: "Two-Tailed Test: Explanation and Example"
-description: "Explore the role of two-tailed tests in algorithmic trading to evaluate strategy performance by assessing deviations from benchmarks for optimized decision-making."
+title: Understanding Two-Tailed Tests for Robust Statistical Inference
+description: Two-tailed test explains setting hypotheses evaluating p values and decision
+  rules to identify significant differences in data Discover more inside.
 ---
 
 

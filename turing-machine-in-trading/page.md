@@ -1,6 +1,7 @@
 ---
-title: "Turing Machine in Trading"
-description: "Discover how Turing machines revolutionize algorithmic trading by integrating computation theory, enhancing the efficiency and adaptability of trading systems."
+title: Applying Turing Machine Principles to Algorithmic Trading
+description: Turing Machine principles shed light on how trading algorithms process
+  rule based data feeds and adapt to market changes Discover more inside.
 ---
 
 

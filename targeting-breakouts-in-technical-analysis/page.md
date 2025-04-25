@@ -1,6 +1,7 @@
 ---
-title: "Targeting Breakouts in Technical Analysis"
-description: "Discover how breakout strategies in technical analysis and algorithmic trading can enhance your trading approach by identifying and capitalizing on key market trends."
+title: Essential Techniques for Successful Breakout Trading Strategies
+description: Breakout trading uses support and resistance with volume and moving averages
+  to confirm real breakouts fast for all traders Discover more inside
 ---
 
 

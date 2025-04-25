@@ -1,6 +1,7 @@
 ---
-title: "Swing Trading Overview"
-description: "Discover how swing trading strategies, bolstered by algorithmic tools, capitalize on market fluctuations for optimal returns in short to medium timeframes."
+title: Essential Swing Trading Strategies for Short-Term Success
+description: Swing trading uses price patterns and indicators to capture short term
+  market swings while managing risk with stop loss orders Discover more inside.
 ---
 
 

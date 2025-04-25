@@ -1,6 +1,7 @@
 ---
-title: "Total Bond Fund Overview"
-description: "Explore the transformative impact of total bond funds and algorithmic trading on modern bond markets Discover how tech-driven strategies redefine bond investing"
+title: Understanding Total Bond Funds For Balanced Investment Portfolios
+description: Total Bond Fund investments spread risk across diverse bonds while delivering
+  steady income and low fees for a balanced portfolio Discover more inside.
 ---
 
 

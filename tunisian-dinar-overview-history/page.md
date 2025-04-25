@@ -1,6 +1,7 @@
 ---
-title: "Tunisian Dinar: Overview and History"
-description: "Explore the Tunisian Dinar's history and role in Tunisia's economy Learn about its introduction algorithmic trading and closed currency status"
+title: Understanding the Tunisian Dinar History and Economic Outlook
+description: Tunisian Dinar guide reveals its history exchange rate trends central
+  bank management and economic factors shaping its future outlook Discover more inside.
 ---
 
 

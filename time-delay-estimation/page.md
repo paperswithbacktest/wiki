@@ -1,7 +1,7 @@
 ---
-title: Time Delay Estimation Methods for Machine Learning Applications
-description: Time Delay Estimation leverages cross-correlation and deep learning to
-  align sensor signals precisely in noisy environments. Discover more inside.
+title: Time Delay Estimation in Signal Processing and Machine Learning
+description: Time Delay Estimation aligns signals from multiple sensors using cross-correlation
+  and algorithms for precise source localization. Discover more inside.
 ---
 
 ![Image](images/1.png)

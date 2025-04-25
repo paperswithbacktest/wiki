@@ -1,6 +1,7 @@
 ---
-title: "Trexquant Investment"
-description: "Explore Trexquant Investment's innovative algorithmic trading strategies that combine advanced technology and data to optimize financial market operations."
+title: Trexquant Investment Quantitative Analysis for Smart Growth
+description: Trexquant Investment applies quantitative analysis with advanced models
+  to uncover market signals optimize portfolio risk and returns Discover more inside.
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Understanding Timesteps in Sequence Models for Machine Learning
-description: Timesteps in machine learning determine how models capture sequential
-  patterns and dependencies for accurate forecasts. Discover more inside.
+title: Understanding Timesteps in Machine Learning Models
+description: Timesteps in machine learning define how models process sequential data
+  for accurate forecasts and improved performance in RNNs and LSTMs Discover more
+  inside
 ---
 
 ![Image](images/1.png)

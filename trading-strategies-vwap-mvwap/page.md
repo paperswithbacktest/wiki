@@ -1,6 +1,7 @@
 ---
-title: "Trading Strategies Using VWAP and MVWAP"
-description: "Explore effective algo trading strategies with VWAP and MVWAP indicators to optimize trade decisions. Learn intraday and long-term trend analysis tactics."
+title: Understanding VWAP and MVWAP for Effective Trading Analysis
+description: VWAP and MVWAP benchmarks help traders optimize trade timing by weighting
+  price with volume to reveal actionable trends and momentum Discover more inside
 ---
 
 

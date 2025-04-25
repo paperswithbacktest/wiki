@@ -1,6 +1,7 @@
 ---
-title: "Tax Strategies for Selling Rental Property"
-description: "Optimize your real estate investment returns by mastering the complexities of capital gains tax and leveraging effective strategies for selling rental properties. Discover key insights into tax-saving methods including tax-loss harvesting, 1031 exchanges, and owner-occupied exclusions, and enhance your portfolio management with algorithmic trading to achieve greater tax efficiency."
+title: Essential Tax Implications When Selling a Rental Property
+description: Selling a rental property entails capital gains tax depreciation recapture
+  and strategic deductions to reduce your tax liability Discover more inside
 ---
 
 

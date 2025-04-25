@@ -1,6 +1,7 @@
 ---
-title: "Texas Ratio: Definition and Function"
-description: "Discover how the Texas Ratio evaluates bank risk and financial stability by analyzing non-performing assets in relation to equity and reserves."
+title: Texas Ratio Insights For Assessing Bank Financial Health
+description: Texas Ratio analysis compares non performing assets to tangible equity
+  and reserves to highlight bank stability and solvency risk. Discover more inside.
 ---
 
 

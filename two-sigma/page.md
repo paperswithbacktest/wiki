@@ -1,6 +1,7 @@
 ---
-title: "Two Sigma"
-description: Two Sigma Investments stands out as a prominent hedge fund specializing in algorithmic trading, leveraging technology, AI, and machine learning to innovate trading strategies. This page explores Two Sigma's groundbreaking approach, examining how the firm utilizes these technologies to process vast data sets, identify patterns, and make precise trading decisions that keep it at the forefront of the financial industry. It investigates into the firm's history, technological strategies, and achievements, emphasizing the integration of finance and computer science driving their success and shaping the future of trading.
+title: Two Sigma Data Science and Quantitative Investing Innovations
+description: Two Sigma harnesses data science and machine learning to deliver precise
+  investment insights while advancing healthcare and education Discover more inside.
 ---
 
 

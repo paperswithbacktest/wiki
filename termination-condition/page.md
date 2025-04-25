@@ -1,7 +1,7 @@
 ---
-title: Understanding Termination Conditions in Machine Learning Models
-description: Machine learning termination conditions tell when to stop training to
-  prevent overfitting with methods like early stopping Discover more inside.
+title: Termination Conditions in Machine Learning for Efficient Training
+description: Termination conditions guide model training by stopping runs at optimal
+  points to save resources and prevent overfitting. Discover more inside
 ---
 
 ![Image](images/1.png)

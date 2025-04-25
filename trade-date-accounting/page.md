@@ -1,6 +1,7 @@
 ---
-title: "Trade Date Accounting"
-description: "Explore the importance of trade date accounting in financial reporting. Learn how this method captures transactions at execution, enhancing financial transparency and accuracy."
+title: Trade Date Accounting in Financial Reporting Explained
+description: Trade date accounting records transactions on their trade date for real
+  time accuracy and transparency in financial reports Discover more inside
 ---
 
 

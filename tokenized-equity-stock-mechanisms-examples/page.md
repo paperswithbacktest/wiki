@@ -1,6 +1,7 @@
 ---
-title: "Tokenized Equity and Stock: Mechanisms and Examples"
-description: "Explore how tokenized equity and blockchain revolutionize financial instruments by enhancing accessibility and efficiency while algo trading optimizes transactions."
+title: Tokenized Equity Explained Benefits Risks And Regulatory Insights
+description: Tokenized equity turns traditional shares into digital tokens on blockchain
+  delivering faster trades lower costs and global access Discover more inside.
 ---
 
 

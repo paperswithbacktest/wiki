@@ -1,6 +1,7 @@
 ---
-title: "Tweezer Pattern in Technical Analysis"
-description: "Discover the power of tweezer patterns in technical analysis Learn how these candlestick formations predict market reversals and aid algo trading strategies"
+title: Tweezer Candlestick Pattern Guide for Trading Reversals
+description: Tweezer Pattern reveals reversal signals by matching candlestick highs
+  or lows step by step for more confident trading choices Discover more inside
 ---
 
 

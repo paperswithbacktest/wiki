@@ -1,7 +1,7 @@
 ---
-title: Understanding DeepIR Thermal Image Processing Models
-description: Thermal image processing models in machine learning analyze heat patterns
-  to detect people equipment issues and optimize energy use Discover more inside.
+title: Thermal Image Processing Models With DeepIR Technology
+description: Thermal Image Processing models use DeepIR to analyze heat data for security
+  medical diagnostics and energy inspections Discover more inside
 ---
 
 ![Image](images/1.jpeg)

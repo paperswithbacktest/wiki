@@ -1,6 +1,7 @@
 ---
-title: "Term Spread"
-description: Discover the intricacies of Term Spread Trade, a profitable strategy in Algo Trading. Learn what it is, its types, yield curve importance, and how technology enhances its potential. Dive deeper into this sophisticated quantitative trading method.
+title: Integrating Term Spread Into Algorithmic Trading Models
+description: Term spread analysis sharpens algorithmic trading by offering economic
+  signals to refine strategies and anticipate market trends Discover more inside.
 ---
 
 Term spread, often referred to as the yield curve, is a key concept in financial markets, highlighting the difference between short-term and long-term interest rates. At its core, term spread is calculated as:

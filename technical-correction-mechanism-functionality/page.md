@@ -1,6 +1,7 @@
 ---
-title: "Technical Correction: Mechanism and Functionality"
-description: "Explore the impact of technical corrections on financial markets and the role of algorithmic trading in managing these adjustments for strategic gains."
+title: Understanding Technical Corrections in Financial Markets
+description: Technical correction occurs when prices pull back 10 to 20 percent after
+  a rally acting as a market reset to protect portfolio value Discover more inside
 ---
 
 

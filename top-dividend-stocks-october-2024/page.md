@@ -1,6 +1,7 @@
 ---
-title: "Top Dividend Stocks in October 2024"
-description: "Discover the top dividend stocks of October 2024, where steady income meets long-term growth potential. Explore the integration of algorithmic trading to refine strategies and maximize returns. Understand key metrics and historical performance to enhance your dividend stock portfolio amidst dynamic market conditions."
+title: Investor Guide to Top Dividend Stocks in October 2024
+description: Dividend stocks deliver steady income and growth explore key metrics
+  and top October 2024 picks to build a resilient portfolio Find out more inside.
 ---
 
 

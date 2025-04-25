@@ -1,6 +1,7 @@
 ---
-title: "Trailing Earnings Per Share"
-description: "Discover the role of Trailing EPS in algorithmic trading how it provides valuable insights into a company's profitability by analyzing earnings trends over the last four quarters"
+title: Understanding Trailing Earnings Per Share for Investors
+description: Trailing EPS reveals how much a company earned per share over the last
+  year to help investors assess stock value and performance Discover more inside.
 ---
 
 

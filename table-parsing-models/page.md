@@ -1,7 +1,7 @@
 ---
-title: Table Parsing in Machine Learning Using Cycle-CenterNet
-description: Table parsing converts tables into structured data using Cycle-CenterNet
-  with precise center detection and cycle consistency. Discover more inside.
+title: Machine Learning Table Parsing with Cycle-CenterNet Method
+description: Table parsing in machine learning converts complex table data into structured
+  formats with Cycle-CenterNet precision and error checks Discover more inside
 ---
 
 ![Image](images/1.png)

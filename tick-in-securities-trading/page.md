@@ -1,6 +1,7 @@
 ---
-title: "Tick in Securities Trading"
-description: "Discover the crucial role of tick size in securities trading and how it impacts market dynamics, liquidity, costs, and algorithmic trading strategies."
+title: Understanding Tick Size and Tick Data in Securities Trading
+description: Tick data tracks the smallest price changes in securities so traders
+  can monitor upticks downticks and gauge liquidity. Discover more inside
 ---
 
 

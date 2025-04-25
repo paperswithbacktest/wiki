@@ -1,6 +1,7 @@
 ---
-title: "Tax-Efficient Funds: Overview and Functionality"
-description: "Discover how tax-efficient funds and algorithmic trading can enhance your financial strategy by reducing tax liabilities and optimizing investment outcomes."
+title: Maximize After-Tax Returns With Tax-Efficient Funds
+description: Tax-efficient funds help you boost after-tax returns by minimizing taxable
+  events with low turnover and tax-loss harvesting Discover more inside.
 ---
 
 

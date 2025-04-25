@@ -1,6 +1,7 @@
 ---
-title: "Two-Way Quote: Functionality and Types"
-description: "Discover the essentials of two-way quotes in algorithmic trading. Learn how bid and ask prices reveal market liquidity, helping traders make informed decisions."
+title: Comprehensive Guide to Two-Way Quotes in Financial Markets
+description: Two-Way Quote offers clear bid and ask pricing insights to help traders
+  assess market liquidity and make informed decisions Discover more inside
 ---
 
 

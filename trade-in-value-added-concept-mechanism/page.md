@@ -1,6 +1,7 @@
 ---
-title: "Trade In Value Added: Concept and Mechanism"
-description: "Explore how Trade in Value Added enhances understanding of global trade and benefits algorithmic trading by accurately depicting value creation across borders."
+title: Understanding Trade in Value Added for Global Economies
+description: Trade in Value Added reveals how much each country contributes to global
+  supply chains and guides smarter economic policies. Discover more inside.
 ---
 
 

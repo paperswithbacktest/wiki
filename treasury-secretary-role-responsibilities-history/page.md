@@ -1,6 +1,7 @@
 ---
-title: "Treasury Secretary: Role, Responsibilities, and Historical Overview"
-description: "Explore the role and responsibilities of the Treasury Secretary in shaping fiscal policies and managing economic strategies amidst algorithmic trading advancements."
+title: Treasury Secretary Responsibilities And Historical Evolution
+description: Treasury Secretary duties span budget and debt oversight financial security
+  appointment and historical context shaping economic policy Discover more inside
 ---
 
 

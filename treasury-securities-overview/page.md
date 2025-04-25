@@ -1,6 +1,7 @@
 ---
-title: "Treasury Securities Overview"
-description: "Explore the impact of algorithmic trading on treasury securities offering insights into how advanced algorithms optimize trading efficiency and market engagement."
+title: Understanding Treasury Securities Types and Investment Benefits
+description: Treasury securities deliver secure predictable interest income and inflation
+  protection while helping diversify your portfolio Discover more inside
 ---
 
 

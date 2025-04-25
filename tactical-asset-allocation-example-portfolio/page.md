@@ -1,6 +1,7 @@
 ---
-title: "Tactical Asset Allocation: Example Portfolio"
-description: "Enhance portfolio performance with tactical asset allocation (TAA) by leveraging algorithmic trading to optimize investment decisions in dynamic markets."
+title: Tactical Asset Allocation for Dynamic Portfolio Management
+description: Tactical asset allocation lets investors adjust portfolios based on short
+  term market trends to optimize returns and manage risk Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Thorp, Edward"
-description: Discover the profound impact of Edward Thorp on algorithmic trading through his pioneering use of mathematics and probability theory. Explore how his groundbreaking strategies, born from revolutionizing blackjack approaches, influenced modern quantitative finance, highlighting the continued relevance and application of his innovative methods in today's financial markets.
+title: Edward Thorp Legacy From Card Counting to Quantitative Finance
+description: Edward Thorp pioneered the use of math to beat casinos and launch quantitative
+  finance with models for gambling and investing Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Tokyo Commodity Exchange"
-description: "Explore algorithmic trading at Tokyo Commodity Exchange (TOCOM) Japan's leading derivatives market offering cutting-edge solutions for commodities trade."
+title: Overview of the Tokyo Commodity Exchange TOCOM and Its Benefits
+description: Tokyo Commodity Exchange provides a transparent platform for trading
+  gold silver oil and rubber through futures contracts Discover more inside
 ---
 
 

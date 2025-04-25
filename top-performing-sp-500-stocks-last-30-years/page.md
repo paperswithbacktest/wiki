@@ -1,6 +1,7 @@
 ---
-title: "Top Performing S&P 500 Stocks Over the Last 30 Years"
-description: "Explore the strategies and metrics that have distinguished top-performing stocks in the S&P 500 over the past 30 years with insights into total return and volatility to optimize your investment approach using algorithmic trading techniques."
+title: Top S&P 500 Stocks Delivering Highest Returns Over 30 Years
+description: S&P 500 stocks like Apple Microsoft Amazon and NVIDIA have outperformed
+  the market by innovating and adapting through economic cycles Discover more inside.
 ---
 
 

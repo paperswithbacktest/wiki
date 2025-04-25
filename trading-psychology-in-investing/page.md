@@ -1,6 +1,7 @@
 ---
-title: "Trading Psychology in Investing"
-description: "Explore the critical role of trading psychology and algorithmic trading in investing. Learn how emotion management and data-driven strategies can enhance success."
+title: Mastering Trading Psychology to Enhance Investment Decision Making
+description: Trading psychology plays a crucial role in shaping investor behavior
+  and optimizing performance by managing emotions and biases Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Key Techniques for Testing Machine Learning Models
-description: Machine learning model testing uses train test splits cross validation
-  and key metrics to spot overfitting underfitting Discover more inside
+title: Essential Testing Strategies for Reliable Machine Learning Models
+description: Machine learning testing uses train-test splits and metrics like accuracy
+  recall and F1 score to assess model performance Discover more inside
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Teaser Document"
-description: "Explore how teaser documents enhance algorithmic trading by providing concise investment insights that drive informed decisions and optimize market strategies."
+title: Essential Guide To Crafting A Teaser Document For Investors
+description: Teaser document summaries engage potential investors by showcasing business
+  value and key metrics without revealing all details Discover more inside.
 ---
 
 

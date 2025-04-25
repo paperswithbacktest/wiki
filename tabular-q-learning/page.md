@@ -1,7 +1,7 @@
 ---
-title: Understanding Tabular Q-Learning in Reinforcement Learning
-description: Tabular Q-Learning uses a Q-table to help agents learn optimal actions
-  through rewards and trial and error in small state spaces. Discover more inside.
+title: Tabular Q-Learning Explained A Guide to Reinforcement Learning
+description: Tabular Q-Learning enables agents to learn optimal actions by updating
+  Q-values through trial and error in simple environments. Discover more inside.
 ---
 
 ![Image](images/1.png)

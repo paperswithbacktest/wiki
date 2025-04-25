@@ -1,6 +1,7 @@
 ---
-title: "Tax Roll: Overview and Types"
-description: "Explore how tax rolls interact with algorithmic trading in finance. Understand their roles in taxation, trading strategies, and financial compliance."
+title: Tax Roll Management Guide For Local Officials And Owners
+description: Tax Roll updates help governments and property owners track assessed
+  values owed and plan budgets with fairness and transparency Discover more inside
 ---
 
 

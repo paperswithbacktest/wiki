@@ -1,6 +1,7 @@
 ---
-title: "Third Market: Definition and Functionality"
-description: "Explore the intricacies of third market and algorithmic trading and learn how they reshape financial markets by offering reduced costs and increased trading efficiency."
+title: Understanding the Third Market in Institutional Stock Trading
+description: The third market lets institutional investors trade listed stocks directly
+  outside public exchanges for faster execution and lower costs Discover more inside
 ---
 
 

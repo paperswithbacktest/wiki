@@ -1,6 +1,7 @@
 ---
-title: "Tick size analysis"
-description: "Discover how tick size impacts algorithmic trading strategies by influencing market liquidity and transaction costs Gain insights into optimizing your trading performance"
+title: Understanding Tick Size Effects on Liquidity and Trading Costs
+description: Tick size influences market liquidity bid ask spreads and trading costs
+  with analysis of regulatory changes and strategy insights Discover more inside
 ---
 
 

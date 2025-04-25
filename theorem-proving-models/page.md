@@ -1,7 +1,7 @@
 ---
-title: Understanding Machine Learning Theorem Proving Models
-description: Theorem proving models use machine learning to automate complex proofs
-  and verify software correctness with logical precision Discover more inside.
+title: Understanding Theorem Proving Models in Machine Learning
+description: Theorem proving models use machine learning and formal logic to automate
+  mathematical proofs and enhance software verification Discover more inside.
 ---
 
 ![Image](images/1.png)

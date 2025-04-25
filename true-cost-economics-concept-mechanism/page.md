@@ -1,6 +1,7 @@
 ---
-title: "True Cost Economics: Concept and Mechanism"
-description: "Explore true cost economics and its integration with algorithmic trading to address environmental and social impacts in modern financial markets for sustainable growth."
+title: True Cost Economics Accounting For Hidden Environmental Costs
+description: True Cost Economics shows the real impact of goods by valuing hidden
+  environmental and health costs to drive fair sustainable choices Discover more inside.
 ---
 
 

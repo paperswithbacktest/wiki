@@ -1,6 +1,7 @@
 ---
-title: "Transactions Impacting Retained Earnings"
-description: "Discover how financial transactions, retained earnings, and algorithmic trading converge to shape modern finance strategies and impact company growth and investor value."
+title: Understanding Retained Earnings And Their Impact On Finance
+description: Retained Earnings reveal how companies reinvest profits pay dividends
+  fund buybacks manage taxes, adjust records and optimize equity Discover more inside
 ---
 
 

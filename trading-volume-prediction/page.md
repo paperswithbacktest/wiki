@@ -1,6 +1,7 @@
 ---
-title: "trading volume prediction"
-description: "Enhance your algorithmic trading strategies with accurate trading volume predictions to reduce costs and optimize market impact in dynamic financial markets."
+title: Trading Volume Prediction Using Statistical And Machine Learning
+description: Trading volume prediction helps investors anticipate market trends by
+  using historical data technical indicators and machine learning Discover more inside.
 ---
 
 

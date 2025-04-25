@@ -1,6 +1,7 @@
 ---
-title: "Trailing Indicators and Related Concepts"
-description: "Master algo trading with insights on vital performance metrics like ROI and Sharpe ratio to optimize strategies and maintain a competitive edge in dynamic markets."
+title: Understanding Trailing Indicators for Better Financial Analysis
+description: Trailing indicators reveal past performance trends and show how to combine
+  them with leading metrics for smarter financial decisions Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Training Loss in Machine Learning Models
-description: Training loss measures errors by comparing predictions to actual values,
-  guiding parameter tuning and improving accuracy. Discover more inside.
+description: Training loss in machine learning measures errors and guides optimization
+  with loss functions and strategies to improve predictions Discover more inside
 ---
 
 ![Image](images/1.png)

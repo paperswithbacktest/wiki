@@ -1,6 +1,7 @@
 ---
-title: "Trumpflation: Concept, Mechanism, and Example"
-description: "Explore the concept of Trumpflation, highlighting its origins during Donald Trump's presidency and examining its influence on economic policies. Understand the anticipated versus actual inflationary outcomes under Trump's administration and the integral role of algorithmic trading in market dynamics during this period. Discover how proposed tax cuts, infrastructure spending, and tariff implementations intersected with inflation dynamics, providing insights into the multifaceted nature of economic growth strategies."
+title: Understanding Trumpflation Effects on Inflation and Economy
+description: Trumpflation predicted rising prices under Trump but inflation stayed
+  low Explore why the term fell short and its impact Discover more inside
 ---
 
 

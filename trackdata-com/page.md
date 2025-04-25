@@ -1,6 +1,7 @@
 ---
-title: "TrackData.com"
-description: Discover the dynamic world of algorithmic trading with TrackData.com, a key player in providing essential solutions and resources for traders and financial institutions. Offering high-quality data and sophisticated analytics, TrackData.com supports the development and optimization of trading algorithms, enabling access to reliable and timely market information. Enhance trading efficiency, reduce costs, and minimize errors with advanced tools for both institutional and retail traders seeking competitive edge in modern financial markets.
+title: Control Your Digital Footprint With TrackData.com Tools
+description: TrackData.com shows you what data websites and apps collect about you
+  and lets you adjust privacy settings in one place Discover more inside
 ---
 
 

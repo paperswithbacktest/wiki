@@ -1,6 +1,8 @@
 ---
-title: "Triple Tops and Bottoms in Technical Analysis"
-description: "Discover how triple tops and bottoms in technical analysis can predict market reversals. Leverage these chart patterns with algo trading for optimal strategies."
+title: Mastering Triple Top and Bottom Patterns in Technical Analysis
+description: Triple top and bottom patterns guide traders to predict reversals by
+  spotting three peaks or troughs and using volume for confirmation Discover more
+  inside
 ---
 
 

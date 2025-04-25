@@ -1,6 +1,7 @@
 ---
-title: "TransMarket Group"
-description: "Discover TransMarket Group's impact on algorithmic trading with innovative strategies and technology shaping global financial markets for over 30 years."
+title: TransMarket Group Global Energy Trading and Advisory Services
+description: TransMarket Group streamlines global energy trading and advisory services
+  with expert market insights and sustainable solutions Discover more inside.
 ---
 
 

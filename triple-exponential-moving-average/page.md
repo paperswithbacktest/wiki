@@ -1,6 +1,7 @@
 ---
-title: "Triple Exponential Moving Average"
-description: "Explore the Triple Exponential Moving Average (TRIX) indicator, a powerful tool in technical analysis that minimizes market noise, aiding traders in trend identification."
+title: Triple Exponential Moving Average (TEMA) Guide For Traders
+description: Triple Exponential Moving Average reduces lag by combining three EMAs
+  to help traders spot trends faster and make informed decisions. Discover more inside.
 ---
 
 

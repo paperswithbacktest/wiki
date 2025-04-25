@@ -1,6 +1,7 @@
 ---
-title: "Swiss National Bank"
-description: "This article investigates into the complex interactions between central banking, monetary policy, and algorithmic trading, focusing on the Swiss National Bank (SNB). As a key player in global finance, the SNB influences inflation, interest rates, and liquidity, thereby affecting both national and international markets. With algorithmic trading becoming more prevalent, its relationship with the SNB's policy decisions offers a dynamic context for market participants. This exploration provides insights into how the SNB shapes economic landscapes, vital for anyone interested in financial systems and economic forecasting."
+title: Swiss National Bank Overview Of Key Functions And Monetary Policy
+description: Swiss National Bank sets interest rates and manages currency reserves
+  to control inflation and maintain financial stability. Discover more inside.
 ---
 
 

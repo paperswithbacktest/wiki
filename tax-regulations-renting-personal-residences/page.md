@@ -1,6 +1,7 @@
 ---
-title: "Tax Regulations for Renting Out Personal Residences"
-description: "Explore tax regulations for renting personal residences and discover strategic advantages with the Augusta Rule and algorithmic trading. Learn how to rent your home for up to 14 days tax-free and utilize algo trading for tax-efficient investments. Understand key deductions, manage property taxes, and optimize your financial strategies for informed tax planning and compliance."
+title: Understanding Rental Income Tax for Your Personal Residence
+description: Rental income tax rules help you report earnings and deduct costs like
+  mortgage interest insurance and depreciation on rental property Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "TMX Group Incorporated"
-description: "Explore TMX Group's role in advancing global financial markets through innovation in algorithmic trading, technological integration, and strategic acquisitions."
+title: TMX Group Incorporated Company Profile and Strategic Overview
+description: TMX Group runs the top stock markets in Canada providing market data
+  technology and secure platforms to fuel economic growth Discover more inside
 ---
 
 

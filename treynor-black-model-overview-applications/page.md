@@ -1,6 +1,7 @@
 ---
-title: "Treynor-Black Model: Overview and Applications"
-description: "Explore the Treynor-Black Model's benefits in portfolio management integrating active and passive strategies for optimized returns in today's markets."
+title: Understanding the Treynor-Black Model for Optimal Portfolios
+description: Treynor-Black Model blends active stock picks with passive market funds
+  to optimize risk adjusted returns through alpha beta analysis Discover more inside.
 ---
 
 

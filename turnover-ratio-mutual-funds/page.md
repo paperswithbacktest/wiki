@@ -1,6 +1,7 @@
 ---
-title: "Turnover Ratio in Mutual Funds"
-description: "Discover how turnover ratios in mutual funds are impacted by algorithmic trading and learn to leverage this knowledge for more efficient investment strategies."
+title: Mutual Fund Turnover Ratio Explained for Investors
+description: Mutual fund turnover ratio reveals trading frequency and cost impact
+  so you can choose lower cost funds and optimize returns Discover more inside.
 ---
 
 

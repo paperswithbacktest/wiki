@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Treasury Bills"
-description: "Discover the advantages of investing in Treasury Bills with insights into their tax treatment and the role of algorithmic trading in maximizing returns. Learn how T-Bills offer a secure, short-term investment option backed by the U.S. government while being exempt from state and local taxes. Explore how algorithmic trading strategies can enhance the efficiency of T-Bill investments and help realize potential returns. Gain an understanding of the taxation aspects, including federal tax details and implications of selling T-Bills, to better manage your investment portfolio."
+title: Treasury Bill Federal Taxation Explained For Investors
+description: Treasury Bill taxes apply only at federal level on interest and capital
+  gains with no state local levies Report 1040 and schedule D. Discover more inside
 ---
 
 

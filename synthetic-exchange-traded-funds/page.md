@@ -1,6 +1,7 @@
 ---
-title: "Synthetic Exchange-Traded Funds"
-description: "Explore how synthetic ETFs and algorithmic trading are reshaping investment strategies by offering unique opportunities and optimizing portfolio performance."
+title: Understanding Synthetic Exchange-Traded Funds And Their Risks
+description: Synthetic ETFs use derivatives to replicate index performance at lower
+  cost but carry counterparty and tracking risks for investors Discover more inside
 ---
 
 

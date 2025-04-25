@@ -1,6 +1,7 @@
 ---
-title: "Triple Play: Overview and Analysis"
-description: "Explore the synergy of triple play scenarios in algo trading to optimize market outcomes Leverage insights on revenue earnings and guidance for strategic gains"
+title: Understanding Triple Plays In Baseball And Algorithmic Trading
+description: Triple Plays in baseball and algorithmic trading reveal rare defensive
+  plays and data-driven strategies on mechanics types and stats Discover more inside.
 ---
 
 

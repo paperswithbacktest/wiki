@@ -1,6 +1,7 @@
 ---
-title: "Trend following strategies"
-description: Discover the concept and significance of trend following in trading, including how to identify trends through observation and technical indicators. Learn about short-term vs long-term trends and adapt your strategy accordingly. Understand the factors influencing trend formation and make informed decisions based on market momentum.
+title: Trend Following Strategy Guide For Effective Market Trading
+description: Trend following strategy uses moving averages RSI and MACD to spot market
+  trends early and set stop-loss orders to manage risk Discover more inside
 ---
 
 

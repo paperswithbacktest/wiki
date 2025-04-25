@@ -1,7 +1,8 @@
 ---
-title: Trajectory Data Augmentation Techniques for Machine Learning
-description: Trajectory data augmentation enhances machine learning models by generating
-  synthetic paths and improving prediction accuracy Discover more inside
+title: Enhancing Trajectory Data with Simulation Based Augmentation
+description: Trajectory data augmentation boosts model accuracy and flexibility by
+  generating realistic simulated paths for diverse movement patterns Discover more
+  inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Too Big to Fail: Historical Overview and Reforms"
-description: "Explore the history and reforms related to 'Too Big to Fail' in the financial sector and understand the impact of algorithmic trading on modern economies."
+title: Understanding Too Big to Fail How It Shapes Global Finance
+description: Too Big to Fail explores origins controversies and reforms that shaped
+  finance while highlighting ongoing risks and policy debates Discover more inside
 ---
 
 

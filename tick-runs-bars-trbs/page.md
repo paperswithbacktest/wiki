@@ -1,6 +1,7 @@
 ---
-title: "Tick runs bars (TRBs)"
-description: Explore how Tick Runs Bars (TRBs) revolutionize algorithmic trading by offering a precise depiction of market activities. Unlike the traditional time bars, TRBs adapt to actual trade flows, forming bars based on sequences of similar trades reaching a set threshold. This method uncovers critical market dynamics that time-based approaches often miss, enhancing insight into supply and demand pressures. By incorporating these dynamically formed bars into trading strategies, traders can develop agile responses, significantly improving execution and prediction accuracy in volatile markets where timely decision-making is crucial.
+title: Understanding Tick Runs Bars for Enhanced Market Analysis
+description: Tick Runs Bars highlight market activity by forming bars after a set
+  number of trades to reveal momentum and trends in real time Discover more inside
 ---
 
 

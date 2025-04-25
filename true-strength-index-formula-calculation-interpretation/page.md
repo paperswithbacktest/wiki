@@ -1,6 +1,7 @@
 ---
-title: "True Strength Index: Formula, Calculation and Interpretation"
-description: "Explore the True Strength Index for algorithmic trading with insights on its formula calculation and interpretation to optimize trading strategies effectively."
+title: Understanding the True Strength Index Technical Analysis Tool
+description: True Strength Index gauges stock momentum with double smoothing to reveal
+  trend shifts and overbought signals for traders. Discover more inside.
 ---
 
 

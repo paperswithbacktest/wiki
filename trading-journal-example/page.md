@@ -1,6 +1,7 @@
 ---
-title: "Trading Journal Example"
-description: Explore the importance of trading journals in algo trading with examples and tips to enhance performance. A trading journal is essential for evaluating performance and refining strategies, acting as both a record and a feedback mechanism. Meticulous documentation helps identify patterns and refine trading algorithms, ultimately giving traders a competitive edge in fast-paced financial markets. Learn how to maintain a trading journal effectively and utilize software tools for accurate, automated data recording and analysis to improve trading outcomes.
+title: Essential Guide to Keeping a Professional Trading Journal
+description: Trading journal helps beginners and pros track trades entry exit reasons
+  and emotions to refine strategies and manage risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Treasury Inflation-Protected Securities"
-description: "Explore Treasury Inflation-Protected Securities and algo trading to safeguard investments against inflation Preserve wealth with TIPS and automated strategies"
+title: Understanding Treasury Inflation-Protected Securities
+description: Treasury Inflation-Protected Securities indexed to CPI adjust principal
+  and payments to preserve purchasing power for real returns Discover more inside.
 ---
 
 

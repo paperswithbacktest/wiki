@@ -1,6 +1,7 @@
 ---
-title: "Turkish Lira: Overview and Functioning"
-description: "Explore the Turkish Lira's volatility and economic challenges including inflation and external debt Discover how algorithmic trading offers new insights into the currency's dynamics"
+title: Understanding the Turkish Lira and Its Economic Impact
+description: Turkish Lira explained covering history denominations monetary policies
+  exchange rate dynamics and future outlook Discover more inside
 ---
 
 

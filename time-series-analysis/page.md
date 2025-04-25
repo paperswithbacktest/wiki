@@ -1,7 +1,7 @@
 ---
-title: Time Series Analysis In Machine Learning Techniques And Models
-description: Time Series Analysis covers core components models metrics and forecasting
-  methods from ARIMA to LSTM to drive accurate predictions Discover more inside.
+title: Time Series Analysis and Forecasting for Machine Learning
+description: Time series analysis guides you through components preprocessing to modeling
+  with ARIMA LSTM and Prophet to boost forecasting accuracy Discover more inside
 ---
 
 ![Image](images/1.jpeg)

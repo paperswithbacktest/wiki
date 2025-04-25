@@ -1,6 +1,7 @@
 ---
-title: "Tiger Economy: Overview and Market Examples"
-description: "Explore how Southeast Asia's tiger economies like Singapore and South Korea thrive through industrialization and algorithmic trading in financial markets."
+title: Tiger Economies Rapid Growth And Key Strategic Policies
+description: Tiger Economies leverage strategic government policies and robust industries
+  to drive rapid economic growth and global trade Discover more inside
 ---
 
 

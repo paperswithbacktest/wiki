@@ -1,6 +1,8 @@
 ---
-title: "Trimmed Mean: Explanation and Applications"
-description: "Explore the concept of trimmed mean and its crucial applications in algorithmic trading Discover how trimming outliers improves trading strategy precision and outcomes"
+title: Understanding Trimmed Mean for Robust Data Analysis
+description: Trimmed mean minimizes outlier influence by trimming extreme values before
+  calculating averages ensuring more representative results across data sets for unbiased
+  insights Discover more inside
 ---
 
 

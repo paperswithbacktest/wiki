@@ -1,6 +1,7 @@
 ---
-title: "Trade Resumption"
-description: "Discover how algorithmic trading and trade resumption are driving economic recovery post-pandemic by reshaping global trade dynamics and opportunities."
+title: Trade Resumption for Economic Recovery and Supply Chain Stability
+description: 'Trade resumption accelerates recovery by restoring supply chains rebuilding
+  trust and creating jobs for sustained growth: Discover more inside.'
 ---
 
 

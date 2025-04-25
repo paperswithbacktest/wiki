@@ -1,6 +1,7 @@
 ---
-title: "Trading Price-Time Priority"
-description: "Explore the principles of price-time priority in algorithmic trading and its influence on order execution, fairness, and transparency in financial markets."
+title: Understanding Price-Time Priority in Stock Market Trading
+description: Price-Time Priority ensures fair stock trading by filling best priced
+  orders first and rewarding earliest orders at the same price Discover more inside
 ---
 
 

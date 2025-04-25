@@ -1,6 +1,7 @@
 ---
-title: "Systematic Hedging of the Cryptocurrency Portfolio"
-description: Explore the systematic approaches to hedging a cryptocurrency portfolio effectively in our comprehensive guide. Discover how incorporating hedging strategies can mitigate risks and protect against market volatility in the cryptocurrency landscape. Learn to construct a dynamic Top 5 cryptocurrency index portfolio using a market capitalization-weighted method, similar to major equity indexes, and gain insights into curating a resilient investment strategy focused on leading non-stablecoin altcoins.
+title: Systematic Hedging Strategies for Cryptocurrency Portfolios
+description: Systematic hedging in cryptocurrency portfolios uses rule based tools
+  like futures and options and stablecoins to manage volatility Discover more inside
 ---
 
 

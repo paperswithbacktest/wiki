@@ -1,6 +1,8 @@
 ---
-title: "Times-Revenue Method for Company Valuation"
-description: "Discover the times-revenue method for company valuation and its impact on algorithmic trading strategies in the evolving finance industry."
+title: Understanding the Times-Revenue Method for Business Valuation
+description: Times-Revenue Method enables quick business valuation by multiplying
+  annual revenue with an industry multiplier for reliable estimates Discover more
+  inside
 ---
 
 

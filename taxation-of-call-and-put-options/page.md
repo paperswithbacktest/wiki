@@ -1,6 +1,7 @@
 ---
-title: "Taxation of Call and Put Options"
-description: "Explore the taxation intricacies of call and put options in algorithmic trading Understand the impact of tax law on your options trading strategy for optimal returns"
+title: Understanding Tax Treatment for Call and Put Options
+description: Call and put options tax treatment explains how gains and losses are
+  taxed short term or long term and how wash sale rules apply Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Generating Realistic Synthetic Tabular Data With CTAB-GAN
-description: Synthetic tabular data generation with CTAB-GAN preserves real data patterns
-  and ensures privacy for reliable model training and testing Discover more inside.
+title: Synthetic Tabular Data Generation With CTAB-GAN and TabularARGN
+description: Synthetic tabular data by CTAB-GAN and TabularARGN retains data patterns
+  and privacy while adding outliers for robust training Discover more inside
 ---
 
 ![Image](images/1.jpeg)

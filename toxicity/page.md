@@ -1,7 +1,7 @@
 ---
-title: Effective Toxicity Detection in Machine Learning Models
-description: Toxicity detection helps developers proactively identify and mitigate
-  harmful model outputs to reduce bias and protect users Discover more inside
+title: Toxicity Detection and Mitigation in Machine Learning Models
+description: Toxicity in machine learning models can perpetuate harmful biases developers
+  can measure and mitigate toxic outputs to ensure safer AI Discover more inside
 ---
 
 ![Image](images/1.png)

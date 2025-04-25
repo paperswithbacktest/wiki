@@ -1,6 +1,7 @@
 ---
-title: "Trade Volume Index: Overview and Calculation"
-description: "Explore the Trade Volume Index an essential tool for understanding market trends through price and volume analysis helping traders refine strategies in algorithmic trading."
+title: Understanding the Trade Volume Index for Smarter Trading
+description: Trade Volume Index helps traders spot smart money flows and trend shifts
+  by focusing on volume changes rather than price alone Discover more inside
 ---
 
 

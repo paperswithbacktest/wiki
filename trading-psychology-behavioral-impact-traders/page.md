@@ -1,6 +1,8 @@
 ---
-title: "Trading Psychology and Behavioral Impact on Traders"
-description: "Explore the interplay between trading psychology and algorithmic trading. Understand how emotions like fear and greed impact market behavior and trading strategies."
+title: Mastering Trading Psychology For Consistent Market Success
+description: Trading psychology empowers you to master emotions risk management and
+  cognitive techniques for disciplined trading and long term success Discover more
+  inside.
 ---
 
 

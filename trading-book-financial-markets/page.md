@@ -1,6 +1,7 @@
 ---
-title: "Trading Book in Financial Markets"
-description: "Explore the complexities of algorithmic trading and trading books in financial markets Discover strategies for investment and risk management in this dynamic arena"
+title: Effective Trading Book Management for Short Term Profits
+description: Trading book strategies guide banks to manage risk comply with regulations
+  and boost short term profits using analytics and technology Discover more inside
 ---
 
 
