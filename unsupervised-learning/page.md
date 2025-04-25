@@ -1,6 +1,7 @@
 ---
-title: "Unsupervised Learning"
-description: Discover how unsupervised learning, a form of machine learning without labeled data, is revolutionizing algo trading. Learn about its applications in market segmentation, anomaly detection, and dimension reduction. Explore relevant techniques and challenges. Dive deeper into trading strategies, libraries, packages, and datasets. Become a quant trader and achieve financial independence.
+title: Understanding Unsupervised Learning Methods and Applications
+description: Unsupervised learning reveals hidden patterns in your data with clustering
+  PCA and advanced techniques to drive better decisions Discover more inside
 ---
 
 

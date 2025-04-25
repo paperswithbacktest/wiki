@@ -1,6 +1,7 @@
 ---
-title: "Uncommitted Facility: Overview and Examples"
-description: "Explore how an uncommitted facility provides businesses with flexibility and liquidity while algorithmic trading boosts market efficiency and trading precision."
+title: 'Understanding Uncommitted Facilities: Flexible Business Financing'
+description: Uncommitted facility offers businesses flexible short term funding with
+  interest only on funds used and no long term commitment. Discover more inside
 ---
 
 

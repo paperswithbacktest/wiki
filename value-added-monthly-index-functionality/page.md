@@ -1,6 +1,7 @@
 ---
-title: "Value Added Monthly Index and Its Functionality"
-description: "Explore the Value Added Monthly Index VAMI a key tool for evaluating investment performance over time including its calculation and application in trading."
+title: Value Added Monthly Index Explained for Investment Strategies
+description: Value Added Monthly Index tracks returns from a $1,000 base to simplify
+  performance comparison and highlight compounding growth. Discover more inside.
 ---
 
 

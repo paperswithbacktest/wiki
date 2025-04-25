@@ -1,6 +1,7 @@
 ---
-title: "Unregistered Mutual Fund"
-description: "Explore the intricate world of unregistered mutual funds and their relationship with algorithmic trading. Discover how they impact investment strategies and risk."
+title: Unregistered Mutual Funds Explained Risks Benefits And Strategies
+description: Unregistered mutual funds offer access to diverse assets and creative
+  strategies but carry higher risks. Explore key considerations Discover more inside
 ---
 
 

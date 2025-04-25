@@ -1,6 +1,7 @@
 ---
-title: "United States House Energy and Commerce Committee"
-description: "Explore the pivotal role of the U.S. House Energy and Commerce Committee in shaping policy on energy commerce and the regulation of algorithmic trading."
+title: House Energy and Commerce Committee Overview and Key Functions
+description: House Energy and Commerce Committee shows how Congress shapes energy
+  policy health care and telecom rules to protect citizens Discover more inside
 ---
 
 

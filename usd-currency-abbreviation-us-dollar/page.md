@@ -1,6 +1,7 @@
 ---
-title: "USD: Currency Abbreviation for the U.S. Dollar"
-description: "Discover how the U.S. Dollar plays a pivotal role in algorithmic trading, enhancing efficiency and precision in the global financial markets through advanced strategies."
+title: Understanding USD and Its Role in the Global Economy
+description: USD powers global trade as the official currency of the United States,
+  shaping exchange rates market stability and reserve holdings Discover more inside.
 ---
 
 

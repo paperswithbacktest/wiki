@@ -1,6 +1,7 @@
 ---
-title: "Vela Constellation"
-description: "Explore the intriguing parallels between Southern Hemisphere constellations and algorithmic trading Techniques in data analysis and prediction models reveal unique insights"
+title: 'Exploring the Vela Constellation: Stars, Myths and Objects'
+description: Vela Constellation reveals how to find its brightest stars trace mythic
+  origins and explore deep sky wonders like supernova remnants. Discover more inside.
 ---
 
 

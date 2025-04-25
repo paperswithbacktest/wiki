@@ -1,6 +1,7 @@
 ---
-title: "UST: Overview, Mechanism, Applications"
-description: "Explore the synergy between UST stablecoin and algorithmic trading for optimized strategies and minimized risks in modern trading environments."
+title: Comprehensive Guide to UST Stablecoin on the Terra Network
+description: UST stablecoin uses Terra protocol and LUNA swaps to maintain its dollar
+  peg with decentralized governance and everyday usability Discover more inside
 ---
 
 

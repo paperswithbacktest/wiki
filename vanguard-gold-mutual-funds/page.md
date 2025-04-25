@@ -1,6 +1,7 @@
 ---
-title: "Vanguard Gold Mutual Funds"
-description: "Discover Vanguard's innovative approach to gold investments through mutual funds with algorithmic trading that enhances efficiency and optimizes portfolio performance."
+title: Investing in Vanguard Gold Mutual Funds for Diversification
+description: Vanguard Gold Mutual Funds provide low cost gold exposure through diversified
+  company shares while managing industry risks Discover more inside.
 ---
 
 

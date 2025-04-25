@@ -1,6 +1,8 @@
 ---
-title: "Uncollectible Accounts"
-description: "Explore the integration of accounting practices and algorithmic trading to enhance financial decision-making. Learn about managing uncollectible accounts."
+title: Uncollectible Accounts Explained And Estimation Techniques
+description: Uncollectible accounts reduce profits so we outline key estimation methods
+  management strategies and credit policies to eliminate revenue surprises Discover
+  more inside.
 ---
 
 

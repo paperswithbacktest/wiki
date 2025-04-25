@@ -1,6 +1,7 @@
 ---
-title: "Understanding Change: Concepts and Calculations"
-description: "Explore algorithmic trading with a focus on change calculations vital for strategic decision-making. Learn how traders use these metrics for market success."
+title: Understanding and Calculating Change in Math Science and Trading
+description: Change calculation explains how to measure differences and rates across
+  math science and trading with formulas and examples. Discover more inside.
 ---
 
 

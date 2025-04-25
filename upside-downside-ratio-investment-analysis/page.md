@@ -1,6 +1,7 @@
 ---
-title: "Upside/Downside Ratio in Investment Analysis"
-description: "Explore the pivotal role of the upside/downside ratio in investment strategies to assess market momentum using algorithmic trading for informed decisions."
+title: Mastering the Upside Downside Ratio in Investment Analysis
+description: Upside Downside Ratio helps investors gauge potential gains against losses
+  for smarter portfolio choices using active risk metrics Discover more inside.
 ---
 
 

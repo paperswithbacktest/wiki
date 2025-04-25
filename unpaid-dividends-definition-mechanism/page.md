@@ -1,6 +1,7 @@
 ---
-title: "Unpaid Dividends: Definition and Mechanism"
-description: "Explore the complexities of unpaid dividends, their impact on investment strategies, and how algorithmic trading can optimize returns and manage dividend stocks."
+title: Understanding Unpaid Dividends And Their Impact On Shareholders
+description: Unpaid dividends can impact returns and raise legal risks, this guide
+  explains causes financial impacts and management strategies Discover more inside
 ---
 
 

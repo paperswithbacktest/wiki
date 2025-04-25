@@ -1,6 +1,7 @@
 ---
-title: "U-6 Unemployment Rate: Overview, Factors, and Examples"
-description: "Explore the depth of the U-6 unemployment rate and its role in economic policies and algorithmic trading for a nuanced understanding of the labor market."
+title: Understanding the U-6 Unemployment Rate as a Broader Measure
+description: U-6 unemployment rate reveals underemployed and marginally attached workers
+  to deliver a fuller view of labor market health Discover more inside.
 ---
 
 

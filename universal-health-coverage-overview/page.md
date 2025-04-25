@@ -1,6 +1,7 @@
 ---
-title: "Universal Health Coverage Overview"
-description: "Explore the dynamics of universal health coverage systems worldwide and their financial implications with a focus on accessibility affordability and public health outcomes."
+title: Universal Health Coverage Principles for Equitable Health Systems
+description: Universal Health Coverage provides strategies to ensure equitable access
+  to essential health services without financial hardship Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Van K. Tharp: A Trading Legend"
-description: Explore the influential trading psychology and strategy development work of Van K. Tharp, a renowned American investor and coach. Discover how Tharp's focus on psychological aspects and risk management methodologies enhances algorithmic trading performance. Uncover insights into refining trading systems to align with individual psychology and risk tolerance, optimizing effectiveness in financial markets.
+title: Van K. Tharp Trading Psychology and Position Sizing Strategies
+description: Van K. Tharp trading psychology and position sizing methods help traders
+  control emotions and risk for decisions and steady growth Discover more inside
 ---
 
 

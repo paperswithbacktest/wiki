@@ -1,6 +1,7 @@
 ---
-title: "Uptick rule"
-description: "Explore the Uptick Rule's impact on algorithmic trading and market stability Learn its history role in regulating short selling and influence on trading strategies"
+title: Understanding the Uptick Rule for Stock Market Stability
+description: Uptick rule prevents rapid stock price declines by requiring short sales
+  only on upticks to slow market drops and support stability Discover more inside
 ---
 
 

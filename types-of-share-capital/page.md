@@ -1,6 +1,7 @@
 ---
-title: "Types of Share Capital"
-description: "Explore the critical roles of share capital in corporate finance and how algorithmic trading optimizes trading decisions using advanced analytics for investors."
+title: Exploring Share Capital Types Their Uses and Financial Impact
+description: Share capital clarifies how companies raise funds through authorized
+  issued and reserve capital and guides governance Explore more inside today
 ---
 
 

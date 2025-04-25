@@ -1,6 +1,7 @@
 ---
-title: "History of the U.S. Dollar as the Global Reserve Currency"
-description: "Explore the history of the U.S. Dollar as the global reserve currency and its influence on algorithmic trading, a transformative force in modern finance."
+title: Evolution and Impact of the US Dollar as Global Reserve Currency
+description: US dollar global reserve currency streamlines trade and cuts borrowing
+  costs while exposing historical economic evolution and risks Discover more inside
 ---
 
 

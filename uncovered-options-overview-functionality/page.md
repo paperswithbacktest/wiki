@@ -1,6 +1,7 @@
 ---
-title: "Uncovered Options: Overview and Functionality"
-description: "Explore the overview and functionality of uncovered options in algo trading. Learn how these financial derivatives aid in risk management and investment strategies."
+title: Uncovered Options Risks Strategies and Margin Requirements
+description: Uncovered options expose you to high risk when selling calls or puts
+  without owning the underlying asset Control margins and risks Discover more inside
 ---
 
 

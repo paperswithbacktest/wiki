@@ -1,6 +1,7 @@
 ---
-title: "Unsystematic Risk: Types and Measurements"
-description: "Explore the intricacies of managing unsystematic risk in algorithmic trading by understanding its types and effective mitigation strategies for stable portfolios."
+title: Understanding Unsystematic Risk to Enhance Portfolio Performance
+description: Unsystematic risk affects individual firms but can be managed through
+  diversification and targeted analysis to protect portfolios Discover more inside
 ---
 
 

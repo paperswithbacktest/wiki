@@ -1,6 +1,7 @@
 ---
-title: "Up-and-Out Option: Definition and Functionality"
-description: "Explore the advantages of up-and-out options in algo trading. Learn how these barrier options offer cost-effective risk management and profit potential."
+title: Understanding Up-And-Out Options For Targeted Risk Strategies
+description: Up-and-out options offer investors targeted ways to bet on assets staying
+  below a barrier at lower cost while managing risk Discover more inside
 ---
 
 

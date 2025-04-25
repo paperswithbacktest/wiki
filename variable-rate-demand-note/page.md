@@ -1,6 +1,7 @@
 ---
-title: "Variable Rate Demand Note"
-description: "Explore the intricacies of Variable Rate Demand Notes (VRDNs) and their significance in municipal financing and investment strategy. Learn how these instruments offer variable interest rates, liquidity through a 'put' option, and tax advantages for savvy investors. Discover their role in algorithmic trading, enabling optimized portfolio performance in dynamic market conditions. This comprehensive guide is essential for financial professionals and investors looking to capitalize on VRDNs' unique characteristics and adaptability."
+title: Understanding Variable Rate Demand Notes for Flexible Investments
+description: Variable Rate Demand Notes offer flexible rate resets and anytime liquidity
+  to optimize short term investments for greater flexibility Discover more inside.
 ---
 
 

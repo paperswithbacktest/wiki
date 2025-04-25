@@ -1,6 +1,7 @@
 ---
-title: "Use of Seasonally Adjusted Consumer Price Index Data"
-description: "Explore how seasonally adjusted Consumer Price Index data enhances algorithmic trading strategies by providing clearer insights into inflation trends and market dynamics."
+title: Understanding Seasonally Adjusted Consumer Price Index
+description: Seasonally adjusted Consumer Price Index provides a clear view of true
+  inflation trends by filtering out seasonal swings Discover more inside
 ---
 
 

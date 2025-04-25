@@ -1,7 +1,7 @@
 ---
-title: Achieving Unawareness to Sensitive Attributes in Machine Learning
-description: Unawareness in machine learning helps reduce bias by excluding sensitive
-  attributes and ensuring fair decisions across all groups Discover more inside.
+title: Unawareness to Sensitive Attributes in Machine Learning
+description: Unawareness in machine learning ensures models ignore sensitive attributes
+  like race and gender to reduce bias and enhance fairness Discover more inside
 ---
 
 ![Image](images/1.png)

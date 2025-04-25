@@ -1,6 +1,7 @@
 ---
-title: "Using the Rule of 70 to Estimate GDP Growth"
-description: "Explore the Rule of 70 to swiftly estimate GDP doubling time with its growth rate Discover its importance in economic analysis and algorithmic trading today"
+title: Understanding the Rule of 70 for Estimating GDP Doubling Time
+description: Rule of 70 shows how to estimate GDP doubling time using annual growth
+  rates and real GDP figures and offers practical examples Discover more inside
 ---
 
 

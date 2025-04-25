@@ -1,6 +1,7 @@
 ---
-title: "Unregistered Shares: Overview and Considerations"
-description: "Explore the dynamics of unregistered shares in algo trading Understand how private securities and regulatory frameworks shape market liquidity and investor opportunities"
+title: Understanding Unregistered Shares In Private Company Ownership
+description: Unregistered shares guide insiders and private investors through registration,
+  trading restrictions, tax implications. Discover more inside.
 ---
 
 

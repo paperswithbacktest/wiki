@@ -1,6 +1,7 @@
 ---
-title: "Uniform Securities Act: Overview and Application"
-description: "Explore the Uniform Securities Act and its application in the rise of algorithmic trading which enhances efficiency but raises regulatory challenges."
+title: Understanding the Uniform Securities Act for Investor Protection
+description: Uniform Securities Act outlines state rules on registration exemptions
+  enforcement and adviser obligations to safeguard investors Discover more inside.
 ---
 
 

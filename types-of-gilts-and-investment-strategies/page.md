@@ -1,6 +1,7 @@
 ---
-title: "Types of Gilts and Investment Strategies"
-description: "Optimize your investment portfolio with gilts and advanced algorithmic trading strategies Learn how to balance risk and enhance returns in the modern market"
+title: Understanding UK Government Gilts for Secure Investment
+description: Gilts provide a low-risk investment backed by the UK government offering
+  fixed and inflation-linked returns to diversify portfolios Discover more inside
 ---
 
 

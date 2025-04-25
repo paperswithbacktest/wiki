@@ -1,6 +1,7 @@
 ---
-title: "Undervalued in Value Investing"
-description: "Explore how integrating value investing's fundamentals with algorithmic trading's precision enhances investment strategies offering informed decision-making and optimized returns."
+title: Value Investing Guide to Identifying Undervalued Stocks
+description: Value investing teaches you to spot undervalued stocks using key ratios
+  intrinsic value and margin of safety to find long term gains Discover more inside
 ---
 
 

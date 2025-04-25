@@ -1,6 +1,7 @@
 ---
-title: "Unamortized Bond Premium"
-description: "Explore the impact of unamortized bond premiums on investment strategies and financial reporting. Learn about its role in modern algorithmic trading."
+title: Understanding Unamortized Bond Premium and Its Impact
+description: Unamortized bond premium impacts carrying value and interest expense
+  over its life ensuring accurate financial reporting. Discover more inside.
 ---
 
 

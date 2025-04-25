@@ -1,6 +1,7 @@
 ---
-title: "Types of Discounts"
-description: "Explore diverse discount strategies in algorithmic trading, including volume and seasonal discounts, as tools for optimizing trades and boosting profitability."
+title: Comprehensive Guide to Discount Types and Strategies
+description: Discount types from percentage and fixed amounts to BOGO volume and loyalty
+  programs optimize pricing and boost customer retention Discover more inside.
 ---
 
 

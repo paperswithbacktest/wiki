@@ -1,6 +1,7 @@
 ---
-title: "Types of Vertical Option Spreads"
-description: "Explore the mechanics of vertical option spreads in algo trading Learn how these strategies enhance efficiency and risk management in today's market landscape"
+title: Understanding Risk And Reward In Vertical Option Spreads
+description: Vertical option spreads combine bull and bear call and put strategies
+  with strike selection and expiration timing for defined risk Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Utility Function: Examples and Calculations"
-description: "Explore the role of utility functions in economic theory and algorithmic trading Learn how they measure satisfaction optimize portfolios and predict consumer behavior"
+title: Understanding Utility Functions For Economic Decision Making
+description: Utility functions measure satisfaction across choices and guide economic
+  decisions by quantifying happiness to predict behavior. Discover more inside.
 ---
 
 

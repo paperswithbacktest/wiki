@@ -1,6 +1,7 @@
 ---
-title: "Vanilla Options: Types, Features, and Examples"
-description: "Discover how vanilla options and algorithmic trading synergize to optimize financial strategies Learn about essential types features and practical examples"
+title: A Comprehensive Guide to Vanilla Options and Trading Strategies
+description: Vanilla options explain how investors can use call and put contracts
+  for actively hedging portfolios and leveraging price moves Discover more inside
 ---
 
 

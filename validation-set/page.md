@@ -1,7 +1,7 @@
 ---
 title: Understanding Validation Sets in Machine Learning Model Training
-description: Validation set guides machine learning models to avoid overfitting and
-  fine tune hyperparameters for real world data performance Discover more inside.
+description: Validation set helps you fine-tune machine learning models by preventing
+  overfitting and guiding hyperparameter selection Discover more inside.
 ---
 
 ![Image](images/1.png)

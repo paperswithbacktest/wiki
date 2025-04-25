@@ -1,6 +1,7 @@
 ---
-title: "Understanding the Money Market"
-description: "Explore the intricacies of money market investments and algorithmic trading Discover how to balance risk and return using financial instruments and strategies"
+title: Comprehensive Guide to Money Market Instruments and Strategies
+description: Money market fundamentals show how short term instruments like T bills
+  CDs and commercial paper keep cash flowing and markets stable Discover more inside
 ---
 
 

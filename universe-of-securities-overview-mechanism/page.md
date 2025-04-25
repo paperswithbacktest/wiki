@@ -1,6 +1,7 @@
 ---
-title: "Universe of Securities: Overview and Mechanism"
-description: "Explore how investment securities, finance, and algorithmic trading combine to create efficient market transactions with advanced strategies and AI technology."
+title: Understanding Financial Securities and Their Market Role
+description: Financial securities cover stocks bonds and derivatives detailing types
+  functions risks and market dynamics in active markets Discover more inside.
 ---
 
 

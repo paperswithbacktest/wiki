@@ -1,6 +1,7 @@
 ---
-title: "Value of Silver Certificate Dollar Bills"
-description: "Explore the historical and collectible value of Silver Certificate Dollar Bills, and discover how algorithmic trading can influence this niche market."
+title: Silver Certificate Dollar Bills History Value and Collecting
+description: Silver Certificate Dollar Bills explain their history and collectible
+  value with tips on identification and investment. Discover more inside.
 ---
 
 

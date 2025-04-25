@@ -1,6 +1,7 @@
 ---
-title: "Utility Revenue Bonds"
-description: "Explore how algorithmic trading is transforming municipal bonds including utility revenue bonds by enhancing market efficiency and investment strategies."
+title: Understanding Utility Revenue Bonds for Infrastructure Financing
+description: Utility Revenue Bonds provide a reliable funding source for essential
+  utility projects using customer fees to repay investors Discover more inside.
 ---
 
 

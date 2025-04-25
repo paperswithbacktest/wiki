@@ -1,6 +1,7 @@
 ---
-title: "Unrestricted Net Assets"
-description: "Explore how unrestricted net assets enhance financial flexibility in algorithmic trading offering organizations a strategic edge to thrive in dynamic markets."
+title: Unrestricted Net Assets Explained for Nonprofit Organizations
+description: Unrestricted net assets let organizations allocate funds freely, support
+  everyday operations and respond to emergencies. Discover more inside.
 ---
 
 

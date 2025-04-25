@@ -1,6 +1,7 @@
 ---
-title: "Velocity of Money: Overview and Examples"
-description: "Explore how the velocity of money interacts with algorithmic trading in this comprehensive guide. Learn about the significant role of money velocity in economic activity and its mathematical representation. Discover how algorithmic trading leverages financial metrics for enhanced trading strategies, offering practical insights and examples to enrich your understanding."
+title: Understanding the Velocity of Money in Modern Economies
+description: Velocity of Money measures how often a dollar circulates in the economy
+  and reveals insights on spending, inflation and policy. Discover more inside.
 ---
 
 

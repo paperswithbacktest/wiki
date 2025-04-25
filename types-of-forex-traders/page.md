@@ -1,6 +1,7 @@
 ---
-title: "Types of Forex Traders"
-description: "Explore the diverse strategies of forex traders and the impact of algorithmic trading. Learn how different types integrate traditional and automated methods for success."
+title: Understanding Forex Trader Types and Trading Strategies
+description: Forex trader types are explained from day trading and scalping to algorithmic
+  and carry strategies with risk management insights Discover more inside
 ---
 
 

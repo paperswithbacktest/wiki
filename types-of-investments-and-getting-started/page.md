@@ -1,6 +1,7 @@
 ---
-title: "Types of Investments and Getting Started"
-description: "Discover the basics of various investments and embrace the potential of algorithmic trading. Learn how to build a diversified portfolio and enhance financial literacy."
+title: Practical Investment Options for Beginners and New Investors
+description: Investment options for beginners cover stocks bonds ETFs CDs and diversified
+  portfolios to help you start investing with confidence Discover more inside
 ---
 
 

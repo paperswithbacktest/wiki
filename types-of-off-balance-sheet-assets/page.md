@@ -1,6 +1,7 @@
 ---
-title: "Types of Off-Balance Sheet Assets"
-description: "Explore the role of off-balance sheet assets in algorithmic trading and understand their impact on financial reporting transparency and investment strategies."
+title: Analyzing Off-Balance Sheet Assets for Clear Financial Reporting
+description: Off-Balance Sheet Assets can obscure a companys financial health Revealing
+  their impact clarifies risk and transparency for investors Discover more inside
 ---
 
 

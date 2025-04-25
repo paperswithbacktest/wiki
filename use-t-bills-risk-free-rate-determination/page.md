@@ -1,6 +1,7 @@
 ---
-title: "Use of T-Bills in Risk-Free Rate Determination"
-description: "Explore the significance of T-Bills in determining the risk-free rate for financial models. Learn how algo trading optimizes T-Bill strategies in today's markets."
+title: Understanding T-Bills and Their Role in Risk-Free Rates
+description: T-Bills define the baseline risk-free rate for secure short-term investments
+  and shape CAPM and arbitrage analysis frameworks. Discover more inside.
 ---
 
 

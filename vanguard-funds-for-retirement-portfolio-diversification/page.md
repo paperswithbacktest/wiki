@@ -1,6 +1,7 @@
 ---
-title: "Vanguard Funds for Retirement Portfolio Diversification"
-description: "Explore how Vanguard funds enhance retirement portfolio diversification and the role of algorithmic trading in optimizing returns for a stable financial future."
+title: Building a Secure Retirement Portfolio With Vanguard Funds
+description: Vanguard funds help you build a diversified retirement portfolio with
+  low fees and automatic rebalancing for steady growth Discover more inside
 ---
 
 

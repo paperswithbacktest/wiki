@@ -1,6 +1,7 @@
 ---
-title: "Unconventional Oil: Overview and Examples"
-description: "Discover how unconventional oil extraction paired with algorithmic trading is transforming the oil industry with innovative techniques and strategic trading."
+title: The Rise Of Unconventional Oil Sources And Their Global Impacts
+description: Unconventional oil extraction techniques shape energy security and environmental
+  policy with insights on methods impacts Discover more inside.
 ---
 
 

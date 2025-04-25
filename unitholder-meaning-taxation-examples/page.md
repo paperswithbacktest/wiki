@@ -1,6 +1,7 @@
 ---
-title: "Unitholder: Meaning, Taxation, and Examples"
-description: "Explore the intricate relationship between unitholder investments, taxation, and algorithmic trading to optimize returns, ensure compliance, and manage tax burdens."
+title: Understanding Unitholder Rights and Tax Obligations
+description: Unitholder guidance on distribution rights tax obligations income reporting
+  capital gains and tax strategies for compliance Discover more inside.
 ---
 
 

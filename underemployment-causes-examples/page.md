@@ -1,6 +1,7 @@
 ---
-title: "Underemployment: Causes and Examples"
-description: "Explore underemployment's impact and algorithmic trading's role in today's economy Understand their effects on jobs markets and economic stability"
+title: Understanding Underemployment Effects on Workforce and Economy
+description: Underemployment forces skilled workers into low-level roles and part-time
+  jobs, reducing earnings and slowing economic growth Discover more inside.
 ---
 
 

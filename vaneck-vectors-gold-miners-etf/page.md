@@ -1,6 +1,7 @@
 ---
-title: "VanEck Vectors Gold Miners ETF"
-description: "Explore the VanEck Vectors Gold Miners ETF as it offers diversified exposure to major global gold mining companies with algorithmic trading insights."
+title: VanEck Vectors Gold Miners ETF Comprehensive Investor Guide
+description: VanEck Vectors Gold Miners ETF offers broad exposure to gold mining companies
+  with diversified risk and easy market access. Discover more inside.
 ---
 
 

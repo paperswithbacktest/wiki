@@ -1,6 +1,7 @@
 ---
-title: "Types of Brokerage Accounts"
-description: "Explore the essentials of brokerage and investment accounts alongside algorithmic trading strategies to optimize financial growth and secure your future."
+title: Understanding Different Types of Investment Accounts
+description: Investment accounts guide helps you compare cash accounts margin accounts
+  IRAs and robo advisors to match investments with your goals Discover more inside.
 ---
 
 

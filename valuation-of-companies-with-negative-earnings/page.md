@@ -1,6 +1,7 @@
 ---
-title: "Valuation of Companies with Negative Earnings"
-description: "Explore the complexities of valuing companies with negative earnings Learn alternative methodologies and strategies for analyzing high-risk investment opportunities"
+title: Effective Valuation Methods for Companies With Negative Earnings
+description: Valuing companies with negative earnings uses metrics like price to sales
+  ratios, cash flow and growth projections to uncover value Discover more inside.
 ---
 
 

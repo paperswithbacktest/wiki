@@ -1,6 +1,7 @@
 ---
-title: "Types of Traders"
-description: "Discover the nuances of trading styles and trader types in the evolving world of algo trading boosting financial acumen for better investment decisions."
+title: Understanding the Different Types of Traders and Strategies
+description: Types of Traders shows strategies from day trading to algorithmic approaches
+  so you can choose the right style for market conditions. Discover more inside.
 ---
 
 

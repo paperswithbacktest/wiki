@@ -1,7 +1,7 @@
 ---
-title: Uplift Modeling in Machine Learning for Targeted Campaigns
-description: Uplift modeling predicts how targeted actions change customer behavior
-  to boost campaign efficiency and reduce wasted outreach. Discover more inside.
+title: Uplift Modeling in Machine Learning for Marketing Optimization
+description: Uplift modeling predicts how promotions change customer behavior so you
+  can target campaigns more effectively with causal insights Discover more inside
 ---
 
 ![Image](images/1.png)

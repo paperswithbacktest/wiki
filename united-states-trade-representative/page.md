@@ -1,6 +1,7 @@
 ---
-title: "United States Trade Representative"
-description: "Explore the intersection of U.S. trade policies by the USTR and algorithmic trading to understand their impact on economic growth and global competitiveness."
+title: United States Trade Representative Roles and Responsibilities
+description: United States Trade Representative negotiates trade agreements ensures
+  compliance resolves disputes and supports US businesses Discover more inside.
 ---
 
 

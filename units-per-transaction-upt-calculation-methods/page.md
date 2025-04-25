@@ -1,6 +1,7 @@
 ---
-title: "Units Per Transaction (UPT) and Calculation Methods"
-description: "Discover how Units Per Transaction (UPT) can enhance retail strategies and performance Dive into calculation methods and learn how algorithmic trading aids success"
+title: Maximizing Units Per Transaction to Boost Retail Performance
+description: Units Per Transaction reveals how many items each customer buys per visit
+  and offers insights to boost average order size. Discover more inside.
 ---
 
 

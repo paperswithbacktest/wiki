@@ -1,6 +1,7 @@
 ---
-title: "Underlying Security: Overview and Example"
-description: "Explore the vital role of underlying securities in algorithmic trading including examples like stocks and commodities and see how they drive market dynamics."
+title: Understanding Underlying Securities And Their Role In Derivatives
+description: Underlying securities underpin derivatives by reflecting asset price
+  changes in options and futures pricing for risk management. Discover more inside.
 ---
 
 

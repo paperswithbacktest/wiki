@@ -1,6 +1,7 @@
 ---
-title: "United States Export Restrictions: Overview and Mechanisms"
-description: "Explore the intricacies of US trade policy focusing on export restrictions and their impact on global trade and algorithmic trading systems compliance."
+title: U.S. Export Controls And Restrictions Explained For Businesses
+description: U.S. export controls protect national security and the economy by regulating
+  dual use and defense items with clear licensing steps Discover more inside.
 ---
 
 

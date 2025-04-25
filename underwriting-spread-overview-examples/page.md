@@ -1,6 +1,7 @@
 ---
-title: "Underwriting Spread: Overview and Examples"
-description: "Explore the role of algorithmic trading in modern finance focusing on underwriting spreads This guide examines its impact on trading strategies and market dynamics"
+title: Understanding Underwriting Spread in Public Offerings
+description: Underwriting spread shows how banks cover costs risks and profit in securities
+  sales while guiding investor risk assessment Discover more inside
 ---
 
 

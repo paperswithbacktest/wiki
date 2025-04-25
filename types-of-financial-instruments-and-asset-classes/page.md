@@ -1,6 +1,7 @@
 ---
-title: "Types of Financial Instruments and Asset Classes"
-description: "Discover the key financial instruments and asset classes essential for designing robust investment strategies. Optimize your understanding of algorithmic trading."
+title: Financial Instruments and Asset Classes Explained for Investors
+description: Financial instruments encompass stocks bonds loans and derivatives empowering
+  you to diversify risk and optimize returns Discover more inside.
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Upweighting In Machine Learning For Improved Model Performance
-description: Upweighting in machine learning helps models focus on critical or underrepresented
-  data to boost performance and reduce bias Discover more inside.
+title: Upweighting in Machine Learning Models for Improved Training
+description: Upweighting in machine learning improves model focus on critical or underrepresented
+  samples by adjusting loss function weights for better performance Discover more
+  inside.
 ---
 
 ![Image](images/1.png)

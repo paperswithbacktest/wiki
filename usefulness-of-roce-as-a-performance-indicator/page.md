@@ -1,6 +1,7 @@
 ---
-title: "Usefulness of ROCE as a Performance Indicator"
-description: "Explore the importance of Return on Capital Employed in algorithmic trading by understanding how this financial indicator enhances trading strategies and decision-making."
+title: Return On Capital Employed For Optimal Investment Decisions
+description: ROCE shows how efficiently companies turn capital into profit and offers
+  clear guidance on calculation comparison and adjustments. Discover more inside.
 ---
 
 

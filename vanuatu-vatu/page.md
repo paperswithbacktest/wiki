@@ -1,6 +1,7 @@
 ---
-title: "Vanuatu Vatu"
-description: "Discover the transformative potential of algorithmic trading for Vanuatu's Vatu as this emerging financial technology reshapes liquidity and market access."
+title: Vanuatu Vatu Currency Guide History Value and Management
+description: Vanuatu Vatu overview covers its history denominations security features
+  and economic role managed by the Reserve Bank of Vanuatu Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Unsterilized Foreign Exchange Intervention"
-description: "Explore how unsterilized foreign exchange interventions and algorithmic trading influence currency markets and economic stability in today's digital economy."
+title: Understanding Unsterilized Foreign Exchange Intervention
+description: Unsterilized foreign exchange intervention alters money supply and interest
+  rates to influence currency value and economic growth Discover more inside.
 ---
 
 

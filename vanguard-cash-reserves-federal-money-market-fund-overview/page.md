@@ -1,6 +1,7 @@
 ---
-title: "Vanguard Cash Reserves Federal Money Market Fund Overview"
-description: "Discover the stability and liquidity of Vanguard's Cash Reserves Federal Money Market Fund and explore its integration with cutting-edge algorithmic trading strategies."
+title: Vanguard Cash Reserves Federal Money Market Fund Complete Guide
+description: Vanguard Cash Reserves Federal Money Market Fund offers secure short-term
+  government investments to preserve capital and earn interest Discover more inside.
 ---
 
 

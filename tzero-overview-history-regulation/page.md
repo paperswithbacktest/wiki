@@ -1,6 +1,7 @@
 ---
-title: "tZero: Overview, Historical Context, and Regulatory Aspects"
-description: "Discover how tZero leverages blockchain and algorithmic trading to revolutionize financial markets enhancing transparency, efficiency, and regulatory compliance."
+title: tZero Blockchain Platform Enables Faster Secure Stock Trading
+description: tZero uses blockchain to simplify and accelerate stock trading, cutting
+  out middle steps for faster and more transparent transactions. Discover more inside
 ---
 
 

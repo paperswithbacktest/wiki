@@ -1,6 +1,7 @@
 ---
-title: "Underperformance: Overview and Examples"
-description: "Explore underperformance in algo trading through an in-depth overview and examples Learn how to identify correct and improve trading strategies effectively"
+title: Understanding Underperformance Causes and Solutions
+description: Underperformance reduces team output, defines causes from skill gaps
+  to leadership and shows proven interventions Discover more inside
 ---
 
 

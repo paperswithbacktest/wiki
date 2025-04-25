@@ -1,7 +1,7 @@
 ---
-title: An Overview of Unpaired Image-to-Image Translation Methods
-description: Unpaired image-to-image translation uses advanced models to transform
-  images without paired data while preserving key details Discover more inside
+title: Exploring Unpaired Image-to-Image Translation Techniques
+description: Unpaired image-to-image translation uses CycleGAN to convert images between
+  domains without paired data and preserves key features Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Unappropriated Retained Earnings"
-description: "Explore the flexibility and strategic importance of unappropriated retained earnings in corporate finance Discover how companies leverage these for growth and stability"
+title: Understanding Unappropriated Retained Earnings for Company Growth
+description: Unappropriated retained earnings help companies fund growth debt repayment
+  and dividends while maintaining a financial safety net Discover more inside.
 ---
 
 

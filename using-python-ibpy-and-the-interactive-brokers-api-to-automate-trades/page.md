@@ -1,6 +1,7 @@
 ---
-title: "Using Python, IBPy, and the Interactive Brokers API to Automate Trades"
-description: Explore the world of algorithmic trading using Python, IBPy, and the Interactive Brokers API. Learn how to automate trades and optimize strategies with Interactive Brokers, a top brokerage choice for algo trading enthusiasts. Discover the power of Interactive Brokers' API suite, which offers tools for novice and expert traders alike to execute automated trades across global markets efficiently. Uncover the ease of integrating third-party libraries like IbPy and IBridgePy with the IB API, enhancing your trading capabilities without directly interacting with the API's core functions.
+title: Python Trading Automation With IBPy and Interactive Brokers API
+description: Python trading automation with IBPy for Interactive Brokers API executes
+  trades, streams market data, and manages risk seamlessly Discover more inside.
 ---
 
 

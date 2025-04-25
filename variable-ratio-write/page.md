@@ -1,6 +1,7 @@
 ---
-title: "Variable Ratio Write"
-description: "Explore the synergy between variable ratio data storage and algorithmic trading to optimize data handling for high-frequency trading and profit strategies."
+title: Understanding the Variable Ratio Write Options Trading Strategy
+description: Variable Ratio Write helps traders earn extra premiums by selling more
+  call options than shares covering risk limits for stock rallies Discover more inside
 ---
 
 

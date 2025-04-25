@@ -1,6 +1,7 @@
 ---
-title: "Unofficial Strikes: Overview, Causes, and Examples"
-description: "Explore how unofficial strikes and algorithmic trading influence today's financial markets. Discover their roles, implications, and potential industry impacts."
+title: 'Unofficial Strikes: Risks, Impact and Legal Protections'
+description: Unofficial strikes expose workers to job loss legal challenges and disrupt
+  productivity Explore causes impacts and prevention tactics Discover more inside
 ---
 
 

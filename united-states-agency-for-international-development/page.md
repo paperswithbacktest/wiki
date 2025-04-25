@@ -1,6 +1,7 @@
 ---
-title: "United States Agency for International Development"
-description: "Explore how the United States, through USAID and algorithmic trading, influences global economic stability and development. Discover the pivotal roles they play."
+title: USAID Mission Funding and Global Development Initiatives
+description: USAID presents its mission funding and program impact across health education
+  agriculture democracy and disaster relief worldwide Discover more inside
 ---
 
 

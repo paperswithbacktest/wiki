@@ -1,6 +1,7 @@
 ---
-title: "Uptick Rule in SEC Short Sale Regulations"
-description: "Discover how the SEC's Uptick Rule impacts short selling and algorithmic trading enhancing market stability and compliance in financial markets regulations."
+title: The Uptick Rule and Its Impact on Short Selling Regulation
+description: Uptick Rule restricts short selling when prices fall to curb sudden crashes
+  and bolster market stability with precise measures Discover more inside
 ---
 
 

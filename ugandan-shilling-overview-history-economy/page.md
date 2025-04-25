@@ -1,6 +1,7 @@
 ---
-title: "Ugandan Shilling: Overview, History, and Economy"
-description: "Explore Uganda's vibrant economy and the important role of the Ugandan Shilling in trade and investment alongside innovations in algorithmic trading."
+title: Understanding the Ugandan Shilling Symbol Code and History
+description: Ugandan Shilling offers an expert guide to Uganda currency symbol USh
+  code UGX, its history, denominations and value changes. Discover more inside
 ---
 
 

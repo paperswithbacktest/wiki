@@ -1,6 +1,7 @@
 ---
-title: "Vanguard LifeStrategy Growth Fund: Top Holdings"
-description: "Explore the Vanguard LifeStrategy Growth Fund's top holdings and the role of algorithmic trading in optimizing investment strategies for growth and risk management."
+title: Vanguard LifeStrategy Growth Fund Top Holdings Overview
+description: Vanguard LifeStrategy Growth Fund offers a balanced mix of 80% stocks
+  and 20% bonds to simplify global long term investing Discover more inside.
 ---
 
 

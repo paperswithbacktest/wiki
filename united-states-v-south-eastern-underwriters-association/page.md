@@ -1,6 +1,7 @@
 ---
-title: "United States v. South-Eastern Underwriters Association"
-description: "Dive into the pivotal United States v South-Eastern Underwriters Association case that reshaped antitrust laws in insurance, intersecting with modern algo trading challenges."
+title: United States v South-Eastern Underwriters Antitrust Ruling
+description: United States v South-Eastern Underwriters Association case redefined
+  insurance regulation and enforced antitrust compliance Discover more inside
 ---
 
 

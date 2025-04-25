@@ -1,6 +1,7 @@
 ---
-title: "United Nations: Purpose, Structure, and Membership"
-description: "Explore the intriguing intersection of technology and global collaboration as the United Nations considers incorporating algorithmic trading to enhance policy efficiency."
+title: Understanding United Nations Structure Purpose And Key Functions
+description: United Nations coordinates global peace security development and human
+  rights through its distinct structure and agencies. Discover more inside.
 ---
 
 

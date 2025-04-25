@@ -1,6 +1,7 @@
 ---
-title: "United States Secretary of Labor: Responsibilities and Functions"
-description: "Explore how the U.S. Secretary of Labor navigates the impact of algorithmic trading on labor regulations adapting to technological advancements in modern industries."
+title: Role and Responsibilities of the United States Secretary of Labor
+description: United States Secretary of Labor enforces policies to protect workers
+  rights ensure fair pay safe workplaces and offers job training Discover more inside
 ---
 
 

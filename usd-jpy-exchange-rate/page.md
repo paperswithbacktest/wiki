@@ -1,6 +1,7 @@
 ---
-title: "USD/JPY Exchange Rate"
-description: "Explore how the USD/JPY exchange rate is influenced by algorithmic trading This guide examines key factors impacting this major forex pair for traders and investors"
+title: Understanding the USD/JPY Exchange Rate Dynamics and Drivers
+description: USD/JPY exchange rate guide breaks down core economic and market factors
+  to help you make informed trading decisions effectively Discover more inside.
 ---
 
 

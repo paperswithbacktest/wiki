@@ -1,6 +1,7 @@
 ---
-title: "Types of Indexing in ETF Performance"
-description: "Explore the different types of indexing in ETF performance and how they enhance investment strategies with the power of algorithmic trading."
+title: ETF Indexing Strategies Explained for Professional Investors
+description: ETF indexing strategies cover full replication sampling market cap equal
+  and smart beta to enhance fund performance and cost analysis Discover more inside
 ---
 
 

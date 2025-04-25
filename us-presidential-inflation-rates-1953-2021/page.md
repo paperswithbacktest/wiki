@@ -1,6 +1,7 @@
 ---
-title: "U.S. Presidential Inflation Rates: 1953–2021"
-description: "Explore the intricate relationship between U.S. presidential policies and inflation rates from 1953 to 2021, highlighting how economic strategies were crafted to address changing inflationary pressures and stabilize the economy. Delve into the historical context of fiscal measures, global events, and the rise of algorithmic trading in shaping market operations and influencing inflation indirectly. This comprehensive analysis provides insights into the evolving interplay between policy-making, technology, and market dynamics in the U.S. economic landscape."
+title: Inflation Trends Under U.S. Presidents From 1953 to 2021
+description: U.S. inflation rates from 1953 to 2021 reveal how presidential policies
+  and global events shaped price growth over decades Discover more inside.
 ---
 
 

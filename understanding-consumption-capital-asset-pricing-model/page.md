@@ -1,6 +1,7 @@
 ---
-title: "Understanding the Consumption Capital Asset Pricing Model"
-description: "Delve into the Consumption Capital Asset Pricing Model to understand how consumption patterns impact asset prices beyond market data in algo trading."
+title: Understanding the Consumption Capital Asset Pricing Model
+description: Consumption Capital Asset Pricing Model ties consumption growth to asset
+  returns with consumption beta and risk aversion analysis. Discover more inside
 ---
 
 

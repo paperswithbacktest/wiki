@@ -1,6 +1,7 @@
 ---
-title: "Types of Investment Portfolios"
-description: "Explore the synergy between investment portfolio management and algorithmic trading to optimize returns with balanced risk. Learn key strategies for modern investors."
+title: Comprehensive Guide to Building an Effective Investment Portfolio
+description: Investment portfolio strategies help you balance risk and growth with
+  asset allocation diversification and dynamic management Discover more inside.
 ---
 
 

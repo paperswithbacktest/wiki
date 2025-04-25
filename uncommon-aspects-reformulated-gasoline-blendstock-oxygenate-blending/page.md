@@ -1,6 +1,7 @@
 ---
-title: "Uncommon Aspects of Reformulated Gasoline Blendstock for Oxygenate Blending"
-description: "Explore the impact of algorithmic trading on the RBOB gasoline market enhancing efficiency accuracy and transparency in fuel industry trading dynamics."
+title: Understanding RBOB Gasoline Blendstock for Cleaner Emissions
+description: RBOB enables fuel suppliers to customize gasoline blends for cleaner
+  air and regulatory compliance across regions this summer Discover more inside
 ---
 
 

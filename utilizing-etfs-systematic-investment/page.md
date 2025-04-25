@@ -1,6 +1,7 @@
 ---
-title: "Utilizing ETFs for Systematic Investment"
-description: "Discover how integrating ETFs with systematic investment strategies and algorithmic trading can optimize your financial portfolio for long-term success."
+title: Systematic ETF Investing for Diversified Long Term Growth
+description: ETFs offer a low cost path to diversify your portfolio through regular
+  systematic investments while managing risk and fees Discover more inside
 ---
 
 

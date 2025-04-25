@@ -1,6 +1,7 @@
 ---
-title: "Vanguard Total Stock Market ETF"
-description: "Explore how algorithmic trading enhances investment strategies with Vanguard ETFs offering cost-effective, diversified assets optimizing portfolio performance."
+title: Vanguard Total Stock Market ETF Comprehensive Investment Guide
+description: Vanguard Total Stock Market ETF delivers broad US market exposure with
+  low fees and simple trading for diversified long term growth Discover more inside
 ---
 
 

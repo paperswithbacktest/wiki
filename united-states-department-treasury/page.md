@@ -1,6 +1,7 @@
 ---
-title: "United States Department of the Treasury"
-description: "Explore how the U.S. Department of the Treasury employs innovative practices like algorithmic trading to enhance financial stability and manage national resources."
+title: Understanding the United States Department of the Treasury
+description: Treasury Department manages federal finances collects taxes prints currency
+  and fights financial crimes to support economic stability Discover more inside
 ---
 
 

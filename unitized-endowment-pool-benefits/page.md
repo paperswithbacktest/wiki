@@ -1,6 +1,7 @@
 ---
-title: "Unitized Endowment Pool and Its Benefits"
-description: "Explore the benefits of Unitized Endowment Pools and algorithmic trading in maximizing endowment investments. Learn innovative strategies and reduce risks effectively."
+title: Effective Management of Unitized Endowment Pools for Institutions
+description: Unitized Endowment Pool management merges donations into share-like units
+  to streamline investing reduce costs and grow funds Discover more inside
 ---
 
 

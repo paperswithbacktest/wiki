@@ -1,6 +1,7 @@
 ---
-title: "Value at Risk and Its Calculation"
-description: "Discover the significance of Value at Risk in algorithmic trading Learn how it predicts potential portfolio losses and aids in effective risk management"
+title: Comprehensive Guide to Value at Risk for Finance Professionals
+description: Value at Risk measures potential losses at specified confidence levels
+  using historical simulation variance covariance and Monte Carlo Discover more inside
 ---
 
 

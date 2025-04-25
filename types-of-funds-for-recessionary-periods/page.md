@@ -1,6 +1,7 @@
 ---
-title: "Types of Funds for Recessionary Periods"
-description: "Discover effective fund options like government bonds and dividend funds designed to provide stability and growth opportunities during economic recessions."
+title: Choosing the Right Investment Funds During a Recession
+description: Investment funds during a recession can protect and grow your money by
+  balancing risk across stocks, bonds and safe assets Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Types of Investment Notes"
-description: "Explore diverse investment notes in algorithmic trading emphasizing stocks bonds and innovative tech-driven options to manage risk and maximize returns"
+title: Comprehensive Guide To Different Types Of Investment Notes
+description: Investment notes explain fixed floating convertible secured high yield
+  options with key risks benefits and portfolio strategies Discover more inside.
 ---
 
 

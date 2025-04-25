@@ -1,6 +1,7 @@
 ---
-title: "Understanding Failure to Deliver (FTD)"
-description: "Explore the implications of Failure to Deliver (FTD) in algo trading and global markets Understand causes impacts and regulatory measures to mitigate risks"
+title: Understanding Failure to Deliver in the Stock Market
+description: Failure to Deliver can erode market trust through settlement delays while
+  regulators enforce rules under Regulation SHO for fair trading. Discover more
 ---
 
 

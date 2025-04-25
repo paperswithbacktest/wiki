@@ -1,6 +1,7 @@
 ---
-title: "Value investing"
-description: Explore the synergy between time-tested value investing principles and cutting-edge algorithmic trading techniques. This article investigates into how technology enhances traditional investment methods, highlighting the process of identifying undervalued securities by analyzing financial fundamentals. By merging value investing's disciplined approach with the precision of algorithms, investors can achieve more accurate and timely trade executions. Discover how the convergence of these strategies offers a compelling opportunity to optimize investment decisions by harnessing both intrinsic value assessments and modern computational power.
+title: Value Investing Principles and Strategies for Consistent Returns
+description: Value investing uncovers undervalued stocks by analyzing financial metrics
+  to build a resilient portfolio with long term growth Discover more inside.
 ---
 
 

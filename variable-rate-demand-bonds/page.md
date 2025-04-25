@@ -1,6 +1,7 @@
 ---
-title: "Variable-Rate Demand Bonds"
-description: "Discover the benefits and challenges of variable-rate demand bonds and the transformative role of algorithmic trading in enhancing bond market efficiency."
+title: Understanding Variable Rate Demand Bonds for Flexible Investing
+description: Variable Rate Demand Bonds deliver adjustable interest and liquidity
+  to adapt to market shifts while funding municipal projects Discover more inside
 ---
 
 

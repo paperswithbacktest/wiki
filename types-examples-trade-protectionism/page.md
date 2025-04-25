@@ -1,6 +1,7 @@
 ---
-title: "Types and Examples of Trade Protectionism"
-description: "Explore the interplay of trade protectionism and algo trading through examples like tariffs and subsidies Learn how policies shape global markets and strategies"
+title: Trade Protectionism Strategies And Their Impact On Global Trade
+description: Explore how trade protectionism uses tariffs quotas and subsidies to
+  strengthen local industries and reshape global trade dynamics Discover more inside.
 ---
 
 

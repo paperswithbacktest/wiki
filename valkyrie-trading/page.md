@@ -1,6 +1,7 @@
 ---
-title: "Valkyrie Trading"
-description: "Discover how Valkyrie Trading leads in algorithmic trading by blending innovative technologies with advanced strategies to optimize financial market transactions."
+title: Valkyrie Trading Advanced Tech Solutions for Modern Investors
+description: Valkyrie Trading uses advanced technology to simplify stock and cryptocurrency
+  trading while supporting investors of all levels Discover more inside.
 ---
 
 

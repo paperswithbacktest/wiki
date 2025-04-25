@@ -1,7 +1,7 @@
 ---
 title: Understanding Variable Importance in Machine Learning Models
-description: Variable importance reveals which features drive your model accuracy
-  and simplifies predictions with practical insights. Discover more inside.
+description: Variable importance uncovers key features for model accuracy guiding
+  selection with Gini impurity SHAP and permutation importance Discover more inside.
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "Uberrimae Fidei Contracts"
-description: "Explore the critical role of uberrimae fidei in finance contracts ensuring utmost good faith and transparency in insurance and algorithmic trading sectors."
+title: Understanding Uberrimae Fidei Contracts in Insurance Law
+description: Uberrimae Fidei ensures honesty in insurance and maritime agreements
+  by requiring full risk disclosure with remedies for breaches Discover more inside
 ---
 
 

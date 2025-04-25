@@ -1,6 +1,7 @@
 ---
-title: "Unfavorable Variance: Types, Causes, and Examples"
-description: "Explore types and causes of unfavorable variance in algo trading and how analyzing financial performance variance can improve strategy for better outcomes."
+title: Understanding Unfavorable Variance in Business Performance
+description: Unfavorable variance analysis helps businesses identify cost and revenue
+  gaps to improve decision making and budget accuracy. Discover more inside.
 ---
 
 

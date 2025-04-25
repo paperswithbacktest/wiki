@@ -1,6 +1,7 @@
 ---
-title: "USD Short Positions in Currency Trading"
-description: "Explore the integration of USD short strategies with forex algo trading for enhanced efficiency and precision, uncovering unique opportunities in currency markets."
+title: USD Short Position Explained Why Traders Bet Against the Dollar
+description: USD short position in currency trading shows how to profit when the US
+  dollar weakens by monitoring rates and economic data Discover more inside.
 ---
 
 

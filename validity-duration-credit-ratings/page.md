@@ -1,6 +1,7 @@
 ---
-title: "Validity Duration of Credit Ratings"
-description: "Explore how credit ratings and financial assessments influence algorithmic trading strategies enhancing decision-making with insights into creditworthiness and market conditions."
+title: Credit Rating Validity Duration Explained for Lenders
+description: Credit rating validity duration shows how long your score stays current
+  and guides lender decisions on loans. Discover more inside
 ---
 
 

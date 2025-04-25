@@ -1,6 +1,7 @@
 ---
-title: "United States Secretary of Commerce: Responsibilities and Qualifications"
-description: "Explore the pivotal role of the US Secretary of Commerce in shaping economic policy and technology's intersection, with a focus on algorithmic trading."
+title: Role and Responsibilities of the Secretary of Commerce
+description: Secretary of Commerce drives economic growth with data driven policy
+  guidance trade deals business support and job creation Discover more inside
 ---
 
 

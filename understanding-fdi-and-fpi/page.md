@@ -1,6 +1,7 @@
 ---
-title: "Understanding FDI and FPI"
-description: "Discover the key differences and benefits of Foreign Direct Investment and Foreign Portfolio Investment. Learn how FDI aims for long-term growth through substantial stakes in foreign enterprises, while FPI focuses on liquidity and short-term gains in stocks and bonds. Understand how algorithmic trading enhances these strategies in a global economy."
+title: Understanding FDI and FPI Effects on the Global Economy
+description: Foreign Direct Investment and Portfolio Investment drive economic growth
+  by creating jobs and liquidity while managing long term risks Discover more inside
 ---
 
 

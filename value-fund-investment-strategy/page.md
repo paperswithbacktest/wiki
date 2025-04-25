@@ -1,6 +1,7 @@
 ---
-title: "Value Fund Investment Strategy"
-description: "Explore the dynamics of value fund investment strategies and algorithmic trading to enhance your financial portfolio with practical insights and examples."
+title: Value Fund Investing Principles for Consistent Long-Term Returns
+description: Value fund investing uncovers undervalued stocks through key financial
+  ratios and patient strategies to build wealth over time Discover more inside.
 ---
 
 

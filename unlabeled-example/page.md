@@ -1,7 +1,7 @@
 ---
-title: Understanding Unlabeled Examples in Machine Learning Data
-description: Unlabeled examples in machine learning unlock hidden patterns and cut
-  labeling costs with unsupervised and semi supervised methods Discover more inside.
+title: Understanding Unlabeled Data in Machine Learning Workflows
+description: Unlabeled data empowers machine learning to uncover patterns and reduce
+  labeling costs with unsupervised and semi-supervised methods Discover more inside
 ---
 
 ![Image](images/1.png)

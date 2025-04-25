@@ -1,6 +1,7 @@
 ---
-title: "Underweight: Overview and Case Study"
-description: "Explore the concept of 'underweight' in both health and finance Discover strategies for achieving balance, highlighted through a case study in algorithmic trading."
+title: Comprehensive Guide to Underweight BMI Causes and Treatments
+description: Underweight BMI signals nutrient gaps and health risks so you can identify
+  causes and apply expert strategies for healthy weight gain Discover more inside
 ---
 
 

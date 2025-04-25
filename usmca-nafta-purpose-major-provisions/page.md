@@ -1,6 +1,7 @@
 ---
-title: "USMCA and NAFTA: Purpose and Major Provisions"
-description: "Explore the impact of USMCA on trade, digital commerce, and algorithmic trading Discover key differences from NAFTA affecting North American markets"
+title: Key Differences Between USMCA and NAFTA Trade Agreements
+description: USMCA updates trade with stricter origin rules labor protections and
+  environmental safeguards while preserving market access Discover more inside
 ---
 
 

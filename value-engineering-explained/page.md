@@ -1,6 +1,7 @@
 ---
-title: "Value Engineering Explained"
-description: "Explore the synergy between value engineering and algorithmic trading to enhance efficiency reduce costs and gain a competitive edge in financial markets."
+title: Value Engineering Strategies for Cost Effective Project Delivery
+description: Value engineering helps project teams reduce costs and streamline processes
+  by analyzing functions to improve quality and efficiency. Discover more inside.
 ---
 
 

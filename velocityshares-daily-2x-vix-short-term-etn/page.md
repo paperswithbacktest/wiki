@@ -1,6 +1,7 @@
 ---
-title: "VelocityShares Daily 2x VIX Short-Term ETN"
-description: "Explore the dynamics of VelocityShares Daily 2X VIX Short-Term ETN TVIX and how algorithmic trading enhanced its appeal by navigating its inherent volatility."
+title: Understanding the VelocityShares Daily 2x VIX Short-Term ETN
+description: VelocityShares Daily 2x VIX ETN offers twice the daily VIX exposure for
+  quick volatility trades with clear risk implications. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Up-Market Capture Ratio Analysis and Calculation"
-description: "Explore the up-market capture ratio and its calculation in algorithmic trading to assess investment performance by leveraging positive market trends effectively."
+title: Understanding Up-Market Capture Ratio for Portfolio Management
+description: Up-Market Capture Ratio helps investors evaluate how investments perform
+  during market upswings by comparing returns to a benchmark Discover more inside.
 ---
 
 

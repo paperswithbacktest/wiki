@@ -1,7 +1,7 @@
 ---
-title: Practical Guide to Variational Optimization in Deep Learning
-description: Variational Optimization boosts model training by approximating complex
-  parameter distributions with variational inference Discover more inside.
+title: Understanding Variational Optimization in Machine Learning
+description: Variational Optimization speeds up deep learning by using a simpler distribution
+  to approximate parameters and reduce KL divergence Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,7 @@
 ---
-title: "Value at Risk and Its Computation"
-description: "Explore the fundamentals of Value at Risk and its computation techniques in this detailed guide Learn how VaR aids financial risk management and algorithmic trading"
+title: Understanding Value At Risk Methods And Applications
+description: Value at Risk quantifies potential portfolio losses over chosen timeframes
+  and confidence levels helping firms manage risk proactively Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "United States Securities and Exchange Commission v. Ripple Labs"
-description: "Explore the Ripple vs. SEC case and its implications on cryptocurrency regulation, asset classification, and the impact on algorithmic trading in a shifting digital landscape."
+title: SEC v Ripple Labs Case Challenges XRP Security Status
+description: SEC v Ripple Labs examines whether XRP qualifies as a security and what
+  the outcome means for crypto firms and regulation Discover more inside
 ---
 
 

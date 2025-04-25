@@ -1,6 +1,7 @@
 ---
-title: "Understanding Negative Correlation"
-description: "Explore the critical role of negative correlation in algorithmic trading to devise strategies for optimizing risk and return with real-world examples."
+title: Understanding Negative Correlation in Data Analysis
+description: Negative correlation helps you visualize inverse relationships in finance
+  health using scatter plots and statistical analysis Discover more inside
 ---
 
 

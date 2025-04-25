@@ -1,6 +1,7 @@
 ---
-title: "Vega Neutrality in Finance"
-description: "Explore Vega neutral strategies in options trading to manage risk amid volatility. Learn how these approaches minimize Vega's impact to optimize returns."
+title: Vega Neutrality in Options Portfolio Risk Management
+description: Vega neutrality helps options traders protect portfolios from volatility
+  swings while balancing pricing and hedging exposure Discover more inside
 ---
 
 

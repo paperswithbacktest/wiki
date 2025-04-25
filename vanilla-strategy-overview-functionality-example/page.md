@@ -1,6 +1,7 @@
 ---
-title: "Vanilla Strategy: Overview and Functionality with Example"
-description: "Explore the simplicity and reliability of vanilla strategies in business and algorithmic trading. Learn their benefits and limitations in dynamic market conditions."
+title: 'Vanilla Strategy: A Simple Guide to Market Index Investing'
+description: Vanilla Strategy applies a buy and hold approach with broad market index
+  funds to grow wealth and reduce risk over time Discover more inside
 ---
 
 

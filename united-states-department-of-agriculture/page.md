@@ -1,6 +1,7 @@
 ---
-title: "United States Department of Agriculture"
-description: "Explore the intersection of USDA roles and algorithmic trading in agriculture Discover how algo trading technologies enhance decision-making with USDA data insights"
+title: United States Department of Agriculture Overview and Functions
+description: USDA supports farmers and ensures food safety through grants, research
+  and conservation while offering nutrition assistance programs. Discover more inside.
 ---
 
 

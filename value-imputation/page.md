@@ -1,7 +1,7 @@
 ---
-title: Value Imputation Techniques in Machine Learning Preprocessing
-description: Value imputation in machine learning improves model accuracy by filling
-  missing data with simple and advanced techniques to reduce bias Discover more
+title: Comprehensive Guide to Value Imputation in Machine Learning
+description: Value imputation enhances machine learning by filling missing data from
+  mean median to kNN and multiple imputation techniques Discover more inside.
 ---
 
 ![Image](images/1.png)

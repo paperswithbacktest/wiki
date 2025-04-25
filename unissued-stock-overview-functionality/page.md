@@ -1,6 +1,7 @@
 ---
-title: "Unissued Stock: Overview and Functionality"
-description: "Discover how unissued stock and algorithmic trading interplay with financial strategies offering companies flexibility and investors enhanced trading options."
+title: Understanding Unissued Stock and Its Corporate Implications
+description: Unissued stock gives companies a reserve of shares for fundraising incentive
+  programs and growth while protecting shareholder value Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Using the Rule of 72 for Continuous Compounding Calculations"
-description: "Discover how the Rule of 72 simplifies investment growth projections by estimating doubling time in various financial contexts including algorithmic trading."
+title: Applying the Rule of 72 for Continuous Compounding Investments
+description: Rule of 72 with continuous compounding shows how to estimate doubling
+  time dividing 69.3 by your rate for quick investment planning Discover more inside
 ---
 
 

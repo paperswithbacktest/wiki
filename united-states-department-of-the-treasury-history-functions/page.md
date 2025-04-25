@@ -1,6 +1,7 @@
 ---
-title: "United States Department of the Treasury: History and Functions"
-description: "Explore the history, functions, and impact of U.S. Treasury bonds, IRS regulations, and algorithmic trading on financial markets and economic strategies."
+title: Understanding the United States Department of the Treasury
+description: United States Department of the Treasury manages federal funds collects
+  taxes mints currency and shapes economic policy with oversight Discover more inside
 ---
 
 

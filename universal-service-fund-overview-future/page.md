@@ -1,6 +1,7 @@
 ---
-title: "Universal Service Fund: Overview and Future"
-description: "Explore the Universal Service Fund's role in telecommunications ensuring equitable access, while addressing funding challenges and the potential of algorithmic trading."
+title: Understanding the Universal Service Fund and Its Impact
+description: Universal Service Fund ensures phone and internet access for rural and
+  low income communities bridging the digital divide Discover more inside
 ---
 
 

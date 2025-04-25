@@ -1,6 +1,7 @@
 ---
-title: "Types of Companies in the Energy Sector"
-description: "Explore the diverse energy sector and discover how algorithmic trading is revolutionizing oil gas renewables and utilities by enhancing efficiencies and opportunities."
+title: Understanding Energy Sector Companies and Their Core Roles
+description: Energy sector companies power the global economy by exploring and producing
+  oil and gas refining fuel and delivering renewable energy Discover more inside
 ---
 
 

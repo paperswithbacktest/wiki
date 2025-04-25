@@ -1,6 +1,7 @@
 ---
-title: "UBS Group AG"
-description: "UBS leverages algorithmic trading to optimize trade executions and enhance financial services through advanced tech, positioning itself as a global leader."
+title: UBS Group AG Global Banking Services and Strategic Vision
+description: UBS Group AG delivers global wealth management banking solutions and
+  sustainable investing strategies with advanced digital tools Discover more inside
 ---
 
 

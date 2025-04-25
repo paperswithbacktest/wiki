@@ -1,6 +1,7 @@
 ---
-title: "V-Shaped Economic Recovery"
-description: "Explore the dynamics of V-shaped economic recoveries and their link with algorithmic trading Discover how swift rebounds influence market strategies and technology's role"
+title: Understanding V-Shaped Economic Recovery And Its Drivers
+description: V-shaped economic recovery relies on quick GDP growth and falling unemployment
+  driven by swift policy action and corporate agility Discover more inside
 ---
 
 

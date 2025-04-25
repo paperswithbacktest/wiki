@@ -1,6 +1,7 @@
 ---
-title: "Uneconomic Growth: Definition and Mechanisms"
-description: "Explore how uneconomic growth challenges GDP-focused metrics by highlighting sustainability in economic planning and the evolving role of algorithmic trading."
+title: Uneconomic Growth Explained True Costs and Policy Solutions
+description: Uneconomic growth shows when economic gains are outweighed by pollution
+  environmental damage inequality and health costs Discover more inside
 ---
 
 

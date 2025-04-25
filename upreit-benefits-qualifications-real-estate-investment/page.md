@@ -1,6 +1,7 @@
 ---
-title: "UPREIT: Benefits and Qualifications in Real Estate Investment"
-description: "Discover how UPREITs can offer tax benefits and liquidity, coupled with the precision of algorithmic trading, for enhanced real estate investment strategies."
+title: UPREIT Tax Deferral And Portfolio Diversification Benefits
+description: UPREIT lets property owners defer capital gains taxes and diversify real
+  estate investments through a partnership structure Discover more inside.
 ---
 
 

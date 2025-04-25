@@ -1,6 +1,7 @@
 ---
-title: "Use of Financial Advisors"
-description: "Explore the synergy of financial advisors and algorithmic trading in personal finance management Learn how expert advice and technology enhance financial decisions"
+title: Choosing The Right Financial Advisor For Your Money Goals
+description: Financial advisor guidance covers services, types, compensation and selection
+  tips to build budgets, investments and retirement plans. Discover more inside
 ---
 
 

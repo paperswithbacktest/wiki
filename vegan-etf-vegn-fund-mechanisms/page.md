@@ -1,6 +1,7 @@
 ---
-title: "Vegan ETF and VEGN Fund Mechanisms"
-description: "Explore the intersection of sustainable investing vegan ETFs and algorithmic trading with insights on the VEGN Fund's ethical approach and financial strategies."
+title: Investing Ethically With Vegan ETFs and the VEGN Climate Fund
+description: Vegan ETF investments align your portfolio with animal welfare and environmental
+  values while diversifying risk in a single fund Discover more inside.
 ---
 
 

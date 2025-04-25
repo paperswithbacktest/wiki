@@ -1,6 +1,7 @@
 ---
-title: "Unrealized Gains and Losses"
-description: "Explore the key concepts of unrealized gains and losses and their significance in accounting and algorithmic trading. Understand how these 'paper' profits or losses impact investment strategies, financial statements, and tax considerations, and learn about the complexities introduced by algorithmic trading systems in managing them effectively."
+title: Understanding Unrealized Gains and Losses in Investing
+description: Unrealized gains and losses track investment value changes before sale.
+  We explain how to calculate them and manage risk effectively. Discover more inside.
 ---
 
 

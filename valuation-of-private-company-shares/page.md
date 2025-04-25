@@ -1,6 +1,7 @@
 ---
-title: "Valuation of Private Company Shares"
-description: "Explore the complexities of valuing private company shares with algorithmic trading Learn about financial performance growth potential and management insights"
+title: Private Company Share Valuation Using Income Market Asset Methods
+description: Private Company Share Valuation applies income market and asset approaches
+  to determine firm worth from financials and comparables Discover more inside
 ---
 
 

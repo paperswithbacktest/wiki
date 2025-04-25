@@ -1,6 +1,7 @@
 ---
-title: "Usance in International Trade"
-description: "Explore the synergy of usance trade finance and algorithmic trading in global commerce Manage cash flow credit risk and enhance trading efficiency efficiently"
+title: Understanding Usance in International Trade Finance Terms
+description: Usance in international trade gives buyers extra time to pay after delivery
+  while securing sellers through letters of credit and insurance Discover more inside.
 ---
 
 

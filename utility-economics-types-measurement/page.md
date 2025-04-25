@@ -1,6 +1,7 @@
 ---
-title: "Utility in Economics: Types and Measurement"
-description: "Explore the application of economic utility in algorithmic trading Learn how utility measurement enhances trading strategies by optimizing decisions against risk and returns"
+title: Understanding Utility in Economics and Consumer Choice
+description: Utility in economics explains how satisfaction drives consumer behavior
+  and trading strategies from marginal to expected utility. Discover more inside.
 ---
 
 

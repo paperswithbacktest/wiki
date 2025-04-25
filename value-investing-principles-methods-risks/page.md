@@ -1,6 +1,7 @@
 ---
-title: "Value Investing: Principles, Methods, and Risks"
-description: "Discover the fundamentals of value investing and algorithmic trading exploring their principles methods and risks to optimize your investment strategy effectively"
+title: Mastering Value Investing Principles for Long Term Returns
+description: Value investing uses financial ratios and intrinsic value analysis to
+  identify undervalued stocks and protect against mistakes Discover more inside.
 ---
 
 

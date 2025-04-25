@@ -1,7 +1,7 @@
 ---
-title: Understanding the Vanishing Gradient Problem in Deep Networks
-description: Vanishing gradient problem slows learning in deep networks but with ReLU
-  batch norm and skip connections to restore gradient flow Discover more inside
+title: Understanding the Vanishing Gradient Problem in Neural Networks
+description: Vanishing Gradient Problem blocks deep learning by reducing gradients
+  in training Use ReLU and normalization to restore gradient flow Discover more inside
 ---
 
 ![Image](images/1.jpeg)

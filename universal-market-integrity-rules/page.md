@@ -1,6 +1,7 @@
 ---
-title: "Universal Market Integrity Rules"
-description: "Explore the significance of Universal Market Integrity Rules in algorithmic trading to maintain financial stability and trust in rapidly evolving global markets."
+title: Understanding Universal Market Integrity Rules for Fair Trading
+description: Universal Market Integrity Rules stop insider trading and price manipulation
+  to ensure fair and transparent Canadian stock markets. Discover more inside.
 ---
 
 

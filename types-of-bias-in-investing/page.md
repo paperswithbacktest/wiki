@@ -1,6 +1,7 @@
 ---
-title: "Types of Bias in Investing"
-description: "Explore the impact of psychological biases on investing and algorithmic trading Discover strategies to mitigate biases and improve investment decisions"
+title: Overcoming Investment Biases to Improve Portfolio Performance
+description: Investment biases skew decisions and hurt returns. Explore key biases
+  affecting your portfolio and learn strategies to mitigate them. Discover more inside.
 ---
 
 

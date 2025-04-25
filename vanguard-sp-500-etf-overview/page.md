@@ -1,6 +1,7 @@
 ---
-title: "Vanguard S&P 500 ETF Overview"
-description: "Explore trading strategies for the Vanguard S&P 500 ETF using algorithmic tools to enhance trade execution manage risks and maximize returns effectively."
+title: Vanguard S&P 500 ETF Comprehensive Guide To Low-Cost Investing
+description: Vanguard S&P 500 ETF offers simple, diversified market exposure with
+  low fees and steady growth potential for long-term investors. Discover more inside.
 ---
 
 

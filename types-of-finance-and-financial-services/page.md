@@ -1,6 +1,7 @@
 ---
-title: "Types of Finance and Financial Services"
-description: "Explore the various types of finance including personal corporate and public finance and understand how algorithmic trading is revolutionizing financial services."
+title: Understanding Finance and Essential Financial Services
+description: Finance insights help you manage personal corporate and public money
+  with tips on banking investing insurance and trends Discover more inside
 ---
 
 

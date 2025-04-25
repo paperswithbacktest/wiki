@@ -1,6 +1,7 @@
 ---
-title: "Types of Investments: Ownership, Lending, Cash"
-description: "Explore ownership investments like stocks and real estate lending options such as bonds and savings accounts and the role of algorithmic trading in portfolio management."
+title: Understanding Different Types of Investments and Their Risks
+description: Types of Investments explained with clear breakdowns of ownership lending
+  and cash options to help you balance risk and returns Discover more inside.
 ---
 
 

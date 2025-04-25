@@ -1,8 +1,7 @@
 ---
-title: Understanding Variational Autoencoders Architecture and Applications
-description: Variational Autoencoders explain how encoder decoder architecture and
-  reparameterization generate diverse data samples while maintaining latent consistency
-  Discover more inside.
+title: Variational Autoencoders Architecture And Applications Explained
+description: Variational Autoencoders learn latent distributions and balance reconstruction
+  and KL divergence to generate diverse data. Discover more inside
 ---
 
 ![Image](images/1.png)

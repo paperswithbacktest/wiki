@@ -1,6 +1,7 @@
 ---
-title: "Unit Cost: Types and Examples"
-description: "Discover how understanding unit cost in algorithmic trading is essential for optimizing strategy performance and profitability. Learn about the types of costs involved, such as transaction, market impact, opportunity, and operational costs, and explore detailed examples demonstrating their effects on trading strategies. This comprehensive guide emphasizes the importance of managing costs to enhance returns, especially in high-frequency trading, where margins can be slimmer."
+title: Comprehensive Guide to Calculating and Managing Unit Costs
+description: Unit cost guides pricing strategies and cost management by explaining
+  calculation steps types and reduction methods in detail Discover more inside.
 ---
 
 

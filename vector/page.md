@@ -1,7 +1,8 @@
 ---
-title: Comprehensive Guide to Vectors in Machine Learning
-description: Vectors in machine learning convert features into numerical arrays to
-  enable efficient scaling clustering and dimensionality reduction Discover more inside
+title: Understanding Vectors in Machine Learning Data Representation
+description: Vectors in machine learning explain how data features are transformed
+  into numeric representations for accurate pattern recognition and prediction Discover
+  more inside
 ---
 
 ![Image](images/1.png)

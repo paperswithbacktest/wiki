@@ -1,6 +1,7 @@
 ---
-title: "Unlimited Risk: Definition, Mechanism, and Example"
-description: "Explore unlimited risk in algorithmic trading learn its implications and discover risk management strategies to guard against potential limitless financial losses."
+title: Understanding Unlimited Risk in Options and Short Selling
+description: Unlimited risk in trading emerges when naked options or short selling
+  expose traders to uncapped losses Assess and mitigate risk Discover more inside
 ---
 
 

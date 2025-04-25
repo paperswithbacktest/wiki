@@ -1,6 +1,7 @@
 ---
-title: "United Nations Global Compact: Overview and Principles"
-description: "Explore how the UN Global Compact's principles align with algorithmic trading fostering ethical and sustainable financial practices within modern global markets."
+title: United Nations Global Compact Guide for Corporate Sustainability
+description: United Nations Global Compact offers ten principles for human rights
+  labor environment and anticorruption to boost sustainability Discover more inside.
 ---
 
 

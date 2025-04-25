@@ -1,6 +1,7 @@
 ---
-title: "UNCITRAL"
-description: "Explore how UNCITRAL supports algorithmic trading through modernized trade laws to foster innovation, ensure market stability, and promote international cooperation."
+title: UNCITRAL Framework for Fair and Efficient International Trade
+description: UNCITRAL guides the creation of clear international trade rules to simplify
+  cross-border sales dispute resolution and arbitration Discover more inside.
 ---
 
 

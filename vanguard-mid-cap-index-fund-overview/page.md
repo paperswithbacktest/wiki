@@ -1,6 +1,8 @@
 ---
-title: "Vanguard Mid Cap Index Fund Overview"
-description: "Explore the Vanguard Mid Cap Index Fund which combines growth potential with cost-effective investing through algorithmic trading for optimal performance."
+title: Vanguard Mid Cap Index Fund Comprehensive Overview
+description: Vanguard Mid Cap Index Fund delivers low-cost diversified exposure to
+  US mid-sized companies with returns tied to the CRSP US Mid Cap Index Discover more
+  inside.
 ---
 
 

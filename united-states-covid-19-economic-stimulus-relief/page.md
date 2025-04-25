@@ -1,6 +1,7 @@
 ---
-title: "United States COVID-19 Economic Stimulus and Relief"
-description: "Explore how US COVID-19 economic stimulus efforts intersected with algorithmic trading as traders adapted strategies in a volatile, liquidity-rich environment."
+title: United States COVID-19 Economic Stimulus and Relief Explained
+description: United States COVID-19 economic stimulus and relief measures supported
+  households and businesses with direct payments and loans Discover more inside.
 ---
 
 

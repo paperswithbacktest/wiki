@@ -1,6 +1,7 @@
 ---
-title: "Types of Inflation"
-description: "Discover the different types of inflation and their impact on algorithmic trading in global markets. Understand how demand-pull, cost-push, stagflation, and hyperinflation influence trading strategies and investment decisions. Explore methods to manage inflation-related risks in the financial landscape."
+title: Understanding Different Types of Inflation and Their Impacts
+description: Inflation explains why prices rise through demand pull cost push and
+  built in cycles while shaping key policy and markets Discover more inside.
 ---
 
 

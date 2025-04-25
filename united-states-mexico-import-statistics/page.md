@@ -1,6 +1,7 @@
 ---
-title: "United States-Mexico Import Statistics"
-description: "Explore key insights on U.S. and Mexico trade ties with statistics highlighting economic impacts and benefits. Discover how algorithmic trading enhances efficiency."
+title: US Imports From Mexico Goods Trends and Economic Impact
+description: US imports from Mexico reached 427 billion in 2022 of cars oil produce
+  and electronics while USMCA and logistics shape sector growth Discover more inside.
 ---
 
 

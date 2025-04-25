@@ -1,6 +1,8 @@
 ---
-title: "Value Line Investment Survey"
-description: "Explore how the Value Line Investment Survey and algo trading can be integrated for enhanced stock market analysis and smarter investment decisions."
+title: Understanding The Value Line Investment Survey Benefits
+description: Value Line Investment Survey delivers stock analysis rankings expert
+  commentary and weekly insights to guide your investment decisions Discover more
+  inside
 ---
 
 

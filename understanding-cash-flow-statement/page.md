@@ -1,6 +1,7 @@
 ---
-title: "Understanding the Cash Flow Statement"
-description: "Explore the crucial role that cash flow statements play in financial analysis and the development of algorithmic trading strategies for enhanced market decisions."
+title: Essential Guide to Understanding Cash Flow Statements
+description: Cash Flow Statement reveals how cash moves through operations investing
+  and financing to assess business liquidity and health Discover more inside.
 ---
 
 

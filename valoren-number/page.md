@@ -1,6 +1,7 @@
 ---
-title: "Valoren Number"
-description: "Discover the crucial role of Valoren Numbers in Swiss financial markets Enable seamless algorithmic trading and enhance trading efficiency by reducing errors through precise security identification"
+title: Understanding the Valoren Number System for Swiss Securities
+description: Valoren number streamlines Swiss securities trading by giving each stock
+  and bond a unique ID boosting clarity and accuracy in transactions Discover more
 ---
 
 

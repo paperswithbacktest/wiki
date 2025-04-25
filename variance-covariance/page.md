@@ -1,6 +1,7 @@
 ---
-title: "Variance and Covariance"
-description: "Explore how variance and covariance optimize strategies and manage risk in algorithmic trading Gain insight into portfolio management and trading outcomes"
+title: Understanding Variance and Covariance in Statistical Analysis
+description: Variance and covariance explain how data spreads and assets interact
+  in statistics and finance with step by step examples Discover more inside
 ---
 
 

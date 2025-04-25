@@ -1,6 +1,7 @@
 ---
-title: "Use of Real GDP by Economists"
-description: "Explore how real GDP metrics guide economic insights and algorithmic trading strategies by revealing genuine economic growth and investment opportunities."
+title: Understanding Real GDP and Its Role in Measuring Economic Growth
+description: Real GDP adjusts for inflation to show true economic output growth across
+  time and supports informed policy and investment decisions Discover more inside
 ---
 
 

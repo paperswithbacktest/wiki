@@ -1,6 +1,7 @@
 ---
-title: "Value of Risk: Overview and Examples"
-description: "Explore the complexities of algorithmic trading with insights into risk management strategies and the Value of Risk to align financial goals and compliance."
+title: Understanding Value Of Risk With VaR Methods And Strategic Uses
+description: Value of Risk quantifies potential losses in investments and projects
+  using VaR and Monte Carlo methods to guide smarter decisions Discover more inside
 ---
 
 

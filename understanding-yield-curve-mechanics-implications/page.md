@@ -1,6 +1,7 @@
 ---
-title: "Understanding the Yield Curve: Mechanics and Implications"
-description: "Explore the mechanics and implications of the yield curve in fixed income and algorithmic trading and learn how it impacts investment strategies."
+title: Understanding the Yield Curve and Its Economic Implications
+description: Yield curve analysis reveals how bond interest rates across maturities
+  signal economic trends and guide investors and policymakers Discover more inside
 ---
 
 

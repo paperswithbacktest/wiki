@@ -1,6 +1,7 @@
 ---
-title: "Unitized Fund: Overview and Mechanics"
-description: "Explore how unitized funds and algorithmic trading transform investment strategies Learn about unitized funds' pooled approach and algo trading's tech edge"
+title: Understanding Unitized Funds and Their Investment Benefits
+description: Unitized fund investors rely on daily unit valuations and expert management
+  to simplify pooled investing and monitor performance Discover more inside.
 ---
 
 

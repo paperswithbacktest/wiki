@@ -1,6 +1,7 @@
 ---
-title: "Types of Financial Statements and Interpretation"
-description: "Understand the crucial role of financial statements in algorithmic trading and investment decisions. Learn how to effectively analyze balance sheets, income statements, cash flow statements, and shareholders' equity to enhance trading strategies. Master financial literacy to drive successful algo trading outcomes by leveraging data-driven decisions and quantitative strategies. Ideal for both seasoned traders and novice investors seeking to improve trading performance in competitive financial markets."
+title: Comprehensive Guide to Financial Statements and Analysis
+description: Financial statements offer insights into performance cash flow and liquidity
+  with actionable ratio analysis for smarter decisions Discover more inside
 ---
 
 

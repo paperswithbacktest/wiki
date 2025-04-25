@@ -1,6 +1,7 @@
 ---
-title: "Unsuitable Investment"
-description: "Explore how unsuitable investments, especially with algorithmic trading, pose risks by misaligning with investors' goals and risk tolerance, impacting financial health."
+title: Assessing Unsuitable Investments To Match Financial Goals
+description: Unsuitable investments can derail financial goals with added risk Discover
+  how to align your portfolio with objectives and safeguard assets Discover more
 ---
 
 

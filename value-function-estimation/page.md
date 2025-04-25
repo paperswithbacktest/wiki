@@ -1,7 +1,7 @@
 ---
-title: Mastering Value Function Estimation in Reinforcement Learning
-description: Value Function Estimation enables reinforcement learning agents to predict
-  rewards and optimize decisions by refining value estimates Discover more inside
+title: Value Function Estimation In Reinforcement Learning
+description: Value function estimation guides agents to predict and maximize rewards
+  using predictive state value methods for decision making Discover more inside
 ---
 
 ![Image](images/1.jpeg)

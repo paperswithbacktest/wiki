@@ -1,6 +1,7 @@
 ---
-title: "Unlevered Free Cash Flow"
-description: "Discover how Unlevered Free Cash Flow (UFCF) is used to evaluate a company's financial health and enhance trading strategies. Explore its importance in financial analysis, particularly in the Discounted Cash Flow (DCF) model, and its application in algorithmic trading for identifying undervalued stocks. Understand the comparison between Levered and Unlevered Free Cash Flow metrics, offering insights into operational performance and investment potential."
+title: Understanding Unlevered Free Cash Flow for Business Valuation
+description: Unlevered Free Cash Flow shows cash generated from operations before
+  debt servicing for accurate operational comparisons Discover more inside
 ---
 
 

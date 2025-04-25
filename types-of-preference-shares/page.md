@@ -1,6 +1,8 @@
 ---
-title: "Types of Preference Shares"
-description: "Explore the dynamics of preference shares and algorithmic trading in finance Discover how these investment options align with varying risk tolerances and goals"
+title: Comprehensive Guide To Preference Shares Types And Strategies
+description: Preference shares provide fixed dividends priority payouts and lower
+  risk while detailing key types features and investment strategies Discover more
+  inside
 ---
 
 

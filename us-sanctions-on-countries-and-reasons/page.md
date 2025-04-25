@@ -1,6 +1,7 @@
 ---
-title: "U.S. Sanctions on Countries and Their Reasons"
-description: "Explore the interplay between U.S. sanctions and algorithmic trading on this page Discover how these economic measures impact global finance and trading strategies"
+title: Understanding U.S. Sanctions And Their Economic Impact
+description: U.S. sanctions reshape trade and pressure targeted governments by restricting
+  financial flows and commerce to drive policy change Discover more inside.
 ---
 
 

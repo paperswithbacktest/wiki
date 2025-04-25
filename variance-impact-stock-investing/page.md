@@ -1,6 +1,7 @@
 ---
-title: "Variance and Its Impact on Stock Investing"
-description: "Explore how variance affects stock investing and algorithmic trading Learn how it influences risk assessment and strategies to balance risk and return in portfolios"
+title: Understanding Variance in Stock Investing for Risk Assessment
+description: Variance in stock investing shows how much returns deviate from the average
+  helping investors gauge risk and balance portfolios Discover more inside
 ---
 
 

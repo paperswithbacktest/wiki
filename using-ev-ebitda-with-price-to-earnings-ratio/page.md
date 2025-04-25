@@ -1,6 +1,7 @@
 ---
-title: "Using EV/EBITDA With the Price-to-Earnings Ratio"
-description: "Unlock the power of financial metrics with insights into PE and EV/EBITDA ratios Learn how these tools drive investment strategies and algo trading success"
+title: Using EV/EBITDA and P/E Ratios for Accurate Company Valuation
+description: EV/EBITDA and P/E ratios offer a complete view of company valuation by
+  comparing earnings with capital structure and cash flow Discover more inside
 ---
 
 

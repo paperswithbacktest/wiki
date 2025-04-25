@@ -1,6 +1,7 @@
 ---
-title: "United States–Mexico Trade Volumes"
-description: "Explore how algorithmic trading shapes U.S.-Mexico trade volumes with efficiency and precision Discover its impact on trade dynamics and economic strategies"
+title: United States Mexico Trade Volume Trends and Economic Impacts
+description: US Mexico trade volume topped 780 billion in 2022 highlighting growth
+  under USMCA and key exports imports shaping both economies Discover more inside
 ---
 
 

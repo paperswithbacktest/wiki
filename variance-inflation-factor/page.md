@@ -1,6 +1,7 @@
 ---
-title: "Variance Inflation Factor"
-description: "Explore how the Variance Inflation Factor (VIF) helps identify multicollinearity in algorithmic trading models to enhance prediction reliability and trading strategy efficacy."
+title: Variance Inflation Factor For Multicollinearity Detection
+description: Variance Inflation Factor helps identify multicollinearity issues in
+  regression models and guides you to improve model reliability. Discover more inside.
 ---
 
 

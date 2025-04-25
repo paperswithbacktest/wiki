@@ -1,6 +1,7 @@
 ---
-title: "Ultra-Short Bond Funds: Overview and Credit Quality"
-description: "Explore how ultra-short bond funds, credit quality, and algorithmic trading can enhance your investment strategy and optimize your portfolio for stable returns."
+title: Understanding Ultra-Short Bond Funds for Secure Returns
+description: Ultra-short bond funds provide low-risk returns above savings rates while
+  shielding your capital from interest rate volatility. Discover more inside.
 ---
 
 

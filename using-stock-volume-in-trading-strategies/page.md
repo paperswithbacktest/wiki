@@ -1,6 +1,7 @@
 ---
-title: "Using Stock Volume in Trading Strategies"
-description: "Explore using stock volume in trading strategies to maximize returns with algorithmic methods. Discover how volume trading enhances market analysis and informs profitable decisions."
+title: Stock Volume Indicators to Enhance Trading Strategies
+description: Stock volume analysis helps traders confirm price moves and gauge trend
+  strength using indicators like OBV, VPT and VWAP. Discover more inside
 ---
 
 

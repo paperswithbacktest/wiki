@@ -1,6 +1,7 @@
 ---
-title: "United States: Market Economy or Mixed Economy?"
-description: "Explore the intricacies of the U.S. economy's blend of market and mixed elements, focusing on the impact of government intervention and algorithmic trading innovations."
+title: U.S. Mixed Economy Market Mechanisms And Government Intervention
+description: U.S. Mixed Economy blends market innovation and strategic regulation
+  to foster growth social welfare and fair competition Discover more inside.
 ---
 
 

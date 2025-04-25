@@ -1,6 +1,7 @@
 ---
-title: "United States Bureau of the Public Debt"
-description: "Explore the dynamic interaction between public debt management U.S. Treasury operations and algorithmic trading in modern financial markets."
+title: History and Roles of the United States Bureau of the Public Debt
+description: Bureau of the Public Debt managed US national borrowing with Treasury
+  securities ensuring timely repayments and transparent reporting Discover more inside
 ---
 
 

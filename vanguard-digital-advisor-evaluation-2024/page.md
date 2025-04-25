@@ -1,6 +1,7 @@
 ---
-title: "Vanguard Digital Advisor Evaluation 2024"
-description: "Explore the features and benefits of Vanguard Digital Advisor for 2024, a cost-effective digital investment platform renowned for its algorithmic trading capabilities. This review investigates into how Vanguard leverages cutting-edge technology and its esteemed investment strategies to offer personalized financial plans, optimized portfolio management, and streamlined financial services designed to meet the diverse needs of individual investors."
+title: Vanguard Digital Advisor Low-Cost Automated Investment Service
+description: Vanguard Digital Advisor builds low cost portfolios with automated rebalancing
+  based on goals and risk for tax efficient growth Discover more inside
 ---
 
 

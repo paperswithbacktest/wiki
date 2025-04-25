@@ -1,6 +1,7 @@
 ---
-title: "Unlisted Trading Privileges"
-description: "Discover the role of Unlisted Trading Privileges and algorithmic trading in enhancing financial market accessibility agility and liquidity for unlisted securities."
+title: Understanding Unlisted Trading Privileges and Market Liquidity
+description: Unlisted Trading Privileges let you trade stocks across multiple exchanges
+  to boost liquidity and secure better pricing. Discover more inside.
 ---
 
 

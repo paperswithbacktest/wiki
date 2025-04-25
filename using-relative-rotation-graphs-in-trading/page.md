@@ -1,6 +1,7 @@
 ---
-title: "Using Relative Rotation Graphs in Trading"
-description: "Unlock trading potential with Relative Rotation Graphs (RRG) by visualizing security performance, optimizing asset allocation, and enhancing algorithmic strategies."
+title: Mastering Relative Rotation Graphs for Smarter Investing
+description: Relative Rotation Graph analysis shows how to identify market trends
+  and make informed trading decisions with clear examples Discover more inside
 ---
 
 

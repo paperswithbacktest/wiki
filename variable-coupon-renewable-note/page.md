@@ -1,6 +1,7 @@
 ---
-title: "Variable Coupon Renewable Note"
-description: "Explore the innovative world of Variable Coupon Renewable Notes and algorithmic trading which offer flexible interest rates aligning with market conditions and renewable finance goals"
+title: Variable Coupon Renewable Notes VCRN Explained for Investors
+description: Variable Coupon Renewable Notes feature adjustable coupons tied to asset
+  performance and renewal options for enhanced returns Discover more inside.
 ---
 
 

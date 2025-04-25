@@ -1,6 +1,7 @@
 ---
-title: "Underconsumption: Meaning, Mechanism, and Examples"
-description: "Explore the link between economic theories of demand and underconsumption with algorithmic trading to optimize market strategies and boost trading efficacy."
+title: Understanding Underconsumption and Its Impact on the Economy
+description: Underconsumption reduces consumer spending and can lead to economic slowdowns.
+  Governments can boost demand with fiscal stimulus. Discover more inside.
 ---
 
 

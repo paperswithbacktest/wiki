@@ -1,6 +1,7 @@
 ---
-title: "Value averaging"
-description: "Discover how combining value averaging with algorithmic trading can optimize investments by leveraging data-driven insights for precise financial decisions."
+title: Value Averaging Strategy for Smoother Investment Growth
+description: Value averaging helps investors buy more when prices fall and less when
+  they rise by adjusting contributions to hit growth targets Discover more inside.
 ---
 
 

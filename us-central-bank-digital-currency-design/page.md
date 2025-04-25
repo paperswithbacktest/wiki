@@ -1,6 +1,7 @@
 ---
-title: "United States Central Bank Digital Currency Design"
-description: "Explore the impact of US Central Bank Digital Currency on algorithmic trading and discover how digital currencies might transform financial markets and strategies."
+title: Understanding U.S. Central Bank Digital Currency And Its Impacts
+description: U.S. Central Bank Digital Currency outlines benefits risks and design
+  to streamline payments enhance security and bolster stability Discover more inside.
 ---
 
 

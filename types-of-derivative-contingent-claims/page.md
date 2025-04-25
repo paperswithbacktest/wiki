@@ -1,6 +1,7 @@
 ---
-title: "Types of Derivative Contingent Claims"
-description: "Explore the types of derivative contingent claims in algo trading and discover how options, futures, and swaps aid in risk management and speculative strategies."
+title: Understanding Derivative Contingent Claims and Valuation Models
+description: Derivative contingent claims reveal how futures options swaps and valuation
+  models support risk management and strategic investing Discover more inside.
 ---
 
 

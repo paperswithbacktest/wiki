@@ -1,6 +1,7 @@
 ---
-title: "Unborrowable Stock"
-description: "Discover the intricacies of short selling in the stock market, focusing on the challenges posed by unborrowable stocks and the role of algorithmic trading. This article investigates into the hurdles short sellers face, including borrowing limitations due to regulatory factors and high demand, while exploring how technology-driven strategies can optimize trading approaches and navigate market dynamics effectively."
+title: Unborrowable Stock Explained And Its Market Implications
+description: Unborrowable stock can limit short selling and impact market liquidity
+  See how to spot borrow restrictions and use options to navigate Discover more inside
 ---
 
 

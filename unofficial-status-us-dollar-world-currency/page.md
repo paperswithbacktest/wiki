@@ -1,6 +1,7 @@
 ---
-title: "Unofficial Status of the U.S. Dollar as the World Currency"
-description: "Explore the unofficial status of the U.S. dollar as the world's currency and its interaction with the evolving landscape of algorithmic trading, impacting global finance."
+title: Understanding the U.S. Dollar as a Global Reserve Currency
+description: U.S. Dollar status shapes global trade by providing stability reserves
+  and geopolitical influence while impacting economies worldwide Discover more inside.
 ---
 
 

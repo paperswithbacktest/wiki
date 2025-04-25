@@ -1,6 +1,7 @@
 ---
-title: "US Stock Market Data"
-description: Discover how algorithmic trading is transforming U.S. stock market operations through the use of automated computer algorithms. Access to real-time and historical stock market data is crucial for executing trades effectively, aiding in the prediction of market behavior and optimizing trading strategies. Explore the importance of various data types, such as real-time, historical, and corporate actions, in enhancing algorithmic trading strategies and learn how professional traders leverage these insights to stay competitive in an ever-evolving market landscape.
+title: Comprehensive Guide to the US Stock Market Basics and Data
+description: US stock market guide provides fundamentals and guidance on exchanges,
+  stocks, indices and data analysis for informed investing Discover more inside
 ---
 
 

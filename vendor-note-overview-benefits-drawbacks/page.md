@@ -1,6 +1,7 @@
 ---
-title: "Vendor Note: Overview, Benefits, and Drawbacks"
-description: "Explore the benefits and drawbacks of using vendor notes in algorithmic trading. Discover how they offer financial flexibility and enhance trading strategies."
+title: Comprehensive Guide to Vendor Notes for Business Financing
+description: Vendor note financing helps businesses acquire assets with flexible payment
+  schedules and clear terms while managing risks. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Types of Correlation Coefficients"
-description: "Explore various types of correlation coefficients crucial for algorithmic trading to predict market movements manage risks and enhance trading strategies effectively"
+title: Understanding Correlation Coefficients for Financial Analysis
+description: Correlation coefficients reveal relationships and guide financial decisions
+  with clear calculation steps and practical insights Discover more inside
 ---
 
 

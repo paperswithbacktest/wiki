@@ -1,6 +1,7 @@
 ---
-title: "Variable Price Limit"
-description: "Explore the crucial role of variable price limits in moderating volatility and maintaining stability in financial markets, especially in algorithmic trading."
+title: Understanding Variable Price Limits for Market Stability
+description: Variable price limit rules adjust daily trading bands to prevent extreme
+  swings and safeguard investor capital for stable markets Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Understanding T-Bill Quotes"
-description: "Discover the essentials of Treasury Bill quotes and the impact of algorithmic trading strategies that enhance investment decisions in fluctuating markets."
+title: Understanding Treasury Bill Quotes for Smart Investments
+description: T-Bill quotes reveal discount rates and yield calculations for short
+  term Treasury investments helping you compare options Discover more inside
 ---
 
 

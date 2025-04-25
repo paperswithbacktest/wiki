@@ -1,6 +1,8 @@
 ---
-title: "United States Labor Market Recovery Overview"
-description: "Explore the U.S. labor market's rapid recovery from COVID-19 disruptions, highlighting resilience, sector impacts, algorithmic insights, and demographic trends."
+title: US Labor Market Recovery Trends And Key Indicators
+description: US labor market recovery highlights key indicators from unemployment
+  and wage trends to remote work shifts driving business adaptation. Discover more
+  inside.
 ---
 
 

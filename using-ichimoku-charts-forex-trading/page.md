@@ -1,6 +1,7 @@
 ---
-title: "Using Ichimoku Charts in Forex Trading"
-description: "Explore how Ichimoku charts, a powerful tool in Forex trading, enhance algorithmic strategies by providing key insights into market trends and potential signals."
+title: Mastering Ichimoku Cloud Chart Analysis for Trading
+description: Ichimoku Cloud charts reveal trend direction support and resistance levels
+  with five key lines guiding your trading decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Variation of Debt-To-Equity Ratios Across Industries"
-description: "Explore how debt-to-equity ratios vary across industries due to different capital needs and business models, impacting financing strategies and algorithmic trading."
+title: Understanding Debt-to-Equity Ratio Benchmarks Across Industries
+description: Debt-to-equity ratio reveals how companies balance debt and equity to
+  assess financial risk using key industry benchmarks. Discover more inside.
 ---
 
 

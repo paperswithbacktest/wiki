@@ -1,6 +1,7 @@
 ---
-title: "Utilizing Tax Lots for Reduced Tax Liability"
-description: "Optimize tax efficiency with algorithmic trading and smart tax lot management. Learn strategies to reduce liabilities and enhance returns using specific methods."
+title: Tax Lot Identification and Management Strategies for Investors
+description: Tax lot management helps investors choose shares to sell and reduce capital
+  gains tax by using FIFO LIFO and specific identification Discover more inside
 ---
 
 

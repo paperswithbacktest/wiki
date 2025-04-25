@@ -1,6 +1,7 @@
 ---
-title: "Upstream Capital Costs Index: Overview and Mechanism"
-description: "Explore the Upstream Capital Costs Index as a vital tool in understanding oil and natural gas capital costs and its integration with algorithmic trading."
+title: Upstream Capital Costs Index Insights for Oil and Gas Projects
+description: Upstream Capital Costs Index tracks oil gas project expenses to help
+  companies budget compare industry costs and invest wisely Discover more inside
 ---
 
 

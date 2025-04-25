@@ -1,6 +1,7 @@
 ---
-title: "Upstream Sector in the Oil and Gas Industry"
-description: "Explore the upstream sector of the oil and gas industry focusing on the role of algorithmic trading in enhancing exploration, production, and profitability."
+title: Understanding Upstream Oil and Gas Exploration and Production
+description: Upstream oil and gas operations use seismic surveys advanced drilling
+  and risk management to enhance exploration and production Discover more inside
 ---
 
 

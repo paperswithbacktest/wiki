@@ -1,6 +1,7 @@
 ---
-title: "Types of Consumer Goods Demonstrating Price Elasticity of Demand"
-description: "Explore the relationship between price elasticity of demand and algorithmic trading in influencing market dynamics and investment strategies."
+title: Understanding Price Elasticity of Demand for Consumer Goods
+description: Price elasticity of demand shows how price changes influence consumer
+  behavior across product types to inform smart pricing strategies Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Type II Error and Type I Error Comparison"
-description: "Explore Type I and Type II errors in algorithmic trading to enhance decision-making. Understand their impacts on trade signals and strategies for error mitigation."
+title: Understanding Type I and Type II Errors in Statistical Analysis
+description: Type I and Type II errors highlight risks of false positives and negatives
+  in statistical tests and show how to balance error rates. Discover more inside.
 ---
 
 

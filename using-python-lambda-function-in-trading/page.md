@@ -1,6 +1,7 @@
 ---
-title: "Using Python Lambda Functions in Trading"
-description: Discover how Python lambda functions enhance algorithmic trading by streamlining code and improving execution speed. Learn their key features, advantages, and practical applications, making trading strategies more efficient and maintainable for a competitive edge in financial markets.
+title: Using Python Lambda Functions in Trading Algorithms
+description: Python lambda functions streamline trading algorithms by enabling concise
+  data sorting, filtering and real-time decision making Discover more inside.
 ---
 
 

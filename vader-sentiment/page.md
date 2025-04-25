@@ -1,6 +1,7 @@
 ---
-title: "VADER Sentiment Analysis"
-description: Explore the use of VADER Sentiment Analysis in algorithmic trading to interpret market sentiments from news and social media. Gain insights into how VADER's efficient sentiment scoring enhances trading strategies, providing a competitive edge by swiftly decoding emotional market trends.
+title: Understanding VADER Sentiment Analysis for Social Media Insights
+description: VADER Sentiment Analysis decodes social media and review emotions with
+  nuanced grammar and emoji recognition for actionable insights Discover more inside.
 ---
 
 

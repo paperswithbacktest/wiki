@@ -1,6 +1,7 @@
 ---
-title: "Utility in Microeconomics: Origins, Types, and Applications"
-description: "Explore how utility theory in microeconomics guides algorithmic trading to optimize decisions aligning with risk preference and market dynamics for financial gains."
+title: 'Understanding Utility in Microeconomics: Theory and Applications'
+description: Utility theory explains how people quantify satisfaction to optimize
+  economic choices and trading decisions with clear insights Discover more inside
 ---
 
 

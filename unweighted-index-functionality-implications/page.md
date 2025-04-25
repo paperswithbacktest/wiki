@@ -1,6 +1,7 @@
 ---
-title: "Unweighted Index: Functionality and Implications"
-description: "Explore the role and benefits of unweighted indexes in algorithmic trading and their impact on investment strategies, offering balanced market insights."
+title: Understanding Unweighted Index Methodology And Market Impact
+description: Unweighted Index shows equal importance for each stock to reveal average
+  market performance and outline advantages and limitations Discover more inside.
 ---
 
 

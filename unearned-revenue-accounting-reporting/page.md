@@ -1,6 +1,7 @@
 ---
-title: "Unearned Revenue: Accounting and Reporting"
-description: "Explore the intersection of unearned revenue accounting and algorithmic trading, highlighting their impact on financial reporting and advanced trading strategies for market success."
+title: Complete Guide to Unearned Revenue Accounting and Recognition
+description: Unearned revenue is tracked as a liability and recognized over time This
+  guide explains key accounting entries and recognition Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Vanguard's Patented Tax Avoidance System for Mutual Funds"
-description: "Discover how Vanguard's innovative tax avoidance strategy for mutual funds and ETFs minimizes capital gains taxes to enhance investor returns effectively."
+title: Vanguard Patented Tax Avoidance System for Mutual Funds
+description: Vanguard Tax-Managed Equity Fund leverages a patented tax avoidance system
+  to reduce mutual fund taxes and boost long-term growth Discover more inside.
 ---
 
 

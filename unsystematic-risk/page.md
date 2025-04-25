@@ -1,6 +1,7 @@
 ---
-title: "Unsystematic Risk"
-description: Explore the world of algorithmic trading, where unsystematic risk plays a critical role. Understand how these specific risks, distinct from general market risks, affect individual securities or industries. Discover strategies to mitigate these risks in algo trading, enhancing investment protection and strategic flexibility.
+title: Understanding Unsystematic Risk in Investment Portfolios
+description: Unsystematic risk comes from company and industry issues and investors
+  can reduce it by diversifying assets and monitoring holdings Discover more inside.
 ---
 
 

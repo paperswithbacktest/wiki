@@ -1,7 +1,8 @@
 ---
 title: Understanding Underfitting in Machine Learning Models
-description: Underfitting in Machine Learning happens when a model is too simple to
-  capture data patterns and reduces prediction accuracy Discover more inside.
+description: Underfitting in machine learning occurs when a model is too simple to
+  learn data patterns leading to poor performance on training and new data Discover
+  more inside
 ---
 
 ![Image](images/1.png)

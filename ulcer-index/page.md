@@ -1,6 +1,7 @@
 ---
-title: "Ulcer Index Explained"
-description: Understand the significance of the Ulcer Index in algorithmic trading as a unique tool for managing downside risk. This metric highlights the stress and discomfort of price declines, offering traders an enhanced perspective on investment performance during volatile periods. Learn how the Ulcer Index can improve risk management strategies by focusing on drawdowns and aiding in the construction of balanced trading tactics.
+title: Ulcer Index Insights for Strategic Downside Risk Management
+description: Ulcer Index quantifies downside risk by measuring duration of price drawdowns
+  empowering investors to manage portfolio volatility Discover more inside.
 ---
 
 

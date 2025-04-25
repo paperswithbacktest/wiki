@@ -1,6 +1,7 @@
 ---
-title: "Value at Risk and Tail of Loss Distribution"
-description: "Explore the value at risk (VaR) and tail value at risk (TVaR) in algorithmic trading Understanding how these metrics enhance risk management is essential for traders."
+title: Understanding Value at Risk Methods and Applications in Finance
+description: Value at Risk guides investors through historical variance covariance
+  and Monte Carlo methods to measure and manage portfolio risk Discover more inside.
 ---
 
 

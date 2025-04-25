@@ -1,6 +1,7 @@
 ---
-title: "Ulcer Index: Overview and Function"
-description: "Discover the Ulcer Index a unique risk metric in algorithmic trading that focuses on downside risk helping investors better manage portfolio stress during downturns."
+title: Understanding the Ulcer Index Risk Metric for Investments
+description: Ulcer Index empowers investors to measure downside risk by tracking drawdown
+  depth and duration in their portfolios. Discover more inside now.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Universal portfolio algorithm"
-description: "Discover the Universal Portfolio Algorithm a dynamic investment strategy by Thomas Cover that maximizes long-term growth through adaptive asset allocation."
+title: Understanding the Universal Portfolio Algorithm in Investing
+description: Universal portfolio algorithm explained to streamline diversified investing
+  and adapt to market shifts with real world insights Discover more inside
 ---
 
 

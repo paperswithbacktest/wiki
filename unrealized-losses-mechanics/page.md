@@ -1,6 +1,7 @@
 ---
-title: "Unrealized Losses and Their Mechanics"
-description: "Explore the mechanics of unrealized losses in algorithmic trading. Learn how they impact investment strategies, risk management, portfolio value, and tax planning."
+title: Understanding Unrealized Losses In Investments And Accounting
+description: Unrealized losses reveal paper declines in investments so you can monitor
+  asset performance and make informed decisions Discover more inside
 ---
 
 

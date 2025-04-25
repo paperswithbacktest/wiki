@@ -1,6 +1,7 @@
 ---
-title: "United States Department of Veterans Affairs"
-description: "Discover how the U.S. Department of Veterans Affairs is leveraging algorithmic trading to enhance financial operations and optimize resources for veterans."
+title: Understanding the Department of Veterans Affairs and Its Services
+description: Department of Veterans Affairs delivers health care benefits mental health
+  education support and housing assistance to veterans Discover more inside.
 ---
 
 

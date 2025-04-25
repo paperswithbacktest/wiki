@@ -1,7 +1,7 @@
 ---
 title: Understanding Unidirectional Language Models in Machine Learning
-description: Unidirectional language models process text sequentially to power efficient
-  autocomplete search and translations in real time Discover more inside
+description: Unidirectional language models predict the next word using past context
+  for faster autocomplete search and translation features Discover more inside
 ---
 
 ![Image](images/1.png)

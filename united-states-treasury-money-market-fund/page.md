@@ -1,6 +1,7 @@
 ---
-title: "United States Treasury Money Market Fund"
-description: "Explore how United States Treasury money market funds benefit from algorithmic trading to enhance returns and portfolio optimization for investors."
+title: Comprehensive Guide to Treasury Money Market Funds
+description: Treasury Money Market Funds provide a safe and liquid way to earn government-backed
+  interest with share values held at one dollar Discover more inside.
 ---
 
 

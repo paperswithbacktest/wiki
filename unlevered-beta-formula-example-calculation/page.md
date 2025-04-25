@@ -1,6 +1,7 @@
 ---
-title: "Unlevered Beta: Formula, Example, and Calculation"
-description: "Explore the essentials of unlevered beta in algo trading to optimize investment strategies by understanding risk without financial leverage. Discover key insights."
+title: Understanding Unlevered Beta Formula and Its Importance
+description: Unlevered beta reveals core business risk by stripping debt for fair
+  investment comparisons across industries to guide strategy Discover more inside
 ---
 
 

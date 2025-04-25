@@ -1,6 +1,7 @@
 ---
-title: "Understanding Interest Rate Swap Quotes"
-description: "Discover how interest rate swaps manage interest rate risks and optimize trading strategies, providing insights into market expectations through swap quotes."
+title: Understanding Interest Rate Swaps for Corporate Risk Management
+description: Interest rate swaps help companies fix variable debt costs and manage
+  rate exposure with tailored benchmarks and risk offsets. Discover more inside.
 ---
 
 

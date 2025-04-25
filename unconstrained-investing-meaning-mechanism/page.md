@@ -1,6 +1,7 @@
 ---
-title: "Unconstrained Investing: Meaning and Mechanism"
-description: "Discover how unconstrained investing strategies and algorithmic trading can enhance portfolio performance by navigating complex markets with agility and precision."
+title: Unconstrained Investing Strategy for Flexible Portfolio Growth
+description: Unconstrained investing empowers flexible asset allocation across stocks
+  bonds and real estate while balancing risk and return Discover more inside.
 ---
 
 

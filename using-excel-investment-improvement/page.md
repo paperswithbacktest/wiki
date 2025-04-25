@@ -1,6 +1,7 @@
 ---
-title: "Using Excel for Investment Improvement"
-description: "Enhance your investment strategies and automate trading systems using Excel's robust functionalities for managing data and performing financial calculations."
+title: Excel for Investment Tracking and Portfolio Analysis
+description: Use Excel investment tracking to organize portfolios apply key functions
+  automate updates and analyze performance in real time Discover more inside
 ---
 
 
