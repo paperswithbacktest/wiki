@@ -85,3 +85,17 @@ Another challenge is keeping the ranking up-to-date. As new data comes in, like 
 Personalization means making the ranking fit each person's tastes or needs. When a ranking model is personalized, it looks at what a person has done before, like what they've searched for or bought, to decide what should be at the top of the list. For example, if you often watch action movies, a personalized ranking model on a streaming service will put action movies higher up in your recommendations. This makes the list more useful to you because it shows things you're more likely to like.
 
 But personalization can also make things more complicated. The model has to keep track of a lot of information about each person and update the rankings as their tastes change. If the model doesn't get it right, it might show you things you don't like, which can be frustrating. So, while personalization can make the ranking better for each person, it also means the model has to work harder to keep everything accurate and up-to-date.
+
+## References & Further Reading
+
+[1]: Liu, T. Y. (2009). [Learning to Rank for Information Retrieval](https://ieeexplore.ieee.org/abstract/document/8186875). Foundations and Trends in Information Retrieval, 3(3), 225–331.
+
+[2]: Burges, C., Shaked, T., Renshaw, E., Lazier, A., Deeds, M., Hamilton, N., & Hullender, G. (2005). [Learning to Rank using Gradient Descent](https://dl.acm.org/doi/10.1145/1102351.1102363). Proceedings of the 22nd International Conference on Machine Learning.
+
+[3]: Cao, Y., Xu, J., Liu, T.-Y., Li, H., Huang, Y., & Hon, H.-W. (2007). [Adapting Ranking SVM to Document Retrieval](https://dl.acm.org/doi/10.1007/s10994-024-06644-6) ACM SIGIR Conference on Research and Development in Information Retrieval.
+
+[4]: Chapelle, O., & Chang, Y. (2011). [Yahoo! Learning to Rank Challenge Overview](https://proceedings.mlr.press/v14/chapelle11a.html). Journal of Machine Learning Research: Workshop and Conference Proceedings 14, 1-24.
+
+[5]: Joachims, T. (2002). [Optimizing Search Engines Using Clickthrough Data](https://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf). Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining.
+
+[6]: McFee, B., & Lanckriet, G. (2010). [Metric Learning to Rank](https://brianmcfee.net/papers/mlr.pdf). Proceedings of the 27th International Conference on Machine Learning.

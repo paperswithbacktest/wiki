@@ -79,3 +79,21 @@ Another limitation of BiRNNs is that they can take a lot of time and computer po
 To optimize the performance of BiRNNs for complex sequence prediction tasks, one effective approach is to use advanced architectures like BiLSTMs or BiGRUs. These models have special parts called gates that help them remember important information over long sequences. This can solve the problem of vanishing gradients, where the network struggles to learn from the early parts of the sequence. Another way to boost performance is by using techniques like attention mechanisms. Attention helps the BiRNN focus on the most important parts of the sequence, which can make its predictions more accurate. For example, when translating a sentence, attention can help the model pay more attention to the words that are key to understanding the meaning.
 
 Another important strategy is to carefully tune the hyperparameters of the BiRNN. This includes choosing the right number of layers, the number of hidden units in each layer, and the learning rate. These settings can make a big difference in how well the model learns. For instance, if the learning rate is too high, the model might miss important details, but if it's too low, training can take too long. Additionally, using techniques like batch normalization can help stabilize the training process and improve the model's performance. By combining these methods, you can make your BiRNN better at handling complex sequence prediction tasks.
+
+## References & Further Reading
+
+[1]: Graves, A., & Schmidhuber, J. (2005). ["Framewise phoneme classification with bidirectional LSTM networks."](https://ieeexplore.ieee.org/document/1556215) IEEE International Conference on Acoustics, Speech, and Signal Processing.
+
+[2]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long short-term memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735–1780.
+
+[3]: Schuster, M., & Paliwal, K. K. (1997). ["Bidirectional recurrent neural networks."](https://ieeexplore.ieee.org/document/650093) IEEE Transactions on Signal Processing, 45(11), 2673–2681.
+
+[4]: Cho, K., et al. (2014). ["Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation."](https://arxiv.org/abs/1406.1078) arXiv preprint arXiv:1406.1078.
+
+[5]: Bahdanau, D., Cho, K., & Bengio, Y. (2015). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473.
+
+[6]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Synthesis Lectures on Human Language Technologies, Morgan & Claypool Publishers.
+
+[7]: Olah, C. (2015). ["Understanding LSTM Networks."](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) [Blog post]. Retrieved from colah.github.io.
+
+[8]: Maas, A. L., et al. (2011). ["Learning Word Vectors for Sentiment Analysis."](https://aclanthology.org/P11-1015/) Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies.

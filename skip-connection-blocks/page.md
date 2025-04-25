@@ -1,7 +1,7 @@
 ---
-title: Understanding Skip Connection Blocks in Deep Neural Networks
-description: Skip Connection Blocks enable deep neural networks to train effectively
-  by preserving gradient flow and improving feature reuse. Discover more inside.
+title: Understanding Skip Connection Blocks for Deep Learning
+description: Skip connection blocks enable deep neural networks to train by preventing
+  vanishing gradients and improving feature flow across layers Discover more inside
 ---
 
 ![Image](images/1.jpeg)
@@ -81,3 +81,21 @@ Using SRGAN Residual Blocks in super-resolution tasks has many benefits. They he
 Reversible Residual Blocks are a special type of building block in neural networks that help save memory when training deep learning models. In a normal Residual Block, the network keeps the input and the output of each block in memory to use them later. But in a Reversible Residual Block, the network only needs to keep the output in memory because it can figure out the input again when it needs to. If we call the input $$x$$ and the transformation function $$F(x)$$, the output of a Reversible Residual Block is still $$y = F(x) + x$$. But when the network needs $$x$$ again, it can find it by doing $$x = y - F(x)$$. This means the network doesn't need to store as much information, which saves a lot of memory.
 
 This memory-saving trick is really helpful for training very deep networks. Deep networks can be hard to train because they need a lot of memory to keep all the information they need. By using Reversible Residual Blocks, the network can be much deeper without using too much memory. This makes it easier to train big models on devices that don't have a lot of memory, like some computers or even smartphones. So, Reversible Residual Blocks make deep learning more efficient by letting the network use its memory better.
+
+## References & Further Reading
+
+[1]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). ["Densely Connected Convolutional Networks."](https://ieeexplore.ieee.org/document/8099726) 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L.-C. (2018). ["MobileNetV2: Inverted Residuals and Linear Bottlenecks."](https://arxiv.org/abs/1801.04381) 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[4]: Wang, X., Girshick, R., Gupta, A., & He, K. (2018). ["Non-local Neural Networks."](https://arxiv.org/abs/1711.07971) 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[5]: Xie, S., Girshick, R., Dollár, P., Tu, Z., & He, K. (2017). ["Aggregated Residual Transformations for Deep Neural Networks."](https://ieeexplore.ieee.org/document/8100117) 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Zhang, X., Zhou, X., Lin, M., & Sun, J. (2018). ["ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices."](https://ieeexplore.ieee.org/document/8578814) 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[7]: Ledig, C., Theis, L., Huszár, F., Caballero, J., Cunningham, A., Acosta, A., … Shi, W. (2017). ["Photo-realistic Single Image Super-Resolution Using a Generative Adversarial Network."](https://arxiv.org/abs/1609.04802) 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[8]: Gomez, A. N., Ren, M., Urtasun, R., & Grosse, R. (2017). ["The Reversible Residual Network: Backpropagation without Storing Activations."](https://arxiv.org/abs/1707.04585) Advances in Neural Information Processing Systems 30.

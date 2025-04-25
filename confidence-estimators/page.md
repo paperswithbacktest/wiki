@@ -89,3 +89,15 @@ Another technique is to combine MACEst with other confidence estimation methods,
 Recent research in confidence estimation has focused on making these estimators more accurate and useful for real-world applications. One interesting development is the use of [deep learning](/wiki/deep-learning) to create confidence estimators. Researchers are using neural networks to learn how to estimate confidence from data, which can be more flexible and powerful than traditional methods. For example, some studies have shown that deep learning models can learn to predict confidence scores that are well-calibrated, meaning the confidence levels match the actual accuracy of the predictions. This can be especially helpful in fields like healthcare, where knowing how sure a model is about its predictions can be crucial for making safe decisions.
 
 Another area of future research is improving the speed of confidence estimators like MACEst. Since MACEst works by showing the model different versions of the same data, it can be slow, especially with large datasets. Researchers are looking into ways to make this process faster, like using parallel computing or more efficient algorithms. By making confidence estimation quicker, we can use these techniques in more real-time applications, like autonomous driving or real-time fraud detection. This could make machine learning models more reliable and useful in situations where quick decisions are needed.
+
+## References & Further Reading
+
+[1]: Vovk, V., Gammerman, A., & Shafer, G. (2005). ["Algorithmic Learning in a Random World."](https://link.springer.com/book/10.1007/978-3-031-06649-8) Springer.
+
+[2]: Papadopoulos, H. (2008). ["Inductive Conformal Prediction: Theory and Application to Neural Networks."](https://cdn.intechopen.com/pdfs/5294/InTech-Inductive_conformal_prediction_theory_and_application_to_neural_networks.pdf) In: IFIP AI 2008: Artificial Intelligence: Methodology, Systems, and Applications.
+
+[3]: Nguyen, A., Yosinski, J., & Clune, J. (2015). ["Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images."](https://arxiv.org/abs/1412.1897) PLOS ONE.
+
+[4]: Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017). ["On Calibration of Modern Neural Networks."](https://arxiv.org/abs/1706.04599) Proceedings of the 34th International Conference on Machine Learning. 
+
+[5]: Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). ["Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles."](https://dl.acm.org/doi/10.5555/3295222.3295387) Advances in Neural Information Processing Systems 30.

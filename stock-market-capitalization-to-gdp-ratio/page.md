@@ -1,6 +1,7 @@
 ---
-title: "Stock Market Capitalization-to-GDP Ratio"
-description: "Explore the intricate relationship between stock market capitalization and GDP ratio alongside algorithmic trading to understand market valuation and dynamics."
+title: Understanding the Stock Market Capitalization-to-GDP Ratio
+description: Stock market capitalization-to-GDP ratio reveals if markets are overvalued
+  or undervalued relative to the economy for smarter trading Discover more inside.
 ---
 
 

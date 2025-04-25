@@ -1,7 +1,7 @@
 ---
-title: Comprehensive Guide to State in Machine Learning Models
-description: State in machine learning captures system context at each step so models
-  adapt decisions and improve accuracy over time Discover more inside
+title: State Representation and Management in Machine Learning
+description: State management in machine learning ensures models capture context over
+  time enabling better predictions across diverse tasks Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -83,3 +83,17 @@ Another issue is dealing with long-term dependencies. In some models, like RNNs,
 Transformers handle state differently from traditional models like RNNs. Instead of using a single state that gets updated step by step, transformers use a mechanism called attention. Imagine you're reading a book and you want to understand a sentence. Attention helps the transformer focus on different words in the sentence, not just the ones that came before. This way, the model can see the whole sentence at once and figure out which parts are important for understanding it. This is like looking at a map to find the best route, instead of following a single path. By using attention, transformers can handle state more effectively and understand long sequences better.
 
 One big innovation in transformers is the self-attention mechanism. Self-attention lets the model compare every word in a sentence to every other word. For example, if you're translating a sentence, self-attention helps the model see how each word relates to all the others, not just the ones that came before. This is shown in the formula $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V $$, where $$ Q, K, $$ and $$ V $$ are the query, key, and value matrices. This approach makes the model better at understanding the context of a whole sequence, which is really helpful for tasks like language translation or text generation. Transformers have changed how we think about state in machine learning, making it easier to handle complex patterns in data.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[4]: Graves, A. (2012). ["Sequence Transduction with Recurrent Neural Networks."](https://www.cs.toronto.edu/~graves/icml_2012.pdf) arXiv preprint arXiv:1211.3711.
+
+[5]: Lecun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[6]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.

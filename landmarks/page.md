@@ -114,3 +114,15 @@ Another advanced method is the use of Heatmap Regression. This technique turns t
 Transfer learning can help make landmark detection better across different areas by using what a model has already learned in one place and using it in another. For example, if a model is good at finding landmarks on faces, you can take what it knows and use it to help it find landmarks on X-rays or pictures of animals. This saves time because the model doesn't have to start from scratch. It already knows how to find important points, so it just needs to learn the new details.
 
 To do this, you start with a model that's already been trained on one kind of data. Then, you use this model as a starting point and train it a bit more with the new kind of data. This way, the model can use what it already knows to find landmarks faster and more accurately in the new area. For example, if you have a model that's good at finding the eyes and nose on faces, you can teach it to find the joints on an X-ray by showing it a few examples. This makes the model more flexible and useful in different situations.
+
+## References & Further Reading
+
+[1]: Belagiannis, V., & Zisserman, A. (2017). ["Recurrent Human Pose Estimation."](https://arxiv.org/abs/1605.02914) In ECCV Workshops.
+
+[2]: Bulat, A., & Tzimiropoulos, G. (2017). ["How far are we from solving the 2D & 3D face alignment problem? (and a dataset of 230,000 3D facial landmarks)."](https://arxiv.org/abs/1703.07332) In Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[3]: Wu, Y., & He, K. (2019). ["Facial landmark detection with cross-domain adaptation."](https://arxiv.org/abs/1805.05563) CVPR 2019.
+
+[4]: Ronneberger, O., Fischer, P., & Brox, T. (2015). ["U-Net: Convolutional Networks for Biomedical Image Segmentation."](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) In Lecture Notes in Computer Science.
+
+[5]: Kazemi, V., & Sullivan, J. (2014). ["One millisecond face alignment with an ensemble of regression trees."](https://ieeexplore.ieee.org/document/6909637) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

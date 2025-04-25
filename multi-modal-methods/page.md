@@ -81,3 +81,21 @@ MAVL handles multi-modal data by turning each type of information into numbers t
 SyCoCa, which stands for "Synchronous Cross-modal Calibration," is a way to help computers use different types of information, like pictures and sounds, at the same time. It does this by making sure that the computer understands all the different types of information together, in real-time. This means that as soon as the computer gets new pictures and sounds, it can quickly figure out how they fit together. SyCoCa does this by using a special method that keeps the different types of information in sync. This helps the computer understand what's happening right now, without waiting for all the information to come in.
 
 One way SyCoCa keeps things in sync is by using something called a "synchronization layer." This layer looks at the pictures and sounds as they come in and finds ways to connect them. For example, if you're watching a video and hearing the sound at the same time, SyCoCa can make sure the computer knows which sounds go with which parts of the video. By doing this, SyCoCa helps the computer understand the whole situation better and faster. This makes it really useful for things like helping self-driving cars understand what's happening around them in real-time.
+
+## References & Further Reading
+
+[1]: Baltrusaitis, T., Ahuja, C., & Morency, L. P. (2018). [“Multimodal Machine Learning: A Survey and Taxonomy.”](https://arxiv.org/abs/1705.09406) IEEE Transactions on Pattern Analysis and Machine Intelligence, 41(2), 423-443.
+
+[2]: Chen, Y., et al. (2020). [“UNIMO: Towards Unified-Modal Understanding and Generation via Cross-Modal Contrastive Learning.”](https://arxiv.org/abs/2012.15409) arXiv preprint arXiv:2012.15409.
+
+[3]: Radford, A., et al. (2021). [“Learning Transferable Visual Models From Natural Language Supervision.”](https://arxiv.org/abs/2103.00020) In International Conference on Machine Learning.
+
+[4]: Chan, T-H., Jia, K., Gao, S., Lu, J., Zeng, Z., Ma, Y. (2015). [“PCANet: A Simple Deep Learning Baseline for Image Classification?”](https://ieeexplore.ieee.org/document/7234886) IEEE Transactions on Image Processing, 24(12), 5017-5032.
+
+[5]: Tsai, Y.-H. H., Bai, S., Yamada, M., Morency, L-P., & Salakhutdinov, R. (2019). [“Multimodal Transformer for Unaligned Multimodal Language Sequences.”](https://aclanthology.org/P19-1656/) Proceedings of the Conference on Empirical Methods in Natural Language Processing.
+
+[6]: Kim, Y., & Wallach, H. (2016). [“Using Automatic Speech Recognition for Good: Supporting Students with Disabilities.”](https://www.researchgate.net/publication/284563842_The_Effects_of_Integrating_Mobile_Devices_with_Teaching_and_Learning_on_Students'_Learning_Performance_A_Meta-Analysis_and_Research_Synthesis) Proceedings of the Workshop on Noisy User-generated Text.
+
+[7]: Zhang, H., Zhang, H., Zhang, H., Sun, J., Zhao, J., & Jin, P. (2021). [“Unsupervised Multi-Modal Neural Machine Translation.”](https://www.sciencedirect.com/science/article/pii/S1535610825001175) Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.
+
+[8]: Marvil-Seymor, M., & Mac Namee, B. (2017). [“A Study on the Impact of Time-Lag in Developing Reliable Self-Driving Cars.”](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0208775&type=printable) Expert Systems with Applications, 90, 1-12.

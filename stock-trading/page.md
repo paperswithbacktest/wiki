@@ -1,6 +1,7 @@
 ---
-title: "Stock Trading"
-description: "Navigate the complex world of investing with insights into stock and algorithmic trading Learn strategies for success in today's dynamic financial markets"
+title: Complete Stock Trading Guide For Beginners And Advanced Investors
+description: This guide explains stock trading step by step with account setup order
+  types analysis strategies risk management and advanced tactics Discover more inside
 ---
 
 

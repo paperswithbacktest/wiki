@@ -110,3 +110,17 @@ Another way to optimize attention mechanisms is by using techniques like multi-q
 Recent research developments in attention mechanisms are shaping the future of machine learning by making models smarter and more efficient. One big change is the use of sparse attention, which means the model only looks at a few important parts of the input instead of all of it. This can save a lot of time and memory, especially when dealing with long sequences of data. Another development is the use of low-rank approximations, where the model uses simpler versions of the attention weights to make calculations faster. For example, instead of using the full attention formula $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V $$, the model might use a simpler version that still captures the main relationships but is quicker to compute. These techniques are making it possible to use attention mechanisms in bigger and more complex models, which can lead to better performance in tasks like language understanding and image processing.
 
 Another important development is the use of multi-query attention, where the model uses multiple sets of queries to focus on different aspects of the input at the same time. This can help the model capture more complex relationships within the data, making it more accurate and versatile. Researchers are also exploring ways to use hardware-specific optimizations, like using GPUs or TPUs more efficiently, to speed up the attention calculations. These advancements are not only improving the performance of current models but also paving the way for new applications in fields like healthcare, finance, and autonomous driving. By making attention mechanisms more efficient and effective, these developments are helping to push the boundaries of what machine learning can do, leading to smarter and more capable AI systems in the future.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[2]: Bahdanau, D., Cho, K., & Bengio, Y. (2014). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473.
+
+[3]: Luong, M. T., Pham, H., & Manning, C. D. (2015). ["Effective Approaches to Attention-based Neural Machine Translation."](https://aclanthology.org/D15-1166/) arXiv preprint arXiv:1508.04025.
+
+[4]: Choromanski, K., Likhosherstov, V., Dohan, D., Song, X., Gane, A., Sarlós, T., Hawkins, P., Davis, J., Mohiuddin, A., & Kaiser, Ł. (2021). ["Rethinking Attention with Performers."](https://arxiv.org/abs/2009.14794) arXiv preprint arXiv:2009.14794.
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[6]: Lin, Z., Feng, M., Santos, C. N. D., Yu, M., Xiang, B., Zhou, B., & Bengio, Y. (2017). ["A Structured Self-attentive Sentence Embedding."](https://arxiv.org/abs/1703.03130) arXiv preprint arXiv:1703.03130.

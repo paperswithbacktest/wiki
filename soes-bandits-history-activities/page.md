@@ -1,6 +1,7 @@
 ---
-title: "SOES Bandits: History and Activities"
-description: "Explore the legacy of the SOES Bandits and their pioneering role in shaping modern algorithmic trading by exploiting early electronic systems for rapid market gains."
+title: Understanding SOES Bandits and Their Stock Market Impact
+description: SOES Bandits exploited Nasdaq Small Order Execution System to drive regulatory
+  reforms and shape high frequency trading strategies Discover more inside
 ---
 
 

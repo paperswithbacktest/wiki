@@ -194,3 +194,19 @@ Another useful method is partial dependence plots, which show how a feature affe
 Deploying a machine learning model in a production environment means making it available for real-world use. Imagine you've built a model to predict house prices, and now you want to use it on a website where people can enter details about a house and get an estimated price. To do this, you first need to save your trained model. You can save it as a file using a format like pickle in Python. Once saved, you can load this file into your production environment, like a web server, where it can be used to make predictions. You also need to set up an API (Application Programming Interface) that allows other parts of your system to send data to the model and get predictions back. This API acts like a bridge between your website and the model, making sure they can talk to each other smoothly.
 
 After setting up the model and the API, you need to make sure everything works well in the real world. This means testing the model with real data to see if it still makes good predictions. You might also need to monitor the model's performance over time, because the data it sees in production might be different from the data it was trained on. If the model starts making bad predictions, you might need to retrain it with new data or adjust its hyperparameters. For example, if you're using a linear regression model, you might need to change the values of $$m$$ and $$b$$ in the formula $$y = mx + b$$ to fit the new data better. By keeping an eye on the model and updating it when needed, you can make sure it keeps working well for your users.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., et al. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825–2830.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[6]: Kelleher, J. D., Namee, B. M., & D'Arcy, A. (2015). ["Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies."](https://mitpress.mit.edu/9780262029445/fundamentals-of-machine-learning-for-predictive-data-analytics/) MIT Press.
+
+[7]: ["Understanding Machine Learning: From Theory to Algorithms"](https://assets.cambridge.org/97811070/57135/frontmatter/9781107057135_frontmatter.pdf) by Shai Shalev-Shwartz and Shai Ben-David, Cambridge University Press, 2014.

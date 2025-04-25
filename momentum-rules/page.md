@@ -93,3 +93,21 @@ One advanced strategy to adapt momentum during training is to use a technique ca
 Another strategy is to use adaptive momentum methods, like the one used in the Adam optimizer. Adam combines momentum with a way to adjust the learning rate based on past gradients. It uses two parameters, $$\beta_1$$ and $$\beta_2$$, to control how much the model remembers the past. By setting $$\beta_1$$ to a value like 0.9, Adam can keep moving smoothly like regular momentum. But it also uses $$\beta_2$$ to adjust the learning rate based on the size of past gradients, which helps the model learn faster and more efficiently. This combination makes Adam very good at finding the best solution quickly and smoothly.
 
 You can also try using techniques like "momentum restart." This means resetting the momentum to zero at certain points during training. Imagine you're rolling a ball down a hill, and it starts going in the wrong direction. By stopping the ball and giving it a new push, you can help it find the right path again. You can use a formula like $$v_t = 0$$ every $$k$$ steps to reset the momentum, where $$v_t$$ is the momentum at time $$t$$ and $$k$$ is a chosen interval. This can help the model avoid getting stuck and find the best solution more efficiently.
+
+## References & Further Reading
+
+[1]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning Representations by Back-Propagating Errors."](https://www.nature.com/articles/323533a0) Nature, 323(6088), 533-536.
+
+[2]: Sutskever, I., Martens, J., Dahl, G., & Hinton, G. (2013). ["On the importance of initialization and momentum in deep learning."](https://dl.acm.org/doi/10.5555/3042817.3043064) Proceedings of the 30th International Conference on Machine Learning (ICML-13), 1139-1147.
+
+[3]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[4]: Nesterov, Y. (1983). ["A method for solving the convex programming problem with convergence rate O(1/k^2)."](https://scispace.com/papers/a-method-for-solving-the-convex-programming-problem-with-48h4ybnwik) Doklady Akademii Nauk SSSR, 269, 543-547.
+
+[5]: Ruder, S. (2016). ["An overview of gradient descent optimization algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[7]: Bottou, L., Curtis, F. E., & Nocedal, J. (2018). ["Optimization Methods for Large-Scale Machine Learning."](https://arxiv.org/abs/1606.04838) SIAM Review, 60(2), 223-311.
+
+[8]: Botev, A., Lever, G., & Barber, D. (2017). ["Nesterov's accelerated gradient and momentum as approximations to regularised update descent."](https://ieeexplore.ieee.org/document/7966082) arXiv preprint arXiv:1607.01981.

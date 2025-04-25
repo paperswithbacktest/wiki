@@ -81,3 +81,15 @@ Another variation is "Relative Position Encoding." In regular Multi-Head Self-At
 To evaluate and optimize the performance of a model using Multi-Head Self-Attention, you start by choosing the right metrics for your task. For language translation, you might use BLEU scores to see how well the model translates sentences. For text generation, you could look at how coherent and relevant the generated text is. Once you have your metrics, you can train the model and see how it performs. If the performance isn't good enough, you can try different things to make it better. One way is to change the number of heads in the Multi-Head Self-Attention mechanism. Using more heads can help the model see the data from more angles, but it might also make the model slower. You need to find a balance that works well for your task.
 
 Another way to optimize the model is to adjust the learning rate or the size of the model. A higher learning rate can help the model learn faster, but if it's too high, the model might miss important patterns. You can also try using techniques like dropout, which randomly turns off some parts of the model during training to prevent overfitting. If you're using a programming language like Python, you can experiment with these changes using libraries like PyTorch or TensorFlow. For example, you might write code to adjust the number of heads and see how it affects the model's performance. By trying different settings and seeing how they affect your metrics, you can find the best way to use Multi-Head Self-Attention for your specific task.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) NAACL-HLT.
+
+[3]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) Advances in Neural Information Processing Systems.
+
+[4]: Vaswani, A., Uszkoreit, J., & Kaiser, Ł. (2019). ["Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context."](https://arxiv.org/abs/1901.02860) ACL.
+
+[5]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI.

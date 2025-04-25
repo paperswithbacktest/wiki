@@ -81,3 +81,15 @@ On the other hand, if your target variable is measured in smaller numbers, like 
 In some advanced machine learning applications, people tweak RMSE to fit their specific needs better. One common tweak is using a weighted RMSE, where some errors count more than others. This is useful if certain mistakes are more important in your problem. For example, if you're predicting how much medicine someone needs, being off by a little bit could be really bad, so you might want to weigh those errors more heavily. The formula for weighted RMSE could look like $$ \text{WRMSE} = \sqrt{\frac{\sum_{i=1}^{n} w_i (y_i - \hat{y}_i)^2}{\sum_{i=1}^{n} w_i}} $$, where $w_i$ are the weights you choose for each error.
 
 Another advanced technique is using RMSE in combination with other metrics to get a fuller picture of how well your model is doing. For instance, you might use RMSE along with Mean Absolute Error (MAE) or R-squared to understand both the size of the errors and how well your model fits the data overall. This is especially helpful in fields like finance or healthcare, where understanding the model's performance from different angles is crucial. By looking at RMSE together with other metrics, you can make better decisions about how to improve your model and where it's doing well or not so well.
+
+## References & Further Reading
+
+[1]: Chai, T., & Draxler, R. R. (2014). ["Root mean square error (RMSE) or mean absolute error (MAE)? – Arguments against avoiding RMSE in the literature"](https://gmd.copernicus.org/articles/7/1247/2014/). Quarterly Journal of the Royal Meteorological Society, 140(1), 52-64.
+
+[2]: Hyndman, R. J., & Athanasopoulos, G. (2018). ["Forecasting: Principles and Practice"](https://otexts.com/fpp2/). OTexts.
+
+[3]: Willmott, C. J., & Matsuura, K. (2005). ["Advantages of the mean absolute error (MAE) over the root mean square error (RMSE) in assessing average model performance"](https://www.int-res.com/articles/cr2005/30/c030p079.pdf). Climate Research, 30(1), 79-82. 
+
+[4]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.
+
+[5]: ["Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7) by Trevor Hastie, Robert Tibshirani, and Jerome Friedman.

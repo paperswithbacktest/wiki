@@ -83,3 +83,23 @@ To make things easier on your computer, you can use techniques like pruning and 
 To make dense layers work better and faster when training a neural network, you can use a few tricks. One trick is called regularization, like L2 regularization. This adds a small penalty to the weights of the layer, which helps keep them from getting too big. The penalty is the L2 norm of the weights, which is the sum of the squares of all the weights multiplied by a small number called the regularization parameter, often written as $$\lambda$$. By doing this, the layer can learn more general patterns and not just the training data, which can make the model more accurate on new data. Another trick is to use dropout, which randomly turns off some neurons during training. This stops the layer from relying too much on any single neuron, helping it learn more robust patterns. You can set a dropout rate, like 0.2, which means 20% of the neurons will be turned off during each training step.
 
 Another way to optimize dense layers is by thinking about the number of neurons in each layer. You want to find a balance so the layer can learn well without making things too complicated. A good starting point is to use a number of neurons that's about halfway between the input size and the output size. For example, if your input size is 100 and your output size is 10, you might start with around 50 neurons. You can then try different numbers and see which one works best by checking the model's performance on a separate validation set. If the model starts to do worse on the validation set as you add more neurons, you might be overfitting, so you should go back to a smaller number. Also, using techniques like batch normalization can help the model learn faster and need less computing power. Batch normalization normalizes the inputs to each layer, which can make the training process more stable and efficient.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press. 
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436–444.
+
+[3]: Nwankpa, C., Ijomah, W., Gachagan, A., & Marshall, S. (2018). ["Activation Functions: Comparison of trends in Practice and Research for Deep Learning."](https://arxiv.org/abs/1811.03378) arXiv:1811.03378.
+
+[4]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15(1), 1929-1958.
+
+[5]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python). Manning Publications.
+
+[6]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification."](https://arxiv.org/abs/1502.01852) arXiv:1502.01852.
+
+[7]: Goodfellow, I.J., Warde-Farley, D., Mirza, M., Courville, A., & Bengio, Y. (2013). ["Maxout Networks."](https://arxiv.org/abs/1302.4389) Proceedings of the 30th International Conference on Machine Learning (ICML-13), 1319-1327.
+
+[8]: Ioffe, S., & Szegedy, C. (2015). ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) arXiv:1502.03167.
+
+[9]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.

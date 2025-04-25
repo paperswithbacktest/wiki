@@ -1,6 +1,7 @@
 ---
-title: "Signum Cryptocurrency: Mining and Features"
-description: "Explore Signum Cryptocurrency Discover eco-friendly mining with unique Proof-of-Capacity, innovative blockchain features, and the evolving role of algorithmic trading"
+title: Eco-Friendly Signum Cryptocurrency Mining for Efficient Rewards
+description: Signum cryptocurrency harnesses proof of capacity for fast low-cost eco-friendly
+  mining with standard hardware and low energy costs Discover more inside.
 ---
 
 

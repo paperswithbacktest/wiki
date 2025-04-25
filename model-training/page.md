@@ -116,3 +116,23 @@ scheduler = StepLR(optimizer, step_size=30, gamma=0.1)
 When you're working with large datasets and complex models, scaling the training process becomes crucial. One way to handle this is by using distributed training, where the data and the model are spread across multiple computers or GPUs. This allows the training to happen in parallel, making it much faster. For example, you can use data parallelism, where each computer or GPU gets a part of the data and works on it at the same time. Another approach is model parallelism, where different parts of the model are put on different computers or GPUs. This is especially useful for very large models that don't fit on a single machine. By using these methods, you can train your model much faster and handle bigger datasets.
 
 Another technique for scaling model training is using mini-batch gradient descent. Instead of using the whole dataset for each update, you use smaller batches of data. This not only makes the training faster but also helps the model learn better because it sees the data in different combinations. The size of the batch can be adjusted to find the best balance between speed and performance. For example, if you're using a neural network, the loss function for a mini-batch might look like this: $$ \text{Loss} = \frac{1}{m} \sum_{i=1}^{m} (y_i - \hat{y}_i)^2 $$, where $m$ is the size of the mini-batch. Additionally, you can use tools like Apache Spark or TensorFlow's distributed training capabilities to manage the process. These tools help you handle the complexity of distributing the data and the model across multiple machines, making the training process more efficient and manageable.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ) O'Reilly Media.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[6]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[7]: Bergstra, J., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research.
+
+[8]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[9]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

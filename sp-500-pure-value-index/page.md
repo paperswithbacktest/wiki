@@ -1,6 +1,7 @@
 ---
-title: "S&P 500 Pure Value Index"
-description: "Explore how algorithmic trading enhances value investing within the S&P 500 Pure Value Index offering strategic insights for systematic market opportunities."
+title: Understanding the S&P 500 Pure Value Index for Investors
+description: S&P 500 Pure Value Index selects undervalued stocks with value metrics
+  and quarterly rebalancing to help investors optimize returns. Discover more inside.
 ---
 
 

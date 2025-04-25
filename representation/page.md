@@ -83,3 +83,23 @@ For example, if you have a model that's good at recognizing general objects in i
 To evaluate the effectiveness of different representation methods in machine learning, you can look at how well the model performs when using each representation. One way to do this is by measuring the model's accuracy, which is how often it makes the right predictions. For example, if you're trying to classify pictures of cats and dogs, you can see how many times the model correctly identifies a cat or a dog. Another way is to look at the model's error rate, which is how often it makes mistakes. If one representation leads to a lower error rate or higher accuracy than another, it's probably a better way to represent the data.
 
 You can also use cross-validation to compare different representation methods. Cross-validation means splitting your data into different parts and training the model on some of the parts while testing it on the others. This helps you see how well the model works on data it hasn't seen before. If one representation method gives you better results across different splits of the data, it's likely a more effective way to represent your data. By trying out different representations and seeing how they affect the model's performance, you can choose the one that works best for your problem.
+
+## References & Further Reading
+
+[1]: Bengio, Y., Courville, A., & Vincent, P. (2013). ["Representation Learning: A Review and New Perspectives."](https://ieeexplore.ieee.org/document/6472238) Journal of Machine Learning Research, 14: 1-124.
+
+[2]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[5]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[6]: Olah, C. (2014). ["Understanding Neural Networks Through Deep Visualization."](https://arxiv.org/abs/1506.06579)
+
+[7]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning representations by back-propagating errors."](https://www.nature.com/articles/323533a0) Nature, 323(6088), 533-536.
+
+[8]: ["Representation Learning: A Unifying Review"](https://arxiv.org/abs/1206.5538) Journal of Machine Learning Research, by Yoshua Bengio, Aaron Courville, and Pascal Vincent.
+
+[9]: Vincent, P., Larochelle, H., Lajoie, I., Bengio, Y., & Manzagol, P. A. (2010). ["Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion."](https://dl.acm.org/doi/10.5555/1756006.1953039) Journal of Machine Learning Research, 11: 3371-3408.

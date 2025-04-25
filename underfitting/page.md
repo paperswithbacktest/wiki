@@ -85,3 +85,15 @@ Lastly, you can use techniques like [data augmentation](/wiki/data-augmentation)
 Balancing between underfitting and overfitting is like finding the right amount of seasoning for a dish. Underfitting happens when your model is too simple and can't learn the patterns in the data well. Imagine trying to fit a straight line, $$y = mx + b$$, to data that actually forms a curve. The straight line won't match the data well, and this is what underfitting looks like. To fix underfitting, you might need to use a more complex model, like switching to a polynomial one, $$y = ax^2 + bx + c$$, or add more features to your dataset. This helps the model capture the true patterns in the data better.
 
 On the other hand, overfitting happens when your model is too complex and learns too much from the training data, including the random noise or errors. It's like memorizing a list of numbers instead of understanding the rule that generates them. An overfitted model might do really well on the training data but won't do well on new data because it's too specific to the training set. To fix overfitting, you might need to simplify the model or use less data to train it, so it learns the general patterns instead of the noise. The goal is to find a balance where the model is just right – not too simple, not too complex – so it can learn the true patterns in the data and work well on new data too.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.

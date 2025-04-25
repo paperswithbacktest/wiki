@@ -1,6 +1,7 @@
 ---
-title: "Sources of Business Risk"
-description: "Explore the business risks of algorithmic trading with insights on mitigating potential pitfalls through effective risk management strategies in dynamic markets."
+title: Understanding Business Risk Types and Effective Management
+description: Business risk spans market shifts financial and operational challenges
+  We outline risk types and proactive strategies to manage them. Discover more inside
 ---
 
 

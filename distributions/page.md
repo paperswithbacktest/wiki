@@ -105,3 +105,17 @@ Another modification is the use of "Scheduled Sampling" with the Gumbel Softmax.
 One promising direction for future research is to improve how the Gumbel Softmax works with different types of data. Right now, it's mostly used for picking from a set of clear choices, like colors or words. But what if we could use it for more complex data, like pictures or sounds? Researchers could explore ways to make the Gumbel Softmax work better with these kinds of data. For example, they might find new ways to add the right kind of noise to the choices, so the model can learn to pick the best option even when the choices are more complicated. This could make the Gumbel Softmax even more useful for tasks like generating new images or understanding spoken language.
 
 Another area for future research is to make the Gumbel Softmax more efficient. Right now, using the Gumbel Softmax can take a lot of time and computer power, especially when you're trying out different temperatures to see what works best. Researchers could work on new methods to speed up the process. For example, they might find ways to quickly test different temperatures without having to train the model from scratch each time. Or they might come up with new formulas that make the Gumbel Softmax work faster. By making the Gumbel Softmax more efficient, it could be used more easily in real-world applications, like helping computers make quick and accurate decisions in self-driving cars or medical diagnosis systems.
+
+## References & Further Reading
+
+[1]: Jang, E., Gu, S., & Poole, B. (2017). ["Categorical Reparameterization with Gumbel-Softmax."](https://arxiv.org/abs/1611.01144) arXiv preprint arXiv:1611.01144.
+
+[2]: Maddison, C. J., Mnih, A., & Teh, Y. W. (2017). ["The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables."](https://arxiv.org/abs/1611.00712) arXiv preprint arXiv:1611.00712.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Kingma, D. P., & Welling, M. (2013). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[6]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.

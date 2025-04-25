@@ -81,3 +81,17 @@ One advanced strategy for fine-tuning learning rates in complex models is called
 Another advanced strategy is to use adaptive learning rate methods like Adam or RMSprop. These methods automatically adjust the learning rate based on how the model is doing. For example, Adam uses a formula to update the learning rate that looks like $$ \alpha_t = \alpha \cdot \frac{\sqrt{1 - \beta_2^t}}{1 - \beta_1^t} $$, where $$\alpha$$ is the initial learning rate, $$\beta_1$$ and $$\beta_2$$ are hyperparameters, and $$t$$ is the current time step. This helps Adam take into account both the direction and the size of the steps the model is taking. RMSprop, on the other hand, adjusts the learning rate based on the average of the squared gradients, which helps the model learn more smoothly. By using these methods, you don't need to change the learning rate by hand, making it easier to train the model and find the best solution.
 
 A third strategy involves using techniques like learning rate range tests or cyclic learning rates. In a learning rate range test, you start with a very small learning rate and slowly increase it while watching how the model's performance changes. This can help you find the learning rate that makes the model learn the fastest without jumping around too much. Cyclic learning rates involve changing the learning rate in a cycle, going from a low value to a high value and back again. This can help the model escape from local minima and find the best solution more reliably. By trying different learning rates and seeing how the model responds, you can find the best one for your problem.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning.](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Ruder, S. (2016). [An overview of gradient descent optimization algorithms.](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
+
+[3]: Bottou, L. (2012). [Stochastic Gradient Descent Tricks.](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_25) In Neural Networks: Tricks of the Trade (pp. 421-436). Springer, Berlin, Heidelberg.
+
+[4]: Zeiler, M. D. (2012). [ADADELTA: An adaptive learning rate method.](https://arxiv.org/abs/1212.5701) arXiv preprint arXiv:1212.5701.
+
+[5]: Duchi, J., Hazan, E., & Singer, Y. (2011). [Adaptive subgradient methods for online learning and stochastic optimization.](https://dl.acm.org/doi/10.5555/1953048.2021068) Journal of Machine Learning Research, 12, 2121-2159.
+
+[6]: Kingma, D. P., & Ba, J. (2014). [Adam: A method for stochastic optimization.](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.

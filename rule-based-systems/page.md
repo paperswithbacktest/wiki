@@ -81,3 +81,15 @@ Another technique is using machine learning to learn new rules or adjust existin
 In a case study from the medical field, a rule-based system was used to help doctors diagnose certain diseases based on patient symptoms. The system had a set of clear rules like "If a patient has a fever and a rash, then order a blood test." These rules were made by doctors who knew a lot about the diseases. The rule-based system was compared to a machine learning model, like a neural network, that learned from a lot of patient data. The rule-based system did better because it was easier for doctors to understand and trust. They could see the rules and check if they were right. The machine learning model, on the other hand, was hard to explain and sometimes made mistakes that were hard to fix.
 
 In another case study, a rule-based system was used in a customer service chatbot for a big company. The system had rules like "If a customer asks about returns, then explain the return policy." These rules helped the chatbot give quick and correct answers to common questions. When compared to a machine learning model that tried to learn from customer interactions, the rule-based system was more reliable. It did not make as many mistakes because it followed the rules exactly. The machine learning model sometimes gave wrong answers because it was still learning from the data. The rule-based system was also easier to update when the company changed its policies, making it a better choice for the customer service task.
+
+## References & Further Reading
+
+[1]: Russell, S., & Norvig, P. (2009). ["Artificial Intelligence: A Modern Approach."](https://elibrary.pearson.de/book/99.150005/9781292401171) Prentice Hall.
+
+[2]: Turing, A. M. (1950). ["Computing Machinery and Intelligence."](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf) Mind, 59(236), 433-460.
+
+[3]: Nilsson, N. J. (1986). ["Probabilistic Logic."](https://ai.stanford.edu/~nilsson/OnlinePubs-Nils/PublishedPapers/problogic.pdf) Artificial Intelligence, 28(1), 71-87.
+
+[4]: Winston, P. H. (1992). ["Artificial Intelligence."](https://openlibrary.org/books/OL1560267M/Artificial_intelligence) Addison-Wesley.
+
+[5]: Durbin, R., Eddy, S. R., Krogh, A., & Mitchison, G. (1998). ["Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids."](http://www.mcb111.org/w06/durbin_book.pdf) Cambridge University Press.

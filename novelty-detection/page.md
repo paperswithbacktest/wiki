@@ -205,3 +205,19 @@ print(f"Isolation Forest prediction: {'Novelty' if if_prediction[0] == -1 else '
 ```
 
 Another way to improve the model is by making sure the data is ready for it. This means cleaning the data to get rid of mistakes and scaling it so all the numbers are on the same level. You can use a formula like $$z = \frac{x - \mu}{\sigma}$$ to scale the data. Also, it's good to use more data to train the model, because the more it sees, the better it gets at finding new things. If you can, try using different kinds of data to train the model, so it knows about different situations. This can make the model more flexible and better at spotting novelties in real life.
+
+## References & Further Reading
+
+[1]: Pimentel, M. A. F., Clifton, D. A., Clifton, L., & Tarassenko, L. (2014). ["A Review of Novelty Detection."](https://www.robots.ox.ac.uk/~davidc/pubs/NDreview2014.pdf) Signal Processing, 99, 215-249.
+
+[2]: Chandola, V., Banerjee, A., & Kumar, V. (2009). ["Anomaly Detection: A Survey."](https://dl.acm.org/doi/10.1145/1541880.1541882) ACM Computing Surveys, 41(3), Article 15.
+
+[3]: Schölkopf, B., Platt, J. C., Shawe-Taylor, J., Smola, A. J., & Williamson, R. C. (2001). ["Estimating the Support of a High-Dimensional Distribution."](https://pubmed.ncbi.nlm.nih.gov/11440593/) Neural Computation, 13(7), 1443–1471.
+
+[4]: Liu, F. T., Ting, K. M., & Zhou, Z.-H. (2008). ["Isolation Forest."](https://ieeexplore.ieee.org/document/4781136) Proceedings of the 8th IEEE International Conference on Data Mining, 413-422.
+
+[5]: Aggarwal, C. C. (2017). ["Outlier Analysis,"](https://link.springer.com/book/10.1007/978-3-319-47578-3) 2nd edition. Springer International Publishing.
+
+[6]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning,"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[7]: Hodge, V. J., & Austin, J. (2004). ["A Survey of Outlier Detection Methodologies."](https://link.springer.com/article/10.1023/B:AIRE.0000045502.10941.a9) Artificial Intelligence Review, 22, 85-126.

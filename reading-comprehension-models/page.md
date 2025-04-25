@@ -79,3 +79,17 @@ State-of-the-art models, like those using transformer architectures, are closing
 Future research in reading comprehension models will focus on making them understand text more like humans do. This means they will need to get better at understanding not just the words, but also the context, emotions, and even things that are not directly said in the text. Researchers will work on making models use common sense and knowledge about the world to understand texts better. They will also try to make models that can answer more complex questions and understand longer texts. Techniques like transformer architectures and attention mechanisms will be improved to help models focus on the most important parts of the text.
 
 Another important direction for future research is making reading comprehension models work better with less data. Right now, these models need a lot of text to learn from, but in the future, researchers want them to learn from smaller amounts of data. This will make it easier to use these models in more situations. Also, researchers will work on making models that can understand and answer questions in many languages, not just one. They will use metrics like the F1 score, calculated by $$ F1 = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} + \text{recall}} $$, to see how well the models are doing and where they need to improve.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[3]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[4]: Rajpurkar, P., Zhang, J., Lopyrev, K., & Liang, P. (2016). ["SQuAD: 100,000+ Questions for Machine Comprehension of Text."](https://aclanthology.org/D16-1264/) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing.
+
+[5]: Lai, G., Xie, Q., Liu, H., Yang, Y., & Hovy, E. (2017). ["RACE: Large-scale ReAding Comprehension Dataset From Examinations."](https://aclanthology.org/D17-1082/) Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing.
+
+[6]: Hermann, K. M., Kocisky, T., Grefenstette, E., Espeholt, L., Kay, W., Suleyman, M., & Blunsom, P. (2015). ["Teaching Machines to Read and Comprehend."](https://arxiv.org/abs/1506.03340) Advances in Neural Information Processing Systems 28.

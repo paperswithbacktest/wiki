@@ -81,3 +81,19 @@ The key to making Zero-Shot Prompting work is having a good pre-trained model an
 In the future, we can expect Zero-Shot Prompting to get even better and more useful. Researchers are working on ways to make prompts clearer and more specific, which will help models understand what we want them to do better. They are also training models on bigger and more diverse sets of data, so the models will know more about the world and be able to handle new tasks better. For example, models might be able to describe pictures more accurately or translate languages they don't know well now. This means Zero-Shot Prompting could be used in more places, like helping doctors understand medical reports or helping people learn new languages.
 
 Another exciting thing that might happen is combining different types of models, like language models and image recognition models, to do even more complex tasks. This could let us use Zero-Shot Prompting to not just understand text, but also to create new images or even videos based on what we write. As these technologies keep improving, Zero-Shot Prompting will become a powerful tool that can help us in many different ways, making it easier to use one model for many tasks without needing a lot of training data.
+
+## References & Further Reading
+
+[1]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[2]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., ... & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv preprint arXiv:1907.11692.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[4]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762. 
+
+[7]: Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., ... & Zettlemoyer, L. (2019). ["BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension."](https://aclanthology.org/2020.acl-main.703/) arXiv preprint arXiv:1910.13461.

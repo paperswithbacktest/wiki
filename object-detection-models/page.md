@@ -81,3 +81,25 @@ EfficientDet improves performance and efficiency by using a smart way to balance
 The latest trends in object detection research focus on making models faster, more accurate, and able to work with less data. One big trend is using transformers, like in the DETR model, which can understand the whole picture at once instead of looking at parts one by one. This makes the models simpler and easier to train. Another trend is using fewer labels to train models, which is called semi-supervised or self-supervised learning. This is important because getting lots of labeled data can be hard and expensive. Researchers are also working on making models that can detect objects in 3D, which is useful for things like self-driving cars and robotics. These models need to understand the depth and shape of objects, which is more complicated than just looking at a flat picture.
 
 Future directions in object detection research aim to make models even better at handling real-world challenges. One direction is improving the ability of models to detect small or hard-to-see objects, which is still a big problem. Researchers are also looking into making models that can learn from video, not just still pictures. This could help with things like tracking objects over time or understanding how objects move. Another future direction is making models that can explain their decisions, which is called explainable AI. This is important for building trust in the models and making sure they are fair and unbiased. Overall, the goal is to create object detection models that are fast, accurate, and easy to use in many different situations.
+
+## References & Further Reading
+
+[1]: Girshick, R., Donahue, J., Darrell, T., & Malik, J. (2014). ["Rich feature hierarchies for accurate object detection and semantic segmentation."](https://ieeexplore.ieee.org/document/6909475) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[2]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Proceedings of the 2015 IEEE International Conference on Computer Vision (ICCV).
+
+[3]: Redmon, J., & Farhadi, A. (2018). ["YOLOv3: An Incremental Improvement."](https://arxiv.org/abs/1804.02767) arXiv preprint arXiv:1804.02767.
+
+[4]: Bochkovskiy, A., Wang, C., & Liao, H.M. (2020). ["YOLOv4: Optimal Speed and Accuracy of Object Detection."](https://arxiv.org/abs/2004.10934) arXiv preprint arXiv:2004.10934.
+
+[5]: Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A., & Zagoruyko, S. (2020). ["End-to-End Object Detection with Transformers."](https://arxiv.org/abs/2005.12872) European Conference on Computer Vision.
+
+[6]: Lin, T.Y., Dollár, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[7]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) Proceedings of the IEEE International Conference on Computer Vision.
+
+[8]: Tan, M., Pang, R., & Le, Q.V. (2020). ["EfficientDet: Scalable and Efficient Object Detection."](https://arxiv.org/abs/1911.09070) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[9]: Ge, Z., Liu, S., Wang, F., Li, Z., & Sun, J. (2021). ["YOLOX: Exceeding YOLO Series in 2021."](https://arxiv.org/abs/2107.08430) arXiv preprint arXiv:2107.08430.
+
+[10]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C.Y., & Berg, A.C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) European Conference on Computer Vision.

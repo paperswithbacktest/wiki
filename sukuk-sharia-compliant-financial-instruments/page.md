@@ -1,6 +1,7 @@
 ---
-title: "Sukuk: Sharia-Compliant Financial Instruments"
-description: "Explore the world of Sukuk, Sharia-compliant financial instruments merging Islamic finance with algorithmic trading, offering ethical investment solutions."
+title: Understanding Sukuk Structures and Principles in Islamic Finance
+description: Sukuk offer a Sharia compliant asset ownership model with profit sharing
+  and risk allocation Explore structures uses market trends Discover more inside
 ---
 
 

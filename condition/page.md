@@ -81,3 +81,19 @@ Another cutting-edge area is the use of conditional variational autoencoders (CV
 Conditional models work well with [deep learning](/wiki/deep-learning) because they can use deep learning's ability to learn from complex data. Deep learning models, like neural networks, are good at finding patterns in big datasets. When you add conditions to these models, they can focus on specific parts of the data that matter for making predictions. For example, a deep learning model can predict if an email is spam by looking at many different features of the email. By adding conditions, like checking if the email has the word "free," the model can adjust its predictions to be more accurate. This can be shown with the formula $$P(\text{Spam} | \text{'free'})$$, which means the chance of an email being spam given that it has the word "free."
 
 In another example, conditional models can be used with deep learning to create new images or text that fit certain conditions. This is done using models like conditional generative adversarial networks (cGANs) or conditional variational autoencoders (CVAEs). These models use deep learning to learn how to generate realistic data, and the conditions help them create data that matches what you want. For instance, if you want to generate a picture of a dog but specify it should be a golden retriever, the model uses the condition to create an image that looks like a golden retriever. By integrating conditional models with deep learning, we can make AI systems smarter and more useful for tasks like personalized content generation and advanced data analysis.
+
+## References & Further Reading
+
+[1]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Koller, D., & Friedman, N. (2009). ["Probabilistic Graphical Models: Principles and Techniques."](http://mcb111.org/w06/KollerFriedman.pdf) MIT Press.
+
+[6]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[7]: Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). ["Image-to-Image Translation with Conditional Adversarial Networks."](https://arxiv.org/abs/1611.07004) IEEE Conference on Computer Vision and Pattern Recognition.

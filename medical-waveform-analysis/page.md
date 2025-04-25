@@ -79,3 +79,19 @@ Another way to evaluate the model is by using numbers like accuracy, sensitivity
 Recent advancements in machine learning for medical waveform analysis include the use of more advanced neural networks, like convolutional neural networks (CNNs) and recurrent neural networks (RNNs). These models are really good at understanding patterns in data, even when the patterns are hard to see. For example, CNNs can look at an ECG and learn to tell the difference between a normal heartbeat and one that shows a heart problem. They do this by breaking down the waveform into many small parts and figuring out which parts are important. RNNs are great for looking at signals that change over time, like EEGs, because they can remember what they saw before and use that to understand what's happening now.
 
 Another big advancement is the use of transfer learning. This means taking a model that was trained on one kind of data and using it to help understand a different kind of data. For example, a model that learned to find patterns in ECGs can be tweaked to find patterns in EEGs. This saves time and helps the new model work better, even if there's not a lot of data to train it on. Also, researchers are working on making machine learning models explainable, so doctors can understand why the model says a waveform is normal or abnormal. This helps build trust in the models and makes sure they are used in a safe and fair way.
+
+## References & Further Reading
+
+[1]: Christov, I. I. (2004). ["Real time electrocardiogram QRS detection using combined adaptive threshold."](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-3-28) IEEE Computers in Cardiology.
+
+[2]: Kiranyaz, S., Ince, T., & Gabbouj, M. (2016). ["Personalized monitoring for arrhythmia detection in long-term ECG recordings using RNN."](https://pmc.ncbi.nlm.nih.gov/articles/PMC9711952/) Expert Systems with Applications.
+
+[3]: Faust, O., Hagiwara, Y., Hong, T. J., Lih, O. S., & Acharya, U. R. (2018). ["Deep learning for healthcare applications based on physiological signals: A review."](https://pubmed.ncbi.nlm.nih.gov/29852952/) Computer Methods and Programs in Biomedicine.
+
+[4]: Rajpurkar, P., Hannun, A. Y., Haghpanahi, M., Bourn, C., & Ng, A. Y. (2017). ["Cardiologist-level arrhythmia detection with convolutional neural networks."](https://pubmed.ncbi.nlm.nih.gov/30617320/) Nature Medicine.
+
+[5]: Wang, H., & Raj, B. (2017). ["On the origin of deep learning."](https://arxiv.org/abs/1702.07800) Pattern Recognition.
+
+[6]: Schirrmeister, R. T., Springenberg, J. T., Fiederer, L. D. J., Glasstetter, M., Eggensperger, K., Tangermann, M., ... & Ball, T. (2017). ["Deep learning with convolutional neural networks for EEG decoding and visualization."](https://arxiv.org/abs/1703.05051) Journal of Neural Engineering.
+
+[7]: Esteva, A., Robicquet, A., Ramsundar, B., Kuleshov, V., DePristo, M., Chou, K., ... & Dean, J. (2019). ["A guide to deep learning in healthcare."](https://pubmed.ncbi.nlm.nih.gov/30617335/) Nature Medicine.

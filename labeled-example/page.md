@@ -79,3 +79,15 @@ Active learning is a bit different. It starts with a small set of labeled exampl
 One advanced method for generating synthetic labeled examples is using generative models like Generative Adversarial Networks (GANs). GANs can create new data that looks a lot like the real data you already have. For example, if you have pictures of cats and dogs, a GAN can make new pictures of cats and dogs that look real. You can then label these new pictures with the right labels, like "cat" or "dog". This way, you can get more labeled examples without having to collect and label new real data. This can be really helpful if getting more real data is hard or expensive.
 
 Another method is [data augmentation](/wiki/data-augmentation), which changes the existing labeled data a bit to make new examples. For example, if you have a picture of a cat, you can flip it, rotate it, or change its color a little bit. Each of these changes makes a new picture that you can label as "cat". This gives you more labeled examples to train your model with. Data augmentation can help the model learn better because it sees the same thing in different ways. Both GANs and data augmentation are smart ways to make more labeled examples and help your model learn well, even if you don't have a lot of real data to start with.
+
+## References & Further Reading
+
+[1]: Alpaydin, E. (2020). ["Introduction to Machine Learning"](https://mitpress.mit.edu/9780262043793/introduction-to-machine-learning/) (4th ed.). MIT Press.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[4]: Quinlan, J. R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81–106.
+
+[5]: Chapelle, O., Scholkopf, B., & Zien, A. (2006). ["Semi-Supervised Learning."](https://ieeexplore.ieee.org/abstract/document/4787647) MIT Press.

@@ -86,3 +86,19 @@ Tensor shapes also impact how quickly your model can do calculations. When you d
 Transposition is a way to change the order of the dimensions in a tensor. It's like turning a table sideways. For example, if you have a tensor with shape (3, 4), transposing it will give you a tensor with shape (4, 3). This can be really helpful in machine learning because some operations need the data in a certain order. For instance, if you're working with images and you need to change the order of the dimensions from (height, width, channels) to (channels, height, width), you can use transposition. In code, you might see something like `tensor.transpose(1, 2, 0)` to change the order of the dimensions.
 
 Squeezing is another useful technique. It's used to remove dimensions of size 1 from a tensor. Imagine you have a tensor with shape (1, 3, 1, 4). Squeezing it will get rid of those extra dimensions of size 1, leaving you with a tensor of shape (3, 4). This can help make your data more manageable and save memory. In machine learning, you might use squeezing after operations that add extra dimensions, like when you're reshaping data for a neural network. For example, if a layer outputs a tensor with an extra dimension of size 1, you can squeeze it to make it easier to work with. In code, you might see something like `tensor.squeeze()` to remove those extra dimensions.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Olah, C. (2015). ["Understanding Convolutions"](http://colah.github.io/posts/2014-07-Understanding-Convolutions/).
+
+[3]: Abadi, M., Barham, P., Chen, J., et al. (2016). ["TensorFlow: A System for Large-Scale Machine Learning"](https://arxiv.org/abs/1605.08695). In 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16).
+
+[4]: McKinney, W. (2010). ["Data Structures for Statistical Computing in Python"](https://www.researchgate.net/publication/265001241_Data_Structures_for_Statistical_Computing_in_Python). In Proceedings of the 9th Python in Science Conference.
+
+[5]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python). Manning Publications. 
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). ["Attention is All You Need"](https://arxiv.org/abs/1706.03762). arXiv preprint arXiv:1706.03762.
+
+[7]: Paszke, A., Gross, S., Massa, F., et al. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library"](https://arxiv.org/abs/1912.01703). arXiv preprint arXiv:1912.01703.

@@ -1,6 +1,7 @@
 ---
-title: "Stimulus Check Overview, Function, and Criticism"
-description: "Explore the impact of stimulus checks on economic health and the role of algo trading in modern finance Discover the benefits and challenges of these tools"
+title: Stimulus Checks Impact on Economic Growth and Stability
+description: Stimulus checks deliver financial relief during downturns by boosting
+  consumer spending and supporting businesses with direct payments Discover more inside
 ---
 
 

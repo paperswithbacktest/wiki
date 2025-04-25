@@ -79,3 +79,17 @@ Each of these methods has its own way of helping the model learn better. ATSS an
 Recent advancements in Prioritized Sampling research have focused on making the method more efficient and effective. Researchers are working on new ways to calculate priority scores that take into account not just the error the model makes, but also other factors like the importance of different data points or the model's confidence in its predictions. For example, some new methods use a formula like $$p_i = \frac{|\delta_i|^\alpha \cdot w_i}{\sum_j |\delta_j|^\alpha \cdot w_j}$$ where $$w_i$$ is a weight that shows how important the i-th sample is. This helps the model focus on the data points that matter the most. Another big area of research is using Prioritized Sampling with other techniques, like [reinforcement learning](/wiki/reinforcement-learning), to make the model learn even faster.
 
 Looking to the future, researchers are interested in making Prioritized Sampling work better in real-time applications, where the data is always changing. They want to find ways to update the priority scores quickly and accurately as new data comes in. There's also a lot of interest in using Prioritized Sampling for big data problems, where there are millions or even billions of data points. Researchers are trying to figure out how to use Prioritized Sampling on such a large scale without slowing down the training process too much. By solving these challenges, they hope to make machine learning models even smarter and more useful for all kinds of tasks.
+
+## References & Further Reading
+
+[1]: Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2016). ["Prioritized Experience Replay."](https://arxiv.org/abs/1511.05952) arXiv preprint arXiv:1511.05952.
+
+[2]: Shrivastava, A., Gupta, A., & Girshick, R. (2016). ["Training Region-based Object Detectors with Online Hard Example Mining."](https://arxiv.org/abs/1604.03540) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[3]: Lin, T.-Y., Goyal, P., Girshick, R., He, K., & Dollar, P. (2017). ["Focal Loss for Dense Object Detection."](https://ieeexplore.ieee.org/document/8237586) Proceedings of the IEEE International Conference on Computer Vision.
+
+[4]: Cunningham, P., Delany, S.J. (2007). ["k-Nearest Neighbour Classifiers - A Tutorial."](https://dl.acm.org/doi/10.1145/3459665) ACM Computing Surveys.
+
+[5]: Sutton, R.S., & Barto, A.G. (2018). ["Reinforcement Learning: An Introduction."](https://ieeexplore.ieee.org/book/6267343) MIT Press.
+
+[6]: Freund, Y., & Schapire, R.E. (1997). ["A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting."](https://www.sciencedirect.com/science/article/pii/S002200009791504X) Journal of Computer and System Sciences.

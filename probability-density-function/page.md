@@ -79,3 +79,19 @@ Another issue is that the math gets more complicated. In lower dimensions, you m
 Mixture models are a way to combine different PDFs to better fit complex data in machine learning. Imagine you have a bunch of numbers, like the heights of people, but the data doesn't fit neatly into one type of curve. A mixture model lets you use several curves, each representing a different group in your data. For example, if you have a mix of adults and children, you might use one curve for the adults' heights and another for the children's heights. By mixing these curves together, you can create a PDF that captures the shape of the whole dataset better than a single curve could.
 
 In practice, a common type of mixture model is the Gaussian Mixture Model (GMM), where each component is a Gaussian distribution. The PDF for a GMM is given by $$ f(x) = \sum_{k=1}^K \pi_k \mathcal{N}(x | \mu_k, \sigma_k^2) $$, where $K$ is the number of components, $\pi_k$ are the mixture weights, and $\mathcal{N}(x | \mu_k, \sigma_k^2)$ is the Gaussian PDF with mean $\mu_k$ and variance $\sigma_k^2$. This formula shows that the overall PDF is a weighted sum of individual Gaussian PDFs. Using GMMs, you can model data that has multiple peaks or clusters, making it easier for machine learning models to understand and predict from complex datasets.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[3]: Silverman, B. W. (1986). ["Density Estimation for Statistics and Data Analysis."](https://ned.ipac.caltech.edu/level5/March02/Silverman/paper.pdf) Chapman and Hall.
+
+[4]: Scott, D. W. (2015). ["Multivariate Density Estimation: Theory, Practice, and Visualization."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118575574) Wiley.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[7]: Wasserman, L. (2004). ["All of Statistics: A Concise Course in Statistical Inference."](https://link.springer.com/book/10.1007/978-0-387-21736-9) Springer.

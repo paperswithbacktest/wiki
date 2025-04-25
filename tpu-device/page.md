@@ -115,3 +115,15 @@ Using TPUs in large groups also helps when you're running your machine learning 
 One current limitation of TPUs is that they are mainly designed for specific types of machine learning tasks, like those that use a lot of matrix multiplication. For example, if you have two matrices, A and B, the TPU can quickly calculate their product $$A \times B$$. But if you want to do other kinds of math or tasks, TPUs might not be as good as other hardware like GPUs, which are more flexible. Another limitation is that TPUs are mostly available through Google's cloud services, so if you want to use them, you need to use Google's platform. This can be a problem if you prefer to work on your own computers or use different cloud services.
 
 In the future, we can expect TPUs to get even better and more flexible. Each new generation of TPUs has more teraflops and more memory, making them faster and able to handle bigger machine learning models. For example, the next generation might have even more teraflops than the current TPU v4, helping to speed up training and running machine learning models even more. There's also a chance that TPUs might become available on other platforms, not just Google's, making them easier for more people to use. This could help more people use TPUs to make their machine learning projects faster and more efficient.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., Patterson, D., Agrawal, G., Bajwa, R., & Yoon, D. H. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://arxiv.org/abs/1704.04760) Proceedings of the 44th Annual International Symposium on Computer Architecture.
+
+[2]: Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, P. L., Reddi, V. J., & Jouppi, N. P. (2021). ["A Domain-Specific Architecture for Deep Neural Networks."](https://arxiv.org/abs/2104.10350) IEEE Computer Society Annual Symposium on VLSI.
+
+[3]: ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems."](https://arxiv.org/abs/1603.04467) (2016) by Martín Abadi, Ashish Agarwal, Paul Barham, et al.
+
+[4]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) Communications of the ACM, 51(1), 107-113.
+
+[5]: ["Google Cloud Platform - TPU Overview."](https://cloud.google.com/tpu/docs/intro-to-tpu) Google Cloud.

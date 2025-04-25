@@ -81,3 +81,21 @@ The theoretical foundation of L0 regularization comes from the concept of the L0
 To evaluate how well L0 regularization works in a machine learning model, you need to look at how simple the model becomes and how well it performs on new data. L0 regularization tries to make the model use fewer features by setting as many of its numbers, called coefficients, to zero as possible. The formula for L0 regularization is $$ \text{Loss}_{\text{regularized}} = \text{Loss} + \lambda \sum_{i=1}^n I(\theta_i \neq 0) $$, where $$ \lambda $$ controls how strong the penalty is, and $$ I(\theta_i \neq 0) $$ checks if a number is not zero. By looking at how many coefficients are zero after using L0 regularization, you can see if the model is simpler. A simpler model is usually easier to understand and less likely to overfit the training data.
 
 Besides checking the model's simplicity, you also need to see how well the model does on new data that it hasn't seen before. This is called the model's generalization performance. You can measure this by using a part of your data that the model hasn't seen during training, called a validation set or test set. If the model performs well on this new data, it means that L0 regularization has helped make the model more effective. By comparing the performance of the model with and without L0 regularization, you can see if it's worth using L0 regularization for your specific problem.
+
+## References & Further Reading
+
+[1]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://academic.oup.com/jrsssb/article/58/1/267/7027929) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[2]: Zou, H., & Hastie, T. (2005). ["Regularization and variable selection via the elastic net."](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482) Journal of the Royal Statistical Society: Series B (Statistical Methodology), 67(2), 301-320.
+
+[3]: Candès, E. J., & Wakin, M. B. (2008). ["An Introduction To Compressive Sampling."](https://ieeexplore.ieee.org/document/4472240) IEEE Signal Processing Magazine, 25(2), 21-30.
+
+[4]: Eldén, L. (2007). ["Compressed Sensing: Theory and Applications."](https://archive.org/details/isbn_9781107005587) In Handbook of Mathematical Methods in Imaging (pp. 2075-2122). Springer.
+
+[5]: Blumensath, T., & Davies, M. E. (2009). ["Iterative Hard Thresholding for Compressed Sensing."](https://www.sciencedirect.com/science/article/pii/S1063520309000384) Applied and Computational Harmonic Analysis, 27(3), 265-274.
+
+[6]: Tropp, J. A., & Gilbert, A. C. (2007). ["Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit."](https://ieeexplore.ieee.org/document/4385788) IEEE Transactions on Information Theory, 53(12), 4655-4666.
+
+[7]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[8]: Lobo, I., & Mixon, D. G. (2019). ["Sparse Signal Processing Using Matching Pursuit Algorithms With Applications in Radar and Communications."](https://www.amazon.com/music) Johns Hopkins APL Technical Digest, 40(2), 107-119.

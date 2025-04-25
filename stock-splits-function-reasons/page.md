@@ -1,6 +1,7 @@
 ---
-title: "Stock Splits: Function and Reasons"
-description: "Explore how stock splits and algorithmic trading can enhance your investment strategy by increasing market access liquidity and optimizing trading opportunities."
+title: Stock Splits Explained Benefits Effects and Potential Risks
+description: Stock split breakdown clarifies how dividing shares affects price per
+  share liquidity market value and investor psychology Discover more inside.
 ---
 
 

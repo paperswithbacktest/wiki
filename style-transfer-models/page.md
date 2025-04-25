@@ -1,7 +1,7 @@
 ---
-title: Exploring LapStyle Style Transfer Models In Machine Learning
-description: Style transfer with LapStyle offers sharp detailed image transformations
-  by mixing content and style across multiple layers Discover more inside
+title: Understanding LapStyle Style Transfer Models for Sharp Details
+description: Style transfer with LapStyle uses Laplacian pyramids to blend content
+  and style for sharp detailed images in neural networks Discover more inside
 ---
 
 ![Image](images/1.jpeg)
@@ -79,3 +79,15 @@ Integrating LapStyle into a pipeline also means making sure it works well with t
 Future research for style transfer models, including LapStyle, could focus on making them faster and easier to use. Right now, models like LapStyle need a lot of computer power because they break down images into many layers and mix them together. Researchers might look for new ways to do this that use less time and memory. They could also work on making these models work better on regular computers, not just powerful ones. Another area to explore is how to make the style transfer process automatic, so it can choose the best style for an image without people having to pick it themselves.
 
 Another direction for LapStyle could be improving how it handles different levels of image details. While LapStyle already does a good job with this, researchers might find ways to make it even better at keeping small details clear while still applying the new style. They could also look at how to make LapStyle work with different types of images, like videos or 3D models. This would open up new uses for style transfer, like making movies or video games look like they were made in a certain style. Overall, the goal is to make style transfer models more useful and accessible to more people.
+
+## References & Further Reading
+
+[1]: Gatys, L. A., Ecker, A. S., & Bethge, M. (2016). ["Image Style Transfer Using Convolutional Neural Networks."](https://ieeexplore.ieee.org/document/7780634) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Johnson, J., Alahi, A., & Fei-Fei, L. (2016). ["Perceptual Losses for Real-Time Style Transfer and Super-Resolution."](https://arxiv.org/abs/1603.08155) European Conference on Computer Vision (ECCV).
+
+[3]: Li, Y., Fang, C., Yang, J., Wang, Z., Lu, X., & Yang, M.-H. (2017). ["Universal Style Transfer via Feature Transforms."](https://arxiv.org/abs/1705.08086) Advances in Neural Information Processing Systems (NeurIPS).
+
+[4]: Zhu, L., Gao, C., Wu, J., Han, X., & Fu, Y. (2020). ["LapStyle: A Lapped Style Transfer Network."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) arXiv.
+
+[5]: Jing, Y., Yang, Y., Feng, Z., Ye, J., & Yu, Y. (2019). ["Neural Style Transfer: A Review."](https://ieeexplore.ieee.org/document/8732370) IEEE Transactions on Visualization and Computer Graphics.

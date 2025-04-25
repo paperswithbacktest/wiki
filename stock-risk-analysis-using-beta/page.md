@@ -1,6 +1,7 @@
 ---
-title: "Stock Risk Analysis Using Beta"
-description: "Explore the essential role of beta in stock risk analysis and algorithmic trading to enhance investment strategies and improve risk assessment in volatile markets."
+title: Optimizing Portfolio Risk With Stock Beta Analysis
+description: Stock Beta shows share volatility versus the market enabling investors
+  to align risk with goals and build balanced portfolios Discover more inside.
 ---
 
 

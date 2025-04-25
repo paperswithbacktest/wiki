@@ -1,6 +1,7 @@
 ---
-title: "Stock Certificate History"
-description: "Explore the evolution from physical stock certificates to digital records and the rise of algorithmic trading Learn about modern investment tools and strategies"
+title: Understanding Stock Certificates Their History And Evolution
+description: Stock certificates document share ownership from early paper forms to
+  modern digital records and explore design security Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Earning Income in Real Estate"
-description: "Explore strategies for income in real estate through traditional investing and algorithmic trading Discover techniques for optimizing profitability and financial independence"
+title: Comprehensive Guide to Real Estate Investment Strategies
+description: Real estate investment beginners get practical advice on financing, deal
+  evaluation and risk management in one concise guide Discover more inside.
 ---
 
 

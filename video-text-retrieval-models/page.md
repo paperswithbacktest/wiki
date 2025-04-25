@@ -81,3 +81,15 @@ Another advancement is the use of memory-enhanced encoders, like in CAMoE, which
 Video-Text Retrieval models can be integrated into larger AI systems to make them more useful and smart. For example, in a video search engine, the Video-Text Retrieval model can work with other parts of the system that handle user searches and show results. When someone types a search query, the model finds the best matching videos and sends them to the part of the system that displays them to the user. This makes the search engine better at finding what people want to watch. Also, in a streaming service like Netflix, the Video-Text Retrieval model can work with the recommendation system. When a user searches for something or watches a video, the model can help find more videos that match their interests, making the recommendations more accurate and personalized.
 
 Another way Video-Text Retrieval models can be part of bigger AI systems is in educational platforms. These platforms can use the model to find and show videos that match what teachers or students are looking for. For example, if a teacher wants to show a video about "photosynthesis," the Video-Text Retrieval model can find the best video from a large collection and send it to the part of the platform that plays it in class. This makes teaching and learning easier and more effective. By working with other parts of the AI system, Video-Text Retrieval models help make the whole system better at understanding and meeting user needs.
+
+## References & Further Reading
+
+[1]: Bain, C., Lapedriza, A., Llebaria, Z., Masdeu, A., & Villegas, R. (2021). ["Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval"](https://arxiv.org/abs/2104.00650). 
+
+[2]: Sun, Chen, et al. (2019). ["Videobert: A joint model for video and language representation learning"](https://arxiv.org/abs/1904.01766). Proceedings of the IEEE International Conference on Computer Vision.
+
+[3]: Gabeur, V., Sun, C., Alayrac, J.B., & Schmid, C. (2020). ["Multi-modal Transformer for Video Retrieval"](https://arxiv.org/abs/2007.10639). 
+
+[4]: Luo, R., Ji, L., Sun, B., & Wang, Z. (2022). ["CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval"](https://www.sciencedirect.com/science/article/abs/pii/S0925231222008876).
+
+[5]: Xu, P., Zhang, D., Miao, C., & Lee, C. (2021). ["Text-to-Video Retrieval Based on Multi-modal Hyperbolic Neural Networks"](https://pubs.acs.org/doi/10.1021/acsenergylett.0c02401).

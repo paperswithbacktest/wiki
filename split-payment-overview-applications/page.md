@@ -1,6 +1,7 @@
 ---
-title: "Split Payment: Overview and Applications"
-description: "Explore how split payments enhance algorithmic trading by streamlining transaction settlements, optimizing trade executions, and boosting liquidity management."
+title: Understanding Split Payment Systems for Efficient Billing
+description: Split payment lets you divide bills through secure apps so everyone pays
+  their share without hassle while you track expenses Discover more inside.
 ---
 
 

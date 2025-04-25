@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Active Stock Traders"
-description: "Discover effective strategies for active stock trading focusing on dynamic hands-on approaches and algorithmic trading to maximize your market returns."
+title: Essential Guide to Active Stock Trading Strategies and Tools
+description: Active Stock Trading uses proven tools and strategies to build a solid
+  plan, manage risk, and leverage market analysis and trends. Discover more inside.
 ---
 
 

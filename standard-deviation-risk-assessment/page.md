@@ -1,6 +1,8 @@
 ---
-title: "Standard Deviation in Risk Assessment"
-description: "Explore the pivotal role of standard deviation in risk assessment within algorithmic trading This statistical tool measures volatility aiding informed financial decisions"
+title: Understanding Standard Deviation for Effective Investment Risk Assessment
+description: Standard deviation reveals how much investment returns can vary from
+  the average so you can gauge volatility and make informed choices Discover more
+  inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Stability and Growth Pact"
-description: "Discover how the EU's Stability and Growth Pact ensures fiscal stability amid modern challenges like algorithmic trading Learn its significance in the financial landscape"
+title: Understanding the EU Stability and Growth Pact Fiscal Rules
+description: Stability and Growth Pact mandates EU deficits below 3% and debt under
+  60% with penalties to uphold fiscal discipline Discover more inside
 ---
 
 

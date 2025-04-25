@@ -81,3 +81,25 @@ The Reformer is another new Transformer model that tries to handle long sequence
 Fine-tuning a pre-trained Transformer model for a specific task means taking a model that's already been trained on a lot of data and teaching it a bit more to do something new. You start with a model like BERT or GPT-3, which knows a lot about language already. Then, you give it new data that's specific to your task, like translating sentences or answering questions. You train the model on this new data, but you don't start from scratch. Instead, you adjust the model's "parameters," which are like the knobs and dials that control how it works. This helps the model learn the new task faster and better than if you started from zero. The attention mechanism, which helps the model focus on important parts of the text, is still used during fine-tuning and can be described by the formula $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V $$.
 
 When fine-tuning a Transformer model, it's important to follow some best practices to make sure the model works well. First, you should use a small learning rate, which means you make small changes to the model's parameters at a time. This helps the model learn the new task without forgetting what it already knows. Second, you should use a good dataset for fine-tuning. The data should be similar to what the model will see when it's doing the new task. This helps the model learn the right things. Third, you should keep an eye on how the model is doing during fine-tuning. You can do this by checking its performance on a separate set of data that it hasn't seen before. This helps you know when to stop fine-tuning so the model doesn't start to do worse. By following these best practices, you can make sure your fine-tuned Transformer model works well for your specific task.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[3]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Sutskever, I. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[4]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2019). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) arXiv preprint arXiv:1910.10683.
+
+[5]: Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., ... & Zettlemoyer, L. (2019). ["BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension."](https://aclanthology.org/2020.acl-main.703/) arXiv preprint arXiv:1910.13461.
+
+[6]: Beltagy, I., Peters, M. E., & Cohan, A. (2020). ["Longformer: The Long-Document Transformer."](https://arxiv.org/abs/2004.05150) arXiv preprint arXiv:2004.05150.
+
+[7]: Dai, Z., Yang, Z., Yang, Y., Carbonell, J., Salakhutdinov, R., & Le, Q. V. (2019). ["Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context."](https://arxiv.org/abs/1901.02860) arXiv preprint arXiv:1901.02860.
+
+[8]: Xue, L., Constant, N., Roberts, A., Huang, X., Sidiroglou Tirkaz, M., Al-Rfou, R., ... & Raffel, C. (2020). ["mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer."](https://aclanthology.org/2021.naacl-main.41/) arXiv preprint arXiv:2010.11934.
+
+[9]: Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ["ALBERT: A Lite BERT for Self-supervised Learning of Language Representations."](https://arxiv.org/abs/1909.11942) arXiv preprint arXiv:1909.11942.
+
+[10]: Shazeer, N., & Stern, M. (2019). ["Adafactor: Adaptive Learning Rates with Sublinear Memory Cost."](https://arxiv.org/abs/1804.04235) arXiv preprint arXiv:1804.04235.

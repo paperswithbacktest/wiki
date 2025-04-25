@@ -83,3 +83,21 @@ Using differential privacy helps make sure that machine learning models don't le
 Current research trends in handling sensitive attributes in machine learning focus a lot on making models fairer and more private. One big trend is using methods like fairness-aware machine learning and differential privacy to make sure models don't treat people unfairly because of sensitive details like race or gender. Researchers are working on new ways to measure fairness, like using metrics that check if a model's decisions are the same for everyone, no matter their sensitive attributes. They're also looking at ways to add a bit of randomness to data, so models can learn useful things without knowing too much about any one person's private information. This helps protect people's privacy and makes sure the technology we create is fair.
 
 Future directions in this field are all about improving these methods and finding new ones. Researchers are trying to make fairness-aware techniques work better with big and complex data, like the kind used in deep learning models. They're also looking into ways to make sure models stay fair over time, even as the data changes. Another big area is figuring out how to balance privacy and fairness. For example, adding too much randomness to data can make it hard for models to learn anything useful, so researchers are working on finding the right amount of noise to add. By keeping up with these trends and directions, we can build machine learning models that treat everyone fairly and protect their sensitive information at the same time.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities"](https://fairmlbook.org/). fairmlbook.org.
+
+[2]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness through Awareness."](https://arxiv.org/abs/1104.3913) Proceedings of the 3rd Innovations in Theoretical Computer Science Conference.
+
+[3]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://dl.acm.org/doi/abs/10.1145/3457607) ACM Computing Surveys.
+
+[4]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) Proceedings of the 8th Innovations in Theoretical Computer Science Conference.
+
+[5]: Kearns, M., & Roth, A. (2020). ["The Ethical Algorithm: The Science of Socially Aware Algorithm Design"](https://dl.acm.org/doi/book/10.5555/3379082). Oxford University Press.
+
+[6]: Shokri, R., & Shmatikov, V. (2015). ["Privacy-Preserving Deep Learning."](https://dl.acm.org/doi/10.1145/2810103.2813687) Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security.
+
+[7]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29.
+
+[8]: Feldman, M., Friedler, S. A., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2015). ["Certifying and Removing Disparate Impact."](https://arxiv.org/abs/1412.3756) Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

@@ -1,6 +1,7 @@
 ---
-title: "Standard of Value: Concept and Application"
-description: "Explore the evolution of economic value standards from gold to fiat currencies and their impact on modern algorithmic trading in global financial markets."
+title: Understanding the Standard of Value in Modern Economics
+description: Standard of Value provides a common unit to compare asset worth currencies
+  and supports economic stability and inflation management. Discover more inside
 ---
 
 

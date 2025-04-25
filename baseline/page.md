@@ -103,3 +103,15 @@ Another situation where a baseline model could work is when you don't have a lot
 Advanced techniques like ensemble methods and [deep learning](/wiki/deep-learning) usually perform much better than baseline models. Ensemble methods combine several simple models to make better predictions. For example, a random forest is an ensemble of decision trees that vote on the final prediction. Deep learning, on the other hand, uses neural networks with many layers to learn complex patterns in data. These methods can capture details that a simple baseline model misses, leading to higher accuracy and better performance on tasks like image recognition or natural language processing. If your baseline model predicts house prices with an average error of $50,000, an ensemble method or deep learning model might reduce that error to $30,000 or less.
 
 However, these advanced techniques are also much more complex and harder to understand than baseline models. A baseline model might be as simple as always guessing the most common outcome, which anyone can understand. In contrast, ensemble methods require you to manage multiple models and understand how they work together. Deep learning models, with their many layers and parameters, can be like black boxes, making it hard to explain why they make certain predictions. This complexity means you need more time and resources to build and maintain these models. If your problem is simple or if you don't have much data, the extra effort might not be worth it, and a baseline model could be good enough.
+
+## References & Further Reading
+
+[1]: Ayerdi, Ángel. (2017). ["Benchmarking Machine Learning Models: Learning from Baselines"](https://link.springer.com/chapter/10.1007/979-8-8688-0962-0_10) Towards Data Science.
+
+[2]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling"](https://link.springer.com/book/10.1007/978-1-4614-6849-3) New York: Springer.
+
+[3]: ["An Introduction to Statistical Learning"](https://www.statlearning.com/) by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani.
+
+[4]: Russell, S.J., & Norvig, P. (2010). ["Artificial Intelligence: A Modern Approach."](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) Prentice Hall.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.

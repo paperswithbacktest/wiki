@@ -79,3 +79,19 @@ Another way to improve accuracy is by using "multi-view pose estimation." This m
 To fine-tune a pre-trained 6D pose estimation model for a specific application, you start by gathering a dataset that closely matches the conditions and objects you'll be working with. For instance, if you're fine-tuning for a robotics application that involves [picking](/wiki/asset-class-picking) up specific industrial parts, you'll need images of those parts in various positions and lighting conditions. You then use this dataset to further train the model, adjusting its weights and parameters to better recognize the new objects or scenarios. This process often involves setting a lower learning rate to make small, precise changes to the model's existing knowledge without losing its general understanding.
 
 During fine-tuning, you can also use techniques like transfer learning, where you take layers from the pre-trained model and add new ones tailored to your specific task. For example, if you're working with shoes for an AR application, you might add layers that focus on the unique shapes and textures of shoes. You'll monitor the model's performance using metrics like the average distance error (ADE) for position and the average rotation error (ARE) for orientation, ensuring that the model's estimates get closer to the true poses of the objects. By carefully adjusting the model and testing it on your specific dataset, you can make it more accurate and reliable for your particular application.
+
+## References & Further Reading
+
+[1]: Hodan, T., Michel, F., Brachmann, E., & Drost, B. (2018). ["BOP: Benchmark for 6D Object Pose Estimation."](https://arxiv.org/abs/1808.08319) European Conference on Computer Vision (ECCV).
+
+[2]: Xiang, Y., Schmidt, T., Narayanan, V., & Fox, D. (2018). ["PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes."](https://arxiv.org/abs/1711.00199) Robotics: Science and Systems (RSS).
+
+[3]: Hinterstoisser, S., Lepetit, V., & Wohlhart, P. (2012). ["Model Based Training, Detection and Pose Estimation of Texture-Less 3D Objects in Heavily Cluttered Scenes."](http://stefan-hinterstoisser.com/papers/hinterstoisser2012accv.pdf) IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+
+[4]: Sundermeyer, M., Marton, Z., Durner, M., Brucker, M., & Cremers, D. (2018). ["Implicit 3D Orientation Learning for 6D Object Detection from RGB Images."](https://arxiv.org/abs/1902.01275) European Conference on Computer Vision (ECCV) Workshops.
+
+[5]: Hodan, T., Barath, D., & Matas, J. (2016). ["On Evaluation of 6D Object Pose Estimation."](https://cmp.felk.cvut.cz/~hodanto2/data/hodan2016evaluation.pdf) European Conference on Computer Vision (ECCV) Workshops.
+
+[6]: Collet, A., Martinez, M., & Srinivasa, S. (2011). ["The MOPED framework: Object Recognition and Pose Estimation for Manipulation."](https://journals.sagepub.com/doi/10.1177/0278364911401765) The International Journal of Robotics Research (IJRR).
+
+[7]: Haralick, R., Lee, C., Ottenberg, K., & Nolle, M. (1994). ["Review and Analysis of Solutions of the Three Point Perspective Pose Estimation Problem."](https://link.springer.com/article/10.1007/BF02028352) International Journal of Computer Vision.

@@ -1,6 +1,7 @@
 ---
-title: "Straight-Through Processing and Its Benefits"
-description: "Discover the transformative benefits of Straight-Through Processing in algorithmic trading. Enhance transaction speed, reduce errors, and gain a competitive edge."
+title: Streamlining Financial Workflows With Straight-Through Processing
+description: Straight-Through Processing automates transactions reducing errors and
+  accelerating settlements for banks and insurers Discover more inside.
 ---
 
 

@@ -79,3 +79,19 @@ Another ethical consideration is privacy. When people talk to Lamda, they might 
 In the future, Lamda is likely to get even better at understanding and responding to people. One way this could happen is by using more and better data to train it. As more people use Lamda and have conversations with it, it can learn from those talks and give even more helpful and natural answers. Another way Lamda might improve is by working with other AI technologies, like those that can understand emotions or predict what people might want next. By combining these tools, Lamda can become even more useful for things like customer service or helping people find information.
 
 Another area where Lamda could see development is in making sure it's safe and fair to use. As Lamda gets better at talking like a person, it's important to make sure it doesn't say anything that could hurt or upset people. This means the people who work on Lamda will need to keep checking its answers and making sure they are respectful and fair to everyone. By focusing on these ethical issues, Lamda can be used in more places and help more people in a way that feels good and right.
+
+## References & Further Reading
+
+[1]: Thoppilan, R., De Freitas, D., Hall, J., Shazeer, N., Kulshreshtha, A., Cheng, H.-T., ... & Le, Q. (2022). ["LaMDA: Language Models for Dialog Applications."](https://arxiv.org/abs/2201.08239) arXiv preprint arXiv:2201.08239.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[3]: ["Google AI Blog: Meet LaMDA: A Conversational AI of New Open-Domain Dinosaur Dialog"](https://blog.google/technology/ai/lamda/) by Google AI Blog
+
+[4]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[5]: ["The Transformer Model"](https://www.ibm.com/think/topics/transformer-model) by Hugging Face Documentation
+
+[6]: ["Google AI Principles"](https://ai.google/responsibility/principles/) by Google AI
+
+[7]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI GPT-2 Technical Report.

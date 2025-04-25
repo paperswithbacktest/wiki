@@ -85,3 +85,21 @@ Sometimes, accuracy alone isn't enough. You might also want to look at other thi
 The latest advancements in pre-trained models have made them even more powerful and versatile. One big advancement is in the field of large language models, like the latest versions of GPT. These models are trained on even bigger sets of text, which makes them better at understanding and creating human-like language. They can do things like answer questions more accurately, write longer and more detailed stories, and even help with tasks like translating languages or summarizing long documents. Another cool advancement is in multimodal models, which can understand and work with different types of data, like text, images, and sounds, all at the same time. These models are really helpful in applications like creating detailed descriptions of pictures or making videos from text.
 
 In computer vision, new pre-trained models like Vision Transformers (ViT) are changing the game. These models use a different way of looking at images, breaking them into smaller pieces and understanding them in a way that's similar to how language models understand words. This makes them really good at tasks like recognizing objects in pictures or even understanding the context of a scene. For example, a ViT model can tell not just what's in a picture but also what's happening in it. These advancements are being used in all sorts of applications, from helping self-driving cars see the road better to improving medical imaging to spot diseases more accurately.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[4]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) arXiv preprint arXiv:2010.11929.
+
+[5]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[6]: Yosinski, J., Clune, J., Bengio, Y., & Lipson, H. (2014). ["How Transferable are Features in Deep Neural Networks?"](https://arxiv.org/abs/1411.1792) Advances in Neural Information Processing Systems, 27.
+
+[7]: Lin, T.-Y., Goyal, P., Girshick, R., He, K., & Dollár, P. (2017). ["Focal Loss for Dense Object Detection."](https://ieeexplore.ieee.org/document/8237586) In Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[8]: Ren, S., He, K., Girshick, R., & Sun, J. (2017). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) IEEE Transactions on Pattern Analysis and Machine Intelligence.

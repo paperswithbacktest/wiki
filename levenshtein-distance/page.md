@@ -93,3 +93,17 @@ However, Levenshtein Distance has some limits in bioinformatics. It only looks a
 Levenshtein Distance can be used in [deep learning](/wiki/deep-learning) to help neural networks understand and compare texts better. For example, in natural language processing tasks like text classification or sentiment analysis, Levenshtein Distance can be used as a feature to help the model see how similar different pieces of text are. By including $$ \text{lev}(s1, s2) $$ as part of the input, the [neural network](/wiki/neural-network) can learn to recognize patterns in text similarity, which can make its predictions more accurate. This is especially useful when dealing with typos or slight variations in text, as the model can better handle these differences and still understand the meaning behind the text.
 
 Another advanced use of Levenshtein Distance in neural networks is in sequence-to-sequence models, like those used in machine translation or text generation. Here, Levenshtein Distance can help measure the quality of the generated output by comparing it to the expected result. For instance, if a model is translating a sentence from English to French, Levenshtein Distance can show how many changes are needed to turn the model's output into the correct translation. This helps in training the model to produce better results over time, as it can use the distance as a feedback mechanism to adjust its predictions and improve its performance.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2009). ["Speech and Language Processing."](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) Prentice Hall.
+
+[2]: Lehvenstein, V. I. (1965). ["Binary codes capable of correcting deletions, insertions, and reversals."](https://www.scribd.com/document/105599835/Binary-codes-capable-of-correcting-deletions-insertions-and-reversals) Soviet Physics Doklady.
+
+[3]: Wagner, R. A., & Fischer, M. J. (1974). ["The string-to-string correction problem."](https://dl.acm.org/doi/10.1145/321796.321811) Journal of the ACM.
+
+[4]: Gusfield, D. (1997). ["Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology."](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20on%20Strings%2C%20Trees%2C%20and%20Sequences%20%5BGusfield%201997-05-28%5D.pdf) Cambridge University Press.
+
+[5]: Navarro, G. (2001). ["A guided tour to approximate string matching."](https://dl.acm.org/doi/10.1145/375360.375365) ACM Computing Surveys.
+
+[6]: Lothaire, M. (2005). ["Applied Combinatorics on Words."](https://archive.org/details/appliedcombinato0000loth) Cambridge University Press.

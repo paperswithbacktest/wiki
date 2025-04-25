@@ -1,6 +1,7 @@
 ---
-title: "Stakeholder Capitalism"
-description: "Explore the integration of stakeholder capitalism with algorithmic trading and corporate responsibility Discover how this approach transforms modern business strategies."
+title: Key Principles And Impact Of Stakeholder Capitalism On Businesses
+description: Stakeholder capitalism helps companies balance the needs of stakeholder
+  groups to build trust, loyalty and lasting success Discover more inside
 ---
 
 

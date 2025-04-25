@@ -85,3 +85,19 @@ Another technique is to use something called "sentence embeddings" before making
 In the future, we can expect document embeddings to become even better at understanding the meaning of text. One big change might be the use of more advanced models that can learn from even larger amounts of data. These models could use techniques like self-supervised learning, where they learn from the text itself without needing extra labels. This could make document embeddings more accurate and useful for tasks like sorting documents into categories or finding similar ones. Also, we might see new ways to combine different types of embeddings, like mixing word and sentence embeddings to create even richer document embeddings.
 
 Another area of development could be making document embeddings work faster and use less computer power. Right now, some of the best models need a lot of time and strong computers to work with big sets of documents. In the future, new methods might help speed things up and make it easier to use these models on regular computers. This would make document embeddings more accessible to more people and businesses. Overall, these future developments could make working with text easier and more effective, helping computers understand and use documents in new and better ways.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv:1301.3781.
+
+[2]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv:1810.04805.
+
+[3]: Reimers, N., & Gurevych, I. (2019). ["Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks."](https://aclanthology.org/D19-1410/) arXiv:1908.10084.
+
+[4]: Moody, C. E. (2016). ["Mixing Dirichlet Topic Models and Word Embeddings to Make lda2vec."](https://arxiv.org/abs/1605.02019) arXiv:1605.02019.
+
+[5]: Ruder, S. (2019). ["Neural Transfer Learning for Natural Language Processing."](https://researchrepository.universityofgalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf) PhD Thesis.
+
+[6]: Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). ["Latent Dirichlet Allocation."](https://dl.acm.org/doi/10.5555/944919.944937) Journal of Machine Learning Research, 3, 993-1022.
+
+[7]: Qiu, X., Sun, T., Xu, Y., Shao, Y., & Dai, N. (2020). ["Pre-trained Models for Natural Language Processing: A Survey."](https://arxiv.org/abs/2003.08271) arXiv:2003.08271.

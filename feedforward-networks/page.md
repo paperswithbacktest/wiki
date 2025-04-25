@@ -79,3 +79,17 @@ In a Feedforward Network, an SGU works by taking the input and splitting it into
 Advanced techniques like Boom Layer, ALCN, DExTra, VarImpVIANN, and NLSIG help make Feedforward Networks better and more useful. A Boom Layer is a special kind of layer that helps the network learn faster by using a trick called "boosting." It works by adding more layers to the network in a smart way, so the network can learn more complex patterns without getting too slow. ALCN, or Adaptive Learning-rate Convolutional Network, changes how the network learns by adjusting the learning rate based on the data it sees. This helps the network learn better and faster. DExTra, or Deep Extreme Learning Machine with Transfer Learning, uses a method called transfer learning to take what the network has learned from one task and use it for another task. This saves time and makes the network more flexible. VarImpVIANN, or Variable Importance in Variable Interaction Networks, helps the network understand which parts of the input are most important for making predictions. This can make the network more accurate. NLSIG, or Nonlinear Sparse Identification of Systems, helps the network find the most important connections between different parts of the data, which can make the network simpler and more efficient.
 
 These techniques each add something special to Feedforward Networks. Boom Layer helps with learning complex patterns quickly, ALCN makes learning more efficient, DExTra helps the network adapt to new tasks, VarImpVIANN improves accuracy by focusing on important inputs, and NLSIG simplifies the network by finding key connections. Together, these methods make Feedforward Networks more powerful and versatile, allowing them to handle a wider range of tasks and perform better on complex data. By using these advanced techniques, researchers and engineers can build networks that learn faster, work more efficiently, and make better predictions.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[3]: Nair, V., & Hinton, G. E. (2010). ["Rectified Linear Units Improve Restricted Boltzmann Machines."](https://dl.acm.org/doi/10.5555/3104322.3104425) Proceedings of the 27th International Conference on Machine Learning.
+
+[4]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30 (NIPS 2017).
+
+[5]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[6]: Rashid, T. (2016). ["Make Your Own Neural Network."](https://www.amazon.com/Make-Your-Own-Neural-Network/dp/1530826608) CreateSpace Independent Publishing Platform.

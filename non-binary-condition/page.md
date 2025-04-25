@@ -110,3 +110,15 @@ Multi-label classification is different because you can pick more than one categ
 Current research in non-binary condition machine learning is focusing a lot on making models better at handling many different categories. One big trend is using deep learning, especially neural networks with lots of layers. These networks can learn to recognize very detailed patterns in data, which is really helpful when you're trying to sort things into many different groups. Researchers are also looking at ways to make these models work faster and use less computer power. They're trying out new techniques like pruning, which means cutting out parts of the network that aren't very useful, and quantization, which means using smaller numbers to make the model run faster. Another important area is dealing with class imbalance, where some categories have a lot more examples than others. Researchers are coming up with new ways to balance the data, like using SMOTE to create more examples of the less common categories or adjusting the weights of different categories in the model.
 
 Another trend is looking at how to make models more explainable, especially for non-binary conditions. When a model has to choose between many different categories, it can be hard to understand why it made a certain guess. Researchers are working on ways to make the model's decisions clearer, like using techniques called attention mechanisms, which show which parts of the data the model is focusing on. They're also exploring new ways to measure how well the model is doing, like using metrics that look at how well the model can tell different categories apart from each other. For example, the area under the receiver operating characteristic (ROC) curve, or AUC-ROC, is a popular measure for this. A higher AUC-ROC means the model is better at sorting things into the right groups. These trends are helping to make non-binary condition models more accurate, faster, and easier to understand.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Kohavi, R., & Provost, F. (1998). ["Glossary of terms: Special issue on applications of machine learning and the knowledge discovery process"](https://www.researchgate.net/publication/301347218_Glossary_of_terms_Special_issue_of_applications_of_machine_learning_and_the_knowledge_discovery_process). Machine Learning.
+
+[4]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data"](https://ieeexplore.ieee.org/document/5128907). IEEE Transactions on Knowledge and Data Engineering.
+
+[5]: Deng, L., & Yu, D. (2014). ["Deep Learning: Methods and Applications"](https://ieeexplore.ieee.org/document/8187230). Foundations and Trends in Signal Processing.

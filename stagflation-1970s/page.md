@@ -1,6 +1,7 @@
 ---
-title: "Stagflation of the 1970s"
-description: "Explore the stagflation of the 1970s and its impact on economic policies and algorithmic trading evolution offering insights into today's financial landscape."
+title: Understanding 1970s Stagflation Causes Effects and Responses
+description: Stagflation during the 1970s combined rising inflation unemployment and
+  stagnant growth driven by oil shocks and policy challenges Discover more inside
 ---
 
 

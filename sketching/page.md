@@ -1,7 +1,7 @@
 ---
-title: Sketching Techniques for Large-Scale Machine Learning Datasets
-description: Sketching in machine learning simplifies dataset processing and accelerates
-  model training by reducing dimensions and resource needs Discover more inside.
+title: Sketching Techniques for Efficient Large Scale Machine Learning
+description: Sketching in machine learning creates smaller data summaries that preserve
+  essential characteristics and accelerate model training Discover more inside.
 ---
 
 ![Image](images/1.jpeg)
@@ -79,3 +79,17 @@ For example, if you have data in a high-dimensional space $$ \mathbb{R}^d $$, yo
 Current research trends in sketching for machine learning focus on improving the accuracy and efficiency of these techniques, especially for big data and streaming data. Researchers are working on new ways to create sketches that capture more of the original data's details while still keeping the data size small. For example, they are exploring advanced methods like the Count-Min Sketch and the Misra-Gries algorithm to better handle data streams. These methods help count how often things appear in the data without needing to store all of it, which is useful for applications like real-time data analysis on social media or sensor networks. Another trend is developing sketching techniques that can work well with deep learning models, making them faster to train and more efficient to use with large datasets.
 
 Future directions in sketching for machine learning are likely to involve even more integration with advanced machine learning models and new types of data. Researchers are looking into ways to use sketching not just for speeding up training, but also for improving the models' performance on specific tasks. For example, they might use sketching to help deep learning models learn from data more effectively by focusing on the most important parts of the data. Additionally, as more types of data become available, like images, videos, and time-series data, sketching techniques will need to adapt to handle these different formats. This could involve creating new sketching algorithms that can capture the unique characteristics of these data types, making machine learning more versatile and powerful in the future.
+
+## References & Further Reading
+
+[1]: Vempala, S. (2004). ["The Random Projection Method."](https://bookstore.ams.org/view?ProductCode=DIMACS/65) American Mathematical Society.
+
+[2]: Datar, M., Immorlica, N., Indyk, P., & Mirrokni, V. S. (2002). ["Locality-sensitive hashing scheme based on p-stable distributions."](https://www.cs.princeton.edu/courses/archive/spr05/cos598E/bib/p253-datar.pdf) Proceedings of the twentieth annual symposium on Computational geometry.
+
+[3]: Cormode, G., & Muthukrishnan, S. (2005). ["An Improved Data Stream Summary: The Count-Min Sketch and its Applications."](http://dimacs.rutgers.edu/~graham/pubs/papers/cm-full.pdf) Journal of Algorithms.
+
+[4]: Indyk, P., & Motwani, R. (1998). ["Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality."](https://dl.acm.org/doi/10.1145/276698.276876) Proceedings of the Thirtieth Annual ACM Symposium on Theory of Computing.
+
+[5]: Dasgupta, S., & Gupta, A. (2003). ["An elementary proof of a theorem of Johnson and Lindenstrauss."](https://cseweb.ucsd.edu/~dasgupta/papers/jl.pdf) Random Structures & Algorithms.
+
+[6]: Misra, J., & Gries, D. (1982). ["Finding repeated elements."](https://www.sciencedirect.com/science/article/pii/0167642382900120) Science of Computer Programming.

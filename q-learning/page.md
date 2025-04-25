@@ -79,3 +79,19 @@ Another improvement to Q-Learning is using techniques like experience replay. In
 Q-Learning has found practical applications in various industries, including robotics and autonomous systems. For example, in robotics, Q-Learning helps robots learn to navigate through complex environments, like warehouses or homes. The robot can use Q-Learning to figure out the best way to move around, avoiding obstacles and reaching its goals. In the automotive industry, Q-Learning is used in the development of self-driving cars. These cars use Q-Learning to make decisions about steering, accelerating, and braking in real-time, improving their ability to drive safely and efficiently on roads.
 
 Another area where Q-Learning is applied is in healthcare, particularly in personalized treatment plans. Doctors can use Q-Learning to help decide the best treatments for patients based on their past responses to different medications. This can lead to better outcomes by tailoring treatments to individual needs. In the finance sector, Q-Learning helps in [algorithmic trading](/wiki/algorithmic-trading). Traders use Q-Learning to learn which trading strategies work best in different market conditions, allowing them to make more profitable decisions. These examples show how Q-Learning can be a powerful tool in solving real-world problems across different industries.
+
+## References & Further Reading
+
+[1]: Watkins, C. J. C. H., & Dayan, P. (1992). ["Q-Learning."](https://link.springer.com/article/10.1007/BF00992698) Machine Learning, 8(3-4), 279–292.
+
+[2]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction (2nd Edition)."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[3]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[4]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.
+
+[5]: Van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep Reinforcement Learning with Double Q-Learning."](https://arxiv.org/abs/1509.06461) Proceedings of the AAAI Conference on Artificial Intelligence.
+
+[6]: Tesauro, G. (1995). ["Temporal difference learning and TD-Gammon."](https://dl.acm.org/doi/10.1145/203330.203343) Communications of the ACM, 38(3), 58-68.
+
+[7]: Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., ... & Hassabis, D. (2017). ["Mastering the game of Go without human knowledge."](https://www.nature.com/articles/nature24270) Nature, 550(7676), 354-359.

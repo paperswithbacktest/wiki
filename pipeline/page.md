@@ -136,3 +136,21 @@ It's also important to keep your pipeline up to date. This means regularly check
 One advanced technique for optimizing machine learning pipelines is using automated machine learning, or AutoML. AutoML helps you try different models and settings automatically, so you don't have to do it by hand. It can save a lot of time and often finds better models than you might think of on your own. For example, you can use tools like Google's AutoML or H2O's AutoML to let the computer do the hard work of picking the best model and tuning it for you. This makes your pipeline smarter and more efficient.
 
 Another technique is using ensemble methods. Ensemble methods combine several models to make better predictions. For example, you might use a voting system where different models vote on what the final prediction should be. This can make your predictions more accurate because different models can catch different patterns in the data. You can also use stacking, where you train a new model to make the final prediction based on the predictions of other models. By adding these methods to your pipeline, you can make it perform better without a lot of extra work.
+
+## References & Further Reading
+
+[1]: Vapnik, V. N. (1995). ["The Nature of Statistical Learning Theory."](https://link.springer.com/book/10.1007/978-1-4757-3264-1) Springer.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) O'Reilly Media.
+
+[3]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[4]: Pedregosa, F., et al. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, pp. 2825-2830.
+
+[5]: Zaharia, M., et al. (2016). ["Apache Spark: A Unified Engine for Big Data Processing."](https://dl.acm.org/doi/10.1145/2934664) Communications of the ACM, 59(11), pp. 56-65.
+
+[6]: van der Aalst, W. M. (2016). ["Data Science in Action."](https://link.springer.com/book/10.1007/978-3-662-49851-4) Springer. 
+
+[7]: "Kubeflow: Machine Learning Toolkit for Kubernetes." [Online]. Available: https://www.kubeflow.org
+
+[8]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

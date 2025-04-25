@@ -133,3 +133,19 @@ Another useful architecture for multinomial classification is the [convolutional
 To make multinomial classification models more robust and accurate, you can use a technique called ensemble methods. This means combining the predictions of several different models to get a better overall prediction. For example, you could use a random forest, which is a bunch of decision trees working together. Each tree might make a different prediction, but when you combine them, you get a more reliable result. Another ensemble method is gradient boosting, where you build trees one after the other, and each new tree tries to fix the mistakes of the previous ones. By using these methods, you can make your model less likely to overfit and more likely to work well on new data.
 
 Another advanced technique is to use [deep learning](/wiki/deep-learning), like neural networks with many layers. These networks can learn very complex patterns in the data, which can help them classify things more accurately. For example, a convolutional neural network (CNN) is great for classifying images because it can recognize patterns like edges and shapes. After the CNN layers, you might use a softmax layer to turn the network's output into probabilities for each class. The softmax function is defined as $$ \text{softmax}(z_i) = \frac{e^{z_i}}{\sum_{j=1}^K e^{z_j}} $$, where $z_i$ is the output for class $i$ and $K$ is the number of classes. By using deep learning, you can make your multinomial classification model more powerful and accurate.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[3]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. 
+
+[6]: Ng, A. Y., & Jordan, M. I. (2002). ["On Discriminative vs. Generative classifiers: A comparison of logistic regression and naive Bayes."](https://papers.nips.cc/paper/2001/file/7b7a53e239400a13bd6be6c91c4f6c4e-Paper.pdf) Advances in Neural Information Processing Systems.
+
+[7]: Smola, A. J., & Vishwanathan, S. V. N. (2008). ["Introduction to Machine Learning."](https://www.kth.se/social/upload/53a14887f276540ebc81aec3/online.pdf) Cambridge University Press.

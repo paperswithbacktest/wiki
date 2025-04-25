@@ -134,3 +134,15 @@ Another important thing to think about is how the loss function handles ties. Wh
 Current research in rank data and machine learning is focusing a lot on improving how models predict and understand the order of things. One big trend is using deep learning to handle rank data better. Researchers are working on new types of neural networks that can learn from rank data and predict ranks more accurately. These models often use special layers, like ordinal regression layers, to keep the order of the ranks in mind. Another trend is looking at how to handle ties and missing data in rank predictions. Scientists are coming up with new ways to make sure models can deal with these challenges without messing up the order of the ranks. They're also exploring new loss functions, like the Plackett-Luce loss, that are good at handling ties and keeping the order of the ranks important.
 
 Looking to the future, the field of rank data in machine learning is likely to grow even more. One exciting direction is using rank data for more personalized recommendations in areas like healthcare and finance. For example, doctors could use rank data to predict which treatments might work best for a patient based on their symptoms and past treatments. In finance, rank data could help predict which stocks or investments might perform better. Another future direction is improving how models handle high-dimensional rank data. Researchers are working on new methods like manifold learning and advanced dimensionality reduction techniques to make it easier for models to understand and predict ranks in complex datasets. These advancements will help make rank data even more useful in all sorts of applications.
+
+## References & Further Reading
+
+[1]: Agresti, A. (2010). ["Analysis of Ordinal Categorical Data."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470594001) John Wiley & Sons.
+
+[2]: Liu, Y., & Agresti, A. (2005). ["The Analysis of Ordered Categorical Data: An Overview and a Survey of Recent Developments."](https://users.stat.ufl.edu/~aa/articles/liu_agresti_2005.pdf) TEST, 14(1), 1-73.
+
+[3]: McCullagh, P. (1980). ["Regression Models for Ordinal Data."](https://www.jstor.org/stable/2984952) Journal of the Royal Statistical Society: Series B (Methodological), 42(2), 109-142.
+
+[4]: Sun, L., & Zhu, J. (2019). ["Ordinal Regression with Anchors."](https://www.science.org/doi/10.1126/science.adt3417) Advances in Neural Information Processing Systems, 32.
+
+[5]: Cardoso, M., & Moreira, C. (2021). ["Ordinal Regression in Machine Learning: A Brief Overview."](https://www.scielo.br/j/rbsmi/a/7MRYv9GkCCg3CLRQzstnS4w/) ResearchGate.

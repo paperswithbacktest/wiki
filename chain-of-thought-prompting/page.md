@@ -79,3 +79,15 @@ Another advancement is the use of "zero-shot Chain-of-Thought" prompting. This m
 As AI and [machine learning](/wiki/machine-learning) keep growing, Chain-of-Thought prompting might get even better at helping models solve hard problems. One way it could evolve is by becoming more automatic. Right now, people have to write the steps for the model, but in the future, models might learn to break down problems into steps all by themselves. For example, if you ask a model to solve $$2 \times (3 + 4)$$, it could figure out on its own to first solve inside the parentheses and then multiply. This would make the models smarter and able to handle new types of problems without needing as much help from people.
 
 Another way Chain-of-Thought prompting could change is by working with other new AI methods. For example, it might combine with "few-shot learning," where the model can learn from just a few examples. This could help the model solve new problems even faster by using Chain-of-Thought steps and a few examples to guide its thinking. As these technologies keep improving, Chain-of-Thought prompting will likely become a key tool for making AI models better at understanding and solving complex tasks step-by-step.
+
+## References & Further Reading
+
+[1]: Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Cao, Y., ... & Le, Q. V. (2022). ["Chain of Thought Prompting Elicits Reasoning in Large Language Models."](https://arxiv.org/abs/2201.11903) arXiv preprint arXiv:2201.11903.
+
+[2]: Kojima, T., Gu, S. S., Reid, M., Matsuo, Y., & Iwasawa, Y. (2022). ["Large Language Models are Zero-Shot Reasoners."](https://arxiv.org/abs/2205.11916) arXiv preprint arXiv:2205.11916.
+
+[3]: Nye, M., Andreassen, A., Liu, X., Choudhury, S., Tesauro, G., & Campbell, M. (2021). ["Show Your Work: Scratchpads for Intermediate Computation with Language Models."](https://arxiv.org/abs/2112.00114) arXiv preprint arXiv:2112.00114.
+
+[4]: Xie, S. M., Sun, C. J., Li, M., & Li, R. (2021). ["Unsupervised learning of multiple arithmetic tasks for large-scale pre-trained language models."](https://scholar.google.com/citations?user=qx8CplYAAAAJ&hl=en) arXiv preprint arXiv:2109.02312.
+
+[5]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.

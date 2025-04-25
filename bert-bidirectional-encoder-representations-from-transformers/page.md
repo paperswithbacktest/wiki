@@ -79,3 +79,19 @@ However, BERT also has some challenges that ELMo and ULMFiT don't have as much. 
 Since BERT was first released, many new versions and improvements have been made to make it even better at understanding language. One popular version is called RoBERTa, which stands for Robustly Optimized BERT Approach. RoBERTa is like BERT but it was trained on more data and for longer. This made RoBERTa even better at understanding text. Another version is ALBERT, which stands for A Lite BERT. ALBERT is smaller and uses less computer power than BERT, making it easier for more people to use. There's also DistilBERT, which is a smaller version of BERT that runs faster but still keeps most of BERT's understanding power.
 
 Another advancement is called BERTweet, which was made to understand the short and informal language people use on Twitter. BERTweet was trained on a lot of tweets, so it's good at understanding things like hashtags and emojis. There's also a multilingual version of BERT called mBERT, which can understand and work with many different languages at the same time. This is helpful for tasks like translating languages or understanding text from different parts of the world. Each of these new versions tries to solve different problems or make BERT easier to use, showing how much the field of language understanding is growing and changing.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) In Advances in neural information processing systems (pp. 5998-6008).
+
+[3]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., ... & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv preprint arXiv:1907.11692.
+
+[4]: Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2020). ["ALBERT: A Lite BERT for Self-supervised Learning of Language Representations."](https://arxiv.org/abs/1909.11942) arXiv preprint arXiv:1909.11942.
+
+[5]: Sanh, V., Debut, L., Chaumond, J., & Wolf, T. (2019). ["DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter."](https://arxiv.org/abs/1910.01108) arXiv preprint arXiv:1910.01108.
+
+[6]: Nguyen, T., Vu, X., Nguyen, D. Q., & Nguyen, A. T. (2020). ["BERTweet: A pre-trained language model for English Tweets."](https://aclanthology.org/2020.emnlp-demos.2/) arXiv preprint arXiv:2005.10200.
+
+[7]: Pires, T., Schlinger, E., & Garrette, D. (2019). ["How multilingual is Multilingual BERT?"](https://aclanthology.org/P19-1493/) arXiv preprint arXiv:1906.01502.

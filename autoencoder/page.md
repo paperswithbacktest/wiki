@@ -79,3 +79,19 @@ Convolutional autoencoders are used a lot for images. They use special layers ca
 To evaluate the performance of an autoencoder, you look at how well it can rebuild the data it gets. You use something called a loss function to measure the difference between the original data and the rebuilt data. A common loss function is the mean squared error, which is calculated as $$ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 $$, where $y_i$ is the original data and $\hat{y}_i$ is the rebuilt data. If the MSE is small, that means the autoencoder is doing a good job at rebuilding the data. Another way to check is by looking at the data visually. If you're working with pictures, you can compare the original picture to the rebuilt one and see if they look the same.
 
 Another way to evaluate an autoencoder is by looking at how it does on new data that it hasn't seen before. This is called testing on a validation set. You train the autoencoder on one set of data, and then you test it on another set to see how well it can rebuild that data. If it does well on the new data, that means it has learned to compress and rebuild data in a way that works for different examples, not just the ones it was trained on. You can also use other measures like the peak signal-to-noise ratio (PSNR) or structural similarity index (SSIM) to see how good the rebuilt data is compared to the original.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[2]: Hinton, G. E., & Salakhutdinov, R. R. (2006). ["Reducing the Dimensionality of Data with Neural Networks."](https://www.science.org/doi/10.1126/science.1127647) Science, 313(5786), 504-507.
+
+[3]: Vincent, P., Larochelle, H., Lajoie, I., Bengio, Y., & Manzagol, P. A. (2010). ["Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion."](https://dl.acm.org/doi/10.5555/1756006.1953039) Journal of Machine Learning Research, 11, 3371-3408.
+
+[4]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv:1312.6114 [stat.ML].
+
+[5]: Alain, G., & Bengio, Y. (2014). ["What Regularized Auto-Encoders Learn from the Data Generating Distribution."](https://arxiv.org/abs/1211.4246) Journal of Machine Learning Research, 15(1), 3563-3593.
+
+[6]: Masci, J., Meier, U., Cireşan, D., & Schmidhuber, J. (2011). ["Stacked Convolutional Auto-Encoders for Hierarchical Feature Extraction."](https://link.springer.com/chapter/10.1007/978-3-642-21735-7_7) International Conference on Artificial Neural Networks, 52-59.
+
+[7]: Olshausen, B. A., & Field, D. J. (1997). ["Sparse Coding with an Overcomplete Basis Set: A Strategy Employed by V1?"](https://pubmed.ncbi.nlm.nih.gov/9425546/) Vision Research, 37(23), 3311-3325.

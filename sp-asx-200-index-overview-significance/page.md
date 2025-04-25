@@ -1,6 +1,7 @@
 ---
-title: "S&P/ASX 200 Index: Overview and Significance"
-description: "Explore the significance of the S&P/ASX 200 index as a benchmark for Australia's economy and how algorithmic trading enhances strategy and execution."
+title: Understanding the S&P/ASX 200 Index Role in Australia
+description: S&P/ASX 200 Index offers a view of Australian market health by tracking
+  top companies across sectors to guide investment decisions Discover more inside.
 ---
 
 

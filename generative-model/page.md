@@ -83,3 +83,19 @@ Lastly, there's a growing interest in ethical and responsible use of generative 
 When we use generative models, we need to think about how they might affect society. These models can make fake pictures, videos, and text that look real. This can be a problem if someone uses them to spread false information or create deepfakes to trick people. It's important to make rules and tools to spot and stop this kind of misuse. Also, we need to make sure these models don't treat people unfairly. For example, if a model learns from data that has biases, like showing only certain types of people, it might create new data that continues those biases. We have to be careful to use fair data and check the models to make sure they don't harm anyone.
 
 Another thing to consider is how generative models can change jobs and the economy. These models can do things like write articles, create art, or even help with medical research. This can be good because they can help us do things faster and better. But it can also mean that some jobs might go away, and people need to learn new skills to keep up. We need to think about how to help people who might lose their jobs because of these technologies. Overall, generative models have a lot of potential to do good things, but we have to use them in a way that is fair and safe for everyone.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems, 27, 2672-2680.
+
+[2]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[3]: Radford, A., Metz, L., & Chintala, S. (2016). ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](https://arxiv.org/abs/1511.06434) arXiv preprint arXiv:1511.06434.
+
+[4]: Karras, T., Laine, S., Aila, T. (2019). ["A Style-Based Generator Architecture for Generative Adversarial Networks."](https://arxiv.org/abs/1812.04948) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 4401-4410.
+
+[5]: van den Oord, A., Kalchbrenner, N., Espeholt, L., Vinyals, O., & Graves, A. (2016). ["Conditional Image Generation with PixelCNN Decoders."](https://arxiv.org/abs/1606.05328) arXiv preprint arXiv:1606.05328.
+
+[6]: Brock, A., Donahue, J., & Simonyan, K. (2018). ["Large Scale GAN Training for High Fidelity Natural Image Synthesis."](https://arxiv.org/abs/1809.11096) arXiv preprint arXiv:1809.11096.
+
+[7]: Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M., ... & Lerchner, A. (2017). ["beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework."](https://openreview.net/forum?id=Sy2fzU9gl) International Conference on Learning Representations.

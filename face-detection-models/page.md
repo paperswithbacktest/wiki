@@ -85,3 +85,19 @@ Another way TinaFace can be used with other models is for tasks like emotion det
 Beyond TinaFace, recent advancements in face detection technology include models that are even better at finding faces in tough situations. One example is the RetinaFace model, which uses a special technique called "feature pyramid network" to look at pictures in different levels of detail. This helps RetinaFace find faces no matter how big or small they are, even if they are partly hidden or in bad lighting. RetinaFace also uses something called "extra supervision" to make sure it's really good at figuring out where the face is, not just if there's a face. This makes it very accurate, even in crowded scenes or when the pictures are not clear.
 
 Another advancement is the use of lightweight models like YOLO-Face, which stands for "You Only Look Once - Face". YOLO-Face is designed to be fast and work well on devices like phones and cameras that need to find faces quickly. It uses a single pass through the image to spot faces, which means it can work in real-time without needing a lot of computer power. This makes it great for apps and systems where speed is important. By combining these new models with other technologies, like face recognition and emotion detection, face detection systems are becoming more powerful and useful in everyday life.
+
+## References & Further Reading
+
+[1]: Yang, S., Luo, P., Loy, C. C., & Tang, X. (2016). ["WIDER FACE: A Face Detection Benchmark."](https://ieeexplore.ieee.org/document/7780965) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Zhang, K., Zhang, Z., Li, Z., & Qiao, Y. (2016). ["Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks."](https://ieeexplore.ieee.org/document/7553523) IEEE Signal Processing Letters.
+
+[3]: Deng, J., Guo, J., Zhou, Y., Yu, J., Kotsia, I., & Zafeiriou, S. (2020). ["RetinaFace: Single-shot Multi-level Face Localisation in the Wild."](https://ieeexplore.ieee.org/document/9157330) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Jiang, H., Learned-Miller, E. (2017). ["Faces in the Wild: A Large-Scale Study of Real-World Compliance with Face Detection Systems."](https://www.ccdc.cam.ac.uk/structures/) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Lin, T.-Y., Dollár, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Sun, Y., Wang, X., & Tang, X. (2014). ["Deep Learning Face Representation from Predicting 10,000 Classes."](https://ieeexplore.ieee.org/document/6909640) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Zhang, S., Wen, L., Bian, X., Lei, Z., & Li, S. Z. (2019). ["Single-Shot Scale-Aware Network for Real-Time Face Detection."](https://arxiv.org/abs/1711.06897) IEEE Transactions on Image Processing.

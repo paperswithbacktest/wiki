@@ -79,3 +79,15 @@ Another technique that can work well with counterfactual fairness is individual 
 One advanced technique for optimizing machine learning models for counterfactual fairness is using causal inference methods. Imagine you have a model that decides if someone should get a loan. If you change the person's race in the data and the model's decision changes, that means the model might be using biased connections. Causal inference helps you understand how changing one thing, like race, affects other things, like income or education. By figuring out these connections, you can adjust the model to ignore these biased links and make sure the model's decision stays the same even if you change something that shouldn't matter. This helps make the model fairer for everyone.
 
 Another technique is using adversarial training. This means you train the model to be fair by making it harder for another model, called an adversary, to guess sensitive information like race or gender from the model's decisions. If the adversary can't figure out the sensitive information, then the model is doing a good job of ignoring it. This helps make sure the model's decisions are based on things that matter, like a person's credit score, not things that shouldn't matter, like their race. By using adversarial training, you can make the model more fair and treat everyone the same way, no matter who they are.
+
+## References & Further Reading
+
+[1]: Kusner, M. J., Loftus, J., Russell, C., & Silva, R. (2017). ["Counterfactual Fairness."](https://arxiv.org/abs/1703.06856) Advances in Neural Information Processing Systems 30.
+
+[2]: Pearl, J. (2009). ["Causality: Models, Reasoning, and Inference."](https://dl.acm.org/doi/book/10.5555/1642718) Cambridge University Press.
+
+[3]: Russell, C., Kusner, M. J., Loftus, J., & Silva, R. (2017). ["When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness."](https://dl.acm.org/doi/10.5555/3295222.3295388) Proceedings of the Thirty-Third Conference on Uncertainty in Artificial Intelligence (UAI 2017).
+
+[4]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) Online Book. 
+
+[5]: Ruggieri, S., Turini, F., & Pedreschi, D. (2010). ["Data mining for discrimination discovery."](https://dl.acm.org/doi/10.1145/1401890.1401959) ACM Transactions on Knowledge Discovery from Data (TKDD), 4(2), 9.

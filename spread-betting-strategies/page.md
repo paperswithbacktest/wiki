@@ -1,6 +1,7 @@
 ---
-title: "Spread Betting Strategies"
-description: "Explore spread betting strategies within algorithmic trading to manage risk and optimize profits. Learn how to integrate these approaches effectively."
+title: Comprehensive Guide to Spread Betting Principles and Strategies
+description: Spread betting lets you profit from market moves by speculating on price
+  changes while managing risk with stop losses and strategies Explore more inside
 ---
 
 

@@ -114,3 +114,17 @@ This code shows a basic implementation of Hill Climbing. The `objective_function
 One advanced technique to enhance the performance of Hill Climbing algorithms is called Simulated Annealing. This method is like Hill Climbing but with a twist. Instead of always moving to the best neighbor, Simulated Annealing sometimes moves to a worse neighbor if it's not too much worse. This is done using a probability that depends on a "temperature" parameter. At the start, the temperature is high, so the algorithm is more likely to move to worse neighbors. As the algorithm runs, the temperature slowly cools down, making it less likely to move to worse neighbors. This helps the algorithm escape local optima and explore more of the search space, increasing the chances of finding the global optimum.
 
 Another technique is using Tabu Search. Tabu Search keeps a list of recent moves, called the tabu list, to avoid getting stuck in loops. When the algorithm finds a better neighbor, it checks if that move is on the tabu list. If it is, the algorithm won't move there, even if it's the best neighbor. This helps the algorithm explore new areas of the search space instead of going back to places it's already been. By avoiding loops and exploring more, Tabu Search can find better solutions than basic Hill Climbing. Both Simulated Annealing and Tabu Search add complexity to the algorithm but can significantly improve its ability to find the best solution.
+
+## References & Further Reading
+
+[1]: Russell, S., & Norvig, P. (2010). ["Artificial Intelligence: A Modern Approach,"](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) 3rd Edition. Prentice Hall.
+
+[2]: Auer, P., Jaksch, T., & Ortner, R. (2009). [“Near-optimal regret bounds for reinforcement learning,”](https://jmlr.org/papers/volume11/jaksch10a/jaksch10a.pdf) Journal of Machine Learning Research, 10: 1563-1600.
+
+[3]: Michalewicz, Z., & Fogel, D. B. (2004). ["How to Solve It: Modern Heuristics,"](https://link.springer.com/book/10.1007/978-3-662-07807-5) 2nd Edition. Springer.
+
+[4]: Mitchell, M. (1998). ["An Introduction to Genetic Algorithms,"](https://direct.mit.edu/books/monograph/4675/An-Introduction-to-Genetic-Algorithms) MIT Press.
+
+[5]: Aarts, E., & Korst, J. (1989). ["Simulated Annealing and Boltzmann Machines: A Stochastic Approach to Combinatorial Optimization and Neural Computing,"](https://dl.acm.org/doi/abs/10.5555/61990) John Wiley & Sons.
+
+[6]: Gendreau, M., & Potvin, J.-Y. (Eds.). (2010). ["Handbook of Metaheuristics."](https://link.springer.com/book/10.1007/978-3-319-91086-4) Springer.

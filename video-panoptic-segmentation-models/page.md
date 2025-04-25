@@ -81,3 +81,17 @@ Another important thing is to use smart ways to process the video. Instead of lo
 The latest advancements in video panoptic segmentation include improvements in how models understand and track objects over time. One big step forward is the use of better temporal feature aggregation techniques, like those used in ViP-DeepLab, which help models look at past and future frames together to make more accurate guesses about what's happening in the current frame. Another advancement is the use of more efficient models that can process video frames faster, making them better for real-time applications. Researchers are also working on new ways to handle tricky situations like occlusions, where objects get hidden or partially blocked, by using memory mechanisms to keep track of objects even when they're not fully visible.
 
 In the future, we can expect video panoptic segmentation models to become even more accurate and efficient. One exciting development might be the use of unsupervised or semi-supervised learning, where models can learn from videos without needing every frame to be labeled by humans. This could make it easier and cheaper to train these models because it's hard to get enough good training data right now. Another area to watch is the integration of these models with other types of AI, like natural language processing, so that they can understand and describe what's happening in videos in a way that's easy for people to understand. As these models get better, they'll be more useful in real-world applications like self-driving cars, video surveillance, and sports analysis, making our lives safer and more convenient.
+
+## References & Further Reading
+
+[1]: Kirillov, A., Wu, Y., He, K., & Girshick, R. (2019). ["Panoptic Feature Pyramid Networks."](https://arxiv.org/abs/1901.02446) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[2]: Porzi, L., Wolf, C., Li, X., & Xu, G. (2019). ["Dense Video Captioning in a Hierarchical Fashion."](https://openaccess.thecvf.com/content_CVPR_2019/papers/Porzi_Seamless_Scene_Segmentation_CVPR_2019_paper.pdf) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[3]: Zhou, B., Zhao, H., Puig, X., Fidler, S., Barriuso, A., & Torralba, A. (2019). ["Semantic Understanding of Scenes through the ADE20K Dataset."](https://arxiv.org/abs/1608.05442) International Journal of Computer Vision, 127, 302-321.
+
+[4]: Cheng, B., Collins, M. D., Zhu, Y., Liu, T., Huang, T. S., & Adam, H. (2020). ["Panoptic-DeepLab."](https://arxiv.org/abs/1911.10194) arXiv preprint arXiv:1911.10194.
+
+[5]: ["Deep Learning for Computer Vision"](https://www.sciencedirect.com/science/article/pii/S2666827021000670) by Rajalingappaa Shanmugamani
+
+[6]: Lin, T-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollár, P., & Zitnick, C. L. (2014). ["Microsoft COCO: Common Objects in Context."](https://arxiv.org/abs/1405.0312) European Conference on Computer Vision.

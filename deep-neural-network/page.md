@@ -83,3 +83,23 @@ One advanced architecture of DNNs is the Convolutional Neural Network (CNN), whi
 Another advanced architecture is the Recurrent Neural Network (RNN), which is good for understanding sequences of data, like words in a sentence or sounds in speech. RNNs can remember what they saw or heard before, which helps them understand context. For example, if you're using an RNN to translate languages, it can remember the beginning of a sentence to help translate the end correctly. RNNs are often used in natural language processing, like chatbots that can understand and respond to what you say, and in speech recognition, where they can turn what you say into written text. A special type of RNN called the Long Short-Term Memory (LSTM) network is even better at remembering things over long sequences, making it very useful for tasks like predicting stock prices or generating text.
 
 A third advanced architecture is the Generative Adversarial Network (GAN), which is used to create new data that looks real. A GAN has two parts: a generator that makes new data, and a discriminator that tries to tell if the data is real or fake. They work together like a game, where the generator tries to fool the discriminator, and the discriminator tries to get better at spotting fakes. Over time, the generator gets really good at making realistic data. GANs are used to create things like realistic images, where they can make pictures of people or places that don't actually exist, and in style transfer, where they can make a picture look like it was painted by a famous artist.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning.](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning representations by back-propagating errors."](https://www.nature.com/articles/323533a0) Nature, 323(6088), 533-536.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[5]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[6]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15, 1929-1958.
+
+[7]: Ioffe, S., & Szegedy, C. (2015). ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) Proceedings of the 32nd International Conference on Machine Learning.
+
+[8]: Radford, A., Metz, L., & Chintala, S. (2016). ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](https://arxiv.org/abs/1511.06434) arXiv:1511.06434.
+
+[9]: Chollet, F. (2017). ["Xception: Deep Learning with Depthwise Separable Convolutions."](https://ieeexplore.ieee.org/document/8099678) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

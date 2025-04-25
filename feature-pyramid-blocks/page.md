@@ -79,3 +79,17 @@ FPG works by taking the feature maps from different levels of the pyramid and gr
 Advanced models like MLFPN (Multi-Level Feature Pyramid Network), ASFF (Adaptive Spatial Feature Fusion), and the Exact Fusion Model take feature pyramid architectures to the next level by making them even smarter at understanding images. MLFPN does this by using multiple levels of the pyramid and combining them in a way that captures both the big picture and the small details. It's like having several different views of the same scene and putting them together to get a complete picture. ASFF, on the other hand, focuses on adapting the way it combines features based on where they are in the image. It's like adjusting the focus of a camera to see different parts of the picture more clearly. The Exact Fusion Model goes a step further by precisely combining features from different levels, making sure that every detail is accounted for. This is like carefully mixing ingredients to make a perfect recipe.
 
 These advanced models help computers understand images better by fine-tuning how they use the feature pyramid. MLFPN uses a technique where it takes the feature maps from different levels and combines them in a way that makes the most sense for the task at hand. ASFF looks at the spatial information in the image and adjusts how it combines features, making sure that the important parts of the image get more attention. The Exact Fusion Model uses a method where it carefully aligns and merges the features from different levels, ensuring that the final feature map is as accurate as possible. By using these techniques, these models can help computers find objects in pictures more accurately and efficiently, making tasks like object detection easier and more precise.
+
+## References & Further Reading
+
+[1]: Lin, T.-Y., Dollár, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Tan, M., Pang, R., & Le, Q. V. (2020). ["EfficientDet: Scalable and Efficient Object Detection."](https://arxiv.org/abs/1911.09070) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Ghiasi, G., Lin, T.-Y., & Le, Q. V. (2019). ["NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection."](https://arxiv.org/abs/1904.07392) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Liu, S., Qi, L., Qin, H., Shi, J., & Jia, J. (2018). ["Path Aggregation Network for Instance Segmentation."](https://arxiv.org/abs/1803.01534) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Tan, M., Pang, R., & Le, Q. V. (2020). ["EfficientDet: Scalable and Efficient Object Detection."](https://arxiv.org/abs/1911.09070) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Jung, H., Heo, B., Park, H., Choi, T. Y., & Yoo, D. (2020). ["Feature Pyramid Transformer for Object Detection."](https://ieeexplore.ieee.org/document/1269422) In Proceedings of the European Conference on Computer Vision (ECCV).

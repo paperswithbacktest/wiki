@@ -79,3 +79,15 @@ Another advanced technique is using ensemble methods, where you combine the resu
 In the future, Document Understanding Models are expected to become even better at understanding documents. They will be able to read and understand more types of documents, like handwritten notes or documents with very complex layouts. This will happen because researchers will keep working on new ways to train these models, like using more advanced neural networks and finding new ways to combine text and image information. Also, as more and more documents are created and stored digitally, there will be more data for these models to learn from. This will make them even smarter and more accurate.
 
 Another big change will be that these models will become easier to use. Right now, they need a lot of special knowledge to set up and use. But in the future, they will be more like tools that anyone can use, even if they don't know much about computers. This means businesses, schools, and even regular people will be able to use these models to help with their work. They will help with things like sorting mail, filling out forms, and keeping track of important information. As these models get better and easier to use, they will become a big part of how we work with documents every day.
+
+## References & Further Reading
+
+[1]: Xu, Y., Xu, Y., Lv, T., Cui, L., Florencio, D. A. F., Zhang, C., Huang, C., Wei, F., & Zhang, M. (2020). ["LayoutLM: Pre-training of Text and Layout for Document Image Understanding."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) arXiv preprint arXiv:1912.13318.
+
+[2]: Xu, Y., Li, M., Cui, L., Wang, L., Wei, F., & Zhou, M. (2020). ["LayoutLMv2: Multi-modal Pre-training for Visually-rich Document Understanding."](https://arxiv.org/abs/2012.14740) arXiv preprint arXiv:2012.14740.
+
+[3]: Jaume, G., Sistach, A., Kerautret, B., & Ouaret, M. (2019). ["FUNSD: A Dataset for Form Understanding in Noisy Scanned Documents."](https://arxiv.org/abs/1905.13538) International Conference on Document Analysis and Recognition.
+
+[4]: ["The RVL-CDIP Dataset"](https://adamharley.com/rvl-cdip/) - A large dataset for document classification provided by Carnegie Mellon University.
+
+[5]: PubLayNet. ["Dataset for Document Layout Analysis."](https://arxiv.org/abs/1908.07836) IBM-ABL.

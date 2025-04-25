@@ -81,3 +81,17 @@ Another technique is using policy gradient methods, like the REINFORCE algorithm
 To compare the performance of different behavior policies like Epsilon Greedy and Go-Explore in a specific application, you can run multiple experiments where the agent uses each policy in turn. For example, if the application is a game, you can track the agent's score or how quickly it reaches the goal over many episodes. For Epsilon Greedy, you might start with an epsilon value like $$ \epsilon = 0.1 $$ and see how the agent's performance changes over time. For Go-Explore, you can observe how the agent first explores the game thoroughly before starting to exploit the best paths it found. By comparing the average scores or the time taken to reach the goal for each policy, you can see which one helps the agent learn and perform better in the game.
 
 Another way to compare these policies is by looking at how they balance exploration and exploitation. Epsilon Greedy uses a simple rule where the agent chooses a random action $$ \epsilon $$ percent of the time and the best known action the rest of the time. This can be good for simple environments but might not work as well in complex ones. Go-Explore, on the other hand, starts by exploring the environment fully before focusing on the best paths. This can be more effective in complex scenarios where finding the best actions is harder. By analyzing how each policy adapts to the specific application and how well it helps the agent improve over time, you can decide which one is more suitable for the task at hand.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (2nd ed.). MIT Press.
+
+[2]: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2015). ["Human-level control through deep reinforcement learning."](https://arxiv.org/abs/1312.5602) Nature, 518(7540), 529-533.
+
+[3]: Salimans, T., & Chen, R., Sidor, S., & Sutskever, I. (2018). ["Learning Montezuma’s Revenge from a Single Demonstration."](https://arxiv.org/abs/1703.03864) arXiv:1805.11592.
+
+[4]: Ecoffet, A., Huizinga, J., Lehman, J., Stanley, K. O., & Clune, J. (2021). ["First return, then explore."](https://arxiv.org/abs/2004.12919) Nature, 590(7847), 580-586.
+
+[5]: Van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep Reinforcement Learning with Double Q-Learning."](https://arxiv.org/abs/1509.06461) In Proceedings of the AAAI Conference on Artificial Intelligence.
+
+[6]: Watkins, C. J., & Dayan, P. (1992). ["Q-learning."](https://link.springer.com/article/10.1007/BF00992698) Machine Learning, 8, 279-292.

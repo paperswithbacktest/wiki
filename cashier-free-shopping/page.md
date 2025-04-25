@@ -81,3 +81,15 @@ Another trend will be more focus on privacy and security. As people become more 
 To make machine learning algorithms work better in cashier-free stores, they need to see a lot of different shopping situations. The more data the system gets, the better it can learn to tell the difference between items and understand what shoppers are doing. For example, if the system sees people [picking](/wiki/asset-class-picking) up and putting back many different kinds of products, it can learn to recognize these items more accurately. This helps the store charge the right amount for what people take. The system can also use special ways to learn, like [deep learning](/wiki/deep-learning), which is good at understanding pictures and videos. This can help the system see small differences between similar items, like different brands of chips.
 
 Another way to improve the algorithms is to use them to learn from mistakes. If the system charges someone the wrong amount, it can look at what went wrong and learn from it. This way, it won't make the same mistake again. Stores can also use feedback from customers to make the system better. If a customer says the system got something wrong, the store can use that information to teach the system how to do better next time. By always learning and getting better, the machine learning algorithms can make cashier-free shopping smoother and more accurate for everyone.
+
+## References & Further Reading
+
+[1]: Beskales, G., Galea, D., & Zilis, R. (2018). ["Cashierless Stores: New Frontiers in the Retail Experience"](https://www.researchgate.net/publication/376618931_Systematic_Review_of_Cashierless_Stores_Just_Walk_Out_Stores_Revolutionizing_The_Retail). Retail Customer Experience.
+
+[2]: ["Amazon Go and the Innovation of No-Line Retail"](https://www.forbes.com/sites/christopherwalton/2022/03/01/5-reasons-why-amazon-go-is-already-the-greatest-retail-innovation-of-the-next-30-years/) by Nick Wingfield, The New York Times
+
+[3]: Mckinsey & Company. (2020). ["The Future of Retail: Overview of Technology in Retail"](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/omnichannel-shopping-in-2030).
+
+[4]: ["A Survey on Deep Learning in Retail: Applications, Challenges, and Opportunities"](https://www.sciencedirect.com/science/article/pii/S1574013721000198) by Misheva, B., & Mishev, A., Knowledge and Information Systems.
+
+[5]: ["Facial Recognition and Deep Learning: The Top 5 Trends to Watch in 2021"](https://www.researchgate.net/publication/386244459_Enhancing_Facial_Recognition_A_Comprehensive_Review_of_Deep_Learning_Approaches_and_Future_Perspectives) by Li, X., & Smith, J., SAGE Open Journal.

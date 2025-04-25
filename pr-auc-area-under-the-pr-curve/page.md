@@ -81,3 +81,19 @@ Another limit is that PR AUC can be affected a lot by the data you use. If your 
 To optimize a model for a better PR AUC score, you need to focus on balancing precision and recall. Precision is about how many of the things your model says are correct actually are correct. Recall is about how many of the correct things your model finds. You can do this by changing the threshold that decides what your model says is positive or negative. Try different thresholds and see how they change the precision and recall. You want to find a threshold that gives you a good balance between finding most of the right things (high recall) and making sure the things you find are actually right (high precision). You can use a technique called grid search to try out different thresholds and see which one gives the best PR AUC.
 
 Another way to improve the PR AUC is by adjusting your model. You can change things like the model's complexity, the features you use, or even the type of model you're using. For example, if you're using a decision tree, you might try changing the tree's depth or the minimum number of samples needed at a leaf node. If you're using a [neural network](/wiki/neural-network), you might try adding more layers or changing the learning rate. You can use cross-validation to test these changes and see how they affect the PR AUC. By trying out different settings and seeing how they change the PR AUC, you can find the best way to set up your model to balance precision and recall.
+
+## References & Further Reading
+
+[1]: Saito, T., & Rehmsmeier, M. (2015). ["The Precision-Recall Plot is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PLoS ONE, 10(3): e0118432.
+
+[2]: Davis, J., & Goadrich, M. (2006). ["The Relationship Between Precision-Recall and ROC Curves."](https://dl.acm.org/doi/10.1145/1143844.1143874) In Proceedings of the 23rd International Conference on Machine Learning, pp. 233-240.
+
+[3]: Fawcett, T. (2006). ["An Introduction to ROC Analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861-874.
+
+[4]: Boyd, K., Eng, K. H., & Page, C. D. (2013). ["Area Under the Precision-Recall Curve: Point Estimates and Confidence Intervals."](https://link.springer.com/chapter/10.1007/978-3-642-40994-3_29) In Proceedings of the 13th International Conference on Data Mining, pp. 451-459.
+
+[5]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[6]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[7]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.

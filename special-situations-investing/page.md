@@ -1,6 +1,7 @@
 ---
-title: "Special Situations in Investing"
-description: "Explore advanced investment strategies with special situations investing and algorithmic trading Understand unique opportunities in corporate events and trading efficiency"
+title: Mastering Special Situations Investing for Strategic Gains
+description: Special situations investing uses deep event driven analysis to uncover
+  mispriced stocks in mergers spin offs and restructurings Discover more inside
 ---
 
 

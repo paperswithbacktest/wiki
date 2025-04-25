@@ -1,6 +1,7 @@
 ---
-title: "Speculative Risk Vs. Pure Risk"
-description: "Explore the crucial differences between speculative and pure risk in algo trading Discover strategies to navigate these risks for greater market success"
+title: Understanding Speculative and Pure Risk in Business and Finance
+description: Speculative risk and pure risk require distinct strategies Learn how
+  planning and insurance can reduce losses and safeguard assets Discover more inside.
 ---
 
 

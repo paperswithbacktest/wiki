@@ -116,3 +116,21 @@ In another case, a research team was working on a natural language processing mo
 In the future, we can expect data parallelism to become even more efficient as hardware continues to improve. New GPUs and CPUs with more memory and faster processing speeds will make it easier to split and process large datasets across multiple units. This means that training complex models on huge amounts of data will become faster and more manageable. Additionally, improvements in communication technology between GPUs will reduce the overhead of syncing model updates, making data parallelism even more effective.
 
 We might also see new software techniques that make data parallelism easier to use and more flexible. For example, frameworks like TensorFlow and PyTorch could introduce more automated ways to split data and manage model updates, making it simpler for researchers and engineers to take advantage of data parallelism without needing to do a lot of manual setup. These advancements will help make machine learning more accessible and efficient, allowing for quicker development and deployment of models across various industries.
+
+## References & Further Reading
+
+[1]: Dean, J., Corrado, G., Monga, R., Chen, K., Devin, M., Mao, M., ... & Ng, A. Y. (2012). ["Large Scale Distributed Deep Networks."](https://dl.acm.org/doi/10.5555/2999134.2999271) Advances in Neural Information Processing Systems 25.
+
+[2]: Ben-Nun, T., & Hoefler, T. (2018). ["Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis."](https://arxiv.org/abs/1802.09941) ACM Computing Surveys (CSUR), 51(3).
+
+[3]: Li, M., Andersen, D. G., Smola, A. J., & Yu, K. (2014). ["Communication Efficient Distributed Machine Learning with the Parameter Server."](https://dl.acm.org/doi/10.5555/2968826.2968829) In Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Communications of the ACM, 60(6), 84-90.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library."](https://arxiv.org/abs/1912.01703) Advances in Neural Information Processing Systems 32.
+
+[7]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1605.08695) In Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation.
+
+[8]: "Deep Learning with Python" by François Chollet. (2017). [Manning Publications](https://www.manning.com/books/deep-learning-with-python)

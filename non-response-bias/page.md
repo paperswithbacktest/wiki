@@ -81,3 +81,19 @@ Another important part of survey design is to make people feel comfortable and m
 In a case study involving a health survey conducted by a public health organization, non-response bias significantly affected the machine learning model used to predict the prevalence of a certain disease. The survey was sent out to a large population, but only a small percentage responded. Upon analysis, it was found that the respondents were mostly older individuals who were more health-conscious and had easier access to the internet. This led to a model that overestimated the disease prevalence among older adults and underestimated it among younger, less health-conscious individuals who were less likely to respond. The model's predictions were off because it was trained on data that did not represent the whole population.
 
 To address this issue, the organization implemented several strategies. They redesigned the survey to make it shorter and more accessible, offering it in multiple languages and through different methods like phone calls and in-person interviews. They also used propensity score analysis to understand the characteristics of non-respondents and adjust their data accordingly. By comparing the respondents and non-respondents, they created a score that helped them see how different these groups were. Using this score, they were able to weight the data to better reflect the entire population. These changes helped reduce non-response bias, leading to a more accurate machine learning model that could better predict disease prevalence across all age groups.
+
+## References & Further Reading
+
+[1]: Little, R. J. A., & Rubin, D. B. (2002). ["Statistical Analysis with Missing Data."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119482260) John Wiley & Sons.
+
+[2]: Schafer, J. L., & Graham, J. W. (2002). ["Missing Data: Our View of the State of the Art."](https://pubmed.ncbi.nlm.nih.gov/12090408/) Psychological Methods, 7(2), 147-177.
+
+[3]: Rubin, D. B. (1987). ["Multiple Imputation for Nonresponse in Surveys."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316696) John Wiley & Sons.
+
+[4]: Bethlehem, J. (2010). ["Selection Bias in Web Surveys."](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2010.00112.x) International Statistical Review, 78(2), 161-188.
+
+[5]: Groves, R. M., Fowler Jr, F. J., Couper, M. P., Lepkowski, J. M., Singer, E., & Tourangeau, R. (2011). ["Survey Methodology."](https://www.amazon.com/Survey-Methodology-Robert-M-Groves/dp/0470465468) John Wiley & Sons.
+
+[6]: Valliant, R., Dever, J. A., & Kreuter, F. (2018). ["Practical Tools for Designing and Weighting Survey Samples."](https://link.springer.com/book/10.1007/978-3-319-93632-1) Springer.
+
+[7]: Biemer, P. P., & Lyberg, L. E. (2003). ["Introduction to Survey Quality."](https://onlinelibrary.wiley.com/doi/book/10.1002/0471458740) John Wiley & Sons.

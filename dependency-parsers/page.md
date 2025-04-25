@@ -83,3 +83,15 @@ Another important advancement is the development of multilingual dependency pars
 To fine-tune a dependency parser like DDParser for a specific domain or language, you need to use training data that comes from that domain or language. For example, if you want the parser to work better on medical texts, you would train it with sentences from medical [books](/wiki/algo-trading-books) and articles. This helps the parser learn the special words and ways of connecting words that are common in that field. You can also use transfer learning, where you start with a model that already knows a lot about general language and then teach it more about your specific domain or language. This makes the training process faster and often leads to better results because the model already has a good base to build on.
 
 Fine-tuning for a specific language involves similar steps but focuses on understanding the grammar and structure of that language. You would use sentences in the target language to train the parser, helping it learn the unique patterns and rules. If you are using a pre-trained model like DDParser, you can fine-tune it by adjusting the model's parameters to better fit the new language or domain. This usually involves running the model on your new training data and letting it adjust its weights to improve its accuracy on the specific task. By doing this, you can make the dependency parser more useful and accurate for your specific needs.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2021). ["Speech and Language Processing"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) (3rd ed. draft). Prentice Hall.
+
+[2]: Kiperwasser, E., & Goldberg, Y. (2016). ["Simple and Accurate Dependency Parsing Using Bidirectional LSTM Feature Representations"](https://aclanthology.org/Q16-1023/). Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
+
+[3]: McDonald, R., & Pereira, F. C. N. (2006). ["Online Learning of Approximate Dependency Parsing Algorithms"](https://aclanthology.org/E06-1011/). Proceedings of the 11th Conference of the European Chapter of the Association for Computational Linguistics.
+
+[4]: Dozat, T., & Manning, C. D. (2017). ["Deep Biaffine Attention for Neural Dependency Parsing"](https://arxiv.org/abs/1611.01734). International Conference on Learning Representations (ICLR).
+
+[5]: Chen, D., & Manning, C. D. (2014). ["A Fast and Accurate Dependency Parser using Neural Networks"](https://aclanthology.org/D14-1082/). Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP).

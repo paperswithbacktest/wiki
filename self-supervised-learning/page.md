@@ -83,3 +83,19 @@ Another exciting advancement is the use of Self-Supervised Learning in natural l
 In the future, Self-Supervised Learning (SSL) is expected to become even more powerful and widely used. One big area of development is making SSL algorithms better at understanding different types of data, like videos and sounds, not just pictures and text. Imagine if a computer could learn to understand a video by watching it over and over, figuring out what's happening without anyone telling it. This would help in tasks like recognizing actions in videos or understanding what people are saying in noisy environments. Researchers are working on new ways to create games or puzzles for the computer to play with these types of data, making SSL even more useful in real-world applications.
 
 Another expected development is improving the efficiency of SSL. Right now, training these models can take a lot of time and computing power. In the future, scientists hope to find ways to train SSL models faster and with less energy. This could mean using smarter ways to design the games the computer plays or using new kinds of computer chips that are better at running these algorithms. If SSL can be made more efficient, it will be easier for more people to use it, even if they don't have access to big computers. This would open up new possibilities for using SSL in areas like healthcare, where it could help analyze medical images, or in education, where it could help understand and summarize large amounts of text.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[2]: Chen, T., Kornblith, S., Norouzi, M., & Hinton, G. (2020). ["A Simple Framework for Contrastive Learning of Visual Representations."](https://arxiv.org/abs/2002.05709) arXiv preprint arXiv:2002.05709.
+
+[3]: Grill, J. B., Strub, F., Altché, F., Tallec, C., Richemond, P. H., Buchatskaya, E., ... & Valko, M. (2020). ["Bootstrap your own latent-a new approach to self-supervised learning."](https://arxiv.org/abs/2006.07733) Advances in Neural Information Processing Systems 33.
+
+[4]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., ... & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv preprint arXiv:1907.11692.
+
+[5]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[6]: LeCun, Y., Hadsell, R., & Chopra, S. (2006). ["A Tutorial on Energy-Based Learning."](https://www.researchgate.net/publication/200744586_A_tutorial_on_energy-based_learning) Predicting Structured Data.
+
+[7]: He, K., Fan, H., Wu, Y., Xie, S., & Girshick, R. (2020). ["Momentum Contrast for Unsupervised Visual Representation Learning."](https://arxiv.org/abs/1911.05722) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.

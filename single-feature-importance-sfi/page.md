@@ -1,6 +1,7 @@
 ---
-title: "Single feature importance (SFI)"
-description: Explore the importance of Single Feature Importance (SFI) in algorithmic trading as a method to evaluate the contribution of individual features in financial models. SFI helps traders identify significant predictors, refine trading algorithms, and limit overfitting for better performance. It plays a crucial role in machine learning by providing clear insights into attribute relevance, offering a simple yet effective approach to enhance model accuracy and interpretability. Understand how SFI compares to other feature importance methods like MDI and MDA and its unique advantages despite computational demands.
+title: Understanding Single Feature Importance for Model Insights
+description: Single Feature Importance shows how each feature drives model predictions
+  and guides feature selection for clearer interpretation Discover more inside.
 ---
 
 

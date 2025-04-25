@@ -1,7 +1,7 @@
 ---
-title: Understanding Soft Prompt Tuning for Efficient Model Adaptation
-description: Soft Prompt Tuning streamlines model adaptation by adjusting input vectors
-  instead of retraining full models, boosting efficiency Discover more inside.
+title: Soft Prompt Tuning for Efficient Language Model Adaptation
+description: Soft Prompt Tuning optimizes language models by adjusting input vectors
+  to boost task performance with minimal compute resources Discover more inside.
 ---
 
 ![Image](images/1.jpeg)
@@ -119,3 +119,15 @@ Another important finding comes from Liu et al. (2022), who explored how to auto
 In the future, Soft Prompt Tuning might evolve to better handle the challenge of finding the right prompts. Researchers could develop smarter ways to automatically create and adjust prompts, making it easier and quicker to get good results. This could mean using [machine learning](/wiki/machine-learning) to learn what kinds of prompts work best for different tasks, so you don't have to guess as much. By making the process more automatic, Soft Prompt Tuning could become even more useful for people who want to adapt big models without a lot of hassle.
 
 Another area where Soft Prompt Tuning could improve is in matching the performance of full model fine-tuning more closely. While Soft Prompt Tuning is already good at saving time and computer power, it sometimes doesn't make the model as good at new tasks as full fine-tuning does. Future research might find ways to tweak the prompts even better, maybe by using more complex optimization methods or by combining Soft Prompt Tuning with other techniques. This could help close the performance gap, making Soft Prompt Tuning a go-to method for many more tasks.
+
+## References & Further Reading
+
+[1]: Lester, B., Al-Rfou, R., & Constant, N. (2021). ["The Power of Scale for Parameter-Efficient Prompt Tuning."](https://arxiv.org/abs/2104.08691) Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.
+
+[2]: Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., & Neubig, G. (2022). ["Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing."](https://arxiv.org/abs/2107.13586) Transactions of the Association for Computational Linguistics.
+
+[3]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI.
+
+[4]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) Advances in Neural Information Processing Systems 33.
+
+[5]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research, 21(140), 1-67.

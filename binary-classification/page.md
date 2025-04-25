@@ -85,3 +85,19 @@ One way feature selection helps is by making the model simpler and faster. When 
 One advanced way to improve binary classification is by using ensemble techniques, which combine the predictions of multiple models to make better guesses. One popular ensemble method is called Random Forests. It works by making a lot of decision trees, each trained on a different part of the data. When you want to classify something new, all the trees vote on what group it should go in, and the group with the most votes wins. This helps because different trees might be good at different things, so together they can make better guesses than any one tree alone. Another ensemble method is boosting, like AdaBoost, where you train models one after the other. Each new model focuses more on the examples the last model got wrong, so over time, the models get better at telling the groups apart.
 
 Another advanced method is using neural networks, especially [deep learning](/wiki/deep-learning) models. These can learn very complex patterns in the data by stacking many layers that each do a little bit of processing. For binary classification, you might use a sigmoid function at the end of the network to turn the output into a probability. The formula for the sigmoid function is $$ \sigma(z) = \frac{1}{1 + e^{-z}} $$. Neural networks can be very good at finding the important features by themselves, but they need a lot of data to train well and can take a long time to learn. You can also use techniques like cross-validation to make sure your model is working well. This means you split your data into different parts, train your model on some parts, and test it on the others to see how well it does on data it hasn't seen before.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[5]: Cortes, C., & Vapnik, V. (1995). ["Support-Vector Networks."](https://link.springer.com/article/10.1007/BF00994018) Machine Learning, 20(3), 273-297.
+
+[6]: Powers, D. M. (2011). ["Evaluation: From Precision, Recall and F-measure to ROC, Informedness, Markedness, and Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[7]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.

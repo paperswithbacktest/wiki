@@ -1,6 +1,7 @@
 ---
-title: "Strategies to Mitigate Present Bias in Investment Decisions"
-description: "Explore strategies to mitigate present bias in algo trading by understanding its impact on investment decisions and implementing long-term focused measures."
+title: Mitigating Present Bias in Investing for Long-Term Success
+description: Present bias can undermine long-term returns, but clear goals automated
+  savings and diverse investing tools keep you on track Discover more inside
 ---
 
 

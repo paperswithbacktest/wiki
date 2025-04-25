@@ -1,6 +1,7 @@
 ---
-title: "Supply and Demand in Economics"
-description: "Explore how supply-demand economics enhances algorithmic trading strategies, leveraging economic insights to predict market movements and improve trading outcomes."
+title: Understanding Supply and Demand Equilibrium in Economics
+description: Supply and demand analysis explains how market prices adjust to changing
+  conditions and shows drivers of equilibrium and shifts Discover more inside.
 ---
 
 

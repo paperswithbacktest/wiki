@@ -83,3 +83,17 @@ Another way to optimize Pandas for large datasets is by using vectorized operati
 In a real-world machine learning project, a data scientist might use Pandas to analyze customer data for a retail company. They could load the data from a CSV file using ```data = pd.read_csv('customer_data.csv')``` and then use Pandas to clean and prepare the data. For example, they might use ```data = data.dropna()``` to remove any rows with missing values and ```data['age_group'] = pd.cut(data['age'], bins=[0, 18, 35, 65, 100], labels=['Child', 'Young Adult', 'Adult', 'Senior'])``` to create a new 'age_group' column. After preparing the data, they might use Pandas to explore it, like finding the average purchase amount by age group with ```data.groupby('age_group')['purchase_amount'].mean()```. This information could help the company target different age groups with personalized marketing strategies, which could improve sales.
 
 Another example is using Pandas in a machine learning project for predicting house prices. A data scientist could start by loading the data with ```data = pd.read_csv('house_prices.csv')``` and then use Pandas to handle missing values and create new features. They might use ```data['price_per_sqft'] = data['price'] / data['sqft_living']``` to calculate the price per square foot, which could be a useful feature for the model. They could also use Pandas to split the data into training and testing sets with ```from sklearn.model_selection import train_test_split; X = data.drop('price', axis=1); y = data['price']; X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)```. By using Pandas to prepare and explore the data, the data scientist can build a more accurate model to predict house prices, which could help real estate companies or home buyers make better decisions.
+
+## References & Further Reading
+
+[1]: McKinney, W. (2012). ["Python for Data Analysis"](https://wesmckinney.com/book/). O'Reilly Media.
+
+[2]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., . . . & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[3]: VanderPlas, J. (2016). ["Python Data Science Handbook: Essential Tools for Working with Data"](https://books.google.com/books/about/Python_Data_Science_Handbook.html?id=xYmNDQAAQBAJ). O'Reilly Media.
+
+[4]: Wes McKinney's article on ["Data Structures for Statistical Computing in Python"](https://proceedings.scipy.org/articles/Majora-92bf1922-00a) presenting the foundations of Pandas.
+
+[5]: Raschka, S., & Mirjalili, V. (2017). ["Python Machine Learning"](https://books.google.com/books/about/Python_Machine_Learning.html?id=_plGDwAAQBAJ). Packt Publishing.
+
+[6]: He, X., Zhao, K., & Chu, X. (2018). ["AutoML: A Survey of the State-of-the-Art."](https://arxiv.org/abs/1908.00709) Journal of Machine Learning Research, 18(199), 1-66.

@@ -1,6 +1,7 @@
 ---
-title: "Swap Execution Facility: Purpose and Operation"
-description: "Swap Execution Facilities (SEFs) create a regulated and transparent environment for trading derivatives, enhancing market efficiency and reducing systemic risk."
+title: Swap Execution Facilities Ensuring Fair And Transparent Trading
+description: Swap Execution Facilities improve safety and transparency in swap trading
+  with CFTC pre-trade pricing and post-trade reporting Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Structural breaks"
-description: Explore how structural breaks influence algorithmic trading and the strategies to mitigate their impact. Learn about detecting these disruptions using machine learning and traditional methods to enhance trading performance and resilience in evolving financial markets.
+title: Structural Break Detection Methods for Time Series Analysis
+description: Structural breaks can undermine forecasts so this guide shows detection
+  techniques and adaptive modeling to boost prediction accuracy Discover more inside
 ---
 
 

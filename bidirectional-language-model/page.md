@@ -83,3 +83,15 @@ During fine-tuning, you use a technique called transfer learning. This means the
 Recent advancements in bidirectional language models have focused on making them more efficient and powerful. One big step forward is the development of models like RoBERTa, which is an improved version of BERT. RoBERTa uses more training data and trains for longer, making it better at understanding language. Another advancement is ALBERT, which is designed to be lighter and faster than BERT. ALBERT uses a technique called parameter sharing, which means it uses fewer resources to do the same job. These new models show that we can make bidirectional language models work better and faster, which is great for using them in more places.
 
 Another exciting area of research is in making these models more able to handle different languages. For example, the model called XLM-R (XLM-RoBERTa) can understand and work with many languages at once. This is really helpful for tasks like translating languages or answering questions in different languages. Researchers are also working on making these models more transparent and easier to understand. They are trying to figure out why the models make certain choices, which can help us trust them more and use them in safer ways. These advancements are helping bidirectional language models become even more useful and reliable.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[3]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv preprint arXiv:1907.11692.
+
+[4]: Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2019). ["ALBERT: A Lite BERT for Self-supervised Learning of Language Representations."](https://arxiv.org/abs/1909.11942) arXiv preprint arXiv:1909.11942.
+
+[5]: Conneau, A., Khandelwal, K., Goyal, N., Chaudhary, V., Wenzek, G., Guzmán, F., Grave, E., Ott, M., Zettlemoyer, L., & Stoyanov, V. (2020). ["Unsupervised Cross-lingual Representation Learning at Scale."](https://aclanthology.org/2020.acl-main.747/) arXiv preprint arXiv:1911.02116.

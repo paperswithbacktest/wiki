@@ -81,3 +81,25 @@ One notable case study where sharded data parallel methods significantly improve
 Another example comes from the field of computer vision, where researchers at Meta used ZeRO-Infinity to train a large-scale vision model. They had a model that was too big to fit into the memory of a single GPU, so they used ZeRO-Infinity to offload some of the model's data to the CPU and disk. This allowed them to train the model using fewer GPUs than they would have needed otherwise, saving on hardware costs. The training process was also faster because the GPUs were able to focus on the most important parts of the model, while the CPU and disk handled the rest. As a result, they were able to train a more complex and accurate model in less time, which improved the performance of their vision tasks.
 
 These examples show how sharded data parallel methods like ZeRO, ZeRO-Offload, and ZeRO-Infinity can make a big difference in training large-scale models. By splitting the model across multiple devices and using all available resources efficiently, these techniques allow researchers to train bigger and better models faster and with less hardware. This is important for advancing research in fields like natural language processing and computer vision, where large models are often needed to achieve state-of-the-art results.
+
+## References & Further Reading
+
+[1]: Rajbhandari, S., Rasley, J., Ruwase, O., & He, Y. (2020). ["ZeRO: Memory Optimizations Toward Training Trillion Parameter Models."](https://arxiv.org/abs/1910.02054) arXiv preprint arXiv:1910.02054.
+
+[2]: Ren, S., Gu, R., Zhang, L., Hsieh, C. J., & Zhuo, D. (2021). ["ZeRO-Offload: Democratizing Billion-Scale Model Training."](https://arxiv.org/abs/2101.06840) arXiv preprint arXiv:2101.06834.
+
+[3]: Narayanan, D., Santhanam, K., Pan, D., Phanishayee, A., & Zaharia, M. (2021). ["Efficient Large-Scale Language Model Training on GPU Clusters using Megatron-LM."](https://arxiv.org/abs/2104.04473) arXiv preprint arXiv:2104.04473.
+
+[4]: Shazeer, N., & Stern, M. (2018). ["Adafactor: Adaptive Learning Rates with Sublinear Memory Cost."](https://arxiv.org/abs/1804.04235) arXiv preprint arXiv:1804.04235.
+
+[5]: Sergeev, A., & Del Balso, M. (2018). ["Horovod: Fast and easy distributed deep learning in TensorFlow."](https://arxiv.org/abs/1802.05799) arXiv preprint arXiv:1802.05799.
+
+[6]: Rasley, J., Rajbhandari, S., Ruwase, O., & He, Y. (2021). ["DeepSpeed: System Optimizations Enable Training of Deep Learning Models with Over 100 Billion Parameters."](https://arxiv.org/abs/1910.02054) Proceedings of Machine Learning and Systems 2021.
+
+[7]: "Distributed Training of Deep Learning Models." (n.d.). [TensorFlow Guide](https://arxiv.org/pdf/2007.03970).
+
+[8]: Microsoft. (2021). ["Training Turing-NLG: A 17-billion-parameter language model by Microsoft."](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/).
+
+[9]: Rajbhandari, S., Ruwase, O., Rasley, J., & He, Y. (2021). ["ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning."](https://dl.acm.org/doi/10.1145/3458817.3476205) arXiv preprint arXiv:2104.07857.
+
+[10]: Paszke, A., Gross, S., Massa, F., & others. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library."](https://arxiv.org/abs/1912.01703) arXiv preprint arXiv:1912.01703.

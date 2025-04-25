@@ -81,3 +81,19 @@ Using anchor boxes makes object detection better because it helps the model gues
 Transfer learning can help make bounding box detection better in special areas by using what a model already knows from one task to help with another. Imagine you have a model that's really good at finding dogs in pictures. If you want to use this model to find specific types of dogs, like poodles or bulldogs, you can start with the dog-finding model and then train it a bit more with pictures of poodles and bulldogs. This way, the model doesn't have to learn everything from scratch. It can use what it already knows about dogs to quickly get better at finding poodles and bulldogs.
 
 Using transfer learning can save a lot of time and effort because you don't need as many pictures to train the model. For example, if you're trying to find rare animals like snow leopards, it might be hard to get a lot of pictures of them. But if you start with a model that's good at finding cats in general, you can train it with just a few pictures of snow leopards to make it work well. This makes the model more accurate and useful for special tasks where you might not have a lot of data to work with.
+
+## References & Further Reading
+
+[1]: Girshick, R. (2015). ["Fast R-CNN."](https://ieeexplore.ieee.org/document/7410526) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[2]: Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). ["You Only Look Once: Unified, Real-Time Object Detection."](https://ieeexplore.ieee.org/document/7780460) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) Proceedings of the European Conference on Computer Vision (ECCV).
+
+[4]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Advances in Neural Information Processing Systems (NeurIPS).
+
+[5]: Lin, T. Y., Dollar, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Everingham, M., Van Gool, L., Williams, C. K. I., Winn, J., & Zisserman, A. (2010). ["The Pascal Visual Object Classes (VOC) Challenge."](https://link.springer.com/article/10.1007/s11263-009-0275-4) International Journal of Computer Vision.
+
+[7]: Russell, B. C., Torralba, A., Murphy, K. P., & Freeman, W. T. (2008). ["LabelMe: A Database and Web-Based Tool for Image Annotation."](https://link.springer.com/article/10.1007/s11263-007-0090-8) International Journal of Computer Vision.

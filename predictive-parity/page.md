@@ -81,3 +81,17 @@ To evaluate these trade-offs, you can look at different measures of the model's 
 Future research in enhancing Predictive Parity in machine learning is focusing on developing new algorithms that can balance fairness and accuracy better. Scientists are working on methods like "fairness-aware learning," where the model is trained to treat all groups the same. For example, if group A is men and group B is women, the goal is to make sure $$PPV_A = PPV_B$$. This means the model's "yes" predictions should be correct at the same rate for both groups. Researchers are also exploring ways to use more data from underrepresented groups to train models, so they can learn to be fair to everyone. This can help fix biases in the data that might make the model unfair.
 
 Another direction is looking at how to measure and improve Predictive Parity without hurting the model's performance too much. Researchers are trying to find ways to adjust the model after it's been trained, a process called "post-processing," to make it fairer. They are also studying "adversarial training," where another model tries to spot when the main model is being unfair, helping the main model learn to treat all groups the same. By testing these new methods, scientists hope to find a good balance where the model can be both fair and accurate. This is important because fairness is key to making decisions that affect people's lives, and it helps build trust in the technology we use every day.
+
+## References & Further Reading
+
+[1]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29.
+
+[2]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) Proceedings of the 8th ACM Conference on Economics and Computation.
+
+[3]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://dl.acm.org/doi/abs/10.1145/3457607) ACM Computing Surveys.
+
+[4]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) fairmlbook.org. 
+
+[5]: Chouldechova, A. (2017). ["Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments."](https://pubmed.ncbi.nlm.nih.gov/28632438/) Big Data.
+
+[6]: Zafar, M. B., Valera, I., Rodriguez, M. G., & Gummadi, K. P. (2017). ["Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment."](https://arxiv.org/abs/1610.08452) Advances in Neural Information Processing Systems 30.

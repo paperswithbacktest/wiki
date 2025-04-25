@@ -81,3 +81,15 @@ Another case study involves the use of HITL in improving natural language proces
 In the future, Human In The Loop (HITL) is likely to become even more important in machine learning. One trend we might see is better tools for humans to give feedback to AI systems. These tools could make it easier for people to check and correct AI's work, even if they're not experts. Another trend could be using HITL to help AI learn from fewer examples. Right now, AI needs a lot of data to learn well, but with humans helping, it might be able to learn from less data. This would save time and money, making AI more useful in more places.
 
 Another potential advancement is making HITL work better with other new technologies, like augmented reality (AR) and virtual reality (VR). Imagine using AR glasses to see and fix what the AI is doing in real time. This could be really helpful in areas like surgery or car driving, where quick and accurate feedback is important. Also, as AI gets better at understanding human emotions and intentions, HITL could become more natural and easy. This means AI and humans could work together more smoothly, leading to smarter and more helpful AI systems in the future.
+
+## References & Further Reading
+
+[1]: Amershi, S., Cakmak, M., Knox, W. B., & Kulesza, T. (2014). ["Power to the People: The Role of Humans in Interactive Machine Learning."](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/2513) AI Magazine, 35(4).
+
+[2]: Holzinger, A. (2016). ["Interactive Machine Learning for Health Informatics: When do we need the human-in-the-loop?"](https://pubmed.ncbi.nlm.nih.gov/27747607/) Springer, Cham.
+
+[3]: Fails, J. A., & Olsen Jr, D. R. (2003). ["Interactive machine learning."](https://dl.acm.org/doi/abs/10.1145/604045.604056) Proceedings of the 8th International Conference on Intelligent User Interfaces.
+
+[4]: Tong, S., & Chang, E. (2001). ["Support vector machine active learning for image retrieval."](https://dl.acm.org/doi/10.1145/500141.500159) Proceedings 2001 IEEE International Conference on Computer Vision.
+
+[5]: Ratner, A., Bach, S., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2017). ["Snorkel: Rapid Training Data Creation with Weak Supervision."](https://arxiv.org/abs/1711.10160) Proceedings of the VLDB Endowment.

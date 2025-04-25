@@ -1,6 +1,7 @@
 ---
-title: "Support and Resistance Levels in Financial Markets"
-description: "Explore the critical role of support and resistance levels in algorithmic trading and how they aid in identifying market reversals for better trading strategies."
+title: Understanding Support and Resistance Levels in Trading
+description: Support and resistance levels guide traders by highlighting key price
+  floors and ceilings for better entry and exit decisions Discover more inside
 ---
 
 

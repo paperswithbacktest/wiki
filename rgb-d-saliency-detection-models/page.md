@@ -79,3 +79,15 @@ Another way to make UCNet better for a specific use is to make it faster. Some j
 One exciting direction for RGB-D saliency detection is to make the models work better in real-life situations. Right now, these models do well in tests, but they can have trouble when used in the real world. This is because the depth sensors can be affected by things like lighting or shiny surfaces, which can make the depth information less accurate. Researchers could work on making the models more robust to these kinds of problems. They could also try to make the models faster, so they can work in real-time for things like helping robots see or making self-driving cars safer. By focusing on these areas, RGB-D saliency detection could become more useful in everyday life.
 
 Another area for future research is to use new kinds of data along with RGB and depth information. For example, some cameras can also measure how things move or how warm they are. Adding this kind of information to the models could make them even better at finding what's important in a scene. Researchers could also look into using [artificial intelligence](/wiki/ai-artificial-intelligence) techniques like [reinforcement learning](/wiki/reinforcement-learning) to help the models learn from their mistakes and get better over time. By exploring these new ways of using data and learning, the field of RGB-D saliency detection could keep improving and finding new uses.
+
+## References & Further Reading
+
+[1]: Cong, R., Lei, J., Fu, H., et al. (2019). ["Review on Depth Saliency: Datasets, Methods and Challenges."](https://arxiv.org/pdf/1803.03391v1) Pattern Recognition, 91, 426-443.
+
+[2]: Zhao, J., Cao, Y., Pang, Y., Zhang, L., & Lu, H. (2020). ["Suppress and Balance: A Simple Gated Network for Salient Object Detection."](https://arxiv.org/abs/2007.08074) Pattern Recognition, 107.
+
+[3]: Peng, H., Zhang, B., Fu, H., & Xiao, J. (2014). ["RGBD Salient Object Detection: A Benchmark and Algorithms."](https://link.springer.com/chapter/10.1007/978-3-319-10578-9_7) In Proceedings of the European Conference on Computer Vision (ECCV).
+
+[4]: Wang, W., Shen, J., Lu, H. (2018). ["RGB-D Salient Object Detection with a Top-Down Recurrent Attention Network."](https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Wang_Salient_Object_Detection_CVPR_2018_paper.pdf) IEEE Transactions on Image Processing, 27(5), 2367-2375.
+
+[5]: Fan, D.-P., Cheng, M.-M., Liu, Y., Li, T., & Borji, A. (2017). ["Structure-Measure: A New Way to Evaluate Foreground Maps."](https://arxiv.org/abs/1708.00786) In Proceedings of the IEEE International Conference on Computer Vision (ICCV).

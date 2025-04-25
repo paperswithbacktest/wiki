@@ -1,6 +1,7 @@
 ---
-title: "Stocks with Large Bid-Ask Spread"
-description: "Discover the significance of bid-ask spreads in stock trading and how algorithmic strategies like high-frequency trading improve market liquidity and efficiency."
+title: Understanding Bid-Ask Spread in Stock Trading
+description: Bid-ask spread reveals the cost and liquidity of stock trades by showing
+  the gap between buy and sell prices Discover more inside
 ---
 
 

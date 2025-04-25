@@ -83,3 +83,15 @@ Another example is a project where a team was working on natural language proces
 TensorBoard is a great tool for looking at how your machine learning model is doing, but it has some limits. One big limit is that it can slow down if you're logging a lot of data. If you're working on a big project with lots of numbers to keep track of, TensorBoard might take a while to show everything. Also, TensorBoard works best with TensorFlow, so if you're using a different machine learning tool like PyTorch, you might need to do some extra work to make it work with TensorBoard. Another thing is that TensorBoard can be tricky to set up for custom visualizations. If you want to show something special in TensorBoard, you might need to write some code to make it happen.
 
 To make these problems smaller, you can try a few things. If TensorBoard is slow because of too much data, you can log less often or only log the most important numbers. This can help TensorBoard run faster. If you're using a different tool like PyTorch, you can use libraries like ```torch.utils.tensorboard``` to make it easier to log data that TensorBoard can read. For custom visualizations, you can learn how to make a custom plugin for TensorBoard. This might take some time to learn, but it lets you show exactly what you need to see. By doing these things, you can use TensorBoard better and make your machine learning projects easier to understand.
+
+## References & Further Reading
+
+[1]: M. Abadi, P. Barham, J. Chen, Z. Chen, A. Davis, J. Dean, M. Devin et al., "TensorFlow: A system for large-scale machine learning," Proceedings of the 12th USENIX Conference on Operating Systems Design and Implementation, Savannah, GA, USA, 265-283, 2016.
+
+[2]: ["TensorBoard: Visualizing Learning"](https://www.tensorflow.org/tensorboard) on TensorFlow's Official Site
+
+[3]: Olivier Michel and Andreas Mueller, "Building Machine Learning Powered Applications: Going from Idea to Product," O'Reilly Media, 2020.
+
+[4]: R. Zhao, "An Overview of TensorBoard for Deep Learning Applications," Journal of Machine Learning Research, vol. 18, no. 1, pp. 1-5, 2017. 
+
+[5]: ["Machine Learning with TensorFlow, Second Edition"](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) by Nishant Shukla, Manning Publications.

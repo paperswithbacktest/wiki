@@ -1,6 +1,7 @@
 ---
-title: "Stock Power: Functionality and Requirements"
-description: "Discover the functionalities and requirements of algo trading with insights into share transfer and stock power for efficient trading strategies in financial markets."
+title: Understanding Stock Power Forms for Efficient Share Transfers
+description: Stock power streamlines share ownership transfers with clear form requirements
+  signatures and submission steps clearly explained Discover more inside
 ---
 
 

@@ -85,3 +85,19 @@ Another way to evaluate the model is to use a "global evaluation" method. In thi
 One of the future trends in Federated Learning is making it work better with different kinds of devices. Right now, not all phones or computers can train models at the same speed because they're different. Researchers are working on ways to make sure that even the slowest devices can help improve the model without slowing everything down too much. They're also looking into how to make the model updates smaller, so they can be sent back and forth more easily. This could make Federated Learning faster and more useful for more people.
 
 Another important research direction is keeping the model fair and accurate for everyone. When different devices have different amounts of data, the model might learn more from some devices than others. This can make the model biased. Scientists are trying to find better ways to combine the updates from all the devices, like using the formula $$ w_{t+1} = \sum_{k=1}^{K} \frac{n_k}{n} w_k^t $$, where $$ w_{t+1} $$ is the new model, and the other terms represent how much each device contributes. They're also working on ways to make sure the model works well for everyone, even if some devices have more data than others. This is important for making sure Federated Learning is fair and useful for all kinds of users.
+
+## References & Further Reading
+
+[1]: Kairouz, P., McMahan, B., Avent, B., Bellet, A., Bennis, M., Bhagoji, A., ... & Zhao, H. (2019). ["Advances and Open Problems in Federated Learning."](https://arxiv.org/abs/1912.04977) arXiv preprint arXiv:1912.04977.
+
+[2]: Li, T., Sahu, A. K., Talwalkar, A., & Smith, V. (2020). ["Federated Learning: Challenges, Methods, and Future Directions."](https://ieeexplore.ieee.org/document/9084352) IEEE Signal Processing Magazine, 37(3), 50-60.
+
+[3]: Bonawitz, K., Eichner, H., Grieskamp, W., Huba, D., Ingerman, A., Ivanov, V., ... & Seth, K. (2019). ["Towards Federated Learning at Scale: System Design."](https://arxiv.org/abs/1902.01046) In Proceedings of the 2nd SysML Conference.
+
+[4]: Yang, Q., Liu, Y., & Chen, T. (2019). ["Federated Machine Learning: Concept and Applications."](https://arxiv.org/abs/1902.04885) ACM Transactions on Intelligent Systems and Technology, 10(2), 1-19.
+
+[5]: Yang, Q., Liu, Y., & Zhang, T. (2019). ["Federated Machine Learning: Concept and Applications."](https://arxiv.org/abs/1902.04885) ACM Transactions on Intelligent Systems and Technology, 10(2), 1-19.
+
+[6]: Google AI Blog. (2017). ["Federated Learning: Collaborative Machine Learning without Centralized Training Data."](https://research.google/blog/federated-learning-collaborative-machine-learning-without-centralized-training-data/)
+
+[7]: McMahan, H. B., Moore, E., Ramage, D., & Hampson, S. (2017). ["Communication-Efficient Learning of Deep Networks from Decentralized Data."](https://arxiv.org/abs/1602.05629) In Artificial Intelligence and Statistics (pp. 1273-1282). PMLR.

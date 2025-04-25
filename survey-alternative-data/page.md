@@ -1,6 +1,7 @@
 ---
-title: "Survey Alternative Data"
-description: Explore the transformative role of alternative data in algorithmic trading with insights into unique datasets from sources like satellite imagery and social media sentiment. Understand how these data types enhance market strategies by providing real-time insights into consumer behavior and market trends. This in-depth analysis covers the benefits, challenges, and application examples of alternative data in trading, helping traders optimize strategies and assess its potential for lasting impact in the financial ecosystem. Discover whether alternative data is a fleeting trend or a significant evolution in achieving trading success.
+title: Integrating Alternative Data to Enhance Survey Accuracy
+description: Alternative Data provides deeper survey insights by analyzing social
+  media sentiment and transactions to improve accuracy Discover more inside
 ---
 
 

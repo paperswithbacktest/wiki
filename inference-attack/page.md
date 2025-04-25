@@ -79,3 +79,19 @@ Another technique is called attribute inference attacks. In this type of attack,
 Current research trends in defending against inference attacks focus a lot on improving techniques like differential privacy. This method adds a bit of randomness to the model's training data or its outputs, making it harder for attackers to guess if certain data was used in training. Researchers are working on finding the right balance between adding enough noise to protect privacy and not making the model's predictions too inaccurate. Another trend is developing better regularization methods, like L2 regularization, to make the model's behavior more consistent across different inputs. This helps to prevent attackers from spotting differences in how the model reacts to familiar versus new data.
 
 Future directions in this field are looking at combining different defense strategies to create stronger protections. For example, researchers are exploring how to mix differential privacy with other techniques like adversarial training, where models are trained to be more robust against attacks. There's also a lot of interest in developing new ways to measure how well a model protects against inference attacks, so companies can better understand their risks. As machine learning keeps growing, finding new and better ways to keep data private will be really important to build trust and keep people's information safe.
+
+## References & Further Reading
+
+[1]: Shokri, R., Stronati, M., Song, C., & Shmatikov, V. (2017). ["Membership Inference Attacks Against Machine Learning Models."](https://arxiv.org/abs/1610.05820) Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security.
+
+[2]: Nasr, M., Shokri, R., & Houmansadr, A. (2019). ["Comprehensive Privacy Analysis of Deep Learning: Passive and Active White-box Inference Attacks against Centralized and Federated Learning."](https://ieeexplore.ieee.org/document/8835245) Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security.
+
+[3]: Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B., Mironov, I., Talwar, K., & Zhang, L. (2016). ["Deep Learning with Differential Privacy."](https://arxiv.org/abs/1607.00133) Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security.
+
+[4]: Fredrikson, M., Jha, S., & Ristenpart, T. (2015). ["Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures."](https://dl.acm.org/doi/10.1145/2810103.2813677) Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security.
+
+[5]: Dwork, C., & Roth, A. (2014). ["The Algorithmic Foundations of Differential Privacy."](https://dl.acm.org/doi/10.1561/0400000042) Foundations and Trends® in Theoretical Computer Science.
+
+[6]: Jaeger, J., Dang, Q., & Howe, B. (2019). ["Certified Robustness for `Deep Learning Involves Obtaining an Interval that Covers the Loss of Any Perturbed Loss Function Points"](https://www.imdb.com/es/title/tt1378167/fullcredits/) Preprint, under review at ICLR 2020.
+
+[7]: Thomas, R., De Cristofaro, E., & Martinelli, F. (2020). ["A Survey on the Security and Privacy Challenges of Machine Learning."](https://arxiv.org/abs/2005.08679) arXiv preprint arXiv:2007.12974.

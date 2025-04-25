@@ -83,3 +83,15 @@ A third technique is the use of adaptive optimization algorithms like Adam or RM
 In one case study, a team at a tech company was working on improving a recommendation system for an online shopping platform. They started with a basic model that used user behavior data to suggest products. However, the initial model's performance was not great, and it often recommended items that users were not interested in. The team decided to use an iterative approach with gradient descent to refine the model. They broke the data into smaller batches and used mini-batch gradient descent to train the model. Over many iterations, they adjusted the learning rate $$ \alpha $$ to find the right balance between speed and accuracy. After several rounds of iteration, the model's performance improved significantly, leading to more relevant product recommendations and higher user satisfaction.
 
 Another case study involved a healthcare company developing a model to predict patient readmissions. The initial model was trained on a large dataset but was overfitting, meaning it performed well on the training data but poorly on new data. The team implemented an iterative approach using cross-validation to assess the model's performance more accurately. They used k-fold cross-validation, where the data was split into k subsets, and the model was trained and tested k times, each time using a different subset for validation. This helped them identify when the model was overfitting and allowed them to use early stopping to halt the training at the right time. As a result, the model's ability to predict patient readmissions improved, helping the healthcare company better manage patient care and reduce unnecessary hospital stays.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent."](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) Proceedings of the 19th International Conference on Computational Statistics (COMPSTAT).
+
+[3]: Ruder, S. (2016). ["An overview of gradient descent optimization algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
+
+[4]: Ng, A. Y. (2004). ["Feature selection, L1 vs. L2 regularization, and rotational invariance."](https://dl.acm.org/doi/10.1145/1015330.1015435) Proceedings of the 21st International Conference on Machine Learning (ICML).
+
+[5]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.

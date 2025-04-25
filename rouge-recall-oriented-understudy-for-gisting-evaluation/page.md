@@ -83,3 +83,15 @@ Another alternative is BERTScore, which uses a smart model called BERT (Bidirect
 ROUGE can be added to a [machine learning](/wiki/machine-learning) pipeline for automatic summarization by using it to check how good the summaries are. After the machine learning model makes a summary, ROUGE compares it to human-written summaries. This helps the model learn to make better summaries over time. To do this, you would need to write code that takes the model's summary and the human summaries, then uses ROUGE to find scores like ROUGE-N, ROUGE-L, and ROUGE-S. These scores can be used to see how well the model is doing and to make changes to improve it.
 
 For example, you might use ROUGE scores as part of the model's training process. If the model's summaries get high ROUGE scores, it means they are similar to human summaries, so the model is doing well. If the scores are low, you might need to change the model or the way it learns. You can use these scores to adjust the model's settings or to try different ways of making summaries until you get better results. By using ROUGE in this way, you can keep improving the model to make summaries that are more like what a person would write.
+
+## References & Further Reading
+
+[1]: Lin, C.-Y. (2004). ["ROUGE: A Package for Automatic Evaluation of Summaries."](https://aclanthology.org/W04-1013/) In Text Summarization Branches Out: Proceedings of the ACL-04 Workshop.
+
+[2]: Ganesan, K. (2018). ["ROUGE 2.0: Updated and Improved Measures for Evaluation of Summaries."](https://arxiv.org/abs/1803.01937) In Proceedings of the First Workshop on Evaluation of Human Performance of NLP Systems.
+
+[3]: Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., & Artzi, Y. (2020). ["BERTScore: Evaluating Text Generation with BERT."](https://arxiv.org/abs/1904.09675) In International Conference on Learning Representations (ICLR).
+
+[4]: Papineni, K., Roukos, S., Ward, T., & Zhu, W.-J. (2002). ["BLEU: a Method for Automatic Evaluation of Machine Translation."](https://aclanthology.org/P02-1040/) In Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics (ACL).
+
+[5]: Banerjee, S., & Lavie, A. (2005). ["METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments."](https://aclanthology.org/W05-0909/) In Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization.

@@ -79,3 +79,17 @@ One way to add domain knowledge is by tweaking the reward system in reinforcemen
 In the future, we can expect board game models to get even better at playing games by using new machine learning techniques. One big area of growth will be in using more advanced reinforcement learning methods, like those used by AlphaZero and MuZero. These methods help the AI learn faster and handle more complex games. Researchers might also find ways to make the AI learn from fewer games, which would save time and computer power. Another exciting development could be the use of more domain knowledge. By adding what experts know about games, like special strategies or important moves, the AI can start playing at a high level right away. This could make the AI even stronger and more efficient.
 
 Another future trend might be in making board game models more flexible. Right now, models like AlphaZero need to know all the rules of a game before they start learning. But models like MuZero can learn the rules as they go, which is a big step forward. In the future, we might see even more models that can handle games with hidden information or changing rules. This would make the AI better at games like Poker or Settlers of Catan, where players don't know everything that's happening. By using techniques like $$UCT = \frac{w_i}{n_i} + C \sqrt{\frac{\ln N}{n_i}} + \text{domain\_bonus}$$ and other new ideas, board game models could become even smarter and more adaptable.
+
+## References & Further Reading
+
+[1]: Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., van den Driessche, G., ... & Hassabis, D. (2016). ["Mastering the game of Go with deep neural networks and tree search."](https://www.nature.com/articles/nature16961) Nature, 529(7587), 484-489.
+
+[2]: Schrittwieser, J., Antonoglou, I., Hubert, T., Simonyan, K., Sifre, L., Schmitt, S., ... & Silver, D. (2020). ["Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model."](https://arxiv.org/abs/1911.08265) Nature, 588(7839), 604-609.
+
+[3]: ["DeepMind AlphaZero: Video Series on How AlphaZero Learns to Play Chess, Shogi, and Go."](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/) DeepMind.
+
+[4]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT press.
+
+[5]: Tesauro, G. (1995). ["Temporal Difference Learning and TD-Gammon."](https://dl.acm.org/doi/10.1145/203330.203343) Communications of the ACM, 38(3), 58-68.
+
+[6]: Browne, C. B., Powley, E., Whitehouse, D., Lucas, S. M., Cowling, P. I., Rohlfshagen, P., ... & Colton, S. (2012). ["A Survey of Monte Carlo Tree Search Methods."](https://ieeexplore.ieee.org/abstract/document/6145622) Journal of Artificial Intelligence Research, 40, 663-704.

@@ -79,3 +79,25 @@ The significance of Expected Sarsa in off-policy TD control is that it helps the
 DeepCubeAI uses off-policy TD control to solve complex problems like the Rubik's Cube by learning from a lot of different moves, even ones it wouldn't normally try. It uses a method called Q-learning, where it keeps track of how good each move is in different situations. By using a neural network, DeepCubeAI can handle big and tricky problems that would be hard for regular computers. The Q-value update formula it uses is $$Q(s, a) \leftarrow Q(s, a) + \alpha \left[ r + \gamma \max_{a'} Q(s', a') - Q(s, a) \right]$$, where $$s$$ is the current situation, $$a$$ is the move it makes, $$r$$ is the reward it gets, $$s'$$ is the next situation, $$\alpha$$ is how fast it learns, and $$\gamma$$ is how much it cares about future rewards. This way, DeepCubeAI can learn from any move it tries, helping it find the best way to solve the puzzle faster.
 
 The key to DeepCubeAI's success is that it can learn from a wide range of experiences, which is what off-policy TD control is all about. Instead of just following its current plan, DeepCubeAI can try out different moves and learn from them. This makes it really good at solving hard puzzles because it can keep improving its strategy even if it tries moves that don't work out. By using off-policy learning, DeepCubeAI can explore all kinds of possibilities and figure out the best way to solve the Rubik's Cube, showing how powerful this method can be for solving complex problems.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) 2nd Edition, MIT Press.
+
+[2]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[3]: van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep Reinforcement Learning with Double Q-Learning."](https://arxiv.org/abs/1509.06461) In Proceedings of the 30th AAAI Conference on Artificial Intelligence.
+
+[4]: Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2016). ["Prioritized Experience Replay."](https://arxiv.org/abs/1511.05952) In International Conference on Learning Representations.
+
+[5]: Wang, Z., Schaul, T., Hessel, M., van Hasselt, H., Lanctot, M., & de Freitas, N. (2016). ["Dueling Network Architectures for Deep Reinforcement Learning."](https://arxiv.org/abs/1511.06581) In Proceedings of the 33rd International Conference on Machine Learning.
+
+[6]: Hessel, M., Modayil, J., Van Hasselt, H., Schaul, T., Ostrovski, G., Dabney, W., ... & Silver, D. (2018). ["Rainbow: Combining Improvements in Deep Reinforcement Learning."](https://ojs.aaai.org/index.php/AAAI/article/view/11796) In Proceedings of the 32nd AAAI Conference on Artificial Intelligence.
+
+[7]: Bellemare, M. G., Dabney, W., & Munos, R. (2017). ["A Distributional Perspective on Reinforcement Learning."](https://arxiv.org/abs/1707.06887) In Proceedings of the 34th International Conference on Machine Learning.
+
+[8]: Fortunato, M., Azar, M. G., Piot, B., Menick, J., Osband, I., Graves, A., ... & Blundell, C. (2018). ["Noisy Networks for Exploration."](https://arxiv.org/abs/1706.10295) In Proceedings of the International Conference on Learning Representations.
+
+[9]: Pohlen, T., Piot, B., Hessel, M., Soyer, H., Anthony, T., Rekatheva, A., ... & Silver, D. (2018). ["Applet: Asynchronous Prioritized Experience Replay."](https://dl.acm.org/doi/10.5555/3524938.3525809) Proceedings of the 26th International Conference on Neural Information Processing Systems.
+
+[10]: Agostinelli, F., McAleer, S., Shmakov, A., & Baldi, P. (2019). ["Solving the Rubik's Cube with Deep Reinforcement Learning and Search."](https://deepcube.igb.uci.edu/static/files/SolvingTheRubiksCubeWithDeepReinforcementLearningAndSearch_Final.pdf) Nature Machine Intelligence.

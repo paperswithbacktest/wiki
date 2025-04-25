@@ -1,6 +1,7 @@
 ---
-title: "Store of Value: Characteristics and Examples"
-description: "Explore the characteristics and examples of store of value assets including precious metals real estate and cryptocurrencies in algorithmic trading strategies"
+title: Understanding Store Of Value Principles And Examples
+description: Store of value assets protect savings by combining durability scarcity
+  and divisibility while mitigating inflation and market risks. Discover more inside.
 ---
 
 

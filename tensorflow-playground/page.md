@@ -81,3 +81,15 @@ Another limitation is that TensorFlow Playground doesn't let you save or load mo
 The knowledge gained from TensorFlow Playground can be applied to real-world machine learning projects by helping you understand the basics of how neural networks work. For example, you learn about different activation functions like ReLU and tanh, and how they affect the network's learning. This understanding can guide you in choosing the right activation function for your specific problem when you're building a real neural network. You also learn about the importance of the learning rate and how it affects the training process. In a real project, you can use this knowledge to set an appropriate learning rate that helps your network learn quickly without overshooting the best solution.
 
 Moreover, TensorFlow Playground teaches you about overfitting and underfitting, which are common challenges in machine learning. By experimenting with different network architectures and regularization techniques, you get a feel for how to balance the complexity of your network to avoid these issues. In real-world projects, you can apply these lessons to design networks that generalize well to new data, using techniques like L1 and L2 regularization to prevent overfitting. Overall, the hands-on experience with TensorFlow Playground provides a solid foundation that you can build upon when working with more complex data sets and advanced neural network models in full-scale TensorFlow environments.
+
+## References & Further Reading
+
+[1]: Smilkov, D., Thorat, N., Nicholson, C., Reif, E., Viégas, F. B., & Wattenberg, M. (2017). ["TensorFlow.js: Machine Learning for the Web."](https://arxiv.org/abs/1611.05469) Proceedings of the 24th International Conference on Intelligent User Interfaces (IUI '19), 437-438.
+
+[2]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[3]: Nielsen, M. A. (2015). ["Neural Networks and Deep Learning."](http://neuralnetworksanddeeplearning.com/) Determination Press.
+
+[4]: Geron, A. (2017). ["Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) O'Reilly Media.
+
+[5]: ["CS231n: Convolutional Neural Networks for Visual Recognition"](https://cs231n.github.io/convolutional-networks/) - Stanford University Course offering a comprehensive introduction to neural networks, including practical applications with TensorFlow.

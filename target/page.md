@@ -81,3 +81,21 @@ On the other hand, if you don't do good feature engineering, the model might mis
 One advanced method for optimizing the target variable in complex machine learning models is using techniques like target encoding. This method turns categorical variables into numbers that can help the model predict the target variable better. For example, if you're trying to predict house prices and one of your features is the neighborhood, you can use target encoding to give each neighborhood a number based on the average price of houses in that area. This helps the model see the relationship between neighborhoods and prices more clearly, which can lead to better predictions. You can do target encoding by calculating the mean of the target variable for each category and then using those means as new features.
 
 Another advanced method is using ensemble techniques to improve predictions. Ensemble methods combine the predictions of multiple models to get a better overall prediction. For example, you might use a technique called "stacking," where you train several different models and then use another model to combine their predictions. This can help capture different patterns in the data and make more accurate predictions about the target variable. By using ensemble methods, you can make sure that your model is not missing any important patterns and is using all the information available to predict the target variable as well as possible.
+
+## References & Further Reading
+
+[1]: Géron, A. (2019). [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.
+
+[2]: Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[3]: Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. H. (2009). [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[5]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning: with Applications in R](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer. 
+
+[6]: Kuhn, M., & Johnson, K. (2013). [Applied Predictive Modeling](https://link.springer.com/book/10.1007/978-1-4614-6849-3). Springer.
+
+[7]: Aggarwal, C. C. (2015). [Data Mining: The Textbook](https://link.springer.com/book/10.1007/978-3-319-14142-8). Springer.
+
+[8]: Domingos, P. (2015). [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World](https://www.redalyc.org/pdf/6380/638067264018.pdf). Basic Books.

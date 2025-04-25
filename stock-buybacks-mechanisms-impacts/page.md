@@ -1,6 +1,7 @@
 ---
-title: "Stock Buybacks: Mechanisms and Impacts"
-description: "Explore the mechanisms and impacts of stock buybacks and algorithmic trading to enhance investment performance by strategically timing buybacks and optimizing trades."
+title: Understanding the Impact of Stock Buybacks on Company Value
+description: Stock buybacks boost EPS and signal undervaluation but can affect taxes
+  and debt levels Evaluate metrics to weigh risks and benefits Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Stock Ticker: Mechanism and History"
-description: "Explore the history and evolution of stock tickers and algorithmic trading Learn how these innovations revolutionized financial markets and trading strategies"
+title: Understanding Stock Tickers From Origins To Modern Technology
+description: Stock ticker delivers real time market symbols and prices while tracing
+  its evolution from Edisons invention to modern digital feeds Discover more inside
 ---
 
 

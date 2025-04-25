@@ -81,3 +81,15 @@ Another strategy is to use [data augmentation](/wiki/data-augmentation) and synt
 Different [machine learning](/wiki/machine-learning) frameworks have their own ways to handle or address Training-Serving Skew. For example, TensorFlow uses TensorFlow Extended (TFX) to help manage the entire machine learning pipeline, from data ingestion to model serving. TFX includes tools like the Transform component, which helps make sure that the preprocessing steps used during training are the same as those used during serving. This reduces the chance of skew by keeping the data processing consistent. Also, TensorFlow Model Analysis (TFMA) in TFX can help detect skew by comparing model performance across different slices of data, making it easier to spot and fix any issues.
 
 Another popular framework, PyTorch, addresses Training-Serving Skew through its ecosystem and tools like PyTorch Lightning. PyTorch Lightning helps manage complex models and can include data preprocessing steps that are applied uniformly during both training and serving. This consistency helps minimize skew. Additionally, tools like Evidently can be used with PyTorch to monitor model performance and data drift, which helps in detecting when the serving data starts to differ from the training data. By using these tools and frameworks, developers can better manage and mitigate Training-Serving Skew, ensuring their models remain accurate and effective in real-world applications.
+
+## References & Further Reading
+
+[1]: Breck, E., Kokku, P., Polyzotis, N., Roy, S., & Whang, S. E. (2019). ["Data Validation for Machine Learning."](https://mlsys.org/Conferences/2019/doc/2019/167.pdf) Proceedings of the 2nd SysML Conference.
+
+[2]: Polyzotis, N., et al. (2018). ["Data Management Challenges in Production Machine Learning."](https://dl.acm.org/doi/10.1145/3035918.3054782) Proceedings of the 2018 International Conference on Management of Data.
+
+[3]: Casado, L. G., Lorido-Botran, T., & Murphy, L. (2020). ["Understanding Existing Tools and Methodologies to Prevent Training-Serving Skew."](https://www.researchgate.net/publication/351244519_Adaptive_Container_Scheduling_in_Cloud_Data_Centers_A_Deep_Reinforcement_Learning_Approach) IEEE, 23rd Euromicro Conference on Digital System Design (DSD).
+
+[4]: Sculley, D., et al. (2015). ["Hidden Technical Debt in Machine Learning Systems."](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf) Advances in Neural Information Processing Systems 28.
+
+[5]: Grosse, R., Brockman, G. (2015). ["TensorFlow for Real-World Problems: Reducing Model-Serving Discrepancies."](https://towardsdatascience.com/model-compression-a-look-into-reducing-model-size-8251683c338e/) Tensorflow Extended Guide.

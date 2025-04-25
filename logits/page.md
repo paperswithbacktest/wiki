@@ -79,3 +79,15 @@ Another misconception is that negative logits mean the model is wrong. Negative 
 Temperature scaling is a way to change how logits work in a neural network. Imagine logits as scores that the network gives to different choices before turning them into probabilities. Temperature scaling lets us make these scores more or less spread out by using a number called the temperature. If the temperature is high, the scores become more even, making the model less sure about its guesses. If the temperature is low, the scores become more different, making the model more sure about its guesses. This can help make the model's predictions better by adjusting how confident it is.
 
 To use temperature scaling, we change the softmax function a little bit. The new formula for the softmax with temperature scaling is $$ \text{softmax}(x_i / T) = \frac{e^{x_i / T}}{\sum_{j} e^{x_j / T}} $$, where $T$ is the temperature. If $T$ is bigger than 1, the model's predictions become softer and more spread out. If $T$ is smaller than 1, the predictions become sharper and more focused. By choosing the right temperature, we can make the model more accurate and reliable.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[4]: Bridle, J. S. (1989). "Probabilistic Interpretation of Feedforward Classification Network Outputs, with Relationships to Statistical Pattern Recognition." *Neurocomputing*, 68-74.
+
+[5]: Tomczak, J. M. (2018). ["Softmax](https://pubmed.ncbi.nlm.nih.gov/28941550/)," in *Iconix Machine Learning Programming Series*.

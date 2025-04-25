@@ -120,3 +120,15 @@ One way to improve Adagrad is to use a technique called Adadelta. Adadelta uses 
 Adagrad works really well when you're dealing with data where some features show up less often but are still important. For example, in text data, some words might not appear a lot but carry a lot of meaning. Adagrad helps the model pay more attention to these rare words by changing the learning rate for each parameter based on how much it has changed in the past. The way it does this is by keeping track of the sum of the squares of the gradients for each parameter. The update rule for parameter $$i$$ at time step $$t$$ is $$\theta_{t,i} = \theta_{t-1,i} - \frac{\eta}{\sqrt{G_{t,i} + \epsilon}} g_{t,i}$$. This means that if a parameter hasn't changed much, Adagrad will give it a bigger learning rate so it can learn faster.
 
 Adagrad is especially useful in natural language processing tasks where words or phrases might appear very rarely but still carry important meaning. By giving more attention to these rare features, Adagrad can help the model learn more effectively and achieve better results. However, Adagrad can run into a problem where the learning rate gets smaller and smaller over time. This happens because Adagrad keeps adding up the squares of the gradients for each parameter. As this sum gets bigger, the learning rate gets smaller, which can slow down learning. So, while Adagrad is great for sparse data, it might not be the best choice for every type of problem.
+
+## References & Further Reading
+
+[1]: Duchi, J., Hazan, E., & Singer, Y. (2011). ["Adaptive Subgradient Methods for Online Learning and Stochastic Optimization."](https://jmlr.org/papers/volume12/duchi11a/duchi11a.pdf) Journal of Machine Learning Research, 12: 2121-2159.
+
+[2]: Ruder, S. (2016). ["An overview of gradient descent optimization algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
+
+[3]: Zeiler, M. D. (2012). ["ADADELTA: An adaptive learning rate method."](https://arxiv.org/abs/1212.5701) arXiv preprint arXiv:1212.5701.
+
+[4]: Tieleman, T., & Hinton, G. (2012). ["Lecture 6.5—RMSProp: Divide the gradient by a running average of its recent magnitude."](https://scholar.google.com/citations?user=YGGcq5EAAAAJ&hl=en) COURSERA: Neural Networks for Machine Learning.
+
+[5]: Kingma, D. P., & Ba, J. L. (2015). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) International Conference on Learning Representations.

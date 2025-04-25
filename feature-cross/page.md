@@ -109,3 +109,15 @@ Another method is to use automated feature selection algorithms like Recursive F
 Recent research in the field of feature crosses has focused on improving the efficiency and effectiveness of these techniques in large-scale machine learning models. One notable development is the use of deep learning to automatically generate and optimize feature crosses. For example, researchers have explored [neural network](/wiki/neural-network) architectures that can learn to combine features in ways that traditional manual methods might miss. These models can identify complex interactions between features without the need for explicit feature engineering, making them particularly useful in applications like recommendation systems and natural language processing where the relationships between features can be highly non-linear.
 
 Another area of research is the integration of feature crosses with advanced statistical methods to better understand their impact on model performance. Techniques like Bayesian optimization have been used to systematically search for the best feature crosses in a given dataset. This approach helps in identifying which combinations of features are most likely to improve the model's predictive power, reducing the need for extensive manual testing. By combining these advanced methods, researchers aim to make feature crosses more accessible and effective, even for those without deep expertise in machine learning.
+
+## References & Further Reading
+
+[1]: Potdar, K., Pardawala, T. S., & Pai, C. D. (2017). ["A Comparative Study of Categorical Variable Encoding Techniques for Neural Network Classifiers."](https://www.ijcaonline.org/archives/volume175/number4/potdar-2017-ijca-915495.pdf) International Journal of Computer Applications, 175(4).
+
+[2]: Guo, C., & Berkhahn, F. (2016). ["Entity Embeddings of Categorical Variables."](https://arxiv.org/abs/1604.06737) arXiv preprint arXiv:1604.06737.
+
+[3]: Rendle, S. (2010). ["Factorization machines."](https://ieeexplore.ieee.org/document/5694074) IEEE International Conference on Data Mining.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (1st Ed.). Manning Publications.
+
+[5]: He, H., Zhang, Y., & Zhang, M. (2014). ["Data Mining with Big Data."](https://www.sciencedirect.com/science/article/pii/S0020025514000346) IEEE Transactions on Knowledge and Data Engineering, 26(1), 97-107.

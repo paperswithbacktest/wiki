@@ -85,3 +85,19 @@ Another important part of ongoing monitoring is keeping an eye on the data that 
 Researchers are working on new ways to understand and fix implicit bias in machine learning. One big area of study is developing better fairness metrics. These are tools that help us see if a model is treating everyone fairly. For example, researchers are looking at how to measure something called "disparate impact," which checks if a model's decisions unfairly affect different groups. They are also working on new ways to measure how accurate a model is for different groups of people. By improving these metrics, researchers hope to make it easier to spot and fix bias in machine learning models.
 
 Another important area of research is creating new algorithms that can help reduce bias. Some researchers are working on fairness-aware algorithms, which are designed to make sure a model's decisions are fair for everyone. For example, they might use techniques like reweighting, where the model pays more attention to examples from underrepresented groups during training. Other researchers are looking at ways to change the model after it's been trained to make it fairer. By developing these new algorithms, researchers aim to build machine learning models that work well for everyone, no matter who they are.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) fairmlbook.org.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys.
+
+[3]: Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). ["Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations."](https://pubmed.ncbi.nlm.nih.gov/31649194/) Science.
+
+[4]: Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). ["Machine Bias."](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) ProPublica.
+
+[5]: Chouldechova, A. (2017). ["Fair prediction with disparate impact: A study of bias in recidivism prediction instruments."](https://pubmed.ncbi.nlm.nih.gov/28632438/) Big Data.
+
+[6]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) arXiv:1609.05807 [cs.LG].
+
+[7]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness Through Awareness."](https://arxiv.org/abs/1104.3913) Proceedings of the 3rd Innovations in Theoretical Computer Science Conference.

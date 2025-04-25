@@ -1,6 +1,7 @@
 ---
-title: "S&P 500 Index Overview"
-description: "Explore the significance of the S&P 500 index for U.S. equity performance and understand how algorithmic trading is reshaping investment strategies globally."
+title: Comprehensive Overview of the S&P 500 Index for Investors
+description: S&P 500 Index breakdown reveals market cap weighting, performance trends
+  and portfolio benefits to guide your investment Discover more inside.
 ---
 
 

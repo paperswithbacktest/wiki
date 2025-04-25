@@ -81,3 +81,15 @@ On the other hand, ZCA whitening tries to keep the data looking as similar as po
 To evaluate the effectiveness of whitening on a given dataset, you can look at how the data's covariance matrix changes. Before whitening, the features in your data might be related to each other and have different amounts of variance. After whitening, the goal is to make the features independent and have the same variance. You can check this by calculating the covariance matrix of the whitened data. If it looks like the identity matrix $$I$$, then the whitening worked well. The identity matrix means that all the off-diagonal elements are zero, showing that the features are not related, and the diagonal elements are all 1, showing that the features have the same variance.
 
 Another way to evaluate the effectiveness of whitening is to see how it affects the performance of your machine learning model. Whitening should make the data easier for the model to learn from. You can train your model with both the original and the whitened data and then compare how well the model does. If the model performs better with the whitened data, like having higher accuracy or learning faster, then whitening was effective. Sometimes, you might also want to look at how whitening changes the data visually. For example, if you're working with images, you can see if the whitened images still look like the original ones. If they do, and the model performs better, then ZCA whitening might be a good choice. If the images look too different but the model still does well, PCA whitening could be more suitable.
+
+## References & Further Reading
+
+[1]: Hyvärinen, A., & Oja, E. (2000). ["Independent Component Analysis: Algorithms and Applications"](https://www.sciencedirect.com/science/article/pii/S0893608000000265). Neural Networks, 13(4-5), 411-430.
+
+[2]: Bell, A. J., & Sejnowski, T. J. (1997). ["The 'Independent Components' of Natural Scenes are Edge Filters"](https://www.sciencedirect.com/science/article/pii/S0042698997001211). Vision Research, 37(23), 3327-3338.
+
+[3]: Kessy, A., Lewin, A., & Strimmer, K. (2018). ["Optimal Whitening and Decorrelation"](https://arxiv.org/abs/1512.00809). The R Journal, 10(1), 312-326.
+
+[4]: Shlens, J. (2014). ["A Tutorial on Principal Component Analysis"](https://arxiv.org/abs/1404.1100). arXiv:1404.1100.
+
+[5]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.

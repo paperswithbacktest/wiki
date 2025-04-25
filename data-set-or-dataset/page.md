@@ -87,3 +87,21 @@ Another way to normalize data is by using standardization. This method changes t
 One advanced technique to enhance dataset utility in [deep learning](/wiki/deep-learning) is transfer learning. Imagine you have already trained a model to recognize objects in pictures, like cats and dogs. Instead of starting from scratch, you can use what this model has learned to help you train a new model for a different but related task, like recognizing different types of birds. By using the knowledge from the first model, your new model can learn faster and with less data. This is especially useful when you don't have a lot of data for your new task, because the model can use what it already knows to make better guesses.
 
 Another technique is using generative adversarial networks (GANs) for data augmentation. GANs are like two models that work together. One model tries to create new, fake data that looks real, while the other model tries to tell if the data is real or fake. Over time, the first model gets better at making realistic data, and the second model gets better at spotting fakes. You can use the realistic fake data created by the first model to make your dataset bigger and more varied. This can help your deep learning model learn better because it sees more examples, which can lead to better performance on new data.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Cortes, C., & Burges, C. (1998). ["The MNIST Database of Handwritten Digits."](https://ieeexplore.ieee.org/document/6296535) The MNIST Database.
+
+[2]: Deng, J., Dong, W., Socher, R., Li, L., Li, K., & Fei-Fei, L. (2009). ["ImageNet: A Large-Scale Hierarchical Image Database."](https://ieeexplore.ieee.org/document/5206848) 2009 IEEE Conference on Computer Vision and Pattern Recognition.
+
+[3]: Krizhevsky, A., & Hinton, G. (2009). ["Learning Multiple Layers of Features from Tiny Images."](https://www.researchgate.net/publication/265748773_Learning_Multiple_Layers_of_Features_from_Tiny_Images) Technical Report, University of Toronto.
+
+[4]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[7]: Russakovsky, O., Deng, J., Su, H., et al. (2015). ["ImageNet Large Scale Visual Recognition Challenge."](https://arxiv.org/abs/1409.0575) International Journal of Computer Vision, 115(3), 211–252.
+
+[8]: Shorten, C., & Khoshgoftaar, T. M. (2019). ["A Survey on Image Data Augmentation for Deep Learning."](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0) PLOS ONE, 14(5).

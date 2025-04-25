@@ -81,3 +81,21 @@ To reduce bias, it's crucial to use diverse data when training models. This mean
 Ensemble methods can help manage bias in machine learning by combining the predictions of multiple models. Imagine you have a few friends who are good at guessing how much a house will cost, but each friend might be a little biased. One friend might always guess too high, while another might guess too low. If you take the average of all their guesses, you might get a better prediction because the biases of each friend can cancel each other out. In machine learning, this is like using different models that might have different biases and combining their predictions to get a more accurate and less biased result.
 
 One popular ensemble method is called "bagging," where you train many models on different parts of the data and then combine their predictions. For example, if you're trying to predict house prices, you might split your data into different groups and train a model on each group. Then, you take the average of all the models' predictions to get your final guess. This can help reduce bias because each model might learn something different from its part of the data, and combining them can give you a more balanced view. By using ensemble methods, you can build machine learning models that are less biased and more fair for everyone.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) A comprehensive guide to the domain of fairness in machine learning.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys, 54(6), 1-35.
+
+[3]: Chouldechova, A., & Roth, A. (2020). ["A snapshot of the frontiers of fairness in machine learning."](https://dl.acm.org/doi/10.1145/3376898) Annual Review of Statistics and Its Application, 7, 89-118.
+
+[4]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) Proceedings of the 8th Innovations in Theoretical Computer Science Conference (ITCS 2017).
+
+[5]: Bolukbasi, T., Chang, K., Zou, J., Saligrama, V., & Kalai, A.T. (2016). ["Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings."](https://arxiv.org/abs/1607.06520) Advances in Neural Information Processing Systems (NeurIPS 2016), 30.
+
+[6]: Mitchell, T.M. (1997). ["Machine Learning."](https://www.cs.cmu.edu/~tom/mlbook.html) McGraw-Hill Science/Engineering/Math.
+
+[7]: Pedreschi, D., Ruggieri, S., & Turini, F. (2009). ["Discrimination-aware data mining."](https://dl.acm.org/doi/10.1145/1401890.1401959) Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[8]: Zafar, M.B., Valera, I., Rodriguez, M.G., & Gummadi, K.P. (2017). ["Fairness constraints: Mechanisms for fair classification."](https://arxiv.org/abs/1507.05259) Proceedings of the 20th International Conference on Artificial Intelligence (AAAI '17).

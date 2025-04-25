@@ -79,3 +79,15 @@ Another future development could be using leadership inference in more places, l
 Organizations can integrate leadership inference models into their existing systems by first collecting the right data. This means gathering information from emails, performance reviews, and other communication tools that the company already uses. The data needs to be cleaned and prepared so that the model can learn from it. Then, the organization can use this data to train the leadership inference model. This might involve working with data scientists or using software that can handle machine learning tasks. Once the model is trained, it can be added to the company's systems, like HR software, to help predict who might be a good leader.
 
 After integrating the model, it's important to keep it up to date. Leadership styles and company cultures can change, so the model needs to keep learning from new data. This means regularly updating the model with fresh information and checking its predictions to make sure they are still accurate. The organization can also use the model's insights to create leadership development programs or to help choose people for leadership roles. By doing this, the company can make better decisions about who to promote and how to help employees grow into leaders.
+
+## References & Further Reading
+
+[1]: Bertsch, S., & Herbst, P. (2019). ["Applying Machine Learning to Leadership Training: Leadership Reinforcement by Identifying Deficient Leadership Behaviors and Providing Prescriptive Feedback."](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-025-06809-0) Journal of Applied Social Psychology, 49(1), 56-64.
+
+[2]: Mathieu, J. E., Neumann, G. A., Hare, A., & Babiak, P. (2006). ["The Impact of Predictively Valid Leadership Attributes on Team Performance."](https://www.sciencedirect.com/science/article/pii/S0191886913013688) Group & Organization Management, 31(6), 845-878.
+
+[3]: Dinh, J. E., Lord, R. G., Gardner, W. L., Meuser, J. D., Liden, R. C., & Hu, J. (2014). ["Leadership Theory and Research in the New Millennium: Current Theoretical Trends and Changing Perspectives."](https://www.sciencedirect.com/science/article/pii/S1048984313001203) The Academy of Management Annals, 8(1), 155-210.
+
+[4]: Gagnon, M. A., & Collinson, D. L. (2014). ["Rethinking Global Leadership Development Programs."](https://www.researchgate.net/publication/262809451_Rethinking_Global_Leadership_Development_Programmes_The_Inter-related_Significance_of_Power_Context_and_Identity) Leadership & Organization Development Journal, 35(3), 72-92.
+
+[5]: Avolio, B. J., Sosik, J. J., Jung, D. I., & Berson, Y. (2003). ["Leadership Models, Methods, and Applications: Progress and Remaining Blind Spots."](https://psycnet.apa.org/record/2003-04689-012) The Leadership Quarterly, 14(1), 3-34.

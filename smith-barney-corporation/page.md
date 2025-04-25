@@ -1,6 +1,7 @@
 ---
-title: "Smith Barney Corporation"
-description: "Discover the evolution of Smith Barney Corporation from its origins in 1873 to its pivotal merger with Morgan Stanley, highlighting its role in algorithmic trading."
+title: Smith Barney Corporation History and Evolution Through Mergers
+description: Smith Barney Corporation shaped modern wealth management through key
+  mergers and enduring services now under Morgan Stanley Discover more inside.
 ---
 
 

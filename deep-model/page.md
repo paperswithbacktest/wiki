@@ -81,3 +81,21 @@ In natural language processing, deep models like Recurrent Neural Networks (RNNs
 One current trend in deep model research is the focus on making models smaller and faster while keeping their performance high. This is important for using deep models on devices like phones or in places where there isn't a lot of computing power. Researchers are working on techniques like pruning, which means cutting out parts of the model that aren't very important, and quantization, which means using smaller numbers to do the math. Another big trend is in self-supervised learning, where models learn from data without needing labels. This is helpful because it means you don't need as much labeled data to train a model, which can be expensive and hard to get. For example, a model might learn to predict the next word in a sentence or the missing part of an image, and this helps it understand the data better.
 
 Another important direction is in the development of more explainable and ethical AI. As deep models become more common in important areas like healthcare or finance, it's crucial to understand how they make decisions and make sure they are fair and unbiased. Researchers are working on ways to explain what the models are doing, like showing which parts of an image or text the model is focusing on. They're also looking at how to make sure the models don't learn or show biases from the data they're trained on. In the future, we can expect to see more work on combining different types of deep models, like using both CNNs and Transformers together, to solve more complex problems. There's also a lot of interest in using deep models for new areas, like drug discovery or climate modeling, where they could help find new solutions to big problems.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[3]: Schmidhuber, J. (2015). ["Deep learning in neural networks: An overview."](https://www.sciencedirect.com/science/article/pii/S0893608014002135) Neural Networks, 61, 85-117.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[5]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[7]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[8]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.

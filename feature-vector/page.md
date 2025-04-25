@@ -81,3 +81,25 @@ When you use PCA, you start with your original feature vectors and transform the
 In [deep learning](/wiki/deep-learning), creating and optimizing feature vectors often involves using neural networks to learn complex patterns from raw data. One advanced method is using convolutional neural networks (CNNs) for tasks like image recognition. CNNs can automatically extract important features from images, turning them into feature vectors that capture details like edges and textures. For example, if you're trying to identify different types of animals in photos, a CNN can learn to focus on features like the shape of ears or the pattern of fur, creating feature vectors that help the model tell one animal from another. Another method is using recurrent neural networks (RNNs) for sequential data like text or time series. RNNs can process data over time, learning to create feature vectors that capture the context and relationships between different parts of the sequence.
 
 Optimization of feature vectors in deep learning often involves techniques like transfer learning and fine-tuning. Transfer learning is when you use a pre-trained model, like one trained on a large dataset of images, and then adjust it for your specific task. For example, if you have a model trained on general images and you want to use it to recognize specific types of flowers, you can take the feature vectors the model has learned and fine-tune them on your flower dataset. This helps because the model already knows how to extract useful features from images, so you can focus on making those features better for your specific needs. Fine-tuning involves adjusting the weights of the [neural network](/wiki/neural-network) to improve the feature vectors for your task, often using techniques like backpropagation to minimize the error in your predictions. By doing this, you can create and optimize feature vectors that are tailored to your specific deep learning problem.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975). O'Reilly Media.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python"](https://dl.acm.org/doi/10.5555/1953048.2078195). Journal of Machine Learning Research, 12, 2825-2830.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[7]: Witten, I. H., Frank, E., Hall, M. A., & Pal, C. J. (2016). ["Data Mining: Practical Machine Learning Tools and Techniques"](https://www.sciencedirect.com/book/9780123748560/data-mining-practical-machine-learning-tools-and-techniques). Morgan Kaufmann.
+
+[8]: Pearl, J. (2009). ["Bayesian Networks: A Model of Self-Activated Memory for Evidential Reasoning"](https://escholarship.org/uc/item/0vr7830n). Artificial Intelligence Journal.
+
+[9]: ["Feature Selection for Machine Learning"](https://www.ibm.com/think/topics/feature-selection) by Jason Brownlee, Machine Learning Mastery.
+
+[10]: Van der Maaten, L., & Hinton, G. (2008). ["Visualizing Data using t-SNE"](https://jmlr.org/papers/v9/vandermaaten08a.html). Journal of Machine Learning Research, 9, 2579-2605.

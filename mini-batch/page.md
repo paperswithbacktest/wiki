@@ -97,3 +97,19 @@ optimizer = tf.keras.optimizers.Adam(learning_rate=learning_rate)
 ```
 
 This code sets up an exponential decay schedule for the learning rate and uses it with the Adam optimizer. By integrating learning rate scheduling with mini-batch learning, you can help your model train better and reach its best performance.
+
+## References & Further Reading
+
+[1]: Ruder, S. (2016). ["An overview of gradient descent optimization algorithms."](https://arxiv.org/abs/1609.04747) arXiv:1609.04747.
+
+[2]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent."](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) In Proceedings of COMPSTAT'2010.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press. (See Chapters 8 and 9 for optimization details).
+
+[4]: Dean, J., Corrado, G., Monga, R., Chen, K., Devin, M., Le, Q. V., ... & Ng, A. Y. (2012). ["Large Scale Distributed Deep Networks."](https://dl.acm.org/doi/10.5555/2999134.2999271) Advances in Neural Information Processing Systems 25. 
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press. (Chapter 7 discusses various optimization techniques).
+
+[6]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv:1412.6980.
+
+[7]: Bengio, Y. (2012). ["Practical recommendations for gradient-based training of deep architectures."](https://arxiv.org/abs/1206.5533) arXiv preprint arXiv:1206.5533.

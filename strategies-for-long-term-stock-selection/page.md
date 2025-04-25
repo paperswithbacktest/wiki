@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Long-Term Stock Selection"
-description: "Discover effective strategies for long-term stock selection with a focus on blending traditional fundamental analysis and modern algorithmic trading techniques."
+title: Essential Principles of Long-Term Stock Investing Strategy
+description: Long-term stock investing builds wealth by applying fundamental analysis
+  diversification and indicators for consistent growth Discover more inside
 ---
 
 

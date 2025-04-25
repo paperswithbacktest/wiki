@@ -1,6 +1,7 @@
 ---
-title: "Splinterlands Blockchain Game"
-description: "Explore Splinterlands a blockchain-based card game that merges NFT card ownership with strategic gameplay. Earn and trade assets seamlessly across platforms."
+title: Splinterlands Blockchain Card Game Overview and Strategies
+description: Splinterlands guides you through team building card trading and earning
+  Dark Energy Crystals in a secure blockchain game environment Discover more inside
 ---
 
 

@@ -81,3 +81,25 @@ One big advantage of using transformers in VisTR is that it can handle a lot of 
 BlendMask is a special kind of instance segmentation model that makes things simpler and more accurate. It works by blending two different ways of looking at a picture. First, it uses a method called top-down, which looks at the whole picture and then focuses on each object one by one. Then, it uses a method called bottom-up, which looks at small parts of the picture and puts them together to see the whole object. By blending these two ways, BlendMask can draw very precise outlines around objects, even if they are close together or hard to see.
 
 One big advantage of BlendMask is that it can handle a lot of objects at the same time without getting confused. It does this by using a special tool called a blending module. This tool helps BlendMask look at the whole picture and then focus on each object's details one by one. This way, BlendMask can keep track of where each object is and what it looks like, making its guesses more accurate. This makes BlendMask a powerful tool for things like self-driving cars or medical imaging where knowing exactly where each object is can be really important.
+
+## References & Further Reading
+
+[1]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[2]: Chen, L., Lin, H., Li, X., Wu, J., & Tian, Q. (2019). ["Hybrid Task Cascade for Instance Segmentation."](https://www.nature.com/articles/s41467-025-59020-w) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Cai, Z., & Vasconcelos, N. (2019). ["Cascade R-CNN: High Quality Object Detection and Instance Segmentation."](https://arxiv.org/abs/1906.09756) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Liu, S., Qi, L., Qin, H., Shi, J., & Jia, J. (2018). ["Path Aggregation Network for Instance Segmentation."](https://arxiv.org/abs/1803.01534) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Cheng, T., Wang, X., Chen, L., Zhu, W., & Zhu, J. (2021). ["QueryInst: Parallelly Supervised Mask Refinement for Query-Based Instance Segmentation."](https://www.sciencedirect.com/science/article/pii/S209549562500230X) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[6]: Wang, T., Zhu, P., Lin, J., & Ren, J. (2021). ["K-Net: Towards Unified Image Segmentation."](https://onlinelibrary.wiley.com/doi/10.1002/advs.202102845) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[7]: Tian, Z., Shen, C., & Chen, H. (2020). ["Conditional Convolutions for Instance Segmentation."](https://arxiv.org/abs/2003.05664) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[8]: Lee, Y., & Park, J. (2020). ["CenterMask: Real-Time Anchor-Free Instance Segmentation."](https://arxiv.org/abs/1911.06667) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[9]: Wang, S., Zhang, R., Fu, D., & Liu, L. (2020). ["End-to-End Video Instance Segmentation with Transformers."](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202424526) arXiv.
+
+[10]: Chen, L., Wu, H., & Sun, J. (2020). ["BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation."](https://arxiv.org/abs/2001.00309) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).

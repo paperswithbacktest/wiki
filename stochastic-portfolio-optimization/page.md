@@ -1,6 +1,7 @@
 ---
-title: "Stochastic portfolio optimization"
-description: "Explore the role of stochastic portfolio optimization in algorithmic trading using statistical methods to enhance investment strategies while managing risk effectively."
+title: Stochastic Portfolio Optimization for Dynamic Investment Planning
+description: Stochastic portfolio optimization uses probabilistic modeling and scenario
+  analysis to balance risk and return in uncertain markets Discover more inside
 ---
 
 

@@ -83,3 +83,15 @@ The process of style transfer involves using neural networks to learn the featur
 In the future, we can expect Font Generation Models to become even better at making fonts that look like they were made by human designers. They might use new kinds of machine learning techniques, like more advanced versions of Generative Adversarial Networks (GANs) or other new ideas, to capture the small details and styles of different fonts more accurately. This could mean that the fonts they make will be hard to tell apart from real ones, even to expert designers. Also, these models might learn to make fonts faster and with less data, making them easier and cheaper to use.
 
 Another thing we might see is Font Generation Models becoming more personalized. They could learn from just a few examples of someone's handwriting or a favorite font and then make a whole new font that looks just like it. This would be great for people who want to make things like custom greeting cards, personal stationery, or unique gifts. The models might also get better at understanding what people want and making fonts that fit their needs perfectly, making them even more useful for designers and anyone who needs special fonts.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). ["Generative Adversarial Networks."](https://arxiv.org/abs/1406.2661) arXiv preprint arXiv:1406.2661.
+
+[2]: Kingma, D. P., & Welling, M. (2013). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[3]: Azadi, S., Fisher, M., Kim, V., Wang, Z., Shechtman, E., & Darrell, T. (2018). ["Multi-Content GAN for Few-Shot Font Style Transfer."](https://arxiv.org/abs/1712.00516) Advances in Neural Information Processing Systems, 31.
+
+[4]: Odena, A., Olah, C., & Shlens, J. (2017). ["Conditional Image Synthesis with Auxiliary Classifier GANs."](https://dl.acm.org/doi/10.5555/3305890.3305954) Proceedings of the 34th International Conference on Machine Learning, PMLR 70.
+
+[5]: Yang, Z., Zhang, Y., & Jin, Z. (2019). ["FontRNN: Generating Large-scale Fonts via Multi-stage Visual Coherence."](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13861) Pattern Recognition, 96.

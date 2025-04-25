@@ -79,3 +79,17 @@ It's also a good idea to test your model thoroughly before putting it into produ
 Keras is built to work well with other [machine learning](/wiki/machine-learning) frameworks, especially TensorFlow. It's like a friendly helper that sits on top of TensorFlow, making it easier to build and train models without getting lost in the details. When you use Keras, you're actually using TensorFlow behind the scenes. This means you can take advantage of all the powerful tools and features that TensorFlow offers, like its ability to run on different types of hardware or use its pre-trained models. To use Keras with TensorFlow, you just need to install TensorFlow, and then you can start using Keras right away. For example, you can import Keras like this: ```from tensorflow import keras```. This way, Keras uses TensorFlow as its backend, making it easy to switch between the two.
 
 Keras also makes it simple to use other parts of TensorFlow, like its data processing tools or its visualization features. If you want to use TensorFlow's data pipeline, you can create a dataset and feed it into your Keras model. For example, you might use ```import tensorflow as tf; dataset = tf.data.Dataset.from_tensor_slices((X_train, y_train)); dataset = dataset.batch(32)``` to prepare your data, and then train your Keras model with ```model.fit(dataset, epochs=10)```. This integration makes it easy to use the best parts of both frameworks together, helping you build and deploy powerful machine learning models more efficiently.
+
+## References & Further Reading
+
+[1]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438). Manning Publications.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975). O'Reilly Media.
+
+[3]: Brownlee, J. (2018). ["Deep Learning for Computer Vision"](https://books.google.com/books/about/Deep_Learning_for_Computer_Vision.html?id=DOamDwAAQBAJ). Machine Learning Mastery.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[5]: Abadi, M., et al. (2016). ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems"](https://arxiv.org/abs/1603.04467). arXiv preprint.
+
+[6]: Chollet, F. et al. (2015). ["Keras"](https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1887532). GitHub Repository.

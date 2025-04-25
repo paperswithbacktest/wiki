@@ -1,6 +1,7 @@
 ---
-title: "Sudden Economic Stop: Implications and Mechanisms"
-description: "Explore the complexities of algorithmic trading during economic crises and sudden stops analyzing impacts on market stability and proposing strategic solutions."
+title: Understanding Sudden Economic Stops and Their Impacts
+description: Sudden economic stop disrupts capital inflows raises unemployment Discover
+  causes and policy remedies to boost resilience Discover more
 ---
 
 

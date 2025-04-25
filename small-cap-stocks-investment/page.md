@@ -1,6 +1,7 @@
 ---
-title: "Small-Cap Stocks as an Investment"
-description: "Explore the world of small-cap stocks and algorithmic trading in today's dynamic financial markets. Discover the growth potential and risks of investing in small-cap companies with market capitalizations between $300 million to $2 billion. Learn how algorithmic trading leverages cutting-edge technology to enhance trading efficiency while understanding the associated risks. This comprehensive guide provides insights into maximizing returns and navigating the complexities of small-cap stocks and algorithmic strategies."
+title: Understanding Small-Cap Stocks Risks And Growth Potential
+description: Small-Cap Stocks deliver potent growth by targeting emerging companies
+  while outlining key risks liquidity and tax implications Discover more inside.
 ---
 
 

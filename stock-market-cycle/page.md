@@ -1,6 +1,7 @@
 ---
-title: "Stock Market Cycle"
-description: "Explore stock market cycles and refine your investment strategy with insights into market phases and algorithmic trading to optimize returns and manage risk."
+title: Understanding Stock Market Cycle Phases and Investor Strategies
+description: Stock market cycle phases shape investment timing and risk management
+  with clear indicators, forecasting insights and expert analysis Discover more inside.
 ---
 
 

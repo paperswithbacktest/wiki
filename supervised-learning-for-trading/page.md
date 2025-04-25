@@ -1,6 +1,7 @@
 ---
-title: "Supervised Learning for Trading"
-description: "Unlock algorithmic trading potential with supervised learning Explore regression and classification methods to enhance market prediction and strategy accuracy"
+title: Supervised Learning Strategies for Predictive Stock Trading
+description: Supervised learning in trading applies past market data and advanced
+  algorithms to predict stock movements for smarter decisions Discover more inside
 ---
 
 

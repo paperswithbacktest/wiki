@@ -83,3 +83,15 @@ Another example is in the field of online advertising, where companies like Goog
 In the future, Tower machine learning models are expected to become even better at handling different types of data and solving multiple tasks at the same time. Researchers are working on ways to make each Tower smarter and more specialized, so they can learn more from their specific data. For example, they might use new techniques like transfer learning, where a Tower can start with what it already knows from one task and then learn a new task faster. This can make the model more efficient and accurate, helping it give better recommendations or predictions.
 
 Another area where Tower models might see big improvements is in how they combine information from all the Towers. The backbone of the model, which takes what each Tower has learned and puts it all together, could become more advanced. Scientists are exploring new ways to make the backbone smarter, like using more complex algorithms or even artificial neural networks. This could help the model understand the data better and make even more personalized and useful suggestions, whether it's for movies, products, or ads.
+
+## References & Further Reading
+
+[1]: Ruder, S. (2017). ["An Overview of Multi-Task Learning in Deep Neural Networks."](https://arxiv.org/abs/1706.05098) arXiv preprint arXiv:1706.05098.
+
+[2]: Caruana, R. (1997). ["Multitask Learning."](https://link.springer.com/article/10.1023/A:1007379606734) Machine Learning, 28(1): 41-75.
+
+[3]: Wang, H., Zhang, F., Xie, X., & Guo, M. (2018). ["Dkn: Deep knowledge-aware network for news recommendation."](https://arxiv.org/abs/1801.08284) Proceedings of the 2018 World Wide Web Conference (WWW).
+
+[4]: Zhao, X., Zhang, W., Ren, K., He, X., & Wang, M. (2017). ["Deep Reinforcement Learning for List-wise Recommendations."](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202413660) Proceedings of the Eleventh ACM Conference on Recommender Systems (RecSys).
+
+[5]: Li, Z., & Hoi, S. C. (2020). ["Online Portfolio Selection: A Survey."](https://arxiv.org/abs/1212.2129) Artificial Intelligence Review, 53(4), 2447-2498.

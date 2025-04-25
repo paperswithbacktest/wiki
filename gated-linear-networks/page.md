@@ -79,3 +79,15 @@ Compared to other deep learning models, GLNs are easier to understand and interp
 Recent advancements in Gated Linear Networks (GLNs) include improvements in how they handle long sequences of data. Researchers have found new ways to set up the gates and layers to make GLNs even better at understanding complex patterns. For example, they've developed G-GLNs, which use two gates instead of one. The output of a G-GLN neuron can be described by the formula $$y = g_{\text{outer}} \cdot (g_{\text{inner}} \cdot (w \cdot x))$$, where $$x$$ is the input, $$w$$ is the weights, $$g_{\text{inner}}$$ is the inner gate's output, and $$g_{\text{outer}}$$ is the outer gate's output. This double gating helps the network focus even more on what's important, making it more effective at tasks like natural language processing and time series prediction.
 
 The future of GLNs looks promising. As more people learn about how GLNs work and what they're good at, we might see them used in more industries and for more types of tasks. Researchers are also working on making GLNs easier to set up and use, so that even people who aren't experts in [machine learning](/wiki/machine-learning) can use them. With these advancements, GLNs could become a powerful tool for understanding and predicting complex data patterns, helping in areas like healthcare, finance, and technology.
+
+## References & Further Reading
+
+[1]: Cahill, Nathan D., and Santos, Sergio O. (2020). ["Gated Linear Networks: A Leave-One-Out Approach to Online Regression."](https://scholar.google.com/citations?user=O7uS3IUAAAAJ&hl=en) arXiv:2006.06590.
+
+[2]: Danihelka, Ivo, Wayne, Greg, Uria, Benigno, Kalchbrenner, Nal, and Graves, Alex. (2016). ["Associative Long Short-Term Memory."](https://arxiv.org/abs/1602.03032) arXiv:1602.03032.
+
+[3]: Hochreiter, Sepp, and Schmidhuber, Jürgen. (1997). ["Long Short-Term Memory."](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) Neural Computation, 9(8), 1735-1780.
+
+[4]: Cho, Kyunghyun, Van Merriënboer, Bart, Bahdanau, Dzmitry, and Bengio, Yoshua. (2014). ["On the Properties of Neural Machine Translation: Encoder–Decoder Approaches."](https://arxiv.org/abs/1409.1259) arXiv:1409.1259.
+
+[5]: Orabona, Francesco, and Crammer, Koby. (2010). ["New Adaptive Algorithms for Online Learning."](https://papers.nips.cc/paper/by-source-2010-995) Journal of Machine Learning Research, 12, 2933-2981.

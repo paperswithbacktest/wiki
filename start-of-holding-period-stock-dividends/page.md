@@ -1,6 +1,7 @@
 ---
-title: "Start of Holding Period for Stock Dividends"
-description: "Explore how holding periods and dividends affect stock dividends in algorithmic trading Learn about optimizing returns managing risks and tax implications"
+title: Understanding Stock Dividend Holding Period and Tax Implications
+description: Stock dividend holding period shapes tax treatment and capital gains
+  classification by defining cost basis and sale timing Discover more inside.
 ---
 
 

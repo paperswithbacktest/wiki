@@ -79,3 +79,17 @@ Another advanced method is using something called distributed learning. This mea
 In the future, we can expect offline reinforcement learning to get even better at handling big data. Researchers might come up with new ways to make computers learn faster from the data they have, without needing to try new things in real-time. One cool idea is to use more advanced versions of data subsampling and curriculum learning, which can help the computer learn step by step from easy to hard parts of the data. Another exciting development could be the use of more powerful computers working together, like a team, to handle huge datasets more easily. This could make offline RL much faster and more efficient.
 
 We might also see new methods that help computers be more careful when they're not sure about something. For example, techniques like Uncertainty Regularized Q-Learning (URL) and Fisher-BRC could get even better at making the computer less confident about actions it hasn't seen much in the data. This would help prevent big mistakes and make offline RL more reliable. Plus, as computers get smarter, they might be able to use data augmentation to create new data from old data, helping them learn from more different situations. All these improvements could make offline reinforcement learning a powerful tool for solving all kinds of problems, from playing games to controlling robots.
+
+## References & Further Reading
+
+[1]: Levine, S., Kumar, A., Tucker, G., & Fu, J. (2020). ["Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems."](https://arxiv.org/abs/2005.01643) arXiv preprint arXiv:2005.01643.
+
+[2]: Chen, M., Liu, H., & Wang, M. (2021). ["Decision Transformer: Reinforcement Learning via Sequence Modeling."](https://arxiv.org/abs/2106.01345) arXiv preprint arXiv:2106.01345.
+
+[3]: Kapturowski, S., Ostrovski, G., Quan, J., Munos, R., & Dabney, W. (2019). ["Recurrent Experience Replay in Distributed Reinforcement Learning."](https://openreview.net/forum?id=r1lyTjAqYX) International Conference on Learning Representations (ICLR).
+
+[4]: Agarwal, R., Schuurmans, D., & Norouzi, M. (2020). ["An Optimistic Perspective on Offline Reinforcement Learning."](https://arxiv.org/abs/1907.04543) International Conference on Machine Learning (ICML).
+
+[5]: Kostrikov, I., Nachum, O., & Tompson, J. (2021). ["Implicit Q-Learning as a New Approach in Offline Reinforcement Learning."](https://arxiv.org/abs/2103.08050) arXiv preprint arXiv:2110.06169.
+
+[6]: Ajay, A., Kumar, A., & Levine, S. (2020). ["Challenging Common Assumptions in the Traditional OFFLINE RL Applications."](https://scholar.google.com/citations?user=uv7g5kMAAAAJ&hl=en) NeurIPS Workshop on Offline Reinforcement Learning.

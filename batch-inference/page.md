@@ -79,3 +79,17 @@ Updating a model during batch inference can be tricky, but it's doable. Let's sa
 To improve batch inference efficiency, one key technique is to use parallel processing. This means you can split your data into smaller chunks and process them at the same time on different computers or processors. Tools like Apache Spark are great for this because they can handle big data and spread the work across many machines. By doing this, you can make your batch inference run much faster. Another technique is to use hardware like GPUs, which are really good at doing a lot of calculations quickly. If you use a GPU, your model can process data in batches much faster than with a regular CPU.
 
 Another advanced technique is to optimize how you load and preprocess your data. If you can load your data into memory quickly and preprocess it efficiently, you can speed up the whole batch inference process. For example, using caching can help by keeping frequently used data in a fast memory space. You can also use techniques like data compression to make your data smaller and easier to move around. By focusing on these parts of the pipeline, you can make sure your batch inference runs smoothly and quickly, even with a lot of data.
+
+## References & Further Reading
+
+[1]: Zaharia, M., Chowdhury, M., Das, T., Dave, A., Ma, J., McCauley, M., ... & Stoica, I. (2012). ["Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing."](https://dl.acm.org/doi/10.5555/2228298.2228301) In 9th {USENIX} Symposium on Networked Systems Design and Implementation ({NSDI} 12) (pp. 15-28).
+
+[2]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A system for large-scale machine learning."](https://arxiv.org/abs/1603.04467) In 12th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 16) (pp. 265-283).
+
+[3]: Meng, X., Bradley, J., Yavuz, B., Sparks, E., Venkataraman, S., Liu, D., ... & Zaharia, M. (2016). ["MLlib: Machine learning in Apache Spark."](https://arxiv.org/abs/1505.06807) Journal of Machine Learning Research, 17(1), 1235-1241.
+
+[4]: Ghemawat, S., Gobioff, H., & Leung, S. T. (2003). ["The Google file system."](https://dl.acm.org/doi/10.1145/1165389.945450) ACM SIGOPS operating systems review, 37(5), 29-43.
+
+[5]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: simplified data processing on large clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) Communications of the ACM, 51(1), 107-113.
+
+[6]: Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). ["Densely connected convolutional networks."](https://ieeexplore.ieee.org/document/8099726) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4700-4708).

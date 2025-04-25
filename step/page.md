@@ -1,7 +1,7 @@
 ---
-title: Understanding Step Learning in Machine Learning Models
-description: Step Learning lets you optimize models one parameter update by balancing
-  learning rate and gradient steps to improve accuracy Discover more inside
+title: Understanding Step Updates in Machine Learning Training
+description: Step learning uses gradient descent to update model parameters in small
+  increments to improve performance on diverse tasks Discover more inside
 ---
 
 ![Image](images/1.webp)
@@ -121,3 +121,19 @@ Despite its simplicity, Step learning can still be effective when used correctly
 In the future, we can expect Step machine learning to become even more efficient and adaptable. One exciting development might be the creation of new adaptive learning rate methods that are even better than current ones like Adam and RMSprop. These new methods could help models learn faster and more accurately by adjusting the learning rate in smarter ways. For example, instead of using a simple formula like $$ w = w - \alpha \cdot \nabla L(w) $$, where $$ w $$ are the weights, $$ \alpha $$ is the learning rate, and $$ \nabla L(w) $$ is the gradient of the loss function, these new methods might use more complex rules to change the learning rate based on the model's performance and the data it's learning from.
 
 Another area of future development could be in making Step learning work better with very large datasets. Right now, techniques like mini-batch gradient descent help, but new methods might be developed to process data even more efficiently. This could involve new ways of splitting data into smaller chunks or using special hardware like GPUs to speed up the learning process. By making Step learning faster and more adaptable, these future developments could help solve even more complex problems and make machine learning more accessible to everyone.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent,"](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) Proceedings of COMPSTAT'2010.
+
+[3]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv:1412.6980.
+
+[4]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv:1609.04747.
+
+[5]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444. 
+
+[6]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron
+
+[7]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.

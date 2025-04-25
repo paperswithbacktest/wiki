@@ -79,3 +79,15 @@ Another technique is using adaptive learning rates, like in algorithms such as A
 To evaluate the performance of a machine learning model that uses a Weighted Sum, you need to see how well it makes predictions. Imagine you're trying to guess how much you'll like a movie based on its rating, length, and genre. You give the model some examples of movies you've seen and how much you liked them. Then, you let the model guess how much you'll like new movies. By comparing the model's guesses to what you actually think, you can see if the model is doing a good job. One common way to measure this is by using the mean squared error (MSE), which is the average of the squares of the differences between the model's guesses and the actual values. The formula for MSE is $$ \text{MSE} = \frac{1}{n} \sum_{i=1}^n (y_i - \hat{y}_i)^2 $$, where $y_i$ is the actual value and $\hat{y}_i$ is the model's guess. A smaller MSE means the model's guesses are closer to the actual values, which means the model is doing better.
 
 Another way to evaluate the model is by looking at how well it works on new examples it hasn't seen before. This is important because the model might do well on the examples it's learned from but not as well on new ones. This is called overfitting. To check for overfitting, you can split your data into two parts: a training set and a test set. You use the training set to teach the model and adjust the weights, and then you use the test set to see how well the model guesses on new examples. If the model's guesses are good on both the training set and the test set, it's a sign that it's doing well overall. If the model does much better on the training set than the test set, it might be overfitting, and you might need to use techniques like regularization to help it make better guesses on new examples.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Haykin, S. (2009). ["Neural Networks and Learning Machines."](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf) 3rd Edition. Pearson.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) 2nd Edition. MIT Press.

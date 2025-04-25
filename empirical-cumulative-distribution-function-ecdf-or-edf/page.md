@@ -371,3 +371,15 @@ plt.show()
 ```
 
 This method can help in identifying data points that are unusually far from others, indicating potential anomalies. By using these advanced techniques, the ECDF becomes a powerful tool for specialized applications in machine learning, allowing for deeper insights and more accurate models.
+
+## References & Further Reading
+
+[1]: Conover, W. J. (1999). ["Practical Nonparametric Statistics,"](https://openlibrary.org/books/OL349282M/Practical_nonparametric_statistics) 3rd Edition. Wiley.
+
+[2]: Feller, W. (1968). ["An Introduction to Probability Theory and Its Applications,"](https://archive.org/details/dli.ernet.5666) Volume 1, 3rd Edition. Wiley.
+
+[3]: Hyndman, R. J., & Athanasopoulos, G. (2018). ["Forecasting: Principles and Practice,"](https://otexts.com/fpp3/) 2nd Edition. OTexts.
+
+[4]: Massey, F. J. (1951). ["The Kolmogorov-Smirnov Test for Goodness of Fit."](https://www.tandfonline.com/doi/abs/10.1080/01621459.1951.10500769) Journal of the American Statistical Association, 46(253), 68-78.
+
+[5]: D'Agostino, R. B., & Stephens, M. A. (1986). ["Goodness-of-Fit Techniques."](https://www.taylorfrancis.com/books/edit/10.1201/9780203753064/goodness-fit-techniques-ralphb-agostino) Marcel Dekker.

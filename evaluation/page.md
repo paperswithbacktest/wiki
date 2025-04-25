@@ -90,3 +90,17 @@ A third technique is the use of confusion matrices for classification tasks. A c
 To compare the performance of multiple machine learning models effectively, you need to use the right evaluation metrics for your task. For example, if you're sorting things into groups, like telling if an email is spam or not, you might look at accuracy, precision, recall, and the F1 score. Accuracy tells you how often the model gets it right overall, calculated as $$ \text{Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}} $$. Precision shows how many of the things you said were in a group actually belong there, while recall shows how many of the things that should be in a group you actually found. The F1 score is a mix of precision and recall, giving you a balanced view of how well the model is doing. By looking at these metrics for each model, you can see which one does the best job.
 
 For tasks where you're trying to guess numbers, like predicting house prices, you might use Mean Squared Error (MSE) and R-squared. MSE measures how far off your guesses are from the real numbers, squared so bigger mistakes count more. It's calculated as $$ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 $$. R-squared tells you how well your model's guesses fit the real data compared to just using the average. A higher R-squared means your model is doing a better job. You can also use techniques like cross-validation to get a more reliable comparison. Cross-validation involves splitting your data into several parts and training and testing your models multiple times with different parts left out for testing each time. This helps you see if your models are consistent and not just good at guessing on one specific part of the data. By comparing these metrics and using these techniques, you can pick the best model for your needs.
+
+## References & Further Reading
+
+[1]: Kohavi, R., & John, G. H. (1995). ["Automatic Parameter Selection by Minimizing Estimated Error."](https://www.sciencedirect.com/science/article/pii/B9781558603776500451) In Machine Learning: ECML-95 (pp. 304-313). Springer, Berlin, Heidelberg.
+
+[2]: Witten, I. H., Frank, E., Hall, M. A., & Pal, C. J. (2016). ["Data Mining: Practical Machine Learning Tools and Techniques."](https://www.sciencedirect.com/book/9780123748560/data-mining-practical-machine-learning-tools-and-techniques) Morgan Kaufmann.
+
+[3]: Powers, D. M. (2011). ["Evaluation: From precision, recall and F-measure to ROC, informedness, markedness and correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer. 
+
+[6]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

@@ -96,3 +96,21 @@ Another challenge is making sure the generator doesn't just memorize the data bu
 Recent innovations in generator-based machine learning have focused a lot on making better images and videos. One cool trend is using something called "style-based generators," which can mix different styles to make really cool pictures. For example, a generator can take a picture of a cat and make it look like it's painted in the style of Picasso. This is done using a technique called "style transfer," where the generator learns to separate the content from the style and then combine them in new ways. Another big trend is making videos that look real. Researchers are working on generators that can create whole videos from just a few frames, using techniques like "temporal GANs" to make sure the video looks smooth and natural over time.
 
 Another exciting area of research is using generators to make new data for other machine learning models. This is called "data augmentation," and it helps when you don't have a lot of data to train your models. Generators can make new pictures, sounds, or even text that look and sound real, which can be used to train other models better. For example, if you're trying to teach a model to recognize different types of dogs, a generator can make more pictures of dogs to help the model learn. Researchers are also looking into making generators more efficient, so they can work faster and use less computer power. This involves techniques like "progressive growing of GANs," where the generator starts with simple images and slowly adds more details, making the final image look much better.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Radford, A., Metz, L., & Chintala, S. (2015). ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](https://arxiv.org/abs/1511.06434) arXiv preprint arXiv:1511.06434.
+
+[3]: Karras, T., Laine, S., & Aila, T. (2017). ["A Style-Based Generator Architecture for Generative Adversarial Networks."](https://arxiv.org/abs/1812.04948) arXiv preprint arXiv:1812.04948.
+
+[4]: Odena, A., Olah, C., & Shlens, J. (2017). ["Conditional Image Synthesis with Auxiliary Classifier GANs."](https://dl.acm.org/doi/10.5555/3305890.3305954) Proceedings of the International Conference on Machine Learning.
+
+[5]: Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A., & Chen, X. (2016). ["Improved Techniques for Training GANs."](https://arxiv.org/abs/1606.03498) Advances in Neural Information Processing Systems 29.
+
+[6]: Wang, T.C., Liu, M.Y., Zhu, J.Y., Tao, A., Kautz, J., & Catanzaro, B. (2018). ["High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs."](https://arxiv.org/abs/1711.11585) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[7]: Zhang, H., Xu, T., Li, H., Zhang, S., Wang, X., Huang, X., & Metaxas, D. (2017). ["StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks."](https://ieeexplore.ieee.org/document/8237891) Proceedings of the IEEE International Conference on Computer Vision.
+
+[8]: Brown, T.B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J.D., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.

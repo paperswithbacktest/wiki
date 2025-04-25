@@ -83,3 +83,15 @@ However, trigrams alone might not be enough for very accurate speech recognition
 Current research trends in trigram applications for [machine learning](/wiki/machine-learning) focus on improving the accuracy and flexibility of language models. One trend is the integration of trigrams with neural networks to capture more complex language patterns. For example, researchers are using trigrams as part of the input to neural networks, which can then understand the broader context of a sentence. This helps in tasks like speech recognition and text prediction, making the models more accurate by considering not just the immediate three words but also the overall structure of the text.
 
 Another trend is the use of advanced smoothing techniques to handle rare or unseen trigrams more effectively. Techniques like Kneser-Ney smoothing are being refined to better estimate the probability of new trigrams. This is crucial for languages with flexible word orders or for handling large datasets where certain trigrams might be rare. By improving these smoothing methods, researchers aim to make trigram-based models more robust and adaptable to different linguistic contexts.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2021). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) (3rd ed.). Prentice Hall.
+
+[2]: Manning, C. D., Raghavan, P., & Schütze, H. (2009). ["Introduction to Information Retrieval"](https://nlp.stanford.edu/IR-book/information-retrieval-book.html). Cambridge University Press.
+
+[3]: Chen, S. F., & Goodman, J. (1999). ["An Empirical Study of Smoothing Techniques for Language Modeling."](https://www.sciencedirect.com/science/article/pii/S0885230899901286) Computer Speech & Language, 13(4), 359-394.
+
+[4]: Mikolov, T., et al. (2010). ["Recurrent neural network based language model."](https://gwern.net/doc/ai/nn/rnn/2010-mikolov.pdf) INTERSPEECH.
+
+[5]: Brown, P. F., Della Pietra, V. J., deSouza, P. V., Lai, J. C., & Mercer, R. L. (1992). ["Class-based n-gram models of natural language."](https://aclanthology.org/J92-4003/) Computational Linguistics, 18(4), 467-479.

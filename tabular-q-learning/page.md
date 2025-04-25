@@ -79,3 +79,19 @@ Another technique is state aggregation, where similar states are grouped togethe
 One successful case study where Tabular Q-Learning was implemented is in the "Frozen Lake" environment. This is a simple grid world where an agent needs to navigate from a starting point to a goal while avoiding holes on a slippery surface. The agent can move in four directions: up, down, left, and right. Each move can lead the agent to slide to an adjacent cell, making the environment challenging. Researchers used Tabular Q-Learning to teach the agent the best actions to take in each position on the grid. The Q-table was updated using the formula $$Q(s, a) \leftarrow Q(s, a) + \alpha \left( r + \gamma \max_{a'} Q(s', a') - Q(s, a) \right)$$, where $$Q(s, a)$$ is the Q-value for the current state and action, $$\alpha$$ is the learning rate, $$r$$ is the reward, $$\gamma$$ is the discount factor, and $$\max_{a'} Q(s', a')$$ is the maximum Q-value for the next state. By experimenting with different learning rates and discount factors, the agent was able to learn a policy that successfully navigated the frozen lake to reach the goal.
 
 Another interesting case study is the "Taxi" environment, where Tabular Q-Learning was used to train an agent to pick up and drop off passengers efficiently. In this environment, the agent drives a taxi on a grid, and its goal is to maximize the total reward by completing passenger requests. The agent can move in four directions, pick up passengers, and drop them off at their destinations. The Q-table in this case helps the agent learn the best actions to take based on the current location of the taxi, the location of the passenger, and the destination. The Q-value update rule $$Q(s, a) \leftarrow Q(s, a) + \alpha \left( r + \gamma \max_{a'} Q(s', a') - Q(s, a) \right)$$ was used to refine the Q-values over time. Through extensive training, the agent was able to develop a strategy that efficiently managed passenger requests, demonstrating the effectiveness of Tabular Q-Learning in solving this type of problem.
+
+## References & Further Reading
+
+[1]: Watkins, C.J.C.H., & Dayan, P. (1992). ["Q-Learning"](https://link.springer.com/article/10.1007/BF00992698). Machine Learning, 8(3), 279-292.
+
+[2]: Sutton, R.S., & Barto, A.G. (2018). ["Reinforcement Learning: An Introduction,"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) 2nd Edition. MIT Press.
+
+[3]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., et al. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518, 529-533.
+
+[4]: Szepesvári, Cs. (2010). ["Algorithms for Reinforcement Learning"](https://www.researchgate.net/publication/220696313_Algorithms_for_Reinforcement_Learning). Synthesis Lectures on Artificial Intelligence and Machine Learning, 4(1), 1-103.
+
+[5]: Dietterich, T.G. (2000). ["Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition."](https://arxiv.org/abs/cs/9905014) Journal of Artificial Intelligence Research, 13, 227-303.
+
+[6]: OpenAI. (2018). ["OpenAI Gym: A Toolkit for Developing and Comparing Reinforcement Learning Algorithms."](https://github.com/openai/gym) 
+
+[7]: Lillicrap, T.P., Hunt, J.J., Pritzel, A., Heess, N., et al. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971)

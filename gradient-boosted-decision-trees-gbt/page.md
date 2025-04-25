@@ -83,3 +83,17 @@ Another way to improve Gradient Boosted Trees is to use regularization. Regulari
 Gradient Boosted Trees and Random Forests are both types of [machine learning](/wiki/machine-learning) models that use decision trees, but they work in different ways. Gradient Boosted Trees build a strong model by adding trees one at a time, with each new tree trying to fix the mistakes made by the previous ones. This step-by-step improvement can make Gradient Boosted Trees very accurate, but it can also take longer to train because the model needs to keep adjusting its predictions. On the other hand, Random Forests create a bunch of decision trees at the same time, and each tree makes its own guess. The final prediction is the average of all the guesses from the different trees. This makes Random Forests faster to train and less likely to overfit, but they might not be as accurate as Gradient Boosted Trees for some problems.
 
 When choosing between Gradient Boosted Trees and Random Forests, it depends on what you need. If you want a model that is really accurate and you have a lot of time to train it, Gradient Boosted Trees might be the better choice. They are especially good at handling complex patterns in the data and can be very useful for tasks like predicting house prices or figuring out if an email is spam. But if you need a model that trains quickly and is less likely to overfit, Random Forests might be better. They are often used when you have a lot of data and want a model that is easy to understand and works well on new data. So, the choice between the two depends on whether you care more about accuracy or speed and simplicity.
+
+## References & Further Reading
+
+[1]: Friedman, J. H. (2001). ["Greedy Function Approximation: A Gradient Boosting Machine."](https://www.jstor.org/stable/2699986) The Annals of Statistics, 29(5), 1189-1232.
+
+[2]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q., & Liu, T.-Y. (2017). ["LightGBM: A Highly Efficient Gradient Boosting Decision Tree."](https://dl.acm.org/doi/10.5555/3294996.3295074) Advances in Neural Information Processing Systems 30.
+
+[5]: Natekin, A., & Knoll, A. (2013). ["Gradient Boosting Machines, a Tutorial."](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2013.00021/full) Neurocomputing, 57, 218-237.
+
+[6]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron

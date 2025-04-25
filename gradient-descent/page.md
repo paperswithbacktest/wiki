@@ -112,3 +112,15 @@ print(f"Final m: {m}, Final b: {b}")
 ```
 
 In this code, we start with some initial values for m and b, and then iterate through the data multiple times. In each iteration, we calculate the predictions using the current values of m and b, then compute the gradients of the cost function with respect to m and b. These gradients tell us how to change m and b to reduce the error. We then update m and b by moving them in the opposite direction of the gradients, scaled by the learning rate. After many iterations, we should end up with values of m and b that make our model fit the data well.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. Chapter 8 covers optimization of neural networks including Gradient Descent.
+
+[2]: Ruder, S. (2016). ["An overview of gradient descent optimization algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747. A comprehensive survey of various gradient descent algorithms.
+
+[3]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent."](https://link.springer.com/chapter/10.1007/978-3-7908-2604-3_16) In Proceedings of COMPSTAT'2010, Springer, pp. 177-186. Discusses the nuances and applications of stochastic gradient descent.
+
+[4]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980. Introduces the Adam optimizer, an adaptive learning rate optimization algorithm.
+
+[5]: Nocedal, J., & Wright, S.J. (2006). ["Numerical Optimization."](https://link.springer.com/book/10.1007/978-0-387-40065-5) Springer Series in Operations Research. An authoritative text on numerical optimization techniques.

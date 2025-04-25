@@ -85,3 +85,15 @@ Another technique is called knowledge distillation. This involves training a sma
 Quantization can change how you train [deep learning](/wiki/deep-learning) models. When you use quantization-aware training, you train the model with the idea that it will use smaller numbers later. This means you simulate the effects of using these smaller numbers during training. For example, if you want to convert a weight from a floating-point value to an 8-bit integer, you might use a formula like $$ q = \text{round}(\frac{f}{s} + z) $$ to do this. By doing this during training, the model learns to work well with the smaller numbers, which can help keep the model's accuracy high even after it's quantized. This way, the training process takes into account the final goal of making the model smaller and faster.
 
 On the other hand, if you use post-training quantization, the training process stays the same. You train the model normally using full precision numbers, and then you change the numbers to smaller ones after training is done. This can sometimes make the model a bit less accurate because it wasn't trained with the smaller numbers in mind. But, post-training quantization is simpler because you don't have to change how you train the model. So, quantization can impact the training process by either making it more complex with quantization-aware training or keeping it the same with post-training quantization, depending on what you choose.
+
+## References & Further Reading
+
+[1]: Krishnamoorthi, R. (2018). ["Quantizing deep convolutional networks for efficient inference: A whitepaper."](https://arxiv.org/abs/1806.08342) arXiv preprint arXiv:1806.08342.
+
+[2]: Jacob, B., Kligys, S., Chen, B., Zhu, M., Tang, M., Howard, A., ... & Adam, H. (2018). ["Quantization and training of neural networks for efficient integer-arithmetic-only inference."](https://arxiv.org/abs/1712.05877) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[3]: Mishra, A., & Marr, D. (2017). ["Apprentice: Using knowledge distillation techniques to improve low-precision network accuracy."](https://arxiv.org/abs/1711.05852) arXiv preprint arXiv:1711.05852.
+
+[4]: Courbariaux, M., Bengio, Y., & David, J. P. (2015). ["BinaryConnect: Training deep neural networks with binary weights during propagations."](https://arxiv.org/abs/1511.00363) Advances in neural information processing systems.
+
+[5]: Wu, J., Leng, C., Wang, Y., Hu, Q., & Cheng, J. (2016). ["Quantized convolutional neural networks for mobile devices."](https://arxiv.org/abs/1512.06473) Proceedings of the IEEE conference on computer vision and pattern recognition.

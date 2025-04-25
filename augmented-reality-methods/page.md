@@ -81,3 +81,15 @@ Another exciting development will be how smart AR apps become. Machine Learning 
 To optimize Machine Learning models for real-time processing in Augmented Reality, experts focus on making the models faster and more efficient. One way to do this is by using smaller models that need less computing power. These smaller models might not be as accurate as bigger ones, but they can work much faster, which is important for AR because you want the virtual stuff to appear instantly. Another way is to use techniques like model quantization, which means turning the numbers the model uses into smaller versions. This makes the model run faster on devices like smartphones or AR glasses.
 
 Another important method is to use edge computing, where the processing happens right on the device instead of sending data to a faraway server. This cuts down the time it takes to get results because the data doesn't have to travel back and forth. Experts also use something called model pruning, where they remove parts of the model that aren't very important. This makes the model smaller and faster without losing too much accuracy. By using these techniques, AR apps can give you a smooth and quick experience, making the virtual world feel more like the real one.
+
+## References & Further Reading
+
+[1]: Azuma, R. T. (1997). ["A Survey of Augmented Reality."](https://www.cs.unc.edu/~azuma/ARpresence.pdf) Presence: Teleoperators and Virtual Environments, 6(4), 355-385.
+
+[2]: Schmalstieg, D., & Hollerer, T. (2016). ["Augmented Reality: Principles and Practice."](https://www.researchgate.net/publication/303792816_Augmented_Reality_-_Principles_and_Practice) Addison Wesley.
+
+[3]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[4]: Roesner, F., Kohno, T., & Molnar, D. (2014). ["Security and Privacy for Augmented Reality Systems."](https://dl.acm.org/doi/10.1145/2580723.2580730) Communications of the ACM, 57(4), 88-96.
+
+[5]: Baltrusaitis, T., Ahuja, C., & Morency, L. P. (2019). ["Multimodal Machine Learning: A Survey and Taxonomy."](https://arxiv.org/abs/1705.09406) ACM Computing Surveys (CSUR), 51(2), 1-35.

@@ -1,6 +1,7 @@
 ---
-title: "Smart Contracts on Blockchain"
-description: "Discover how smart contracts revolutionize algorithmic trading by providing automation and security in blockchain transactions for a decentralized financial future."
+title: Understanding Smart Contracts on Blockchain Technology
+description: Smart contracts automate agreements on blockchain with secure code execution
+  and cost savings while eliminating middlemen Discover more inside.
 ---
 
 

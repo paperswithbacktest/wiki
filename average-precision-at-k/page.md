@@ -80,3 +80,15 @@ Another way to improve AP@K is by adjusting the model's hyperparameters. This me
 In complex scenarios, one advanced technique to improve AP@K is using ensemble methods. This means combining the predictions of multiple models to get a better overall ranking. By training different models on the same data and then combining their predictions, you can often get a higher AP@K score. For example, you could use a technique called boosting, where each model focuses on the errors of the previous ones, helping to rank relevant items higher. Another approach is to use a method called rank aggregation, where you combine the rankings from different models to create a final ranking that is more likely to put the most important items at the top.
 
 Another technique is to use more advanced loss functions that are specifically designed to optimize for AP@K. These loss functions can be more complex than traditional ones but are better at training the model to rank relevant items higher. For example, you can use a loss function that penalizes the model more if a relevant item is ranked lower than it should be. The formula for AP@K is $$ \text{AP@K} = \frac{1}{\min(\text{number of relevant items}, K)} \sum_{k=1}^{K} \text{P@k} \times \text{rel}(k) $$. By using this loss function during training, the model learns to improve its AP@K score directly. Additionally, you can use techniques like cross-validation to test the model's performance on different subsets of the data, making sure it generalizes well and maintains a high AP@K score across various scenarios.
+
+## References & Further Reading
+
+[1]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[2]: Joachims, T. (2002). ["Optimizing Search Engines Using Clickthrough Data."](https://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf) Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Chapelle, O., & Chang, Y. (2011). ["Yahoo! Learning to Rank Challenge Overview."](http://proceedings.mlr.press/v14/chapelle11a/chapelle11a.pdf) Journal of Machine Learning Research: Workshop and Conference Proceedings.
+
+[4]: Zhu, J., Wang, H., & Jiang, G. (2009). ["Learning to Rank with Pairwise Objective Functions and Boosting."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) Air Web.
+
+[5]: ["Learning to Rank for Information Retrieval."](https://ieeexplore.ieee.org/abstract/document/8186875) (2010) by Hang Li. Springer.

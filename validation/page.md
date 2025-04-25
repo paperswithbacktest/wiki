@@ -83,3 +83,17 @@ One common way to do this is called grid search. In grid search, we pick a few d
 In [deep learning](/wiki/deep-learning), advanced validation techniques like stratified k-fold cross-validation and time series cross-validation are often used. Stratified k-fold cross-validation is similar to regular k-fold cross-validation, but it makes sure that each fold has the same mix of different types of data as the whole dataset. This is really helpful when we're trying to guess things that have different types, like if we're guessing whether emails are spam or not. Time series cross-validation is used when our data has a time order, like stock prices or weather data. In time series cross-validation, we make sure that the training data comes before the validation data in time, so we can see how well our model predicts future events. By using these advanced techniques, we can get a better idea of how well our model will work in the real world.
 
 Another advanced technique used in deep learning is called early stopping. Early stopping helps us avoid overfitting by stopping the training process before the model learns the training data too well. We do this by watching how the model does on the validation data as it trains. If the model's performance on the validation data starts getting worse, even though it's still doing better on the training data, we stop training. This way, we can make sure our model is good at guessing new things it hasn't seen before. These advanced validation techniques in deep learning help us make our models better at handling different kinds of data and situations, which is important for making good predictions in the real world.
+
+## References & Further Reading
+
+[1]: Kohavi, R., & Longbotham, R. (2017). ["Online Controlled Experiments and A/B Tests."](https://www.researchgate.net/publication/316116834_Online_Controlled_Experiments_and_AB_Testing) Springer Handbook of Model-based Science.
+
+[2]: Dietterich, T. G. (1998). ["Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms."](https://pubmed.ncbi.nlm.nih.gov/9744903/) Journal of Artificial Intelligence Research, 10, 189-220.
+
+[3]: Stone, M. (1974). ["Cross-Validatory Choice and Assessment of Statistical Predictions."](https://www.jstor.org/stable/2984809) Journal of the Royal Statistical Society: Series B (Methodological), 36(2), 111-147.
+
+[4]: Ron Kohavi. (1995). ["A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection."](https://www.ijcai.org/Proceedings/95-2/Papers/016.pdf) In Proceedings of the 14th International Joint Conference on Artificial Intelligence (pp. 1137-1143).
+
+[5]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: with Applications in R"](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer.
+
+[6]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

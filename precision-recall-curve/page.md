@@ -129,3 +129,17 @@ Lastly, you can use the Precision-Recall Gain Curve, which adjusts the tradition
 The choice of model can change the shape of the Precision-Recall Curve because different models have different ways of making predictions. Some models are really good at being very sure when they guess something is positive, so they have high precision at low recall. These models start the curve high on the y-axis but might drop quickly as recall goes up. Other models might be better at catching more of the positive cases, even if they are not as sure about their guesses. These models might have a curve that starts lower but stays higher as recall increases, showing they balance precision and recall better.
 
 For example, a simple model like a decision tree might make very clear guesses, leading to a curve that drops quickly from high precision to lower precision as recall increases. On the other hand, a more complex model like a [neural network](/wiki/neural-network) might have a smoother curve because it can learn to balance precision and recall better. By looking at the shape of the Precision-Recall Curve, you can see how well a model fits your needs. If you need high precision, you might pick a model with a curve that starts high. If you need to catch more positives, you might choose a model with a curve that stays higher as recall goes up.
+
+## References & Further Reading
+
+[1]: Davis, J., & Goadrich, M. (2006). ["The Relationship Between Precision-Recall and ROC Curves."](https://dl.acm.org/doi/10.1145/1143844.1143874) Proceedings of the 23rd International Conference on Machine Learning.
+
+[2]: Saito, T., & Rehmsmeier, M. (2015). ["The Precision-Recall Plot is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PLOS ONE.
+
+[3]: Branco, P., Torgo, L., & Ribeiro, R. P. (2016). ["A Survey of Predictive Modelling under Imbalanced Distributions."](https://arxiv.org/abs/1505.01658) arXiv preprint arXiv:1505.01658.
+
+[4]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering.
+
+[5]: scikit-learn: Machine Learning in Python. ["3.3.6. Metrics and scoring: quantifying the quality of predictions."](https://scikit-learn.org/stable/index.html) Scikit-learn Documentation.
+
+[6]: Fawcett, T. (2006). ["An Introduction to ROC Analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters.

@@ -79,3 +79,15 @@ Another technique is using intrinsic motivation, which adds extra rewards to enc
 To evaluate the effectiveness of a reward function in a machine learning model, you can look at how well the agent performs the task it's meant to do. If the reward function is working well, the agent should get better at the task over time, getting higher total rewards. You can measure this by running the agent through the task many times and seeing if its performance improves. For example, if you're training a robot to walk, you would watch to see if it starts walking more smoothly and falls less often as it learns. If the robot's walking improves, it's a sign that the reward function is guiding it in the right direction.
 
 Another way to evaluate the reward function is by checking if the agent is learning the right behaviors. Sometimes, an agent might find ways to "cheat" the system and get high rewards without doing what you want. This is called reward hacking. To see if this is happening, you need to watch the agent closely and see if its actions match the goals you set. If the agent is doing things that don't make sense or aren't helping it reach the main goal, the reward function might need to be changed. By carefully observing the agent's behavior and performance, you can figure out if the reward function is working well or if it needs to be tweaked to better guide the agent toward the right outcomes.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Ng, A. Y., Harada, D., & Russell, S. J. (1999). ["Policy Invariance under Reward Transformations: Theory and Application to Reward Shaping."](https://dl.acm.org/doi/10.5555/645528.657613) In Proceedings of the Sixteenth International Conference on Machine Learning.
+
+[3]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[4]: Amodei, D., Olah, C., Steinhardt, J., Christiano, P., Schulman, J., & Mane, D. (2016). ["Concrete Problems in AI Safety."](https://arxiv.org/abs/1606.06565) arXiv preprint arXiv:1606.06565.
+
+[5]: Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Hassabis, D. (2016). ["Mastering the game of Go with deep neural networks and tree search."](https://www.nature.com/articles/nature16961) Nature, 529(7587), 484-489.

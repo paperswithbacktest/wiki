@@ -83,3 +83,21 @@ Another advanced technique is hyperparameter tuning. Hyperparameters are setting
 Balancing model complexity and performance in machine learning is like finding the right amount of seasoning for a dish. If a model is too simple, it might not capture all the important patterns in the data, leading to underfitting. This is when the model doesn't do well on both the training and the testing data because it's too basic. On the other hand, if a model is too complex, it might learn the training data too well, including the noise, which can lead to overfitting. Overfitting happens when the model performs great on the training data but poorly on new, unseen data because it's too focused on the specifics of the training set.
 
 To find the right balance, we can use techniques like regularization, which adds a penalty to the model for being too complex. A common type of regularization is L2 regularization, which adds a term to the loss function to discourage large weights in the model. The formula for L2 regularization is $$ \text{Loss} = \text{Original Loss} + \lambda \sum_{i=1}^{n} \theta_i^2 $$, where $\lambda$ is a tuning parameter and $\theta_i$ are the model's parameters. By adjusting $\lambda$, we can control how much we want to penalize complexity. Another technique is cross-validation, where we split the data into different parts and train the model multiple times on different combinations of these parts. This helps us see how the model performs on different sets of data and can guide us in choosing the right level of complexity for the best overall performance.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[6]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[7]: Friedman, J., Hastie, T., & Tibshirani, R. (2010). ["Regularization Paths for Generalized Linear Models via Coordinate Descent."](https://pubmed.ncbi.nlm.nih.gov/20808728/) Journal of Statistical Software, 33(1), 1-22.
+
+[8]: Bolón-Canedo, V., Sánchez-Maroño, N., & Alonso-Betanzos, A. (2015). ["Feature Selection for High-Dimensional Data."](https://link.springer.com/article/10.1007/s13748-015-0080-y) Springer.

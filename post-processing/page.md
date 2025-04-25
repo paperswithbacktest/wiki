@@ -83,3 +83,15 @@ Another way to evaluate post-processing is by looking at how it affects the mode
 The latest research trends in post-processing for [deep learning](/wiki/deep-learning) models focus a lot on improving the reliability and accuracy of predictions. One big trend is the use of advanced calibration techniques. Researchers are working on new ways to make sure that the probabilities a deep learning model gives are as close as possible to what actually happens. For example, they are using methods like temperature scaling, where they adjust the model's output to match real-world data better. Another trend is the use of uncertainty quantification, which helps understand how sure the model is about its predictions. By adding confidence intervals or using Bayesian methods, researchers can make the model's output more trustworthy and useful for making decisions.
 
 Another important trend is the development of post-processing techniques to handle specific challenges in deep learning, like class imbalance and model interpretability. For instance, researchers are exploring new thresholding methods that can better deal with imbalanced datasets. These methods help the model predict rare events more accurately by adjusting the decision threshold. Additionally, there is a growing interest in using post-processing to make deep learning models more interpretable. Techniques like feature importance and saliency maps are being used to explain why a model made a certain prediction, making it easier for people to understand and trust the model's output. By focusing on these areas, researchers are making deep learning models more reliable and practical for real-world applications.
+
+## References & Further Reading
+
+[1]: Niculescu-Mizil, A., & Caruana, R. (2005). ["Predicting good probabilities with supervised learning."](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf) Proceedings of the 22nd International Conference on Machine Learning.
+
+[2]: Kull, M., Silva Filho, T. M., & Flach, P. (2017). ["Beta calibration: a well-founded and easily implemented improvement on logistic calibration for binary classifiers."](https://proceedings.mlr.press/v54/kull17a.html) Machine Learning.
+
+[3]: Domingos, P. (1997). ["Why does bagging work? A Bayesian account and its implications."](https://cdn.aaai.org/KDD/1997/KDD97-028.pdf) Proceedings of the Third International Conference on Knowledge Discovery and Data Mining.
+
+[4]: Quinlan, J. R. (1996). ["Bagging, boosting, and C4.5."](https://aaai.org/papers/108-aaai96-108-bagging-boosting-and-c4-5/) Proceedings of the Thirteenth National Conference on Artificial Intelligence.
+
+[5]: Chen, W., Zhang, X., Goldman, S., & Yu, Q. (2009). ["EM-DD: An improved multiple-instance learning technique."](https://dl.acm.org/doi/10.5555/2980539.2980677) ACM Trans. Inf. Syst.

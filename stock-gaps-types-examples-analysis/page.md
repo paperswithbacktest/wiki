@@ -1,6 +1,7 @@
 ---
-title: "Stock Gaps and Their Types with Examples and Analysis"
-description: "Explore stock gaps types with examples and analysis for algorithmic trading. Learn about common breakaway runaway and exhaustion gaps in dynamic markets."
+title: 'Understanding Stock Gaps: Types and Trading Strategies'
+description: Stock gaps reveal breakaway runaway exhaustion and common patterns to
+  refine your trading strategies with volume and RSI signals Discover more inside.
 ---
 
 

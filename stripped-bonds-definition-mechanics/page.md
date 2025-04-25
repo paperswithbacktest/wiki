@@ -1,6 +1,8 @@
 ---
-title: "Stripped Bonds: Definition and Mechanics"
-description: "Explore stripped bonds as unique investments that separate a bond's principal and interest. Understand their mechanics and the role of algorithmic trading in this market."
+title: Understanding Stripped Bonds Flexible Fixed Income Investment
+description: Stripped bonds let investors separate principal and interest for tailored
+  income or lump sum returns, offering strategic portfolio flexibility Discover more
+  inside
 ---
 
 

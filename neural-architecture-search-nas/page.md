@@ -85,3 +85,23 @@ Another important area of advancement is in making NAS more accessible and easie
 In computer vision, NAS can be used to find the best network designs for tasks like image classification, object detection, and image segmentation. For example, if you want to build a system that can tell what's in a picture, you can use NAS to search for the best network that does this job well. NAS can try different types of layers and connections to see which ones work best for recognizing things in images. This is really helpful because it can find designs that are better than those made by humans, and it saves a lot of time. Researchers have used NAS to create networks like EfficientNet, which are very good at understanding images while using less computing power.
 
 In natural language processing (NLP), NAS can help find the best network designs for tasks like text classification, machine translation, and sentiment analysis. If you want to build a system that can understand and translate languages, NAS can search for the best network that does this well. It can try different combinations of layers and connections to see which ones are good at understanding and generating text. This is useful because it can find designs that work better than those made by people, and it can do this faster. For example, NAS has been used to create networks like Evolved Transformer, which are very good at tasks like translating text from one language to another.
+
+## References & Further Reading
+
+[1]: Zoph, B., & Le, Q. V. (2017). ["Neural Architecture Search with Reinforcement Learning."](https://arxiv.org/abs/1611.01578) arXiv preprint arXiv:1611.01578.
+
+[2]: Real, E., Aggarwal, A., Huang, Y., & Le, Q. V. (2019). ["Regularized Evolution for Image Classifier Architecture Search."](https://arxiv.org/abs/1802.01548) Proceedings of the AAAI Conference on Artificial Intelligence, 33(01), 4780-4789.
+
+[3]: Pham, H., Guan, M. Y., Zoph, B., Le, Q. V., & Dean, J. (2018). ["Efficient Neural Architecture Search via Parameter Sharing."](https://arxiv.org/abs/1802.03268) International Conference on Machine Learning.
+
+[4]: Elsken, T., Metzen, J. H., & Hutter, F. (2019). ["Neural Architecture Search: A Survey."](https://arxiv.org/abs/1808.05377) Journal of Machine Learning Research, 20(55), 1-21.
+
+[5]: Liu, H., Simonyan, K., & Yang, Y. (2018). ["DARTS: Differentiable Architecture Search."](https://arxiv.org/abs/1806.09055) arXiv preprint arXiv:1806.09055.
+
+[6]: Tan, M., & Le, Q. V. (2019). ["EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."](https://arxiv.org/abs/1905.11946) International Conference on Machine Learning.
+
+[7]: Cai, H., Zhu, L., & Han, S. (2019). ["ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware."](https://arxiv.org/abs/1812.00332) International Conference on Learning Representations.
+
+[8]: ["Auto-Keras: An Efficient Neural Architecture Search System."](https://dl.acm.org/doi/10.1145/3292500.3330648) 
+
+[9]: Ying, C., Klein, A., Real, E., Christiansen, E., Murphy, K., & Hutter, F. (2019). ["NAS-Bench-101: Towards Reproducible Neural Architecture Search."](https://arxiv.org/abs/1902.09635) International Conference on Machine Learning.

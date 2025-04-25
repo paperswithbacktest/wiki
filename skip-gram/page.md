@@ -1,7 +1,7 @@
 ---
-title: Understanding Skip-Gram Word Embeddings for Machine Learning
-description: Skip-Gram word embeddings train neural networks to capture semantic relationships
-  and enhance NLP tasks with efficient sampling Discover more inside
+title: Understanding Skip-Gram Word Embeddings in Machine Learning
+description: Skip-Gram models create word embeddings by predicting context terms with
+  neural networks and sampling methods to capture semantics Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -85,3 +85,17 @@ A third technique is the use of context-dependent embeddings, like those in the 
 Recent research in Skip-Gram models has focused on improving their ability to handle out-of-vocabulary words and capture context more effectively. One trend is the integration of subword modeling, as seen in models like FastText. This approach breaks words into smaller units, allowing the model to understand new words by recognizing their components. For example, if the model knows the subwords "play" and "ing", it can better predict the meaning of "playing" even if it hasn't seen it before. This technique has shown promise in enhancing the model's ability to generalize to new words and improving performance on tasks like text classification and sentiment analysis.
 
 Another development is the use of advanced optimization techniques to speed up training and improve the quality of word embeddings. Techniques like negative sampling and hierarchical softmax have been refined to make Skip-Gram models more efficient. Negative sampling, for instance, allows the model to focus on a subset of words during training, which speeds up the process and can lead to better embeddings. Additionally, researchers are exploring ways to combine Skip-Gram with other models, such as context-dependent models like BERT, to leverage the strengths of both. This hybrid approach aims to capture both the static word relationships learned by Skip-Gram and the dynamic context-awareness of models like BERT, potentially leading to more powerful language understanding tools.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[2]: Rong, X. (2014). ["word2vec Parameter Learning Explained."](https://arxiv.org/abs/1411.2738) arXiv preprint arXiv:1411.2738.
+
+[3]: Goldberg, Y., & Levy, O. (2014). ["word2vec Explained: Deriving Mikolov et al.'s Negative-Sampling Word-Embedding Method."](https://arxiv.org/abs/1402.3722) Proceedings of the 2014 International Conference on Computational Linguistics (Tutorials).
+
+[4]: Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). ["Enriching Word Vectors with Subword Information."](https://aclanthology.org/Q17-1010/) Transactions of the Association for Computational Linguistics, 5, 135-146.
+
+[5]: Goldberg, Y. (2016). ["A primer on neural network models for natural language processing."](https://arxiv.org/abs/1510.00726) Journal of Artificial Intelligence Research, 57, 345-420.
+
+[6]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.

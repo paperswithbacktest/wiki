@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Navigating Wall Street"
-description: "Explore algorithmic trading on Wall Street, a cutting-edge investment strategy revolutionizing market dynamics by automating decisions for optimized returns."
+title: Essential Strategies For Successful Wall Street Investing
+description: Wall Street investing equips you with insights on stocks bonds ETFs and
+  risk management to build a diversified portfolio Discover more inside
 ---
 
 

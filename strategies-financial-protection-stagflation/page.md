@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Financial Protection Against Stagflation"
-description: "Explore how algorithmic trading can safeguard investments during stagflation This article offers financial strategies to balance inflation control with economic growth"
+title: Financial Strategies To Protect Wealth During Stagflation
+description: Stagflation erodes savings and slows growth, use dividend stocks real
+  assets and inflation protected bonds to safeguard savings. Discover more inside.
 ---
 
 

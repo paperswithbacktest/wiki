@@ -83,3 +83,15 @@ The ROC curve and AUC, on the other hand, look at how well the model can tell th
 To optimize the F1 score in model tuning, one effective technique is to use cross-validation. This method splits your data into different parts and trains the model on some of the parts while testing it on others. By doing this many times with different splits, you can get a good idea of how well your model is doing on average. You can then adjust your model's settings, like the learning rate or the number of layers in a [neural network](/wiki/neural-network), to see if the F1 score goes up. Another technique is to use grid search or random search to try out different combinations of settings. For example, you might try different values for the learning rate and see which one gives the best F1 score. This can help you find the best settings for your model without having to guess.
 
 Another advanced technique is to use class weighting. If your data is not balanced, meaning you have a lot more examples of one category than another, you can tell your model to pay more attention to the less common category. This can help improve the F1 score by making sure the model is good at finding all the right things (recall) and being accurate (precision). You can do this by setting weights in your model's settings. For example, if you have a lot more dogs than cats, you might set a higher weight for cats to make sure the model doesn't ignore them. The formula for the F1 score is $$F1 = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} + \text{recall}}$$, and by using class weighting, you can help balance the precision and recall to get a higher F1 score.
+
+## References & Further Reading
+
+[1]: Sokolova, M., & Lapalme, G. (2009). ["A systematic analysis of performance measures for classification tasks."](https://www.sciencedirect.com/science/article/pii/S0306457309000259) Information Processing & Management, 45(4), 427-437.
+
+[2]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Flach, P. (2019). ["Performance Evaluation in Machine Learning: The Good, the Bad, the Ugly."](https://ojs.aaai.org/index.php/AAAI/article/view/5055) Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval.
+
+[4]: Hanley, J. A., & McNeil, B. J. (1982). ["The meaning and use of the area under a receiver operating characteristic (ROC) curve."](https://pubmed.ncbi.nlm.nih.gov/7063747/) Radiology, 143(1), 29-36.
+
+[5]: Chicco, D., & Jurman, G. (2020). ["The advantages of the Matthews Correlation Coefficient (MCC) over F1 score and accuracy in binary classification evaluation."](https://pubmed.ncbi.nlm.nih.gov/31898477/) PeerJ.

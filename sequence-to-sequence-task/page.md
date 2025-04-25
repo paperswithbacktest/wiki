@@ -81,3 +81,19 @@ In addition to these metrics, it's important to look at the model's performance 
 Current research trends in Sequence-To-Sequence learning are focusing a lot on improving the efficiency and effectiveness of models. One big trend is the use of transformer models, which have become very popular because they work better than traditional models using Recurrent Neural Networks (RNNs). Transformers use attention mechanisms to process the entire input sequence at once, making them faster to train and better at capturing long-range dependencies in the data. This is done using a formula like $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V $$, where Q, K, and V are query, key, and value matrices. Researchers are also exploring ways to make these models more efficient, like using techniques to reduce the number of parameters or speed up training.
 
 Another trend is the development of multilingual models that can handle multiple languages at once. These models can translate between many different languages without needing separate models for each language pair. This is really useful for breaking down language barriers and making communication easier. Researchers are also looking into ways to make Sequence-To-Sequence models more interpretable, so we can understand how they make decisions. This is important for building trust in the models and improving them. In the future, we might see even more advanced models that can handle more complex tasks, like generating longer and more coherent texts or understanding and generating speech in real-time.
+
+## References & Further Reading
+
+[1]: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). ["Sequence to Sequence Learning with Neural Networks."](https://arxiv.org/abs/1409.3215) Advances in Neural Information Processing Systems.
+
+[2]: Bahdanau, D., Cho, K., & Bengio, Y. (2015). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[4]: Cho, K., van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). ["Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation."](https://arxiv.org/abs/1406.1078) arXiv preprint arXiv:1406.1078.
+
+[5]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) Neural Computation.
+
+[6]: Luong, M. T., Pham, H., & Manning, C. D. (2015). ["Effective Approaches to Attention-based Neural Machine Translation."](https://aclanthology.org/D15-1166/) arXiv preprint arXiv:1508.04025.
+
+[7]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.

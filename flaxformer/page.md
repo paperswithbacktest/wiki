@@ -81,3 +81,17 @@ Another way to optimize Flaxformer is by tweaking the training process. You can 
 Recent advancements in Flaxformer technology have focused on making transformer models even more efficient and powerful. Researchers are working on ways to reduce the amount of computer power needed to train these models. One approach is called "sparse attention," where the model only looks at some parts of the input instead of all of it. This can make training faster and use less memory. Another direction is improving the model's ability to understand and generate long sequences of text. By using techniques like "long-range dependencies," Flaxformer can better capture the relationships between words that are far apart in a sentence or document.
 
 In addition to efficiency, researchers are exploring how to make Flaxformer models more adaptable to different tasks. One exciting area is "multitask learning," where a single Flaxformer model can be trained to do several things at once, like translating languages and summarizing text. This can make the model more useful and versatile. Another research direction is "few-shot learning," where the model can learn new tasks with just a few examples. This could make it easier to use Flaxformer in situations where you don't have a lot of data. Overall, these advancements are helping to make Flaxformer a more powerful and flexible tool for machine learning.
+
+## References & Further Reading
+
+[1]: "JaX: Autograd and XLA" (n.d.). [https://github.com/google/jax](https://github.com/google/jax/blob/jax-v0.2.22/README.md)
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[3]: Frye, R. (n.d.). ["Introduction to Flax: A neural network library & ecosystem for JAX."](https://github.com/google/flax) Flax Documentation.
+
+[4]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., Dehghani, M., Minderer, M., Heigold, G., Gelly, S., Uszkoreit, J., & Houlsby, N. (2020). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929)
+
+[5]: Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., Cistac, P., Rault, T., Louf, R., Funtowicz, M., & Davison, J. (2020). ["Transformers: State-of-the-Art Natural Language Processing."](https://arxiv.org/abs/1910.03771) Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations, 38–45.
+
+[6]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2019). ["Exploring the limits of transfer learning with a unified text-to-text transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.

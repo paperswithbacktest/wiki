@@ -1,7 +1,8 @@
 ---
-title: Understanding Squared Loss for Regression Model Performance
-description: Squared Loss measures the average squared error between predictions and
-  actual values to guide more precise regression model tuning. Discover more inside.
+title: Understanding Squared Loss in Machine Learning Regression
+description: Squared Loss in machine learning measures the average squared difference
+  between predictions and actual values guiding models to improve accuracy. Discover
+  more inside.
 ---
 
 ![Image](images/1.png)
@@ -92,3 +93,17 @@ def squared_loss(y_true, y_pred):
 ```
 
 In this code, `y_true` is a list of actual values and `y_pred` is a list of predicted values. The function calculates the Squared Loss by summing the squared differences between `y_true` and `y_pred`, then dividing by the number of observations `n`. This function can be used within a machine learning algorithm to measure how well the model is doing and guide the training process to improve the model's predictions.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer. 
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) (Information Science and Statistics). Springer.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) (Adaptive Computation and Machine Learning series). The MIT Press.
+
+[5]: Zhang, T. (2004). ["Solving Large Scale Linear Prediction Problems Using Stochastic Gradient Descent Algorithms."](https://dl.acm.org/doi/10.1145/1015330.1015332) In Proceedings of the Twenty-First International Conference on Machine Learning (ICML). 
+
+[6]: ["A Gentle Introduction to Gradient Descent Algorithm and Its Variants"](https://www.geeksforgeeks.org/gradient-descent-algorithm-and-its-variants/). Machine Learning Mastery.

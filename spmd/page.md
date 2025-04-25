@@ -1,7 +1,7 @@
 ---
-title: Implementing SPMD for Scalable Machine Learning Training
-description: SPMD in machine learning splits data across processors to accelerate
-  large model training and easily streamline coordination Discover more inside.
+title: SPMD in Machine Learning for Efficient Distributed Training
+description: SPMD in machine learning splits datasets across processors running the
+  same code concurrently to accelerate model training. Discover more inside.
 ---
 
 ![Image](images/1.jpeg)
@@ -79,3 +79,21 @@ Another technique is using techniques like gradient accumulation and mixed preci
 To evaluate the performance of SPMD in machine learning applications, you look at how fast the training process is and how well the processors work together. One way to do this is by measuring the time it takes to train a model using SPMD compared to training it on a single processor. If SPMD makes the training much faster, it's a sign that it's working well. You can also check the speedup, which is how many times faster the training is with SPMD. The speedup can be calculated with the formula $$ \text{Speedup} = \frac{\text{Time on single processor}}{\text{Time on multiple processors}} $$. If the speedup is close to the number of processors you're using, then SPMD is doing a good job.
 
 Another important thing to look at is how well the processors communicate with each other. Good communication means the processors can share their results and update the model without slowing down too much. You can measure this by looking at the communication overhead, which is the extra time spent on sending data between processors. If the overhead is low, then SPMD is efficient. You can also check the scalability of SPMD by seeing how well it handles bigger datasets and more complex models. If you can keep adding more data and processors without slowing down the training too much, then SPMD is helping to make your machine learning application more scalable.
+
+## References & Further Reading
+
+[1]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters,"](https://dl.acm.org/doi/10.1145/1327452.1327492) Communications of the ACM, 51(1), 107-113.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks,"](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[3]: Abadi, M., Barham, P., Chen, J., et al. (2016). ["TensorFlow: A System for Large-Scale Machine Learning,"](https://arxiv.org/abs/1605.08695) in Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI), 265-283.
+
+[4]: Paszke, A., Gross, S., Massa, F., et al. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library,"](https://arxiv.org/abs/1912.01703) Advances in Neural Information Processing Systems 32.
+
+[5]: Barham, P., et al. (2003). ["The Multikernel: A New OS Architecture for Scalable Multicore Systems,"](https://dl.acm.org/doi/10.1145/1629575.1629579) ACM Transactions on Computer Systems, 30(3).
+
+[6]: Sergeev, A., & Del Balso, M. (2018). ["Horovod: Fast and Easy Distributed Deep Learning in TensorFlow,"](https://arxiv.org/abs/1802.05799) arXiv preprint arXiv:1802.05799.
+
+[7]: AlexNet implementation with PyTorch. Available at: https://pytorch.org/hub/pytorch_vision_alexnet/
+
+[8]: Li, M., Andersen, D.G., Park, J.W., et al. (2014). ["Scaling Distributed Machine Learning with the Parameter Server,"](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) in OSDI '14: Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation, 583-598.

@@ -79,3 +79,15 @@ Another advanced technique TaxoExpan uses is "iterative expansion." This means i
 In the future, taxonomy expansion models are expected to become even smarter and more helpful. One big change might be the use of more advanced [artificial intelligence](/wiki/ai-artificial-intelligence) techniques, like [deep learning](/wiki/deep-learning). These techniques can help the models understand the meaning of new data better, making the taxonomy more accurate and useful. Another expected development is the use of more data from different sources, like social media and real-time data streams. This can help keep the taxonomy up-to-date with the latest ideas and methods, making it easier for people to find what they need.
 
 Another future development could be better ways to work together on taxonomies. This might mean creating tools that let many people add and change the taxonomy at the same time. By working together, people can make the taxonomy more complete and accurate. Also, there might be new ways to check how good the taxonomy is, using new measures and tests. These improvements can help make sure the taxonomy stays useful and easy to use, even as the field of machine learning keeps growing.
+
+## References & Further Reading
+
+[1]: Carvalho, V. O., Prudêncio, R. B. C., & Ludermir, T. B. (2019). ["A Survey of Taxonomy Expansion Strategies."](https://link.springer.com/chapter/10.1007/978-3-540-87536-9_54) arXiv preprint arXiv:1908.05861.
+
+[2]: Farber, M., Abualhaija, S., & Heesche, T. (2018). ["A Survey on Taxonomy Induction, Focal Concepts, and Relation Labels: A Case Study of the ACL Anthology."](https://www.aclweb.org/anthology/L18-1324/) In Proceedings of the Eleventh International Conference on Language Resources and Evaluation.
+
+[3]: Suchanek, F. M., Abiteboul, S., & Senellart, P. (2011). ["PARIS: Probabilistic Alignment of Relations, Instances, and Schema."](https://arxiv.org/abs/1111.7164) Proceedings of the VLDB Endowment, 5(3), 157-168.
+
+[4]: Navigli, R., & Velardi, P. (2004). ["Learning Domain Ontologies from Document Warehouses and Dedicated Web Sites."](https://aclanthology.org/J04-2002/) Computational Linguistics, 30(2), 151-179.
+
+[5]: Guo, X., Zhang, Z., & Deng, Y. (2018). ["A Survey on Voice Analytics for Customer Interaction: The Journey from Academic Research to Commercial Adoption."](https://www.benthamdirect.com/content/journals/cmc/10.2174/0109298673328877241113091539) IEEE Access, 6, 74225-74235.

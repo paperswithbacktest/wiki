@@ -128,3 +128,19 @@ Another limitation is that super-resolution models can struggle with very blurry
 In the future, image super-resolution is likely to get even better as researchers keep finding new ways to make blurry images clearer. One exciting direction is using more advanced types of neural networks, like Generative Adversarial Networks (GANs), to make images look more realistic. These networks can learn to add details that look very natural, almost like they were taken with a high-quality camera. Another area of focus is making models that can work well with all kinds of images, whether they are pictures of people, buildings, or landscapes. This means the models will need to understand the different patterns in different types of images and add the right details for each one.
 
 Another potential advancement is making super-resolution models faster and easier to use. Right now, these models can take a long time to train and need a lot of computer power. But in the future, researchers might find ways to make them work more quickly and on regular computers, so more people can use them. Also, there's a lot of interest in using super-resolution for videos, not just still images. Making videos clearer is harder because the model has to understand how things move from one frame to the next, but it could be really useful for things like old movies or security footage. As technology keeps improving, image super-resolution will become even more powerful and helpful in many different areas.
+
+## References & Further Reading
+
+[1]: Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). ["Image quality assessment: from error visibility to structural similarity."](https://ieeexplore.ieee.org/document/1284395) IEEE Transactions on Image Processing, 13(4), 600-612.
+
+[2]: Ledig, C., Theis, L., Huszár, F., Caballero, J., Cunningham, A., Acosta, A., ... & Shi, W. (2017). ["Photo-realistic single image super-resolution using a generative adversarial network."](https://arxiv.org/abs/1609.04802) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Timofte, R., De Smet, V., & Van Gool, L. (2014). ["A+: Adjusted anchored neighborhood regression for fast super-resolution."](https://link.springer.com/chapter/10.1007/978-3-319-16817-3_8) Proceedings of the IEEE International Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Zhang, K., Zuo, W., Gu, S., & Zhang, L. (2017). ["Learning deep CNN denoiser prior for image restoration."](https://arxiv.org/abs/1704.03264) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: Dong, C., Loy, C. C., He, K., & Tang, X. (2016). ["Image super-resolution using deep convolutional networks."](https://arxiv.org/abs/1501.00092) IEEE Transactions on Pattern Analysis and Machine Intelligence, 38(2), 295-307.
+
+[6]: Blau, Y., & Michaeli, T. (2018). ["The perception-distortion tradeoff."](https://arxiv.org/abs/1711.06077) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Russell, B. C., Torralba, A., Murphy, K. P., & Freeman, W. T. (2008). ["LabelMe: A database and web-based tool for image annotation."](https://link.springer.com/article/10.1007/s11263-007-0090-8) International Journal of Computer Vision, 77(1-3), 157-173.

@@ -81,3 +81,15 @@ RAG also uses NLP to make the answers it gives sound natural and easy to underst
 In the future, we can expect RAG models to get even better at finding and using information. One trend will be making the retriever part faster and smarter. This means RAG models will be able to search through huge collections of documents quickly and find the most helpful ones more often. Another trend will be using more advanced ways to understand what documents are about, like using special techniques to see how words relate to each other. This will help the retriever find the right documents even when the questions are not straightforward.
 
 The generator part of RAG models will also see important improvements. Researchers will focus on training the generator with more examples of good answers, which will help it create responses that are easier to understand and sound more natural. A key trend will be the use of fine-tuning techniques, where the generator is trained more on specific types of questions or topics. This will make it better at creating the right kind of answers for those questions. Also, new methods for mixing the new information from the retriever with what the generator already knows will be developed, leading to more accurate and helpful answers.
+
+## References & Further Reading
+
+[1]: Lewis, M., & Fan, A. (2020). ["Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks."](https://arxiv.org/abs/2005.11401) arXiv preprint arXiv:2005.11401.
+
+[2]: Karpukhin, V., Oguz, B., Min, S., Wu, L., Edunov, S., Chen, D., & Yih, W. T. (2020). ["Dense Passage Retrieval for Open-Domain Question Answering."](https://arxiv.org/abs/2004.04906) arXiv preprint arXiv:2004.04906.
+
+[3]: Guu, K., Lee, K., Tung, Z., Pasupat, P., & Chang, M. (2020). ["REALM: Retrieval-Augmented Language Model Pre-Training."](https://arxiv.org/abs/2002.08909) arXiv preprint arXiv:2002.08909.
+
+[4]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) arXiv preprint arXiv:1910.10683.
+
+[5]: Lewis, M., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, A., Yih, W. T., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). ["Retrieval-Augmented Generation for Open-Domain Question Answering."](https://arxiv.org/abs/2005.11401) Advances in Neural Information Processing Systems 33.

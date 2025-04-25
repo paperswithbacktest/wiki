@@ -1,6 +1,7 @@
 ---
-title: "Statistical Significance and Its Application"
-description: "Explore the role of statistical significance in algorithmic trading and how hypothesis testing is used to validate strategies optimizing trading performance."
+title: Understanding Statistical Significance in Research and Trading
+description: Statistical significance clarifies if research findings are real or chance
+  by explaining p-values and practical impact and outcomes Discover more inside
 ---
 
 

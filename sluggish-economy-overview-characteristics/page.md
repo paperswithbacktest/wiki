@@ -1,6 +1,7 @@
 ---
-title: "Sluggish Economy: Overview and Characteristics"
-description: "Explore the intricacies of a sluggish economy its impact on growth and the role of algorithmic trading in market performance during economic slowdowns."
+title: Sluggish Economy Explained Causes Impacts and Recovery Strategies
+description: Sluggish economy slows growth jobs and consumer spending explained through
+  key causes indicators and recovery strategies Discover more inside.
 ---
 
 

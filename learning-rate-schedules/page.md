@@ -79,3 +79,17 @@ Slanted Triangular Learning Rates are especially useful in training neural netwo
 Cosine Power Annealing is a way to change the learning rate during training that helps a model learn better. It's like Cosine Annealing, but it uses a power to make the learning rate change in a special way. The learning rate goes up and down in a smooth wave, but the power makes the wave change faster or slower. The formula for Cosine Power Annealing is $$ \text{learning_rate} = \text{min_lr} + \frac{1}{2} (\text{max_lr} - \text{min_lr}) (1 + \cos(\frac{\text{current_epoch} \cdot \pi}{\text{epochs_per_cycle}}))^p $$, where $$ p $$ is the power. This helps the model explore different solutions and then fine-tune them, making it easier to find the best solution without getting stuck.
 
 Polynomial Rate Decay is another way to change the learning rate that helps a model learn more effectively. It starts with a high learning rate and then slowly lowers it over time, following a curve that looks like a polynomial. This means the learning rate goes down smoothly, but it can do so in different ways depending on the polynomial's power. The formula for Polynomial Rate Decay is $$ \text{learning_rate} = (\text{initial_learning_rate} - \text{end_learning_rate}) \times (1 - \frac{\text{current_step}}{\text{total_steps}})^p + \text{end_learning_rate} $$, where $$ p $$ is the power of the polynomial. This schedule is useful when you want the model to learn quickly at first and then make smaller changes as it gets closer to the best solution.
+
+## References & Further Reading
+
+[1]: Smith, L. N. (2017). ["Cyclical Learning Rates for Training Neural Networks."](https://ieeexplore.ieee.org/abstract/document/7926641) arXiv preprint arXiv:1506.01186.
+
+[2]: Loshchilov, I., & Hutter, F. (2017). ["SGDR: Stochastic Gradient Descent with Warm Restarts."](https://arxiv.org/abs/1608.03983) arXiv preprint arXiv:1608.03983.
+
+[3]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification."](https://arxiv.org/abs/1502.01852) arXiv preprint arXiv:1502.01852.
+
+[4]: Vaswani, A., et al. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[5]: Hinton, G. E., Srivastava, N., & Swersky, K. (2012). ["Lecture 6e rmsprop: Divide the gradient by a running average of its recent magnitude."](https://arxiv.org/abs/1207.0580) University of Toronto Tech Report.
+
+[6]: Bengio, Y. (2012). ["Practical Recommendations for Gradient-Based Training of Deep Architectures."](https://arxiv.org/abs/1206.5533) arXiv preprint arXiv:1206.5533.

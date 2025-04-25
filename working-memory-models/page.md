@@ -83,3 +83,19 @@ For language translation, you might use a Transformer model, which is good at un
 The latest advancements in working memory models have focused on improving their ability to handle longer sequences and better understand context. One significant development is the introduction of more advanced attention mechanisms, like multi-head attention in Transformers. This allows the model to focus on different parts of the input at the same time, making it better at tasks like language translation and question answering. For example, the attention mechanism can be described with the formula $$Attention(Q, K, V) = softmax\left(\frac{QK^T}{\sqrt{d_k}}\right)V$$, where $$Q$$, $$K$$, and $$V$$ are query, key, and value matrices. Researchers are also exploring ways to make these models more efficient, such as using sparse attention to reduce the computational cost of processing long sequences.
 
 Looking to the future, working memory models are expected to become even more sophisticated. One direction is the development of models that can better mimic human memory, including the ability to forget irrelevant information and remember important details over long periods. This could involve integrating memory networks with other types of models, like [reinforcement learning](/wiki/reinforcement-learning), to create systems that can learn and adapt in more dynamic environments. Another exciting area is the use of these models in multi-modal tasks, where they can process and remember information from different types of data, like text, images, and sound, at the same time. These advancements could lead to more powerful and versatile machine learning systems that can handle a wide range of complex tasks.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Graves, A., Wayne, G., & Danihelka, I. (2014). ["Neural Turing Machines."](https://arxiv.org/abs/1410.5401) arXiv preprint arXiv:1410.5401.
+
+[3]: Sukhbaatar, S., Szlam, A., Weston, J., & Fergus, R. (2015). ["End-To-End Memory Networks."](https://arxiv.org/abs/1503.08895) Advances in Neural Information Processing Systems.
+
+[4]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[5]: Xiong, C., Merity, S., & Socher, R. (2016). ["Dynamic Memory Networks for Visual and Textual Question Answering."](https://arxiv.org/abs/1603.01417) International Conference on Machine Learning. 
+
+[6]: Mikolov, T., Karafiát, M., Burget, L., Cernockỳ, J., & Khudanpur, S. (2010). ["Recurrent Neural Network based Language Model."](https://www.fit.vut.cz/research/group/speech/public/publi/2010/mikolov_interspeech2010_IS100722.pdf) Interspeech 2010.
+
+[7]: Weston, J., Chopra, S., & Bordes, A. (2014). ["Memory Networks."](https://arxiv.org/abs/1410.3916) arXiv preprint arXiv:1410.3916.

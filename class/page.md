@@ -81,3 +81,19 @@ When it comes time to predict the class of a new piece of data, each tree in the
 Class noise in machine learning happens when some of your data is labeled wrong. This can make it hard for your model to learn the right patterns and can lead to bad predictions. One state-of-the-art way to deal with class noise is using algorithms that can spot and fix these mistakes. For example, some methods use a technique called "noise filtering," which looks at the data and tries to find the noisy examples. These examples can then be removed or their labels can be corrected before the model is trained. Another approach is "noise-tolerant learning," where the model is built to handle some level of noise without getting too confused. These methods help the model learn better even when some of the data is wrong.
 
 Another advanced technique to deal with class noise is using ensemble methods like "boosting." Boosting works by training many models one after the other, where each new model focuses more on the examples that the previous models got wrong. This can help because the noisy examples are often the ones that are hard to classify, so by paying more attention to them, the model can learn to handle them better. For example, the AdaBoost algorithm adjusts the weights of the training examples so that the harder (and potentially noisy) examples get more focus in later rounds of training. By doing this, the final model can be more robust to class noise and make better predictions overall.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[4]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python"](https://dl.acm.org/doi/10.5555/1953048.2078195). Journal of Machine Learning Research, 12, 2825-2830.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling"](https://link.springer.com/book/10.1007/978-1-4614-6849-3). Springer.
+
+[6]: Breiman, L. (2001). ["Random Forests"](https://link.springer.com/article/10.1023/A:1010933404324). Machine Learning, 45(1), 5-32.
+
+[7]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data"](https://ieeexplore.ieee.org/document/5128907). IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.

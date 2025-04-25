@@ -1,6 +1,7 @@
 ---
-title: "Spot Delivery Month"
-description: "Spot delivery in algo trading ensures immediate settlement of contracts, enhancing liquidity and market efficiency. Explore its mechanics and role in the financial ecosystem."
+title: Understanding Spot Delivery Month in Commodity Trading
+description: Spot Delivery Month marks when physical commodities change hands affecting
+  prices supply and trader strategies in futures markets Discover more inside.
 ---
 
 

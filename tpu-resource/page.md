@@ -98,3 +98,17 @@ with strategy.scope():
 Future developments in TPU technology for machine learning are expected to focus on making them even faster and more efficient. One big area of improvement is increasing the TPU's ability to do more calculations at the same time. This means that TPUs could handle even bigger models and larger datasets without slowing down. Another important development is improving the TPU's energy efficiency. By using less power to do the same amount of work, TPUs can help make machine learning tasks cheaper and more environmentally friendly. Researchers are also working on making TPUs more flexible, so they can handle a wider range of calculations and be easier to use for different kinds of machine learning projects.
 
 In addition to these improvements, we might see TPUs becoming more integrated with other types of hardware. This could mean that TPUs work better with GPUs and CPUs, allowing for more complex and powerful machine learning systems. Another exciting possibility is the development of smaller, more portable TPUs that can be used in devices like smartphones and laptops. This would make advanced machine learning capabilities available to more people and in more places. Overall, the future of TPU technology looks promising, with a focus on speed, efficiency, and broader applicability in the world of machine learning.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., Patterson, D., Agrawal, G., Bajwa, R., ... & Yoon, D. H. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://arxiv.org/abs/1704.04760) Proceedings of the 44th Annual International Symposium on Computer Architecture (ISCA).
+
+[2]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) Communications of the ACM, 51(1), 107-113.
+
+[3]: Abadi, M., Agarwal, A., Barham, P., Brevdo, E., Chen, Z., Citro, C., ... & Zheng, X. (2016). ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems."](https://arxiv.org/abs/1603.04467) (Software available from tensorflow.org).
+
+[4]: Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L. M., Reddi, V. J., ... & Jouppi, N. (2021). ["Carbon Emissions and Large Neural Network Training."](https://arxiv.org/abs/2104.10350) arXiv preprint arXiv:2104.10350.
+
+[5]: ["Fundamentals of Deep Learning: Designing Next-Generation Machine Intelligence Algorithms"](https://www.amazon.com/Fundamentals-Deep-Learning-Next-Generation-Intelligence/dp/149208218X) by Nikhil Buduma and Nicholas Locascio
+
+[6]: Google Cloud. ["Cloud TPU - ML Accelerators for TensorFlow"](https://cloud.google.com/blog/products/gcp/cloud-tpu-machine-learning-accelerators-now-available-in-beta) - Overview of Tensor Processing Units in the Google Cloud ecosystem.

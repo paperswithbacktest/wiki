@@ -1,6 +1,7 @@
 ---
-title: "Single Euro Payments Area: Overview and History"
-description: "Explore the evolution and impact of SEPA within the EU alongside algorithmic trading The integration highlights efficiency in modern financial markets"
+title: Single Euro Payments Area Explained for Businesses and Consumers
+description: Single Euro Payments Area streamlines euro payments with credit transfers
+  direct debits and instant payments for faster transactions Discover more inside.
 ---
 
 

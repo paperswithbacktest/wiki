@@ -89,3 +89,15 @@ Another technique is to use something called "regularization" in your loss funct
 Loss functions are super important in [deep learning](/wiki/deep-learning) because they help the model figure out how to get better. When you train a neural network, you want it to make the best guesses it can. The loss function tells the model how far off its guesses are from the right answers. This is where gradient descent comes in. Gradient descent is like a way for the model to find the path to the lowest loss. It does this by looking at the slope of the loss function, which is called the gradient. By moving in the opposite direction of the gradient, the model can make its loss smaller and its guesses better. The formula for updating weights in gradient descent is $$ w = w - \alpha \frac{\partial \text{Loss}}{\partial w} $$, where $w$ is a weight, $\alpha$ is the learning rate, and $\frac{\partial \text{Loss}}{\partial w}$ is the gradient of the loss with respect to the weight.
 
 Backpropagation is the magic that makes it possible to use gradient descent in deep neural networks. It's a way to figure out how much each part of the network contributed to the final loss. When the model makes a guess, backpropagation starts at the end and works backward through all the layers. It calculates how much each weight and bias affected the loss. This information is used to update the weights and biases to make the loss smaller next time. Backpropagation and gradient descent work together to help the model learn from its mistakes and get better at making guesses. By using the right loss function, gradient descent, and backpropagation, the neural network can keep improving until it's really good at its job.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press. This book provides an in-depth understanding of machine learning and neural networks, including loss functions and optimization techniques.
+
+[2]: Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press. This book offers a comprehensive introduction to the field of machine learning and covers various loss functions and their applications.
+
+[3]: Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer. This reference provides detailed insights into machine learning models, including the use of loss functions.
+
+[4]: ["An Overview of Gradient Descent Optimization Algorithms"](https://arxiv.org/abs/1609.04747) by Ruder, S. (2016). This paper reviews gradient descent optimization algorithms, which are core to updating model parameters using loss functions.
+
+[5]: Ng, A. (2011). [Machine Learning and AI specialization](https://www.deeplearning.ai/courses/machine-learning-specialization/) on Coursera. This series of courses by Andrew Ng includes lectures and insights on loss functions in various machine learning contexts.

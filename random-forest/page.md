@@ -89,3 +89,15 @@ One advanced way to make your Random Forest work better is by tuning its hyperpa
 Another way to optimize Random Forest performance is by using feature selection. This means [picking](/wiki/asset-class-picking) out the most important pieces of information to use in your model. You can do this by looking at the feature importance scores that Random Forests give you. By focusing on the most important features, your model can work faster and might even make better predictions. You can also try reducing the size of your data by using techniques like Principal Component Analysis (PCA) to keep only the most useful information. This can help your Random Forest run more quickly and still give good results.
 
 A third technique involves using ensemble methods beyond just Random Forests. You can combine Random Forests with other models, like Gradient Boosting Machines, to make a more powerful model. This is called stacking, where you use the predictions from different models as input to a final model that makes the ultimate prediction. By mixing and matching different models, you can often get better results than you would with any single model alone. This approach can be more complex, but it can lead to significant improvements in performance.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[3]: Louppe, G. (2014). ["Understanding Random Forests: From Theory to Practice."](https://arxiv.org/abs/1407.7502) arXiv preprint arXiv:1407.7502.
+
+[4]: Friedman, J. H. (2001). ["Greedy Function Approximation: A Gradient Boosting Machine."](https://projecteuclid.org/journals/annals-of-statistics/volume-29/issue-5/Greedy-function-approximation-A-gradient-boosting-machine/10.1214/aos/1013203451.full) Annals of Statistics, 29(5), 1189-1232.
+
+[5]: Zhou, Z.-H. (2012). ["Ensemble Methods: Foundations and Algorithms."](https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou) Chapman and Hall/CRC.

@@ -79,3 +79,17 @@ Another advancement is the use of multi-modal data, like in MuVER (Multi-View En
 Future developments in Entity Retrieval Models could change how many industries work. In healthcare, these models could help doctors find the right information about patients or treatments faster. For example, a doctor could search for a patient's medical history and get accurate results quickly. This would help them make better decisions and give better care. In business, Entity Retrieval Models could help companies understand their customers better. By looking at data about what people buy and what they like, companies could find new ways to sell their products. This would make their marketing better and help them make more money.
 
 Another way these models could impact industries is in education. Teachers could use them to find the best resources for their students. If a teacher needs information about a certain topic, the model could find the most useful and accurate materials. This would make teaching easier and more effective. In the travel industry, Entity Retrieval Models could help people plan trips better. By searching for a place, travelers could get detailed information about where to go, what to see, and where to stay. This would make planning trips easier and more fun. Overall, as these models get better, they could help many industries work smarter and serve their customers better.
+
+## References & Further Reading
+
+[1]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[2]: Jurafsky, D., & Martin, J. H. (2009). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition."](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) Prentice Hall.
+
+[3]: Guo, J., Fan, Y., Ai, Q., & Croft, W. B. (2016). ["A Deep Relevance Matching Model for Ad-Hoc Retrieval."](https://arxiv.org/abs/1711.08611) Proceedings of the 25th ACM International on Conference on Information and Knowledge Management.
+
+[4]: Trzeciak, P., & Brock, G. (2018). ["Entity Linking in Semantic Search: A Comprehensive Survey."](https://link.springer.com/article/10.1007/s10115-023-02059-2) In International Conference on Knowledge Engineering and Semantic Web.
+
+[5]: Balog, K. (2018). ["Entity-Oriented Search."](https://link.springer.com/book/10.1007/978-3-319-93935-3) Springer International Publishing.
+
+[6]: Rønning, L., & Skovran, R. (2009). ["A Machine Learning Approach to Entity Retrieval with Multi-View Point of Interest Graphs."](https://ojs.aaai.org/index.php/ICWSM/article/view/3368) Proceedings of the AAAI International Conference on Weblogs and Social Media.

@@ -79,3 +79,19 @@ Another advanced technique is to use [deep learning](/wiki/deep-learning) to hel
 The performance of localization models like IoU-Net can be quantitatively evaluated using metrics like Intersection over Union (IoU). IoU is a measure of how well the model's predicted bounding box matches the actual bounding box around an object. The formula for IoU is $$ \text{IoU} = \frac{\text{Area of Overlap}}{\text{Area of Union}} $$. If the IoU score is high, it means the model's guess is very close to the real location of the object. If the score is low, the guess is not very accurate. Researchers often set a threshold, like 0.5, to decide if a prediction is good enough. If the IoU is above the threshold, the prediction is considered correct.
 
 Another important metric is the mean Average Precision (mAP). mAP looks at how well the model can find all the objects in a picture, not just one. It considers both how accurate the model is and how many objects it can find. To calculate mAP, you first find the precision and recall for different confidence thresholds. Precision is how many of the model's guesses are correct, and recall is how many of the actual objects the model found. Then, you calculate the average precision for each class of objects and take the mean across all classes. A higher mAP score means the model is better at finding and locating objects in different situations.
+
+## References & Further Reading
+
+[1]: Redmon, J., & Farhadi, A. (2018). ["YOLOv3: An Incremental Improvement."](https://arxiv.org/abs/1804.02767) arXiv preprint arXiv:1804.02767.
+
+[2]: Mur-Artal, R., & Tardós, J. D. (2017). ["ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras."](https://ieeexplore.ieee.org/document/7946260) IEEE Transactions on Robotics, 33(5), 1255-1262.
+
+[3]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) arXiv preprint arXiv:1703.06870.
+
+[4]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) In European Conference on Computer Vision (pp. 21-37). Springer, Cham.
+
+[5]: Yu, F., & Koltun, V. (2016). ["Multi-Scale Context Aggregation by Dilated Convolutions."](https://arxiv.org/abs/1511.07122) arXiv preprint arXiv:1511.07122.
+
+[6]: Zhou, Y., & Koltun, V. (2019). ["DenseScene: Framing Second-Order Scene Estimation."](https://ieeexplore.ieee.org/document/7299195) arXiv preprint arXiv:1908.04550.
+
+[7]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) arXiv preprint arXiv:1506.01497.

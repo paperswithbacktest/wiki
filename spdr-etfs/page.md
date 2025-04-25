@@ -1,6 +1,7 @@
 ---
-title: "SPDR ETFs"
-description: "Discover how SPDR ETFs and algorithmic trading can enhance your investment strategy. Explore the synergy of diversified funds and automated trading in today's markets."
+title: Essential Strategies and Insights for Investing in SPDR ETFs
+description: SPDR ETFs provide low cost diversified access to market indexes and sectors
+  with flexible trading and expert management Discover more inside.
 ---
 
 

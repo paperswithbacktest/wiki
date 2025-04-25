@@ -1,6 +1,7 @@
 ---
-title: "Standby Underwriting: Overview and Mechanics"
-description: "Explore the essentials of standby underwriting and algo trading in the financial markets Understand how they impact IPOs market efficiency and risk management strategies"
+title: Standby Underwriting Guide for Issuers and Underwriters
+description: Standby underwriting gives issuers a safety net to secure capital by
+  covering unsold shares and optimizing stock pricing Discover more inside
 ---
 
 

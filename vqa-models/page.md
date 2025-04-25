@@ -79,3 +79,17 @@ Another state-of-the-art technique is the use of attention mechanisms, which hel
 Future developments in Visual Question Answering (VQA) models could have a big impact on other parts of AI and [machine learning](/wiki/machine-learning). As VQA models get better at understanding pictures and questions, they can help improve other technologies that use both pictures and words. For example, in robotics, smarter VQA models could help robots understand their surroundings better by answering questions about what they see. This could make robots more useful in places like homes and hospitals. Also, in healthcare, VQA models could help doctors by answering questions about medical images, making it easier to find problems and decide on treatments.
 
 Another way VQA could affect other fields is by helping to make better language models. Since VQA models need to understand both pictures and words, they can teach language models how to connect what they see with what they read. This could make language models better at understanding the world around them. For example, if a language model can use what it learns from VQA to understand pictures, it could give better answers to questions about real-life situations. This could help in areas like education, where smart language models could explain things using both words and pictures, making learning easier and more fun.
+
+## References & Further Reading
+
+[1]: Antol, S., Agrawal, A., Lu, J., Mitchell, M., Batra, D., Zitnick, C. L., & Parikh, D. (2015). ["VQA: Visual Question Answering."](https://arxiv.org/abs/1505.00468) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[2]: Goyal, Y., Khot, T., Summers-Stay, D., Batra, D., & Parikh, D. (2017). ["Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering."](https://arxiv.org/abs/1612.00837) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Tan, H., & Bansal, M. (2019). ["LXMERT: Learning Cross-Modality Encoder Representations from Transformers."](https://aclanthology.org/D19-1514/) Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+[4]: Johnson, J., Krishna, R., Stark, M., Li, L. J., Shamma, D. A., Bernstein, M. S., & Fei-Fei, L. (2015). ["Image Retrieval using Scene Graphs."](https://openaccess.thecvf.com/content_cvpr_2015/papers/Johnson_Image_Retrieval_Using_2015_CVPR_paper.pdf) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: Lu, J., Yang, J., Batra, D., & Parikh, D. (2016). ["Hierarchical Question-Image Co-Attention for Visual Question Answering."](https://arxiv.org/abs/1606.00061) Advances in Neural Information Processing Systems 29 (NeurIPS).
+
+[6]: Kim, J.-H., Jun, J., & Zhang, B.-T. (2018). ["Bilinear Attention Networks."](https://arxiv.org/abs/1805.07932) International Conference on Learning Representations (ICLR).

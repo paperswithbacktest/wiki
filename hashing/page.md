@@ -81,3 +81,19 @@ In machine learning, LSH is used for tasks like finding similar text documents o
 Future trends in hashing for machine learning are focusing on making hash functions even smarter and more efficient. One big area of research is developing better ways to handle hash collisions, where different pieces of data get turned into the same number. Researchers are working on new techniques like learned hashing, where machine learning models are used to create hash functions that keep more of the original data's meaning. This can help make models more accurate by reducing the loss of information that happens with traditional hashing. Another trend is improving locality-sensitive hashing (LSH) to work even better with big data, making it faster and more effective at finding similar items.
 
 Another important direction is using hashing to help with privacy and security in machine learning. Techniques like differential privacy are being combined with hashing to protect sensitive data while still allowing useful analysis. For example, researchers are exploring ways to hash data in a way that makes it hard to figure out the original information, but still lets machine learning models learn from it. This is important for applications like healthcare, where you want to use data to improve treatments but need to keep patient information private. As machine learning continues to grow, these trends in hashing will play a big role in making it more powerful and secure.
+
+## References & Further Reading
+
+[1]: Weinberger, K. Q., Dasgupta, A., Langford, J., Smola, A., & Attenberg, J. (2009). ["Feature Hashing for Large Scale Multitask Learning."](https://arxiv.org/abs/0902.2206) Proceedings of the 26th Annual International Conference on Machine Learning.
+
+[2]: Gionis, A., Indyk, P., & Motwani, R. (1999). ["Similarity Search in High Dimensions via Hashing."](https://www.researchgate.net/publication/2634460_Similarity_Search_in_High_Dimensions_via_Hashing) Proceedings of the 25th International Conference on Very Large Data Bases.
+
+[3]: Andoni, A., & Indyk, P. (2008). ["Near-Optimal Hashing Algorithms for Approximate Nearest Neighbor in High Dimensions."](https://people.csail.mit.edu/indyk/p117-andoni.pdf) Communications of the ACM.
+
+[4]: Raginsky, M., & Lazebnik, S. (2009). ["Locality-Sensitive Binary Codes from Shift-Invariant Kernels."](http://maxim.ece.illinois.edu/pubs/raginsky_lazebnik_NIPS09.pdf) Advances in Neural Information Processing Systems 22.
+
+[5]: Kanerva, P. (1988). ["Sparse Distributed Memory"](https://en.wikipedia.org/wiki/Sparse_distributed_memory) MIT Press.
+
+[6]: Baluja, S., & Covell, M. (2008). ["Learning to Hash: Forgiving Hash Functions and Applications."](https://link.springer.com/article/10.1007/s10618-008-0096-z) Data Mining and Knowledge Discovery.
+
+[7]: Shalev-Shwartz, S., & Ben-David, S. (2014). ["Understanding Machine Learning: From Theory to Algorithms."](https://assets.cambridge.org/97811070/57135/frontmatter/9781107057135_frontmatter.pdf) Cambridge University Press.

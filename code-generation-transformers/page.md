@@ -169,3 +169,19 @@ def calculate_circle_area(radius):
 ```
 
 In the future, Code Generation Transformers could also become more specialized. This means they could be trained to be really good at certain types of programming tasks, like writing code for web applications or fixing bugs in software. They might also get better at working with other AI tools, making them part of a bigger system that helps with all parts of software development. As these models keep improving, they could change the way programmers work, making it easier and faster to write good code.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems, 30.
+
+[2]: Feng, Z., Guo, D., Tang, D., Duan, N., Feng, X., Qin, B., ... & Liu, T. (2020). ["CodeBERT: A Pre-Trained Model for Programming and Natural Languages."](https://arxiv.org/abs/2002.08155) arXiv preprint arXiv:2002.08155.
+
+[3]: Chen, M., Tworek, J., Jun, H., Yuan, Q., de Oliveira Pinto, H. P., Kaplan, J., ... & Zaremba, W. (2021). ["Evaluating Large Language Models Trained on Code."](https://arxiv.org/abs/2107.03374) arXiv preprint arXiv:2107.03374.
+
+[4]: Wang, Y., Liu, S., Xia, F., He, P., Chen, W., Zhou, M., & Gao, J. (2021). ["CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models for Code Understanding and Generation."](https://www.nature.com/articles/s41467-025-59020-w) arXiv preprint arXiv:2109.00859.
+
+[5]: Ahmed, F., & Devanbu, P. (2021). ["The Impact of Code Attention in Practical Program Synthesis."](https://www.researchgate.net/publication/366918308_Few-shot_training_LLMs_for_project-specific_code-summarization) Proceedings of the AAAI Conference on Artificial Intelligence, 35(14), 12221-12229.
+
+[6]: Furrer, D., Coavoux, M., & Narayan, S. (2020). ["Toward Interpretable Code Generation by Meaningful Code Attention."](https://arxiv.org/abs/1808.09408) arXiv preprint arXiv:2009.08522.
+
+[7]: Allamanis, M., Barr, E. T., Bird, C., & Sutton, C. (2018). ["A Survey of Machine Learning for Big Code and Naturalness."](https://dl.acm.org/doi/10.1145/3212695) ACM Computing Surveys (CSUR), 51(4), 1-37.

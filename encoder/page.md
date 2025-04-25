@@ -79,3 +79,21 @@ Another technique to improve encoder performance is using regularization methods
 The architecture of an encoder can have a big impact on how efficient and accurate a model is. If the encoder is simple, with fewer layers and parameters, it can be faster to train and use less computer power. This is good for tasks where you need quick results or when you don't have a lot of computing resources. But a simple encoder might not be able to capture all the important parts of the data, which can make the model less accurate. On the other hand, a more complex encoder, with more layers and parameters, can capture more details and be more accurate. But it can also take longer to train and need more computer power, which might not be good for all situations.
 
 Choosing the right encoder architecture is all about finding a balance between speed and accuracy. For example, in natural language processing, using a transformer encoder can help the model understand the relationships between words better, making it more accurate. But transformers can be slow and need a lot of computer power. If you use a simpler encoder like a recurrent neural network (RNN), it might be faster but not as good at understanding long sentences. So, you need to think about what's more important for your task: getting quick results or getting the most accurate results possible. By experimenting with different encoder architectures, you can find the best one for your specific needs.
+
+## References & Further Reading
+
+[1]: Bengio, Y., Courville, A., & Vincent, P. (2013). ["Representation Learning: A Review and New Perspectives."](https://ieeexplore.ieee.org/document/6472238) Journal of Machine Learning Research, 14, 1.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[3]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://ieeexplore.ieee.org/abstract/document/6795963) Neural Computation, 9(8), 1735–1780.
+
+[7]: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). ["Sequence to Sequence Learning with Neural Networks."](https://arxiv.org/abs/1409.3215) Advances in Neural Information Processing Systems.
+
+[8]: O'Shea, K., & Nash, R. (2015). ["An Introduction to Convolutional Neural Networks."](https://arxiv.org/abs/1511.08458) arXiv preprint arXiv:1511.08458.

@@ -83,3 +83,15 @@ Another trend is the integration of [reinforcement learning](/wiki/reinforcement
 In reinforcement learning, termination conditions are a bit different from those in traditional machine learning. Traditional machine learning, like supervised or unsupervised learning, often uses conditions based on performance metrics, such as the model's loss or accuracy on a validation set. For example, if the loss on the validation set doesn't decrease by a certain amount, like $$ \Delta \text{loss} < \epsilon $$, the training might stop. This helps prevent overfitting and ensures the model performs well on new data. In contrast, reinforcement learning involves an agent that learns by interacting with an environment and receiving rewards. The termination condition in reinforcement learning might be based on reaching a certain level of performance or reward, or when the agent's policy stops improving.
 
 In reinforcement learning, one common termination condition is when the agent reaches a target performance threshold, like a certain average reward over a number of episodes. Another condition might be based on the number of training episodes or steps, similar to epochs in traditional machine learning, but with a focus on the agent's interaction with the environment. For example, training might stop after a set number of episodes or when the agent's performance, measured by the cumulative reward, stops improving. These conditions help ensure the agent learns the optimal policy without training indefinitely, balancing the need to explore the environment and exploit learned knowledge effectively.
+
+## References & Further Reading
+
+[1]: Prechelt, L. (1998). ["Early Stopping — But When?"](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_5) In Neural Networks: Tricks of the Trade. Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning](https://www.deeplearningbook.org/). MIT Press. Chapter 7 discusses optimization strategies, including termination conditions.
+
+[3]: Caruana, R., Lawrence, S., & Giles, C. L. (2001). ["Overfitting in Neural Nets: Backpropagation, Conjugate Gradient, and Early Stopping."](https://www.researchgate.net/publication/221620260_Overfitting_in_Neural_Nets_Backpropagation_Conjugate_Gradient_and_Early_Stopping) Advances in Neural Information Processing Systems.
+
+[4]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15, 1929–1958.
+
+[5]: Yao, Y., Rosasco, L., & Caponnetto, A. (2007). ["On Early Stopping in Gradient Descent Learning."](https://link.springer.com/article/10.1007/s00365-006-0663-2) Constructive Approximation, 26(2), 289-315.

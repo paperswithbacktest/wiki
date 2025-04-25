@@ -1,6 +1,7 @@
 ---
-title: "Sortino Ratio: Formula, Calculation, and Example"
-description: "Explore the Sortino Ratio to understand its role in risk-adjusted returns, particularly for risk-averse investors in algorithmic trading focusing on downside risk."
+title: Understanding the Sortino Ratio for Downside Risk Management
+description: Sortino Ratio offers focused insight into downside risk by measuring
+  returns relative to potential losses in active portfolios. Discover more inside.
 ---
 
 

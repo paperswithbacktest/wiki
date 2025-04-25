@@ -79,3 +79,15 @@ However, using a bigger context window also means the model needs more computer 
 Researchers are working on new ways to make context windows better in [machine learning](/wiki/machine-learning). One big area of research is about making context windows change size on their own, depending on what the model is looking at. This is called adaptive windowing. For example, if the model sees something really important in the text, like the start of a new chapter in a book, it might make the context window bigger to understand more of the story. If it's looking at something less important, like a list of names, it might make the window smaller to save on computer power. By doing this, the model can focus on what matters most and use resources more efficiently.
 
 Another area of research is about using different levels of context windows, which is called hierarchical attention. This technique breaks the text into different parts, like sentences and paragraphs, and uses different context windows for each part. The model can then pay more attention to the most important parts and use smaller windows for the less important ones. For example, if the model is reading a long article, it might use a big context window to understand the main ideas in each paragraph, but a smaller window to focus on the details in each sentence. This way, the model can handle different parts of the text in the best way possible and still keep track of the big picture.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[3]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[4]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation.
+
+[5]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding with Unsupervised Learning."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI.

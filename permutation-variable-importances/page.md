@@ -87,3 +87,15 @@ The key thing is to pick a performance metric that matches what your model is tr
 One way to make Permutation Variable Importance more accurate is by using cross-validation. This means you split your data into different parts and test your model on each part. By doing this, you can get a better idea of how important each feature really is. Cross-validation helps because it uses different parts of your data to check the model's performance, which can make your results more reliable. If you shuffle a feature and the model's performance changes a lot across all parts of the data, you can be more sure that the feature is important.
 
 Another technique is to shuffle and test each feature many times and use the average importance score. This can help because the results can vary depending on how you shuffle the data. By doing it many times, you can get a more stable estimate of how important each feature is. For example, if you shuffle the temperature feature 100 times and the model's performance changes a lot each time, you can be pretty sure that temperature is an important feature. This way, you can trust your results more and make better decisions about which features to focus on.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[2]: Fisher, A., Rudin, C., & Dominici, F. (2018). ["All Models are Wrong, but Many are Useful: Variable Importance for Black-Box, Proprietary, or Misspecified Prediction Models, using Model Class Reliance."](https://pubmed.ncbi.nlm.nih.gov/34335110/) arXiv preprint arXiv:1801.01489.
+
+[3]: Lundberg, S. M., & Lee, S.-I. (2017). ["A Unified Approach to Interpreting Model Predictions."](https://dl.acm.org/doi/10.5555/3295222.3295230) In Advances in Neural Information Processing Systems (pp. 4765-4774).
+
+[4]: Molnar, C. (2019). ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable."](https://christophm.github.io/interpretable-ml-book/) 
+
+[5]: Gevrey, M., Dimopoulos, I., & Lek, S. (2003). ["Review and Comparison of Methods to Study the Contribution of Variables in Artificial Neural Network Models."](https://www.sciencedirect.com/science/article/pii/S0304380002002570) Ecological Modelling, 160(3), 249-264.

@@ -79,3 +79,21 @@ Using Monte Carlo methods is especially helpful in complex environments where it
 Recent advancements in return optimization for deep reinforcement learning have focused on improving the efficiency and effectiveness of how [agents](/wiki/agents) learn to maximize their returns. One key development is the use of advanced policy gradient methods, like Proximal Policy Optimization (PPO) and Trust Region Policy Optimization (TRPO). These methods help the agent change its strategy in a safe way, so it can get better at the task without making big mistakes. They do this by limiting how much the policy can change at once, which helps the agent learn faster and more reliably. The formula for updating the policy in PPO, for example, includes a clipping function to keep the policy changes small: $$ L^{CLIP}(\theta) = \hat{\mathbb{E}}_t \left[ \min \left( r_t(\theta) \hat{A}_t, \text{[clip](/wiki/clip)}(r_t(\theta), 1-\epsilon, 1+\epsilon) \hat{A}_t \right) \right] $$, where 'r_t' is the ratio of the new and old policies, 'A_t' is the advantage, and 'epsilon' is a small number that limits the change.
 
 Another advancement is the use of off-policy learning methods like Deep Q-Networks (DQN) with experience replay. Experience replay lets the agent learn from its past experiences by storing them in a memory and then randomly sampling from this memory to update its strategy. This helps the agent use its experiences more efficiently and learn from a wider range of situations. A recent improvement on DQN is the use of dueling networks, which split the Q-value function into two parts: one that estimates the value of being in a state and another that estimates the advantage of taking a specific action. The formula for the dueling network is $$ Q(s, a) = V(s) + (A(s, a) - \frac{1}{N} \sum_{a'} A(s, a')) $$, where 'V(s)' is the state value, 'A(s, a)' is the action advantage, and 'N' is the number of actions. This separation helps the agent better understand the value of states and actions, leading to more accurate return estimates and better performance in complex tasks.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Silver, D., Sutton, R. S., & Müller, M. (2008). ["Sample-Based Learning and Search with Permanent and Transient Memories."](https://dl.acm.org/doi/10.1145/1390156.1390278) Advances in Neural Information Processing Systems 21.
+
+[3]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[4]: Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). ["Proximal Policy Optimization Algorithms."](https://arxiv.org/abs/1707.06347) arXiv preprint arXiv:1707.06347.
+
+[5]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.
+
+[6]: van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep reinforcement learning with double Q-learning."](https://arxiv.org/abs/1509.06461) Proceedings of the AAAI Conference on Artificial Intelligence, 30(1).
+
+[7]: Bellemare, M. G., Dabney, W., & Munos, R. (2017). ["A Distributional Perspective on Reinforcement Learning."](https://arxiv.org/abs/1707.06887) arXiv preprint arXiv:1707.06887.
+
+[8]: Szepesvári, C. (2010). ["Algorithms for Reinforcement Learning."](https://www.researchgate.net/publication/220696313_Algorithms_for_Reinforcement_Learning) Synthesis Lectures on Artificial Intelligence and Machine Learning, 4(1), 1-103.

@@ -83,3 +83,17 @@ Another way to make conversational models better is by using them with other AI 
 When we use conversational models, we need to think about ethics and fairness. One big worry is that these models might treat some people unfairly. This can happen if the data used to train the models has biases in it. For example, if the data mostly comes from one group of people, the model might not understand or help other groups well. This can lead to unfair treatment, like giving bad advice or not understanding what some people need. It's important to check the data and make sure it includes many different kinds of people so the model can be fair to everyone.
 
 Another ethical issue is privacy. When people talk to conversational models, they might share personal information. It's important that this information is kept safe and not used in ways that could harm them. Also, we need to be clear with people about how their data is used. If the model learns from what people say, it should not repeat personal details in other conversations. Companies and researchers need to work hard to make sure conversational models are used in a way that respects people's privacy and treats everyone fairly.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is all you need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI GPT-2.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (1st ed.). Manning Publications.
+
+[5]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) Neural Computation, 9(8), 1735-1780.
+
+[6]: Jurafsky, D., & Martin, J. H. (2009). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) (2nd ed.). Prentice Hall.

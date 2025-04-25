@@ -79,3 +79,15 @@ You can also use more general metrics like accuracy or F1 score, especially for 
 In one case study, researchers at a tech company wanted to improve a language model's ability to summarize news articles. They used prompt tuning by trying different ways to ask the model to summarize the articles. They found that using the prompt "Give a brief summary of this news article" worked much better than just saying "Summarize this." The model's summaries became more accurate and included more important information. They measured this improvement using the ROUGE score, which went up from 0.35 to 0.42 after they found the right prompt. This showed that prompt tuning could make a big difference without changing the model itself.
 
 Another case study involved a customer service chatbot. The company wanted the chatbot to answer customer questions more helpfully. They used prompt tuning to test different ways of asking the chatbot to respond. They discovered that the prompt "Please provide a detailed answer to the customer's question" led to more thorough and useful responses than simply saying "Answer this question." They used accuracy as a metric and found that the chatbot's correct responses increased from 75% to 85% with the new prompt. This case study showed how prompt tuning could improve the chatbot's performance and make customers happier without any need for retraining the model.
+
+## References & Further Reading
+
+[1]: Lester, B., Al-Rfou, R., & Constant, N. (2021). ["The Power of Scale for Parameter-Efficient Prompt Tuning."](https://arxiv.org/abs/2104.08691) arXiv.
+
+[2]: Li, X. L., & Liang, P. (2021). ["Prefix-Tuning: Optimizing Continuous Prompts for Generation."](https://arxiv.org/abs/2101.00190) arXiv.
+
+[3]: Schick, T., & Schütze, H. (2021). ["Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference."](https://aclanthology.org/2021.eacl-main.20/) Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[4]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv.
+
+[5]: Sun, T., Shrivastava, A., Singh, A., & Gupta, A. (2022). ["MetaPrompting: Learning to Learn Better Prompts."](https://arxiv.org/abs/2209.11486) arXiv.

@@ -85,3 +85,19 @@ Another advancement is the integration of image recognition with other technolog
 Ethical considerations and biases can have a big impact on image recognition systems. One of the main problems is that these systems can be biased if they are trained on data that doesn't represent everyone equally. For example, if a system is trained mostly on images of people with lighter skin, it might not recognize people with darker skin as well. This can lead to unfair treatment and discrimination, especially in applications like facial recognition used for security or hiring. It's important for people who make these systems to use diverse datasets and check for biases to make sure the systems treat everyone fairly.
 
 Another ethical issue is privacy. Image recognition systems, especially those used in public places like stores or streets, can collect a lot of personal information without people knowing or agreeing. This raises concerns about how this data is used and who can see it. There's also the risk that these systems might be used to watch people too closely or in ways that invade their privacy. To deal with these issues, it's important to have clear rules about how image recognition systems are used and to make sure people know when they are being watched or recorded. By thinking about these ethical problems and working to fix them, we can make image recognition technology better and more fair for everyone.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-based learning applied to document recognition."](https://ieeexplore.ieee.org/document/726791) Proceedings of the IEEE, 86(11), 2278-2324.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet classification with deep convolutional neural networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems, 25.
+
+[3]: Deng, J., Dong, W., Socher, R., Li, L.-J., Li, K., & Fei-Fei, L. (2009). ["ImageNet: A large-scale hierarchical image database."](https://ieeexplore.ieee.org/document/5206848) 2009 IEEE Conference on Computer Vision and Pattern Recognition.
+
+[4]: Simonyan, K., & Zisserman, A. (2015). ["Very deep convolutional networks for large-scale image recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.
+
+[5]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep residual learning for image recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 770-778.
+
+[6]: Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollár, P., & Zitnick, C. L. (2014). ["Microsoft COCO: Common objects in context."](https://arxiv.org/abs/1405.0312) European conference on computer vision.
+
+[7]: Krizhevsky, A., & Hinton, G. (2009). ["Learning multiple layers of features from tiny images."](https://xueshu.baidu.com/usercenter/paper/show?paperid=c55665fb879e98e130fce77052d4c8e8) Technical report, University of Toronto.

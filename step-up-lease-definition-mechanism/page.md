@@ -1,6 +1,7 @@
 ---
-title: "Step-Up Lease: Definition and Mechanism"
-description: "Explore the intricacies of step-up leases and algorithmic trading in commercial real estate to enhance investment strategies and forecast market trends efficiently."
+title: Understanding Step-Up Lease Structures for Landlords and Tenants
+description: Step-Up Lease lets tenants pay lower rent that increases on a set schedule
+  while landlords boost income and tenants plan budgets Discover more inside
 ---
 
 

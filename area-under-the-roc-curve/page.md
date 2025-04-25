@@ -99,3 +99,19 @@ To improve the AUC in practice, one common technique is to use different methods
 Another advanced technique is to use ensemble methods, which means you combine the predictions of several different models to get a better overall prediction. One popular way to do this is with a method called boosting, where you build a series of models one after the other, and each new model tries to fix the mistakes of the last one. For example, you can use a method called AdaBoost, which gives more weight to the examples that were guessed wrong by the last model. This can help your model focus on the hard examples and improve the AUC. Another ensemble method is Random Forests, which builds a lot of decision trees and combines their predictions. This can help reduce overfitting and improve the AUC by making your model more stable and accurate.
 
 You can also try different ways to change the features of your data, which is called feature engineering. This can help your model find better ways to tell things apart. For example, you can create new features by combining existing ones, or you can use techniques like Principal Component Analysis (PCA) to reduce the number of features while keeping the most important information. This can help your model learn better and improve the AUC. If you want to try these techniques in Python, you can use libraries like `imbalanced-learn` for handling class imbalance, `scikit-learn` for ensemble methods and feature engineering, and `numpy` and `pandas` for working with your data.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An Introduction to ROC Analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861-874.
+
+[2]: Bradley, A. P. (1997). ["The Use of the Area Under the ROC Curve in the Evaluation of Machine Learning Algorithms."](https://www.sciencedirect.com/science/article/abs/pii/S0031320396001422) Pattern Recognition, 30(7), 1145-1159.
+
+[3]: Hanley, J. A., & McNeil, B. J. (1982). ["The Meaning and Use of the Area Under a Receiver Operating Characteristic (ROC) Curve."](https://pubmed.ncbi.nlm.nih.gov/7063747/) Radiology, 143(1), 29-36.
+
+[4]: Sun, Y., Wong, A. K. C., & Kamel, M. S. (2009). ["Classification of Imbalanced Data: A Review."](https://www.researchgate.net/publication/263913891_Classification_of_imbalanced_data_a_review) International Journal of Pattern Recognition and Artificial Intelligence, 23(04), 687-719.
+
+[5]: ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) by Christopher M. Bishop
+
+[6]: Provost, F., & Fawcett, T. (2001). ["Robust Classification for Imprecise Environments."](https://link.springer.com/article/10.1023/A:1007601015854) Machine Learning, 42, 203-231.
+
+[7]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-measure to ROC, Informedness, Markedness and Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.

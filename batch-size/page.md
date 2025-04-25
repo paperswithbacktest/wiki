@@ -79,3 +79,15 @@ Finding the right batch size in a distributed setup is important to make sure yo
 Batch size and learning rate work together to help a model learn. The learning rate is like how big of a step the model takes when it updates itself. If the learning rate is too big, the model might take steps that are too large and miss the best solution. If it's too small, the model might take tiny steps and take a long time to learn. The batch size affects how often the model updates itself. A smaller batch size means the model updates more often, so it might need a smaller learning rate to keep the steps small and steady. A larger batch size means the model updates less often, so it might be okay with a larger learning rate because the steps are more spread out.
 
 Finding the right balance between batch size and learning rate is important for the model to learn well. If you use a small batch size and a large learning rate, the model might jump around a lot and not learn smoothly. On the other hand, if you use a large batch size and a small learning rate, the model might take too long to learn because the steps are too small and too far apart. A good way to find the best combination is to try different batch sizes and learning rates and see what works best for your model and data.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Smith, L. N.. (2017). ["Cyclical Learning Rates for Training Neural Networks."](https://arxiv.org/abs/1506.01186) 2017 IEEE Winter Conference on Applications of Computer Vision (WACV), 464-472.
+
+[3]: Keskar, N. S., Mudigere, D., Nocedal, J., Smelyanskiy, M., & Tang, P. T. P. (2016). ["On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima"](https://arxiv.org/abs/1609.04836). arXiv preprint arXiv:1609.04836.
+
+[4]: Masters, D., & Luschi, C. (2018). ["Revisiting Small Batch Training for Deep Neural Networks."](https://arxiv.org/abs/1804.07612) arXiv preprint arXiv:1804.07612.
+
+[5]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent"](https://link.springer.com/chapter/10.1007/978-3-7908-2604-3_16). Proceedings of COMPSTAT'2010. 177-186.

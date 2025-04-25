@@ -79,3 +79,15 @@ Another approach to optimize MCMC for complex models is to use gradient-based me
 One way to make MCMC methods like Metropolis-Hastings, reSGLD, and CSGLD more efficient is by using smarter proposal distributions. For example, in Metropolis-Hastings, you can use adaptive MCMC, which adjusts the proposal distribution as you learn more about the space you're exploring. This is like changing your walking strategy on a mountain to find the best path more quickly. Another technique is parallel tempering, where you run multiple chains at different "temperatures." This helps the chains escape from tricky spots and explore more of the space, making the overall exploration more efficient. For reSGLD and CSGLD, you can use the gradient of the log-posterior to guide the steps, making it easier to move towards the more likely areas. The update rule for reSGLD, for instance, is $$ x_{t+1} = x_t + \frac{\epsilon}{2} \nabla \log \pi(x_t) + \sqrt{\epsilon} \cdot \eta_t $$, which combines the gradient with some randomness to explore effectively.
 
 Another advanced technique to improve efficiency is using Hamiltonian Monte Carlo (HMC). HMC adds [momentum](/wiki/momentum) to the exploration, making it easier to move through high-dimensional spaces. It's like using a sled to slide down a mountain, allowing you to cover more ground quickly. HMC uses the Hamiltonian dynamics to propose new states, which can be more effective than random jumps. Additionally, using mini-batches of data can make these methods faster, especially when dealing with large datasets. By processing smaller chunks of data at a time, you can calculate the gradient more quickly and make the MCMC process more scalable. Combining these techniques can significantly enhance the performance of MCMC methods, even for very complex models.
+
+## References & Further Reading
+
+[1]: Gilks, W. R., Richardson, S., & Spiegelhalter, D. (1995). ["Markov Chain Monte Carlo in Practice."](https://www.taylorfrancis.com/books/mono/10.1201/b14835/markov-chain-monte-carlo-practice-david-spiegelhalter-gilks-richardson) Chapman & Hall/CRC.
+
+[2]: Brooks, S., Gelman, A., Jones, G., & Meng, X. L. (Eds.). (2011). ["Handbook of Markov Chain Monte Carlo."](https://www.taylorfrancis.com/books/edit/10.1201/b10905/handbook-markov-chain-monte-carlo-galin-jones-xiao-li-meng-andrew-gelman-steve-brooks) Chapman & Hall/CRC.
+
+[3]: Andrieu, C., de Freitas, N., Doucet, A., & Jordan, M. I. (2003). ["An Introduction to MCMC for Machine Learning."](https://link.springer.com/article/10.1023/A:1020281327116) Journal of Machine Learning Research, 4: 1107-1153.
+
+[4]: Neal, R. M. (1993). ["Probabilistic Inference Using Markov Chain Monte Carlo Methods."](https://archive.org/download/mathematics_202103/Applied%20mathematics-Probabilistic%20Inference%20Using%20Markov%20Chain%20Monte%20Carlo%20Methods%20-%20R.%20Neal.pdf) Department of Computer Science, University of Toronto.
+
+[5]: Vihola, M. (2012). ["Robust Adaptive Metropolis Algorithm with Coerced Acceptance Rate."](https://link.springer.com/article/10.1007/s11222-011-9269-5) Bernoulli 19(5B): 2398-2425.

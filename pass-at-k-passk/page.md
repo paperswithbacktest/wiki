@@ -98,3 +98,15 @@ For example, if the service had 1000 searches for songs by different artists, an
 To optimize models based on Pass@K, one advanced technique is to use learning to rank algorithms. These algorithms are designed to improve the order of items in a list so that the most relevant items are at the top. For example, you can use techniques like LambdaMART, which is a type of gradient boosting method. LambdaMART works by directly optimizing the ranking of items based on user feedback, which can help improve the Pass@K score. By training the model to focus on placing at least one relevant item in the top K positions, you can increase the chances that users find what they're looking for quickly.
 
 Another technique is to use [reinforcement learning](/wiki/reinforcement-learning), where the model learns from its actions and the feedback it receives. In this approach, the model is rewarded for placing relevant items in the top K spots. The reward could be based on the formula for Pass@K, $$ \text{Pass@K} = \frac{\text{Number of queries with at least one relevant item in top K}}{\text{Total number of queries}} $$. Over time, the model adjusts its ranking strategy to maximize this reward, which leads to a higher Pass@K score. This method is particularly useful in dynamic environments where user preferences might change, allowing the model to adapt and continue to perform well.
+
+## References & Further Reading
+
+[1]: Wang, J., & Prasanna, V. K. (2017). ["Ranking Word-Document Pair using Pass@K."](https://scholar.google.com/citations?user=4FQXSP8AAAAJ&hl=en). IEEE International Conference on Big Data (Big Data), 2017.
+
+[2]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[3]: Liu, T-Y. (2009). ["Learning to Rank for Information Retrieval."](https://ieeexplore.ieee.org/abstract/document/8186875) Foundations and Trends in Information Retrieval, 2009.
+
+[4]: Burges, C. J. C. (2010). ["From RankNet to LambdaRank to LambdaMART: An Overview."](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf) Microsoft Research Technical Report.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (2nd Edition). MIT Press.

@@ -1,6 +1,7 @@
 ---
-title: "Sunspot: Definition, Function, and Origin"
-description: "Discover the intriguing connection between sunspots and financial markets Explore how solar activity may influence algorithmic trading strategies in this article"
+title: Sunspots Explained and Their Effects on Earth and Space Weather
+description: Sunspots show how the Suns magnetic activity drives solar cycles space
+  weather and even influences Earths climate and communications Discover more inside
 ---
 
 

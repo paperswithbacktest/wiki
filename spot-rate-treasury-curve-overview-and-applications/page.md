@@ -1,6 +1,7 @@
 ---
-title: "Spot Rate Treasury Curve: Overview and Applications"
-description: "Explore the intersection of algorithmic trading and financial analysis using the treasury curve and spot rates to enhance trading strategies and economic insights."
+title: Spot Rate Treasury Curve Guide for Bond Pricing and Analysis
+description: Spot Rate Treasury Curve analysis reveals borrowing costs across maturities
+  and guides bond pricing and risk management. Discover more inside.
 ---
 
 

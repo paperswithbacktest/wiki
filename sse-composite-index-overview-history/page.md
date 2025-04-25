@@ -1,6 +1,7 @@
 ---
-title: "SSE Composite Index: Overview and History"
-description: "Explore the SSE Composite Index's role in China's economy from its history to its calculation essential for informed investment and algorithmic trading strategies."
+title: Comprehensive Overview of the SSE Composite Stock Market Index
+description: SSE Composite Index tracks all stocks on the Shanghai Stock Exchange
+  to reveal market health and timely insights to guide investors Discover more inside.
 ---
 
 

@@ -194,3 +194,15 @@ class MyModel(nn.Module):
 ```
 
 Another regularization technique is "batch normalization," which normalizes the inputs to each layer to help the model learn more smoothly. These techniques can help your model perform better on new data and reduce the validation loss. By using these advanced methods, you can make your deep learning model more reliable and effective.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15(56), 1929-1958.
+
+[3]: Bengio, Y. (2012). ["Practical recommendations for gradient-based training of deep architectures."](https://arxiv.org/abs/1206.5533) arXiv preprint arXiv:1206.5533.
+
+[4]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.

@@ -79,3 +79,15 @@ In technical terms, FlashAttention optimizes the standard attention formula $$a 
 Attention mechanisms help make [deep learning](/wiki/deep-learning) models easier to understand by showing which parts of the input the model is focusing on. Imagine you're reading a long article and trying to answer a question about it. You would quickly scan the text and focus on the parts that seem most relevant to the question. Attention mechanisms do something similar for deep learning models. By highlighting which parts of the input, like words in a sentence or pixels in an image, the model pays more attention to, we can see how the model makes its decisions. This makes it easier for people to understand why the model gives a certain answer or prediction.
 
 For example, in a model that translates sentences from one language to another, attention can show which words in the original sentence are most important for each word in the translated sentence. If you see that the model is focusing on the word "cat" when translating "The cat is on the mat," it makes sense that the model is trying to understand and translate that part correctly. This transparency helps researchers and users trust the model more because they can see the reasoning behind its outputs. By using attention, we can make deep learning models not just more accurate but also more interpretable, which is crucial for applying these models in real-world situations where understanding the model's decisions is important.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[2]: Bahdanau, D., Cho, K., & Bengio, Y. (2014). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473.
+
+[3]: Choromanski, K., Likhosherstov, V., Dohan, D., Song, X., Gane, A., Sarlos, T., ... & Weller, A. (2021). ["Rethinking Attention with Performers."](https://arxiv.org/abs/2009.14794) arXiv preprint arXiv:2009.14794.
+
+[4]: Luong, M. T., Pham, H., & Manning, C. D. (2015). ["Effective Approaches to Attention-based Neural Machine Translation."](https://aclanthology.org/D15-1166/) arXiv preprint arXiv:1508.04025.
+
+[5]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2021). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) arXiv preprint arXiv:2010.11929.

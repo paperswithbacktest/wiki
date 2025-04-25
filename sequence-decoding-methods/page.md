@@ -83,3 +83,21 @@ Another technique is to use [reinforcement learning](/wiki/reinforcement-learnin
 In the future, sequence decoding methods are expected to become even better at understanding and generating sequences of data. One big development might be the use of more advanced neural networks, like transformer models, which are already good at handling sequences. These models could get even better at paying attention to different parts of the input, making translations and text generation more accurate and natural-sounding. Another exciting area is the integration of more real-time learning, where models can keep improving themselves as they get more data. This means they can adapt to new words, phrases, or even different languages more quickly and effectively.
 
 Another future development could be in making sequence decoding faster and more efficient. Right now, some methods like beam search can be slow because they look at many different possibilities. But new techniques might find ways to do this faster, maybe by using special hardware like GPUs or even quantum computing. Also, there could be more focus on making sure the sequences are not just accurate but also safe and appropriate, especially for things like customer service chatbots or social media moderation. By combining these improvements, sequence decoding could become a powerful tool that works well in many different situations.
+
+## References & Further Reading
+
+[1]: Bahdanau, D., Cho, K., & Bengio, Y. (2014). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473.
+
+[2]: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). ["Sequence to Sequence Learning with Neural Networks."](https://arxiv.org/abs/1409.3215) Advances in Neural Information Processing Systems 27.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[4]: Bengio, S., Vinyals, O., Jaitly, N., & Shazeer, N. (2015). ["Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks."](https://arxiv.org/abs/1506.03099) Advances in Neural Information Processing Systems 28.
+
+[5]: Ranzato, M., Chopra, S., Auli, M., & Zaremba, W. (2015). ["Sequence Level Training with Recurrent Neural Networks."](https://arxiv.org/abs/1511.06732) arXiv preprint arXiv:1511.06732.
+
+[6]: Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[7]: Williams, R. J. (1992). ["Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning."](https://link.springer.com/article/10.1007/BF00992696) Machine Learning, 8(3-4), 229-256.
+
+[8]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://ieeexplore.ieee.org/abstract/document/6795963) Neural Computation, 9(8), 1735-1780.

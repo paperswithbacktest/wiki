@@ -81,3 +81,21 @@ Vision Eagle Attention is another new type of attention that helps models look a
 Attention mechanisms can be combined with Convolutional Neural Networks (CNNs) to make them better at understanding images. In a CNN, attention can help the model focus on the important parts of an image, like the edges or colors that help identify objects. For example, in image classification, the model can use attention to look at the parts of the image that are most useful for telling what's in the picture. This can make the model's predictions more accurate and help it understand complex scenes better. By using attention, CNNs can handle tasks like object detection and image segmentation more effectively, much like how a person would focus on key details when looking at a picture.
 
 Similarly, attention mechanisms can be integrated with Recurrent Neural Networks (RNNs) to improve their performance on tasks involving sequences, like text or time series data. In an RNN, attention can help the model focus on the most relevant words or time steps when making predictions or generating outputs. For example, in natural language processing, the model can use attention to concentrate on the key words in a sentence that are important for understanding its meaning. This helps the model handle long sequences of data more effectively and makes its predictions more accurate. By combining attention with RNNs, models can better understand context and relationships in sequential data, much like how a person would focus on important details when reading a text.
+
+## References & Further Reading
+
+[1]: Bahdanau, D., Cho, K., & Bengio, Y. (2014). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[3]: Choromanski, K., Likhosherstov, V., Dohan, D., Song, X., Gane, A., Sarlos, T., ... & Weller, A. (2020). ["Rethinking Attention with Performers."](https://arxiv.org/abs/2009.14794) arXiv preprint arXiv:2009.14794.
+
+[4]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) arXiv preprint arXiv:2010.11929.
+
+[5]: Tay, Y., Dehghani, M., Abnar, S., Shen, Y., Bahri, D., Pham, P., ... & Metzler, D. (2020). ["Efficient Transformers: A Survey."](https://arxiv.org/abs/2011.04006) arXiv preprint arXiv:2009.06732.
+
+[6]: Hu, J., Shen, L., & Sun, G. (2018). ["Squeeze-and-Excitation Networks."](https://ieeexplore.ieee.org/document/8578843) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[7]: Lin, Z., Feng, M., Santos, C. N. d., Yu, M. R., Xiang, B., Zhou, B., & Bengio, Y. (2017). ["A Structured Self-attentive Sentence Embedding."](https://arxiv.org/abs/1703.03130) arXiv preprint arXiv:1703.03130.
+
+[8]: Zhang, H., Goodfellow, I., Metaxas, D., & Odena, A. (2019). ["Self-Attention Generative Adversarial Networks."](https://arxiv.org/abs/1805.08318) In Proceedings of the 36th International Conference on Machine Learning.

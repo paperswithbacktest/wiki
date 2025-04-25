@@ -79,3 +79,15 @@ Researchers are working on several ways to improve BNNs. One area of ongoing res
 Binary Neural Networks (BNNs) could make a big difference in edge computing and IoT devices because they use less memory and power. Edge computing means doing calculations on the device itself instead of sending data to a big computer far away. BNNs can run on small devices like smartphones or sensors because they turn the weights into just -1 or +1. This makes them faster and uses less energy, which is perfect for IoT devices that need to work a long time on a small battery.
 
 Researchers are working hard to make BNNs even better for these uses. They want to make BNNs more accurate without losing their benefits. They use methods like "weight clipping" and "knowledge distillation" to help BNNs learn better. "Weight clipping" lets the weights have a small range of values during training and then turns them into -1 or +1 when done. "Knowledge distillation" uses a big network to teach a smaller BNN. These improvements could make BNNs very useful for edge computing and IoT, helping devices do smart tasks without needing a lot of power or memory.
+
+## References & Further Reading
+
+[1]: Hubara, I., Courbariaux, M., Soudry, D., El-Yaniv, R., & Bengio, Y. (2016). ["Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1."](https://arxiv.org/abs/1602.02830) Advances in Neural Information Processing Systems 29.
+
+[2]: Rastegari, M., Ordonez, V., Redmon, J., & Farhadi, A. (2016). ["XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks."](https://arxiv.org/abs/1603.05279) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[3]: Courbariaux, M., Bengio, Y., & David, J.-P. (2015). ["BinaryConnect: Training Deep Neural Networks with binary weights during propagations."](https://arxiv.org/abs/1511.00363) arXiv preprint arXiv:1511.00363.
+
+[4]: Bulat, A., & Tzimiropoulos, G. (2019). ["Xnor-net++: Improved binary neural networks."](https://arxiv.org/abs/1909.13863) Proceedings of the IEEE/CVF International Conference on Computer Vision.
+
+[5]: Li, A., Zhang, C., Liu, T., & Zhang, C. (2020). ["BiReal Net: Binarizing Deep Network Towards Real-Network Performance."](https://arxiv.org/abs/1811.01335) Proceedings of the AAAI Conference on Artificial Intelligence.

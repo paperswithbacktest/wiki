@@ -83,3 +83,15 @@ Another technique is called boosting. Boosting works by training many rule learn
 Current research trends in rule learners focus on making them more accurate and able to handle complex data. One big trend is using ensemble methods, which combine the predictions from many different rule learners to make better predictions overall. This can help rule learners deal with data that has many different factors affecting the outcome. Another trend is using boosting, where rule learners are trained one after the other, with each new learner focusing on the cases the previous ones got wrong. This step-by-step approach can help rule learners improve their predictions over time, even when the data is very hard to understand. Researchers are also looking at ways to make rule learners faster and more efficient, so they can handle big datasets without taking too long to create their rules.
 
 Future directions for rule learners include making them more transparent and easier to use. Researchers want to find ways to create rules that are not only accurate but also easy for people to understand and trust. This is very important in areas like medicine and finance, where people need to know why a decision was made. Another future direction is to use rule learners with other machine learning methods, like neural networks, to make a system that is both powerful and easy to explain. By combining different methods, researchers hope to create rule learners that can handle even the most complex data and make the best possible predictions. This could lead to new ways to use rule learners in many different fields, helping people make better decisions every day.
+
+## References & Further Reading
+
+[1]: Cohen, W. W. (1995). ["Fast effective rule induction."](https://www.sciencedirect.com/science/article/pii/B9781558603776500232) In Machine Learning Proceedings 1995 (pp. 115-123). Morgan Kaufmann.
+
+[2]: Fürnkranz, J., & Gamberger, D. (2012). ["Foundations of Rule Learning."](https://link.springer.com/book/10.1007/978-3-540-75197-7) Springer.
+
+[3]: Wang, H., & Witten, I. H. (1997). ["Induction of model trees for predicting continuous classes."](https://www.researchgate.net/publication/33051395_Induction_of_model_trees_for_predicting_continuous_classes) In Proceedings of the Poster Papers From the Ninth Australian Joint Conference on Artificial Intelligence (Vol. 5, pp. 128-137).
+
+[4]: Domingos, P., & Pazzani, M. (1997). ["On the optimality of the simple Bayesian classifier under zero-one loss."](https://link.springer.com/article/10.1023/A:1007413511361) Machine Learning, 29(2-3), 103-130.
+
+[5]: Quinlan, J. R. (1992). ["C4.5: programs for machine learning."](https://link.springer.com/article/10.1007/BF00993309) Elsevier.

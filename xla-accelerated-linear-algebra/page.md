@@ -81,3 +81,15 @@ Another advanced feature is the ability to use XLA's intermediate representation
 To measure the performance impact of using XLA in a machine learning model, you can start by comparing the training and inference times with and without XLA. For example, if your model does operations like $$A + B$$ followed by $$C \times (A + B)$$, you can run the model once with XLA enabled and once without it. You can then look at how long each run takes. If XLA is working well, the time it takes to train or run the model should be shorter when XLA is on. This simple comparison can give you a good idea of whether XLA is helping your model run faster.
 
 Another way to measure the performance impact is by looking at how much memory your model uses. XLA can make your model use less memory by optimizing the math operations, like combining steps or rearranging them to be more efficient. You can check the memory usage of your model with and without XLA to see if there's a difference. If XLA is making your model use less memory, it's not only running faster but also using fewer resources, which can be really important, especially if you're working with big models or limited hardware.
+
+## References & Further Reading
+
+[1]: Abadi, M., Barham, P., Chen, J., et al. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1605.08695) OSDI.
+
+[2]: Jouppi, N. P., Young, C., Patil, N., et al. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://ieeexplore.ieee.org/abstract/document/8192463) ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA).
+
+[3]: Frostig, R., Johnson, M. J., Leary, C. (2018). ["Compiling Machine Learning Programs via High-Level Tracing."](https://cs.stanford.edu/~rfrostig/pubs/jax-mlsys2018.pdf) arXiv preprint arXiv:1810.07951.
+
+[4]: "XLA: Optimizing Compiler for Machine Learning" on TensorFlow. (n.d.). Retrieved from [https://www.tensorflow.org/xla](https://openxla.org/xla/tf2xla)
+
+[5]: Chao, P. H., Elhage, N., Kurian, G., et al. (2019). ["A Modular Arithmetic Approach to High-Performance Recurrent Neural Network Inference on GPUs."](https://arxiv.org/abs/2209.10652) arXiv preprint arXiv:1911.03588.

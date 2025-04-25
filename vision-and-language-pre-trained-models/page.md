@@ -79,3 +79,15 @@ InternVideo works in a similar way but focuses on understanding the flow of acti
 The latest advancements in Vision and Language Pre-Trained Models have focused on improving their ability to understand and process complex data. One key advancement is the development of models that can handle video data, like Florence and InternVideo. These models break down videos into frames and use them to understand actions and sequences of events. Another important advancement is the use of more advanced training techniques, like contrastive learning, which helps models like CLIP and ALIGN better match images with their text descriptions. These improvements have made Vision and Language models more versatile and effective at tasks like image captioning, visual question answering, and even understanding video content.
 
 Looking to the future, Vision and Language Pre-Trained Models are likely to become even more powerful and useful. One potential direction is the integration of these models with other types of data, like audio or 3D information, to create even more comprehensive AI systems. Another exciting possibility is the development of models that can learn from much smaller amounts of data, making them easier to train and use in real-world applications. As these models continue to evolve, they could play a bigger role in areas like education, healthcare, and entertainment, helping people understand and interact with the world in new and exciting ways.
+
+## References & Further Reading
+
+[1]: Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021). ["Learning Transferable Visual Models From Natural Language Supervision."](https://arxiv.org/abs/2103.00020) arXiv preprint arXiv:2103.00020.
+
+[2]: Jia, C., Yang, Y., Xia, Y., Chen, Y. T., Parekh, Z., Pham, H., ... & Le, Q. V. (2021). ["Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision."](https://arxiv.org/abs/2102.05918) arXiv preprint arXiv:2102.05918.
+
+[3]: Li, J., Selvaraju, R. R., Gotmare, A., Joty, S., Xiong, C., & Hoi, S. (2021). ["Align before Fuse: Vision and Language Representation Learning with Momentum Distillation."](https://arxiv.org/abs/2107.07651) arXiv preprint arXiv:2107.07651.
+
+[4]: Chen, Y. C., Li, L., Yu, L., Kholy, A. E., Ahmed, F., Gan, Z., ... & Wang, L. (2020). ["UNITER: UNiversal Image-TExt Representation Learning."](https://arxiv.org/abs/1909.11740) European Conference on Computer Vision (ECCV).
+
+[5]: Huang, Z., Zeng, Z., Chen, B., Tan, M., Rong, Y., & Zhang, T. (2021). ["Florence: A New Foundation Model for Computer Vision."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) Microsoft Research Blog.

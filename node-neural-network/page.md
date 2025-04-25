@@ -81,3 +81,17 @@ Another way to boost node performance is by using "batch normalization." Batch n
 To evaluate and troubleshoot issues related to node functionality in neural networks, you can start by looking at the network's performance on a set of data it hasn't seen before, called the validation set. If the network isn't doing well, it might mean the nodes aren't working right. One way to check this is by looking at the weights and biases of the nodes. If the weights are very big or very small, it could mean the nodes are not learning the right things. You can also use tools like TensorBoard to see how the weights and biases change over time during training. This can help you spot if something is going wrong with the nodes.
 
 Another way to troubleshoot node issues is by using techniques like "gradient checking." This involves comparing the gradients calculated by backpropagation with those calculated using a small change in the weights. If they don't match, it could mean there's a problem with how the nodes are updating their weights. You can also try changing the activation function, like switching from the sigmoid function $$ \sigma(x) = \frac{1}{1 + e^{-x}} $$ to the ReLU function, which is simpler and can sometimes help the nodes work better. By trying different things and watching how the network reacts, you can figure out what's wrong with the nodes and fix it.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep learning"](https://www.nature.com/articles/nature14539). Nature, 521(7553), 436-444.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438). Manning Publications.
+
+[5]: Nair, V., & Hinton, G. E. (2010). ["Rectified linear units improve restricted Boltzmann machines"](https://dl.acm.org/doi/10.5555/3104322.3104425). In Proceedings of the 27th International Conference on Machine Learning (ICML-10) (pp. 807-814).
+
+[6]: Schmidhuber, J. (2015). ["Deep learning in neural networks: An overview"](https://www.sciencedirect.com/science/article/pii/S0893608014002135). Neural Networks, 61, 85-117.

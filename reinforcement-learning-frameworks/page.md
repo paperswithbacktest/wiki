@@ -81,3 +81,19 @@ Another problem myGym tackles is the need for diverse and realistic environments
 Sym-NCO, MushroomRL, and Blue River Controls are advanced frameworks that help push the boundaries of reinforcement learning by making it easier to handle complex and real-world problems. Sym-NCO, for example, uses symbolic methods to help the agent understand the environment better. This means the agent can learn from rules and patterns, not just from trial and error. This can be really helpful in situations where the environment is too complicated for the agent to figure out just by trying different things. MushroomRL, on the other hand, is great for researchers because it has a lot of different algorithms and tools built-in. This makes it easier for them to test new ideas and see how well they work. Blue River Controls focuses on using reinforcement learning for controlling systems in the real world, like robots or machines. It helps make sure that the agent's actions are safe and reliable, which is super important when you're dealing with physical things.
 
 These frameworks also help by making reinforcement learning more efficient and scalable. For example, Sym-NCO can use formulas like $$Q(s, a) = \max_{\pi} \mathbb{E} \left[ \sum_{t=0}^{\infty} \gamma^t R_{t+1} | S_0 = s, A_0 = a, \pi \right]$$ to guide the agent's learning process more effectively. MushroomRL's wide range of algorithms means that researchers can quickly switch between different methods to find the best one for their problem. And Blue River Controls uses techniques to make sure the agent learns in a way that's safe for real-world applications. By providing these advanced tools and methods, these frameworks help push the field of reinforcement learning forward, making it possible to solve more challenging and practical problems.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (1998). ["Reinforcement Learning: An Introduction"](https://ieeexplore.ieee.org/document/712192). MIT Press. This book provides a comprehensive introduction to the field of reinforcement learning and is a foundational resource.
+
+[2]: Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518, 529–533. This paper introduces Deep Q-Networks (DQN), a significant development in deep reinforcement learning.
+
+[3]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., et al. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971. This paper is essential for understanding continuous action spaces in reinforcement learning using deep learning techniques.
+
+[4]: Schulman, J., Wolski, F., Dhariwal, P., et al. (2017). ["Proximal Policy Optimization Algorithms."](https://arxiv.org/abs/1707.06347) arXiv preprint arXiv:1707.06347. This work is informative for readers interested in policy gradient methods and Proximal Policy Optimization (PPO).
+
+[5]: Watkins, C. J. C. H., & Dayan, P. (1992). ["Q-learning."](https://link.springer.com/article/10.1007/BF00992698) Machine Learning, 8(3-4), 279–292. This paper details Q-learning, a foundational algorithm in reinforcement learning.
+
+[6]: Bellemare, M. G., Naddaf, Y., Veness, J., & Bowling, M. (2013). ["The Arcade Learning Environment: An Evaluation Platform for General Agents."](https://arxiv.org/abs/1207.4708) Journal of Machine Learning Research, 47, 1–47. This reference is pertinent for understanding how reinforcement learning agents are evaluated in simulated environments.
+
+[7]: Sutton, R. S., McAllester, D., Singh, S., & Mansour, Y. (2000). ["Policy Gradient Methods for Reinforcement Learning with Function Approximation."](https://dl.acm.org/doi/10.5555/3009657.3009806) Advances in Neural Information Processing Systems. This paper provides insights into policy gradient methods, useful for readers interested in function approximation.

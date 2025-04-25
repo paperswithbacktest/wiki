@@ -83,3 +83,15 @@ Another issue with high-dimensional attribute spaces is something called overfit
 Attribute embedding is a smart way to turn things like words or categories into numbers that machine learning models can use easily. Imagine you have a list of different fruits like apples, bananas, and oranges. Instead of just giving each fruit a number, attribute embedding creates a special set of numbers for each fruit that show how similar or different they are to each other. For example, apples and oranges might have numbers that are closer together because they are both fruits, while bananas might be a bit further away because they are different in some ways. This helps the model understand the relationships between different attributes better and can make it work better overall.
 
 Using attribute embedding can really help improve how well a machine learning model performs. When you use embeddings, the model can learn from the data more easily because it's not just looking at simple numbers, but at numbers that [carry](/wiki/carry-trading) more meaning. This can be especially helpful for things like understanding text or predicting what someone might like based on what they've done before. By using attribute embedding, you can make your model smarter and more accurate, which is great for all kinds of machine learning tasks.
+
+## References & Further Reading
+
+[1]: Han, J., Pei, J., & Kamber, M. (2011). ["Data Mining: Concepts and Techniques, 3rd Edition"](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques). Morgan Kaufmann Publishers.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems, 2nd Edition"](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ). O'Reilly Media.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[4]: Raschka, S., & Mirjalili, V. (2019). ["Python Machine Learning, 3rd Edition"](https://github.com/rasbt/python-machine-learning-book-3rd-edition). Packt Publishing.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling"](https://link.springer.com/book/10.1007/978-1-4614-6849-3). Springer.

@@ -1,6 +1,7 @@
 ---
-title: "Special Tax Bonds: Overview and Functionality"
-description: "Explore the role of special tax bonds in funding municipal projects and the impact of algorithmic trading on their market dynamics and investment strategies."
+title: Special Tax Bonds Funding Guide for Community Infrastructure
+description: Special tax bonds enable communities to fund schools roads and water
+  systems using dedicated taxes to manage risk and transparency. Discover more inside.
 ---
 
 

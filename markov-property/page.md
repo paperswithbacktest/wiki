@@ -81,3 +81,19 @@ In more technical terms, you can use statistical tests to validate the Markov Pr
 One of the current research trends involving the Markov Property in machine learning is the development of more advanced models that can capture long-term dependencies while still benefiting from the simplicity of the Markov Property. Researchers are exploring higher-order Markov models, which consider more than just the current state to predict the future. For example, a second-order Markov model looks at the last two states to predict the next one, represented as $$P(X_{n+1} | X_n, X_{n-1}, \ldots, X_0) = P(X_{n+1} | X_n, X_{n-1})$$. These models can better capture patterns like seasonal trends or long-term dependencies that first-order models might miss. However, they are more complex and require more data to train effectively, so researchers are working on ways to balance complexity and performance.
 
 Another trend is the integration of the Markov Property into more sophisticated machine learning frameworks like [deep learning](/wiki/deep-learning) and reinforcement learning. For example, in reinforcement learning, researchers are using the Markov Property to simplify the decision-making process for [agents](/wiki/agents). By focusing only on the current state, agents can learn faster and make better decisions without needing to keep track of long histories of actions. In deep learning, researchers are combining the Markov Property with neural networks to create models like Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks. These models use the Markov Property to handle sequences of data more efficiently, allowing them to predict future states based on the current state while still capturing complex patterns in the data.
+
+## References & Further Reading
+
+[1]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[2]: Rabiner, L. R. (1989). ["A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition."](https://ieeexplore.ieee.org/document/18626/?arnumber=18626) Proceedings of the IEEE.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer-Verlag.
+
+[4]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[5]: Norris, J. R. (1997). ["Markov Chains."](https://www.cambridge.org/core/books/markov-chains/A3F966B10633A32C8F06F37158031739) Cambridge University Press.
+
+[6]: Koller, D., & Friedman, N. (2009). ["Probabilistic Graphical Models: Principles and Techniques."](http://mcb111.org/w06/KollerFriedman.pdf) MIT Press.
+
+[7]: Collins, M. (2002). ["Discriminative Training Methods for Hidden Markov Models: Theory and Experiments with Perceptron Algorithms."](https://aclanthology.org/W02-1001/) Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing.

@@ -1,6 +1,7 @@
 ---
-title: "Special Drawing Rights of the International Monetary Fund"
-description: "Explore the influential role of Special Drawing Rights by the IMF in global finance and how they integrate with algorithmic trading to enhance economic stability."
+title: Role of Special Drawing Rights in Global Financial Stability
+description: Special Drawing Rights offer IMF members a stable financial safety net
+  backed by major currencies to support economies during crises Discover more inside.
 ---
 
 

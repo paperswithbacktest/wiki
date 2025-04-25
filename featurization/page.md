@@ -87,3 +87,21 @@ Recurrent Neural Networks (RNNs) and their more advanced versions, like Long Sho
 To evaluate the effectiveness of your featurization strategy, you can start by looking at how well your model performs after you've turned your data into features. One way to do this is by using a metric like accuracy, which tells you how often your model's predictions are correct. For example, if you're trying to predict whether a customer will buy a product, you can see how many times your model gets it right. Another way is to use a confusion matrix, which shows you how your model's predictions match up with the actual outcomes. This can help you see if your model is making certain kinds of mistakes more often, like always predicting "no" when the answer is "yes."
 
 You can also use cross-validation to check your featurization strategy. Cross-validation means splitting your data into different parts and training your model on some parts while testing it on others. This helps you see if your features are helping the model learn well across different sets of data. If your model does well on all the different parts, it's a good sign that your featurization is working. Another thing to try is comparing different sets of features. You might create one set of features one way and another set a different way, then see which set helps your model perform better. By trying out different approaches and seeing which one leads to the best results, you can figure out if your featurization strategy is effective.
+
+## References & Further Reading
+
+[1]: Géron, A. (2017). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ). O'Reilly Media.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[3]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (2nd ed.). Manning Publications.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://link.springer.com/book/9780387310732). Springer.
+
+[5]: ["Feature Engineering and Selection: A Practical Approach for Predictive Models"](https://www.amazon.com/Feature-Engineering-Selection-Practical-Predictive-ebook/dp/B07VMP371H) by Max Kuhn and Kjell Johnson.
+
+[6]: Abadi, M., Agarwal, A., Barham, P., & Brevdo, E., et al. (2016). ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems"](https://arxiv.org/abs/1603.04467). arXiv preprint arXiv:1603.04467.
+
+[7]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[8]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.

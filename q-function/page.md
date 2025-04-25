@@ -79,3 +79,17 @@ On the other hand, on-policy methods, like SARSA (State-Action-Reward-State-Acti
 One real-world application of Q-Functions is in autonomous driving. Self-driving cars use reinforcement learning to learn how to navigate roads safely and efficiently. The Q-Function helps the car decide what to do in different situations, like when to change lanes or how to handle traffic signals. By using the Q-Function, the car can estimate the best action to take based on its current state, such as its speed and the positions of other vehicles. Over time, the car learns to make better decisions by updating its Q-Function with the rewards it gets from driving safely and reaching its destination.
 
 Another successful use of Q-Functions is in robotics, where they help robots learn to perform tasks like [picking](/wiki/asset-class-picking) up objects or navigating through a space. For example, a robot might use Q-Learning to figure out the best way to move its arm to grab a cup. The Q-Function helps the robot estimate how good each possible movement is, based on its current position and the position of the cup. By trying different movements and getting rewards for successful actions, the robot can improve its Q-Function and learn the best way to complete the task. This makes the robot more efficient and adaptable to new situations.
+
+## References & Further Reading
+
+[1]: Sutton, R. S. & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT Press.
+
+[2]: Watkins, C. J. C. H. & Dayan, P. (1992). ["Q-Learning"](https://link.springer.com/article/10.1007/BF00992698). Machine Learning, 8(3-4), 279-292.
+
+[3]: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). ["Playing Atari with Deep Reinforcement Learning."](https://arxiv.org/abs/1312.5602) arXiv preprint arXiv:1312.5602.
+
+[4]: Van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep Reinforcement Learning with Double Q-learning."](https://arxiv.org/abs/1509.06461) Proceedings of the AAAI Conference on Artificial Intelligence.
+
+[5]: Lillicrap, T. P., et al. (2016). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.
+
+[6]: Arulkumaran, K., Deisenroth, M. P., Brundage, M., & Bharath, A. A. (2017). ["Deep Reinforcement Learning: A Brief Survey."](https://arxiv.org/abs/1708.05866) IEEE Signal Processing Magazine, 34(6), 26-38.

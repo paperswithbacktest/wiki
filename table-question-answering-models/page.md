@@ -79,3 +79,17 @@ Another important advancement is the use of graph-based models like GraPPa (Grap
 Table Question Answering Models can be integrated into existing business intelligence tools to make them more powerful and easier to use. These models can be added as a feature that lets users ask questions about their data in a simple way. For example, if someone wants to know the total sales for the last quarter, they can just type in the question, and the model will look at the sales data in the table and give the answer, like $$ \text{Total Sales} = \sum (\text{Sales per Month}) $$. This saves time because users don't have to manually search through the data or create complex queries. The model can be connected to the tool's database, so it can access all the data and answer questions quickly and accurately.
 
 Integrating these models can also help businesses make better decisions faster. By using natural language processing, the models can understand what users are asking and find the right information in the tables. This makes it easier for people who are not experts in data analysis to get the information they need. For example, a manager might ask about the average sales per region, and the model can calculate it like $$ \text{Average Sales} = \frac{\sum (\text{Sales per Region})}{\text{Number of Regions}} $$. By adding Table Question Answering Models to business intelligence tools, companies can improve their data analysis and make their work more efficient.
+
+## References & Further Reading
+
+[1]: Chen, Wenhu, et al. ["TabFact: A Large-scale Dataset for Table-based Fact Verification."](https://arxiv.org/abs/1909.02164) arXiv preprint arXiv:1909.02164 (2019).
+
+[2]: Herzig, Jonathan, et al. ["TaPas: Weakly Supervised Table Parsing via Pre-trained Language Models."](https://arxiv.org/abs/2004.02349) arXiv preprint arXiv:2004.02349 (2020).
+
+[3]: ["WikiTableQuestions: A Challenge Dataset for Joint Parsing of Questions and Tables"](https://github.com/ppasupat/WikiTableQuestions) by Pasupat, P., & Liang, P. (2015).
+
+[4]: Yin, Pengcheng, et al. ["TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data."](https://aclanthology.org/2020.acl-main.745/) arXiv preprint arXiv:2005.08314 (2020).
+
+[5]: Yang, Zhilin, et al. ["Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task"](https://arxiv.org/abs/1809.08887) arXiv preprint arXiv:1809.08887 (2018).
+
+[6]: Eberts, Markus, and Adrian Ulges. ["TURL: Table Understanding through Representation Learning."](https://arxiv.org/abs/2006.14806) arXiv preprint arXiv:2009.01638 (2020).

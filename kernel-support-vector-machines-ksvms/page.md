@@ -139,3 +139,19 @@ Another common use of KSVMs is in text classification, where they help sort emai
 To evaluate the performance of a KSVM model, you can use different ways to see how well it works. One common way is to use a test set, which is data the model hasn't seen before. You use the KSVM to make predictions on this test set and then compare those predictions to the real answers. If the KSVM gets a lot of them right, it's doing well. A popular measure for this is accuracy, which is the percentage of correct predictions. You can also use other measures like precision, recall, and F1-score, which give more detailed information about how well the KSVM is doing.
 
 Another way to evaluate the KSVM is to use cross-validation. This means you split your data into parts, use some parts to train the KSVM, and then test it on the other parts. You do this many times with different splits of the data. This helps you see if the KSVM works well on different parts of the data, not just one part. By trying different settings for the KSVM, like the kernel and its parameters, you can find the best way to make it work well. For example, if you're using the radial basis function (RBF) kernel, which is $$ K(x, y) = \exp(-\gamma \| x - y \|^2) $$, you can change the value of $$\gamma$$ to see if it makes the KSVM perform better.
+
+## References & Further Reading
+
+[1]: Cortes, C., & Vapnik, V. (1995). ["Support-Vector Networks."](https://link.springer.com/article/10.1007/BF00994018) Machine Learning, 20(3), 273-297.
+
+[2]: Scholkopf, B., & Smola, A. J. (2002). ["Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond."](https://direct.mit.edu/books/monograph/1821/Learning-with-KernelsSupport-Vector-Machines) MIT Press.
+
+[3]: Burges, C. J. C. (1998). ["A Tutorial on Support Vector Machines for Pattern Recognition."](https://link.springer.com/article/10.1023/A:1009715923555) Data Mining and Knowledge Discovery, 2, 121-167.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[5]: Hsu, C.-W., Chang, C.-C., & Lin, C.-J. (2010). ["A Practical Guide to Support Vector Classification."](https://www.ee.columbia.edu/~sfchang/course/spr/papers/svm-practical-guide.pdf)
+
+[6]: Platt, J. (1998). ["Sequential Minimal Optimization: A Fast Algorithm for Training Support Vector Machines."](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-98-14.pdf) Microsoft Research.
+
+[7]: Shawe-Taylor, J., & Cristianini, N. (2004). ["Kernel Methods for Pattern Analysis."](https://www.cambridge.org/core/books/kernel-methods-for-pattern-analysis/811462F4D6CD6A536A05127319A8935A) Cambridge University Press.

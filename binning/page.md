@@ -81,3 +81,17 @@ Another thing to consider is the size of your dataset. If you have a lot of data
 Binning can be optimized for specific machine learning algorithms by choosing the right method and number of bins that fit the algorithm's needs. For example, decision tree algorithms can benefit from decision tree binning because it finds natural splits in the data that can help the tree make better decisions. If you're using a decision tree, you might want to use fewer bins to avoid overfitting, where the tree fits the training data too closely but doesn't work well on new data. On the other hand, if you're using a k-nearest neighbors (KNN) algorithm, you might want to use more bins to keep more detail in the data, because KNN relies on the distances between data points.
 
 Another way to optimize binning is by looking at the performance of your model. You can try different numbers of bins and see which one gives you the best results. For example, if you're using a logistic regression model, you might start with the square root of the number of data points as the number of bins, like $$ \sqrt{n} $$ where n is the number of data points. Then, you can adjust the number of bins up or down and see how it affects the model's accuracy. This way, you can find the best number of bins for your specific dataset and algorithm.
+
+## References & Further Reading
+
+[1]: Han, J., Pei, J., & Kamber, M. (2011). [Data Mining: Concepts and Techniques](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) (3rd ed.). Morgan Kaufmann.
+
+[2]: Mohammad, T. (2012). ["Data Preprocessing Techniques for Machine Learning"](https://www.scalablepath.com/data-science/data-preprocessing-phase) arXiv:1209.1134.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[4]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An Introduction to Statistical Learning](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer.
+
+[5]: Liu, H., & Motoda, H. (2007). [Computational Methods of Feature Selection](https://www.taylorfrancis.com/books/edit/10.1201/9781584888796/computational-methods-feature-selection-huan-liu-hiroshi-motoda). Chapman & Hall/CRC. 
+
+[6]: Aggarwal, C. C. (2015). [Data Mining: The Textbook](https://link.springer.com/book/10.1007/978-3-319-14142-8). Springer.

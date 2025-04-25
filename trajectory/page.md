@@ -85,3 +85,19 @@ Deep learning also helps us deal with the tricky parts of trajectory data, like 
 Recent advancements in trajectory machine learning for real-time applications have focused on making predictions faster and more accurate. One key development is the use of more efficient neural network architectures, like Temporal Convolutional Networks (TCNs). TCNs can process data quickly and handle long sequences of movements better than older methods. This makes them great for real-time tasks where every second counts, like in self-driving cars or tracking fast-moving objects. Researchers are also working on ways to make these models smaller and faster, so they can run on devices with limited power, like smartphones or drones.
 
 Another important advancement is the use of [reinforcement learning](/wiki/reinforcement-learning) for trajectory prediction. This method lets the model learn from its mistakes and improve over time. For example, a self-driving car can use reinforcement learning to get better at predicting where other cars will go by practicing in a simulated environment. This approach helps the car make smarter decisions on the road, even in tricky situations. By combining these new methods, trajectory machine learning is becoming more useful for real-time applications, helping to make our technology safer and more reliable.
+
+## References & Further Reading
+
+[1]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) Neural Computation, 9(8), 1735-1780.
+
+[2]: Thrun, S., Burgard, W., & Fox, D. (2005). ["Probabilistic Robotics."](https://ieeexplore.ieee.org/document/6792214) MIT Press.
+
+[3]: Kalman, R. (1960). ["A New Approach to Linear Filtering and Prediction Problems."](https://www.cs.unc.edu/~welch/kalman/media/pdf/Kalman1960.pdf) Transactions of the ASME–Journal of Basic Engineering, 82(Series D), 35-45.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[5]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521, 436-444.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[7]: Rasmussen, C. E., & Williams, C. K. I. (2006). ["Gaussian Processes for Machine Learning."](https://direct.mit.edu/books/monograph/2320/Gaussian-Processes-for-Machine-Learning) MIT Press.

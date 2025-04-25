@@ -81,3 +81,23 @@ Another limitation is that Generative AI can sometimes make things that are too 
 In the future, we can expect Generative AI to get even better at making things that look and sound real. Scientists are working on ways to make the AI learn faster and with less data. This means the AI won't need as many examples to make good pictures, stories, or music. They're also trying to make the AI more creative, so it can come up with new ideas that are different from what it has seen before. This could help artists and musicians create new and exciting works more easily.
 
 Another big change we might see is Generative AI being used in more parts of our lives. For example, it could help doctors by making detailed models of the human body to plan surgeries. It could also help teachers by creating new and interesting lessons for students. As the technology gets better, it will be important to make sure it's used in a fair and safe way. This means making rules to protect people's privacy and making sure the AI doesn't make things that could hurt or upset anyone.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative adversarial nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems, 27.
+
+[2]: Kingma, D. P., & Welling, M. (2013). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[3]: Radford, A., Metz, L., & Chintala, S. (2015). ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](https://arxiv.org/abs/1511.06434) arXiv preprint arXiv:1511.06434.
+
+[4]: O'Reilly Media. ["Deep Learning with Python"](https://www.oreilly.com/library/view/deep-learning-with/9781617296864/) by Francois Chollet.
+
+[5]: [Generative Design: Visualize, Program, and Create with Processing](https://www.amazon.com/Generative-Design-Visualize-Program-Processing/dp/1616890770) by Hartmut Bohnacker, Benedikt Groß, Julia Laub, and Claudius Lazzeroni.
+
+[6]: Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). ["Image quality assessment: From error visibility to structural similarity."](https://ieeexplore.ieee.org/document/1284395) IEEE transactions on image processing, 13(4), 600-612.
+
+[7]: [Deep Generative Models](https://mit-6s978.github.io/) (Springer, 2019) by Jakub M. Tomczak and Max Welling.
+
+[8]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[9]: [The Ethics of Artificial Intelligence](https://academic.oup.com/book/46748) by Nick Bostrom, Eliezer Yudkowsky.

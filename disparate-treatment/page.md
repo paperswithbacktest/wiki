@@ -81,3 +81,19 @@ To follow these rules, companies need to check their algorithms carefully. They 
 In machine learning research, advanced methods for quantifying and addressing disparate treatment involve using statistical tests and machine learning techniques to identify and mitigate intentional bias. One common approach is to use fairness metrics like equalized odds or demographic parity, which measure whether the model's outcomes are the same across different groups. For example, researchers might use the equalized odds metric, which checks if the model's true positive and false positive rates are the same for all groups. If the model shows a big difference, it could mean it's treating some groups unfairly on purpose. Researchers can then use methods like reweighting the data or changing the model's decision-making process to fix these issues.
 
 Another advanced method is the use of causal inference techniques, which help understand how different features affect the model's outcomes. By using causal models, researchers can see if protected traits like race or gender directly influence the model's decisions, which would indicate disparate treatment. For instance, they might use a causal graph to show how different variables are connected and see if removing certain features changes the outcomes for different groups. If it does, they can adjust the model to ensure it doesn't use these traits. These methods help make sure machine learning models are fair and don't treat people differently because of who they are.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) 
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys (CSUR), 54(6), 1-35.
+
+[3]: Corbett-Davies, S., & Goel, S. (2018). ["The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning."](https://arxiv.org/abs/1808.00023) arXiv preprint arXiv:1808.00023.
+
+[4]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) Proceedings of the 8th Innovations in Theoretical Computer Science Conference (ITCS 2017).
+
+[5]: Chouldechova, A., & Roth, A. (2020). ["A Snapshot of the Frontiers of Fairness in Machine Learning."](https://dl.acm.org/doi/10.1145/3376898) Annual Review of Statistics and Its Application, 7, 91-118.
+
+[6]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness Through Awareness."](https://arxiv.org/abs/1104.3913) In Proceedings of the 3rd Innovations in Theoretical Computer Science Conference (ITCS 2012), 214-226.
+
+[7]: Binns, R. (2018). ["Fairness in Machine Learning: Lessons from Political Philosophy."](https://proceedings.mlr.press/v81/binns18a.html) In Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT* 2018), 149-159.

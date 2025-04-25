@@ -1,6 +1,7 @@
 ---
-title: "Silk Road Online Marketplace: History and FBI Closure"
-description: "Explore the notorious history of the Silk Road online marketplace and its landmark FBI closure along with insights into algorithmic trading in today's digital economy."
+title: Silk Road Dark Web Marketplace History and Global Impact
+description: Silk Road enabled anonymous Bitcoin transactions for illicit goods sparked
+  new dark web markets and challenged law enforcement Discover more inside.
 ---
 
 

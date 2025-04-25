@@ -139,3 +139,17 @@ By using this prior belief, the model can better predict the likelihood of the d
 In complex machine learning models, one advanced technique for incorporating and updating prior beliefs is through the use of hierarchical Bayesian models. These models allow you to structure your prior beliefs in layers, where higher-level priors can influence lower-level ones. For example, if you're predicting student test scores across different schools, you might have a prior belief about the overall average score across all schools, and then another layer of priors for each school's average score. As new data comes in, you can update these beliefs at each level, allowing the model to refine its predictions more accurately. This approach is especially useful when dealing with data that has a natural hierarchical structure, as it can capture variations at different levels more effectively.
 
 Another advanced technique is variational inference, which is a method for approximating complex posterior distributions when exact calculations are too difficult. In this approach, you start with a simpler distribution that you can easily work with, and then adjust it to match the true posterior as closely as possible. This can be particularly helpful when your prior beliefs are complex and you need to update them with large datasets. For instance, if you're modeling consumer behavior with many different factors, variational inference can help you update your beliefs efficiently by simplifying the calculations. This method not only speeds up the learning process but also allows you to handle models that would otherwise be too computationally intensive.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). ["Bayesian Data Analysis."](https://www.taylorfrancis.com/books/mono/10.1201/b16018/bayesian-data-analysis-david-dunson-donald-rubin-john-carlin-andrew-gelman-hal-stern-aki-vehtari) CRC Press.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: MacKay, D. J. C. (2003). ["Information Theory, Inference, and Learning Algorithms."](https://assets.cambridge.org/97805216/42989/frontmatter/9780521642989_frontmatter.pdf) Cambridge University Press.
+
+[5]: Barber, D. (2012). ["Bayesian Reasoning and Machine Learning."](https://www.cambridge.org/highereducation/books/bayesian-reasoning-and-machine-learning/37DAFA214EEE41064543384033D2ECF0) Cambridge University Press.
+
+[6]: Bishop, C. M., & Nabney, I. (2008). ["Pattern Recognition and Machine Learning: Practical Exercise Book."](https://link.springer.com/book/9780387310732) Springer.

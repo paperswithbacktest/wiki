@@ -83,3 +83,21 @@ BNNs are also used in autonomous vehicles to improve safety. They can predict wh
 Recent advancements in Bayesian Neural Networks (BNNs) research have focused on improving their efficiency and scalability. One notable development is the use of advanced variational inference techniques, which help BNNs approximate the posterior distribution of weights, $$p(w|D)$$, more accurately and quickly. Researchers have introduced new algorithms that reduce the computational burden of these methods, making BNNs more practical for large datasets and complex models. Another area of progress is in the development of better MCMC methods, which provide more precise uncertainty estimates by sampling the posterior distribution more effectively. These improvements are helping BNNs become more accessible and useful in real-world applications.
 
 Another significant advancement is in the integration of BNNs with [deep learning](/wiki/deep-learning) architectures. Researchers are exploring ways to combine the uncertainty quantification capabilities of BNNs with the powerful feature extraction abilities of deep neural networks. This has led to the creation of hybrid models that can handle both structured and unstructured data with high accuracy and reliability. Additionally, there have been efforts to develop new evaluation metrics and benchmarks specifically for BNNs, which help assess their performance in terms of both prediction accuracy and uncertainty quantification. These advancements are pushing the boundaries of what BNNs can achieve, making them more versatile and applicable across various industries.
+
+## References & Further Reading
+
+[1]: Neal, R. M. (1995). ["Bayesian Learning for Neural Networks."](https://link.springer.com/book/10.1007/978-1-4612-0745-0) Springer-Verlag New York, Inc. 
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press. 
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer. 
+
+[4]: Blundell, C., Cornebise, J., Kavukcuoglu, K., & Wierstra, D. (2015). ["Weight Uncertainty in Neural Networks."](https://arxiv.org/abs/1505.05424) Proceedings of the 32nd International Conference on Machine Learning (ICML).
+
+[5]: Gal, Y., & Ghahramani, Z. (2016). ["Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning."](https://arxiv.org/abs/1506.02142) Proceedings of the 33rd International Conference on Machine Learning (ICML).
+
+[6]: Betancourt, M. (2017). ["A Conceptual Introduction to Hamiltonian Monte Carlo."](https://arxiv.org/abs/1701.02434) ArXiv. 
+
+[7]: Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). ["Variational Inference: A Review for Statisticians."](https://arxiv.org/abs/1601.00670) Journal of the American Statistical Association. 
+
+[8]: Kendall, A., & Gal, Y. (2017). ["What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?."](https://arxiv.org/abs/1703.04977) Advances in Neural Information Processing Systems (NeurIPS).

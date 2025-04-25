@@ -126,3 +126,15 @@ optimizer = torch.optim.Adam(model.parameters())
 Current research trends in SepCNNs focus on making them even more efficient and versatile. One big area is figuring out how to make SepCNNs work better with less data. Researchers are trying out new ways to train these networks with fewer examples, which is important for applications where data is hard to get. Another trend is combining SepCNNs with other types of networks, like transformers, to handle different kinds of data, like images and text, at the same time. This could open up new uses for SepCNNs in areas like understanding language in pictures or videos. Also, researchers are exploring how to make SepCNNs run on tiny devices, like sensors or wearables, by using techniques like quantization to make them smaller and faster.
 
 Looking ahead, the future of SepCNNs looks promising. One direction is making SepCNNs more adaptive, so they can change how they work based on the task at hand. This could mean SepCNNs that can switch between different ways of processing data depending on what's needed. Another exciting area is using SepCNNs for real-time applications, like self-driving cars or robots, where speed and efficiency are key. Researchers are also thinking about how SepCNNs can help with privacy and security, by processing data right on the device instead of sending it to the cloud. As these trends continue, SepCNNs could become even more important in making [machine learning](/wiki/machine-learning) work better in all sorts of situations.
+
+## References & Further Reading
+
+[1]: Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H. (2017). ["MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications."](https://arxiv.org/abs/1704.04861) arXiv preprint arXiv:1704.04861.
+
+[2]: Chollet, F. (2017). ["Xception: Deep Learning with Depthwise Separable Convolutions."](https://ieeexplore.ieee.org/document/8099678) Proceedings of the IEEE conference on computer vision and pattern recognition.
+
+[3]: Howard, A., Sandler, M., Chu, G., Chen, L. C., Chen, B., Tan, M., ... & Le, Q. V. (2019). ["Searching for MobileNetV3."](https://arxiv.org/abs/1905.02244) In Proceedings of the IEEE/CVF International Conference on Computer Vision.
+
+[4]: Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L. C. (2018). ["MobileNetV2: Inverted Residuals and Linear Bottlenecks."](https://arxiv.org/abs/1801.04381) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[5]: Sifre, L., & Mallat, S. (2014). ["Rigid-Motion Scattering for Image Classification."](https://arxiv.org/abs/1403.1687) arXiv preprint arXiv:1403.1687.

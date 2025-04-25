@@ -81,3 +81,19 @@ Another advanced activation function is the Swish function, which is a bit more 
 The choice of activation function can really change how well and how fast a neural network learns. For example, the ReLU function, which is $$ f(x) = \max(0, x) $$, is simple and helps the network learn quickly. It's great for deep networks because it prevents a problem called the vanishing gradient, where the network can't learn well because the changes it makes are too small. But ReLU can also cause some neurons to stop learning if they always get negative inputs, turning them into what's called "dead" ReLUs. If you use a variation like Leaky ReLU, which lets a small gradient through even for negative inputs, you can avoid this problem and keep the network learning well.
 
 Different activation functions are better for different parts of the network and different types of problems. For the output layer, if you're doing binary classification, the sigmoid function, defined as $$ f(x) = \frac{1}{1 + e^{-x}} $$, is often used because it turns numbers into probabilities between 0 and 1. For multi-class classification, the softmax function, defined as $$ \text{softmax}(x_i) = \frac{e^{x_i}}{\sum_{j} e^{x_j}} $$, is perfect because it turns the scores into probabilities that add up to 1. Choosing the right activation function can make the network more accurate and faster at learning, but it takes some thinking to match the function to the task and the layer's position in the network.
+
+## References & Further Reading
+
+[1]: Glorot, X., Bordes, A., & Bengio, Y. (2011). ["Deep Sparse Rectifier Neural Networks."](https://www.researchgate.net/publication/215616967_Deep_Sparse_Rectifier_Neural_Networks) Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics.
+
+[2]: Maas, A. L., Hannun, A. Y., & Ng, A. Y. (2013). ["Rectifier Nonlinearities Improve Neural Network Acoustic Models."](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf) Proceedings of the 30th International Conference on Machine Learning.
+
+[3]: Nair, V., & Hinton, G. E. (2010). ["Rectified Linear Units Improve Restricted Boltzmann Machines."](https://dl.acm.org/doi/10.5555/3104322.3104425) Proceedings of the 27th International Conference on Machine Learning.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Clevert, D.-A., Unterthiner, T., & Hochreiter, S. (2015). ["Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)."](https://arxiv.org/abs/1511.07289) arXiv preprint arXiv:1511.07289.
+
+[7]: Ramachandran, P., Zoph, B., & Le, Q. V. (2017). ["Searching for Activation Functions."](https://arxiv.org/abs/1710.05941) arXiv preprint arXiv:1710.05941.

@@ -83,3 +83,21 @@ Another advanced technique is using zero-inflated models, which are helpful when
 To compare different Generalized Linear Models (GLMs) and choose the best one for a given dataset, you can use several methods. One way is to look at the Akaike Information Criterion (AIC) and the Bayesian Information Criterion (BIC). These criteria help you balance the model's fit with its complexity. A lower AIC or BIC value means a better model. For example, if Model A has an AIC of 200 and Model B has an AIC of 180, Model B is likely a better fit for your data. You can also compare the deviance of different models. The deviance measures how well the model fits the data, and a lower deviance means a better fit. By comparing the deviance of different models, you can see which one fits your data the best.
 
 Another way to compare GLMs is by using cross-validation. This method involves splitting your data into training and testing sets, fitting the model on the training set, and then checking how well it predicts the data in the testing set. If one model performs better on the test set, it might be a better choice. You can also look at the residuals, which are the differences between the actual data and the model's predictions. If the residuals are randomly scattered around zero, it suggests the model fits well. By plotting the residuals against the fitted values or the predictors, you can see if there are any patterns that suggest the model needs improvement. Using these methods, you can make a more informed decision about which GLM is the best for your dataset.
+
+## References & Further Reading
+
+[1]: Nelder, J.A., & Wedderburn, R.W.M. (1972). ["Generalized Linear Models."](https://academic.oup.com/jrsssa/article-abstract/135/3/370/7110572) Journal of the Royal Statistical Society: Series A (General), 135(3), 370-384.
+
+[2]: McCullagh, P., & Nelder, J.A. (1989). ["Generalized Linear Models."](https://www.taylorfrancis.com/books/mono/10.1201/9780203753736/generalized-linear-models-mccullagh) Chapman and Hall/CRC, 2nd Edition.
+
+[3]: Dobson, A.J., & Barnett, A.G. (2018). ["An Introduction to Generalized Linear Models."](https://www.taylorfrancis.com/books/mono/10.1201/9781315182780/introduction-generalized-linear-models-adrian-barnett-annette-dobson) Chapman and Hall/CRC, 4th Edition.
+
+[4]: Hardin, J.W., & Hilbe, J.M. (2018). ["Generalized Linear Models and Extensions."](https://www.stata-press.com/books/generalized-linear-models-and-extensions/) Stata Press, 4th Edition.
+
+[5]: Agresti, A. (2015). ["Foundations of Linear and Generalized Linear Models."](https://books.google.com/books/about/Foundations_of_Linear_and_Generalized_Li.html?id=jlIqBgAAQBAJ) Wiley.
+
+[6]: Gelman, A., & Hill, J. (2007). ["Data Analysis Using Regression and Multilevel/Hierarchical Models."](https://assets.cambridge.org/97805218/67061/frontmatter/9780521867061_frontmatter.pdf) Cambridge University Press.
+
+[7]: Zeileis, A., Kleiber, C., & Jackman, S. (2008). ["Regression Models for Count Data in R."](https://www.jstatsoft.org/article/view/v027i08) Journal of Statistical Software, 27(8), 1-25.
+
+[8]: Faraway, J.J. (2016). ["Extending the Linear Model with R: Generalized Linear, Mixed Effects and Nonparametric Regression Models."](https://www.taylorfrancis.com/books/mono/10.1201/9781315382722/extending-linear-model-julian-faraway) Chapman and Hall/CRC.

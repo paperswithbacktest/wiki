@@ -81,3 +81,21 @@ ExtremeNet takes this idea further by finding more keypoints. It looks for the t
 The latest trends in one-stage object detection research focus on making models faster and more accurate without using anchor boxes. Anchor-free methods like YOLOX and FCOS have become popular because they simplify the detection process. These models directly predict object locations without relying on pre-defined anchor boxes, which can be tricky to set up and tune. Another trend is the use of advanced data augmentation techniques, like mosaic augmentation, which helps models learn from a wider variety of images. Researchers are also working on improving the loss functions used in these models, like Focal Loss, to make them better at handling class imbalance and focusing on hard examples.
 
 Future directions in one-stage object detection are likely to involve integrating more advanced neural network architectures, such as transformers, which have shown great promise in other areas of machine learning. Transformers can help models understand the context of an image better, potentially leading to more accurate object detection. Another area of interest is the development of models that can work well on edge devices, like smartphones and drones, which require efficient use of limited computational resources. Researchers are also exploring ways to make these models more adaptable to new types of objects and environments without needing extensive retraining, which could make them more useful in real-world applications.
+
+## References & Further Reading
+
+[1]: Redmon, J., & Farhadi, A. (2018). ["YOLOv3: An Incremental Improvement."](https://arxiv.org/abs/1804.02767) arXiv preprint arXiv:1804.02767.
+
+[2]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) In European conference on computer vision (pp. 21-37). Springer, Cham.
+
+[3]: Bochkovskiy, A., Wang, C. Y., & Liao, H. Y. M. (2020). ["YOLOv4: Optimal Speed and Accuracy of Object Detection."](https://arxiv.org/abs/2004.10934) arXiv preprint arXiv:2004.10934.
+
+[4]: Lin, T. Y., Goyal, P., Girshick, R., He, K., & Dollar, P. (2017). ["Focal Loss for Dense Object Detection."](https://ieeexplore.ieee.org/document/8237586) Proceedings of the IEEE international conference on computer vision.
+
+[5]: Tian, Z., Shen, C., Chen, H., & He, T. (2019). ["FCOS: Fully Convolutional One-Stage Object Detection."](https://arxiv.org/abs/1904.01355) arXiv preprint arXiv:1904.01355.
+
+[6]: Tan, M., Pang, R., & Le, Q. V. (2020). ["EfficientDet: Scalable and Efficient Object Detection."](https://ieeexplore.ieee.org/document/9156454) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 10781-10790).
+
+[7]: Zhou, X., Wang, D., & Krähenbühl, P. (2019). ["Objects as Points."](https://arxiv.org/abs/1904.07850) arXiv preprint arXiv:1904.07850.
+
+[8]: Law, H., & Deng, J. (2018). ["CornerNet: Detecting Objects as Paired Keypoints."](https://arxiv.org/abs/1808.01244) In European Conference on Computer Vision (pp. 734-750).

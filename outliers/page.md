@@ -85,3 +85,19 @@ Another useful metric is the Precision, which tells us how many of the points th
 Recent advancements in outlier detection have focused on improving the accuracy and efficiency of algorithms, especially for high-dimensional data. One exciting development is the use of [deep learning](/wiki/deep-learning) techniques, like autoencoders, for outlier detection. Autoencoders are neural networks that learn how to efficiently compress and encode data, then decode it to reproduce the original input. By training an autoencoder on normal data, it can learn to reconstruct typical patterns well. When an outlier comes along, the autoencoder might struggle to reconstruct it, making it easier to spot. Researchers have also been working on hybrid methods that combine traditional statistical approaches with machine learning to get the best of both worlds. For example, they might use the Isolation Forest algorithm along with density-based methods to improve detection rates and reduce false positives.
 
 Another area of research is the development of algorithms that can handle dynamic data, where the patterns of what's normal and what's an outlier might change over time. This is important for applications like fraud detection, where new types of fraud can appear suddenly. One approach is to use online learning algorithms that can update their understanding of the data in real-time. These algorithms can adapt to new patterns quickly, making them more effective at spotting outliers in changing environments. Researchers are also exploring ways to make outlier detection more interpretable, so that people can understand why a particular data point was flagged as an outlier. This can help build trust in the algorithms and make them more useful in practical settings.
+
+## References & Further Reading
+
+[1]: Aggarwal, C. C. (2017). ["Outlier Analysis"](https://link.springer.com/book/10.1007/978-3-319-47578-3). Springer.
+
+[2]: Chandola, V., Banerjee, A., & Kumar, V. (2009). ["Anomaly Detection: A Survey"](https://dl.acm.org/doi/10.1145/1541880.1541882). ACM Computing Surveys, 41(3), 15:1-15:58.
+
+[3]: Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). ["Isolation Forest"](https://ieeexplore.ieee.org/document/4781136). Proceedings of the 8th IEEE International Conference on Data Mining.
+
+[4]: Breunig, M. M., Kriegel, H. P., Ng, R. T., & Sander, J. (2000). ["LOF: Identifying Density-Based Local Outliers"](https://dl.acm.org/doi/10.1145/335191.335388). ACM SIGMOD Record, 29(2), 93-104.
+
+[5]: Hodge, V. J., & Austin, J. (2004). ["A Survey of Outlier Detection Methodologies"](https://link.springer.com/article/10.1023/B:AIRE.0000045502.10941.a9). Artificial Intelligence Review, 22(2), 85-126.
+
+[6]: Hawkins, D. M. (1980). ["Identification of Outliers"](https://archive.org/details/identificationof00hawk). Springer.
+
+[7]: Zhang, Y., Meratnia, N., & Havinga, P. J. M. (2010). ["Outlier Detection Techniques for Wireless Sensor Networks: A Survey"](https://ieeexplore.ieee.org/document/5451757). IEEE Communications Surveys & Tutorials, 12(2), 159-170.

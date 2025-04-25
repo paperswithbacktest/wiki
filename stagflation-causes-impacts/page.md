@@ -1,6 +1,7 @@
 ---
-title: "Stagflation: Causes and Impacts"
-description: "Discover how stagflation challenges traditional economic theories and explore the role of algorithmic trading in navigating the complexities of high inflation and stagnation."
+title: Understanding Stagflation Causes and Effective Policy Responses
+description: Stagflation pressures economies with high inflation and unemployment
+  yet targeted policy measures can ease its impact Discover more inside now
 ---
 
 

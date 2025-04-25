@@ -1,6 +1,7 @@
 ---
-title: "Spread Hedging: Principles and Operation"
-description: "Explore spread hedging principles in algo trading to manage risk via offsetting positions in related assets safeguarding portfolios from market volatility."
+title: Essential Guide to Spread Hedging Strategies for Risk Management
+description: Spread hedging uses related market futures to balance losses and gains,
+  stabilizing returns and shielding investments from price swings Discover more inside
 ---
 
 

@@ -79,3 +79,15 @@ Even though K-Median is good at handling outliers, you can still do things to ma
 One advanced technique to improve K-Median clustering is to use better ways to pick the starting points for the clusters. Instead of [picking](/wiki/asset-class-picking) them randomly, you can use a method like k-medians++. This method tries to spread out the starting points more evenly across the data. By doing this, you help the algorithm find better clusters faster. Another way to improve K-Median clustering is to run the algorithm many times with different starting points and then pick the best result. This helps make sure you're not stuck with bad clusters just because of where you started. The goal of K-Median is to make the total distance from each point to its cluster's median as small as possible, calculated using the formula $$ \text{Cost} = \sum_{i=1}^{n} d(x_i, m_{c_i}) $$. By using these techniques, you can make the cost smaller and get more accurate clusters.
 
 Another technique to improve the performance of K-Median clustering is to use parallel processing. This means you can run the algorithm on multiple computers at the same time, which can make it much faster, especially with big datasets. Finding the median can be slower than finding the mean, so using parallel processing can help speed things up. You can also use other clustering methods to help with K-Median. For example, you can use hierarchical clustering to first group similar data points and then use K-Median on these groups. This can help the algorithm find the right clusters more easily. By combining these advanced techniques, you can make K-Median clustering more accurate and faster, even when dealing with complex data.
+
+## References & Further Reading
+
+[1]: Buyukcelebi, A., Cetinkaya, C., & Karasan, O. (2008). ["A branch and price algorithm for the capacitated multi-facility Weber problem with total tardiness."](https://link.springer.com/article/10.1007/s10479-008-0371-9) Annals of Operations Research.
+
+[2]: Jain, A. K. (2010). ["Data clustering: 50 years beyond K-means."](https://www.sciencedirect.com/science/article/pii/S0167865509002323) Pattern Recognition Letters, 31(8), 651-666.
+
+[3]: Park, H. S., & Jun, C. H. (2009). ["A simple and fast algorithm for K-medoids clustering."](https://www.sciencedirect.com/science/article/pii/S095741740800081X) Expert Systems with Applications, 36(2), 3336-3341.
+
+[4]: ["Cluster Analysis"](https://en.wikipedia.org/wiki/Cluster_analysis) by Brian S. Everitt, Sabine Landau, Morven Leese, & Daniel Stahl
+
+[5]: Kaufman, L., & Rousseeuw, P. J. (2009). ["Finding Groups in Data: An Introduction to Cluster Analysis."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316801) Wiley Series in Probability and Statistics.

@@ -1,6 +1,7 @@
 ---
-title: "Statistical Goodness of Fit"
-description: "Discover how statistical goodness-of-fit tests enhance algorithmic trading by validating and refining predictive models for more accurate market analysis."
+title: A Comprehensive Guide to Statistical Goodness of Fit Tests
+description: Goodness of fit tests confirm if your statistical model matches data
+  while guiding model selection and result interpretation Discover more inside
 ---
 
 

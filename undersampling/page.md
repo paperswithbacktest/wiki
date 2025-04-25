@@ -143,3 +143,15 @@ print(f"Accuracy on test set: {accuracy}")
 ```
 
 This code shows how you can split your data, apply random undersampling to the training set, train a model on the balanced data, and then test it on the original test set to see how well it performs. By doing this, you help the computer learn better about both types of things in your data.
+
+## References & Further Reading
+
+[1]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering.
+
+[2]: Japkowicz, N., & Stephen, S. (2002). ["The class imbalance problem: A systematic study."](https://dl.acm.org/doi/10.5555/1293951.1293954) Intelligent Data Analysis.
+
+[3]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research. 
+
+[4]: Fernández, A., Garcia, S., Galar, M., Prati, R. C., Krawczyk, B., & Herrera, F. (2018). ["Learning from Imbalanced Data Sets."](https://link.springer.com/book/10.1007/978-3-319-98074-4) Springer International Publishing.
+
+[5]: Van Hulse, J., Khoshgoftaar, T. M., & Napolitano, A. (2007). ["Experimental perspectives on learning from imbalanced data."](https://www.researchgate.net/publication/221344823_Experimental_Perspectives_on_Learning_from_Imbalanced_Data) Proceedings of the 24th International Conference on Machine Learning.

@@ -91,3 +91,17 @@ This code calculates the BLEU score for a single sentence. The formula for BLEU 
 Researchers are working on new ways to make BLEU better or find other ways to check how good machine translations are. One idea is to use machine learning models that can understand the meaning of sentences better than just looking at word matches. These models can look at how well the translation keeps the main ideas and if it sounds natural in the language it's translated into. Another direction is to use more human judgments in the evaluation process. By combining automatic scores like BLEU with human ratings, researchers can get a fuller picture of translation quality. They're also trying to make BLEU work better with different languages and shorter texts by changing how it calculates scores.
 
 Some new metrics are being developed to replace or work with BLEU. One example is BLEURT, which uses a machine learning model to give a score that's meant to be more like what a human would think. BLEURT looks at how well the sentences fit together and if the translation keeps the meaning of the original text. Another metric is COMET, which also uses machine learning to check translations. COMET can be trained to focus on different things, like how natural the translation sounds or how well it keeps the meaning. These new metrics try to fix some of BLEU's problems by looking at more than just word matches. The formula for BLEU is $$ \text{BLEU} = \text{BP} \cdot \exp \left( \sum_{n=1}^{N} w_n \log p_n \right) $$, but these new methods aim to go beyond this simple calculation to better understand translation quality.
+
+## References & Further Reading
+
+[1]: Papineni, K., Roukos, S., Ward, T., & Zhu, W. J. (2002). ["BLEU: a method for automatic evaluation of machine translation."](https://aclanthology.org/P02-1040/) Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics.
+
+[2]: Reiter, E. (2018). ["A Structured Review of the Validity of BLEU."](https://aclanthology.org/J18-3002/) Proceedings of the 27th International Conference on Computational Linguistics.
+
+[3]: Lavie, A., & Agarwal, A. (2007). ["METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments."](https://aclanthology.org/W07-0734/) Proceedings of the Second Workshop on Statistical Machine Translation.
+
+[4]: Snover, M., Dorr, B., Schwartz, R., Micciulla, L., & Makhoul, J. (2006). ["A Study of Translation Edit Rate with Targeted Human Annotation."](https://aclanthology.org/2006.amta-papers.25/) Proceedings of the 7th Conference of the Association for Machine Translation in the Americas.
+
+[5]: Zhang, T., & Tetreault, J. (2019). ["BLEU and METEOR on the Role of n-grams in Translation Quality](https://arxiv.org/abs/1906.03497). Language Resources and Evaluation, 53(4), 851-861. 
+
+[6]: Freitag, M., & Al-Onaizan, Y. (2020). ["Bleu Might be Guilty but References Are Not Innocent."](https://aclanthology.org/2020.emnlp-main.5/) Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.

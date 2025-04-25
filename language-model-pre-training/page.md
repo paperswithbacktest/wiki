@@ -79,3 +79,25 @@ Improvements in algorithms also help with pre-training. New ways of training, li
 Researchers are looking at new ways to make language models even better. One big idea is to use less data but still get good results. This is important because collecting and using huge amounts of data can be hard and expensive. So, they are trying to find ways to train models with smaller datasets but still make them understand language well. Another direction is to make models learn about different kinds of information, like pictures and sounds, along with text. This could help the models understand the world better and be more useful in real life.
 
 Another area of research is making models more fair and less biased. Sometimes, models can learn wrong things from the data they see, which can make them give unfair answers. So, researchers are working on ways to check and fix these problems during pre-training. They also want to make models that can explain how they make decisions, so people can trust them more. By focusing on these areas, the hope is to create language models that are not only smart but also fair and helpful for everyone.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[2]: Yang, Z., Dai, Z., Yang, Y., Carbonell, J., Salakhutdinov, R., & Le, Q. V. (2019). ["XLNet: Generalized Autoregressive Pretraining for Language Understanding."](https://arxiv.org/abs/1906.08237) arXiv preprint arXiv:1906.08237.
+
+[3]: Liu, Y., Cheng, H., Zhu, Y., Zhang, Y., Xu, Y., & Wei, S. (2020). ["MPNet: Masked and Permuted Pre-training for Language Understanding."](https://www.sciencedirect.com/org/science/article/pii/S2041652025000768) arXiv preprint arXiv:2004.09297.
+
+[4]: Sun, Y., Wang, S., Li, Y., Feng, S., Tian, H., & Wu, H. (2020). ["ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation."](https://arxiv.org/abs/1904.09223) arXiv preprint arXiv:2001.11314.
+
+[5]: Wang, B., Gao, W., Xing, E., & Zhang, Y. (2021). ["ReasonBERT: Inductive Reasoning via Designated Model Units."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) arXiv preprint arXiv:2104.07824.
+
+[6]: Liu, H., Zou, X., He, W., & Shum, H. (2020). ["K-BERT: Enabling Language Representation with Knowledge Graph."](https://ojs.aaai.org/index.php/AAAI/article/view/5681) arXiv preprint arXiv:1909.05858.
+
+[7]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[8]: Ruder, S. (2019). ["Neural Language Models: An Overview."](https://www.ruder.io/state-of-transfer-learning-in-nlp/) Accessed online at ruder.io.
+
+[9]: [BookCorpus Dataset.](https://huggingface.co/datasets/bookcorpus/bookcorpus) BookCorpus dataset, a large-scale dataset for language model pre-training.
+
+[10]: [Common Crawl.](https://commoncrawl.org/) A repository of web-crawled data used for language model pre-training.

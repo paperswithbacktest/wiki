@@ -79,3 +79,15 @@ These models can also help in making long-term plans to improve the environment.
 One promising direction for future research in air quality forecasting with machine learning is improving how models handle real-time data. Right now, models like GAGNN use graphs to see how pollution moves, but they could be even better if they could quickly update their predictions as new data comes in. This would mean using more advanced algorithms that can learn and adapt on the fly, making the forecasts more accurate and timely. For example, integrating more real-time data from satellites and ground sensors could help models catch sudden changes in air quality, like a sudden spike in pollution from a traffic jam or a factory.
 
 Another exciting area is developing models that can better understand the complex mix of factors affecting air quality. This means using machine learning to look at weather, traffic, and human activities all at once, and figuring out how they interact. Researchers could work on creating models that not only predict air quality but also explain why the air is getting better or worse. By doing this, they can help policymakers make better rules to keep the air clean. For instance, if a model can show that a certain type of factory is causing most of the pollution, the government could focus on making those factories cleaner.
+
+## References & Further Reading
+
+[1]: Zhang, X., Ding, Y., & Jin, L. (2019). ["Air Quality Prediction through Machine Learning Based on Multimodal Data Fusion: A Review."](https://www.sciencedirect.com/science/article/pii/S1535610825001175) Applied Sciences.
+
+[2]: Zheng, Y., Liu, F., & Hsieh, H. P. (2013). ["U-Air: When Urban Air Quality Inference Meets Big Data."](https://dl.acm.org/doi/abs/10.1145/2487575.2488188) Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Shaban, K., Kadri, A., & Rezk, E. (2016). ["Urban Air Pollution Monitoring System with Forecasting Models"](https://ieeexplore.ieee.org/abstract/document/7370876) in Internet of Things and Big Data Analytics Toward Next-Generation Intelligence.
+
+[4]: Vourlidas, A., & Howard, R. A. (2006). ["Satellite Data: A Cost-effective Means for Pollution Control."](https://ui.adsabs.harvard.edu/abs/2006ApJ...652..763T/abstract) Eos, Transactions American Geophysical Union.
+
+[5]: Lo, S., & Nguyen, H. (2020). ["A Real-time Air Quality Forecasting System for Smart Cities Using Deep Learning"](https://ieeexplore.ieee.org/document/8907358) in 2020 7th NAFOSTED Conference on Information and Computer Science (NICS).

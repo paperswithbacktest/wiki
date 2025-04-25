@@ -81,3 +81,15 @@ Another technique is using convolutional neural networks (CNNs) for data like im
 In machine learning, dimensions refer to the number of features or variables that describe the data. When you have a lot of dimensions, the data can be hard to work with because it spreads out in a high-dimensional space. This is where manifold learning comes in. Manifold learning is a type of dimensionality reduction that tries to find the underlying structure of the data, which is often thought of as a lower-dimensional manifold within the high-dimensional space. By understanding this structure, manifold learning can help reduce the number of dimensions while keeping the most important information.
 
 One popular manifold learning technique is t-distributed Stochastic Neighbor Embedding (t-SNE). t-SNE works by trying to keep similar data points close together in a lower-dimensional space, which makes it easier to see patterns and relationships in the data. For example, if you have a dataset with many dimensions describing different types of flowers, t-SNE can help you see if the flowers naturally group together based on their features. By using manifold learning techniques like t-SNE, you can make high-dimensional data easier to work with and improve the performance of your machine learning models.
+
+## References & Further Reading
+
+[1]: Jolliffe, I. T. (2002). ["Principal Component Analysis."](https://link.springer.com/book/10.1007/b98835) Springer Series in Statistics.
+
+[2]: van der Maaten, L., & Hinton, G. (2008). ["Visualizing Data using t-SNE."](https://jmlr.org/papers/v9/vandermaaten08a.html) Journal of Machine Learning Research, 9(Nov):2579-2605.
+
+[3]: Izenman, A. J. (2008). ["Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning."](https://link.springer.com/book/10.1007/978-0-387-78189-1) Springer Texts in Statistics.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer, New York.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.

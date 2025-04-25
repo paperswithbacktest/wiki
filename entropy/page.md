@@ -83,3 +83,19 @@ To prevent overfitting, we can use techniques like pruning, where we cut back pa
 Recent research in machine learning has explored new ways to use entropy to improve model performance and interpretability. One interesting development is the use of entropy in [deep learning](/wiki/deep-learning) models, particularly in neural networks. Researchers have found that by measuring the entropy of the activations in different layers of a [neural network](/wiki/neural-network), they can better understand how the network processes information and makes decisions. This can help in designing more efficient architectures and in detecting when a model might be overfitting. For example, if the entropy of the activations in the later layers is very low, it might mean the model is too focused on the training data and not generalizing well to new data.
 
 Another area of research involves using entropy to improve the fairness and robustness of machine learning models. By analyzing the entropy of the predictions across different groups of data, researchers can identify biases and work to reduce them. This is important for applications like healthcare and finance, where fairness is crucial. Additionally, entropy has been used to enhance the robustness of models against adversarial attacks. By measuring the entropy of the model's outputs when faced with slightly altered inputs, researchers can develop techniques to make the model more resistant to such attacks. The formula for entropy $$H = -\sum_{i=1}^{n} p_i \log_2(p_i)$$ remains a key tool in these efforts, helping to quantify uncertainty and guide improvements in model design and performance.
+
+## References & Further Reading
+
+[1]: Mitchell, T. M. (1997). ["Machine Learning."](https://www.cs.cmu.edu/~tom/mlbook.html) McGraw Hill.
+
+[2]: Quinlan, J.R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1, 81–106.
+
+[3]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[4]: Schapire, R. E. (1990). ["The strength of weak learnability."](http://rob.schapire.net/papers/strengthofweak.pdf) Machine Learning, 5(2), 197-227.
+
+[5]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[6]: MacKay, D. J. C. (2003). ["Information Theory, Inference, and Learning Algorithms."](https://assets.cambridge.org/97805216/42989/frontmatter/9780521642989_frontmatter.pdf) Cambridge University Press.
+
+[7]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

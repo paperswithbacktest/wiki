@@ -1,6 +1,7 @@
 ---
-title: "Style Analysis: Overview and Techniques"
-description: "Explore the dynamic world of investment focusing on style analysis and algorithmic trading to enhance portfolio management and optimize financial strategies."
+title: Comprehensive Guide to Style Analysis in Writing and Art
+description: Style analysis reveals how word choice tone syntax and figurative language
+  shape creative works across genres and contexts Discover more inside.
 ---
 
 

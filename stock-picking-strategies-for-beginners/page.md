@@ -1,6 +1,7 @@
 ---
-title: "Stock Picking Strategies for Beginners"
-description: "Explore stock picking strategies for beginners focusing on the integration of algorithmic trading and AI. Learn how these tools simplify complex decisions, enhancing investment success."
+title: Stock Picking Guide for Beginners to Build a Strong Portfolio
+description: Stock Picking empowers beginners with proven research techniques metrics
+  and risk management tips to build a diversified portfolio Discover more inside.
 ---
 
 

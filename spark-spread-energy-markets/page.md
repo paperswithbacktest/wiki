@@ -1,6 +1,7 @@
 ---
-title: "Spark Spread in Energy Markets"
-description: "Explore the transformative impact of renewable energy and algorithmic trading on electricity pricing and spark spreads in dynamic energy markets."
+title: Understanding Spark Spread in Energy Market Profitability
+description: Spark spread measures profit potential by comparing electricity price
+  with gas cost Explore calculation steps market factors hedging Discover more inside
 ---
 
 

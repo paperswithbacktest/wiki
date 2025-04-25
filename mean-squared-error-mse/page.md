@@ -94,3 +94,15 @@ print("Mean Squared Error:", error)
 ```
 
 This code defines a function `mean_squared_error` that takes two lists, `y_true` and `y_pred`, representing the actual and predicted values respectively. It calculates the MSE by summing the squared differences and dividing by the number of observations. The example usage shows how to use this function with sample data, and it will print the calculated MSE.
+
+## References & Further Reading
+
+[1]: Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). ["Introduction to Linear Regression Analysis"](https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf). Wiley.
+
+[2]: Hyndman, R. J., & Athanasopoulos, G. (2018). ["Forecasting: Principles and Practice"](https://otexts.com/fpp2/). OTexts.
+
+[3]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: With Applications in R"](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer.
+
+[4]: Abu-Mostafa, Y. S., Magdon-Ismail, M., & Lin, H.-T. (2012). ["Learning From Data"](https://amlbook.com/). AMLBook.
+
+[5]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.

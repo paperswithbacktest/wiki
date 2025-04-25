@@ -83,3 +83,23 @@ Another technique is to use algorithms that are designed to be lightweight and e
 Online gradient descent is a way to teach a model to make better predictions by learning from new data as it comes in. Imagine you're trying to find the lowest point in a valley. You take one step at a time, and each step is guided by the slope of the ground where you are standing. In online gradient descent, the model does something similar. It looks at one piece of data at a time and adjusts its predictions a little bit based on how well it did with that piece of data. The update rule for online gradient descent can be written as $$ \theta = \theta - \eta \nabla J(\theta, x_i, y_i) $$, where $$\theta$$ is the model's parameters, $$\eta$$ is the learning rate, and $$\nabla J(\theta, x_i, y_i)$$ is the gradient of the loss function with respect to the parameters for the current data point $$(x_i, y_i)$$. This means the model can quickly adapt to new information without needing to see all the data at once.
 
 To make online gradient descent work well, you need to choose the right learning rate, $$\eta$$. If the learning rate is too big, the model might take big steps and miss the lowest point in the valley. If it's too small, the model might take too long to get to the lowest point. The learning rate helps the model balance between learning quickly and making accurate predictions. By adjusting the model's parameters one step at a time, online gradient descent can help the model keep getting better at its job, even as new data keeps coming in.
+
+## References & Further Reading
+
+[1]: Bottou, L. (1998). ["Online Learning and Stochastic Approximations"](https://leon.bottou.org/publications/pdf/online-1998.pdf). Online Learning in Neural Networks, 9–42.
+
+[2]: Sculley, D., & Malkin, R. (2009). ["Online Lambda-means: Clustering on Distributed Data Streams"](https://dl.acm.org/doi/10.1145/1835804.1835928). Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Zinkevich, M. (2003). ["Online Convex Programming and Generalized Infinitesimal Gradient Ascent"](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf). Proceedings of the 20th International Conference on Machine Learning (ICML-03).
+
+[4]: Hulten, G., Spencer, L., & Domingos, P. (2001). ["Mining Time-changing Data Streams"](https://dl.acm.org/doi/10.1145/502512.502529). Proceedings of the Seventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[5]: Widmer, G., & Kubat, M. (1996). ["Learning in the Presence of Concept Drift and Hidden Contexts"](https://link.springer.com/article/10.1007/BF00116900). Machine Learning, 23(1), 69–101.
+
+[6]: Bifet, A., & Gavaldà, R. (2007). ["Learning from Time-changing Data with Adaptive Windowing"](https://www.researchgate.net/publication/220907178_Learning_from_Time-Changing_Data_with_Adaptive_Windowing). Proceedings of the Seventh SIAM International Conference on Data Mining.
+
+[7]: Hulten, G., Lauritzen, D., & Spencer, L. (2004). ["Scalable Machine Learning for Data Streams"](https://dl.acm.org/doi/10.1145/502512.502529). AAAI Spring Symposium: The Semantic Web Meets eGovernment.
+
+[8]: Klinkenberg, R. (2004). ["Learning Drifting Concepts: Example Selection vs. Example Weighting"](https://dl.acm.org/doi/10.5555/1293831.1293836). Proceedings of the 7th European Conference on Principles and Practice of Knowledge Discovery in Databases.
+
+[9]: Aggarwal, C. C. (2007). ["Data Streams: Models and Algorithms"](https://link.springer.com/book/10.1007/978-0-387-47534-9). Springer.

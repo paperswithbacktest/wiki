@@ -83,3 +83,15 @@ You can also use something called a confusion matrix to see how the model does. 
 The latest research in bot detection using machine learning is focusing on using more advanced techniques like deep learning and [reinforcement learning](/wiki/reinforcement-learning). Deep learning models, such as neural networks, are getting better at spotting bots by looking at very small details in user behavior and content. For example, they can analyze the way a user types or the patterns in the text they post to see if it's too perfect or repetitive, which might mean it's a bot. Researchers are also trying out reinforcement learning, where the model learns by trying different ways to spot bots and getting better over time. This can help the model keep up with new kinds of bots that are always changing to trick the system.
 
 Another big trend is using more types of data to train bot detection models. Besides looking at user behavior and content, researchers are now using things like network data, which shows how users connect with each other, and device data, which can tell if a user is using a real phone or a computer that might be a bot. By combining all these different kinds of data, the models can get a fuller picture of what's going on and spot bots more accurately. In the future, we might see even more advanced models that can learn from very little data or adapt quickly to new types of bots, making online places safer and fairer for everyone.
+
+## References & Further Reading
+
+[1]: Ferrara, E., Varol, O., Davis, C., Menczer, F., & Flammini, A. (2016). ["The Rise of Social Bots."](https://dl.acm.org/doi/10.1145/2818717) Communications of the ACM, 59(7), 96-104.
+
+[2]: Cresci, S., Lillo, F., Regoli, D., Tardelli, S., & Tesconi, M. (2019). ["Cashtag Piggybacking: Uncovering Spam and Bot Activity in Stock Microblogs on Twitter."](https://arxiv.org/abs/1804.04406) ACM Transactions on the Web (TWEB), 13(2), 1-30.
+
+[3]: Varol, O., Ferrara, E., Davis, C. A., Menczer, F., & Flammini, A. (2017). ["Online Human-Bot Interactions: Detection, Estimation, and Characterization."](https://arxiv.org/abs/1703.03107) In Proceedings of the Eleventh International AAAI Conference on Web and Social Media (ICWSM).
+
+[4]: Savage, D., Zhang, X., Yu, X., Chou, P., & Wang, Q. (2019). ["Anomaly Detection in Online Social Networks."](https://arxiv.org/abs/1608.00301) Journal of Information Science, 45(1), 89-111.
+
+[5]: Nguyen, T., Hui, P. (2017). ["Detecting Bots with Machine Learning on Behavioral Data."](https://scholar.google.com/citations?user=xr39SOwAAAAJ&hl=en) In Proceedings of the 2017 IEEE 37th International Conference on Distributed Computing Systems Workshops (ICDCSW).

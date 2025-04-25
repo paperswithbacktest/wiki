@@ -81,3 +81,15 @@ Another practical use of feature upsampling is in semantic segmentation. This is
 The effectiveness of different upsampling methods can be measured by looking at how well they make images bigger and keep details clear. One way to do this is by using a metric called Peak Signal-to-Noise Ratio (PSNR). PSNR compares the upsampled image to the original high-resolution image. A higher PSNR means the upsampled image is closer to the original and looks better. Another common metric is the Structural Similarity Index (SSIM), which looks at how similar the upsampled image is to the original in terms of structure, brightness, and contrast. A higher SSIM score means the upsampled image keeps more of the original image's details.
 
 Another way to evaluate upsampling methods is by using a visual comparison. This means looking at the upsampled images side by side and seeing which one looks better. People can rate the images based on how clear and detailed they are. Sometimes, researchers use a metric called Mean Opinion Score (MOS), where a group of people rate the images on a scale. A higher MOS means more people think the image looks good. By using these metrics, you can figure out which upsampling method works best for your needs.
+
+## References & Further Reading
+
+[1]: Wang, Z., Zhao, H., & Xu, X. (2019). ["CARAFE: Content-Aware ReAssembly of FEatures for Semantic Segmentation."](https://arxiv.org/abs/1905.02188) arXiv preprint arXiv:1905.02188.
+
+[2]: Odena, A., Dumoulin, V., & Olah, C. (2016). ["Deconvolution and Checkerboard Artifacts."](https://research.google/pubs/deconvolution-and-checkerboard-artifacts/) Distill.
+
+[3]: Dong, C., Loy, C. C., He, K., & Tang, X. (2015). ["Image Super-Resolution Using Deep Convolutional Networks."](https://arxiv.org/abs/1501.00092) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Shi, W., Caballero, J., Huszár, F., Totz, J., Aitken, A. P., Bishop, R., ... & Wang, Z. (2016). ["Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network."](https://arxiv.org/abs/1609.05158) arXiv preprint arXiv:1609.05158.
+
+[5]: Simonyan, K., & Zisserman, A. (2014). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.

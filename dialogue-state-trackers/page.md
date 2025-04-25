@@ -79,3 +79,15 @@ After FastSGT updates the dialogue state, it shares this information with the di
 In the future, we can expect Dialogue State Trackers to become even better at understanding and tracking conversations. One big change might be the use of more advanced machine learning models, like transformer-based models, which can understand the context of a conversation even better than current models. These models could help Dialogue State Trackers handle longer and more complex conversations by remembering more details and understanding the relationships between different pieces of information. For example, if a user is planning a trip and mentions several cities they want to visit, the tracker could keep track of all these details and help plan the trip more effectively.
 
 Another development could be the integration of Dialogue State Trackers with other AI technologies, like emotion recognition and personalization. This means that the tracker could not only understand what the user is saying but also how they are feeling and what they might prefer based on past conversations. This could make conversations with AI feel more personal and helpful. For instance, if a user sounds frustrated, the system could adjust its responses to be more comforting. As these technologies improve, Dialogue State Trackers will become more powerful and versatile, making interactions with AI more natural and enjoyable for users.
+
+## References & Further Reading
+
+[1]: Mrkšić, N., Séaghdha, D. Ó., Wen, T. H., Thomson, B., & Young, S. (2017). ["Neural Belief Tracker: Data-driven Dialogue State Tracking."](https://arxiv.org/abs/1606.03777) Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers).
+
+[2]: Williams, J. D., Asadi, K., & Zweig, G. (2017). ["Hybrid Code Networks: Practical and Efficient End-to-end Dialog Control with Supervised and Reinforcement Learning."](https://arxiv.org/abs/1702.03274) arXiv preprint arXiv:1702.03274.
+
+[3]: Henderson, M., Thomson, B., & Young, S. (2014). ["Word-Based Dialog State Tracking with Recurrent Neural Networks."](https://aclanthology.org/W14-4340/) Proceedings of the 15th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL).
+
+[4]: ["Conversational AI: Dialogue Systems, Conversational Agents, and Chatbots"](https://link.springer.com/book/10.1007/978-3-031-02176-3) by Michael McTear
+
+[5]: ["The Text Mining Handbook: Advanced Approaches in Analyzing Unstructured Data"](https://www.researchgate.net/publication/200504395_The_text_mining_handbook_Advanced_approaches_in_analyzing_unstructured_data) by Ronen Feldman and James Sanger

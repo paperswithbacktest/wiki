@@ -81,3 +81,17 @@ Another advanced technique is GraphSAGE (Sample and aggreGatE). GraphSAGE is goo
 One current research trend in graph machine learning is the development of more advanced Graph Neural Networks (GNNs). Researchers are working on making GNNs better at handling big and complex graphs. They are trying to make these networks faster and able to work with different kinds of graphs. For example, they are looking at ways to use GNNs for things like drug discovery, where the graph can represent the structure of a molecule. Another trend is the use of self-supervised learning on graphs. This means teaching the model to learn from the graph itself without needing extra labels. This can help the model learn better and be more useful in real-world situations where labeled data is hard to get.
 
 Future directions in graph machine learning are exciting. One direction is to make GNNs more explainable, so people can understand how the model makes its decisions. This is important for things like healthcare, where it's crucial to know why a model suggests a certain treatment. Another direction is to use graphs for multi-modal learning, where different types of data, like text and images, are combined into one graph. This can help the model understand more about the world by looking at different kinds of information together. As graphs become more important in machine learning, these trends and directions will help make the models smarter and more useful.
+
+## References & Further Reading
+
+[1]: Kipf, T. N., & Welling, M. (2017). ["Semi-Supervised Classification with Graph Convolutional Networks."](https://arxiv.org/abs/1609.02907) In Proceedings of the International Conference on Learning Representations (ICLR).
+
+[2]: Hamilton, W., Ying, Z., & Leskovec, J. (2017). ["Inductive Representation Learning on Large Graphs."](https://arxiv.org/abs/1706.02216) In Advances in Neural Information Processing Systems (NeurIPS).
+
+[3]: Veličković, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2018). ["Graph Attention Networks."](https://arxiv.org/abs/1710.10903) In International Conference on Learning Representations (ICLR).
+
+[4]: Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Yu, P. S. (2020). ["A Comprehensive Survey on Graph Neural Networks."](https://arxiv.org/abs/1901.00596) IEEE Transactions on Neural Networks and Learning Systems.
+
+[5]: Battaglia, P. W., Hamrick, J. B., Bapst, V., Sanchez-Gonzalez, A., Zambaldi, V., Malinowski, M., ... & Pascanu, R. (2018). ["Relational inductive biases, deep learning, and graph networks."](https://arxiv.org/abs/1806.01261) arXiv preprint arXiv:1806.01261.
+
+[6]: Bronstein, M. M., Bruna, J., Cohen, T., & Veličković, P. (2021). ["Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges."](https://arxiv.org/abs/2104.13478) arXiv preprint arXiv:2104.13478.

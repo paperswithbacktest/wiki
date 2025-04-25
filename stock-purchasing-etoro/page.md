@@ -1,6 +1,7 @@
 ---
-title: "Stock Purchasing on eToro"
-description: "Explore how eToro combines social trading with algorithmic trading, empowering investors with innovative tools and features to optimize stock trading decisions. Achieve strategic insights through automated strategies while leveraging eToro's community-driven trading environment for enhanced market success."
+title: How to Buy Stocks on eToro Using Social Trading Features
+description: eToro online investing platform makes stock trading accessible for beginners
+  and pros alike with social trading and CopyPortfolios Discover more inside.
 ---
 
 

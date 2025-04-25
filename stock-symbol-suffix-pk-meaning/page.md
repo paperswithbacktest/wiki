@@ -1,6 +1,7 @@
 ---
-title: "Stock Symbol Suffix .PK Meaning"
-description: "Discover the meaning of the '.PK' stock symbol suffix and its implications for trading in the decentralized and less regulated OTC markets."
+title: Comprehensive Guide to .PK Stock Symbols on the Pink Sheets
+description: .PK stock symbol explains how trading on Pink Sheets works and the risks
+  of limited disclosure Get tips to research stocks Discover more inside.
 ---
 
 

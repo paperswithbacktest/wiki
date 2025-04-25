@@ -79,3 +79,15 @@ Another ethical issue is fairness and bias. Motion prediction models learn from 
 To fine-tune a motion prediction model like MotionNet for a specific application, you first need to gather data that matches the situation you want to use the model for. For example, if you are fine-tuning MotionNet for a self-driving car, you would collect data from the roads where the car will drive. This data should include different times of day, weather conditions, and types of traffic. Once you have this data, you can use it to train MotionNet again, but this time, you focus on making it better at predicting movements in your specific scenario. This process is called fine-tuning, and it helps the model learn the unique patterns and behaviors of the objects in your application.
 
 During fine-tuning, you might also adjust the model's architecture or hyperparameters to improve its performance. For example, you could change the number of layers in the neural network or adjust the learning rate to see if it helps the model predict better. You would use a validation set to check how well the model is doing and keep making small changes until you are happy with the results. By carefully fine-tuning MotionNet, you can make it more accurate and reliable for your specific use case, whether it's helping a self-driving car navigate busy city streets or tracking players on a sports field.
+
+## References & Further Reading
+
+[1]: Hu, P., Ziglar, C., Ma, W.C., & Sun, J. (2020). ["ChainNet: Learning Spatial-Temporal Dependency for Multi-step Future Prediction of Mobile Entities in Spatio-Temporal Graphs"](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_What_You_See_is_What_You_Get_Exploiting_Visibility_for_CVPR_2020_paper.pdf). arXiv preprint arXiv:2008.07543.
+
+[2]: Deo, N., & Trivedi, M.M. (2018). ["Multi-Modal Trajectory Prediction of Surrounding Vehicles with Maneuver based LSTMs."](https://ieeexplore.ieee.org/document/8500493) 2018 IEEE Intelligent Vehicles Symposium (IV), pp. 1179-1184.
+
+[3]: Lee, N., Choi, W., Vernaza, P., Choy, C.B., Torr, P.H.S., & Chandraker, M. (2017). ["Desire: Distant future prediction in dynamic scenes with interacting agents."](https://arxiv.org/abs/1704.04394) 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 336-345.
+
+[4]: Rudenko, A., Palmieri, L., Herman, M., Kitani, K.M., & Burgard, W. (2019). ["Human Motion Trajectory Prediction: A Survey."](https://arxiv.org/abs/1905.06113) The International Journal of Robotics Research, 39(8), 895-935.
+
+[5]: Sadigh, D., Sastry, S.S., Seshia, S.A., & Dragan, A.D. (2016). ["Planning for Autonomous Cars that Leverage Effects on Human Actions."](https://people.eecs.berkeley.edu/~sseshia/pubs/b2hd-sadigh-rss16.html) Proceedings of Robotics: Science and Systems.

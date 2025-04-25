@@ -79,3 +79,17 @@ Another way to integrate AR models with other machine learning techniques is thr
 AR models are used in many industries to help predict future values based on past data. In finance, AR models are used to forecast stock prices and other financial indicators. For example, a bank might use an AR model to predict future interest rates, helping them make better decisions about loans and investments. The formula for an AR model is $$ Y_t = c + \phi_1 Y_{t-1} + \phi_2 Y_{t-2} + ... + \phi_p Y_{t-p} + \epsilon_t $$, where past values of the stock price help predict future prices. By using AR models, financial analysts can get a better idea of what might happen in the market, which can lead to smarter investment strategies.
 
 In the energy sector, AR models help predict electricity demand and prices. Power companies use these models to plan how much energy they need to produce and when. For instance, an AR model can look at past electricity usage to predict how much power will be needed on a hot summer day. This helps the company avoid shortages and keep the power grid stable. By using AR models, energy companies can make more accurate forecasts, which can save money and improve service for customers.
+
+## References & Further Reading
+
+[1]: Box, G. E. P., Jenkins, G. M., & Reinsel, G. C. (2008). ["Time Series Analysis: Forecasting and Control."](https://www.amazon.com/Time-Analysis-Forecasting-Probability-Statistics/dp/1118675029) John Wiley & Sons.
+
+[2]: Hamilton, J. D. (1994). ["Time Series Analysis."](https://api.pageplace.de/preview/DT0400.9780691218632_A40156688/preview-9780691218632_A40156688.pdf) Princeton University Press.
+
+[3]: Makridakis, S., Wheelwright, S. C., & Hyndman, R. J. (1998). ["Forecasting: Methods and Applications."](https://www.researchgate.net/publication/52008212_Forecasting_Methods_and_Applications) John Wiley & Sons.
+
+[4]: Enders, W. (2014). ["Applied Econometric Time Series."](http://time-series.net/yahoo_site_admin/assets/docs/AETS4_RATSEViewsStudentVersion.324125711.pdf) John Wiley & Sons.
+
+[5]: Hyndman, R. J., & Athanasopoulos, G. (2018). ["Forecasting: Principles and Practice."](https://otexts.com/fpp3/) OTexts.
+
+[6]: Shumway, R. H., & Stoffer, D. S. (2017). ["Time Series Analysis and Its Applications: With R Examples."](https://link.springer.com/book/10.1007/978-3-031-70584-7) Springer.

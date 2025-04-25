@@ -105,3 +105,21 @@ These hardware advancements also help in making inference paths more energy-effi
 Model quantization is a technique that makes machine learning models smaller and faster by changing their weights and activations from floating-point numbers to integers. This can help speed up the inference path because integer calculations are usually quicker than floating-point ones. For example, if you're using a neural network, you might use a formula like $$x_{\text{quantized}} = \text{round}(x / s)$$ to convert a floating-point number $$x$$ to an integer, where $$s$$ is a scaling factor. By doing this, the model can run on hardware that's optimized for integer operations, like some GPUs and TPUs, making the inference path more efficient. This is especially useful for real-time systems where you need quick predictions.
 
 Model pruning is another technique that helps optimize the inference path by removing parts of the model that aren't very important. This makes the model smaller and faster because it has fewer calculations to do. For instance, in a neural network, you might remove connections or weights that don't contribute much to the final prediction. This can be done using algorithms that identify and cut out these less important parts. By pruning the model, you can make the inference path more efficient without losing much accuracy. Both quantization and pruning are important for making machine learning models work better in real-world applications where speed and efficiency matter.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438). Manning Publications.
+
+[3]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385). arXiv preprint arXiv:1512.03385.
+
+[4]: Han, S., Pool, J., Tran, J., & Dally, W. J. (2015). ["Learning both Weights and Connections for Efficient Neural Networks"](https://arxiv.org/abs/1506.02626). arXiv preprint arXiv:1506.02626.
+
+[5]: Google Cloud. ["TPU Overview"](https://cloud.google.com/tpu/docs/intro-to-tpu). 
+
+[6]: TensorFlow. ["TensorFlow Model Optimization"](https://www.tensorflow.org/model_optimization) for pruning and quantization techniques.
+
+[7]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["Imagenet Classification with Deep Convolutional Neural Networks"](https://dl.acm.org/doi/10.1145/3065386). Communications of the ACM, 60(6), 84-90. 
+
+[8]: NVIDIA. ["The Importance of Tensor Cores for Mixed-Precision Training"](https://developer.nvidia.com/blog/tensor-cores-mixed-precision-scientific-computing/).

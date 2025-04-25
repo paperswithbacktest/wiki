@@ -121,3 +121,21 @@ Another technique that involves CDFs is called ADASYN (Adaptive Synthetic Sampli
 In [deep learning](/wiki/deep-learning), the Cumulative Distribution Function (CDF) can help improve how models work and understand data better. For example, CDFs can be used to create new features that show important patterns in the data. If we have a dataset of exam scores, the CDF can tell us the chance that a score is less than 70. By adding this information as a new feature, deep learning models can learn more about the data's spread and make better predictions. This can be especially useful in tasks like regression, where understanding the distribution of the target variable can help the model predict more accurately.
 
 Another way CDFs can be used in deep learning is through techniques like quantile regression. Quantile regression helps models predict not just the average outcome but also different percentiles of the outcome. The quantile function, which is the opposite of the CDF, is key to this. If $F(x)$ is the CDF, the quantile function $Q(p)$ is defined as $$Q(p) = \inf \{ x : F(x) \geq p \}$$. By using quantile regression, deep learning models can give us a fuller picture of what might happen, not just the most likely outcome. This is helpful in many real-world situations, like predicting how long a machine might last or how much a house might sell for, where understanding the range of possible outcomes is important.
+
+## References & Further Reading
+
+[1]: Papoulis, A., & Pillai, S. U. (2002). ["Probability, Random Variables, and Stochastic Processes"](https://searchworks.stanford.edu/view/4708590) (4th Edition). McGraw-Hill.
+
+[2]: Sheskin, D. J. (2007). ["Handbook of Parametric and Nonparametric Statistical Procedures"](https://www.taylorfrancis.com/books/mono/10.1201/9780429186196/handbook-parametric-nonparametric-statistical-procedures-fifth-edition-david-sheskin) (4th Edition). CRC Press.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://link.springer.com/book/9780387310732). Springer.
+
+[4]: Wasserman, L. (2004). ["All of Statistics: A Concise Course in Statistical Inference"](https://link.springer.com/book/10.1007/978-0-387-21736-9). Springer.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd Edition). Springer.
+
+[6]: Silverman, B. W. (1986). ["Density Estimation for Statistics and Data Analysis"](https://ned.ipac.caltech.edu/level5/March02/Silverman/paper.pdf). Chapman & Hall/CRC.
+
+[7]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[8]: Vapnik, V. (1998). ["Statistical Learning Theory"](https://www.wiley.com/en-us/Statistical+Learning+Theory-p-9780471030034). Wiley.

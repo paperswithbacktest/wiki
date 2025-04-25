@@ -81,3 +81,15 @@ In addition to historical and personal uses, image colorization models can be he
 In the future, image colorization might get even better and easier to use. One big goal is to make models that can colorize images more accurately, so the colors look just right. Researchers are working on using even bigger and more varied datasets to train these models. This can help the models learn more about the world and make better color guesses. Another idea is to use new kinds of neural networks that can understand images even better. For example, some researchers are looking into using something called Vision Transformers, which are really good at seeing the whole picture at once. This could make colorization models more accurate and able to handle all kinds of images, from old photos to modern art.
 
 Another exciting direction is making image colorization tools easier for everyone to use. Right now, you need special software and a good computer to run these models. But in the future, these tools might be built right into phones and cameras. This would let people colorize their photos on the go, without needing any extra equipment. Also, researchers are working on ways to let people guide the colorization process, so they can choose the colors they want for certain parts of the image. This could make colorization more fun and creative, letting people turn their black and white photos into colorful works of art with just a few taps.
+
+## References & Further Reading
+
+[1]: Iizuka, S., Simo-Serra, E., & Ishikawa, H. (2016). ["Let There Be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification."](https://dl.acm.org/doi/10.1145/2897824.2925974) ACM Transactions on Graphics (TOG), Proceedings of the ACM SIGGRAPH 2016.
+
+[2]: Zhang, R., Isola, P., & Efros, A. A. (2016). ["Colorful Image Colorization."](https://arxiv.org/abs/1603.08511) European Conference on Computer Vision (ECCV).
+
+[3]: Deshpande, A., Rock, J., & Forsyth, D. (2017). ["Learning Large-Scale Automatic Image Colorization."](https://ieeexplore.ieee.org/document/7410429) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[4]: Van der Maaten, L., & Hinton, G. (2008). ["Visualizing Data using t-SNE."](https://jmlr.org/papers/v9/vandermaaten08a.html) Journal of Machine Learning Research.
+
+[5]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30 (NIPS 2017).

@@ -81,3 +81,17 @@ Another advanced technique is to use continuous integration and continuous deplo
 The way you set up your root directory can really change how easy it is to deploy and scale your machine learning models. If your root directory is well-organized, with clear folders for data, scripts, and models, it's easier for everyone on the team to find what they need. This makes it simpler to set up the project on different machines or servers. When you're ready to deploy your model, having everything in the right place means you can quickly package up the model, the code that runs it, and the data it needs. This can make the whole deployment process smoother and faster.
 
 As your project grows, a good root directory structure helps with scaling too. If you're using version control like Git, a well-organized root directory makes it easier to manage different branches and versions of your project. This is important when you're trying to scale your models to handle more data or to work on more powerful servers. With a clear structure, you can also set up automation tools like CI/CD pipelines more easily. These tools can help you test, build, and deploy your models automatically, making it simpler to scale your project without getting bogged down by file management issues.
+
+## References & Further Reading
+
+[1]: Kelleher, J. D., Mac Namee, B., & D'Arcy, A. (2015). ["Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies"](https://mitpress.mit.edu/9780262029445/fundamentals-of-machine-learning-for-predictive-data-analytics/). MIT Press.
+
+[2]: Gerardus Blokdyk (2018). ["Version Control A Complete Guide"](https://www.amazon.com/Version-control-Complete-Guide-2019-ebook/dp/B07T1SKD2N). 5STARCooks.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[4]: Google's Machine Learning Crash Course. ["Introduction to Machine Learning Problem Framing"](https://developers.google.com/machine-learning/crash-course).
+
+[5]: Git Documentation. ["Pro Git Book"](https://git-scm.com/book/en/v2). Scott Chacon and Ben Straub. 
+
+[6]: Marsland, S. (2015). ["Machine Learning: An Algorithmic Perspective"](https://api.pageplace.de/preview/DT0400.9781466583337_A36331526/preview-9781466583337_A36331526.pdf). Chapman and Hall/CRC.

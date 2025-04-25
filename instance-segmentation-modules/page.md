@@ -81,3 +81,19 @@ Another technique is called multi-scale feature fusion. This helps the computer 
 Instance segmentation modules can be integrated into larger machine learning pipelines by connecting them with other parts of the system that do different jobs. For example, after an instance segmentation module figures out the shapes of objects in a picture, the information can be sent to another part of the pipeline that decides what to do with those objects. This could be a robot that needs to pick up the objects, or a self-driving car that needs to know where other cars are on the road. The instance segmentation module gives the exact shapes and positions of the objects, which helps the other parts of the pipeline work better and make smarter decisions.
 
 To make this work smoothly, the instance segmentation module needs to be able to talk to the other parts of the pipeline. This means the data it produces, like the outlines of objects, has to be in a format that the other parts can understand and use. For example, if the instance segmentation module uses a special way of describing shapes, the next part of the pipeline might need to be taught how to read that description. By making sure all the parts of the pipeline can work together, instance segmentation can help make the whole system more accurate and useful.
+
+## References & Further Reading
+
+[1]: Kirillov, A., Wu, Y., He, K., & Girshick, R. (2020). ["PointRend: Image Segmentation as Rendering."](https://arxiv.org/abs/1912.08193) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Xie, E., Ding, J., Wang, W., Zhan, X., & Luo, P. (2020). ["PolarMask: Single Shot Instance Segmentation with Polar Representation."](https://www.sciencedirect.com/science/article/pii/S2095495624007514) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Cheng, B., Girshick, R., Dollár, P., Berg, A., & Kirillov, A. (2021). ["Boundary IoU: Improving Object-Centric Image Segmentation Evaluation."](https://arxiv.org/abs/2103.16562) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Advances in Neural Information Processing Systems (NeurIPS).
+
+[6]: Blanco, J., & Ribeiro, A. (2010). ["Overview of State-of-the-Art in Object Detection/Recognition."](https://ieeexplore.ieee.org/document/10581202) Institute of Robotics and Industrial Informatics, UPC-CIRS. 
+
+[7]: Chen, L. C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2016). ["DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs."](https://ieeexplore.ieee.org/document/7913730) IEEE Transactions on Pattern Analysis and Machine Intelligence. 

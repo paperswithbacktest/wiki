@@ -81,3 +81,15 @@ The AUPRC, which is the area under the PR Curve, gives you a single number that 
 One way to improve the AUPRC of a model is by using techniques like oversampling the minority class or undersampling the majority class to balance the dataset. When you have a lot more negative examples than positive ones, your model might struggle to find the rare positive cases. By balancing the data, you give your model a better chance to learn what the positive cases look like. Another technique is to use ensemble methods, like Random Forests or Gradient Boosting Machines. These methods combine the predictions of many different models to make a final prediction, which can often be more accurate and improve the AUPRC.
 
 Another advanced technique is to use cost-sensitive learning. This means you tell your model that making mistakes on the positive class is more important than making mistakes on the negative class. You can do this by setting different weights for the positive and negative examples during training. For example, you might use a higher weight for the positive class to make sure your model pays more attention to those cases. This can help improve the precision and recall of your model, leading to a higher AUPRC. Additionally, you can try different model architectures or hyperparameters, like adjusting the learning rate or the number of layers in a [neural network](/wiki/neural-network), to see if they improve your model's performance on the PR Curve.
+
+## References & Further Reading
+
+[1]: Davis, J., & Goadrich, M. (2006). ["The Relationship Between Precision-Recall and ROC Curves."](https://dl.acm.org/doi/10.1145/1143844.1143874) Proceedings of the 23rd international conference on Machine learning.
+
+[2]: Saito, T., & Rehmsmeier, M. (2015). ["The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PloS one, 10(3), e0118432.
+
+[3]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://ccrma.stanford.edu/workshops/mir2009/references/ROCintro.pdf) Pattern recognition letters, 27(8), 861-874.
+
+[4]: He, H., & Garcia, E. A. (2009). ["Learning from imbalanced data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[5]: Boyd, K., Eng, K. H., & Page, C. D. (2013). ["Area under the precision-recall curve: point estimates and confidence intervals."](https://link.springer.com/chapter/10.1007/978-3-642-40994-3_29) In Machine Learning and Knowledge Discovery in Databases (pp. 451-466). Springer, Berlin, Heidelberg.

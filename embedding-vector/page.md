@@ -81,3 +81,17 @@ Another big advancement is in handling out-of-vocabulary (OOV) words. New techni
 Embedding vectors can be used in domains like images and audio to help computers understand and work with these types of data. For images, an embedding vector turns a picture into a list of numbers, like $$[0.1, 0.3, -0.2]$$. This list captures what the image is about, so the computer can compare it to other images. For example, if you have pictures of different dogs, their embedding vectors might be similar, helping the computer recognize that they are all dogs. This is useful for tasks like searching for similar images or organizing them into categories.
 
 For audio, embedding vectors work in a similar way. They turn sounds into lists of numbers, like $$[0.2, -0.5, 0.8]$$, that represent what the audio is about. This can help computers understand and compare different sounds. For instance, if you have recordings of different people saying "hello," their embedding vectors might be similar, so the computer can recognize the word "hello" no matter who says it. This is helpful for tasks like voice recognition or organizing audio files by content. By using embedding vectors, computers can process and understand images and audio better, making them more useful in many applications.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[2]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[4]: Le, Q. V., & Mikolov, T. (2014). ["Distributed Representations of Sentences and Documents."](https://arxiv.org/abs/1405.4053) arXiv preprint arXiv:1405.4053.
+
+[5]: Jurafsky, D., & Martin, J. H. (2020). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition."](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) Draft of 3rd edition.
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.

@@ -96,3 +96,17 @@ Using stratified sampling can also help prevent overfitting. Overfitting happens
 In large-scale machine learning projects, it's important to manage and use holdout data carefully to make sure your model works well on new data. One good practice is to use stratified sampling when you split your data into training and holdout sets. This means you make sure that both sets have the same mix of different types of data. For example, if your data is about different types of animals, you want both sets to have the same number of dogs, cats, and birds. By doing this, your model will be trained on a variety of data, and your holdout set will test it fairly on similar kinds of data. This helps prevent overfitting, where your model might learn the training data too well but not work well on new data.
 
 Another best practice is to use cross-validation along with holdout data. Instead of just using one holdout set, you can split your data into many parts and test your model on each part, one at a time. This is called k-fold cross-validation. In k-fold cross-validation, you split your data into k parts, train your model k times, and each time use a different part as the test set. This way, every piece of your data gets used for both training and testing, which can give you a better idea of how your model will work on new data. By combining cross-validation with a final holdout set, you can tune your model well and still have a separate set to test its performance on new data.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438). Manning Publications.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[6]: Kohavi, R. (1995). ["A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection."](https://dl.acm.org/doi/10.5555/1643031.1643047) Proceedings of the 14th International Conference on Artificial Intelligence.

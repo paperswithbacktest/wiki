@@ -1,6 +1,7 @@
 ---
-title: "Stochastic Volatility Models"
-description: "Explore the intricacies of Stochastic Volatility models integral to capturing market dynamics and optimizing trading strategies in algorithmic finance."
+title: Understanding Stochastic Volatility Models in Finance
+description: Stochastic volatility models improve option pricing and risk forecasting
+  by simulating random volatility shifts in real markets Discover more inside.
 ---
 
 

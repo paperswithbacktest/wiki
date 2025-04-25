@@ -1,6 +1,7 @@
 ---
-title: "Supertrend Indicator: Features and Functionality"
-description: "Explore the features and functionality of the Supertrend Indicator, a key tool in algorithmic trading that simplifies market trend analysis for traders. This comprehensive guide discusses its components, calculation methods, and practical applications, highlighting how it can provide clear buy and sell signals. Ideal for both novice and experienced traders, the Supertrend Indicator leverages the Average True Range to dynamically adapt to market volatility, offering strategic advantages in diverse trading scenarios."
+title: Using the Supertrend Indicator for Precise Trend Following Trades
+description: Supertrend Indicator reveals clear buy and sell signals by combining
+  price trends with volatility analysis and guides entry points Discover more inside
 ---
 
 

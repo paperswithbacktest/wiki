@@ -1,6 +1,7 @@
 ---
-title: "Stripped Yield and Its Mechanism"
-description: "Explore the intricacies of stripped yield and algorithmic trading in finance to make informed investment decisions with enhanced bond assessments and automated strategies."
+title: Understanding Stripped Yield Metrics for Bond Investments
+description: Stripped yield reveals the true return of bond components by separating
+  coupons and principal for clearer investment insights. Discover more inside.
 ---
 
 

@@ -81,3 +81,17 @@ One good way to adjust epochs is by using a technique called early stopping. Wit
 One advanced technique for dynamically adjusting the number of epochs is called learning rate scheduling combined with early stopping. Learning rate scheduling means changing how fast the model learns as it goes through the epochs. You might start with a big learning rate to make big changes early on, and then make it smaller later to fine-tune the model's guesses. Early stopping helps you stop training at the right time by checking how well the model is doing on a separate set of data, called a validation set, after each epoch. If the model's performance on the validation set stops getting better or starts to get worse, early stopping tells you to stop training. This way, you can make sure your model learns just enough without overfitting.
 
 Another technique is called adaptive learning rate methods, like Adam or RMSprop. These methods automatically change the learning rate during training based on how the model is doing. For example, if the model is learning well, the learning rate might stay the same or get a bit smaller. But if the model is having trouble, the learning rate might get bigger to help it learn faster. These methods can help you find the right number of epochs because they adjust the learning rate to keep the model learning at a good pace. By using these adaptive methods, you can train your model for the right number of epochs without having to guess or set a fixed number ahead of time.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[3]: Brownlee, J. (2018). ["How to Control the Training Process with Learning Curves in PyTorch."](https://www.goodreads.com/book/show/44296432-better-deep-learning) Machine Learning Mastery.
+
+[4]: Srivastava, R. K., Greff, K., & Schmidhuber, J. (2015). ["Training Very Deep Networks."](https://arxiv.org/abs/1507.06228) Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Zeiler, M. D. (2012). ["ADADELTA: An Adaptive Learning Rate Method."](https://arxiv.org/abs/1212.5701) arXiv preprint arXiv:1212.5701.
+
+[6]: Prechelt, L. (1998). ["Early Stopping - But When?"](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_5) In Neural Networks: Tricks of the Trade.

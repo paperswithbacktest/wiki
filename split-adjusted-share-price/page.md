@@ -1,6 +1,7 @@
 ---
-title: "Split-Adjusted Share Price"
-description: "Explore the intricacies of stock splits and share price adjustments in algorithmic trading ensuring accurate data for informed investment decisions."
+title: Split-Adjusted Share Prices Explained for Stock Investors
+description: Split-adjusted share prices enable accurate stock comparisons by accounting
+  for splits and helping investors analyze performance. Discover more inside.
 ---
 
 

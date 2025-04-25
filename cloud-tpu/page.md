@@ -79,3 +79,15 @@ Another good practice is to make your models and code as efficient as possible. 
 In the future, we can expect Cloud TPUs to become even more powerful and efficient for machine learning tasks. Google is always working on new versions of TPUs that can do more calculations faster. This means that training big machine learning models will take less time and be cheaper. Also, TPUs might get better at working with different kinds of machine learning models, not just the ones they are good at now. This could make them useful for more types of projects and help more people use them for their work.
 
 Another thing we might see is better tools and software to make it easier to use Cloud TPUs. Right now, setting up and using TPUs can be hard, especially if you're new to them. In the future, there could be simpler ways to connect your code to TPUs and make them work with other tools you use. This would help more people take advantage of TPUs without having to learn a lot of new things. Overall, Cloud TPUs are likely to keep getting better and more useful for machine learning, making it easier and faster for everyone to build smart models.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., & Patterson, D. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://arxiv.org/abs/1704.04760) Proceedings of the 44th Annual International Symposium on Computer Architecture (ISCA).
+
+[2]: Dean, J., Corrado, G., Monga, R., Chen, K., Devin, M., Le, Q. V., & Ng, A. Y. (2012). ["Large Scale Distributed Deep Networks."](https://dl.acm.org/doi/10.5555/2999134.2999271) Advances in Neural Information Processing Systems 25.
+
+[3]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., & Kudlur, M. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16).
+
+[4]: Lee, D., & Sieniek, M. (2019). ["Cloud-Based Machine Learning Benchmarks for GPUs and TPUs."](https://link.springer.com/article/10.1007/s42113-019-00054-x) 2019 USENIX Workshop on Hot Topics in Cloud Computing (HotCloud 19).
+
+[5]: ["Google Cloud's Tensor Processing Units: A Revolution in Training Complex Machine Learning Models."](https://cloud.google.com/blog/products/compute/introducing-trillium-6th-gen-tpus) Google Cloud Official Documentation.

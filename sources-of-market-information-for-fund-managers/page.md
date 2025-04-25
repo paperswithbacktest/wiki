@@ -1,6 +1,7 @@
 ---
-title: "Sources of Market Information for Fund Managers"
-description: "Discover how fund managers utilize market information to shape investment strategies in algorithmic trading and enhance portfolio management for optimal results."
+title: Key Market Information Sources for Investment Fund Managers
+description: Market information empowers fund managers to make informed investment
+  decisions by gathering real-time data trends and expert insights Discover more inside
 ---
 
 

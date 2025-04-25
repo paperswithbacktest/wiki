@@ -79,3 +79,21 @@ One way to do feature selection is by trying different combinations of features 
 When you have an imbalanced dataset, it means that some categories have a lot more examples than others. Imagine you're sorting emails into spam and not spam, and 95% of your emails are not spam. If you train a classifier on this data, it might guess "not spam" all the time because that's what it sees most often. This can make the classifier seem accurate, but it's not very useful because it misses all the spam emails. To fix this, you need to help the classifier pay more attention to the less common categories.
 
 One way to handle imbalanced datasets is by using a technique called resampling. This means you can either add more examples of the less common categories, which is called oversampling, or remove some examples from the more common categories, which is called undersampling. Another way is to use special algorithms that are designed to work well with imbalanced data. For example, you can use something called class weights, which tells the classifier to care more about getting the less common categories right. By using these methods, you can help the classifier do a better job at sorting things into the right categories, even when the data is imbalanced.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Zhang, H. (2004). ["The Optimality of Naive Bayes."](https://aaai.org/papers/flairs-2004-097/) Knowledge and Information Systems, 1(3), 1-11.
+
+[4]: Breiman, L. (1996). ["Bagging predictors."](https://link.springer.com/article/10.1023/A:1018054314350) Machine Learning, 24(2), 123-140.
+
+[5]: Freund, Y., & Schapire, R. E. (1997). ["A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting."](https://www.sciencedirect.com/science/article/pii/S002200009791504X) Journal of Computer and System Sciences, 55(1), 119–139.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[7]: Quinlan, J.R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1, 81–106.
+
+[8]: Cortes, C., & Vapnik, V. (1995). ["Support-vector networks."](https://link.springer.com/article/10.1007/BF00994018) Machine Learning, 20, 273–297.

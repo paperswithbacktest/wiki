@@ -85,3 +85,17 @@ These techniques can make fuzzy logic systems more powerful and efficient, but t
 To evaluate the performance of a fuzzy logic system in machine learning applications, you can use different measures that show how well the system is doing its job. One common way is to look at how accurate the system's decisions are compared to what you want them to be. For example, if you're using a fuzzy logic system to control the temperature in a room, you might check how close the actual temperature stays to the desired temperature. Another way is to use error measures like the mean squared error (MSE), which calculates the average of the squares of the errors between the predicted and actual values. The formula for MSE is $$ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 $$, where $$ y_i $$ is the actual value, $$ \hat{y}_i $$ is the predicted value, and $$ n $$ is the number of observations.
 
 Besides accuracy and error measures, you can also look at how well the system adapts to changes. This is important because real-world situations often change, and a good fuzzy logic system should be able to handle that. You can test this by changing the conditions and seeing how the system responds. For example, if you're using fuzzy logic to control a car's speed, you might change the road conditions and see if the system adjusts the speed correctly. Another way to evaluate performance is by comparing the fuzzy logic system to other methods, like traditional binary logic or other machine learning techniques. This can help you see if fuzzy logic gives better results or if there are other methods that might work better for your specific application.
+
+## References & Further Reading
+
+[1]: Zadeh, L. A. (1965). ["Fuzzy sets."](https://www.sciencedirect.com/science/article/pii/S001999586590241X)90241-X) Information and Control, 8(3), 338-353.
+
+[2]: Ross, T. J. (2010). ["Fuzzy Logic with Engineering Applications."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119994374) John Wiley & Sons.
+
+[3]: Mamdani, E. H., & Assilian, S. (1975). ["An experiment in linguistic synthesis with a fuzzy logic controller."](https://www.sciencedirect.com/science/article/pii/S0020737375800022) International Journal of Man-Machine Studies, 7(1), 1-13.
+
+[4]: Jang, J. S. R., & Sun, C. T. (1995). ["Neuro-fuzzy modeling and control."](https://ieeexplore.ieee.org/abstract/document/364486) Proceedings of the IEEE, 83(3), 378-406.
+
+[5]: Kosko, B. (1992). ["Neural Networks and Fuzzy Systems: A Dynamical Systems Approach to Machine Intelligence."](https://archive.org/details/neuralnetworksfu0000kosk) Prentice Hall.
+
+[6]: Pedrycz, W., & Gomide, F. (1998). ["An Introduction to Fuzzy Sets: Analysis and Design."](https://direct.mit.edu/books/monograph/3926/An-Introduction-to-Fuzzy-SetsAnalysis-and-Design) MIT Press.

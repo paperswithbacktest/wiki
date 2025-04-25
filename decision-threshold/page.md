@@ -79,3 +79,19 @@ Another method is using [reinforcement learning](/wiki/reinforcement-learning) t
 In multi-class classification problems, where you're trying to sort things into more than two groups, using decision thresholds can be a bit trickier than in binary classification. Instead of just one threshold, you might need to use multiple thresholds or a different approach altogether. One common way is to use a "one-vs-rest" strategy. Here, you train a separate binary classifier for each class, where that class is treated as the positive case and all other classes are treated as the negative case. For each of these classifiers, you can set a decision threshold. If an item's score from a classifier is above its threshold, it's considered to belong to that class. The final prediction is usually the class with the highest score above its threshold.
 
 Another approach is to use "one-vs-one" classifiers, where you train a binary classifier for every pair of classes. For example, if you have three classes A, B, and C, you would train classifiers for A vs B, A vs C, and B vs C. Each of these classifiers can have its own decision threshold. The final prediction can be made by a voting system, where the class that wins the most pairwise comparisons is chosen. In both approaches, adjusting the thresholds can help balance the trade-offs between different types of errors, much like in binary classification. The key is to find the right thresholds that minimize the overall misclassification cost for your specific problem.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.researchgate.net/publication/222511520_Introduction_to_ROC_analysis) Pattern Recognition Letters, 27(8), 861-874.
+
+[2]: Davis, J., & Goadrich, M. (2006). ["The relationship between Precision-Recall and ROC curves."](https://dl.acm.org/doi/10.1145/1143844.1143874) Proceedings of the 23rd International Conference on Machine Learning, 233-240.
+
+[3]: Saito, T., & Rehmsmeier, M. (2015). ["The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PloS one, 10(3), e0118432.
+
+[4]: Powers, D. M. W. (2011). ["Evaluation: from Precision, Recall and F-measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies.
+
+[5]: Drummond, C., & Holte, R. C. (2006). ["Cost curves: An improved method for visualizing classifier performance."](https://link.springer.com/article/10.1007/s10994-006-8199-5) Machine Learning, ECML 2006. Lecture Notes in Computer Science, vol 4212. Springer.
+
+[6]: Elkan, C. (2001). ["The foundations of cost-sensitive learning."](https://cseweb.ucsd.edu/~elkan/rescale.pdf) Proceedings of the 17th International Joint Conference on Artificial Intelligence (IJCAI), 973-978. 
+
+[7]: Provost, F., & Fawcett, T. (2001). ["Robust classification for imprecise environments."](https://link.springer.com/article/10.1023/A:1007601015854) Machine Learning, 42(3), 203-231.

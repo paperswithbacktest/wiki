@@ -99,3 +99,19 @@ test_dataset = dataset.skip(train_size)
 Recent research in data partitioning strategies focuses a lot on handling big data and making machine learning models work better. One big trend is using smart ways to split data that can change and adapt as the model learns. This is called "adaptive partitioning." Researchers are finding that by changing how the data is split based on what the model is learning, the model can get better results. For example, if the model is having a hard time with certain types of data, the partitioning strategy might give it more of that type to learn from. This can help the model do better on new data it hasn't seen before.
 
 Another trend is using more advanced math to figure out the best way to split data. Researchers are using things like optimization algorithms to find the best split that makes the model perform the best. They might use formulas like $$ \text{minimize} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 $$ to find the split that makes the difference between what the model guesses and what's actually true as small as possible. This can be really helpful for making sure the model works well on all kinds of data, not just the data it was trained on. By using these new methods, researchers are trying to make machine learning models more accurate and reliable.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Kohavi, R. (1995). ["A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection."](https://dl.acm.org/doi/10.5555/1643031.1643047) In Proceedings of the 14th International Joint Conference on Artificial Intelligence.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[5]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438). Manning Publications.
+
+[6]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[7]: Xu, Y., Goodacre, R. (2018). ["On Splitting Training and Validation Set: A Comparative Study of Cross-Validation, Bootstrap and Systematic Sampling for Estimating the Generalization Performance of Supervised Learning."](https://pubmed.ncbi.nlm.nih.gov/30842888/) ChemRxiv.

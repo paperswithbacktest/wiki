@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Benefiting from Stock Splits and Buybacks"
-description: "Explore strategies to leverage stock splits and buybacks in algo trading to optimize portfolio performance and make informed investment decisions."
+title: Understanding Stock Splits and Buybacks for Investors
+description: Stock splits and buybacks shape share value and market perception while
+  revealing key strategies and risks for investors Discover more inside.
 ---
 
 

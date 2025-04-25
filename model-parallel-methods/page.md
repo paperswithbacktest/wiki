@@ -81,3 +81,15 @@ PipeMare also makes sure that the memory is used in a smart way. It does this by
 Model parallel methods face several challenges in machine learning. One big challenge is managing how data moves between devices. When a model is split across many devices, the data has to travel from one device to another, which can slow things down. Another challenge is making sure that all devices are used efficiently. Sometimes, some devices might have to wait for data to arrive before they can start working, which wastes time. Also, handling different types of devices, like GPUs and TPUs, can be tricky because they work at different speeds. These challenges make it hard to train very big models quickly and efficiently.
 
 In the future, there are many exciting directions for model parallel methods. One direction is to find better ways to split the model so that the data moves more smoothly between devices. This could make training much faster. Another direction is to develop new ways to manage memory so that devices don't run out of space. This would help to train even bigger models. Researchers are also working on ways to make it easier to use different types of devices together. By solving these challenges, model parallel methods could become even more powerful and help to train very large and complex models more easily.
+
+## References & Further Reading
+
+[1]: Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G., & Dean, J. (2018). ["Mesh-TensorFlow: Deep Learning for Supercomputers."](https://arxiv.org/abs/1701.06538) arXiv preprint arXiv:1811.02084.
+
+[2]: Huang, Y., Chowdhery, A., Roy, A., Riquelme, C., Dai, A. M., Hoffman, M. W., ... & Dean, J. (2019). ["GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism."](https://jmlr.org/papers/volume24/22-1144/22-1144.pdf) arXiv preprint arXiv:1811.06965.
+
+[3]: Park, J. K., Esmaeilzadeh, H. (2020). ["A Systematic Study of the Modeling and Hardware Aspects of Model Parallelism for Neural Networks."](https://dl.acm.org/doi/abs/10.5555/3692070.3694184) arXiv preprint arXiv:2007.07159.
+
+[4]: Narayanan, D., Sanjeev, V., Jeffries, S., Hankins, E., Kang, D., & Zaharia, M. (2019). ["PipeDream: Fast and Efficient Pipeline Parallel DNN Training."](https://dl.acm.org/doi/10.1145/3341301.3359646) USENIX Symposium on Operating Systems Design and Implementation.
+
+[5]: Lepikhin, D., Lee, H., Xu, Y., Chen, D., Firat, O., Huang, Y., ... & Chen, Z. (2020). ["GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding."](https://arxiv.org/abs/2006.16668) arXiv preprint arXiv:2006.16668.

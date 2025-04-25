@@ -79,3 +79,21 @@ Another way to improve perplexity is through fine-tuning the model on specific t
 State-of-the-art models like those based on transformer architectures address the challenge of minimizing perplexity by using large amounts of diverse training data and advanced techniques. These models, such as BERT and GPT, can look at all the words in a sentence at once, which helps them understand the context better. This understanding leads to better guesses about what words come next, lowering the perplexity score. The formula for perplexity is $$ \text{Perplexity} = 2^{-\frac{1}{N} \sum_{i=1}^N \log_2 p(w_i)} $$, where $$ N $$ is the number of words, and $$ p(w_i) $$ is the probability of the $$ i $$-th word. By using a lot of data and smart ways to learn from it, these models can assign higher probabilities to the right words, which makes the perplexity go down.
 
 Another way state-of-the-art models minimize perplexity is by fine-tuning on specific tasks or domains. For example, if a model needs to understand medical texts, it can be trained more on medical data. This helps the model learn the special words and patterns used in that field, which can lower its perplexity when it sees similar texts. Also, these models use techniques like regularization to prevent overfitting. Overfitting means the model is too focused on the training examples and doesn't do well on new texts. By using regularization, the model can generalize better, leading to lower perplexity on new data.
+
+## References & Further Reading
+
+[1]: Jelinek, F. (1997). ["Statistical Methods for Speech Recognition."](https://mitpress.mit.edu/9780262546607/statistical-methods-for-speech-recognition/) MIT Press.
+
+[2]: Brown, P. F., Pietra, V. J. D., deSouza, P. V., Lai, J. C., & Mercer, R. L. (1992). ["Class-Based n-gram Models of Natural Language."](https://aclanthology.org/J92-4003/) Computational Linguistics, 18(4), 467-479.
+
+[3]: Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). ["A Neural Probabilistic Language Model."](https://jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) Journal of Machine Learning Research, 3, 1137–1155.
+
+[4]: Chen, S. F., & Goodman, J. (1999). ["An Empirical Study of Smoothing Techniques for Language Modeling."](https://www.sciencedirect.com/science/article/pii/S0885230899901286) Computer Speech & Language, 13(4), 359-393.
+
+[5]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems, 30, 5998-6008.
+
+[6]: Mikolov, T., Karafiát, M., Burget, L., Cernockỳ, J., & Khudanpur, S. (2010). ["Recurrent Neural Network Based Language Model."](https://gwern.net/doc/ai/nn/rnn/2010-mikolov.pdf) Interspeech 2010.
+
+[7]: Martin, J. H., & Jurafsky, D. (2008). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition."](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) Prentice Hall.
+
+[8]: Moore, R. (2001). ["An Evaluation of the Contribution of Perplexity to Linguistic Measure."](https://www.sciencedirect.com/science/article/pii/S0885230814001016) Proceedings of the 39th Annual Meeting of the Association for Computational Linguistics.

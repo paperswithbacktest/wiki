@@ -79,3 +79,19 @@ One advanced way to measure how well people agree is by using Cohen's Kappa. It'
 The latest research in Inter-Rater Agreement for machine learning focuses on improving the reliability of data labeling, especially in complex tasks like natural language processing and image recognition. One trend is the use of active learning, where machine learning models identify the most disagreed-upon data points and present them to human labelers for further review. This helps to refine the labeling process and improve agreement over time. Researchers are also exploring new statistical methods like Gwet's AC1, which is considered more robust than traditional Cohen's Kappa, especially when dealing with multiple categories or inconsistent raters. Gwet's AC1 helps in measuring agreement more accurately by accounting for chance agreement in a different way than Cohen's Kappa, calculated as $$ \kappa = \frac{P_o - P_e}{1 - P_e} $$.
 
 Another trend is the integration of machine learning models themselves in the annotation process to assist human labelers. These models can suggest labels based on patterns they have learned, which can be reviewed and corrected by humans, leading to a more iterative and efficient labeling process. This approach not only speeds up the labeling but also helps in achieving higher Inter-Rater Agreement by providing a consistent starting point for human annotators. Additionally, there is growing interest in using crowdsourcing platforms to gather annotations from a larger and more diverse group of raters, which can provide a broader perspective but also introduces new challenges in managing and improving agreement among a larger pool of labelers.
+
+## References & Further Reading
+
+[1]: Banerjee, M., Capozzoli, M., McSweeney, L., & Sinha, D. (1999). ["Beyond kappa: A review of interrater agreement measures"](https://onlinelibrary.wiley.com/doi/abs/10.2307/3315487). The Canadian Journal of Statistics, 15(1), 1-25.
+
+[2]: Cohen, J. (1960). ["A coefficient of agreement for nominal scales"](https://journals.sagepub.com/doi/10.1177/001316446002000104). Educational and Psychological Measurement, 20(1), 37-46.
+
+[3]: Fleiss, J. L. (1971). ["Measuring nominal scale agreement among many raters"](https://psycnet.apa.org/record/1972-05083-001). Psychological Bulletin, 76(5), 378-382.
+
+[4]: Gwet, K. L. (2014). ["Handbook of Inter-Rater Reliability: The Definitive Guide to Measuring the Extent of Agreement Among Multiple Raters."](https://www.agreestat.com/book4/9780970806284_prelim_chapter1.pdf) Advanced Analytics, LLC.
+
+[5]: Hallgren, K. A. (2012). ["Computing Inter‐Rater Reliability for Observational Data: An Overview and Tutorial"](https://pubmed.ncbi.nlm.nih.gov/22833776/). Tutorials in Quantitative Methods for Psychology, 8(1), 23-34.
+
+[6]: Krippendorff, K. (2004). ["Content Analysis: An Introduction to Its Methodology"](https://methods.sagepub.com/book/mono/content-analysis-4e/toc) (2nd ed.). Sage Publications.
+
+[7]: Landis, J. R., & Koch, G. G. (1977). ["The measurement of observer agreement for categorical data"](https://pubmed.ncbi.nlm.nih.gov/843571/). Biometrics, 33(1), 159-174.

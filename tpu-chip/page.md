@@ -94,3 +94,15 @@ Another important application of TPUs is in the field of image recognition. For 
 In the future, we can expect TPUs to get even better at helping with machine learning. They might become faster and use even less power, which would make training big models like language or image recognition models quicker and cheaper. New versions of TPUs could have more memory and be able to work together even better, letting them handle bigger and more complex tasks. This would help researchers and companies build and use more advanced machine learning models, making things like understanding what people say or recognizing things in pictures even more accurate and useful.
 
 Another thing we might see is TPUs being used in more places, not just in big data centers but also in smaller devices like phones or cars. This would mean that machine learning could happen right where the data is, making things faster and more private. For example, if your phone could use a TPU to understand what you're saying without sending your data to a faraway server, it would be quicker and safer. As TPUs keep getting better, they will help make machine learning easier and more powerful for everyone.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., & Patterson, D. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://arxiv.org/abs/1704.04760) Proceedings of the 44th Annual International Symposium on Computer Architecture, ACM.
+
+[2]: Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L. M., Plambec, G., ... & Vasudevan, V. (2021). ["The First Domain-Specific Architecture: The TPU."](https://arxiv.org/abs/2104.10350) Communications of the ACM.
+
+[3]: Google Cloud. (n.d.). ["TPU Chips."](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/) 
+
+[4]: Barham, P., Breughe, M., Chen, M., Cheng, R., He, H., Isaacs, R., ... & Wang, W. (2019). ["Machine Learning in a Data Center: Lessons from the Case Study of Google’s Tensor Processing Unit (TPU)."](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201913767) 
+
+[5]: Dean, J., & Patterson, D. A. (2018). ["Unsolved Opportunities and Nascent Technologies for a New Golden Age of Computer Architecture."](https://fortworth.culturemap.com/news/society/tarrant-heart-ball-2025-aha/) Journal of Emerging Technologies in Computing Systems.

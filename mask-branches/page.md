@@ -79,3 +79,19 @@ Another way to optimize Mask Branches is by using better loss functions. For exa
 One future direction for Mask Branches in [machine learning](/wiki/machine-learning) is improving their ability to handle real-time applications. Currently, Mask Branches can be slow because they need to both detect objects and create detailed masks. Researchers are looking into ways to make this process faster, like using more efficient neural network architectures or better hardware. By speeding up Mask Branches, they could be used in more places, like self-driving cars or video surveillance systems, where quick and accurate segmentation is needed.
 
 Another area of research is making Mask Branches better at handling complex scenes with many objects. Right now, Mask Branches can struggle when objects overlap or when there are many different objects in the same image. Researchers are working on new ways to help Mask Branches tell these objects apart and create accurate masks for each one. This could involve using more advanced attention mechanisms or new types of loss functions that help the model focus on the right parts of the image. By improving how Mask Branches work in these complex situations, they could become even more useful for tasks like medical imaging or robotics.
+
+## References & Further Reading
+
+[1]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) In Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[2]: Long, J., Shelhamer, E., & Darrell, T. (2015). ["Fully Convolutional Networks for Semantic Segmentation."](https://ieeexplore.ieee.org/document/7298965) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Ronneberger, O., Fischer, P., & Brox, T. (2015). ["U-Net: Convolutional Networks for Biomedical Image Segmentation."](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI).
+
+[4]: Lin, T. Y., Dollar, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Chen, L. C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2018). ["DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs."](https://ieeexplore.ieee.org/document/7913730) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[6]: Hu, J., Shen, L., & Sun, G. (2018). ["Squeeze-and-Excitation Networks."](https://ieeexplore.ieee.org/document/8578843) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). ["Pyramid Scene Parsing Network."](https://arxiv.org/abs/1612.01105) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

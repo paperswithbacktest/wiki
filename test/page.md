@@ -92,3 +92,21 @@ One advanced technique to improve model testing and evaluation is using ensemble
 Another technique is using advanced metrics like the Area Under the Receiver Operating Characteristic Curve (AUC-ROC). The AUC-ROC helps you see how well your model can tell the difference between positive and negative classes, which is especially useful when your data is imbalanced. The AUC-ROC score is the area under a curve that plots the true positive rate against the false positive rate at different thresholds. A score closer to 1 means your model is doing a great job at telling the classes apart. You can calculate it using the formula $$AUC = \int_{-\infty}^{\infty} TPR(FPR) \, dFPR$$, where TPR is the true positive rate and FPR is the false positive rate. By using AUC-ROC, you can get a better understanding of how well your model is performing, especially in situations where accuracy might not be the best metric.
 
 A third advanced technique is using techniques like stratified k-fold cross-validation. This method helps make sure that each fold of your data has the same proportion of each class as the whole dataset. This is especially important when dealing with imbalanced data. In stratified k-fold cross-validation, you split your data into k parts, making sure each part has the same balance of classes. Then, you train your model k times, each time using a different part as the test set. This way, you can get a more reliable estimate of how well your model will work on new data. By using these advanced techniques, you can make your model testing and evaluation more accurate and trustworthy.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[3]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975). O'Reilly Media.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling"](https://link.springer.com/book/10.1007/978-1-4614-6849-3). Springer.
+
+[6]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python"](https://dl.acm.org/doi/10.5555/1953048.2078195). Journal of Machine Learning Research, 12, 2825-2830.
+
+[7]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438). Manning Publications.
+
+[8]: Provost, F., & Fawcett, T. (2013). ["Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking"](https://www.researchgate.net/publication/256438799_Data_Science_for_Business). O'Reilly Media.

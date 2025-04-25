@@ -1,6 +1,7 @@
 ---
-title: "Sticky-Down Economics"
-description: "Explore the sticky-down phenomenon in price stickiness and its impact on market dynamics and algorithmic trading. Gain insights into optimizing trading strategies."
+title: 'Understanding Sticky-Down Economics: A Critical Analysis'
+description: Sticky-Down Economics shows how tax cuts for the wealthy can keep funds
+  at the top instead of boosting jobs and wages Discover more inside today
 ---
 
 

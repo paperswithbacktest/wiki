@@ -81,3 +81,17 @@ Another big ethical worry is privacy. When people talk to chatbots, they might s
 In the future, open-domain chatbots are expected to become even better at understanding and talking like real people. They will use bigger and smarter language models that can learn from even more data. This will help them know about more topics and give more accurate and helpful answers. Also, chatbots might start to understand things like emotions and body language better, making conversations feel more natural and personal. Developers are working on ways to make chatbots learn faster and use less computer power, so they can be used on more devices and by more people.
 
 Another big change coming for open-domain chatbots is dealing with ethical issues and biases. People are working on ways to make sure chatbots are fair and don't spread false information. They are also trying to make chatbots more private and secure, so people can trust them with personal information. In the future, chatbots might be able to explain their answers better, so users know why the chatbot said what it did. All these improvements will make open-domain chatbots more useful and trusted by everyone.
+
+## References & Further Reading
+
+[1]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[3]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[4]: Zhang, Y., Sun, S., Galley, M., Chen, Y. C., Brockett, C., Gao, X., ... & Dolan, B. (2020). ["DialogPT: Large-Scale Generative Pre-training for Conversational Response Generation."](https://arxiv.org/abs/1911.00536) arXiv preprint arXiv:1911.00536.
+
+[5]: Adiwardana, D., Luong, M. T., So, D. R., Hall, J., Fiedel, N., Thoppilan, R., ... & Le, Q. V. (2020). ["Towards a Human-like Open-Domain Chatbot."](https://arxiv.org/abs/2001.09977) arXiv preprint arXiv:2001.09977.
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in neural information processing systems.

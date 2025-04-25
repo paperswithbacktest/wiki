@@ -88,3 +88,19 @@ However, using partial derivatives to speed up optimization isn't always easy. S
 Recent research in machine learning has focused on improving the efficiency and accuracy of calculating partial derivatives, which are crucial for training models. One exciting development is the advancement in automatic differentiation techniques. These methods allow computers to calculate partial derivatives automatically, making it easier to train complex models like deep neural networks. Researchers are working on making these techniques faster and more memory-efficient, which helps in training larger models quicker. For example, new algorithms have been developed to reduce the computational cost of calculating the Jacobian matrix $$ J $$, which contains all the partial derivatives of a function's outputs with respect to its inputs.
 
 Another area of research involves using second-order partial derivatives to optimize machine learning models. While first-order methods like gradient descent use the slope of the cost function $$ J(\theta) $$ to adjust parameters, second-order methods also consider how the slope changes, which can lead to faster convergence. Techniques like Newton's method and its variants use the Hessian matrix, which is made up of second partial derivatives, to find the best direction for parameter updates. Researchers are exploring ways to make these second-order methods more practical for large-scale problems, which could significantly speed up the training of deep learning models.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning Representations by Back-Propagating Errors."](https://www.nature.com/articles/323533a0) Nature.
+
+[4]: Nocedal, J., & Wright, S. J. (2006). ["Numerical Optimization,"](https://link.springer.com/book/10.1007/978-0-387-40065-5) Springer.
+
+[5]: Baydin, A. G., Pearlmutter, B. A., Radul, A. A., & Siskind, J. M. (2018). ["Automatic Differentiation in Machine Learning: a Survey."](https://arxiv.org/abs/1502.05767) Journal of Machine Learning Research, 18(153).
+
+[6]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[7]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.

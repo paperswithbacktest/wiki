@@ -79,3 +79,17 @@ Another challenge is that contextualized embeddings can be hard to understand an
 Fine-tuning contextualized word embedding models for specific applications involves taking a pre-trained model and adjusting it to work better for a particular task. You start with a model like BERT or ELMo that has already learned a lot about language from a big dataset. Then, you train it some more using data that is specific to your task, like customer reviews if you're building a sentiment analysis tool. This helps the model understand the language and context that are important for your specific application. During fine-tuning, you might change the model's settings, like the learning rate, to make sure it learns the new information without forgetting what it already knows.
 
 One way to fine-tune these models is by using a technique called transfer learning. You take the pre-trained model and add a new layer on top that is designed for your specific task. For example, if you're working on a question-answering system, you might add a layer that predicts the start and end positions of the answer in a given text. You then train this new layer along with the rest of the model on your task-specific data. This approach helps the model adapt to the new task while still using its general understanding of language. By fine-tuning, you can make the model more accurate and useful for your specific application, whether it's translating languages, summarizing text, or understanding customer feedback.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). ["Distributed Representations of Words and Phrases and their Compositionality."](https://arxiv.org/abs/1310.4546) Advances in Neural Information Processing Systems 26.
+
+[2]: Pennington, J., Socher, R., & Manning, C. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+[3]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[4]: Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). ["Deep Contextualized Word Representations."](https://arxiv.org/abs/1802.05365) Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[5]: McCann, B., Bradbury, J., Xiong, C., & Socher, R. (2017). ["Learned in Translation: Contextualized Word Vectors."](https://arxiv.org/abs/1708.00107) Advances in Neural Information Processing Systems 30.
+
+[6]: Cer, D., Yang, Y., Kong, S.-Y., Hua, N., Limtiaco, N., St. John, R., Constant, N., Guajardo-Cespedes, M., Yuan, S., Tar, C., Strope, B., & Kurzweil, R. (2018). ["Universal Sentence Encoder."](https://arxiv.org/abs/1803.11175) Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations.

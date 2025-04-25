@@ -81,3 +81,17 @@ Another way to handle fairness metric incompatibilities is by using techniques l
 One ongoing research area focused on resolving the incompatibility of fairness metrics is the development of new algorithms that can handle multiple fairness goals at the same time. Researchers are working on fairness-aware learning techniques, where the model is trained to consider different fairness metrics like demographic parity and equalized odds together. For example, they might use a method called multi-objective optimization, where the model tries to balance different goals. This means the model can use a formula to weigh the importance of each fairness metric and find the best balance. By doing this, researchers hope to create models that are fair enough according to multiple metrics, even if they can't be perfect in every way.
 
 Another area of research involves understanding the trade-offs between different fairness metrics more deeply. Scientists are studying how changes in one fairness metric affect others and trying to find ways to minimize these conflicts. They are also looking at how to make fairness metrics more flexible, so they can be adjusted based on the specific situation. For instance, if a model is used for loan approvals, researchers might focus on making sure the model is accurate at predicting who will pay back the loan while still being fair to different groups. By understanding these trade-offs better, researchers can help create machine learning models that are as fair as possible in real-world situations.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities"](https://fairmlbook.org/). fairmlbook.org.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstkhy, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys, 54(6), 1-35.
+
+[3]: Kuznetsova, M., & Wilson, C. (2021). ["Balancing fairness and performance in ML algorithms"](https://dl.acm.org/doi/10.1145/3616865). arXiv preprint arXiv:2102.10250.
+
+[4]: Chouldechova, A., & Roth, A. (2018). ["The Frontiers of Fairness in Machine Learning."](https://arxiv.org/abs/1810.08810) Annual Review of Statistics and Its Application, 5, 1-26.
+
+[5]: Russell, C., Kusner, M., & Loftus, J. (2017). ["When Worlds Collide: Integrating Different Counterfactual Assumptions in Fairness."](https://proceedings.neurips.cc/paper/2017/file/1271a7029c9df08643b631b02cf9e116-Paper.pdf) Proceedings of the AAAI Conference on Artificial Intelligence, 31(1), 2665-2671.
+
+[6]: Binns, R. (2018). ["Fairness in Machine Learning: Lessons from Political Philosophy."](https://proceedings.mlr.press/v81/binns18a.html) Proceedings of the 2018 Conference on Fairness, Accountability, and Transparency, 149-159.

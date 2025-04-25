@@ -79,3 +79,17 @@ Another good way to check if your imputation method is working well is to look a
 Choosing the right imputation technique depends on understanding your data and what you want to do with it. First, you need to figure out why data is missing. If it's missing completely at random, simple methods like filling in with the average or median might work well. But if the missing data is related to other data, like if younger people are less likely to answer a question about retirement plans, you might need a more advanced method like multiple imputation or KNN imputation. These methods look at the relationships between different pieces of data to make smarter guesses about what's missing.
 
 Next, think about the type of data you have. For numbers that follow a normal distribution, mean imputation can be okay. But if your data has outliers or isn't normally distributed, using the median might be better because it's not affected by extreme values. For categories, like colors or types of cars, using the most common value, or mode, is a good choice. Also, consider how much time and computing power you have. Simple methods are quick and easy but might not be as accurate. More advanced methods, like those using machine learning, can give better results but take more time and effort. By considering these factors, you can pick the best imputation technique for your specific dataset and problem.
+
+## References & Further Reading
+
+[1]: Little, R. J., & Rubin, D. B. (2002). ["Statistical Analysis with Missing Data."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119482260) Wiley Series in Probability and Statistics.
+
+[2]: Rubin, D. B. (1987). ["Multiple Imputation for Nonresponse in Surveys."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316696) Wiley Series in Probability and Statistics.
+
+[3]: Schafer, J. L. (1997). ["Analysis of Incomplete Multivariate Data."](https://www.taylorfrancis.com/books/mono/10.1201/9780367803025/analysis-incomplete-multivariate-data-schafer) Chapman & Hall/CRC.
+
+[4]: Bergstra, J., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research, 13(Feb), 281-305.
+
+[5]: Liao, F. (2014). ["Machine Learning Methods for Imputation of Missing Data."](https://www.sciencedirect.com/science/article/pii/S0957417423007030) PhD thesis, Manchester Metropolitan University.
+
+[6]: [Scikit-learn: Imputation of Missing Values](https://scikit-learn.org/stable/modules/impute.html) - Documentation on different imputation methods available in Scikit-learn.

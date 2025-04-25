@@ -83,3 +83,17 @@ Another way to evaluate the impact of continuous features is by using metrics li
 The latest research trends in handling continuous features in [deep learning](/wiki/deep-learning) models focus a lot on improving how these models learn from and use continuous data. One big trend is the use of advanced normalization techniques. For example, researchers are working on better ways to normalize data, like using adaptive normalization methods that change based on the data. These methods help deep learning models learn faster and perform better with continuous features. Another trend is the development of new architectures that are better at handling continuous data. For instance, some researchers are exploring the use of attention mechanisms, which help models focus on the most important parts of the continuous data. This can make the models more accurate and efficient when dealing with high-dimensional continuous features.
 
 Another important trend is the use of advanced feature engineering techniques specifically designed for deep learning models. Researchers are looking into ways to automatically create new features from continuous data that can help models learn better. For example, some studies are using autoencoders to transform continuous features into a more useful form. An autoencoder is a type of [neural network](/wiki/neural-network) that can learn how to compress and then reconstruct data, which can help highlight important patterns in continuous features. Additionally, there is a growing interest in using [reinforcement learning](/wiki/reinforcement-learning) to optimize feature selection and engineering. This approach can help find the best set of continuous features for a model by trying out different combinations and learning which ones work best. These trends show that the field is moving towards more sophisticated and tailored methods for handling continuous features in deep learning models.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[3]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling"](https://link.springer.com/book/10.1007/978-1-4614-6849-3). Springer.
+
+[4]: Zhang, Z. (2016). ["Missing data imputation: focusing on single imputation."](https://pmc.ncbi.nlm.nih.gov/articles/PMC4716933/) Annals of Translational Medicine, 4(1), p.9.
+
+[5]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.

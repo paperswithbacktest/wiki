@@ -83,3 +83,19 @@ Using saliency maps makes complex neural networks easier to interpret because th
 Ensemble methods, like random forests or gradient boosting machines, combine many simpler models to make predictions. These models can be hard to understand because they use a lot of trees or other models together. To make them more interpretable, we can use techniques like feature importance and partial dependence plots. Feature importance helps us see which input variables are most important for the model's predictions. For example, if we're predicting house prices, feature importance can show that the number of bedrooms and the location matter a lot. Partial dependence plots show how changing one feature affects the prediction, keeping everything else the same. This helps us understand how each feature impacts the model's decisions, making the ensemble model easier to explain.
 
 Another way to make ensemble methods more interpretable is by using techniques like SHAP (SHapley Additive exPlanations) values. SHAP values break down each prediction into the contributions of different features. For instance, if an ensemble model is deciding whether to approve a loan, SHAP values can show that the credit score had a big impact on the decision, while the applicant's age had a smaller impact. By understanding how each feature contributes to the final prediction, we can explain why the model made a certain decision. This makes ensemble methods more transparent and easier for people to trust and understand.
+
+## References & Further Reading
+
+[1]: Lundberg, S. M., & Lee, S.-I. (2017). ["A Unified Approach to Interpreting Model Predictions."](https://arxiv.org/abs/1705.07874) Advances in Neural Information Processing Systems 30.
+
+[2]: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). ["Why Should I Trust You?" Explaining the Predictions of Any Classifier."](https://dl.acm.org/doi/10.1145/2939672.2939778) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Molnar, C. (2019). ["Interpretable Machine Learning."](https://christophm.github.io/interpretable-ml-book/) A Guide for Making Black Box Models Explainable.
+
+[4]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830. 
+
+[6]: Lipton, Z. C. (2018). ["The Mythos of Model Interpretability: In Machine Learning, the Concept of Interpretability is Both Important and Slippery."](https://dl.acm.org/doi/10.1145/3236386.3241340) Queue, 16(3), 31. 
+
+[7]: Mittelstadt, B., Russell, C., & Wachter, S. (2019). ["Explaining Explanations in AI."](https://arxiv.org/abs/1811.01439) Proceedings of the Conference on Fairness, Accountability, and Transparency.

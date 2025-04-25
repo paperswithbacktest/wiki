@@ -79,3 +79,15 @@ Another technique is to use target networks. A target network is a copy of the c
 In multi-agent scenarios, the critic's design plays a crucial role in helping the overall system learn and perform well. When multiple actors are working together or against each other, the critic needs to understand not just one actor's actions but also how those actions affect other [agents](/wiki/agents). This means the critic must be able to handle more complex information and make predictions based on the interactions between agents. For example, if two robots are working together to move a heavy object, the critic needs to consider how each robot's actions influence the other's success. A well-designed critic can provide valuable feedback that helps all agents improve their strategies and work more effectively as a team.
 
 One way to design a critic for multi-agent scenarios is to use a centralized critic that can see the actions and rewards of all agents. This type of critic can learn to predict the overall outcome of the system and guide each agent towards better performance. For instance, in a game where multiple players are competing, a centralized critic can help each player understand how their actions affect the game's outcome. Another approach is to use decentralized critics, where each agent has its own critic. This can be useful in large-scale environments where a single critic might struggle to handle all the information. By carefully choosing the right critic design, you can help the system handle the complexities of multi-agent interactions and improve its learning and performance.
+
+## References & Further Reading
+
+[1]: Sutton, R.S., & Barto, A.G. (2018). ["Reinforcement Learning: An Introduction (Second Edition)."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://dl.acm.org/doi/10.5555/2969033.2969125) Advances in Neural Information Processing Systems 27.
+
+[3]: Lillicrap, T.P., Hunt, J.J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., & Wierstra, D. (2015). ["Continuous Control with Deep Reinforcement Learning."](https://arxiv.org/abs/1509.02971) arXiv:1509.02971.
+
+[4]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A.A., Veness, J., Bellemare, M.G., Graves, A., Riedmiller, M., Fidjeland, A.K., Ostrovski, G., Petersen, S., Beattie, C., Sadik, A., Antonoglou, I., King, H., Kumaran, D., Wierstra, D., Legg, S., & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature 518, 529–533.
+
+[5]: Arulkumaran, K., Deisenroth, M.P., Brundage, M., & Bharath, A.A. (2017). ["A Brief Survey of Deep Reinforcement Learning."](https://arxiv.org/abs/1708.05866) IEEE Signal Processing Magazine, 34(6), 26-38.

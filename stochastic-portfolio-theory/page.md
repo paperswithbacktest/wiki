@@ -1,6 +1,7 @@
 ---
-title: "Stochastic Portfolio theory"
-description: "Explore the synergy between Stochastic Portfolio Theory and algorithmic trading to enhance strategies using probabilistic models in dynamic financial markets."
+title: Mastering Stochastic Portfolio Theory for Long-Term Growth
+description: Stochastic Portfolio Theory lets you grow wealth long term by leveraging
+  stock relationships and efficient rank based strategies Discover more inside
 ---
 
 

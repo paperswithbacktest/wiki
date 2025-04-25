@@ -81,3 +81,21 @@ Another way to evaluate robustness is by using adversarial examples. These are s
 Recent advancements in robust training have focused on making models more adaptable and reliable in real-world scenarios. One significant development is the use of Distributionally Robust Optimization (DRO), which helps models prepare for different ways data might look in the future. Instead of just training on the data it has, DRO makes the model work well for many possible data distributions. This is like preparing for different weather conditions instead of just the weather you see today. By doing this, DRO helps the model be ready for new and different data, making it more reliable in real life. Another advancement is the use of Deep Equilibrium Models (DEQ), which find a balance point in the model's calculations. This helps the model adapt to changes in the data more easily, making it more robust.
 
 Another exciting development is the use of adversarial training techniques, which show the model tricky examples on purpose to make it stronger. These tricky examples, called adversarial examples, are made to fool the model. By training the model with these examples, it learns to recognize them and not get fooled. This makes the model better at handling new and different data, which is important for real-life applications. Additionally, Self-adaptive Training has been gaining attention, as it adjusts the training process based on what the model sees. This helps the model learn to be more flexible and handle changes in the data better. These advancements have a big impact on machine learning by making models more reliable and useful in many situations, where data can be messy and unpredictable.
+
+## References & Further Reading
+
+[1]: Papernot, N., McDaniel, P., Wu, X., Jha, S., & Swami, A. (2016). ["Distillation as a Defense to Adversarial Perturbations against Deep Neural Networks."](https://arxiv.org/abs/1511.04508) 2016 IEEE Symposium on Security and Privacy (SP).
+
+[2]: Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2018). ["Towards Deep Learning Models Resistant to Adversarial Attacks."](https://arxiv.org/abs/1706.06083) International Conference on Learning Representations.
+
+[3]: Zhang, H., Yu, Y., Jiao, J., Xing, E., Ghaoui, L. E., & Jordan, M. (2019). ["Theoretically Principled Trade-off between Robustness and Accuracy."](https://arxiv.org/abs/1901.08573) International Conference on Machine Learning.
+
+[4]: Sinha, A., Namkoong, H., & Duchi, J. (2018). ["Certifiable Distributional Robustness with Principled Adversarial Training."](https://arxiv.org/abs/1710.10571) International Conference on Learning Representations.
+
+[5]: Hoffman, J., Mohri, M., & Zhang, N. (2018). ["Algorithms and Theory for Multiple-Source Adaptation."](https://arxiv.org/abs/1805.08727) Advances in Neural Information Processing Systems.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press. 
+
+[7]: Ben-Tal, A., El Ghaoui, L., & Nemirovski, A. (2009). ["Robust Optimization."](https://ieeexplore.ieee.org/document/9452591) Princeton University Press. 
+
+[8]: Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals. (2017). ["Understanding Deep Learning Requires Rethinking Generalization."](https://arxiv.org/abs/1611.03530) International Conference on Learning Representations.

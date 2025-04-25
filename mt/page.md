@@ -85,3 +85,23 @@ A third advancement is in the field of explainable AI. This is about making Mach
 Staying updated with the evolving field of Machine Learning is like keeping up with the latest news in a fast-changing world. One of the best ways to do this is by reading research papers and articles from top journals and conferences. Websites like arXiv and conferences like NeurIPS, ICML, and KDD often share the latest research in Machine Learning. You can also follow blogs and newsletters from experts in the field, like those from Google AI, Microsoft Research, or the Machine Learning subreddit. These resources will help you learn about new techniques, algorithms, and applications as they are developed.
 
 Another way to stay updated is by participating in online courses and workshops. Platforms like Coursera, edX, and Udacity offer courses taught by leading experts in Machine Learning. These courses often include the latest advancements and can help you understand new concepts through practical examples and projects. Additionally, joining communities and forums, such as Kaggle or Stack Overflow, can be very helpful. These platforms allow you to connect with other learners and professionals, ask questions, and share knowledge. By staying active in these communities, you can keep up with the latest trends and even contribute to the field yourself.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Russell, S., & Norvig, P. (2020). ["Artificial Intelligence: A Modern Approach."](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) Pearson.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://ieeexplore.ieee.org/document/712192) MIT Press.
+
+[6]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[7]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[8]: arXiv.org. ["arXiv.org e-Print archive."](https://arxiv.org/) 
+
+[9]: Jordan, M. I., & Mitchell, T. M. (2015). ["Machine learning: Trends, perspectives, and prospects."](https://pubmed.ncbi.nlm.nih.gov/26185243/) Science, 349(6245), 255-260.

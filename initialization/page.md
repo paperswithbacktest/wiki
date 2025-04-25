@@ -81,3 +81,21 @@ Another challenge is that deep networks often need special tweaks to start learn
 To evaluate the effectiveness of different initialization methods in practice, you can start by training the same neural network multiple times with different initialization methods. Each time, keep track of how quickly the network learns and how well it performs on a test set. A good initialization method will help the network learn faster and reach a higher accuracy. You can measure the speed of learning by looking at how the loss or error decreases over time. For example, if using Xavier initialization leads to a faster drop in loss compared to random initialization, it might be more effective for your network. You can also compare the final accuracy on the test set to see which method helps the network perform better overall.
 
 Another way to evaluate initialization methods is by looking at how stable the training process is. Some initialization methods might cause the loss to jump around a lot, making it hard for the network to find the best solution. You can plot the loss over time to see if it's smooth or if it has big ups and downs. A method that leads to a smoother loss curve might be better because it means the network is learning more consistently. For very deep networks, you might also want to check if the method helps avoid problems like vanishing or exploding gradients. You can do this by looking at the gradients during training and seeing if they stay within a good range. By comparing these factors across different initialization methods, you can pick the one that works best for your specific network and task.
+
+## References & Further Reading
+
+[1]: Glorot, X., & Bengio, Y. (2010). ["Understanding the difficulty of training deep feedforward neural networks."](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) In Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification."](https://arxiv.org/abs/1502.01852) In Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[3]: Mishkin, D., & Matas, J. (2015). ["All you need is a good init."](https://arxiv.org/abs/1511.06422) arXiv preprint arXiv:1511.06422.
+
+[4]: Zhang, H., Dauphin, Y. N., & Ma, T. (2019). ["Fixup Initialization: Residual Learning Without Normalization."](https://arxiv.org/abs/1901.09321) In International Conference on Learning Representations (ICLR).
+
+[5]: De, S., & Smith, S.L. (2020). ["SkipInit: Learning Initialization for Neural Network Training."](https://arxiv.org/abs/2002.10444) arXiv preprint arXiv:2002.12378.
+
+[6]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Communications of the ACM, 60(6), 84-90.
+
+[7]: Nair, V., & Hinton, G. E. (2010). ["Rectified Linear Units Improve Restricted Boltzmann Machines."](https://dl.acm.org/doi/10.5555/3104322.3104425) In Proceedings of the 27th International Conference on Machine Learning (ICML-10).
+
+[8]: LeCun, Y., Bottou, L., Orr, G. B., & Müller, K. R. (2012). ["Efficient BackProp."](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_3) In Neural Networks: Tricks of the Trade (pp. 9-50). Springer, Berlin, Heidelberg.

@@ -1,6 +1,7 @@
 ---
-title: "Stakeholders: Types and Examples"
-description: "Explore the vital roles and influences of diverse stakeholders in algorithmic trading. From institutional investors optimizing trading strategies to regulatory bodies ensuring market integrity, understanding these entities is key. Engaging effectively with stakeholders enhances strategy development, risk management, and overall performance. Discover how different participants impact and shape the algo trading ecosystem for smarter trading practices and sustained success."
+title: Managing Stakeholders in Business Projects for Success
+description: Stakeholder management guides you through identifying internal and external
+  interests to improve decision making and project outcomes. Discover more inside.
 ---
 
 

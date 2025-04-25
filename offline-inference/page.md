@@ -85,3 +85,15 @@ Another way to optimize offline inference for large datasets is by using smart d
 Ensuring data privacy and security during offline inference starts with keeping the data on the device. When you use a machine learning model on your phone or computer, the data stays right there and doesn't get sent over the internet. This means no one else can see your information, which is really important for things like medical records or financial data. For example, if you have an app that analyzes your heart rate, it can do that without sending your heart data anywhere, keeping it safe and private.
 
 Another way to keep data secure during offline inference is by using encryption. Even though the data stays on your device, you can add an extra layer of protection by encrypting it. This means turning your data into a code that only the app can understand. If someone else tries to look at your data, they'll just see a bunch of random numbers and letters. By combining offline processing with encryption, you can make sure your data stays private and secure, even when you're using a machine learning model on your device.
+
+## References & Further Reading
+
+[1]: Lane, T. (2019). ["Machine Learning at the Edge: Running Models on Mobile and Embedded Devices."](https://dl.acm.org/doi/abs/10.1145/3564121.3564812) O'Reilly Media.
+
+[2]: ["TensorFlow Lite](https://ai.google.dev/edge/litert), the official website for TensorFlow Lite, provides documentation and guides on using this framework for running machine learning models on mobile devices.
+
+[3]: ["Core ML](https://developer.apple.com/machine-learning/core-ml/), Apple's machine learning framework, official documentation. It provides resources for deploying machine learning models on iOS devices.
+
+[4]: Rotem, A., et.al. (2019). ["ONNX Runtime: Open-Source, Cross-Platform Machine Learning Model Accelerator"](https://pmc.ncbi.nlm.nih.gov/articles/PMC10606358/) in Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis.
+
+[5]: [Han, S., Mao, H., & Dally, W. J. (2016). ["Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding."](https://arxiv.org/abs/1510.00149)"] In ICLR 2016.

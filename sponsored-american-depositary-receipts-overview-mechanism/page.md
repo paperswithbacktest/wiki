@@ -1,6 +1,7 @@
 ---
-title: "Sponsored American Depositary Receipts: Overview and Mechanism"
-description: "Explore the world of Sponsored American Depositary Receipts with insights into their mechanisms and the impact of algorithmic trading in global investments."
+title: Guide To Sponsored American Depositary Receipts For Investors
+description: Sponsored American Depositary Receipts simplify US investment in foreign
+  companies by providing transparent trading on major exchanges Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Sudanese Pound (SDP)"
-description: "Explore the complex history and current financial dynamics of the Sudanese Pound and discover how algorithmic trading enhances trading accuracy and efficiency."
+title: Understanding the Sudanese Pound and Its Economic Impact
+description: "Sudanese Pound insights reveal how history economic factors and policy\
+  \ shape its value and stability in Sudan\u2019s market Discover more inside today"
 ---
 
 

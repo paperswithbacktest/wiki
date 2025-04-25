@@ -1,6 +1,7 @@
 ---
-title: "Solvency Ratio Requirements under the Basel III Accord"
-description: "Explore how Basel III's solvency ratio requirements impact banks' operations and their algorithmic trading activities amidst tighter regulatory standards."
+title: Understanding Basel III Solvency Ratios for Bank Resilience
+description: Basel III solvency ratios require banks to hold capital buffers and manage
+  risk to absorb losses and stay solvent during stress Discover more inside
 ---
 
 

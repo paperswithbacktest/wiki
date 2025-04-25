@@ -121,3 +121,15 @@ Instance Normalization is another variation that's useful for tasks like style t
 Batch Normalization can work well with other regularization techniques like dropout and L2 regularization. Dropout helps prevent overfitting by randomly turning off some of the neurons during training. When you use Batch Normalization with dropout, you usually put the Batch Normalization layer before the dropout layer. This way, Batch Normalization can normalize the data going into the dropout layer, which can make the training process more stable. L2 regularization, also known as weight decay, adds a penalty to the loss function based on the size of the weights. Batch Normalization can help make the network less sensitive to the learning rate, which can make it easier to use L2 regularization without worrying about the weights getting too big or too small.
 
 Another regularization technique that can be used with Batch Normalization is [data augmentation](/wiki/data-augmentation). Data augmentation makes the training data bigger by adding small changes to the examples, like rotating or flipping images. Batch Normalization can help the network learn better from this bigger dataset by keeping the data going into each layer consistent, even as the data changes. This can make the network more robust and less likely to overfit. Overall, Batch Normalization can work well with other regularization techniques, making the network easier to train and more reliable.
+
+## References & Further Reading
+
+[1]: Sergey Ioffe and Christian Szegedy. ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) arXiv preprint arXiv:1502.03167, 2015.
+
+[2]: Gao Huang, Zhuang Liu, Laurens van der Maaten, and Kilian Q. Weinberger. ["Densely Connected Convolutional Networks."](https://arxiv.org/abs/1608.06993) arXiv preprint arXiv:1608.06993, 2018.
+
+[3]: Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E. Hinton. ["Layer Normalization."](https://arxiv.org/abs/1607.06450) arXiv preprint arXiv:1607.06450, 2016.
+
+[4]: Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) arXiv preprint arXiv:1512.03385, 2015.
+
+[5]: Yuxin Wu and Kaiming He. ["Group Normalization."](https://arxiv.org/abs/1803.08494) arXiv preprint arXiv:1803.08494, 2018.

@@ -79,3 +79,15 @@ Another direction in Rendezvous research is improving fault tolerance and scalab
 Rendezvous can be integrated with other machine learning techniques to make systems work better together. For example, you can use Rendezvous with [reinforcement learning](/wiki/reinforcement-learning), where agents learn by doing tasks and getting rewards. In this setup, Rendezvous helps the agents meet up and share what they've learned. This way, each agent can use the experiences of others to learn faster and make better decisions. By combining Rendezvous with reinforcement learning, the whole group of agents can work towards their goal more effectively, as they all benefit from the shared knowledge.
 
 Another way to enhance system capabilities is by integrating Rendezvous with federated learning. In federated learning, different machines or devices train a model on their own data without sharing it directly. Rendezvous can help these machines meet up to share their model updates, so the overall model can improve without compromising data privacy. This combination allows the system to learn from a wider range of data while still keeping things coordinated and efficient. By using Rendezvous with federated learning, you can build smarter models that respect privacy and work well together.
+
+## References & Further Reading
+
+[1]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) OSDI'04: Sixth Symposium on Operating System Design and Implementation.
+
+[2]: Li, M., Andersen, D. G., Park, J. W., & Smola, A. J. (2014). ["Scaling Distributed Machine Learning with the Parameter Server."](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) OSDI'14: Proceedings of the 11th USENIX Conference on Operating Systems Design and Implementation.
+
+[3]: Das, T. K., Mohanty, P. K., & Bandyopadhyay, S. (2004). ["A rendezvous approach for multi-agent systems in large scale environments."](https://www.research.ed.ac.uk/en/publications/preparation-and-characterization-of-cross-linked-starchpolyvinyl-) Proceedings of the 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+
+[4]: Dutta, S., Akon, M. N., Choudhury, S., & Das, A. (2018). ["Distributed Machine Learning with a Parameter Sever Architecture."](https://www.jstor.org/stable/pdf/43546798.pdf) arXiv preprint arXiv:1805.04179.
+
+[5]: Jess, D., Hariharan, N., & Machine Learning Group. (2016). ["Distributed Machine Learning Systems and Algorithms."](https://dl.acm.org/doi/10.1145/3377454) Facebook Research.

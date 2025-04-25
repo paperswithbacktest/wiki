@@ -81,3 +81,17 @@ Using group-based approaches helps GroupDNet make better pictures. When the comp
 Make-A-Scene is a special tool that lets you make pictures from words, but it gives you more control over how the picture looks. You can tell Make-A-Scene what you want in the picture, like "a dog playing in a park," and it will make a picture of that. But you can also tell it where you want things to be in the picture. For example, you can say you want the dog on the left side and the park on the right side. This way, you can decide how the picture is set up, making it more like what you want.
 
 This extra control makes Make-A-Scene great for people who want to be creative. You can try different ideas and see how they look without having to draw everything yourself. If you want to change something, you can just tell Make-A-Scene to move things around or add new things. This makes it easier to make the perfect picture that matches your ideas.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Dhariwal, P., & Nichol, A. (2021). ["Diffusion Models Beat GANs on Image Synthesis."](https://arxiv.org/abs/2105.05233) arXiv.
+
+[3]: Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., & Sutskever, I. (2021). ["Zero-Shot Text-to-Image Generation."](https://arxiv.org/abs/2102.12092) arXiv.
+
+[4]: Nichol, A., Dhariwal, P., Ramesh, A., Shyam, P., Mishkin, P., McGrew, B., Sutskever, I., & Chen, M. (2021). ["GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models."](https://arxiv.org/abs/2112.10741) arXiv.
+
+[5]: Saharia, C., Chan, W., Saxena, S., Li, L., Whang, J., Denton, E., Ghasemipour, S. K. S., Ayan, B. K., Mahdavi, S. S., Lopes, R. G., & others. (2022). ["Palette: Image-to-Image Diffusion Models."](https://arxiv.org/abs/2205.11487) arXiv.
+
+[6]: Ho, J., Jain, A., & Abbeel, P. (2020). ["Denoising Diffusion Probabilistic Models."](https://arxiv.org/abs/2006.11239) arXiv.

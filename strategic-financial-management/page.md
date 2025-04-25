@@ -1,6 +1,7 @@
 ---
-title: "Strategic Financial Management"
-description: "Explore strategic financial management with a focus on algo trading, intertwining business finance, and innovation for sustainable growth and competitive edge."
+title: Strategic Financial Management for Long Term Business Growth
+description: Strategic financial management helps businesses plan budgets manage debt
+  and risks while investing wisely to drive sustainable growth Discover more inside.
 ---
 
 

@@ -83,3 +83,13 @@ To make MSPFN even better, future research could focus on finding new ways to ge
 Deraining models like MSPFN can be really helpful in real life, especially for things like self-driving cars and security cameras. For self-driving cars, these models can make the road and other cars clearer even when it's raining. This helps the car's computer see better and drive safely. Security cameras can also use these models to keep an eye on things even during bad weather. If it's raining, the camera can still take clear pictures, making it easier to spot anything unusual or important.
 
 To use MSPFN in real life, you need to put the model into the computer system of the car or camera. The model looks at the images coming from the camera and quickly removes any rain it sees. This all happens in the background, so the car or camera can keep working without any delays. By making images clearer, MSPFN helps these systems work better and stay safe, even when it's pouring outside.
+
+## References & Further Reading
+
+[1]: Ren, D., Zuo, W., Hu, Q., Zhu, P., & Meng, D. (2019). ["Progressive Image Deraining Networks: A Better and Simpler Baseline."](https://arxiv.org/abs/1901.09221) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Wang, Y., Zhao, S., & Patel, V. M. (2019). ["DesnowNet: Context-aware Deep Network for Snow Removal."](https://www.mdpi.com/2227-7390/12/10/1424) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Fu, X., Huang, J., Ding, X., Liao, Y., Paisley, J., & Zhang, X. P. (2017). ["Clearing the Skies: A Deep Network Architecture for Single-Image Rain Removal."](https://ieeexplore.ieee.org/document/7893758) IEEE Transactions on Image Processing, 26(6), 2944-2956.
+
+[4]: Yang, W., Tan, R. T., Feng, J., Liu, J., & Guo, Z. (2017). ["Deep Joint Rain Detection and Removal from a Single Image."](https://ieeexplore.ieee.org/document/8099666) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

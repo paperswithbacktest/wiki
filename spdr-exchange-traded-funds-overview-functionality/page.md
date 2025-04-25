@@ -1,6 +1,7 @@
 ---
-title: "SPDR Exchange-Traded Funds: Overview and Functionality"
-description: "Explore SPDR ETFs and algo trading to gain insights into modern investment tools. Discover how their synergy enhances market access and trading efficiency."
+title: Comprehensive Guide to Investing in SPDR Exchange Traded Funds
+description: SPDR ETFs offer cost effective market exposure and flexible trading to
+  help you build a diversified portfolio with ease Discover more inside
 ---
 
 

@@ -83,3 +83,19 @@ Despite these challenges, multi-scale analysis can still be very helpful. It hel
 One successful application of multi-scale analysis in machine learning is in medical imaging. Imagine a doctor trying to understand a patient's brain scan. Multi-scale analysis helps the model see both the overall shape of the brain and the tiny details like tumors or lesions. For example, wavelets can be used to create different versions of the brain scan, each showing the image at a different level of detail. By looking at these different versions, the model can learn to recognize both the big picture and the small details. This makes the model more accurate at identifying health issues, which can help doctors make better diagnoses.
 
 Another example is in the field of autonomous driving. When a self-driving car needs to recognize objects on the road, multi-scale analysis is crucial. The car's model needs to understand both the general shape of objects like cars and pedestrians and the specific details like traffic signs or road markings. Using scale-space theory, the model can create multiple versions of the road scene, each blurred to a different degree. By comparing these versions, the model can see how objects appear at different levels of detail. This helps the car make better decisions and drive more safely, because it can understand the road environment more thoroughly.
+
+## References & Further Reading
+
+[1]: Mallat, S. (1999). ["A Wavelet Tour of Signal Processing."](https://www.sciencedirect.com/book/9780123743701/a-wavelet-tour-of-signal-processing) Academic Press.
+
+[2]: Lindeberg, T. (1994). ["Scale-Space Theory in Computer Vision."](https://link.springer.com/book/10.1007/978-1-4757-6465-9) Springer Science & Business Media.
+
+[3]: Shapiro, L. G., & Stockman, G. C. (2001). ["Computer Vision."](https://www.amazon.com/Computer-Vision-Linda-G-Shapiro/dp/0130307963) Prentice Hall.
+
+[4]: Gonzalez, R. C., & Woods, R. E. (2008). ["Digital Image Processing."](https://archive.org/details/digitalimageproc0003gonz) Pearson.
+
+[5]: Forsyth, D. A., & Ponce, J. (2011). ["Computer Vision: A Modern Approach."](https://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X) Pearson. 
+
+[6]: Mallat, S. (1998). ["A Theory for Multiresolution Signal Decomposition: The Wavelet Representation."](https://ieeexplore.ieee.org/document/192463) Proceedings of the IEEE.
+
+[7]: Daubechies, I. (1992). ["Ten Lectures on Wavelets."](https://epubs.siam.org/doi/book/10.1137/1.9781611970104) Society for Industrial and Applied Mathematics.

@@ -138,3 +138,15 @@ Another thing to consider is how much computing power you have. Grid Search can 
 When working with large-scale machine learning systems, one advanced technique for scaling hyperparameter search is using distributed computing. This means spreading the work of trying different hyperparameters across many computers or processors. By doing this, you can try more combinations at the same time, which can make the search faster. For example, you could use tools like Apache Spark or TensorFlow's distributed training to run many different hyperparameter settings in parallel. This can be especially helpful if you have a lot of data and a complex model, because it can take a long time to train the model with different hyperparameters.
 
 Another technique is using Bayesian Optimization, which is smarter about which hyperparameters to try next. Instead of [picking](/wiki/asset-class-picking) random combinations or trying every possible setting, Bayesian Optimization uses past results to guess which new settings might work best. It does this by building a model of the hyperparameter space and using it to predict where the best hyperparameters might be. This can be more efficient than other methods because it focuses on the most promising areas of the search space. For example, you might use a library like Hyperopt or Optuna to implement Bayesian Optimization in your large-scale system.
+
+## References & Further Reading
+
+[1]: Bergstra, J., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research, 13(Feb): 281-305.
+
+[2]: Snoek, J., Larochelle, H., & Adams, R. P. (2012). ["Practical Bayesian Optimization of Machine Learning Algorithms."](https://arxiv.org/abs/1206.2944) Advances in Neural Information Processing Systems 25.
+
+[3]: Feurer, M., & Hutter, F. (2019). ["Hyperparameter Optimization."](https://link.springer.com/content/pdf/10.1007/978-3-030-05318-5_1.pdf) In Automated Machine Learning (pp. 3-33). Springer, Cham. 
+
+[4]: Li, L., Jamieson, K., DeSalvo, G., Rostamizadeh, A., & Talwalkar, A. (2017). ["Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization."](https://jmlr.org/papers/volume18/16-558/16-558.pdf) Journal of Machine Learning Research, 18(185), 1-52.
+
+[5]: Shahriari, B., Swersky, K., Wang, Z., Adams, R. P., & De Freitas, N. (2015). ["Taking the Human Out of the Loop: A Review of Bayesian Optimization."](https://ieeexplore.ieee.org/document/7352306) Proceedings of the IEEE, 104(1), 148-175.

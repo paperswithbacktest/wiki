@@ -79,3 +79,19 @@ Another case study involves a healthcare application where Gemini was used to im
 In the future, Gemini is expected to get even better at understanding and working with different kinds of information. Google is always working on making their technology smarter, and Gemini is no different. They plan to make Gemini even better at understanding and making text, pictures, and videos. This means Gemini might be able to help with more complicated tasks, like understanding whole books or making detailed descriptions of videos. Google also wants to make Gemini faster and more accurate, so it can help people even more quickly and correctly.
 
 Another big thing for Gemini's future is making it more fair and less biased. Google knows that it's important for a smart computer program like Gemini to be fair to everyone. They plan to keep looking at the data Gemini learns from and make sure it's as fair as possible. They also want to keep listening to what people say about how Gemini works and use that feedback to make it better. By doing all this, Google hopes to make Gemini a helpful tool for everyone, no matter who they are.
+
+## References & Further Reading
+
+[1]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Chollet, F. (2021). ["Deep Learning with Python, Second Edition."](https://books.google.com/books/about/Deep_Learning_with_Python_Second_Edition.html?id=XHpKEAAAQBAJ) Manning Publications.
+
+[5]: Szeliski, R. (2021). ["Computer Vision: Algorithms and Applications."](https://link.springer.com/book/10.1007/978-3-030-34372-9) Springer Nature.
+
+[6]: Russell, S., & Norvig, P. (2020). ["Artificial Intelligence: A Modern Approach."](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) Prentice Hall. 
+
+[7]: OpenAI. (2023). ["GPT-4 Technical Report."](https://arxiv.org/abs/2303.08774) arXiv preprint arXiv:2303.08774.

@@ -83,3 +83,17 @@ Another approach is to use a method called batch Bayesian Optimization. Instead 
 Recent advancements in Bayesian Optimization research have focused on making it work better with high-dimensional problems. One big step forward is the use of new surrogate models that are faster and can handle more dimensions. For example, researchers have been looking into using [deep learning](/wiki/deep-learning) models like neural networks instead of traditional Gaussian Processes. These new models can learn from data more quickly and make better predictions in high-dimensional spaces. Another important development is the use of dimensionality reduction techniques. These methods help find the most important settings to focus on, making the optimization process easier and faster. By combining these approaches, Bayesian Optimization can now tackle problems that were too complex before.
 
 Another area of advancement is in the design of new acquisition functions. Researchers have been working on functions that can balance exploration and exploitation even better. For example, some new functions use ideas from [reinforcement learning](/wiki/reinforcement-learning) to make smarter decisions about where to look next. These functions can help Bayesian Optimization find the best settings more quickly and reliably. Additionally, there's been progress in batch Bayesian Optimization, where multiple settings are tested at once. This can speed up the process a lot, especially when each test is expensive. By testing several settings together, researchers can gather more information in less time, making the whole optimization process more efficient.
+
+## References & Further Reading
+
+[1]: Shahriari, B., Swersky, K., Wang, Z., Adams, R. P., & de Freitas, N. (2015). ["Taking the Human Out of the Loop: A Review of Bayesian Optimization."](https://ieeexplore.ieee.org/document/7352306) Journal of Machine Learning Research, 18(1), 1-49.
+
+[2]: Snoek, J., Larochelle, H., & Adams, R. P. (2012). ["Practical Bayesian Optimization of Machine Learning Algorithms."](https://arxiv.org/abs/1206.2944) Advances in Neural Information Processing Systems 25.
+
+[3]: Brochu, E., Cora, V. M., & de Freitas, N. (2010). ["A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning."](https://arxiv.org/abs/1012.2599) arXiv preprint arXiv:1012.2599.
+
+[4]: Rasmussen, C. E., & Williams, C. K. I. (2006). ["Gaussian Processes for Machine Learning."](https://direct.mit.edu/books/monograph/2320/Gaussian-Processes-for-Machine-Learning) The MIT Press.
+
+[5]: Frazier, P. I. (2018). ["A Tutorial on Bayesian Optimization."](https://arxiv.org/abs/1807.02811) arXiv preprint arXiv:1807.02811.
+
+[6]: Bergstra, J., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research, 13, 281-305.

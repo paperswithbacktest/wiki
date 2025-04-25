@@ -145,3 +145,15 @@ Lastly, integrating NumPy with other libraries like scikit-learn can enhance eff
 NumPy can handle more complex data types and structures in machine learning by using its support for different data types and multi-dimensional arrays. For example, if you're working with images, which are often represented as three-dimensional arrays (height, width, color channels), NumPy can easily store and manipulate these arrays. You can use functions like `np.array()` to create arrays of any shape and `np.dtype()` to specify the data type, like integers, floats, or even custom types. This flexibility is important in machine learning because different types of data, like text or images, might need different ways of being stored and processed.
 
 When dealing with more complex data structures, NumPy also offers the ability to use structured arrays. These are arrays where each element can be a record containing multiple fields, similar to a row in a database table. For instance, if you have data about people, including their name, age, and height, you can create a structured array to store all this information together. This can be useful in machine learning for organizing and processing data that has different types of information for each data point. By using structured arrays, you can keep related data together and perform operations on it more efficiently, which can be crucial for handling large and diverse datasets in machine learning projects.
+
+## References & Further Reading
+
+[1]: Harris, C.R., Millman, K.J., van der Walt, S.J., et al. (2020). ["Array programming with NumPy."](https://www.nature.com/articles/s41586-020-2649-2) Nature 585, 357–362.
+
+[2]: Oliphant, T.E. (2006). ["A guide to NumPy."](https://archive.org/details/NumPyBook) Trelgol Publishing.
+
+[3]: VanderPlas, J. (2016). ["Python Data Science Handbook: Essential Tools for Working with Data."](https://books.google.com/books/about/Python_Data_Science_Handbook.html?id=xYmNDQAAQBAJ) O'Reilly Media.
+
+[4]: McKinney, W. (2017). ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython."](https://wesmckinney.com/book/) O'Reilly Media.
+
+[5]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.

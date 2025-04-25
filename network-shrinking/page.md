@@ -81,3 +81,15 @@ Another advancement is the development of new techniques for quantization. Quant
 Network shrinking can be combined with other model optimization techniques to make neural networks even better. One way to do this is by using network shrinking along with model compression methods like knowledge distillation. In knowledge distillation, a smaller model learns to mimic a bigger, more accurate model. By shrinking the smaller model and then using knowledge distillation, you can make it even smaller while still keeping it accurate. For example, if a weight $$w$$ in the smaller model is close to zero, you might remove it to make the model smaller, and then use knowledge distillation to help it learn from the bigger model.
 
 Another way to integrate network shrinking with other techniques is by using it with model quantization. Quantization means using fewer bits to store the weights in the network, which makes it smaller but can also make it less accurate. By shrinking the network first and then applying quantization, you can make the model even smaller. After quantization, you might need to do some fine-tuning to make sure the model still works well. Both of these methods help make neural networks more practical for use in devices like phones, which don't have a lot of power or memory.
+
+## References & Further Reading
+
+[1]: Han, S., Pool, J., Tran, J., & Dally, W. (2015). ["Learning both Weights and Connections for Efficient Neural Networks."](https://arxiv.org/abs/1506.02626) Advances in Neural Information Processing Systems 28.
+
+[2]: Courbariaux, M., Bengio, Y., & David, J.-P. (2015). ["BinaryConnect: Training Deep Neural Networks with binary weights during propagations."](https://arxiv.org/abs/1511.00363) Advances in Neural Information Processing Systems 28.
+
+[3]: Rastegari, M., Ordonez, V., Redmon, J., & Farhadi, A. (2016). ["XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks."](https://arxiv.org/abs/1603.05279) European Conference on Computer Vision.
+
+[4]: Choi, Y., El-Khamy, M., & Lee, J. (2016). ["Towards the Limit of Network Quantization."](https://arxiv.org/abs/1612.01543) arXiv preprint arXiv:1612.01543.
+
+[5]: Louizos, C., Welling, M., & Kingma, D. P. (2017). ["Learning Sparse Neural Networks through $L_0$ Regularization."](https://arxiv.org/abs/1712.01312) International Conference on Learning Representations.

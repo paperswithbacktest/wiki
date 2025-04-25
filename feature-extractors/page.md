@@ -79,3 +79,19 @@ FSAF works by using a special way to pick out the best features from the image. 
 The Streaming Module is a smart way to help computers understand pictures better by looking at them bit by bit, like watching a video. Imagine you're watching a movie and want to understand what's happening. Instead of waiting for the whole movie to finish, the Streaming Module lets the computer see parts of the picture as they come in. This makes the computer's job easier because it can start understanding the picture right away, without waiting for all the details to be ready. By doing this, the Streaming Module helps the computer focus on the important parts of the image and ignore the less important parts, making the process of finding objects in the picture faster and more accurate.
 
 MatrixNet takes a different approach by using a special way to combine different levels of detail in the picture. Imagine you have a puzzle with many pieces, and you want to see the whole picture. MatrixNet helps the computer piece together these puzzle pieces in a smart way, making sure that all the important details are considered. It does this by using a technique called matrix factorization, which helps the computer understand the relationships between different parts of the image. By doing this, MatrixNet makes the computer better at understanding the whole picture and the small details, which is really helpful for tasks like finding objects in a picture or understanding what's happening in a scene.
+
+## References & Further Reading
+
+[1]: Lin, T.-Y., Dollar, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Gao, Y., Feng, J., Ma, X., & Liu, W. (2019). ["Deep Layer Aggregation."](https://opg.optica.org/ol/abstract.cfm?uri=ol-44-11-2859) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Tan, M., Pang, R., & Le, Q. V. (2020). ["EfficientDet: Scalable and Efficient Object Detection."](https://arxiv.org/abs/1911.09070) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Chen, C.-F. R., Fan, Q., & Panda, R. (2020). ["BiFPN: Bi-directional Feature Pyramid Network for Object Detection."](https://dl.acm.org/doi/abs/10.1609/aaai.v37i6.25863) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW).
+
+[5]: Liu, S., Qi, L., Qin, H., Shi, J., & Jia, J. (2018). ["Path Aggregation Network for Instance Segmentation."](https://arxiv.org/abs/1803.01534) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Zhu, C., He, Y., & Savvides, M. (2019). ["Feature Selective Anchor-Free Module for Single-Shot Object Detection."](https://arxiv.org/abs/1903.00621) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Wang, T., Zhu, Y., Wu, C., Zhan, X., Lu, J., & Sun, J. (2020). ["Fcos: Fully Convolutional One-Stage Object Detection."](https://pubmed.ncbi.nlm.nih.gov/26909887/) Proceedings of the IEEE International Conference on Computer Vision (ICCV).

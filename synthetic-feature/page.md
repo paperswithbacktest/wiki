@@ -83,3 +83,17 @@ Another advanced technique is using Principal Component Analysis (PCA) to genera
 Synthetic features can be integrated into existing machine learning pipelines by adding them to the data preprocessing step. This means you create the new features from your original data before you train your model. For example, if you have data about a person's height and weight, you can create a new feature called Body Mass Index (BMI) using the formula $$ \text{BMI} = \frac{\text{weight in kg}}{(\text{height in m})^2} $$. Once you have calculated BMI for all your data points, you can add it to your dataset. Then, when you train your model, it can use this new feature along with the original ones to make better predictions.
 
 To make sure the synthetic features work well, you should test them in your pipeline. You can do this by running your model with and without the new features and comparing the results. If the model performs better with the synthetic features, you know they are helping. But if the model gets worse or stays the same, you might need to try different synthetic features or leave them out. By experimenting with different ways to create and use synthetic features, you can find the best way to improve your model's performance without making it too complicated.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ) O'Reilly Media.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[4]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[5]: Raj, B. M., & Zhai, C. (2021). ["Feature Engineering for Machine Learning and Data Analytics."](https://www.taylorfrancis.com/books/edit/10.1201/9781315181080/feature-engineering-machine-learning-data-analytics-guozhu-dong-huan-liu) CRC Press.
+
+[6]: Zhang, Y., & Yang, Q. (2014). ["A Survey on Multi-Task Learning."](https://ieeexplore.ieee.org/document/9392366) IEEE Transactions on Knowledge and Data Engineering.

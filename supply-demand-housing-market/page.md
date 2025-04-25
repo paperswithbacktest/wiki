@@ -1,6 +1,7 @@
 ---
-title: "Supply and Demand in the Housing Market"
-description: "Explore how the dynamics of supply and demand shape the housing market and how algorithmic trading strategies could redefine real estate investments."
+title: Understanding Supply and Demand in the Housing Market
+description: Housing market supply and demand shape home values and buyer choices
+  by balancing availability economic conditions and policies Discover more inside.
 ---
 
 

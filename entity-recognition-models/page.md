@@ -81,3 +81,15 @@ Compared to the Partition Filter Network (PFN), Transformer models like BERT hav
 In the future, we can expect entity recognition models to become even better at understanding different languages and contexts. One big change might be using even more advanced deep learning models, like newer versions of Transformer models. These models can look at a whole sentence at once and understand the relationships between words really well. They might help entity recognition models recognize new types of entities, like emojis or slang, which are hard for older models to understand. Also, these models could be trained on more and more data from the internet, making them better at recognizing entities in all sorts of texts, from social media posts to scientific articles.
 
 Another future development could be making entity recognition models work better with less data. Right now, these models need a lot of examples to learn from, but new techniques like few-shot learning might change that. Few-shot learning lets models learn from just a few examples, which could make it easier to recognize new entities quickly. For example, if a new company starts and you only have a few mentions of it, a few-shot learning model could still figure out that it's a company. This could make entity recognition models more useful in real-time situations where new information is coming in all the time.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2008). ["Speech and Language Processing"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) (3rd ed.). Prentice Hall.
+
+[2]: Lample, G., Ballesteros, M., Subramanian, S., Kawakami, K., & Dyer, C. (2016). ["Neural Architectures for Named Entity Recognition."](https://aclanthology.org/N16-1030/) Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Yadav, V., & Bethard, S. (2018). ["A Survey on Recent Advances in Named Entity Recognition from Deep Learning models."](https://aclanthology.org/C18-1182/) Proceedings of the 27th International Conference on Computational Linguistics.
+
+[5]: Bengio, Y., Simard, P., & Frasconi, P. (1994). ["Learning Long-Term Dependencies with Gradient Descent is Difficult."](https://ieeexplore.ieee.org/document/279181) IEEE Transactions on Neural Networks, 5(2), 157-166.

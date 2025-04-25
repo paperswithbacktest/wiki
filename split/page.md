@@ -1,7 +1,8 @@
 ---
-title: Split Machine Learning for Secure Collaborative Model Training
-description: Split machine learning protects private data by processing locally and
-  sending only intermediate results for secure model training Discover more inside
+title: Enhancing Data Privacy with Split Machine Learning Techniques
+description: Split machine learning safeguards data privacy by splitting training
+  between parties to build models securely without sharing raw data Discover more
+  inside
 ---
 
 ![Image](images/1.png)

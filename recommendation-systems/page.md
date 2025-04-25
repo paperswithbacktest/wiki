@@ -83,3 +83,25 @@ One way to do multi-task learning is by using a shared model that has different 
 In the future, recommendation systems are likely to become even smarter and more personalized. One big trend is the use of more advanced [artificial intelligence](/wiki/ai-artificial-intelligence) techniques, like [deep learning](/wiki/deep-learning) and [reinforcement learning](/wiki/reinforcement-learning). These methods can help the system understand user preferences better by learning from lots of data over time. For example, deep learning can find complex patterns in what users like, while reinforcement learning can help the system learn from its mistakes and get better at making suggestions. Another trend is the integration of more types of data, like social media activity and real-time user behavior, to make recommendations more relevant and timely. This means the system can use not just what you've done in the past, but also what you're doing right now to suggest things you might like.
 
 Another important direction for research is making recommendation systems more fair and transparent. Right now, some systems might suggest things based on what they think you'll like, but they might not explain why. Future systems might need to be more open about how they make decisions, so users can trust them more. Also, researchers are working on ways to make sure the recommendations are fair and don't leave out certain groups of people. This means the system should suggest things to everyone in a way that's equal and doesn't favor one group over another. By focusing on these areas, recommendation systems can become more helpful, trustworthy, and inclusive for everyone.
+
+## References & Further Reading
+
+[1]: Koren, Y., Bell, R., & Volinsky, C. (2009). ["Matrix Factorization Techniques for Recommender Systems."](https://ieeexplore.ieee.org/abstract/document/5197422) Computer, 42(8), 30-37.
+
+[2]: He, X., Deng, K., Wang, X., Li, Y., Zhang, Y., & Wang, M. (2020). ["LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation."](https://arxiv.org/abs/2002.02126) Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval.
+
+[3]: Rendle, S. (2010). ["Factorization Machines."](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010FM.pdf) 2010 IEEE International Conference on Data Mining.
+
+[4]: Wang, H., Shi, X., & Yeung, D.Y. (2016). ["Collaborative Recurrent Neural Networks for Dynamic Recommender Systems."](https://www.researchgate.net/publication/309631671_Collaborative_Recurrent_Autoencoder_Recommend_while_Learning_to_Fill_in_the_Blanks) Proceedings of the 2016 ACM Conference on Recommender Systems.
+
+[5]: Barkan, O., & Koenigstein, N. (2016). ["Item2Vec: Neural item embedding for collaborative filtering."](https://arxiv.org/abs/1603.04259) 26th International World Wide Web Conference.
+
+[6]: Hu, Y., Koren, Y., & Volinsky, C. (2008). ["Collaborative Filtering for Implicit Feedback Datasets."](http://yifanhu.net/PUB/cf.pdf) Proceedings of the 8th IEEE International Conference on Data Mining. 
+
+[7]: Hidasi, B., Karatzoglou, A., Baltrunas, L., & Tikk, D. (2015). ["Session-based recommendations with recurrent neural networks."](https://arxiv.org/abs/1511.06939) arXiv preprint arXiv:1511.06939. 
+
+[8]: Covington, P., Adams, J., & Sargin, E. (2016). ["Deep Neural Networks for YouTube Recommendations."](https://dl.acm.org/doi/10.1145/2959100.2959190) Proceedings of the 10th ACM Conference on Recommender Systems. 
+
+[9]: Mnih, A., & Salakhutdinov, R.R. (2007). ["Probabilistic Matrix Factorization."](https://proceedings.neurips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf) Advances in Neural Information Processing Systems 20. 
+
+[10]: Zhang, S., Yao, L., Sun, A., & Tay, Y. (2019). ["Deep Learning Based Recommender System: A Survey and New Perspectives."](https://dl.acm.org/doi/10.1145/3285029) ACM Computing Surveys, 52(1).

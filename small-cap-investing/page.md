@@ -1,6 +1,7 @@
 ---
-title: "Small Cap Investing"
-description: "Explore the synergy of small-cap stock investing and algo trading. Understand the potential for high returns with inherent risks and learn strategic approaches."
+title: Small Cap Investing Strategies for Growth and Risk Management
+description: Small cap investing delivers growth potential with diversified strategies
+  research driven analysis and risk management Discover more inside.
 ---
 
 

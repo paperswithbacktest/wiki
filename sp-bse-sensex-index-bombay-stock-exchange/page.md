@@ -1,6 +1,7 @@
 ---
-title: "S&P BSE Sensex Index and Its Significance for the Bombay Stock Exchange"
-description: "Discover the significance of the S&P BSE Sensex for the Bombay Stock Exchange and how algorithmic trading is reshaping India's financial markets."
+title: Comprehensive Guide to the S&P BSE Sensex Index Mechanics
+description: S&P BSE Sensex Index tracks 30 major BSE companies by free float market
+  cap and updates to reflect market health and guide investments Discover more inside
 ---
 
 

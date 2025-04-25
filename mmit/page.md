@@ -103,3 +103,25 @@ In the finance industry, machine learning is used to make smarter decisions abou
 One of the latest trends in machine learning research is the focus on explainable AI (XAI). This means making machine learning models easier to understand so that people can trust them more. Imagine you're using a model to decide if someone should get a loan. If the model says no, the person should be able to know why. Researchers are working on ways to make models explain their decisions in simple terms, which is really important for fairness and transparency. Another big trend is in the area of federated learning. This is a way to train models on data from lots of different places without moving the data around. It's like teaching a model to recognize cats by showing it pictures from many different phones, but the pictures stay on the phones. This helps keep data private and secure, which is a big deal in today's world.
 
 Looking to the future, machine learning is likely to get even better at handling different types of data, like text, images, and sounds, all at the same time. This is called multimodal learning. For example, a model could listen to a doctor talking about a patient's symptoms while also looking at the patient's X-rays to make a better diagnosis. Another exciting direction is in [reinforcement learning](/wiki/reinforcement-learning), where machines learn by trying things out and getting feedback. This is already used in things like playing video games and controlling robots, but it could be used for even more complex tasks, like managing traffic in a city or helping with climate change. As machine learning keeps growing, it will change how we live and work in ways we can't even imagine yet.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Russell, S. J., & Norvig, P. (2010). ["Artificial Intelligence: A Modern Approach."](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) Prentice Hall.
+
+[6]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[7]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[8]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) O'Reilly Media.
+
+[9]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[10]: ["Machine Learning: The Art and Science of Algorithms that Make Sense of Data"](https://xamgore.github.io/au-ml/books/art_of_ml.pdf) by Peter Flach

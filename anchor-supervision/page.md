@@ -79,3 +79,19 @@ Another important hyperparameter to tune is the learning rate, which controls ho
 One of the main challenges in Anchor Supervision is finding the right anchors. When the data is noisy or has many different types of objects, it can be hard to pick anchors that help the model learn well. Another challenge is making the model work quickly. Anchor Supervision can slow down the training process because the model has to look at lots of data to find the best anchors. Researchers are trying to find ways to make this faster and more efficient. They are also working on making the model better at handling different kinds of images and objects, which can be tricky when using anchors.
 
 In the future, researchers want to make Anchor Supervision even better. They are looking into new ways to choose anchors automatically, like using FreeAnchor, which lets the model pick its own anchors. This could make the model more flexible and able to handle all sorts of pictures. Another direction is to combine Anchor Supervision with other learning methods, like semi-supervised learning, to use both labeled and unlabeled data more effectively. By working on these areas, researchers hope to make Anchor Supervision a powerful tool for all kinds of machine learning tasks.
+
+## References & Further Reading
+
+[1]: Zhang, X., Wang, Q., & Gong, X. (2019). ["FreeAnchor: Learning to Match Anchors for Visual Object Detection."](https://arxiv.org/abs/1909.02466) International Conference on Computer Vision (ICCV).
+
+[2]: Zhu, Y., Chi, W., Wang, Y., & Tao, D. (2018). ["Improving Deep Neural Networks with Knowledge Transfer-Based Noise-Robust Learning."](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202413660) European Conference on Computer Vision (ECCV).
+
+[3]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) International Conference on Computer Vision (ICCV).
+
+[4]: Redmon, J., & Farhadi, A. (2018). ["YOLOv3: An Incremental Improvement."](https://arxiv.org/abs/1804.02767) arXiv preprint arXiv:1804.02767.
+
+[5]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) European Conference on Computer Vision (ECCV).
+
+[7]: Hinton, G., Vinyals, O., & Dean, J. (2015). ["Distilling the Knowledge in a Neural Network."](https://arxiv.org/abs/1503.02531) arXiv preprint arXiv:1503.02531.

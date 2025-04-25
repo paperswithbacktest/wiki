@@ -81,3 +81,15 @@ In reinforcement learning, episodes are complete sequences of interactions betwe
 In the future, episode machine learning is likely to become even better at learning from just a few examples. Researchers are working on new ways to make models learn faster and more accurately, even when they don't have a lot of data. One exciting area is meta-learning, where the model learns how to learn from episodes. This could make it easier for machines to pick up new skills quickly, like recognizing new objects or understanding new languages. As these techniques improve, episode machine learning could be used in more places, like helping robots learn new tasks or making it easier to train AI for new jobs.
 
 Another big development might be in how episodes are used in reinforcement learning. Right now, episodes help agents learn by trying different things and getting rewards. In the future, we might see smarter ways to design these episodes so that agents can learn even faster. For example, episodes could be made to focus on the most important parts of a task, helping the agent learn the best strategies more quickly. This could make reinforcement learning more efficient and useful for training robots, game-playing AI, and other systems that need to learn from experience.
+
+## References & Further Reading
+
+[1]: Vinyals, O., Blundell, C., Lillicrap, T., & Wierstra, D. (2016). ["Matching Networks for One Shot Learning."](https://arxiv.org/abs/1606.04080) Advances in Neural Information Processing Systems 29.
+
+[2]: Finn, C., Abbeel, P., & Levine, S. (2017). ["Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks."](https://arxiv.org/abs/1703.03400) Proceedings of the 34th International Conference on Machine Learning.
+
+[3]: Lake, B., Salakhutdinov, R., & Tenenbaum, J. (2015). ["Human-level concept learning through probabilistic program induction."](https://www.science.org/doi/10.1126/science.aab3050) Science, 350(6266), 1332-1338.
+
+[4]: Snell, J., Swersky, K., & Zemel, R. (2017). ["Prototypical Networks for Few-shot Learning."](https://arxiv.org/abs/1703.05175) Advances in Neural Information Processing Systems 30.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction (2nd ed.)."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.

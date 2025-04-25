@@ -108,3 +108,17 @@ Another variation is called learning rate scheduling, where the learning rate is
 Mini-Batch SGD can be combined with other optimization algorithms to make it work even better. One common way is to use it with adaptive learning rate methods like Adam or RMSprop. These methods change the learning rate during training to help the model learn faster and more smoothly. For example, Adam adjusts the learning rate for each parameter based on how much it's changed in the past. This helps the model find the best solution more reliably. The update rule for Adam is more complex than the basic Mini-Batch SGD, but it helps the model learn better. By using these adaptive methods with Mini-Batch SGD, researchers can make the training process more efficient and effective.
 
 Another way to integrate Mini-Batch SGD with other algorithms is through learning rate scheduling. This means changing the learning rate over time in a planned way. For example, you might start with a high learning rate to help the model learn quickly at first, and then slowly lower it to fine-tune the model's performance. This can help the model converge faster and find a better solution. The update rule for Mini-Batch SGD with a learning rate schedule might look like $$ \theta = \theta - \eta(t) \cdot \frac{1}{|B|} \sum_{x \in B} \nabla L(x; \theta) $$, where $$\eta(t)$$ is the learning rate at time step $$t$$. By carefully planning how the learning rate changes, researchers can improve how well Mini-Batch SGD works for their models.
+
+## References & Further Reading
+
+[1]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent."](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) In Proceedings of COMPSTAT'2010.
+
+[2]: Bousquet, O., & Bottou, L. (2008). ["The Tradeoffs of Large Scale Learning."](https://proceedings.neurips.cc/paper/2007/file/0d3180d672e08b4c5312dcdafdf6ef36-Paper.pdf) Proceedings of the 21st Annual Conference on Computational Learning Theory.
+
+[3]: Bengio, Y. (2012). ["Practical Recommendations for Gradient-Based Training of Deep Architectures."](https://arxiv.org/abs/1206.5533) arXiv preprint arXiv:1206.5533.
+
+[4]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
+
+[5]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[6]: LeCun, Y., Bottou, L., Orr, G. B., & Müller, K. R. (2012). ["Efficient BackProp."](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_3) In Neural Networks: Tricks of the Trade.

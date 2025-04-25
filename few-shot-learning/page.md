@@ -82,3 +82,17 @@ Researchers are finding new ways to combine Few-Shot Learning and transfer learn
 In the future, we can expect Few-Shot Learning to become even better at learning new things from just a few examples. Researchers are working on new ways to make models smarter and more flexible. One big area of focus is making models better at understanding different types of data, like pictures, sounds, and words, all at the same time. This is called multi-modal learning. By using different kinds of information, models can learn more effectively and quickly. Another exciting development is in self-supervised learning, where models learn without needing a lot of labeled examples. This can help Few-Shot Learning models do even better with the limited data they have.
 
 We might also see new ways to combine Few-Shot Learning with other AI techniques, like transfer learning and meta-learning. Transfer learning helps models use what they already know to learn new tasks, and meta-learning teaches models how to learn new things quickly. By putting these techniques together, models can become even better at figuring out new tasks with just a few examples. This could make Few-Shot Learning useful in more areas, like healthcare, where doctors need to diagnose rare diseases from just a few images, or in personal devices, where you might want to teach your phone to recognize new faces with just a couple of pictures.
+
+## References & Further Reading
+
+[1]: Snell, J., Swersky, K., & Zemel, R. (2017). ["Prototypical Networks for Few-Shot Learning."](https://arxiv.org/abs/1703.05175) Advances in Neural Information Processing Systems.
+
+[2]: Koch, G., Zemel, R., & Salakhutdinov, R. (2015). ["Siamese Neural Networks for One-shot Image Recognition."](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) In ICML Deep Learning Workshop.
+
+[3]: Vinyals, O., Blundell, C., Lillicrap, T., Kavukcuoglu, K., & Wierstra, D. (2016). ["Matching Networks for One Shot Learning."](https://arxiv.org/abs/1606.04080) Advances in Neural Information Processing Systems.
+
+[4]: Finn, C., Abbeel, P., & Levine, S. (2017). ["Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks."](https://arxiv.org/abs/1703.03400) Proceedings of the 34th International Conference on Machine Learning.
+
+[5]: Sung, F., Yang, Y., Zhang, L., Xiang, T., Torr, P. H. S., & Hospedales, T. M. (2018). ["Learning to Compare: Relation Network for Few-Shot Learning."](https://ieeexplore.ieee.org/document/8578229) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[6]: Chen, W. Y., Liu, Y. C., Kira, Z., Wang, Y. C. F., & Huang, J. B. (2019). ["A Closer Look at Few-shot Classification."](https://arxiv.org/abs/1904.04232) Proceedings of the IEEE International Conference on Computer Vision.

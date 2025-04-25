@@ -79,3 +79,17 @@ Another pattern, called Dilated Sliding Window Attention, is like reading a book
 The latest advancements in attention patterns include techniques like Longformer and Performer, which are designed to handle even longer sequences more efficiently. Longformer uses a combination of local and global attention, allowing it to focus on nearby parts of the text while also considering some distant parts. This is like reading a book by focusing on a few pages at a time but also occasionally looking at the beginning or end to keep the whole story in mind. Performer, on the other hand, uses a different approach called linear attention, which makes the model faster by simplifying the attention calculation. It's like reading a book by quickly scanning through it and [picking](/wiki/asset-class-picking) out the most important parts without getting bogged down in the details.
 
 These new attention patterns have exciting potential future applications. For example, they could be used to improve language models that need to understand very long documents, like legal contracts or scientific papers. Imagine a model that can read through a whole book and answer questions about it accurately, or one that can summarize a long report without missing any important details. These advancements could also help in fields like genomics, where models need to analyze long sequences of DNA to find patterns and make predictions. By making attention more efficient, these new patterns could help machines understand and process information in ways that were previously too difficult or time-consuming.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Beltagy, I., Peters, M. E., & Cohan, A. (2020). ["Longformer: The Long-Document Transformer."](https://arxiv.org/abs/2004.05150) arXiv preprint arXiv:2004.05150.
+
+[3]: Choromanski, K., Likhosherstov, V., Dohan, D., Song, X., Gane, A., Sarlos, T., ... & Weller, A. (2020). ["Rethinking Attention with Performers."](https://arxiv.org/abs/2009.14794) arXiv preprint arXiv:2009.14794.
+
+[4]: Zaheer, M., Guruganesh, G., Dubey, K. A., Ainslie, J., Alberti, C., Ontanon, S., ... & Ahmed, A. (2020). ["Big Bird: Transformers for Longer Sequences."](https://arxiv.org/abs/2007.14062) arXiv preprint arXiv:2007.14062.
+
+[5]: Tay, Y., Dehghani, M., Abnar, S., Shen, Y., Bahri, D., Pham, P., ... & Metzler, D. (2020). ["Long Range Arena: A Benchmark for Efficient Transformers."](https://arxiv.org/abs/2011.04006) arXiv preprint arXiv:2011.04006.
+
+[6]: Beltagy, I., Cohan, A., & Lo, K. (2020). ["LED: A Large-Scale Long-Document Transformer."](https://arxiv.org/abs/2004.05150) arXiv preprint arXiv:2004.05150.

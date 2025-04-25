@@ -79,3 +79,15 @@ In practice, co-training can be set up to be careful about adding new labels. If
 Co-training is used in many real-world situations where there isn't a lot of labeled data but plenty of unlabeled data. One common use is in text classification, like sorting news articles into categories such as sports or politics. In this case, one model might look at the words in the article, while the other model looks at the article's metadata like the author and publication date. By working together, these models can better classify the articles even if they start with only a few labeled examples.
 
 Another application of co-training is in image classification. For example, if you want to identify different types of animals in pictures, one model could look at the pixel values of the images, while the other model could look at features like color histograms or texture. Co-training helps these models learn from each other and improve their accuracy over time. This is especially useful in fields like medical imaging, where labeled data can be hard to come by, but there are many unlabeled images available.
+
+## References & Further Reading
+
+[1]: Blum, A., & Mitchell, T. (1998). ["Combining labeled and unlabeled data with co-training."](https://dl.acm.org/doi/10.1145/279943.279962) Proceedings of the Eleventh Annual Conference on Computational Learning Theory.
+
+[2]: Nigam, K., McCallum, A., Thrun, S., & Mitchell, T. (2000). ["Text Classification from Labeled and Unlabeled Documents using EM."](https://link.springer.com/article/10.1023/A:1007692713085) Machine Learning, 39(2-3), 103–134.
+
+[3]: Zhang, Y., & Zhou, Z.-H. (2011). ["CoTrade: Confident Co-Training with Data Editing."](https://www.researchgate.net/publication/224242877_CoTrade_Confident_Co-Training_With_Data_Editing) Proceedings of the Twenty-Second International Joint Conference on Artificial Intelligence.
+
+[4]: Zhou, Z.-H., & Li, M. (2005). ["Tri-training: Exploiting Unlabeled Data Using Three Classifiers."](https://ieeexplore.ieee.org/document/1512038) IEEE Transactions on Knowledge and Data Engineering, 17(11), 1529-1541.
+
+[5]: Balcan, M. F., & Blum, A. (2005). ["A pac-style model for learning from labeled and unlabeled data."](https://www.cs.cmu.edu/~ninamf/papers/labeled_unlabeled.pdf) Proceedings of the 18th International Conference on Learning Theory.

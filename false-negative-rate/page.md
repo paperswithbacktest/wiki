@@ -81,3 +81,15 @@ The Precision-Recall curve is another way to understand how well a model is doin
 In medical diagnostics, where missing a disease can be dangerous, advanced techniques like ensemble methods are often used to minimize the False Negative Rate (FNR). Ensemble methods combine the predictions of multiple models to make a final decision. This can help catch more cases of a disease because different models might spot different signs of the illness. Techniques like boosting and bagging are common. Boosting focuses on the cases that the model keeps missing, trying to improve on them with each new model added to the ensemble. Bagging, on the other hand, trains different models on different parts of the data and then combines their predictions. By using these methods, the overall model can be better at spotting the important cases, lowering the FNR, which is calculated as $$ \text{FNR} = \frac{\text{FN}}{\text{FN} + \text{TP}} $$.
 
 Another advanced technique used in medical diagnostics is [deep learning](/wiki/deep-learning), particularly with convolutional neural networks (CNNs) for image-based diagnoses like detecting cancer from scans. Deep learning models can learn complex patterns in the data that simpler models might miss, which helps in reducing the FNR. These models are trained on large datasets of medical images, allowing them to recognize subtle signs of diseases that might be overlooked by human eyes or simpler algorithms. Additionally, techniques like transfer learning can be applied, where a model pretrained on a large dataset is fine-tuned on a smaller, specific medical dataset. This helps the model perform better with less data, which is often the case in medical settings. By using these advanced methods, the model can become more accurate in spotting diseases, thereby lowering the FNR and improving patient outcomes.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An Introduction to ROC Analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861–874.
+
+[2]: Saito, T., & Rehmsmeier, M. (2015). ["The Precision-Recall Plot Is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PLoS ONE, 10(3).
+
+[3]: Chicco, D., & Jurman, G. (2020). ["The Advantages of the Matthews Correlation Coefficient (MCC) over F1 Score and Accuracy in Binary Classification Evaluation."](https://pubmed.ncbi.nlm.nih.gov/31898477/) Scientific Reports, 10, 10326.
+
+[4]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263–1284.
+
+[5]: Graham, R. M., & Howard, J. (2019). [“Deep Learning for Medical Image Analysis."](https://www.sciencedirect.com/science/article/pii/S2468785519301582) Elsevier.

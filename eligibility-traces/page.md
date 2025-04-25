@@ -81,3 +81,15 @@ Using eligibility traces with Q-learning can make the learning process more accu
 In complex environments, one advanced strategy for implementing eligibility traces is to use a variable trace decay parameter, λ. Instead of using a fixed λ value, you can adjust it based on the specific situation. For example, in a maze where some areas are more important than others, you could increase λ in critical areas to make sure the algorithm remembers actions taken there more strongly. This can help the algorithm focus on the most important parts of the environment and learn more effectively. The formula for updating the value function using a variable λ is $$V(s) \leftarrow V(s) + \alpha \cdot \delta \cdot e(s)$$, where $$e(s)$$ is influenced by the variable λ.
 
 Another strategy is to use different types of eligibility traces for different parts of the environment. For example, you might use an accumulating trace in areas where repeated actions are important, and a replacing trace in areas where you want to avoid overvaluing repeated actions. This can help the algorithm adapt to different parts of the environment more effectively. By carefully choosing the right type of trace for each part, you can make sure the algorithm learns the right lessons from each area. This approach can be especially useful in environments with diverse challenges, where a single type of trace might not work well everywhere.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction,"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press. 
+
+[2]: van Seijen, H., Sutton, R. S., & Pilarski, P. M. (2015). ["A New Representation for Eligibility Traces."](https://jmlr.org/papers/v17/15-599.html) In Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI), 3151-3157.
+
+[3]: Singh, S., & Sutton, R. S. (1996). ["Reinforcement Learning with Replacing Eligibility Traces."](https://link.springer.com/article/10.1023/A:1018012322525) Machine Learning, 22(1-3), 123-158.
+
+[4]: Nedevschi, S. H. (2014). ["Eligibility Traces in Reinforcement Learning."](https://link.springer.com/chapter/10.1007/978-0-585-33656-5_7) REU Final Report, Summer 2014.
+
+[5]: Konidaris, G., & Barto, A. (2007). ["An adaptive reinforcement learning agent for handling partial observability."](https://dl.acm.org/doi/10.5555/1625275.1625420) Proceedings 2007 IEEE International Symposium on Approximate Dynamic Programming and Reinforcement Learning, 140-147.

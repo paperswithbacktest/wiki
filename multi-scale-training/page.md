@@ -83,3 +83,15 @@ Another example is in security cameras, where Multi-Scale Training helps the sys
 One future direction for Multi-Scale Training in [machine learning](/wiki/machine-learning) is to make it more efficient. Right now, using Multi-Scale Training can take a lot of time and computer power because you have to process many pictures of different sizes. Researchers are looking for ways to do this faster, maybe by using smarter ways to pick which sizes to train with or by using special computer chips that are better at handling these tasks. They also want to make Multi-Scale Training work well with other methods, like data augmentation and transfer learning, to make models even better without taking too much time.
 
 Another area of interest is to use Multi-Scale Training for new kinds of tasks. So far, it's been used a lot for things like spotting objects in pictures, but researchers are thinking about using it for other things too. For example, they might use Multi-Scale Training to help models understand videos better, where things can move in and out of view at different sizes. They're also looking at using it for tasks in other areas like medical imaging, where it could help find tiny problems in big pictures of the body. By exploring these new uses, Multi-Scale Training could help make many different kinds of technology work better.
+
+## References & Further Reading
+
+[1]: Lin, T.-Y., Dollár, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection,"](https://ieeexplore.ieee.org/document/8099589) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C.-Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector,"](https://arxiv.org/abs/1512.02325) Lecture Notes in Computer Science, vol 9905. Springer.
+
+[3]: Ren, S., He, K., Girshick, R., & Sun, J. (2016). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,"](https://ieeexplore.ieee.org/document/7485869) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[4]: Singh, B., & Davis, L. S. (2018). ["An Analysis of Scale Invariance in Object Detection – SNIP,"](https://arxiv.org/abs/1711.08189) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Singh, B., Najibi, M., & Davis, L. S. (2018). ["SNIPER: Efficient Multi-Scale Training,"](https://arxiv.org/abs/1805.09300) Advances in Neural Information Processing Systems 31.

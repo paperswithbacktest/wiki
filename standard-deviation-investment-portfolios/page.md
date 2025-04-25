@@ -1,6 +1,7 @@
 ---
-title: "Standard Deviation in Investment Portfolios"
-description: "Explore how standard deviation measures portfolio risk and aids in algo trading by quantifying volatility to optimize investment strategies efficiently."
+title: Understanding Standard Deviation And Portfolio Risk Management
+description: Standard deviation helps investors measure portfolio volatility and make
+  informed risk decisions. See how to balance risk and return Discover more inside.
 ---
 
 

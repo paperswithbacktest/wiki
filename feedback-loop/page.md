@@ -79,3 +79,15 @@ Another method is to implement ensemble learning, where multiple models work tog
 One notable case study where a feedback loop significantly impacted a machine learning project's outcome is the story of how Netflix improved its recommendation system. Netflix used a feedback loop to continuously learn from user behavior, which helped them tailor movie and TV show recommendations more accurately over time. When a user watched a show or movie, the system took note of this and used it to suggest similar content. If the user liked the recommendations and watched more of the same type, the feedback loop reinforced these suggestions, making the recommendations increasingly personalized. This positive feedback loop helped Netflix keep users engaged and satisfied, leading to higher retention rates and more satisfied customers.
 
 However, Netflix also had to be careful to avoid creating echo chambers where users only saw the same type of content. To prevent this, they introduced elements of negative feedback into their system. For example, if a user consistently skipped or disliked certain types of recommendations, the system learned to show less of that content. This balance between positive and negative feedback loops helped Netflix maintain a diverse set of recommendations while still personalizing them to individual users. As a result, Netflix's recommendation system became one of the key factors in its success, showing how well-designed feedback loops can significantly enhance the performance of a machine learning model.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT Press.
+
+[2]: Hern, A. (2018). ["How algorithms can amplify bias in machine learning."](https://digitalhumanities.org/dhq/vol/17/2/000689/000689.html) The Guardian.
+
+[3]: Domingos, P. (2015). ["The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World"](https://archive.org/details/masteralgorithmh0000domi_a3k6). Basic Books.
+
+[4]: Lüthi, B. (2019). ["Understanding the role of feedback loops in the prediction, decision-making, and learning cycles."](https://www.fmi.ch/research-groups/groupleader.html?group=35&bw=1) Forbes.
+
+[5]: ["Netflix Recommendations: Beyond the 5 stars (Part 1)"](https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429), Netflix Tech Blog.

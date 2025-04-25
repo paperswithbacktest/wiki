@@ -134,3 +134,15 @@ Another real-world application is in predicting clicks on ads. If you see an ad 
 Wide & Deep Learning is a way to make machine learning models even better by combining the strengths of Wide Models and Deep Models. Wide Models are good at remembering specific patterns in your data, like which products people often buy together. Deep Models, on the other hand, are good at understanding general patterns, like how different ingredients make a dish taste good. By putting these two types of models together, you can create a model that can both remember specific details and understand general relationships. This is really useful for things like recommending products or predicting clicks on ads, because you need to consider both specific patterns and general trends.
 
 In Wide & Deep Learning, the Wide part of the model uses a lot of different pieces of information, called features, and even combines them in special ways called feature crosses. The Deep part of the model uses layers of connected nodes to process information and learn complex relationships. When you combine these two parts, the model can make better predictions by using both the specific patterns from the Wide part and the general patterns from the Deep part. For example, if you are trying to recommend movies, the Wide part might remember that people who watched a certain movie also liked another movie, while the Deep part might understand that people who like action movies also tend to like thrillers. By using both parts together, the model can give better recommendations that consider both specific and general patterns.
+
+## References & Further Reading
+
+[1]: Cheng, H.-T., Koc, L., Harmsen, J., Shaked, T., Chandra, T., Aradhye, H., Anderson, G., Corrado, G., Chai, W., Ispir, M., Anil, R., Haque, Z., Hong, L., Jain, V., Liu, X., & Shah, H. (2016). "[Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)." Proceedings of the 1st Workshop on Deep Learning for Recommender Systems.
+
+[2]: McMahan, H. Brendan, Holt, G., Sculley, D., Young, M., Ebner, D., Grady, J., Nie, L., Phillips, T., Davydov, E., Golovin, D., Chikkerur, S., Liu, D., Wattenberg, M., Hrafnkelsson, A. M., Boulos, T., Kubica, J., & Dean T. (2013). "[Ad Click Prediction: a View from the Trenches](https://research.google.com/pubs/archive/41159.pdf)." Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (2nd ed.). Manning Publications.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press. 
+
+[5]: He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T.-S. (2017). "[Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031)." Proceedings of the 26th International Conference on World Wide Web.

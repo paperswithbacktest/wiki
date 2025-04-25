@@ -1,7 +1,7 @@
 ---
-title: Optimizing Machine Learning Models with Static Inference
-description: Static inference analyzes model structure and data before training to
-  enhance efficiency reduce resource use and save time Discover more inside
+title: Static Inference Techniques for Efficient Machine Learning
+description: Static inference improves model efficiency by predicting resource needs
+  before training to optimize pipelines and reduce compute costs Discover more inside.
 ---
 
 ![Image](images/1.jpeg)
@@ -83,3 +83,17 @@ Another area of recent development is the integration of static inference with d
 In the future, static inference is expected to become even more important in machine learning technologies. As models get bigger and more complex, like deep neural networks with many layers, static inference will help us understand how these models will work before we even start training them. This will be really helpful for saving time and making models more efficient, especially on small devices like IoT gadgets. By using tools and frameworks that can quickly analyze a model's structure, we can make smart guesses about how much memory or processing power it will need, and then make changes to make it work better.
 
 Another trend we might see is the use of static inference together with dynamic inference to make machine learning pipelines even better. Static inference will give us a starting point by predicting how a model will behave, and then dynamic inference will help us fine-tune it by looking at how it actually performs with real data. For example, if static inference suggests that a model will struggle with high-dimensional data, we can use techniques like Principal Component Analysis (PCA) to reduce the data's complexity before training. This way, we can make our models more efficient and effective, saving time and resources in the long run.
+
+## References & Further Reading
+
+[1]: Grigorescu, S., Trasnea, B., Cocias, T., & Macesanu, G. (2020). ["A Survey of Deep Learning Techniques for Autonomous Driving."](https://arxiv.org/abs/1910.07738) Journal of Field Robotics.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[6]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

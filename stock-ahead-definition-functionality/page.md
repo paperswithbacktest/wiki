@@ -1,6 +1,7 @@
 ---
-title: "Stock Ahead: Definition and Functionality"
-description: "Explore the integration of algorithmic trading in supply chains for enhanced efficiency and predictability Discover the benefits of applying algo trading in logistics"
+title: Stock Ahead Predictive Tool for Smarter Investment Decisions
+description: Stock Ahead uses news and social media analysis to predict stock trends
+  and guide buy and sell decisions with real time insights Discover more inside.
 ---
 
 

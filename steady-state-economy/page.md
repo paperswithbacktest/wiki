@@ -1,6 +1,7 @@
 ---
-title: "Steady-State Economy"
-description: "Explore the importance of sustainable economics and steady-state economies in balancing growth with ecological integrity. Discover how algorithmic trading impacts these practices."
+title: Embracing A Steady-State Economy For Sustainable Prosperity
+description: Steady-state economy balances resource use and enhances quality of life
+  by reducing waste and promoting distribution of essentials Discover more inside
 ---
 
 

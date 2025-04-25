@@ -83,3 +83,15 @@ Another technique is t-SNE (t-Distributed Stochastic Neighbor Embedding), which 
 One advanced method for dynamically adjusting the input layer is using adaptive feature selection. This means the neural network can pick which features to use based on the data it sees. For example, if the network is trying to predict house prices, it might decide that the number of rooms is more important than the age of the house for some houses, but not for others. This can be done using techniques like attention mechanisms, which let the network focus on different parts of the data at different times. By doing this, the input layer can change to fit the data better, which can help the network learn and make better predictions.
 
 Another method is using online learning, where the neural network can update itself as new data comes in. This means the input layer can be adjusted on the fly. For example, if new features become available, the network can add them to the input layer without having to start over. This is useful for things like predicting stock prices, where the data is always changing. By using online learning, the input layer can stay up to date with the latest information, which can help the network keep learning and improving over time.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. A foundational text in the field of deep learning, offering comprehensive coverage of neural networks and related technologies.
+
+[2]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media. This book provides practical techniques on building and deploying neural networks with examples in Python.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer. This book is an excellent resource for understanding machine learning models and techniques, including neural networks.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications. Authored by the creator of Keras, this book offers a hands-on introduction to deep learning with Python.
+
+[5]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444. This paper provides an overview of the field of deep learning, including a discussion on various architectures and their application domains.

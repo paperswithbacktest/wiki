@@ -1,6 +1,7 @@
 ---
-title: "Scikit-Learn (Sklearn) Guide"
-description: Explore the effective use of Scikit-Learn in algorithmic trading to gain a competitive edge in financial markets. This article investigates into the application of machine learning models, showcasing how traders can leverage Sklearn's tools for data preprocessing, model selection, and evaluation. Suitable for both novice and seasoned traders, Sklearn's user-friendly API and comprehensive suite of algorithms facilitate the construction of sophisticated, data-driven trading strategies, enabling informed decision-making and optimized trading performance.
+title: Comprehensive Guide to Scikit-Learn for Python Machine Learning
+description: Scikit-Learn offers tools for Python data preprocessing model building
+  evaluation and production deployment with clear workflows Discover more inside.
 ---
 
 

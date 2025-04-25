@@ -1,6 +1,7 @@
 ---
-title: "Sterilization in Foreign Exchange Markets"
-description: "Discover how foreign exchange sterilization and algorithmic trading impact global forex markets and learn central bank strategies for economic stability."
+title: Understanding Foreign Exchange Sterilization by Central Banks
+description: Foreign exchange sterilization helps central banks control money supply
+  during currency interventions and maintain economic stability Discover more inside
 ---
 
 

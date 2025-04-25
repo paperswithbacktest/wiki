@@ -84,3 +84,17 @@ Another important thing is figuring out how well your VAE is doing, which is cal
 Future developments in Variational Autoencoders (VAEs) could make a big difference in drug discovery. Right now, VAEs help scientists create new molecules by learning from the structures of known ones. If VAEs get better at understanding and making these structures, they could find new medicines faster. For example, if VAEs can learn to make molecules that work well with specific proteins in the body, they could help design drugs that are more effective and have fewer side effects. By making the secret code space more detailed and accurate, future VAEs might also be able to predict how new drugs will behave in the body, speeding up the testing process.
 
 In personalized medicine, VAEs could become even more useful if they get better at handling complex data like genetic information. Right now, VAEs help doctors understand patterns in patient data to tailor treatments to individuals. If VAEs can learn to include more types of data, like lifestyle and environmental factors, they could help create treatment plans that are even more personalized. By improving how VAEs turn data into a secret code and back again, doctors might be able to predict how a patient will respond to different treatments, making healthcare more effective and personalized.
+
+## References & Further Reading
+
+[1]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[2]: Doersch, C. (2016). ["Tutorial on Variational Autoencoders."](https://arxiv.org/abs/1606.05908) arXiv preprint arXiv:1606.05908.
+
+[3]: Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot-Xavier, M., Botvinick, M., ... & Lerchner, A. (2017). ["beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework."](https://openreview.net/forum?id=Sy2fzU9gl) International Conference on Learning Representations.
+
+[4]: Sohn, K., Lee, H., & Yan, X. (2015). ["Learning Structured Output Representation using Deep Conditional Generative Models."](https://proceedings.neurips.cc/paper/2015/file/8d55a249e6baa5c06772297520da2051-Paper.pdf) Advances in Neural Information Processing Systems.
+
+[5]: Chen, X., Kingma, D. P., Salimans, T., Duan, Y., Dhariwal, P., Schulman, J., ... & Abbeel, P. (2016). ["Variational Lossy Autoencoder."](https://arxiv.org/abs/1611.02731) arXiv preprint arXiv:1611.02731.
+
+[6]: Razavi, A., van den Oord, A., & Vinyals, O. (2019). ["Generating Diverse High-Fidelity Images with VQ-VAE-2."](https://arxiv.org/abs/1906.00446) Advances in Neural Information Processing Systems.

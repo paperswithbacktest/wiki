@@ -1,7 +1,7 @@
 ---
-title: Optimizing Machine Learning with Sparse Vector Representations
-description: Sparse vector methods cut memory and boost compute speed in high-dimensional
-  machine learning by focusing on non-zero elements Discover more inside
+title: Efficient Use Of Sparse Vectors In Machine Learning Models
+description: Sparse vectors boost memory efficiency and speed up computations in high
+  dimensional data tasks from NLP to recommender systems Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -153,3 +153,15 @@ However, using sparse vectors in deep learning can also present some challenges.
 One advanced technique for optimizing machine learning algorithms with sparse vectors is using sparse coding. Sparse coding aims to represent data as a linear combination of a few basis vectors, which helps in reducing the dimensionality of the data while preserving important features. This can be particularly useful in tasks like image processing or natural language processing, where you want to find a compact representation of your data. By focusing on the non-zero elements, sparse coding can make your algorithms run faster and use less memory, which is crucial for large-scale machine learning tasks.
 
 Another technique is using L1 regularization, also known as Lasso. L1 regularization adds a penalty term to the loss function that encourages the model to set some feature weights to zero. This helps in feature selection by identifying and keeping only the most important features. For example, if you have a model with many features but only a few of them are truly predictive, L1 regularization can help you find those important features and ignore the rest, resulting in a simpler and more efficient model. This technique is especially useful when working with sparse vectors because it naturally aligns with the idea of focusing on the non-zero elements.
+
+## References & Further Reading
+
+[1]: Olshausen, B. A., & Field, D. J. (2004). ["Sparse coding of sensory inputs."](https://pubmed.ncbi.nlm.nih.gov/15321069/)00099-6) Neuron, 46(2), 333-346.
+
+[2]: Jurafsky, D., & Martin, J. H. (2020). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition."](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) Draft of 3rd Edition.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Aggarwal, C. C. (2018). ["Neural Networks and Deep Learning: A Textbook."](https://link.springer.com/book/10.1007/978-3-031-29642-0) Springer.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

@@ -200,3 +200,15 @@ Another important feature is the ability to handle large datasets efficiently. t
 To monitor and debug a tf.data pipeline, you can use the `take` method to look at a few elements of your dataset. This helps you see if the data is being read and processed correctly. For example, if you use `dataset.take(5)`, you can see the first five elements of your dataset. This is a simple way to check if your data looks right. You can also use the `tf.data.experimental.get_single_element` function to get one element from the dataset and check it in detail. This can help you find problems with how the data is being transformed or batched.
 
 Another useful tool for debugging is the `tf.data.Dataset.element_spec` property. This tells you the structure of the elements in your dataset, which can help you understand what kind of data you're working with. If something in your pipeline isn't working as expected, you can use this to make sure the data is in the right format. Additionally, you can use TensorFlow's built-in logging and profiling tools to track how your data pipeline is performing. This can help you find bottlenecks and optimize your pipeline for better performance.
+
+## References & Further Reading
+
+[1]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) In 12th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 16).
+
+[2]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron
+
+[3]: TensorFlow Core. (2023). ["tf.data: Build TensorFlow input pipelines."](https://www.tensorflow.org/guide/data) [Online Guide]
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) by François Chollet
+
+[5]: Gulli, A., & Pal, S. (2017). ["Deep Learning with Keras."](https://books.google.com/books/about/Deep_Learning_with_Keras.html?id=20EwDwAAQBAJ) [E-book]

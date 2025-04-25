@@ -85,3 +85,17 @@ Another technique is to incorporate contextual information into the Collaborativ
 One popular real-world application of Collaborative Filtering is in streaming services like Netflix. When you watch movies or shows on Netflix, the system looks at what other people who watched the same things as you also enjoyed. For example, if you and another person both loved the same three movies, Netflix might suggest other movies that the other person liked. This helps Netflix recommend new shows and movies that you're likely to enjoy, even if you've never heard of them before. It's like getting movie recommendations from a friend who has similar tastes to you.
 
 Another common use of Collaborative Filtering is in online shopping platforms like Amazon. When you buy or rate items on Amazon, the system uses this information to suggest other products you might like. If you bought a certain book, Amazon might show you other books that people who bought the same book also enjoyed. This helps you discover new products that fit your interests, making your shopping experience more personalized and enjoyable. It's all about finding patterns in what people enjoy together, without needing to know anything about the products themselves.
+
+## References & Further Reading
+
+[1]: Koren, Y., Bell, R., & Volinsky, C. (2009). ["Matrix Factorization Techniques for Recommender Systems."](https://ieeexplore.ieee.org/abstract/document/5197422) Computer, 42(8), 30-37.
+
+[2]: Sarwar, B., Karypis, G., Konstan, J., & Riedl, J. (2001). ["Item-based Collaborative Filtering Recommendation Algorithms."](https://dl.acm.org/doi/10.1145/371920.372071) Proceedings of the 10th International Conference on World Wide Web.
+
+[3]: Su, X., & Khoshgoftaar, T. M. (2009). ["A Survey of Collaborative Filtering Techniques."](https://onlinelibrary.wiley.com/doi/10.1155/2009/421425) Advances in Artificial Intelligence.
+
+[4]: Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994). ["GroupLens: An Open Architecture for Collaborative Filtering of Netnews."](https://dl.acm.org/doi/10.1145/192844.192905) Proceedings of the 1994 ACM Conference on Computer Supported Cooperative Work.
+
+[5]: Ricci, F., Rokach, L., & Shapira, B. (2011). ["Introduction to Recommender Systems Handbook."](https://www.researchgate.net/publication/227268858_Recommender_Systems_Handbook) In Recommender Systems Handbook.
+
+[6]: Bell, R. M., & Koren, Y. (2007). ["Lessons from the Netflix Prize Challenge."](https://dl.acm.org/doi/10.1145/1345448.1345465) ACM SIGKDD Explorations Newsletter, 9(2), 75-79.

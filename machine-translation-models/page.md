@@ -81,3 +81,19 @@ Another challenge is that the model has to keep the translations accurate and na
 State-of-the-art models like Transformer and BERT have made a big difference in machine translation by making translations more accurate and natural-sounding. The Transformer model uses a special way of understanding sentences called self-attention. This helps the model see how all the words in a sentence relate to each other, not just the words next to each other. By doing this, the Transformer can make better translations because it understands the whole sentence at once. BERT, on the other hand, is great at understanding the context of words. It can tell what a word means based on the words around it, which is really helpful for translating languages where the meaning can change depending on the context.
 
 These models have changed the field of machine translation by making it easier to handle different languages and long sentences. They can learn from huge amounts of data and keep getting better over time. This means that translations are not only more accurate but also sound more like something a person would say. As a result, people can communicate and share information across languages more easily. The use of Transformer and BERT has shown that machine translation can keep getting better, helping to break down language barriers around the world.
+
+## References & Further Reading
+
+[1]: Bahdanau, D., Cho, K., & Bengio, Y. (2015). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Proceedings of the 31st International Conference on Neural Information Processing Systems.
+
+[3]: Cho, K., Van Merriënboer, B., Bahdanau, D., & Bengio, Y. (2014). ["On the Properties of Neural Machine Translation: Encoder-Decoder Approaches."](https://arxiv.org/abs/1409.1259) arXiv preprint arXiv:1409.1259.
+
+[4]: Koehn, P. (2009). ["Statistical Machine Translation."](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5) Cambridge University Press.
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[6]: Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., ... & Dean, J. (2016). ["Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation."](https://arxiv.org/abs/1609.08144) arXiv preprint arXiv:1609.08144.
+
+[7]: Arivazhagan, N., Bapna, A., Firat, O., Aharoni, R., Johnson, M., & Macherey, W. (2019). ["Massively Multilingual Neural Machine Translation in the Wild: Findings and Challenges."](https://arxiv.org/abs/1907.05019) arXiv preprint arXiv:1907.05019.

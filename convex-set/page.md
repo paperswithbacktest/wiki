@@ -81,3 +81,19 @@ Stochastic gradient descent (SGD) with [momentum](/wiki/momentum) is another adv
 Recent research in [deep learning](/wiki/deep-learning) has found new ways to use convex sets to make models work better. One way is by using convex optimization to help train neural networks. Deep learning models often have lots of layers and parameters, which can make them hard to train because the optimization problem is not convex. But researchers have found that by breaking down the problem into smaller, convex parts, they can use convex optimization techniques to make training faster and more reliable. For example, some methods use a convex surrogate loss function, like $$ L(y, \hat{y}) = (y - \hat{y})^2 $$, to help guide the training process. This can help the model learn better and avoid getting stuck at local minimums.
 
 Another way researchers are using convex sets is to improve the robustness of deep learning models. By adding constraints that form convex sets, they can make sure the model stays within a safe space during training. This can help the model be more stable and less likely to make big mistakes. For example, some methods add a convex regularization term to the loss function to keep the model's parameters from getting too big or too small. This can help the model generalize better to new data and be more reliable in real-world situations. By using convex sets in these ways, researchers are finding new ways to make deep learning models more powerful and easier to train.
+
+## References & Further Reading
+
+[1]: Boyd, S., & Vandenberghe, L. (2004). ["Convex Optimization."](https://web.stanford.edu/~boyd/cvxbook/) Cambridge University Press.
+
+[2]: Nesterov, Y. (2004). ["Introductory Lectures on Convex Optimization: A Basic Course."](https://link.springer.com/book/10.1007/978-1-4419-8853-9) Kluwer Academic Publishers.
+
+[3]: Shalev-Shwartz, S., & Ben-David, S. (2014). ["Understanding Machine Learning: From Theory to Algorithms."](https://assets.cambridge.org/97811070/57135/frontmatter/9781107057135_frontmatter.pdf) Cambridge University Press.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer. 
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[6]: Mangasarian, O. L. (1994). ["Nonlinear Programming."](https://epubs.siam.org/doi/book/10.1137/1.9781611971255) McGraw-Hill. 
+
+[7]: Bubeck, S. (2015). ["Convex Optimization: Algorithms and Complexity."](https://arxiv.org/abs/1405.4980) Foundations and Trends® in Machine Learning, 8(3-4), 231–357.

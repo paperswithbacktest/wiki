@@ -81,3 +81,15 @@ Another way to evaluate a tokenizer is by looking at how it affects the performa
 Recent advancements in tokenizer technology have focused on improving how tokenizers handle different languages and new words. One big advancement is the development of multilingual tokenizers like SentencePiece. These tokenizers can work with many languages without needing to know where words start and end. This makes them very useful for tasks like machine translation, where you need to understand text in different languages. Another important advancement is the use of subword tokenization, which breaks down words into smaller pieces. This helps tokenizers deal with new words better because they can use the smaller pieces they already know.
 
 Another advancement is the use of more advanced algorithms to find the best way to split words into tokens. These algorithms can look at a large amount of text and decide the best way to break it down. This helps make the tokenization process more accurate and efficient. For example, some tokenizers now use machine learning to learn how to split words based on patterns they see in the text. This can make the tokenizer better at handling complex or rare words. Overall, these advancements help make tokenizers more flexible and effective for a wide range of NLP tasks.
+
+## References & Further Reading
+
+[1]: Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., ... & Dean, J. (2016). ["Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation."](https://arxiv.org/abs/1609.08144) arXiv preprint arXiv:1609.08144.
+
+[2]: Kudo, T. & Richardson, J. (2018). ["SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing."](https://arxiv.org/abs/1808.06226) arXiv preprint arXiv:1808.06226.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is all you need."](https://arxiv.org/abs/1706.03762) Advances in neural information processing systems.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[5]: Sennrich, R., Haddow, B., & Birch, A. (2015). ["Neural Machine Translation of Rare Words with Subword Units."](https://aclanthology.org/P16-1162/) arXiv preprint arXiv:1508.07909.

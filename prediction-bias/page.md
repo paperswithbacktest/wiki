@@ -81,3 +81,17 @@ Another advanced technique is using fairness constraints in the model's training
 Data scientists have a big responsibility to make sure their models are fair and don't have prediction bias. This means they need to think about how their models might affect different groups of people. For example, if a model for approving loans is biased against certain races, it could make life harder for those groups. Data scientists need to check their data and models carefully to find and fix any biases. They should use fairness metrics to see if the model is treating everyone the same and adjust the model if it's not. This helps make sure the model's guesses are fair and accurate for everyone.
 
 Ethical considerations are also important when managing prediction bias. Data scientists should think about the impact of their work on society and try to make models that help everyone, not just certain groups. If a model is biased, it can lead to unfair decisions that hurt people. Data scientists need to be open about how they build their models and what data they use, so others can check their work. By being honest and careful, data scientists can help create models that are fair and good for everyone.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Bias."](https://mitpress.mit.edu/9780262048613/fairness-and-machine-learning/) In Fairness and Machine Learning. 
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys (CSUR), 54(6), 1-35.
+
+[3]: Tolan, S., Miron, M., Gomez, E., & Castillo, C. (2019). ["Why Machine Learning May Lead to Unfairness: Evidence from Risk Assessment for Child Maltreatment."](https://chato.cl/papers/miron_tolan_gomez_castillo_2019_machine_learning_risk_assessment_savry.pdf) FAT* '19: Proceedings of the Conference on Fairness, Accountability, and Transparency, 1-12.
+
+[4]: Chouldechova, A. (2017). ["Fair prediction with disparate impact: A study of bias in recidivism prediction instruments."](https://pubmed.ncbi.nlm.nih.gov/28632438/) Big Data, 5(2), 153-163.
+
+[5]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) Proceedings of the 1st Conference on Fairness, Accountability and Transparency, 77-91.
+
+[6]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) Journal of Machine Learning Research, 68:1-23.

@@ -1,6 +1,7 @@
 ---
-title: "Survivor Bonds"
-description: "Explore survivor bonds and their role in hedging longevity risk, emphasized with the advancements in algorithmic trading for efficient management in complex markets."
+title: Comprehensive Guide to Survivor Bonds Benefits and Risks
+description: Survivor Bonds provide families support when a loved one passes away
+  by returning investment with interest to help cover expenses Discover more inside
 ---
 
 

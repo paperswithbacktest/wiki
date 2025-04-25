@@ -81,3 +81,19 @@ However, real-world data often doesn't perfectly follow the I.I.D. assumption. F
 When data doesn't follow the I.I.D. assumption, machine learning models need special techniques to handle it well. For example, if the data isn't independent, like in time series data where today's value depends on yesterday's, models like recurrent neural networks (RNNs) or Long Short-Term Memory (LSTM) networks can be used. These models remember past data points, so they can learn from the patterns over time. Another technique is to use models that can handle dependencies, such as autoregressive models, which predict future values based on past observations.
 
 If the data isn't identically distributed, like if you're trying to predict house prices in different cities, techniques like domain adaptation can be helpful. Domain adaptation involves adjusting the model to work well on different types of data by learning how to shift from one distribution to another. For example, a model might learn how house prices in one city relate to prices in another, even if the distributions are different. By using these advanced techniques, models can make better predictions by understanding the unique challenges of non-I.I.D. data.
+
+## References & Further Reading
+
+[1]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[2]: Shalev-Shwartz, S., & Ben-David, S. (2014). ["Understanding Machine Learning: From Theory to Algorithms"](https://assets.cambridge.org/97811070/57135/frontmatter/9781107057135_frontmatter.pdf) Cambridge University Press.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. 
+
+[6]: Vapnik, V. N. (1998). ["Statistical Learning Theory"](https://link.springer.com/book/10.1007/978-1-4757-3264-1) Wiley-Interscience.
+
+[7]: Devroye, L., Györfi, L., & Lugosi, G. (1996). ["A Probabilistic Theory of Pattern Recognition"](https://link.springer.com/book/10.1007/978-1-4612-0711-5) Springer.

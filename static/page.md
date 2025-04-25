@@ -1,7 +1,7 @@
 ---
 title: Understanding Static Machine Learning Models and Applications
-description: Static machine learning models use fixed datasets for reliable predictions
-  without updates we cover benefits and applications Discover more inside
+description: Static machine learning models deliver reliable predictions on fixed
+  datasets to simplify deployment and cut maintenance overhead. Discover more inside
 ---
 
 ![Image](images/1.jpeg)
@@ -81,3 +81,15 @@ On the other hand, if you use too many features, the model can get overwhelmed a
 To optimize static machine learning models, one advanced technique is called hyperparameter tuning. Hyperparameters are settings that you choose before you start training the model, like the learning rate or the number of layers in a neural network. By trying different values for these hyperparameters, you can find the best ones that make the model work better. This can be done using methods like grid search, where you test every possible combination of hyperparameters, or random search, where you try random combinations. Another method is cross-validation, where you split your data into different parts and train the model multiple times to see how well it works on different pieces of data. This helps you make sure the model isn't just memorizing the training data but can work well on new data too.
 
 Another technique is feature engineering, which involves creating new features or changing existing ones to help the model learn better. For example, if you're predicting house prices, you might create a new feature that combines the size of the house and the number of bedrooms into one number. This can help the model see patterns it might miss otherwise. You can also use dimensionality reduction techniques like Principal Component Analysis (PCA) to simplify your data by keeping only the most important features. This can make the model easier to train and less likely to overfit. To check how well the model is doing after using these techniques, you can use accuracy, which is calculated as $$ \text{Accuracy} = \frac{\text{Number of correct predictions}}{\text{Total number of predictions}} $$. If the accuracy goes up, it means your optimizations are working.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Mitchell, T. M. (1997). ["Machine Learning"](https://www.cs.cmu.edu/~tom/mlbook.html). McGraw Hill.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.

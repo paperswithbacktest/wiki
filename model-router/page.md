@@ -79,3 +79,15 @@ To make sure the Model Router always uses the best model, it might use a system 
 In the future, we can expect Model Routers to become even smarter and more efficient. They might use advanced machine learning techniques, like [deep learning](/wiki/deep-learning), to make better decisions about which model to use. This could mean that Model Routers can learn from the data they process and get better over time. They might also start using more complex algorithms to handle different types of data and tasks, making the whole system more flexible and able to adapt to new situations.
 
 Another development we might see is Model Routers working more closely with other parts of the machine learning pipeline. They could be integrated with systems that manage data, models, and even hardware resources, to make the entire process smoother and faster. This could lead to Model Routers that not only choose the best model but also help manage the load on the system, ensuring that everything runs as efficiently as possible. As technology keeps improving, Model Routers will likely play a bigger role in making machine learning systems more powerful and easier to use.
+
+## References & Further Reading
+
+[1]: Bertsimas, D., & Kallus, N. (2014). ["From Predictive to Prescriptive Analytics."](https://arxiv.org/abs/1402.5481) Management Science, 60(6), 1534-1559.
+
+[2]: Schuster, S.C. (2008). ["Next-generation sequencing transforms today's biology."](https://pubmed.ncbi.nlm.nih.gov/18165802/) Nature methods, 5(1), 16-18.
+
+[3]: Quinlan, J.R. (1993). ["C4.5: Programs for Machine Learning."](https://link.springer.com/article/10.1007/BF00993309) Morgan Kaufmann.
+
+[4]: Amatriain, X., & Basilico, J. (2015). ["Recommender systems in industry: A Netflix case study."](https://link.springer.com/chapter/10.1007/978-1-4899-7637-6_11) In: Recommender Systems Handbook. Springer, Boston, MA.
+
+[5]: Bertsekas, D.P. (2019). ["Reinforcement Learning and Optimal Control."](https://faculty.engineering.asu.edu/bertsekas/books/reinforcement-learning-and-optimal-control/) Athena Scientific.

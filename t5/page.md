@@ -82,3 +82,15 @@ To make T5 work well with multiple languages, it's trained on a lot of text from
 Since T5 was made, other models have been built that take ideas from it and make them better. One big advancement is the mT5 model, which is made to work even better with many different languages. mT5 is trained on a lot more text from different languages than T5, so it can understand and work with more languages. This makes mT5 really good at tasks like translating between languages that T5 might not be as good at.
 
 Another model that builds on T5 is the FLAN-T5 model. FLAN-T5 is trained not just on predicting the next word in text, but also on following instructions better. This means FLAN-T5 can understand what you want it to do more easily. For example, if you tell FLAN-T5 to summarize a long article, it can do that better than T5 because it's been trained to follow those kinds of instructions more closely. These new models show how the ideas from T5 can be used to make even better language tools.
+
+## References & Further Reading
+
+[1]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[3]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) NAACL-HLT.
+
+[5]: Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., Stoyanov, V., & Zettlemoyer, L. (2020). ["BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension."](https://aclanthology.org/2020.acl-main.703/) Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.

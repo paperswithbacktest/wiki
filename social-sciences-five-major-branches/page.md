@@ -1,6 +1,7 @@
 ---
-title: "Social Sciences and Their Five Major Branches"
-description: "Explore the intersection of social sciences and algorithmic trading Discover how sociology psychology economics political science and anthropology enhance trading strategies"
+title: Comprehensive Guide to Social Sciences and Their Key Disciplines
+description: Social Sciences reveal how sociology psychology economics political science
+  and anthropology shape social behavior and guide decisions Discover more inside
 ---
 
 

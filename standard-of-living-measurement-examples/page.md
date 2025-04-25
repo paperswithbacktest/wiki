@@ -1,6 +1,7 @@
 ---
-title: "Standard of Living Measurement and Examples"
-description: "Explore how economic indicators and algorithmic trading impact living standards. Understand the role of GDP, inflation, and unemployment in shaping economic strategies."
+title: Measuring Standard of Living Indicators and Global Trends
+description: Standard of living measures comfort wealth and access to healthcare education
+  and income using GDP per capita HDI Gini and more Discover more inside.
 ---
 
 

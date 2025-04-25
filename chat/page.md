@@ -83,3 +83,21 @@ This method saves a lot of time and effort because you don't have to start from 
 In the future, chat machine learning will get even better at understanding and talking like humans. One big trend will be making models that can understand more than just text. They will be able to use voice, pictures, and even videos to have more natural conversations. This means you might be able to show a picture to a chat system and ask about it, and the system will understand and answer you correctly. Another trend is making chat systems more personalized. They will learn about you over time and give answers that fit your interests and needs better. This will make talking to chat systems feel more like talking to a friend who knows you well.
 
 Another important trend is making chat machine learning systems safer and more ethical. As these systems get better, people will want to make sure they are fair and do not harm anyone. This means working on ways to remove bias from the data the systems learn from, so they treat everyone the same. Also, keeping your information private will be a big focus. Companies will need to make sure that what you say to a chat system stays safe and is not used in ways you don't want. By working on these things, chat machine learning will become a tool that helps people in many ways, while also being fair and respectful.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[2]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[5]: Lecun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[7]: Pennington, J., Socher, R., & Manning, C. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing.
+
+[8]: ["Deep Learning with Python"](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/) by François Chollet.

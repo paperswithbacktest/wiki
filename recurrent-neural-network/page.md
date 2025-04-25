@@ -81,3 +81,21 @@ Bidirectional RNNs are useful in tasks where understanding the whole sequence is
 Sequence-to-sequence models, often called seq2seq models, are a type of advanced architecture that use RNNs to translate one sequence into another. Imagine you want to translate a sentence from English to French. A seq2seq model has two main parts: an encoder and a decoder. The encoder reads the English sentence and turns it into a special form called a context vector. This vector is like a summary of the whole sentence. The decoder then uses this vector to create the French translation, one word at a time. The cool thing about seq2seq models is that they can handle sentences of different lengths, making them really useful for tasks like language translation or even summarizing long texts.
 
 Another advanced architecture that builds on RNNs is the attention mechanism, which helps the model focus on the most important parts of the input sequence when making predictions. Think of it like reading a long document and wanting to find the key points quickly. The attention mechanism lets the model pay more attention to certain words or parts of the sequence that are more relevant to the task at hand. This is especially helpful in tasks like machine translation, where understanding the context of specific words can make a big difference in the quality of the translation. By using attention, models can perform better and handle longer sequences more effectively.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[2]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[3]: Cho, K., et al. (2014). ["Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation."](https://arxiv.org/abs/1406.1078) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1724-1734.
+
+[4]: Bengio, Y., Simard, P., & Frasconi, P. (1994). ["Learning long-term dependencies with gradient descent is difficult."](https://ieeexplore.ieee.org/document/279181) IEEE Transactions on Neural Networks, 5(2), 157-166.
+
+[5]: Vaswani, A., et al. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems, 30.
+
+[6]: Chung, J., et al. (2014). ["Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling."](https://arxiv.org/abs/1412.3555) arXiv:1412.3555.
+
+[7]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Synthesis Lectures on Human Language Technologies, 37, 1-309. 
+
+[8]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521, 436-444.

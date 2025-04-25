@@ -81,3 +81,17 @@ Another advancement is in how results are ranked. Deep learning models can learn
 Information Retrieval methods can be integrated into larger machine learning systems to make them work better. For example, when you use a search engine, it uses Information Retrieval to find the best results for your query. By adding machine learning, the system can learn from what people click on and improve its search results over time. This is called relevance feedback. The machine learning part can also help understand the meaning behind words and phrases, making the search more accurate. For instance, if you search for "apple," the system can figure out if you mean the fruit or the company based on other words you use or your past searches.
 
 Another way to integrate Information Retrieval with machine learning is by using deep learning models to rank results. These models can learn to put the most relevant results at the top of the list. They do this by using a formula like $$ \text{Score} = \alpha \times \text{Relevance} + \beta \times \text{Popularity} $$, where the system adjusts the values of $\alpha$ and $\beta$ to get the best results. This makes the search faster and more useful for everyone. By combining Information Retrieval with machine learning, systems can become smarter and better at finding what you need.
+
+## References & Further Reading
+
+[1]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[2]: Mitra, B., & Craswell, N. (2018). ["An Introduction to Neural Information Retrieval."](https://ieeexplore.ieee.org/document/8620670) Foundations and Trends in Information Retrieval.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[5]: Li, C., Liu, J., & Wang, X. (2014). ["Learning to Rank for Information Retrieval: A Classification Approach."](https://ieeexplore.ieee.org/abstract/document/8186875) Proceedings of the 23rd International Conference on World Wide Web.
+
+[6]: Robertson, S., & Zaragoza, H. (2009). ["The Probabilistic Relevance Framework: BM25 and Beyond."](https://dl.acm.org/doi/10.1561/1500000019) Foundations and Trends in Information Retrieval.

@@ -81,3 +81,17 @@ One way to balance exploration and exploitation is by using methods like epsilon
 Current research in exploration strategies for machine learning is focused on making algorithms smarter and more efficient. One big trend is using [deep learning](/wiki/deep-learning) to help with exploration. Deep learning can help models learn more about the environment by finding patterns and making better guesses about what might happen next. Another trend is using methods like curiosity-driven exploration, where the model tries new things because it wants to learn more about the world. This can help the model explore in a more natural way, like how a curious person might explore a new place. Researchers are also looking at how to use less data to learn more, which is important for real-world applications where data might be hard to get.
 
 Future directions in exploration strategies are exciting and aim to solve big problems. One direction is improving how models can learn from other models or from human feedback. This could help models explore more effectively by using what others have learned. Another direction is making exploration strategies work better in complex environments, like in robotics or self-driving cars, where the world is always changing. Researchers are also working on making exploration more personalized, so models can learn in a way that fits each user's needs. By focusing on these areas, the future of exploration in machine learning looks promising, with the potential to create smarter and more adaptable models.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction, 2nd Edition."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Silver, D., Sutton, R. S., & Müller, M. (2008). ["Sample-based Learning and Search with Permanent and Transient Memories."](https://dl.acm.org/doi/10.1145/1390156.1390278) Proceedings of the 23rd AAAI Conference on Artificial Intelligence.
+
+[3]: Bellemare, M. G., Dabney, W., & Munos, R. (2017). ["A Distributional Perspective on Reinforcement Learning."](https://arxiv.org/abs/1707.06887) Proceedings of the 34th International Conference on Machine Learning.
+
+[4]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[5]: Auer, P., Cesa-Bianchi, N., & Fischer, P. (2002). ["Finite-time Analysis of the Multiarmed Bandit Problem."](https://link.springer.com/article/10.1023/A:1013689704352) Machine Learning, 47, 235-256.
+
+[6]: Schwartz, E., & Desjardins, G. (2017). ["Generalized Exploration in Policy Gradient Algorithms."](https://web.stanford.edu/~ashlearn/RLForFinanceBook/PolicyGradient.pdf) arXiv preprint arXiv:1710.07100.

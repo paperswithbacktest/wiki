@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Long-Term Investing Success"
-description: "Discover effective long-term investment strategies including diversification and asset allocation enhanced by algorithmic trading to achieve financial success."
+title: Long-Term Investing Strategies For Sustainable Wealth Growth
+description: Long-term investing helps you build wealth with strategies like diversification,
+  dollar cost averaging and tax advantages Discover more inside.
 ---
 
 

@@ -79,3 +79,19 @@ One way temporal convolutions handle long-range dependencies is by using somethi
 One advanced technique for optimizing temporal convolutions is using dilated convolutions. Dilated convolutions help the model see patterns over long periods of time without using too many layers. Imagine you're looking at a long sequence of numbers, and you want to see patterns that are far apart. Dilated convolutions do this by skipping some time steps when applying the filter, which is called dilation. If the dilation rate is 1, the filter looks at every time step. If it's 2, it skips every other time step. This can be described mathematically as $$ (f * g)(t) = \sum_{\tau} f(\tau) g(t - d \cdot \tau) $$, where $d$ is the dilation rate. By increasing the dilation rate, the model can see further into the past without making the model too big or slow, making it more efficient and better at understanding long-range dependencies.
 
 Another technique is using gated convolutions. Gated convolutions help the model decide what information is important and what can be ignored. Imagine you're listening to a noisy room, and you want to focus on one person talking. Gating is like turning down the volume on everything else so you can hear that person better. In a gated convolution, the network uses two filters: one to process the data and another to decide how much of that processed data to use. This can be described mathematically as $$ y = \sigma(g) \odot f(x) $$, where $f(x)$ is the filter output, $g$ is the gate, $\sigma$ is the sigmoid function, and $\odot$ is element-wise multiplication. By using this method, the model can better understand complex patterns in the data, like in audio or text, and make better predictions, improving its performance.
+
+## References & Further Reading
+
+[1]: Bai, S., Kolter, Z., & Koltun, V. (2018). ["An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling."](https://arxiv.org/abs/1803.01271) arXiv preprint arXiv:1803.01271.
+
+[2]: Oord, A. v. d., Dieleman, S., Zen, H., Simonyan, K., Vinyals, O., Graves, A., ... & Kavukcuoglu, K. (2016). ["WaveNet: A Generative Model for Raw Audio."](https://arxiv.org/abs/1609.03499) arXiv preprint arXiv:1609.03499.
+
+[3]: Yu, F., & Koltun, V. (2015). ["Multi-Scale Context Aggregation by Dilated Convolutions."](https://arxiv.org/abs/1511.07122) arXiv preprint arXiv:1511.07122.
+
+[4]: Dauphin, Y. N., Fan, A., Auli, M., & Grangier, D. (2017). ["Language Modeling with Gated Convolutional Networks."](https://arxiv.org/abs/1612.08083) arXiv preprint arXiv:1612.08083.
+
+[5]: Gehring, J., Auli, M., Grangier, D., Yarats, D., & Dauphin, Y. N. (2017). ["Convolutional Sequence to Sequence Learning."](https://arxiv.org/abs/1705.03122) arXiv preprint arXiv:1705.03122.
+
+[6]: Pariente, M., Cornell, S., Defossez, A., & Vincent, E. (2020). ["Filterbank design for end-to-end speech separation."](https://arxiv.org/abs/1910.10400) arXiv preprint arXiv:2008.04259.
+
+[7]: Wu, F., Fan, A., Baevski, A., Dauphin, Y. A., & Auli, M. (2019). ["Pay Less Attention with Lightweight and Dynamic Convolutions."](https://arxiv.org/abs/1901.10430) arXiv preprint arXiv:1901.10430.

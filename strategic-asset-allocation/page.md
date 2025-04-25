@@ -1,6 +1,7 @@
 ---
-title: "Strategic Asset Allocation"
-description: "Explore strategic asset allocation and algorithmic trading to optimize portfolio performance. Learn how AI enhances investment strategies and risk management."
+title: Strategic Asset Allocation for Long-Term Investment Success
+description: Strategic asset allocation balances risk and reward in stocks bonds and
+  cash to drive long-term portfolio growth while diversifying Discover more inside
 ---
 
 

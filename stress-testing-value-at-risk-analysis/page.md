@@ -1,6 +1,7 @@
 ---
-title: "Stress Testing and Value at Risk Analysis"
-description: "Explore how Value at Risk and stress testing work together in algorithmic trading to enhance risk management by estimating potential losses and preparing for market extremes."
+title: Stress Testing and Value at Risk in Financial Risk Management
+description: Stress testing and Value at Risk help banks identify vulnerabilities
+  and estimate losses under adverse scenarios for stability Discover more inside.
 ---
 
 

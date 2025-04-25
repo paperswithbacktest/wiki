@@ -142,3 +142,15 @@ Another trend is improving temporal augmentation, where the timing of the video 
 To get the best results from video data augmentation in a machine learning pipeline, you need to add it in a way that helps the model learn better without making things too complicated. Start by figuring out what kind of videos your model will see in real life and what kinds of changes might happen, like different lighting or camera angles. Then, choose augmentation techniques that match these changes, like flipping videos, adjusting brightness, or even speeding up or slowing down the video. You can use libraries like OpenCV or PyTorch to do this. For example, with OpenCV, you can read each frame of a video, flip it, and then write it to a new video file. With PyTorch, you can set up a series of transformations that get applied to each frame on-the-fly during training. This way, the model sees different versions of the same action, which helps it learn to recognize actions no matter how the video looks.
 
 Once you have your augmentation techniques, you need to test them to see if they make the model better. You can do this by comparing the model's performance before and after using the augmentations. Look at measures like accuracy, precision, and recall to see if the model is getting better at recognizing actions. You can also use cross-validation, where you split your video data into different groups and train your model on some while testing it on others. If the model's performance improves with each round of cross-validation after using the augmentation techniques, that's a good sign. By carefully choosing and testing your augmentation strategies, you can make sure they are helping your model learn better and perform well on real-world videos.
+
+## References & Further Reading
+
+[1]: Perez, L., & Wang, J. (2017). ["The Effectiveness of Data Augmentation in Image Classification using Deep Learning."](https://arxiv.org/abs/1712.04621) arXiv preprint arXiv:1712.04621.
+
+[2]: Shorten, C., & Khoshgoftaar, T. M. (2019). ["A survey on Image Data Augmentation for Deep Learning."](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0) Journal of Big Data, 6(1), 1-48.
+
+[3]: Simonyan, K., & Zisserman, A. (2014). ["Two-Stream Convolutional Networks for Action Recognition in Videos."](https://dl.acm.org/doi/10.5555/2968826.2968890) Advances in Neural Information Processing Systems 27.
+
+[4]: Tran, D., Bourdev, L., Fergus, R., Torresani, L., & Paluri, M. (2015). ["Learning Spatiotemporal Features with 3D Convolutional Networks."](https://arxiv.org/abs/1412.0767) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: Wang, X., Girshick, R., Gupta, A., & He, K. (2018). ["Non-local Neural Networks."](https://arxiv.org/abs/1711.07971) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

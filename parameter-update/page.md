@@ -83,3 +83,17 @@ Adaptive learning rates, like those used in algorithms such as Adam, help the mo
 One advanced method for parameter updates is the use of second-order optimization techniques, like Newton's method or the L-BFGS algorithm. These methods look at the curvature of the loss function, not just the direction of the steepest descent. By considering how the loss function changes as the parameters change, these methods can take more direct steps towards the best solution. This can make the training process faster and more efficient, especially for complex models with many parameters. However, these methods can be more computationally expensive than first-order methods like gradient descent, so they're not always used in practice.
 
 Another advanced technique is the use of meta-learning, or learning to learn. This approach trains a model to figure out how to update its own parameters. For example, a model might learn to adjust its learning rate or choose the best optimization algorithm for a given task. This can help the model adapt quickly to new data or tasks, making it more flexible and efficient. Meta-learning is often used in few-shot learning, where the model needs to learn from just a few examples. By learning how to learn, the model can improve its parameter updates and perform better on a wide range of problems.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Kingma, D. P., & Ba, J. (2014). [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980). arXiv preprint arXiv:1412.6980.
+
+[3]: Ruder, S. (2016). [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747). arXiv preprint arXiv:1609.04747.
+
+[4]: Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[5]: LeCun, Y., Bottou, L., Orr, G. B., & Müller, K. (2012). [Efficient BackProp](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_3). In Neural Networks: Tricks of the Trade (pp. 9-50). Springer.
+
+[6]: Sutton, R. S., & Barto, A. G. (2018). [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT Press.

@@ -1,6 +1,7 @@
 ---
-title: "Sinkable Bond Mechanism and Example"
-description: "Explore the benefits of sinkable bonds in algo trading Learn how their unique structures and sinking funds offer robust options for modern investors and issuers"
+title: Understanding Sinkable Bonds and Their Key Features
+description: Sinkable bonds use a sinking fund to stagger debt repayments offering
+  investors managed risk and potential early redemption. Discover more inside.
 ---
 
 

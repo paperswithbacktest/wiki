@@ -116,3 +116,21 @@ Using a Loss Aggregator in federated learning can be tricky because the data on 
 Loss Aggregators have become more important with the rise of [deep learning](/wiki/deep-learning) and neural networks. In the past, when models were simpler, you might have just used one kind of loss for one task. But now, with deep learning, models often do many things at once, like predicting numbers and classifying things. This means we need to combine different losses into one big loss that the model can use to learn. Loss Aggregators help by taking all these different losses, like Mean Squared Error (MSE) for predicting numbers and Cross-Entropy Loss for classifying things, and turning them into one number. This makes it easier for the model to see how well it's doing overall and adjust to get better.
 
 With neural networks getting more complex, Loss Aggregators have also gotten smarter. Now, we use things like adaptive weighting, where the model can change how important each task is as it learns. For example, if the model is doing well on one task but not on another, it can focus more on the task it's struggling with. This helps the model learn faster and perform better. Another way Loss Aggregators have evolved is through dynamic loss scaling. This means the Loss Aggregator can change how it combines the losses over time to make sure the model pays attention to all tasks equally. By using these advanced techniques, Loss Aggregators help deep learning models work better and learn from many tasks at the same time.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[4]: Bottou, L., Curtis, F. E., & Nocedal, J. (2018). ["Optimization Methods for Large-Scale Machine Learning."](https://arxiv.org/abs/1606.04838) Annual Review of Control, Robotics, and Autonomous Systems.
+
+[5]: Hinton, G. (2012). ["A Practical Guide to Training Restricted Boltzmann Machines."](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_32) Department of Computer Science, University of Toronto.
+
+[6]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[7]: Ruder, S. (2017). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv:1609.04747.
+
+[8]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15(1), 1929-1958.

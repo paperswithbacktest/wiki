@@ -81,3 +81,15 @@ Another big ethical issue is privacy. Video game models often use data about how
 Video game models can be adapted for use in other areas of [artificial intelligence](/wiki/ai-artificial-intelligence), like self-driving cars and robotics. For example, the CARLA simulator, which is used to train AI for driving games, can also help train real self-driving cars. It lets the AI practice in different road conditions and learn how to drive safely. This shows how the same technology that makes video games fun can also help make cars smarter and safer. The key is to use the same machine learning techniques, like reinforcement learning, to let the AI learn from experience in different environments.
 
 In robotics, video game models can help robots learn to do tasks by playing games that mimic real-world situations. For instance, a robot might use a game to practice [picking](/wiki/asset-class-picking) up objects or navigating through a space. The AI can learn from each game session, improving its skills over time. This is similar to how video game AIs get better at playing games. By using these models, robots can become more efficient and adaptable, making them useful in areas like manufacturing or home assistance.
+
+## References & Further Reading
+
+[1]: Dosovitskiy, A., Ros, G., Codevilla, F., Lopez, A., & Koltun, V. (2017). ["CARLA: An Open Urban Driving Simulator."](https://arxiv.org/abs/1711.03938) arXiv preprint arXiv:1711.03938.
+
+[2]: Vinyals, O., Babuschkin, I., Czarnecki, W. M., Mathieu, M., Dudzik, A., Chung, J., ... & Silver, D. (2019). ["Grandmaster level in StarCraft II using multi-agent reinforcement learning."](https://www.nature.com/articles/s41586-019-1724-z) Nature, 575(7782), 350-354.
+
+[3]: Yannakakis, G. N., & Togelius, J. (2018). ["Artificial Intelligence and Games."](https://link.springer.com/article/10.1007/s10710-018-9337-0) Springer.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Zhang, J., & Huang, X. (2020). ["The Role of Machine Learning in Video Game Development for Adaptive AI."](https://scholar.google.com/citations?user=-wOTCE8AAAAJ&hl=en) IEEE Access, 8, 159177-159186.

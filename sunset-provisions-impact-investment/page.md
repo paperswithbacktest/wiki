@@ -1,6 +1,7 @@
 ---
-title: "Sunset Provisions and Their Impact on Investment"
-description: "Explore how sunset provisions and algorithmic trading impact investments Learn to navigate regulatory changes and leverage technology for strategic gains"
+title: Sunset Provisions and Their Impact on Investment Planning
+description: Sunset provisions guide investment decisions with timed reviews that
+  balance risk and opportunity for sustained growth. Discover more inside.
 ---
 
 

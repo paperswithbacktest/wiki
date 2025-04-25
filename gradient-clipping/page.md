@@ -88,3 +88,19 @@ By using these dynamic strategies, you can better manage the gradients throughou
 To measure and compare the effectiveness of gradient clipping across different models, you can look at how stable the training process is and how well the model performs. One way to do this is by tracking the gradient norms during training. If the gradients are often hitting the clipping threshold, it might mean the threshold is too low, which could slow down the training. On the other hand, if the gradients rarely hit the threshold, it might mean the threshold is too high, and the model might be at risk of the exploding gradient problem. By comparing the frequency and size of the clipped gradients across models, you can see which clipping strategy works best for each model.
 
 Another way to measure the effectiveness of gradient clipping is by looking at the model's performance metrics, like accuracy or loss. You can train the same model with different clipping thresholds and see how the performance changes. For example, you might use a formula like $$ \text{gradient}_{\text{clipped}} = \text{threshold} \cdot \frac{\text{gradient}}{\|\text{gradient}\|} $$ to clip the gradients and then compare the final accuracy or loss of the model. If one threshold leads to better performance, that suggests it's a more effective clipping strategy for that model. By doing this comparison across different models, you can find the best clipping approach for each one.
+
+## References & Further Reading
+
+[1]: Pascanu, R., Mikolov, T., & Bengio, Y. (2013). ["On the Difficulty of Training Recurrent Neural Networks."](https://arxiv.org/abs/1211.5063) Proceedings of the 30th International Conference on Machine Learning.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Sutskever, I., Martens, J., Dahl, G., & Hinton, G. (2013). ["On the importance of initialization and momentum in deep learning."](https://proceedings.mlr.press/v28/sutskever13.html) Proceedings of the 30th International Conference on Machine Learning.
+
+[4]: Zhang, Y., & LeCun, Y. (2015). ["Text Understanding from Scratch."](https://arxiv.org/abs/1502.01710) arXiv:1502.01710.
+
+[5]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-term Memory."](https://ieeexplore.ieee.org/abstract/document/6795963) Neural Computation, 9(8), 1735-1780.
+
+[7]: Graves, A., Mohamed, A., & Hinton, G. (2013). ["Speech Recognition with Deep Recurrent Neural Networks."](https://arxiv.org/pdf/1303.5778) 2013 IEEE International Conference on Acoustics, Speech and Signal Processing.

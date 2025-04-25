@@ -80,3 +80,15 @@ Another key part of optimizing PLM systems is managing the computing resources w
 In the healthcare industry, a case study showed how PLM helped improve patient care. A hospital used a PLM like BERT to understand and summarize patient records. Before, doctors had to read long reports to find important information. With the PLM, the hospital could quickly see key details about a patient's health. This saved doctors a lot of time and helped them make better decisions faster. The PLM was fine-tuned on medical records, so it understood the specific language used in healthcare. This made it very good at pulling out important information, which led to better patient outcomes.
 
 In customer service, a company used PLM to build a better chatbot. They chose a PLM like RoBERTa and fine-tuned it on their customer conversation data. The chatbot could now understand customer questions more accurately and give helpful answers. Before, the chatbot often misunderstood what customers were asking, which led to frustration. With the PLM, the chatbot's accuracy improved a lot, and customers were happier with the service. This case study shows how PLM can make a big difference in understanding and responding to text, which is very important in customer service.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[2]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv preprint arXiv:1907.11692.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[4]: Conneau, A., Khandelwal, K., Goyal, N., Chaudhary, V., Wenzek, G., Guzmán, F., & Joulin, A. (2020). ["Unsupervised Cross-lingual Representation Learning at Scale."](https://aclanthology.org/2020.acl-main.747/) arXiv preprint arXiv:1911.02116.
+
+[5]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research, 21(140), 1-67.

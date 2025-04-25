@@ -1,6 +1,7 @@
 ---
-title: "Simulating Stock Prices Using Excel"
-description: "Explore the use of Excel for simulating stock prices and developing algorithmic trading strategies. Learn how financial modeling enhances decision-making."
+title: Stock Price Simulation in Excel Using Geometric Brownian Motion
+description: Stock price simulation in Excel enables you to model market volatility
+  with RAND RANDBETWEEN and geometric Brownian motion formulas. Discover more inside.
 ---
 
 

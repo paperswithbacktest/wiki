@@ -1,6 +1,7 @@
 ---
-title: "Social License to Operate and Industry Standards"
-description: "Explore the vital role of social license to operate and evolving industry standards in algorithmic trading to maintain trust and ethical practices."
+title: Building and Maintaining a Strong Social License to Operate
+description: Social License to Operate drives lasting community approval by outlining
+  transparency engagement and benefit strategies for businesses Discover more inside
 ---
 
 

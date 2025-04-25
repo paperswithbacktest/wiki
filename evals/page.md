@@ -79,3 +79,17 @@ Another way evals help with continuous learning is by letting us compare differe
 When you get results from evals in a machine learning pipeline, it's like getting feedback on how well your model is doing. If you see that the accuracy of your model is high, it means the model is making a lot of correct predictions. But if the accuracy is low, it means the model is making too many mistakes, and you might need to go back and train it some more. Precision and recall are also important to look at. High precision means when the model says something is positive, it's usually right. High recall means the model is good at finding all the positive cases. If either of these is low, you can figure out why and fix the model. The F1 score, calculated as $$F1 = 2 \times \frac{precision \times recall}{precision + recall}$$, helps you balance precision and recall into one number. If the F1 score is low, you know the model needs work in both areas.
 
 Once you have the results from the evals, you can take action to make your model better. If the model is doing well on the training data but not so well on the validation data, it might be overfitting. You can try making the model simpler or using less training data to fix this. If the model is doing poorly on the test data, you might need to collect more data or try different ways of training the model. By keeping an eye on the evals and making changes based on what they tell you, you can keep improving the model until it's ready to use in the real world. This way, you can trust that your model will work well and help people in the best way possible.
+
+## References & Further Reading
+
+[1]: Mitchell, T. M. (1997). ["Machine Learning"](https://www.cs.cmu.edu/~tom/mlbook.html). McGraw-Hill.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: "Pattern Recognition and Machine Learning" by Christopher Bishop (2006). Springer. 
+
+[5]: Kohavi, R. (1995). ["A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection."](https://dl.acm.org/doi/10.5555/1643031.1643047) Proceedings of the 14th International Joint Conference on Artificial Intelligence.
+
+[6]: Powers, D.M.W. (2011). ["Evaluation: From Precision, Recall and F-Factor to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies.

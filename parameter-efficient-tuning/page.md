@@ -81,3 +81,15 @@ Another exciting area of research is the use of prompt tuning with large languag
 In the future, Parameter-Efficient Tuning could become even more important in machine learning. As models get bigger and more complex, it will be harder to train them from scratch every time you want to use them for something new. Techniques like adapters and prompt tuning will likely get better, making it easier to change just a small part of a model to make it work on new tasks. Researchers might find new ways to add adapters that work even better, like making them smaller or more flexible. This will help save time and computer power, making it easier for everyone to use big models for different things.
 
 Another way Parameter-Efficient Tuning might evolve is by using smarter prompts. Right now, people are working on ways to automatically create good prompts that help models understand what to do without changing the whole model. In the future, these prompts could become even better and more automatic, making it easier to tune models for new tasks. Also, combining different Parameter-Efficient Tuning methods, like using adapters and prompt tuning together, could become more common. This would make models even more adaptable and useful, helping them learn new things quickly and efficiently without forgetting what they already know.
+
+## References & Further Reading
+
+[1]: Houlsby, N., Giurgiu, A., Jastrzębski, S., Morrone, B., De Laroussilhe, Q., Gesmundo, A., ... & Gelly, S. (2019). ["Parameter-Efficient Transfer Learning for NLP."](https://arxiv.org/abs/1902.00751) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.
+
+[2]: Lester, B., Al-Rfou, R., & Constant, N. (2021). ["The Power of Scale for Parameter-Efficient Prompt Tuning."](https://arxiv.org/abs/2104.08691) arXiv preprint arXiv:2104.08691.
+
+[3]: Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, L., ... & Wang, L. (2021). ["LoRA: Low-Rank Adaptation of Large Language Models."](https://arxiv.org/abs/2106.09685) arXiv preprint arXiv:2106.09685.
+
+[4]: "Compacter: Efficient Low-rank Adaptation for Transformer Language Models through Regularized Low-rank Learning using Concept-Derived Sparse Constraints" in "Proceedings of Machine Learning Research".
+
+[5]: Pfeiffer, J., Rother, M. K., Kamath, A., Nguyen, T. H., Houlsby, N., Gelly, S., & Ruder, S. (2020). ["AdapterFusion: Non-Destructive Task Composition for Transfer Learning."](https://arxiv.org/abs/2005.00247) arXiv preprint arXiv:2005.00247.

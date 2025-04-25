@@ -81,3 +81,15 @@ One way these models handle different layouts is by using advanced techniques li
 In the future, Layout Annotation Models are expected to become even better at understanding and labeling the structure of documents. One big change might be that these models will be able to handle more types of documents, like handwritten notes or very old books with messy layouts. They might also get faster and more accurate, thanks to new ways of training them, like using more powerful computers or better algorithms. Another exciting possibility is that these models could start working together with other kinds of [artificial intelligence](/wiki/ai-artificial-intelligence), like those that understand the meaning of text. This could help them not only find where things are on a page but also understand what those things mean.
 
 Another area where we might see growth is in making these models easier to use for everyone. Right now, they can be hard to set up and use, but in the future, they might become simpler and more user-friendly. This could mean more people and businesses using them to quickly sort through and understand large collections of documents. Also, as technology keeps improving, Layout Annotation Models might start being used in new ways, like helping with real-time document analysis or working in virtual reality environments. All these changes could make these models a lot more helpful and widely used in the future.
+
+## References & Further Reading
+
+[1]: Xu, Y., Li, D., Zhang, K., & Wu, X. (2019). ["PubLayNet: largest dataset ever for document layout analysis."](https://arxiv.org/abs/1908.07836) arXiv preprint arXiv:1908.07836.
+
+[2]: Li, D., Cui, L., Huang, S., Wei, F., & Zhou, M. (2020). ["DocBank: A benchmark dataset for document layout analysis."](https://arxiv.org/abs/2006.01038) arXiv preprint arXiv:2006.01038.
+
+[3]: Antonacopoulos, A., Christodoulakis, D., Gatos, B., Katsis, A., & Papamarkos, N. (2009). ["ICDAR 2009 Page Segmentation Competition."](https://www.researchgate.net/publication/220860840_ICDAR2009_page_segmentation_competition) IEEE 10th International Conference on Document Analysis and Recognition.
+
+[4]: He, K., Gkioxari, G., Dollar, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: Xie, S., Tu, Z. (2015). ["Holistically-Nested Edge Detection."](https://arxiv.org/abs/1504.06375) Proceedings of the IEEE International Conference on Computer Vision (ICCV).

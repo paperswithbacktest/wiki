@@ -81,3 +81,15 @@ Another technique is using techniques like Integrated Gradients. Integrated Grad
 Validating the reliability of feature importance measures in complex models can be tricky, but there are some good ways to do it. One way is to use cross-validation. This means we split our data into different parts, build the model many times with different parts of the data, and see if the feature importance scores stay the same each time. If the scores are similar across all the different models, it means the feature importance measures are reliable. Another way is to use different methods to calculate feature importance, like SHAP values and permutation importance, and see if they agree with each other. If different methods give us similar results, it makes us more confident that the feature importance measures are reliable.
 
 Another way to check the reliability of feature importance is by looking at how the model's performance changes when we remove or change the features. If we take away a feature that the model says is important and the model's predictions get a lot worse, it means the feature importance measure is probably right. On the other hand, if removing a feature doesn't change the model's performance much, it might mean the feature importance measure is not very reliable. By using these different checks, we can feel more sure about which pieces of data are really important for making good predictions with our complex models.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[2]: Lundberg, S. M., & Lee, S. I. (2017). ["A Unified Approach to Interpreting Model Predictions."](https://dl.acm.org/doi/10.5555/3295222.3295230) Advances in Neural Information Processing Systems.
+
+[3]: Friedman, J. H. (2001). ["Greedy Function Approximation: A Gradient Boosting Machine."](https://www.jstor.org/stable/2699986) Annals of Statistics.
+
+[4]: Molnar, C. (2019). ["Interpretable Machine Learning."](https://christophm.github.io/interpretable-ml-book/) A Guide for Making Black Box Models Explainable.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.

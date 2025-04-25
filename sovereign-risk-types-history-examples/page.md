@@ -1,6 +1,7 @@
 ---
-title: "Sovereign Risk: Types, History, and Examples"
-description: "Explore the intersection of sovereign risk and algorithmic trading Discover how investors can use algorithmic strategies to navigate the complexities of global markets"
+title: Understanding Sovereign Risk A Comprehensive Investor Guide
+description: Sovereign risk helps investors assess economic political and currency
+  threats to a countrys debt capacity for smarter investments Discover more inside
 ---
 
 

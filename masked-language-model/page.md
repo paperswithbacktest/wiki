@@ -79,3 +79,15 @@ During fine-tuning, you adjust the model's weights to make it better at the new 
 Recent advancements in Masked Language Model research have focused on making these models more efficient and effective. One key development is the use of sparse attention mechanisms, which help the model pay attention to only the most important parts of the text. This makes the model faster and less demanding on computer resources. Another advancement is the use of better pre-training tasks. For example, researchers have started using tasks that involve understanding the relationships between sentences, not just individual words. This helps the model understand the bigger picture and improves its performance on tasks like answering questions or summarizing text.
 
 Another exciting area of research is the development of multilingual Masked Language Models. These models are trained on text from many different languages at the same time. This allows them to understand and work with multiple languages better. For example, a model like mBERT (multilingual BERT) can be used to translate text or answer questions in several languages. Researchers are also working on making these models smaller without losing their effectiveness. This is important because it makes the models easier to use on devices with limited resources, like smartphones. By focusing on these areas, researchers are making Masked Language Models more useful and accessible for everyone.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[2]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., ... & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv preprint arXiv:1907.11692.
+
+[3]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.
+
+[4]: Kalyan, K. S., & Sangeetha, S. (2021). ["BERT Text Classification."](https://arxiv.org/abs/1903.01039) In: BERT Text Classification. Handbook of Research on Advanced Applications of Graph Theory in Computer Vision and Pattern Recognition, Rezaul Karim (Ed.), IGI Global.
+
+[5]: Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., ... & Zettlemoyer, L. (2020). ["BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension."](https://aclanthology.org/2020.acl-main.703/) arXiv preprint arXiv:1910.13461.

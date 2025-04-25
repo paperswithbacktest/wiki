@@ -86,3 +86,15 @@ One way to do transfer learning in policy optimization is by fine-tuning. The ag
 In multi-agent systems, policy learning has seen some exciting new developments. One big advancement is in the area of cooperative multi-agent reinforcement learning (MARL). Here, [agents](/wiki/agents) work together to achieve a common goal. Researchers have come up with new algorithms that help these agents learn better policies by sharing information with each other. For example, they might use a method called centralized training with decentralized execution. This means the agents train together using a shared policy, but when it's time to act, each agent uses its own part of the policy. This approach can help the agents learn faster and work together more effectively.
 
 Another advancement is in competitive multi-agent systems, where agents are trying to outdo each other. A popular method here is self-play, where an agent learns by playing against copies of itself. This can lead to policies that are really good at beating other agents. Researchers have also started using techniques like population-based training, where a group of agents with different policies compete against each other. Over time, the best policies survive and get better, kind of like natural selection. These methods help create policies that can adapt to different opponents and keep improving.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Silver, D., & Huang, A. (2016). ["Mastering the Game of Go with Deep Neural Networks and Tree Search."](https://www.nature.com/articles/nature16961) Nature.
+
+[3]: Schulman, J., Levine, S., Abbeel, P., Jordan, M., & Moritz, P. (2015). ["Trust Region Policy Optimization."](https://arxiv.org/abs/1502.05477) Proceedings of the 32nd International Conference on Machine Learning.
+
+[4]: ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) by Kevin P. Murphy.
+
+[5]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A., Veness, J., Bellemare, M. G., & others. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature.

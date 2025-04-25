@@ -1,6 +1,7 @@
 ---
-title: "Steve Cohen"
-description: Explore the dynamic journey of Steve Cohen, a pivotal figure in finance renowned for his mastery of algorithmic trading. His strategic use of complex algorithms revolutionized hedge fund operations, driving rapid, precise market transactions. This article investigates into Cohen's achievements, controversies, and his transformative role, offering insights into the enduring impact of his contributions to modern financial strategies.
+title: Steve Cohen Hedge Fund Investor Career and Legacy Overview
+description: Steve Cohen rebuilt his investor standing after legal setbacks by founding
+  Point72 Asset Management refining active trading Discover more inside.
 ---
 
 

@@ -81,3 +81,21 @@ There are also other things to think about when it comes to computational requir
 Generative Discrimination can work really well with other [machine learning](/wiki/machine-learning) methods like Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs). GANs are made up of two parts: a generator that makes fake data and a discriminator that tries to tell real from fake. When used in Generative Discrimination, the generator part of the GAN can make the fake data that the discriminative model uses to learn. This can make the fake data very realistic, which helps the discriminative model do a better job at telling things apart. For example, if you're trying to spot diseases in medical images, the GAN can make lots of different pictures of sick lungs, which helps the discriminative model learn to find the diseases more accurately.
 
 VAEs are another type of generative model that can be used in Generative Discrimination. VAEs learn how to make new data by understanding the patterns in the data they see. They can then use this understanding to make new, fake data that looks like the real stuff. When you use a VAE in Generative Discrimination, it can make the fake data that the discriminative model uses to learn. This can be especially helpful when you don't have a lot of real data to start with. The VAE can make more data for the discriminative model to practice on, which can help it make better predictions when it sees new data.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Kingma, D. P., & Welling, M. (2013). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[3]: Ng, A. Y., & Jordan, M. I. (2002). ["On Discriminative vs. Generative Classifiers: A comparison of logistic regression and naive Bayes."](https://dl.acm.org/doi/10.5555/2980539.2980648) Advances in Neural Information Processing Systems 14.
+
+[4]: Radford, A., Metz, L., & Chintala, S. (2015). ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](https://arxiv.org/abs/1511.06434) arXiv preprint arXiv:1511.06434.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press. 
+
+[6]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer. 
+
+[7]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press. 
+
+[8]: "GANs in Action: Deep learning with Generative Adversarial Networks" by Jakub Langr and Vladimir Bok. (https://www.amazon.com/GANs-Action-learning-Generative-Adversarial/dp/1617295566)

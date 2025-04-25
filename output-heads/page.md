@@ -103,3 +103,19 @@ Another way to optimize a Dynamic Keypoint Head is to use transfer learning. Thi
 In the future, we can expect Dynamic Keypoint Heads to become even smarter and more adaptable. Researchers are working on making these heads better at handling even more complex situations, like when objects are moving quickly or when there are multiple objects in the same picture. One way they might do this is by using more advanced functions, like $$ \text{keypoint}_i = f(\text{features}) $$, that can learn from even more varied examples. This would help the model predict where keypoints are, even if they're in very unusual positions or partly hidden.
 
 Another development we might see is the use of more powerful computers and new training methods to make Dynamic Keypoint Heads faster and more accurate. For example, researchers might use techniques like transfer learning, where a model starts with what it already knows from another task and then learns to find keypoints. They could also use ensemble methods, where several models work together to make better predictions. By combining these new ideas and technologies, Dynamic Keypoint Heads could become a key tool in many areas, like sports analysis, medical imaging, and even video games, where finding important points on moving objects is crucial.
+
+## References & Further Reading
+
+[1]: Toshev, A., & Szegedy, C. (2014). ["DeepPose: Human Pose Estimation via Deep Neural Networks."](https://arxiv.org/abs/1312.4659) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Newell, A., Yang, K., & Deng, J. (2016). ["Stacked Hourglass Networks for Human Pose Estimation."](https://arxiv.org/abs/1603.06937) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: ["Deep Learning"](https://en.wikipedia.org/wiki/Deep_learning) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+
+[5]: Cao, Z., Simon, T., Wei, S.-E., & Sheikh, Y. (2017). ["Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields."](https://ieeexplore.ieee.org/document/8765346) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Chen, L.-C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2017). ["DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs."](https://ieeexplore.ieee.org/document/7913730) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[7]: Sun, X., Xiao, B., Wei, F., Liang, S., & Wei, Y. (2019). ["Integral Human Pose Regression."](https://arxiv.org/abs/1711.08229) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

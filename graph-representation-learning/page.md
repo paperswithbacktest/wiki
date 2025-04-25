@@ -81,3 +81,23 @@ The impact of iGCL on graph learning tasks is significant because it helps the m
 DeepDrug uses Graph Representation Learning to help find new drugs faster and better. It does this by turning the structure of molecules into graphs, where atoms are nodes and the bonds between them are edges. Then, it uses Graph Neural Networks (GNNs) to learn about these graphs. GNNs look at how the atoms are connected and use this information to create embeddings, which are like special codes that show what the molecule is like. By doing this, DeepDrug can predict how a molecule might work as a drug, like if it will be good at fighting a disease or if it might have side effects.
 
 The impact of DeepDrug in drug discovery is big because it can look at a lot of molecules quickly and find the ones that might work best. This saves time and money compared to traditional ways of finding drugs, which can take years and cost a lot. By using Graph Representation Learning, DeepDrug can also find patterns in how different molecules work, helping scientists understand more about how drugs interact with the body. This makes the whole process of finding new drugs more efficient and effective.
+
+## References & Further Reading
+
+[1]: Kipf, T.N., & Welling, M. (2017). ["Semi-Supervised Classification with Graph Convolutional Networks."](https://arxiv.org/abs/1609.02907) International Conference on Learning Representations (ICLR).
+
+[2]: Hamilton, W.L., Ying, R., & Leskovec, J. (2017). ["Representation Learning on Graphs: Methods and Applications."](https://arxiv.org/abs/1709.05584) IEEE Data Engineering Bulletin.
+
+[3]: Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2018). ["How Powerful are Graph Neural Networks?"](https://arxiv.org/abs/1810.00826) International Conference on Learning Representations (ICLR).
+
+[4]: Velickovic, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2018). ["Graph Attention Networks."](https://arxiv.org/abs/1710.10903) International Conference on Learning Representations (ICLR).
+
+[5]: You, Y., Chen, T., Wang, Z., & Shen, Y. (2020). ["Graph Contrastive Learning with Augmentations."](https://arxiv.org/abs/2010.13902) Advances in Neural Information Processing Systems (NeurIPS).
+
+[6]: Veličković, P., Fedus, W., Hamilton, W.L., Liò, P., Bengio, Y., & Blundell, C. (2019). ["Deep Graph Infomax."](https://arxiv.org/abs/1809.10341) International Conference on Learning Representations (ICLR).
+
+[7]: Sun, K., Lin, Z., & Zhu, Z. (2020). ["Multi-Stage Self-Supervised Learning for Graph Convolutional Networks on Graphs with Few Labels."](https://ojs.aaai.org/index.php/AAAI/article/view/6048) Advances in Neural Information Processing Systems (NeurIPS).
+
+[8]: Gilmer, J., Schoenholz, S.S., Riley, P.F., Vinyals, O., & Dahl, G.E. (2017). ["Neural Message Passing for Quantum Chemistry."](https://arxiv.org/abs/1704.01212) International Conference on Machine Learning (ICML). 
+
+[9]: Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2018). ["Representation Learning on Graphs: Methods & Applications."](https://arxiv.org/abs/1810.00826) Online Presentation Series.

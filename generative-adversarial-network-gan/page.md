@@ -83,3 +83,21 @@ Another way to evaluate GANs is by using the Wasserstein distance, which we talk
 The latest advancements in GAN research have focused on making them more stable and easier to train. One big step forward is the development of StyleGAN, which lets you control the style of the images the generator makes. It does this by using a new way to mix different styles together, making it easier to create images that look just right. Another advancement is the use of self-attention in GANs, which helps the generator and discriminator focus on the most important parts of the images. This makes the images more detailed and realistic. Researchers are also working on making GANs faster to train by using new techniques like progressive growing, where the GAN starts with small, simple images and slowly makes them bigger and more detailed.
 
 Another exciting area of GAN research is in making them more useful for real-world problems. For example, CycleGANs can turn one type of image into another without needing paired examples. This means you can turn a picture of a horse into a picture of a zebra, even if you don't have photos of the same scene with both a horse and a zebra. Researchers are also looking at using GANs to help with medical imaging, where they can create realistic images of diseases to help doctors learn more about them. These advancements show how GANs are becoming more powerful and useful in many different fields, from art to medicine.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Radford, A., Metz, L., & Chintala, S. (2015). ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](https://arxiv.org/abs/1511.06434) arXiv preprint arXiv:1511.06434.
+
+[3]: Arjovsky, M., Chintala, S., & Bottou, L. (2017). ["Wasserstein GAN."](https://arxiv.org/abs/1701.07875) arXiv preprint arXiv:1701.07875.
+
+[4]: Mirza, M., & Osindero, S. (2014). ["Conditional Generative Adversarial Nets."](https://arxiv.org/abs/1411.1784) arXiv preprint arXiv:1411.1784.
+
+[5]: Karras, T., Laine, S., & Aila, T. (2018). ["A Style-Based Generator Architecture for Generative Adversarial Networks."](https://arxiv.org/abs/1812.04948) arXiv preprint arXiv:1812.04948.
+
+[6]: Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). ["Image-to-Image Translation with Conditional Adversarial Networks."](https://ieeexplore.ieee.org/document/8100115) IEEE Conference on Computer Vision and Pattern Recognition.
+
+[7]: Zhu, J. Y., Park, T., Isola, P., & Efros, A. A. (2017). ["Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks."](https://arxiv.org/abs/1703.10593) IEEE International Conference on Computer Vision.
+
+[8]: Borji, A. (2019). ["Pros and cons of GAN evaluation measures."](https://www.sciencedirect.com/science/article/pii/S1077314218304272) Computer Vision and Image Understanding, 179, 41-65.

@@ -1,6 +1,7 @@
 ---
-title: "S&P 500 Index: Purpose and Significance in Investing"
-description: "Explore the significance of the S&P 500 Index in investing and how algorithmic trading can optimize your strategy for enhanced market performance."
+title: Understanding the S&P 500 Index Calculation and Benefits
+description: S&P 500 Index offers a clear benchmark of 500 top US companies with market
+  cap weighting and diversification benefits for growth Discover more inside
 ---
 
 

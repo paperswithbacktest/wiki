@@ -1,7 +1,7 @@
 ---
-title: Understanding SLAM in Robotics and Machine Learning
-description: SLAM enables robots to map unknown spaces and pinpoint their location
-  in real time using deep learning that ensures robust mapping Discover more inside.
+title: Essential SLAM Techniques for Robotic Mapping and Localization
+description: SLAM enables robots to build maps and locate themselves in unknown environments
+  with sensors and AI to enhance navigation Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -79,3 +79,19 @@ Another limitation is that these SLAM methods can sometimes have trouble with ce
 In the future, we can expect SLAM methods to become even better at handling tricky situations thanks to [machine learning](/wiki/machine-learning). Deep learning techniques will keep getting smarter and faster, which means robots will be able to build more accurate maps and figure out where they are more easily, even in places that are hard to navigate. For example, SLAM systems might get better at dealing with changes in lighting or moving objects, making them more useful in busy or unpredictable environments. Researchers are also working on ways to make these systems need less computing power, so even small robots can use them.
 
 Another exciting development will be the use of more kinds of sensors with SLAM. Right now, most SLAM systems use cameras or lidars, but in the future, they might use other sensors like sonars or even smell sensors to build maps and understand the world around them. This could make the maps more detailed and help robots navigate in new ways. As machine learning keeps improving, SLAM methods will become more flexible and able to handle all sorts of real-world situations, making robots more helpful in places like homes, hospitals, and disaster zones.
+
+## References & Further Reading
+
+[1]: Durrant-Whyte, H., & Bailey, T. (2006). ["Simultaneous Localization and Mapping: Part I."](https://ieeexplore.ieee.org/document/1638022) IEEE Robotics & Automation Magazine.
+
+[2]: Cadena, C., Carlone, L., Carrillo, H. et al. (2016). ["Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age."](https://ieeexplore.ieee.org/abstract/document/7747236) IEEE Transactions on Robotics.
+
+[3]: Kümmerle, R., Grisetti, G., Strasdat, H., Konolige, K., & Burgard, W. (2011). ["g2o: A General Framework for Graph Optimization."](https://ieeexplore.ieee.org/document/5979949) IEEE International Conference on Robotics and Automation.
+
+[4]: Engel, J., Schöps, T., & Cremers, D. (2014). ["LSD-SLAM: Large-Scale Direct Monocular SLAM."](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54) European Conference on Computer Vision.
+
+[5]: Mur-Artal, R., Montiel, J.M.M., & Tardos, J.D. (2015). ["ORB-SLAM: A Versatile and Accurate Monocular SLAM System."](https://ieeexplore.ieee.org/document/7219438) IEEE Transactions on Robotics.
+
+[6]: Elinas, P., & Little, J.J. (2005). ["SigmaSLAM: Stereo Vision SLAM Using the Rao-Blackwellised Particle Filter and a Novel Mixture Proposal Distribution."](https://www.researchgate.net/publication/224635066_spl_sigmaSLAM_stereo_vision_SLAM_using_the_Rao-Blackwellised_particle_filter_and_a_novel_mixture_proposal_distribution) IEEE International Conference on Robotics and Automation.
+
+[7]: Kerl, C., Sturm, J., & Cremers, D. (2013). ["Dense Visual SLAM for RGB-D Cameras."](https://ieeexplore.ieee.org/document/6696650) IEEE/RSJ International Conference on Intelligent Robots and Systems.

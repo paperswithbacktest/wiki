@@ -1,6 +1,7 @@
 ---
-title: "Structure and Powers of the Office of the Comptroller of the Currency"
-description: "Explore the OCC's role in regulating algorithmic trading ensuring banking sector stability by managing risks and adhering to robust compliance."
+title: Office of the Comptroller of the Currency OCC Explained for Banks
+description: Office of the Comptroller of the Currency ensures national banks follow
+  rules, maintain stability and protect customers Discover more inside
 ---
 
 

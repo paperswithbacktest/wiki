@@ -1,6 +1,7 @@
 ---
-title: "Sterilized Foreign Exchange Intervention"
-description: "Explore the dynamics of sterilized foreign exchange intervention in algo trading and how central banks stabilize currency values without altering monetary supply."
+title: Sterilized Foreign Exchange Intervention Strategies for Stability
+description: Sterilized foreign exchange intervention uses currency and bond operations
+  to adjust exchange rates without altering the money supply Discover more inside.
 ---
 
 

@@ -147,3 +147,17 @@ For example, if you want to normalize a large dataset that's split across severa
 In the future, we might see improvements in broadcasting techniques that make them work even better with big data and complex models. One possibility is smarter automatic broadcasting, where the computer figures out the best way to align arrays without the user having to do much work. This could be especially helpful in machine learning tasks where data comes in all sorts of shapes and sizes. For example, if you have a dataset with $$ (m, n) $$ shape and you want to apply operations across different dimensions, smarter broadcasting could make this easier and faster.
 
 Another development could be better integration of broadcasting with distributed computing. As machine learning models get bigger and datasets grow, it's important to be able to spread the work across many computers. Future broadcasting techniques might make it easier to send small pieces of data to each machine and then use broadcasting to apply operations to the whole dataset without moving everything around. This would help speed up training and make it easier to work with very large datasets.
+
+## References & Further Reading
+
+[1]: Oliphant, T. E. (2006). ["A guide to NumPy."](http://web.mit.edu/dvp/Public/numpybook.pdf) USA: Trelgol Publishing.
+
+[2]: Harris, C. R., Millman, K. J., van der Walt, S. J., Gommers, R., Virtanen, P., Cournapeau, D., ... & Oliphant, T. E. (2020). ["Array programming with NumPy."](https://www.nature.com/articles/s41586-020-2649-2) Nature, 585(7825), 357-362.
+
+[3]: VanderPlas, J. (2016). ["Python Data Science Handbook: Essential Tools for Working with Data."](https://books.google.com/books/about/Python_Data_Science_Handbook.html?id=xYmNDQAAQBAJ) O'Reilly Media, Inc.
+
+[4]: McKinney, W. (2012). ["Python for Data Analysis."](https://wesmckinney.com/book/) O'Reilly Media, Inc.
+
+[5]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[6]: Van Der Walt, S., Colbert, S. C., & Varoquaux, G. (2011). ["The NumPy array: a structure for efficient numerical computation."](https://arxiv.org/abs/1102.1523) Computing in Science & Engineering, 13(2), 22-30.

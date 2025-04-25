@@ -83,3 +83,21 @@ In practice, this integration can look like the model suggesting a tactic or a l
 In the future, theorem proving models are expected to become even smarter and faster at finding proofs. Researchers are working on making these models better at understanding and using human-like reasoning. This means the models will be able to solve more complex math problems and find proofs that are hard for people to think of. They might use new kinds of machine learning, like [deep learning](/wiki/deep-learning), to learn from even more examples of proofs. This could help them find proofs faster and be more accurate. Also, they might be able to work better with proof assistants like Coq or Isabelle, making the whole process of proving theorems smoother and more reliable.
 
 Another big change might be in how these models learn. Right now, they need a lot of examples to learn from, but in the future, they might be able to learn from fewer examples or even learn on their own. This would make it easier to train them and use them for new kinds of problems. Researchers are also looking at ways to make these models explain their proofs better, so people can understand how the model found the proof. This could help mathematicians trust the models more and use them to solve really hard problems. By working together, theorem proving models and human mathematicians could discover new math and make sure software and hardware are safe and correct.
+
+## References & Further Reading
+
+[1]: Geuvers, H. (2009). ["Proof assistants: history, ideas and future."](https://www.researchgate.net/publication/226956514_Proof_assistants_History_ideas_and_future) Sadhana, 34(1), 3-25.
+
+[2]: Gonthier, G., & Mahboubi, A. (2010). ["A Small Scale Reflection Extension."](https://jfr.unibo.it/article/view/1979) Research Report RR-7195, INRIA.
+
+[3]: De Moura, L., & Bjørner, N. (2008). ["Z3: An Efficient SMT Solver."](https://link.springer.com/chapter/10.1007/978-3-540-78800-3_24) In Tools and Algorithms for the Construction and Analysis of Systems (pp. 337-340). Springer, Berlin, Heidelberg.
+
+[4]: Groce, A., Kovásznai, G., & Kukovec, K. (2021). ["The Coq Proof Assistant: A Tutorial: Version 8.4."](https://www.researchgate.net/publication/43140559_The_Coq_Proof_Assistant_A_Tutorial_Version_72) INRIA.
+
+[5]: Piotrowski, B. (2020). ["Deep Learning in Automated Theorem Proving."](https://proceedings.neurips.cc/paper/2020/file/d2a27e83d429f0dcae6b937cf440aeb1-Review.html) arXiv preprint arXiv:2006.09265.
+
+[6]: Blanchette, J. C., Böhme, S., Paulson, L. C. (2013). ["Extending Sledgehammer with SMT solvers."](https://link.springer.com/article/10.1007/s10817-013-9278-5) International Conference on Automated Deduction. 
+
+[7]: Czaplicki, M. (2019). ["Introduction to Neuro-symbolic AI."](https://en.wikipedia.org/wiki/Neuro-symbolic_AI) International Journal of Machine Learning and Cybernetics, 10(12), 3243-3255.
+
+[8]: Bundy, A. (1988). ["The Use of Explicit Plans to Guide Inductive Proofs."](https://era.ed.ac.uk/bitstream/handle/1842/4561/BundyA_The%20Use%20of%20Explicit.pdf?sequence=1) Journal of Automated Reasoning, 1(3), 295-324.

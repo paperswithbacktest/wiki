@@ -1,6 +1,7 @@
 ---
-title: "Structured Repackaged Asset-Backed Trust Security"
-description: "Explore the intricacies of Asset-Backed Securities and Structured Repackaged Asset-Backed Trust Securities in algorithmic trading today."
+title: Structured Repackaged Asset-Backed Trust Security Explained
+description: Structured Repackaged Asset-Backed Trust Security pools varied loans
+  to diversify risk and deliver regular income via tranches Discover more inside
 ---
 
 

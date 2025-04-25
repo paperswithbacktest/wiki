@@ -79,3 +79,19 @@ On the other hand, PixelCNN uses a [convolutional neural network](/wiki/convolut
 Likelihood-Based Generative Models, like VAEs and PixelCNNs, face several challenges today. One big problem is that they can be slow to train and generate images. This is because they need to look at every single pixel one by one, which takes a lot of time. Also, these models sometimes struggle to make images that look very sharp and clear. They can create pictures, but they might look a bit fuzzy or blurry. Another challenge is that these models can be hard to control. If you want to change something specific in the image, like making a cat's eyes blue, it's not always easy to do that with these models.
 
 The future of Likelihood-Based Generative Models looks bright, though. Researchers are working on making these models faster and better at creating detailed images. One idea is to use more advanced techniques, like normalizing flows, to help the models generate images more quickly and with better quality. Another direction is to make these models easier to control. Scientists are trying to find ways to let users change specific parts of the images more easily, so you could, for example, easily change a cat's fur color to black. As these models keep improving, they could be used for more cool things, like helping artists create new designs or making video games look even more realistic.
+
+## References & Further Reading
+
+[1]: Kingma, D. P., & Welling, M. (2013). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[2]: Dinh, L., Krueger, D., & Bengio, Y. (2015). ["NICE: Non-linear Independent Components Estimation."](https://arxiv.org/abs/1410.8516) arXiv preprint arXiv:1410.8516.
+
+[3]: Van den Oord, A., Kalchbrenner, N., & Kavukcuoglu, K. (2016). ["Pixel Recurrent Neural Networks."](https://arxiv.org/abs/1601.06759) arXiv preprint arXiv:1601.06759.
+
+[4]: Dinh, L., Sohl-Dickstein, J., & Bengio, S. (2017). ["Density estimation using Real NVP."](https://arxiv.org/abs/1605.08803) arXiv preprint arXiv:1605.08803.
+
+[5]: Oord, A. V. D., Vinyals, O., & Kavukcuoglu, K. (2017). ["Neural Discrete Representation Learning."](https://arxiv.org/abs/1711.00937) arXiv preprint arXiv:1711.00937.
+
+[6]: Child, R. et al. (2020). ["Generating Long Sequences with Sparse Transformers."](https://arxiv.org/abs/1904.10509) arXiv preprint arXiv:1904.10509.
+
+[7]: Razavi, A., van den Oord, A., & Vinyals, O. (2019). ["Generating Diverse High-Fidelity Images with VQ-VAE-2."](https://arxiv.org/abs/1906.00446) arXiv preprint arXiv:1906.00446.

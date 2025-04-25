@@ -79,3 +79,19 @@ Common metrics used to evaluate these models include the Fréchet Inception Dist
 Models like LipGAN, which are used to make lip movements match new audio, still have some challenges. One big problem is that they can struggle with making the lip movements look completely natural. Sometimes, the movements might look a bit off or not match the audio perfectly. Another issue is that these models need a lot of data to learn from. If they don't have enough examples of different people talking, they might not work well for everyone. Also, training these models takes a lot of time and computer power, which can be hard to get.
 
 Future research in this area could focus on making the lip movements look more natural and realistic. Researchers might try new ways to train the models so they can learn from less data or learn faster. They could also look into making the models work better for different people, no matter their age, gender, or accent. Another interesting area could be to combine LipGAN with other technologies, like real-time translation, to make it easier to dub videos into different languages on the fly. This could help make videos more accessible to people all over the world.
+
+## References & Further Reading
+
+[1]: Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). ["Image-to-Image Translation with Conditional Adversarial Networks."](https://ieeexplore.ieee.org/document/8100115) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Park, T., Efros, A. A., Zhang, R., & Zhu, J. Y. (2019). ["Semantic Image Synthesis with Spatially-Adaptive Normalization."](https://arxiv.org/abs/2007.15651) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Vougioukas, K., Patsias, A., Petridis, S., & Pantic, M. (2019). ["Realistic Speech-Driven Facial Animation with GANs."](https://arxiv.org/abs/1906.06337) In International Journal of Computer Vision.
+
+[4]: Wang, T.-C., Liu, M.-Y., Zhu, J.-Y., Tao, A., Kautz, J., & Catanzaro, B. (2018). ["High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs."](https://arxiv.org/abs/1711.11585) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Networks."](https://arxiv.org/abs/1406.2661) 
+
+[6]: Zakharov, E., Shysheya, A., Burkov, E., & Lempitsky, V. (2019). ["Few-Shot Adversarial Learning of Realistic Neural Talking Head Models."](https://arxiv.org/abs/1905.08233) In Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[7]: Zhu, J.-Y., Park, T., Isola, P., & Efros, A. A. (2017). ["Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks."](https://arxiv.org/abs/1703.10593) In Proceedings of the IEEE International Conference on Computer Vision (ICCV).

@@ -81,3 +81,15 @@ Another important way to integrate denoising with other tasks is in the context 
 The latest advancements in image denoising using [machine learning](/wiki/machine-learning) have been driven by [deep learning](/wiki/deep-learning) techniques, particularly convolutional neural networks (CNNs) and generative adversarial networks (GANs). One exciting development is the use of self-supervised learning methods, like Noise2Fast, which can learn to denoise images without needing clean reference images. This is a big step forward because it means we can clean up images even when we don't have perfect examples to compare them to. Another advancement is the use of attention mechanisms in neural networks, which help the model focus on the important parts of the image while denoising. These new methods are making image denoising faster and more effective, helping us get clearer and more useful images.
 
 Looking to the future, researchers are working on making image denoising models even smarter and more adaptable. One promising direction is the development of models that can handle multiple types of noise at once, not just one kind. This would make these models more useful in real-world situations where images can have all sorts of noise. Another area of focus is improving the efficiency of these models so they can work well on smaller devices like phones and cameras. By making denoising faster and less power-hungry, we can use these techniques in more places and make our everyday pictures and videos look better. The goal is to keep pushing the boundaries so that image denoising becomes even more powerful and accessible to everyone.
+
+## References & Further Reading
+
+[1]: Buades, A., Coll, B., & Morel, J. M. (2005). ["A non-local algorithm for image denoising."](https://ieeexplore.ieee.org/document/1467423) IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05), vol. 2, pp. 60-65.
+
+[2]: Zhang, K., Zuo, W., & Zhang, L. (2017). ["FFDNet: Toward a fast and flexible solution for CNN-based image denoising."](https://ieeexplore.ieee.org/document/8365806) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 2510-2518.
+
+[3]: Timofte, R., De Smet, V., & Van Gool, L. (2013). ["Anchored neighborhood regression for fast example-based super-resolution."](https://openaccess.thecvf.com/content_iccv_2013/papers/Timofte_Anchored_Neighborhood_Regression_2013_ICCV_paper.pdf) Proceedings of the IEEE International Conference on Computer Vision, pp. 1920-1927.
+
+[4]: Mao, X., Shen, C., & Yang, Y.-B. (2016). ["Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections."](https://arxiv.org/abs/1603.09056) Advances in Neural Information Processing Systems, vol. 29, pp. 2802-2810.
+
+[5]: Zhang, Y., Tian, Y., Kong, Y., Zhong, B., & Fu, Y. (2017). ["Residual dense network for image super-resolution."](https://arxiv.org/abs/1802.08797) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 2472-2481.

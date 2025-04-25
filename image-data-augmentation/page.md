@@ -101,3 +101,19 @@ Using Adversarial Color Enhancement helps the model get ready for real-world sit
 InstaBoost is a smart way to make images better for training machine learning models. It works by changing the images in ways that make the model focus on the important parts. Imagine you have a picture of a dog. InstaBoost might zoom in on the dog's face or change its size a bit, making sure the model pays attention to the dog and not the background. It also adds some randomness to these changes, so the model sees the dog in different ways each time. This helps the model learn to recognize dogs no matter where they are in the picture or how big they look. By doing this, InstaBoost makes the model more accurate and able to handle new images better.
 
 R-Mix, or Robust Mixup, is another advanced method that helps make models stronger. It takes two images and mixes them together, but in a special way that makes the model focus on the important parts of both images. For example, if you have a picture of a cat and a picture of a bird, R-Mix might blend them so that the model sees the cat's head and the bird's wings in one image. The model is then told to predict both the cat and the bird, with different importance based on how much of each is in the mix. This helps the model learn to recognize objects even when they are in unusual settings. By using R-Mix, the model becomes more reliable and better at dealing with new, unseen images.
+
+## References & Further Reading
+
+[1]: Shorten, C., & Khoshgoftaar, T. M. (2019). ["A survey on Image Data Augmentation for Deep Learning."](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0) Journal of Big Data, 6(1), 60.
+
+[2]: Zhang, H., Cisse, M., Dauphin, Y. N., & Lopez-Paz, D. (2017). ["mixup: Beyond Empirical Risk Minimization."](https://arxiv.org/abs/1710.09412) arXiv.
+
+[3]: Cubuk, E. D., Zoph, B., Mane, D., Vasudevan, V., & Le, Q. V. (2018). ["AutoAugment: Learning Augmentation Policies from Data."](https://arxiv.org/abs/1805.09501) arXiv.
+
+[4]: Yun, S., Han, D., Oh, S. J., Chun, S., Choe, J., & Yoo, Y. (2019). ["CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features."](https://arxiv.org/abs/1905.04899) arXiv.
+
+[5]: Hendrycks, D., Mu, N., Cubuk, E. D., Zoph, B., Gilmer, J., & Lakshminarayanan, B. (2019). ["AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty."](https://arxiv.org/abs/1912.02781) arXiv.
+
+[6]: Cubuk, E. D., Zoph, B., Shlens, J., & Le, Q. V. (2019). ["RandAugment: Practical automated data augmentation with a reduced search space."](https://arxiv.org/abs/1909.13719) arXiv.
+
+[7]: Perez, L., & Wang, J. (2017). ["The Effectiveness of Data Augmentation in Image Classification using Deep Learning."](https://arxiv.org/abs/1712.04621) arXiv.

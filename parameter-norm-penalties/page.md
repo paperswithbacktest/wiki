@@ -112,3 +112,17 @@ Bayesian optimization is another advanced technique. It's smarter than grid or r
 Parameter norm penalties work to reduce overfitting by adding a penalty to the model's loss function based on the size of its weights. This penalty encourages the model to keep its weights small, which makes the model simpler. When a model is simpler, it's less likely to learn the noise and small errors in the training data. Instead, it focuses on the most important patterns, which helps it work better on new, unseen data. For example, L2 regularization adds a penalty based on the square of the weights, which is $$ \text{Loss} + \lambda \sum_{i} w_i^2 $$. This makes all the weights smaller but doesn't usually make them zero. By keeping the weights small, the model avoids overfitting and generalizes better.
 
 Another way to think about why parameter norm penalties work is by considering the bias-variance tradeoff. When a model has large weights, it can fit the training data very closely, which means it has low bias but high variance. High variance means the model's predictions can change a lot if the training data changes a little. By adding a penalty to the weights, the model is pushed towards having smaller weights, which increases its bias but reduces its variance. A model with smaller weights is less sensitive to small changes in the training data, so it's more stable and generalizes better. This balance between bias and variance helps the model perform better on new data, which is the goal of reducing overfitting.
+
+## References & Further Reading
+
+[1]: Ng, A. (2008). ["Feature Selection, L1 vs. L2 Regularization, and Rotational Invariance."](https://dl.acm.org/doi/10.1145/1015330.1015435) Stanford CS229 Lecture Notes.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press. (See Chapter 7 on Regularization for an in-depth discussion on L1 and L2 regularization techniques).
+
+[3]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://academic.oup.com/jrsssb/article/58/1/267/7027929) Journal of the Royal Statistical Society: Series B (Methodological).
+
+[4]: Hastie, T., Tibshirani, R., & Wainwright, M. (2015). ["Statistical Learning with Sparsity: The Lasso and Generalizations."](https://www.taylorfrancis.com/books/mono/10.1201/b18401/statistical-learning-sparsity-trevor-hastie-martin-wainwright-robert-tibshirani) CRC Press.
+
+[5]: Krogh, A., & Hertz, J. A. (1992). ["A Simple Weight Decay Can Improve Generalization."](https://proceedings.neurips.cc/paper/1991/file/8eefcfdf5990e441f0fb6f3fad709e21-Paper.pdf) Advances in Neural Information Processing Systems.
+
+[6]: Bergstra, J. S., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research.

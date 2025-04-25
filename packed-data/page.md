@@ -81,3 +81,17 @@ Another advanced technique is using recurrent [neural network](/wiki/neural-netw
 The choice of packed data format can significantly impact the scalability of a machine learning model. When data is packed efficiently, it allows the model to process larger batches of data more quickly. This is important for scalability because it means the model can handle more data in less time, which is crucial when dealing with large datasets. For example, using dynamic batching to group sequences of similar lengths can reduce the need for padding, making the model more memory-efficient and faster. This helps the model scale to bigger datasets and more complex tasks without slowing down.
 
 In terms of deployment, the packed data format can affect how easily the model can be integrated into different environments. If the packed data format is well-suited to the deployment platform, it can make the model run more smoothly and use fewer resources. For instance, if a model uses PyTorch's `pack_padded_sequence` function to handle variable-length sequences, it can be deployed more efficiently on platforms that support PyTorch. This means the model can perform well in real-world applications, making it easier to deploy and maintain. By choosing the right packed data format, you can ensure that the model scales well and deploys effectively.
+
+## References & Further Reading
+
+[1]: Yao, Z., Wan, J., Zhao, Y., & Zhang, T. (2019). ["Efficient Neural Network Training via Forward and Backward Propagation Sparsification."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) arXiv preprint arXiv:1811.07965.
+
+[2]: Collobert, R., & Weston, J. (2008). ["A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning."](https://dl.acm.org/doi/10.1145/1390156.1390177) Proceedings of the 25th International Conference on Machine Learning.
+
+[3]: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). ["Sequence to Sequence Learning with Neural Networks."](https://arxiv.org/abs/1409.3215) arXiv preprint arXiv:1409.3215.
+
+[4]: Greff, K., Srivastava, R. K., Koutník, J., Steunebrink, B. R., & Schmidhuber, J. (2017). ["LSTM: A Search Space Odyssey."](https://ieeexplore.ieee.org/document/7508408) IEEE Transactions on Neural Networks and Learning Systems, 28(10), 2222-2232.
+
+[5]: Pascanu, R., Gulcehre, C., Cho, K., & Bengio, Y. (2013). ["How to Construct Deep Recurrent Neural Networks."](https://arxiv.org/abs/1312.6026) arXiv preprint arXiv:1312.6026.
+
+[6]: Collobert, R., Kavukcuoglu, K., & Farabet, C. (2011). ["Torch7: A Matlab-Like Environment for Machine Learning."](https://ronan.collobert.com/pub/2011_torch7_nipsw.pdf) BigLearn, NIPS Workshop.

@@ -79,3 +79,19 @@ Another area of research is making Input Embedding Factorization work better wit
 To evaluate how well Input Embedding Factorization works in a model, you can look at how much it helps the model learn and perform better. One way to do this is by comparing the model's performance before and after using Input Embedding Factorization. For example, if you're working with text, you can use word embeddings and then apply Singular Value Decomposition (SVD) to make them smaller. After that, you train the model with these smaller embeddings and see if it does better on tasks like understanding language or answering questions. You can measure this by looking at metrics like accuracy, speed of training, and how well the model works on new data it hasn't seen before.
 
 Another way to check the effectiveness is by looking at how much the model overfits or underfits the data. Overfitting happens when a model learns the training data too well, including its noise and errors, and then performs badly on new data. By using Input Embedding Factorization, you can see if the model focuses more on the important patterns in the data and less on the noise. This can be checked by comparing the model's performance on the training data versus its performance on a separate test set. If the model does well on both, it's a sign that Input Embedding Factorization is helping it generalize better.
+
+## References & Further Reading
+
+[1]: Goldberg, Y., & Levy, O. (2014). ["word2vec Explained: Deriving Mikolov et al.'s Negative-Sampling Word-Embedding Method."](https://arxiv.org/abs/1402.3722) arXiv preprint arXiv:1402.3722.
+
+[2]: Lee, D. D., & Seung, H. S. (1999). ["Learning the Parts of Objects by Non-negative Matrix Factorization"](https://www.nature.com/articles/44565). Nature, 401(6755), 788-791.
+
+[3]: Koren, Y., Bell, R., & Volinsky, C. (2009). ["Matrix Factorization Techniques for Recommender Systems"](https://ieeexplore.ieee.org/abstract/document/5197422). Computer, 42(8), 30-37.
+
+[4]: Cai, J., Candes, E. J., & Shen, Z. (2010). ["A Singular Value Thresholding Algorithm for Matrix Completion."](https://arxiv.org/abs/0810.3286) SIAM Journal on Optimization, 20(4), 1956-1982.
+
+[5]: Srebro, N., & Jaakkola, T. (2003). ["Weighted Low-Rank Approximations"](https://people.csail.mit.edu/tommi/papers/SreJaa-icml03.pdf). Proceedings of the 20th International Conference on Machine Learning (ICML-03), 720-727.
+
+[6]: Strang, G. (1993). ["Introduction to Linear Algebra"](https://openlibrary.org/books/OL22427711M/Introduction_to_linear_algebra). Wellesley-Cambridge Press.
+
+[7]: Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). ["Latent Dirichlet Allocation."](https://dl.acm.org/doi/10.5555/944919.944937) Journal of Machine Learning Research, 3(Jan), 993-1022.

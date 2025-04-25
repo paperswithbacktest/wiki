@@ -79,3 +79,15 @@ Changing the threshold affects the balance between precision and recall. If you 
 When you want to make your model better at finding the positive class, you can try using advanced techniques like ensemble methods. These methods combine the predictions from different models to make a better guess. For example, Random Forests use lots of decision trees and then vote on the final prediction. This helps because if one tree makes a mistake, the others might still get it right. Another cool technique is boosting, like in Gradient Boosting Machines, where each new model tries to fix the mistakes of the last one. By doing this, the model gets better and better at spotting the positive class. You can also use techniques like SMOTE (Synthetic Minority Over-sampling Technique) to create new examples of the positive class, which helps the model learn from more positive cases.
 
 Another way to improve the prediction of the positive class is by tuning the model's hyperparameters. Hyperparameters are settings you can change to make the model work better. For example, in a [neural network](/wiki/neural-network), you might adjust the learning rate or the number of layers. You can use a method called grid search or random search to try different combinations of these settings and see which one works best. Also, you can use cross-validation to make sure your model isn't just good on one part of the data but works well on different parts. By carefully choosing the right hyperparameters and using cross-validation, you can make your model more accurate at finding the positive class.
+
+## References & Further Reading
+
+[1]: Brownlee, J. (2020). ["Imbalanced Classification with Python: Better Metrics, Treatment & Over-sampling."](https://books.google.com/books/about/Imbalanced_Classification_with_Python.html?id=jaXJDwAAQBAJ) Machine Learning Mastery.
+
+[2]: Han, H., Kamber, M., & Pei, J. (2011). ["Data Mining: Concepts and Techniques."](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) Elsevier.
+
+[3]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[4]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[5]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.

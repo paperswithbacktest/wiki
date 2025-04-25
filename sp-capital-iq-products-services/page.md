@@ -1,6 +1,7 @@
 ---
-title: "S&P Capital IQ Products and Services"
-description: "Discover S&P Capital IQ's essential role in modern finance offering market intelligence and advanced analytics to empower investment and trading strategies."
+title: Comprehensive Guide to S&P Capital IQ Data and Analytics
+description: S&P Capital IQ provides detailed financial data tools and seamless integration
+  to enhance your analysis efficiency and decision making Discover more inside
 ---
 
 

@@ -81,3 +81,19 @@ Another advanced technique is transfer learning, which is especially useful in d
 Deploying a machine learning model into production is like putting a new tool into use after building it. First, you need to package the model so it can run on a server or in the cloud. This often involves turning the model into a format that can be easily loaded and used, like saving it as a file. Then, you set up an environment where the model can run, which might be a web service or an application. You'll need to make sure the model can take in new data, make predictions, and send those predictions back to the user or another system. For example, if your model predicts house prices, you'd set it up so people can enter house details and get an estimated price. You also need to monitor the model's performance to make sure it's working correctly and not making too many mistakes.
 
 Maintaining a machine learning model in production is important to keep it working well over time. This involves regularly checking how the model is performing and updating it when needed. If the model starts making more errors or if the data it's working with changes, you might need to retrain the model with new data. For example, if house prices change a lot over time, you'd want to retrain your model to keep its predictions accurate. You also need to keep an eye on the system's health, making sure it has enough resources and that there are no technical issues. By keeping the model updated and monitored, you can make sure it continues to provide useful and accurate predictions for as long as it's in use.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[5]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron
+
+[6]: ["Pattern Recognition and Machine Learning (Information Science and Statistics)"](https://dl.acm.org/doi/10.5555/1162264) by Christopher M. Bishop
+
+[7]: ["An Introduction to Statistical Learning: with Applications in R"](https://link.springer.com/book/10.1007/978-1-0716-1418-1) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani

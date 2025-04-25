@@ -1,6 +1,7 @@
 ---
-title: "Sources of Corporate Funding"
-description: "Explore the diverse sources of corporate funding crucial for business growth including retained earnings debt and equity capital enhanced by algorithmic trading trends."
+title: Corporate Funding Explained Sources Benefits and Considerations
+description: Corporate funding offers capital through equity debt grants and partnerships
+  to help businesses grow manage cash flow and expand Discover more inside
 ---
 
 

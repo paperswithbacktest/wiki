@@ -81,3 +81,19 @@ These miscellaneous components are being explored in many advanced applications 
 Another area is in computer vision, where PixelShuffle is used for super-resolution tasks to turn low-quality images into high-quality ones. Channel Shuffle and Scatter Connections are being explored to make convolutional neural networks more efficient and better at recognizing objects in pictures. Highway Layers are also being used to help train very deep networks for image recognition, allowing them to learn complex patterns without running into problems like vanishing gradients. Researchers are working on combining these techniques to create models that can handle bigger and more detailed images faster and more accurately.
 
 In the field of [reinforcement learning](/wiki/reinforcement-learning), which is about teaching machines to make decisions, Auxiliary Classifiers and Deflation are being used to improve how [agents](/wiki/agents) learn from their environment. Auxiliary Classifiers can help the agent learn faster by adding extra tasks, like predicting future states, while Deflation can simplify the model to make it run more quickly. These components are helping researchers develop smarter agents that can learn to play complex games or control robots more effectively.
+
+## References & Further Reading
+
+[1]: Raschka, S., & Mirjalili, V. (2017). ["Python Machine Learning."](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750) Packt Publishing.
+
+[2]: Srivastava, R.K., Greff, K., & Schmidhuber, J. (2015). ["Highway Networks."](https://arxiv.org/abs/1505.00387) arXiv preprint arXiv:1505.00387.
+
+[3]: Vaswani, A., et al. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[4]: Zhang, X., et al. (2018). ["ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices."](https://ieeexplore.ieee.org/document/8578814) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[5]: Shi, W., et al. (2016). ["Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network."](https://ieeexplore.ieee.org/document/7780576) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[6]: Graves, A., Wayne, G., & Danihelka, I. (2014). ["Neural Turing Machines."](https://arxiv.org/abs/1410.5401) arXiv preprint arXiv:1410.5401.
+
+[7]: Plate, T. (1995). ["Holographic Reduced Representations: Distributed Representation for Cognitive Structures."](https://www.researchgate.net/publication/5589577_Holographic_Reduced_Representations) Lawrence Erlbaum Associates.

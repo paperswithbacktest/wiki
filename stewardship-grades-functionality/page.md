@@ -1,6 +1,7 @@
 ---
-title: "Stewardship Grades and Their Functionality"
-description: "Explore the interplay between stewardship grades and algorithmic trading to enhance investment strategies by optimizing governance insights and trading efficiency."
+title: Stewardship Grades and Algorithmic Trading Metrics
+description: Stewardship grades reveal how companies manage ESG responsibilities while
+  algorithmic trading metrics track performance. Discover more inside.
 ---
 
 

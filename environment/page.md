@@ -83,3 +83,23 @@ Another technique is to use distributed logging systems like ELK Stack (Elastics
 To integrate continuous integration and deployment (CI/CD) into a machine learning environment, you can use tools like Jenkins, GitLab CI, or GitHub Actions. These tools help you automate the process of testing and deploying your machine learning models. When you make changes to your code or data, the CI/CD system runs your tests automatically to make sure everything still works. If the tests pass, the system can then deploy your new model to production, so it's ready for people to use. This way, you can keep improving your models and get them out to users quickly and safely.
 
 One important part of setting up CI/CD for machine learning is to make sure your tests cover all the important parts of your model. You might want to test things like how well your model predicts outcomes, how fast it runs, and whether it works with different kinds of data. You can write these tests in your code and then use the CI/CD system to run them every time you make a change. This helps you catch problems early and makes sure your models are always working as expected. By using CI/CD, you can make your machine learning work more efficient and reliable.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT Press.
+
+[2]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python). Manning Publications.
+
+[3]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975). O'Reilly Media.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[5]: Brazier, J. (2020). ["Google Cloud Tutorial: Building Machine Learning Models in the Cloud"](https://dl.acm.org/doi/abs/10.5555/3379393). FreeCodeCamp News.
+
+[6]: Apache Software Foundation. ["Apache Spark™"](https://spark.apache.org/). 
+
+[7]: ["MLOps: A new branch of ML, data science to deploy machine learning models"](https://medium.com/thedeephub/mlops-a-data-engineers-roadmap-to-operationalizing-machine-learning-1769a7817e86) by Google Cloud Blog. 
+
+[8]: Docker Inc. ["Docker Documentation"](https://docs.docker.com/).
+
+[9]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need"](https://arxiv.org/abs/1706.03762). Advances in Neural Information Processing Systems.

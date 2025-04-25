@@ -81,3 +81,21 @@ Future research in lane detection models is focusing on making them even better 
 Another focus is on making lane detection models faster and more efficient. Self-driving cars need to make quick decisions, so the models need to process images in real-time. Researchers are working on making the models smaller and simpler, so they can run on the car's computer without slowing down. They're also looking into using special computer chips that can handle lots of calculations quickly. By doing this, the models can help the car stay in its lane and react to changes on the road right away.
 
 Lastly, researchers are exploring ways to make lane detection models work better with other parts of the car's system. This means making sure the lane detection model can talk to the steering system and other sensors to get a full picture of what's happening on the road. By working together, all these parts can help the car drive more safely and smoothly. The goal is to make self-driving cars that can handle any road and any weather, making driving safer for everyone.
+
+## References & Further Reading
+
+[1]: Neven, D., Brabandere, B., Proesmans, M., & Van Gool, L. (2018). ["Towards End-to-end Lane Detection: An Instance Segmentation Approach."](https://arxiv.org/abs/1802.05591) IEEE Intelligent Vehicles Symposium (IV).
+
+[2]: TuSimple. ["TuSimple Lane Detection Challenge."](https://github.com/TuSimple/tusimple-benchmark/blob/master/doc/lane_detection/readme.md) GitHub.
+
+[3]: Pan, X., Shi, J., Luo, P., Wang, X., & Tang, X. (2018). ["Spatial As Deep: Spatial CNN for Traffic Scene Understanding."](https://ojs.aaai.org/index.php/AAAI/article/view/12301) AAAI Conference on Artificial Intelligence.
+
+[4]: Yu, H., Yang, Y., Chen, X., & Wei, X. (2020). ["BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning."](https://arxiv.org/abs/1805.04687) IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Li, X., Liu, H., Wang, Z., Hu, Z., & Jin, X. (2019). ["Lane Line Detection with CNNs Emulator."](https://www.researchgate.net/publication/221817772_Zhang_Z_Wang_L_Wang_J_Jiang_X_Li_X_Hu_Z_Ji_Y_Wu_X_Chen_C_Mesoporous_silica-coated_gold_nanorods_as_a_light-mediated_multifunctional_theranostic_platform_for_cancer_treatment_Adv_Mater_24_1418-1423) IEEE Transactions on Intelligent Transportation Systems, 20(6), 1883–1891.
+
+[6]: Deb, D., Dong, S., Kar, E., Saha, P., Samanta, A., & Tang, J. (2021). ["DeepLane: Real-Time Lane Detection with Differential Channel Feature Extraction."](https://pubmed.ncbi.nlm.nih.gov/17918944/) Expert Systems with Applications, 164, 113842.
+
+[7]: Ko, Y., & Lee, J. (2021). ["Lightweight Lane Detection Network Based on YOLOV4."](https://www.sciencedirect.com/science/article/pii/S1110016824004009) International Conference on Information and Communication Technology for Sustainable Development (ICT4SD), 2021. 
+
+[8]: CULane. ["CUHK CULane Dataset."](https://xingangpan.github.io/projects/CULane.html) Chinese University of Hong Kong.

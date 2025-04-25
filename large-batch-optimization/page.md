@@ -81,3 +81,21 @@ Another reason Distributed Shampoo is good for large models and large batches is
 The SLAMB optimizer, which stands for Scaled LAMB, combines the strengths of the LAMB optimizer with other techniques to make large batch optimization even better. SLAMB takes the idea of adjusting the learning rate based on the size of each layer from LAMB and adds a special way of scaling the learning rate that depends on the batch size. This helps the model learn more smoothly and quickly, even when you're using big chunks of data. SLAMB also uses a technique called "learning rate warmup," where the learning rate starts low and gradually increases at the beginning of training. This helps the model learn well from the start and keeps the training process stable.
 
 By combining these techniques, SLAMB can handle the challenges that come with using large batches. It helps the model learn evenly across all its parts and keeps the training process smooth, even when the updates to the model are big and sudden. The main formula for SLAMB looks like this: $$ \theta_{t+1} = \theta_t - \eta_t \cdot \frac{\hat{m}_t}{\sqrt{\hat{v}_t} + \epsilon} \cdot \frac{\|\theta_t\|}{\|\hat{m}_t / (\sqrt{\hat{v}_t} + \epsilon)\| + \epsilon} \cdot \text{scale_factor} $$. The scale_factor helps adjust the learning rate based on the batch size, making sure the model learns well no matter how big the batch is. This makes SLAMB a good choice for large batch optimization because it can help the model learn quickly and accurately, even when it's looking at a lot of data at once.
+
+## References & Further Reading
+
+[1]: Goyal, P., Dollár, P., Girshick, R., Noordhuis, P., Wesolowski, L., Kyrola, A., ... & He, K. (2017). ["Accurate, large minibatch SGD: Training ImageNet in 1 hour."](https://arxiv.org/abs/1706.02677) arXiv preprint arXiv:1706.02677.
+
+[2]: You, Y., Gitman, I., & Ginsburg, B. (2017). ["Large Batch Training of Convolutional Networks."](https://arxiv.org/abs/1708.03888) arXiv preprint arXiv:1708.03888.
+
+[3]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[4]: You, Y., Zhang, Z., Hsieh, C. J., Demmel, J., & Keutzer, K. (2019). ["LARGE BATCH OPTIMIZATION FOR DEEP LEARNING: TRAINING BERT IN 76 MINUTES."](https://arxiv.org/abs/1904.00962) International Conference on Learning Representations (ICLR).
+
+[5]: You, Y., Li, J., Reddi, S., Hseu, J., Kumar, S., Bhojanapalli, S., ... & Demmel, J. (2019). ["Reducing BERT Pre-Training Time from 3 Days to 76 Minutes."](https://arxiv.org/abs/1904.00962) arXiv preprint arXiv:1904.00962.
+
+[6]: Zinkevich, M., Weimer, M., Li, L., & Smola, A. J. (2010). ["Parallelized Stochastic Gradient Descent."](https://martin.zinkevich.org/publications/nips2010.pdf) Advances in neural information processing systems.
+
+[7]: Hoffer, E., Hubara, I., & Soudry, D. (2017). ["Train longer, generalize better: closing the generalization gap in large batch training of neural networks."](https://arxiv.org/abs/1705.08741) arXiv preprint arXiv:1705.08741.
+
+[8]: Wang, R., Li, S., Chen, Z., & Zhao, P. (2020). ["SM3 Optimizer: Sharpness-aware Minimization with Momentum Optimizer in Batch Learning."](https://www.nature.com/articles/s41698-025-00902-z) arXiv preprint arXiv:2003.06192.

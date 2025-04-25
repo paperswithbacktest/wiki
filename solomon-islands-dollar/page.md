@@ -1,6 +1,7 @@
 ---
-title: "Solomon Islands Dollar"
-description: "Explore the Solomon Islands Dollar its significance in trade and the benefits of algo trading in forex markets for SBD-based strategies and investment insights."
+title: Comprehensive Guide to the Solomon Islands Dollar Currency
+description: Solomon Islands Dollar shapes local economies through central bank policies
+  and exchange rates driving commerce and stability Discover more inside
 ---
 
 

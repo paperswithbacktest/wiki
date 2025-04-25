@@ -81,3 +81,15 @@ Another way to improve DQN is by using Dueling DQN. Dueling DQN changes the Q-ne
 DQN has been successfully used in video games, especially in the game of Atari. Researchers used DQN to train a computer to play many different Atari games, like Breakout and Space Invaders, just by watching the screen and getting scores. The DQN learned to play these games better than many human players by using a special kind of computer program called a neural network. This neural network helped the DQN figure out the best moves to make by guessing how good different actions would be. The formula for updating the Q-values in DQN is $$Q(s, a) = Q(s, a) + \alpha (r + \gamma \max_{a'} Q(s', a') - Q(s, a))$$, where $$s$$ is the current state, $$a$$ is the action taken, $$r$$ is the reward received, $$s'$$ is the next state, $$\alpha$$ is the learning rate, and $$\gamma$$ is the discount factor. By using this formula, the DQN could improve its game-playing skills over time.
 
 Another real-world application of DQN is in robotics. DQN has been used to help robots learn how to do tasks like [picking](/wiki/asset-class-picking) up objects or navigating through a room. For example, a robot might use DQN to learn how to move its arm to grab a cup. The robot would try different movements, and the DQN would help it figure out which movements work best by using the same Q-learning formula. This way, the robot can get better at doing the task without being told exactly what to do. DQN helps the robot learn from its experiences and make smarter decisions, making it more useful in real-world situations.
+
+## References & Further Reading
+
+[1]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[2]: Van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep reinforcement learning with double Q-learning."](https://arxiv.org/abs/1509.06461) Proceedings of the AAAI Conference on Artificial Intelligence, 30(1).
+
+[3]: Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2016). ["Prioritized Experience Replay."](https://arxiv.org/abs/1511.05952) arXiv preprint arXiv:1511.05952.
+
+[4]: Wang, Z., Schaul, T., Hessel, M., van Hasselt, H., Lanctot, M., & de Freitas, N. (2016). ["Dueling Network Architectures for Deep Reinforcement Learning."](https://proceedings.mlr.press/v48/wangf16.html) Proceedings of the 33rd International Conference on Machine Learning, Vol. 48.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (2nd edition). MIT Press.

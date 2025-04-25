@@ -1,7 +1,7 @@
 ---
-title: Machine Learning Splitters In Decision Tree Algorithms Explained
-description: Machine Learning Splitters drive decision tree accuracy and speed by
-  creating homogeneous subsets to prevent overfitting Discover more inside
+title: Understanding Decision Tree Splitters in Machine Learning
+description: Machine Learning splitters drive decision trees by dividing data with
+  information gain Gini and random splits to improve accuracy. Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -79,3 +79,19 @@ When all the trees in a Random Forest make their predictions, the final predicti
 Current research trends in splitters for machine learning focus on improving their ability to handle complex and high-dimensional data. One major trend is the development of more efficient algorithms that can work well with big datasets. Researchers are exploring new ways to optimize splitters, like using parallel computing to speed up the process of finding the best split. Another trend is the use of adaptive splitters that can change their splitting strategy based on the data they see. For example, some researchers are working on splitters that can automatically adjust to imbalanced datasets or noisy data, making them more robust and accurate.
 
 Future directions for splitters in machine learning are likely to involve integrating them with advanced techniques like [deep learning](/wiki/deep-learning). Researchers are interested in combining decision trees with neural networks to create hybrid models that can benefit from the strengths of both approaches. For instance, a [neural network](/wiki/neural-network) could be used to preprocess the data and learn complex features, which the splitter could then use to make more informed decisions. Additionally, there is growing interest in developing splitters that can handle different types of data, such as time series or image data, more effectively. This could lead to more versatile and powerful decision tree algorithms that can be applied to a wider range of problems.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[2]: Quinlan, J. R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1, 81-106.
+
+[3]: Breiman, L., Friedman, J., Stone, C. J., & Olshen, R. A. (1984). ["Classification and Regression Trees."](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-olshen-charles-stone) CRC Press.
+
+[4]: Mitchell, T. M. (1997). ["Machine Learning."](https://www.cs.cmu.edu/~tom/mlbook.html) McGraw-Hill.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[6]: Rokach, L., & Maimon, O. (2005). ["Top-Down Induction of Decision Trees Classifiers - A Survey."](https://ieeexplore.ieee.org/document/1522531) IEEE Transactions on Systems, Man, and Cybernetics.
+
+[7]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

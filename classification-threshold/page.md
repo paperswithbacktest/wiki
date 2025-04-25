@@ -79,3 +79,17 @@ Another technique is using adaptive thresholding, where the threshold changes ba
 Domain-specific knowledge can really help you pick the right classification threshold for your model. For example, if you know that missing a positive case in your field, like a sick person in medicine, is a big problem, you might want to lower the threshold. This means more things will be labeled as positive, so you catch more of the cases you care about. But, if you also know that labeling something as positive by mistake can cause big problems, like labeling a healthy person as sick, you'll need to balance that too. So, knowing what's important in your field helps you decide how to set the threshold to get the best results.
 
 In some fields, like fraud detection, you might know that false alarms are not as bad as missing a fraud case. So, you might lower the threshold to catch more fraud, even if it means more false alarms. But, if you're working on something like spam email filtering, you might know that people really hate getting important emails labeled as spam. In that case, you might raise the threshold to avoid false alarms, even if it means missing some spam. By using what you know about your field, you can adjust the threshold to make sure your model works the best way possible for your specific needs.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861-874.
+
+[2]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Davis, J., & Goadrich, M. (2006). ["The Relationship Between Precision-Recall and ROC Curves."](https://dl.acm.org/doi/10.1145/1143844.1143874) Proceedings of the 23rd International Conference on Machine Learning.
+
+[4]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.
+
+[5]: Koyejo, O. O., Natarajan, N., Ravikumar, P., & Dhillon, I. S. (2014). ["Consistent Multiclass Algorithms for Complex Performance Measures."](https://experts.illinois.edu/en/publications/consistent-multilabel-classification) Advances in Neural Information Processing Systems 27.
+
+[6]: Bradley, A. P. (1997). ["The use of the area under the ROC curve in the evaluation of machine learning algorithms."](https://www.sciencedirect.com/science/article/abs/pii/S0031320396001422) Pattern Recognition, 30(7), 1145-1159.

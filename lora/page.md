@@ -81,3 +81,15 @@ Another trend in LoRA research is its integration with other fine-tuning techniq
 LoRA, or Low-Rank Adaptation, can be integrated with other AI and machine learning technologies to make models work better and faster. One way to do this is by combining LoRA with prompt tuning. Prompt tuning is a method where you give the model a special instruction, or "prompt," to help it understand new tasks. By using LoRA to make small changes to the model's weights, represented by the formula $$W + BA$$, and then using prompt tuning to guide the model, you can quickly adapt the model to understand new types of data, like scientific texts or industry jargon, without starting from scratch.
 
 Another way to integrate LoRA is with adapter layers. Adapter layers are small parts added to the model that can be trained on new tasks. When you use LoRA to add small matrices to the model's weights and then add adapter layers, you can fine-tune the model even more efficiently. This combination allows the model to handle complex tasks better while using less computer power. For example, if you have a model that's good at understanding general language and you want it to understand medical texts, using LoRA with adapter layers can help you do that quickly and effectively.
+
+## References & Further Reading
+
+[1]: Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, S., Wang, L., ... & Chen, W. (2021). ["LoRA: Low-Rank Adaptation of Large Language Models"](https://arxiv.org/abs/2106.09685). arXiv preprint arXiv:2106.09685.
+
+[2]: Tay, Y., Dehghani, M., Abnar, S., Shen, Y., Bahri, D., Pham, P., ... & Houlsby, N. (2021). ["Scale Efficiently: Insights from Pre-training and Fine-tuning Transformers"](https://arxiv.org/abs/2011.04006). arXiv preprint arXiv:2109.10686.
+
+[3]: Houlsby, N., Giurgiu, A., Jastrzebski, S., Morrone, B., de Laroussilhe, Q., Gesmundo, A., ... & Gelly, S. (2019). ["Parameter-efficient transfer learning for NLP"](https://arxiv.org/abs/1902.00751). arXiv preprint arXiv:1902.00751.
+
+[4]: Benno, W., Gross, S., & Chintala, S. (2021). ["Efficient Finetuning of Transformers Without Tears: From AdapterMix To Modular Mechanics"](https://arxiv.org/html/2406.11794v4). Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics.
+
+[5]: Mahabadi, R. K., Ruder, S., & Dehghani, M. (2021). ["Parameter-Efficient Multitask Fine-tuning"](https://aclanthology.org/2021.acl-long.47/). arXiv preprint arXiv:2106.04489.

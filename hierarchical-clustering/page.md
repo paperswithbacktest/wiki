@@ -83,3 +83,15 @@ Another area where hierarchical clustering is helpful is in document analysis. I
 In research, one advanced technique of hierarchical clustering is called "Ward's method." This method is a bit different from the usual ways of joining clusters because it looks at how the total variance within clusters changes when two clusters are joined. The goal is to join clusters in a way that keeps the increase in variance as small as possible. This can help make clusters that are more compact and similar inside. Another advanced technique is "BIRCH," which stands for Balanced Iterative Reducing and Clustering using Hierarchies. BIRCH is good for handling big sets of data because it uses a special way to group points into small groups called "micro-clusters" first, and then it uses these to build the final clusters. This makes it faster to work with a lot of data.
 
 Another interesting variation is "fuzzy hierarchical clustering," which lets data points belong to more than one cluster at the same time. This is useful when things can fit into different groups, like people who like both sports and music. The idea is to give each data point a score that shows how much it belongs to each cluster. This can be shown with a special kind of dendrogram that looks more like a web than a tree. Researchers also use "constrained hierarchical clustering," where they add rules or limits on how clusters can be formed. For example, you might want to make sure that certain points stay in the same cluster or that some points are never in the same cluster. This can help make the clustering fit better with what you know about the data.
+
+## References & Further Reading
+
+[1]: Murtagh, F., & Contreras, P. (2012). ["Algorithms for hierarchical clustering: an overview"](https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.53). Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 2(1), 86-97.
+
+[2]: Jain, A. K., & Dubes, R. C. (1988). ["Algorithms for Clustering Data."](https://dl.acm.org/doi/10.5555/42779) Prentice Hall.
+
+[3]: Rokach, L., & Maimon, O. (2005). ["Clustering Methods."](https://link.springer.com/chapter/10.1007/0-387-25465-X_15) In: The Data Mining and Knowledge Discovery Handbook. Springer.
+
+[4]: Xu, R., & Wunsch, D. (2005). ["Survey of clustering algorithms"](https://www.researchgate.net/publication/3303538_Survey_of_Clustering_Algorithms). IEEE Transactions on Neural Networks, 16(3), 645-678.
+
+[5]: Kaufman, L., & Rousseeuw, P. J. (2009). ["Finding Groups in Data: An Introduction to Cluster Analysis."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316801) John Wiley & Sons.

@@ -1,6 +1,7 @@
 ---
-title: "Singapore Mercantile Exchange Overview"
-description: "Explore the pivotal role of the Singapore Mercantile Exchange in Asian commodity trading with insights into algorithmic trading's impact on market dynamics."
+title: Commodities Trading On The Singapore Mercantile Exchange Platform
+description: Singapore Mercantile Exchange offers a platform for trading gold silver
+  and iron ore with transparent clearing and global access Discover more inside.
 ---
 
 

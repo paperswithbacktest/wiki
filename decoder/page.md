@@ -87,3 +87,17 @@ Another cool architecture is the Generative Adversarial Network (GAN). In a GAN,
 In neural networks, decoders can handle variable-length input and output by using special techniques like padding and masking. Imagine you're trying to translate sentences of different lengths. The decoder needs a way to know when to stop generating words. Padding is like adding empty spaces to make all the sentences the same length, so the decoder can process them easily. Masking helps the decoder ignore these empty spaces and focus on the actual words. By using padding and masking, the decoder can work with sentences of different lengths without getting confused.
 
 Another way decoders handle variable-length sequences is by using attention mechanisms. Attention helps the decoder focus on different parts of the input at different times. For example, if the decoder is translating a long sentence, it can use attention to pay more attention to the relevant words at each step. This way, the decoder can generate the right words in the right order, even if the input and output lengths are different. Attention mechanisms make the decoder smarter and more flexible, allowing it to handle variable-length sequences effectively.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[3]: Chalnick, B., & Billman, D. (1988). ["Unsupervised Learning of Correlational Structure."](https://escholarship.org/uc/item/1hk320tt) Neural Computation, 1(1), 127–152.
+
+[4]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning Representations by Back-Propagating Errors."](https://www.nature.com/articles/323533a0) Nature, 323, 533–536.
+
+[5]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735–1780.
+
+[6]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.

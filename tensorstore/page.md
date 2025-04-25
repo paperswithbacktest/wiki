@@ -81,3 +81,15 @@ Tensorstore also works well with popular deep learning tools like TensorFlow and
 Tensorstore is great for handling big data in machine learning, but it still has some limits. One big problem is that it's still new and not as many people use it as other tools. This means there might not be as much help or examples to learn from. Also, Tensorstore can be hard to set up and use because it's made for really big and complex data. If you have smaller projects, it might be more work than you need. Another limit is that it might not work as well with some older or less common storage systems.
 
 In the future, Tensorstore is expected to get better and easier to use. The people making it plan to add more ways to connect with different storage systems and make it work with even more machine learning tools. They also want to make it easier to set up and use, so more people can try it out. As more people start using Tensorstore, there will be more examples and help available, which will make it a more popular choice for managing data in machine learning projects.
+
+## References & Further Reading
+
+[1]: Google AI Blog. ["TensorStore: A Library for Storage and Manipulation of Large N-Dimensional Data."](https://github.com/google/tensorstore) Published on August 16, 2022.
+
+[2]: ["TensorStore GitHub Repository"](https://google.github.io/tensorstore/) - The official source code repository for TensorStore.
+
+[3]: Abadi, M. et al. (2016). ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems."](https://arxiv.org/abs/1603.04467) arXiv:1603.04467.
+
+[4]: Paszke, A. et al. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library."](https://arxiv.org/abs/1912.01703) Advances in Neural Information Processing Systems 32.
+
+[5]: Zarr Development Team. ["Zarr: a format for the storage of chunked, compressed, N-dimensional arrays."](https://github.com/zarr-developers/zarr-python) Zarr Documentation.

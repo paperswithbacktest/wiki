@@ -79,3 +79,17 @@ Another useful technique is to use "adaptive learning rates." This means the mod
 One recent innovation in Mixture of Experts (MoE) models is the use of "dynamic routing." This means the gating network can change which expert it sends the data to as the model learns more. This can make the model more flexible and better at handling different types of data. Researchers are also looking into "conditional computation," where only some parts of the model are used for each input. This can save a lot of computing power because the model doesn't have to use all the experts all the time. For example, if you're predicting house prices, the model might only use the city expert for city houses and the countryside expert for countryside houses, instead of using both for every house.
 
 Another trend in MoE research is the use of "transformer-based MoE models." These models combine the power of MoE with transformer architectures, which are really good at understanding language and other types of data. By using transformers, MoE models can handle even more complex problems and make better predictions. Researchers are also exploring ways to make MoE models more interpretable, so people can understand how the model makes its decisions. This is important for using MoE models in areas like healthcare or finance, where it's crucial to know why a model makes a certain prediction.
+
+## References & Further Reading
+
+[1]: Jordan, M. I., & Jacobs, R. A. (1994). ["Hierarchical Mixtures of Experts and the EM Algorithm."](https://www.cs.toronto.edu/~hinton/absps/hme.pdf) Neural Computation, 6(2), 181-214.
+
+[2]: Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G., & Dean, J. (2017). ["Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer."](https://arxiv.org/abs/1701.06538) arXiv preprint arXiv:1701.06538.
+
+[3]: Eigen, D., Ranzato, M., & Sutskever, I. (2013). ["Learning Factored Representations in a Deep Mixture of Experts."](https://arxiv.org/abs/1312.4314) arXiv preprint arXiv:1312.4314.
+
+[4]: McGill, M., & Perona, P. (1995). ["Deciding how to decide: Dynamic Routing in Artificial Neural Networks."](https://arxiv.org/abs/1703.06217) Proceedings of the International Conference on Neural Networks.
+
+[5]: Lepikhin, D., Lee, H., Xu, Y., Chen, D., Firat, O., Huang, Y., ... & Chen, Z. (2020). ["GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding."](https://arxiv.org/abs/2006.16668) arXiv preprint arXiv:2006.16668. 
+
+[6]: Fedus, W., Zoph, B., & Shazeer, N. (2021). ["Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity."](https://arxiv.org/abs/2101.03961) arXiv preprint arXiv:2101.03961.

@@ -1,6 +1,7 @@
 ---
-title: "Special Dividend: Definition and Taxation"
-description: "Explore special dividends taxation and algorithmic trading strategies to enhance investment income. Learn to optimize your portfolio and navigate tax laws."
+title: Special Dividends Explained Tax Implications and Market Effects
+description: Special dividends offer shareholders one-time extra payouts that affect
+  taxes and stock valuations with insights on timing Discover more inside.
 ---
 
 

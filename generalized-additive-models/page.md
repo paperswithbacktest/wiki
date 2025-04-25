@@ -115,3 +115,15 @@ summary(model)
 ```
 
 In this code, `s(temperature)` and `s(humidity)` are the smooth functions for each predictor, and `ti(temperature, humidity)` is the interaction term. This way, the model can capture how the effect of temperature on ice cream sales changes with different levels of humidity, giving you a more detailed understanding of the data.
+
+## References & Further Reading
+
+[1]: Hastie, T., & Tibshirani, R. (1990). ["Generalized Additive Models."](https://www.taylorfrancis.com/books/mono/10.1201/9780203753781/generalized-additive-models-hastie) Chapman and Hall/CRC.
+
+[2]: Wood, S. N. (2017). ["Generalized Additive Models: An Introduction with R."](https://www.taylorfrancis.com/books/mono/10.1201/9781315370279/generalized-additive-models-simon-wood) CRC Press.
+
+[3]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). ["An Introduction to Statistical Learning: with Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.
+
+[4]: Simon, T. J., Juliana, F., & Harezlak, J. (2020). ["Semiparametric Regression with R."](https://link.springer.com/book/10.1007/978-1-4939-8853-2) Springer.
+
+[5]: Pedersen, E. J., Miller, D. L., Simpson, G. L., & Ross, N. (2019). ["Hierarchical Generalized Additive Models in Ecology using mgcv."](https://pubmed.ncbi.nlm.nih.gov/31179172/) The R Journal.

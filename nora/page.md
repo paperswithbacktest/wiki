@@ -79,3 +79,15 @@ Also, Nora's ability to work in real-time has gotten better. With new tools and 
 In a case study from a hospital, Nora was used to help doctors decide on treatments for patients with heart disease. The hospital had a lot of data about patients, like their age, weight, and test results. They used Nora to look at this data and predict which treatments would work best for each patient. Nora's decision trees made it easy for doctors to see why it suggested a certain treatment. This helped doctors trust Nora's predictions and make better choices for their patients. The hospital found that patients who got treatments based on Nora's predictions did better than those who didn't.
 
 Another example comes from a bank that used Nora to decide if people should get loans. The bank had data about people's income, credit scores, and how much they wanted to borrow. They trained Nora with this data to predict if someone would pay back their loan. Nora's clear explanations helped the bank understand why it approved or denied a loan, which was important for following rules and explaining decisions to customers. The bank saw that using Nora led to fewer bad loans and happier customers who understood the loan decisions better.
+
+## References & Further Reading
+
+[1]: Caruana, R., Lou, Y., Gehrke, J., Koch, P., Sturm, M., & Elhadad, N. (2015). ["Intelligible Models for Healthcare: Predicting Pneumonia Risk and Hospital 30-day Readmission"](https://dl.acm.org/doi/10.1145/2783258.2788613). ACM SIGKDD.
+
+[2]: Lundberg, S. M., & Lee, S.-I. (2017). ["A Unified Approach to Interpreting Model Predictions"](https://dl.acm.org/doi/10.5555/3295222.3295230). Advances in Neural Information Processing Systems 30.
+
+[3]: ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+
+[4]: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). ["Why Should I Trust You?": Explaining the Predictions of Any Classifier"](https://dl.acm.org/doi/10.1145/2939672.2939778). ACM SIGKDD.
+
+[5]: Breiman, L. (2001). ["Random Forests"](https://link.springer.com/article/10.1023/A:1010933404324). Machine Learning, 45(1), 5-32.

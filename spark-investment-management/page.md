@@ -1,6 +1,7 @@
 ---
-title: "Spark Investment Management"
-description: "Discover the innovative strategies driving Spark Investment Management's algorithmic trading success. Learn how cutting-edge technology optimizes investment performance."
+title: Spark Investment Management Comprehensive Services and Strategies
+description: Spark Investment Management crafts personalized strategies across diverse
+  assets with transparent fees and ongoing risk oversight Discover more inside
 ---
 
 

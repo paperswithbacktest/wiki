@@ -81,3 +81,15 @@ Choosing the right metric is also important because it depends on what you're tr
 When you're comparing different models, you need to look at the metrics to see which one is doing the best job. Let's say you have three models trying to guess if it will rain tomorrow. You might look at accuracy, which tells you the percentage of times the model guessed right. If Model A has an accuracy of 80%, Model B has 75%, and Model C has 85%, you might think Model C is the best. But if your data has a lot more "no rain" days than "rain" days, accuracy might not be the best metric. In that case, you could also look at precision, which tells you how many of the positive guesses (like "rain") were right, and recall, which tells you how many of the actual positive cases the model caught. The F1 score, which is the harmonic mean of precision and recall, can be a good way to balance both. The formula for the F1 score is $$ \text{F1} = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} + \text{recall}} $$. By comparing these different metrics, you get a better picture of which model is truly the best for your task.
 
 For regression problems, like predicting the temperature, you might use mean squared error (MSE) or mean absolute error (MAE). MSE tells you how far off your predictions are on average, and it punishes big mistakes more because it squares the differences. The formula for MSE is $$ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 $$. MAE is simpler because it just takes the average of the absolute differences between the predictions and the actual values. The formula for MAE is $$ \text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i| $$. If you have two models predicting temperature, and Model A has an MSE of 4 and Model B has an MSE of 6, Model A is doing a better job because its predictions are closer to the actual temperatures on average. But if you care more about treating all errors the same, you might prefer to compare the MAE instead. By looking at these different metrics, you can choose the model that best fits what you need.
+
+## References & Further Reading
+
+[1]: Han, J., Kamber, M., & Pei, J. (2011). ["Data Mining: Concepts and Techniques."](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) Elsevier.
+
+[2]: Powers, D. M. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Flach, P. (2012). ["Machine Learning: The Art and Science of Algorithms that Make Sense of Data."](https://xamgore.github.io/au-ml/books/art_of_ml.pdf) Cambridge University Press.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.

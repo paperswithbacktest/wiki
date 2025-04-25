@@ -103,3 +103,23 @@ Another important thing for real-time recommendation systems is to use the right
 Multi-armed bandits are a smart way to make recommendation systems better. They work by trying different things to see what works best. Imagine you have a bunch of slot machines, and each one gives you different rewards. You want to figure out which machine gives the best rewards without spending too much time on the bad ones. In recommendation systems, the "machines" are the different items you can suggest to users. The system tries different suggestions to see which ones users like the most. Over time, it learns to show the best items more often, but it still keeps trying new things to make sure it doesn't miss out on good suggestions.
 
 One way to use multi-armed bandits in recommendation systems is with the Upper Confidence Bound (UCB) algorithm. This method helps the system balance between showing items it thinks users will like and trying new items. The formula for UCB is $$UCB_i = \bar{x}_i + \sqrt{\frac{2 \ln n}{n_i}}$$, where $$\bar{x}_i$$ is the average reward for item $$i$$, $$n$$ is the total number of trials, and $$n_i$$ is the number of times item $$i$$ has been tried. By using this formula, the system can decide which items to show next based on how well they've done before and how much more it needs to learn about them. This helps the system give good recommendations right away and keep getting better over time.
+
+## References & Further Reading
+
+[1]: Aggarwal, C. C. (2016). ["Recommender Systems: The Textbook."](https://link.springer.com/book/10.1007/978-3-319-29659-3) Springer.
+
+[2]: Ricci, F., Rokach, L., & Shapira, B. (Eds.). (2015). ["Recommender Systems Handbook."](https://link.springer.com/book/10.1007/978-1-0716-2197-4) Springer.
+
+[3]: Koren, Y., Bell, R., & Volinsky, C. (2009). ["Matrix Factorization Techniques for Recommender Systems."](https://ieeexplore.ieee.org/abstract/document/5197422) IEEE Computer, 42(8), 30-37.
+
+[4]: Friedman, N., Hastie, T., & Tibshirani, R. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Burke, R. (2002). ["Hybrid Recommender Systems: Survey and Experiments."](https://link.springer.com/article/10.1023/A:1021240730564) User Modeling and User-Adapted Interaction, 12(4), 331–370.
+
+[6]: Lops, P., de Gemmis, M., & Semeraro, G. (2011). ["Content-Based Recommender Systems: State of the Art and Trends."](https://www.researchgate.net/profile/Giovanni-Semeraro/publication/226098747_Content-based_Recommender_Systems_State_of_the_Art_and_Trends/links/0046352c52d0a3d52e000000/Content-based-Recommender-Systems-State-of-the-Art-and-Trends.pdf) In: Ricci, F., Rokach, L., Shapira, B., Kantor, P. (eds) Recommender Systems Handbook. Springer.
+
+[7]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) The MIT Press.
+
+[8]: McNee, S. M., Riedl, J., & Konstan, J. A. (2006). ["Being Accurate is Not Enough: How Accuracy Metrics have Hurt Recommender Systems."](https://dl.acm.org/doi/10.1145/1125451.1125659) CHI '06: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+
+[9]: Auer, P. (2002). ["Using Confidence Bounds for Exploitation-Exploration Trade-offs."](https://dl.acm.org/doi/10.5555/944919.944941) Journal of Machine Learning Research, 3, 397–422.

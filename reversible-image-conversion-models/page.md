@@ -105,3 +105,15 @@ start_time = time.time()
 end_time = time.time()
 print(f"Time taken: {end_time - start_time} seconds")
 ```. This speed was important because it made the process quick and practical for real-time use.
+
+## References & Further Reading
+
+[1]: Dinh, L., Krueger, D., & Bengio, Y. (2014). ["NICE: Non-linear Independent Components Estimation."](https://arxiv.org/abs/1410.8516) arXiv preprint arXiv:1410.8516.
+
+[2]: Ardizzone, L., Kruse, J., Rother, C., & Köthe, U. (2018). ["Analyzing Inverse Problems with Invertible Neural Networks."](https://arxiv.org/abs/1808.04730) arXiv preprint arXiv:1808.04730.
+
+[3]: Chen, X., Behrmann, J., Duvenaud, D., & Jacobsen, J. H. (2019). ["Residual Flows for Invertible Generative Modeling."](https://arxiv.org/abs/1906.02735) arXiv preprint arXiv:1906.02735.
+
+[4]: Ho, J., Chen, X., Srinivas, A., Duan, Y., & Abbeel, P. (2019). ["Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design."](https://arxiv.org/abs/1902.00275) arXiv preprint arXiv:1902.00275.
+
+[5]: Kingma, D. P., & Dhariwal, P. (2018). ["Glow: Generative Flow with Invertible 1x1 Convolutions."](https://arxiv.org/abs/1807.03039) arXiv preprint arXiv:1807.03039.

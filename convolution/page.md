@@ -108,3 +108,19 @@ quantized_tflite_model = converter.convert()
 ``` These methods help make the network more efficient while still being effective.
 
 Another way to optimize CNNs is by using specialized architectures and techniques like depthwise separable convolutions and efficient network designs. Depthwise separable convolutions split the standard convolution into two separate steps: a depthwise convolution that applies a single filter per input channel, and a pointwise convolution that combines the outputs. This reduces the number of parameters and computations needed, making the network faster and lighter. The formula for depthwise separable convolution can be written as $$ \text{output} = \text{pointwise}(\text{depthwise}(\text{input})) $$. Efficient network designs, like MobileNet or EfficientNet, are specifically built to be fast and lightweight while still achieving good performance. These architectures use techniques like inverted residuals and linear bottlenecks to optimize performance. By combining these optimization techniques, you can make your CNN run faster and use less memory, which is especially important for deploying models on devices with limited resources.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-Based Learning Applied to Document Recognition"](https://ieeexplore.ieee.org/document/726791). Proceedings of the IEEE. 
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks"](https://dl.acm.org/doi/10.1145/3065386). Advances in Neural Information Processing Systems 25.
+
+[3]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition"](https://arxiv.org/abs/1512.03385). Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Chollet, F. (2017). ["Xception: Deep Learning with Depthwise Separable Convolutions"](https://ieeexplore.ieee.org/document/8099678). Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Dumoulin, V., & Visin, F. (2016). ["A guide to convolution arithmetic for deep learning"](https://arxiv.org/abs/1603.07285). arXiv Preprint arXiv:1603.07285.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/) (Vol. 1, No. 2). MIT Press.
+
+[7]: Gu, J., Wang, Z., Kuen, J., Ma, L., Shahroudy, A., Shuai, B., ... & Chen, T. (2018). ["Recent advances in convolutional neural networks"](https://www.sciencedirect.com/science/article/pii/S0031320317304120). Pattern Recognition.

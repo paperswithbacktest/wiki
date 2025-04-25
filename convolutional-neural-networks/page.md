@@ -91,3 +91,21 @@ For segmentation tasks, CNNs help by figuring out which pixels in an image belon
 Recent developments in CNN research focus on making these networks more efficient and powerful. One big trend is the use of attention mechanisms, which help the network focus on the most important parts of an image. This idea comes from transformers, which are very good at understanding text. By adding attention to CNNs, researchers can make them better at tasks like image recognition and object detection. Another trend is the use of self-supervised learning, where the network learns from the data itself without needing labeled examples. This can help CNNs learn more about the world from huge amounts of data, making them better at understanding and working with images.
 
 These developments could have a big impact on future applications. For example, more efficient CNNs could run on smaller devices like smartphones, making advanced image processing available to more people. Self-supervised learning could help in fields like medicine, where there might not be enough labeled data to train a network. By learning from the data itself, these networks could help doctors analyze medical images more accurately. Overall, these advances could lead to smarter and more accessible technology for everyone.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet classification with deep convolutional neural networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[3]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep residual learning for image recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[4]: Simonyan, K., & Zisserman, A. (2014). ["Very deep convolutional networks for large-scale image recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.
+
+[5]: Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., ... & Rabinovich, A. (2015). ["Going deeper with convolutions."](https://ieeexplore.ieee.org/document/7298594) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[6]: Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H. (2017). ["MobileNets: Efficient convolutional neural networks for mobile vision applications."](https://arxiv.org/abs/1704.04861) arXiv preprint arXiv:1704.04861.
+
+[7]: Tan, M., & Le, Q. (2019). ["EfficientNet: Rethinking model scaling for convolutional neural networks."](https://arxiv.org/abs/1905.11946) arXiv preprint arXiv:1905.11946.
+
+[8]: Ronneberger, O., Fischer, P., & Brox, T. (2015). ["U-Net: Convolutional networks for biomedical image segmentation."](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) International Conference on Medical Image Computing and Computer-Assisted Intervention.

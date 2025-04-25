@@ -1,6 +1,7 @@
 ---
-title: "Special Purchase and Resale Agreement"
-description: "Explore the intricate dynamics of Special Purchase and Resale Agreements and algorithmic trading to understand their impact on market liquidity and policy."
+title: Understanding Special Purchase and Resale Agreements
+description: Special Purchase and Resale Agreement helps businesses secure short term
+  funding and earn profits with clear pricing and timelines Discover more inside.
 ---
 
 

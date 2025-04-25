@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Copycat Investing"
-description: "Explore copycat investing and algorithmic trading strategies to emulate top investors and automate trades for enhanced performance and decision-making efficiency."
+title: Comprehensive Copycat Investing Strategies And Techniques
+description: Copycat investing lets you follow proven strategies of successful investors
+  while managing risk and building your own approach. Discover more inside.
 ---
 
 

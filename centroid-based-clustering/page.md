@@ -83,3 +83,21 @@ By using K-means++, you're more likely to get good clusters even if you run the 
 One advanced technique to enhance the performance of centroid-based clustering is using a method called Mini-Batch K-means. This technique is a faster version of K-means that works well with big datasets. Instead of using all the data points at once, Mini-Batch K-means looks at smaller groups of points, called mini-batches, and updates the centroids based on these groups. This makes the clustering process quicker and can still give good results. The formula for updating centroids in Mini-Batch K-means is similar to regular K-means, but it uses a smaller set of points: $$ \text{new centroid} = \frac{1}{n} \sum_{i=1}^{n} x_i $$ where $n$ is the number of points in the mini-batch and $x_i$ are the points in that batch.
 
 Another technique is to use hierarchical K-means, which combines the ideas of K-means and hierarchical clustering. Hierarchical K-means starts by dividing the data into a large number of small clusters using K-means. Then, it merges these small clusters into bigger ones, creating a tree-like structure of clusters. This method can help find the best number of clusters automatically and can handle data with different shapes better than regular K-means. By using this approach, you can get a more detailed view of how your data is grouped at different levels.
+
+## References & Further Reading
+
+[1]: Hartigan, J. A., & Wong, M. A. (1979). ["Algorithm AS 136: A K-Means Clustering Algorithm."](https://www.stat.cmu.edu/~rnugent/PCMI2016/papers/HartiganKMeans.pdf) Journal of the Royal Statistical Society. Series C (Applied Statistics), 28(1), 100-108.
+
+[2]: Lloyd, S. P. (1982). ["Least squares quantization in PCM."](https://ieeexplore.ieee.org/document/1056489) IEEE Transactions on Information Theory, 28(2), 129-137.
+
+[3]: MacQueen, J. (1967). ["Some Methods for Classification and Analysis of Multivariate Observations."](https://projecteuclid.org/ebooks/berkeley-symposium-on-mathematical-statistics-and-probability/Some-methods-for-classification-and-analysis-of-multivariate-observations/chapter/Some-methods-for-classification-and-analysis-of-multivariate-observations/bsmsp/1200512992) Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Statistics, 281-297, University of California Press.
+
+[4]: Arthur, D., & Vassilvitskii, S. (2007). ["k-means++: The advantages of careful seeding."](https://theory.stanford.edu/~sergei/papers/kMeansPP-soda.pdf) Proceedings of the Eighteenth Annual ACM-SIAM Symposium on Discrete Algorithms, 1027–1035.
+
+[5]: Han, J., & Kamber, M. (2011). ["Data Mining: Concepts and Techniques."](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) Elsevier.
+
+[6]: Ester, M., Kriegel, H. P., Sander, J., & Xu, X. (1996). ["A density-based algorithm for discovering clusters in large spatial databases with noise."](https://dl.acm.org/doi/10.5555/3001460.3001507) Proceedings of the Second International Conference on Knowledge Discovery and Data Mining, 226-231.
+
+[7]: Jain, A. K. (2010). ["Data clustering: 50 years beyond K-means."](https://www.sciencedirect.com/science/article/pii/S0167865509002323) Pattern Recognition Letters, 31(8), 651-666.
+
+[8]: Xu, R., & Wunsch II, D. (2005). ["Survey of clustering algorithms."](https://ieeexplore.ieee.org/document/1427769) IEEE Transactions on Neural Networks, 16(3), 645-678.

@@ -1,7 +1,7 @@
 ---
 title: State-Action Value Function Explained for Reinforcement Learning
-description: State-Action Value Function guides agents to maximize future rewards
-  in reinforcement learning with Q-learning insights Discover more inside.
+description: State-Action Value Function estimates future rewards for actions in reinforcement
+  learning guiding agents to choose optimal actions Discover more inside
 ---
 
 ![Image](images/1.jpeg)
@@ -83,3 +83,17 @@ In complex environments, one advanced technique to improve the estimation of the
 Another technique is using Double Deep Q-Networks (Double DQN), which addresses the overestimation problem that can occur in standard DQN. In Double DQN, two separate neural networks are used: one to select the action and another to evaluate it. This helps reduce the bias in Q-value estimates by separating the action selection from the action evaluation. The update rule for Double DQN is $$Q(s, a) \leftarrow Q(s, a) + \alpha \left[ r + \gamma Q_{\text{target}}(s', \arg\max_{a'} Q(s', a')) - Q(s, a) \right]$$, where $$Q_{\text{target}}$$ is the target network used for evaluation. By using this method, the agent can get more accurate Q-value estimates, leading to better performance in complex environments.
 
 A third technique is Prioritized Experience Replay, which improves upon the standard experience replay by giving more importance to experiences that have a larger impact on learning. Instead of sampling experiences randomly, this method samples them based on their priority, which is often measured by the magnitude of the temporal difference error. This means the agent focuses more on experiences that it didn't predict well, helping it learn faster and more effectively. By using Prioritized Experience Replay, the agent can improve its Q-function estimates by learning more from the most informative experiences, making it better suited for complex environments where some experiences are more valuable than others.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction,"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) 2nd Edition. MIT Press.
+
+[2]: Watkins, C. J. C. H., & Dayan, P. (1992). ["Q-learning,"](https://link.springer.com/article/10.1007/BF00992698) Machine Learning, 8, 279-292.
+
+[3]: Mnih, V., Kavukcuoglu, K., Silver, D., et al. (2015). ["Human-level control through deep reinforcement learning,"](https://www.nature.com/articles/nature14236) Nature, 518, 529-533.
+
+[4]: Van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep Reinforcement Learning with Double Q-learning,"](https://arxiv.org/abs/1509.06461) Proceedings of the AAAI Conference on Artificial Intelligence, 30(1).
+
+[5]: Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2016). ["Prioritized Experience Replay,"](https://arxiv.org/abs/1511.05952) arXiv:1511.05952.
+
+[6]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., et al. (2016). ["Continuous control with deep reinforcement learning,"](https://arxiv.org/abs/1509.02971) arXiv:1509.02971.

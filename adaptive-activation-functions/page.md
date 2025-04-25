@@ -79,3 +79,15 @@ DELU, on the other hand, uses a formula $$ f(x) = \alpha \cdot (\exp(x) - 1) $$ 
 The latest trends in adaptive activation functions focus on making neural networks more flexible and better at learning from different kinds of data. Researchers are working on functions that can change themselves during training to fit the data better. For example, functions like the Swish, $$ f(x) = x \cdot \sigma(x) $$, and the Rational Activation Function, $$ f(x) = \frac{P(x)}{Q(x)} $$, are becoming popular because they can adjust to the data's needs. These functions help neural networks handle complex patterns and improve their performance on tasks like image recognition and natural language processing.
 
 Future directions for research in adaptive activation functions are all about making them even smarter and more efficient. One big area is figuring out how to make these functions work well with less data, which is important for applications where data is hard to get. Another exciting direction is using these functions in new types of neural networks, like those that can learn from changing environments. Researchers are also looking into ways to make these functions easier to understand and control, so that people can use them more effectively in real-world problems.
+
+## References & Further Reading
+
+[1]: Ramachandran, P., Zoph, B., & Le, Q. V. (2017). ["Searching for Activation Functions."](https://arxiv.org/abs/1710.05941) arXiv preprint arXiv:1710.05941.
+
+[2]: Hendrycks, D., & Gimpel, K. (2016). ["Gaussian Error Linear Units (GELUs)."](https://arxiv.org/abs/1606.08415) arXiv preprint arXiv:1606.08415.
+
+[3]: Elfwing, S., Uchibe, E., & Doya, K. (2018). ["Sigmoid-weighted Linear Units for Neural Network Function Approximation in Reinforcement Learning."](https://www.sciencedirect.com/science/article/pii/S0893608017302976) arXiv preprint arXiv:1702.03118.
+
+[4]: Klambauer, G., Unterthiner, T., Mayr, A., & Hochreiter, S. (2017). ["Self-Normalizing Neural Networks."](https://arxiv.org/abs/1706.02515) arXiv preprint arXiv:1706.02515.
+
+[5]: Agostinelli, F., Hoffman, M. D., Sadowski, P. J., & Baldi, P. (2014). ["Learning Activation Functions to Improve Deep Neural Networks."](https://arxiv.org/abs/1412.6830) arXiv preprint arXiv:1412.6830.

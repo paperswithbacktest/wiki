@@ -81,3 +81,21 @@ By doing this, HetPipe makes sure that the training process goes smoothly, even 
 The future of Hybrid Parallel Methods in machine learning looks promising as researchers continue to find new ways to make training big models faster and more efficient. One exciting area is the development of more advanced algorithms that can better handle the complexities of splitting work across different processors. These algorithms will be able to adapt to changing conditions during training, making sure that the work is always shared in the best way possible. This could mean using smarter ways to split the model and the data, or finding new ways to manage how processors talk to each other. As a result, training large models will become easier and quicker, allowing researchers to tackle even bigger and more complex problems.
 
 Another potential development is the integration of Hybrid Parallel Methods with new hardware technologies. As computers get faster and more powerful, new types of processors and memory systems are being developed. Hybrid Parallel Methods will need to evolve to take full advantage of these new technologies. This could involve creating methods that are specifically designed for certain types of hardware, or finding ways to make the methods work well across a mix of different hardware. By doing this, the training of machine learning models will become even more efficient, helping to push the boundaries of what is possible in fields like [artificial intelligence](/wiki/ai-artificial-intelligence) and data science.
+
+## References & Further Reading
+
+[1]: Shazeer, N., & Stern, M. (2018). ["Adafactor: Adaptive Learning Rates with Sublinear Memory Cost."](https://arxiv.org/abs/1804.04235) arXiv preprint arXiv:1804.04235.
+
+[2]: Dean, J., Corrado, G., Monga, R., Chen, K., Devin, M., Mao, M., ... & Ng, A. Y. (2012). ["Large Scale Distributed Deep Networks."](https://dl.acm.org/doi/10.5555/2999134.2999271) Advances in Neural Information Processing Systems 25.
+
+[3]: Narayanan, D., Sanjeev, V. V., Shi, L., Suresh, A. T., Kliot, G., & Ganger, G. (2019). ["Pipedream: Generalized Pipeline Parallelism for DNN Training."](https://dl.acm.org/doi/10.1145/3341301.3359646) Proceedings of the 27th ACM Symposium on Operating Systems Principles.
+
+[4]: Sergeev, A., & Del Balso, M. (2018). ["Horovod: Fast and Easy Distributed Deep Learning in TensorFlow."](https://arxiv.org/abs/1802.05799) arXiv preprint arXiv:1802.05799.
+
+[5]: Rajbhandari, S., Rasley, J., Ruwase, O., & He, Y. (2020). ["ZeRO: Memory Optimizations Toward Training Trillion Parameter Models."](https://arxiv.org/abs/1910.02054) Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis.
+
+[6]: Li, M., Andersen, D. G., Park, J. W., Smola, A. J., Ahmed, A., Josifovski, V., ... & Su, B. Y. (2014). ["Scaling Distributed Machine Learning with the Parameter Server."](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation (OSDI).
+
+[7]: Zaharia, M., Chowdhury, M., Franklin, M. J., Shenker, S., & Stoica, I. (2010). ["Spark: Cluster Computing with Working Sets."](https://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf) Proceedings of the 2nd USENIX conference on Hot topics in cloud computing.
+
+[8]: Ben-Nun, T., & Hoefler, T. (2019). ["Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis."](https://arxiv.org/abs/1802.09941) ACM Computing Surveys (CSUR).

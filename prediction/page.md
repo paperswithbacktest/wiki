@@ -81,3 +81,25 @@ One way to make sure the predictions are fast is by using a lightweight version 
 The latest research trends in prediction algorithms focus a lot on improving how fast and accurate models can be. One big trend is in deep learning, where researchers are working on new kinds of neural networks that can learn from data even better. For example, they're looking at ways to make models smaller and faster, which is important for things like predicting on smartphones or other devices with less power. Another trend is in handling data that's always changing, like stock prices or weather. Researchers are trying to make models that can learn from new data as it comes in, without needing to start over from scratch. This is called online learning, and it's really useful for real-time prediction systems.
 
 In terms of applications, prediction algorithms are being used in more and more areas. One exciting area is healthcare, where models are being used to predict diseases or how well a patient might respond to a treatment. For example, researchers are using machine learning to predict if someone might get diabetes based on their health data. Another big area is in autonomous vehicles, where prediction algorithms help cars guess what other cars or people might do next. This is important for making sure the cars can drive safely. Overall, the goal is to make predictions more accurate and useful, so these algorithms can help solve real-world problems better.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer, Second Edition.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Domingos, P. (2012). ["A Few Useful Things to Know About Machine Learning."](https://courses.cs.duke.edu/spring20/compsci527/papers/Domingos.pdf) Communications of the ACM, 55(10), 78-87.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[6]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[7]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow."](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ) O'Reilly Media.
+
+[8]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Vanderplas, J. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830. 
+
+[9]: Quinlan, J. R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81-106.
+
+[10]: Witten, I. H., Frank, E., & Hall, M. A. (2011). ["Data Mining: Practical Machine Learning Tools and Techniques."](https://www.sciencedirect.com/book/9780123748560/data-mining-practical-machine-learning-tools-and-techniques) Morgan Kaufmann.

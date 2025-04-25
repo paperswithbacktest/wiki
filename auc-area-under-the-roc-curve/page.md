@@ -83,3 +83,15 @@ One advanced method for interpreting AUC in complex models is to use partial AUC
 Another way to extend the use of AUC is by using techniques like bootstrapping to get confidence intervals. Bootstrapping involves taking many random samples from your data, calculating the AUC for each sample, and then using these AUC values to find a range where the true AUC likely falls. The formula for a confidence interval using bootstrapping is $$ \text{CI} = \text{AUC} \pm z \cdot \text{SE} $$, where CI is the confidence interval, AUC is the calculated AUC, z is the z-score for the desired confidence level (like 1.96 for a 95% confidence interval), and SE is the standard error of the AUC. By using confidence intervals, you can get a better idea of how reliable your model's AUC is and whether you can trust it to work well with new data.
 
 For models that output probabilities rather than binary predictions, you can also use calibration plots to see how well the predicted probabilities match the actual outcomes. A well-calibrated model will have a calibration plot that closely follows the line of perfect calibration. This can help you understand if the AUC is truly reflecting the model's performance or if the model's probabilities are overconfident or underconfident. By combining AUC with calibration plots, you can get a more complete picture of how well your model is doing and where it might need improvement.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861–874.
+
+[2]: Bradley, A. P. (1997). ["The use of the area under the ROC curve in the evaluation of machine learning algorithms."](https://www.sciencedirect.com/science/article/abs/pii/S0031320396001422) Pattern Recognition, 30(7), 1145-1159.
+
+[3]: Hanley, J. A., & McNeil, B. J. (1982). ["The meaning and use of the area under a receiver operating characteristic (ROC) curve."](https://pubmed.ncbi.nlm.nih.gov/7063747/) Radiology, 143(1), 29-36.
+
+[4]: Provost, F., Fawcett, T., & Kohavi, R. (1998). ["The case against accuracy estimation for comparing induction algorithms."](https://dl.acm.org/doi/10.5555/645527.657469) In Proceedings of the Fifteenth International Conference on Machine Learning (pp. 445-453).
+
+[5]: Huang, J., & Ling, C. X. (2005). ["Using AUC and accuracy in evaluating learning algorithms."](https://ieeexplore.ieee.org/document/1388242) IEEE Transactions on Knowledge and Data Engineering, 17(3), 299-310.

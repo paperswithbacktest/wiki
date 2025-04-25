@@ -1,6 +1,7 @@
 ---
-title: "Specific Risk: Understanding and Mitigation"
-description: "Discover effective risk management strategies in algorithmic trading to mitigate specific risks unique to this fast-paced, automated trading methodology and enhance portfolio resilience."
+title: Understanding Specific Risk in Investment Portfolio Management
+description: Specific risk in investments can be cut with diversification hedging
+  and AI tools to shield portfolios from individual losses Discover more inside
 ---
 
 

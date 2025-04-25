@@ -81,3 +81,17 @@ CNNs are really good at tasks involving images or other grid-like data. They use
 To optimize and scale Tf.Keras models for production environments, you need to make sure they run fast and can handle lots of data. One way to do this is by using TensorFlow's built-in tools like TensorFlow Serving, which is a system that helps you serve your model to many users at the same time. You can also use techniques like quantization, which makes your model smaller and faster by using fewer bits to store its weights. Another important thing is to use batch processing, where you process a bunch of data at once instead of one piece at a time. This can make your model much faster. You can set up batch processing in the `fit` method with ```model.fit(x_train, y_train, batch_size=32, epochs=10)```.
 
 Another way to optimize your Tf.Keras model for production is by using model pruning, which removes parts of the model that don't help much. This can make the model smaller and faster. You can also use TensorFlow Lite to convert your model into a format that's easier to run on mobile devices or other smaller systems. To do this, you can use ```converter = tf.lite.TFLiteConverter.from_keras_model(model) tflite_model = converter.convert()```. For very big datasets, you might want to use distributed training, where you use multiple computers to train your model at the same time. TensorFlow has tools like `tf.distribute` that can help with this. By using these techniques, you can make sure your Tf.Keras model works well in a production environment, even when lots of people are using it at once.
+
+## References & Further Reading
+
+[1]: Francois Chollet. ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications. This book is authored by the creator of Keras and includes practical examples to get started with deep learning using Keras and TensorFlow.
+
+[2]: Martin Görner. ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) by Aurélien Géron. This comprehensive guide includes examples using Keras and TensorFlow, making it a great resource for practitioners.
+
+[3]: François Chollet, et al. ["Keras Documentation"](https://blog.keras.io/author/francois-chollet.html). The official Keras documentation provides detailed information on building machine learning models using Keras, which is part of TensorFlow.
+
+[4]: ["TensorFlow for Deep Learning"](https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/) by Bharath Ramsundar and Reza Bosagh Zadeh. This book explores deep learning using TensorFlow, including the use of Keras for model building.
+
+[5]: ["Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"](https://www.coursera.org/learn/introduction-tensorflow) - A Coursera course by Laurence Moroney and Andrew Ng. This online course offers a comprehensive introduction to TensorFlow and its applications in deep learning with a section dedicated to Keras.
+
+[6]: Chollet, F. (2015). ["Keras"](https://www.scirp.org/reference/ReferencesPapers?ReferenceID=1887532). GitHub Repository. This is the GitHub repository of Keras, hosting the source code and examples for various applications and models.

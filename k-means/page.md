@@ -89,3 +89,17 @@ One advanced variant of K-Means is K-Medoids. Instead of using the mean of the p
 Another extension is Fuzzy C-Means, which lets points belong to more than one cluster. In K-Means, each point is in one cluster only, but in Fuzzy C-Means, points can be partly in different clusters. This is useful when data points don't fit neatly into one group. Fuzzy C-Means uses a membership value to show how much each point belongs to each cluster. The formula for updating the membership value $$u_{ij}$$ for point $$x_i$$ in cluster $$j$$ is $$ u_{ij} = \frac{1}{\sum_{k=1}^{C} \left( \frac{d(x_i, c_j)}{d(x_i, c_k)} \right)^{\frac{2}{m-1}}} $$, where $$C$$ is the number of clusters, $$d(x_i, c_j)$$ is the distance between point $$x_i$$ and cluster center $$c_j$$, and $$m$$ is a fuzziness parameter.
 
 A third variant is Mini-Batch K-Means, which is faster for big datasets. Instead of using all the data points to update the centers, Mini-Batch K-Means uses smaller groups of points, called mini-batches. This makes it quicker to run the algorithm, but the results might not be as good as using all the data. Mini-Batch K-Means is good when you need to find clusters fast and don't mind if the clusters are not perfect.
+
+## References & Further Reading
+
+[1]: MacQueen, J. (1967). ["Some Methods for Classification and Analysis of Multivariate Observations."](https://projecteuclid.org/ebooks/berkeley-symposium-on-mathematical-statistics-and-probability/Some-methods-for-classification-and-analysis-of-multivariate-observations/chapter/Some-methods-for-classification-and-analysis-of-multivariate-observations/bsmsp/1200512992) Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Hartigan, J. A., & Wong, M. A. (1979). ["Algorithm AS 136: A K-Means Clustering Algorithm."](https://www.stat.cmu.edu/~rnugent/PCMI2016/papers/HartiganKMeans.pdf) Journal of the Royal Statistical Society. Series C (Applied Statistics).
+
+[4]: Jain, A. K. (2010). ["Data Clustering: 50 Years Beyond K-Means."](https://www.sciencedirect.com/science/article/pii/S0167865509002323) Pattern Recognition Letters.
+
+[5]: Lloyd, S. (1982). ["Least Squares Quantization in PCM."](https://ieeexplore.ieee.org/document/1056489) IEEE Transactions on Information Theory.
+
+[6]: Arthur, D., & Vassilvitskii, S. (2007). ["K-Means++: The Advantages of Careful Seeding."](https://dl.acm.org/doi/10.5555/1283383.1283494) Proceedings of the Eighteenth Annual ACM-SIAM Symposium on Discrete Algorithms.

@@ -83,3 +83,21 @@ Another technique that can be used with Fishr is "[data augmentation](/wiki/data
 The effectiveness of Randomized Deletion can be measured by looking at how well the model still understands sentences when words are missing. One way to do this is by checking the model's accuracy on a test set where some words have been randomly deleted. If the model can still get most of the answers right even with missing words, it means Randomized Deletion is working well. Another way is to use a measure called the "robustness score," which can be calculated as the difference in accuracy between the original sentences and the sentences with deleted words. A smaller difference means the model is more robust. For example, if the accuracy on the original sentences is 90% and on the sentences with deleted words is 85%, the robustness score would be $$90\% - 85\% = 5\%$$. A lower robustness score shows the model is doing a good job at handling missing words.
 
 To improve the effectiveness of Randomized Deletion, you can try different ways of deleting words. For example, you might delete words at random, or you might delete words based on how important they are in the sentence. By trying different methods and seeing which one leads to the best robustness score, you can make the model stronger. Another way to improve it is by training the model on a wider variety of sentences, including ones with different lengths and structures. This helps the model learn to focus on the most important parts of the sentence no matter what it looks like. By combining these approaches, you can make Randomized Deletion even better at making the model more robust to missing words.
+
+## References & Further Reading
+
+[1]: Szegedy, C., Zaremba, W., Sutskever, I., Bruna, J., Erhan, D., Goodfellow, I., & Fergus, R. (2014). ["Intriguing properties of neural networks."](https://arxiv.org/abs/1312.6199) arXiv preprint arXiv:1312.6199.
+
+[2]: Goodfellow, I. J., Shlens, J., & Szegedy, C. (2015). ["Explaining and harnessing adversarial examples."](https://arxiv.org/abs/1412.6572) arXiv preprint arXiv:1412.6572.
+
+[3]: Cohen, J., Rosenfeld, E., & Kolter, J. Z. (2019). ["Certified adversarial robustness via randomized smoothing."](https://arxiv.org/abs/1902.02918) In International Conference on Machine Learning (pp. 1310-1320). PMLR.
+
+[4]: Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2018). ["Towards deep learning models resistant to adversarial attacks."](https://arxiv.org/abs/1706.06083) arXiv preprint arXiv:1706.06083.
+
+[5]: Wong, E., & Kolter, J. Z. (2018). ["Provable defenses against adversarial examples via the convex outer adversarial polytope."](https://arxiv.org/abs/1711.00851) In International Conference on Machine Learning (pp. 5283-5292). PMLR.
+
+[6]: Cheng, H., Duncan, C., Xia, L., & Chilimbi, T. M. (2015). ["Fisher kernels on visual vocabularies for image categorization."](https://pubmed.ncbi.nlm.nih.gov/31201709/) IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(8), 1736-1747.
+
+[7]: Simonyan, K., & Zisserman, A. (2015). ["Very deep convolutional networks for large-scale image recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556. 
+
+[8]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). ["An image is worth 16x16 words: Transformers for image recognition at scale."](https://arxiv.org/abs/2010.11929) arXiv preprint arXiv:2010.11929.

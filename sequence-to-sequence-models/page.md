@@ -81,3 +81,21 @@ Deep Voice 3 works in a similar way but can also change the voice to sound like 
 The Cyclic Transformer is a new type of Seq2Seq model that helps improve how machines understand and generate text. It works by repeating the process of encoding and decoding several times, which means it can look at the text from different angles. This helps the model understand the text better and create more accurate outputs. For example, if you're translating a sentence, the Cyclic Transformer can keep refining its translation, making it more natural and correct. This is really helpful in areas like language translation where getting the right meaning is important.
 
 In specific domains, the Cyclic Transformer has made a big difference. In language translation, it helps make translations more accurate and easier to understand. In text summarization, it can create summaries that capture the main points better. This is useful for people who need to quickly understand long documents. The Cyclic Transformer shows how new ideas in Seq2Seq models can make machines better at handling language tasks, which can help in many different fields.
+
+## References & Further Reading
+
+[1]: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). ["Sequence to Sequence Learning with Neural Networks."](https://arxiv.org/abs/1409.3215) Advances in Neural Information Processing Systems 27.
+
+[2]: Bahdanau, D., Cho, K., & Bengio, Y. (2015). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv:1409.0473.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv:1706.03762.
+
+[4]: Lewis, M., Liu, Y., Goyal, N., et al. (2020). ["BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension."](https://aclanthology.org/2020.acl-main.703/) arXiv:1910.13461.
+
+[5]: Raffel, C., Shazeer, N., Roberts, A., et al. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) arXiv:1910.10683.
+
+[6]: See, A., Liu, P. J., & Manning, C. D. (2017). ["Get To The Point: Summarization with Pointer-Generator Networks."](https://aclanthology.org/P17-1099/) arXiv:1704.04368.
+
+[7]: Dong, L., Yang, N., Wang, W., et al. (2019). ["Unified Language Model Pre-training for Natural Language Understanding and Generation."](https://arxiv.org/abs/1905.03197) arXiv:1905.03197.
+
+[8]: Wang, Y., Skerry-Ryan, R., Stanton, D., et al. (2017). ["Tacotron: Towards End-to-End Speech Synthesis."](https://arxiv.org/abs/1703.10135) arXiv:1703.10135.

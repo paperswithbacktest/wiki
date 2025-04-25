@@ -154,3 +154,17 @@ model.fit(X_train, y_train)
 ```
 
 By using these advanced techniques, you can make multi-class logistic regression more powerful and better at handling complex classification tasks.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[5]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long short-term memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780. (Reference to methods related to classification, illustrating the evolution of techniques).
+
+[6]: ["Logistic Regression in Scikit-learn."](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) Scikit-learn Documentation.

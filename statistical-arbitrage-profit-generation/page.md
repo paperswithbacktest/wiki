@@ -1,6 +1,7 @@
 ---
-title: "Statistical Arbitrage and Profit Generation"
-description: "Explore the world of statistical arbitrage in algorithmic trading where quantitative models identify fleeting price discrepancies to generate profit."
+title: Understanding Statistical Arbitrage Strategies for Market Profits
+description: Statistical arbitrage uses math and data analysis to spot price imbalances
+  and profit from mean reversion in stocks and ETFs Discover more inside
 ---
 
 

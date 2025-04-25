@@ -1,6 +1,7 @@
 ---
-title: "Smart Order Routing (SOR)"
-description: "Smart Order Routing enhances trading efficiency by directing trades to optimal venues based on price and liquidity. It's vital in navigating fragmented markets."
+title: Smart Order Routing Enhances Trading Fairness and Efficiency
+description: Smart Order Routing optimizes trades by automatically finding best prices
+  across many venues with low latency and lower costs Discover more inside
 ---
 
 

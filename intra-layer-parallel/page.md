@@ -81,3 +81,17 @@ Another technique is to use data parallelism within the layer. This means you sp
 Recent research in Intra-Layer Parallelism has focused on making neural networks even faster and more efficient. One exciting development is the use of dynamic load balancing within layers. This means that instead of giving each part of a layer the same amount of work at the start, the work can be shared as different parts finish their tasks. This helps make sure all the work gets done as quickly as possible, without any part sitting idle. By doing this, researchers have found ways to make the most out of the hardware, like the cores in a GPU, which can lead to big improvements in how quickly neural networks can be trained and used.
 
 Another recent development is the use of data parallelism within layers. This technique involves splitting the input data into smaller chunks and processing them at the same time. For example, in a convolutional layer, the input can be divided into smaller pieces, and different cores in a GPU can handle each piece. This approach has been shown to speed up the layer's work because all the cores are busy at the same time. This is especially useful for large models and datasets, where the speed improvements can make a big difference in how quickly you can train and use the model.
+
+## References & Further Reading
+
+[1]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems.
+
+[2]: Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q. V., Hinton, G., & Dean, J. (2018). ["Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer."](https://arxiv.org/abs/1701.06538) arXiv preprint arXiv:1701.06538.
+
+[3]: Zhang, J., Mitra, K., & Agarwal, S. K. (2020). ["GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding."](https://arxiv.org/abs/2006.16668) arXiv preprint arXiv:2006.16668.
+
+[4]: Shoeybi, M., Patwary, M. M. A., Puri, R., LeGresley, P., Casper, J., & Catanzaro, B. (2020). ["Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism."](https://arxiv.org/abs/1909.08053) arXiv preprint arXiv:1909.08053.
+
+[5]: Taylor, M., Castro, P. S., Moitra, S., & Tsengv, W. (2021). ["Mesh-TensorFlow: Deep Learning for Supercomputers."](https://arxiv.org/abs/1811.02084) Journal of Parallel and Distributed Computing.
+
+[6]: Dean, J., Patterson, D., & Young, C. (2018). ["A New Golden Age in Computer Architecture: Empowering the Machine-Learning Revolution."](https://ieeexplore.ieee.org/document/8259424) Communications of the ACM.

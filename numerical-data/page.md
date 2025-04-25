@@ -155,3 +155,17 @@ A popular ensemble method is called boosting. It works by training models one af
 One of the current research trends in handling numerical data for machine learning is the development of more advanced feature selection and engineering techniques. Researchers are working on ways to automatically find and create new features from existing numerical data that can improve model performance. This includes using [deep learning](/wiki/deep-learning) methods like autoencoders to learn new representations of the data. These techniques help models focus on the most important parts of the data, making predictions more accurate. Another trend is the use of transfer learning, where models trained on one dataset can be used to help with predictions on a different but related dataset. This can save time and resources because you don't have to start from scratch with every new problem.
 
 Another trend is the exploration of new ways to handle missing data and outliers in numerical datasets. Traditional methods like mean imputation or removing outliers are being replaced with more sophisticated approaches. For example, researchers are using machine learning models to predict missing values based on other features in the dataset, which can lead to more accurate predictions. There's also a focus on robust algorithms that can handle outliers without being thrown off [course](/wiki/best-algorithmic-trading-courses). These methods help make sure that the data used in machine learning models is as clean and useful as possible, leading to better results.
+
+## References & Further Reading
+
+[1]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) O'Reilly Media.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: ["Data Mining: Practical Machine Learning Tools and Techniques"](https://www.sciencedirect.com/book/9780123748560/data-mining-practical-machine-learning-tools-and-techniques) by Ian H. Witten, Eibe Frank, and Mark A. Hall. 
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, pp. 2825-2830.
+
+[6]: Zhou, Z.-H. (2012). ["Ensemble Methods: Foundations and Algorithms."](https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou) Chapman & Hall/CRC.

@@ -81,3 +81,17 @@ Another advanced technique is Dropout, which is often used in neural networks. D
 The effectiveness of regularization can be evaluated by checking how well the model works on new data that it hasn't seen before. This is often done using a technique called cross-validation. In cross-validation, the data is split into different parts, and the model is trained on some parts and tested on others. By doing this many times, you can see how the model performs on average. If the model does well on the test data, it means the regularization is helping it generalize better. You can also look at the model's performance on the training data compared to the test data. If the model does much better on the training data than on the test data, it might be overfitting, and you might need to increase the strength of the regularization.
 
 To fine-tune regularization, you can change the value of the regularization parameter, often called lambda (λ). For L2 regularization, the loss function includes a term that is proportional to the square of the model's coefficients, written as $$ \text{Loss} = \text{Original Loss} + \lambda \sum_{i=1}^n \theta_i^2 $$. For L1 regularization, the loss function includes a term that is proportional to the absolute value of the coefficients, written as $$ \text{Loss} = \text{Original Loss} + \lambda \sum_{i=1}^n |\theta_i| $$. By trying different values of lambda, you can find the one that makes the model perform best on new data. This process can be done manually or with tools like grid search or random search, which automatically try different values and pick the best one. The goal is to find the right balance between fitting the training data well and keeping the model simple enough to work well on new data.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[3]: Ng, A. Y. (2004). ["Feature selection, L1 vs. L2 regularization, and rotational invariance."](https://dl.acm.org/doi/10.1145/1015330.1015435) Proceedings of the Twenty-First International Conference on Machine Learning (ICML).
+
+[4]: Zou, H., & Hastie, T. (2005). ["Regularization and Variable Selection via the Elastic Net."](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482) Journal of the Royal Statistical Society: Series B (Statistical Methodology).
+
+[5]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.

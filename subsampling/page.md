@@ -1,7 +1,8 @@
 ---
-title: Subsampling Strategies for Efficient Machine Learning Models
-description: Subsampling in machine learning accelerates training and balances classes
-  by reducing dataset size and bias to save resources. Discover more inside.
+title: Subsampling Techniques in Machine Learning for Efficient Training
+description: Subsampling in machine learning accelerates model training by selecting
+  representative data subsets and balancing classes to reduce overfitting Discover
+  more inside.
 ---
 
 ![Image](images/1.gif)
@@ -106,3 +107,17 @@ The success of subsampling in this case can be attributed to the careful selecti
 Recent research trends in subsampling techniques for machine learning focus on improving the efficiency and accuracy of models by using smarter ways to pick smaller parts of data. One trend is the development of adaptive subsampling methods, which change how they pick data based on what the model needs to learn. For example, if a model is having trouble learning from certain data points, adaptive subsampling might choose those points more often. This can help the model learn faster and better. Another trend is using subsampling to handle big data problems, where researchers are looking at ways to subsample large datasets in real-time, so models can keep learning as new data comes in.
 
 Another important trend is the use of subsampling in deep learning, particularly with techniques like mini-batch gradient descent. Researchers are working on optimizing the size and selection of mini-batches to improve training speed and model performance. They are also exploring how to combine subsampling with other techniques like [data augmentation](/wiki/data-augmentation) to make models more robust. For instance, by carefully choosing which data points to include in each mini-batch, researchers can ensure the model sees a good mix of examples, which can help it learn more effectively. These trends show that subsampling is becoming a key tool in making machine learning models more efficient and accurate.
+
+## References & Further Reading
+
+[1]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[2]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.
+
+[3]: Lecun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Domingos, P. (2012). ["A Few Useful Things to Know About Machine Learning."](https://courses.cs.duke.edu/spring20/compsci527/papers/Domingos.pdf) Communications of the ACM, 55(10), 78-87.
+
+[6]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.

@@ -81,3 +81,21 @@ Using the Re-Attention Module can make a model perform better because it can cap
 The Attention-augmented Convolution combines the strengths of convolutional and attention mechanisms by allowing a model to both focus on local details and understand global context. In traditional convolutional neural networks, the model looks at small parts of an image at a time, which is good for capturing local patterns like edges or textures. However, these models can miss the bigger picture. The attention mechanism helps by letting the model focus on important parts of the entire input, no matter where they are. By combining these two, the Attention-augmented Convolution can see both the small details and the overall structure of the input, making the model more accurate and versatile.
 
 The way it works is by using a formula like $$ \text{Attention-Augmented Convolution}(x) = \text{Convolution}(x) + \text{Attention}(x) $$. This means the model first applies a traditional convolution to the input to capture local features, and then it adds an attention mechanism to focus on the most important parts across the whole input. This combination allows the model to understand and process the input more effectively, leading to better performance in tasks like image recognition or object detection. By using both convolution and attention, the model can handle a wide range of data and make more informed decisions.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[2]: Hu, J., Shen, L., & Sun, G. (2018). ["Squeeze-and-Excitation Networks."](https://ieeexplore.ieee.org/document/8578843) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Woo, S., Park, J., Lee, J. Y., & Kweon, I. S. (2018). ["CBAM: Convolutional Block Attention Module."](https://arxiv.org/abs/1807.06521) Proceedings of the European Conference on Computer Vision (ECCV).
+
+[4]: Wang, X., Girshick, R., Gupta, A., & He, K. (2018). ["Non-local Neural Networks."](https://arxiv.org/abs/1711.07971) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Zhang, H., Goodfellow, I., Metaxas, D., & Odena, A. (2019). ["Self-Attention Generative Adversarial Networks."](https://arxiv.org/abs/1805.08318) Proceedings of the 36th International Conference on Machine Learning (ICML).
+
+[6]: Chen, Y., Rohrbach, M., Yan, Z., Shuicheng, Y., Feng, J., & Kalantidis, Y. (2019). ["Graph-Based Global Reasoning Networks."](https://arxiv.org/abs/1811.12814) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2021). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) International Conference on Learning Representations (ICLR).
+
+[8]: Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). ["Swin Transformer: Hierarchical Vision Transformer using Shifted Windows."](https://ieeexplore.ieee.org/document/9710580) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

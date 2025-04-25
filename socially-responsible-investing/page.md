@@ -1,6 +1,7 @@
 ---
-title: "Socially Responsible Investing"
-description: "Explore socially responsible investing through the lens of sustainable finance and algorithmic trading Learn how ESG criteria are reshaping investment strategies"
+title: Socially Responsible Investing Strategies for Ethical Portfolios
+description: Socially responsible investing aligns portfolios with ethical principles
+  and solid ESG performance while delivering strong returns. Discover more inside
 ---
 
 

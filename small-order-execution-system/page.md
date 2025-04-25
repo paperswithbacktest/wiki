@@ -1,6 +1,7 @@
 ---
-title: "Small Order Execution System"
-description: "Explore the history and impact of the Small Order Execution System a key innovation that revolutionized retail trading by enabling automated small trade execution."
+title: Small Order Execution System Explained for Individual Investors
+description: Small Order Execution System gives small investors instant trades and
+  fair pricing through automated matching and execution Discover more inside.
 ---
 
 

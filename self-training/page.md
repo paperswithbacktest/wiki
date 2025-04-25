@@ -79,3 +79,15 @@ Another way to combine self-training with other methods is by using tri-training
 Recent research in self-training has focused on making the process more reliable and effective. One key area of development is improving how models choose which of their own predictions to trust. Researchers have been working on better ways to set confidence thresholds so that only the most reliable predictions are used for retraining. For example, some studies have explored using uncertainty estimation techniques to help models understand how sure they are about their guesses. This can help avoid error propagation, where the model starts learning from its own mistakes. Another exciting development is the use of ensemble methods, where multiple models work together to make better predictions. By combining the strengths of different models, researchers hope to make self-training even more powerful.
 
 Another area of focus has been on applying self-training to more complex tasks, like natural language processing and image recognition. For instance, researchers have been experimenting with self-training in large language models to improve their understanding of text without needing more labeled data. In image recognition, self-training has been used to help models learn from vast amounts of unlabeled images, making them better at identifying objects in new pictures. These advancements show that self-training is becoming a versatile tool in machine learning, helping models improve in various fields. By refining the techniques and applying them to new areas, researchers are pushing the boundaries of what self-training can achieve.
+
+## References & Further Reading
+
+[1]: Yarowsky, D. (1995). ["Unsupervised Word Sense Disambiguation Rivaling Supervised Methods"](https://aclanthology.org/P95-1026/). In Proceedings of the 33rd Annual Meeting on Association for Computational Linguistics.
+
+[2]: Zhu, X. & Goldberg, A. B. (2009). ["Semi-Supervised Learning Literature Survey"](https://link.springer.com/book/10.1007/978-3-031-01548-9). University of Wisconsin-Madison.
+
+[3]: Chapelle, O., Schölkopf, B., & Zien, A. (2006). ["Semi-Supervised Learning"](https://ieeexplore.ieee.org/abstract/document/4787647). The MIT Press.
+
+[4]: Wang, J., Jebara, T., & Chang, S.-F. (2008). ["Graph Transduction via Alternating Minimization"](https://dl.acm.org/doi/abs/10.1145/1390156.1390300). Proceedings of the 25th International Conference on Machine Learning.
+
+[5]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms"](https://arxiv.org/abs/1609.04747). arXiv preprint arXiv:1609.04747.

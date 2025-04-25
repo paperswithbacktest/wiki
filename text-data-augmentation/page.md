@@ -79,3 +79,15 @@ To avoid overfitting, it's important to make sure the new text you create with a
 To integrate advanced text data augmentation techniques into a machine learning pipeline, you first need to decide which techniques will work best for your specific task. For example, if you're working on a sentiment analysis model for customer reviews, you might choose synonym replacement or back-translation to help your model understand different ways people express their feelings. Once you've picked your techniques, you can add them to your data preprocessing step. This means before you feed your text data into the model, you'll use the augmentation techniques to create new versions of your text. This can be done using libraries like NLTK or spaCy in Python, which have tools to help with text manipulation.
 
 After you've added the augmentation step to your pipeline, you need to make sure it's working well. You can do this by training your model with the augmented data and then checking its performance on a separate set of data that it hasn't seen before. Metrics like accuracy, F1 score ($$F1 = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} + \text{recall}}$$), and AUC-ROC will help you see if the augmentation is helping your model learn better. If you find that your model is overfitting, you might need to adjust your augmentation techniques or try different ones. By carefully integrating and monitoring the use of advanced text data augmentation, you can improve your model's ability to handle a wide variety of text data.
+
+## References & Further Reading
+
+[1] Wei, J., Zou, K. ["EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks."](https://aclanthology.org/D19-1670/) arXiv preprint arXiv:1901.11196, 2019.
+
+[2] Fadaee, M., Bisazza, A., & Monz, C. (2017). ["Data Augmentation for Low-Resource Neural Machine Translation."](https://aclanthology.org/P17-2090/) Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers).
+
+[3] Kobayashi, S. (2018). ["Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations."](https://aclanthology.org/N18-2072/) arXiv preprint arXiv:1805.06201.
+
+[4] Sennrich, R., Haddow, B., & Birch, A. (2016). ["Improving Neural Machine Translation Models with Monolingual Data."](https://aclanthology.org/P16-1009/) Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
+
+[5] Johnson, R., & Zhang, T. (2017). ["Deep Pyramid Convolutional Neural Networks for Text Categorization."](https://aclanthology.org/P17-1052/) Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).

@@ -83,3 +83,17 @@ A third way to prevent overfitting is to use early stopping. Early stopping mean
 One advanced method for initializing weights in hidden layers is called Xavier initialization. This method sets the initial weights so that the variance of the outputs of each layer is the same as the variance of its inputs. This helps keep the signals flowing through the network balanced, making it easier for the model to learn. The formula for Xavier initialization is $$ W \sim \text{Uniform}(-\sqrt{\frac{6}{n_{in} + n_{out}}}, \sqrt{\frac{6}{n_{in} + n_{out}}}) $$, where $$ n_{in} $$ is the number of inputs to the layer, and $$ n_{out} $$ is the number of outputs. By using this method, you can help the model start training with weights that are neither too big nor too small, which can speed up the learning process.
 
 Another method is called He initialization, which is similar to Xavier initialization but works better for layers that use the ReLU activation function. ReLU can make some of the outputs zero, which can affect how the signals flow through the network. He initialization takes this into account by setting the initial weights so that the variance of the outputs is twice the variance of the inputs. The formula for He initialization is $$ W \sim \text{Uniform}(-\sqrt{\frac{6}{n_{in}}}, \sqrt{\frac{6}{n_{in}}}) $$. This method helps the model learn faster and avoid getting stuck when using ReLU, making it a good choice for many modern neural networks.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521, 436-444.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning.](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification."](https://arxiv.org/abs/1502.01852) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[4]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning representations by back-propagating errors."](https://www.nature.com/articles/323533a0) Nature, 323, 533-536.
+
+[5]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Communications of the ACM, 60(6), 84-90.
+
+[6]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15, 1929-1958.

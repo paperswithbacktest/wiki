@@ -1,6 +1,7 @@
 ---
-title: "Stripped Mortgage-Backed Securities: Definition and Mechanism"
-description: "Discover the role of stripped mortgage-backed securities in finance and algorithmic trading Learn how these instruments offer investment opportunities and risks"
+title: Understanding Stripped Mortgage-Backed Securities for Investors
+description: Stripped mortgage-backed securities let investors choose interest-only
+  or principal-only cash flows to match goals and manage rate risks. Discover more.
 ---
 
 

@@ -86,3 +86,21 @@ For categorical variables, Decision Forests handle them easily. Categorical vari
 One advanced technique for optimizing the performance of Decision Forests is through hyperparameter tuning. This involves adjusting settings like the number of trees, the maximum depth of each tree, and the number of features each tree can consider when making a split. By trying different combinations of these settings, you can find the best ones for your specific problem. For example, you might use a method called grid search, where you test many different combinations of hyperparameters to see which one gives the best results. Another method is random search, where you randomly pick combinations of hyperparameters to try. Both methods can help you find the best settings to make your Decision Forest more accurate.
 
 Another technique is to use ensemble methods beyond just bagging. For instance, you can combine Decision Forests with other types of models, like neural networks or support vector machines, to create a more powerful ensemble. This is called stacking, where the predictions from different models are used as inputs to a final model that makes the ultimate prediction. Stacking can improve performance because it combines the strengths of different types of models. Additionally, you can use techniques like feature engineering to create new features from your existing data, which can help the Decision Forest see patterns it might have missed before. By combining these advanced techniques, you can make your Decision Forest even better at making predictions.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5–32.
+
+[2]: Friedman, J., Hastie, T., & Tibshirani, R. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[4]: Ho, T. K. (1995). ["Random Decision Forests."](https://ieeexplore.ieee.org/document/598994) Proceedings of the 3rd International Conference on Document Analysis and Recognition, Vol. 1.
+
+[5]: Liaw, A., & Wiener, M. (2002). ["Classification and Regression by randomForest."](https://journal.r-project.org/articles/RN-2002-022/) R News, 2(3), 18–22.
+
+[6]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[7]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825–2830.
+
+[8]: Friedman, J.H. (2001). ["Greedy Function Approximation: A Gradient Boosting Machine."](https://www.jstor.org/stable/2699986) The Annals of Statistics, 29(5), 1189-1232.

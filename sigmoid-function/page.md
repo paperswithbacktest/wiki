@@ -138,3 +138,17 @@ Another development involves combining the Sigmoid function with other technique
 The Sigmoid function can affect how well [deep learning](/wiki/deep-learning) models perform, especially in terms of how fast they learn and how accurate their predictions are. The Sigmoid function turns any number into a value between 0 and 1 using the formula $$ \sigma(x) = \frac{1}{1 + e^{-x}} $$. This is helpful for turning numbers into probabilities, but it can cause problems in deep neural networks. When the input to the Sigmoid function is very big or very small, the output gets really close to 1 or 0. This makes the derivative of the Sigmoid function, which is $$ \sigma'(x) = \sigma(x)(1 - \sigma(x)) $$, become very small. During training, the neural network uses these derivatives to update its weights. If the derivatives are tiny, the updates are also tiny, which can make the network learn very slowly or even stop learning altogether. This is known as the vanishing gradient problem.
 
 To deal with these issues, researchers and developers often choose different activation functions like ReLU or tanh for deep learning models. ReLU, for example, is simpler and faster to compute. It outputs the input directly if it's positive, and zero otherwise, which can be written as $$ \text{ReLU}(x) = \max(0, x) $$. ReLU helps avoid the vanishing gradient problem because its derivative is either 0 or 1, making it easier for deep neural networks to learn. The tanh function, on the other hand, outputs values between -1 and 1, which can be written as $$ \tanh(x) = \frac{e^x - e^{-x}}{e^x + e^{-x}} $$. Because tanh is centered around zero, it can help the neural network learn more efficiently. However, even tanh can still suffer from vanishing gradients in very deep networks. By choosing the right activation function, deep learning models can train faster and perform better.
+
+## References & Further Reading
+
+[1]: Haykin, S. (2008). ["Neural Networks and Learning Machines."](https://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf) 3rd Edition, Prentice Hall.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[5]: Nwankpa, C., Ijomah, W., Gachagan, A., & Marshall, S. (2018). ["Activation Functions: Comparison of trends in Practice and Research for Deep Learning."](https://arxiv.org/abs/1811.03378) arXiv preprint arXiv:1811.03378.
+
+[6]: Nielsen, M. (2015). ["Neural Networks and Deep Learning."](http://neuralnetworksanddeeplearning.com/) Determination Press.

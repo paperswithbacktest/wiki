@@ -119,3 +119,19 @@ Another technique is to use an adaptive epsilon, which changes based on how well
 The Epsilon Greedy Policy can be integrated into more complex [reinforcement learning](/wiki/reinforcement-learning) algorithms by using it as a way to choose actions during the learning process. In algorithms like Q-learning or SARSA, you have a table or function that keeps track of how good each action is in different situations. The Epsilon Greedy Policy helps you decide whether to try a new action or use the best action you know based on this table. You set a small chance, called epsilon, to try a random action. If you're just starting out, you might set epsilon to a higher value so you explore more. As you learn more about which actions are good, you can slowly decrease epsilon to use what you've learned more often. This helps the algorithm find the best actions over time without missing out on potentially better options.
 
 One way to adjust epsilon over time is to use epsilon decay. This means starting with a higher epsilon and slowly decreasing it as you learn more. You can use a formula like $$ \epsilon = \epsilon_{\text{initial}} \times \text{decay_rate}^{\text{time_step}} $$ to do this. Here, $$\epsilon_{\text{initial}}$$ is the starting epsilon value, $$\text{decay_rate}$$ is a number between 0 and 1, and $$\text{time_step}$$ is how many times you've made a choice. This way, you explore more at the beginning when you don't know much, and use what you've learned more as time goes on. Another way to adjust epsilon is to make it adaptive based on how well you're doing. If you're not finding the best actions quickly, you might increase epsilon to explore more. If you're doing well, you might decrease epsilon to use the best actions more often. This helps you keep finding new, potentially better actions while still using what you've learned.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.  
+
+[2]: Szepesvári, C. (2010). ["Algorithms for Reinforcement Learning."](https://www.researchgate.net/publication/220696313_Algorithms_for_Reinforcement_Learning) Morgan & Claypool Publishers.  
+
+[3]: ["Multi-Armed Bandit Algorithms and Empirical Evaluation."](https://cs.nyu.edu/~mohri/pub/bandit.pdf) (2006) Auer, P., & Ortner, R.  
+
+[4]: Lattimore, T., & Szepesvári, C. (2020). ["Bandit Algorithms."](https://tor-lattimore.com/downloads/book/book.pdf) Cambridge University Press.  
+
+[5]: Russo, D., Van Roy, B., Kazerouni, A., Osband, I., & Wen, Z. (2018). ["A Tutorial on Thompson Sampling."](https://arxiv.org/abs/1707.02038) Foundations and Trends in Machine Learning.  
+
+[6]: Auer, P., Cesa-Bianchi, N., & Fischer, P. (2002). ["Finite-time Analysis of the Multiarmed Bandit Problem."](https://link.springer.com/article/10.1023/A:1013689704352) Machine Learning, 47(2-3), 235-256.  
+
+[7]: Kaelbling, L. P., Littman, M. L., & Moore, A. W. (1996). ["Reinforcement Learning: A Survey."](https://arxiv.org/abs/cs/9605103) Journal of Artificial Intelligence Research, 4, 237-285.

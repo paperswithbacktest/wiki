@@ -79,3 +79,15 @@ To make things better, you can try different techniques. One way is to balance t
 Threshold tuning is a way to change how a model decides if something is positive or negative. By adjusting the threshold, you can make the model more or less likely to say "yes". When you lower the threshold, the model becomes more sensitive and will catch more positive cases, which makes the True Positive Rate (TPR) go up. TPR is calculated as $$ \text{TPR} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}} $$. So, if you want to find more of the positive cases, you might lower the threshold to increase the TPR.
 
 But there's a catch. When you lower the threshold to get a higher TPR, the model might also start saying "yes" to more things that are actually negative. This means the False Positive Rate (FPR) goes up too. You have to find a balance that works for what you need. For example, in medical tests, you might want a high TPR to catch all the diseases, but you also don't want too many false alarms. So, threshold tuning helps you adjust the model to get the best TPR without making the FPR too high.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An Introduction to ROC Analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861-874.
+
+[2]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Saito, T., & Rehmsmeier, M. (2015). ["The Precision-Recall Plot is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PLOS ONE, 10(3), e0118432.
+
+[4]: Chicco, D., & Jurman, G. (2020). ["The Advantages of the Matthews Correlation Coefficient (MCC) over F1 Score and Accuracy in Binary Classification Evaluation."](https://pubmed.ncbi.nlm.nih.gov/31898477/)30225-2) Heliyon, 6(8), e04963.
+
+[5]: Hanley, J. A., & McNeil, B. J. (1982). ["The Meaning and Use of the Area under a Receiver Operating Characteristic (ROC) Curve."](https://pubmed.ncbi.nlm.nih.gov/7063747/) Radiology, 143(1), 29-36.

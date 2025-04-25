@@ -81,3 +81,19 @@ One way transfer learning works is by fine-tuning. This means you take a model t
 When we use text generation models, we need to think about ethics. One big issue is making sure the text is not harmful. Sometimes, these models can make up fake news or say things that are not true. This can hurt people or spread lies. We also need to be careful about bias. If the data used to train the model has biases, like being unfair to certain groups of people, the text the model makes will have those biases too. This can lead to unfair treatment or hurtful words. So, we need to check the data carefully and try to fix any problems before we use the model.
 
 Another thing to think about is privacy. Text generation models can sometimes use personal information from the data they were trained on. This means they might share private details about people without meaning to. We need to make sure we protect people's privacy by removing personal information from the training data. Also, we should be clear with people about when they are talking to a machine and not a person. This helps build trust and keeps things honest. By thinking about these ethical issues, we can use text generation models in a way that is safe and fair for everyone.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[2]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[5]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Synthesis Lectures on Human Language Technologies.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[7]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).

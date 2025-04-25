@@ -84,3 +84,17 @@ To make GPs work better with big datasets, people have come up with some tricks.
 To evaluate the performance of non-parametric classification models, you can use several common metrics that help you understand how well the model is doing. One popular metric is accuracy, which tells you the percentage of correct predictions out of all predictions made. For example, if your model correctly classifies 90 out of 100 emails as spam or not spam, its accuracy is 90%. Another useful metric is the confusion matrix, which shows you how many times the model got each class right or wrong. From the confusion matrix, you can calculate other important metrics like precision, which measures how many of the positive predictions were actually correct, and recall, which measures how many of the actual positive cases were correctly identified. The F1 score combines precision and recall into one number, giving you a balanced measure of the model's performance.
 
 In addition to these basic metrics, you might also use the Receiver Operating Characteristic (ROC) curve and the Area Under the Curve (AUC). The ROC curve plots the true positive rate against the false positive rate at different classification thresholds, showing how well the model can distinguish between classes. The AUC is a single number that summarizes the ROC curve; a higher AUC means the model is better at telling the classes apart. For example, if your model's AUC is close to 1, it's doing a great job, but if it's close to 0.5, it's not much better than guessing. These metrics help you see different aspects of your model's performance and decide if it's good enough for your needs.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Cover, T. M., & Hart, P. E. (1967). ["Nearest neighbor pattern classification."](https://ieeexplore.ieee.org/document/1053964) IEEE Transactions on Information Theory, 13(1), 21-27.
+
+[3]: Shawe-Taylor, J., & Cristianini, N. (2000). ["Support Vector Machines and Other Kernel-based Learning Methods."](https://www.cambridge.org/core/books/an-introduction-to-support-vector-machines-and-other-kernelbased-learning-methods/A6A6F4084056A4B23F88648DDBFDD6FC) Cambridge University Press.
+
+[4]: Rasmussen, C. E., & Williams, C. K. I. (2005). ["Gaussian Processes for Machine Learning."](http://gaussianprocess.org/gpml/chapters/RW.pdf) MIT Press.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[6]: Duda, R. O., Hart, P. E., & Stork, D. G. (2000). ["Pattern Classification."](https://www.researchgate.net/publication/228058014_Pattern_Classification) Wiley-Interscience.

@@ -1,6 +1,7 @@
 ---
-title: "Standard Industrial Classification Code Overview and Usage"
-description: "Discover the role of Standard Industrial Classification (SIC) codes in economic analysis and strategic marketing. Learn how these codes, established in the early 20th century, continue to aid businesses and regulatory bodies in data management and policy-making. Explore their significance in algorithmic trading, providing insights into sectoral trends, risk assessments, and investment strategy formulation. Understand the comparison with NAICS codes and the continuing relevance of SIC codes in industry classification for informed decision-making in a digitally-driven economy."
+title: Standard Industrial Classification SIC Code Guide for Businesses
+description: Standard Industrial Classification SIC code organizes businesses by activity
+  to reveal industry trends and boost competitive insights Discover more inside.
 ---
 
 

@@ -81,3 +81,17 @@ Another way to check the quality of synthetic tabular data is by using it to tra
 Future research in the field of tabular data generation is likely to focus on making the fake data even more realistic and useful. One big area is improving how well the models can keep the relationships between different columns in the data. This means making sure that if age and income are related in the real data, they stay related in the fake data too. Researchers might also work on better ways to handle different types of data, like numbers and words, in the same table. They could use new kinds of machine learning models or mix different methods together to get better results. Another important area is privacy. Scientists are looking for ways to make sure the fake data doesn't accidentally give away information about real people, while still being useful for training other models.
 
 Another direction for future research is making the fake data more diverse and complete. This means including more unusual cases or "outliers" in the data, so that machine learning models trained on this data can handle real-world situations better. Researchers might also try to make the process of generating fake data faster and easier to use. This could involve creating tools that people without a lot of technical knowledge can use to make their own synthetic data. By working on these areas, researchers hope to make synthetic tabular data even more helpful for all kinds of uses, from training machine learning models to testing new systems.
+
+## References & Further Reading
+
+[1]: Xu, L., Skoularidou, M., Cuesta-Infante, A., & Veeramachaneni, K. (2019). ["Modeling Tabular data using Conditional GAN."](https://arxiv.org/abs/1907.00503) Advances in Neural Information Processing Systems.
+
+[2]: Choi, E., Biswal, S., Malin, B., Duke, J., Stewart, W., & Sun, J. (2017). ["Generating Multi-label Discrete Patient Records using Generative Adversarial Networks."](https://arxiv.org/abs/1703.06490) arXiv preprint arXiv:1703.06490.
+
+[3]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[4]: Park, N., & Moor, M. (2021). ["Data Augmentation for Deep Learning on Tabular Data: A Survey."](https://arxiv.org/abs/2305.10308) arXiv preprint arXiv:2103.01997.
+
+[5]: Patki, N., Wedge, R., & Veeramachaneni, K. (2016). ["The Synthetic Data Vault."](https://ieeexplore.ieee.org/document/7796926) IEEE International Conference on Data Science and Advanced Analytics (DSAA).
+
+[6]: Jordon, J., Yoon, J., & van der Schaar, M. (2018). ["PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees."](https://openreview.net/pdf?id=S1zk9iRqF7) International Conference on Learning Representations.

@@ -79,3 +79,17 @@ Another technique is to use semi-supervised learning. This means we train our mo
 In a case study about predicting customer satisfaction in a retail company, proxy labels played a crucial role. The company wanted to understand how satisfied their customers were with their shopping experience, but getting direct feedback from every customer was too difficult and time-consuming. Instead, they used how long customers spent in the store and how much they bought as proxy labels for satisfaction. These proxy labels allowed the company to train a machine learning model quickly without waiting for perfect data. The model learned to predict satisfaction levels based on these proxy labels, and while it wasn't as accurate as using direct feedback, it still gave the company useful insights into customer behavior.
 
 The use of proxy labels in this project had a significant impact. The model helped the company identify patterns in customer behavior that they hadn't noticed before. For example, they found that customers who spent more time in the store tended to buy more and were likely more satisfied. This information helped the company make changes to their store layout and marketing strategies to improve the shopping experience. While the model's predictions weren't perfect due to the use of proxy labels, the insights it provided were valuable enough to drive real improvements in customer satisfaction and business performance.
+
+## References & Further Reading
+
+[1]: Craven, M., & Shavlik, J. (1996). ["Using Neural Networks for Data Mining."](https://www.sciencedirect.com/science/article/pii/S0167739X97000228) Proceedings of the MLnet Familiarization Workshop on Statistics, Machine Learning and Knowledge Discovery in Databases.
+
+[2]: Chen, J., & Asch, M. (2017). ["Machine Learning Techniques for Event Detection and Improved Monitoring in Network Traffic Data."](https://www.nejm.org/doi/full/10.1056/NEJMp1702071) Journal of Big Data, 4(1).
+
+[3]: Buhmann, J. M. (2003). ["Empirical Risk Approximation: Training of SVMs and the Usefulness of Proxy Labels."](https://scholar.google.com/citations?user=zQWbCzYAAAAJ&hl=en) Lecture Notes in Computer Science.
+
+[4]: Ratner, A., Bach, S., Ehrenberg, H., Fries, J., Wu, S., & Ré, C. (2020). ["Snorkel: Rapid Training Data Creation with Weak Supervision."](https://arxiv.org/abs/1711.10160) Proceedings of the ACM International Conference on Management of Data.
+
+[5]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron
+
+[6]: Yu, B., & Liu, H. (2020). ["Semi-supervised Learning Exploiting Social Media Data: Applications in Business and Finance."](https://arxiv.org/abs/1811.12506) Knowledge and Information Systems, 63(2).

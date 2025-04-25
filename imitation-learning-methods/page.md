@@ -83,3 +83,21 @@ Another important part of evaluating Imitation Learning methods is to test them 
 One of the latest advancements in Imitation Learning is the development of Generative Adversarial Imitation Learning (GAIL). GAIL uses two computer programs that work together to learn from examples. One program tries to mimic human actions, while the other program checks how well the first one is doing. This back-and-forth helps the computer learn faster and more accurately. GAIL is exciting because it can learn from fewer examples than traditional methods, making it easier to use in real-world situations where getting lots of good examples is hard. This could make self-driving cars and robots that help in homes and hospitals much better and more common.
 
 Another important advancement is the use of meta-learning in Imitation Learning. Meta-learning helps the computer learn how to learn from new tasks quickly. For example, if a robot learns to pick up a ball, meta-learning can help it figure out how to pick up a cube much faster. This is really useful because it makes the computer more flexible and able to handle new situations. As a result, machines could become better at adapting to changes in their environment, which is key for things like self-driving cars that need to handle all sorts of road conditions. These advancements could make Imitation Learning a bigger part of everyday technology, helping machines do more of what humans do, but faster and without getting tired.
+
+## References & Further Reading
+
+[1]: Torabi, F., Warnell, G., & Stone, P. (2019). ["Imitation Learning from Observations."](https://www.ijcai.org/Proceedings/2019/882) Proceedings of the 18th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS).
+
+[2]: Ross, S., Gordon, G., & Bagnell, D. (2011). ["A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning."](https://arxiv.org/abs/1011.0686) Journal of Machine Learning Research.
+
+[3]: Ho, J., & Ermon, S. (2016). ["Generative Adversarial Imitation Learning."](https://arxiv.org/abs/1606.03476) Advances in Neural Information Processing Systems 29.
+
+[4]: Ziebart, B. D., Maas, A. L., Bagnell, J. A., & Dey, A. K. (2008). ["Maximum Entropy Inverse Reinforcement Learning."](https://dl.acm.org/doi/abs/10.5555/1620270.1620297) Proceedings of the 23rd AAAI Conference on Artificial Intelligence.
+
+[5]: Schaal, S. (1999). ["Is Imitation Learning the Route to Humanoid Robots?"](https://web.media.mit.edu/~cynthiab/Readings/schaal-TICS1999.pdf) Trends in Cognitive Sciences.
+
+[6]: Silver, D., Huang, A., Maddison, C. J., et al. (2016). ["Mastering the Game of Go with Deep Neural Networks and Tree Search."](https://www.nature.com/articles/nature16961) Nature. 
+
+[7]: Osa, T., Pajarinen, J., Neumann, G., Bagnell, J. A., Abbeel, P., & Peters, J. (2018). ["An Algorithmic Perspective on Imitation Learning."](https://arxiv.org/abs/1811.06711) Foundations and Trends in Robotics.
+
+[8]: OpenAI. (2021). ["Learning Transferable Visual Models From Natural Language Supervision."](https://arxiv.org/abs/2103.00020) International Conference on Machine Learning.

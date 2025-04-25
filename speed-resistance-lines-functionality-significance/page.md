@@ -1,6 +1,7 @@
 ---
-title: "Speed Resistance Lines: Functionality and Significance"
-description: "Explore the role of speed resistance lines in algorithmic trading to identify support and resistance levels, forecast trend changes, and optimize trade strategies."
+title: Understanding Speed Resistance Lines in Technical Analysis
+description: Speed Resistance Lines guide traders to key support and resistance by
+  drawing angled lines from major highs or lows to forecast trends Discover more inside
 ---
 
 

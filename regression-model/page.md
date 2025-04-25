@@ -83,3 +83,19 @@ Linear regression models, on the other hand, assume that the relationship betwee
 Regression models can be used for time series forecasting by treating time as one of the predictor variables. Imagine you want to guess how many ice creams will be sold each day based on the temperature and the day of the week. You can use a regression model where the number of ice creams sold is the outcome, and the temperature and the day of the week are the predictors. The model will find a line or a curve that best fits the data, and you can use this to predict how many ice creams will be sold on a new day based on the temperature and the day of the week. The equation for a simple linear regression could be $$y = mx + b$$, where $$y$$ is the number of ice creams sold, $$x$$ is the temperature, $$m$$ is how much the temperature affects sales, and $$b$$ is the starting point.
 
 For more complex time series data, you might need to use non-linear regression models or add more predictors like the month or the year. These models can capture the ups and downs in the data over time, making better guesses about future sales. For example, if ice cream sales go up in the summer and down in the winter, a non-linear model can fit a curve to this pattern. The equation for a non-linear model could be something like $$y = a e^{bx} + c$$, where $$a, b, c$$ are numbers the model figures out, and $$e$$ is a special number used in math. By using these models, you can make more accurate predictions about how many ice creams will be sold in the future based on past data.
+
+## References & Further Reading
+
+[1]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: with Applications in R"](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer.
+
+[2]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://webdoc.agsci.colostate.edu/koontz/arec-econ535/papers/Tibshirani%20(JRSS-B%201996).pdf) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[3]: Hoerl, A. E., & Kennard, R. W. (1970). ["Ridge Regression: Biased Estimation for Nonorthogonal Problems."](https://www.jstor.org/stable/1267351) Technometrics, 12(1), 55-67.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[5]: Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). ["Introduction to Linear Regression Analysis."](https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf) Wiley.
+
+[6]: Gelman, A., & Hill, J. (2006). ["Data Analysis Using Regression and Multilevel/Hierarchical Models."](https://www.cambridge.org/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983) Cambridge University Press.
+
+[7]: Seber, G. A. F., & Lee, A. J. (2012). ["Linear Regression Analysis."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780471722199) Wiley.

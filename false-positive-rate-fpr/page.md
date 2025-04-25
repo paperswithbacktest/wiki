@@ -79,3 +79,15 @@ However, it's important to not just look at the FPR alone when comparing models.
 In medical diagnosis, a high False Positive Rate (FPR) can cause a lot of problems. Imagine a test for a disease that often says someone is sick when they are not. This can make people worried and stressed. They might need to go through more tests, which can be expensive and take up a lot of time. Doctors might even start treatments that aren't needed, which can harm the patient. So, it's really important to keep the FPR low in medical tests. The formula for FPR is $$ \text{FPR} = \frac{\text{FP}}{\text{FP} + \text{TN}} $$, where FP is the number of false positives and TN is the number of true negatives. By making sure the FPR is low, doctors can trust the test results more and help patients make better decisions about their health.
 
 In fraud detection, a high FPR can also be a big issue. If a system often flags normal transactions as fraud, it can be annoying for customers. They might have their accounts frozen or need to spend time proving that the transaction was okay. This can lead to a lot of customer complaints and even make people stop using the service. On the other hand, if the system misses real fraud because it's trying to avoid false positives, the company could lose a lot of money. So, finding the right balance between catching real fraud and not having too many false alarms is key. By understanding and managing the FPR, companies can make their fraud detection systems more reliable and keep their customers happy.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861-874.
+
+[2]: Hanley, J. A., & McNeil, B. J. (1982). ["The meaning and use of the area under a receiver operating characteristic (ROC) curve."](https://pubmed.ncbi.nlm.nih.gov/7063747/) Radiology, 143(1), 29-36.
+
+[3]: Provost, F., & Fawcett, T. (2013). ["Data Science for Business: What you need to know about data mining and data-analytic thinking."](https://www.researchgate.net/publication/256438799_Data_Science_for_Business) O'Reilly Media, Inc.
+
+[4]: Saito, T., & Rehmsmeier, M. (2015). ["The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PLOS ONE, 10(3), e0118432.
+
+[5]: Powers, D. M. W. (2011). ["Evaluation: From precision, recall and F-measure to ROC, informedness, markedness and correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.

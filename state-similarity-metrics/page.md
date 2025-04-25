@@ -1,7 +1,7 @@
 ---
-title: State Similarity Metrics in Machine Learning and Applications
-description: State Similarity Metrics use distance measures to quantify data relationships
-  and enhance recommendations and model accuracy Discover more inside
+title: Understanding State Similarity Metrics In Machine Learning
+description: State Similarity Metrics help machine learning models assess how similar
+  data points and behaviors are for improved recommendations Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -79,3 +79,15 @@ Another way to improve State Similarity Metrics is by using ensemble methods, wh
 In the future, State Similarity Metrics are expected to become even smarter and more accurate. One big change might be using more advanced machine learning techniques, like [deep learning](/wiki/deep-learning), to figure out how similar things are. Instead of just using simple formulas like $$d(x, y) = \sqrt{\sum_{i=1}^{n} (x_i - y_i)^2}$$, these new methods could learn from lots of data to find the best way to measure similarity. This could make things like recommendation systems and clustering much better because they would understand the data in a more detailed way. Also, we might see more use of real-time data to make these metrics even more up-to-date and useful.
 
 Another expected development is the use of more personalized State Similarity Metrics. Right now, the same metric is used for everyone, but in the future, these metrics might change based on who is using them. For example, if you're using a music app, the app might learn what you think makes songs similar and use that to make better recommendations just for you. This could make things like games and apps feel more personal and fun. Plus, as computers get faster and better, we might be able to use these metrics on much bigger sets of data, making them even more powerful and useful in all kinds of machine learning tasks.
+
+## References & Further Reading
+
+[1]: Watkins, C. J. C. H., & Dayan, P. (1992). ["Q-Learning."](https://link.springer.com/article/10.1007/BF00992698) Machine Learning.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[3]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.

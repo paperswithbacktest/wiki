@@ -79,3 +79,15 @@ Using log-odds in deep learning can also help the model learn better. When a dee
 In a healthcare project, researchers used log-odds to predict the likelihood of patients developing a certain disease based on their medical history and lifestyle factors. By using log-odds in a logistic regression model, they were able to see how different factors like age, diet, and exercise affected the odds of getting the disease. The log-odds helped the model learn better from the data, even though some factors were more common than others. This made the predictions more accurate and helped doctors understand which factors were most important for preventing the disease. The formula they used to convert probabilities to log-odds was $$ \log\left(\frac{p}{1-p}\right) $$, where $$ p $$ is the probability of the event.
 
 In another case, a company used log-odds to improve their email spam filter. They built a logistic regression model that calculated the log-odds of an email being spam based on features like the sender's email address, the email's content, and the time it was sent. Using log-odds made the model more stable and easier to train, especially since spam emails were much less common than non-spam emails. This helped the model handle the class imbalance problem better and make more accurate predictions. As a result, the spam filter became much better at identifying and filtering out spam emails, improving the user experience.
+
+## References & Further Reading
+
+[1]: Hosmer, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). ["Applied Logistic Regression"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387). John Wiley & Sons.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Agresti, A. (2018). ["Statistical Methods for the Social Sciences"](https://api.pageplace.de/preview/DT0400.9781292220345_A37747447/preview-9781292220345_A37747447.pdf) (5th Ed.). Pearson.
+
+[4]: Zhang, H. H., & Zhao, X. (2013). ["Machine Learning for Classification: Logistic Regression."](https://hanzhaoml.github.io/) In Data Mining Applications with R (pp.123-140). Springer.
+
+[5]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

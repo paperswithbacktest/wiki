@@ -79,3 +79,15 @@ To include a Reading Order Detection Model in a larger system, you need to conne
 Future developments in reading order detection are expected to focus on making models even better at understanding complex document layouts. Researchers are working on using more advanced types of neural networks, like Transformer models, which can learn from a lot of data and understand how different parts of a document fit together. These models will be trained on bigger and more varied sets of documents, so they can handle all kinds of layouts, from simple text pages to tricky ones with lots of images and tables. This will help the models read documents more like how a person would, making them more accurate and useful.
 
 Another area of future development is the use of multimodal learning, where models not only look at the text but also pay attention to pictures and other visual elements on the page. By understanding both the text and the visuals, the models can figure out the reading order more accurately. For example, if there's a picture with a caption, the model can learn to read the caption right after the picture, just like a person would. These improvements will make reading order detection models more reliable and versatile, helping them process documents in a way that feels natural to human readers.
+
+## References & Further Reading
+
+[1]: Clausner, C., Antonacopoulos, A., & Pletschacher, S. (2018). ["Scenario Driven Evaluation of Layout Analysis Methods."](https://www.primaresearch.org/www/assets/papers/ICDAR2011_Clausner_PerformanceEvaluation.pdf) International Journal on Document Analysis and Recognition (IJDAR), 21(3):183-210.
+
+[2]: Chen, Y., Cohen, S., & Black, A. W. (2014). ["Contextual Reading Order Detection with Autoflow Line Extraction."](https://ieeexplore.ieee.org/document/6479296) 2014 11th IAPR International Workshop on Document Analysis Systems.
+
+[3]: Yang, Y., & Rosenfeld, V. (2018). ["Reading Order Detection in Historical Arabic Documents."](https://arxiv.org/pdf/1808.07931v1.pdf) In: Advances in Multilingual and Multimodal Information Retrieval. CLEF 2008. Lecture Notes in Computer Science, vol 5152. Springer, Berlin, Heidelberg.
+
+[4]: Winston, P. (2020). ["Artificial Intelligence"](https://www.amazon.com/Artificial-Intelligence-3rd-Winston/dp/0201533774) (3rd Edition). Addison Wesley.
+
+[5]: Vinciarelli, A., & Ebrahimi, T. (2002). ["A New Approach to Character Segmentation in Color Handwritten Documents."](https://www.sciencedirect.com/science/article/pii/S0031320301001297) Proceedings of International Conference of Pattern Recognition.

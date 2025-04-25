@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Surpassing Market Performance"
-description: "Explore how algorithmic trading strategies can outperform market averages with speed and precision. Learn essential metrics for evaluating success."
+title: Strategies for Outperforming the Market Through Smart Investing
+description: Outperform the market with proven diversification risk management and
+  effective research backed strategies for long term growth Discover more inside
 ---
 
 

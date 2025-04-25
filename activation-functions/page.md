@@ -79,3 +79,19 @@ Mish helps in complex models by allowing the network to learn and adapt more eff
 The KAN, or Kolmogorov-Arnold Network, is a special type of neural network that uses activation functions in a unique way. Instead of using traditional neurons, KAN uses a series of simple functions to build up complex patterns. The activation function in KAN helps the network learn by breaking down the input into smaller parts and then combining them in different ways. This can be really useful in tasks where the data is very complex and hard to understand, like predicting stock prices or understanding how proteins fold. By using KAN, the network can learn these complex patterns more effectively, even if it takes a bit more time and computing power.
 
 LEAF, or Learnable Efficient Activation Function, is another advanced activation function that's designed to work well in specialized neural network architectures. LEAF is a bit like ReLU but can change and adapt as the network learns. It's defined as $$ f(x) = \max(0, x) + \alpha \min(0, x) $$, where $$ \alpha $$ is a parameter that the network can learn and adjust. This makes LEAF more flexible than ReLU and can help the network learn better, especially in tasks like image recognition where the data is very detailed. By using LEAF, the network can adapt to the data more effectively, leading to better performance in complex models.
+
+## References & Further Reading
+
+[1]: Nwankpa, C., Ijomah, W., Gachagan, A., & Marshall, S. (2018). ["Activation Functions: Comparison of trends in Practice and Research for Deep Learning"](https://arxiv.org/abs/1811.03378). arXiv:1811.03378.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Ramachandran, P., Zoph, B., & Le, Q. V. (2017). ["Searching for Activation Functions"](https://arxiv.org/abs/1710.05941). arXiv:1710.05941.
+
+[4]: Hendrycks, D., & Gimpel, K. (2016). ["Bridging Nonlinearities and Stochastic Regularizers with Gaussian Error Linear Units"](https://arxiv.org/abs/1606.08415). arXiv:1606.08415.
+
+[5]: Elfwing, S., Uchibe, E., & Doya, K. (2018). ["Sigmoid-weighted linear units for neural network function approximation in reinforcement learning"](https://www.sciencedirect.com/science/article/pii/S0893608017302976). Neural Networks, 107, 3-11.
+
+[6]: Misra, D. (2019). ["Mish: A Self Regularized Non-Monotonic Neural Activation Function"](https://arxiv.org/abs/1908.08681). arXiv:1908.08681.
+
+[7]: Clevert, D.-A., Unterthiner, T., & Hochreiter, S. (2015). ["Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)"](https://arxiv.org/abs/1511.07289). arXiv:1511.07289.

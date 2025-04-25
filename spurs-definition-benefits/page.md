@@ -1,6 +1,7 @@
 ---
-title: "SPURs: Definition and Benefits"
-description: "Explore the definition and benefits of Standard & Poor’s Underlying Ratings SPURs in algo trading, enhancing transparency and creditworthiness assessment."
+title: Comprehensive Guide to SPURs Single Point of Use Routines
+description: SPURs centralize common programming tasks into focused routines that
+  boost code reuse and simplify maintenance while reducing errors. Discover more inside.
 ---
 
 

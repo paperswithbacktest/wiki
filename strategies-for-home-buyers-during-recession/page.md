@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Home Buyers During a Recession"
-description: "Explore strategies for successful home buying and algorithmic trading during recessions. Learn how to capitalize on economic opportunities and navigate market volatility."
+title: Buying a Home During a Recession Professional Insights
+description: Home buying during a recession can unlock lower prices and interest rates
+  while highlighting risks and preparation strategies Discover more inside.
 ---
 
 

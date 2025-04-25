@@ -87,3 +87,15 @@ Lastly, consider the model's reliability and robustness. Reliability means the s
 In the future, machine learning inference is expected to become faster and more efficient. One big trend is the development of specialized hardware like TPUs (Tensor Processing Units) and other AI chips. These chips are made just for running machine learning models and can make predictions much quicker than regular computers. Another trend is the use of edge computing, where models run on devices like smartphones and smart home gadgets instead of sending data to faraway servers. This can make things faster and more private because the data stays on the device. Also, techniques like quantization and pruning will keep getting better, making models smaller and quicker without losing much accuracy.
 
 Another important trend is the rise of federated learning, where models learn from data on many different devices without actually seeing the data. This helps keep data private but still lets the model get better over time. As models get bigger and more complex, like with large language models, there will be a focus on making inference more energy-efficient. This means finding ways to run big models without using too much power. Finally, there will be more work on making models more robust and reliable, so they can handle new types of data and keep working well even as the world changes. These trends will help machine learning inference become a bigger part of our everyday lives, making things like smart homes and self-driving cars work better and more smoothly.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[2]: Sze, V., Chen, Y., Yang, T.-J., & Emer, J. S. (2017). ["Efficient Processing of Deep Neural Networks: A Tutorial and Survey."](https://ieeexplore.ieee.org/document/8114708) Proceedings of the IEEE, 105(12), 2295-2329.
+
+[3]: Han, S., Mao, H., & Dally, W. J. (2016). ["Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding."](https://arxiv.org/abs/1510.00149) International Conference on Learning Representations (ICLR).
+
+[4]: Jouppi, N. P., Young, C., Patil, N., & Patterson, D. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://ieeexplore.ieee.org/abstract/document/8192463) ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA).
+
+[5]: McMahan, H. B., Moore, E., Ramage, D., & Hampson, S. (2017). ["Communication-Efficient Learning of Deep Networks from Decentralized Data."](https://arxiv.org/abs/1602.05629) Proceedings of AISTATS.

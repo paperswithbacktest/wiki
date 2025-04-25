@@ -1,7 +1,7 @@
 ---
-title: Stride Machine Learning Framework for Efficient Big Data
-description: Stride machine learning boosts big data efficiency with larger steps
-  through datasets to accelerate image recognition and NLP tasks Discover more inside
+title: Stride Machine Learning for Efficient Big Data Processing
+description: Stride machine learning speeds up analysis by taking larger steps to
+  focus on key features in images and text for faster predictions Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -81,3 +81,15 @@ Another way to improve performance is by carefully preprocessing your data. Stri
 In the future, Stride machine learning is expected to become even better at handling big data. One of the main improvements could be making it easier to find the right step size. Right now, it can take a lot of time to test different sizes to see what works best. In the future, there might be new ways to automatically figure out the best step size for different types of data, like images or texts. This would make Stride even faster and more useful for people working on big projects.
 
 Another expected enhancement is better integration with other machine learning tools. Stride already works well with libraries like TensorFlow and PyTorch, but it could get even better. Future versions might include more tools to help with data preprocessing and feature engineering, making it easier to use Stride with other parts of the data science process. This would help people build and train models more quickly and efficiently, especially when working with large datasets.
+
+## References & Further Reading
+
+[1]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Communications of the ACM, 60(6), 84–90.
+
+[4]: Brownlee, J. (2020). ["Better Deep Learning: Train Faster, Reduce Overfitting, and Make Better Predictions."](https://machinelearningmastery.com/better-deep-learning/) Machine Learning Mastery.
+
+[5]: Goldberg, Y. (2017). ["Neural Network Methods in Natural Language Processing."](https://dl.acm.org/doi/book/10.5555/3110856) Morgan & Claypool Publishers.

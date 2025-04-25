@@ -1,6 +1,7 @@
 ---
-title: "Sub-Advised Fund"
-description: "Discover the world of sub-advised funds and algorithmic trading in a rapidly evolving financial landscape offering innovative investment strategies and opportunities."
+title: Understanding Sub-Advised Funds Benefits Drawbacks and Fees
+description: Sub-Advised Funds let investors access specialist expertise under primary
+  advisor oversight while weighing fees and complexity Discover more inside.
 ---
 
 

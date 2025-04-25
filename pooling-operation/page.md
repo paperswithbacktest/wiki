@@ -79,3 +79,19 @@ The main benefit of Strip Pooling is that it helps the network capture long-rang
 SoftPool and Hopfield Layer are advanced pooling techniques that offer improvements over traditional methods like Max Pooling or Average Pooling. SoftPool, for example, uses a soft selection process instead of [picking](/wiki/asset-class-picking) the highest or average value in a window. It looks at all the values in the window and gives each one a weight based on how important it is. This means SoftPool can keep more information from the input, making the network better at understanding the whole picture. SoftPool helps the network be more flexible because it can adapt to different kinds of data without losing important details.
 
 The Hopfield Layer, on the other hand, uses ideas from Hopfield networks, which are good at remembering patterns. In pooling, the Hopfield Layer helps the network find and keep important features in the data by using a special kind of memory. This can make the network better at tasks like recognizing objects in images, even when the objects are in different positions or slightly changed. Both SoftPool and the Hopfield Layer give the network more flexibility and better performance by keeping more of the original data's information and being able to handle different kinds of inputs more effectively.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-based learning applied to document recognition."](https://ieeexplore.ieee.org/document/726791) Proceedings of the IEEE, 86(11), 2278-2324.
+
+[2]: Zeiler, M. D., & Fergus, R. (2014). ["Visualizing and understanding convolutional networks."](https://arxiv.org/abs/1311.2901) In European Conference on Computer Vision (pp. 818-833). Springer, Cham.
+
+[3]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet classification with deep convolutional neural networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in neural information processing systems, 25.
+
+[4]: Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., ... & Rabinovich, A. (2015). ["Going deeper with convolutions."](https://ieeexplore.ieee.org/document/7298594) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1-9).
+
+[5]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving deep into rectifiers: Surpassing human-level performance on imagenet classification."](https://arxiv.org/abs/1502.01852) In Proceedings of the IEEE international conference on computer vision (pp. 1026-1034).
+
+[6]: Lin, M., Chen, Q., & Yan, S. (2013). ["Network in network."](https://arxiv.org/abs/1312.4400) arXiv preprint arXiv:1312.4400.
+
+[7]: He, K., Zhang, X., Ren, S., & Sun, J. (2014). ["Spatial pyramid pooling in deep convolutional networks for visual recognition."](https://ieeexplore.ieee.org/document/7005506) IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(9), 1904-1916.

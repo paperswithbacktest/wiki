@@ -100,3 +100,15 @@ mixed_precision.set_policy(policy)
 When it comes to cost and performance for machine learning applications, TPUs often stand out because they are designed specifically for the kind of math that machine learning needs. They can do matrix multiplication really fast, which is a big part of training neural networks. This means TPUs can be much faster than regular CPUs for these tasks. But TPUs can be more expensive to use because you usually need to rent them from cloud services like Google Cloud. So, if you have a big project that needs to train a large model quickly, TPUs might be worth the cost. But for smaller projects, the cost might not be worth it if you don't need that extra speed.
 
 Compared to GPUs, which are also used a lot for machine learning, TPUs can be faster for certain types of models, especially very large ones. GPUs are more versatile and can be used for many different kinds of computing jobs, not just machine learning. They are also easier to get because you can buy them and use them in your own computers. This can make GPUs a better choice if you need to do a mix of different tasks or if you're working on a smaller budget. But if your main focus is training big machine learning models and you can afford the cloud costs, TPUs might give you better performance for the money.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., & Patterson, D. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://arxiv.org/abs/1704.04760) ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA).
+
+[2]: Dean, J., & Patterson, D. A. (2018). ["A New Golden Age in Computer Architecture: Empowering the Machine-Learning Revolution."](https://ieeexplore.ieee.org/document/8259424) Communications of the ACM, 61(2), 48-60.
+
+[3]: Google Cloud. ["Using TPUs."](https://cloud.google.com/kubernetes-engine/docs/tutorials/optimum-tpu) Accessed 2023.
+
+[4]: Chen, Y., Emer, J., & Sze, V. (2016). ["Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks."](https://ieeexplore.ieee.org/document/7551407) IEEE International Symposium on Computer Architecture (ISCA).
+
+[5]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16).

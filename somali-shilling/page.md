@@ -1,6 +1,7 @@
 ---
-title: "Somali Shilling"
-description: "Explore the significance of the Somali Shilling in Somalia's economy amid socio-political challenges and discover potential benefits of algorithmic trading with SOS."
+title: Understanding the Somali Shilling and Its Economic Influence
+description: Somali Shilling insights cover history denominations current exchange
+  rates value shifts and economic impacts in Somalia Discover more inside
 ---
 
 

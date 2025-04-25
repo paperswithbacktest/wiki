@@ -81,3 +81,23 @@ One big advantage of DINO is that it can find patterns and details in pictures t
 Image models can be optimized for specific tasks like object detection, segmentation, and classification by fine-tuning them on datasets that are relevant to the task at hand. For object detection, models like YOLO (You Only Look Once) or SSD (Single Shot MultiBox Detector) are used, which are trained to not only recognize objects but also to pinpoint where they are in the image. These models use techniques like bounding boxes to draw a box around the object, and they are trained on datasets with labeled images showing where objects are located. For segmentation, models like U-Net or DeepLab are used, which go beyond just recognizing objects to understand the exact shape and boundaries of objects in the image. These models are trained on images where each pixel is labeled to show what it belongs to, allowing the model to learn how to separate different parts of the image.
 
 For classification, models like ResNet or EfficientNet are often used, which are trained to recognize what is in the image by assigning it to a specific category. These models are fine-tuned on datasets where each image is labeled with the correct category, allowing the model to learn the features that distinguish one category from another. Transfer learning is a common technique used to optimize these models for specific tasks. By starting with a pre-trained model and then training it further on a new dataset that's specific to the task, the model can learn to perform better on that task without needing to start from scratch. This makes the training process faster and more efficient, and it can lead to better performance on the specific task at hand.
+
+## References & Further Reading
+
+[1]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Simonyan, K., & Zisserman, A. (2015). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.
+
+[4]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., et al. (2021). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) Advances in Neural Information Processing Systems.
+
+[5]: Tan, M., & Le, Q. V. (2019). ["EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."](https://arxiv.org/abs/1905.11946) arXiv preprint arXiv:1905.11946.
+
+[6]: Howard, A. G., Sandler, M., Chen, B., Wang, W., et al. (2019). ["Searching for MobileNetV3."](https://arxiv.org/abs/1905.02244) arXiv preprint arXiv:1905.02244.
+
+[7]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Proceedings of the International Conference on Computer Vision (ICCV).
+
+[8]: Chen, L. C., Papandreou, G., Schroff, F., & Adam, H. (2017). ["Rethinking Atrous Convolution for Semantic Image Segmentation."](https://arxiv.org/abs/1706.05587) arXiv preprint arXiv:1706.05587.
+
+[9]: Caron, M., Touvron, H., Misra, I., et al. (2021). ["Emerging Properties in Self-Supervised Vision Transformers."](https://arxiv.org/abs/2104.14294) arXiv preprint arXiv:2104.14294.

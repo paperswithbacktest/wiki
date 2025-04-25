@@ -79,3 +79,17 @@ Another method is called contrastive learning. This is like teaching the compute
 Evaluating models trained on unlabeled data can be tricky because there are no labels to compare the model's predictions to. One way to do this is by using a small set of labeled data that was set aside and not used during training. This is called a validation set. You can use this set to see how well the model does on data it hasn't seen before. If the model makes good guesses on the validation set, it's a sign that it's learning well from the unlabeled data.
 
 Another way to evaluate these models is by using internal measures like clustering quality. For example, if the model is grouping similar data points together, you can look at how tight these groups are and how well they're separated from each other. A common measure for this is the silhouette score, which tells you how similar an object is to its own cluster compared to other clusters. If the silhouette score is high, it means the model is doing a good job of finding meaningful patterns in the unlabeled data.
+
+## References & Further Reading
+
+[1]: Zhu, X., & Goldberg, A. B. (2009). ["Introduction to Semi-Supervised Learning."](https://link.springer.com/book/10.1007/978-3-031-01548-9) Synthesis Lectures on Artificial Intelligence and Machine Learning, 3(1), 1-130.
+
+[2]: Chapelle, O., Schölkopf, B., & Zien, A. (2009). ["Semi-Supervised Learning."](https://direct.mit.edu/books/edited-volume/3824/Semi-Supervised-Learning) MIT Press.
+
+[3]: Bengio, Y. (2012). ["Deep Learning of Representations for Unsupervised and Transfer Learning."](https://dl.acm.org/doi/10.5555/3045796.3045800) In Proceedings of the ICML Workshop on Unsupervised and Transfer Learning.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[6]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.

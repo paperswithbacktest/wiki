@@ -128,3 +128,19 @@ A third example is the Stacked LSTM, where multiple LSTM layers are stacked on t
 LSTMs and Transformers are both used for understanding sequences, but they work in different ways. LSTMs are good at remembering things from earlier in a sequence because they have a special memory cell and gates that control what to keep or forget. For example, the forget gate in an LSTM uses a formula like $$ f_t = \sigma(W_f \cdot [h_{t-1}, x_t] + b_f) $$ to decide what to forget. This makes LSTMs great for tasks like predicting the next word in a sentence or understanding long documents. However, training LSTMs can take a long time, especially for very long sequences, and they might struggle with capturing dependencies that are extremely far apart.
 
 Transformers, on the other hand, use something called attention mechanisms to focus on different parts of the sequence at the same time. This means they can understand the context of the whole sequence without having to go through it step by step like LSTMs do. Transformers are really good at tasks like translating languages or summarizing text because they can see the big picture and pay attention to the most important parts. They also train faster than LSTMs because they can process sequences in parallel. But Transformers can be more complex to set up and might need more data to work well.
+
+## References & Further Reading
+
+[1]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory"](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735). Neural Computation, 9(8), 1735-1780.
+
+[2]: Olah, C. (2015). ["Understanding LSTM Networks"](https://colah.github.io/posts/2015-08-Understanding-LSTMs/). 
+
+[3]: Gers, F. A., Schmidhuber, J., & Cummins, F. (2000). ["Learning to Forget: Continual Prediction with LSTM"](https://pubmed.ncbi.nlm.nih.gov/11032042/). Neural Computation, 12(10), 2451-2471.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[5]: Graves, A. (2012). ["Supervised Sequence Labelling with Recurrent Neural Networks"](https://link.springer.com/book/10.1007/978-3-642-24797-2). Springer.
+
+[6]: Greff, K., Srivastava, R. K., Koutník, J., Steunebrink, B. R., & Schmidhuber, J. (2017). ["LSTM: A Search Space Odyssey"](https://ieeexplore.ieee.org/document/7508408). IEEE Transactions on Neural Networks and Learning Systems.
+
+[7]: Lipton, Z. C., Berkowitz, J., & Elkan, C. (2015). ["A Critical Review of Recurrent Neural Networks for Sequence Learning"](https://arxiv.org/abs/1506.00019).

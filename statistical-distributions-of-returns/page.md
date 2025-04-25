@@ -1,6 +1,7 @@
 ---
-title: "Statistical Distributions of Returns"
-description: "Explore statistical distributions for algorithmic trading to enhance predictive models and trading strategies with insights into asset price movements and risk management."
+title: Understanding Statistical Distributions of Investment Returns
+description: Statistical distribution of returns helps investors gauge risk and anticipate
+  outcomes based on data patterns and tail behavior. Discover more inside.
 ---
 
 

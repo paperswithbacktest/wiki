@@ -169,3 +169,13 @@ parsed_features = tf.io.parse_example(tf_example.SerializeToString(), features={
 
 print(parsed_features)
 ```
+
+## References & Further Reading
+
+[1]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) In 12th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 16).
+
+[2]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Liu, L., Jiang, Q., Fu, Y., & Duan, N. (2020). ["Efficient and Effective Neural Models for Large-Scale Online Shopper Intention Detection."](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202424526) In Proceedings of the 2020 Conference of the Association for Computational Linguistics (ACL).

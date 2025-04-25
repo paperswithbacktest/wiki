@@ -79,3 +79,21 @@ Another important thing to look at is how the model handles different kinds of d
 The future of 2D Parallel Distributed Methods looks bright because they can handle bigger and more complex data. Researchers are working on making these methods even faster and more efficient. One big area of focus is improving how different machines talk to each other. If machines can share information more smoothly, the training process can go much quicker. Another exciting direction is using these methods to train models that can learn from many different types of data at once. This could help in fields like healthcare, where doctors need to understand lots of different information to make the best decisions for their patients.
 
 Another important research direction is making 2D Parallel Distributed Methods easier to use. Right now, setting up and managing these systems can be tricky and requires a lot of technical know-how. If researchers can create tools that make it simpler for everyone to use these methods, more people could benefit from them. For example, small businesses could use these methods to train models on their data without needing a big team of experts. Overall, the goal is to make these powerful tools more accessible and effective, so they can help solve bigger problems and make a real difference in the world.
+
+## References & Further Reading
+
+[1]: Dean, J., Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) Communications of the ACM.
+
+[2]: Li, M., Andersen, D.G., Smola, A.J., & Yu, K. (2014). ["Communication Efficient Distributed Machine Learning with the Parameter Server."](https://dl.acm.org/doi/10.5555/2968826.2968829) In Proceedings of the 27th International Conference on Neural Information Processing Systems - Volume 1 (NIPS’14).
+
+[3]: Chen, T., et al. (2015). ["MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems."](https://arxiv.org/abs/1512.01274) arXiv:1512.01274.
+
+[4]: Shazeer, N., et al. (2017). ["Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer."](https://arxiv.org/abs/1701.06538) arXiv:1701.06538.
+
+[5]: Huang, L., et al. (2019). ["GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism."](https://arxiv.org/abs/1811.06965) arXiv:1811.06965.
+
+[6]: Zaharia, M., et al. (2010). ["Spark: Cluster Computing with Working Sets."](https://github.com/zebra-uestc/reading-list-pages/blob/main/assets/Zaharia%20et%20al.%20-%202010%20-%20Spark%20cluster%20computing%20with%20working%20sets.pdf) HotCloud'10 Proceedings of the 2nd USENIX conference on Hot topics in cloud computing.
+
+[7]: Sergeev, A., Balso, M.D. (2018). ["Horovod: fast and easy distributed deep learning in TensorFlow."](https://arxiv.org/abs/1802.05799) arXiv:1802.05799. 
+
+[8]: Goyal, P., et al. (2017). ["Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour."](https://arxiv.org/abs/1706.02677) arXiv:1706.02677.

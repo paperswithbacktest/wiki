@@ -83,3 +83,17 @@ Another way to improve R-Squared is by making sure our model isn't too simple. S
 Multicollinearity happens when two or more variables in our model are very closely related to each other. This can make it hard for the model to tell which variable is really helping to guess the outcome. When there's multicollinearity, the R-Squared value might still look good, but it can be misleading. The model might seem like it's doing a great job at explaining the data, but it's actually just using the same information over and over again from different variables. This doesn't make our model better at guessing new data, because it's not really learning anything new.
 
 To deal with multicollinearity, we can look at the Variance Inflation Factor (VIF) for each variable. VIF tells us how much the variance of a variable's coefficient is inflated because of multicollinearity. If VIF is high, it means there's a lot of multicollinearity. We can fix this by removing some of the closely related variables or by combining them into one variable. For example, if we're guessing house prices and we have variables for the number of bedrooms and the number of rooms, these might be closely related. We could remove one of them or combine them into a new variable that measures the total size of the house. This can help make our model better at guessing new data, even if the R-Squared value might go down a bit.
+
+## References & Further Reading
+
+[1]: Cohen, J., Cohen, P., West, S. G., & Aiken, L. S. (2003). ["Applied Multiple Regression/Correlation Analysis for the Behavioral Sciences"](https://www.taylorfrancis.com/books/mono/10.4324/9780203774441/applied-multiple-regression-correlation-analysis-behavioral-sciences-jacob-cohen-patricia-cohen-stephen-west-leona-aiken) (3rd ed.). Routledge.
+
+[2]: Draper, N. R., & Smith, H. (1998). ["Applied Regression Analysis"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118625590) (3rd ed.). Wiley-Interscience.
+
+[3]: Gelman, A., & Hill, J. (2006). ["Data Analysis Using Regression and Multilevel/Hierarchical Models"](https://www.cambridge.org/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983) Cambridge University Press.
+
+[4]: Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). ["Introduction to Linear Regression Analysis"](https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf) (5th ed.). Wiley.
+
+[5]: Weisberg, S. (2005). ["Applied Linear Regression"](https://onlinelibrary.wiley.com/doi/book/10.1002/0471704091) (3rd ed.). Wiley-Interscience.
+
+[6]: Albright, S. C., Winston, W. L., & Zappe, C. J. (2010). ["Data Analysis and Decision Making"](https://archive.org/details/dataanalysisdeci0000albr) (4th ed.). Cengage Learning.

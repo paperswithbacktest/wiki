@@ -81,3 +81,23 @@ MinCutPool, on the other hand, focuses on keeping the connections between nodes 
 Symbolic Deep Learning and NeuroTactic are new ways to work with graphs that are pushing the limits of what we can do with graph-based machine learning. Symbolic Deep Learning mixes traditional symbolic AI, which uses rules and logic, with [deep learning](/wiki/deep-learning), which learns from data. This mix helps the model understand and work with graphs in a more human-like way. For example, it can use logic to figure out how different parts of a graph are related, and then use deep learning to learn from the data. This makes the model better at tasks like understanding complex networks or predicting how things will change over time. By combining these two approaches, Symbolic Deep Learning can handle problems that are too hard for just one method alone.
 
 NeuroTactic, on the other hand, is a new way to use graphs to solve problems in strategy games and other complex decision-making tasks. It uses a graph to represent the different moves and outcomes in a game, and then uses machine learning to find the best strategy. NeuroTactic can learn from past games and improve its strategy over time. This makes it very good at games where the rules are clear but the best moves are hard to find. By using graphs to map out all the possible moves and outcomes, NeuroTactic can explore a huge number of possibilities and find the best path forward. Both Symbolic Deep Learning and NeuroTactic show how graphs can be used in new and exciting ways to solve tough problems.
+
+## References & Further Reading
+
+[1]: Kipf, T. N., & Welling, M. (2017). ["Semi-Supervised Classification with Graph Convolutional Networks."](https://arxiv.org/abs/1609.02907) International Conference on Learning Representations (ICLR).
+
+[2]: Hamilton, W., Ying, Z., & Leskovec, J. (2017). ["Inductive Representation Learning on Large Graphs."](https://arxiv.org/abs/1706.02216) Advances in Neural Information Processing Systems (NeurIPS).
+
+[3]: Velickovic, P., Cucurull, G., Casanova, A., Romero, A., Liò, P., & Bengio, Y. (2018). ["Graph Attention Networks."](https://arxiv.org/abs/1710.10903) International Conference on Learning Representations (ICLR).
+
+[4]: Gilmer, J., Schoenholz, S. S., Riley, P. F., Vinyals, O., & Dahl, G. E. (2017). ["Neural Message Passing for Quantum Chemistry."](https://arxiv.org/abs/1704.01212) International Conference on Machine Learning (ICML).
+
+[5]: Hu, W., Liu, B., Gomes, J., Zitnik, M., Liang, P., Pande, V., & Leskovec, J. (2020). ["Strategies for Pre-training Graph Neural Networks."](https://arxiv.org/abs/1905.12265) International Conference on Learning Representations (ICLR).
+
+[6]: Ying, R., You, J., Morris, C., Ren, X., Hamilton, W., & Leskovec, J. (2018). ["Hierarchical Graph Representation Learning with Differentiable Pooling."](https://arxiv.org/abs/1806.08804) Advances in Neural Information Processing Systems (NeurIPS).
+
+[7]: Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2019). ["How Powerful are Graph Neural Networks?"](https://arxiv.org/abs/1810.00826) International Conference on Learning Representations (ICLR).
+
+[8]: Bronstein, M. M., Bruna, J., LeCun, Y., Szlam, A., & Vandergheynst, P. (2017). ["Geometric Deep Learning: Going beyond Euclidean data."](https://arxiv.org/abs/1611.08097) IEEE Signal Processing Magazine.
+
+[9]: Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Philip, S. Y. (2021). ["A Comprehensive Survey on Graph Neural Networks."](https://arxiv.org/abs/1901.00596) IEEE Transactions on Neural Networks and Learning Systems.

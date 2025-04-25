@@ -81,3 +81,15 @@ Another technique is "consistency regularization." This method makes the model's
 Recent research in semi-supervised learning has focused a lot on improving how models can use unlabeled data more effectively. One big trend is the use of [deep learning](/wiki/deep-learning) techniques, like neural networks, to make better use of both labeled and unlabeled data. Researchers have been working on methods like "consistency regularization," where they try to make the model's predictions stay the same even if the input data changes a little bit. This helps the model learn the true patterns in the data and not just the noise. Another trend is the use of "pseudo-labeling," where the model makes guesses about the unlabeled data and then uses those guesses as if they were real labels. By carefully choosing which guesses to use, the model can learn more from the unlabeled data and make better predictions.
 
 Looking into the future, semi-supervised learning is expected to play a bigger role in areas like natural language processing and computer vision. As more and more data becomes available, figuring out how to use both labeled and unlabeled data will be really important. Researchers are also looking into ways to combine semi-supervised learning with other types of learning, like [reinforcement learning](/wiki/reinforcement-learning), to solve even more complex problems. For example, in self-driving cars, the car could learn from both labeled data about road signs and unlabeled data about different driving situations. The goal is to keep making models smarter and more accurate by using all the data we have, even if not all of it is labeled.
+
+## References & Further Reading
+
+[1]: Zhu, X., & Goldberg, A. B. (2009). ["Introduction to Semi-Supervised Learning."](https://link.springer.com/book/10.1007/978-3-031-01548-9) Synthesis Lectures on Artificial Intelligence and Machine Learning, 3(1), 1-130.
+
+[2]: Chapelle, O., Scholkopf, B., & Zien, A. (Eds.). (2006). ["Semi-Supervised Learning."](https://ieeexplore.ieee.org/abstract/document/4787647) MIT Press.
+
+[3]: Van Engelen, J. E., & Hoos, H. H. (2020). ["A survey on semi-supervised learning."](https://link.springer.com/article/10.1007/s10994-019-05855-6) Machine Learning, 109, 373-440.
+
+[4]: Oliver, A., Odena, A., Raffel, C. A., Cubuk, E. D., & Goodfellow, I. (2018). ["Realistic evaluation of deep semi-supervised learning algorithms."](https://arxiv.org/abs/1804.09170) In Advances in Neural Information Processing Systems (NeurIPS).
+
+[5]: Kingma, D. P., Mohamed, S., Rezende, D. J., & Welling, M. (2014). ["Semi-supervised Learning with Deep Generative Models."](https://arxiv.org/abs/1406.5298) In Advances in Neural Information Processing Systems (NeurIPS).

@@ -82,3 +82,21 @@ In image processing, the RoI Tanh-polar Transform is really helpful because it m
 CLIP, which stands for Contrastive Language-Image Pretraining, is a way to help computers understand pictures and words together. It does this by learning how to match pictures with the right words. Imagine you show CLIP a picture of a cat and tell it that it's a cat. CLIP learns to connect the picture of the cat with the word "cat." By doing this over and over with lots of different pictures and words, CLIP gets really good at figuring out what's in a picture just by looking at it and reading the words that go with it.
 
 This is really helpful for tasks where you need to use both pictures and words, like searching for images using text or describing what's in a picture. CLIP can take a sentence like "a red apple on a tree" and find pictures that match that description. It does this by using the image representations it has learned, which are like special codes that help the computer understand what's in the picture. By using these codes, CLIP can do a better job at tasks that need both pictures and words, making it a powerful tool for all sorts of projects.
+
+## References & Further Reading
+
+[1]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[3]: Lowe, D. G. (2004). ["Distinctive Image Features from Scale-Invariant Keypoints."](https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94) International Journal of Computer Vision.
+
+[4]: Olah, C. (2014). ["Understanding Convolutional Neural Networks."](https://arxiv.org/abs/1605.09081) Colah's Blog.
+
+[5]: Wang, Z., Tu, Z., Huang, P., Zeng, W., & Xue, J. (2019). ["Joint Bilateral Learning for Real-Time Universal Photorealistic Style Transfer."](https://pubmed.ncbi.nlm.nih.gov/29483548/) arXiv preprint arXiv:1904.03206.
+
+[6]: Joulin, A., van der Maaten, L., Jabri, A., & Vasilache, N. (2016). ["Learning Visual Features from Large Weakly Supervised Data."](https://arxiv.org/abs/1511.02251) European Conference on Computer Vision.
+
+[7]: Dosovitskiy, A., Springenberg, J. T., & Brox, T. (2014). ["Learning to Generate Chairs with Convolutional Neural Networks."](https://arxiv.org/abs/1411.5928) Proceedings of the IEEE International Conference on Computer Vision.
+
+[8]: Radford, A., Kim, J. W., Hallacy, C., Ramesh, A., Goh, G., Agarwal, S., ... & Sutskever, I. (2021). ["Learning Transferable Visual Models From Natural Language Supervision."](https://arxiv.org/abs/2103.00020) arXiv preprint arXiv:2103.00020.

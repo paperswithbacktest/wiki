@@ -79,3 +79,21 @@ One way to integrate geometric matching with deep learning is by using a techniq
 The latest research in geometric matching is focusing a lot on making it work better with deep learning. Scientists are trying to use deep learning models to find important features in images, like edges and corners, and then use geometric matching to compare and match these shapes more accurately. This mix of deep learning and geometric matching can help computers understand objects better, even when they are seen from different angles or in different conditions. Researchers are also looking at ways to make geometric matching faster and more able to handle noise in images. This is important for real-world uses, like in robots that need to move around quickly and correctly identify objects.
 
 Future directions in geometric matching are likely to focus on improving its robustness and speed. One exciting area is the development of new algorithms that can match shapes even when they are partly hidden or seen from very different angles. Another direction is making geometric matching work better with other types of data, like 3D models or point clouds. This could help in fields like medical imaging, where doctors need to compare scans of the body to see changes over time. As computers get more powerful and new techniques are developed, geometric matching will become even more useful in helping us understand and work with the world around us.
+
+## References & Further Reading
+
+[1]: Besl, P. J., & McKay, N. D. (1992). ["A Method for Registration of 3-D Shapes."](https://ieeexplore.ieee.org/document/121791) IEEE Transactions on Pattern Analysis and Machine Intelligence, 14(2), 239-256.
+
+[2]: Fischler, M. A., & Bolles, R. C. (1981). ["Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography."](https://dl.acm.org/doi/10.1145/358669.358692) Communications of the ACM, 24(6), 381-395.
+
+[3]: Huttenlocher, D. P., Klanderman, G. A., & Rucklidge, W. J. (1993). ["Comparing Images Using the Hausdorff Distance."](https://ieeexplore.ieee.org/abstract/document/232073) IEEE Transactions on Pattern Analysis and Machine Intelligence, 15(9), 850-863.
+
+[4]: Lowe, D. G. (1999). ["Object Recognition from Local Scale-Invariant Features."](https://ieeexplore.ieee.org/document/790410) Proceedings of the International Conference on Computer Vision, 1150-1157.
+
+[5]: Szeliski, R. (2010). ["Computer Vision: Algorithms and Applications."](https://link.springer.com/book/10.1007/978-3-030-34372-9) Springer.
+
+[6]: Ma, Y., Soatto, S., Kosecka, J., & Sastry, S. S. (2003). ["An Invitation to 3-D Vision: From Images to Geometric Models."](https://link.springer.com/book/10.1007/978-0-387-21779-6) Springer.
+
+[7]: Zitova, B., & Flusser, J. (2003). ["Image Registration Methods: A Survey."](https://www.sciencedirect.com/science/article/pii/S0262885603001379) Image and Vision Computing, 21(11), 977-1000.
+
+[8]: Hartley, R., & Zisserman, A. (2003). ["Multiple View Geometry in Computer Vision."](https://www.cambridge.org/core/books/multiple-view-geometry-in-computer-vision/0B6F289C78B2B23F596CAA76D3D43F7A) Cambridge University Press.

@@ -81,3 +81,17 @@ Another advancement is the use of multi-task learning. This means training a mod
 Organizations can implement and maintain systems for continuous monitoring and updating of toxicity detection models by setting up a pipeline that regularly checks the model's performance. This involves using real-time data to see how well the model is doing at spotting toxic content. If the model starts missing harmful messages or making too many mistakes, the system can alert the team. They can then use new data to retrain the model, making sure it stays accurate and up-to-date. It's also important to have a team that keeps an eye on the latest research and updates the model with new techniques and algorithms as they become available.
 
 To keep the system running smoothly, organizations should also use feedback loops where users can report when the model gets things wrong. This feedback helps the team understand where the model needs to improve. They can then add these examples to the training data, making the model better over time. By regularly updating the model and staying informed about new methods, organizations can make sure their toxicity detection system remains effective and fair for everyone.
+
+## References & Further Reading
+
+[1]: Dixon, L., Li, J., & Sorensen, J. (2018). ["Measuring and Mitigating Unintended Bias in Text Classification."](https://dl.acm.org/doi/10.1145/3278721.3278729) arXiv preprint arXiv:1810.00151.
+
+[2]: Borkan, D., Dixon, L., Sorensen, J., Thain, N., & Vasserman, L. (2019). ["Nuanced Metrics for Measuring Unintended Bias with Real Data for Text Classification."](https://arxiv.org/abs/1903.04561) arXiv preprint arXiv:1903.04561.
+
+[3]: Park, J. H., Shin, J., & Fung, P. (2018). ["Reducing Gender Bias in Abusive Language Detection."](https://arxiv.org/abs/1808.07231) arXiv preprint arXiv:1808.07231.
+
+[4]: ["The Ethics of AI Ethics: An Evaluation of Guidelines"](https://link.springer.com/article/10.1007/s11023-020-09517-8) by Luciano Floridi, Josh Cowls et al.
+
+[5]: ["Detecting and Mitigating Bias in NLP Models: Challenges and Research Directions"](https://www.brookings.edu/articles/detecting-and-mitigating-bias-in-natural-language-processing/) by Mohit Bansal, Batya Friedman, Timnit Gebru et al.
+
+[6]: ["Google Jigsaw Perspective API"](https://developers.perspectiveapi.com/s/?language=en_US) - A tool to measure the perceived impact on a conversation.

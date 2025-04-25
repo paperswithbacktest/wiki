@@ -81,3 +81,15 @@ AutoSync uses a technique called dynamic synchronization to make sure all the co
 KungFu uses a smart way to decide how to split up the work among computers. It looks at the model and the available hardware to figure out the best way to do this, using something called an optimization algorithm. This algorithm tries different ways of splitting the work and picks the one that will make the training process the fastest. By doing this automatically, KungFu helps users train big models quickly without having to figure out the best way to use their computers.
 
 FlexFlow goes a step further by using a search algorithm to find the best way to split up the work. It looks at all possible ways to distribute the work and then chooses the one that will make the model train the fastest. This can be more complicated but leads to better results. FlexFlow also makes sure it can work well with different kinds of models and hardware, making it a very useful tool for many different kinds of machine learning projects.
+
+## References & Further Reading
+
+[1]: Mirhoseini, A., Goldie, A., Yazgan, M., & others (2017). ["Device Placement Optimization with Reinforcement Learning."](https://arxiv.org/abs/1706.04972) arXiv:1706.04972.
+
+[2]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) OSDI '04: Proceedings of the 6th Conference on Symposium on Operating Systems Design & Implementation.
+
+[3]: Sergeev, A., & Del Balso, M. (2018). ["Horovod: fast and easy distributed deep learning in TensorFlow."](https://arxiv.org/abs/1802.05799) arXiv:1802.05799.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems.
+
+[5]: Abdolrashidi, A., Ribeiro, M., van Renesse, R., & Weatherspoon, H. (2020). ["Datacentric Parallel Processing for Data Mining"](https://ieeexplore.ieee.org/author/37085516620) IEEE International Conference on Cluster Computing.

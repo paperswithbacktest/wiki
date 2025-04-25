@@ -1,6 +1,7 @@
 ---
-title: "Specialist Short Sale Ratio"
-description: "Explore short sale strategies and ratio analysis with insights on algorithmic trading Discover how specialists use these tools for informed financial decisions"
+title: Specialist Short Sale Ratio Explained for Smarter Investment
+description: Specialist Short Sale Ratio tracks specialist trading sentiment to inform
+  better buy or sell decisions with timely market insights Discover more inside
 ---
 
 

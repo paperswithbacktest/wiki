@@ -79,3 +79,26 @@ Another way LV-ViT improves Vision Transformers is by using a simpler version of
 CrossTransformers and CrossViT are ways to make Vision Transformers work with different types of information, like pictures and words, at the same time. They do this by using a special part called a cross-attention mechanism. Imagine you're looking at a picture and reading a description of it. Cross-attention helps the model understand how the words in the description relate to the parts of the picture. By doing this, the model can learn from both the image and the text together, making it better at understanding what's going on.
 
 CrossViT, in particular, uses this cross-attention to mix information from images and text in a smart way. It starts by turning the image into small squares and the text into numbers that the computer can understand. Then, it uses cross-attention to figure out how these squares and numbers fit together. This helps CrossViT do a better job at tasks like answering questions about pictures or describing what's happening in a scene. By combining different types of information, CrossTransformers and CrossViT make Vision Transformers more powerful and useful for real-world applications.
+
+## References & Further Reading
+
+[1]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) arXiv preprint arXiv:2010.11929.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[3]: Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., ... & Guo, B. (2021). ["Swin Transformer: Hierarchical Vision Transformer using Shifted Windows."](https://ieeexplore.ieee.org/document/9710580) arXiv preprint arXiv:2103.14030.
+
+[4]: Touvron, H., Cord, M., Douze, M., Massa, F., Sablayrolles, A., & Jégou, H. (2021). ["Training data-efficient image transformers & distillation through attention."](https://arxiv.org/abs/2012.12877) arXiv preprint arXiv:2012.12877.
+
+[5]: Caron, M., Touvron, H., Misra, I., Jégou, H., Mairal, J., Bojanowski, P., & Joulin, A. (2021). ["Emerging properties in self-supervised Vision Transformers."](https://arxiv.org/abs/2104.14294) arXiv preprint arXiv:2104.14294. 
+
+[6]: Zhu, X., Su, W., Lu, L., Li, B., Wang, X., & Dai, J. (2020). ["Deformable DETR: Deformable Transformers for End-to-End Object Detection."](https://arxiv.org/abs/2010.04159) arXiv preprint arXiv:2010.04159.
+
+[7]: Mehta, S., & Rastegari, M. (2021). ["MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer."](https://arxiv.org/abs/2110.02178) arXiv preprint arXiv:2110.02178.
+
+[8]: Wang, W., Xie, E., Li, X., Fan, D., Song, K., Liang, D., ... & Shao, L. (2021). ["Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions."](https://arxiv.org/abs/2102.12122) arXiv preprint arXiv:2102.12122.
+
+[9]: Yang, S., Wang, B., Chen, S., & Tao, D. (2021). ["Focal Self-attention for Local-Global Interactions in Vision Transformers."](https://arxiv.org/abs/2107.00641) arXiv preprint arXiv:2107.00641.
+
+[10]: Xu, Y., Zhang, Y., Zhang, T., Cui, W., Yang, G., Shi, B., ... & Lin, L. (2021). ["Long-Short Transformer: Efficient Transformers for Language and Vision."](https://www.sciencedirect.com/science/article/pii/S1535610825001175) arXiv preprint arXiv:2107.02192.
+

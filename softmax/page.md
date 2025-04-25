@@ -1,7 +1,7 @@
 ---
-title: Understanding Softmax Function for Neural Network Classification
-description: Softmax Function converts raw scores into probabilities for reliable
-  classification and avoids numerical issues through stabilization Discover more inside
+title: Understanding the Softmax Function in Machine Learning
+description: Softmax Function converts model scores into probabilities that sum to
+  one for reliable classification with numerical stability. Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -88,3 +88,15 @@ Using temperature can be really helpful in training neural networks. If you set 
 Label smoothing is a technique used to make the Softmax function work better by making the model less sure about its predictions. Imagine you're trying to decide if a picture is of a cat, a dog, or a bird. Normally, the Softmax function would give a probability of 100% to the correct answer and 0% to the others. With label smoothing, you change the target probabilities a little bit, so instead of 100% for the correct answer, you might use 90% or 80%. This helps the model learn to be more careful and not overconfident. The formula for label smoothing is $$ y_i' = y_i \cdot (1 - \alpha) + \frac{\alpha}{K} $$, where $y_i$ is the original label, $\alpha$ is a small number between 0 and 1, and $K$ is the number of classes. By using label smoothing, you can help the model perform better on new data it hasn't seen before.
 
 Focal loss is another advanced technique that helps the Softmax function focus on the hard examples during training. When you're training a model, it might be really good at guessing some examples but not so good at others. Focal loss makes the model pay more attention to the examples it gets wrong. It does this by changing the way it calculates the loss, so the loss is higher for the examples the model is unsure about. The formula for focal loss is $$ \text{FL}(p_t) = -\alpha_t (1 - p_t)^\gamma \log(p_t) $$, where $p_t$ is the probability of the correct class, $\alpha_t$ is a weighting [factor](/wiki/factor-investing), and $\gamma$ is a focusing parameter. By using focal loss, you can help the model learn better from the examples it finds difficult, which can make it perform better overall.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Nielsen, M. (2015). [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/). Determination Press.
+
+[4]: Sec. 6.2.2 in Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT Press.

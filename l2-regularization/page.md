@@ -102,3 +102,15 @@ However, L2 regularization doesn't make weights zero like L1 regularization does
 In [deep learning](/wiki/deep-learning), L2 regularization is often used to prevent overfitting in neural networks. One advanced technique is called "adaptive regularization," where the regularization strength, often represented as $$ \lambda $$, is adjusted during training based on the model's performance. This can help the model generalize better to new data by dynamically balancing the complexity of the model. Another variation is "group L2 regularization," which applies the L2 penalty not just to individual weights but to groups of weights. This can be useful in convolutional neural networks where weights are shared across different parts of the input, helping to ensure that the model doesn't rely too heavily on any single group of features.
 
 Another advanced technique is "elastic net regularization," which combines L1 and L2 regularization. The elastic net penalty is a mix of the L1 and L2 penalties, written as $$ \alpha \lambda \sum_{i=1}^{n} |w_i| + (1 - \alpha) \lambda \sum_{i=1}^{n} w_i^2 $$, where $$ \alpha $$ is a parameter that controls the mix between L1 and L2. This can be useful when you want to benefit from both L1's ability to make some weights zero and L2's ability to make all weights smaller. In practice, elastic net regularization can help with feature selection and model simplification, making it a powerful tool in deep learning.
+
+## References & Further Reading
+
+[1]: Ng, A. Y. (2004). ["Feature Selection, L1 vs. L2 Regularization, and Rotational Invariance."](https://dl.acm.org/doi/10.1145/1015330.1015435) In Proceedings of the Twenty-first International Conference on Machine Learning (ICML).
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[5]: Zou, H., & Hastie, T. (2005). ["Regularization and Variable Selection via the Elastic Net."](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482) Journal of the Royal Statistical Society: Series B (Statistical Methodology).

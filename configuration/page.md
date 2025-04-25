@@ -79,3 +79,19 @@ Another challenge is making sure that everyone on the team is using the same con
 Advanced techniques like AutoML, or Automated Machine Learning, change the way we handle configurations in machine learning. AutoML is like having a smart chef in your kitchen who can try different recipes for you and pick the best one. Instead of manually trying different configurations, AutoML uses algorithms to automatically search for the best settings for your model. This means you don't have to spend as much time tweaking the learning rate, the number of layers in a neural network, or other hyperparameters. AutoML can save a lot of time and effort, making it easier to find good configurations without having to be an expert in every detail.
 
 However, AutoML doesn't make configuration management completely automatic. You still need to keep track of the configurations that AutoML tries, so you can understand and reproduce the results. It's like the smart chef might find the best recipe, but you still need to write it down so you can make the dish again. Tools like MLflow can help by logging all the configurations AutoML uses, making it easier to manage and review them. So while AutoML can make finding the best configurations easier, good configuration management practices are still important for keeping your machine learning projects organized and reproducible.
+
+## References & Further Reading
+
+[1]: Bergstra, J., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research, 13: 281-305.
+
+[2]: Snoek, J., Larochelle, H., & Adams, R. P. (2012). ["Practical Bayesian Optimization of Machine Learning Algorithms."](https://arxiv.org/abs/1206.2944) Advances in Neural Information Processing Systems 25.
+
+[3]: Feurer, M., Klein, A., Eggensperger, K., Springenberg, J. T., Blum, M., & Hutter, F. (2015). ["Efficient and Robust Automated Machine Learning."](https://proceedings.neurips.cc/paper/2015/file/11d0e6287202fced83f79975ec59a3a6-Paper.pdf) Advances in Neural Information Processing Systems 28.
+
+[4]: ["Hyperparameter Optimization with Hyperopt"](https://medium.com/@icaro_vazquez/neural-network-hyperparameter-optimization-with-hyperopt-f3e0cb4346c8) by James Bergstra, Dan Yamins, and David Cox.
+
+[5]: Thorsten, J., Frank, H., & Holger, H. (2018). ["Automated Machine Learning: Methods, Systems, Challenges."](https://link.springer.com/book/10.1007/978-3-030-05318-5) Springer.
+
+[6]: Keras Team. ["Keras Tuner Documentation"](https://keras.io/keras_tuner/), Keras: The Python Deep Learning Library.
+
+[7]: Zaharia, M., Chen, A., & Ghodsi, A. (2018). ["Accelerating the Machine Learning Lifecycle with MLflow."](https://people.eecs.berkeley.edu/~matei/papers/2018/ieee_mlflow.pdf) Databricks Blog.

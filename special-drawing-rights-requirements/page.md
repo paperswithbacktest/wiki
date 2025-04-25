@@ -1,6 +1,7 @@
 ---
-title: "Special Drawing Rights and Requirements"
-description: "Explore the intersection of Special Drawing Rights (SDRs) and algorithmic trading in the financial world as SDRs, created by the IMF, serve as international reserve assets aimed at enhancing global liquidity. This page investigates into the significance of SDRs in stabilizing economies and their potential integration with algorithmic trading platforms which use advanced technologies to automate and optimize trading processes. Discover how this combination presents innovative possibilities for international finance involving enhanced liquidity and precision in trading strategies."
+title: Special Drawing Rights and the Role in Global Financial Stability
+description: Special Drawing Rights provide countries a stable reserve asset they
+  can exchange for major currencies to support economies in crisis Discover more inside
 ---
 
 

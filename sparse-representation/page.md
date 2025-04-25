@@ -1,7 +1,7 @@
 ---
-title: Exploring Sparse Representation Techniques for Machine Learning
-description: Sparse Representation streamlines machine learning by focusing on key
-  data points to boost speed accuracy and interpretability. Discover more inside.
+title: Optimizing Machine Learning with Sparse Representation Techniques
+description: Sparse Representation enhances machine learning efficiency by isolating
+  key features for faster processing and accurate predictions Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -81,3 +81,19 @@ Another advancement is the use of [deep learning](/wiki/deep-learning) to help w
 Sparse Representation plays an important role in deep learning architectures by helping to make models simpler and more efficient. In deep learning, neural networks often have many layers and a lot of parameters. By using Sparse Representation, these models can focus on the most important features and ignore the rest. This is done using techniques like LASSO, which adds a penalty to the model to make some of the weights zero. The formula for LASSO is $$ \text{minimize} \quad \frac{1}{2n} \sum_{i=1}^n (y_i - \sum_{j=1}^p x_{ij} \beta_j)^2 + \lambda \sum_{j=1}^p |\beta_j| $$. By applying this formula, the model can find the key features in the data, making it easier to train and use, especially with big datasets.
 
 Another way Sparse Representation is used in deep learning is through the design of sparse neural networks. These networks are built to have fewer connections between neurons, which makes them faster and more memory-efficient. This is really helpful in applications like image recognition, where the model needs to find the important parts of a picture without getting bogged down by all the details. By using Sparse Representation, deep learning models can become more powerful and easier to understand, making them better at tasks like recognizing objects or making predictions.
+
+## References & Further Reading
+
+[1]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://academic.oup.com/jrsssb/article/58/1/267/7027929) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[2]: Mallat, S. (1999). ["A Wavelet Tour of Signal Processing."](https://www.sciencedirect.com/book/9780123743701/a-wavelet-tour-of-signal-processing) Academic Press.
+
+[3]: Elad, M. (2010). ["Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing."](http://www.stat.ucla.edu/~ywu/research/documents/BOOKS/EladSparseLand.pdf) Springer.
+
+[4]: Donoho, D. L. (2006). ["Compressed sensing."](https://ieeexplore.ieee.org/document/1614066) IEEE Transactions on Information Theory, 52(4), 1289-1306.
+
+[5]: Tropp, J. A., & Gilbert, A. C. (2007). ["Signal Recovery From Random Measurements Via Orthogonal Matching Pursuit."](https://ieeexplore.ieee.org/document/4385788) IEEE Transactions on Information Theory, 53(12), 4655-4666. 
+
+[6]: Candès, E. J., & Wakin, M. B. (2008). ["An Introduction to Compressive Sampling."](https://ieeexplore.ieee.org/document/4472240) IEEE Signal Processing Magazine, 25(2), 21-30.
+
+[7]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

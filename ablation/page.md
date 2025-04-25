@@ -81,3 +81,15 @@ Another technique is to use statistical tests to see if the changes in performan
 Ablation studies in machine learning and neuroscience both aim to understand how different parts of a system contribute to its overall function. In machine learning, ablation involves removing or changing parts of a model, like layers in a neural network or features in a dataset, to see how it affects the model's performance. Researchers might take out one layer at a time and measure changes in accuracy or error rates. This helps them figure out which parts are essential and how to make the model simpler and more efficient. For example, if removing a certain layer causes the model's accuracy to drop significantly, it shows that the layer is important for the model's success.
 
 In neuroscience, ablation studies are used to understand brain function by removing or damaging specific parts of the brain and observing the effects on behavior or other brain functions. Scientists might lesion a part of an animal's brain and then study how it affects the animal's ability to perform certain tasks. This helps them learn which areas of the brain are responsible for different functions. Just like in machine learning, the goal is to understand the importance of different components, but in neuroscience, the focus is on biological systems rather than computational models. Both fields use ablation to gain insights into complex systems, but the methods and applications differ based on the nature of what is being studied.
+
+## References & Further Reading
+
+[1]: Yosinski, J., Clune, J., Bengio, Y., & Lipson, H. (2014). ["How transferable are features in deep neural networks?"](https://arxiv.org/abs/1411.1792) Advances in Neural Information Processing Systems.
+
+[2]: Li, J., Levine, S., Zhang, D., & Koltun, V. (2017). ["A Study of the Behavior of Deep Network Representations During the Process of Transfer Learning."](https://link.springer.com/article/10.1007/s11704-023-3150-5) arXiv preprint arXiv:1610.08619.
+
+[3]: Koh, P. W., & Liang, P. (2017). ["Understanding Black-box Predictions via Influence Functions."](https://arxiv.org/abs/1703.04730) In International Conference on Machine Learning.
+
+[4]: Zeiler, M. D., & Fergus, R. (2014). ["Visualizing and Understanding Convolutional Networks."](https://arxiv.org/abs/1311.2901) In European Conference on Computer Vision.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.

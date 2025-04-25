@@ -85,3 +85,19 @@ For example, if you're using the Information Bottleneck method to predict whethe
 One important direction for future research in the Information Bottleneck method is making it work better with big data. Right now, figuring out the mutual information between different parts of the data can be slow and hard, especially when you have a lot of data. Researchers are looking into ways to make this process faster and easier. For example, they are trying out new ways to group similar data points together, like in Aggregated Learning, to make computing mutual information more manageable. They are also looking at using reinforcement learning, like in ReInfoSelect, to help the method pick out the best features more quickly and adapt to different kinds of data.
 
 Another area of future research is using the Information Bottleneck method to make machine learning models even easier to understand. The method already helps by focusing on the most important parts of the data, but researchers want to make it even better at explaining why a model makes certain predictions. This could involve new ways to show which parts of the data are being used and how they affect the model's decisions. By doing this, the Information Bottleneck method could help make machine learning models more transparent and trustworthy, which is important for using them in real-world situations where people need to understand how the models work.
+
+## References & Further Reading
+
+[1]: Tishby, N., Pereira, F. C., & Bialek, W. (2000). ["The Information Bottleneck Method."](https://arxiv.org/abs/physics/0004057) ArXiv Preprint. 
+
+[2]: Shwartz-Ziv, R., & Tishby, N. (2017). ["Opening the Black Box of Deep Neural Networks via Information."](https://arxiv.org/abs/1703.00810) ArXiv Preprint.
+
+[3]: Alemi, A. A., Fischer, I., Dillon, J. V., & Murphy, K. (2016). ["Deep Variational Information Bottleneck."](https://arxiv.org/abs/1612.00410) ArXiv Preprint.
+
+[4]: Achille, A., & Soatto, S. (2018). ["Emergence of Invariance and Disentanglement in Deep Representations."](https://arxiv.org/abs/1706.01350) Journal of Machine Learning Research, 19(1).
+
+[5]: Kolchinsky, A., & Tracey, B. D. (2017). ["Estimating Mixture Entropy with Pairwise Distances."](https://arxiv.org/abs/1706.02419) Entropy, 19(7), 361.
+
+[6]: ["Information Theory, Inference, and Learning Algorithms"](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981) by David J.C. MacKay
+
+[7]: ["Elements of Information Theory"](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) by Thomas M. Cover and Joy A. Thomas

@@ -107,3 +107,19 @@ The latest versions, like TPU v4 and TPU v5e, have kept improving on these ideas
 The future of TPUs looks bright as machine learning continues to grow. More and more companies are using AI for things like understanding language, recognizing images, and even driving cars. TPUs are getting better at handling these tasks because they are designed to do the math that neural networks need very quickly. We might see new versions of TPUs that are even faster and use less power. This would make them even better for big data centers where lots of AI work is done. Also, TPUs might become easier to use, so more people can take advantage of their speed without needing to be experts.
 
 Another exciting possibility is that TPUs could be used in more places, not just in big data centers. For example, they might be put into phones or other small devices to make them smarter. This would let people use powerful AI models right on their devices, without needing to send data to the cloud. As machine learning models get bigger and more complex, TPUs will keep playing an important role in making sure these models can be trained and used quickly and efficiently.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., Patterson, D., Agrawal, G., & Bajwa, R. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://ieeexplore.ieee.org/abstract/document/8192463) Proceedings of the 44th Annual International Symposium on Computer Architecture.
+
+[2]: "Google Cloud TPUs: Accelerated Machine Learning on Google Hardware." [Google Cloud](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/)
+
+[3]: Dean, J., Patterson, D., & Young, C. (2018). ["A New Golden Age in Computer Architecture: Empowering the Machine-Learning Revolution."](https://ieeexplore.ieee.org/document/8259424) IEEE Micro, 38(2), 21–29.
+
+[4]: "How TensorFlow uses TPUs." [TensorFlow Guide](https://myscale.com/blog/simple-steps-install-tensorflow-pip-beginners/)
+
+[5]: Wu, Y., Schuster, M., Chen, Z., Le, Q. V., & Norouzi, M. (2016). ["Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation."](https://arxiv.org/abs/1609.08144) arXiv:1609.08144.
+
+[6]: "Distributed Training on TPU Pods." [PyTorch/XLA](https://sourceforge.net/projects/pytorch-xla.mirror/)
+
+[7]: "TPU v4: Performance and energy efficiency." [Google Blog](https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains)

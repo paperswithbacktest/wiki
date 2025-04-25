@@ -79,3 +79,15 @@ HypE is really good at capturing these hierarchical structures because it uses a
 KGRefiner and ComplEx-N3-RP are advanced models that make graph embeddings better, especially for knowledge graphs that are really complex. KGRefiner works by looking at the graph over and over again, each time making the embeddings a bit more accurate. It does this by using a special way to check how good the embeddings are and then tweaking them to make them better. This helps KGRefiner capture not just the simple connections but also the more complicated relationships between things in the graph. For example, if you have a graph about movies, actors, and directors, KGRefiner can help understand how they all fit together, even if the connections are not straightforward.
 
 ComplEx-N3-RP, on the other hand, uses a math trick to handle different types of relationships. It thinks of each relationship as a rotation in a special space, kind of like how RotatE works, but it can handle even more types of relationships. ComplEx-N3-RP uses something called a complex number to do this, which helps it tell the difference between different kinds of connections. For example, it can tell the difference between "acted in" and "directed" in a movie graph. By using these complex numbers, ComplEx-N3-RP can create embeddings that show a more detailed picture of the graph, making it easier to find patterns and predict new connections.
+
+## References & Further Reading
+
+[1]: Perozzi, B., Al-Rfou, R., & Skiena, S. (2014). ["DeepWalk: Online Learning of Social Representations."](https://dl.acm.org/doi/10.1145/2623330.2623732) Proceedings of the 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[2]: Grover, A., & Leskovec, J. (2016). ["node2vec: Scalable Feature Learning for Networks."](https://dl.acm.org/doi/10.1145/2939672.2939754) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Kipf, T. N., & Welling, M. (2016). ["Variational Graph Auto-Encoders."](https://arxiv.org/abs/1611.07308) arXiv preprint arXiv:1611.07308.
+
+[4]: Yang, L., Wu, X., & Zeng, W. (2017). ["Hipster: Hyperbolic Embeddings of Formal Languages."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) International Conference on Machine Learning.
+
+[5]: Nickel, M., Tresp, V., & Kriegel, H. P. (2011). ["A Three-Way Model for Collective Learning on Multi-Relational Data."](https://dl.acm.org/doi/10.5555/3104482.3104584) Proceedings of the 28th International Conference on Machine Learning (ICML-11).

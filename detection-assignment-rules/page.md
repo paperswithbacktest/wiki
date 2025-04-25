@@ -79,3 +79,17 @@ Another area of research is about making Detection Assignment Rules work better 
 In a case study from the financial sector, a major bank implemented Detection Assignment Rules to enhance its fraud detection system. The bank was dealing with an increasing number of fraudulent transactions, and traditional methods were not catching all the anomalies effectively. By using a simple rule like $$ |x - \mu| > 3\sigma $$, where $x$ is the transaction amount, $\mu$ is the average transaction amount, and $\sigma$ is the standard deviation, the bank was able to flag transactions that were significantly different from the norm. This rule helped the bank reduce false positives by focusing only on transactions that were truly unusual, leading to a significant improvement in detecting fraudulent activities. The system was able to identify and stop more fraud attempts, saving the bank millions of dollars and improving customer trust.
 
 Another case study involved a healthcare provider that used Detection Assignment Rules to monitor patient health data in real-time. The goal was to quickly identify any unusual changes in vital signs that could indicate a serious health issue. The provider implemented a rule that flagged any vital sign readings that were more than two standard deviations away from the patient's average, using the formula $$ |x - \mu| > 2\sigma $$. This allowed for early detection of health anomalies, which was critical in preventing severe outcomes. The system not only improved patient outcomes by enabling faster medical interventions but also reduced the workload on healthcare staff by automating the monitoring process. The healthcare provider reported a significant decrease in emergency situations and an overall improvement in patient care.
+
+## References & Further Reading
+
+[1]: Chandola, V., Banerjee, A., & Kumar, V. (2009). ["Anomaly Detection: A Survey."](https://dl.acm.org/doi/10.1145/1541880.1541882) ACM Computing Surveys (CSUR), 41(3), 1-58.
+
+[2]: Aggarwal, C. C. (2015). ["Outlier Analysis."](https://link.springer.com/book/10.1007/978-3-319-47578-3) Springer.
+
+[3]: Hodge, V. J., & Austin, J. (2004). ["A Survey of Outlier Detection Methodologies."](https://link.springer.com/article/10.1023/B:AIRE.0000045502.10941.a9) Artificial Intelligence Review, 22(2), 85-126.
+
+[4]: Hawkins, D. M. (1980). ["Identification of Outliers."](https://link.springer.com/book/10.1007/978-94-015-3994-4) Springer.
+
+[5]: Tan, P. N., Steinbach, M., Karpatne, A., & Kumar, V. (2018). ["Introduction to Data Mining."](https://elibrary.pearson.de/book/99.150005/9780273775324) Pearson, 2nd Edition.
+
+[6]: Zhou, C., & Paffenroth, R. C. (2017). ["Anomaly Detection with Robust Deep Autoencoders."](https://dl.acm.org/doi/10.1145/3097983.3098052) Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

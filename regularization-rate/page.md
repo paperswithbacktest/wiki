@@ -81,3 +81,21 @@ Another hyperparameter that interacts with the regularization rate is the number
 When working with complex models, setting the regularization rate, or lambda ($$ \lambda $$), can be tricky. One advanced technique is to use Bayesian optimization. This method tries different values of $$ \lambda $$ in a smart way, using what it learns from past tries to pick the next value to test. This can be faster than trying every possible value, especially when you have a lot of hyperparameters to tune. Another technique is to use gradient-based optimization methods, like gradient descent, to find the best $$ \lambda $$. These methods can change $$ \lambda $$ little by little, based on how the model's performance changes, until they find the best value.
 
 Another important consideration is how the regularization rate interacts with other parts of the model. For example, in neural networks, the regularization rate can affect how well the model learns from the data. If the model has a lot of layers or neurons, a higher $$ \lambda $$ might be needed to keep the model from getting too complex. But if the model is simpler, a lower $$ \lambda $$ might be enough. Also, the regularization rate can work with other techniques, like early stopping, to stop the model from overfitting. Early stopping means stopping the training before the model starts to overfit, and using the right $$ \lambda $$ can help make this work better.
+
+## References & Further Reading
+
+[1]: Ng, A. Y. (2004). ["Feature selection, L1 vs. L2 regularization, and rotational invariance."](https://dl.acm.org/doi/10.1145/1015330.1015435) Proceedings of the 21st International Conference on Machine Learning.
+
+[2]: Zou, H., & Hastie, T. (2005). ["Regularization and variable selection via the elastic net."](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482) Journal of the Royal Statistical Society: Series B (Statistical Methodology), 67(2), 301-320.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Tibshirani, R. (1996). ["Regression shrinkage and selection via the lasso."](https://webdoc.agsci.colostate.edu/koontz/arec-econ535/papers/Tibshirani%20(JRSS-B%201996).pdf) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[6]: Friedman, J., Hastie, T., & Tibshirani, R. (2010). ["Regularization Paths for Generalized Linear Models via Coordinate Descent."](https://pubmed.ncbi.nlm.nih.gov/20808728/) Journal of Statistical Software, 33(1), 1-22.
+
+[7]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[8]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

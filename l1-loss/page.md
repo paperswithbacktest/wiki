@@ -144,3 +144,15 @@ This approach can help balance the benefits of L1 Loss, which is less affected b
 L1 Loss, or Mean Absolute Error (MAE), is good at dealing with outliers because it looks at the absolute difference between predictions and actual values. This means that whether a mistake is big or small, it counts the same way. For example, if you guessed a number was 10 but it was really 20, the L1 Loss would be 10. If you guessed 12 instead, the L1 Loss would be 8. This makes L1 Loss less affected by big mistakes, which is helpful when you have some data points that are very different from the rest. The formula for L1 Loss is $$L_1 = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|$$, where $$n$$ is the number of predictions, $$y_i$$ is the actual value, and $$\hat{y}_i$$ is the predicted value.
 
 Other robust loss functions, like the Huber Loss, also try to handle outliers well but in different ways. Huber Loss is a mix of L1 and L2 Loss. It uses L2 Loss for small errors, which squares the differences, and L1 Loss for big errors, which uses the absolute value. This means it can pay more attention to small mistakes while still being less affected by big ones. The formula for Huber Loss is more complicated, but it's designed to be a good middle ground between L1 and L2 Loss. In practice, choosing between L1 Loss and other robust loss functions depends on how much you care about big mistakes and how much you want your model to be simple and easy to understand.
+
+## References & Further Reading
+
+[1]: Friedman, J. H., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer Series in Statistics.
+
+[2]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://webdoc.agsci.colostate.edu/koontz/arec-econ535/papers/Tibshirani%20(JRSS-B%201996).pdf) Journal of the Royal Statistical Society: Series B (Methodological), 267-288.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Huber, P. J. (1964). ["Robust Estimation of a Location Parameter."](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-35/issue-1/Robust-Estimation-of-a-Location-Parameter/10.1214/aoms/1177703732.full) The Annals of Mathematical Statistics, 35(1), 73-101.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.

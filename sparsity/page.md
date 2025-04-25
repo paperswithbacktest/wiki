@@ -1,7 +1,7 @@
 ---
-title: Incorporating Sparsity in Machine Learning Models for Efficiency
-description: Sparsity in machine learning cuts unimportant features to simplify models
-  boost speed and prevent overfitting for better predictions. Discover more inside.
+title: Understanding Sparsity in Machine Learning Models for Efficiency
+description: Sparsity in machine learning makes models faster and more interpretable
+  by zeroing out unimportant features and reducing overfitting Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -81,3 +81,20 @@ Another challenge is making sure that the sparse model works well on new data. W
 One advanced technique for optimizing sparsity in [deep learning](/wiki/deep-learning) models is called pruning. Pruning involves removing parts of the neural network that don't contribute much to the predictions. For example, in a neural network for image recognition, you might remove neurons or connections with small weights. This makes the model simpler and faster. Pruning can be done in different ways, like magnitude-based pruning, where you remove the smallest weights, or iterative pruning, where you prune the network a little bit at a time and then retrain it to see if it still works well. The goal is to make the model sparse without losing too much accuracy.
 
 Another technique is called knowledge distillation. This involves training a smaller, sparse model to mimic the behavior of a larger, more complex model. The idea is to transfer the knowledge from the big model to the small one, so the small model can make good predictions even though it's simpler. For example, you might train a big neural network to recognize images and then use its predictions to train a smaller, sparse network. This way, the smaller network can learn to focus on the most important features and ignore the rest, making it faster and more efficient. Knowledge distillation helps balance sparsity and accuracy, which is especially useful in large-scale systems where speed and memory are important.
+
+## References & Further Reading
+
+[1]: Tibshirani, R. (1996). [“Regression Shrinkage and Selection via the Lasso.”](https://academic.oup.com/jrsssb/article/58/1/267/7027929) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[2]: Zou, H., & Hastie, T. (2005). [“Regularization and Variable Selection via the Elastic Net.”](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482) Journal of the Royal Statistical Society: Series B (Statistical Methodology), 67(2), 301-320.
+
+[3]: Han, J., Pei, J., & Kamber, M. (2011). ["Data Mining: Concepts and Techniques"](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques). Elsevier.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[5]: Friedman, J., Hastie, T., & Tibshirani, R. (2010). [“Regularization Paths for Generalized Linear Models via Coordinate Descent.”](https://pubmed.ncbi.nlm.nih.gov/20808728/) Journal of Statistical Software, 33(1), 1-22.
+
+[6]: LeCun, Y., & Bengio, Y. (1998). [“Convolutional Networks for Images, Speech, and Time Series.”](https://dl.acm.org/doi/10.5555/303568.303704) In The Handbook of Brain Theory and Neural Networks. MIT Press.
+
+[7]: Ng, A. Y. (2004). [“Feature Selection, L1 vs. L2 Regularization, and Rotational Invariance.”](https://dl.acm.org/doi/10.1145/1015330.1015435) In Proceedings of the 21st International Conference on Machine Learning (ICML).
+

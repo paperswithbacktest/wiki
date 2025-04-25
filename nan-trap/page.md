@@ -81,3 +81,19 @@ Another important step is to make sure your calculations don't create NANs. For 
 To validate that your approach to handling NAN values has improved model performance, you need to compare how your model works before and after you handle the NANs. Start by training your model on the original data with NANs and see how well it predicts things. Then, clean your data by filling in or removing the NANs and train the model again. Look at how the model's accuracy, precision, or other performance measures change. If the model performs better after handling the NANs, like making more accurate predictions or having lower error rates, then your approach worked.
 
 You can also use cross-validation to make sure your results are reliable. Split your data into different parts, train your model on some parts, and test it on others. Do this several times and see if handling NANs consistently improves the model's performance across all these tests. If it does, you can be more confident that your method for dealing with NANs really helps. By doing these checks, you'll know if your approach to handling NAN values has made your model better at learning and predicting.
+
+## References & Further Reading
+
+[1]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (2nd ed.). Manning Publications.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press. (Specifically the chapters on numerical optimization and model stability.)
+
+[3]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning"](https://arxiv.org/abs/1603.04467). Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI'16), 265-283.
+
+[4]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[5]: ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"](https://books.google.com/books/about/Python_for_Data_Analysis.html?id=BCc3DwAAQBAJ) by Wes McKinney. 
+
+[6]: Jansen, S. (2020). ["Machine Learning for Algorithmic Trading"](https://github.com/stefan-jansen/machine-learning-for-trading) (2nd ed.). Packt Publishing. (Chapters on data preprocessing and tackling missing values.)
+
+[7]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

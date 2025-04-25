@@ -81,3 +81,15 @@ Another thing that might happen is the use of more types of data to train these 
 Image Quality Models can be integrated with other AI systems to make them work better. For example, in computer vision systems, Image Quality Models can help by checking if the images are good enough before the system tries to understand them. If an image is too blurry or has too much noise, the model can tell the system to fix it first or ask for a better image. This can make the computer vision system more accurate because it will only work with good images. Another way to use Image Quality Models is in AI systems that make images, like those used in photo editing or creating art. The model can check the quality of the images as they are being made, helping the system make better and clearer images.
 
 Another important use is in AI systems that help with medical imaging. Image Quality Models can check the quality of X-rays or MRIs to make sure they are clear enough for doctors to see. If the images are not good enough, the model can tell the system to fix them or take new ones. This can help doctors make better decisions and improve patient care. Also, in AI systems for video streaming, Image Quality Models can check the quality of the video in real-time. If the quality drops, the model can help the system adjust to make the video clearer for viewers. By working together with other AI systems, Image Quality Models can help make them more useful and effective.
+
+## References & Further Reading
+
+[1]: Zhang, L., Zhang, L., Mou, X., & Zhang, D. (2011). ["FSIM: A Feature Similarity Index for Image Quality Assessment."](https://pubmed.ncbi.nlm.nih.gov/21292594/) IEEE Transactions on Image Processing, 20(8), 2378-2386.
+
+[2]: Mittal, A., Soundararajan, R., & Bovik, A. C. (2012). ["Making a 'Completely Blind' Image Quality Analyzer."](https://ieeexplore.ieee.org/document/6353522) Signal Processing Letters, IEEE, 20(3), 209-212.
+
+[3]: Lin, H., Tseng, K.-T., & Jiang, Q. (2020). ["The Design and Validation of a Deep Learning-Based Image Quality Assessment System for Diabetic Retinopathy Images."](https://www.sciopen.com/article/10.1016/j.cj.2025.01.018?issn=2095-5421) Journal of Medical Internet Research, 22(4), e17981.
+
+[4]: Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). ["Image Quality Assessment: From Error Visibility to Structural Similarity."](https://ieeexplore.ieee.org/document/1284395) IEEE Transactions on Image Processing, 13(4), 600-612.
+
+[5]: Sheikh, H. R., & Bovik, A. C. (2006). ["Image Information and Visual Quality."](https://ieeexplore.ieee.org/abstract/document/1576816) IEEE Transactions on Image Processing, 15(2), 430-444.

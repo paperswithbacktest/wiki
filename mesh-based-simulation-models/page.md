@@ -81,3 +81,15 @@ For things that are moving and changing, MeshGraphNet can keep track of how the 
 In the future, mesh-based simulation models and machine learning are expected to become even more powerful and easier to use. One big change might be that these models will get better at handling even more complex shapes and movements. Scientists and engineers might use new kinds of machine learning, like [deep learning](/wiki/deep-learning), to make these models learn faster and make better predictions. This could mean that MeshGraphNet, for example, could predict how heat spreads through a twisted piece of metal even more accurately. Another exciting development could be that these models will work better on regular computers, so more people can use them without needing super expensive machines.
 
 Another area where we might see big improvements is in how these models can work together with other technologies. For example, mesh-based models could be combined with virtual reality to let engineers see and interact with their simulations in 3D. This could help them understand and fix problems faster. Also, these models might start using data from the internet, like weather data or traffic information, to make even better predictions about things like how a disease might spread through a city. By using all this data, mesh-based models could become super helpful tools for solving real-world problems in many different fields.
+
+## References & Further Reading
+
+[1]: Pfaff, F. (2012). ["Principles of Computational Fluid Dynamics"](https://link.springer.com/book/10.1007/978-3-642-05146-3). Springer Series in Computational Mathematics.
+
+[2]: Bridson, R. (2015). ["Fluid Simulation for Computer Graphics"](https://www.taylorfrancis.com/books/mono/10.1201/9781315266008/fluid-simulation-computer-graphics-robert-bridson). CRC Press.
+
+[3]: Aluru, N. (2015). ["Handbook of Meshfree Methods Applications in Fluids, Structures, and Electromagnetics"](https://scholar.google.com/citations?user=sACU-OUAAAAJ&hl=en). Springer.
+
+[4]: Guibas, L. J., & Eppstein, D. (1995). ["Discrete and Computational Geometry"](https://ics.uci.edu/~eppstein/pubs/a-guibas.html). Cambridge University Press.
+
+[5]: Kato, J., & Kotake, T. (1992). ["Methodology of Mesh Generation"](https://www.scirp.org/reference/referencespapers?referenceid=1409791). CRC Press.

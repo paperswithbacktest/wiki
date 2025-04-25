@@ -97,3 +97,15 @@ Another type of specialized hardware for machine learning is the FPGA, or Field-
 In the future, TPU technology is likely to keep getting better and faster. One big change might be that TPUs will have even more memory. This will let them handle even bigger and more complicated machine learning models. Another thing that could happen is that TPUs will become more energy-efficient. This means they will use less power while still doing a lot of work. This is important because it can help save energy and make machine learning more sustainable. Companies like Google are always working on new ways to make TPUs better, so we can expect to see new versions that are even more powerful and efficient.
 
 Another possible development is that TPUs might become easier to use with different machine learning frameworks. Right now, TPUs work really well with TensorFlow, but it can be harder to use them with other tools like PyTorch. In the future, we might see better support for TPUs in more frameworks, making them easier to use for more people. Also, TPUs might get better at working with other types of hardware, like GPUs and CPUs. This could let you use TPUs together with other chips to make your machine learning projects even faster and more flexible. By making these improvements, TPUs can help make machine learning easier and more powerful for everyone.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., Patterson, D., Agrawal, G., Bajwa, R., ... & Laudon, J. (2017). ["In-datacenter performance analysis of a tensor processing unit."](https://ieeexplore.ieee.org/abstract/document/8192463) ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA).
+
+[2]: Dean, J., Patterson, D., & Young, C. (2018). ["A new golden age in computer architecture: Empowering the machine-learning revolution."](https://ieeexplore.ieee.org/document/8259424) IEEE Micro, 38(2), 21-29.
+
+[3]: Patterson, D., Gonzalez, J., Hölzle, U., Le, Q., Liang, C., Munguia, L. M., ... & You, K. (2021). ["Carbon emissions and large neural network training."](https://arxiv.org/abs/2104.10350) arXiv preprint arXiv:2104.10350.
+
+[4]: ["Cloud TPU: Hardware Accelerators for Machine Learning"](https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer) - Google Cloud Documentation.
+
+[5]: Zhang, G., Cummins, C., Leather, H., & O’Boyle, M. (2019). ["Efficient multi-objective exploration of deep learning hardware accelerators."](https://proceedings.mlr.press/v139/cummins21a.html) Proceedings of the 2019 International Symposium on Code Generation and Optimization.

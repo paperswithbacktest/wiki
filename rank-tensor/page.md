@@ -81,3 +81,17 @@ In practice, frameworks like TensorFlow and PyTorch automatically handle many of
 In [deep learning](/wiki/deep-learning), high-rank tensors are often used to represent complex data like images or videos, where dimensions include batch size, height, width, and color channels. Advanced techniques for manipulating these tensors include operations like broadcasting, which allows you to perform operations on tensors of different shapes by automatically aligning them. For example, if you want to add a 1D tensor to a 3D tensor, broadcasting will extend the 1D tensor across the additional dimensions of the 3D tensor. Another technique is tensor slicing, where you can extract specific parts of a tensor based on its indices. This is useful for operations like cropping an image or selecting a subset of data for processing.
 
 Additionally, techniques like tensor transposition and permutation allow you to rearrange the dimensions of a tensor. This can be crucial in operations like convolutional neural networks, where you might need to change the order of dimensions to fit the expected input of a layer. For instance, if you have a tensor $$T$$ with shape $$[batch, height, width, channels]$$, you might need to transpose it to $$[batch, channels, height, width]$$ for a specific operation. These manipulations are typically done using functions provided by frameworks like PyTorch or TensorFlow. For example, in PyTorch, you can use `tensor.permute(dims)` to rearrange the dimensions of a tensor according to the specified order.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Olah, C. (2015). ["Understanding LSTM Networks"](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+
+[3]: Abadi, M., Agarwal, A., Barham, P., Brevdo, E., Chen, Z., Citro, C., ... & Zheng, X. (2016). ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems"](https://arxiv.org/abs/1603.04467). 
+
+[4]: Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library"](https://arxiv.org/abs/1912.01703). Advances in Neural Information Processing Systems 32.
+
+[5]: Bai, S., Kolter, J. Z., & Koltun, V. (2018). ["An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling"](https://arxiv.org/abs/1803.01271). 
+
+[6]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python) (1st ed.). Manning Publications.

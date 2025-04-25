@@ -79,3 +79,15 @@ One way to use scalars in hyperparameter tuning is through techniques like cross
 When dealing with scalar outputs in complex models, one of the main challenges is making sure the scalar accurately represents the model's performance. In a big neural network, the final output might be a single number, like the loss or a prediction. But this scalar can hide a lot of details. For example, if you're predicting house prices, the scalar output might be the average error across all predictions. But this doesn't tell you if the model is doing well for some houses and badly for others. So, you need to be careful and look at other ways to check how well the model is doing, like looking at the errors for different groups of data.
 
 Another consideration is how sensitive the model is to small changes in the scalar inputs or hyperparameters. In deep learning, small changes in the learning rate, which is a scalar, can make a big difference in how well the model learns. If the learning rate is too high, the model might not learn properly and could even get worse. If it's too low, it might take a long time to train. So, finding the right scalar values for hyperparameters is really important. You might need to try a lot of different values, like $$0.01$$, $$0.1$$, and $$1.0$$, to see which one works best. This process, called hyperparameter tuning, can be tricky but is key to getting good results from your model.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) O'Reilly Media.
+
+[3]: Nielsen, M. A. (2015). ["Neural Networks and Deep Learning: A Textbook"](https://link.springer.com/book/10.1007/978-3-031-29642-0) 
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[5]: ["Feature Scaling (Standardization and Normalization)"](https://www.geeksforgeeks.org/ml-feature-scaling-part-2/) from scikit-learn documentation.

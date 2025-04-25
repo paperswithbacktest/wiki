@@ -83,3 +83,17 @@ Another trend is the development of models that can learn from irregularly space
 Future advancements in hardware, like more powerful GPUs and specialized chips like TPUs, could make processing timesteps in machine learning models much faster and more efficient. These chips can handle a lot of calculations at the same time, which is perfect for models that need to process many timesteps. For example, when training a model like an LSTM, which looks at each timestep one by one, faster hardware can speed up this process a lot. This means models can learn from longer sequences of data without taking too much time, which can help them understand patterns over time better.
 
 Also, new hardware might allow for new ways to process timesteps. For instance, quantum computing could change how we handle timesteps by processing them in ways that are different from today's computers. This could lead to new types of models that can capture even more complex patterns in data. As hardware keeps getting better, it could open up new possibilities for how we use timesteps in machine learning, making models more accurate and able to handle bigger and more complex data sets.
+
+## References & Further Reading
+
+[1]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory"](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory). Neural Computation, 9(8), 1735–1780.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need"](https://arxiv.org/abs/1706.03762). Advances in Neural Information Processing Systems.
+
+[3]: Bengio, Y., Simard, P., & Frasconi, P. (1994). ["Learning Long-Term Dependencies with Gradient Descent is Difficult"](https://ieeexplore.ieee.org/document/279181). IEEE Transactions on Neural Networks.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Lipton, Z. C., Berkowitz, J., & Elkan, C. (2015). ["A Critical Review of Recurrent Neural Networks for Sequence Learning"](https://arxiv.org/abs/1506.00019). arXiv preprint arXiv:1506.00019.
+
+[6]: Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). ["Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation"](https://arxiv.org/abs/1406.1078). arXiv:1406.1078.

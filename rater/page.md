@@ -81,3 +81,19 @@ Algorithms can also help by checking the work of raters. They can look at the la
 In the future, we can expect machine learning to help raters even more. Algorithms will get better at suggesting labels and spotting mistakes, making the job of raters easier and more accurate. For example, if a rater is looking at a picture, the algorithm might say, "I think this is a cat," and the rater can check if it's right. This will save time and help raters focus on the tricky parts of the data. Also, machine learning will get better at finding patterns in the data, like if many raters often make the same mistake. This will help train raters to do better and make the labels more reliable.
 
 Another trend we might see is more automation in the rating process. While raters will still be important, machines will take over more of the simple tasks. This means raters can spend more time on the hard parts of the job, like making sure the data is labeled correctly for complex cases. Also, new tools and software will come out to help raters work together better. These tools will make it easier for raters to agree on labels and check each other's work, which will improve the quality of the data used to train machine learning models.
+
+## References & Further Reading
+
+[1]: Beigman Klebanov, B., & Beigman, E. (2009). ["From Annotator Agreement to Noise Models."](https://aclanthology.org/J09-4005/) Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL and the 4th International Joint Conference on Natural Language Processing.
+
+[2]: Artstein, R., & Poesio, M. (2008). ["Inter-Coder Agreement for Computational Linguistics."](https://direct.mit.edu/coli/article/34/4/555/1999/Inter-Coder-Agreement-for-Computational) Computational Linguistics, 34(4), 555-596.
+
+[3]: Jansen, B. J., & Spink, A. (2009). ["How Are We Searching the World Wide Web? A Comparison of Nine Search Engine Transaction Logs."](https://www.sciencedirect.com/science/article/pii/S0306457304001396) Information Processing & Management, 42(1).
+
+[4]: Snow, R., O'Connor, B., Jurafsky, D., & Ng, A. Y. (2008). ["Cheap and Fast---But is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks."](https://aclanthology.org/D08-1027/) Proceedings of the Conference on Empirical Methods in Natural Language Processing.
+
+[5]: Yano, T., Cohen, W. W., & Smith, N. A. (2009). ["Predicting Response to Political Blog Posts with Topic Models."](https://www.cs.cmu.edu/~nasmith/papers/yano%2Bcohen%2Bsmith.naacl09.pdf) Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the ACL.
+
+[6]: Krippendorff, K. (2011). ["Computing Krippendorff's Alpha-Reliability."](https://www.asc.upenn.edu/sites/default/files/2021-03/Computing%20Krippendorff%27s%20Alpha-Reliability.pdf) University of Pennsylvania ScholarlyCommons.
+
+[7]: Hovy, E. H., & Lavid, J. (2010). ["Towards a ‘Science’ of Corpus Annotation: A New Methodological Challenge for Corpus Linguistics."](https://www.researchgate.net/publication/257652159_Towards_a_science_of_corpus_annotation_a_new_methodological_challenge_for_Corpus_Linguistics) Language Resources and Evaluation, 44(1), 11-23.

@@ -90,3 +90,17 @@ Another advanced technique for optimizing models with Eager Execution is to use 
 In the future, Eager Execution might become even more popular as machine learning tools become more user-friendly. As more people start learning about machine learning, they'll want tools that are easy to understand and use. Eager Execution is great for this because it lets you see what's happening in your code right away. This makes it easier to learn and debug your models. As a result, we might see more machine learning frameworks and libraries focusing on making Eager Execution even better and easier to use.
 
 Another trend that could affect Eager Execution is the growing need for faster and more efficient models. While Eager Execution is great for learning and debugging, it can be slower than Graph Execution. As machine learning models get bigger and more complex, people might start looking for ways to speed things up. This could lead to new techniques that combine the benefits of Eager Execution with the performance of Graph Execution. For example, we might see more hybrid approaches where you can switch between Eager and Graph Execution depending on what you're doing. This would let you use Eager Execution for learning and debugging, and then switch to Graph Execution when you need to run your model quickly.
+
+## References & Further Reading
+
+[1]: Agrawal, P., Varma, M., & Le Cun, Y. (2019). ["TensorFlow Eager: A Multi-Stage, Python-Embedded DSL for Machine Learning."](https://arxiv.org/abs/1903.01855) In Proceedings of Machine Learning and Systems 2019.
+
+[2]: Abadi, M., Agarwal, A., Barham, P., et al. (2016). ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems."](https://arxiv.org/abs/1603.04467) arXiv:1603.04467.
+
+[3]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron.
+
+[4]: Olah, C. (2015). ["Understanding LSTM Networks."](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) Colah's Blog.
+
+[5]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python) by François Chollet.
+
+[6]: Raschka, S., & Mirjalili, V. (2019). ["Python Machine Learning: Machine Learning and Deep Learning with Python, Scikit-Learn, and TensorFlow 2](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750) (3rd ed.). Packt Publishing.

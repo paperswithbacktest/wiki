@@ -83,3 +83,17 @@ Another technique is to use backoff models, which combine bigrams with unigrams 
 To evaluate the effectiveness of bigram models, you can use metrics like perplexity and accuracy. Perplexity measures how well a model predicts a text by looking at how surprised it is by the actual words. A lower perplexity means the model is better at predicting the text. You can calculate perplexity using the formula $$Perplexity = 2^{-\frac{1}{N} \sum_{i=1}^{N} \log_2 P(w_i|w_{i-1})}$$, where $$N$$ is the number of words and $$P(w_i|w_{i-1})$$ is the probability of the current word given the previous word. Accuracy, on the other hand, measures how often the model's predictions are correct, which is useful for tasks like text classification or sentiment analysis. By comparing these metrics across different models, you can see how well bigram models perform compared to other n-gram models like unigrams or trigrams.
 
 When comparing bigram models to other n-gram models, you need to consider the trade-offs between model complexity and performance. Unigram models are simpler and don't look at word order, so they might not capture the context as well as bigram models. Bigrams, which consider pairs of words, can capture more context and often perform better than unigrams, especially in tasks where word order matters. However, trigrams, which look at three words at a time, can capture even more context but might suffer from data sparsity because there are fewer instances of any specific three-word sequence. By testing these models on the same dataset and using metrics like perplexity and accuracy, you can decide which model works best for your specific task.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2008). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) (2nd ed.). Pearson.
+
+[2]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval"](https://www.cambridge.org/highereducation/books/introduction-to-information-retrieval/669D108D20F556C5C30957D63B5AB65C). Cambridge University Press.
+
+[3]: Chen, S. F., & Goodman, J. (1996). ["An Empirical Study of Smoothing Techniques for Language Modeling"](https://www.sciencedirect.com/science/article/pii/S0885230899901286). Proceedings of the 34th Annual Meeting on Association for Computational Linguistics, 310-318.
+
+[4]: Mikolov, T., Karafiát, M., Burget, L., Cernocký, J., & Khudanpur, S. (2010). ["Recurrent Neural Network-based Language Model"](https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.html). Interspeech 2010.
+
+[5]: Brown, P. F., Della Pietra, V. J., de Souza, P. V., Lai, J. C., & Mercer, R. L. (1992). ["Class-Based n-gram Models of Natural Language"](https://aclanthology.org/J92-4003/). Computational Linguistics, 18(4), 467-479.
+
+[6]: Brants, T., & Franz, A. (2006). ["Web 1T 5-gram Version 1"](https://catalog.ldc.upenn.edu/LDC2006T13). Linguistic Data Consortium, Philadelphia.

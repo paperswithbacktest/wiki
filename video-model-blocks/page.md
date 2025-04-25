@@ -81,3 +81,15 @@ Another technique is to use efficient architectures designed for real-time proce
 Experts evaluate the effectiveness of different Video Model Blocks by looking at how well they perform on specific tasks like action recognition or video classification. They use metrics like accuracy, which tells them how often the model gets the right answer, and speed, which shows how fast the model can process the video. They might also use other measures like precision and recall to see if the model can correctly identify important parts of the video without missing anything. By comparing these metrics across different Video Model Blocks, experts can figure out which ones work best for complex video analysis scenarios.
 
 In more complex scenarios, experts often run the Video Model Blocks through benchmarks that include a variety of videos with different levels of difficulty. These benchmarks help them see how well the models handle things like changes in lighting, different camera angles, or fast-moving objects. They also look at how the models manage to keep track of multiple objects over time and understand the overall context of the video. By doing this, experts can get a full picture of how effective each Video Model Block is in real-world situations where videos can be very complex and varied.
+
+## References & Further Reading
+
+[1]: Karpathy, A. (2014). ["Convolutional Neural Networks for Visual Recognition."](https://cs231n.stanford.edu/2016/) Stanford University.
+
+[2]: Simonyan, K., & Zisserman, A. (2014). ["Two-Stream Convolutional Networks for Action Recognition in Videos."](https://arxiv.org/abs/1406.2199) Advances in Neural Information Processing Systems 27.
+
+[3]: Donahue, J., Hendricks, L. A., Guadarrama, S., Rohrbach, M., Venugopalan, S., Saenko, K., & Darrell, T. (2015). ["Long-term Recurrent Convolutional Networks for Visual Recognition and Description."](https://arxiv.org/abs/1411.4389) Advances in Neural Information Processing Systems 28.
+
+[4]: Carreira, J., & Zisserman, A. (2017). ["Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset."](https://arxiv.org/abs/1705.07750) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[5]: Yue-Hei Ng, J., Hausknecht, M., Vijayanarasimhan, S., Vinyals, O., Monga, R., & Toderici, G. (2015). ["Beyond Short Snippets: Deep Networks for Video Classification."](https://arxiv.org/abs/1503.08909) Proceedings of the IEEE International Conference on Computer Vision.

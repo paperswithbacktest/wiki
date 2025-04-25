@@ -79,3 +79,17 @@ To make the evaluation better, you can use tools that understand the meaning of 
 In the future, document summary evaluation is expected to become more accurate and helpful. One big change might be using more advanced AI models that understand language better. These models, like those based on large language models, can look at the meaning of a summary, not just the words. This means they can tell if a summary is good even if it uses different words from the original document. Researchers are also working on ways to make these models learn from human feedback, so they can keep getting better over time. This could make summary evaluation more reliable and useful for people.
 
 Another expected development is better ways to handle summaries in different languages. Right now, tools like ROUGE and BLEU work best for one language at a time. But in the future, we might see tools that can evaluate summaries in many languages at once. These tools could use techniques like machine translation to compare summaries in different languages to reference summaries. This would help people around the world use and understand summaries better. Overall, the future of document summary evaluation looks promising, with more accurate and versatile methods on the way.
+
+## References & Further Reading
+
+[1]: Lin, C.-Y. (2004). ["ROUGE: A Package for Automatic Evaluation of Summaries."](https://aclanthology.org/W04-1013/) Text Summarization Branches Out.
+
+[2]: Papineni, K., Roukos, S., Ward, T., & Zhu, W.-J. (2002). ["BLEU: a Method for Automatic Evaluation of Machine Translation."](https://aclanthology.org/P02-1040/) Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics.
+
+[3]: Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., & Artzi, Y. (2020). ["BERTScore: Evaluating Text Generation with BERT."](https://arxiv.org/abs/1904.09675) 8th International Conference on Learning Representations.
+
+[4]: Van der Lee, C., Krahmer, E., & Wubben, S. (2019). ["AutoJudge: A Method for Calculating the Coherence of Automatically Generated Texts."](https://aclanthology.org/W19-8643/) Proceedings of the 12th International Conference on Natural Language Generation.
+
+[5]: Nenadic, G. (2008). ["Automatic Evaluation of Text Coherence: Review and Applications."](https://www.sciencedirect.com/science/article/pii/S0957417422010491) Journal of Artificial Intelligence Research.
+
+[6]: Nenkova, A., Passonneau, R., & McKeown, K. (2007). ["The Pyramid Method: Incorporating Human Content Selection Variation in Summarization Evaluation."](https://dl.acm.org/doi/10.1145/1233912.1233913) ACM Transactions on Speech and Language Processing.

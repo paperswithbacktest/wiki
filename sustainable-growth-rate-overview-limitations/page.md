@@ -1,6 +1,7 @@
 ---
-title: "Sustainable Growth Rate: Overview and Limitations"
-description: "Explore the importance and limitations of the Sustainable Growth Rate (SGR) in algorithmic trading, a key metric for assessing a company's self-sustaining growth."
+title: Understanding Sustainable Growth Rate For Business Expansion
+description: Sustainable Growth Rate helps businesses determine their optimal expansion
+  pace using retained earnings without extra financing Discover more inside.
 ---
 
 

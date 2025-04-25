@@ -1,6 +1,7 @@
 ---
-title: "size discovery"
-description: "Discover the critical role of size discovery in algorithmic trading optimizing order sizes to minimize market impact and enhance trading strategy efficiency."
+title: Size Discovery for Accurate Online Clothing Fit and Satisfaction
+description: Size discovery helps online shoppers get the right fit by using measurements
+  and data to cut returns and boost satisfaction Discover more inside
 ---
 
 

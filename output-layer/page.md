@@ -81,3 +81,19 @@ Another challenge is deciding how many neurons to use in the output layer. If yo
 Ensemble methods can make the output layer of a neural network work better by combining the guesses of many different models. Imagine you're trying to decide if a picture is of a cat or a dog. If you use one model, it might guess wrong sometimes. But if you use a bunch of different models and let them vote on the answer, you can get a more accurate guess. This is what ensemble methods do. They take the outputs from different models and combine them to make a final decision. For example, if you're using a method called "voting," each model in the ensemble gives its guess, and the final answer is the one that gets the most votes. This can help make sure the output layer's guess is more reliable.
 
 One popular ensemble method is called "bagging," which stands for Bootstrap Aggregating. In bagging, you make many different versions of your model by training each one on a slightly different set of data. Then, you combine their guesses to get the final answer. Another method is "boosting," where you train models one after the other, and each new model tries to fix the mistakes of the last one. For example, if the first model often guesses "cat" when it should be "dog," the next model will focus on getting those "dog" guesses right. By using these ensemble methods, you can make the output layer's guesses more accurate and reliable. This is because the combined wisdom of many models is often better than the guess of just one.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Chollet, F. (2018). [Deep Learning with Python](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864). Manning Publications.
+
+[3]: Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[4]: Sundararajan, M. (2017). "Axiomatic Attribution for Deep Networks." In Proceedings of the 34th International Conference on Machine Learning (ICML).
+
+[5]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). "Learning Representations by Back-Propagating Errors." Nature, 323(6088), 533-536.
+
+[6]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). "Deep Learning." Nature, 521(7553), 436-444.
+
+[7]: Nair, V., & Hinton, G. E. (2010). "Rectified Linear Units Improve Restricted Boltzmann Machines." In Proceedings of the 27th International Conference on Machine Learning (ICML).

@@ -1,6 +1,7 @@
 ---
-title: "Smart Order Routing Heuristics"
-description: "Explore Smart Order Routing in algorithmic trading to enhance trade execution with precision by analyzing price, liquidity, and speed across diverse venues."
+title: Smart Order Routing Essentials for Optimal Trade Execution
+description: Smart Order Routing helps traders secure the best prices and fastest
+  executions across multiple venues while reducing market impact Discover more inside
 ---
 
 

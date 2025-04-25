@@ -83,3 +83,15 @@ By having these rules, regulatory compliance helps protect people from being tre
 To implement a bias audit in their machine learning pipelines, organizations should start by setting clear goals for what they want to check and fix. This means deciding which groups of people they want to make sure the model treats fairly, like men and women or different races. They can then collect data that includes everyone fairly and use this data to train and test the model. During the audit, they should look at the model's predictions and see if there are big differences in how it treats different groups. They can use fairness metrics, like the disparate impact ratio, to measure this. If the ratio is far from 1, it suggests there might be bias. By doing this, organizations can find where the bias is coming from and work on fixing it.
 
 Once the bias is found, organizations can take steps to reduce it. This might mean changing the data they use to train the model, like adding more data about underrepresented groups. They can also change how the model works by adding rules that make sure it treats everyone the same. For example, they might use fairness constraints to make the model balance its accuracy with fairness. It's also important to keep checking the model over time to make sure it stays fair. By doing regular bias audits, organizations can make sure their machine learning models are treating everyone fairly and not causing harm.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities"](https://fairmlbook.org/). fairmlbook.org. This book provides a comprehensive introduction to the concepts of fairness and bias in machine learning.
+
+[2]: O'Neil, C. (2016). ["Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"](https://dl.acm.org/doi/10.5555/3002861). Crown Publishing Group. This book discusses the ethical implications and potential biases in machine learning and data science.
+
+[3]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning"](https://dl.acm.org/doi/abs/10.1145/3457607). ACM Computing Surveys. This paper provides a survey on various types of bias in machine learning and offers recommendations for mitigating them.
+
+[4]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29. This paper introduces equality of opportunity as a fairness notion in supervised learning.
+
+[5]: Chouldechova, A., & Roth, A. (2018). ["The Frontiers of Fairness in Machine Learning."](https://arxiv.org/abs/1810.08810) arXiv preprint arXiv:1810.08810. This paper discusses the challenges and research directions in fairness in machine learning models.

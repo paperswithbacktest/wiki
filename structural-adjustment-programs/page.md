@@ -1,6 +1,8 @@
 ---
-title: "Structural Adjustment Programs"
-description: "Explore the complex interplay between Structural Adjustment Programs (SAPs), economic reforms, and financial market evolution. This article investigates into the effects of SAPs, notably those implemented by the IMF and World Bank, on global economies amidst the rise of algorithmic trading. Examining SAPs' historical goals to foster adaptable markets, the piece highlights both the economic benefits and social challenges they pose. It also discusses how algorithmic trading is reshaping market dynamics, offering insights into striking a balance between economic efficiency and socio-economic inclusivity. Discover the dual forces shaping the future of global economies."
+title: Understanding Structural Adjustment Programs Impact on Developing Economies
+description: Structural Adjustment Programs require reducing government spending and
+  boosting exports to stabilize economies while balancing social impacts on healthcare
+  education and inequality Discover more inside
 ---
 
 

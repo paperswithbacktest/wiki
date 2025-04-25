@@ -1,6 +1,7 @@
 ---
-title: "Sine Wave: Applications and Origins"
-description: "Discover how sine waves impact algorithmic trading by modeling market cycles and trends. Explore their use in engineering, physics, and financial strategies."
+title: 'Understanding Sine Waves: Concepts, Properties, and Applications'
+description: Sine wave fundamentals and real world uses include clear examples of
+  math definitions, properties and engineering applications. Discover more inside.
 ---
 
 

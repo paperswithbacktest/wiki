@@ -1,7 +1,7 @@
 ---
-title: Subword Segmentation Techniques and Applications in NLP Models
-description: Subword Segmentation boosts NLP ability by splitting words into parts
-  to handle new or long terms in translation and text generation Discover more inside
+title: Subword Segmentation Strategies to Enhance NLP Model Efficiency
+description: Subword segmentation breaks words into smaller units to improve model
+  adaptability reduce vocabulary size and handle new terms Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -81,3 +81,15 @@ Another way to evaluate subword segmentation is by looking at the compression ra
 Subword segmentation can be optimized for specific domains or languages by training the model on text that is relevant to that domain or language. For example, if you want to use the model for medical texts, you would train it on medical documents. This way, the model learns subwords that are common in medical language, like "cardi" for heart-related words. By focusing on the specific vocabulary of a domain or language, the model can break words into more meaningful subwords, which helps it understand and process the text better.
 
 Another way to optimize subword segmentation is by adjusting the size of the vocabulary. If you are working with a language that has many unique characters or long words, you might need a larger vocabulary to capture all the important subwords. On the other hand, if you are working with a simpler domain, a smaller vocabulary might be enough. By tuning the number of subwords, you can make the model more efficient and accurate for the specific task. This balance helps the model perform better in translating or understanding text in the chosen domain or language.
+
+## References & Further Reading
+
+[1]: Sennrich, R., Haddow, B., & Birch, A. (2016). ["Neural Machine Translation of Rare Words with Subword Units."](https://arxiv.org/abs/1508.07909) arXiv preprint arXiv:1508.07909.
+
+[2]: Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., ... & Dean, J. (2016). ["Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation."](https://arxiv.org/abs/1609.08144) arXiv preprint arXiv:1609.08144.
+
+[3]: Kudo, T. (2018). ["A Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates."](https://aclanthology.org/P18-1007/) Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
+
+[4]: Schuster, M., & Nakajima, K. (2012). ["Japanese and Korean Voice Search."](https://ieeexplore.ieee.org/document/6289079) Proceedings of the Annual Conference of the International Speech Communication Association. 
+
+[5]: Kudo, T., & Richardson, J. (2018). ["SentencePiece: A simple and language-independent subword tokenizer and detokenizer for Neural Text Processing."](https://arxiv.org/abs/1808.06226) Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations.

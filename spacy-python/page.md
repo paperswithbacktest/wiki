@@ -1,6 +1,7 @@
 ---
-title: "SpaCy in Python"
-description: Explore how leveraging the natural language processing library spaCy in Python can enhance algorithmic trading strategies. Discover spaCy's high-performance capabilities for handling vast amounts of financial text data quickly and accurately. Learn about vital features like tokenization, lemmatization, and sentiment analysis to gain insights from news articles and social media, helping traders better anticipate market trends. Understand how integrating spaCy into trading systems offers a competitive edge by improving decision-making and predicting market movements in a fast-paced financial environment.
+title: Master SpaCy NLP in Python From Installation to Advanced Features
+description: SpaCy streamlines NLP tasks in Python from installation and tokenization
+  to custom models and sentiment analysis for trading Discover more inside.
 ---
 
 

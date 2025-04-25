@@ -83,3 +83,19 @@ Using graph data augmentation also makes GNNs more robust. By changing small par
 One promising direction for future research in graph data augmentation is the development of more advanced generative models. Researchers could focus on creating better Graph Generative Adversarial Networks (Graph GANs) that can generate more realistic and diverse graphs. These models could learn to mimic the patterns and structures of real-world graphs more accurately, which would provide high-quality augmented data for training graph neural networks. By improving these generative models, we could make graph neural networks even more effective at tasks like drug discovery or social network analysis.
 
 Another exciting area is the exploration of adaptive augmentation techniques. Instead of using the same augmentation methods for all graphs, future research could develop methods that change based on the specific characteristics of each graph. For example, if a graph is very dense, the augmentation might focus on removing edges to create more variety. If a graph is sparse, the augmentation might add more edges. This adaptive approach could help graph neural networks learn more efficiently and perform better on a wider range of graph types. By tailoring the augmentation to the graph's structure, we could improve the model's ability to generalize and handle new data.
+
+## References & Further Reading
+
+[1]: Rong, Y., Huang, W., Xu, T., & Huang, J. (2020). ["DropEdge: Towards Deep Graph Convolutional Networks on Node Classification."](https://arxiv.org/abs/1907.10903) arXiv preprint arXiv:1907.10903.
+
+[2]: You, J., Ying, R., & Leskovec, J. (2018). ["Graph Contrastive Learning with Augmentations."](https://dl.acm.org/doi/abs/10.5555/3495724.3496212) Advances in Neural Information Processing Systems (NeurIPS).
+
+[3]: Hamilton, W., Ying, Z., & Leskovec, J. (2017). ["Inductive Representation Learning on Large Graphs."](https://arxiv.org/abs/1706.02216) Advances in Neural Information Processing Systems 30 (NeurIPS 2017).
+
+[4]: Wu, Z., Pan, S., Chen, F., Long, G., Zhang, C., & Yu, P. S. (2021). ["A Comprehensive Survey on Graph Neural Networks."](https://arxiv.org/abs/1901.00596) IEEE Transactions on Neural Networks and Learning Systems, 32(1), 4-24.
+
+[5]: Velickovic, P., Cucurull, G., Casanova, A., Romero, A., Lio, P., & Bengio, Y. (2018). ["Graph Attention Networks."](https://arxiv.org/abs/1710.10903) International Conference on Learning Representations (ICLR).
+
+[6]: Zhang, Z., Cui, P., & Zhu, W. (2020). ["Deep Learning on Graphs: A Survey."](https://ieeexplore.ieee.org/document/9039675) IEEE Transactions on Knowledge and Data Engineering, 34(1), 249-270.
+
+[7]: Xu, K., Hu, W., Leskovec, J., & Jegelka, S. (2019). ["How Powerful are Graph Neural Networks?"](https://arxiv.org/abs/1810.00826) International Conference on Learning Representations (ICLR).

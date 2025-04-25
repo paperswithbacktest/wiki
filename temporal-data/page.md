@@ -89,3 +89,15 @@ Another important practice is to use rolling window validation. This means you k
 Sequence-to-sequence models, often called seq2seq models, are great for working with temporal data because they can understand and predict sequences of events. Imagine you're trying to translate a sentence from English to Spanish. A seq2seq model can take the whole English sentence and turn it into a Spanish sentence, understanding the order and meaning of each word. In the same way, if you're trying to predict future stock prices, a seq2seq model can look at past prices and other data points to predict what will happen next. It does this by using an encoder to understand the input sequence and a decoder to generate the output sequence. This makes seq2seq models really useful for tasks like weather forecasting, where you need to predict future conditions based on past data.
 
 One popular type of seq2seq model is the one that uses Long Short-Term Memory (LSTM) networks. LSTMs are good at remembering long-term patterns in data, which is important for temporal data problems. For example, if you want to predict how a patient's health will change over time, an LSTM-based seq2seq model can use data from months ago to make a better prediction. The model can learn to understand the relationships between different time steps and use that knowledge to forecast future events. This makes seq2seq models with LSTMs a powerful tool for many applications involving temporal data, like predicting stock prices or understanding speech patterns over time.
+
+## References & Further Reading
+
+[1]: Hyndman, R. J., & Athanasopoulos, G. (2018). ["Forecasting: Principles and Practice,"](https://otexts.com/fpp2/) OTexts.
+
+[2]: Gers, F. A., Schmidhuber, J., & Cummins, F. (2000). ["Learning to Forget: Continual Prediction with LSTM."](https://pubmed.ncbi.nlm.nih.gov/11032042/) Neural Computation, 12(10), 2451-2471.
+
+[3]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory,"](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[4]: Box, G.E.P., Jenkins, G.M., Reinsel, G.C., & Ljung, G.M. (2015). ["Time Series Analysis: Forecasting and Control,"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118619193) Wiley.
+
+[5]: Hirano, M., & Benesty, J. (Eds.). (2003). ["A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition."](https://ieeexplore.ieee.org/document/18626/?arnumber=18626) in: Hayes, M.H., et al. Speech Processing. Springer.

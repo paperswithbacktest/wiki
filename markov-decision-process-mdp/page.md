@@ -81,3 +81,15 @@ Another technique is called Monte Carlo Tree Search (MCTS). MCTS is like playing
 In partially observable environments, MDPs can be extended to Partially Observable Markov Decision Processes (POMDPs). In a POMDP, you don't know the exact state you're in; instead, you get some clues about it. Imagine playing a game where you can't see the whole board, but you get hints about where you are. To handle this, you keep track of a belief state, which is like a guess about where you might be based on the clues you've seen. The goal is still to find the best policy, but now you have to make decisions based on your belief about the state, not the state itself. The belief state updates as you get more clues, and you use it to choose actions that will help you learn more and get more rewards.
 
 The main challenge with POMDPs is that they're much harder to solve than regular MDPs. Because you're not sure about the state, you need to think about a lot more possibilities. This makes the problem bigger and more complex. Another challenge is that you need to balance exploring to get more information with exploiting what you already know to get rewards. This is trickier because you're always working with guesses instead of facts. Solving POMDPs often requires more advanced algorithms and more computing power, which can make it difficult to use them in real-time situations like robotics or game playing. Despite these challenges, POMDPs are important for handling real-world problems where full information is rarely available.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT Press.
+
+[2]: Puterman, M. L. (1994). ["Markov Decision Processes: Discrete Stochastic Dynamic Programming"](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316887). Wiley-Interscience.
+
+[3]: Bertsekas, D. P. (2017). ["Dynamic Programming and Optimal Control, Vol. I"](https://www.mit.edu/~dimitrib/dpbook.html)], Athena Scientific.
+
+[4]: Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., Van Den Driessche, G., ... & Hassabis, D. (2016). ["Mastering the game of Go with deep neural networks and tree search."](https://www.nature.com/articles/nature16961) Nature, 529(7587), 484-489.
+
+[5]: Kaelbling, L. P., Littman, M. L., & Cassandra, A. R. (1998). ["Planning and acting in partially observable stochastic domains."](https://www.sciencedirect.com/science/article/pii/S000437029800023X) Artificial Intelligence, 101(1-2), 99-134.

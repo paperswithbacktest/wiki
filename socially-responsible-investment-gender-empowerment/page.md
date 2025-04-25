@@ -1,6 +1,7 @@
 ---
-title: "Socially Responsible Investment in Gender Empowerment"
-description: "Explore the fusion of sustainable finance algorithmic trading and gender empowerment to understand how socially responsible investing can drive equality and innovation."
+title: Gender Empowerment in Socially Responsible Investment Strategies
+description: Socially responsible investment in gender empowerment supports companies
+  advancing women leaders and driving financial growth. Discover more inside.
 ---
 
 

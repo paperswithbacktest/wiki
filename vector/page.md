@@ -79,3 +79,23 @@ Another advanced technique involving vectors in deep learning is attention mecha
 Vector quantization is a way to make machine learning models work faster and use less memory. Imagine you have a lot of data points, each represented by a vector. Instead of keeping all these vectors, vector quantization groups similar vectors together and replaces them with a single representative vector, called a centroid. This process reduces the number of unique vectors you need to store and process. For example, if you have a dataset of images, each image might be a high-dimensional vector. By using vector quantization, you can group similar images together and work with a smaller set of vectors, making your model run quicker and use less computer power.
 
 In practice, vector quantization can be applied to techniques like clustering and nearest neighbor searches. In clustering, you might use an algorithm like k-means to find the best centroids that represent groups of similar vectors. Once you have these centroids, you can use them to quickly classify new data points. For nearest neighbor searches, instead of comparing a new vector to every vector in your dataset, you can compare it to the centroids, which is much faster. This makes tasks like recommendation systems or image retrieval more efficient. By using vector quantization, machine learning models can handle large datasets more easily and make predictions or find patterns more quickly.
+
+## References & Further Reading
+
+[1]: Pearson, K. (1901). ["On Lines and Planes of Closest Fit to Systems of Points in Space."](https://www.tandfonline.com/doi/abs/10.1080/14786440109462720) Philosophical Magazine.
+
+[2]: Hotelling, H. (1933). ["Analysis of a Complex of Statistical Variables into Principal Components."](https://psycnet.apa.org/record/1934-00645-001) Journal of Educational Psychology.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Goldberg, Y., & Levy, O. (2014). ["word2vec Explained: Deriving Mikolov et al.'s Negative-Sampling Word-Embedding Method."](https://arxiv.org/abs/1402.3722) arXiv:1402.3722.
+
+[6]: Yang, Y., & Pedersen, J. O. (1997). ["A comparative study on feature selection in text categorization."](https://dl.acm.org/doi/10.5555/645526.657137) Proceedings of the Fourteenth International Conference on Machine Learning. 
+
+[7]: Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). ["Latent Dirichlet Allocation."](https://dl.acm.org/doi/10.5555/944919.944937) Journal of Machine Learning Research.
+
+[8]: Van der Maaten, L., & Hinton, G. (2008). ["Visualizing Data using t-SNE."](https://jmlr.org/papers/v9/vandermaaten08a.html) Journal of Machine Learning Research.
+
+[9]: Cover, T. M., & Thomas, J. A. (1991). ["Elements of Information Theory."](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) John Wiley & Sons, Inc.

@@ -81,3 +81,15 @@ Another technique is called LIME (Local Interpretable Model-agnostic Explanation
 To validate the reliability of variable importance measures across different datasets, you can use a technique called cross-validation. This means you split your data into smaller parts and build your model many times, each time leaving out a different part of the data. You then check how important each variable is in each of these models. If the importance of a variable stays the same across all these different models, you can trust that it's really important. This helps you see if the variable importance you found is just a fluke or if it's something you can rely on.
 
 Another way to check the reliability is by using different methods to measure variable importance and seeing if they agree with each other. For example, you might use Gini importance from decision trees, permutation importance, and SHAP values from a neural network. If all these methods say the same variable is important, you can feel more confident about it. Sometimes, you might find that different methods give different results, which can help you understand your data better and make your model more accurate. By using these techniques, you can make sure your variable importance measures are trustworthy and useful for improving your model.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[2]: Molnar, C. (2022). ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable."](https://christophm.github.io/interpretable-ml-book/) Leanpub.
+
+[3]: Fisher, A., Rudin, C., & Dominici, F. (2019). ["Model Class Reliance: Variable Importance Measures for Any Machine Learning Model Class, from the 'Rashomon' Perspective."](https://jmlr.org/papers/volume20/18-760/18-760.pdf) Nature Machine Intelligence, 1(7), 324-344.
+
+[4]: Lundberg, S. M., & Lee, S.-I. (2017). ["A Unified Approach to Interpreting Model Predictions."](https://dl.acm.org/doi/10.5555/3295222.3295230) Advances in Neural Information Processing Systems 30.
+
+[5]: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). ["'Why Should I Trust You?': Explaining the Predictions of Any Classifier."](https://dl.acm.org/doi/10.1145/2939672.2939778) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

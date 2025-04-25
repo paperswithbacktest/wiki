@@ -1,6 +1,7 @@
 ---
-title: "S&P 500 Dividend Aristocrats Index and Leading Companies"
-description: "Explore how the S&P 500 Dividend Aristocrats maintain reliability in dividends and discover the role of algorithmic trading in optimizing investment potential."
+title: S&P 500 Dividend Aristocrats Index Explained For Investors
+description: S&P 500 Dividend Aristocrats Index offers insights on stable companies
+  with 25 years of dividend growth and potential steady income Discover more inside.
 ---
 
 

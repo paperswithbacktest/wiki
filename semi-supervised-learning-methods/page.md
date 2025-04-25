@@ -81,3 +81,25 @@ The big advantage of MixText is that it can make the computer much better at und
 The State-Aware Tracker (STraTA) method uses semi-supervised learning to make object tracking better. Imagine you're trying to follow a cat in a video. You might have a few frames where you know for sure where the cat is, but in most frames, you're not sure. STraTA helps by using both the frames where you know the cat's location and the frames where you don't. It starts with the known frames and then uses what it learns from them to guess where the cat might be in the unknown frames. This way, it can track the cat more accurately over time, even if it doesn't have labels for every frame.
 
 STraTA works by paying attention to how the object, like the cat, changes from one frame to the next. It uses a special way to remember what the object looked like in the past and how it might look in the future. By doing this, STraTA can make better guesses about where the object is, even in frames without labels. This makes it really good at tracking objects in videos where you don't have a lot of labeled data to start with.
+
+## References & Further Reading
+
+[1]: Zhu, X., & Goldberg, A. B. (2009). ["Introduction to Semi-Supervised Learning."](https://link.springer.com/book/10.1007/978-3-031-01548-9) Synthesis Lectures on Artificial Intelligence and Machine Learning, 3(1), 1–130.
+
+[2]: Chapelle, O., Scholkopf, B., & Zien, A. (2006). ["Semi-Supervised Learning."](https://ieeexplore.ieee.org/abstract/document/4787647) The MIT Press.
+
+[3]: He, K., Fan, H., Wu, Y., Xie, S., & Girshick, R. (2020). ["Momentum Contrast for Unsupervised Visual Representation Learning."](https://arxiv.org/abs/1911.05722) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Oord, A. v. d., Li, Y., & Vinyals, O. (2018). ["Representation Learning with Contrastive Predictive Coding."](https://arxiv.org/abs/1807.03748) arXiv:1807.03748.
+
+[5]: Sohn, K., Berthelot, D., Li, C.-L., Zhang, Z., Carlini, N., Cubuk, E. D., Kurakin, A., Zhang, H., & Raffel, C. (2020). ["FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence."](https://arxiv.org/abs/2001.07685) arXiv:2001.07685.
+
+[6]: Xie, Q., Luong, M.-T., Hovy, E., & Le, Q. V. (2019). ["Self-Training with Noisy Student improves ImageNet classification."](https://arxiv.org/abs/1911.04252) arXiv:1911.04252.
+
+[7]: Pham, H., Dai, Z., Xie, Q., & Le, Q. V. (2021). ["Meta Pseudo Labels."](https://arxiv.org/abs/2003.10580) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[8]: Chen, T., Kornblith, S., Norouzi, M., & Hinton, G. (2020). ["A Simple Framework for Contrastive Learning of Visual Representations."](https://dl.acm.org/doi/abs/10.5555/3524938.3525087) arXiv:2002.05709.
+
+[9]: Berthelot, D., Carlini, N., Goodfellow, I., Papernot, N., Oliver, A., & Raffel, C. (2019). ["MixMatch: A Holistic Approach to Semi-Supervised Learning."](https://arxiv.org/abs/1905.02249) Advances in Neural Information Processing Systems 32 (NeurIPS 2019).
+
+[10]: Kitani, K. M., Ananthanarayanan, S., & Kamat, R. (2020). ["State-Aware Tracker for Partially Observable Scenarios."](https://scholar.google.com/citations?user=yv3sH74AAAAJ&hl=en) IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).

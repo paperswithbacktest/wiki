@@ -79,3 +79,15 @@ Another way LoRA works with deep learning is by helping models adapt to new data
 In the future, we can expect LoRA to become even more important in machine learning. As models get bigger and more complex, it will be really helpful to have a way to update them quickly and easily. LoRA lets you make small changes to these big models using low-rank matrices, so you don't have to start over every time you want to improve them. This means that companies and researchers can keep their models up-to-date without using a lot of time and computer power. They can also use LoRA to make their models better at new tasks or with new data, which will make machine learning more useful in many different areas.
 
 Another thing we might see is LoRA working together with other new techniques in machine learning. For example, it could be used with deep learning to make big models even more powerful. Deep learning models can be hard to update, but with LoRA, you can make small changes to them using low-rank matrices. This means you can fine-tune a deep learning model for a new task quickly and easily. The update to the model can be written as $$A + BC$$, where $$A$$ is the original model and $$BC$$ is the small change you're making. By combining LoRA with other advanced techniques, we can make machine learning models even better at understanding and working with new data.
+
+## References & Further Reading
+
+[1]: Hu, Edward J., et al. (2021). ["LoRA: Low-Rank Adaptation of Large Language Models."](https://arxiv.org/abs/2106.09685) arXiv preprint arXiv:2106.09685.
+
+[2]: Belkin, Mikhail, and Kaushik Sinha. (2010). ["Polynomial Learning of Distribution Families."](https://arxiv.org/abs/1004.4864) IEEE Transactions on Information Theory.
+
+[3]: Wang, Naigang, et al. (2020). ["Energy Efficient Neural Network Acceleration based on Outlier-Aware Low-Precision Computation."](https://ieeexplore.ieee.org/document/8416865) Proceedings of the 26th IEEE International Symposium on High-Performance Computer Architecture (HPCA).
+
+[4]: Tibshirani, Robert. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://academic.oup.com/jrsssb/article/58/1/267/7027929) Journal of the Royal Statistical Society: Series B (Methodological).
+
+[5]: Gu, Jason, et al. (2018). ["Recent advances in convolutional neural networks."](https://www.sciencedirect.com/science/article/pii/S0031320317304120) Pattern Recognition.

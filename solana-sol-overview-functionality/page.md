@@ -1,6 +1,7 @@
 ---
-title: "Solana (SOL): Overview and Functionality"
-description: "Discover the innovative world of Solana and its native cryptocurrency, SOL, renowned for exceptional transaction speeds and low fees that benefit efficient algorithmic trading. Explore how Solana's scalable blockchain technology enhances trading strategies by processing thousands of transactions per second, minimizing latency, and maximizing profitability. Uncover how these advancements position Solana as a leading platform in the digital currency market, offering lucrative opportunities for traders engaged in high-speed algorithmic trading."
+title: Solana Blockchain Explained Speed Scalability and Security
+description: Solana blockchain delivers high speed low cost transactions and scalable
+  dApps with Proof of History and Stake ensuring efficiency Discover more inside
 ---
 
 

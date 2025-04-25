@@ -81,3 +81,15 @@ Another exciting direction is combining Few-Shot Prompting with other smart meth
 A notable example where Few-Shot Prompting made a big difference is in the development of a language translation app for a non-profit organization. The app aimed to help people in remote areas communicate with healthcare providers in their native languages. The challenge was that many of these languages had very little data available for traditional [machine learning](/wiki/machine-learning) models. By using Few-Shot Prompting, the developers were able to show the model just a few examples of translations between English and these lesser-known languages. This allowed the app to start working quickly, even without large amounts of training data. As a result, the app was able to help more people get the healthcare they needed by breaking down language barriers.
 
 Another case study involves a company that wanted to improve its customer service chatbot. The company needed the chatbot to handle a wide variety of customer inquiries, from simple questions to more complex issues. Using Few-Shot Prompting, the team showed the model a few examples of different types of customer interactions and the appropriate responses. This allowed the chatbot to quickly adapt to new types of questions without needing to be retrained extensively. As a result, the chatbot became more efficient and helpful, leading to higher customer satisfaction and fewer support tickets. This example shows how Few-Shot Prompting can make AI systems more versatile and responsive to real-world needs.
+
+## References & Further Reading
+
+[1]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[2]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language models are unsupervised multitask learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI Blog.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Thrun, S., & Pratt, L. (Eds.). (1998). ["Learning to Learn."](https://link.springer.com/book/10.1007/978-1-4615-5529-2) Springer Science & Business Media.
+
+[5]: Hospedales, T. M., Antoniou, A., Micaelli, P., & Storkey, A. J. (2020). ["Meta-learning in neural networks: A survey."](https://pubmed.ncbi.nlm.nih.gov/33974543/) arXiv preprint arXiv:2004.05439.

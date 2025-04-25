@@ -1,6 +1,7 @@
 ---
-title: "Smart Money in Investing and Trading"
-description: "Explore the synergy between smart money and algorithmic trading to enhance investment strategies and refine trading efficiency for optimized returns in finance."
+title: Tracking Smart Money in Investing and Trading Markets
+description: Smart money insights help you track institutional moves, use COT and
+  SEC filings, analyze volume and options to inform trades Discover more inside
 ---
 
 

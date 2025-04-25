@@ -79,3 +79,19 @@ However, pruning can also affect the performance of a model if not done carefull
 Recent advancements in pruning techniques have focused on making neural networks even more efficient while maintaining high accuracy. One exciting development is the introduction of dynamic pruning methods like RigL, which prune and regrow weights during training. This helps the network keep learning and improving even as it gets smaller. Another advancement is the use of more sophisticated metrics to decide which parts to prune. For example, the HRank method uses the effective rank to measure how much unique information a neuron contributes, making pruning decisions more informed and effective.
 
 Another notable advancement is the application of pruning to large language models (LLMs). Techniques like LLM-Rank have been developed specifically for these models, which are used for tasks like text generation and understanding. LLM-Rank uses a rank score to assess the importance of different parts of the model, allowing for more targeted pruning that can significantly reduce the model's size without sacrificing its language abilities. These advancements show that pruning is becoming more tailored and effective, helping to make machine learning models more practical for real-world use.
+
+## References & Further Reading
+
+[1]: Han, Song, et al. (2015). ["Learning both Weights and Connections for Efficient Neural Networks."](https://arxiv.org/abs/1506.02626) Advances in Neural Information Processing Systems 28.
+
+[2]: Gale, Trevor, et al. (2019). ["The State of Sparsity in Deep Neural Networks."](https://arxiv.org/abs/1902.09574) arXiv preprint arXiv:1902.09574.
+
+[3]: Blalock, Davis, et al. (2020). ["What is the State of Neural Network Pruning?"](https://arxiv.org/abs/2003.03033) arXiv preprint arXiv:2003.03033.
+
+[4]: Frankle, Jonathan, and Carbin, Michael. (2019). ["The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks."](https://arxiv.org/abs/1803.03635) International Conference on Learning Representations.
+
+[5]: Molchanov, Pavlo, et al. (2017). ["Variational Dropout Sparsifies Deep Neural Networks."](https://arxiv.org/abs/1701.05369) International Conference on Machine Learning.
+
+[6]: Li, Hao, et al. (2017). ["Pruning Filters for Efficient ConvNets."](https://arxiv.org/abs/1608.08710) International Conference on Learning Representations.
+
+[7]: Liu, Zhuang, et al. (2019). ["Rethinking the Value of Network Pruning."](https://arxiv.org/abs/1810.05270) International Conference on Learning Representations.

@@ -1,7 +1,7 @@
 ---
 title: Understanding Spatial Pooling in Convolutional Neural Networks
-description: Spatial Pooling optimizes CNN efficiency by reducing data size and highlighting
-  key image features for fast, robust recognition Discover more inside
+description: Spatial pooling reduces feature map size while preserving critical image
+  patterns so CNNs run faster and handle variations with ease Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -81,3 +81,15 @@ Another variation is "overlapping pooling," where the pooling regions overlap ea
 Spatial pooling makes neural networks more computationally efficient by reducing the size of the data they need to process. Imagine you have a big picture and you want to make it smaller but still keep the important parts. Spatial pooling does this by taking small sections of the picture and turning them into a single value, like finding the biggest number in a group of numbers. This makes the data smaller, so the computer can process it faster and use less memory. For example, if you use a 2x2 pooling window with a stride of 2, you can reduce the size of the feature map by half in each dimension, which means the network has to handle much less data. This can be really helpful when working with big datasets or when you want the model to run quickly.
 
 The performance of a neural network can also improve with spatial pooling because it helps the model focus on the most important features in the data. By picking out the biggest or average values in each small section, spatial pooling helps the network recognize patterns like edges or shapes, even if the image changes a little bit. This makes the model more robust and better at generalizing to new data. However, if the pooling window is too big or the stride is too large, the model might lose important details that are spread out over smaller areas. So, choosing the right size and stride for spatial pooling is a balance between keeping enough detail to recognize what's in the image and making the model efficient enough to work quickly.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Communications of the ACM, 60(6), 84-90.
+
+[3]: O'Shea, K., & Nash, R. (2015). ["An Introduction to Convolutional Neural Networks."](https://arxiv.org/abs/1511.08458) arXiv preprint arXiv:1511.08458.
+
+[4]: Scherer, D., Müller, A., & Behnke, S. (2010). ["Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition."](https://link.springer.com/chapter/10.1007/978-3-642-15825-4_10) Proceedings of the International Conference on Artificial Neural Networks (ICANN), Part III. 
+
+[5]: Zeiler, M. D., & Fergus, R. (2014). ["Visualizing and Understanding Convolutional Networks."](https://arxiv.org/abs/1311.2901) European Conference on Computer Vision (ECCV).

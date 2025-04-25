@@ -102,3 +102,19 @@ Using PER also means the agent can learn from the most useful experiences more o
 Recent research in deep reinforcement learning has focused on improving the efficiency and effectiveness of Replay Buffers. One key development is the introduction of techniques like Hindsight Experience Replay (HER), which allows agents to learn from failed experiences by re-labeling them as successful outcomes. For instance, if an agent fails to reach a goal, HER can treat the state it ended up in as the new goal, helping the agent learn from what it did achieve. Another advancement is the use of Episodic Replay Buffers, which store entire episodes rather than individual transitions. This approach helps the agent learn from sequences of actions and rewards, providing a more comprehensive understanding of the environment.
 
 Another significant development is the integration of Replay Buffers with meta-learning algorithms. Researchers have explored how Replay Buffers can be used to store experiences from multiple tasks, allowing agents to quickly adapt to new tasks by drawing on past experiences. This has led to the development of techniques like Meta-Experience Replay, where the agent can use a shared Replay Buffer across different tasks to improve its learning efficiency. These advancements show that Replay Buffers continue to be a crucial tool in deep reinforcement learning, with ongoing research aimed at enhancing their capabilities to handle more complex and dynamic environments.
+
+## References & Further Reading
+
+[1]: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). ["Playing Atari with Deep Reinforcement Learning."](https://arxiv.org/abs/1312.5602) arXiv preprint arXiv:1312.5602.
+
+[2]: Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2015). ["Prioritized Experience Replay."](https://arxiv.org/abs/1511.05952) arXiv preprint arXiv:1511.05952.
+
+[3]: Andrychowicz, M., Wolski, F., Ray, A., Schneider, J., Fong, R., Welinder, P., ... & Zaremba, W. (2017). ["Hindsight Experience Replay."](https://arxiv.org/abs/1707.01495) arXiv preprint arXiv:1707.01495.
+
+[4]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). ["Continuous Control with Deep Reinforcement Learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.
+
+[5]: Zhang, S., & Sutton, R. S. (2017). ["A Deeper Look at Experience Replay."](https://arxiv.org/abs/1712.01275) arXiv preprint arXiv:1712.01275.
+
+[6]: van Hasselt, H., Guez, A., & Silver, D. (2015). ["Deep Reinforcement Learning with Double Q-learning."](https://arxiv.org/abs/1509.06461) arXiv preprint arXiv:1509.06461.
+
+[7]: Lin, L.-J. (1992). ["Self-improving reactive agents based on reinforcement learning, planning and teaching."](https://link.springer.com/article/10.1007/BF00992699) Machine Learning, 8(3-4), 293-321.

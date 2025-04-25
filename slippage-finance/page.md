@@ -1,6 +1,7 @@
 ---
-title: "Slippage in Finance"
-description: "Explore the concept of slippage in finance and algorithmic trading where the difference between projected and actual trade prices can impact trading strategies especially during market volatility or low liquidity Learn about its causes in different markets its effects on execution price and strategies to minimize slippage to optimize trading outcomes"
+title: Understanding Slippage in Finance and Trading Strategies
+description: Slippage in finance occurs when trade prices deviate from expectations
+  due to market volatility and liquidity constraints Discover more inside
 ---
 
 

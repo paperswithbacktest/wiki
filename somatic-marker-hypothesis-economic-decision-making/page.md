@@ -1,6 +1,7 @@
 ---
-title: "Somatic Marker Hypothesis in Economic Decision-Making"
-description: "Explore how the Somatic Marker Hypothesis enhances economic decision-making and algorithmic trading by utilizing emotions and physiological responses as essential guides."
+title: Somatic Marker Hypothesis in Economic Decision Making
+description: Somatic Marker Hypothesis explains how our emotions and bodily signals
+  guide faster economic choices based on past experiences. Discover more inside.
 ---
 
 

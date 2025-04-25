@@ -79,3 +79,17 @@ Another significant finding comes from the application of fairness-aware algorit
 Organizations can implement ongoing monitoring and adjustment strategies to manage Out-Group Homogeneity Bias by regularly checking how their machine learning models perform across different groups. They can do this by using fairness metrics to see if the model treats all groups fairly. If the model makes more mistakes with certain groups or treats everyone in a group as if they are the same, it might be showing Out-Group Homogeneity Bias. To fix this, the organization can add more diverse data to the training set or adjust the model to pay more attention to under-represented groups. By doing this regularly, they can keep the model fair and accurate for everyone.
 
 Another important strategy is to have a team dedicated to monitoring and updating the model. This team can use tools that automatically check for bias and send alerts if they find any issues. They can also keep adding new data from different groups to the training set to make sure the model keeps learning about everyone's unique features. By staying proactive and continuously working on the model, organizations can reduce Out-Group Homogeneity Bias and make sure their machine learning systems are fair and effective for all users.
+
+## References & Further Reading
+
+[1]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://dl.acm.org/doi/abs/10.1145/3457607) ACM Computing Surveys.
+
+[2]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) fairmlbook.org. 
+
+[3]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) Conference on Fairness, Accountability, and Transparency.
+
+[4]: Suresh, H., & Guttag, J. V. (2019). ["A Framework for Understanding Unintended Consequences of Machine Learning."](https://arxiv.org/abs/1901.10002) Communications of the ACM.
+
+[5]: Bolukbasi, T., Chang, K. W., Zou, J. Y., Saligrama, V., & Kalai, A. T. (2016). ["Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings."](https://arxiv.org/abs/1607.06520) Advances in Neural Information Processing Systems.
+
+[6]: Raji, I. D., & Buolamwini, J. (2019). ["Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products."](https://www.media.mit.edu/publications/actionable-auditing-investigating-the-impact-of-publicly-naming-biased-performance-results-of-commercial-ai-products/) Conference on Fairness, Accountability, and Transparency.

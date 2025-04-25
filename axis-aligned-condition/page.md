@@ -175,3 +175,15 @@ Axis-Aligned Conditions have been used in many real-world machine learning probl
 In the finance industry, Axis-Aligned Conditions have been used to detect fraud in credit card transactions. By looking at one feature at a time, like the amount of the transaction or the location of the purchase, decision trees can quickly flag suspicious activities. A bank found that using these conditions helped them catch more fraud cases than before, and the system was fast enough to work in real-time. Even though the conditions were simple, they were effective because they focused on the most important features that often indicate fraud.
 
 Overall, Axis-Aligned Conditions have proven to be valuable in real-world applications because they are easy to understand and quick to compute. While they might not capture every detail in complex data, their simplicity and effectiveness make them a popular choice in many fields.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[2]: Breiman, L., Friedman, J., Stone, C.J., & Olshen, R.A. (1984). ["Classification and Regression Trees."](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-olshen-charles-stone) Chapman and Hall/CRC.
+
+[3]: Quinlan, J.R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81-106.
+
+[4]: Geurts, P., Ernst, D., & Wehenkel, L. (2006). ["Extremely Randomized Trees."](https://link.springer.com/article/10.1007/s10994-006-6226-1) Machine Learning, 63(1), 3-42.
+
+[5]: Loh, W.-Y. (2014). ["Fifty Years of Classification and Regression Trees."](https://onlinelibrary.wiley.com/doi/full/10.1111/insr.12016) International Statistical Review, 82(3).

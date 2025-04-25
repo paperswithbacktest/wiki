@@ -88,3 +88,17 @@ Another important part of evaluating a training set is checking for balance and 
 Advanced techniques to enhance learning from a training set include transfer learning and ensemble methods. Transfer learning is when you use a model that has already been trained on a big dataset and then fine-tune it for your specific task. For example, if you want to teach a model to recognize different types of birds, you can start with a model that knows how to recognize animals in general. Then, you show it lots of bird pictures and teach it to focus on what makes birds different from other animals. This can save time and help the model learn better because it already knows some things about animals.
 
 Ensemble methods are another advanced technique where you use more than one model to make better predictions. Instead of relying on just one model, you can train several models and let them vote on what the answer should be. For example, if you have three models trying to guess whether a picture shows a cat or a dog, and two of them say it's a cat while one says it's a dog, the final guess would be a cat. This can make the predictions more accurate because different models might be good at different things, and together they can do a better job.
+
+## References & Further Reading
+
+[1]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Shalev-Shwartz, S., & Ben-David, S. (2014). ["Understanding Machine Learning: From Theory to Algorithms"](https://assets.cambridge.org/97811070/57135/frontmatter/9781107057135_frontmatter.pdf). Cambridge University Press.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[5]: Dietterich, T. G. (2000). ["Ensemble Methods in Machine Learning"](https://link.springer.com/chapter/10.1007/3-540-45014-9_1). In Multiple Classifier Systems (pp. 1-15). Springer, Berlin, Heidelberg. 
+
+[6]: Brownlee, J. (2020). ["Data Preparation for Machine Learning: Data Cleaning, Feature Selection, and Data Transforms in Python"](https://machinelearningmastery.com/data-preparation-for-machine-learning/). Machine Learning Mastery.

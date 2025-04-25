@@ -81,3 +81,19 @@ The key difference is that transfer learning is a broader concept, while fine-tu
 One advanced technique to optimize fine-tuning is called "layer-wise learning rate decay." This means you use different learning rates for different parts of the model. The parts of the model that were trained first on the big dataset get a smaller learning rate, so they don't change too much. The parts at the end of the model, which are more focused on your specific task, get a bigger learning rate, so they can learn the new task quickly. This helps the model keep what it learned before while getting better at the new task.
 
 Another technique is "gradual unfreezing." When you start fine-tuning, you might only let the last few layers of the model change. After a while, you can start letting more layers change, one at a time. This way, the model can slowly adjust to the new task without forgetting too much. It's like slowly teaching a student new things without overwhelming them. By using these advanced techniques, you can make sure the model learns the new task well without losing its old knowledge.
+
+## References & Further Reading
+
+[1]: Howard, J., & Gugger, S. (2020). ["Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD"](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/). O'Reilly Media.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Tan, M., & Le, Q. V. (2019). ["EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."](https://arxiv.org/abs/1905.11946) arXiv:1905.11946.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv:1810.04805.
+
+[5]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) arXiv:1512.03385.
+
+[6]: Goodfellow, I., Shlens, J., & Szegedy, C. (2015). ["Explaining and Harnessing Adversarial Examples."](https://arxiv.org/abs/1412.6572) arXiv:1412.6572.
+
+[7]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI.

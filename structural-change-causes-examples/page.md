@@ -1,6 +1,7 @@
 ---
-title: "Structural Change: Causes and Examples"
-description: "Discover the transformative forces of structural change and economic evolution in the context of modern finance with this comprehensive article. Explore how algorithmic trading is revolutionizing markets by enhancing efficiency and liquidity, acting as a key driver of economic transformation. Gain insightful perspectives on the causes and examples of structural changes, their impact on various industries, and the opportunities they present in today's dynamic economic landscape. Unravel the intricate interplay between market dynamics, technological advancements, and regulatory shifts to better understand and navigate future challenges and opportunities in the global economy."
+title: Understanding Structural Change in Economic Development
+description: Structural change in economics maps economies from farming to industry
+  and services via shifts in technology policy and consumer needs Discover more inside
 ---
 
 

@@ -85,3 +85,19 @@ Another advancement is in handling really big datasets. People have come up with
 Domain-specific knowledge plays a big role in making re-ranking strategies better. When you know a lot about a certain topic, like medicine or cooking, you can use that information to make the search results more useful. For example, if someone searches for "heart disease symptoms," a re-ranking system with medical knowledge can put the most important and accurate information at the top of the list. This makes sure that people get the right information quickly, which is really important in fields where accuracy matters a lot.
 
 In other areas like e-commerce, knowing about what products people usually buy together can help re-rank items. If someone is looking for a camera, the system can use knowledge about photography to suggest the best lenses or accessories that go with that camera. By using this kind of specific knowledge, re-ranking can make the results more relevant and helpful to the user, making their search experience better overall.
+
+## References & Further Reading
+
+[1]: Burges, C. J. C., Shaked, T., Renshaw, E., Lazier, A., Deeds, M., Hamilton, N., & Hullender, G. (2005). ["Learning to Rank Using Gradient Descent."](https://dl.acm.org/doi/10.1145/1102351.1102363) Proceedings of the 22nd International Conference on Machine Learning.
+
+[2]: Xu, J., & Li, H. (2007). ["AdaRank: A Boosting Algorithm for Information Retrieval."](https://dl.acm.org/doi/10.1145/1277741.1277809) Proceedings of the 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval.
+
+[3]: Liu, T.-Y. (2009). ["Learning to Rank for Information Retrieval."](https://ieeexplore.ieee.org/abstract/document/8186875) Found. Trends Inf. Retr., 3(3), 225–331.
+
+[4]: Joachims, T. (2002). ["Optimizing Search Engines Using Clickthrough Data."](https://www.cs.cornell.edu/people/tj/publications/joachims_02c.pdf) Proceedings of the 8th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[5]: Rendle, S., & Freudenthaler, C., & Gantner, Z., & Schmidt-Thieme, L. (2009). ["BPR: Bayesian Personalized Ranking from Implicit Feedback."](https://arxiv.org/abs/1205.2618) Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence.
+
+[6]: Tie-Yan Liu. (2011). ["Learning to Rank for Information Retrieval and Natural Language Processing."](https://link.springer.com/content/pdf/10.1007/978-3-642-14267-3.pdf) Springer.
+
+[7]: Ricci, F., Rokach, L., & Shapira, B. (Eds.). (2011). ["Recommender Systems Handbook."](https://link.springer.com/book/10.1007/978-1-0716-2197-4) Springer.

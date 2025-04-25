@@ -81,3 +81,15 @@ However, TPUs are not always the cheapest option. They are specialized hardware,
 In the future, we can expect TPUs to become even more powerful and efficient for machine learning applications. As technology advances, TPUs will likely have more processing power and memory, allowing them to handle even bigger and more complex models. This could mean faster training times for huge models like those used in natural language processing or image recognition. Researchers and companies might be able to train models with billions or even trillions of parameters much quicker than they can now, leading to more advanced AI systems.
 
 Another area of development could be in the networking capabilities of TPUs. As more TPUs are connected together in pods or other configurations, they can work together more efficiently on a single task. This could make it possible to train very large models across many TPUs at the same time, speeding up the process even more. These advancements will help push the field of machine learning forward, making it easier and faster to develop new and better AI applications.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., Patterson, D., & Agrawal, G. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://ieeexplore.ieee.org/abstract/document/8192463) Proceedings of the 44th Annual International Symposium on Computer Architecture.
+
+[2]: ["Domain Specific Architectures: The Fourth Paradigm"](https://en.wikipedia.org/wiki/Domain-specific_architecture) by David Patterson. IEEE Computer Society.
+
+[3]: ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Systems"](https://arxiv.org/abs/1603.04467) by Martín Abadi, Ashish Agarwal, Paul Barham, et al. This is the official documentation and research papers on TensorFlow, a popular machine learning framework compatible with TPUs.
+
+[4]: ["Efficient Processing of Deep Neural Networks"](https://link.springer.com/book/10.1007/978-3-031-01766-7) by Vivienne Sze, Yu-Hsin Chen, Tien-Ju Yang, Joel Emer. This book discusses the hardware and architectural considerations for processing deep neural networks efficiently.
+
+[5]: ["Google Cloud TPUs: better performance for smaller workloads, public notebook support"](https://cloud.google.com/tpu?hl=en) by Google Cloud Team. An overview of the practical implementation and use cases of TPUs in Google Cloud.

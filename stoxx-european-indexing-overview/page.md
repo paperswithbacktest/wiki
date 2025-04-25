@@ -1,6 +1,7 @@
 ---
-title: "STOXX European Indexing Overview"
-description: "Discover the STOXX European Indexing overview which highlights key insights into robust indices like Euro STOXX 50 and the role of algo trading."
+title: Understanding the STOXX European Index And Its Components
+description: STOXX European Index shows market cap weighting components sector allocations
+  rebalancing and ESG factors to guide investment choices Discover more inside
 ---
 
 

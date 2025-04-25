@@ -79,3 +79,19 @@ Another important advancement is the integration of multi-modal inputs, where th
 Dialog Adaptation can be integrated with other AI technologies like natural language processing (NLP) and machine learning to make conversations better. NLP helps the system understand what the user is saying by breaking down the words and figuring out the meaning. When this is combined with Dialog Adaptation, the system can not only understand the user better but also respond in a way that fits the user's style and interests. For example, if a user often talks about sports, the system can use NLP to understand sports terms and adapt its responses to be more sports-focused. Machine learning helps the system learn from past conversations, so it gets better at predicting what the user might want next.
 
 Another way to enhance conversational experiences is by integrating Dialog Adaptation with voice recognition and sentiment analysis. Voice recognition lets the system understand spoken words, making it easier for users to talk to the AI without typing. When combined with Dialog Adaptation, the system can pick up on the user's tone of voice and adapt its responses to sound more natural and friendly. Sentiment analysis can tell if the user is happy, sad, or frustrated, and the system can then adjust its responses to match the user's mood. By working together, these technologies make the conversation feel more like talking to a real person who knows you well and cares about how you feel.
+
+## References & Further Reading
+
+[1]: Chen, Y. N., Zhu, F., & Rudnicky, A. I. (2011). ["An ensemble approach to user simulation for Dialog Strategy Learning."](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201404357) Proceedings of the SIGDIAL 2011 Conference.
+
+[2]: Li, J., Monroe, W., Shi, T., Jean, S., Ritter, A., & Jurafsky, D. (2017). ["Adversarial Learning for Neural Dialogue Generation."](https://arxiv.org/abs/1701.06547) arXiv preprint arXiv:1701.06547.
+
+[3]: Vinyals, O., & Le, Q. (2015). ["A neural conversational model."](https://arxiv.org/abs/1506.05869) arXiv preprint arXiv:1506.05869.
+
+[4]: Gao, J., Galley, M., & Li, L. (2018). ["Neural Approaches to Conversational AI."](https://aclanthology.org/P18-5002/) ACM SIGKDD Explorations Newsletter, 19(1), 25-35.
+
+[5]: Serban, I. V., Sordoni, A., Bengio, Y., Courville, A. C., & Pineau, J. (2016). ["Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models."](https://dl.acm.org/doi/10.5555/3016387.3016435) Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence.
+
+[6]: Williams, J. D., & Zweig, G. (2016). ["End-to-End LSTM-based Dialog Control Optimized with Supervised and Reinforcement Learning."](https://arxiv.org/abs/1606.01269) arXiv preprint arXiv:1606.01269.
+
+[7]: Young, S., Gašić, M., Thomson, B., & Williams, J. D. (2013). ["POMDP-based statistical spoken dialog systems: A review."](https://ieeexplore.ieee.org/document/6407655) Proceedings of the IEEE, 101(5), 1160-1179.

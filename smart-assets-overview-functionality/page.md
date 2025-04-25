@@ -1,6 +1,7 @@
 ---
-title: "Smart Assets: Overview and Functionality"
-description: "Explore the transformative world of digital assets with blockchain technology smart assets and algorithmic trading revolutionizing modern finance and investment."
+title: Smart Assets Technology Trends for Effective Asset Management
+description: Smart assets harness IoT RFID and blockchain for real time tracking,
+  monitoring and maintenance to optimize asset performance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "S&P GSCI: Commodity Types and Drawbacks"
-description: "Explore the advantages and challenges of investing in the S&P GSCI commodity index through algorithmic trading. Understand risks and manage portfolios effectively."
+title: Comprehensive Guide to the S&P GSCI Commodity Index for Investors
+description: S&P GSCI delivers a clear view of commodity trends by weighting energy
+  and diverse sectors and highlighting benefits and risks. Discover more inside.
 ---
 
 

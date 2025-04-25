@@ -85,3 +85,15 @@ You can also use transfer learning to enhance FFNs. Transfer learning means usin
 Feedforward Neural Networks (FFNs) are good at many tasks, but they can struggle with data that comes in sequences, like words in a sentence or stock prices over time. For these kinds of tasks, Recurrent Neural Networks (RNNs) are better because they can remember past inputs. An RNN uses loops to keep track of what it has seen before, which helps it understand the order of things in a sequence. For example, if you're trying to predict the next word in a sentence, an RNN can use the context of the previous words to make a better guess. FFNs, on the other hand, treat each input independently and can't use past information, so they're not as good at understanding sequences.
 
 When it comes to handling images or other grid-like data, Convolutional Neural Networks (CNNs) are usually better than FFNs. CNNs use special layers called convolutional layers that apply filters to the input data, which helps them detect features like edges or textures in images. This makes them very good at tasks like image recognition, where they can learn to tell the difference between different objects in a picture. FFNs don't have these specialized layers, so they're not as efficient at processing images. They can still do the job, but they might need more data and more time to learn, and they might not perform as well as a CNN.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning representations by back-propagating errors."](https://www.nature.com/articles/323533a0) Nature, 323(6088), 533-536.
+
+[3]: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-Based Learning Applied to Document Recognition."](https://ieeexplore.ieee.org/document/726791) Proceedings of the IEEE, 86(11), 2278-2324.
+
+[4]: Haykin, S. (1998). ["Neural Networks: A Comprehensive Foundation"](https://archive.org/details/neuralnetworksco0000hayk_2ed). Prentice Hall.
+
+[5]: Nielsen, M. A. (2015). ["Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/). Determination Press.

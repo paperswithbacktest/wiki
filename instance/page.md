@@ -79,3 +79,19 @@ Another approach is to use different weights for different instances during trai
 Multi-instance learning is a type of machine learning where instead of looking at one example at a time, the computer looks at groups of examples, called bags. Each bag can have many instances inside it, and the computer tries to learn from these bags to make predictions. Imagine you're trying to find out if a person is sick based on their medical tests. Each bag could be all the test results for one person, and the computer looks at all the tests together to decide if the person is sick or not. This is useful when you want to understand the bigger picture from many small pieces of information.
 
 In real life, multi-instance learning can be used in many ways. For example, in drug discovery, scientists might want to know if a new drug works well. They test the drug on many different cells, and each cell is an instance. By looking at all the cells together (the bag), they can see if the drug helps overall. Another use is in image classification, where one image might have many different parts. The computer looks at all the parts of the image to decide what the whole image is about. This helps the computer make better guesses by considering all the pieces together, not just one at a time.
+
+## References & Further Reading
+
+[1]: Mitchell, T. M. (1997). ["Machine Learning."](https://www.cs.cmu.edu/~tom/mlbook.html) McGraw-Hill Education.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Aggarwal, C. C. (2015). ["Data Mining: The Textbook."](https://link.springer.com/book/10.1007/978-3-319-14142-8) Springer.
+
+[4]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow."](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ) O'Reilly Media.
+
+[5]: Zhang, L., & Zhou, Z.-H. (2014). ["A Review on Multi-Instance Learning Algorithms."](https://ieeexplore.ieee.org/document/6471714) ACM Computing Surveys 46(2), 10:1–10:39.
+
+[6]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.
+
+[7]: Luke, S. (2013). ["Essentials of Metaheuristics (Second Edition)."](https://cs.gmu.edu/~sean/book/metaheuristics/Essentials.pdf) Lulu.

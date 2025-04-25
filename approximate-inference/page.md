@@ -83,3 +83,21 @@ Another challenge with CSGLD is that it can be hard to keep track of the randomn
 To evaluate the performance of different approximate inference methods in a machine learning model, you need to look at how well they find the right answers and how fast they do it. Imagine you're trying to guess the number of jelly beans in a jar. One method might give you a very close guess but take a long time, while another might be quicker but not as accurate. In machine learning, we measure this by comparing the results of the approximate methods to the true values or to results from exact methods if we can get them. We use metrics like the mean squared error or the Kullback-Leibler divergence to see how close the approximate results are to the true ones. If we can't get exact results, we might compare different approximate methods to each other to see which one does better.
 
 Another important part of evaluating these methods is checking how much computer power they need. Some methods might be very accurate but use a lot of memory or take a long time to run. Others might be faster but less accurate. We need to find a good balance between speed and accuracy. To do this, we might run the methods on different computers or with different amounts of data to see how they perform. By looking at both the accuracy and the computational cost, we can decide which method is best for our specific problem.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://mitpress.mit.edu/9780262018029/machine-learning/) MIT Press.
+
+[3]: Neal, R. M. (2011). ["MCMC Using Hamiltonian Dynamics."](https://arxiv.org/abs/1206.1901) Handbook of Markov Chain Monte Carlo, CRC Press.
+
+[4]: Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). ["Variational Inference: A Review for Statisticians."](https://arxiv.org/abs/1601.00670) Journal of the American Statistical Association.
+
+[5]: Gilks, W. R., Richardson, S., & Spiegelhalter, D. J. (Eds.). (1995). ["Markov Chain Monte Carlo in Practice."](https://www.taylorfrancis.com/books/mono/10.1201/b14835/markov-chain-monte-carlo-practice-david-spiegelhalter-gilks-richardson) Chapman and Hall/CRC.
+
+[6]: MacKay, D. J. C. (2003). ["Information Theory, Inference, and Learning Algorithms."](https://assets.cambridge.org/97805216/42989/frontmatter/9780521642989_frontmatter.pdf) Cambridge University Press.
+
+[7]: Gelman, A., Roberts, G. O., & Gilks, W. R. (1996). ["Efficient Metropolis Jumping Rules."](https://academic.oup.com/book/54042/chapter/422210114) Bayesian Statistics.
+
+[8]: Andrieu, C., & Thoms, J. (2008). ["A Tutorial on Adaptive MCMC."](https://link.springer.com/article/10.1007/s11222-008-9110-y) Statistics and Computing.

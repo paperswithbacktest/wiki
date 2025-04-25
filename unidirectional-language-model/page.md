@@ -81,3 +81,17 @@ Another advancement is the increase in model size and training data. Bigger mode
 To fine-tune a unidirectional language model for a specific task, you start with a model that has already been trained on a large amount of text. This model has learned a lot about language in general. Now, you want it to be good at a specific task, like answering questions or translating text. You do this by giving the model more training, but this time, you use text that is related to the task you want it to do. For example, if you want the model to help with customer service, you would train it on customer service chats and emails. During this fine-tuning, you adjust the model's weights to make it better at the new task. The formula for updating the weights during fine-tuning is $$ w_{\text{new}} = w_{\text{old}} - \eta \nabla L $$, where $$ w_{\text{old}} $$ are the old weights, $$ \eta $$ is the learning rate, and $$ \nabla L $$ is the gradient of the loss function.
 
 Fine-tuning can be done in different ways. One way is to add a new layer on top of the pre-trained model that is specifically designed for the task you want to do. This new layer learns to use the information from the pre-trained model in a way that is best for your task. Another way is to keep the model as it is but train it more on your specific data. This is called "full fine-tuning." You might also choose to only update some of the weights, a method known as "partial fine-tuning." This can be faster and might work just as well. No matter which method you use, the goal is to make the model perform better on your specific task without losing the general language skills it learned before.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[3]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://www.semanticscholar.org/paper/Improving-Language-Understanding-by-Generative-Radford-Narasimhan/cd18800a0fe0b668a1cc19f2ec95b5003d0a5035) OpenAI.
+
+[4]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Morgan & Claypool Publishers.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://ieeexplore.ieee.org/abstract/document/6795963) Neural Computation.

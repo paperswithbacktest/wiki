@@ -81,3 +81,19 @@ To find this balance, people use different techniques. One way is to adjust the 
 Recent research in machine learning has focused on improving how we measure and achieve Equality of Opportunity. One key development is the use of more advanced fairness metrics that go beyond just looking at the true positive rate, or $$TPR_A = TPR_B$$, for different groups. Researchers are now exploring ways to combine multiple fairness metrics to get a fuller picture of how fair a model is. For example, they might look at both the true positive rate and the false positive rate to make sure the model is fair in both giving out good outcomes and avoiding bad ones. Another important area of research is in developing new algorithms that can balance fairness with accuracy better. These algorithms often use techniques like adversarial training, where one part of the model tries to make accurate predictions while another part tries to find and fix any unfairness.
 
 Looking to the future, there are several exciting directions for research on Equality of Opportunity in machine learning. One direction is to make fairness more personalized, so the model can treat each person fairly based on their unique situation, not just their group identity. This could help make models even more fair and useful for everyone. Another future direction is to develop better ways to explain why a model made a certain decision, which can help us understand and fix any unfairness. Finally, as machine learning is used more and more in important areas like healthcare and finance, researchers will need to keep working on ways to make sure these models are both fair and accurate, so everyone has the same chance to benefit from them.
+
+## References & Further Reading
+
+[1]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29.
+
+[2]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) A book draft available online.
+
+[3]: Pleiss, G., Raghavan, M., Wu, F., Kleinberg, J., & Weinberger, K. Q. (2017). ["On Fairness and Calibration."](https://arxiv.org/abs/1709.02012) Advances in Neural Information Processing Systems 30.
+
+[4]: Zafar, M. B., Valera, I., Gomez Rodriguez, M., & Gummadi, K. (2017). ["Fairness Constraints: Mechanisms for Fair Classification."](https://arxiv.org/abs/1507.05259) Proceedings of the 20th International Conference on Artificial Intelligence and Statistics.
+
+[5]: Chouldechova, A., & Roth, A. (2018). ["The Frontiers of Fairness in Machine Learning."](https://arxiv.org/abs/1810.08810) Proceedings of the 20th International Conference on Artificial Intelligence and Statistics.
+
+[6]: Verma, S., & Rubin, J. (2018). ["Fairness Definitions Explained."](https://dl.acm.org/doi/10.1145/3194770.3194776) arXiv preprint arXiv:1802.04889.
+
+[7]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://dl.acm.org/doi/abs/10.1145/3457607) ACM Computing Surveys.

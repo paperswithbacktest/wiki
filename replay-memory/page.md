@@ -106,3 +106,15 @@ One advanced technique to optimize Replay Memory is using Prioritized Experience
 Another technique is using Hindsight Experience Replay (HER). HER is useful when the agent often fails to reach its goal. It lets the agent learn from failed experiences by changing the goal of those experiences after the fact. For example, if a robot was trying to reach a red ball but ended up at a blue ball instead, HER would treat that experience as if the goal was to reach the blue ball. This way, the agent can learn something useful even from failed attempts. By adding these modified experiences to the Replay Memory, the agent can learn more efficiently and adapt to different situations better.
 
 A third technique involves using different types of Replay Memory for different parts of the learning process. For instance, you can use a smaller buffer for short-term learning and a larger buffer for long-term learning. The smaller buffer helps the agent quickly adapt to recent changes in the environment, while the larger buffer helps it learn from a wider range of experiences over time. By managing multiple buffers, the agent can balance the need for quick adaptation with the need for stable, long-term learning. This approach can be particularly useful in complex environments where the agent needs to handle both immediate and long-term challenges.
+
+## References & Further Reading
+
+[1]: Lin, L.-J. (1992). ["Self-improving reactive agents based on reinforcement learning, planning, and teaching."](https://link.springer.com/article/10.1007/BF00992699) Machine Learning, 8(3-4), 293-321.
+
+[2]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[3]: Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2016). ["Prioritized Experience Replay."](https://arxiv.org/abs/1511.05952) arXiv preprint arXiv:1511.05952.
+
+[4]: Van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep Reinforcement Learning with Double Q-learning."](https://arxiv.org/abs/1509.06461) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 30, No. 1).
+
+[5]: Andrychowicz, M., Wolski, F., Ray, A., Schneider, J., Fong, R., Welinder, P., ... & Zaremba, W. (2017). ["Hindsight Experience Replay."](https://arxiv.org/abs/1707.01495) Advances in Neural Information Processing Systems.

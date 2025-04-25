@@ -81,3 +81,19 @@ To calibrate the model, doctors can use methods like Platt scaling or isotonic r
 Recent research in confidence calibration has focused on developing new methods that work better with complex models like deep neural networks. One exciting advancement is the use of Bayesian neural networks, which naturally give a sense of uncertainty with their predictions. Researchers have found that these networks can be better calibrated right from the start compared to regular neural networks. They do this by using a technique called Monte Carlo dropout, which helps the model give more reliable confidence scores. Another interesting approach is called Dirichlet calibration, which uses a special kind of distribution to adjust the model's confidence. This method can handle more complex data and give better results than older methods like Platt scaling or isotonic regression.
 
 Another area of research is about making calibration easier and more automatic. Some researchers are working on methods that can calibrate a model without needing a special set of data. One such method is called adaptive calibration, which adjusts the model's confidence scores while it's learning. This can be really helpful because it means you don't need to spend extra time and effort on calibration after the model is trained. There's also research into using temperature scaling in a more flexible way. Instead of using one temperature for the whole model, researchers are trying different temperatures for different parts of the model. This can make the model's confidence scores even more accurate and trustworthy.
+
+## References & Further Reading
+
+[1]: Niculescu-Mizil, A., & Caruana, R. (2005). ["Predicting Good Probabilities with Supervised Learning."](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf) Proceedings of the 22nd International Conference on Machine Learning (ICML).
+
+[2]: Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017). ["On Calibration of Modern Neural Networks."](https://arxiv.org/abs/1706.04599) Proceedings of the 34th International Conference on Machine Learning (ICML).
+
+[3]: Zadrozny, B., & Elkan, C. (2002). ["Transforming Classifier Scores into Accurate Multiclass Probability Estimates."](https://dl.acm.org/doi/10.1145/775047.775151) Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[4]: Platt, J. (1999). ["Probabilities for SV Machines."](https://www.researchgate.net/publication/233784966_Probabilities_for_SV_Machines) In Advances in Large Margin Classifiers (pp. 61-74). MIT Press.
+
+[5]: Kull, M., Silva Filho, T. S., & Flach, P. (2017). ["Beta Calibration: a well-founded and easily implemented improvement on logistic calibration for binary classifiers."](https://proceedings.mlr.press/v54/kull17a.html) Artificial Intelligence.
+
+[6]: Lakshminarayanan, B., Pritzel, A., & Blundell, C. (2017). ["Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles."](https://dl.acm.org/doi/10.5555/3295222.3295387) Advances in Neural Information Processing Systems 30.
+
+[7]: Kumar, A., Liang, P. S., & Ma, T. (2019). ["Verified Uncertainty Calibration."](https://arxiv.org/abs/1909.10155) Proceedings of the 36th International Conference on Machine Learning (ICML).

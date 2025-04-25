@@ -79,3 +79,15 @@ Using Log Loss for multi-class problems helps the model learn to give good chanc
 To optimize a model to minimize Log Loss, you need to make the model's guesses as close as possible to the actual outcomes. This means adjusting the model so that when it predicts a high chance for something that happens, it gets a small penalty. The formula for Log Loss for one guess is $$-\left[y \cdot \log(p) + (1 - y) \cdot \log(1 - p)\right]$$, where $y$ is 1 if the thing happens and 0 if it doesn't, and $p$ is your guessed chance. By tweaking the model's parameters, like weights in a [neural network](/wiki/neural-network) or coefficients in a logistic regression, you can make the model's guesses more accurate. This process often involves using an optimization algorithm like gradient descent, which adjusts the parameters to minimize the Log Loss.
 
 During training, you feed the model lots of examples and calculate the Log Loss for each guess. Then, you use the average Log Loss to guide the optimization. If the Log Loss is high, it means the model's guesses are off, so you adjust the parameters to lower the Log Loss. This might involve changing the learning rate or the number of training iterations to find the best balance. Over time, as the model learns from its mistakes, the Log Loss should get smaller, meaning the model is getting better at predicting the right chances. This approach helps the model not just guess right, but be confident when it's right, which is super important in many situations like medical diagnoses or fraud detection.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). The MIT Press.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[4]: Brier, G. W. (1950). ["Verification of forecasts expressed in terms of probability"](https://journals.ametsoc.org/view/journals/mwre/78/1/1520-0493_1950_078_0001_vofeit_2_0_co_2.xml). Monthly Weather Review, 78(1), 1-3.
+
+[5]: ["The Cross-Entropy Method: A Unified Approach to Combinatorial Optimization, Monte-Carlo Simulation and Machine Learning"](https://link.springer.com/book/10.1007/978-1-4757-4321-0) by Reuven Y. Rubinstein and Dirk P. Kroese.

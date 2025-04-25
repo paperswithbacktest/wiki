@@ -85,3 +85,23 @@ Another challenge is making sure the models work well for everyone. When you tra
 In the future, representation learning could become even better at understanding all kinds of data, like pictures, words, and sounds, all at the same time. Imagine a computer that can watch a movie and understand the story just like a person does. This could happen by making models that learn from different types of data together, not just one at a time. These models might use new ways to turn data into numbers, called embeddings, that show how different things are related. For example, a model could learn that the word "dog" goes with the sound of a dog barking and a picture of a dog, all at once. This could help computers do things like translate languages better, understand videos, or even help people who can't see or hear.
 
 Another big step forward could be making representation learning models work well with less data and less powerful computers. Right now, these models need a lot of examples to learn from, which can be hard to get. But in the future, new methods might let computers learn from smaller sets of data. This would make it easier and cheaper to use these models in more places, like on phones or in small businesses. Also, scientists might find new ways to make these models learn faster and use less energy. This could help make technology more friendly to the environment and more accessible to everyone.
+
+## References & Further Reading
+
+[1]: Bengio, Y., Courville, A., & Vincent, P. (2013). ["Representation Learning: A Review and New Perspectives."](https://ieeexplore.ieee.org/document/6472238) Journal of Machine Learning Research, 14, 1799-1850.
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[5]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI.
+
+[6]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[7]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[8]: Dosovitskiy, A., et al. (2021). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) arXiv preprint arXiv:2010.11929.
+
+[9]: Tan, C., Hua, L., Lu, M., Fung, P., & Wan, X. (2019). ["Multimodal Transformer for Unaligned Multimodal Language Sequences."](https://arxiv.org/abs/1906.00295) Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics.

@@ -158,3 +158,15 @@ In addition to these improvements, researchers have been working on new ways to 
 To measure the effectiveness of Long-Range Interaction Layers in a model, you can look at how well the model performs on tasks that need to understand long sequences. For example, if you're using the model to summarize long articles, you can check how accurate and helpful the summaries are. You can also use metrics like accuracy, F1 score, or perplexity to see how well the model is doing. These metrics help you understand if the model is capturing the long-range dependencies in the input well. By comparing the model's performance with and without Long-Range Interaction Layers, you can see how much they are helping.
 
 To optimize Long-Range Interaction Layers, you can try different ways to set them up and see which works best. One way is to use sparse attention mechanisms, which help the model focus on the most important parts of the input instead of looking at everything at once. This can make the model faster and use less memory. You can also experiment with different sizes for the layers or change how they learn by adjusting the learning rate or using techniques like knowledge distillation. By testing these different approaches and measuring the model's performance, you can find the best way to use Long-Range Interaction Layers for your task.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[2]: Bahdanau, D., Cho, K., & Bengio, Y. (2015). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) International Conference on Learning Representations (ICLR).
+
+[3]: Choromanski, K., Likhosherstov, V., Dohan, D., Song, X., Gane, A., Sarlós, T., Hawkins, P., Davis, J., Mohiuddin, A., Kaiser, Ł., Belanger, D., Colwell, L., & Weller, A. (2021). ["Rethinking Attention with Performers."](https://arxiv.org/abs/2009.14794) International Conference on Learning Representations (ICLR).
+
+[4]: Lin, Z., Feng, M., Santos, C. D., Yu, M., Xiang, B., Zhou, B., & Bengio, Y. (2017). ["A Structured Self-attentive Sentence Embedding."](https://arxiv.org/abs/1703.03130) International Conference on Learning Representations (ICLR).
+
+[5]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT).

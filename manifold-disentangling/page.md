@@ -81,3 +81,17 @@ Another important metric is the FactorVAE metric, which checks how well the mode
 Recent advancements in manifold disentangling have focused on improving the ability of models to separate and control different features of data more effectively. One significant direction is the development of self-supervised learning methods, which allow models to learn from the data itself without needing labeled examples. For instance, researchers have been exploring techniques like contrastive learning, where the model learns to distinguish between different features by comparing similar and dissimilar data points. This approach helps the model better understand the underlying structure of the data, leading to more accurate disentanglement. Another advancement is the use of generative adversarial networks (GANs) combined with disentangling techniques, which can generate new data that looks realistic while maintaining control over individual features. These methods are showing promising results in fields like image generation and data augmentation.
 
 In addition to these technical improvements, there is growing interest in applying manifold disentangling to new types of data and applications. For example, researchers are working on disentangling manifolds in audio data to separate different sound sources, like music and speech, which could improve audio processing and noise cancellation technologies. Another exciting area is the application of manifold disentangling in healthcare, where models can separate different factors affecting patient outcomes, such as genetics and lifestyle, to provide more personalized and effective treatments. These new directions highlight the versatility and potential of manifold disentangling in solving real-world problems across various domains.
+
+## References & Further Reading
+
+[1]: Chen, R. T. Q., Rubanova, Y., Bettencourt, J., & Duvenaud, D. (2018). ["Neural Ordinary Differential Equations."](https://arxiv.org/abs/1806.07366) Advances in Neural Information Processing Systems.
+
+[2]: Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M., ... & Lerchner, A. (2017). ["beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework."](https://openreview.net/forum?id=Sy2fzU9gl) International Conference on Learning Representations.
+
+[3]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) International Conference on Learning Representations.
+
+[4]: Ridgeway, K. (2016). ["A Survey of Inductive Biases for Factorial Representation-Learning."](https://arxiv.org/abs/1612.05299) arXiv preprint arXiv:1612.05299.
+
+[5]: Wang, W., & Yuille, A. (2016). ["Understanding Disentangling in Beta-VAE."](https://arxiv.org/abs/1804.03599) arXiv preprint arXiv:1804.03599.
+
+[6]: Locatello, F., Bauer, S., Lucic, M., Gelly, S., Schölkopf, B., & Bachem, O. (2019). ["Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations."](https://arxiv.org/abs/1811.12359) International Conference on Machine Learning.

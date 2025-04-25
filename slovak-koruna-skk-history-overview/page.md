@@ -1,6 +1,7 @@
 ---
-title: "Slovak Koruna (SKK): History and Overview"
-description: "Explore the history and significance of the Slovak Koruna SKK from its role as Slovakia's currency to its replacement by the Euro in 2009. Discover insights for traders."
+title: Evolution of the Slovak Koruna and Transition to the Euro
+description: Slovak Koruna history from 1993 to 2009 traces coinage, exchange trends
+  and economic impact before its smooth shift to the Euro Discover more inside
 ---
 
 

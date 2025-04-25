@@ -1,6 +1,7 @@
 ---
-title: "SNAP Benefits Distribution by U.S. State"
-description: "Explore how SNAP benefits vary across U.S. states due to living costs, policies, and demographics with a focus on using algorithms for better analysis."
+title: Understanding SNAP Benefits Distribution Across States
+description: SNAP benefits distribution depends on state funding eligibility and administration
+  to help low income families get nutritious food Discover more inside.
 ---
 
 

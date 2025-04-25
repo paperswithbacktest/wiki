@@ -79,3 +79,19 @@ On the other hand, Min-Max Normalization is more sensitive to outliers but can b
 In some fields, like finance or medical research, people use special versions of Z-Score Normalization to deal with unique data problems. One common tweak is to use a "robust" version of Z-Score Normalization, which is better at handling outliers. Instead of using the regular mean and standard deviation, this method uses the median and the median absolute deviation (MAD). The formula for this is $$ Z_{\text{robust}} = \frac{(X - \text{median})}{\text{MAD}} $$. This helps because the median and MAD are less affected by outliers, making the normalization more reliable when the data has some unusual values.
 
 Another advanced technique is called "online" or "incremental" Z-Score Normalization. This is useful when you're dealing with data that keeps coming in, like in real-time systems. Instead of calculating the mean and standard deviation all at once, you update them as new data arrives. This way, you can normalize new data points quickly without having to go back and recalculate everything. It's a bit more complicated but can be very helpful for keeping your data processing fast and up-to-date.
+
+## References & Further Reading
+
+[1]: Gelman, A., Hill, J. (2006). ["Data Analysis Using Regression and Multilevel/Hierarchical Models"](https://www.cambridge.org/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983). Cambridge University Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[3]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[5]: Aha, D. W., & Kibler, D. (1991). ["Instance-based learning algorithms."](https://link.springer.com/article/10.1007/BF00153759) Machine Learning, 6(1), 37-66.
+
+[6]: "Statistics for Machine Learning: Techniques for exploring supervised, unsupervised, and reinforcement learning models with Python and R" by Pratap Dangeti, 2017, Packt Publishing.
+
+[7]: Jain, R., & Dubes, R. C. (1988). ["Algorithms for Clustering Data."](https://dl.acm.org/doi/10.5555/42779) Prentice-Hall, Inc.

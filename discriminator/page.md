@@ -79,3 +79,17 @@ Another technique is using a Wasserstein GAN (WGAN), which changes how the discr
 Recent research has focused on improving discriminators in complex GAN models by addressing issues like mode collapse and training instability. One key approach is the use of spectral normalization, which helps to control the Lipschitz constant of the discriminator. This means the discriminator's output doesn't change too quickly when the input changes a little bit. By keeping the discriminator's output smooth, spectral normalization helps to make the training process more stable. The formula for spectral normalization can be written as $$ W_{\text{SN}} = W / \sigma(W) $$, where $$ W $$ is the weight matrix and $$ \sigma(W) $$ is its largest singular value. This technique makes sure the discriminator and generator improve at a more balanced rate, reducing the chance of mode collapse.
 
 Another development is the use of self-attention mechanisms in the discriminator architecture. Self-attention helps the discriminator focus on the most important parts of the input data, which can be especially useful for complex data like images. By paying more attention to key features, the discriminator can better tell real from fake data, improving the overall performance of the GAN. Researchers have also explored using multiple discriminators, each trained on different aspects of the data. This multi-scale approach helps the GAN capture a wider range of features, making the generated data more realistic and diverse. These advancements show how ongoing research continues to push the boundaries of what GANs can achieve.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27. 
+
+[2]: Radford, A., Metz, L., & Chintala, S. (2015). ["Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks."](https://arxiv.org/abs/1511.06434) arXiv preprint arXiv:1511.06434.
+
+[3]: Arjovsky, M., Chintala, S., & Bottou, L. (2017). ["Wasserstein GAN."](https://arxiv.org/abs/1701.07875) arXiv preprint arXiv:1701.07875.
+
+[4]: Miyato, T., Kataoka, T., Koyama, M., & Yoshida, Y. (2018). ["Spectral Normalization for Generative Adversarial Networks."](https://arxiv.org/abs/1802.05957) arXiv preprint arXiv:1802.05957.
+
+[5]: Zhang, H., Goodfellow, I., Metaxas, D., & Odena, A. (2019). ["Self-Attention Generative Adversarial Networks."](https://arxiv.org/abs/1805.08318) arXiv preprint arXiv:1805.08318.
+
+[6]: Gulrajani, I., Ahmed, F., Arjovsky, M., Dumoulin, V., & Courville, A. C. (2017). ["Improved Training of Wasserstein GANs."](https://arxiv.org/abs/1704.00028) arXiv preprint arXiv:1704.00028.

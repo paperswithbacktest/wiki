@@ -113,3 +113,15 @@ To make large Item Matrices easier to handle, you can use special techniques. On
 Integrating Item Matrices with [deep learning](/wiki/deep-learning) models can make recommendation systems even better. Deep learning models, like neural networks, are good at finding complex patterns in data. By using an Item Matrix as input, these models can learn how different items relate to each other and to user preferences. For example, a [neural network](/wiki/neural-network) can take the Item Matrix and learn to predict what a user might like next. This is done by training the model on the data in the matrix, which helps it understand the connections between items and users. The model can then use these learned patterns to make more accurate recommendations, even for new items or users it hasn't seen before.
 
 One way to do this is by using a technique called matrix factorization in the deep learning model. This means breaking down the big Item Matrix into smaller matrices that are easier for the model to work with. The formula for matrix factorization using Singular Value Decomposition (SVD) is $$ A = U \Sigma V^T $$, where $$ A $$ is the original Item Matrix, and $$ U $$, $$ \Sigma $$, and $$ V^T $$ are smaller matrices. By using these smaller matrices, the deep learning model can process the data faster and more efficiently. This can help the model make better recommendations by capturing the most important features of the items and users.
+
+## References & Further Reading
+
+[1]: Koren, Y., Bell, R., & Volinsky, C. (2009). ["Matrix Factorization Techniques for Recommender Systems."](https://ieeexplore.ieee.org/abstract/document/5197422) IEEE Computer.
+
+[2]: Ricci, F., Rokach, L., & Shapira, B. (2015). ["Recommender Systems Handbook."](https://link.springer.com/book/10.1007/978-1-0716-2197-4) Springer.
+
+[3]: Bell, R. M., & Koren, Y. (2007). ["Scalable Collaborative Filtering with Jointly Derived Neighborhood Interpolation Weights."](https://ieeexplore.ieee.org/document/4470228) Proceedings of the Seventh IEEE International Conference on Data Mining.
+
+[4]: Goldberg, D., Nichols, D., Oki, B. M., & Terry, D. (1992). ["Using Collaborative Filtering to Weave an Information Tapestry."](https://dl.acm.org/doi/10.1145/138859.138867) Communications of the ACM.
+
+[5]: Sarwar, B., Karypis, G., Konstan, J., & Riedl, J. (2001). ["Item-based Collaborative Filtering Recommendation Algorithms."](https://dl.acm.org/doi/10.1145/371920.372071) Proceedings of the 10th International Conference on World Wide Web.

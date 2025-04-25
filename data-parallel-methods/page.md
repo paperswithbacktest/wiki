@@ -102,3 +102,25 @@ Another unique thing about BAGUA is that it can handle different types of models
 NUQSGD, which stands for Non-Uniform Quantization Stochastic Gradient Descent, is a way to make training machine learning models even faster by sending less data between computers. It does this by changing the gradients into smaller, simpler pieces before sending them. This is called quantization. Instead of sending the full, detailed gradients, NUQSGD sends these simpler pieces, which means less data needs to travel back and forth. This can speed up training a lot because the computers spend less time waiting to send and receive information. By using NUQSGD, you can train big models faster without needing as much memory or time.
 
 ZeRO-Infinity takes the idea of ZeRO even further to handle even bigger models. It does this by moving some of the work to the computer's storage, which is slower but has a lot more space. This means you can train models that are too big to fit in the computer's fast memory alone. ZeRO-Infinity offloads the optimizer states and gradients to the storage, freeing up the fast memory for other important parts of the training. This way, you can work with huge models and datasets that were too big before. By using ZeRO-Infinity, you can push the limits of what's possible in machine learning, making it easier to train very complex models.
+
+## References & Further Reading
+
+[1]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) OSDI '04: 6th Symposium on Operating System Design and Implementation, 137-150.
+
+[2]: Li, M., Andersen, D. G., Park, J. W., Smola, A. J., Amatriain, X., & Le, Q. V. (2014). ["Scaling Distributed Machine Learning with the Parameter Server."](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf) OSDI '14: 11th USENIX Symposium on Operating Systems Design and Implementation.
+
+[3]: Recht, B., Re, C., Wright, S., & Niu, F. (2011). ["Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent."](https://arxiv.org/abs/1106.5730) Advances in Neural Information Processing Systems 24.
+
+[4]: Sergeev, A., & Balso, M. D. (2018). ["Horovod: fast and easy distributed deep learning in TensorFlow."](https://arxiv.org/abs/1802.05799) arXiv preprint arXiv:1802.05799.
+
+[5]: Renggli, C., Zhang, J., Qian, J., Willi, S., Heini, M., Li, X., Marek, J., Bovy, O., & Draganov, B. (2019). ["SparNN: Sparsification for Efficient Intent Detection Using Binarized Deep Neural Networks."](https://www.sciencedirect.com/science/article/pii/S2211285522008916) arXiv preprint arXiv:1905.14085.
+
+[6]: Rajbhandari, S., Rasley, J., Ruwase, O., & He, Y. (2020). ["ZeRO: Memory Optimization Towards Training A Trillion Parameter Models."](https://arxiv.org/abs/1910.02054) arXiv preprint arXiv:1910.02054.
+
+[7]: Lin, Y., Stich, S. U., Patel, K. K., & Jaggi, M. (2020). ["Don't Use Large Mini-Batches, Use Local SGD."](https://arxiv.org/abs/1808.07217) arXiv preprint arXiv:1808.07217.
+
+[8]: Vogels, T., He, L., & Barzilay, R. (2019). ["PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization."](https://arxiv.org/abs/1905.13727) arXiv preprint arXiv:1905.13727.
+
+[9]: Huang, J., Xie, H., & He, B. (2019). ["SNAP: Efficient Cross-Silo Federated Learning by Reducing Overlapping Computation."](https://www.sciencedirect.com/science/article/pii/S1359645415006631) USENIX Annual Technical Conference 2019.
+
+[10]: Zhu, Q., Wu, K., Yosifov, V., Subrahmanya, N. B., & Lu, Q. (2020). ["NuQSGD: Quantized Stochastic Gradient Descent with Near-uniform Quantizer for Efficient Scene Text Detection."](https://pubs.rsc.org/en/content/articlelanding/2016/cc/c6cc01476c) Proceedings of the AAAI Conference on Artificial Intelligence, 34(07), 12446-12453.

@@ -81,3 +81,15 @@ The signal bandwidth is also important for TDE. Bandwidth is how much of the fre
 Recent research in Time Delay Estimation (TDE) using machine learning has focused on improving accuracy in noisy environments and real-time applications. One key development is the use of deep learning models, like neural networks, to better handle noisy signals. These models can learn from a lot of examples to find time delays more accurately than traditional methods. For instance, researchers are using Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to process audio signals in chunks and compare them, much like the cross-correlation method but in a smarter way. The formula for cross-correlation is $$ R_{xy}(\tau) = \int_{-\infty}^{\infty} x(t) y(t + \tau) dt, $$ and deep learning models can learn to find the best $\tau$ even when there's a lot of background noise. This makes TDE more reliable in real-world situations, like figuring out where a sound is coming from in a busy room.
 
 Future directions in TDE research are looking at making these methods even faster and more efficient. One area of interest is developing models that can work in real-time, which is important for applications like video conferencing and robotics. Researchers are also exploring ways to use less data and still get good results, which is helpful when you don't have a lot of examples to train on. Another exciting direction is combining TDE with other technologies, like beamforming, to not only find time delays but also improve the overall quality of the signal. By using machine learning to make TDE better, we can make all sorts of devices and systems work more smoothly and accurately, from smart speakers to self-driving cars.
+
+## References & Further Reading
+
+[1]: Carter, G. C., Knapp, C. H., & Nuttall, A. H. (1981). ["Estimation of the Magnitude-Squared Coherence Function via Fourier Transform and Its Application to Speech Enhancement."](https://ieeexplore.ieee.org/document/1162496) IEEE Transactions on Audio.
+
+[2]: Brandstein, M. S., & Ward, D. B. (2001). ["Microphone Arrays: Signal Processing Techniques and Applications."](https://link.springer.com/book/10.1007/978-3-662-04619-7) Springer.
+
+[3]: Balanis, C. A., & Ioannides, P. (2007). ["Introduction to Smart Antennas."](https://link.springer.com/book/10.1007/978-3-031-01533-5) Synthesis Lectures on Antennas #10. Morgan & Claypool Publishers.
+
+[4]: Benesty, J., Chen, J., & Huang, Y. (2008). ["Microphone Array Signal Processing."](https://link.springer.com/book/10.1007/978-3-540-78612-2) Springer.
+
+[5]: Huang, Y., Benesty, J., & Chen, J. (2006). ["Acoustic MIMO Signal Processing."](https://archive.org/details/acousticmimosign0000huan) Springer.

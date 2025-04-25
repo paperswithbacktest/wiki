@@ -81,3 +81,21 @@ Another way to ensure accuracy and reliability is by making sure the data going 
 To make online inference more efficient, you can use a technique called model quantization. This means making the model smaller by using fewer bits to store its numbers. For example, instead of using 32 bits for each number, you might use only 8 bits. This makes the model take up less space and work faster, but it can still give good predictions. Another way to boost efficiency is by using model pruning. This is like trimming a tree to make it smaller. You remove parts of the model that don't help much with predictions, which makes the model faster and use less computer power.
 
 You can also use something called knowledge distillation to make online inference more efficient. This is when you take a big, complicated model and use it to teach a smaller, simpler model. The smaller model learns to make predictions almost as well as the big one, but it's much faster and uses less memory. This is great for online inference because it lets you get quick, accurate predictions without needing a lot of computer power. By using these techniques, you can make your online inference system work better and handle more data in real time.
+
+## References & Further Reading
+
+[1]: Gama, J., Žliobaitė, I., Bifet, A., Pechenizkiy, M., & Bouchachia, A. (2014). ["A Survey on Concept Drift Adaptation."](https://dl.acm.org/doi/10.1145/2523813) Data Mining and Knowledge Discovery, 28(3), 645-685.
+
+[2]: Widmer, G., & Kubat, M. (1996). ["Learning in the Presence of Concept Drift and Hidden Contexts."](https://link.springer.com/article/10.1007/BF00116900) Machine Learning, 23(1), 69-101.
+
+[3]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) Communications of the ACM, 51(1), 107-113.
+
+[4]: Quinlan, J.R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81-106.
+
+[5]: Alpaydin, E. (2020). ["Introduction to Machine Learning"](https://mitpress.mit.edu/9780262043793/introduction-to-machine-learning/) (4th ed.). MIT Press.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[7]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[8]: Hinton, G.E., Vinyals, O., & Dean, J. (2015). ["Distilling the Knowledge in a Neural Network."](https://arxiv.org/abs/1503.02531) ArXiv Preprint ArXiv:1503.02531.

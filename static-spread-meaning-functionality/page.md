@@ -1,6 +1,7 @@
 ---
-title: "Static Spread: Meaning and Functionality"
-description: "Discover how understanding static and bond spreads enhances algorithmic trading by improving decision-making, optimizing trade execution, and increasing profitability."
+title: Understanding Static Spread for Accurate Bond Valuation
+description: Static Spread shows investors how much extra yield a bond offers over
+  risk free benchmarks guiding valuation and portfolio decisions Discover more inside
 ---
 
 

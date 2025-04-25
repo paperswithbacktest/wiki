@@ -1,6 +1,7 @@
 ---
-title: "Structured Investment Vehicle: History and Examples"
-description: "Explore the history and impact of Structured Investment Vehicles and algorithmic trading innovations in finance Learn how these strategies shaped modern investment practices"
+title: Understanding Structured Investment Vehicles And Their Risks
+description: Structured Investment Vehicles use maturity transformation to generate
+  returns and manage liquidity risks from the 2008 crisis Discover more inside
 ---
 
 

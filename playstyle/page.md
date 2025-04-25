@@ -118,3 +118,15 @@ Another thing to consider is fairness. When game makers use Playstyle analysis t
 Experts can refine Playstyle models to make games more personal by looking at more kinds of data from how players play. They can use deep learning, which is a smart way to find patterns in data, to see more details about playstyles. For example, they can use a special kind of deep learning called a convolutional neural network (CNN) to look at how players move in the game. This can help them understand if a player likes to explore or fight. They can also use recurrent neural networks (RNNs) to see how a player's playstyle changes over time. By using these advanced methods, experts can make the game match each player's way of playing better, making the game more fun and interesting.
 
 Another way to refine Playstyle models is by using a formula like $$ \text{Playstyle Distance} = \sqrt{\sum_{i=1}^{n} (x_i - y_i)^2} $$ to measure how similar or different two players' playstyles are. Experts can use this formula to group players into different playstyles more accurately. They can then use this information to give players challenges that fit their way of playing or to put them in groups with others who play the same way. This makes the game feel more personal because players get to play with others who like the same things and face challenges that are just right for them. By constantly updating and improving these models, experts can keep the game fresh and exciting for everyone.
+
+## References & Further Reading
+
+[1]: Bakkes, S., Spronck, P., & van Lankveld, G. (2012). ["Player Behavioral Modelling for Video Games."](https://www.spronck.net/pubs/BakkesEC2011.pdf) Entertainment Computing, 3(3), 71-79.
+
+[2]: Drachen, A., Canossa, A., & Yannakakis, G. N. (2009). ["Player Modeling using Self-Organization in Tomb Raider: Underworld."](https://ieeexplore.ieee.org/abstract/document/5286500) In Proceedings of the IEEE Symposium on Computational Intelligence and Games.
+
+[3]: Shaker, N., Yannakakis, G. N., & Togelius, J. (2010). ["Towards Automatic Personalized Content Generation for Platform Games."](https://ojs.aaai.org/index.php/AIIDE/article/view/12399) In Proceedings of the Sixth AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment.
+
+[4]: Bostan, B. (2009). ["Player Motivations: A Psychological Perspective."](https://www.researchgate.net/publication/220686151_Player_motivations_A_psychological_perspective) In Handbook of Research on Computational Arts and Creative Informatics.
+
+[5]: Yannakakis, G. N., & Hallam, J. (2007). ["Game and Player Feature Selection for Entertainment Capture."](https://www.semanticscholar.org/paper/Game-and-Player-Feature-Selection-for-Entertainment-Yannakakis-Hallam/13cf75756865788884b16d7eab7d1f6b316ecb6d) In 2007 IEEE Symposium on Computational Intelligence and Games.

@@ -81,3 +81,21 @@ One of the big advantages of mT5 is that it can handle many languages at once, w
 The latest advancements in Autoencoding Transformers have significantly pushed the boundaries of what these models can do. One major development is the introduction of models like FLAN-T5, which is a fine-tuned version of T5 that has been trained on a diverse set of tasks. This allows FLAN-T5 to perform better on a wide range of applications, from answering questions to generating text, making it more versatile than its predecessors. Another advancement is the use of techniques like sparse attention mechanisms, which allow models to handle longer sequences of text more efficiently. This is important for tasks like document summarization or processing long conversations, where understanding the entire context is crucial.
 
 These advancements have had a big impact on the field of [machine learning](/wiki/machine-learning). For example, the ability of models like FLAN-T5 to handle multiple tasks with high performance has made them valuable tools for businesses and researchers who need to process and understand large amounts of text data. Additionally, the improved efficiency of models with sparse attention mechanisms means that they can be used on devices with less computing power, making advanced language processing more accessible. Overall, these developments are helping to make machine learning models more powerful, efficient, and applicable to real-world problems.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[2]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research, 21(140), 1-67.
+
+[3]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv preprint arXiv:1907.11692.
+
+[4]: Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2020). ["ALBERT: A Lite BERT for Self-supervised Learning of Language Representations."](https://arxiv.org/abs/1909.11942) arXiv preprint arXiv:1909.11942.
+
+[5]: Clark, K., Luong, M.-T., Le, Q. V., & Manning, C. D. (2020). ["ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators."](https://arxiv.org/abs/2003.10555) arXiv preprint arXiv:2003.10555.
+
+[6]: He, P., Liu, X., Gao, J., & Chen, W. (2020). ["DeBERTa: Decoding-enhanced BERT with Disentangled Attention."](https://arxiv.org/abs/2006.03654) arXiv preprint arXiv:2006.03654.
+
+[7]: Beltagy, I., Peters, M. E., & Cohan, A. (2020). ["Longformer: The Long-Document Transformer."](https://arxiv.org/abs/2004.05150) arXiv preprint arXiv:2004.05150.
+
+[8]: Xue, L., Constant, N., Roberts, A., et al. (2020). ["mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer."](https://aclanthology.org/2021.naacl-main.41/) arXiv preprint arXiv:2010.11934.

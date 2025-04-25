@@ -79,3 +79,17 @@ Another way to decide on the right number of attributes is by using special meth
 Combining attribute sampling with advanced techniques can make machine learning models even better. One popular technique is called ensemble learning, which involves using multiple models together to make better predictions. For example, you can use attribute sampling to pick the best features and then use these features in different models like Random Forests or Gradient Boosting Machines. By combining these models, you can get more accurate and reliable results. Another technique is [deep learning](/wiki/deep-learning), where you can use attribute sampling to reduce the number of features before feeding them into a [neural network](/wiki/neural-network). This can help the neural network learn faster and perform better, especially when you have a lot of data.
 
 Another advanced technique that works well with attribute sampling is feature engineering. This involves creating new features from the existing ones to make the model more effective. For example, if you're trying to predict house prices, you might combine the number of bedrooms and the size of the house into a new feature that represents the overall living space. Attribute sampling can help you choose which original features to use for this new feature, making sure you're focusing on the most important information. By using feature engineering along with attribute sampling, you can improve your model's performance and make it easier for the model to understand the data.
+
+## References & Further Reading
+
+[1]: Guyon, I., & Elisseeff, A. (2003). ["An Introduction to Variable and Feature Selection."](https://dl.acm.org/doi/10.5555/944919.944968) Journal of Machine Learning Research, 3, 1157-1182.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[3]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[4]: Zhao, Z., & Liu, H. (2007). ["Spectral Feature Selection for Supervised and Unsupervised Learning."](https://dl.acm.org/doi/10.1145/1273496.1273641) Proceedings of the 24th International Conference on Machine Learning.
+
+[5]: Jolliffe, I. T. (2002). ["Principal Component Analysis."](https://link.springer.com/book/10.1007/b98835) Springer Series in Statistics.
+
+[6]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://webdoc.agsci.colostate.edu/koontz/arec-econ535/papers/Tibshirani%20(JRSS-B%201996).pdf) Journal of the Royal Statistical Society: Series B (Statistical Methodology), 58(1), 267-288.

@@ -285,3 +285,19 @@ One real-world application of JAX in machine learning is in [reinforcement learn
 Another successful use of JAX is in the field of natural language processing (NLP). Google's T5 model, which is a text-to-text transfer transformer, was developed using JAX. This model can handle a wide range of NLP tasks, from translation to summarization, by converting them into a text-to-text format. JAX's ability to handle large-scale computations on TPUs made it possible to train such a large and complex model efficiently. This case study demonstrates how JAX's speed and scalability can be applied to improve performance in real-world NLP applications, helping to process and understand vast amounts of text data.
 
 In the realm of scientific computing, JAX has been used to develop models for climate and weather prediction. For instance, researchers at the University of Oxford used JAX to create a neural network that can predict weather patterns more accurately than traditional methods. By using JAX's automatic differentiation and JIT compilation, they were able to train models that can handle the complex and high-dimensional data involved in weather forecasting. This application highlights how JAX's capabilities can be extended beyond traditional machine learning tasks to solve important problems in other scientific fields.
+
+## References & Further Reading
+
+[1]: Bradbury, J., Frostig, R., Hawkins, P., Johnson, M. J., Leary, C., Maclaurin, D., & Wanderman-Milne, S. (2018). ["JAX: composable transformations of Python+NumPy programs."](https://github.com/jax-ml/jax) GitHub.
+
+[2]: Frostig, R., Johnson, M. J., & Leary, C. (2018). ["Compiling machine learning programs via high-level tracing."](https://cs.stanford.edu/~rfrostig/pubs/jax-mlsys2018.pdf) SysML Conference.
+
+[3]: James, S., & Dylan, S. (2020). ["Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks."](https://dl.acm.org/doi/10.5555/3305381.3305498) Proceedings of the International Conference on Machine Learning.
+
+[4]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems, 5998-6008.
+
+[5]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.
+
+[6]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[7]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1605.08695) 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16).

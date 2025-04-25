@@ -118,3 +118,15 @@ By adding this ALiBi attention mechanism to your model, you can help it make bet
 One future research direction to improve the effectiveness of inference extrapolation could be to develop better ways to measure how confident a model is in its predictions. Right now, models can give a number that shows how sure they are about their guesses, but these numbers might not always be right. If we can find a way to make these confidence numbers more accurate, it would help people know when to trust the model's guesses and when to be careful. For example, if a model was trained on data where the relationship between temperature and humidity was $$y = 2x + 1$$ and you want to predict for a new city where this relationship might be different, a better confidence measure could tell you if the model's guess is likely to be right or not.
 
 Another direction could be to create models that can learn from their mistakes when they guess about new data. Right now, if a model makes a wrong guess, it might not learn from that mistake. If we can make models that can update their knowledge based on new data, they could get better at guessing over time. For instance, if a model was trained on data from a specific region and you use it to predict for a different region, the model could learn from the new data and improve its guesses for that region. This could make models more accurate and reliable when they're working with data they haven't seen before.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[2]: Press, O., & Wolf, L. (2016). ["Using the Output Embedding to Improve Language Models."](https://arxiv.org/abs/1608.05859) arXiv preprint arXiv:1608.05859.
+
+[3]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[4]: Zhou, J., Cui, G., Hu, S., Zhang, Z., Yang, C., Liu, Z., ... & Sun, M. (2020). ["Graph Neural Networks: A Review of Methods and Applications."](https://www.sciencedirect.com/science/article/pii/S2666651021000012) AI Open, 1, 57-81.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.

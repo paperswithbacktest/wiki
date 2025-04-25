@@ -85,3 +85,19 @@ Another way to measure reporting bias is by comparing the dataset to other sourc
 One advanced statistical method to correct for reporting bias in complex datasets is propensity score matching. This method helps balance the dataset by matching each data point from an over-represented group with a similar data point from an under-represented group. For example, if a dataset about job applicants has more entries from men than women, propensity score matching can pair each male applicant with a female applicant who has similar qualifications and background. This helps make the dataset more balanced and reduces the impact of reporting bias on the model's predictions.
 
 Another method is inverse probability weighting, which adjusts the importance of each data point based on how likely it was to be included in the dataset. If certain types of data are less likely to be reported, this method gives those data points more weight to make up for their under-representation. For instance, if a health survey has fewer responses from people in rural areas, inverse probability weighting can increase the influence of those responses to better reflect the real-world situation. By using these advanced statistical techniques, machine learning practitioners can create more accurate and fair models that work well for everyone.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) fairmlbook.org.
+
+[2]: Olteanu, A., Castillo, C., Diaz, F., & Kıcıman, E. (2019). ["Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries."](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2019.00013/full) Frontiers in Big Data and AI.
+
+[3]: Suresh, H., & Guttag, J. V. (2020). ["A Framework for Understanding Unintended Consequences of Machine Learning."](https://arxiv.org/abs/1901.10002) Communications of the ACM.
+
+[4]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys.
+
+[5]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) Proceedings of the Conference on Fairness, Accountability, and Transparency.
+
+[6]: Mitchell, M., Wu, S., Zaldivar, A., Barnes, P., Vasserman, L., Hutchinson, B., ... & Gebru, T. (2019). ["Model Cards for Model Reporting."](https://arxiv.org/abs/1810.03993) Proceedings of the Conference on Fairness, Accountability, and Transparency.
+
+[7]: Chouldechova, A., & Roth, A. (2018). ["The Frontiers of Fairness in Machine Learning."](https://arxiv.org/abs/1810.08810) Foundations and Trends in Machine Learning.

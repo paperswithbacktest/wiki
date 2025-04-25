@@ -83,3 +83,19 @@ To optimize Diffusion Models, you can try different things. One way is to change
 Current research trends in Diffusion Models are focusing on making them faster and better at creating high-quality data. One big trend is using latent spaces, like in LSDM (Latent Score-based Diffusion Model), to speed up the process. By working in a simpler version of the data, these models can generate new pictures or other data more quickly and with less computer power. Another trend is developing new ways to train Diffusion Models more efficiently, like using fewer steps or better noise schedules. Researchers are also looking at how to make Diffusion Models work well with other types of data, like sounds or text, not just pictures.
 
 Future directions for Diffusion Models include making them even more versatile and easier to use. One exciting area is using Diffusion Models for real-time applications, where they need to generate data very quickly. This could be useful in things like video games or live video processing. Another direction is improving the quality of the data they generate, making sure the pictures or sounds are as realistic as possible. Researchers are also exploring ways to combine Diffusion Models with other machine learning techniques, like GANs or VAEs, to create even more powerful models. By continuing to push these boundaries, Diffusion Models could become an even more important tool in many different fields.
+
+## References & Further Reading
+
+[1]: Sohl-Dickstein, J., Weiss, E., Maheswaranathan, N., & Ganguli, S. (2015). ["Deep Unsupervised Learning using Nonequilibrium Thermodynamics."](https://arxiv.org/abs/1503.03585) arXiv:1503.03585.
+
+[2]: Ho, J., Jain, A., & Abbeel, P. (2020). ["Denoising Diffusion Probabilistic Models."](https://arxiv.org/abs/2006.11239) arXiv:2006.11239.
+
+[3]: Song, Y., & Ermon, S. (2019). ["Generative Modeling by Estimating Gradients of the Data Distribution."](https://arxiv.org/abs/1907.05600) arXiv:1907.05600.
+
+[4]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv:1312.6114.
+
+[5]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[6]: Dhariwal, P., & Nichol, A. (2021). ["Diffusion Models Beat GANs on Image Synthesis."](https://arxiv.org/abs/2105.05233) arXiv:2105.05233.
+
+[7]: Song, Y., Meng, C., & Ermon, S. (2020). ["Score-Based Generative Modeling through Stochastic Differential Equations."](https://arxiv.org/abs/2011.13456) arXiv:2006.09011.

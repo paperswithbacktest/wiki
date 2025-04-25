@@ -101,3 +101,15 @@ Another approach is to use a technique like Batch Normalization, which is often 
 Current research in normalization techniques for machine learning is focusing on making models work better and faster, especially in deep learning. One big trend is looking into new ways to normalize data that can help with specific problems, like dealing with data that changes a lot over time. For example, researchers are working on adaptive normalization methods that can adjust to new data as it comes in. This is important for things like real-time data processing, where the data is always changing. Another trend is exploring how normalization can help with different types of data, like images or sound, where traditional methods like $$X_{norm} = \frac{X - X_{min}}{X_{max} - X_{min}}$$ or $$X_{std} = \frac{X - \mu}{\sigma}$$ might not work as well. Techniques like Instance Normalization and Group Normalization are being studied to see if they can improve how models learn from these types of data.
 
 Looking to the future, normalization techniques are likely to become even more important as machine learning models get bigger and more complex. Researchers are trying to find ways to make normalization work better with these big models, like figuring out how to normalize data across different layers of a neural network in a way that helps the whole model learn faster. There's also interest in developing normalization methods that can handle data with different distributions, which is important for making sure models work well in real-world situations where data might not follow a nice, neat pattern. As machine learning continues to grow, the focus will be on creating normalization techniques that are flexible, adaptive, and can help models perform at their best, no matter what kind of data they're working with.
+
+## References & Further Reading
+
+[1]: Han, J., Pei, J., & Kamber, M. (2011). ["Data Mining: Concepts and Techniques,"](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) 3rd Edition. Morgan Kaufmann.
+
+[2]: Ioffe, S., & Szegedy, C. (2015). ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) arXiv:1502.03167.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Scikit-learn library: ["User Guide."](https://scikit-learn.org/stable/user_guide.html) Scikit-learn: Machine Learning in Python. 
+
+[5]: Hinton, G. E., Srivastava, N., & Swersky, K. (2012). ["Neural Networks for Machine Learning."](https://arxiv.org/abs/1207.0580) Coursera Lecture Slides.

@@ -79,3 +79,15 @@ Another advancement is the integration of RAG with other AI technologies. For in
 RAG can be integrated with other AI technologies to make it even better at answering questions. One way to do this is by using more advanced language models for the generator part of RAG. These language models are trained to understand context better and can generate text that sounds more natural. When RAG uses these models, the answers it gives are not only accurate but also easier to understand. This makes RAG more helpful in situations where clear and natural communication is important, like in customer service or education.
 
 Another way to enhance RAG's performance is by improving the retriever part with new AI techniques. For example, newer retriever models can use better methods to find the right information quickly. They turn questions and documents into numbers and use a formula like $$ \text{similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|} $$ to see how similar they are. This helps the retriever pick the most relevant information, making the answers from RAG more up-to-date and reliable. By combining these advanced retriever models with better language models, RAG can provide even more accurate and useful answers.
+
+## References & Further Reading
+
+[1]: Lewis, D. D., & Croft, W. B. (1990). ["Retrieval techniques for automatically constructed thesauri."](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.4550040305) ACM SIGIR, pp. 37-50.
+
+[2]: Karpukhin, V., Oguz, B., Min, S., Lewis, P., Yih, W. T., Wu, S., & Ma, X. (2020). ["Dense Passage Retrieval for Open-Domain Question Answering."](https://arxiv.org/abs/2004.04906) Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing.
+
+[3]: Guu, K., Lee, K., Tung, Z., Pasupat, P., & Chang, M. (2020). ["REALM: Retrieval-Augmented Language Model Pre-Training."](https://arxiv.org/abs/2002.08909) Advances in Neural Information Processing Systems 33.
+
+[4]: Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., ... & Riedel, S. (2020). ["Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks."](https://arxiv.org/abs/2005.11401) arXiv preprint arXiv:2005.11401.
+
+[5]: Lample, G., & Charton, F. (2020). ["Deep Learning for Symbolic Mathematics."](https://arxiv.org/abs/1912.01412) International Conference on Learning Representations.

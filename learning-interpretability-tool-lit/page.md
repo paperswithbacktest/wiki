@@ -83,3 +83,15 @@ Another limitation is that LIT might not work well with every type of model or d
 LIT is always getting better, and the people who make it have some cool plans for the future. They want to make LIT work faster with big datasets, so you don't have to wait as long to see your results. They also want to add more tools that help you understand how your model makes decisions. This way, even if your model is very complicated, LIT will help you see inside it more easily.
 
 Another thing they're working on is making LIT work with more types of models and data. This means you won't have to change your model or data as much to use LIT. They also want to make it easier to use LIT with other tools you might need for your project. By doing this, LIT will become an even better helper for understanding and improving your machine learning models.
+
+## References & Further Reading
+
+[1]: ["The What-If Tool: Code-Free Probing of Machine Learning Models"](https://research.google/blog/the-what-if-tool-code-free-probing-of-machine-learning-models/) by Google AI Blog.
+
+[2]: Olah, C., Mordvintsev, A., & Schubert, L. (2017). ["Feature Visualization"](https://distill.pub/2017/feature-visualization/). Distill.
+
+[3]: ["LIME: Local Interpretable Model-agnostic Explanations"](https://github.com/marcotcr/lime) by Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). 
+
+[4]: Molnar, C. (2020). ["Interpretable Machine Learning"](https://christophm.github.io/interpretable-ml-book/). 
+
+[5]: ["M2C2: Model Cards for Model Checklists and Counterms"](https://m2c2-project.github.io/m2c2kit-docs/) by Google AI Blog.

@@ -1,6 +1,7 @@
 ---
-title: "Spread Trading Strategy Explained"
-description: Explore the fundamentals of spread trading in algorithmic trading as this article investigates into various strategies aimed at profiting from price discrepancies between related financial instruments. Gain insight into both manual and automated methods, understanding their application under different market scenarios. This comprehensive guide covers the core concepts, potential risks, and advantages associated with spread trading in an ever-evolving market environment, offering valuable knowledge for both novice and experienced traders seeking to refine their strategies.
+title: Spread Trading Definition Types Strategies and Risk Management
+description: Spread trading uses paired positions to profit from price differences
+  while reducing risk with stop loss and exit strategies Discover more inside
 ---
 
 

@@ -83,3 +83,15 @@ One way to make sure your validation set helps with generalization is to use a t
 One advanced strategy for using multiple validation sets is called nested cross-validation. In nested cross-validation, you use two levels of cross-validation at the same time. The outer level splits your data into training and test sets, and the inner level splits the training set into smaller training and validation sets. You use the inner level to tune your model's hyperparameters, and then you use the outer level to see how well your model works on new data. This way, you can make sure your model is good at learning from the data and also good at working with new data it hasn't seen before.
 
 Another strategy is to use multiple validation sets from different sources. This can help your model learn to work well with different kinds of data. For example, if you're building a model to recognize pictures, you might use one validation set from a camera and another from a phone. By testing your model on these different validation sets, you can make sure it can handle different types of pictures. This helps your model be more flexible and work better in real situations where it needs to handle all kinds of data.
+
+## References & Further Reading
+
+[1]: Kohavi, R. (1995). ["A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection."](https://dl.acm.org/doi/10.5555/1643031.1643047) In Proceedings of the 14th International Joint Conference on Artificial Intelligence (IJCAI).
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Bergstra, J., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research, 13.
+
+[4]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[5]: Varma, S., & Simon, R. (2006). ["Bias in Error Estimation When Using Cross-Validation for Model Selection."](https://pubmed.ncbi.nlm.nih.gov/16504092/) BMC Bioinformatics, 7.

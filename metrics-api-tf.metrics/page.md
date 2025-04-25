@@ -219,3 +219,17 @@ class MeanReciprocalRank(tf.keras.metrics.Metric):
         self.total.assign(0)
         self.count.assign(0)
 ``` By using this custom metric, you can get a more detailed view of your model's performance that's tailored to your specific needs.
+
+## References & Further Reading
+
+[1]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (1st ed.). Manning Publications.
+
+[2]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-scale Machine Learning."](https://arxiv.org/abs/1603.04467) Proceedings of the 12th USENIX Conference on Operating Systems Design and Implementation.
+
+[3]: Brownlee, J. (2018). ["Master Machine Learning Algorithms"](https://github.com/jbrownlee/Books/blob/master/Machine%20Learning/3.%20Master%20Machine%20Learning%20Algorithms%20Discover%20How%20They%20Work%20and%20Implement%20Them%20From%20Scratch.pdf) (1st ed.). Machine Learning Mastery.
+
+[4]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) (2nd ed.). O'Reilly Media.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: ["Metrics and Scoring: Quantifying the Quality of Predictions"](https://scikit-learn.org/stable/modules/model_evaluation.html) - Scikit-learn documentation on Model Evaluation, which provides insights applicable to understanding metrics in machine learning applications.

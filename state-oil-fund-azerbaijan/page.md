@@ -1,6 +1,7 @@
 ---
-title: "State Oil Fund of Azerbaijan"
-description: "Explore the State Oil Fund of Azerbaijan's innovative use of algorithmic trading to optimize investment returns and ensure economic stability for future generations."
+title: State Oil Fund of Azerbaijan Ensuring Future Economic Stability
+description: State Oil Fund of Azerbaijan stewards oil revenues with strategic investments
+  to stabilize the economy and fund future growth Discover more inside.
 ---
 
 

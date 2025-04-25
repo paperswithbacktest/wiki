@@ -83,3 +83,19 @@ Another challenge is that models with high-dimensional parameter spaces can easi
 Understanding how important different parameters are in a trained model can help you see which parts of the model are most useful for making predictions. One way to do this is by looking at the size of the parameters. In models like linear regression, where the equation is $$y = mx + b$$, the parameter $$m$$ (the slope) tells you how much the output changes when the input changes. If $$m$$ is a big number, it means that input is really important for the prediction. Another way is to use techniques like feature importance, which can tell you which inputs the model relies on the most. For example, in a decision tree, you can see which features are used at the top of the tree, meaning they're more important for splitting the data.
 
 Another method to interpret parameter importance is through techniques like permutation importance. This involves randomly shuffling one feature at a time and seeing how much it affects the model's performance. If shuffling a feature makes the model's predictions worse, that feature (and its associated parameters) is important. For example, if you shuffle the 'age' feature in a dataset and the model's accuracy drops a lot, it means the parameters related to 'age' are crucial for the model's predictions. By using these methods, you can get a clearer picture of which parameters are driving the model's decisions, helping you understand and improve the model.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[3]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[6]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning"](https://www.nature.com/articles/nature14539). Nature, 521(7553), 436-444.
+
+[7]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.

@@ -1,6 +1,7 @@
 ---
-title: "Style Box: Overview, Parameters, and Limitations"
-description: "Explore the investment landscape with our guide on style box mutual funds and algorithmic trading Understand their benefits and how they optimize investor strategies"
+title: Style Box Guide to Diversifying Your Investment Portfolio
+description: Style Box simplifies investment decisions by mapping company size and
+  style so investors can balance portfolios and manage risk Discover more inside
 ---
 
 

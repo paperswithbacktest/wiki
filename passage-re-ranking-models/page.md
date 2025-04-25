@@ -79,3 +79,19 @@ Another technique is "parallel processing," where the work of re-ranking is spli
 In the future, Passage Re-Ranking Models are expected to become even better at understanding the meaning of searches and passages. They might use more advanced machine learning techniques, like [deep learning](/wiki/deep-learning), to get smarter about how they rank passages. This could mean that the models will be able to understand not just the words in a search, but also the context and the user's intent. As a result, search results could become more accurate and helpful, making it easier for people to find exactly what they need.
 
 Another big development could be in how these models handle large amounts of data. With more data being created every day, Passage Re-Ranking Models will need to be faster and more efficient. Techniques like approximate nearest neighbor search and parallel processing might become even more important. Also, new ways of storing and accessing data could help these models work better with huge datasets, making search results quicker and more relevant.
+
+## References & Further Reading
+
+[1]: Craswell, N., Mitra, B., Yilmaz, E., Campos, D., & Bendersky, M. (2020). ["MS MARCO: A Human-Generated MAchine Reading COmprehension Dataset."](https://arxiv.org/abs/2102.07662)
+
+[2]: Lin, J., Ebesu, T., Yang, D., & Pang, L. (2021). ["Pretrained Transformers for Text Ranking: BERT and Beyond."](https://dl.acm.org/doi/abs/10.1145/3437963.3441667) ACM SIGIR Forum.
+
+[3]: NIST. ["Text REtrieval Conference (TREC)."](https://trec.nist.gov/) 
+
+[4]: Karpukhin, V., Oguz, B., Min, S., Lewis, P., Wu, L., Edunov, S., Chen, D., & Yih, W. (2020). ["Dense Passage Retrieval for Open-Domain Question Answering."](https://arxiv.org/abs/2004.04906)
+
+[5]: Lee, K., Chang, M., & Toutanova, K. (2020). ["Learning Dense Representations for Sparse Text Retrieval."](https://arxiv.org/abs/1906.00300)
+
+[6]: Dehghani, M., Zamani, H., Severyn, A., Kamps, J., & Croft, W. B. (2017). ["Neural Ranking Models with Weak Supervision."](https://arxiv.org/abs/1704.08803)
+
+[7]: Clark, C., Lee, K., Chang, M., & Toutanova, K. (2020). ["Beyond accuracy: Behavioral testing of NLP models with CheckList."](https://aclanthology.org/N19-1300/)

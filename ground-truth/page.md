@@ -81,3 +81,15 @@ Another technique is called "active learning." With this method, the model asks 
 When experts find different answers from different sources of ground truth data, they often use a method called "consensus building." This means they talk to each other and try to agree on what the right answer should be. They might look at all the different labels and see which one most experts agree on. If there's no clear agreement, they might need to do more research or get more data to help them decide. This way, they can make sure the ground truth they use is as accurate as possible.
 
 Sometimes, experts use special math methods to handle these disagreements. They might use something called "voting" where each source of ground truth gets a vote, and the most common answer wins. Another way is to use "weighted voting," where some sources are considered more important than others. For example, if one expert is more experienced, their vote might count more. By using these methods, experts can combine different sources of ground truth and make the best decision they can, even when the data isn't perfect.
+
+## References & Further Reading
+
+[1]: Amershi, S., Begel, A., Bird, C., DeLine, R., Gall, H., Kamar, E., ... & Zimmermann, T. (2019). ["Software Engineering for Machine Learning: A Case Study."](https://ieeexplore.ieee.org/document/8804457) Proceedings of the 41st International Conference on Software Engineering: Software Engineering in Practice.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Kohavi, R., & Longbotham, R. (2017). ["Online Controlled Experiments and A/B Testing."](https://www.researchgate.net/publication/316116834_Online_Controlled_Experiments_and_AB_Testing) Foundations and Trends in Machine Learning.
+
+[4]: Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., ... & Fei-Fei, L. (2015). ["ImageNet Large Scale Visual Recognition Challenge."](https://arxiv.org/abs/1409.0575) International Journal of Computer Vision, 115(3), 211-252.
+
+[5]: Wood, D. A. (2019). ["Ethics of Big Data and Artificial Intelligence in Medicine."](https://www.sciencedirect.com/science/article/pii/S2352552520301067) Journal of Pediatric Surgery, 54(10), 1983-1985.

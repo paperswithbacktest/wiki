@@ -79,3 +79,15 @@ Another technique is using regularization to prevent overfitting. In high-dimens
 In [machine learning](/wiki/machine-learning), hyperplanes are like lines or flat surfaces that help split data into different groups. Imagine you're trying to sort apples and oranges. If you only look at two things, like size and weight, you can draw a line on a piece of paper to separate them. This line is a simple hyperplane in two dimensions. The equation for this line is $$y = mx + b$$, where $$m$$ is how steep the line is, and $$b$$ is where the line touches the y-axis. When you add more things to look at, like color or sweetness, the line turns into a flat plane or even a more complex shape in higher dimensions. The equation for a hyperplane in a d-dimensional space is $$w_1x_1 + w_2x_2 + ... + w_dx_d = b$$, where $$w_i$$ are the weights that show how important each feature is, and $$b$$ is the bias that shifts the plane around. The goal is to find the best hyperplane that can sort the data accurately.
 
 The theoretical foundations of hyperplanes are important for designing algorithms like Support Vector Machines (SVM). In SVM, the hyperplane is used to create the widest possible gap, called the margin, between the closest points of the two groups. This gap helps the SVM sort new data correctly because it knows which side of the hyperplane the new data falls on. The math behind this involves figuring out the right weights and bias for the hyperplane equation. Kernel functions are a way to make hyperplanes work better with complex data by moving it into a higher-dimensional space where it's easier to separate. Regularization is another technique used to keep the hyperplane simple and prevent it from overfitting to the training data. These concepts help design algorithms that can handle complex datasets and make accurate predictions.
+
+## References & Further Reading
+
+[1]: Cortes, C., & Vapnik, V. (1995). ["Support-Vector Networks."](https://link.springer.com/article/10.1007/BF00994018) Machine Learning, 20(3), 273-297.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Scholkopf, B., & Smola, A. J. (2001). ["Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond."](https://direct.mit.edu/books/monograph/1821/Learning-with-KernelsSupport-Vector-Machines) MIT Press.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Hinton, G. E. (2007). ["Learning Multiple Layers of Representation."](https://www.sciencedirect.com/science/article/pii/S1364661307002173) Trends in Cognitive Sciences, 11(10), 428-434.

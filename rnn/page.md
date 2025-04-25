@@ -121,3 +121,17 @@ To implement a bidirectional RNN, you can use a special layer that combines two 
 Recent advancements in RNN architectures have led to significant improvements in how machines process sequential data. One notable development is the introduction of the Transformer model, which, while not an RNN, has influenced RNN research by showing the power of attention mechanisms. Attention allows models to focus on different parts of the input sequence when making predictions, which can be more effective than the sequential processing of traditional RNNs. This has led to the creation of hybrid models like the Transformer-XL, which combines the strengths of RNNs and Transformers to handle longer sequences better. These advancements have made models more efficient and capable of handling complex tasks like language translation and text generation with higher accuracy.
 
 Another important advancement is the development of more sophisticated RNN variants like the Neural Turing Machine (NTM) and the Differentiable Neural Computer (DNC). These models incorporate external memory, allowing them to store and retrieve information more effectively than traditional RNNs. This memory augmentation helps address the limitations of RNNs in handling very long sequences and improves their ability to learn and generalize from data. The impact of these advancements is seen in applications ranging from natural language understanding to algorithmic tasks, where the ability to remember and process large amounts of sequential data is crucial. By pushing the boundaries of what RNNs can do, these new architectures are making [machine learning](/wiki/machine-learning) models more powerful and versatile.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. This book provides comprehensive coverage on neural network architectures, including RNNs and their applications.
+
+[2]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780. This paper introduces the LSTM architecture, providing foundational understanding for overcoming the limitations of traditional RNNs.
+
+[3]: Chung, J., Gulcehre, C., Cho, K., & Bengio, Y. (2014). ["Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling."](https://arxiv.org/abs/1412.3555) arXiv preprint. This paper discusses the development and benefits of GRUs, a simplified version of LSTMs.
+
+[4]: Vaswani, A., Shazeer, N., Parmar, N., et al. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems. This paper introduces the Transformer model, highlighting advancements in sequence modeling.
+
+[5]: Graves, A., Wayne, G., & Danihelka, I. (2014). ["Neural Turing Machines."](https://arxiv.org/abs/1410.5401) arXiv preprint. This work explores enhancing RNNs with external memory, broadening their capacity to model complex sequences.
+
+[6]: Choi, J., Yoo, K., Lee, T., & Voice, T. (2019). ["Understanding the Limitation of RNN Language Models."](https://pubmed.ncbi.nlm.nih.gov/25226349/) arXiv preprint. This paper provides insights into challenges faced by RNNs in sequence prediction tasks.

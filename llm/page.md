@@ -81,3 +81,19 @@ Another thing to consider is how LLMs can be used to spread false information. B
 Recent advancements in Large Language Model (LLM) research have focused on making these models more efficient and effective. One big step forward is the development of smaller LLMs that can still do a lot of the same things as bigger ones. Researchers have found ways to make these smaller models by using special techniques like quantization, which means making the numbers the model uses smaller, and pruning, which means removing parts of the model that aren't needed as much. These smaller models use less computer power and can be trained faster, which makes them easier to use for more people.
 
 Another important advancement is in how LLMs understand and use context better. New methods like chain-of-thought prompting help LLMs think through problems step by step, which makes their answers more accurate and helpful. For example, if you ask an LLM a math problem, it can show its work and explain each step, not just give the final answer. Researchers are also working on making LLMs better at understanding different languages and cultures, so they can be more useful around the world. These improvements are helping LLMs become more versatile and reliable tools for many different tasks.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[3]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI.
+
+[4]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[5]: Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., ... & Rush, A. M. (2020). ["Transformers: State-of-the-Art Natural Language Processing."](https://arxiv.org/abs/1910.03771) arXiv preprint arXiv:1910.03771.
+
+[6]: ["Deep Learning"](https://en.wikipedia.org/wiki/Deep_learning) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+
+[7]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.

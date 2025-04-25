@@ -1,6 +1,7 @@
 ---
-title: "Sub-Asset Class: Definition and Examples"
-description: "Explore the power of sub-asset classes and algorithmic trading in investment management. Enhance your portfolio with detailed insights and targeted strategies."
+title: Sub-Asset Classes Explained for Smarter Portfolio Allocation
+description: Sub-asset classes let investors fine-tune allocations and diversify risk
+  for better portfolio performance across major sectors Discover more inside.
 ---
 
 

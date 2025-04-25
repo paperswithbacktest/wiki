@@ -79,3 +79,15 @@ Another big advancement in Pjit is in how it communicates between the different 
 In the future, we can expect Pjit to become even better at breaking big models into smaller pieces. Scientists are working on new ways to make the partitioning logic smarter, so it can figure out the best way to split the work even more efficiently. This will help Pjit handle bigger and more complex models without needing more computer power. By making the partitioning logic better, Pjit will be able to use the computer's memory and processing power more effectively, making machine learning tasks run faster and smoother.
 
 Another thing we might see in the future is Pjit working even better with other tools and frameworks. Researchers are trying to make Pjit's communication layer faster and more reliable, so the different parts of the model can talk to each other more smoothly. This will make it easier for Pjit to work with other machine learning tools, like TensorFlow or PyTorch, without slowing things down. By improving how Pjit integrates with other systems, it will become a more powerful and flexible tool for all kinds of machine learning projects.
+
+## References & Further Reading
+
+[1]: Vasilache, N., Johnson, J., Mathieu, M., Chintala, S., Piantino, S., & LeCun, Y. (2014). ["Fast Parallel Algorithms for Deep Convolutional Neural Networks."](https://arxiv.org/abs/1412.7580) arXiv preprint arXiv:1412.7580.
+
+[2]: Ragan-Kelley, J., et al. (2013). ["Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines."](https://dl.acm.org/doi/abs/10.1145/2499370.2462176) ACM SIGPLAN Notices.
+
+[3]: Zaharia, M., et al. (2010). ["Spark: Cluster Computing with Working Sets."](https://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf) HotCloud'10 Proceedings of the 2nd USENIX conference on Hot topics in cloud computing.
+
+[4]: Abadi, M., et al. (2016). ["TensorFlow: A System for Large-scale Machine Learning."](https://arxiv.org/abs/1605.08695) OSDI'16: Proceedings of the 12th USENIX conference on Operating Systems Design and Implementation.
+
+[5]: Dean, J., et al. (2012). ["Large Scale Distributed Deep Networks."](https://proceedings.neurips.cc/paper/2012/file/6aca97005c68f1206823815f66102863-Paper.pdf) NIPS'12 Proceedings of the 25th International Conference on Neural Information Processing Systems.

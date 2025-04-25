@@ -81,3 +81,19 @@ By using deep neural networks, models like BERT and ELMo can create different em
 The field of Contextualized Language Embeddings is moving forward quickly. One big advancement is the development of models like RoBERTa and ALBERT, which are improvements on BERT. These new models use different training methods and architectures to make embeddings even better at understanding context. For example, RoBERTa trains on more data and for longer, which helps it learn more about language. Another exciting area is the use of multilingual models, like mBERT and XLM-R, which can understand and work with many languages at the same time. These models make it easier to handle text from different languages without needing to train a separate model for each one.
 
 Looking ahead, researchers are working on making these models smaller and faster. This is important because big models like BERT need a lot of computer power, which not everyone has. One way to do this is by using techniques like knowledge distillation, where a smaller model learns from a bigger one. Another future direction is to make the models better at understanding specific types of text, like scientific papers or legal documents. This could help in fields like healthcare or law, where understanding complex language is really important. Overall, the goal is to keep improving how well these models understand and work with human language, making them more useful for all kinds of tasks.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv:1810.04805.
+
+[2]: Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). ["Deep Contextualized Word Representations."](https://arxiv.org/abs/1802.05365) arXiv:1802.05365.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv:1706.03762.
+
+[4]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[5]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach."](https://arxiv.org/abs/1907.11692) arXiv:1907.11692.
+
+[6]: Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., & Soricut, R. (2020). ["ALBERT: A Lite BERT for Self-supervised Learning of Language Representations."](https://arxiv.org/abs/1909.11942) arXiv:1909.11942.
+
+[7]: Conneau, A., Khandelwal, K., Goyal, N., Chaudhary, V., Wenzek, G., Guzmán, F., Grave, E., Ott, M., Zettlemoyer, L., & Stoyanov, V. (2020). ["Unsupervised Cross-lingual Representation Learning at Scale."](https://aclanthology.org/2020.acl-main.747/) arXiv:1911.02116.

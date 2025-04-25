@@ -81,3 +81,15 @@ For example, if the input text includes a name like "John Smith," and "John Smit
 In the future, copy mechanisms might get even better at understanding and copying important parts of text. They could use more advanced attention mechanisms to focus on key words and phrases more accurately. For example, researchers might develop new ways to calculate attention scores, like using $$ \alpha_i = \frac{\exp(e_i)}{\sum_{j=1}^{T} \exp(e_j)} $$, to make sure the model copies the right words from the input. This could help the model handle out-of-vocabulary words even better, making the output more accurate and relevant.
 
 Another exciting development could be the use of more sophisticated reinforcement learning techniques to fine-tune copy mechanisms. By learning from rewards and penalties, the model could become better at deciding when to copy and when to generate new words. This could lead to more balanced and effective outputs, especially in tasks like text summarization and machine translation. As these techniques improve, copy mechanisms could become an even more powerful tool in natural language processing, helping models keep important details while creating new content.
+
+## References & Further Reading
+
+[1]: Gu, J., Lu, Z., Li, H., & Li, V. O. K. (2016). ["Incorporating Copying Mechanism in Sequence-to-Sequence Learning."](https://aclanthology.org/P16-1154/) Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics.
+
+[2]: See, A., Liu, P. J., & Manning, C. D. (2017). ["Get To The Point: Summarization with Pointer-Generator Networks."](https://aclanthology.org/P17-1099/) Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics.
+
+[3]: Gulcehre, C., Ahn, S., Chaplot, D. S., Ke, N., Anderson, P., Meng, Z., & Courville, A. (2016). ["Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes."](https://arxiv.org/abs/1607.00036) International Conference on Learning Representations.
+
+[4]: Vinyals, O., Fortunato, M., & Jaitly, N. (2015). ["Pointer Networks."](https://arxiv.org/abs/1506.03134) Advances in Neural Information Processing Systems 28.
+
+[5]: Nallapati, R., Zhou, B., Gulcehre, C., Xiang, B., & others. (2016). ["Abstractive Text Summarization using Sequence-to-sequence RNNS and Beyond."](https://arxiv.org/abs/1602.06023) Proceedings of The 20th SIGNLL Conference on Computational Natural Language Learning.

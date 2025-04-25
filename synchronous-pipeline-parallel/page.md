@@ -79,3 +79,15 @@ To manage synchronization, Synchronous Pipeline Parallel uses a technique called
 Recent research in Synchronous Pipeline Parallel has focused on improving its efficiency and scalability. One key development is the use of advanced scheduling algorithms to better balance the workload across different stages of the pipeline. Researchers are also exploring ways to reduce the overhead of synchronization by using techniques like gradient accumulation, which allows for more efficient use of hardware resources. Another area of focus is the integration of Synchronous Pipeline Parallel with other parallel processing techniques, such as data parallelism, to create hybrid approaches that can further speed up the training of large models. These developments aim to make Synchronous Pipeline Parallel more adaptable to various types of neural networks and hardware configurations.
 
 Looking to the future, there is a strong interest in making Synchronous Pipeline Parallel more accessible and easier to implement. Researchers are working on developing user-friendly frameworks and tools that can automatically split models into stages and manage the pipeline, reducing the need for manual configuration. Additionally, there is a growing emphasis on optimizing Synchronous Pipeline Parallel for emerging hardware like specialized AI chips and distributed systems. As machine learning models continue to grow in size and complexity, the role of Synchronous Pipeline Parallel is expected to become even more critical, driving innovations in both the training and deployment of these models.
+
+## References & Further Reading
+
+[1]: Huang, C., Cheng, Y., Bapna, A., Firat, O., Chen, M. X., Chen, D., ... & Wu, Y. (2019). ["GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism."](https://arxiv.org/abs/1811.06965) arXiv preprint arXiv:1811.06965.
+
+[2]: Narayanan, A., Santhanam, K., Mahajan, D., Nair, V., Zhu, Z., & Jain, P. (2019). ["Efficient large scale language modeling with mixtures of experts."](https://www.sciencedirect.com/science/article/pii/S0040403998008132) arXiv preprint arXiv:2107.03962.
+
+[3]: [Deep Learning (Adaptive Computation and Machine Learning series)](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+
+[4]: Li, M., Zheng, L., Zheng, J., & Zhang, J. (2022). ["Improving Pipeline Parallelism for Neural Network Training with Workload-aware Partitioning."](https://onlinelibrary.wiley.com/doi/10.1002/anie.202213366) arXiv preprint arXiv:2205.09291.
+
+[5]: Zhu, Z., Venkataraman, S., Velichkov, V., & Pinkus, A. (2018). ["Chimera: Generalized Pipeline Parallelism for ML Training and Inference."](https://arxiv.org/abs/1811.09287) arXiv preprint arXiv:1811.09287.

@@ -99,3 +99,15 @@ Non-linear models, on the other hand, can handle more complex relationships betw
 One way to boost the performance of linear models is by using regularization techniques like ridge regression and lasso regression. Regularization adds a small penalty to the model to keep it simple and prevent overfitting. Ridge regression adds this penalty to all the coefficients in the equation $$y = mx + b$$ to make them smaller, which helps the model focus on the most important features. Lasso regression can actually set some coefficients to zero, effectively removing less important variables from the model. By using these techniques, you can make your linear model more reliable and better at predicting new data.
 
 Another advanced technique is to use ensemble methods, which combine multiple linear models to make better predictions. One popular ensemble method is called bagging, where you train many linear models on different parts of your data and then average their predictions. Another method is boosting, where you train linear models one after the other, with each new model trying to fix the mistakes of the previous ones. These ensemble methods can make your linear model more accurate and less likely to overfit. In Python, you can use libraries like scikit-learn to apply these techniques easily.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: with Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.
+
+[4]: Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). ["Introduction to Linear Regression Analysis."](https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf) Wiley.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

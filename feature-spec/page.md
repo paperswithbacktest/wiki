@@ -118,3 +118,17 @@ Another challenge is handling changes over time. As new types of data come in or
 Automated feature engineering is a way to automatically find new ways to change your data to make your machine learning model work better. It uses special methods to look at your data and come up with new features that might help the model learn more. When you use automated feature engineering, you still need a Feature Spec to make sure that the data is prepared the same way every time. The Feature Spec tells the computer exactly how to handle the raw data before the automated feature engineering starts. This way, the new features that are created will be based on data that is prepared consistently, which helps the model learn better.
 
 Even though automated feature engineering can find new features, the Feature Spec is still important. It makes sure that the data is always prepared the same way, no matter what new features are added. This consistency helps keep your model working well, even as you try out new ways to change the data. By using both automated feature engineering and a good Feature Spec, you can make your model more accurate and easier to work with.
+
+## References & Further Reading
+
+[1]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ) (2nd ed.). O'Reilly Media.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) (1st ed.). Manning Publications.
+
+[5]: Raschka, S., & Mirjalili, V. (2019). ["Python Machine Learning"](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750) (3rd ed.). Packt Publishing.
+
+[6]: Müller, A. C., & Guido, S. (2016). ["Introduction to Machine Learning with Python: A Guide for Data Scientists"](https://archive.org/details/introductiontoma0000mull). O'Reilly Media.

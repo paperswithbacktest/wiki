@@ -81,3 +81,15 @@ Optimizing the performance of a bidirectional model involves several considerati
 One of the current research trends in bidirectional machine learning is improving the efficiency of these models. Researchers are working on ways to make bidirectional models, like Bidirectional LSTMs and transformers, faster and less resource-intensive. This is important because these models need to process data in both directions, which can take a lot of time and computing power. One approach is to use techniques like pruning, where parts of the model that don't contribute much to the final output are removed. Another trend is exploring new architectures that can capture bidirectional context more effectively without the need for two separate processing layers. For example, some researchers are looking into models that can process data in both directions at the same time, which could make them faster and more efficient.
 
 Another area of focus is applying bidirectional models to new types of data and tasks. While bidirectional machine learning has been very successful in natural language processing and speech recognition, researchers are now trying to use these models in fields like healthcare and finance. For example, bidirectional models could help predict stock prices by looking at past and future data to understand market trends better. In healthcare, these models could be used to analyze patient data over time to predict health outcomes. The future direction of bidirectional machine learning also includes developing more interpretable models. Since bidirectional models can be hard to understand due to their complexity, researchers are working on ways to make them more transparent and easier to explain, which is crucial for applications where decisions need to be justified.
+
+## References & Further Reading
+
+[1]: Graves, A., & Schmidhuber, J. (2005). ["Framewise phoneme classification with bidirectional LSTM and other neural network architectures."](https://www.sciencedirect.com/science/article/pii/S0893608005001206) Neural Networks, IEEE International Joint Conference on.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation.
+
+[5]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI.

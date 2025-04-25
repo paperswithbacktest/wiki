@@ -1,6 +1,7 @@
 ---
-title: "Skewness risk"
-description: Skewness risk in algorithmic trading is often overlooked, yet it's crucial for risk assessment and decision-making. Skewness refers to asymmetric data distribution, which can mislead trading algorithms that assume normality, potentially underestimating extreme market outcomes. This can lead to significant financial impacts by distorting models like Value at Risk (VaR) and volatility measures. Addressing skewness involves using models that accommodate asymmetry, enhancing algorithm reliability and protecting against unforeseen losses. Understanding and mitigating skewness risk is vital for optimizing trading strategies and improving risk management in the face of asymmetric data.
+title: Understanding Skewness Risk in Investment Portfolio Management
+description: Skewness risk shows how investment returns lean toward big gains or losses
+  so you can balance your portfolio and manage risk Discover more inside
 ---
 
 

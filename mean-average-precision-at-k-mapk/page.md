@@ -81,3 +81,15 @@ Another advanced technique is to use a loss function that directly targets MAP@K
 MAP@K, NDCG (Normalized Discounted Cumulative Gain), and MRR (Mean Reciprocal Rank) are all used to measure how well a model ranks items, but they do it in slightly different ways. MAP@K looks at the top K results and checks how many of them are relevant, then averages the precision at each point where a relevant item appears. It's good for seeing if the model puts the most important items at the top. NDCG also looks at the order of the results but gives more points to relevant items that are ranked higher. It uses a formula to "discount" the value of items that are lower in the list, which means it cares a lot about the order. MRR, on the other hand, focuses on the rank of the first relevant item. It takes the reciprocal of the position of the first relevant item and averages this across all queries. So, MRR is really about how quickly the model finds the first relevant item.
 
 While MAP@K, NDCG, and MRR all measure ranking performance, they highlight different aspects of it. MAP@K gives a good overall picture of how well the model ranks relevant items in the top K results. It's useful when you want to see if the model is doing a good job at putting many relevant items near the top. NDCG is more detailed because it considers the exact position of each relevant item and gives more credit to items that are ranked higher. This makes NDCG useful when the order of the results is very important. MRR is simpler and focuses only on the first relevant item, which can be helpful if finding the first relevant result quickly is the main goal. Each metric has its strengths, so choosing the right one depends on what you want to measure and what's most important for your users.
+
+## References & Further Reading
+
+[1]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://www.cambridge.org/highereducation/books/introduction-to-information-retrieval/669D108D20F556C5C30957D63B5AB65C) Cambridge University Press.
+
+[2]: Baeza-Yates, R., & Ribeiro-Neto, B. (1999). ["Modern Information Retrieval."](https://www.researchgate.net/publication/2352627_Modern_Information_Retrieval) Addison-Wesley.
+
+[3]: Järvelin, K., & Kekäläinen, J. (2002). ["Cumulated gain-based evaluation of IR techniques."](https://dl.acm.org/doi/10.1145/582415.582418) ACM Transactions on Information Systems (TOIS), 20(4), 422–446.
+
+[4]: Chapelle, O., & Chang, Y. (2011). ["Yahoo! learning to rank challenge overview."](https://proceedings.mlr.press/v14/chapelle11a.html) In the Proceedings of the Second International Conference on Yahoo! Learning to Rank Challenge.
+
+[5]: Rajaraman, A., & Ullman, J. D. (2011). ["Mining of Massive Datasets."](https://assets.cambridge.org/97811084/76348/frontmatter/9781108476348_frontmatter.pdf) Cambridge University Press.

@@ -1,6 +1,8 @@
 ---
-title: "Speculative Bubble"
-description: "Explore the relationship between speculative and economic bubbles and algorithmic trading in financial markets Learn how these dynamics impact investments and strategy"
+title: Understanding Speculative Bubbles and Their Economic Impact
+description: Speculative bubbles form when asset prices surge beyond intrinsic value
+  driven by investor excitement Learn to spot warning signs and mitigate risks Discover
+  more inside.
 ---
 
 

@@ -83,3 +83,21 @@ When it comes to varying object sizes, advanced modules use something called mul
 Recent trends in object detection technology focus a lot on making models faster and more accurate at the same time. Researchers are working on new ways to improve algorithms like YOLO and SSD, making them even better at finding objects quickly. One big direction is using something called "transformer architectures," which were first used in language understanding but are now being tried for object detection too. These transformers help the model understand the whole image better and can make object detection more accurate, especially when objects are hard to see or hidden.
 
 Another important area of research is how to make object detection work well on smaller devices like phones or drones. This means making the models smaller and more efficient so they can run on devices with less power. Techniques like model compression and quantization are being used to shrink the size of the models without losing too much accuracy. Researchers are also looking into how to make object detection more robust to changes in lighting, weather, or camera angles, so the models can work well in all kinds of situations.
+
+## References & Further Reading
+
+[1]: Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). ["You Only Look Once: Unified, Real-Time Object Detection."](https://ieeexplore.ieee.org/document/7780460) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[2]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Advances in Neural Information Processing Systems.
+
+[3]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) Proceedings of the European Conference on Computer Vision.
+
+[4]: Lin, T. Y., Goyal, P., Girshick, R., He, K., & Dollár, P. (2017). ["Focal Loss for Dense Object Detection."](https://ieeexplore.ieee.org/document/8237586) Proceedings of the IEEE International Conference on Computer Vision.
+
+[5]: Bolya, D., Zhou, C., Xiao, F., & Lee, Y. J. (2019). ["YOLACT: Real-time Instance Segmentation."](https://arxiv.org/abs/1904.02689) Proceedings of the IEEE International Conference on Computer Vision.
+
+[6]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Soussen, X., & Houlsby, N. (2021). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) Proceedings of the International Conference on Learning Representations.
+
+[7]: Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. (2018). ["Focal Loss for Dense Object Detection"](https://arxiv.org/abs/1708.02002). IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[8]: Zheng, Z., Wang, P., Liu, W., Li, J., Ye, R., & Ren, D. (2020). ["Distance-IoU Loss: Faster and Better Learning for Bounding Box Regression."](https://ojs.aaai.org/index.php/AAAI/article/view/6999) Proceedings of the AAAI Conference on Artificial Intelligence.

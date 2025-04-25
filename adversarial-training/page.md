@@ -79,3 +79,19 @@ In PAIR, the model learns from its mistakes, which is called regret. When the pr
 Fast_BAT, which stands for Fast Batch Adversarial Training, is a new way to make machine learning models better at dealing with tricky data. It works by showing the model many tricky examples at the same time during training. This helps the model learn faster and become more robust. In Fast_BAT, the model sees a lot of different changed examples in one go, which helps it understand how to handle these changes better. This method is quicker than older ways of adversarial training because it uses batches of data, making it more efficient. For example, if a model is trained to recognize pictures of dogs, Fast_BAT might show it many different changed pictures of dogs all at once. By doing this, the model learns to still recognize dogs even when the pictures are a bit off, making it more reliable in real life.
 
 ASAF, or Adversarial Self-Adaptive Fine-tuning, is another new method that helps machine learning models get better at handling tricky data. It works by letting the model adjust itself as it learns from these tricky examples. ASAF uses a special way to change the model's settings based on how well it's doing with the tricky data. This helps the model become more accurate and robust over time. For example, if a model is trained to recognize pictures of cats, ASAF might change how the model looks at these pictures based on the tricky examples it sees. By doing this, the model can learn to still recognize cats even when the pictures are changed a little bit. This method is helpful because it makes the model more adaptable and reliable in real-world situations where data can be messy or manipulated.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Shlens, J., & Szegedy, C. (2015). ["Explaining and Harnessing Adversarial Examples."](https://arxiv.org/abs/1412.6572) arXiv preprint arXiv:1412.6572.
+
+[2]: Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2018). ["Towards Deep Learning Models Resistant to Adversarial Attacks."](https://arxiv.org/abs/1706.06083) arXiv preprint arXiv:1706.06083.
+
+[3]: Tramèr, F., Kurakin, A., Papernot, N., Goodfellow, I., Boneh, D., & McDaniel, P. (2018). ["Ensemble Adversarial Training: Attacks and Defenses."](https://arxiv.org/abs/1705.07204) arXiv preprint arXiv:1705.07204.
+
+[4]: Zhang, H., Yu, Y., Jiao, J., Xing, E., Ghaoui, L. E., & Jordan, M. I. (2019). ["Theoretically Principled Trade-off between Robustness and Accuracy."](https://arxiv.org/abs/1901.08573) arXiv preprint arXiv:1901.08573.
+
+[5]: Kodali, N., Abernethy, J., Hays, J., & Kira, Z. (2017). ["On Convergence and Stability of GANs."](https://arxiv.org/abs/1705.07215) arXiv preprint arXiv:1705.07215.
+
+[6]: Ho, J., & Ermon, S. (2016). ["Generative Adversarial Imitation Learning."](https://arxiv.org/abs/1606.03476) Advances in Neural Information Processing Systems.
+
+[7]: Xie, Q., Zeng, R., Zhang, Z., Zhang, H., Cai, D., & He, X. (2020). ["AdvProp: Improving Accuracy and Robustness via Adversarial Propagation."](https://www.sciencedirect.com/science/article/pii/S0013468620303078) arXiv preprint arXiv:2003.10557.

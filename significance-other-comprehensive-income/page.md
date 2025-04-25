@@ -1,6 +1,7 @@
 ---
-title: "Significance of Other Comprehensive Income"
-description: "Explore the significance of Other Comprehensive Income and its impact on financial analysis in the context of algorithmic trading."
+title: Understanding Other Comprehensive Income in Financial Reporting
+description: Other Comprehensive Income shows unrealized gains and losses outside
+  net income to give investors a fuller financial view Discover more inside
 ---
 
 

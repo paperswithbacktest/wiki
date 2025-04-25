@@ -84,3 +84,19 @@ Another important way to evaluate NLP models is by looking at how well they unde
 One of the latest trends in NLP research is the development of large language models. These models, like GPT-3 and BERT, are trained on huge amounts of text data and can understand and generate text that seems very human-like. Researchers are working on making these models even better by using techniques like few-shot learning, where the model can learn new tasks with just a few examples. Another trend is the focus on multilingual NLP, which means making models that can work well with many different languages. This is important because it helps people who speak different languages understand each other better. Researchers are also looking into how to make these models more efficient, so they can run on smaller devices like smartphones.
 
 Another exciting direction in NLP research is the integration of NLP with other areas of AI, like computer vision and robotics. This means making systems that can understand both text and images or even interact with the physical world. For example, a robot could use NLP to understand spoken commands and then use computer vision to see and navigate its environment. This kind of integration can lead to more advanced and useful AI systems. Additionally, there's a growing interest in ethical NLP, which focuses on making sure that NLP models are fair and don't harm anyone. Researchers are working on ways to reduce bias in these models and ensure they respect privacy and cultural differences.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2008). ["Speech and Language Processing."](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) Prentice Hall.
+
+[2]: Mikolov, T., Karafiát, M., Burget, L., Cernocký, J., & Khudanpur, S. (2010). ["Recurrent neural network based language model."](https://gwern.net/doc/ai/nn/rnn/2010-mikolov.pdf) INTERSPEECH.
+
+[3]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in neural information processing systems.
+
+[5]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[6]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Synthesis Lectures on Human Language Technologies.
+
+[7]: Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). ["Deep Contextualized Word Representations."](https://arxiv.org/abs/1802.05365) arXiv preprint arXiv:1802.05365.

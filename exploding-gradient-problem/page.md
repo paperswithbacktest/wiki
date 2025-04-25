@@ -79,3 +79,15 @@ To help with this problem, you can change the network's design. Using fewer laye
 One advanced method to tackle the Exploding Gradient Problem is called gradient clipping. This technique works by setting a limit on how big the gradients can get. If a gradient is bigger than this limit, it gets cut down to the limit. This helps keep the training stable and lets the neural network learn properly. Imagine you're trying to adjust the volume on a radio, but each time you turn the dial, it moves too much, making the sound too loud or too quiet. Gradient clipping is like setting a maximum amount you can turn the dial, so you can make small, controlled adjustments. By using gradient clipping, you can prevent the gradients from exploding and help the neural network learn more effectively.
 
 Another method is using different activation functions like ReLU (Rectified Linear Unit). ReLU is defined as $$ \text{ReLU}(x) = \max(0, x) $$. The derivative of ReLU is either 0 or 1, which means it won't make the gradients grow exponentially. This helps keep the training stable and prevents the gradients from exploding. Also, special network architectures like Residual Networks (ResNets) use skip connections to help with this problem. Skip connections let the gradients go straight from one layer to another without going through all the layers in between. This can help keep the gradients smaller and make the training more stable. By using these advanced methods, you can make it easier for the neural network to learn without running into the Exploding Gradient Problem.
+
+## References & Further Reading
+
+[1]: Pascanu, R., Mikolov, T., & Bengio, Y. (2013). ["On the difficulty of training Recurrent Neural Networks."](https://arxiv.org/abs/1211.5063) Proceedings of the 30th International Conference on Machine Learning (ICML-13).
+
+[2]: Hochreiter, S. (1998). ["The Vanishing Gradient Problem During Learning Recurrent Neural Nets and Problem Solutions."](https://www.researchgate.net/publication/220355039_The_Vanishing_Gradient_Problem_During_Learning_Recurrent_Neural_Nets_and_Problem_Solutions) International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems.
+
+[3]: Glorot, X., & Bengio, Y. (2010). ["Understanding the difficulty of training deep feedforward neural networks."](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) Proceedings of the 13th International Conference on Artificial Intelligence and Statistics.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification."](https://arxiv.org/abs/1502.01852) Proceedings of the IEEE International Conference on Computer Vision (ICCV).

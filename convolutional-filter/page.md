@@ -117,3 +117,17 @@ These examples show how to set up a basic [convolutional neural network](/wiki/c
 One advanced technique to optimize convolutional filters is called "depthwise separable convolutions." This method breaks down a regular convolutional filter into two smaller steps: a depthwise convolution and a pointwise convolution. The depthwise convolution uses a different filter for each input channel, which helps the network focus on important features in each channel without mixing them up right away. Then, the pointwise convolution combines these features using 1x1 filters. This approach can make the network faster and use less memory because it does less math overall. For example, if you have a 3x3 filter with 32 output channels and 64 input channels, a regular convolution would need $$3 \times 3 \times 32 \times 64$$ calculations. But with depthwise separable convolutions, you'd only need $$3 \times 3 \times 64 + 1 \times 1 \times 32 \times 64$$ calculations, which is a lot less.
 
 Another technique is "dilated convolutions," which can help the filter see a bigger area of the image without making the filter bigger. In a dilated convolution, you add gaps between the numbers in the filter, like skipping every other pixel. This lets the filter look at a larger part of the image in one step, which can help find bigger patterns without using more memory or slowing down the network. For example, if you use a dilation rate of 2 with a 3x3 filter, it will actually look at a 5x5 area of the image. This can be really useful for tasks like image segmentation, where you need to understand the bigger picture of what's in the image. By using these advanced techniques, you can make your convolutional filters work better and help your network understand images more accurately.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[3]: Simonyan, K., & Zisserman, A. (2014). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.
+
+[4]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[5]: Chollet, F. (2017). ["Xception: Deep Learning with Depthwise Separable Convolutions."](https://ieeexplore.ieee.org/document/8099678) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[6]: Dumoulin, V., & Visin, F. (2016). ["A guide to convolution arithmetic for deep learning."](https://arxiv.org/abs/1603.07285) arXiv preprint arXiv:1603.07285.

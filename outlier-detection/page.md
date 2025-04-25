@@ -81,3 +81,15 @@ Another way to evaluate an outlier detection model is by using the Receiver Oper
 Local Outlier Factor (LOF) is a more advanced way to find outliers that looks at how each data point compares to its neighbors. Instead of just looking at how far a point is from the average or the middle of the data, LOF checks how dense the area around each point is. If a point is in a less dense area than its neighbors, it might be an outlier. This method is good because it can find outliers even if the data is spread out in different ways, which simpler methods like Z-score or IQR might miss. LOF works well with high-dimensional data and can find outliers that are hidden in the middle of the data, not just the ones that are far away from everything else.
 
 LOF improves upon simpler methods because it can find outliers that are not just extreme values but are unusual in their local area. For example, if you're looking at test scores and most students score around 70, a score of 75 might not seem like an outlier. But if all the other students in the same class scored around 60, the 75 score could be an outlier in its local context. LOF can spot this kind of outlier by comparing the density of points around it. This makes LOF a powerful tool for finding unusual data points in complex datasets where simpler methods might fail.
+
+## References & Further Reading
+
+[1]: Hawkins, D. M. (1980). ["Identification of Outliers."](https://link.springer.com/book/10.1007/978-94-015-3994-4) Springer Netherlands.
+
+[2]: Aggarwal, C. C. (2017). ["Outlier Analysis."](https://link.springer.com/book/10.1007/978-3-319-47578-3) Springer International Publishing.
+
+[3]: Breunig, M. M., Kriegel, H. P., Ng, R. T., & Sander, J. (2000). ["LOF: Identifying Density-Based Local Outliers."](https://dl.acm.org/doi/10.1145/335191.335388) ACM SIGMOD Record.
+
+[4]: Chandola, V., Banerjee, A., & Kumar, V. (2009). ["Anomaly Detection: A Survey."](https://dl.acm.org/doi/10.1145/1541880.1541882) ACM Computing Surveys, 41(3), 1-58.
+
+[5]: Liu, F. T., Ting, K. M., & Zhou, Z. H. (2008). ["Isolation Forest."](https://ieeexplore.ieee.org/document/4781136) In 2008 Eighth IEEE International Conference on Data Mining.

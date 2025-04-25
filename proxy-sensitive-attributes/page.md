@@ -79,3 +79,15 @@ For example, imagine we use someone's job title as a proxy for how much money th
 Current research trends in handling proxy variables in machine learning focus on improving fairness and reducing bias. One popular approach is developing new fairness-aware algorithms that can detect and mitigate the impact of proxy variables. Researchers are exploring techniques like adversarial debiasing, where a model is trained alongside an adversary to ensure that sensitive attributes are not captured through proxies. Another trend is the use of causal inference methods to understand the relationships between variables better. This helps in identifying which variables are acting as proxies and how they influence the model's outcomes. Additionally, there's growing interest in using interpretable machine learning models, which can help explain how proxy variables affect predictions and make it easier to spot and fix unfairness.
 
 Future directions in this field are likely to involve more sophisticated methods for detecting and handling proxy variables. Researchers are working on developing tools that can automatically identify proxy variables and suggest alternatives that do not introduce bias. There's also a push towards creating more comprehensive datasets that include direct measures of the variables of interest, reducing the need for proxies. Moreover, as machine learning models become more widely used in critical areas like healthcare and finance, there will be a stronger focus on ensuring these models are fair and transparent. This will involve not just technical solutions but also collaboration with policymakers and ethicists to ensure that the use of proxy variables aligns with legal and ethical standards.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) fairmlbook.org.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys (CSUR), 54(6), 1-35.
+
+[3]: Datta, A., Tschantz, M. C., & Datta, A. (2015). ["Automated Experiments on Ad Privacy Settings."](https://arxiv.org/abs/1408.6491) Proceedings of the National Academy of Sciences, 112(44), 13517-13522.
+
+[4]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness Through Awareness."](https://arxiv.org/abs/1104.3913) Proceedings of the 3rd Innovations in Theoretical Computer Science Conference, 214-226.
+
+[5]: Lipton, Z. C., McAuley, J., & Chouldechova, A. (2018). ["Does Mitigating ML’s Impact Disparities Require Treatment Disparities?"](https://arxiv.org/abs/1711.07076) Advances in Neural Information Processing Systems 31.

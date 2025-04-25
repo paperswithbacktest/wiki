@@ -1,6 +1,7 @@
 ---
-title: "Statistics Overview and Significance"
-description: "Explore the essential role of statistics in algorithmic trading to interpret data, optimize strategies, and enhance efficiency for successful trading decisions."
+title: Statistics Fundamentals for Informed Decision Making
+description: Statistics fundamentals offer clear insights into descriptive and inferential
+  methods for data analysis and informed decisions. Discover more inside.
 ---
 
 

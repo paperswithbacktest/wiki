@@ -79,3 +79,17 @@ Another way STDC improves semantic segmentation is by keeping the network simple
 The Flow Alignment Module helps make semantic segmentation better by fixing problems that can happen when objects move in a video. Imagine you're watching a video of a car driving by. The car moves from one frame to the next, and this can make it hard for the computer to label the pixels correctly. The Flow Alignment Module uses something called optical flow to understand how things are moving. By doing this, it can keep track of the car and make sure the labels stay accurate, even as the car moves. This helps the network understand the video better and label each pixel more correctly.
 
 The Bilateral Guided Aggregation Layer and Dense Atrous Spatial Pyramid Pooling (DASPP) also help improve semantic segmentation by focusing on different parts of the image. The Bilateral Guided Aggregation Layer looks at the image and uses information from different scales to make better predictions. It's like looking at a picture from far away and then up close to catch all the details. DASPP takes this a step further by using many different sizes of "holes" or gaps when looking at the image. This helps the network see both big and small details at the same time. By combining these techniques, the network can understand the image better and label each pixel more accurately.
+
+## References & Further Reading
+
+[1]: Chen, L.-C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2018). ["DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs."](https://ieeexplore.ieee.org/document/7913730) IEEE Transactions on Pattern Analysis and Machine Intelligence, 40(4), 834-848.
+
+[2]: Long, J., Shelhamer, E., & Darrell, T. (2015). ["Fully Convolutional Networks for Semantic Segmentation."](https://ieeexplore.ieee.org/document/7298965) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). ["Pyramid Scene Parsing Network."](https://arxiv.org/abs/1612.01105) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Kirillov, A., Wu, Y., He, K., & Girshick, R. (2020). ["PointRend: Image Segmentation as Rendering."](https://arxiv.org/abs/1912.08193) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Yu, F., & Koltun, V. (2016). ["Multi-Scale Context Aggregation by Dilated Convolutions."](https://arxiv.org/abs/1511.07122) arXiv preprint arXiv:1511.07122.
+
+[6]: Zhou, Z.-H. (2021). ["Automated Machine Learning: Methods, Systems, Challenges."](https://link.springer.com/book/10.1007/978-3-030-05318-5) Springer Nature.

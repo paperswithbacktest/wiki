@@ -1,6 +1,7 @@
 ---
-title: "Stock Market Crash of 1987: Causes and Events"
-description: "Explore the causes and events of the 1987 stock market crash known as Black Monday and understand how algorithmic trading played a role in this financial crisis."
+title: Understanding the Stock Market Crash of 1987 and Its Legacy
+description: Stock Market Crash of 1987 shows how program trading margin debt and
+  panic triggered a 22.6% one day drop and led to vital reforms Discover more inside
 ---
 
 

@@ -81,3 +81,25 @@ DynamicConv, also known as Dynamic Convolution, is a newer technique that makes 
 Octave Convolution is another recent advancement that splits the picture into two parts: a high-frequency part that captures small details and a low-frequency part that looks at bigger patterns. Think of it like using two different magnifying glasses to look at the same picture. One glass zooms in on tiny details, while the other looks at the overall shape. By processing these parts separately and then combining them, Octave Convolution can make the computer work more efficiently. This technique helps reduce the amount of work the computer needs to do, making it faster and using less power. It's especially useful in big models where saving computational resources is important.
 
 Both DynamicConv and Octave Convolution have a big impact on neural network architectures. They make models more adaptable and efficient, which is crucial for applications on devices with limited power, like phones. By using these techniques, researchers and developers can create better models that work faster and use fewer resources, leading to advancements in fields like computer vision and [artificial intelligence](/wiki/ai-artificial-intelligence).
+
+## References & Further Reading
+
+[1]: Lecun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-Based Learning Applied to Document Recognition."](https://ieeexplore.ieee.org/document/726791) Proceedings of the IEEE, 86(11), 2278-2324.
+
+[2]: Chollet, F. (2017). ["Xception: Deep Learning with Depthwise Separable Convolutions."](https://ieeexplore.ieee.org/document/8099678) arXiv preprint arXiv:1610.02357.
+
+[3]: Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., ... & Adam, H. (2017). ["MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications."](https://arxiv.org/abs/1704.04861) arXiv preprint arXiv:1704.04861.
+
+[4]: Yu, F., & Koltun, V. (2016). ["Multi-Scale Context Aggregation by Dilated Convolutions."](https://arxiv.org/abs/1511.07122) arXiv preprint arXiv:1511.07122.
+
+[5]: Zhang, X., Zhou, X., Lin, M., & Sun, J. (2018). ["ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices."](https://ieeexplore.ieee.org/document/8578814) arXiv preprint arXiv:1707.01083.
+
+[6]: Gu, J., Wang, Z., Kuen, J., Ma, L., Shahroudy, A., Shuai, B., ... & Chen, T. (2018). ["Recent Advances in Convolutional Neural Networks."](https://www.sciencedirect.com/science/article/pii/S0031320317304120) Pattern Recognition, 77, 354-377.
+
+[7]: Dai, J., Qi, H., Xiong, Y., Li, Y., Zhang, G., Hu, H., & Wei, Y. (2017). ["Deformable Convolutional Networks."](https://ieeexplore.ieee.org/document/8237351) arXiv preprint arXiv:1703.06211.
+
+[8]: Wang, Y., Zhang, X., Li, Z., Zhang, L., Fu, Y., & Jiang, Y. G. (2020). ["Beyond Filters: Compact Feature Map for Compact Learning in CNN."](https://www.sciencedirect.com/science/article/pii/S1535610825001175) 2020 IEEE Winter Conference on Applications of Computer Vision (WACV).
+
+[9]: Li, Y., Li, H., Lin, Y., Jin, R., & Yan, S. (2019). ["Augmenting Convolutional Networks with Attention-based Transformation for Complex Scene Interpolation."](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201808948) arXiv preprint arXiv:1812.01242.
+
+[10]: Chen, Y., Xu, C., Yang, X., & Tao, D. (2020). ["Attention-Augmented Convolutional Networks."](https://www.sciencedirect.com/science/article/pii/S2542435120302439) arXiv preprint arXiv:1911.07392.

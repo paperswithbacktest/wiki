@@ -83,3 +83,17 @@ There are also some specific measures you can use to evaluate these techniques. 
 Recent advancements in value function estimation have focused on improving the accuracy and efficiency of learning in complex environments. One notable development is the use of deep neural networks, such as Deep Q-Networks (DQNs), which have shown great success in handling high-dimensional state spaces. Researchers have also been exploring methods like V-trace and Retrace to better handle off-policy learning, where the agent learns from experiences that are not part of its current policy. These techniques help reduce bias and improve the stability of value estimates by adjusting how much the agent learns from each experience based on how different it is from the target policy. For example, the V-trace update can be expressed as $$V(s) \leftarrow V(s) + \alpha \sum_{t=0}^{T-1} \gamma^t \rho_t \delta_t^v$$, where $$\alpha$$ is the learning rate, $$\gamma$$ is the discount factor, $$\rho_t$$ is the importance sampling ratio, and $$\delta_t^v$$ is the TD-error.
 
 Future directions in value function estimation research are likely to continue exploring ways to make learning more efficient and effective, especially in environments with sparse rewards or partial observability. One promising area is the integration of model-based reinforcement learning, which uses a model of the environment to plan ahead and improve value estimates. Another area of interest is the use of meta-learning techniques to quickly adapt value function estimation to new tasks. Researchers are also working on developing more robust methods to handle noisy and uncertain environments, which could involve incorporating uncertainty estimates into the value function. By combining these advancements, future value function estimation methods could lead to agents that learn faster and perform better in a wide range of real-world applications.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., & others. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529–533.
+
+[3]: Watkins, C. J. C. H., & Dayan, P. (1992). ["Q-Learning."](https://link.springer.com/article/10.1007/BF00992698) Machine Learning, 8(3-4), 279-292.
+
+[4]: Espeholt, L., Soyer, H., Munos, R., Simonyan, K., Mnih, V., Ward, T., ... & others. (2018). ["IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures."](https://arxiv.org/abs/1802.01561) In International Conference on Machine Learning, 1407-1416.
+
+[5]: Schulman, J., Levine, S., Moritz, P., Jordan, M., & Abbeel, P. (2015). ["Trust Region Policy Optimization."](https://arxiv.org/abs/1502.05477) arXiv preprint arXiv:1502.05477.
+
+[6]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., & others. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.

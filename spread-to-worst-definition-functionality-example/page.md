@@ -1,6 +1,7 @@
 ---
-title: "Spread-to-Worst: Definition, Functionality, and Example"
-description: "Explore the significance of Spread-to-Worst and Yield-to-Worst in bond investing. Learn how algorithmic trading enhances analysis for optimized decision-making."
+title: 'Understanding Spread-to-Worst: Assessing Bond Risk Effectively'
+description: Spread-to-Worst measures the extra yield investors earn over risk-free
+  bonds in worst-case bond scenarios to gauge risk and reward. Discover more inside
 ---
 
 

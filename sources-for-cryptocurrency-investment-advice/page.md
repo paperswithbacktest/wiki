@@ -1,6 +1,7 @@
 ---
-title: "Sources for Cryptocurrency Investment Advice"
-description: "Explore key sources for cryptocurrency investment advice including algo trading Learn to navigate market volatility and enhance decision-making with expert insights"
+title: Comprehensive Cryptocurrency Investment Advice Guide
+description: Cryptocurrency investment advice outlines key concepts and credibility
+  tips to help you manage risk and make informed choices. Discover more inside
 ---
 
 

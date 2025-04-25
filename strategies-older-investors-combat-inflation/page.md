@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Older Investors to Combat Inflation"
-description: "Discover strategies for older investors to combat inflation by incorporating diversified portfolios and algorithmic trading techniques to preserve wealth."
+title: Investment Strategies for Older Investors to Combat Inflation
+description: Inflation erodes older investors savings with TIPS dividend stocks and
+  real estate to maintain purchasing power Protect your portfolio today
 ---
 
 

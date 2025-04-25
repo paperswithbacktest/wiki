@@ -79,3 +79,21 @@ For example, if you have a gradient $$g$$ that needs to be sent from one compute
 ZeRO-Infinity is a way to train even bigger machine learning models than ZeRO can handle. It does this by using a special kind of memory called CPU memory and storage memory, not just the memory on the computer's graphics card. This means you can use the memory from all parts of the computer to help train the model. ZeRO-Infinity also lets you use more computers at the same time, making the training process faster. By spreading the model across many computers and using different types of memory, ZeRO-Infinity can handle models that are too big for regular methods.
 
 When you use ZeRO-Infinity, the model's parameters $$P$$ are split into even smaller pieces than in ZeRO. These pieces are spread out across all the computers, and the computers work together to update the model. ZeRO-Infinity makes sure that the computers can still talk to each other and share information, even if the model is very big. This way, you can train huge models without running out of memory or slowing down the training process.
+
+## References & Further Reading
+
+[1]: Dean, J., Corrado, G., Monga, R., Chen, K., Devin, M., Le, Q. V., ... & Ng, A. Y. (2012). ["Large Scale Distributed Deep Networks."](https://dl.acm.org/doi/10.5555/2999134.2999271) Advances in Neural Information Processing Systems 25.
+
+[2]: Li, M., Andersen, D. G., Park, J. W., Smola, A. J., Ahmed, A., Josifovski, V., ... & Long, J. (2014). ["Scaling Distributed Machine Learning with the Parameter Server."](https://dl.acm.org/doi/10.5555/2685048.2685095) Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation.
+
+[3]: Recht, B., Re, C., Wright, S., & Niu, F. (2011). ["Hogwild: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent."](https://arxiv.org/abs/1106.5730) Advances in Neural Information Processing Systems 24.
+
+[4]: Kairouz, P., McMahan, B., Avent, B., Bellet, A., Bennis, M., Bhagoji, A. N., ... & Zhao, S. (2021). ["Advances and Open Problems in Federated Learning."](https://arxiv.org/abs/1912.04977) Journal of Machine Learning Research, 22(1).
+
+[5]: Goyal, P., Dollár, P., Girshick, R., Noordhuis, P., Wesolowski, L., Kyrola, A., ... & He, K. (2017). ["Accurate, Large Minibatch SGD: Training Imagenet in 1 Hour."](https://arxiv.org/abs/1706.02677) arXiv preprint arXiv:1706.02677.
+
+[6]: Narayanan, D., Sanjeev, V., Zhao, F., Kaliannan Chandramohan, V., Choudhury, N. A., & Zaharia, M. (2021). ["Efficient large-scale language model training on GPU clusters using Megatron-LM."](https://arxiv.org/abs/2104.04473) arXiv preprint arXiv:2104.04473.
+
+[7]: Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G., & Dean, J. (2017). ["Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer."](https://arxiv.org/abs/1701.06538) arXiv preprint arXiv:1701.06538.
+
+[8]: Shoeybi, M., Patwary, M. A., Puri, R., LeGresley, P., Casper, J., & Catanzaro, B. (2019). ["Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism."](https://arxiv.org/abs/1909.08053) arXiv preprint arXiv:1909.08053.

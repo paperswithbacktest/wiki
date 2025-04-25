@@ -1,6 +1,7 @@
 ---
-title: "Stock Market Earnings Potential"
-description: "Discover how to maximize your investment potential with stock market earnings and algorithmic trading Combine insights from earnings analysis with trading algorithms"
+title: Understanding Stock Market Earnings and Investment Strategies
+description: Stock market earnings depend on fundamentals plus dividends diversification
+  and algorithmic trading to manage risk and boost returns Discover more inside
 ---
 
 

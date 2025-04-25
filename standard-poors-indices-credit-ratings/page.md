@@ -1,6 +1,8 @@
 ---
-title: "Standard & Poor's: Indices and Credit Ratings"
-description: "Explore the vital role of S&P's indices and credit ratings in the finance world including their impact on market trends economic health and algo trading strategies."
+title: "Standard & Poor\u2019s Comprehensive Guide To Indices And Ratings"
+description: "Standard & Poor\u2019s offers a clear overview of key indices and credit\
+  \ rating methods letting investors assess market trends and risks Discover more\
+  \ inside"
 ---
 
 

@@ -81,3 +81,17 @@ Dense features also work well with the way neural networks process data. Neural 
 One advanced method for optimizing the use of dense features in complex models is feature selection. Feature selection helps you pick the most important dense features that really matter for your model's predictions. Imagine you're trying to predict house prices and you have lots of dense features like the number of bedrooms, the size of the house, and the age of the house. Feature selection methods like LASSO (Least Absolute Shrinkage and Selection Operator) can automatically choose which features are the most useful by shrinking the coefficients of less important features to zero. This way, your model can focus on the key details and work faster and more efficiently.
 
 Another method is dimensionality reduction, which helps you keep the important information in your dense features but in fewer dimensions. Principal Component Analysis (PCA) is a popular technique for this. PCA looks at your dense features and finds the directions where the data changes the most. It then creates new features, called principal components, that capture most of the information in fewer dimensions. For example, if you have a dataset with many dense features, PCA can reduce them to a smaller set of principal components that still represent the data well. This makes your model easier to train and can improve its performance without losing too much information.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Bengio, Y., Courville, A., & Vincent, P. (2013). ["Representation Learning: A Review and New Perspectives."](https://ieeexplore.ieee.org/document/6472238) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow."](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ) O'Reilly Media.
+
+[6]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.

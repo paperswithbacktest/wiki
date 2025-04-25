@@ -85,3 +85,15 @@ Another technique is using stacked generalization, or stacking, with a focus on 
 Calibration is very important for making good decisions in areas like medical diagnosis and financial forecasting. In medicine, when a doctor uses a model to decide if a patient needs treatment, the model's predictions need to be correct. If the model says there's a 90% chance a patient has a serious condition, but it's wrong a lot, the doctor might not trust it. A well-calibrated model adjusts its predictions so that when it says 90%, it's much closer to being right 90% of the time. This helps doctors make better choices and can save lives by making sure the right treatments are given at the right time.
 
 In financial forecasting, calibration helps make sure the predictions about things like stock prices or market trends are reliable. If a model predicts a stock has a 70% chance of going up, but it only goes up 50% of the time, investors might lose money because they made decisions based on wrong information. By using calibration techniques like Platt scaling, which adjusts the model's scores with a formula like $$P(y=1|s) = \frac{1}{1 + \exp(A \cdot s + B)}$$, the model's predictions become more accurate. This helps investors make smarter choices and manage their risks better, leading to more successful financial strategies.
+
+## References & Further Reading
+
+[1]: Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017). ["On Calibration of Modern Neural Networks."](https://arxiv.org/abs/1706.04599) Proceedings of the 34th International Conference on Machine Learning.
+
+[2]: Niculescu-Mizil, A. & Caruana, R. (2005). ["Predicting Good Probabilities With Supervised Learning."](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf) Proceedings of the 22nd International Conference on Machine Learning.
+
+[3]: Dawid, A. P. (1982). ["The Well-Calibrated Bayesian."](http://fitelson.org/seminar/dawid.pdf) Journal of the American Statistical Association.
+
+[4]: Zadrozny, B. & Elkan, C. (2002). ["Transforming Classifier Scores into Accurate Multiclass Probability Estimates."](https://dl.acm.org/doi/10.1145/775047.775151) Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[5]: Kuleshov, V., Fenner, N., & Ermon, S. (2018). ["Accurate Uncertainties for Deep Learning Using Calibrated Regression."](https://arxiv.org/abs/1807.00263) International Conference on Machine Learning.

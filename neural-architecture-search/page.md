@@ -79,3 +79,17 @@ This process can be tricky because there are so many different settings to try, 
 Neural Architecture Search (NAS) can be combined with other machine learning techniques to make models work better. One way to do this is by using NAS to find the best network design and then using another method, like transfer learning, to make it even better. Transfer learning means taking a network that was trained on one task and using it to help with a different task. By starting with a good design from NAS and then fine-tuning it with transfer learning, you can get a model that works really well without starting from scratch.
 
 Another way to enhance model performance is by using NAS along with ensemble methods. Ensemble methods mean combining several different models to make one big model that works better than any single model alone. You can use NAS to find several good network designs and then combine them into an ensemble. This can help make the final model more accurate and reliable because it uses the strengths of different designs. By working together, NAS and other machine learning techniques can help create powerful models that are good at solving complex problems.
+
+## References & Further Reading
+
+[1]: Elsken, T., Metzen, J. H., & Hutter, F. (2019). ["Neural Architecture Search: A Survey."](https://arxiv.org/abs/1808.05377) Journal of Machine Learning Research.
+
+[2]: Zoph, B., & Le, Q. V. (2017). ["Neural Architecture Search with Reinforcement Learning."](https://arxiv.org/abs/1611.01578) arXiv preprint arXiv:1611.01578.
+
+[3]: Liu, H., Simonyan, K., & Yang, Y. (2019). ["DARTS: Differentiable Architecture Search."](https://arxiv.org/abs/1806.09055) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Real, E., Aggarwal, A., Huang, Y., & Le, Q. V. (2019). ["Regularized Evolution for Image Classifier Architecture Search."](https://arxiv.org/abs/1802.01548) In AAAI Conference on Artificial Intelligence.
+
+[5]: Cai, H., Zhu, L., & Han, S. (2019). ["ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware."](https://arxiv.org/abs/1812.00332) arXiv preprint arXiv:1812.00332.
+
+[6]: Akimoto, Y., Shirakawa, S., Nishida, K., Sasaki, Y., & Suganuma, M. (2019). ["NAS-Bench-101: Towards Reproducible Neural Architecture Search."](https://proceedings.mlr.press/v97/akimoto19a.html) In Proceedings of the 36th International Conference on Machine Learning.

@@ -1,6 +1,7 @@
 ---
-title: "Spread-Load Investment Plan"
-description: "Discover effective financial planning strategies like spread-load investment plans and algorithmic trading to optimize your investment portfolio for lasting success."
+title: Understanding Spread-Load Investment Plans for Flexible Investing
+description: Spread-Load Investment Plan lets you start with low initial expense by
+  spreading fees over time and fosters regular investing habits Discover more inside.
 ---
 
 

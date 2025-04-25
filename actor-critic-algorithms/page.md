@@ -79,3 +79,15 @@ Besides looking at rewards, you can also measure how stable the learning process
 When you combine Actor-Critic algorithms with [deep learning](/wiki/deep-learning), you can handle complex, high-dimensional state spaces much better. In a game or a robot environment, there can be lots of different things happening at once, like where all the characters are or what the robot sees. Deep learning uses neural networks to understand these complicated situations. The Actor part of the algorithm uses a [neural network](/wiki/neural-network) to decide which action to take based on the current state. The Critic also uses a neural network to guess how good each state is. This way, the Actor-Critic algorithm can learn from very detailed information and make smart choices even when the environment is really complex.
 
 One popular method of combining these is called Deep Deterministic Policy Gradient (DDPG). In DDPG, both the Actor and the Critic use neural networks to learn from the environment. The Actor's neural network takes the current state as input and outputs an action. The Critic's neural network takes both the current state and the action as input and outputs the expected reward. The Temporal Difference (TD) error, calculated as $$TD = r + \gamma V(s') - V(s)$$, helps both networks learn. The Actor updates its policy to get higher rewards, and the Critic updates its value estimates to be more accurate. By using deep learning, the Actor-Critic algorithm can handle high-dimensional state spaces and learn to perform well in complex tasks.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press. This book provides an in-depth view of reinforcement learning fundamentals, including Actor-Critic methods.
+
+[2]: Mnih, V., Badia, A. P., Mirza, M., Graves, A., Lillicrap, T., Harley, T., ... & Kavukcuoglu, K. (2016). ["Asynchronous Methods for Deep Reinforcement Learning."](https://arxiv.org/abs/1602.01783) arXiv preprint arXiv:1602.01783. This paper introduces the Asynchronous Advantage Actor-Critic (A3C) algorithm.
+
+[3]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971. This paper discusses the Deep Deterministic Policy Gradient (DDPG), a variant of the Actor-Critic method.
+
+[4]: Konda, V. R., & Tsitsiklis, J. N. (2000). ["Actor-Critic Algorithms."](https://proceedings.neurips.cc/paper/1999/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf) Journal of Machine Learning Research, 1, 742-756. This research paper provides foundational work on Actor-Critic algorithms.
+
+[5]: Schulman, J., Levine, S., Moritz, P., Jordan, M. I., & Abbeel, P. (2015). ["Trust Region Policy Optimization."](https://arxiv.org/abs/1502.05477) arXiv preprint arXiv:1502.05477. Although focusing on policy optimization, this paper is relevant for understanding advanced policy methods related to Actor-Critic.

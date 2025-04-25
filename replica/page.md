@@ -81,3 +81,15 @@ Another exciting area of research is making replica machine learning work well w
 One successful case of using replica machine learning was by a big tech company working on improving their image recognition system. They had a huge amount of images to train their model on, and it was taking too long using just one computer. So, they decided to use replica machine learning. They split the image dataset into smaller parts and spread it across many computers. Each computer worked on a part of the images, and they all shared information to update the model's parameters. This made the training much faster, and they were able to finish the project on time. The improved image recognition system helped the company provide better services to their users.
 
 Another example comes from a research group studying natural language processing. They were working on a large language model that needed a lot of data to train. Using replica machine learning, they distributed the data and model across several computers. Each computer processed a part of the text data, and they all worked together to update the model. This not only sped up the training process but also allowed them to try out different versions of the model at the same time. As a result, they were able to develop a more accurate language model, which helped in understanding and generating human-like text more effectively.
+
+## References & Further Reading
+
+[1]: Dean, J., Corrado, G., Monga, R., Chen, K., Devin, M., Le, Q. V., ... & Ng, A. Y. (2012). ["Large scale distributed deep networks."](https://dl.acm.org/doi/10.5555/2999134.2999271) Advances in Neural Information Processing Systems 25.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[3]: Li, M., Andersen, D. G., Park, J. W., Smola, A. J., Ahmed, A., Josifovski, V., ... & Su, B. Y. (2014). ["Scaling Distributed Machine Learning with the Parameter Server."](https://dl.acm.org/doi/10.5555/2685048.2685095) Proceedings of the 11th USENIX Symposium on Operating Systems Design and Implementation (OSDI'14).
+
+[4]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) Proceedings of the 12th USENIX Conference on Operating Systems Design and Implementation (OSDI'16).
+
+[5]: Zhang, Y., & Lin, X. (2015). ["Distributed Stochastic Optimization through a Divide-and-Conquer Approach."](https://arxiv.org/abs/1501.00263) Proceedings of the 18th International Conference on Artificial Intelligence and Statistics (AISTATS).

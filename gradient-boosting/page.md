@@ -85,3 +85,15 @@ One popular histogram-based method is used in LightGBM, which builds trees in a 
 In the world of online advertising, a company called Criteo used Gradient Boosting to predict whether a user would click on an ad. They had a huge amount of data, with millions of ads shown every day. Traditional methods like logistic regression struggled to handle this data and make accurate predictions. But when Criteo switched to using XGBoost, a type of Gradient Boosting, they saw a big improvement. XGBoost could handle the large dataset efficiently and make better predictions about which ads users would click on. This led to more effective ad targeting and higher click-through rates, which meant more money for the company.
 
 Another example is in the healthcare industry, where Gradient Boosting was used to predict patient readmissions. A hospital wanted to know which patients were likely to come back after being discharged, so they could provide better care and reduce costs. They tried using traditional decision trees, but the predictions were not accurate enough. When they switched to LightGBM, another type of Gradient Boosting, they found that it could capture more complex patterns in the patient data. LightGBM's ability to handle large datasets and its fast processing speed made it a better choice. As a result, the hospital was able to predict readmissions more accurately, leading to improved patient care and lower costs.
+
+## References & Further Reading
+
+[1]: Friedman, J. H. (2001). ["Greedy Function Approximation: A Gradient Boosting Machine."](https://www.jstor.org/stable/2699986) The Annals of Statistics.
+
+[2]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., ... & Liu, T. Y. (2017). ["LightGBM: A Highly Efficient Gradient Boosting Decision Tree."](https://dl.acm.org/doi/10.5555/3294996.3295074) Advances in Neural Information Processing Systems 30.
+
+[4]: "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" (2019) by Aurélien Géron. [Link to book](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975).
+
+[5]: Natekin, A., & Knoll, A. (2013). ["Gradient Boosting Machines, a Tutorial."](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2013.00021/full) Frontiers of Computer Science.

@@ -1,6 +1,7 @@
 ---
-title: "Steps for Developing a Profitable Investment Portfolio"
-description: "Explore the essential steps for developing a profitable investment portfolio using algorithmic trading. Learn about asset allocation and risk management."
+title: Building an Effective Investment Portfolio for Diversified Growth
+description: Investment portfolio planning helps you set clear goals manage risk and
+  diversify assets through robo advisors and rebalancing Discover more inside.
 ---
 
 

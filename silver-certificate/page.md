@@ -1,6 +1,7 @@
 ---
-title: "Silver Certificate"
-description: "Discover the evolving market value of silver certificates, their historical significance, and how algorithmic trading enhances investment opportunities."
+title: Complete Guide To Silver Certificates History And Collecting
+description: Silver Certificates trace the evolution of US paper currency backed by
+  silver. Explore history, denominations and collecting tips. Discover more inside.
 ---
 
 

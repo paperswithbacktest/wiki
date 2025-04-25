@@ -1,7 +1,7 @@
 ---
-title: Understanding Sparse Features in Machine Learning Models
-description: Sparse features help reduce computational load and boost model efficiency
-  by focusing on non zero values in large datasets Discover more inside
+title: Handling Sparse Features in Machine Learning Models
+description: Sparse features improve model efficiency and reduce memory by focusing
+  on nonzero data for faster, more accurate predictions. Discover more inside
 ---
 
 ![Image](images/1.jpeg)
@@ -83,3 +83,19 @@ Another way to apply feature selection to sparse data is by using regularization
 One advanced method for optimizing machine learning models with sparse feature sets is using specialized algorithms like sparse linear models. These models are designed to work well with data where most values are zeros. For example, Lasso regression adds a penalty to the model's coefficients that can shrink less important feature coefficients to zero, helping the model focus on the most relevant features. This is useful because it makes the model simpler and can improve its accuracy by reducing overfitting. Another approach is using sparse autoencoders, which are neural networks designed to efficiently represent sparse data. They learn to compress the input data into a smaller representation and then reconstruct it, focusing on the non-zero values.
 
 Another method is using dimensionality reduction techniques like Principal Component Analysis (PCA) or t-SNE, but tailored for sparse data. These techniques can help reduce the number of features while keeping the most important information. For sparse data, you might use sparse PCA, which finds principal components that are also sparse. This means the new features created by sparse PCA will also have many zeros, which can make the data easier to handle and the model faster to train. Additionally, using tree-based algorithms like Random Forests or Gradient Boosting Machines can be effective because they naturally handle sparse data well. These algorithms split the data based on feature values, and zeros don't affect the splits as much as non-zero values, allowing them to focus on the important features.
+
+## References & Further Reading
+
+[1]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning"] (https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer.
+
+[2]: Hastie, T., Tibshirani, R., & Wainwright, M. (2015). ["Statistical Learning with Sparsity: The Lasso and Generalizations"](https://www.taylorfrancis.com/books/mono/10.1201/b18401/statistical-learning-sparsity-trevor-hastie-martin-wainwright-robert-tibshirani). Chapman and Hall/CRC.
+
+[3]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System"](https://arxiv.org/abs/1603.02754). Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[4]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python"](https://dl.acm.org/doi/10.5555/1953048.2078195). Journal of Machine Learning Research, 12, 2825-2830.
+
+[5]: Jurafsky, D., & Martin, J. H. (2009). ["Speech and Language Processing"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition). Pearson. 
+
+[6]: Aggarwal, C. C., & Zhai, C. (2012). ["Mining Text Data"](https://link.springer.com/book/10.1007/978-1-4614-3223-4). Springer.
+
+[7]: Bachem, O., Lucic, M., & Krause, A. (2017). ["Practical Compressive K-Means"](https://arxiv.org/abs/1703.06476). Advances in Neural Information Processing Systems 30.

@@ -83,3 +83,17 @@ By analyzing the patterns in the feedback from human evaluations, developers can
 For expert-level machine learning applications, advanced techniques like active learning are often used in human evaluation. Active learning involves the machine learning model asking human evaluators for feedback on specific examples where it is unsure or where the feedback could be most beneficial. This helps the model improve more efficiently by focusing on the most challenging or ambiguous cases. For instance, if a model is classifying medical images, it might request human experts to evaluate the most difficult cases, which can then be used to refine the model's performance. Tools like Labelbox or Prodigy can be used to implement active learning, allowing evaluators to provide detailed feedback and annotations on complex data sets.
 
 Another advanced technique is the use of A/B testing, where different versions of a model are evaluated side by side by human experts. This helps in understanding which version performs better in real-world scenarios. For example, if a model is predicting stock market trends, experts might compare the predictions from two different models and choose the one that aligns more closely with actual market movements. Tools like Optimizely or Google Optimize can facilitate A/B testing by managing the distribution of different model outputs to evaluators and collecting their feedback systematically. These advanced techniques and tools help ensure that machine learning models are as accurate and reliable as possible for expert-level applications.
+
+## References & Further Reading
+
+[1]: Callison-Burch, C., & Dredze, M. (2010). ["Creating Speech and Language Data with Amazon's Mechanical Turk."](https://www.cis.upenn.edu/~ccb/publications/creating-speech-and-language-data-with-amazon-mechanical-turk.pdf) Proceedings of the NAACL HLT 2010 Workshop on Creating Speech and Language Data with Amazon's Mechanical Turk.
+
+[2]: Snow, R., O'Connor, B., Jurafsky, D., & Ng, A. Y. (2008). ["Cheap and Fast—but is it Good? Evaluating Non-Expert Annotations for Natural Language Tasks."](https://aclanthology.org/D08-1027/) Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing.
+
+[3]: Kittur, A., Chi, E. H., & Suh, B. (2008). ["Crowdsourcing User Studies With Mechanical Turk."](https://dl.acm.org/doi/10.1145/1357054.1357127) Proceedings of the SIGCHI Conference on Human Factors in Computing Systems.
+
+[4]: Shah, C., & Gonzalez-Ibanez, R. (2011). ["Assessing the Quality of and Usability of Open-Ended Sets of Questions."](https://www.semanticscholar.org/paper/Evaluating-the-synergic-effect-of-collaboration-in-Shah-Gonz%C3%A1lez-Ib%C3%A1%C3%B1ez/14e9df01997de748db1cb289bc090f6b29b825e5) ASIS&T 2011 Annual Meeting.
+
+[5]: Daniel, F., & Gerla, L. (2011). ["Quality-Control Mechanisms for Automated Usability Evaluation."](https://www.researchgate.net/publication/373487143_USABILITY_AND_USER_EXPERIENCE_DESIGN_AND_EVALUATION) IEEE Internet Computing, 15(3), 26-35.
+
+[6]: Welinder, P., Branson, S., Perona, P., & Belongie, S. (2010). ["The Multidimensional Wisdom of Crowds."](https://gwern.net/doc/ai/dataset/2011-wah.pdf) Advances in Neural Information Processing Systems 23 (NeurIPS).

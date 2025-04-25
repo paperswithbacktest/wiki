@@ -93,3 +93,17 @@ In practice, adapting Wasserstein Loss for different data distributions often in
 Recent research on Wasserstein Loss has focused on improving its application in various machine learning tasks, particularly in GANs. One significant development is the introduction of Wasserstein GANs with Gradient Penalty (WGAN-GP), which addresses the challenge of enforcing the Lipschitz constraint more effectively. Instead of using weight clipping, WGAN-GP adds a gradient penalty term to the loss function, which helps stabilize training and improve the quality of generated samples. This approach has shown promising results in generating high-quality images and has been extended to other domains like text generation and time series data.
 
 Future directions for Wasserstein Loss include exploring its use in other types of generative models beyond GANs, such as Variational Autoencoders (VAEs). Researchers are also looking into ways to make the computation of Wasserstein distance more efficient, as the current methods can be computationally intensive. For example, new algorithms and approximations are being developed to speed up the calculation of $$W(P, Q) = \inf_{\gamma \in \Pi(P, Q)} \mathbb{E}_{(x, y) \sim \gamma}[\|x - y\|]$$. Additionally, there is interest in applying Wasserstein Loss to domains like [reinforcement learning](/wiki/reinforcement-learning) and natural language processing, where the ability to measure the difference between distributions could lead to more robust and effective models.
+
+## References & Further Reading
+
+[1]: Arjovsky, M., Chintala, S., & Bottou, L. (2017). ["Wasserstein GAN."](https://arxiv.org/abs/1701.07875) arXiv preprint arXiv:1701.07875.
+
+[2]: Gulrajani, I., Ahmed, F., Arjovsky, M., Dumoulin, V., & Courville, A. (2017). ["Improved Training of Wasserstein GANs."](https://arxiv.org/abs/1704.00028) arXiv preprint arXiv:1704.00028.
+
+[3]: Villani, C. (2008). ["Optimal Transport: Old and New."](https://link.springer.com/book/10.1007/978-3-540-71050-9) Springer-Verlag.
+
+[4]: Peyré, G., & Cuturi, M. (2019). ["Computational Optimal Transport."](https://arxiv.org/abs/1803.00567) arXiv preprint arXiv:1803.00567.
+
+[5]: Courty, N., Flamary, R., Tuia, D., & Rakotomamonjy, A. (2017). ["Optimal Transport for Domain Adaptation."](https://arxiv.org/abs/1507.00504) IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(9), 1853-1865.
+
+[6]: Srivastava, A., & Li, H. (2017). ["Generative Adversarial Network for Synthetic Time Series Data Generation."](https://ieeexplore.ieee.org/document/8587464) arXiv preprint arXiv:1706.02633.

@@ -182,3 +182,21 @@ forecast = model.predict(future)
 ```
 
 Ensemble methods are another way to make better time series forecasts. They work by combining the predictions from different models to get a better overall prediction. Imagine you have a few friends who are good at guessing the weather, but they sometimes make mistakes. If you take all their guesses and combine them, you might get a more accurate prediction than if you just listened to one friend. Ensemble methods do the same thing with models. They can use simple averages or more complicated ways to combine predictions. This can help reduce errors and make your forecasts more reliable.
+
+## References & Further Reading
+
+[1]: Hyndman, R. J., & Athanasopoulos, G. (2018). ["Forecasting: Principles and Practice"](https://otexts.com/fpp2/). OTexts.
+
+[2]: Box, G. E. P., Jenkins, G. M., & Reinsel, G. C. (2015). ["Time Series Analysis: Forecasting and Control"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118619193) (5th ed.). Wiley.
+
+[3]: Hamilton, J. D. (1994). ["Time Series Analysis"](https://api.pageplace.de/preview/DT0400.9780691218632_A40156688/preview-9780691218632_A40156688.pdf). Princeton University Press.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[5]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python) (2nd ed.). Manning Publications.
+
+[6]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[7]: Brockwell, P. J., & Davis, R. A. (2016). ["Introduction to Time Series and Forecasting"](https://link.springer.com/book/10.1007/978-3-319-29854-2) (3rd ed.). Springer.
+
+[8]: Brownlee, J. (2017). ["Introduction to Time Series Forecasting with Python: How to Prepare Data and Develop Models to Predict the Future"](https://books.google.com/books/about/Introduction_to_Time_Series_Forecasting.html?id=-AiqDwAAQBAJ). Machine Learning Mastery.

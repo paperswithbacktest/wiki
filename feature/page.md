@@ -85,3 +85,19 @@ Another way to handle categorical features is label encoding, where you give eac
 In [deep learning](/wiki/deep-learning), feature engineering often happens automatically inside the model, but there are still advanced techniques you can use to make your features better. One technique is called transfer learning. This is when you take a model that was trained on a big dataset, like pictures of cats and dogs, and use it to help your new model learn faster. For example, if you're trying to recognize different types of flowers, you can start with a model that already knows how to recognize shapes and colors from the cat and dog pictures. This saves time and helps your model learn the important features of flowers more quickly.
 
 Another advanced technique is called autoencoders. Autoencoders are special kinds of neural networks that can learn how to make new features from the ones you already have. They do this by trying to copy the input data as closely as possible, but with fewer features. This forces the model to find the most important information and create new features that capture that information well. For example, if you have a lot of different measurements about a car, like its size, weight, and speed, an autoencoder can create new features that summarize these measurements in a way that's easier for your model to understand. By using these advanced techniques, you can help your deep learning model find and use the best features for making good predictions.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[3]: Domingos, P. (2012). ["A Few Useful Things to Know About Machine Learning."](https://courses.cs.duke.edu/spring20/compsci527/papers/Domingos.pdf) Communications of the ACM, 55(10), 78-87.
+
+[4]: Guyon, I., & Elisseeff, A. (2003). ["An Introduction to Variable and Feature Selection."](https://dl.acm.org/doi/10.5555/944919.944968) Journal of Machine Learning Research, 3, 1157-1182.
+
+[5]: Kuhn, M., & Johnson, K. (2019). ["Feature Engineering and Selection: A Practical Approach for Predictive Models."](http://www.feat.engineering/) CRC Press.
+
+[6]: Bengio, Y., Courville, A., & Vincent, P. (2013). ["Representation Learning: A Review and New Perspectives."](https://arxiv.org/abs/1206.5538) IEEE Transactions on Pattern Analysis and Machine Intelligence, 35(8), 1798-1828.
+
+[7]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.

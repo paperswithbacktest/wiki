@@ -79,3 +79,19 @@ Another method is to use algorithms that are designed to handle imbalanced data,
 To evaluate the performance of a model specifically in terms of False Negatives, you need to look at how often the model says something is not there when it actually is. The main way to do this is by calculating the False Negative rate. The formula to find the False Negative rate is $$ \text{False Negative Rate} = \frac{\text{Number of False Negatives}}{\text{Total Number of Actual Positives}} $$. This rate tells you what percentage of the time the model missed something that was actually positive. If the rate is high, it means the model is missing a lot of true positives, which can be a problem, especially in areas like medical diagnosis where missing a disease can be dangerous.
 
 Another way to evaluate the model's performance in terms of False Negatives is by using a confusion matrix. A confusion matrix is a table that shows how many times the model got things right or wrong. It has four main parts: True Positives, True Negatives, False Positives, and False Negatives. By looking at the False Negatives in the confusion matrix, you can see how many times the model missed something that was actually positive. This helps you understand where the model is making mistakes and where it needs to improve. By focusing on reducing the number of False Negatives, you can make the model better at spotting the things it should, which is important for making accurate predictions.
+
+## References & Further Reading
+
+[1]: Saito, T., & Rehmsmeier, M. (2015). ["The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PLoS ONE.
+
+[2]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[3]: Chawla, N. V., et al. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 321-357.
+
+[4]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.researchgate.net/publication/222511520_Introduction_to_ROC_analysis) Pattern Recognition Letters, 27(8), 861-874.
+
+[5]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[6]: Weiss, G. M. (2004). ["Mining with Rarity: A Unifying Framework."](https://dl.acm.org/doi/10.1145/1007730.1007734) ACM SIGKDD Explorations Newsletter, 6(1), 7-19.
+
+[7]: Provost, F., & Fawcett, T. (2001). ["Robust Classification for Imprecise Environments."](https://link.springer.com/article/10.1023/A:1007601015854) Machine Learning, 42(3), 203-231.

@@ -113,3 +113,15 @@ torch.nn.utils.clip_grad_norm_(model.later_layers.parameters(), max_norm=1.0)
 In a research paper titled "Training Deep Networks with Gradient Clipping" by Pascanu et al. (2013), the authors explored how gradient clipping can help in training deep neural networks, especially those with recurrent structures like Long Short-Term Memory (LSTM) networks. They found that without gradient clipping, these networks often suffered from the problem of exploding gradients, where the gradients become so large that they cause the training to become unstable. By applying gradient clipping, the authors were able to keep the training process stable and improve the performance of the networks. They used a simple formula to clip the gradients: if the gradient $$g$$ is larger than the threshold $$t$$, then the new gradient $$g_{\text{clipped}}$$ is set to $$t$$. Otherwise, the gradient remains unchanged. This helped the networks learn better and achieve better results on tasks like language modeling.
 
 Another case study that highlights the importance of clipping is from the work of researchers at Google who developed the Transformer model for machine translation. In their paper "Attention Is All You Need" by Vaswani et al. (2017), they used value clipping to manage the attention weights in their model. They found that without clipping, the attention weights could become very large, which could lead to poor performance. By clipping these values, they were able to improve the model's stability and performance. In their implementation, they used a simple clipping function to ensure that the attention weights stayed within a certain range. This helped the model focus better on the relevant parts of the input and produce more accurate translations.
+
+## References & Further Reading
+
+[1]: Pascanu, R., Mikolov, T., & Bengio, Y. (2013). ["On the difficulty of training recurrent neural networks."](https://arxiv.org/abs/1211.5063) In International Conference on Machine Learning.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaisers, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) In Advances in Neural Information Processing Systems.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Graves, A. (2012). ["Supervised Sequence Labelling with Recurrent Neural Networks."](https://link.springer.com/book/10.1007/978-3-642-24797-2) Studies in Computational Intelligence, vol 385. Springer, Berlin, Heidelberg.
+
+[5]: Hinton, G. (2012). ["Neural Networks for Machine Learning."](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) Coursera Course by University of Toronto.

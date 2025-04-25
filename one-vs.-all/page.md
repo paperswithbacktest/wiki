@@ -81,3 +81,17 @@ To optimize the performance of a One-Vs.-All classifier, you can try different b
 To enhance the effectiveness of One-Vs.-All classifiers, you can use advanced techniques like ensemble methods. Ensemble methods combine the predictions from multiple classifiers to make a final prediction. For example, you can use a method called bagging, where you train many different classifiers on different parts of your data and then take a vote to decide the final class. Another ensemble method is boosting, where you train classifiers one after the other, with each new classifier focusing on the examples that the previous ones got wrong. These methods can make your One-Vs.-All classifier more accurate by using the strengths of different classifiers to cover each other's weaknesses.
 
 Another technique to improve One-Vs.-All classifiers is to use feature selection and engineering. Feature selection involves choosing the most important parts of your data to use in your classifiers. This can help your classifiers focus on the most useful information and ignore the rest. Feature engineering means creating new parts of your data that might help your classifiers do a better job. For example, if you're classifying fruits, you might create a new feature that measures the ratio of the fruit's width to its height. This can help your classifiers tell different fruits apart more easily. By using these techniques, you can make your One-Vs.-All classifiers more effective and accurate.
+
+## References & Further Reading
+
+[1]: Bishop, C.M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Rifkin, R., & Klautau, A. (2004). ["In Defense of One-Vs-All Classification."](https://dl.acm.org/doi/10.5555/1005332.1005336) Journal of Machine Learning Research, 5, 101–141.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Zhang, H., & Deng, Z. (2010). ["An Improved One-vs-One Method for Multi-class SVM Classification."](https://www.sciencedirect.com/science/article/pii/S002002551631043X) 2010 International Conference on Pattern Recognition.
+
+[5]: ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) by Kevin P. Murphy
+
+[6]: Mohri, M., Rostamizadeh, A., & Talwalkar, A. (2018). ["Foundations of Machine Learning."](https://cs.nyu.edu/~mohri/mlbook/) MIT Press.

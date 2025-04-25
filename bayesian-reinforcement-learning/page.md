@@ -79,3 +79,17 @@ In autonomous driving, Bayesian Reinforcement Learning can help a car learn to d
 Current research in Bayesian Reinforcement Learning is focusing on making the learning process faster and more efficient. One big trend is developing better ways to handle big, complicated problems. Researchers are working on algorithms that can update the computer's beliefs more quickly, even when there's a lot of information to process. Another trend is using Bayesian methods to help computers explore more effectively. This means finding ways for the computer to try new actions and gather more data, especially in situations where rewards are hard to come by. Researchers are also looking at how to use Bayesian Reinforcement Learning with other types of [machine learning](/wiki/machine-learning), like [deep learning](/wiki/deep-learning), to make the computer's decisions even better.
 
 In the future, Bayesian Reinforcement Learning could be used in more real-world scenarios, like healthcare and finance. For example, doctors could use it to figure out the best treatments for patients, even when they don't have a lot of information. In finance, it could help people make better investment decisions by considering how sure they are about different outcomes. Another direction is making the algorithms easier to use for people who aren't experts in machine learning. This means creating tools and software that help people set up and use Bayesian Reinforcement Learning models without needing to know a lot of math. As these trends and future directions develop, Bayesian Reinforcement Learning could become even more powerful and useful in many different areas.
+
+## References & Further Reading
+
+[1]: Ghavamzadeh, M., Mannor, S., Pineau, J., & Tamar, A. (2015). ["Bayesian Reinforcement Learning: A Survey."](https://arxiv.org/abs/1609.04436) Foundations and Trends® in Machine Learning, 8(5-6), 359-483.
+
+[2]: Ortega, P. A., & Braun, D. A. (2010). ["A Minimum Relative Entropy Principle for Learning and Acting."](https://dl.acm.org/doi/10.5555/1892211.1892223) Journal of Artificial Intelligence Research, Volume 38, 475-511.
+
+[3]: Strens, M. J. A. (2000). ["A Bayesian Framework for Reinforcement Learning."](https://www.ece.uvic.ca/~bctill/papers/learning/Strens_2000.pdf) In Proceedings of the 17th International Conference on Machine Learning (ICML), 943-950.
+
+[4]: Dearden, R., Friedman, N., & Andre, D. (1999). ["Model Based Bayesian Exploration."](https://dl.acm.org/doi/10.5555/2073796.2073814) In Proceedings of the 15th Conference on Uncertainty in Artificial Intelligence, 150-159.
+
+[5]: Vlassis, N., & Toussaint, M. (2009). ["Model-Free Reinforcement Learning as Mixture Learning."](https://icml.cc/Conferences/2009/papers/322.pdf) Artificial Intelligence Review, 32(1-4), 33-58.
+
+[6]: Kaelbling, L. P., Littman, M. L., & Cassandra, A. R. (1998). ["Planning and Acting in Partially Observable Stochastic Domains."](https://www.sciencedirect.com/science/article/pii/S000437029800023X) Artificial Intelligence, 101(1-2), 99-134.

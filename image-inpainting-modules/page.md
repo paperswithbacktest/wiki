@@ -81,3 +81,15 @@ Another advancement is the use of transformer-based models, like the ones used i
 Image inpainting can be a useful part of bigger [machine learning](/wiki/machine-learning) systems in many practical ways. For example, in medical imaging, doctors might use a system that first uses image inpainting to fix any missing or unclear parts of an image. After the image is fixed, other parts of the machine learning system can use this clearer image to help diagnose diseases or plan treatments. This makes the whole system more accurate and helpful for doctors. In the world of digital photo editing, image inpainting can be part of a larger system that lets people remove unwanted objects from their photos or fix old, damaged pictures. The inpainting module would work with other parts of the system to make the final image look perfect.
 
 Another way image inpainting can be used in larger systems is in video and movie production. Here, the inpainting module could be part of a system that helps filmmakers remove unwanted objects from scenes or add new ones to make the movie look better. The inpainting part of the system would work together with other parts that handle things like color correction and special effects. By using image inpainting in these larger systems, the final videos or movies can look more professional and realistic. Overall, integrating image inpainting into bigger machine learning systems can make them more powerful and useful in many different areas.
+
+## References & Further Reading
+
+[1]: Bertalmio, M., Sapiro, G., Caselles, V., & Ballester, C. (2000). ["Image Inpainting."](https://dl.acm.org/doi/10.1145/344779.344972) Proceedings of the 27th Annual Conference on Computer Graphics and Interactive Techniques.
+
+[2]: Pathak, D., Krahenbuhl, P., Donahue, J., Darrell, T., & Efros, A. A. (2016). ["Context Encoders: Feature Learning by Inpainting."](https://arxiv.org/abs/1604.07379) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[3]: Yu, J., Lin, Z., Yang, J., Shen, X., Lu, X., & Huang, T. S. (2018). ["Generative Image Inpainting with Contextual Attention."](https://arxiv.org/abs/1801.07892) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[4]: Nazeri, K., Ng, E., Joseph, T., Qureshi, F. Z., & Ebrahimi, M. (2019). ["EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning."](https://arxiv.org/abs/1901.00212) Proceedings of the IEEE/CVF International Conference on Computer Vision.
+
+[5]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.

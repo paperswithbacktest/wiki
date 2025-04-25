@@ -118,3 +118,15 @@ Gradient accumulation can be enhanced with a few advanced techniques to boost mo
 Another variation is to use gradient accumulation with techniques like gradient clipping, which helps prevent exploding gradients by limiting the magnitude of gradients during backpropagation. This can make training more stable, especially when using large effective batch sizes. You can implement gradient clipping in PyTorch like this: ```python
 torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 ```. By combining these advanced techniques with gradient accumulation, you can improve the training dynamics and potentially achieve better model performance, even with limited computational resources.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. Provides a comprehensive introduction to the field of deep learning, discussing various techniques, including gradient accumulation.
+
+[2]: Bottou, L. (2012). ["Stochastic Gradient Descent Tricks."](http://leon.bottou.org/publications/pdf/tricks-2012.pdf) In: Neural Networks: Tricks of the Trade. Discusses various optimization methods in gradient descent, which can be related to gradient accumulation techniques.
+
+[3]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv:1609.04747. An extensive overview of optimization algorithms, including insights into how techniques like gradient accumulation can affect optimization.
+
+[4]: Micikevicius, P., Narang, S., Alben, J., Diamos, G., Elsen, E., Garcia, D., ... & Shoeybi, M. (2018). ["Mixed precision training."](https://arxiv.org/abs/1710.03740) arXiv:1710.03740. This paper discusses mixed precision training, which can be used in conjunction with gradient accumulation to improve training efficiency.
+
+[5]: Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library."](https://arxiv.org/abs/1912.01703) arXiv:1912.01703. This paper introduces PyTorch, a popular deep learning framework that supports gradient accumulation and other advanced training techniques.

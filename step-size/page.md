@@ -1,7 +1,7 @@
 ---
-title: Optimizing Step Size For Efficient Machine Learning Training
-description: Step size in machine learning controls convergence speed balancing overshooting
-  and slow progress with adaptive methods discover more inside
+title: Understanding Step Size in Machine Learning Model Training
+description: Step size determines how fast and accurate model training converges in
+  machine learning with gradient descent for improved performance Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -79,3 +79,17 @@ One way to deal with this is by using adaptive step size methods like Adam or RM
 Momentum and Nesterov accelerated gradient are like smart helpers that work with the step size to make a machine learning model learn better. Imagine you're pushing a heavy ball down a hill. Momentum helps the ball keep moving in the right direction, even if the step size is a bit too small. It adds a bit of the last step's movement to the current step, so the model can keep learning smoothly. The formula for [momentum](/wiki/momentum) is $$ v_t = \gamma v_{t-1} + \alpha \nabla J(\theta_t) $$ and $$ \theta_{t+1} = \theta_t - v_t $$, where $$ v_t $$ is the velocity, $$ \gamma $$ is the momentum coefficient, $$ \alpha $$ is the step size, and $$ \nabla J(\theta_t) $$ is the gradient. This way, momentum helps the model learn faster by using the step size more effectively.
 
 Nesterov accelerated gradient is a bit like looking ahead before taking a step. It uses the step size to take a peek at where the model might end up and then adjusts the step to get closer to the best answer. The formula for Nesterov is $$ v_t = \gamma v_{t-1} + \alpha \nabla J(\theta_t - \gamma v_{t-1}) $$ and $$ \theta_{t+1} = \theta_t - v_t $$. This method can help the model learn even faster than regular momentum because it uses the step size to make smarter moves. Both momentum and Nesterov accelerated gradient work well with the step size to help the model learn quickly and accurately, making it easier to train complex neural networks.
+
+## References & Further Reading
+
+[1]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent."](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) In Proceedings of COMPSTAT'2010.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Kingma, D. P., & Ba, J. L. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[4]: Zeiler, M. D. (2012). ["ADADELTA: An Adaptive Learning Rate Method."](https://arxiv.org/abs/1212.5701) arXiv preprint arXiv:1212.5701.
+
+[5]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning representations by back-propagating errors."](https://www.nature.com/articles/323533a0) Nature, 323(6088), 533-536.
+
+[6]: Sutskever, I., Martens, J., Dahl, G., & Hinton, G. (2013). ["On the importance of initialization and momentum in deep learning."](https://dl.acm.org/doi/10.5555/3042817.3043064) In International conference on machine learning.

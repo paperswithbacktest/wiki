@@ -1,6 +1,7 @@
 ---
-title: "Social Sentiment Indicator: Overview and Functionality"
-description: "Discover how social sentiment analysis enhances algorithmic trading by extracting actionable insights from investor emotions to predict market trends effectively"
+title: Understanding Social Sentiment Indicators For Better Decisions
+description: Social Sentiment Indicator helps businesses gauge online opinion and
+  refine strategies based on real-time feedback. Discover more inside today.
 ---
 
 

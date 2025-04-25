@@ -1,6 +1,7 @@
 ---
-title: "Strategies to Mitigate Tax Liability on Real Estate Sales"
-description: "Explore effective strategies to minimize tax liabilities on real estate sales and discover the advantages of integrating algorithmic trading for optimized investment returns."
+title: Key Strategies to Reduce Real Estate Tax Liability Effectively
+description: Real Estate Tax Liability can be minimized with long-term holding, primary
+  residence exclusion, 1031 exchanges and cost segregation. Discover more inside.
 ---
 
 

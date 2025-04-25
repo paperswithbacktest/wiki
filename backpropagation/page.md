@@ -80,3 +80,19 @@ The math behind backpropagation in CNNs involves calculating how the error chang
 One advanced technique to optimize backpropagation in [deep learning](/wiki/deep-learning) is called batch normalization. This technique helps the network learn faster and more stable by normalizing the inputs to each layer. Imagine you're trying to teach a network to recognize pictures, but the brightness of the images keeps changing. Batch normalization would help by making sure the network sees the images in a consistent way, no matter how bright or dark they are. This makes it easier for the network to learn the important patterns. The math behind batch normalization involves calculating the mean and variance of the inputs and then adjusting them. If we call the input to a layer $$x$$, the normalized input can be written as $$\hat{x} = \frac{x - \mu}{\sqrt{\sigma^2 + \epsilon}}$$, where $$\mu$$ is the mean, $$\sigma^2$$ is the variance, and $$\epsilon$$ is a small number to avoid division by zero.
 
 Another technique is called gradient clipping, which helps prevent the problem of exploding gradients. When the error signals get too big as they move through the layers, the network can have a hard time learning. Gradient clipping fixes this by putting a limit on how big the gradients can get. If a gradient is too big, it gets cut down to a smaller size. This helps the network learn more smoothly and avoid jumping around too much. The way gradient clipping works is by checking the size of the gradients and adjusting them if they're too large. If we call the gradient $$\frac{\partial E}{\partial w}$$ and the threshold $$c$$, the clipped gradient can be written as $$\text{[clip](/wiki/clip)}(\frac{\partial E}{\partial w}, -c, c)$$. This means if the gradient is bigger than $$c$$ or smaller than $$-c$$, it gets set to $$c$$ or $$-c$$ respectively.
+
+## References & Further Reading
+
+[1]: Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). ["Learning Representations by Back-Propagating Errors."](https://www.nature.com/articles/323533a0) Nature, 323(6088), 533-536.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-Based Learning Applied to Document Recognition."](https://ieeexplore.ieee.org/document/726791) Proceedings of the IEEE, 86(11), 2278-2324.
+
+[4]: Nielsen, M. A. (2015). ["Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/). Determination Press.
+
+[5]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[6]: Ng, A. (2017). ["CS229 Lecture Notes: Backpropagation and Neural Networks."](https://cs229.stanford.edu/summer2020/cs229-notes-deep_learning.pdf) Stanford University.
+
+[7]: Hecht-Nielsen, R. (1989). ["Theory of the Backpropagation Neural Network."](https://ieeexplore.ieee.org/document/118638) Neural Networks, IEEE Transactions on, 1(1), 19-27.

@@ -81,3 +81,15 @@ Input Generators also work with other tools like data preprocessing and feature 
 In the future, Input Generators are expected to become even more advanced and realistic. One big trend will be the use of more powerful Generative Adversarial Networks (GANs). These networks will get better at making new data that looks just like real data. This means they can create pictures, sounds, or texts that are hard to tell apart from the real thing. As computers get faster and smarter, these GANs will be able to make more complex and varied data, helping machine learning models learn from even more realistic examples. This will make the models better at understanding the world around them.
 
 Another trend will be the use of more personalized Input Generators. These will be able to make data that fits the needs of specific models or tasks. For example, if you're training a model to recognize faces, the Input Generator might make new pictures of faces that look like the ones the model will see in real life. This will help the model learn faster and work better. As we learn more about how to make these personalized generators, they will become a key part of making machine learning models that are good at specific jobs.
+
+## References & Further Reading
+
+[1]: Shorten, C., & Khoshgoftaar, T. M. (2019). ["A survey on image data augmentation for deep learning."](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0) PloS one, 14(5), e0217118.
+
+[2]: Frid-Adar, M., Diamant, I., Klang, E., Amitai, M., Goldberger, J., & Greenspan, H. (2018). ["GAN-based synthetic medical image augmentation for increased CNN performance in liver lesion classification."](https://www.sciencedirect.com/science/article/pii/S0925231218310749) IEEE transactions on medical imaging, 38(3), 759-776.
+
+[3]: Wang, T., Qiu, J., & Liu, H. (2017). ["Data augmentation techniques in machine learning: A survey."](https://www.sciencedirect.com/science/article/pii/S2590005622000911) Journal of Big Data, 4(1), 1-19.
+
+[4]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative adversarial nets."](https://arxiv.org/abs/1406.2661) Advances in neural information processing systems, 27.
+
+[5]: Kingma, D. P., & Welling, M. (2013). ["Auto-encoding variational bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.

@@ -1,6 +1,7 @@
 ---
-title: "Stop Hunting in Trading"
-description: "Discover the intricacies of stop hunting in algo trading and learn how this strategy impacts market dynamics and trading outcomes in financial markets."
+title: Protecting Trades From Stop Hunting in Financial Markets
+description: Stop hunting can drain profits by triggering hidden stop-loss orders
+  in the market. Protect your trades with smarter stops Discover more inside
 ---
 
 

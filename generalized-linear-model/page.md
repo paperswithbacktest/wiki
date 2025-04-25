@@ -79,3 +79,15 @@ Another limitation of GLMs is that they assume a linear relationship between the
 Generalized Linear Models (GLMs) can be extended to handle more complex data structures like mixed effects or hierarchical models by incorporating random effects into the model. These random effects allow the model to account for variability within different groups or levels of the data. For example, if you're studying student test scores across different schools, you might use a mixed effects model. This model would include fixed effects, which are the same for all students, like the effect of study time on test scores, and random effects, which vary by school, like the average test score for each school. The formula for a mixed effects model might look like $$ \text{logit}(p_{ij}) = \beta_0 + \beta_1 x_{ij} + u_i $$, where $$ p_{ij} $$ is the probability of passing for student $$ j $$ in school $$ i $$, $$ \beta_0 $$ and $$ \beta_1 $$ are fixed effects, and $$ u_i $$ is the random effect for school $$ i $$.
 
 These extensions make GLMs more flexible and able to handle data that has a nested or hierarchical structure. For example, in a hierarchical model, you might be looking at patients within hospitals, where each hospital might have its own characteristics that affect patient outcomes. By adding random effects for hospitals, you can account for these differences and get a better understanding of how different factors influence patient outcomes. This approach helps to improve the accuracy of the model and provides more detailed insights into the data.
+
+## References & Further Reading
+
+[1]: McCullagh, P., & Nelder, J. A. (1989). ["Generalized Linear Models."](https://www.taylorfrancis.com/books/mono/10.1201/9780203753736/generalized-linear-models-mccullagh) Chapman and Hall/CRC.
+
+[2]: Dobson, A. J., & Barnett, A. G. (2008). ["An Introduction to Generalized Linear Models."](https://www.taylorfrancis.com/books/mono/10.1201/9781315182780/introduction-generalized-linear-models-adrian-barnett-annette-dobson) Chapman and Hall/CRC.
+
+[3]: Agresti, A. (2015). ["Foundations of Linear and Generalized Linear Models."](https://books.google.com/books/about/Foundations_of_Linear_and_Generalized_Li.html?id=jlIqBgAAQBAJ) Wiley.
+
+[4]: Gill, J. (2001). ["Generalized Linear Models: A Unified Approach."](https://www.researchgate.net/publication/235726158_Generalized_Linear_Models_A_Unified_Approach) Sage Publications.
+
+[5]: Hardin, J. W., & Hilbe, J. M. (2012). ["Generalized Linear Models and Extensions."](https://www.stata-press.com/books/preview/glmext4-preview.pdf) Stata Press.

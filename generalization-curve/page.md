@@ -79,3 +79,17 @@ The quality of the training data also matters a lot for the Generalization Curve
 In [deep learning](/wiki/deep-learning), advanced methods like early stopping and learning rate scheduling can help analyze and optimize the Generalization Curve. Early stopping means you stop training the model when the performance on the validation data starts to get worse, even if the performance on the training data is still getting better. This helps prevent overfitting and keeps the training and validation lines on the Generalization Curve close together. Learning rate scheduling changes the learning rate during training, often starting with a high rate and then lowering it. This can help the model learn quickly at first and then fine-tune its predictions, making the Generalization Curve show better performance on new data.
 
 Another advanced method is using techniques like dropout and batch normalization. Dropout randomly turns off some of the neurons in the neural network during training, which helps prevent overfitting by making the model less dependent on any single neuron. On the Generalization Curve, this can show up as better performance on the validation data because the model is more robust. Batch normalization normalizes the inputs to each layer, which can help the model learn faster and more stably. This can make the Generalization Curve smoother and show better generalization because the model can learn the important patterns in the data more effectively. By using these methods, you can make your deep learning model better at predicting new data and improve how the Generalization Curve looks.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer Science & Business Media.
+
+[4]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python). Manning Publications.
+
+[5]: Mohri, M., Rostamizadeh, A., & Talwalkar, A. (2018). ["Foundations of Machine Learning"](https://cs.nyu.edu/~mohri/mlbook/). MIT Press.
+
+[6]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT Press.

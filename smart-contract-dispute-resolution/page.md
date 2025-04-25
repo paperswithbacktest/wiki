@@ -1,6 +1,7 @@
 ---
-title: "Smart Contract Dispute Resolution"
-description: "Explore how blockchain and smart contracts intersect with dispute resolution in algo trading Essential insights into managing disagreements in crypto transactions"
+title: Understanding Smart Contract Dispute Resolution Mechanisms
+description: Smart Contract Dispute Resolution uses arbitration services, oracles
+  and code audits to settle blockchain disagreements efficiently. Discover more inside.
 ---
 
 

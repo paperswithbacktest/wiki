@@ -1,6 +1,7 @@
 ---
-title: "Stan Uryasev"
-description: "Explore the remarkable journey of Stan Uryasev from Moscow to Stony Brook University as a leader in risk management and algorithmic trading research"
+title: "Stan Uryasev\u2019s Impact on Conditional Value-at-Risk Optimization"
+description: Conditional Value-at-Risk helps financial institutions measure worst-case
+  losses and manage investment risk more effectively. Discover more inside.
 ---
 
 

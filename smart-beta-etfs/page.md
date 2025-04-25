@@ -1,6 +1,7 @@
 ---
-title: "Smart Beta ETFs"
-description: "Explore Smart Beta ETFs and algorithmic trading to enhance your investment strategy with innovative approaches delivering potential for improved returns."
+title: Smart Beta ETFs For Enhanced Returns And Diversification
+description: Smart Beta ETFs use factor-based strategies to deliver higher returns
+  diversified risk and cost-efficient portfolio growth Discover more inside
 ---
 
 

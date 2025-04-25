@@ -117,3 +117,17 @@ n_clusters_ = len(set(labels)) - (1 if -1 in labels else 0)
 ```
 
 Both K-means and DBSCAN can be easily adjusted to fit different datasets and clustering needs, making scikit-learn a versatile tool for data analysis.
+
+## References & Further Reading
+
+[1]: MacQueen, J. (1967). ["Some Methods for classification and Analysis of Multivariate Observations"](https://projecteuclid.org/ebooks/berkeley-symposium-on-mathematical-statistics-and-probability/Some-methods-for-classification-and-analysis-of-multivariate-observations/chapter/Some-methods-for-classification-and-analysis-of-multivariate-observations/bsmsp/1200512992) Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability.
+
+[2]: Ester, M., Kriegel, H. P., Sander, J., & Xu, X. (1996). ["A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise"](https://dl.acm.org/doi/10.5555/3001460.3001507) Proceedings of the Second International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Jain, A. K., Murty, M. N., & Flynn, P. J. (1999). ["Data Clustering: A Review"](https://dl.acm.org/doi/10.1145/331499.331504) ACM Computing Surveys.
+
+[4]: Rokach, L., & Maimon, O. (2005). ["Clustering Methods"](https://link.springer.com/chapter/10.1007/0-387-25465-X_15) In Data Mining and Knowledge Discovery Handbook, Springer.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., et al. (2011). ["Scikit-learn: Machine Learning in Python"](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research.
+
+[6]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.

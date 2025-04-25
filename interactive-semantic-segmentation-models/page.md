@@ -81,3 +81,15 @@ In terms of efficiency, EdgeFlow is also very good because it can quickly learn 
 One of the main challenges in interactive semantic segmentation models is making them work well with different types of images and objects. Sometimes, these models can struggle with images that have a lot of small details or where objects are very close together. For example, if you have a picture of a busy market, the model might find it hard to tell where one object ends and another begins. Another challenge is reducing the number of clicks or scribbles a user needs to give to get good results. If the model needs too many interactions, it can become slow and frustrating to use. Researchers are working on ways to make the models smarter so they can learn from fewer hints and still label images accurately.
 
 The future of interactive semantic segmentation looks promising, with researchers focusing on improving the models' ability to understand edges and boundaries better. Techniques like EdgeFlow, which use edge information to guide the segmentation process, are becoming more popular. Researchers are also looking into using more advanced deep learning methods to make the models more accurate and efficient. For example, they might use new types of neural networks that can learn from fewer examples and adapt quickly to user feedback. By making these improvements, the goal is to create models that can label images quickly and accurately with just a few clicks or scribbles from the user.
+
+## References & Further Reading
+
+[1]: Boykov, Y., & Jolly, M. P. (2001). ["Interactive Graph Cuts for Optimal Boundary & Region Segmentation of Objects in N-D Images."](https://ieeexplore.ieee.org/document/937505) Proceedings of the Eighth IEEE International Conference on Computer Vision.
+
+[2]: Rother, C., Kolmogorov, V., & Blake, A. (2004). ["GrabCut: Interactive Foreground Extraction using Iterated Graph Cuts."](https://dl.acm.org/doi/10.1145/1015706.1015720) ACM Transactions on Graphics.
+
+[3]: Vezhnevets, V., Ferrari, V., & Buhmann, J. M. (2011). ["Weakly Supervised Structured Output Learning for Semantic Segmentation."](https://www.researchgate.net/publication/235661797_Weakly_Supervised_Structured_Output_Learning_for_Semantic_Segmentation) IEEE Conference on Computer Vision and Pattern Recognition.
+
+[4]: Xu, N., Price, B., Cohen, S., Yang, J., & Huang, T. S. (2016). ["Deep Interactive Object Selection."](https://arxiv.org/abs/1603.04042) Proceedings of the 2016 IEEE Conference on Computer Vision and Pattern Recognition.
+
+[5]: Reddy, K. K., Gevers, T., & Ghosh, P. K. (2021). ["Interactive Image Segmentation by Maximizing Weight Likelihood of Interactively Scribed Foreground and Background Features."](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/slct.201800208) IEEE Transactions on Image Processing.

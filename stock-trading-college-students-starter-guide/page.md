@@ -1,6 +1,7 @@
 ---
-title: "Stock Trading for College Students: A Starter Guide"
-description: "Explore stock trading and algorithmic trading for college students with our guide offering essential tips to build a solid financial foundation early on."
+title: Comprehensive Guide to Stock Trading for College Students
+description: Stock trading for college students offers beginner strategies fractional
+  shares risk management and time saving tools to invest confidently Discover more
 ---
 
 

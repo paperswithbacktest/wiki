@@ -79,3 +79,19 @@ Another technique is using beam search during decoding. Instead of always [picki
 In the future, we can expect sequence-to-sequence models to get even better at understanding and generating sequences. One big area of improvement will be in handling longer and more complex sequences. Researchers are working on new types of attention mechanisms and memory modules that can help models remember important information from the start of a long input all the way to the end. These advancements will make tasks like translating long documents or summarizing entire [books](/wiki/algo-trading-books) much easier and more accurate. Also, we might see models that can learn from fewer examples, which will be helpful for tasks where it's hard to get a lot of training data.
 
 Another exciting development will be the use of sequence-to-sequence models in more types of applications. Right now, these models are mainly used for tasks like translation and summarization, but in the future, they could be used for things like generating music or creating videos. Imagine a model that can take a simple tune and turn it into a full song, or one that can make a short video based on a written script. These new uses will make sequence-to-sequence models even more versatile and useful in our daily lives. As technology improves, we'll see these models becoming smarter and faster, making them an even bigger part of how we interact with and understand the world around us.
+
+## References & Further Reading
+
+[1]: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). ["Sequence to Sequence Learning with Neural Networks."](https://arxiv.org/abs/1409.3215) arXiv preprint arXiv:1409.3215.
+
+[2]: Bahdanau, D., Cho, K., & Bengio, Y. (2014). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) arXiv preprint arXiv:1409.0473.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[4]: Luong, M. T., Pham, H., & Manning, C. D. (2015). ["Effective Approaches to Attention-based Neural Machine Translation."](https://aclanthology.org/D15-1166/) arXiv preprint arXiv:1508.04025.
+
+[5]: Cho, K., van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). ["Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation."](https://arxiv.org/abs/1406.1078) arXiv preprint arXiv:1406.1078.
+
+[6]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[7]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Morgan & Claypool Publishers.

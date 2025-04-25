@@ -87,3 +87,19 @@ Lastly, you can use cross-validation to make sure your ensemble is working well.
 In real-world applications, ensemble methods often do better than single models. This is because they combine the predictions of many models, which helps to make fewer mistakes. For example, if you're trying to predict if a customer will buy something, an ensemble might use many different models to look at the data from different angles. By putting all these predictions together, the ensemble can make a more accurate guess than any one model alone. This is really helpful in areas like finance, where small improvements in accuracy can make a big difference, or in healthcare, where getting the right diagnosis is crucial.
 
 However, using ensemble methods can be more complicated and take more time and computer power. If you're working with a small dataset or need quick results, a single model might be easier and faster to use. Also, ensembles can be harder to explain because they use many models, and it's not always easy to see how they come up with their final answer. But if you have the time and resources to set up an ensemble and can handle the complexity, they usually give better results than single models. This makes them a popular choice in competitions and in industries where accuracy is really important.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests"](https://link.springer.com/article/10.1023/A:1010933404324). Machine Learning, 45(1), 5-32.
+
+[2]: Schapire, R. E. (1990). ["The Strength of Weak Learnability"](https://link.springer.com/article/10.1007/BF00116037). Machine Learning, 5(2), 197-227.
+
+[3]: Friedman, J. H. (2001). ["Greedy Function Approximation: A Gradient Boosting Machine"](https://www.jstor.org/stable/2699986). The Annals of Statistics, 29(5), 1189-1232.
+
+[4]: Zhou, Z.-H. (2012). ["Ensemble Methods: Foundations and Algorithms"](https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou). Chapman & Hall/CRC.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[6]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System"](https://arxiv.org/abs/1603.02754). In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785-794.
+
+[7]: Sagi, O., & Rokach, L. (2018). ["Ensemble learning: A survey"](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1249). WIREs Data Mining and Knowledge Discovery, 8(4), e1249.

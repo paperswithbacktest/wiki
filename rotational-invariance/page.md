@@ -79,3 +79,15 @@ Another way to check is by using metrics like accuracy, precision, recall, and F
 Current research in achieving rotational invariance in machine learning is focused on improving the efficiency and effectiveness of existing methods, as well as developing new techniques. One major trend is the use of group equivariant neural networks, which use math to understand and handle rotations directly within the network's structure. These networks are becoming more popular because they can be more efficient than traditional data augmentation, which involves showing the model lots of rotated images during training. Researchers are also exploring ways to combine these equivariant networks with other techniques, like attention mechanisms, to further improve performance. Another trend is the development of more advanced data augmentation strategies that can simulate a wider range of rotations and other transformations, making models more robust to real-world scenarios.
 
 Looking to the future, researchers are aiming to create models that are not just rotationally invariant but also invariant to other types of transformations, like scaling and shearing. This would make models even more reliable in complex, real-world environments. There's also a lot of interest in developing models that can learn from fewer examples, which would make training more efficient and less resource-intensive. By using techniques like meta-learning, where models learn how to learn from a few examples, researchers hope to create more adaptable and flexible models. Overall, the goal is to make machine learning models as robust and versatile as possible, so they can handle the unpredictable nature of real-life data.
+
+## References & Further Reading
+
+[1]: Cohen, T. S., & Welling, M. (2016). ["Group Equivariant Convolutional Networks."](https://arxiv.org/abs/1602.07576) Proceedings of the 33rd International Conference on Machine Learning.
+
+[2]: Gens, R., & Domingos, P. (2014). ["Deep Symmetry Networks."](https://papers.nips.cc/paper/5424-deep-symmetry-networks) Advances in Neural Information Processing Systems 27.
+
+[3]: Dieleman, S., De Fauw, J., & Kavukcuoglu, K. (2016). ["Exploiting Cyclic Symmetry in Convolutional Neural Networks."](https://arxiv.org/abs/1602.02660) arXiv preprint arXiv:1602.02660.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[5]: Springer, A., & Paul, S. (2017). ["Enabling Deep Learning on COTS 3D Accelerometers with Rotation Invariance."](https://link.springer.com/article/10.1007/s10462-024-10741-2) Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing.

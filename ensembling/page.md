@@ -85,3 +85,21 @@ Another limitation of ensembling is that it might not always help. Sometimes, if
 Evaluating the performance of an ensemble model is a lot like checking how well a team of friends works together to solve a problem. You want to see if the team's combined effort gives better answers than any single friend could. To do this, you can use common metrics like accuracy, which tells you how often the model's predictions are right, or mean squared error, which measures how far off the predictions are on average. For example, if you're predicting house prices, you might use mean squared error to see how close your predictions are to the actual prices. You can also use cross-validation, where you split your data into different parts and test the model on each part to make sure it works well on different kinds of data.
 
 Another way to evaluate an ensemble model is by comparing it to a single model. You train a single model on the same data and then see if the ensemble model does better. If the ensemble model has a lower error rate or higher accuracy, it's a sign that combining the models helped. Sometimes, you might also look at how the model performs on new data it hasn't seen before. This is important because you want to make sure the model can handle real-world situations, not just the data it was trained on. By using these methods, you can get a good idea of how well your ensemble model is working and whether it's worth the extra effort and resources.
+
+## References & Further Reading
+
+[1]: Breiman, L. (1996). ["Bagging Predictors."](https://link.springer.com/article/10.1023/A:1018054314350) Machine Learning, 24, 123–140.
+
+[2]: Friedman, J. H. (2001). ["Greedy Function Approximation: A Gradient Boosting Machine."](https://www.jstor.org/stable/2699986) The Annals of Statistics, 29(5), 1189-1232.
+
+[3]: Ho, T. K. (1995). ["Random decision forests."](https://ieeexplore.ieee.org/document/598994) Proceedings of the 3rd International Conference on Document Analysis and Recognition, 278-282.
+
+[4]: Zhou, Z.-H. (2012). ["Ensemble Methods: Foundations and Algorithms."](https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou) CRC Press.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[6]: Schapire, R. E., & Freund, Y. (2012). ["Boosting: Foundations and Algorithms."](https://direct.mit.edu/books/oa-monograph/5342/BoostingFoundations-and-Algorithms) MIT Press.
+
+[7]: Wolpert, D. H. (1992). ["Stacked Generalization."](https://www.researchgate.net/publication/222467943_Stacked_Generalization) Neural Networks, 5(2), 241-259.
+
+[8]: Jacobs, R. A., Jordan, M. I., Nowlan, S. J., & Hinton, G. E. (1991). ["Adaptive Mixtures of Local Experts."](https://ieeexplore.ieee.org/abstract/document/6797059) Neural Computation, 3(1), 79-87.

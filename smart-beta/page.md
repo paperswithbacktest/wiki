@@ -1,6 +1,7 @@
 ---
-title: "Smart Beta"
-description: Discover the concept, benefits, and rise of Smart Beta in algorithmic trading. This innovative investment strategy combines passive and active approaches to maximize returns and minimize risk. Explore how it differs from other strategies and learn about popular Smart Beta funds. Read more for resources on trading strategies, libraries, datasets, and becoming a quant trader.
+title: Smart Beta Strategies Explained for Better Portfolio Performance
+description: Smart Beta strategies help investors use clear factor rules to boost
+  returns and manage risk more effectively in their portfolios. Discover more inside.
 ---
 
 

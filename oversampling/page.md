@@ -111,3 +111,17 @@ print(classification_report(y_test, y_pred))
 ```
 
 This way, oversampling becomes a part of your regular machine learning workflow, helping your model learn about all types of data, not just the common ones.
+
+## References & Further Reading
+
+[1]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.
+
+[2]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[3]: Han, H., Wang, W., & Mao, B. H. (2005). ["Borderline-SMOTE: A New Over-Sampling Method in Imbalanced Data Sets Learning."](https://link.springer.com/chapter/10.1007/11538059_91) In: Huang, D.S., Zhang, X.P., Huang, G.B. (eds) Advances in Intelligent Computing. ICIC 2005. 
+
+[4]: Bunkhumpornpat, C., Sinapiromsaran, K., & Lursinsap, C. (2009). ["Safe-Level-SMOTE: Safe-Level-Synthetic Minority Over-Sampling Technique for Handling the Class Imbalanced Problem."](https://link.springer.com/chapter/10.1007/978-3-642-01307-2_43) In: Theeramunkong, T., Kijsirikul, B., Cercone, N., Ho, T.B. (eds) Advances in Knowledge Discovery and Data Mining. PAKDD 2009.
+
+[5]: Haibo He, Yang Bai, Edwardo A. Garcia, and Shutao Li. (2008). ["ADASYN: Adaptive Synthetic Sampling Approach for Imbalanced Learning."](https://ieeexplore.ieee.org/document/4633969) In Proceedings of the 2008 IEEE International Joint Conference on Neural Networks (IEEE World Congress on Computational Intelligence), 1322-1328. 
+
+[6]: Fernández, A., García, S., Galar, M., Prati, R. C., Krawczyk, B., & Herrera, F. (2018). ["Learning from Imbalanced Data Sets."](https://link.springer.com/book/10.1007/978-3-319-98074-4) Springer International Publishing.

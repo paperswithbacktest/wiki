@@ -79,3 +79,19 @@ Another way to improve Information Gain is by using it in ensemble methods, wher
 Recent research in machine learning has been working on making Information Gain even better. One big focus is on fixing the problem where Information Gain can be biased towards features with lots of different values. Researchers are using methods like Gain Ratio to help with this. Gain Ratio adjusts Information Gain by dividing it by the "split information," which helps to give a fairer idea of how important each feature really is. The formula for Gain Ratio is $$GR(S, A) = \frac{IG(S, A)}{SplitInformation(A)}$$, where $$SplitInformation(A) = -\sum_{v \in Values(A)} \frac{|S_v|}{|S|} \log_2 \left( \frac{|S_v|}{|S|} \right)$$. By using Gain Ratio, we can pick the best features for our models more accurately.
 
 Another area of research is about using Information Gain in new ways, like in ensemble methods. Ensemble methods combine multiple models to make better predictions. Researchers are using Information Gain to pick the best features for each model in an ensemble, like a random forest. This can make the overall model more powerful and accurate. Also, some new research is looking at how Information Gain can help find important combinations of features. Instead of just looking at each feature by itself, these methods can find groups of features that together have a high Information Gain. This can help capture more complex relationships in the data and make our machine learning models work even better.
+
+## References & Further Reading
+
+[1]: Quinlan, J. R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81-106.
+
+[2]: Breiman, L. (1984). ["Classification and Regression Trees."](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-olshen-charles-stone) Routledge.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Han, J., Pei, J., & Kamber, M. (2011). ["Data Mining: Concepts and Techniques."](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) Elsevier.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[6]: "Understanding Decision Trees: Entropy, Information Gain & Gini Impurity Explained." [Towards Data Science](https://towardsdatascience.com/category/entertainment/) on Medium.
+
+[7]: Murthy, S. K. (1998). ["Automatic Construction of Decision Trees from Data: A Multi-Disciplinary Survey."](https://link.springer.com/article/10.1023/A:1009744630224) Data Mining and Knowledge Discovery, 2(4), 345-389.

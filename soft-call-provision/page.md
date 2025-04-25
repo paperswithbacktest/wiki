@@ -1,6 +1,7 @@
 ---
-title: "Soft Call Provision"
-description: "Explore the impact of soft call provisions in bonds and the role of algorithmic trading as they shape bond redemption strategies and investor decisions."
+title: Understanding Soft Call Provisions in Bond Investments
+description: Soft call provision protects issuers by imposing a penalty on early bond
+  redemption while balancing investor interests. Discover more inside.
 ---
 
 

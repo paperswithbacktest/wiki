@@ -81,3 +81,19 @@ Another way to use linear regression for feature selection is by looking at the 
 One advanced technique to improve the performance of linear regression models is to use ensemble methods like bagging and boosting. Bagging, or Bootstrap Aggregating, involves creating multiple versions of your model by training them on different samples of your data. You then combine the predictions from all these models to get a more accurate final prediction. Boosting, on the other hand, builds models one after the other, where each new model tries to fix the mistakes of the previous ones. By using these methods, you can make your linear regression model more robust and less likely to overfit, which means it will work better on new data.
 
 Another technique is to use dimensionality reduction methods like Principal Component Analysis (PCA) before fitting your linear regression model. PCA helps you find new inputs that are combinations of your original inputs but capture the most important information. This can make your model simpler and more accurate. The formula for PCA involves finding the eigenvectors and eigenvalues of the covariance matrix of your data, but the main idea is to reduce the number of inputs without losing much information. By applying PCA, you can improve the performance of your linear regression model by focusing on the most important features.
+
+## References & Further Reading
+
+[1]: Seber, G. A. F., & Lee, A. J. (2012). ["Linear Regression Analysis, Second Edition."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780471722199) Wiley Series in Probability and Statistics.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[3]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: with Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer Texts in Statistics.
+
+[4]: Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). ["Introduction to Linear Regression Analysis, Fifth Edition."](https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf) Wiley Series in Probability and Statistics.
+
+[5]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://webdoc.agsci.colostate.edu/koontz/arec-econ535/papers/Tibshirani%20(JRSS-B%201996).pdf) Journal of the Royal Statistical Society: Series B (Methodological).
+
+[6]: Hoerl, A. E., & Kennard, R. W. (1970). ["Ridge Regression: Biased Estimation for Nonorthogonal Problems."](https://www.jstor.org/stable/1267351) Technometrics, 12(1), 55-67.
+
+[7]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron.

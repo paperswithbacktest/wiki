@@ -1,6 +1,7 @@
 ---
-title: "Software (SaaS) Alternative Data"
-description: Explore how alternative data and SaaS platforms revolutionize algorithmic trading by providing real-time market insights from unconventional sources like social media and satellite imagery. Discover the advantages of seamlessly integrating diverse data sets into trading algorithms to enhance decision-making and strategy development for optimized trading outcomes in competitive markets.
+title: Alternative Data in SaaS Platforms for Better Business Insights
+description: Alternative data transforms SaaS by merging social credit card and satellite
+  data into real time market insights for smarter decisions Discover more inside
 ---
 
 

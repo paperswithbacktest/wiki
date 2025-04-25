@@ -1,6 +1,8 @@
 ---
-title: "Société Générale"
-description: Societe Generale is renowned in the financial sector for its innovative approach to algorithmic trading, utilizing advanced technology to optimize trading executions. Specializing in FX algorithmic strategies, the bank offers solutions that enhance precision and efficiency in complex markets. Central to this is their proprietary platform, Nova, which supports multi-asset trading with customizable features, reflecting a commitment to technological advancement and continuous improvement. This ensures clients benefit from reduced market impact, optimized execution, and confidentiality, maintaining a competitive edge in the algorithmic trading landscape.
+title: "Soci\xE9t\xE9 G\xE9n\xE9rale Corporate Profile History Services and Strategy"
+description: "Soci\xE9t\xE9 G\xE9n\xE9rale traces its evolution since 1864 to modern\
+  \ digital leader delivering tailored banking and sustainable solutions Discover\
+  \ more inside"
 ---
 
 

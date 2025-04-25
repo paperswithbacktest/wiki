@@ -85,3 +85,19 @@ Another big ethical issue is fairness and bias. Sometimes, face recognition syst
 The latest advancements in face recognition models include new techniques like MagFace and CurricularFace. These models use special math formulas to better understand the small differences between faces. For example, MagFace uses an "adaptive margin" to help the model learn from different faces more effectively. This means it can tell apart faces that look very similar, even in different lighting or angles. CurricularFace uses "curricular learning" to focus more on the hard-to-tell-apart faces, making the model more accurate over time. These advancements make face recognition more reliable and useful in real-life situations.
 
 In the future, these improvements could change how we use face recognition in many areas. For example, in security systems, more accurate models could help catch criminals faster and find missing people more easily. In healthcare, better face recognition could help doctors and nurses find patient records quicker, making care more efficient. On smartphones, these models could make unlocking your phone even faster and more secure. As these models keep getting better, they will likely become a bigger part of our daily lives, making things more convenient and safe, but it's also important to make sure they are used in a fair and ethical way.
+
+## References & Further Reading
+
+[1]: Wang, F., Cheng, J., Liu, W., & Liu, H. (2018). ["Additive Margin Softmax for Face Verification."](https://arxiv.org/abs/1801.05599) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[2]: Deng, J., Guo, J., Xue, N., & Zafeiriou, S. (2019). ["ArcFace: Additive Angular Margin Loss for Deep Face Recognition."](https://arxiv.org/abs/1801.07698) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[3]: Huang, G., Mattar, M., Berg, T., & Learned-Miller, E. (2007). ["Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments."](https://inria.hal.science/inria-00321923/document) Technical Report, University of Massachusetts, Amherst.
+
+[4]: Taigman, Y., Yang, M., Ranzato, M.A., & Wolf, L. (2014). ["DeepFace: Closing the Gap to Human-Level Performance in Face Verification."](https://ieeexplore.ieee.org/document/6909616) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[5]: Parkhi, O. M., Vedaldi, A., & Zisserman, A. (2015). ["Deep Face Recognition."](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf) British Machine Vision Conference.
+
+[6]: Schroff, F., Kalenichenko, D., & Philbin, J. (2015). ["FaceNet: A Unified Embedding for Face Recognition and Clustering."](https://ieeexplore.ieee.org/document/7298682) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[7]: Grother, P., Ngan, M., & Hanaoka, K. (2018). ["Face Recognition Vendor Test (FRVT) Part 3: Demographic Effects."](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=932484) National Institute of Standards and Technology.

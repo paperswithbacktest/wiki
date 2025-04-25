@@ -81,3 +81,21 @@ Another important trend is incorporating multi-modal aspects into evaluations. T
 Reinforcement learning can help improve how we evaluate dialog systems by making them learn from their interactions with users. In [reinforcement learning](/wiki/reinforcement-learning), the system gets rewards or penalties based on how well it does in a conversation. If it gives a good answer, it gets a reward, and if it gives a bad answer, it gets a penalty. Over time, the system learns to give better answers because it wants to get more rewards. This means the system can get better at understanding what users want and giving helpful responses, which makes the evaluation more accurate because it shows how well the system is doing in real conversations.
 
 One way to use reinforcement learning in evaluation is by setting up a reward function that matches what we want the system to do. For example, if we want the system to give short and clear answers, the reward function could give more points for short and clear responses. The formula for the reward function might look like this: $$ \text{Reward} = \alpha \times \text{Relevance} + \beta \times \text{Clarity} + \gamma \times \text{Brevity} $$, where $$ \alpha $$, $$ \beta $$, and $$ \gamma $$ are weights that show how important each part is. By using reinforcement learning with a good reward function, we can make sure the dialog system is evaluated in a way that really shows how helpful it is to users.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2019). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) (3rd ed.). 
+
+[2]: Liu, Y., & Lane, I. (2017). ["Iterative Policy Learning in End-to-End Trainable Task-Oriented Neural Dialog Models."](https://arxiv.org/abs/1709.06136) IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU).
+
+[3]: Papineni, K., Roukos, S., Ward, T., & Zhu, W. J. (2002). ["BLEU: a Method for Automatic Evaluation of Machine Translation."](https://aclanthology.org/P02-1040/) Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics.
+
+[4]: Lin, C.-Y. (2004). ["ROUGE: A Package for Automatic Evaluation of Summaries."](https://aclanthology.org/W04-1013/) Text Summarization Branches Out, Association for Computational Linguistics.
+
+[5]: Radford, A., Narasimhan, K., & Salimans, T. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI. 
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[7]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[8]: Li, J., Galley, M., Brockett, C., Spithourakis, G. P., Gao, J., & Dolan, W. B. (2016). ["A Persona-Based Neural Conversation Model."](https://aclanthology.org/P16-1094/) arXiv preprint arXiv:1603.06155.

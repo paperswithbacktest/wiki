@@ -81,3 +81,25 @@ The way ArcFace works is by using a formula that includes an angle called the "a
 Supervised Contrastive Loss is a way to train machine learning models that helps them understand the differences between different things better, even when you tell the model exactly what each thing is. Imagine you're teaching a model to recognize different kinds of fruits. With regular methods, the model might just focus on grouping all apples together and all oranges together. But with Supervised Contrastive Loss, you show the model not just the fruits it needs to recognize, but also many other fruits at the same time. This helps the model learn that apples are more like each other than they are like oranges, and so on. It does this by making the model pull similar fruits closer together and push different fruits further apart in its understanding.
 
 The way Supervised Contrastive Loss works is by using a special formula that compares how the model sees different examples. The formula is $$ \mathcal{L}_{\text{SupCon}} = \sum_{i \in I} \frac{-1}{|P(i)|} \sum_{p \in P(i)} \log \frac{\exp(\text{sim}(z_i, z_p) / \tau)}{\sum_{a \in A(i)} \exp(\text.sim(z_i, z_a) / \tau)} $$. Here, $z_i$ is the model's understanding of one example, $z_p$ is the understanding of another example from the same class, and $z_a$ is the understanding of any other example. The term $\text.sim$ measures how similar two examples are, and $\tau$ is a number that helps the model focus on the right things. By using this loss, the model can learn better from the examples you show it, which makes it perform better at recognizing different things in supervised settings.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning.](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Murphy, K. P. (2012). [Machine Learning: A Probabilistic Perspective.](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[3]: Chollet, F. (2018). [Deep Learning with Python.](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[4]: Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S. (2019). [PyTorch: An Imperative Style, High-Performance Deep Learning Library.](https://arxiv.org/abs/1912.01703) Advances in Neural Information Processing Systems 32.
+
+[5]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). [Deep Residual Learning for Image Recognition.](https://ieeexplore.ieee.org/document/7780459) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Kingma, D.P., & Ba, J. (2014). [Adam: A Method for Stochastic Optimization.](https://arxiv.org/abs/1412.6980). arXiv preprint arXiv:1412.6980.
+
+[7]: Lin, T. Y., Goyal, P., Girshick, R., He, K., & Dollár, P. (2017). [Focal Loss for Dense Object Detection.](https://ieeexplore.ieee.org/document/8237586) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[8]: Schroff, F., Kalenichenko, D., & Philbin, J. (2015). [FaceNet: A Unified Embedding for Face Recognition and Clustering.](https://ieeexplore.ieee.org/document/7298682) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[9]: Wang, Y., & Isola, P. (2020). [Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere.](https://arxiv.org/abs/2005.10242) arXiv preprint arXiv:2005.10242.
+
+[10]: Yu, F., Koltun, V., & Funkhouser, T. (2019). [Cycle-Consistent Adversarial Networks for Unpaired Image-to-Image Translation.](https://arxiv.org/abs/1703.10593) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

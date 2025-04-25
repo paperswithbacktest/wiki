@@ -171,3 +171,15 @@ scores_without_op = cross_val_score(model_without_op, X, y, cv=5)
 print("Model with Op:", scores_with_op.mean())
 print("Model without Op:", scores_without_op.mean())
 ``` to compare the effectiveness of the new Op across different subsets of your data.
+
+## References & Further Reading
+
+[1]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Isard, M. (2016). ["TensorFlow: A system for large-scale machine learning."](https://arxiv.org/abs/1603.04467) In 12th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 16) (pp. 265-283).
+
+[2]: Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library."](https://arxiv.org/abs/1912.01703) Advances in neural information processing systems.
+
+[3]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python-third-edition) (1st ed.). Manning Publications.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.

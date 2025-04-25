@@ -1,6 +1,7 @@
 ---
-title: "Significance of the Purchasing Managers' Index"
-description: "Unlock the power of the Purchasing Managers' Index for algorithmic trading by understanding its impact on market trends and enhancing trading strategies."
+title: Understanding The Purchasing Managers Index For Economic Insights
+description: Purchasing Managers Index tracks industry surveys to reveal economic
+  growth or contraction and guides smarter investment choices Discover more inside.
 ---
 
 

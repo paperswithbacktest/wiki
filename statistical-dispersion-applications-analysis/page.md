@@ -1,6 +1,7 @@
 ---
-title: "Statistical Dispersion: Applications and Analysis"
-description: "Explore how statistical dispersion informs algorithmic trading strategies Optimize trading decisions by analyzing data variability and market volatility for enhanced returns"
+title: Understanding Statistical Dispersion and Its Key Measures
+description: Statistical Dispersion helps you gauge data variability from range to
+  standard deviation and advanced techniques for real insights. Discover more inside.
 ---
 
 

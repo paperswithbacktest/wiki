@@ -81,3 +81,15 @@ Researchers are still trying to figure out the best way to use the width of a ne
 In a study published in the journal "Neural Networks" in 2019, researchers explored how adjusting the width of a neural network affected its performance on image classification tasks. They started with a baseline network and then created several versions with different widths. They found that increasing the width from 64 to 128 neurons per layer significantly improved the network's accuracy on the CIFAR-10 dataset, going from about 85% to 90%. However, when they increased the width further to 256 neurons per layer, the accuracy only improved slightly to 91%, but the training time increased a lot. This showed that there's a sweet spot for width where the network performs well without taking too long to train.
 
 Another case study from a 2021 paper in the "Journal of Machine Learning Research" looked at how the width of a neural network impacted its performance on natural language processing tasks. The researchers used a network to predict sentiment in movie reviews and experimented with different widths. They found that a network with a width of 512 neurons per layer performed much better than one with 256 neurons, achieving an accuracy of 88% compared to 82%. But when they tried a width of 1024 neurons, the accuracy only went up to 89%, and the training time doubled. This study also showed that while wider networks can improve performance, there's a point where the benefits start to diminish, and the increased computational cost might not be worth it.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification."](https://arxiv.org/abs/1502.01852) arXiv preprint arXiv:1502.01852.
+
+[3]: Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). ["Densely Connected Convolutional Networks."](https://ieeexplore.ieee.org/document/8099726) CVPR.
+
+[4]: Simonyan, K., & Zisserman, A. (2014). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.
+
+[5]: Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., ... & Rabinovich, A. (2015). ["Going deeper with convolutions."](https://ieeexplore.ieee.org/document/7298594) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1-9).

@@ -1,6 +1,7 @@
 ---
-title: "Stock Analyst Ratings: Buy, Sell, and Hold"
-description: "Unlock investment potential by understanding stock analyst ratings and their impact on trading strategies. Learn how algorithmic trading utilizes these insights."
+title: Understanding Stock Analyst Ratings for Informed Investing
+description: Stock analyst ratings guide investors by breaking down buy hold and sell
+  recommendations and explaining key evaluation methods Discover more inside.
 ---
 
 

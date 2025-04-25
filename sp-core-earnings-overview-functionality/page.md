@@ -1,6 +1,7 @@
 ---
-title: "S&P Core Earnings: Overview and Functionality"
-description: "Explore the significance of S&P Core Earnings, highlighting its impact on profitability analysis and synergy with algorithmic trading for optimal strategies."
+title: S&P Core Earnings Explained for Reliable Investment Analysis
+description: S&P Core Earnings removes one-time items to show a companys true recurring
+  profits and enable clear comparisons for informed investing Discover more inside
 ---
 
 

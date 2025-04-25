@@ -1,6 +1,7 @@
 ---
-title: "Smart Order Routing in Trading"
-description: "Explore the transformative world of Smart Order Routing in trading, highlighting its role in enhancing trade execution through algorithmic strategies. This page investigates into how SOR optimizes transactions in financial markets by evaluating price, liquidity, and timing across multiple venues. Learn about the technologies and algorithms that elevate traders' strategies, reduce costs, and improve performance, offering crucial insights for both seasoned traders and newcomers."
+title: Smart Order Routing Solutions for Optimized Trade Execution
+description: Smart Order Routing automatically finds the lowest trading prices across
+  multiple venues to save money and time for traders. Discover more inside.
 ---
 
 

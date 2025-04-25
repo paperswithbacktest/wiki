@@ -365,3 +365,15 @@ This script shows how you can automate the process of training a model and creat
 One common pitfall when using Matplotlib for machine learning visualizations is creating plots that are too cluttered or confusing. This can happen if you try to show too much information on one plot, like using too many colors, lines, or labels. To avoid this, keep your plots simple and focused on the main point you want to show. For example, if you're plotting how a model's accuracy changes over time, just show the accuracy and maybe a few key points, like where the model starts to improve or level off. Use clear labels and a legend if you need to show more than one thing, but don't overdo it.
 
 Another issue is choosing the wrong type of plot for your data. For instance, using a line plot to show data that doesn't have a clear trend over time can be misleading. To avoid this, think about what you want to show and pick the right plot. If you're looking at how different features in your data relate to each other, a scatter plot or a heatmap might be better than a line plot. Also, make sure your plot tells a clear story by using a good title and labels. This way, anyone looking at your plot can quickly understand what it's about and what insights it provides.
+
+## References & Further Reading
+
+[1]: Hunter, J. D. (2007). ["Matplotlib: A 2D graphics environment."](https://ieeexplore.ieee.org/document/4160265) Computing in Science & Engineering, 9(3), 90-95.
+
+[2]: Waskom, M., et al. (2021). ["Seaborn: Statistical data visualization."](https://joss.theoj.org/papers/10.21105/joss.03021.pdf) Journal of Open Research Software, 6(11).
+
+[3]: McKinney, W. (2010). ["Data Structures for Statistical Computing in Python."](https://www.researchgate.net/publication/265001241_Data_Structures_for_Statistical_Computing_in_Python) In Proceedings of the 9th Python in Science Conference.
+
+[4]: VanderPlas, J. (2016). ["Python Data Science Handbook: Essential Tools for Working with Data."](https://books.google.com/books/about/Python_Data_Science_Handbook.html?id=xYmNDQAAQBAJ) O'Reilly Media, Inc.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

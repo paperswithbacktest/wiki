@@ -79,3 +79,15 @@ Another advanced technique involves using cross-validation to fine-tune the mode
 When using Precision@K in situations where there's a class imbalance, it can be tricky because the model might focus too much on the more common items and miss the rare but important ones. Class imbalance happens when one type of item is much more common than others. For example, if you're recommending movies and most movies are popular but a few are very niche, the model might always recommend popular movies, even if the niche ones are more relevant. To fix this, you can use techniques like oversampling the less common items or undersampling the more common ones. This means you either add more examples of the rare items or remove some examples of the common items to balance things out. By doing this, the model learns to pay attention to all types of items, not just the common ones, which can improve Precision@K.
 
 Another way to address class imbalance is by using different weighting schemes during training. You can assign higher weights to the rare items so the model learns to recognize them better. For example, if you're using a loss function to train your model, you can make the loss for misclassifying a rare item bigger than the loss for misclassifying a common item. This encourages the model to focus on getting the rare items right. Additionally, you can use evaluation metrics that are less sensitive to class imbalance, like the F1-score at K, which balances precision and recall. By combining these strategies, you can help your model improve its Precision@K, making sure it puts the most relevant items, even the rare ones, at the top of the list.
+
+## References & Further Reading
+
+[1]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[2]: Koren, Y., Bell, R., & Volinsky, C. (2009). ["Matrix Factorization Techniques for Recommender Systems."](https://ieeexplore.ieee.org/abstract/document/5197422) IEEE Computer, 42(8), 30-37.
+
+[3]: Lao, N., & Cohen, W. W. (2010). ["Relational Retrieval Using a Combination of Path-Constrained Random Walks."](https://link.springer.com/article/10.1007/s10994-010-5205-8) Proceedings of the 19th International Conference on Artificial Intelligence.
+
+[4]: Chapelle, O., Metlzer, D., Zhang, Y., & Grinspan, P. (2009). ["Expected Reciprocal Rank for Graded Relevance."](https://dl.acm.org/doi/abs/10.1145/1645953.1646033) Proceedings of the 18th ACM Conference on Information and Knowledge Management.
+
+[5]: He, X., Zhang, H., Kan, M. Y., & Chua, T. S. (2016). ["Fast Matrix Factorization for Online Recommendation with Implicit Feedback."](https://dl.acm.org/doi/10.1145/2911451.2911489) Proceedings of the 25th International Joint Conference on Artificial Intelligence.

@@ -1,6 +1,7 @@
 ---
-title: "Stock Versus Bond Performance"
-description: "Explore the contrasting dynamics of bonds and stocks through a comprehensive analysis on algorithmic trading to enhance your investment strategy's performance."
+title: Understanding Stocks and Bonds for Balanced Investment Portfolios
+description: Stocks and bonds compare risk, return, taxation and diversification strategies
+  to help optimize portfolio stability and growth. Discover more inside.
 ---
 
 

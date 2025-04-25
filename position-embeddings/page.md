@@ -83,3 +83,17 @@ Other methods like ALiBi, rotary embeddings (RoPE), conditional positional encod
 In the future, we might see new ways to help machine learning models understand where words are in a sentence. Researchers might come up with new types of position embeddings that are even better at handling long sentences and understanding the relationships between words. For example, they might find ways to mix different types of position embeddings, like using both absolute and relative embeddings together, to make models even smarter. They could also use new math formulas, like $$PE(pos, k) = \cos\left(\frac{2\pi k pos}{N}\right)$$, to create more flexible and accurate position encodings.
 
 Another thing we might see is position embeddings that can change based on what the model is trying to do. For instance, if the model is translating a language, it might use one type of position embedding, but if it's writing a story, it might use a different type. This could make the models more useful for different tasks. Also, as computers get faster and better, we might be able to use more complex position embeddings without making the models too slow. This could help the models understand language even better and make them more helpful for people.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is all you need."](https://arxiv.org/abs/1706.03762) Advances in neural information processing systems, 30.
+
+[2]: Shaw, P., Uszkoreit, J., & Vaswani, A. (2018). ["Self-attention with relative position representations."](https://arxiv.org/abs/1803.02155) Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers), 464-468.
+
+[3]: Press, O., & Wolf, L. (2017). ["Using the output embedding to improve language models."](https://arxiv.org/abs/1608.05859) arXiv preprint arXiv:1608.05859.
+
+[4]: Ke, G., He, D., & Liu, T. (2020). ["Rethinking Positional Encoding in Language Pre-training."](https://arxiv.org/abs/2006.15595) arXiv preprint arXiv:2006.15595.
+
+[5]: Su, J., Zhang, Y., & He, X. (2021). ["RoFormer: Enhanced Transformer with Rotary Position Embedding."](https://www.sciencedirect.com/science/article/pii/S0925231223011864) arXiv preprint arXiv:2104.09864.
+
+[6]: "Transformers for NLP: The definitive guide to natural language processing" by Denis Rothman, Packt Publishing.

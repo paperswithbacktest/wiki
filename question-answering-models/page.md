@@ -79,3 +79,21 @@ Another way to evaluate the model is by using human judges. People can read the 
 Recent advancements in Question Answering research have focused on improving models' ability to handle complex and multi-step questions. One notable development is the use of large language models like BERT and its successors, which have shown significant improvements in understanding context and generating more accurate answers. These models are pre-trained on vast amounts of text data, allowing them to better comprehend the nuances of language. Another advancement is the integration of multi-modal data, where models can now process not just text but also images and videos to answer questions more effectively. This is particularly useful in fields like healthcare and education, where visual information can be crucial for understanding and answering questions.
 
 The field of Question Answering is heading towards more personalized and interactive systems. Researchers are working on models that can engage in conversational question answering, where the model can ask follow-up questions or clarify ambiguities, making the interaction more natural and helpful. Additionally, there is a growing emphasis on domain-specific QA systems, where models are tailored to particular fields like medicine, law, or engineering, to provide more accurate and relevant answers. The future of QA research is likely to see further improvements in handling multi-lingual and multi-cultural contexts, ensuring that models can serve a global audience effectively.
+
+## References & Further Reading
+
+[1]: Rajpurkar, P., Zhang, J., Lopyrev, K., & Liang, P. (2016). ["SQuAD: 100,000+ Questions for Machine Comprehension of Text."](https://aclanthology.org/D16-1264/) arXiv preprint arXiv:1606.05250.
+
+[2]: Trischler, A., Wang, T., Ge, T., Yu, M., & He, X. (2017). ["NewsQA: A Machine Comprehension Dataset."](https://arxiv.org/abs/1611.09830) arXiv preprint arXiv:1611.09830.
+
+[3]: Kwiatkowski, T., Palomaki, J., Redfield, O., Collins, M., Parikh, A., Alberti, C., ... & Petrov, S. (2019). ["Natural Questions: A Benchmark for Question Answering Research."](https://aclanthology.org/Q19-1026/) Transactions of the Association for Computational Linguistics.
+
+[4]: Yang, Z., Yih, W. T., & Meek, C. (2015). ["WikiQA: A Challenge Dataset for Open-Domain Question Answering."](https://aclanthology.org/D15-1237/) In Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing.
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[6]: "Natural Language Processing with Transformers" by Lewis Tunstall, Leandro von Werra, and Thomas Wolf (O'Reilly Media, 2022).
+
+[7]: Yatskar, M., & Zettlemoyer, L. (2018). ["MultiQA: An Empirical Investigation of Generalization and Transfer in Question Answering."](https://a11y2.apps.allenai.org/paper?id=636904d91d9dd1a641a595d9578ba7640f35aa74) Transactions of the Association for Computational Linguistics.
+
+[8]: Ruder, S. (2019). ["Neural Transfer Learning for Natural Language Processing."](https://researchrepository.universityofgalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf) PhD Thesis, National University of Ireland.

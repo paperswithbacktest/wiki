@@ -1,6 +1,7 @@
 ---
-title: "Analysis of SoFi Active Investing"
-description: "Explore SoFi's algorithmic trading solutions designed to democratize investing access. Discover how this innovative platform empowers investors with advanced strategies."
+title: SoFi Active Investing Platform Complete Investor Guide
+description: SoFi Active Investing delivers fee free stock and ETF trading with intuitive
+  tools and advanced features for both beginners and pros Discover more inside
 ---
 
 

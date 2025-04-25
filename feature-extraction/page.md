@@ -83,3 +83,17 @@ Autoencoders are another advanced technique for feature extraction. They are a t
 Recent research trends in feature extraction for machine learning focus a lot on using [deep learning](/wiki/deep-learning) techniques. One big trend is using neural networks like autoencoders and convolutional neural networks (CNNs) to pull out important features from data. These methods can find complex patterns that older methods like PCA and LDA might miss. For example, in image recognition, CNNs can automatically find features like edges, textures, and shapes that help tell different objects apart. Researchers are also working on making these deep learning methods more efficient and able to work with different types of data, like text, sound, and even videos.
 
 Another trend is using unsupervised learning to find new features without needing labeled data. Techniques like t-SNE and autoencoders are popular for this because they can find patterns in data without knowing what the data means. This is really useful when you have a lot of data but don't have the time or resources to label it all. Researchers are also looking at how to combine different feature extraction methods to get even better results. For example, they might use PCA to reduce the number of features and then use a neural network to find even more useful features from the reduced set. This way, they can make the most of their data and help machine learning models work better and faster.
+
+## References & Further Reading
+
+[1]: Jolliffe, I. T. (2002). ["Principal Component Analysis."](https://link.springer.com/book/10.1007/b98835) Springer Series in Statistics. Springer-Verlag, New York.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Comon, P. (1994). ["Independent Component Analysis, A New Concept?"](https://www.sciencedirect.com/science/article/pii/0165168494900299) Signal Processing, 36(3), 287–314.
+
+[4]: Hinton, G. E., & Salakhutdinov, R. R. (2006). ["Reducing the Dimensionality of Data with Neural Networks."](https://www.science.org/doi/10.1126/science.1127647) Science, 313(5786), 504–507.
+
+[5]: Maaten, L. van der, & Hinton, G. (2008). ["Visualizing Data using t-SNE."](https://jmlr.org/papers/v9/vandermaaten08a.html) Journal of Machine Learning Research, 9(Nov), 2579–2605.
+
+[6]: Lotte, F., Congedo, M., Lécuyer, A., Lamarche, F., & Arnaldi, B. (2007). ["A Review of Classification Algorithms for EEG-based Brain-Computer Interfaces."](https://iopscience.iop.org/article/10.1088/1741-2560/4/2/R01) Journal of Neural Engineering, 4(2), R1–R13.

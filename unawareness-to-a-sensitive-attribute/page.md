@@ -83,3 +83,21 @@ However, there are also challenges and ethical concerns with using unawareness t
 In [deep learning](/wiki/deep-learning) models, which are a type of advanced machine learning, incorporating unawareness to sensitive attributes can be tricky but important. These models are good at finding patterns in data, so they might still pick up on sensitive details even if we try to hide them. To stop this from happening, we can use special techniques during the training process. One way is to change the data before we use it, like grouping ages into ranges instead of using exact ages. Another way is to add rules to the model's training that make sure it does not learn to predict sensitive information from other data. By doing this, we can help make sure the deep learning model stays unaware of sensitive details and makes fair decisions for everyone.
 
 However, making a deep learning model unaware of sensitive information can sometimes make it less accurate. When the model does not know about important details, it might miss out on useful information that could help it make better decisions. For example, if a model is used to predict who will get a disease, not knowing the patient's age might make the model's predictions less accurate. Data scientists need to find a balance between keeping the model unaware of sensitive attributes and making sure it still works well. This can be hard to do, but it is important for making sure the model treats everyone fairly and does not make decisions based on irrelevant details.
+
+## References & Further Reading
+
+[1]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://dl.acm.org/doi/abs/10.1145/3457607) ACM Computing Surveys (CSUR), 54(6), 1-35.
+
+[2]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness through Awareness."](https://arxiv.org/abs/1104.3913) Proceedings of the 3rd Innovations in Theoretical Computer Science Conference.
+
+[3]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) fairmlbook.org.
+
+[4]: Corbett-Davies, S., & Goel, S. (2018). ["The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning."](https://arxiv.org/abs/1808.00023) arXiv preprint arXiv:1808.00023.
+
+[5]: Kusner, M. J., Loftus, J., Russell, C., & Silva, R. (2017). ["Counterfactual Fairness."](https://arxiv.org/abs/1703.06856) Advances in Neural Information Processing Systems, 30.
+
+[6]: Calders, T., & Verwer, S. (2010). ["Three Naive Bayes Approaches for Discrimination-Free Classification."](https://link.springer.com/article/10.1007/s10618-010-0190-x) Data Mining and Knowledge Discovery, 21(2), 277-292.
+
+[7]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems, 29.
+
+[8]: Feldman, M., Friedler, S. A., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2014). ["Certifying and Removing Disparate Impact."](https://arxiv.org/abs/1412.3756) Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

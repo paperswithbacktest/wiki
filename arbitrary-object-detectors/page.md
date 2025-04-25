@@ -81,3 +81,17 @@ Another advanced method is using attention mechanisms. These help the detector f
 The latest research in Arbitrary Object Detection is focusing on making detectors even smarter and faster. One big trend is using transformer models, which are good at understanding the whole image at once. These models can help detectors find objects more accurately, especially when objects are close together or hard to see. Another trend is improving how detectors handle different kinds of data, like videos or 3D images. This is important for things like self-driving cars, where the detector needs to work well in real-time and in different environments. Researchers are also working on making detectors more efficient, so they can run on smaller devices like smartphones without losing accuracy.
 
 Looking to the future, Arbitrary Object Detection is likely to get even better at handling new and unusual objects. Researchers are exploring ways to make detectors learn on their own, without needing lots of labeled data. This could make it easier to use detectors in new situations where you don't have a lot of training images. Another exciting direction is combining object detection with other tasks, like understanding what objects are doing or how they're interacting. This could lead to smarter systems that not only find objects but also understand the whole scene. As technology keeps improving, Arbitrary Object Detectors will become more powerful and useful in everyday life.
+
+## References & Further Reading
+
+[1]: Girshick, R., Donahue, J., Darrell, T., & Malik, J. (2014). ["Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation."](https://ieeexplore.ieee.org/document/6909475) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). ["You Only Look Once: Unified, Real-Time Object Detection."](https://ieeexplore.ieee.org/document/7780460) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) European Conference on Computer Vision (ECCV).
+
+[4]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Advances in Neural Information Processing Systems.
+
+[5]: Zhao, Z.-Q., Zheng, P., Xu, S.-T., & Wu, X. (2019). ["Object Detection with Deep Learning: A Review."](https://ieeexplore.ieee.org/document/8627998) IEEE Transactions on Neural Networks and Learning Systems.
+
+[6]: Everingham, M., Van Gool, L., Williams, C. K. I., Winn, J., & Zisserman, A. (2010). ["The Pascal Visual Object Classes Challenge 2010 (VOC2010) Results."](https://link.springer.com/article/10.1007/s11263-009-0275-4) International Journal of Computer Vision and Image Understanding.

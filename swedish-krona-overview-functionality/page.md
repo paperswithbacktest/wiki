@@ -1,6 +1,7 @@
 ---
-title: "Swedish Krona: Overview and Functionality"
-description: "Explore how algorithmic trading transforms SEK trading by minimizing errors and leveraging market opportunities. Enhance trading strategies with real-time insights."
+title: 'Swedish Krona Explained: History, Function and Economic Impact'
+description: Swedish Krona underpins Swedens economy while Riksbank policies and market
+  forces shape its value Explore history and key drivers Discover more inside.
 ---
 
 

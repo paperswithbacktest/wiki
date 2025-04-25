@@ -85,3 +85,21 @@ One of the main challenges in applying convex optimization to machine learning i
 Another challenge is handling big data. As datasets get larger, it becomes harder to solve optimization problems quickly. Convex optimization can help, but it needs to be adapted to work with huge amounts of data. One way to do this is by using techniques like stochastic gradient descent, which looks at only a small part of the data at a time. This can make the optimization process faster, but it also makes it less accurate. Researchers are trying to find a good balance between speed and accuracy, so they can use convex optimization to train models on big datasets without taking too long.
 
 In the future, one direction for applying convex optimization to machine learning could be developing new algorithms that are even better at handling non-convex problems. Another direction could be finding ways to use convex optimization to make models more interpretable, so people can understand how they work. By combining convex optimization with other techniques, like [reinforcement learning](/wiki/reinforcement-learning) or federated learning, researchers might be able to solve even more complex problems and make machine learning models work better in the real world.
+
+## References & Further Reading
+
+[1]: Boyd, S., & Vandenberghe, L. (2004). ["Convex Optimization."](https://web.stanford.edu/~boyd/cvxbook/) Cambridge University Press.
+
+[2]: Nesterov, Y. (2013). ["Introductory Lectures on Convex Optimization: A Basic Course."](https://link.springer.com/book/10.1007/978-1-4419-8853-9) Kluwer Academic Publishers.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[4]: Shalev-Shwartz, S., & Ben-David, S. (2014). ["Understanding Machine Learning: From Theory to Algorithms."](https://assets.cambridge.org/97811070/57135/frontmatter/9781107057135_frontmatter.pdf) Cambridge University Press.
+
+[5]: Nocedal, J., & Wright, S. J. (2006). ["Numerical Optimization."](https://link.springer.com/book/10.1007/978-0-387-40065-5) (2nd ed.). Springer.
+
+[6]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[7]: Bertsekas, D. P. (1999). ["Nonlinear Programming."](https://github.com/johnson-penguin/Communication_eBooks/blob/main/Bertsekas%20D.%20Nonlinear%20programming%20(2ed.%2C%20Athena%2C%201999).pdf) Athena Scientific.
+
+[8]: Wright, S. J. (1997). ["Primal-Dual Interior-Point Methods."](https://epubs.siam.org/doi/book/10.1137/1.9781611971453) SIAM.

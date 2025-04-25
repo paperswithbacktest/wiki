@@ -1,6 +1,7 @@
 ---
-title: "Subjective Probability: Function and Examples"
-description: "Explore subjective probability in algorithmic trading uncover its role in decision-making and risk management Learn how traders use intuition alongside data-driven strategies"
+title: The Role of Subjective Probability in Effective Decision Making
+description: Subjective probability lets you estimate event chances based on beliefs
+  when data is scarce and drives smarter decisions in finance Discover more inside
 ---
 
 

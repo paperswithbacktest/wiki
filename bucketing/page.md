@@ -81,3 +81,19 @@ Another advanced technique is using machine learning models to predict the best 
 Bucketing can be combined with other feature engineering techniques to make machine learning models more accurate. One way to do this is by using bucketing along with normalization or standardization. Normalization makes all the data fit between 0 and 1, while standardization changes the data so it has a mean of 0 and a standard deviation of 1. When you bucket the data first and then normalize or standardize it, you can help the model focus on the main trends in the data. This can make the model work better because it's easier for the model to understand the data when it's in smaller groups and all on the same scale.
 
 Another way to use bucketing with other techniques is by combining it with feature encoding. For example, after you bucket your data, you can use one-hot encoding to turn the buckets into numbers that the model can use. One-hot encoding makes each bucket into a separate column, where a 1 means the data point is in that bucket and a 0 means it's not. This can help the model see the different categories more clearly. You can also use target encoding, where you replace each bucket with the average value of the target variable for that bucket. This can give the model more information about how the buckets relate to what you're trying to predict. By using bucketing with these other techniques, you can make your data easier for the model to understand and improve its accuracy.
+
+## References & Further Reading
+
+[1]: McKinney, W. (2012). ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython."](https://wesmckinney.com/book/) O'Reilly Media.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Grus, J. (2015). ["Data Science from Scratch: First Principles with Python."](https://books.google.com/books/about/Data_Science_from_Scratch.html?id=YBKSDwAAQBAJ) O'Reilly Media.
+
+[4]: Aggarwal, C. C. (2015). ["Data Mining: The Textbook."](https://link.springer.com/book/10.1007/978-3-319-14142-8) Springer.
+
+[5]: Han, J., Kamber, M., & Pei, J. (2011). ["Data Mining: Concepts and Techniques."](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) Morgan Kaufmann.
+
+[6]: Shmueli, G., Bruce, P. C., Yahav, I., Patel, N. R., & Lichtendahl, K. C. (2017). ["Data Mining for Business Analytics: Concepts, Techniques, and Applications with JMP Pro."](https://www.amazon.com/Data-Mining-Business-Analytics-Applications/dp/1118879368) Wiley.
+
+[7]: Vanderplas, J. (2016). ["Python Data Science Handbook: Essential Tools for Working with Data."](https://books.google.com/books/about/Python_Data_Science_Handbook.html?id=xYmNDQAAQBAJ) O'Reilly Media.

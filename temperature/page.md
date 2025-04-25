@@ -79,3 +79,15 @@ On the other hand, using a low temperature makes the model's guesses more focuse
 Temperature can be used in advanced ways to make machine learning models more robust. One technique is called temperature scaling, which helps make a model's confidence match how often it's actually right. When a model says it's 90% sure about something, we want it to be right about 90% of the time. By adjusting the temperature, we can make the model's confidence levels more accurate. For example, in the softmax function, we use the temperature like this: $$P(y_i) = \frac{\exp(z_i/T)}{\sum_{j} \exp(z_j/T)}$$. Here, $$z_i$$ are the raw numbers from the model, and $$T$$ is the temperature. If the model is too confident and often wrong, we can use a higher temperature to make it less sure. If it's not confident enough, we can use a lower temperature to make it more sure. This helps the model give more reliable predictions, especially in situations where the data might be tricky or different from what it was trained on.
 
 Another advanced technique is using temperature to control how much the model explores different options during training. This is called temperature annealing, where we start with a high temperature and slowly lower it as the model learns. At the beginning, a high temperature helps the model look at many different possibilities and avoid getting stuck in one place. As training goes on, we lower the temperature to make the model more focused and sure about its choices. This can help the model learn better and be more robust to changes in the data. By carefully adjusting the temperature during training, we can make the model more adaptable and better at handling new or unexpected situations.
+
+## References & Further Reading
+
+[1]: Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017). ["On Calibration of Modern Neural Networks."](https://arxiv.org/abs/1706.04599) Proceedings of the 34th International Conference on Machine Learning.
+
+[2]: Hinton, G., Vinyals, O., & Dean, J. (2015). ["Distilling the Knowledge in a Neural Network."](https://arxiv.org/abs/1503.02531) arXiv preprint arXiv:1503.02531.
+
+[3]: Pereyra, G., Tucker, G., Chorowski, J., Kaiser, L., & Hinton, G. (2017). ["Regularizing Neural Networks by Penalizing Confident Output Distributions."](https://arxiv.org/abs/1701.06548) arXiv preprint arXiv:1701.06548.
+
+[4]: Goodfellow, I., Bengio, Y., Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Szegedy, C., Zaremba, W., Sutskever, I., Bruna, J., Erhan, D., Goodfellow, I., & Fergus, R. (2013). ["Intriguing properties of neural networks."](https://arxiv.org/abs/1312.6199) arXiv preprint arXiv:1312.6199.

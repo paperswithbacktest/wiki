@@ -85,3 +85,17 @@ Advanced optimizers like Adam and RMSprop can handle these issues even better. T
 To further optimize the performance of machine learning models, one advanced technique is to use learning rate schedules. This means changing the learning rate over time instead of keeping it the same. For example, you might start with a high learning rate to help the model learn quickly at first, and then lower it as the model gets closer to the best solution. This can help the model learn faster and avoid getting stuck. Another technique is to use regularization, which helps prevent the model from overfitting to the training data. Overfitting happens when the model learns the training data too well and doesn't do as well on new data. Regularization adds a penalty to the loss function to keep the model's parameters from getting too big, which can help the model generalize better to new data.
 
 Another advanced technique is to use ensemble methods, which combine the predictions of multiple models to get a better result. For example, you might train several models on different parts of the data and then average their predictions. This can help the model perform better because it's less likely to make mistakes if it's combining the strengths of different models. Additionally, techniques like early stopping can be used to prevent overfitting. Early stopping means stopping the training process before the model has a chance to overfit. You can do this by monitoring the model's performance on a validation set and stopping when the performance starts to get worse. By using these advanced techniques, you can help your machine learning model perform better and learn more efficiently.
+
+## References & Further Reading
+
+[1]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[2]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press. [Chapter 8: Optimization for Training Deep Models.](https://www.deeplearningbook.org/)
+
+[4]: Zeiler, M. D. (2012). ["ADADELTA: An Adaptive Learning Rate Method."](https://arxiv.org/abs/1212.5701) arXiv preprint arXiv:1212.5701.
+
+[5]: Duchi, J., Hazan, E., & Singer, Y. (2011). ["Adaptive Subgradient Methods for Online Learning and Stochastic Optimization."](https://dl.acm.org/doi/10.5555/1953048.2021068) Journal of Machine Learning Research, 12, 2121-2159.
+
+[6]: Hinton, G., Srivastava, N., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2012). ["Improving neural networks by preventing co-adaptation of feature detectors"](https://arxiv.org/abs/1207.0580). arXiv preprint arXiv:1207.0580.

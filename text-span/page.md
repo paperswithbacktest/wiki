@@ -83,3 +83,15 @@ Using advanced models like BERT helps a lot with this. These models look at the 
 In the future, we can expect text span machine learning to get even better at understanding language. One big area of improvement will be in making models that can handle different languages more easily. Right now, models work best on the languages they were trained on, but in the future, they might be able to switch between languages without needing as much training. This would make them more useful for people all over the world. Another exciting development will be in using less data to train these models. Right now, you need a lot of examples to teach a model how to find text spans, but new techniques might let us use smaller datasets and still get good results.
 
 Also, we might see more use of advanced techniques like few-shot learning and meta-learning. These methods let models learn new tasks with just a few examples, which could make it easier to teach them to find different kinds of text spans without starting over from scratch. For example, if a model already knows how to find names of people, it might be able to quickly learn to find names of places too. This would make text span identification faster and more flexible. Overall, these advancements will make text span machine learning more powerful and easier to use in everyday applications.
+
+## References & Further Reading
+
+[1]: Tjong Kim Sang, E. F., & De Meulder, F. (2003). ["Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition."](https://aclanthology.org/W03-0419/) In Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003.
+
+[2]: Pradhan, S., et al. (2013). ["Towards Robust Linguistic Analysis using OntoNotes."](https://aclanthology.org/W13-3516/) Proceedings of the Seventeenth Conference on Computational Natural Language Learning.
+
+[3]: Rajpurkar, P., et al. (2016). ["SQuAD: 100,000+ Questions for Machine Comprehension of Text."](https://aclanthology.org/D16-1264/) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+[4]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.

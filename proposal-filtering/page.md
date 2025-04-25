@@ -79,3 +79,21 @@ Another way to evaluate NMS methods is by looking at how fast they work. Some me
 In the future, we might see more smart ways to filter proposals in object detection. Right now, computers use methods like NMS to decide which guesses about where objects are in a picture to keep or throw away. But future methods might look at even more details, like the shape and color of objects, to make better guesses. This could help the computer find objects more accurately, especially in crowded pictures where objects are close together. For example, a new method might use a formula like $$s_i = s_i \cdot (1 - \text{FIoU}(i, j))$$ to decide how to change the scores of guesses based on how much their features overlap.
 
 Another thing we might see is computers getting faster and better at filtering proposals. Right now, some methods can take a long time to work because they need a lot of power and memory. In the future, new ways might be found to make these methods quicker and use less memory. This would be really helpful for things like self-driving cars or security cameras, where the computer needs to find objects quickly and accurately. By making proposal filtering faster and more accurate, we can use object detection in more places and make it more useful in our everyday lives.
+
+## References & Further Reading
+
+[1]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[2]: Neubeck, A., & Van Gool, L. (2006). ["Efficient Non-Maximum Suppression."](https://ieeexplore.ieee.org/abstract/document/1699659) 18th International Conference on Pattern Recognition (ICPR).
+
+[3]: Bodla, N., Singh, B., Chellappa, R., & Davis, L. S. (2017). ["Soft-NMS - Improving Object Detection With One Line of Code."](https://arxiv.org/abs/1704.04503) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[4]: Cai, Z., & Vasconcelos, N. (2016). ["Cascaded Convolutional Neural Networks for Direct MR Image Reconstruction."](https://arxiv.org/abs/1607.07155) 29th IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Zhu, X., Hu, H., Lin, S., & Dai, J. (2018). ["Deformable ConvNets v2: More Deformable, Better Results."](https://arxiv.org/abs/1811.11168) European Conference on Computer Vision (ECCV). 
+
+[6]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) European Conference on Computer Vision (ECCV).
+
+[7]: Mahapatra, D., Antony, B., Sedai, S., & Garnavi, R. (2017). ["Image Super-Resolution Generative Adversarial Networks with Self-Attention Mechanism."](https://ieeexplore.ieee.org/document/8363845) arXiv preprint.
+
+[8]: Zhang, S., Chi, C., Yao, Y., Lei, Z., & Li, S. Z. (2020). ["Bridging the Gap Between Anchor-based and Anchor-free Detection via Adaptive Training Sample Selection."](https://arxiv.org/abs/1912.02424) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).

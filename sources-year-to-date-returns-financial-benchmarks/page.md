@@ -1,6 +1,7 @@
 ---
-title: "Sources for Year-To-Date Returns of Financial Benchmarks"
-description: "Explore YTD returns and financial benchmarks in algorithmic trading to assess investment performance and optimize strategies in today's dynamic markets."
+title: Year-To-Date Returns And Key Financial Benchmarks Explained
+description: Year-to-date returns show how your investments perform against key benchmarks
+  and help drive smarter decisions throughout the year Discover more inside
 ---
 
 

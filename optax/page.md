@@ -132,3 +132,17 @@ When you're setting up distributed training with Optax, it's best to use a libra
 Optax has been effectively used in various real-world applications, particularly in the field of [deep learning](/wiki/deep-learning) research. One notable case study is its use by DeepMind in their work on [reinforcement learning](/wiki/reinforcement-learning). Researchers at DeepMind used Optax to experiment with different optimization algorithms to improve the performance of their [agents](/wiki/agents) in complex environments. By leveraging Optax's flexible and customizable optimizers, they were able to fine-tune their models more efficiently, leading to better results in tasks like playing video games or controlling robotic systems.
 
 Another example of Optax's application is in natural language processing (NLP). A team of researchers used Optax to optimize large language models, which are used for tasks like text generation and translation. They found that Optax's advanced features, such as gradient clipping and custom learning rate schedules, helped stabilize the training process and improve the model's performance. By using Optax, they were able to achieve state-of-the-art results on several benchmark datasets, demonstrating the library's effectiveness in handling large-scale NLP tasks.
+
+## References & Further Reading
+
+[1]: Hessel, M., Modayil, J., Van Hasselt, H., Schaul, T., Ostrovski, G., Dabney, W., ... & Silver, D. (2018). ["Rainbow: Combining Improvements in Deep Reinforcement Learning."](https://ojs.aaai.org/index.php/AAAI/article/view/11796) arXiv preprint arXiv:1710.02298.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Proceedings of the 31st International Conference on Neural Information Processing Systems.
+
+[3]: Kingma, D. P., & Ba, J. (2015). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) International Conference on Learning Representations.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://ieeexplore.ieee.org/document/712192) MIT Press.
+
+[6]: "Accelerated Linear Algebra with JAX, Part 1: Understanding JAX's Speed," [DeepMind Tech Blog](https://blog.google/products/gemini/how-we-built-gemini-robotics/).

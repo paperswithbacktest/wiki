@@ -1,6 +1,7 @@
 ---
-title: "S&P Phenomenon: Interpretation and Criteria"
-description: "Explore the impact of economic criteria, the S&P 500 phenomenon, and algorithmic trading on market dynamics and investment strategies in this insightful article."
+title: Understanding the S&P Phenomenon Impact on Stock Prices
+description: S&P Phenomenon shows how index fund demand lifts added stocks so investors
+  can spot and harness short term price jumps Discover more inside.
 ---
 
 

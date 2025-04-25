@@ -81,3 +81,21 @@ MADDPG works by giving each agent its own actor and critic networks, just like i
 One of the latest advancements in Policy Gradient Methods is the Autotuned Temperature in Soft Actor-Critic (SAC). In regular SAC, the temperature parameter, which controls how much the policy explores different actions, is set by hand. But with Autotuned Temperature, the algorithm learns the best temperature by itself. This makes SAC even better at finding a good balance between exploring new actions and sticking to what works. The temperature is updated using a special rule that looks at how much the policy is exploring and how well it's doing. This can be written as $$\alpha \leftarrow \alpha - \lambda \nabla_\alpha (\alpha \log \pi_\theta(a|s) - \alpha \bar{H})$$, where $$\alpha$$ is the temperature, $$\lambda$$ is the learning rate for the temperature, $$\pi_\theta(a|s)$$ is the policy, and $$\bar{H}$$ is the target entropy. By letting the algorithm figure out the best temperature, Autotuned Temperature can make SAC work better in many different situations.
 
 Another exciting advancement is Robust Predictable Control (RPC), which helps policy gradient methods deal with unpredictable environments. In regular policy gradient methods, the agent learns a policy that works well in the environment it's trained in. But if the environment changes a bit, the policy might not work as well. RPC tries to fix this by making the policy more robust. It does this by adding a special term to the policy update that encourages the policy to be predictable and work well even when things change a little. This can help the policy be more reliable in real-world situations where things don't always go as planned. By making policies more robust, RPC can make policy gradient methods more useful for tasks like robot control or autonomous driving, where the environment can be unpredictable.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf). MIT Press.
+
+[2]: Silver, D., Lever, G., Heess, N., Degris, T., Wierstra, D., & Riedmiller, M. (2014). ["Deterministic Policy Gradient Algorithms."](https://dl.acm.org/doi/10.5555/3044805.3044850) In Proceedings of the 31st International Conference on Machine Learning (ICML 2014).
+
+[3]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., & Wierstra, D. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv:1509.02971.
+
+[4]: Schulman, J., Levine, S., Moritz, P., Jordan, M., & Abbeel, P. (2015). ["Trust Region Policy Optimization,"](https://arxiv.org/abs/1502.05477) arXiv:1502.05477.
+
+[5]: Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). ["Proximal Policy Optimization Algorithms."](https://arxiv.org/abs/1707.06347) arXiv:1707.06347.
+
+[6]: Haarnoja, T., Zhou, A., Abbeel, P., & Levine, S. (2018). ["Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor,"](https://arxiv.org/abs/1801.01290) arXiv:1801.01290.
+
+[7]: Fujimoto, S., van Hoof, H., & Meger, D. (2018). ["Addressing Function Approximation Error in Actor-Critic Methods."](https://arxiv.org/abs/1802.09477) arXiv:1802.09477.
+
+[8]: Lowe, R., Wu, Y., Tamar, A., Harb, J., Abbeel, O. P., & Mordatch, I. (2017). ["Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments."](https://arxiv.org/abs/1706.02275) arXiv:1706.02275.

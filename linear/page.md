@@ -81,3 +81,17 @@ To deal with outliers, you can try a few things. One way is to remove the outlie
 When dealing with complex datasets, one advanced technique to improve linear models is to use polynomial regression. This method extends linear regression by fitting a curve instead of a straight line. Imagine you're trying to predict how fast a car goes based on how much gas it uses. A straight line might not fit well if the relationship is more complex. With polynomial regression, you can use a formula like $$y = m_1x + m_2x^2 + b$$ to fit a curve that captures the ups and downs in your data better. This can help your model make more accurate predictions, especially when the relationship between your inputs and outputs isn't a simple straight line.
 
 Another powerful technique is to use feature engineering. This means creating new input features from the ones you already have to help your model understand the data better. For example, if you're predicting house prices, you might combine the number of bedrooms and the size of the house into a new feature like "bedroom density." You can also use techniques like one-hot encoding to turn categorical data, like types of houses, into numbers that the model can work with. By making these new features, you give your linear model more information to work with, which can lead to better predictions. Feature engineering can be a bit tricky, but it's a great way to make your model smarter without changing the basic linear regression approach.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[2]: Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). ["Introduction to Linear Regression Analysis."](https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf) Wiley.
+
+[3]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning with Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.
+
+[4]: Zou, H., & Hastie, T. (2005). ["Regularization and Variable Selection via the Elastic Net."](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482) Journal of the Royal Statistical Society: Series B (Statistical Methodology).
+
+[5]: Wooldridge, J. M. (2012). ["Introductory Econometrics: A Modern Approach."](https://faculty.cengage.com/titles/9781337558860) Cengage Learning.
+
+[6]: Seber, G. A. F., & Lee, A. J. (2003). ["Linear Regression Analysis."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780471722199) Wiley.

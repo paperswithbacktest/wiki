@@ -85,3 +85,15 @@ Another example is a recommendation system for an online movie streaming service
 In the future, unidirectional machine learning is expected to become even more efficient and accurate. One way this could happen is by using better algorithms that can learn from more data faster. For example, new versions of algorithms like logistic regression or decision trees might be developed to handle bigger datasets and make better predictions. Also, techniques like ensemble methods, where you combine several models to get a better result, might become more common. This could help unidirectional models perform even better without needing to change after training.
 
 Another expected development is in the area of feature engineering and selection. Scientists might come up with new ways to create and choose the best features for models, making them more accurate. For instance, they might find new ways to combine different pieces of data to help the model see patterns more clearly. This could make unidirectional models work well in more situations, even when the data is complex. Overall, these advancements could make unidirectional machine learning a more powerful tool for quick and stable predictions in many different fields.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: Domingos, P. (2015). ["The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World."](https://archive.org/details/masteralgorithmh0000domi_a3k6) Basic Books.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.

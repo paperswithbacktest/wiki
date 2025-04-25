@@ -1,6 +1,7 @@
 ---
-title: "Sub-Sovereign Obligation"
-description: "Explore municipal bonds and the impact of algorithmic trading on local government finance. Understand risks, advantages, and strategic significance of sub-sovereign debt."
+title: Sub-Sovereign Obligations Explained For Local Government Funding
+description: Sub-Sovereign Obligations help local governments fund schools roads and
+  hospitals while guiding investors on risk and credit ratings Discover more inside.
 ---
 
 

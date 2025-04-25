@@ -85,3 +85,17 @@ Choosing the right kernel depends on the problem you're trying to solve. If the 
 One advanced strategy to optimize nonlinear machine learning models is to use techniques like hyperparameter tuning. Hyperparameters are settings that you can adjust to make the model work better, like the learning rate in a neural network or the $$ \gamma $$ parameter in an SVM's RBF kernel. You can use methods like grid search or random search to try out different combinations of these settings and see which ones give the best results. Another technique is Bayesian optimization, which uses a smarter way to choose which hyperparameters to try next based on past results. This can be more efficient than trying every possible combination, especially when you have a lot of hyperparameters to tune.
 
 Another strategy is to use ensemble methods, which combine several models to make better predictions. For example, you can use bagging to train many versions of the same model on different parts of the data and then average their predictions. Random forests are a type of bagging that use decision trees. Another ensemble method is boosting, which trains models one after the other, with each new model trying to correct the mistakes of the previous ones. Techniques like gradient boosting can be very powerful for optimizing nonlinear models. By combining these advanced strategies, you can make your nonlinear machine learning models more accurate and reliable.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Schölkopf, B., & Smola, A. J. (2002). ["Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond."](https://direct.mit.edu/books/monograph/1821/Learning-with-KernelsSupport-Vector-Machines) MIT Press.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[6]: Cortes, C., & Vapnik, V. (1995). ["Support-Vector Networks."](https://link.springer.com/article/10.1007/BF00994018) Machine Learning, 20(3), 273-297.

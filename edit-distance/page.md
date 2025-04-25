@@ -123,3 +123,17 @@ In other areas like speech recognition and DNA sequence analysis, Edit Distance 
 Current research in Edit Distance within machine learning is focusing on making calculations faster and more accurate, especially for big datasets. One trend is developing new algorithms that can quickly estimate Edit Distance without checking every pair of strings. For example, researchers are working on approximation algorithms like Ukkonen's algorithm, which can calculate the Edit Distance faster in some cases. The time complexity of Ukkonen's algorithm is $$O(m \times k)$$, where $$m$$ is the length of the longer string and $$k$$ is the Edit Distance itself. This can be much faster than the basic algorithm if the strings are not very different. Another trend is using parallel computing to split the work across many computers or processors, making the process much quicker. These methods help machine learning models work better with large amounts of text data.
 
 Future directions for Edit Distance in machine learning include integrating it with other techniques to improve model performance. Researchers are exploring how Edit Distance can be combined with [deep learning](/wiki/deep-learning) models to enhance tasks like natural language processing and speech recognition. For instance, Edit Distance can be used to train models that need to understand and process text or sequences by providing a measure of how similar or different two pieces of text are. This can help models make smarter decisions and improve their accuracy. Additionally, there is interest in applying Edit Distance to new areas like bioinformatics and cybersecurity, where comparing sequences is important. By continuing to refine and expand the use of Edit Distance, researchers aim to make machine learning models more effective and versatile in handling various types of data.
+
+## References & Further Reading
+
+[1]: Wagner, R. A., & Fischer, M. J. (1974). ["The String-to-String Correction Problem."](https://dl.acm.org/doi/10.1145/321796.321811) Journal of the ACM, 21(1), 168-173.
+
+[2]: Levenshtein, V. I. (1966). ["Binary codes capable of correcting deletions, insertions, and reversals."](https://www.scribd.com/document/105599835/Binary-codes-capable-of-correcting-deletions-insertions-and-reversals) Soviet Physics Doklady, 10(8), 707-710.
+
+[3]: Chatterjee, S., & Mohanian, D. (2019). ["A Comparative Survey on Levenshtein Distance Algorithm in Text Recognition."](https://profiles.stanford.edu/sourav-chatterjee) Proceedings of the International Conference on Sustainable Computing in Science, Technology and Management (SUSCOM).
+
+[4]: Jurafsky, D., & Martin, J. H. (2009). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition."](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) Prentice Hall.
+
+[5]: Gusfield, D. (1997). ["Algorithms on Strings, Trees, and Sequences: Computer Science and Computational Biology."](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20on%20Strings%2C%20Trees%2C%20and%20Sequences%20%5BGusfield%201997-05-28%5D.pdf) Cambridge University Press.
+
+[6]: Ukkonen, E. (1985). ["Algorithms for approximate string matching."](https://www.sciencedirect.com/science/article/pii/S0019995885800462) Information and Control, 64(1-3), 100-118.

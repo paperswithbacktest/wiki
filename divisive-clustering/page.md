@@ -79,3 +79,19 @@ One way to help with high-dimensional data is to use something called dimensiona
 One way to improve the efficiency of divisive clustering is by using a technique called bisecting k-means. Instead of looking at all possible ways to split a cluster, bisecting k-means splits a cluster into two smaller clusters using the k-means algorithm. This can be much faster because k-means is good at finding groups quickly. You start with all the data in one big group and then use k-means to split it into two groups. Then, you pick one of those groups and split it again with k-means. You keep doing this until you have the right number of groups. This way, you can find good groups faster, even with a lot of data.
 
 Another technique is to use a method called pre-clustering to speed up divisive clustering. Pre-clustering means you group the data into a few big groups before you start the divisive clustering process. This can help because you don't have to start with all the data in one big group. Instead, you start with a few smaller groups, which can make the process faster. For example, you might use a fast clustering method like k-means to make the big groups first. Then, you use divisive clustering on each of these big groups to split them into smaller groups. This can help you find good groups faster and make the process easier to handle, especially with a lot of data.
+
+## References & Further Reading
+
+[1]: Kaufman, L., & Rousseeuw, P. J. (2005). ["Finding Groups in Data: An Introduction to Cluster Analysis."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316801) Wiley-Interscience.
+
+[2]: Mullner, D. (2013). ["Modern hierarchical, agglomerative clustering algorithms."](https://arxiv.org/abs/1109.2378) Journal of Knowledge and Information Systems, 35, 3, 345–355.
+
+[3]: Rokach, L., & Maimon, O. (2005). ["Clustering Methods."](https://link.springer.com/chapter/10.1007/0-387-25465-X_15) In: The Data Mining and Knowledge Discovery Handbook. Springer, Boston, MA.
+
+[4]: Jain, A. K., & Dubes, R. C. (1988). ["Algorithms for Clustering Data."](https://dl.acm.org/doi/10.5555/42779) Prentice-Hall.
+
+[5]: MacQueen, J. (1967). ["Some Methods for Classification and Analysis of Multivariate Observations."](https://projecteuclid.org/ebooks/berkeley-symposium-on-mathematical-statistics-and-probability/Some-methods-for-classification-and-analysis-of-multivariate-observations/chapter/Some-methods-for-classification-and-analysis-of-multivariate-observations/bsmsp/1200512992) Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1, 281–297.
+
+[6]: Karypis, G., Han, E. H. S., & Kumar, V. (1999). ["Chameleon: Hierarchical Clustering Using Dynamic Modeling."](https://ieeexplore.ieee.org/document/781637) Computer, 32(8), 68-75.
+
+[7]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.

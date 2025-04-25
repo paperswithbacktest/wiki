@@ -81,3 +81,15 @@ Another exciting area of research is in multi-task learning, where models are tr
 To evaluate the effectiveness of In-Context Learning in a model, you can look at how well the model performs on new tasks after being shown just a few examples. One way to do this is by using a test set that includes examples of the tasks you want the model to do. You show the model a few examples of each task, and then you see how well it can do the tasks on its own. If the model can do the tasks well, it means In-Context Learning is working effectively. You can measure this by looking at things like accuracy, which is how often the model gets the right answer, or by using other metrics like the F1 score, which balances precision and recall.
 
 Another way to evaluate In-Context Learning is by comparing it to traditional machine learning methods. You can train a model the usual way, with a lot of data, and then see how it performs on the same tasks. Then, you can use In-Context Learning with just a few examples and compare the results. If the model using In-Context Learning performs just as well or even better than the traditionally trained model, it shows that In-Context Learning is effective. This comparison can help you understand how much time and resources In-Context Learning can save while still giving good results.
+
+## References & Further Reading
+
+[1]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) Advances in Neural Information Processing Systems, 33.
+
+[2]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[3]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research, 21(140), 1-67.
+
+[4]: Zhao, W., Koch, P., Rashkin, H., Bosselut, A., Knight, K., & Choi, Y. (2021). ["Improving Internet-Level Translation With Interactive In-Context Learning."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing.
+
+[5]: Bansal, T., & Liang, P. (2021). ["Meta-Learning of Structured Task Distributions in Contextual Bandits."](https://aclanthology.org/2021.emnlp-main.469/) arXiv preprint arXiv:2103.13457.

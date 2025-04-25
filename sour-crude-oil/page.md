@@ -1,6 +1,7 @@
 ---
-title: "Sour Crude Oil"
-description: "Explore the unique challenges and opportunities of sour crude oil and algorithmic trading to enhance profitability in volatile crude oil markets."
+title: Understanding Sour Crude Oil Properties Uses and Market Impact
+description: Sour crude oil requires advanced refining and strict environmental controls
+  to remove sulfur and produce diesel jet fuel and asphalt. Discover more inside.
 ---
 
 

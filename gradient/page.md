@@ -132,3 +132,19 @@ for epoch in range(epochs):
     loss.backward()  # Compute the gradients
     optimizer.step()  # Update the parameters
 ```
+
+## References & Further Reading
+
+[1]: Zinkevich, M. (2003). ["Online Convex Programming and Generalized Infinitesimal Gradient Ascent."](https://people.eecs.berkeley.edu/~brecht/cs294docs/week1/03.Zinkevich.pdf) ICML.
+
+[2]: Bottou, L. (1998). ["Online Learning and Stochastic Approximations."](https://leon.bottou.org/publications/pdf/online-1998.pdf) In Online Learning in Neural Networks, edited by David Saad. Cambridge University Press.
+
+[3]: Kingma, D.P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[4]: Hinton, G.E., Srivastava, N., & Swersky, K. (2012). ["Neural Networks for Machine Learning - Lecture 6a - Overview of mini-batch gradient descent."](https://arxiv.org/abs/1207.0580) University of Toronto.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. 
+
+[6]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[7]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.

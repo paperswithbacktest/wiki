@@ -81,3 +81,23 @@ Another limitation is the risk of overfitting. When you use techniques like Auto
 Evaluating the effectiveness of different dimensionality reduction methods in a machine learning pipeline involves looking at how well the reduced data helps the model perform. One way to do this is by using a performance metric, like accuracy or mean squared error, to see if the model works better with the reduced data. For example, you might start with a dataset and use a method like PCA to reduce its dimensions. Then, you train your model on this reduced data and compare its performance to when it was trained on the original data. If the model performs better or at least as well with fewer dimensions, the dimensionality reduction method is effective.
 
 Another important aspect to consider is how much information is lost during the reduction process. You can measure this using metrics like the explained variance ratio in PCA, which tells you how much of the original data's variance is captured by the new dimensions. If you're using a method like an Autoencoder, you might look at the reconstruction error, which shows how well the reduced data can be used to rebuild the original data. By comparing these metrics across different methods, you can choose the one that best balances reducing dimensions and keeping important information. This helps ensure that your machine learning pipeline is as efficient and effective as possible.
+
+## References & Further Reading
+
+[1]: Jolliffe, I.T., & Cadima, J. (2016). ["Principal component analysis: a review and recent developments."](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0202) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences.
+
+[2]: Shlens, J. (2014). ["A Tutorial on Principal Component Analysis."](https://arxiv.org/abs/1404.1100) arXiv preprint arXiv:1404.1100.
+
+[3]: Murphy, K.P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) The MIT Press.
+
+[4]: Blei, D.M., Kucukelbir, A., & McAuliffe, J.D. (2017). ["Variational Inference: A Review for Statisticians."](https://arxiv.org/abs/1601.00670) Journal of the American Statistical Association.
+
+[5]: Izenman, A.J. (2013). ["Linear Discriminant Analysis."](https://link.springer.com/chapter/10.1007/978-0-387-78189-1_8) Springer.
+
+[6]: Hyvärinen, A., & Oja, E. (2000). ["Independent Component Analysis: Algorithms and Applications."](https://www.sciencedirect.com/science/article/pii/S0893608000000265) Neural Networks, 13(4-5), 411-430.
+
+[7]: McInnes, L., Healy, J., & Melville, J. (2018). ["UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction."](https://arxiv.org/abs/1802.03426) arXiv preprint arXiv:1802.03426.
+
+[8]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[9]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

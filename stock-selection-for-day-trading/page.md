@@ -1,6 +1,7 @@
 ---
-title: "Stock Selection for Day Trading"
-description: "Explore strategies and tools for successful day trading and stock selection Enhance your algorithmic trading skills in a fast-paced stock market environment"
+title: Effective Stock Selection Techniques for Day Trading
+description: Day trading stock selection guides you to spot liquid volatile stocks
+  and apply technical analysis for quick gains Discover more inside now.
 ---
 
 

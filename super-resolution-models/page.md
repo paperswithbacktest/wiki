@@ -1,7 +1,7 @@
 ---
-title: Super-Resolution Fundamentals and SRGAN in Machine Learning
-description: Super-Resolution in machine learning enhances low-resolution images using
-  SRGAN to add realistic detail through adversarial training Discover more inside
+title: Advanced Super-Resolution With SRGAN For Clearer Images
+description: Super-Resolution with SRGAN efficiently enhances low-res images by predicting
+  realistic details and textures to restore clarity Discover more inside.
 ---
 
 ![Image](images/1.jpeg)
@@ -81,3 +81,15 @@ GANs also focus on making images look good to human eyes, not just mathematicall
 Future directions for super-resolution models like SRGAN include making them faster and more efficient. Right now, these models need a lot of computing power to work well. Researchers are working on ways to make them run on smaller devices like smartphones and tablets. They are also trying to make the models process images more quickly, which is important for things like live video feeds. Another area of improvement is making the models work better with very blurry or noisy images. By using new techniques and more data, the models can learn to add details even when the original image doesn't have much information to work with.
 
 Another potential improvement is making super-resolution models more versatile. This means they can work well on different types of images, like photos, medical scans, and satellite images. Researchers are also looking into ways to make these models more ethical and responsible. For example, they want to make sure the models are not used to change photos in ways that could mislead people. By focusing on these areas, super-resolution models like SRGAN can become even more useful and reliable in the future.
+
+## References & Further Reading
+
+[1]: Ledig, C., Theis, L., Huszar, F., Caballero, J., Cunningham, A., Acosta, A., Aitken, A. P., Tejani, A., Totz, J., Wang, Z., & Shi, W. (2017). ["Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network."](https://ieeexplore.ieee.org/document/8099502) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Dong, C., Loy, C. C., He, K., & Tang, X. (2016). ["Image Super-Resolution Using Deep Convolutional Networks."](https://arxiv.org/abs/1501.00092) IEEE Transactions on Pattern Analysis and Machine Intelligence, 38(2), 295-307.
+
+[3]: Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). ["Image Quality Assessment: From Error Visibility to Structural Similarity."](https://ieeexplore.ieee.org/document/1284395) IEEE Transactions on Image Processing, 13(4), 600-612.
+
+[4]: Timofte, R., Agustsson, E., Van Gool, L., Yang, M. H., & Zhang, L. (2017). ["NTIRE 2017 Challenge on Single Image Super-Resolution: Methods and Results."](https://ieeexplore.ieee.org/document/8014883) IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW).
+
+[5]: Simonyan, K., & Zisserman, A. (2014). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.

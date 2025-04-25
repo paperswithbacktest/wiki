@@ -134,3 +134,17 @@ Another area of research involves combining kernel methods with deep learning to
 Kernel methods are really good at finding patterns in data, but they have some problems. One big issue is that they can be slow and use a lot of computer memory. This is because they need to look at every piece of data to see how similar things are. For example, when using the Gaussian kernel, defined as $$K(x, y) = \exp\left(-\frac{\|x - y\|^2}{2\sigma^2}\right)$$, you have to do this calculation for every pair of data points. This can make things slow and hard to handle, especially if you're working with big datasets. Another problem is that kernel methods can be hard to understand when the data is very complex. They work well for simple patterns, but when the data gets twisted or spread out in weird ways, it can be tough to figure out what the kernel is doing.
 
 There are some exciting areas where kernel methods could get better in the future. One idea is to make them faster and use less memory. Researchers are working on ways to do this, like using random Fourier features to approximate the kernel. This can help handle big datasets without needing to compute the full kernel matrix. Another area is combining kernel methods with deep learning. This could make models that are both accurate and easier to understand. By using neural networks to learn the kernel function, we might be able to create models that are good at finding complex patterns but still let us see how they work. This could be really helpful in fields like healthcare and finance, where understanding the model's decisions is important.
+
+## References & Further Reading
+
+[1]: Scholkopf, B., & Smola, A. J. (2001). ["Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond."](https://direct.mit.edu/books/monograph/1821/Learning-with-KernelsSupport-Vector-Machines) MIT Press.
+
+[2]: Cristianini, N., & Shawe-Taylor, J. (2000). ["An Introduction to Support Vector Machines and Other Kernel-based Learning Methods."](https://www.cambridge.org/core/books/an-introduction-to-support-vector-machines-and-other-kernelbased-learning-methods/A6A6F4084056A4B23F88648DDBFDD6FC) Cambridge University Press.
+
+[3]: Williams, C. K. I., & Seeger, M. (2001). ["Using the Nyström Method to Speed Up Kernel Machines."](https://dl.acm.org/doi/10.5555/3008751.3008847) Advances in Neural Information Processing Systems.
+
+[4]: Rahimi, A., & Recht, B. (2007). ["Random Features for Large-Scale Kernel Machines."](https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf) Advances in Neural Information Processing Systems.
+
+[5]: Arora, S., Du, S. S., Hu, W., Li, Z., & Wang, R. (2019). ["Fine-Grained Analysis of Optimization and Generalization for Overparameterized Two-Layer Neural Networks."](https://arxiv.org/abs/1901.08584) Proceedings of the 36th International Conference on Machine Learning.
+
+[6]: Bietti, A., & Mairal, J. (2019). ["A Kernel Perspective for Regularizing Deep Neural Networks."](https://proceedings.mlr.press/v97/bietti19a/bietti19a.pdf) Proceedings of the 36th International Conference on Machine Learning.

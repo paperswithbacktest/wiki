@@ -81,3 +81,17 @@ Another advancement in RVFs is the development of more sophisticated ways to add
 The future of Randomized Value Functions (RVFs) in [machine learning](/wiki/machine-learning) looks promising. Researchers are exploring ways to make RVFs even better at helping agents explore and learn. One exciting area is combining RVFs with other exploration techniques, like entropy regularization. By mixing these methods, agents could explore more effectively and find better strategies faster. This could be especially useful in complex environments where the best action isn't always clear. Another potential development is creating more advanced Noisy Linear Layers that can adjust the amount of randomness based on the agent's performance. This would make RVFs more flexible and adaptable, helping agents learn more efficiently in different situations.
 
 In the coming years, we might see RVFs being used in more practical applications, like robotics and video games. For example, a robot using RVFs could learn to navigate new environments more quickly by trying out different actions and discovering the best paths. In video games, RVFs could make computer players smarter and more challenging by encouraging them to try different strategies. As researchers continue to refine and improve RVFs, we can expect them to become a more common tool in reinforcement learning, helping agents learn and adapt in increasingly complex and dynamic environments.
+
+## References & Further Reading
+
+[1]: Fortunato, M., Azar, M. G., Piot, B., Menick, J., Osband, I., Graves, A., ... & Blundell, C. (2018). ["Noisy Networks for Exploration."](https://arxiv.org/abs/1706.10295) International Conference on Learning Representations (ICLR).
+
+[2]: Osband, I., Blundell, C., Pritzel, A., & Van Roy, B. (2016). ["Deep Exploration via Bootstrapped DQN."](https://arxiv.org/abs/1602.04621) Advances in Neural Information Processing Systems (NeurIPS).
+
+[3]: Plappert, M., Houthooft, R., Dhariwal, P., Sampedro, R., Radford, A., Klimov, O., ... & Andrychowicz, M. (2018). ["Parameter Space Noise for Exploration."](https://arxiv.org/abs/1706.01905) International Conference on Learning Representations (ICLR).
+
+[4]: Burda, Y., Edwards, H., Storkey, A., & Klimov, O. (2018). ["Exploration by Random Network Distillation."](https://arxiv.org/abs/1810.12894) International Conference on Learning Representations (ICLR).
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[6]: Bellemare, M. G., Dabney, W., & Munos, R. (2017). ["A Distributional Perspective on Reinforcement Learning."](https://arxiv.org/abs/1707.06887) International Conference on Machine Learning (ICML).

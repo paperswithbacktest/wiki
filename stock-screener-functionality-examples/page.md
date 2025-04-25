@@ -1,6 +1,7 @@
 ---
-title: "Stock Screener: Functionality and Examples"
-description: "Explore the powerful world of stock screeners and investment tools, enhance your trading strategies and make informed decisions in the evolving finance market."
+title: Stock Screeners Enhance Investment Decisions and Returns
+description: Stock screener tools help investors quickly filter stocks by key metrics
+  for growth income or stability and build smarter portfolios Discover more inside
 ---
 
 

@@ -83,3 +83,19 @@ Data exploration is another important part of creating a feature set. It's like 
 Advanced methods for optimizing feature sets in complex machine learning models often involve using techniques like Recursive Feature Elimination (RFE) and genetic algorithms. RFE works by training a model repeatedly and removing the least important features one by one, helping to identify the most impactful set of features. For instance, if you start with 100 features, RFE might remove the least important one, retrain the model, and repeat until it finds the best subset. Genetic algorithms, on the other hand, mimic the process of natural selection to evolve the best feature set. They start with a population of feature sets, evaluate their performance, and then use operations like mutation and crossover to create new sets that might perform better. This process continues until an optimal set of features is found.
 
 Another advanced method is using feature importance scores from tree-based models like Random Forests or Gradient Boosting Machines. These models can tell you which features are most important for making predictions. For example, if you're using a Random Forest to predict house prices, it might show that the number of bedrooms and the size of the house have the highest importance scores. You can use this information to keep the most important features and remove the less important ones. Additionally, techniques like Lasso and Ridge regression can also help by applying penalties to the coefficients of the features, effectively shrinking the impact of less important features to zero. The formula for Lasso regression is $$ \text{Lasso} = \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{p} |\beta_j| $$, where $\lambda$ is the penalty term and $\beta_j$ are the feature coefficients. These methods can help simplify the model and improve its performance by focusing on the most relevant features.
+
+## References & Further Reading
+
+[1]: Guyon, I., & Elisseeff, A. (2003). ["An Introduction to Variable and Feature Selection."](https://dl.acm.org/doi/10.5555/944919.944968) Journal of Machine Learning Research, 3(Mar), 1157-1182.
+
+[2]: Kuhn, M., & Johnson, K. (2013). ["Feature Engineering and Selection: A Practical Approach for Predictive Models"](http://www.feat.engineering/). Chapman and Hall/CRC.
+
+[3]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: with Applications in R"](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[5]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://webdoc.agsci.colostate.edu/koontz/arec-econ535/papers/Tibshirani%20(JRSS-B%201996).pdf) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[6]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[7]: Liu, H., & Motoda, H. (1998). ["Feature Selection for Knowledge Discovery and Data Mining."](https://link.springer.com/book/10.1007/978-1-4615-5689-3) Springer.

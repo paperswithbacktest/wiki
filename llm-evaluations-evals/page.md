@@ -79,3 +79,21 @@ Human evaluators play a big role in these advanced techniques. They read the mod
 LLM Evaluations are getting better thanks to new ideas in [machine learning](/wiki/machine-learning). One big change is using special datasets that focus on areas where the model needs to improve. For example, if the model is not good at answering science questions, we might use a dataset full of science questions to help it get better. We also use techniques like active learning, where the model picks out the examples it's not sure about, and we add more of those to the training data. This helps the model learn from its mistakes and improve faster. Another technique is adversarial training, where we try to trick the model with hard or tricky questions to make it stronger. By using these advanced methods, we can fine-tune the model to be better at specific tasks and handle a wider range of questions.
 
 Human evaluators are still very important in these new evaluation methods. They read the model's answers and tell us if they sound right and make sense. This is important because even if the model gets the right answer, it might not explain it well or use language that sounds natural. Human evaluators can also help us check if the model is fair and doesn't show bias towards any group of people. By combining these human checks with the special datasets and training methods, we can keep improving the model until it works well for everyone.
+
+## References & Further Reading
+
+[1]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training"](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf). 
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). ["Attention is All You Need"](https://arxiv.org/abs/1706.03762). In Advances in Neural Information Processing Systems.
+
+[3]: Bender, E. M., & Koller, A. (2020). ["Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data"](https://aclanthology.org/2020.acl-main.463/). Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+
+[4]: Ethayarajh, K. (2020). ["How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings"](https://aclanthology.org/D19-1006.pdf). Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing.
+
+[5]: Ruder, S. (2019). ["Neural Transfer Learning for Natural Language Processing"](https://researchrepository.universityofgalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf). PhD Thesis, National University of Ireland.
+
+[6]: Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., ... & Stoyanov, V. (2019). ["RoBERTa: A Robustly Optimized BERT Pretraining Approach"](https://arxiv.org/abs/1907.11692). arXiv preprint arXiv:1907.11692.
+
+[7]: Da, J., & Kasirzadeh, A. (2022). ["The Law and AI: How Artificial Intelligence is Challenging Existing Legal Norms"](https://dl.acm.org/doi/abs/10.1145/3600211.3604722). ACM Digital Library.
+
+[8]: Biber, D. (1993). ["Representativeness in corpus design"](http://otipl.philol.msu.ru/media/biber930.pdf). Literary and Linguistic Computing, 8(4), 243-257.

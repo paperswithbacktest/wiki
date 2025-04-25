@@ -1,6 +1,7 @@
 ---
-title: "Sun Trading Company Overview"
-description: "Discover the world of algorithmic trading with Sun Trading LLC based in Chicago. Learn about its diverse asset management and market-making strategies."
+title: Sun Trading Company Global Operations and Growth Strategy
+description: Sun Trading Company offers global sourcing for electronics apparel and
+  food at fair prices with a focus on sustainability Discover more inside
 ---
 
 

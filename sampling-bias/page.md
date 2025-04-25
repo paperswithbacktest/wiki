@@ -85,3 +85,19 @@ To fix this, it's important to make sure the data used to train these large mode
 Ongoing monitoring and model updating are key to managing sampling bias over time. As new data comes in, it's important to keep an eye on it to see if the mix of people or things is changing. If the data starts to include more of one group and less of another, this can introduce new biases. By checking the data regularly, you can spot these changes early and fix them before they mess up your model's predictions. This means your model stays accurate and fair, even as the world around it changes.
 
 Updating the model with new, balanced data helps keep it working well. If you find that your data is becoming biased, you can add more data from under-represented groups to balance things out. This way, your model can keep learning about everyone, not just a few. By doing this, you make sure your model stays useful and fair over time, helping it to make better predictions for all kinds of people and situations.
+
+## References & Further Reading
+
+[1]: Friedman, J., Hastie, T., & Tibshirani, R. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[2]: Torres, R. (2020). ["The Impact of Dataset Characteristics on Deep Learning Models for Optical Character Recognition."](https://www.sciencedirect.com/science/article/pii/S2590005622000911) IEEE Access, 8.
+
+[3]: Lum, K., & Isaac, W. (2016). ["To predict and serve?"](https://academic.oup.com/jrssig/article/13/5/14/7029190) Significance, 13(5), 14-19.
+
+[4]: Suresh, H., & Guttag, J. V. (2021). ["A Framework for Understanding and Mitigating Machine Learning Bias."](https://arxiv.org/abs/1901.10002) Communications of the ACM, 64(8), 58-66.
+
+[5]: Bolukbasi, T., Chang, K. W., Zou, J. Y., Saligrama, V., & Kalai, A. T. (2016). ["Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings."](https://arxiv.org/abs/1607.06520) Advances in Neural Information Processing Systems 29.
+
+[6]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) Proceedings of the 1st Conference on Fairness, Accountability and Transparency.
+
+[7]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) fairmlbook.org.

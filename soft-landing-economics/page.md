@@ -1,6 +1,7 @@
 ---
-title: "Soft Landing in Economics"
-description: "Explore the intersection of economic history and algorithmic trading to understand modern markets Discover how past trends inform policy for a stable economy"
+title: Achieving a Soft Landing for Stable Economic Growth
+description: Soft landing strategies help central banks cool inflation and sustain
+  growth by adjusting rates precisely to avoid recession. Discover more inside.
 ---
 
 

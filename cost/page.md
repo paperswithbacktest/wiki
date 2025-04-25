@@ -79,3 +79,17 @@ Sometimes, you need to tweak the cost function to match the specific needs of yo
 One advanced technique for managing and optimizing cost in machine learning is using adaptive learning rates. This means the model changes how big its steps are when it's trying to lower the cost. Algorithms like Adam and RMSprop do this by looking at past changes in the cost and adjusting the learning rate to make the model learn faster and avoid getting stuck. Another technique is using regularization, which adds a term to the cost function to keep the model from getting too complicated. This can help the model work better on new data it hasn't seen before. For example, L2 regularization adds a term to the cost function that looks like $$ \text{Cost}_{\text{regularized}} = \text{Cost} + \lambda \sum_{i=1}^{n} \theta_i^2 $$, where $\lambda$ is a small number that controls how much the model is penalized for being too complex.
 
 Another advanced method is using ensemble techniques, where you combine several models to make better predictions. By averaging the predictions from different models, you can lower the overall cost and make the final model more accurate. Techniques like bagging and boosting are used to create these ensembles. For example, in boosting, models are trained one after the other, with each new model focusing on the examples that the previous models got wrong. This helps in reducing the cost by making sure the model pays more attention to its mistakes. By using these advanced techniques, you can make your machine learning model more efficient and effective at minimizing the cost and improving its performance.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer Series in Statistics.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[5]: Ng, A. (2018). ["Machine Learning Yearning"](https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/03/andrew-ng-machine-learning-yearning.pdf). Deeplearning.ai.
+
+[6]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.

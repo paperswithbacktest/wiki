@@ -1,6 +1,7 @@
 ---
-title: "Sushi (SUSHI) Cryptocurrency"
-description: "Explore SushiSwap's journey in DeFi featuring the SUSHI token's governance utility and algorithmic trading, offering insights into its innovative ecosystem."
+title: SushiSwap SUSHI Token Explained Features Risks and Future
+description: SushiSwap enables you to trade cryptocurrencies and earn SUSHI tokens
+  by providing liquidity and participating in governance Discover more inside.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Similarity Measures in Machine Learning
-description: Similarity measures in machine learning quantify how alike data points
-  are enabling clustering classification and recommendations Discover more inside
+description: Similarity measures in machine learning reveal how algorithms compare
+  data to enhance clustering classification and recommendations. Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -83,3 +83,15 @@ Using similarity measures in K-means also helps improve the algorithm over time.
 In [deep learning](/wiki/deep-learning), one state-of-the-art method for using similarity measures is through the use of Siamese networks. These networks are designed to learn how to compare two inputs, like images or text, by training them to output similar results for similar inputs. For example, if you're using a Siamese network to compare faces, it would learn to give a high similarity score for two pictures of the same person and a low score for pictures of different people. This is done by using a loss function, like the contrastive loss, which encourages the network to make similar inputs have similar outputs and different inputs have different outputs. This method is very useful in tasks like face recognition, signature verification, and even recommendation systems where you want to find items that are similar to what a user likes.
 
 Another advanced technique is the use of triplet loss in deep learning models. Triplet loss involves training a model with three inputs at a time: an anchor, a positive example, and a negative example. The goal is to make the model learn to put the anchor closer to the positive example than to the negative example in the feature space. The formula for triplet loss is $$ L = \max(d(a, p) - d(a, n) + \text{margin}, 0) $$, where $$ d(a, p) $$ is the distance between the anchor and the positive example, $$ d(a, n) $$ is the distance between the anchor and the negative example, and the margin is a small number that helps the model learn better. This method is widely used in applications like image retrieval, where you want to find images that are similar to a query image, and in person re-identification, where you need to match images of the same person taken from different cameras.
+
+## References & Further Reading
+
+[1]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[2]: Leskovec, J., Rajaraman, A., & Ullman, J. D. (2020). ["Mining of Massive Datasets."](http://infolab.stanford.edu/~ullman/mmds/book.pdf) Cambridge University Press.
+
+[3]: Tan, P.-N., Steinbach, M., & Kumar, V. (2014). ["Introduction to Data Mining,"](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php) Pearson.
+
+[4]: Aggarwal, C. C., Hinneburg, A., & Keim, D. A. (2001). ["On the Surprising Behavior of Distance Metrics in High Dimensional Space."](https://link.springer.com/chapter/10.1007/3-540-44503-X_27) In International Conference on Database Theory (pp. 420-434). Springer.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

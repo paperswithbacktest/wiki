@@ -81,3 +81,19 @@ One advanced strategy is to use hardware-aware neural architecture search (NAS).
 Recent advancements in model compression techniques have a big impact on edge computing. Edge computing means running machine learning models on small devices like phones or smart sensors, instead of on big computers in the cloud. These new techniques help make models smaller and faster, which is perfect for edge devices that don't have a lot of memory or power. For example, methods like pruning and quantization make models use less space and run quicker. This means edge devices can do more complex tasks without needing to send data to the cloud, making things like real-time decision-making and privacy better.
 
 One important advancement is Dynamic Sparse Training (DST), which keeps models small from the start instead of making them big and then cutting them down. This can save time and resources, which is crucial for edge devices. Another technique, called model soups, mixes different models to create a smaller one that still performs well. These advancements help edge devices handle more advanced machine learning tasks, like recognizing objects in a video or understanding voice commands, right on the device. This makes edge computing more powerful and practical for everyday use.
+
+## References & Further Reading
+
+[1]: Han, S., Pool, J., Tran, J., & Dally, W. (2015). ["Learning both Weights and Connections for Efficient Neural Networks."](https://arxiv.org/abs/1506.02626) arXiv:1506.02626.
+
+[2]: Choi, J., El-Khamy, M., & Lee, J. (2018). ["Towards the Limit of Network Quantization."](https://arxiv.org/abs/1612.01543) arXiv:1612.01543.
+
+[3]: Hinton, G., Vinyals, O., & Dean, J. (2015). ["Distilling the Knowledge in a Neural Network."](https://arxiv.org/abs/1503.02531) arXiv:1503.02531.
+
+[4]: Gale, T., Elsen, E., & Hooker, S. (2019). ["The State of Sparsity in Deep Neural Networks."](https://arxiv.org/abs/1902.09574) arXiv:1902.09574.
+
+[5]: Iandola, F. N., Han, S., Moskewicz, M. W., Ashraf, K., Dally, W. J., & Keutzer, K. (2016). ["SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size."](https://arxiv.org/abs/1602.07360) arXiv:1602.07360. 
+
+[6]: Wu, J., Leng, C., Wang, Y., Hu, Q., & Cheng, J. (2017). ["Quantized Convolutional Neural Networks for Mobile Devices."](https://arxiv.org/abs/1512.06473) Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Tung, F., & Mori, G. (2018). ["Clip-Q: Deep Network Compression Learning by In-parallel Pruning-Quantization."](https://openaccess.thecvf.com/content_cvpr_2018/papers/Tung_CLIP-Q_Deep_Network_CVPR_2018_paper.pdf) arXiv:1801.08644.

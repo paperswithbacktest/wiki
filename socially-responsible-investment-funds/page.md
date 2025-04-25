@@ -1,6 +1,7 @@
 ---
-title: "Socially Responsible Investment Funds"
-description: "Explore the intersection of sustainability and technology in finance with socially responsible investment funds driven by algorithmic trading for ethical returns"
+title: Socially Responsible Investment Funds Explained for Investors
+description: Socially responsible investment funds support companies with ESG focus
+  while pursuing financial returns and positive impact. Discover more inside.
 ---
 
 

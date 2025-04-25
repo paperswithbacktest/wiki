@@ -1,6 +1,7 @@
 ---
-title: "Sunrise Futures"
-description: "Explore Sunrise Futures' advanced algorithmic trading solutions designed for precision and efficiency to stay ahead in ever-evolving financial markets."
+title: Sunrise Futures Simplifies Secure Online Futures Trading
+description: Sunrise Futures provides user friendly secure platform for trading futures,
+  commodities and stocks with real time data and oversight Discover more inside
 ---
 
 

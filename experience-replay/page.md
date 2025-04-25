@@ -103,3 +103,15 @@ Another technique is using a separate buffer for old experiences to help prevent
 Prioritized Experience Replay works by choosing experiences from the replay buffer based on how important they are, instead of picking them randomly. Each experience gets a score that shows how much the model needs to learn from it. Experiences that the model hasn't learned well or that are more valuable get higher scores. When the model wants to learn, it picks experiences with higher scores more often. This way, the model can focus on the experiences that matter most and learn faster.
 
 The main advantage of prioritized Experience Replay is that it helps the model learn more quickly and efficiently. By focusing on the most important experiences, the model can find new ways to solve problems and improve its understanding of the environment. But, this method also makes the system more complex because you need to keep track of the scores for each experience and update them as the model learns. Despite this, the benefits of faster learning and better performance make it a valuable technique in reinforcement learning.
+
+## References & Further Reading
+
+[1]: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). ["Playing Atari with Deep Reinforcement Learning."](https://arxiv.org/abs/1312.5602) arXiv preprint arXiv:1312.5602.
+
+[2]: Lin, L. J. (1992). ["Self-Improving Reactive Agents Based on Reinforcement Learning, Planning, and Teaching."](https://link.springer.com/article/10.1007/BF00992699) Machine Learning, 8, 293-321.
+
+[3]: Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2015). ["Prioritized Experience Replay."](https://arxiv.org/abs/1511.05952) arXiv preprint arXiv:1511.05952.
+
+[4]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[5]: van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep Reinforcement Learning with Double Q-learning."](https://arxiv.org/abs/1509.06461) In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 30, No. 1).

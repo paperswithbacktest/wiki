@@ -102,3 +102,23 @@ These new methods also use advanced techniques like deep learning to improve anc
 Anchor Generation Modules are a key part of the object detection pipeline in [machine learning](/wiki/machine-learning). They work by creating small boxes called anchors that are spread across an image. These anchors act as starting points for the object detection algorithm to guess where objects might be. The anchors are then used by other parts of the pipeline, like the feature extraction module, which uses a convolutional neural network (CNN) to analyze the image and find features that match the anchors. The feature extraction module helps the system understand what's in the image by looking at patterns and shapes. After that, the anchor refinement module comes into play, adjusting the anchors to better fit the actual objects based on the features detected. This integration helps the system quickly and accurately detect objects by focusing on the most likely spots first.
 
 Once the anchors are refined, they are passed to the object classification and bounding box regression modules. The classification module looks at the refined anchors and decides what kind of object is inside each one, like a car or a person. The bounding box regression module fine-tunes the position and size of the anchors to make them fit the objects even more precisely. All these components work together in a loop, where the system keeps learning and improving over time. By using anchors as a starting point, the entire pipeline becomes more efficient and accurate, making it easier to detect objects in complex scenes with many different things happening at once.
+
+## References & Further Reading
+
+[1]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Advances in Neural Information Processing Systems 28. 
+
+[2]: Zhao, Z.-Q., Zheng, P., Xu, S.-T., & Wu, X. (2019). ["Object Detection with Deep Learning: A Review."](https://ieeexplore.ieee.org/document/8627998) IEEE Transactions on Computational Imaging. 
+
+[3]: Zhou, X., Wang, D., & Krähenbühl, P. (2019). ["Objects as Points."](https://arxiv.org/abs/1904.07850) arXiv:1904.07850. 
+
+[4]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C.-Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) European Conference on Computer Vision.
+
+[5]: Zhang, S., Wen, L., Bian, X., Lei, Z., & Li, S. Z. (2018). ["Single-Shot Refinement Neural Network for Object Detection."](https://arxiv.org/abs/1711.06897) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 
+
+[6]: Redmon, J., & Farhadi, A. (2018). ["YOLOv3: An Incremental Improvement."](https://arxiv.org/abs/1804.02767) arXiv:1804.02767. 
+
+[7]: Duan, K., Bai, S., Xie, L., Qi, H., Huang, Q., & Tian, Q. (2019). ["CenterNet: Keypoint Triplets for Object Detection."](https://arxiv.org/abs/1904.08189) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 
+
+[8]: "Deep Learning for Computer Vision: Expert techniques to train advanced neural networks using TensorFlow and Keras" by Rajalingappaa Shanmugamani (2018).
+
+[9]: Liu, Y., Qi, L., Qin, H., Shi, J., & Jia, J. (2018). ["Path Aggregation Network for Instance Segmentation."](https://arxiv.org/abs/1803.01534) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.

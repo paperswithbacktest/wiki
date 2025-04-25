@@ -1,6 +1,7 @@
 ---
-title: "S&P 500 Buyback Index Overview"
-description: "Discover the power of combining S&P 500 Buyback Index strategies with algorithmic trading techniques for enhanced returns and precision in today's markets."
+title: Understanding the S&P 500 Buyback Index Performance Drivers
+description: S&P 500 Buyback Index showcases firms boosting share value with strategic
+  repurchases and outperforms broader market trends Discover more inside
 ---
 
 

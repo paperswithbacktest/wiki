@@ -1,6 +1,7 @@
 ---
-title: "Sub Account: Purpose and Examples"
-description: "Explore the integration of sub account accounting with algorithmic trading to enhance financial management by improving transparency and strategic efficiency."
+title: Sub Accounts for Organized Business and Personal Finances
+description: Sub accounts let you organize savings bills and investments under one
+  main account so you track progress per goal and stay on budget Discover more inside
 ---
 
 

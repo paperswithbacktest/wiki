@@ -81,3 +81,17 @@ Another way preprocessing helps is by cleaning the data and fixing any errors or
 Ongoing monitoring and evaluation are crucial for managing participation bias in machine learning systems after they are deployed. By regularly checking how well the model is working for different groups of people, data scientists can spot any unfairness or bias that might have been missed during the initial training. For example, if a model is meant to predict health risks but starts performing poorly for people in rural areas, this could be a sign of participation bias. Monitoring can involve looking at the model's predictions and comparing them to real-world outcomes to see if certain groups are being treated unfairly.
 
 Once participation bias is detected, data scientists can take steps to fix it. They might collect more data from underrepresented groups and retrain the model, or they might adjust the model's predictions to make them fairer. By keeping an eye on the model's performance and making changes as needed, data scientists can help ensure that the machine learning system works well for everyone. This ongoing process helps build trust in the technology and makes sure it's helpful and fair to all users.
+
+## References & Further Reading
+
+[1]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) Proceedings of the 1st Conference on Fairness, Accountability and Transparency.
+
+[2]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) fairmlbook.org.
+
+[3]: Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). ["Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations."](https://pubmed.ncbi.nlm.nih.gov/31649194/) Science, 366(6464), 447-453.
+
+[4]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://dl.acm.org/doi/abs/10.1145/3457607) ACM Computing Surveys, 54(6), 1-35.
+
+[5]: Barocas, S., & Selbst, A. (2016). ["Big Data’s Disparate Impact."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2477899) California Law Review, 104, 671-732.
+
+[6]: Holstein, K., Wortman Vaughan, J., Daumé, H., Dudik, M., & Wallach, H. (2019). ["Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?"](https://arxiv.org/abs/1812.05239) Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems.

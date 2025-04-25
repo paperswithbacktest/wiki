@@ -1,6 +1,7 @@
 ---
-title: "Sushi Bonds"
-description: "Explore the significance of Sushi Bonds and the impact of algorithmic trading on Japanese bonds, offering insights for savvy investors seeking market advantages."
+title: Understanding Sushi Bonds How Japanese Firms Raise Capital Abroad
+description: Sushi Bonds offer a way to invest in Japanese yen and corporate debt
+  from abroad while managing currency and credit risks effectively Discover more inside.
 ---
 
 

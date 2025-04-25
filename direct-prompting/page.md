@@ -81,3 +81,17 @@ Another technique is chain-of-thought prompting. This guides the model through a
 Direct prompting can be combined with other machine learning methods to make models work better. For example, it can be used with [reinforcement learning](/wiki/reinforcement-learning), where the model learns from feedback. You can use direct prompts to tell the model what to do and then give it rewards or penalties based on how well it does. This helps the model learn faster and give better answers. Another way to combine direct prompting with other methods is through transfer learning. Here, you start with a model that's already good at one task and use direct prompts to help it learn a new task. This can save time and make the model more useful for different kinds of jobs.
 
 Another important way to integrate direct prompting with other machine learning methodologies is through ensemble methods. In ensemble methods, you use several models together to get better results. Direct prompting can help guide these models to work together more effectively. For instance, you might use direct prompts to tell each model in the ensemble what part of a task to focus on. This can lead to more accurate and reliable answers. By combining direct prompting with these other methods, you can make machine learning models more powerful and versatile, helping them handle a wider range of tasks and give better results.
+
+## References & Further Reading
+
+[1]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[4]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research, 21(140), 1-67.
+
+[5]: Dong, L., Wang, W., Addanki, R., Bapna, A., He, X., Zhou, B., ... & Zhou, M. (2021). ["CogView: Mastering Text-to-Image Generation via Transformers."](https://www.sciencedirect.com/science/article/pii/S221128552030567X) arXiv preprint arXiv:2105.13290.
+
+[6]: ["Deep Learning"](https://en.wikipedia.org/wiki/Deep_learning) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville. MIT Press.

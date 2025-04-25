@@ -1,6 +1,7 @@
 ---
-title: "Single-Family Zoning and Its Role in Racial Segregation"
-description: "Explore the impact of single-family zoning on racial segregation, urban planning, and their connection to algorithmic trading in today's socio-economic context."
+title: Single-Family Zoning and Its Role in Racial Segregation
+description: Single-family zoning drives up housing costs and reinforces racial segregation
+  by limiting home diversity and access to opportunity Discover more inside
 ---
 
 

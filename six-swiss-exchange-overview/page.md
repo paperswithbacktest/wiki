@@ -1,6 +1,8 @@
 ---
-title: "SIX Swiss Exchange Overview"
-description: "Explore the vital role of SIX Swiss Exchange in Switzerland's financial markets with insights on algorithmic trading Swiss stocks and cutting-edge trading technology."
+title: Understanding SIX Swiss Exchange Market Structure and Trading
+description: SIX Swiss Exchange explained through trading hours listing rules market
+  oversight and technology to help investors navigate Swiss equities Discover more
+  inside.
 ---
 
 

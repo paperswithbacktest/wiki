@@ -84,3 +84,19 @@ Another way to improve DCN-V2's accuracy is to use ensemble methods. This means 
 DCN-V2, or Deep & Cross Network Version 2, is known for its ability to capture both low-order and high-order feature interactions effectively. Compared to other state-of-the-art Learning to Rank models like DeepFM and xDeepFM, DCN-V2 often performs better in terms of accuracy. This is because it uses a cross network that explicitly models feature interactions of any order, which can lead to more accurate predictions. For example, in tasks like click-through rate prediction, DCN-V2 can achieve higher Normalized Discounted Cumulative Gain (NDCG) scores, which means it's better at ranking items in the right order. The formula for NDCG at position k is $$NDCG@k = \frac{DCG@k}{IDCG@k}$$, where DCG (Discounted Cumulative Gain) is the sum of the relevance scores of the items, discounted by their position, and IDCG (Ideal Discounted Cumulative Gain) is the maximum possible DCG for the given list.
 
 In terms of efficiency, DCN-V2 is also competitive. While models like DeepFM and xDeepFM can be complex and require a lot of computational resources, DCN-V2 is designed to be more efficient. It achieves this by using a simpler architecture that combines the strengths of both deep and cross networks. This means DCN-V2 can often train faster and use less memory than other models. For example, when training on large datasets like the Microsoft Learning to Rank (MSLR) dataset, DCN-V2 can reach good performance in fewer epochs compared to other models. This makes it a good choice for applications where both accuracy and efficiency are important, such as recommendation systems and search engines.
+
+## References & Further Reading
+
+[1]: Liu, T.-Y. (2009). ["Learning to Rank for Information Retrieval"](https://ieeexplore.ieee.org/abstract/document/8186875). Foundations and Trends® in Information Retrieval, 3(3), 225-331.
+
+[2]: Burges, C. J., Ragno, R., & Le, Q. V. (2006). ["Learning to Rank with Nonsmooth Cost Functions"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/lambdarank.pdf). In Proceedings of the 19th International Conference on Neural Information Processing Systems.
+
+[3]: Wang, L., & Duan, H. (2021). ["Deep & Cross Network for Ad Click Predictions"](https://dl.acm.org/doi/10.1145/3124749.3124754). 
+
+[4]: Rendle, S., & Freudenthaler, C. (2010). ["Factorization Machines"](https://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle_et_al2011-Context_Aware.pdf). 2010 IEEE International Conference on Data Mining.
+
+[5]: Jaehnig, M., & Van Laarhoven, T. (2022). ["An Overview of Learning to Rank for Information Retrieval"](https://link.springer.com/book/10.1007/978-3-642-14267-3).
+
+[6]: Wang, Y., & Zhang, L. (2013). ["Theory and Practice of Pairwise Learning to Rank"](https://dl.acm.org/doi/10.1145/1273496.1273513). 
+
+[7]: McMahan, H. B., Holt, G., Sculley, D., Young, M., Ebner, D., Grady, J., ... & Phillips, T. (2013). ["Ad Click Prediction: a View from the Trenches"](https://dl.acm.org/doi/10.1145/2487575.2488200). In KDD.

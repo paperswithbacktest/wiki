@@ -81,3 +81,15 @@ Once the model is updated, it needs to be maintained to keep working well. This 
 In the future, device machine learning is expected to become even more common and powerful. As devices get more advanced, they will be able to handle bigger and better machine learning models right on the device itself. This means your phone or smartwatch will be able to learn and make decisions faster and more accurately without needing to connect to the internet. This will make things like voice recognition and health tracking even better because the device can use all its power to focus on what you need. Also, as more devices become connected, they will be able to share what they learn with each other, making the whole system smarter over time.
 
 Another trend we might see is the use of more specialized hardware for machine learning on devices. Right now, devices use general-purpose chips, but in the future, they might have special chips just for machine learning. These chips would make the device even faster and more efficient at learning and making decisions. This could lead to new kinds of gadgets that can do things we can't even imagine yet, like smart glasses that can understand what you're looking at and help you in real-time. As these trends continue, device machine learning will become a bigger part of our everyday lives, making our gadgets more helpful and personal.
+
+## References & Further Reading
+
+[1]: Lane, N. D., Bhattacharya, S., Mathur, A., & Georgiev, P. (2015). ["Squeezing deep learning into mobile and embedded devices."](https://ieeexplore.ieee.org/document/7994570) IEEE Pervasive Computing, 14(3), 82-88.
+
+[2]: McMahan, B., Moore, E., Ramage, D., Hampson, S., & Aguilera, A. (2016). ["Federated learning of deep networks using model averaging."](https://arxiv.org/abs/1602.05629) arXiv preprint arXiv:1602.05629.
+
+[3]: Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., & Adam, H. (2017). ["MobileNets: Efficient convolutional neural networks for mobile vision applications."](https://arxiv.org/abs/1704.04861) arXiv preprint arXiv:1704.04861.
+
+[4]: Sze, V., Chen, Y. H., Yang, T. J., & Emer, J. S. (2017). ["Efficient processing of deep neural networks: A tutorial and survey."](https://ieeexplore.ieee.org/document/8114708) Proceedings of the IEEE, 105(12), 2295-2329.
+
+[5]: Lane, N. D., Bhattacharya, S., Georgiev, P., Forlivesi, C., & Kawsar, F. (2016). ["DeepX: A software accelerator for low-power deep learning inference on mobile devices."](https://ieeexplore.ieee.org/document/7460664) Proceedings of the 15th International Conference on Information Processing in Sensor Networks.

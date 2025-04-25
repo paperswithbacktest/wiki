@@ -164,3 +164,21 @@ By using these advanced techniques, you can make your machine learning model sma
 Recent research in machine learning is looking at ways to make affinity functions even better. One big idea is using what's called "adaptive affinity functions." This means the function can change and get better over time as it learns more about the data. For example, a neural network might start with a simple affinity function like the Embedded Dot Product Affinity $$ \text{affinity}(x, y) = x^T y $$ and then slowly change it to something more complex like the Embedded Gaussian Affinity $$ \text{affinity}(x, y) = \exp\left(\frac{x^T y}{\sqrt{\|x\|^2 \|y\|^2}}\right) $$. By doing this, the model can find the best way to measure how similar things are, which can lead to better results.
 
 Another exciting direction is using affinity functions in new areas like graph neural networks. These networks are good at understanding data that's connected in different ways, like social networks or molecules. Researchers are trying to come up with new affinity functions that work well with these types of data. For example, they might use a function that looks at how two points are connected in a graph, not just how close they are in space. This could help models understand and predict things in these complex systems better. By exploring these new ideas, researchers hope to make machine learning models even smarter and more useful in the future.
+
+## References & Further Reading
+
+[1]: Shawe-Taylor, J., & Cristianini, N. (2004). ["Kernel Methods for Pattern Analysis."](https://www.cambridge.org/core/books/kernel-methods-for-pattern-analysis/811462F4D6CD6A536A05127319A8935A) Cambridge University Press.
+
+[2]: Von Luxburg, U. (2007). ["A Tutorial on Spectral Clustering."](https://arxiv.org/abs/0711.0189) Statistics and Computing, 17(4), 395–416.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Schölkopf, B., & Smola, A. J. (2002). ["Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond."](https://direct.mit.edu/books/monograph/1821/Learning-with-KernelsSupport-Vector-Machines) MIT Press.
+
+[5]: Zhou, D., Bousquet, O., Lal, T. N., Weston, J., & Schölkopf, B. (2004). ["Learning with Local and Global Consistency."](https://proceedings.neurips.cc/paper/2506-learning-with-local-and-global-consistency.pdf) Advances in Neural Information Processing Systems 16.
+
+[6]: Hinton, G. E., Vinyals, O., & Dean, J. (2015). ["Distilling the Knowledge in a Neural Network."](https://arxiv.org/abs/1503.02531) arXiv preprint arXiv:1503.02531.
+
+[7]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[8]: Coates, A., Ng, A. Y., & Lee, H. (2011). ["An Analysis of Single-Layer Networks in Unsupervised Feature Learning."](https://cs.stanford.edu/~acoates/papers/coatesleeng_aistats_2011.pdf) Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics.

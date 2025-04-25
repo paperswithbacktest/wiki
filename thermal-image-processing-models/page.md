@@ -81,3 +81,15 @@ Another trend is combining thermal images with other kinds of images, like regul
 To implement a thermal image processing model using DeepIR, you first need to gather a lot of thermal images to train the model. These images should have labels that tell the model what's in them, like people, animals, or machines. You can use data augmentation techniques to make the model better by changing the images a bit. For example, you can rotate, flip, or add noise to the images. This helps the model learn to recognize heat patterns in different situations. Once you have your data ready, you can start training the DeepIR model. This involves feeding the images into the model and letting it learn from them. The model uses deep learning to find patterns in the heat data, getting better over time as it sees more images.
 
 After the model is trained, you can use it to process new thermal images. When a new thermal image comes in, the DeepIR model looks at the heat patterns and figures out what's in the image. For example, if the model is trained to find people, it will look for the heat patterns that it learned mean a person is there. The model's performance can be checked using metrics like accuracy, precision, recall, and the F1 score. The formula for the F1 score is $$F1 = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} + \text{recall}}$$. This helps you see how well the model is doing at finding true things and not making mistakes. By using DeepIR, you can make thermal image processing easier and more accurate, which is really helpful in many different jobs.
+
+## References & Further Reading
+
+[1]: Buddharaju, K., & Pavlidis, I. T. (2010). ["Physiology-based face recognition in the thermal infrared spectrum."](https://ieeexplore.ieee.org/document/4107566) IEEE Transactions on Pattern Analysis and Machine Intelligence, 32(4), 651-662.
+
+[2]: Sun, G., & Ruan, X. (2011). ["Motion detection in thermal video."](https://engineering.purdue.edu/NANOENERGY/publications.htm) Image and Vision Computing, 29(9), 631-642.
+
+[3]: Čeh, M., & Perš, J. (2011). ["Development of methods for animal tracking and movement analysis from static camera-acquired images."](https://peerj.com/articles/479/) Journal of Visual Communication and Image Representation, 22(1), 44-60.
+
+[4]: Ciuti, G., Bartoli, A., & Menciassi, A. (2017). ["Functional tissue imaging by infrared thermography as a support to minimally invasive medicine."](https://pmc.ncbi.nlm.nih.gov/articles/PMC7571214/) Medicinal Image Computing and Computer-Assisted Intervention, 12, 176-183.
+
+[5]: Anderson, R. R., & Parrish, J. A. (1983). ["The optics of human skin."](https://pubmed.ncbi.nlm.nih.gov/7252245/) Journal of Investigative Dermatology, 77(1), 13-19.

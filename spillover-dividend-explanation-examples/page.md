@@ -1,6 +1,7 @@
 ---
-title: "Spillover Dividend: Explanation and Examples"
-description: "Explore the concept of spillover dividends in algo trading understand their impact on tax considerations and investment strategies. Optimize your trading approach."
+title: Understanding Spillover Dividends and Their Impact on Investors
+description: Spillover dividends help investors see how companies distribute excess
+  earnings, optimize tax treatment and maintain steady payouts. Discover more inside.
 ---
 
 

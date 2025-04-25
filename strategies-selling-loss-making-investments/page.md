@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Selling Loss-Making Investments"
-description: "Discover effective strategies for selling loss-making investments with a focus on algorithmic trading. Learn how to manage and minimize losses through robust investment strategies, including diversification, stop-loss orders, and risk assessment. Understand the role of algorithmic trading in refining investment decisions to enhance profitability and navigate the complexities of stock investing while aligning with personal financial goals and market dynamics."
+title: Effective Strategies for Selling Loss-Making Investments
+description: Loss-making investment decisions involve timing tax loss harvesting and
+  psychological strategies to minimize losses and preserve gains Discover more inside
 ---
 
 

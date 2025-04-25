@@ -1,6 +1,7 @@
 ---
-title: "Specialist Unit"
-description: "Discover how algorithmic trading has transformed financial markets by enhancing efficiency and speed Learn about key roles and AI impact shaping this dynamic field"
+title: Comprehensive Guide to Specialist Units Across Sectors
+description: Specialist Units unite experts to handle critical tasks in healthcare,
+  law enforcement and business with focused skills and teamwork Discover more inside.
 ---
 
 

@@ -120,3 +120,19 @@ Another way to evaluate the model is by using metrics like Mean Absolute Error (
 Matrix Factorization is not just useful for recommending movies or products. It can also be used in text analysis to find topics in large collections of documents. Imagine you have a big pile of articles. Matrix Factorization can break down the words in these articles into smaller groups, helping you see which words often appear together. This can show you the main topics in the articles, like sports, politics, or technology. For example, if many articles talk about "baseball," "pitcher," and "home run," Matrix Factorization can group these words together to show that they're about the topic of baseball.
 
 Another real-world application of Matrix Factorization is in image processing. If you have a bunch of pictures, Matrix Factorization can help find patterns in the pixels of these images. This can be used for things like compressing images or recognizing objects in photos. By breaking down the image into smaller parts, Matrix Factorization can help find common features across different images, making it easier to store or analyze them. For instance, if you have pictures of different dogs, Matrix Factorization can help identify common features like ears, eyes, and fur, making it easier to recognize dogs in new pictures.
+
+## References & Further Reading
+
+[1]: Koren, Y., Bell, R., & Volinsky, C. (2009). ["Matrix Factorization Techniques for Recommender Systems."](https://ieeexplore.ieee.org/abstract/document/5197422) Computer, 42(8), 30-37.
+
+[2]: Lee, D. D., & Seung, H. S. (1999). ["Learning the parts of objects by non-negative matrix factorization."](https://www.nature.com/articles/44565) Nature, 401(6755), 788-791.
+
+[3]: Zhou, Y. et al. (2008). ["Large-Scale Parallel Collaborative Filtering for the Netflix Prize."](https://link.springer.com/chapter/10.1007/978-3-540-68880-8_32) Proceedings of the International Conference on Algorithmic Learning Theory.
+
+[4]: Sarwar, B. et al. (2000). ["Application of Dimensionality Reduction in Recommender System - A Case Study."](https://www.researchgate.net/publication/2824548_Application_of_Dimensionality_Reduction_in_Recommender_System_--_A_Case_Study) ACM WebKDD.
+
+[5]: O'Sullivan, D. (2010). ["Advances in Matrix Factorization: A Review."](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-6486.2010.00923.x) Information Sciences, 181(7), 1288-1301.
+
+[6]: Paatero, P., & Tapper, U. (1994). ["Positive Matrix Factorization: A Non-negative Factor Model with Optimal Utilization of Error Estimates of Data Values."](https://onlinelibrary.wiley.com/doi/10.1002/env.3170050203) Environmetrics, 5(2), 111-126. 
+
+[7]: Mnih, A., & Salakhutdinov, R. R. (2008). ["Probabilistic Matrix Factorization."](https://proceedings.neurips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf) In Advances in Neural Information Processing Systems 20, 1257–1264.

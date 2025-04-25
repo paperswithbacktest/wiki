@@ -98,3 +98,15 @@ For categorical data, like colors or types of fruit, Quantile Bucketing is not u
 Combining Quantile Bucketing with other advanced techniques can really help make your machine learning model better. One way to do this is by using it with feature scaling methods like StandardScaler from scikit-learn. Feature scaling makes sure all your data is on the same level, which can be really helpful when you're trying to compare different things. After you've put your data into bins using Quantile Bucketing, you can use StandardScaler to make sure the numbers in each bin are easy for the model to understand. This can lead to more accurate predictions because the model won't be confused by numbers that are all over the place.
 
 Another cool trick is to use Quantile Bucketing with ensemble methods like Random Forests or Gradient Boosting. These methods work by combining a bunch of smaller models to make one big, strong model. When you use Quantile Bucketing to group your data into bins, it can help these ensemble methods make better splits in the trees. This is because each bin has about the same number of data points, which can lead to more balanced and accurate predictions. By using these techniques together, you can get the best of both worlds: the simplicity of categorical data from Quantile Bucketing and the power of ensemble methods to make your model even better.
+
+## References & Further Reading
+
+[1]: McKinney, W. (2012). ["Python for Data Analysis"](https://wesmckinney.com/book/). O'Reilly Media.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[3]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Vanderplas, J. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[4]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning with Applications in R"](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer Texts in Statistics.
+
+[5]: Zhang, H., & Singer, B. (2010). ["Recursive Partitioning and Applications"](https://link.springer.com/book/10.1007/978-1-4419-6824-1). Springer.

@@ -1,7 +1,7 @@
 ---
-title: Understanding Style Transfer in Machine Learning Neural Networks
-description: Style transfer applies artistic styles to any image using neural networks
-  and drafting and revision modules for balanced results Discover more inside
+title: Style Transfer Modules in Machine Learning Explained
+description: Style transfer modules show how CNNs blend content and style using loss
+  functions and multi-stage networks for unique visuals Discover more inside
 ---
 
 ![Image](images/1.jpeg)
@@ -79,3 +79,23 @@ Another exciting area of research is exploring how to transfer styles across dif
 Style transfer modules can be integrated into larger [machine learning](/wiki/machine-learning) systems to enhance their capabilities. For example, in a system designed for image editing or graphic design, a style transfer module can be used as a tool to quickly apply artistic styles to images. This can be done by connecting the style transfer module to the main system's user interface, allowing users to select content and style images and then see the results in real-time. The module can be trained and fine-tuned within the larger system to ensure it works well with other components, like image recognition or object detection modules, to provide a seamless user experience.
 
 In more complex systems, like those used in video production or gaming, style transfer modules can be part of a pipeline that processes images or video frames. Here, the style transfer module might work alongside other modules that handle tasks like video stabilization or character animation. By integrating the style transfer module into this pipeline, the system can apply different styles to different parts of the video or game, enhancing the visual appeal and creating more immersive experiences. This integration requires careful coordination to ensure that the style transfer process does not slow down the overall system performance, often necessitating the use of efficient algorithms and powerful hardware.
+
+## References & Further Reading
+
+[1]: Gatys, L. A., Ecker, A. S., & Bethge, M. (2016). ["Image Style Transfer Using Convolutional Neural Networks."](https://ieeexplore.ieee.org/document/7780634) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Johnson, J., Alahi, A., & Fei-Fei, L. (2016). ["Perceptual Losses for Real-Time Style Transfer and Super-Resolution."](https://arxiv.org/abs/1603.08155) Proceedings of the European Conference on Computer Vision (ECCV).
+
+[4]: Huang, X., & Belongie, S. (2017). ["Arbitrary Style Transfer in Real-Time with Adaptive Instance Normalization."](https://arxiv.org/abs/1703.06868) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: Selim, A., Elgharib, M., & Doyle, L. (2016). ["Painting Style Transfer for Head Portraits Using Convolutional Neural Networks."](https://dl.acm.org/doi/abs/10.1145/2897824.2925968) ACM Transactions on Graphics (TOG), SIGGRAPH Conference Proceedings.
+
+[6]: Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). ["Image-to-Image Translation with Conditional Adversarial Networks."](https://ieeexplore.ieee.org/document/8100115) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. 
+
+[8]: Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). ["ImageNet: A Large-Scale Hierarchical Image Database."](https://ieeexplore.ieee.org/document/5206848) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[9]: Zhang, H., & Dana, K. (2017). ["Multi-style Generative Network for Real-time Transfer."](https://arxiv.org/abs/1703.06953) arXiv preprint arXiv:1703.06953.

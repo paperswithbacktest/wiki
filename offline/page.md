@@ -83,3 +83,19 @@ One way to check how well your model is doing with a large dataset is by using t
 One advanced technique to optimize offline machine learning models is to use feature engineering. This means creating new data points from the ones you already have to help your model learn better. For example, if you're predicting house prices, you might create a new feature that combines the number of rooms and the size of the house. This can help the model see patterns it might miss otherwise. Another technique is hyperparameter tuning, where you adjust the settings of your machine learning algorithm to find the best ones for your data. You can use methods like grid search or random search to try different settings and see which ones make your model perform the best. For example, if you're using a decision tree, you might change how deep the tree can grow to see if it helps your model predict better.
 
 Another way to optimize your model is by using ensemble methods. This means combining several models to make predictions together. For example, you might train multiple decision trees and then use their average prediction. This can often lead to better results than using just one model. You can also use cross-validation to make sure your model works well with different parts of your data. Cross-validation means splitting your data into several parts, training your model on some parts, and testing it on others. This helps you see how well your model will work with new data. To check how well your model is doing, you can use the mean squared error (MSE) formula $$ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 $$, where $$ y_i $$ is the actual value, $$ \hat{y}_i $$ is the predicted value, and $$ n $$ is the number of observations. A lower MSE means your model is doing a good job at predicting.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Shalev-Shwartz, S., & Ben-David, S. (2014). ["Understanding Machine Learning: From Theory to Algorithms."](https://assets.cambridge.org/97811070/57135/frontmatter/9781107057135_frontmatter.pdf) Cambridge University Press.
+
+[6]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) O'Reilly Media.
+
+[7]: Quinlan, J. R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning.

@@ -1,6 +1,7 @@
 ---
-title: "Statement of Additional Information"
-description: "Discover how algorithmic trading and AI revolutionize financial markets Enhance your investment strategies with insights from the Statement of Additional Information"
+title: Understanding Mutual Fund Statement of Additional Information
+description: Statement of Additional Information explains mutual fund fees risks and
+  management so investors gain insights to make informed choices Discover more inside
 ---
 
 

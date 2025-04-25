@@ -1,6 +1,7 @@
 ---
-title: "Stellar Blockchain: History and Overview"
-description: "Explore the Stellar blockchain its history and role in revolutionizing cross-border financial transactions with fast low-cost transfers using unique technologies like Lumens."
+title: Understanding Stellar Network for Fast Cross Border Payments
+description: Stellar enables fast and affordable cross-border payments with lumens
+  and trusted anchors to serve unbanked users worldwide. Discover more inside.
 ---
 
 

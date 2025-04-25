@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Reducing Cyclical Unemployment by Policymakers"
-description: "Explore strategies to reduce cyclical unemployment amid economic downturns and the impact of algorithmic trading on markets guiding policymakers in adapting to new challenges."
+title: Understanding Cyclical Unemployment And Its Economic Effects
+description: Cyclical unemployment explains how downturns cut demand causing layoffs
+  and shows policy measures to restore jobs and spur growth Discover more inside
 ---
 
 

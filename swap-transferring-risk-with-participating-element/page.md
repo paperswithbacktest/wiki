@@ -1,6 +1,7 @@
 ---
-title: "Swap Transferring Risk with Participating Element"
-description: "Explore swap risk transfer and participating elements in algorithmic trading transforming derivative markets for improved risk management and efficiency."
+title: Swaps With a Participating Element Explained for Risk Management
+description: Swaps with a participating element share risk and offer upside in interest
+  rate and currency deals for added flexibility Discover more inside
 ---
 
 

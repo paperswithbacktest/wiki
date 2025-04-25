@@ -1,6 +1,7 @@
 ---
-title: "Silver Thursday: Market Manipulation by Wealthy Traders"
-description: "Explore the impact of the Hunt brothers’ attempt to corner the silver market on Silver Thursday 1980 and understand how their actions inform today's market regulation against manipulation."
+title: Understanding Silver Thursday Market Manipulation And Reforms
+description: Silver Thursday reshaped trading when the Hunt brothers triggered a silver
+  price collapse and led to new regulatory limits. Discover more inside.
 ---
 
 

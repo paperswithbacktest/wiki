@@ -126,3 +126,17 @@ For PoAPL, the latest developments involve integrating it with other adaptive co
 To evaluate the effectiveness of adaptive computation methods like PonderNet, AdaptiveBins, and PoAPL in machine learning projects, you need to look at how well they improve the model's performance and efficiency. One way to do this is by comparing the model's accuracy before and after using these methods. For example, if you're using PonderNet, you can measure how well the model does on different types of data by seeing if it spends more time on hard problems and less on easy ones. You can use metrics like accuracy, precision, recall, and F1 score to see if the model is better at understanding the data. Another important thing to check is how much time and energy the model uses. If the model can handle the data faster and use less energy, that's a sign that adaptive computation is working well.
 
 Another way to evaluate these methods is by looking at how they affect the model's ability to adapt to new or changing data. This is important because real-world data can be very different from the data the model was trained on. For example, with AdaptiveBins, you can see if the model can still work well when the data changes by checking if it can still split the data into the right groups. If the model can do this and still give good results, that's a good sign. For PoAPL, you can look at how well the model decides when to stop thinking about a problem using the halting probability formula, $$p_k = \sigma(W_k h_k + b_k)$$. If the model can adjust its thinking time correctly and still be accurate, that means PoAPL is helping. By looking at these different aspects, you can get a good idea of how effective adaptive computation methods are in making your machine learning model better and more efficient.
+
+## References & Further Reading
+
+[1]: Graves, A. (2016). ["Adaptive Computation Time for Recurrent Neural Networks."](https://arxiv.org/abs/1603.08983) arXiv preprint arXiv:1603.08983.
+
+[2]: Bengio, Y., Léonard, N., & Courville, A. (2013). ["Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation."](https://arxiv.org/abs/1308.3432) arXiv preprint arXiv:1308.3432.
+
+[3]: Neal, R. M., & Hinton, G. E. (1998). ["A View of the EM Algorithm that Justifies Incremental, Sparse, and other Variants."](https://link.springer.com/chapter/10.1007/978-94-011-5014-9_12) In M. I. Jordan (Ed.), Learning in Graphical Models (pp. 355-368).
+
+[4]: Jaderberg, M., Vedaldi, A., & Zisserman, A. (2015). ["Speeding up Convolutional Neural Networks with Low Rank Expansions."](https://arxiv.org/abs/1405.3866) The British Machine Vision Conference (BMVC).
+
+[5]: Larochelle, H., & Hinton, G. E. (2010). ["Learning to Combine Foveal Glimpses with a Third-order Boltzmann Machine."](https://proceedings.neurips.cc/paper_files/paper/2010/file/677e09724f0e2df9b6c000b75b5da10d-Paper.pdf) Advances in Neural Information Processing Systems (NeurIPS).
+
+[6]: Chollet, F. (2017). ["Xception: Deep Learning with Depthwise Separable Convolutions."](https://ieeexplore.ieee.org/document/8099678) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

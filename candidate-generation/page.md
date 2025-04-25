@@ -85,3 +85,19 @@ After candidate generation, the next step is ranking. Here, the system takes the
 In the future, we can expect candidate generation to become even faster and more accurate thanks to advances in technology. One big trend will be the use of more advanced machine learning models, like deep learning and neural networks, to better understand what users like. These models can learn complex patterns from the data, making the recommendations more personalized. For example, instead of just looking at what movies you've watched, the system might also consider things like the time of day you watch movies or your mood. This could help the system pick out movies that you're more likely to enjoy at that moment.
 
 Another trend we might see is the use of more real-time data. Right now, candidate generation often uses data that's been collected over time, but in the future, it could use data that's coming in right now. For instance, if you're at a music festival, the system might use data from other festival-goers to suggest songs or artists you might like. This real-time approach could make the recommendations even more relevant and timely. Overall, the goal is to keep improving how candidate generation works so that users get the best possible suggestions, no matter how much data there is to sort through.
+
+## References & Further Reading
+
+[1]: Sarwar, B., Karypis, G., Konstan, J., & Riedl, J. (2001). ["Item-based Collaborative Filtering Recommendation Algorithms."](https://dl.acm.org/doi/10.1145/371920.372071) Proceedings of the 10th International Conference on World Wide Web.
+
+[2]: Breese, J. S., Heckerman, D., & Kadie, C. (1998). ["Empirical Analysis of Predictive Algorithms for Collaborative Filtering."](https://dl.acm.org/doi/10.5555/2074094.2074100) Proceedings of the Fourteenth Conference on Uncertainty in Artificial Intelligence.
+
+[3]: Adomavicius, G., & Tuzhilin, A. (2005). ["Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions."](https://ieeexplore.ieee.org/document/1423975) IEEE Transactions on Knowledge and Data Engineering.
+
+[4]: Ricci, F., Rokach, L., & Shapira, B. (Eds.). (2011). ["Introduction to Recommender Systems Handbook."](https://www.researchgate.net/publication/227268858_Recommender_Systems_Handbook) Springer.
+
+[5]: Rendle, S., Freudenthaler, C., Gantner, Z., & Schmidt-Thieme, L. (2009). ["BPR: Bayesian Personalized Ranking from Implicit Feedback."](https://arxiv.org/abs/1205.2618) Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence.
+
+[6]: Zhang, S., Yao, L., Sun, A., & Tay, Y. (2019). ["Deep Learning Based Recommender System: A Survey and New Perspectives."](https://arxiv.org/abs/1707.07435) ACM Computing Surveys (CSUR).
+
+[7]: Mnih, A., & Salakhutdinov, R. (2008). ["Probabilistic Matrix Factorization."](https://dl.acm.org/doi/10.5555/2981562.2981720) Advances in Neural Information Processing Systems 20.

@@ -81,3 +81,21 @@ Another approach is to use techniques that can handle data from different source
 Recent research in machine learning has focused a lot on how to deal with data that doesn't follow the I.I.D assumption. One big area of interest is in the field of federated learning, where data is spread across different places and might not be I.I.D. Researchers are working on ways to make models learn from this kind of data without moving it all to one place. For example, they're using techniques like personalized federated learning, where each device or location can have its own model that learns from local data but also shares some information with other models. This helps handle the problem of non-I.I.D data by letting models adapt to different kinds of data.
 
 Another area of recent development is in the study of domain adaptation and transfer learning. These methods help models learn from one kind of data and then use that knowledge on a different kind of data. For example, if you have a model trained on images from one city, you can use domain adaptation to help it work on images from another city. Researchers are working on new ways to measure how different the data is and how to adjust the model to work well on new data. This is important because real-world data often changes over time or comes from different sources, so models need to be able to handle that.
+
+## References & Further Reading
+
+[1]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://link.springer.com/book/9780387310732). Springer.
+
+[4]: Vapnik, V. N. (1998). ["Statistical Learning Theory"](https://www.mit.edu/~6.454/www_spring_2001/emin/slt.pdf). Wiley-Interscience.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[6]: Shalev-Shwartz, S., & Ben-David, S. (2014). ["Understanding Machine Learning: From Theory to Algorithms"](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf). Cambridge University Press.
+
+[7]: Breiman, L. (2001). ["Statistical Modeling: The Two Cultures"](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full). Statistical Science, 16(3), 199-215. 
+
+[8]: Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). ["Bayesian Data Analysis"](https://www.taylorfrancis.com/books/mono/10.1201/b16018/bayesian-data-analysis-david-dunson-donald-rubin-john-carlin-andrew-gelman-hal-stern-aki-vehtari). CRC Press.

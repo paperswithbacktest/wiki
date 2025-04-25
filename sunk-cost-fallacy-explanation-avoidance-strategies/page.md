@@ -1,6 +1,7 @@
 ---
-title: "Sunk Cost Fallacy: Explanation and Avoidance Strategies"
-description: "Explore the sunk cost fallacy in algorithmic trading and discover strategies to mitigate its impact on decision-making. Enhance your trading strategies today."
+title: Understanding the Sunk Cost Fallacy for Better Decisions
+description: Sunk cost fallacy leads to wasted resources by keeping you tied to past
+  investments apply clear future focused strategies to avoid losses Explore inside
 ---
 
 

@@ -79,3 +79,15 @@ Because of this, precision should be used with other measures like recall to get
 Ensemble methods can boost precision in complex datasets by combining the predictions of multiple models. Think of it like having a team of experts instead of just one. Each model might make different mistakes, but when you combine their guesses, the team can often get more things right. For example, if one model is good at finding certain types of positive cases and another is good at avoiding false positives, together they can make fewer mistakes. This can lead to higher precision because the combined model is less likely to say something is positive when it's not. The formula for precision is still $$ \text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}} $$, but with ensemble methods, you might see fewer false positives.
 
 One popular ensemble method is called Random Forests, which uses many decision trees and combines their votes. Each tree in the forest looks at different parts of the data, so they don't all make the same mistakes. By averaging their predictions, Random Forests can often make more accurate guesses about which items are positive. This can be really helpful in complex datasets where it's hard for one model to get everything right. Another ensemble method is boosting, like AdaBoost, where models are trained one after the other, and each new model focuses on the mistakes made by the previous ones. This way, the final model can be very good at avoiding false positives, which helps improve precision.
+
+## References & Further Reading
+
+[1]: Sokolova, M., & Lapalme, G. (2009). ["A systematic analysis of performance measures for classification tasks."](https://www.sciencedirect.com/science/article/pii/S0306457309000259) Information Processing & Management, 45(4), 427-437.
+
+[2]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Han, J., Pei, J., & Kamber, M. (2011). ["Data Mining: Concepts and Techniques."](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) Morgan Kaufmann.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.

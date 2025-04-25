@@ -1,6 +1,8 @@
 ---
-title: "Social Impact Bond: Overview and Mechanism"
-description: "Explore how Social Impact Bonds leverage private investments for societal challenges aligning financial returns with meaningful social outcomes through innovative mechanisms."
+title: How Social Impact Bonds Align Investment With Measurable Social Outcomes
+description: Social Impact Bonds offer a results-driven financing model that shifts
+  risk to investors while funding programs for jobs health and education Discover
+  more inside
 ---
 
 

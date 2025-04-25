@@ -115,3 +115,15 @@ To ensure the random forest model was not overfitting, the team used cross-valid
 One promising future direction for Nora in machine learning is to explore how it can be used with automated machine learning (AutoML) tools. AutoML systems can automatically try out lots of different models and find the best one for a problem. By using Nora, these systems could be even better at finding good solutions because they would be encouraged to keep trying different things and not just stick to one way of doing things. This could make AutoML even more useful for people who want to solve machine learning problems without having to be experts in the field.
 
 Another important area for future research is how Nora can help with handling new types of data, like images, sound, or text. These kinds of data can be really hard to work with because they're often messy and change a lot. Nora could help by encouraging researchers to try out lots of different models and techniques, like [deep learning](/wiki/deep-learning), to see what works best. By being open to different possibilities, Nora could lead to finding better ways to predict things from these complex data types. This could be really useful for things like understanding what people are saying in a video or predicting what a picture shows.
+
+## References & Further Reading
+
+[1]: Domingos, P. (2012). ["A Few Useful Things to Know About Machine Learning."](https://dl.acm.org/doi/10.1145/2347736.2347755) Communications of the ACM, 55(10), 78-87.
+
+[2]: Russell, S., & Norvig, P. (2016). ["Artificial Intelligence: A Modern Approach."](https://elibrary.pearson.de/book/99.150005/9781292153971) Prentice Hall.
+
+[3]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[4]: Paco Nathan. (2020). ["The Flexibility of Machine Learning: Embracing Different Models and Methods"](https://scholar.google.com/citations?user=Cp5sZHIAAAAJ&hl=en) LinkedIn Learning.
+
+[5]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.

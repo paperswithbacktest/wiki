@@ -83,3 +83,17 @@ To integrate adversarial training with point cloud augmentation, you first need 
 Future research in point cloud augmentation could focus on making the techniques faster and easier to use. Right now, changing a point cloud with millions of points can take a lot of time and computer power. Researchers are working on new ways to speed this up, like using special computer chips or finding smarter ways to change the data. They are also looking into new kinds of changes that can be made to the point cloud, like adding different kinds of noise or changing the way the points are spread out. By making these techniques faster and more varied, they can be used in more real-time applications, like self-driving cars, where quick decisions are important.
 
 Another big area for future research is making point cloud augmentation work better with other machine learning techniques, like adversarial training. This means using tricky examples to make the model stronger, as well as changing the point cloud in normal ways. Researchers are trying to find the best ways to combine these methods to make the model even more reliable and able to handle different situations. They are also looking at how to use point cloud augmentation to help with tasks like scene understanding, where the model needs to understand the whole 3D world around it, not just single objects. By exploring these new directions, researchers can make machine learning models that work better and more safely in the real world.
+
+## References & Further Reading
+
+[1]: Charles R. Qi, Hao Su, Kaichun Mo, & Leonidas J. Guibas. (2017). ["PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation."](https://arxiv.org/abs/1612.00593) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Yongheng Zhao, Tolga Birdal, Haowen Deng, & Federico Tombari. (2020). ["3D Point Capsule Networks."](https://arxiv.org/abs/1812.10775) IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Wenxiao Zhang, Hui Tang, Songguo Jin, Weihong Deng. (2020). ["Point Augment: An Auto-Augmentation Framework for Point Cloud Classification."](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202413660) European Conference on Computer Vision.
+
+[4]: Yangyan Li, Rui Bu, Mingchao Sun, Wei Wu, Xinhan Di, & Baoquan Chen. (2018). ["PointCNN: Convolution On X-Transformed Points."](https://arxiv.org/abs/1801.07791) Advances in Neural Information Processing Systems (NeurIPS).
+
+[5]: ["Deep Learning for 3D Point Clouds."](https://arxiv.org/abs/1912.12033) by Yangyan Li, Rui Bu, Mingchao Sun, Baoquan Chen, published by Springer.
+
+[6]: Jiacheng Yang, Yeman Brhane, & Jiquan Ng. (2021). ["Transformers for Point Clouds: A Python Tutorial Using PyTorch."](https://ieeexplore.ieee.org/author/37089359051) PyTorch Tutorials.

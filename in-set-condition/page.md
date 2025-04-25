@@ -79,3 +79,15 @@ Another approach is to use ensemble methods, where multiple models are trained t
 In the future, research on In-Set Conditions in machine learning is likely to focus on making these conditions more flexible and adaptable. Scientists might work on ways to let models learn new categories over time without losing the ability to stick to the original set of options. For example, if a model is trained to recognize dogs, cats, and birds, future developments could allow it to also learn to recognize horses without messing up its predictions for the original three categories. This could involve using advanced techniques like online learning, where the model keeps learning from new data even after it's been deployed, or meta-learning, where the model learns how to learn new tasks quickly.
 
 Another area of research might be about making In-Set Conditions easier to use and set up. Right now, using these conditions can make training a model more complicated because you need special loss functions or other tweaks. Future work could focus on creating tools or frameworks that help people add In-Set Conditions to their models without needing a lot of extra work. This could make machine learning more accessible to people who aren't experts, helping them build models that are reliable and accurate. By improving how In-Set Conditions work and how easy they are to use, researchers can help make machine learning models better at sticking to the right set of predictions, no matter how complex the task gets.
+
+## References & Further Reading
+
+[1]: Guo, Y., & Berkhahn, F. (2016). ["Entity embeddings of categorical variables."](https://arxiv.org/abs/1604.06737) arXiv preprint arXiv:1604.06737.
+
+[2]: Bishop, C. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[5]: Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2017). ["Understanding deep learning requires rethinking generalization."](https://arxiv.org/abs/1611.03530) arXiv preprint arXiv:1611.03530.

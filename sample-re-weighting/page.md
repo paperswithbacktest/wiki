@@ -107,3 +107,15 @@ One key way fast sample re-weighting helps is by using techniques like online le
 In a study on credit card fraud detection, sample re-weighting was used to improve the performance of a machine learning model. Credit card fraud is a rare event, so the dataset used for training the model had many more normal transactions than fraudulent ones. By assigning higher weights to the fraudulent transactions, the model was able to focus more on learning to identify these rare cases. The loss function used in the model was adjusted to $$ \sum_{i} w_i \cdot \text{loss}(y_i, \hat{y}_i) $$, where $$ w_i $$ was the weight for each transaction. After implementing sample re-weighting, the model's ability to detect fraud increased significantly, with the fraud detection rate improving from 60% to 85%.
 
 Another example comes from the field of medical diagnosis, where sample re-weighting was applied to a model predicting the likelihood of a patient having a rare disease. The dataset had a large number of healthy patients compared to those with the disease, leading to an imbalanced dataset. By giving higher weights to the patients with the disease, the model was able to learn more effectively from these critical cases. The weighted loss function was again $$ \sum_{i} w_i \cdot \text{loss}(y_i, \hat{y}_i) $$. This approach resulted in the model's accuracy on identifying the disease improving from 70% to 90%, demonstrating the effectiveness of sample re-weighting in handling imbalanced data and improving model performance on important cases.
+
+## References & Further Reading
+
+[1]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[2]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.
+
+[3]: Freund, Y., & Schapire, R. E. (1997). ["A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting."](https://www.sciencedirect.com/science/article/pii/S002200009791504X) Journal of Computer and System Sciences, 55(1), 119-139.
+
+[4]: King, G., & Zeng, L. (2001). ["Logistic Regression in Rare Events Data."](https://gking.harvard.edu/files/0s.pdf) Political Analysis, 9(2), 137-163.
+
+[5]: Buda, M., Maki, A., & Mazurowski, M. A. (2018). ["A Systematic Study of the Class Imbalance Problem in Convolutional Neural Networks."](https://arxiv.org/abs/1710.05381) Neural Networks, 106, 249-259.

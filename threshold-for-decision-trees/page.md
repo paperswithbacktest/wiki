@@ -79,3 +79,15 @@ When Random Forests make a prediction, they take a vote from all the trees. If m
 Researchers are working on new ways to pick the best thresholds in decision trees to make [machine learning](/wiki/machine-learning) models better. One big idea is using something called "adaptive thresholding." This means the decision tree keeps changing its thresholds as it sees more data. For example, if the tree starts by using a threshold of 30 years old for age, it might change to 35 years old if that works better later on. This helps the tree stay accurate even when the data changes over time. Another idea is "cost-complexity pruning," which involves growing a very detailed tree first and then cutting back branches that don't help much with predictions. The tree uses a formula called the cost-complexity parameter, $$ \alpha $$, to decide which branches to cut. The formula is $$ R_\alpha(T) = R(T) + \alpha |T| $$, where $$ R(T) $$ is the misclassification error of the tree, and $$ |T| $$ is the number of leaves. By adjusting $$ \alpha $$, the tree can find the right balance between being detailed and simple.
 
 Ensemble methods like Random Forests are also being studied for how they handle thresholds differently from single decision trees. Random Forests use many decision trees, and each tree picks its own thresholds. This means that if one tree picks a threshold of 30 years old for age, another tree might pick 35 years old. By using many trees with different thresholds, Random Forests can make better guesses about new data because they look at the problem from many angles. When Random Forests make a prediction, they take a vote from all the trees. If most trees say someone will buy a product because their age is above the threshold they picked, then the Random Forest will predict that too. This voting system helps the Random Forest be more accurate because it can balance out mistakes that individual trees might make with their thresholds.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[2]: Louppe, G. (2014). ["Understanding Random Forests: From Theory to Practice."](https://arxiv.org/abs/1407.7502) arXiv preprint arXiv:1407.7502.
+
+[3]: Quinlan, J. R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81-106.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Rokach, L., & Maimon, O. (2005). ["Decision Trees."](https://link.springer.com/chapter/10.1007/0-387-25465-X_9) In Data Mining and Knowledge Discovery Handbook (pp. 165-192). Springer US.

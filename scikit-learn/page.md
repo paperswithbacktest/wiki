@@ -378,3 +378,15 @@ loaded_model = joblib.load('random_forest_model.joblib')
 # Use the loaded model to make predictions
 y_pred = loaded_model.predict(X_test)
 ```
+
+## References & Further Reading
+
+[1]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ) (2nd ed.). O'Reilly Media.
+
+[3]: Raschka, S., & Mirjalili, V. (2019). ["Python Machine Learning: Machine Learning and Deep Learning with Python, Scikit-learn, and TensorFlow 2, Third Edition"](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750). Packt Publishing.
+
+[4]: VanderPlas, J. (2016). ["Python Data Science Handbook"](https://github.com/jakevdp/PythonDataScienceHandbook) O'Reilly Media.
+
+[5]: Müller, A. C., & Guido, S. (2016). ["Introduction to Machine Learning with Python: A Guide for Data Scientists"](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413). O'Reilly Media.

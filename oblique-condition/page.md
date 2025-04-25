@@ -112,3 +112,15 @@ Another area of research is the integration of oblique conditions with ensemble 
 In a study on medical diagnosis, researchers used oblique conditions in a decision tree to predict whether a patient had a certain disease based on a mix of symptoms and test results. The traditional decision tree, which only looked at one symptom or test result at a time, had a hard time telling apart the patients who had the disease from those who didn't. By using an oblique condition, which used a formula like $$a_1 \cdot x_1 + a_2 \cdot x_2 + ... + a_n \cdot x_n > \theta$$ where $$a_1, a_2, ..., a_n$$ are numbers that help mix the different things, $$x_1, x_2, ..., x_n$$ are the symptoms and test results, and $$\theta$$ is a number that helps decide which side of the line something goes on, the model was able to capture the complex relationships between these factors. This led to a big improvement in the model's accuracy, making it better at predicting who had the disease.
 
 Another case study involved using oblique conditions in a Random Forest to predict customer churn for a telecommunications company. The company had a lot of data about customer behavior, but the relationships between these behaviors were hard to understand. A regular decision tree struggled to find the right patterns to predict which customers were likely to leave. By using oblique conditions in the Random Forest, which allowed each tree to make splits using a mix of different customer behaviors, the model was able to find these complex patterns more effectively. This resulted in a much better prediction of customer churn, helping the company take action to keep more customers.
+
+## References & Further Reading
+
+[1]: Murthy, S. K., Kasif, S., & Salzberg, S. (1994). ["A System for Induction of Oblique Decision Trees."](https://arxiv.org/abs/cs/9408103) Journal of Artificial Intelligence Research.
+
+[2]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[3]: Brodley, C. E., & Utgoff, P. E. (1995). ["Multivariate Decision Trees."](https://link.springer.com/article/10.1007/BF00994660) Machine Learning and Statistics: Proceedings of the Workshop on Machine Learning of Natural Language and Ontology Learning.
+
+[4]: Bennett, K. P., & Blue, J. A. (1997). ["A Support Vector Machine Approach to Decision Trees."](https://ieeexplore.ieee.org/document/687237) Advances in Neural Information Processing Systems.
+
+[5]: Menze, B. H., et al. (2009). ["An Oblique Random Forest for Gene Expression Classification."](https://people.csail.mit.edu/menze/papers/menze_11_oblique.pdf) In Proceedings of the 26th Annual International Conference of the IEEE Engineering in Medicine and Biology Society.

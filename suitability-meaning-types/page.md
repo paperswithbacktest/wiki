@@ -1,6 +1,7 @@
 ---
-title: "Suitability: Meaning and Types"
-description: "Explore the meaning and types of algorithmic trading which revolutionize markets by automating trading processes This guide helps traders leverage algo strategies"
+title: Comprehensive Guide to Suitability in Financial Planning
+description: Suitability in Financial Planning ensures advice aligns with client goals
+  risk tolerance using key assessments and technology Discover more.
 ---
 
 

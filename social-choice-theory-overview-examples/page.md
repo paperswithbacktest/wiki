@@ -1,6 +1,7 @@
 ---
-title: "Social Choice Theory: Overview and Examples"
-description: "Discover how social choice theory and algorithmic trading intersect to enhance decision-making in financial markets through economic models and strategies."
+title: Social Choice Theory Insights for Fair and Effective Voting
+description: Social Choice Theory shows how to turn individual preferences into fair
+  group decisions by evaluating voting methods and principles Discover more inside.
 ---
 
 

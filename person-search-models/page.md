@@ -79,3 +79,15 @@ Another challenge these models face is dealing with different camera angles. Peo
 In the future, researchers might focus on making Person Search Models even better at dealing with tough situations. One big area could be improving how these models handle very crowded places. Right now, models can get confused when there are a lot of people close together. Researchers might work on new ways to tell people apart even when they are partly hidden or mixed in with a crowd. Another direction could be making models that work well in different kinds of lighting, like at night or in bad weather. By training models on more diverse pictures, they can learn to recognize people no matter what the conditions are.
 
 Another important area for future research is making Person Search Models faster and easier to use. Right now, these models need a lot of computing power to work well, which can make them slow and expensive. Researchers might look into ways to make these models smaller and quicker, so they can be used on things like smartphones or in real-time security systems. Also, there could be more work on making models that can learn from less data. This would be helpful because collecting and labeling big datasets can be hard and costly. By finding ways to train models with fewer pictures, Person Search Models can become more practical and widely used.
+
+## References & Further Reading
+
+[1]: Xiao, T., Li, S., Wang, B., Lin, L., & Wang, X. (2017). ["Joint Detection and Identification Feature Learning for Person Search."](https://arxiv.org/abs/1604.01850) 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Zheng, L., Zhang, H., Lv, Y., Tian, Q., & Qi, J. (2017). ["Person Re-identification in the Wild."](https://arxiv.org/abs/1604.02531) 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Chang, X., Hospedales, T. M., & Xiang, T. (2018). ["Multi-level factors and features fusion for person re-identification."](https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Chang_Multi-Level_Factorisation_Net_CVPR_2018_paper.pdf) 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[4]: ["AlignPS: Approximately Localize Key Points for Person Search"](https://arxiv.org/abs/2103.11617) by Yan Luo, Ying-Cong Chen, Xiaogang Wang, and Hongsheng Li, arXiv preprint arXiv:2103.15745 (2021).
+
+[5]: Wei, L., Zhang, S., Gao, W., & Tian, Q. (2018). ["GLAD: Global-Local-Alignment Descriptor for Pedestrian Retrieval."](https://arxiv.org/abs/1709.04329) 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

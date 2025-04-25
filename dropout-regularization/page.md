@@ -101,3 +101,15 @@ The theoretical foundation of dropout is connected to the idea of ensemble learn
 To measure the effectiveness of dropout, you can look at how well your neural network does on a separate set of data called the validation set. During training, you keep track of the network's performance on this validation set. If the network's performance on the validation set gets better as you use dropout, it means dropout is helping the network learn more general features and not just memorizing the training data. You can also compare the network's performance with and without dropout to see if dropout is making a difference. If the network does better with dropout, it's a sign that dropout is working well.
 
 To optimize dropout, you can try different dropout rates to see which one works best for your network. A common dropout rate is between 0.2 and 0.5, but the best rate can depend on your specific problem and network. You can start with a rate like 0.5 and then try rates like 0.3 or 0.7 to see if the network's performance on the validation set gets better. You can also use techniques like cross-validation to test different dropout rates on different parts of your data. This way, you can find the dropout rate that helps your network learn the best without overfitting.
+
+## References & Further Reading
+
+[1]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15, 1929-1958.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press. (Refer to Chapter 7 for regularization techniques, including dropout).
+
+[3]: Gal, Y., & Ghahramani, Z. (2016). ["Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning."](https://arxiv.org/abs/1506.02142) In Proceedings of the 33rd International Conference on Machine Learning (Vol. 48, pp. 1050-1059).
+
+[4]: Ioffe, S., & Szegedy, C. (2015). ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) In Proceedings of the 32nd International Conference on Machine Learning (pp. 448-456).
+
+[5]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications. (Includes practical information on implementing dropout in deep learning models).

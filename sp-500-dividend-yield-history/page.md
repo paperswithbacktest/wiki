@@ -1,6 +1,7 @@
 ---
-title: "S&P 500 Dividend Yield History"
-description: "Explore the history and dynamics of the S&P 500 dividend yield and its role in investment strategies particularly with the rise of algorithmic trading for optimizing portfolios."
+title: Understanding the S&P 500 Dividend Yield for Investors
+description: S&P 500 dividend yield reveals income from top US firms. Explore annual
+  trends sector impacts and yield shifts for smarter investing Discover more inside
 ---
 
 

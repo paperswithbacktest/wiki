@@ -1,6 +1,7 @@
 ---
-title: "Supplemental Liquidity Provider: Overview and Mechanism"
-description: "Discover how Supplemental Liquidity Providers enhance stock market efficiency through algorithmic trading boosting liquidity and fostering stable trading environments."
+title: Supplemental Liquidity Providers In Financial Markets
+description: Supplemental Liquidity Providers boost market liquidity by adding buyers
+  and sellers in quiet periods to prevent price jumps Discover more inside
 ---
 
 

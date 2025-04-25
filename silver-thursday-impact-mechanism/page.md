@@ -1,6 +1,7 @@
 ---
-title: "Silver Thursday Impact and Mechanism"
-description: "Explore the impact and mechanisms of the 1980 Silver Thursday event and its lessons for algorithmic trading highlighting market risks and the need for regulation."
+title: Silver Thursday Market Crash and Its Lasting Financial Lessons
+description: Silver Thursday revealed market risks when Hunt brothers triggered a
+  silver market crash and prompted tighter regulation Discover more inside
 ---
 
 

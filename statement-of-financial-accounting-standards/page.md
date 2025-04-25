@@ -1,6 +1,7 @@
 ---
-title: "Statement of Financial Accounting Standards"
-description: "Explore the intersection of FASB accounting standards and algorithmic trading highlighting the importance of reliable financial data in optimizing trading strategies."
+title: Guide To Statement Of Financial Accounting Standards SFAS
+description: Statement of Financial Accounting Standards set clear rules for US companies
+  to report finances consistently and transparently Discover more inside.
 ---
 
 

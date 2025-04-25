@@ -87,3 +87,19 @@ In classification, ERM also tries to minimize the average loss, but the loss fun
 Empirical Risk Minimization (ERM) comes with some theoretical guarantees that help us trust it more. One key guarantee is the Law of Large Numbers, which says that if you have a lot of training examples, the average loss on your training data (the empirical risk) will be close to the true risk, which is the average loss you'd get if you could use all possible data. This means that if you minimize the empirical risk, you're also likely to be minimizing the true risk, making your model good at guessing not just on the training data, but also on new data. The formula for this is $$ \lim_{n \to \infty} \frac{1}{n} \sum_{i=1}^n L(f(x_i; \theta), y_i) = E[L(f(X; \theta), Y)] $$, where $$ E[L(f(X; \theta), Y)] $$ is the expected loss or true risk.
 
 Another important guarantee comes from the concept of uniform convergence. This means that if your set of possible models (called the hypothesis space) is not too big or too complicated, then the empirical risk will be close to the true risk for all models in that set. This is really helpful because it tells us that if we pick the model with the lowest empirical risk, we can be pretty sure it's also close to the best model for new data. This idea is often used with something called the VC dimension, which measures how complex your set of models is. If the VC dimension is small enough, uniform convergence is guaranteed, making ERM a reliable way to find good models.
+
+## References & Further Reading
+
+[1]: Vapnik, V. N. (1998). ["Statistical Learning Theory."](https://link.springer.com/book/10.1007/978-1-4757-3264-1) Wiley-Interscience.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[4]: Shalev-Shwartz, S., & Ben-David, S. (2014). ["Understanding Machine Learning: From Theory to Algorithms."](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Cambridge University Press.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[6]: Mohri, M., Rostamizadeh, A., & Talwalkar, A. (2018). ["Foundations of Machine Learning, Second Edition."](https://cs.nyu.edu/~mohri/mlbook/) MIT Press.
+
+[7]: Zhang, T. (2004). ["Statistical Behavior and Consistency of Classification Methods Based on Convex Risk Minimization."](https://projecteuclid.org/journals/annals-of-statistics/volume-32/issue-1/Statistical-behavior-and-consistency-of-classification-methods-based-on-convex/10.1214/aos/1079120130.full) The Annals of Statistics, 32(1), 56-85.

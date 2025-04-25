@@ -81,3 +81,15 @@ But, to make sure the model stays useful for new data, you need to use technique
 Future research on co-adaptation in machine learning could focus on understanding how it happens in different types of neural networks, like transformers and graph neural networks. Researchers might want to find new ways to measure co-adaptation so they can see when it's happening and how bad it is. This could help them come up with better ways to stop it from making models less useful. They might also look at how co-adaptation affects different tasks, like understanding language or recognizing images, and see if there are patterns that can help make models better.
 
 Another direction could be to develop new techniques that use co-adaptation to make models train faster without losing their ability to handle new data. Researchers might try to find a balance where co-adaptation helps the model learn quickly at first, but then other methods like dropout or new regularization techniques keep the model from overfitting. This could lead to models that start working well quickly and then keep improving as they see more data. By studying co-adaptation more, researchers can make machine learning models more reliable and useful for real-world problems.
+
+## References & Further Reading
+
+[1]: Hinton, G. E., Srivastava, N., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2012). ["Improving neural networks by preventing co-adaptation of feature detectors."](https://arxiv.org/abs/1207.0580) arXiv preprint arXiv:1207.0580.
+
+[2]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A simple way to prevent neural networks from overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15, 1929-1958.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press. 
+
+[4]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[5]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.

@@ -1,6 +1,8 @@
 ---
-title: "State Capital Investment Corporation"
-description: "Explore the pivotal role of State Capital Investment Corporation in Vietnam's economy through strategic capital management and algorithmic trading insights."
+title: State Capital Investment Corporation Driving Vietnam Growth
+description: "State Capital Investment Corporation manages Vietnam\u2019s government\
+  \ holdings to drive economic growth and optimize asset performance Discover more\
+  \ inside"
 ---
 
 

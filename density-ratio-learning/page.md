@@ -83,3 +83,15 @@ This approach makes off-policy learning more efficient because it helps you use 
 In the future, we can expect Density Ratio Learning to become even more important in machine learning. One big area of development will be in making the methods for estimating the density ratio $$ \frac{p(x)}{q(x)} $$ even better. Researchers might come up with new ways to do this that are faster and more accurate. They could also find new ways to use Density Ratio Learning in different kinds of problems, like making self-driving cars safer or helping doctors find diseases earlier. As computers get more powerful, we might see Density Ratio Learning used in bigger and more complex data sets, making it a key tool for understanding and working with data.
 
 Another exciting development could be in combining Density Ratio Learning with other machine learning techniques. For example, we might see it used more with [deep learning](/wiki/deep-learning) to make models that can learn from data in new ways. This could help solve problems that are hard to tackle with just one method. Also, as more people start using Density Ratio Learning, we might see new tools and software that make it easier to use. This would help more people take advantage of what Density Ratio Learning can do, making it a common part of many machine learning projects.
+
+## References & Further Reading
+
+[1]: Sugiyama, M., Krauledat, M., & Müller, K.-R. (2007). ["Covariate Shift Adaptation by Importance Weighted Cross Validation."](https://jmlr.csail.mit.edu/papers/volume8/sugiyama07a/sugiyama07a.pdf) Journal of Machine Learning Research, 8, 985-1005.
+
+[2]: Sugiyama, M., Nakajima, S., Kanamori, T., & Miyamoto, H. (2012). ["Density Ratio Estimation: A Comprehensive Review."](https://www.cambridge.org/core/books/density-ratio-estimation-in-machine-learning/BCBEA6AEAADD66569B1E85DDDEAA7648) Statistical Analysis and Data Mining: The ASA Data Science Journal, 5(1), 51-70.
+
+[3]: Kanamori, T., Hido, S., & Sugiyama, M. (2009). ["A Least-squares Approach to Direct Importance Estimation."](https://jmlr.csail.mit.edu/papers/volume10/kanamori09a/kanamori09a.pdf) Journal of Machine Learning Research, 10, 1391-1445.
+
+[4]: Gretton, A., Borgwardt, K. M., Rasch, M. J., Schölkopf, B., & Smola, A. (2012). ["A Kernel Two-Sample Test."](https://jmlr.org/papers/volume13/gretton12a/gretton12a.pdf) Journal of Machine Learning Research, 13, 723-773.
+
+[5]: Liu, S., Lee, J., & Sha, F. (2018). ["Analytic Score Function for Nonlinear Models."](https://www.sciencedirect.com/science/article/pii/S0165993618304102) Advances in Neural Information Processing Systems 31.

@@ -1,6 +1,7 @@
 ---
-title: "Supply-Side Economics Overview"
-description: "Explore supply-side economics focusing on Reaganomics and its effects. Discover how algorithmic trading reshapes financial markets through high-speed automated trades."
+title: Supply-Side Economics Principles Policies and Real-World Impact
+description: Supply-Side Economics shows how tax cuts and lighter regulations drive
+  investment create jobs and boost incomes for broader growth Discover more inside.
 ---
 
 

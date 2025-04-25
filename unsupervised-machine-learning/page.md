@@ -79,3 +79,19 @@ Generative models are like artists that can create new things based on what they
 Unsupervised learning can be a powerful tool for market segmentation, which helps businesses understand their customers better. Imagine a company that sells different products and wants to know which types of customers are buying what. They can collect data on customer purchases, demographics, and other behaviors. Using clustering algorithms like K-means, the company can group customers into different segments based on their similarities. For example, one group might be "frequent buyers" who shop often and spend a lot, while another group could be "occasional shoppers" who buy less often. This helps the company tailor its marketing strategies to each group, making their efforts more effective. The company can use the silhouette score, $$ s_i = \frac{b_i - a_i}{\max(a_i, b_i)} $$, to evaluate how well the clustering has separated the customers into meaningful groups.
 
 In the field of biology, unsupervised learning is used for gene expression analysis, which helps scientists understand how genes work. Imagine you have a lot of data about which genes are active in different cells or under different conditions. Using techniques like clustering or dimensionality reduction, scientists can group genes based on how they behave. For example, genes that are active in similar conditions might be grouped together, helping scientists understand which genes are related to certain diseases or traits. Principal Component Analysis (PCA) can be used to reduce the complexity of the data and focus on the most important patterns. This can be visualized in lower dimensions, making it easier to see how genes are related. By applying unsupervised learning, scientists can uncover new insights about gene functions and their roles in biological processes.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: MacKay, D. J. C. (2003). ["Information Theory, Inference, and Learning Algorithms."](https://assets.cambridge.org/97805216/42989/frontmatter/9780521642989_frontmatter.pdf) Cambridge University Press.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Aggarwal, C. C., & Reddy, C. K. (2014). ["Data Clustering: Algorithms and Applications."](https://www.taylorfrancis.com/books/edit/10.1201/9781315373515/data-clustering-chandan-reddy-charu-aggarwal) CRC Press.
+
+[5]: Van der Maaten, L., & Hinton, G. (2008). ["Visualizing data using t-SNE."](https://jmlr.org/papers/v9/vandermaaten08a.html) Journal of Machine Learning Research, 9(Nov), 2579-2605.
+
+[6]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[7]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.

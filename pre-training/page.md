@@ -83,3 +83,15 @@ Pre-training can be applied to natural language processing (NLP) by training mod
 In the field of computer vision, pre-training is often done on large image datasets like ImageNet. Models like ResNet are trained to recognize general features in pictures, like edges, shapes, and textures. After pre-training, these models can be fine-tuned for specific tasks, like identifying different objects or recognizing faces. This way, the model doesn't need as many new pictures to learn the new task, making the process quicker and more efficient. Pre-training helps the model understand visual information better, which is useful for many different vision tasks.
 
 For audio processing, pre-training can involve training models on large collections of audio data, like speech or music. Models can learn to recognize different sounds, voices, or musical notes. For instance, a model pre-trained on speech data can be fine-tuned to transcribe specific languages or recognize different speakers. This pre-training helps the model understand the basics of audio, making it easier to adapt to new audio tasks with less data. By using pre-training, models in all these domains can become more versatile and efficient.
+
+## References & Further Reading
+
+[1]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of deep bidirectional transformers for language understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) Proceedings of the IEEE conference on computer vision and pattern recognition.
+
+[3]: Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). ["ImageNet: A large-scale hierarchical image database."](https://ieeexplore.ieee.org/document/5206848) 2009 IEEE Conference on Computer Vision and Pattern Recognition.
+
+[4]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://www.semanticscholar.org/paper/Improving-Language-Understanding-by-Generative-Radford-Narasimhan/cd18800a0fe0b668a1cc19f2ec95b5003d0a5035) OpenAI.
+
+[5]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.

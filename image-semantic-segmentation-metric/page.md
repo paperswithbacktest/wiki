@@ -113,3 +113,15 @@ By incorporating such techniques, the model can better handle the challenges of 
 In the future, we might see the IPBI metric being improved to work even better with new kinds of machine learning models. Right now, the IPBI metric, calculated as $$ \text{IPBI} = \frac{\text{Area of Overlap of Boundaries}}{\text{Area of Union of Boundaries}} $$, focuses on how well a model can find the edges between objects. But as models get smarter and more complex, we might need to change the IPBI metric to fit these new models better. Researchers could work on making the metric more flexible, so it can handle different types of images and tasks, like medical images or self-driving car systems, more accurately.
 
 Another thing that might happen is that the IPBI metric could be combined with other metrics to give a fuller picture of how well a model is doing. Right now, the IPBI metric looks only at the edges, but if we mix it with other metrics like IoU or the Dice coefficient, we could get a better understanding of the model's overall performance. This could help us see not just how good the model is at finding edges, but also how well it can segment the whole image. By doing this, we could make the IPBI metric even more useful for people working on image semantic segmentation.
+
+## References & Further Reading
+
+[1]: Takikawa, T., Acuna, D., Jampani, V., & Fidler, S. (2019). ["Gated-SCNN: Gated Shape CNNs for Semantic Segmentation."](https://arxiv.org/abs/1907.05740) Proceedings of the IEEE/CVF International Conference on Computer Vision.
+
+[2]: Zhang, H., Dana, K., Shi, J., Zhang, Z., Wang, X., Tyagi, A., & Agrawal, A. (2018). ["Context Encoding for Semantic Segmentation."](https://arxiv.org/abs/1803.08904) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[3]: Ronneberger, O., Fischer, P., & Brox, T. (2015). ["U-Net: Convolutional Networks for Biomedical Image Segmentation."](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) International Conference on Medical Image Computing and Computer-Assisted Intervention.
+
+[4]: Long, J., Shelhamer, E., & Darrell, T. (2015). ["Fully Convolutional Networks for Semantic Segmentation."](https://ieeexplore.ieee.org/document/7298965) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[5]: Chen, L.-C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. (2018). ["DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs."](https://ieeexplore.ieee.org/document/7913730) IEEE Transactions on Pattern Analysis and Machine Intelligence.

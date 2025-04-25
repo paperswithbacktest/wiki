@@ -101,3 +101,17 @@ Finally, advanced optimization techniques like learning rate scheduling and adap
 Test loss is like a final exam score for a machine learning model, showing how well it predicts new data. But it's not the only way to check how good a model is. Other metrics, like accuracy, precision, recall, and F1 score, can give us more information about the model's performance. For example, if we're trying to predict whether an email is spam or not, accuracy tells us how often the model is right, while precision and recall tell us how good it is at finding all the spam emails and not missing any. By looking at all these metrics together, we can get a better picture of how well the model is doing and where it might need improvement.
 
 Using test loss along with these other metrics can help us make the model better. If the test loss is high but the accuracy is good, it might mean the model is overfitting, where it's too focused on the training data and not good at new data. We can use techniques like regularization or more data to fix this. On the other hand, if the test loss and other metrics like precision or recall are all low, it could mean the model is too simple and not capturing the patterns in the data well. In this case, we might need to make the model more complex or try a different type of model. By looking at all these metrics together, we can make smarter choices to improve the model's performance on new data.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[6]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.

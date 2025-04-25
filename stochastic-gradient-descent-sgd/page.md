@@ -1,7 +1,7 @@
 ---
-title: Mastering Stochastic Gradient Descent For Efficient ML Models
-description: Stochastic Gradient Descent speeds model training with efficient mini-batches
-  and adaptive techniques for faster convergence Discover more inside
+title: Stochastic Gradient Descent Essentials for Machine Learning
+description: Stochastic Gradient Descent accelerates training by updating parameters
+  on mini-batches to boost efficiency and avoid local minima Discover more inside
 ---
 
 ![Image](images/1.jpeg)
@@ -81,3 +81,17 @@ Compared to other optimization algorithms, SGD's convergence properties have bot
 Adaptive learning rate methods like Adam and RMSprop are advanced techniques that improve upon basic Stochastic Gradient Descent (SGD). These methods adjust the learning rate for each parameter based on the history of updates, making the training process more efficient and stable. Adam, which stands for Adaptive Moment Estimation, combines the ideas of momentum and adaptive learning rates. It keeps track of both the first and second moments of the gradients, which helps it adjust the learning rate in a way that's sensitive to the scale of the parameters. The update rules for Adam are $$ m_t = \beta_1 m_{t-1} + (1 - \beta_1) \nabla J(\theta) $$, $$ v_t = \beta_2 v_{t-1} + (1 - \beta_2) (\nabla J(\theta))^2 $$, $$ \hat{m}_t = \frac{m_t}{1 - \beta_1^t} $$, $$ \hat{v}_t = \frac{v_t}{1 - \beta_2^t} $$, and $$ \theta = \theta - \alpha \frac{\hat{m}_t}{\sqrt{\hat{v}_t} + \epsilon} $$. Here, $$ m_t $$ and $$ v_t $$ are the first and second moment estimates, $$ \beta_1 $$ and $$ \beta_2 $$ are hyperparameters, and $$ \epsilon $$ is a small constant to avoid division by zero. This allows Adam to handle sparse gradients and noisy data well, making it popular for training deep neural networks.
 
 RMSprop, or Root Mean Square Propagation, is another adaptive learning rate method that focuses on scaling the learning rate by the average of recent gradient magnitudes. The update rule for RMSprop is $$ E[g^2]_t = \gamma E[g^2]_{t-1} + (1 - \gamma) (\nabla J(\theta))^2 $$ and $$ \theta = \theta - \alpha \frac{\nabla J(\theta)}{\sqrt{E[g^2]_t} + \epsilon} $$. Here, $$ E[g^2]_t $$ is the running average of the squared gradient, $$ \gamma $$ is a decay rate, and $$ \epsilon $$ is a small constant. RMSprop helps to prevent the learning rate from getting too large for parameters with small gradients and too small for parameters with large gradients. This makes it effective for dealing with problems where the scale of the gradients can vary a lot. Both Adam and RMSprop improve upon basic SGD by making the learning process more robust and efficient, especially in complex scenarios.
+
+## References & Further Reading
+
+[1]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent."](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) In Proceedings of COMPSTAT'2010, Springer.
+
+[2]: Ruder, S. (2016). ["An overview of gradient descent optimization algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
+
+[3]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Duchi, J., Hazan, E., & Singer, Y. (2011). ["Adaptive Subgradient Methods for Online Learning and Stochastic Optimization."](https://dl.acm.org/doi/10.5555/1953048.2021068) Journal of Machine Learning Research, 12, 2121-2159.
+
+[6]: Tieleman, T., & Hinton, G. (2012). ["Lecture 6.5—RMSProp: Divide the gradient by a running average of its recent magnitude."](https://scholar.google.com/citations?user=YGGcq5EAAAAJ&hl=en) COURSERA: Neural Networks for Machine Learning.

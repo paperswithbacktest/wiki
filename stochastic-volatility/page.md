@@ -1,6 +1,7 @@
 ---
-title: "Stochastic volatility"
-description: "Explore the role of stochastic volatility models in algorithmic trading. Understand their significance in derivative pricing and risk management strategies."
+title: Stochastic Volatility Models Explained for Finance Professionals
+description: Stochastic volatility models show how price fluctuations evolve unpredictably
+  and enable accurate option pricing and risk management Discover more inside.
 ---
 
 

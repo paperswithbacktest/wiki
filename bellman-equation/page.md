@@ -79,3 +79,19 @@ Another technique is called Q-learning, which builds on the Bellman Equation to 
 Modern deep reinforcement learning approaches often use neural networks to approximate the value function or policy, which are central to the Bellman Equation. These approaches, like Deep Q-Networks (DQNs), use the Bellman Equation to update the [neural network](/wiki/neural-network)'s weights. For example, in DQN, the Q-value, which represents the expected future reward for taking a particular action in a given state, is updated using the Bellman Equation in the form of $$Q(s, a) = Q(s, a) + \alpha \left( R(s, a) + \gamma \max_{a'} Q(s', a') - Q(s, a) \right)$$. The neural network learns to predict these Q-values by minimizing the difference between its predictions and the target values derived from the Bellman Equation, allowing it to improve its policy over time.
 
 Another approach is Deep Deterministic Policy Gradients (DDPG), which combines the Bellman Equation with actor-critic methods. Here, the actor network decides on actions, and the critic network evaluates those actions using the Bellman Equation. The critic's estimate of the value function is updated using the equation $$V(s) = R(s) + \gamma V(s')$$, where the value of the current state is based on the immediate reward and the discounted value of the next state. By using deep neural networks, these methods can handle high-dimensional state and action spaces that traditional methods might struggle with, making them powerful tools for solving complex reinforcement learning problems.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Bellman, R. (1957). ["Dynamic Programming."](https://archive.org/details/dynamicprogrammi0000bell) Princeton University Press.
+
+[3]: Bertsekas, D. P. (2012). ["Dynamic Programming and Optimal Control."](https://www.mit.edu/~dimitrib/dpbook.html) Athena Scientific.
+
+[4]: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). ["Playing Atari with Deep Reinforcement Learning."](https://arxiv.org/abs/1312.5602) arXiv:1312.5602.
+
+[5]: Watkins, C. J. C. H., & Dayan, P. (1992). ["Q-learning."](https://link.springer.com/article/10.1007/BF00992698) Machine Learning, 8(3-4), 279-292.
+
+[6]: Silver, D., Lever, G., Heess, N., Degris, T., Wierstra, D., & Riedmiller, M. (2014). ["Deterministic Policy Gradient Algorithms."](https://dl.acm.org/doi/10.5555/3044805.3044850) In Proceedings of the 31st International Conference on Machine Learning (ICML-14).
+
+[7]: Van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep Reinforcement Learning with Double Q-learning."](https://arxiv.org/abs/1509.06461) In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence.

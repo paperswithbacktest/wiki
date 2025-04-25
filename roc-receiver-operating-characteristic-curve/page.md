@@ -81,3 +81,15 @@ To find the confidence interval for the AUC, we can use a method called bootstra
 Using ROC curves for model evaluation has some limitations and criticisms. One big problem is that ROC curves can make a classifier look better than it really is when the classes are imbalanced. If you have a lot more examples of one class than the other, the false positive rate can stay low even if the classifier is not very good. This is because the false positive rate is calculated as the number of false positives divided by the total number of actual negatives. If there are many more negatives, a few false positives won't make the false positive rate go up much. So, the ROC curve might look good, but it might not show how well the classifier finds the rarer class.
 
 Another criticism is that ROC curves don't always tell you what you need to know for your specific problem. The area under the ROC curve (AUC) is a single number that shows how good the classifier is overall, but it doesn't tell you how well it does at the thresholds you care about. For example, if you're trying to detect a rare disease, you might want a high true positive rate even if it means a higher false positive rate. But the ROC curve doesn't tell you how to choose the best threshold for your needs. Instead, you might need to look at other measures, like precision and recall, to understand how the classifier works in a way that matters for your situation.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861-874.
+
+[2]: Bradley, A. P. (1997). ["The use of the area under the ROC curve in the evaluation of machine learning algorithms."](https://www.sciencedirect.com/science/article/abs/pii/S0031320396001422) Pattern Recognition, 30(7), 1145-1159.
+
+[3]: Davis, J., & Goadrich, M. (2006). ["The relationship between Precision-Recall and ROC curves."](https://dl.acm.org/doi/10.1145/1143844.1143874) Proceedings of the 23rd international conference on Machine learning.
+
+[4]: Fawcett, T., & Provost, F. (1997). ["Adaptive fraud detection."](https://link.springer.com/article/10.1023/A:1009700419189) Data Mining and Knowledge Discovery, 1(3), 291-316.
+
+[5]: Krzanowski, W.J., & Hand, D.J. (2009). ["ROC Curves for Continuous Data."](https://www.taylorfrancis.com/books/mono/10.1201/9781439800225/roc-curves-continuous-data-wojtek-krzanowski-david-hand) CRC Press.

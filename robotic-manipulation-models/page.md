@@ -83,3 +83,19 @@ Another important advancement is the use of generative models like Generative Ad
 Experts evaluate and benchmark the performance of robotic manipulation models by using a mix of different tests and measures. They look at how well the robot can pick up and move objects, how fast it does these tasks, and how often it makes mistakes. They also check if the robot can handle new situations well, like picking up objects it hasn't seen before or working in different lighting. To do this, they might use a special setup called a benchmark, which is like a test [course](/wiki/best-algorithmic-trading-courses) with different tasks for the robot to complete. By comparing how different robots do on the same tasks, experts can see which ones are better and where they need to improve.
 
 One common way to measure performance is to use something called success rate, which is just the percentage of times the robot successfully completes a task. For example, if a robot tries to pick up a cup 100 times and succeeds 90 times, its success rate is 90%. Experts also look at other numbers like how long it takes the robot to finish a task, how much force it uses, and how well it can adapt to changes. By combining all these measures, they get a good picture of how well the robot is doing and where it might need more training or better algorithms.
+
+## References & Further Reading
+
+[1]: Levine, S., Finn, C., Darrell, T., & Abbeel, P. (2016). ["End-to-End Training of Deep Visuomotor Policies."](https://arxiv.org/abs/1504.00702) Journal of Machine Learning Research, 17(1), 1334-1373.
+
+[2]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., Silver, D., & Wierstra, D. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.
+
+[3]: Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). ["Proximal Policy Optimization Algorithms."](https://arxiv.org/abs/1707.06347) arXiv preprint arXiv:1707.06347.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in neural information processing systems, 25.
+
+[5]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[6]: OpenAI, Espeholt, L., Soyer, H., Munos, R., & Kavukcuoglu, K. (2017). ["Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation."](https://arxiv.org/abs/1802.01561) arXiv preprint arXiv:1708.05144.
+
+[7]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement learning: An introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT press.

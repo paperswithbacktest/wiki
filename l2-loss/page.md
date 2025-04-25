@@ -102,3 +102,15 @@ Both libraries make it simple to use L2 Loss to help your model learn better by 
 L2 Loss, also known as Mean Squared Error, is often used in machine learning to help models learn by measuring the average of the squared differences between predictions and actual values. But sometimes, you need to change or improve L2 Loss for certain tasks. One common change is to use weighted L2 Loss. This means you give more importance to some data points than others. For example, if you have a dataset where some errors are more important than others, you can use weights to make sure the model focuses on those errors more. The formula for weighted L2 Loss is $$ \text{Weighted L2 Loss} = \frac{1}{n} \sum_{i=1}^{n} w_i (y_i - \hat{y}_i)^2 $$, where $w_i$ are the weights for each data point.
 
 Another advanced consideration is using L2 Loss with regularization to prevent overfitting. Overfitting happens when a model learns the training data too well but doesn't work well on new data. L2 regularization adds a penalty to the model's loss based on the size of its parameters. This helps keep the model simple and prevents it from relying too much on the training data. The total loss with L2 regularization is $$ \text{Total Loss} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 + \lambda \sum_{j=1}^{m} \theta_j^2 $$, where $\lambda$ is the regularization strength, and $\theta_j$ are the model's parameters. This combination helps the model find a good balance between fitting the data well and keeping the model simple.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Ng, A. Y. (2004). ["Feature selection, L1 vs. L2 regularization, and rotational invariance."](https://dl.acm.org/doi/10.1145/1015330.1015435) Proceedings of the 21st International Conference on Machine Learning.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

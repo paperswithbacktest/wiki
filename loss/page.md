@@ -79,3 +79,15 @@ Another way to handle imbalanced datasets is to use class weights in your loss f
 In [deep learning](/wiki/deep-learning), researchers are always trying to find new and better ways to use loss functions. One big trend is making loss functions that can handle more complicated problems. For example, in object detection, they're using things like the Focal Loss, which helps the model focus on hard-to-detect objects. The formula for Focal Loss is $$ \text{Focal Loss} = -\alpha_t (1 - p_t)^\gamma \log(p_t) $$. This loss function is good at dealing with imbalanced datasets, where some things are much rarer than others. Another trend is using loss functions that can learn from multiple tasks at the same time, like predicting what's in an image and where it is.
 
 Another area of research is about making loss functions that are more stable and easier to work with. Some new loss functions, like the Huber Loss, try to mix the best parts of different losses. The Huber Loss is a mix of Mean Squared Error (MSE) and Mean Absolute Error (MAE), and it's less affected by big mistakes. The formula for Huber Loss is $$ \text{Huber Loss} = \begin{cases} \frac{1}{2}(y_i - \hat{y}_i)^2 & \text{if } |y_i - \hat{y}_i| \leq \delta \\ \delta(|y_i - \hat{y}_i| - \frac{1}{2}\delta) & \text{otherwise} \end{cases} $$. Researchers are also looking into loss functions that can change over time, adapting to how the model is learning. This way, the loss function can help the model learn faster and better.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[5]: ["A Gentle Introduction to Cross-Entropy for Machine Learning"](https://machinelearningmastery.com/cross-entropy-for-machine-learning/) by Jason Brownlee, Machine Learning Mastery.

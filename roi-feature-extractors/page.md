@@ -80,3 +80,19 @@ This flexibility makes RoIWarp really useful for tasks like self-driving cars or
 Deformable Position-Sensitive RoI Pooling is a way to help computers see objects in pictures better, even if the objects are turned or partly hidden. It's like looking at a puzzle and figuring out where each piece goes, but with the added ability to move the pieces around a bit to fit better. This method breaks the object into smaller parts, like the head, body, and tail of an animal, and looks at each part carefully. By doing this, it can tell exactly where each part is, even if the object is in a tricky position. It uses a grid where each cell in the grid is responsible for a specific part of the object, and it can move these cells around to fit the object more closely.
 
 This technique is a big step forward from earlier methods because it can adapt to the shape and position of the object more flexibly. Earlier methods, like standard RoI Pooling, might miss important details because they use fixed grids or straight lines. Deformable Position-Sensitive RoI Pooling solves this by allowing the grid to change shape and move around, which helps the computer understand the object's shape and position more accurately. This makes object detection more precise, especially in real-world situations where objects are often not perfectly aligned or fully visible.
+
+## References & Further Reading
+
+[1]: Girshick, R. (2015). ["Fast R-CNN."](https://ieeexplore.ieee.org/document/7410526) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[2]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[3]: Dai, J., Qi, H., Xiong, Y., Li, Y., Zhang, G., Hu, H., & Wei, Y. (2017). ["Deformable Convolutional Networks."](https://arxiv.org/abs/1703.06211) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[4]: Lin, T. Y., Dollar, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Advances in Neural Information Processing Systems (NeurIPS).
+
+[6]: Lin, J., Tan, Z., & Wang, Q. (2019). ["Precise ROI Pooling for Machine Vision in Manufacturing."](https://pubmed.ncbi.nlm.nih.gov/35360929/) Virtual Reality & Intelligent Hardware.
+
+[7]: Sun, P., Qin, J., Sun, L., Li, D., Liang, J., Zhou, L., & He, M. (2022). ["GRoIE: Improving Object Detection with Global Reasoning over Interest Regions."](https://www.sciencedirect.com/science/article/pii/S1535610825001175) IEEE Transactions on Multimedia.

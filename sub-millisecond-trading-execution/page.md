@@ -1,6 +1,7 @@
 ---
-title: "Sub-millisecond trading execution"
-description: "Achieve lightning-fast trading with sub-millisecond execution Explore how algorithmic trading leverages advanced tech for rapid market reactions ensuring competitive edge"
+title: Sub-Millisecond Trading Execution in High-Frequency Markets
+description: Sub-millisecond trading execution uses high-speed networks and algorithms
+  to capture tiny market inefficiencies before they vanish Discover more inside
 ---
 
 

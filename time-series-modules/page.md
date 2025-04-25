@@ -134,3 +134,15 @@ print(f"Prediction for next minute: {next_minute_prediction}")
 ```
 
 By setting up such a system, you can keep your time series model updated and make real-time predictions that are useful for applications like website traffic management or stock price forecasting.
+
+## References & Further Reading
+
+[1]: Brockwell, P. J., & Davis, R. A. (2002). ["Introduction to Time Series and Forecasting"](https://link.springer.com/book/10.1007/978-3-319-29854-2). Springer.
+
+[2]: Hyndman, R. J., & Athanasopoulos, G. (2018). ["Forecasting: Principles and Practice"](https://otexts.com/fpp2/). OTexts.
+
+[3]: Hamilton, J. D. (1994). ["Time Series Analysis"](https://api.pageplace.de/preview/DT0400.9780691218632_A40156688/preview-9780691218632_A40156688.pdf). Princeton University Press.
+
+[4]: Box, G. E. P., Jenkins, G. M., & Reinsel, G. C. (2015). ["Time Series Analysis: Forecasting and Control"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118619193). Wiley.
+
+[5]: Zhang, G. P. (2003). ["Time series forecasting using a hybrid ARIMA and neural network model."](https://www.sciencedirect.com/science/article/pii/S0925231201007020) Neurocomputing, 50, 159-175.

@@ -1,6 +1,7 @@
 ---
-title: "Split and dividend-adjusted data"
-description: Explore the importance of split and dividend-adjusted data in algorithmic trading. Understand how corporate actions like stock splits and dividends impact stock prices and why adjusting historical data is essential for effective backtesting and strategy development. Learn how these adjustments provide a realistic view of stock performance over time, ensuring strategies are reliable and reflective of true market dynamics.
+title: Understanding Split And Dividend-Adjusted Stock Data
+description: Split and dividend-adjusted data ensures accurate historical stock performance
+  by smoothing out price changes from splits and payouts Discover more inside.
 ---
 
 

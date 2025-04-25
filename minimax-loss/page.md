@@ -139,3 +139,17 @@ In practical settings, like training Generative Adversarial Networks (GANs), Min
 Current research trends in Minimax Loss focus on making it work better in different machine learning tasks. One big area is improving how it's used in Generative Adversarial Networks (GANs). Researchers are trying to find new ways to balance the training of the generator and discriminator so that they both get better without one getting too far ahead. They're also looking at how to use Minimax Loss in other types of models, like reinforcement learning, to make them more robust against tricky situations. For example, in games like chess or Go, Minimax Loss helps the AI think about the worst moves the opponent could make, making it stronger and better at winning.
 
 Future directions for Minimax Loss involve making it easier to use and more effective. Researchers are working on new algorithms that can handle the challenges of Minimax Loss, like the long training times and the risk of overfitting to the hardest examples. They're also exploring how to combine Minimax Loss with other optimization techniques to create even more powerful models. By focusing on these areas, the goal is to make Minimax Loss a standard tool in machine learning, helping models perform well even when faced with the toughest challenges.
+
+## References & Further Reading
+
+[1]: Goodfellow, I. J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative adversarial nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Arjovsky, M., Chintala, S., & Bottou, L. (2017). ["Wasserstein GAN."](https://arxiv.org/abs/1701.07875) arXiv preprint arXiv:1701.07875.
+
+[3]: Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., van den Driessche, G., ... & Hassabis, D. (2016). ["Mastering the game of Go with deep neural networks and tree search."](https://www.nature.com/articles/nature16961) Nature, 529(7587), 484-489.
+
+[4]: Ian J. Goodfellow, Patrick McDaniel, and Nicolas Papernot. (2018). ["The Challenges of Adversarial Machine Learning."](https://dl.acm.org/doi/10.1145/3134599) Queue 16, 4, Article 30.
+
+[5]: Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2018). ["Towards Deep Learning Models Resistant to Adversarial Attacks."](https://arxiv.org/abs/1706.06083) arXiv preprint arXiv:1706.06083.
+
+[6]: Ian Goodfellow's experiments with GANs: ["NVIDIA's StyleGAN Architecture."](https://en.wikipedia.org/wiki/History_of_artificial_neural_networks)

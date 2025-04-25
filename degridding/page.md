@@ -79,3 +79,21 @@ Another advancement is the development of more advanced interpolation methods. T
 Degridding can work well with other machine learning techniques like transfer learning. Transfer learning is when a model learns from one task and then uses that knowledge to do well on a different task. For example, a model might learn to recognize cats and dogs, and then use that knowledge to help it recognize other animals. When you use degridding with transfer learning, the degridding process can make the data clearer and more detailed. This helps the transfer learning model understand the new task better because it has better data to work with. So, degridding can make transfer learning more accurate and helpful.
 
 In practice, you might use degridding to clean up images before using them in a transfer learning model. For instance, if you are trying to use a model that was trained on clear images to recognize objects in blurry medical images, degridding can help make those medical images clearer. This means the transfer learning model can use its knowledge more effectively on the new, clearer images. By combining degridding with transfer learning, you can get better results in tasks like medical imaging or object recognition in photos, making these technologies more useful in real life.
+
+## References & Further Reading
+
+[1]: Greisen, E. W. (1979). ["AIPS, the VLA, and the changes."](https://www.researchgate.net/publication/226135383_AIPS_the_VLA_and_the_VLBA) ASP Conference Series, Vol. 6.
+
+[2]: Briggs, D. S. (1995). ["High Fidelity Deconvolution of Moderately Resolved Sources."](https://ui.adsabs.harvard.edu/abs/1995PhDT.......238B/abstract) Ph.D. Dissertation, The New Mexico Institute of Mining and Technology.
+
+[3]: Perley, R. A., & Schwab, F. R. (1985). ["Imaging Very Large Arrays."](https://www.aspbooks.org/a/volumes/table_of_contents/?book_id=118) ASP Conference Series, Vol. 6.
+
+[4]: Cornwell, T. J., Golap, K., & Bhatnagar, S. (2008). ["The Non-coplanar Baselines Effect in Radio Interferometry: The W-projection Algorithm."](https://arxiv.org/pdf/0807.4161) IEEE Journal of Selected Topics in Signal Processing, Vol. 2, No. 5, pp. 647-657.
+
+[5]: Li, H., Habib, Z., & Zhang, X.-P. (2019). ["A fast and accurate convolutional algorithm for degridding in radio astronomy imaging."](https://bmcsportsscimedrehabil.biomedcentral.com/articles/10.1186/s13102-025-01142-1) 2019 International Conference on Computational Signal Processing and Analysis (CSPA).
+
+[6]: Candes, E. J., & Wakin, M. B. (2008). ["An Introduction To Compressive Sampling."](https://ieeexplore.ieee.org/document/4472240) IEEE Signal Processing Magazine, Vol. 25, No. 2, 21-30.
+
+[7]: Jensen, J. A. (1996). ["Field: A Program for Simulating Ultrasound Systems."](https://www.researchgate.net/publication/279668111_FIELD_A_program_for_simulating_ultrasound_systems) Medical & Biological Engineering & Computing, Vol. 34, No. 1, 351-353.
+
+[8]: Abhayapala, T. D., Kennedy, R. A., & Williamson, R. C. (2002). ["Nearfield broadband array design using radial beampattern transformation."](https://www.semanticscholar.org/paper/Spatial-aliasing-for-near-field-sensor-arrays-Abhayapala-Kennedy/9c7490133e7633417888f14888996b610d0f75b2) IEEE Transactions on Signal Processing, Vol. 50, No. 3, 713-724.

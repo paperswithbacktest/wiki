@@ -79,3 +79,17 @@ Another case study involves using Variational Optimization in natural language p
 Future developments in Variational Optimization are likely to focus on making it even easier and faster to find the best settings for machine learning models. Researchers are working on new ways to use simpler guesses, or variational distributions, to handle even more complex problems. One exciting direction is improving Normalizing Flows, which help transform simple guesses into something that can capture the complexity of the real best settings. By making these transformations more flexible and easier to reverse, we can measure how close the guess is to the real settings more accurately. This could lead to better performance in tasks like generating new images or understanding complex data. Another area of interest is developing better ways to use multiple guesses, like in Importance Weighted Autoencoders (IWAEs), to make the final guess more accurate and robust.
 
 Additionally, researchers are exploring how Variational Optimization can be used in new areas, like [reinforcement learning](/wiki/reinforcement-learning) and federated learning. In reinforcement learning, Variational Optimization could help find the best strategies for [agents](/wiki/agents) to learn from their environment more efficiently. By using a simpler guess to find the best settings, agents could learn faster and make better decisions. In federated learning, where data is spread across many devices, Variational Optimization could help combine these different data sources more effectively. By adjusting the simpler guess to make it closer to the real best settings, measured by the Kullback-Leibler (KL) divergence $$D_{KL}(q(z) || p(z|x))$$, models could learn from diverse data without needing to share it all in one place. These advancements could make machine learning more powerful and applicable to a wider range of real-world problems.
+
+## References & Further Reading
+
+[1]: Blei, D. M., Kucukelbir, A., & McAuliffe, J. D. (2017). ["Variational Inference: A Review for Statisticians."](https://arxiv.org/abs/1601.00670) Journal of the American Statistical Association, 112(518), 859-877.
+
+[2]: Kingma, D. P., & Welling, M. (2013). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[3]: Rezende, D. J., & Mohamed, S. (2015). ["Variational Inference with Normalizing Flows."](https://arxiv.org/abs/1505.05770) arXiv preprint arXiv:1505.05770.
+
+[4]: Rezende, D. J., Mohamed, S., & Wierstra, D. (2014). ["Stochastic Backpropagation and Approximate Inference in Deep Generative Models."](https://arxiv.org/abs/1401.4082) arXiv preprint arXiv:1401.4082.
+
+[5]: Ranganath, R., Gerrish, S., & Blei, D. M. (2014). ["Black Box Variational Inference."](https://arxiv.org/abs/1401.0118) In Proceedings of the 17th International Conference on Artificial Intelligence and Statistics.
+
+[6]: Burda, Y., Grosse, R., & Salakhutdinov, R. (2015). ["Importance Weighted Autoencoders."](https://arxiv.org/abs/1509.00519) arXiv preprint arXiv:1509.00519.

@@ -1,6 +1,7 @@
 ---
-title: "Spread Trading"
-description: Discover the power of Spread Trading in the world of Algo Trading. Learn about this diversified strategy's benefits, variations, and examples, as well as its integration into algo trading systems for maximized profit potential and risk reduction. Explore resources for further study and become a successful quant trader.
+title: Understanding Spread Trading Strategies Benefits and Risks
+description: Spread trading lets you profit from price differences between assets
+  while managing risk more effectively Discover more inside
 ---
 
 

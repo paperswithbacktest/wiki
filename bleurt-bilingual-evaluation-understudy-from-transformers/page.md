@@ -79,3 +79,15 @@ However, BLEURT still has some challenges. It needs a lot of computer power to w
 In the future, people might work on making BLEURT use less computer power. Right now, BLEURT needs a lot of computer power because it uses a big model called BERT to understand texts. If researchers can make BLEURT work faster, it could be easier to use for big projects. They might also try to train BLEURT on more languages so it can work better with languages it hasn't seen much before. This could help BLEURT give more accurate scores for translations in many different languages.
 
 Another thing researchers might look at is making BLEURT's scores easier to understand. Right now, it's hard to know why BLEURT gives a certain score because it looks at the meaning of texts, not just the words. If researchers can find a way to explain BLEURT's scores better, it would be easier for people to use BLEURT to improve their machine translation systems. They might also compare BLEURT with other new metrics like COMET to see which one works best for different types of texts and languages.
+
+## References & Further Reading
+
+[1]: Sellam, T., & Beam, S. (2020). ["BLEURT: Learning Robust Metrics for Text Generation."](https://aclanthology.org/2020.acl-main.704/) Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[3]: Bojar, O., Chatterjee, R., Federmann, C., Graham, Y., Haddow, B., Huck, M., ... & Zampieri, M. (2018). ["Findings of the 2018 Conference on Machine Translation (WMT18)."](https://aclanthology.org/W18-6401/) Proceedings of the Third Conference on Machine Translation.
+
+[4]: Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., & Artzi, Y. (2020). ["BERTScore: Evaluating Text Generation with BERT."](https://arxiv.org/abs/1904.09675) In Proceedings of the 8th International Conference on Learning Representations (ICLR).
+
+[5]: Popović, M. (2015). ["chrF: character n-gram F-score for automatic MT evaluation."](https://aclanthology.org/W15-3049/) Proceedings of the Tenth Workshop on Statistical Machine Translation.

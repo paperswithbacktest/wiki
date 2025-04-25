@@ -81,3 +81,15 @@ Another technique is to use "dynamic expert allocation." This means the model ca
 Recent research in Mixture of Experts (Moe) has focused on making these models more efficient and effective. One big development is the use of sparse gating, which means the gating network only picks a few experts to work on each piece of data. This makes the model faster and uses less computer power. For example, researchers at Google used sparse gating in their Switch Transformers, which helped the model handle big datasets better. Another development is dynamic expert allocation, where the model can change which experts it uses based on the data it sees. This helps the model adapt to new data and make better predictions.
 
 These developments have had a big impact on the field of machine learning. Sparse gating has made it possible to use Moe models on very large datasets, like those used in natural language processing and image recognition. This has led to better performance in these areas, as the models can focus on the most important parts of the data. Dynamic expert allocation has also helped Moe models be more flexible and adapt to changing data, which is important for real-world applications where data can change a lot over time. Overall, these research developments have made Moe models more practical and useful for a wide range of problems.
+
+## References & Further Reading
+
+[1]: Jacobs, R. A., Jordan, M. I., Nowlan, S. J., & Hinton, G. E. (1991). ["Adaptive mixtures of local experts."](https://ieeexplore.ieee.org/abstract/document/6797059) Neural computation, 3(1), 79-87.
+
+[2]: Shazeer, N., Mirhoseini, A., Maziarz, K., Davis, A., Le, Q., Hinton, G., & Dean, J. (2017). ["Outrageously large neural networks: The sparsely-gated mixture-of-experts layer."](https://arxiv.org/abs/1701.06538) arXiv preprint arXiv:1701.06538.
+
+[3]: Fedus, W., Zoph, B., & Shazeer, N. (2021). ["Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity."](https://arxiv.org/abs/2101.03961) arXiv preprint arXiv:2101.03961.
+
+[4]: Eigen, D., Ranzato, M., Sutskever, I., & Ferenc Huszár. (2013). ["Learning Factored Representations in a Deep Mixture of Experts."](https://arxiv.org/abs/1312.4314) arXiv preprint arXiv:1312.4314.
+
+[5]: Jordan, M. I., & Jacobs, R. A. (1994). ["Hierarchical mixtures of experts and the EM algorithm."](https://psycnet.apa.org/record/1994-47406-001) Neural Computation, 6(2), 181-214.

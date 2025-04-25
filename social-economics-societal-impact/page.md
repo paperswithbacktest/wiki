@@ -1,6 +1,7 @@
 ---
-title: "Social Economics and Its Societal Impact"
-description: "Explore the societal impacts of economic theory, social economics, and algorithmic trading, highlighting the interplay between economies, societies, and technology."
+title: Key Principles And Policy Impacts Of Social Economics
+description: Social economics examines how social norms trust and community values
+  shape inclusive policies that reduce economic inequality Discover more inside
 ---
 
 

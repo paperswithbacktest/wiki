@@ -81,3 +81,19 @@ One important thing to consider is how to handle different word forms and gramma
 To make Rouge-N better at checking how good a summary is, some people have come up with new ideas. One idea is to use something called word embeddings. These are ways to understand the meaning of words by turning them into numbers. By using word embeddings, Rouge-N can see if words in the summary mean the same thing as words in the original text, even if they are not the exact same words. This helps Rouge-N handle synonyms and paraphrasing better. Another idea is to use a technique called soft matching, where words that are similar but not exactly the same can still count as a match. This makes Rouge-N more flexible and able to give a better score to summaries that capture the main ideas in different words.
 
 Another way to improve Rouge-N is to change how it counts the matches. Instead of just looking at how many N-grams match, some people suggest using a weighted score. This means that some N-grams could be more important than others, so they get a higher score when they match. The formula for this weighted Rouge-N could be something like $$ \text{Weighted Rouge-N} = \frac{\sum (\text{Weight of overlapping N-gram})}{\sum (\text{Weight of N-grams in reference summary})} $$. This can help focus on the most important parts of the text. Also, some researchers have tried combining Rouge-N with other metrics, like Rouge-L and Rouge-S, to get a fuller picture of how good a summary is. By using these advanced techniques, Rouge-N can become a more powerful tool for checking the quality of summaries.
+
+## References & Further Reading
+
+[1]: Lin, C.-Y. (2004). ["ROUGE: A Package for Automatic Evaluation of Summaries."](https://aclanthology.org/W04-1013/) In Text Summarization Branches Out: Proceedings of the ACL-04 Workshop.
+
+[2]: Papineni, K., Roukos, S., Ward, T., & Zhu, W.-J. (2002). ["BLEU: a Method for Automatic Evaluation of Machine Translation."](https://aclanthology.org/P02-1040/) Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics.
+
+[3]: Lin, C.-Y., & Hovy, E. (2003). ["Automatic Evaluation of Summaries Using N-gram Co-occurrence Statistics."](https://aclanthology.org/N03-1020/) In Proceedings of the 2003 Conference of the North American Chapter of the Association for Computational Linguistics on Human Language Technology.
+
+[4]: Ganesan, K. (2018). ["Rouge 2.0: Updated and Improved Measures for Evaluation of Summarization Tasks."](https://arxiv.org/abs/1803.01937) arXiv preprint arXiv:1803.01937.
+
+[5]: Owczarzak, K., & Dang, H. T. (2010). ["Overview of the TAC 2010 Summarization Track."](https://tac.nist.gov/publications/2010/presentations/TAC2010_Summ_Overview.pdf) In Proceedings of the Third Text Analysis Conference (TAC).
+
+[6]: Graham, Y., Baldwin, T., Moffat, A., & Zobel, J. (2015). ["Can Machine Translation Systems be Evaluated by the Crowd Alone?"](https://www.cambridge.org/core/journals/natural-language-engineering/article/can-machine-translation-systems-be-evaluated-by-the-crowd-alone/E29DA2BC8E6B99AA1481CC92FAB58462) Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 2: Short Papers).
+
+[7]: Liu, Y., & Lapata, M. (2019). ["Text Summarization with Pretrained Encoders."](https://arxiv.org/abs/1908.08345) Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing.

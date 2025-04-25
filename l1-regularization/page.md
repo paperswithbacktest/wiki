@@ -126,3 +126,15 @@ For example, if you're trying to predict house prices and you have many features
 L1 regularization can be combined with other regularization techniques to create more complex models that benefit from the strengths of each method. For example, Elastic Net regularization combines L1 and L2 regularization. L1 regularization, with the penalty term $$ \lambda_1 \sum_{i=1}^{n} |w_i| $$, encourages sparsity by making some coefficients zero, which helps with feature selection. L2 regularization, with the penalty term $$ \lambda_2 \sum_{i=1}^{n} w_i^2 $$, makes all coefficients smaller without making them zero, which helps prevent overfitting by reducing the impact of all features. By using both L1 and L2 penalties, Elastic Net can balance feature selection and overall model complexity, making it useful in situations where there are many correlated features.
 
 In practice, implementing Elastic Net in a model can be done using libraries like scikit-learn in Python. For instance, you can use the `ElasticNet` class, which allows you to set both `alpha` (which controls the overall strength of regularization) and `l1_ratio` (which determines the balance between L1 and L2 regularization). By tuning these hyperparameters, you can adjust the model to achieve the right balance between sparsity and generalization. This can lead to a model that is both interpretable, due to the feature selection from L1 regularization, and robust, thanks to the overall complexity reduction from L2 regularization.
+
+## References & Further Reading
+
+[1]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://academic.oup.com/jrsssb/article/58/1/267/7027929) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[2]: Zou, H., & Hastie, T. (2005). ["Regularization and Variable Selection via the Elastic Net."](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482) Journal of the Royal Statistical Society: Series B (Statistical Methodology), 67(2), 301-320.
+
+[3]: Hastie, T., Tibshirani, R., & Wainwright, M. (2015). ["Statistical Learning with Sparsity: The Lasso and Generalizations."](https://www.taylorfrancis.com/books/mono/10.1201/b18401/statistical-learning-sparsity-trevor-hastie-martin-wainwright-robert-tibshirani) CRC Press.
+
+[4]: Zou, H., & Zhang, H. H. (2009). ["On the adaptive elastic net with a diverging number of parameters."](https://projecteuclid.org/journals/annals-of-statistics/volume-37/issue-4/On-the-adaptive-elastic-net-with-a-diverging-number-of/10.1214/08-AOS625.full) The Annals of Statistics, 37(4), 1733-1751.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

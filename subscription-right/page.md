@@ -1,6 +1,7 @@
 ---
-title: "Subscription Right"
-description: "Explore key financial concepts like subscription rights and algorithmic trading to enhance your investment strategies in the evolving financial markets."
+title: 'Subscription Rights Explained: Purpose, Benefits, and Risks'
+description: Subscription rights let shareholders maintain their ownership percentage
+  and secure new shares before dilution kicks in Discover more inside
 ---
 
 

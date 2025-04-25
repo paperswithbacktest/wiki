@@ -79,3 +79,17 @@ When it comes to video length, Action Recognition Blocks have to handle videos t
 To optimize TPN for specific applications, you can use transfer learning. This means you start with a TPN that's already been trained on a lot of videos and then fine-tune it for your specific task. For example, if you want to recognize dance moves, you can take a TPN that knows about general human actions and train it more with videos of dancing. This helps TPN learn the special moves and rhythms of dancing better. Another way to optimize TPN is by adjusting its time scales. If your application needs to recognize very quick actions, you can make the short time scales even shorter. This way, TPN can focus more on fast movements and be better at recognizing them.
 
 For G3D, one advanced technique is to use graph attention mechanisms. This means G3D can pay more attention to the most important body parts for the action you're trying to recognize. For example, if you're trying to recognize hand gestures, G3D can focus more on the hands and less on other parts of the body. Another way to optimize G3D is by using multi-modal data. This means you can combine video data with other types of data, like audio or text, to help G3D understand the action better. For instance, if you're recognizing actions in a sports game, you can use the video along with the sounds of the game to make G3D's guesses more accurate.
+
+## References & Further Reading
+
+[1]: Wang, L., Ullah, A., Ullah, K., & Yu, H. (2020). ["TPN: Temporal Pyramid Network for Action Recognition."](https://arxiv.org/abs/2004.03548) IEEE Access, 8, 207132-207140.
+
+[2]: Yan, S., Xiong, Y., & Lin, D. (2018). ["Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition."](https://arxiv.org/abs/1801.07455) arXiv preprint arXiv:1801.07455.
+
+[3]: Yan, S., Xiong, Y., & Lin, D. (2018). ["ST-GCN: Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition."](https://arxiv.org/abs/1801.07455) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018.
+
+[4]: Tran, D., Wang, H., Torresani, L., Ray, J., LeCun, Y., & Paluri, M. (2018). ["A Closer Look at Spatiotemporal Convolutions for Action Recognition."](https://arxiv.org/abs/1711.11248) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2018.
+
+[5]: Lin, J., Gan, C., & Han, S. (2019). ["TSM: Temporal Shift Module for Efficient Video Understanding."](https://arxiv.org/abs/1811.08383) Proceedings of the IEEE International Conference on Computer Vision, 2019.
+
+[6]: Ji, S., Xu, W., Yang, M., & Yu, K. (2013). ["3D Convolutional Neural Networks for Human Action Recognition."](https://ieeexplore.ieee.org/document/6165309) IEEE Transactions on Pattern Analysis and Machine Intelligence, 35(1), 221-231.

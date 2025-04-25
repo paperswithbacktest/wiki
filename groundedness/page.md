@@ -81,3 +81,19 @@ Another trend is the use of continuous learning to keep models grounded over tim
 To integrate groundedness into existing machine learning frameworks, you first need to make sure the model uses real and reliable data. This means collecting good information from the real world, like weather data from weather stations for a weather prediction model. Once you have this data, you train the model on it so it learns to make predictions based on facts, not just patterns that might not make sense. You can also use techniques like feature importance analysis to help the model explain its decisions in a way that people can understand. This makes the model's predictions more trustworthy because people can see that they are based on real information.
 
 Another way to integrate groundedness is by making sure the model keeps learning from new real-world data over time. This is called continuous learning, and it helps the model stay accurate and relevant as the world changes. For example, if a model is predicting stock prices, it needs to keep updating itself with the latest financial data to make good predictions. By using these methods, you can make sure that existing machine learning frameworks stay grounded and provide reliable, trustworthy outputs.
+
+## References & Further Reading
+
+[1]: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). ["'Why Should I Trust You?' Explaining the Predictions of Any Classifier."](https://dl.acm.org/doi/10.1145/2939672.2939778) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[2]: Doshi-Velez, F., & Kim, B. (2017). ["Towards a Rigorous Science of Interpretable Machine Learning."](https://arxiv.org/abs/1702.08608) arXiv preprint arXiv:1702.08608.
+
+[3]: Lipton, Z. C. (2016). ["The Mythos of Model Interpretability."](https://arxiv.org/abs/1606.03490) arXiv preprint arXiv:1606.03490.
+
+[4]: Caruana, R., Lou, Y., Gehrke, J., Koch, P., Sturm, M., & Elhadad, N. (2015). ["Intelligible Models for Healthcare: Predicting Pneumonia Risk and Hospital 30-day Readmission."](https://dl.acm.org/doi/10.1145/2783258.2788613) Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[5]: Marcus, G. (2018). ["Deep Learning: A Critical Appraisal."](https://arxiv.org/abs/1801.00631) arXiv preprint arXiv:1801.00631.
+
+[6]: Rajkomar, A., Dean, J., & Kohane, I. (2019). ["Machine Learning in Medicine."](https://pubmed.ncbi.nlm.nih.gov/30943338/) The New England Journal of Medicine.
+
+[7]: Zhang, Q., & Zhu, S. C. (2018). ["Visual Interpretability for Deep Learning: A Survey."](https://arxiv.org/abs/1802.00614) arXiv preprint arXiv:1802.00614.

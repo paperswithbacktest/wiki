@@ -81,3 +81,19 @@ To do this, you can use tools and methods to keep track of the model's performan
 Advanced statistical methods help researchers understand and fix coverage bias in machine learning. One common method is propensity score matching, which tries to balance the data so that different groups are represented fairly. This method uses a score called the propensity score, which shows how likely someone is to be included in the data based on their characteristics. By matching people with similar propensity scores, researchers can create a more balanced dataset. This helps the model learn from a wider variety of examples, reducing coverage bias. Another method is inverse probability weighting, where each data point is given a weight based on how likely it was to be included in the dataset. This can help correct for underrepresented groups by giving them more importance in the model's training.
 
 Another advanced method is the use of causal inference techniques, which help understand how different factors affect the outcomes the model is trying to predict. By using these techniques, researchers can see if the model's predictions are biased because of missing data or other issues. For example, they might use a technique called doubly robust estimation, which combines both outcome regression and propensity score methods to get a more accurate estimate of the model's performance across different groups. This helps identify where coverage bias might be affecting the model and suggests ways to fix it. By using these advanced statistical methods, researchers can make their models fairer and more accurate, ensuring they work well for everyone.
+
+## References & Further Reading
+
+[1]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) Proceedings of Machine Learning Research, 81:1-15.
+
+[2]: Obermeyer, Z., & Mullainathan, S. (2019). ["Dissecting racial bias in an algorithm used to manage the health of populations."](https://pubmed.ncbi.nlm.nih.gov/31649194/) Science, 366(6464), 447-453.
+
+[3]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) 
+
+[4]: Mitchell, M., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). ["Algorithmic Fairness: Choices, Assumptions, and Definitions."](https://www.annualreviews.org/content/journals/10.1146/annurev-statistics-042720-125902) Annual Review of Statistics and Its Application, 8, 141-163.
+
+[5]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness Through Awareness."](https://arxiv.org/abs/1104.3913) Proceedings of the 3rd Innovations in Theoretical Computer Science Conference (ITCS).
+
+[6]: Chen, I., Szolovits, P., & Ghassemi, M. (2019). ["Can AI Help Reduce Disparities in General Medical and Mental Health Care?"](https://journalofethics.ama-assn.org/article/can-ai-help-reduce-disparities-general-medical-and-mental-health-care/2019-02) AMA Journal of Ethics, 21(2), E167-179.
+
+[7]: Suresh, H., & Guttag, J. V. (2021). ["A Framework for Understanding Unintended Consequences of Machine Learning."](https://arxiv.org/abs/1901.10002) Communications of the ACM, 64(8), 62-71.

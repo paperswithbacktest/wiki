@@ -81,3 +81,17 @@ However, deep learning models can also make confirmation bias worse if the train
 One notable case study where confirmation bias significantly impacted machine learning outcomes is in the development of facial recognition technology. A study by Joy Buolamwini and Timnit Gebru in 2018 showed that many facial recognition systems performed worse on darker-skinned and female faces. This was because the training data used to develop these systems was biased towards lighter-skinned and male faces. As a result, the models learned to recognize these faces better, confirming the initial bias in the data. This led to unfair and inaccurate outcomes, especially for people of color and women, highlighting the need for diverse and representative datasets in machine learning.
 
 Another example comes from the healthcare sector, where a machine learning algorithm used to predict patient health risks was found to be biased. The algorithm, developed by a major U.S. health company, was trained on historical healthcare data that reflected existing biases in healthcare access and treatment. As a result, the model predicted higher health risks for white patients than for black patients, even when both groups had similar health needs. This was because the model learned to confirm the bias in the data, which showed that white patients historically received more healthcare services. This case underscores the importance of examining and correcting for biases in training data to ensure fair and accurate predictions in critical applications like healthcare.
+
+## References & Further Reading
+
+[1]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) In Proceedings of the 1st Conference on Fairness, Accountability and Transparency (FAT* 2018).
+
+[2]: Mitchell, T. M. (1997). ["Machine Learning."](https://www.cs.cmu.edu/~tom/mlbook.html) McGraw-Hill.
+
+[3]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) Available online: http://fairmlbook.org.
+
+[4]: Domingos, P. (2012). ["A Few Useful Things to Know About Machine Learning."](https://courses.cs.duke.edu/spring20/compsci527/papers/Domingos.pdf) Communications of the ACM, 55(10), 78-87.
+
+[5]: Chong, Z., & Davis, J. (2020). ["Confirming Confirmation Bias in Deep Learning for Trustworthy Autonomous Systems."](https://arxiv.org/abs/1908.02983) Frontiers in Artificial Intelligence.
+
+[6]: Obermeyer, Z., Powers, B., Vogeli, C., & Mullainathan, S. (2019). ["Dissecting racial bias in an algorithm used to manage the health of populations."](https://pubmed.ncbi.nlm.nih.gov/31649194/) Science, 366(6464), 447-453.

@@ -79,3 +79,23 @@ The main benefit of deformable convolutions is that they make the network better
 Selective kernel convolution and attention-augmented convolution are advanced techniques that help neural networks understand images better than traditional methods. Selective kernel convolution works by letting the network choose the best way to look at different parts of the image. Imagine you have different sizes of magnifying glasses, and the network picks the right one for each part of the picture. This helps the network focus on important details, like the edges of objects or the way things are arranged. The formula for selective kernel convolution can be written as $$ \text{SK Convolution}(X) = \sum_{k} a_k \cdot \text{Conv}(X, K_k) $$, where $$ X $$ is the input, $$ K_k $$ are different kernels, and $$ a_k $$ are the weights that the network learns to choose the best kernel.
 
 Attention-augmented convolution adds another layer of smartness to the network by letting it pay more attention to certain parts of the image. It's like the network can highlight the important parts of the picture before looking at them closely. This helps the network understand the overall context of the image better, which is really helpful for tasks like understanding what's happening in a scene or tracking objects that move around. By combining traditional convolution with attention mechanisms, attention-augmented convolution can make the network more accurate and efficient. This means the network can work faster and use less memory, which is great for running on devices like phones or computers with limited resources.
+
+## References & Further Reading
+
+[1]: Lecun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-based learning applied to document recognition."](https://ieeexplore.ieee.org/document/726791) Proceedings of the IEEE, 86(11), 2278-2324.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Communications of the ACM, 60(6), 84-90.
+
+[3]: Chollet, F. (2017). ["Xception: Deep Learning with Depthwise Separable Convolutions."](https://ieeexplore.ieee.org/document/8099678) arXiv preprint arXiv:1610.02357.
+
+[4]: Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., Andreetto, M., & Adam, H. (2017). ["MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications."](https://arxiv.org/abs/1704.04861) arXiv preprint arXiv:1704.04861.
+
+[5]: Yu, F., & Koltun, V. (2016). ["Multi-Scale Context Aggregation by Dilated Convolutions."](https://arxiv.org/abs/1511.07122) arXiv preprint arXiv:1511.07122.
+
+[6]: Redmon, J., & Farhadi, A. (2018). ["YOLOv3: An Incremental Improvement."](https://arxiv.org/abs/1804.02767) arXiv preprint arXiv:1804.02767.
+
+[7]: Wang, X., Girshick, R., Gupta, A., & He, K. (2018). ["Non-local Neural Networks."](https://arxiv.org/abs/1711.07971) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[8]: Dai, J., Qi, H., Xiong, Y., Li, Y., Zhang, G., Hu, H., & Wei, Y. (2017). ["Deformable Convolutional Networks."](https://arxiv.org/abs/1703.06211) arXiv preprint arXiv:1703.06211.
+
+[9]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems (NeurIPS).

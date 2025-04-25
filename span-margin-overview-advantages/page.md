@@ -1,6 +1,7 @@
 ---
-title: "SPAN Margin Overview and Advantages"
-description: "Understand SPAN Margin and its advantages for risk management in algorithmic trading ensuring traders maintain capital for potential losses executing strategies."
+title: SPAN Margin and Portfolio Risk Management Explained
+description: SPAN margin assesses portfolio risk using scenario analysis and offsets
+  to set fair margin requirements and protect against losses Discover more inside.
 ---
 
 

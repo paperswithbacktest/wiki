@@ -1,6 +1,7 @@
 ---
-title: "Structured Investment Products"
-description: "Explore structured investment products and algorithmic trading in modern finance Uncover their benefits risks and strategies for optimizing financial outcomes"
+title: Structured Investment Products Guide for Customizing Returns
+description: Structured Investment Products help you balance risk and return with
+  tailored capital protection income and growth strategies Discover more inside
 ---
 
 

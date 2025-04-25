@@ -79,3 +79,17 @@ Another technique is using optical flow algorithms like MaskFlownet, which can t
 To evaluate and compare the performance of different feature matching methods, you can look at how well they work in real situations. One way to do this is by using metrics like precision and recall. Precision tells you how many of the matches the method found are actually correct, while recall tells you how many of the correct matches the method was able to find. For example, if you're trying to match features between two images of a building, you want a method that can find most of the correct matches (high recall) and not too many wrong ones (high precision). You can also measure the speed of the method, which is important for applications that need to work in real-time, like tracking objects in videos.
 
 Another way to compare feature matching methods is by testing them on different kinds of images or data sets. You might use images with different lighting conditions, angles, or even scenes with lots of objects to see how well each method handles these challenges. For instance, you could test how well a method matches features in a busy street scene versus a simple indoor setting. By running these tests and comparing the results, you can see which method is best for your specific needs. This helps you choose the right feature matching method for tasks like object recognition, tracking, or image stitching in practical applications.
+
+## References & Further Reading
+
+[1]: Lowe, D. G. (2004). ["Distinctive Image Features from Scale-Invariant Keypoints."](https://link.springer.com/article/10.1023/B:VISI.0000029664.99615.94) International Journal of Computer Vision, 60(2), 91-110.
+
+[2]: Bay, H., Ess, A., Tuytelaars, T., & Van Gool, L. (2008). ["SURF: Speeded Up Robust Features."](https://www.sciencedirect.com/science/article/pii/S1077314207001555) Computer Vision and Image Understanding, 110(3), 346-359.
+
+[3]: Dosovitskiy, A., Fischer, P., Ilg, E., Häusser, P., Hazirbas, C., Golkov, V., . . . & Brox, T. (2015). ["Flownet: Learning Optical Flow with Convolutional Networks."](https://arxiv.org/abs/1504.06852) In Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[4]: Rosten, E., & Drummond, T. (2006). ["Machine Learning for High-Speed Corner Detection."](https://link.springer.com/chapter/10.1007/11744023_34) In European Conference on Computer Vision (ECCV), 430-443.
+
+[5]: Mikolajczyk, K., & Schmid, C. (2005). ["A Performance Evaluation of Local Descriptors."](https://ieeexplore.ieee.org/document/1498756) IEEE Transactions on Pattern Analysis and Machine Intelligence, 27(10), 1615-1630.
+
+[6]: Zhang, L., & Koch, R. (2012). ["An Efficient and Robust Line Segment Matching Approach Based on LBD Descriptor and Pairwise Geometric Consistency."](https://www.sciencedirect.com/science/article/pii/S1047320313000874) Journal of Visual Communication and Image Representation, 24(7), 794-805.

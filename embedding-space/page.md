@@ -97,3 +97,17 @@ Another technique is to use "contrastive learning" to make the embedding space b
 Embedding spaces can help with transfer learning by letting you use the same set of numbers to understand different tasks. Imagine you've trained a model to understand words in one language. The numbers that represent those words can be used to help the model learn another language faster. This is because the embedding space already knows how words relate to each other, so the model can start with a good understanding and just needs to learn the new language's specifics. For example, if you're using a model like BERT, the embeddings it creates can be used to help with tasks like language translation or sentiment analysis, making the learning process quicker and more efficient.
 
 Another way embedding spaces help with transfer learning is by letting you use what the model learned from one type of data to understand a different type. For instance, if you've trained a model to recognize objects in pictures, the numbers that represent those objects can be used to help the model understand videos. The embedding space can show how objects in pictures relate to each other, and this knowledge can be transferred to videos where objects move around. By using the same embeddings, the model can learn new tasks faster because it already knows a lot about how the data works. This makes transfer learning easier and more effective.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[2]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-HLT 2019).
+
+[4]: Maaten, L. V. D., & Hinton, G. (2008). ["Visualizing Data using t-SNE."](https://jmlr.org/papers/v9/vandermaaten08a.html) Journal of Machine Learning Research, 9, 2579-2605.
+
+[5]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[6]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.

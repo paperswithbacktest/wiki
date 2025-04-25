@@ -81,3 +81,15 @@ Preprocessing the data is also key to reducing bias. This means cleaning and bal
 Ongoing monitoring and updating of machine learning models are key to managing Group Attribution Bias. By regularly checking how the model is doing, you can spot if it's treating different groups unfairly. For example, if a model for loan approvals starts giving better terms to one group over another, you can catch this early. You can use fairness metrics to see if the model is making the same kinds of decisions for everyone. If you find bias, you can fix it by retraining the model with more balanced data or by tweaking the model itself to be fairer.
 
 Updating the model often helps keep it fair over time. As new data comes in, the world changes, and the model needs to keep up. If you don't update the model, it might keep using old patterns that are no longer fair. By adding new, diverse data and retraining the model, you make sure it learns about current trends and treats everyone the same. This way, the model stays accurate and fair, reducing Group Attribution Bias and helping to make sure everyone gets a fair shot.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) A book on fairness techniques in machine learning.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys.
+
+[3]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness through Awareness."](https://arxiv.org/abs/1104.3913) Proceedings of the 3rd Innovations in Theoretical Computer Science Conference.
+
+[4]: Chouldechova, A., & Roth, A. (2020). ["A Snapshot of the Frontiers of Fairness in Machine Learning."](https://dl.acm.org/doi/10.1145/3376898) Communications of the ACM, 63(5), pp. 82-89.
+
+[5]: Corbett-Davies, S., & Goel, S. (2018). ["The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning."](https://arxiv.org/abs/1808.00023) arXiv preprint.

@@ -81,3 +81,17 @@ Another way to optimize performance is by using hardware acceleration. This mean
 Handling model versioning and updates in a serving environment is important to keep the system working well. You need to keep track of different versions of your model so you know which one is being used and can go back to an old version if something goes wrong. One way to do this is by using a version control system, like Git, which helps you manage different versions of your model. When you update the model, you can create a new version and test it to make sure it works better than the old one. If it does, you can switch to the new version without stopping the service.
 
 To update the model without causing problems, you can use a technique called "canary deployment." This means you start serving the new model to just a few users to see how it works. If everything is okay, you can slowly start using the new model for more and more users until everyone is using it. This helps you make sure the new model is good before everyone starts using it. Another way to handle updates is by using "A/B testing," where you serve the new model to some users and the old model to others. This lets you compare how well the new model works and decide if you should keep it or go back to the old one.
+
+## References & Further Reading
+
+[1]: Lantz, B. (2019). ["Machine Learning with R: Expert techniques for predictive modeling."](https://books.google.com/books/about/Machine_Learning_with_R.html?id=iNuSDwAAQBAJ) Packt Publishing.
+
+[2]: O'Reilly Media. (2020). ["Serving Machine Learning Models: A Guide to Architecture, Stream Processing Engines, and Frameworks."](https://www.oreilly.com/library/view/serving-machine-learning/9781492024095/)
+
+[3]: Yu, L., & Zhang, Q. (2023). ["Efficient Serving of Machine Learning Models Using TensorFlow Serving and Kubernetes."](https://ych133.github.io/) Proceedings of the ACM on Computing Surveys.
+
+[4]: ["TensorFlow Serving: High-Performance Machine Learning Models on an Infrastructure Designed for Flexibility and Scalability"](https://github.com/hfp/tensorflow-serving) TensorFlow.org.
+
+[5]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) by Aurélien Géron. 
+
+[6]: Hanif, Y. & Yang, Z. (2018). ["Model Lifecycle Management: Deployment to Serving."](https://link.springer.com/article/10.1007/s10664-020-09894-9) arXiv preprint arXiv:1801.06444.

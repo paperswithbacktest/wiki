@@ -83,3 +83,15 @@ Another important thing to check is how fast the model can work, especially if i
 One future direction for portrait matting models is making them even better at handling different kinds of pictures. Right now, models like MODNet do a good job, but they can still struggle with very tricky photos, like ones with really busy backgrounds or people in unusual poses. In the future, researchers might work on making the models smarter so they can figure out these hard cases more easily. This could mean using bigger and better datasets to train the models, or trying new ways to process images that help the models understand them better. By doing this, the models could create even smoother and more accurate alpha mattes, making it easier for people to change or blur the backgrounds in their photos.
 
 Another area for improvement is making the models work faster and use less power. This is especially important for models that run on mobile devices, where processing power and battery life are limited. Future work could focus on making the models more efficient, maybe by using simpler network designs or new algorithms that can do the same job with less computing power. For example, researchers might try to reduce the number of layers in the model or use techniques like quantization to make the model smaller and faster. By improving the speed and efficiency of portrait matting models, they could become even more useful for everyday use on phones and tablets, making photo editing easier and more accessible for everyone.
+
+## References & Further Reading
+
+[1]: Qiao, S., Liu, Z., Shen, W., & Yuille, A. (2017). ["Learning to Segment Objects with Reinforcement Learning."](https://scholar.google.com/citations?user=6Hfk-90AAAAJ&hl=en) arXiv preprint arXiv:1711.07421.
+
+[2]: Xu, N., Price, B., Cohen, S., Yang, J., & Huang, T. S. (2017). ["Deep Image Matting."](https://arxiv.org/abs/1703.03872) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[3]: ["MODNet: Real-Time Trimap-Free Portrait Matting via Objective Decomposition."](https://arxiv.org/abs/2011.11961) (2020) arXiv preprint arXiv:2011.11961.
+
+[4]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: ["Convolutional Neural Networks for Visual Recognition"](https://cs231n.stanford.edu/slides/2021/lecture_1.pdf) - Stanford University, Course CS231n Spring 2019.

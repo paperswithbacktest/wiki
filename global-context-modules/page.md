@@ -81,3 +81,15 @@ In terms of effectiveness, Global Context Modules are great at handling long-ran
 In the future, we can expect Global Context Modules to become even more efficient and powerful. Researchers are working on new ways to make these modules use less computer power while still helping models understand data better. One idea is to use smarter ways to create the context vector, like focusing only on the most important parts of the data. This can make the modules faster and use less memory. Another idea is to combine Global Context Modules with other advanced techniques, like attention mechanisms in Transformer models. This could help the models understand both the big picture and the small details at the same time, making them even better at tasks like understanding pictures or texts.
 
 We might also see Global Context Modules being used in more types of neural networks and for more kinds of tasks. Right now, they are mostly used in image recognition and language understanding, but in the future, they could help with things like predicting how diseases spread or understanding how people behave. As computers get faster and better, it will be easier to use these modules without slowing things down too much. This means that more people and companies will be able to use Global Context Modules to make their models work better, leading to new discoveries and improvements in many fields.
+
+## References & Further Reading
+
+[1]: Cao, Y., Xu, J., Lin, S., Wei, F., & Hu, H. (2019). ["GCNet: Non-Local Networks Meet Squeeze-Excitation Networks and Beyond."](https://arxiv.org/abs/1904.11492) arXiv:1904.11492.
+
+[2]: Wang, X., Girshick, R., Gupta, A., & He, K. (2018). ["Non-local Neural Networks."](https://arxiv.org/abs/1711.07971) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Hu, J., Shen, L., Albanie, S., Sun, G., & Wu, E. (2020). ["Squeeze-and-Excitation Networks."](https://arxiv.org/abs/1709.01507) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[4]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[5]: Lin, Z., Feng, M., Santos, C. N. d., Yu, M., Xiang, B., Zhou, B., & Bengio, Y. (2017). ["A Structured Self-attentive Sentence Embedding."](https://arxiv.org/abs/1703.03130) arXiv:1703.03130.

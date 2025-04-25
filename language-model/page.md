@@ -83,3 +83,15 @@ Another way to evaluate a language model is by using human judgments. This means
 Language models can have ethical problems and biases. They learn from a lot of text, and if that text has unfair ideas or wrong information, the model can learn those too. For example, if the text used to train the model often talks about certain jobs as being for men or women, the model might think that's true and say the same thing. This can make the model treat people unfairly. Also, if the model learns from text that has wrong or harmful ideas, it might share those ideas with people who use it. This is why it's important to check the text used to train the model and make sure it's fair and correct.
 
 Another big problem is privacy. Language models can sometimes remember and share personal information from the text they see. This can be a big problem if the model uses data from private messages or emails. To fix this, people who make language models need to be careful about what data they use and how they use it. They need to make sure they don't share private information and that they follow rules about data privacy. By thinking about these ethical issues and working to fix them, we can make language models that are fair and safe for everyone to use.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2009). ["Speech and Language Processing."](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) Prentice Hall.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[5]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Morgan & Claypool Publishers.

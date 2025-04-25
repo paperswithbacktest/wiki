@@ -99,3 +99,15 @@ You can use the numbers from the confusion matrix to calculate things like accur
 A confusion matrix is really helpful for understanding how well a model is doing, but it has some limits. One big problem is that it can be hard to read when your data has a lot more examples of one class than another, which we call class imbalance. If most of your data is one class, like if almost all your emails are not spam, a model that always guesses "not spam" might look like it's doing well because it gets a lot of guesses right. But it will miss all the spam emails, which is a big problem. The confusion matrix won't show this as clearly as other tools like precision-recall curves or ROC curves, which can handle class imbalance better.
 
 Another limit is that a confusion matrix only shows you how the model did on the data you used to make it. It might not tell you how well the model will do with new data it hasn't seen before. Also, the confusion matrix doesn't give you a full picture of how good your model is because it doesn't show things like how confident the model is in its guesses or how much the guesses change when you change the data a little bit. For these reasons, while a confusion matrix is a good starting point, you should use other ways of checking your model too, like cross-validation and looking at other metrics, to get a better idea of how well it will work in the real world.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.researchgate.net/publication/222511520_Introduction_to_ROC_analysis) Pattern Recognition Letters, 27(8), 861-874.
+
+[2]: Sokolova, M., & Lapalme, G. (2009). ["A systematic analysis of performance measures for classification tasks."](https://www.sciencedirect.com/science/article/pii/S0306457309000259) Information Processing & Management, 45(4), 427-437.
+
+[3]: Powers, D. M. (2011). ["Evaluation: From precision, recall and F-measure to ROC, informedness, markedness and correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[4]: Davis, J., & Goadrich, M. (2006). ["The relationship between Precision-Recall and ROC curves."](https://dl.acm.org/doi/10.1145/1143844.1143874) Proceedings of the 23rd international conference on Machine learning, 233-240.
+
+[5]: Van Rijsbergen, C.J. (1979). ["Information Retrieval,"](https://openlib.org/home/krichel/courses/lis618/readings/rijsbergen79_infor_retriev.pdf) 2nd ed. Butterworth-Heinemann.

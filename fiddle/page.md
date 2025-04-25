@@ -81,3 +81,15 @@ In the retail industry, a company used Fiddle to enhance its recommendation engi
 Fiddle can help you use advanced techniques to make your machine learning models better. One way is by using hyperparameter tuning. This means trying different settings for your model to see which ones make it work the best. Fiddle makes this easy because you can quickly change the settings and see how it affects your model's performance. You can use techniques like grid search or random search to try many different combinations of settings. This helps you find the best settings without doing a lot of work by hand. For example, if you are using a [neural network](/wiki/neural-network), you can try different values for the learning rate or the number of layers to see what works best.
 
 Another advanced technique you can use with Fiddle is ensemble methods. This means combining different models to make a better one. Fiddle lets you try out different ways to combine models, like voting or averaging their predictions. This can make your model more accurate because it uses the strengths of different models. For example, you might combine a decision tree with a neural network to get better results than using either one alone. Fiddle's ability to save and compare different versions of your model makes it easy to experiment with ensemble methods and find the best way to combine your models.
+
+## References & Further Reading
+
+[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2986459.2986743) Advances in Neural Information Processing Systems 24.
+
+[2]: Lopez de Prado, M. (2018). ["Advances in Financial Machine Learning."](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) Wiley.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Géron, A. (2019). [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow.](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[5]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A system for large-scale machine learning."](https://arxiv.org/abs/1603.04467) In 12th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 16) (pp. 265-283).

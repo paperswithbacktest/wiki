@@ -121,3 +121,15 @@ for epoch in range(100):
 ```
 
 In this PyTorch code, you train the model for a certain number of epochs. After each epoch, you check the validation loss. If it's better than the best loss you've seen so far, you save the model and reset a counter. If the validation loss doesn't improve for 10 rounds (`patience=10`), you stop training. This helps make sure your model doesn't overfit and can work well on new data.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Prechelt, L. (1998). ["Early Stopping - But When?"](https://link.springer.com/chapter/10.1007/978-3-642-35289-8_5) Lecture Notes in Computer Science, 1398, 55-69.
+
+[3]: Yao, Y., Rosasco, L., & Caponnetto, A. (2007). ["On Early Stopping in Gradient Descent Learning."](https://link.springer.com/article/10.1007/s00365-006-0663-2) Journal of Machine Learning Research, 11, 1083-1107.
+
+[4]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems,"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[5]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://jmlr.org/papers/v15/srivastava14a.html) Journal of Machine Learning Research, 15, 1929-1958.

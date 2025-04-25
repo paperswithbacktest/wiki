@@ -1,6 +1,7 @@
 ---
-title: "Stages of the Economic Cycle"
-description: "Explore the stages of the economic cycle and their impact on algorithmic trading Learn how to align trading strategies with economic phases for optimal decisions"
+title: Understanding the Economic Cycle Stages Indicators and Strategies
+description: Economic cycle stages explained with key indicators models and policy
+  impacts to help businesses and investors adapt at each phase Discover more inside
 ---
 
 

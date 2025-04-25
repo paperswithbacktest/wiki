@@ -81,3 +81,17 @@ Another exciting area of research is the focus on making Causal Language Models 
 Causal Language Models often work together with other AI technologies to make them even better. For example, they can be used with speech recognition systems to turn spoken words into written text and then generate responses. This makes chatbots and virtual assistants more helpful because they can understand and reply to what people say. Another way they integrate is with machine translation tools. A Causal Language Model can help translate text from one language to another by predicting the next word in the target language based on the words it has already seen in the source language. This makes translations sound more natural and easier to understand.
 
 In addition, Causal Language Models can be combined with image recognition technology. For instance, when a model sees a picture, it can use the image data to generate a description of what's in the picture. This is useful for applications like generating captions for photos or helping visually impaired people understand images. By working together with other AI technologies, Causal Language Models can do more than just understand and generate text. They can become part of larger systems that help people in many different ways, making AI more powerful and useful in everyday life.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) In Advances in Neural Information Processing Systems.
+
+[2]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
+[3]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.
+
+[4]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., & others. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv:1810.04805.
+
+[6]: Jurafsky, D., & Martin, J. H. (2019). ["Speech and Language Processing (3rd ed. draft)."](https://web.stanford.edu/~jurafsky/slp3/) Stanford University.

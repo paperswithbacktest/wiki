@@ -79,3 +79,17 @@ Another challenge is dealing with the large amount of data that DRL generates. W
 One of the latest advancements in Distributed Reinforcement Learning (DRL) is the development of more efficient algorithms like SEED RL and IMPALA. These algorithms use many actors to explore the environment at the same time, sending their experiences to a central learner. This helps the learner update the policy more often, making the learning process faster and more effective. For example, SEED RL can handle big and complex problems better because it processes a lot more data and explores more possibilities in less time. This is really helpful when you're training robots or making decisions in business, as it means you can find the best solutions much quicker than before.
 
 Another exciting advancement is the use of better ways to handle the large amounts of data that DRL generates. New methods for storing and managing data, along with stronger computers, help process this information more quickly. This makes the learning process smoother and more stable. Also, techniques like importance sampling help the learner use the actors' data even if it's a bit old, which can make the policy updates safer and more reliable. These advancements could have a big impact on the field, making DRL more useful for solving real-world problems and pushing the boundaries of what's possible in machine learning.
+
+## References & Further Reading
+
+[1]: Espeholt, L., Soyer, H., Munos, R., Simonyan, K., Mnih, V., Ward, T., Doron, Y., Firoiu, V., Harley, T., Dunning, I., Legg, S., & Kavukcuoglu, K. (2018). ["IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures."](https://arxiv.org/abs/1802.01561) arXiv:1802.01561.
+
+[2]: Horgan, D., Quan, J., Budden, D., Barth-Maron, G., Hessel, M., van Hasselt, H., & Silver, D. (2018). ["Distributed Prioritized Experience Replay."](https://arxiv.org/abs/1803.00933) arXiv:1803.00933.
+
+[3]: Wijmans, E., Sax, A., Malik, J., Savva, M., & Batra, D. (2020). ["DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames."](https://arxiv.org/abs/1911.00357) arXiv:1911.00357.
+
+[4]: Stooke, A., & Abbeel, P. (2019). ["rllab: A Comprehensive Library for Reinforcement Learning in Python."](https://pmc.ncbi.nlm.nih.gov/articles/PMC10501567/) arXiv:1909.07528.
+
+[5]: He, K., Wu, Y., Chen, X., Xu, L., & Wang, M. (2020). ["SEED: Scalable, Efficient Deep-RL with Accelerated Central Inference."](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aenm.202303820) arXiv:1910.06591.
+
+[6]: Kügelgen, B. J., Rubanova, Y., Balunovic, M., Prabhakar, R., & Gal, Y. (2020). ["TorchBeast: A PyTorch Platform for Distributed RL."](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wrna.1590) arXiv:1910.03552.

@@ -79,3 +79,15 @@ Another important area of research is the development of new evaluation methods 
 Future advancements in AI might solve the problem of Crash Blossoms by making models even better at understanding context. Researchers are working on new ways to train AI models so they can look at all the words in a sentence at once and figure out what each word means based on the others. This is like how people understand sentences by thinking about the whole picture, not just one word at a time. By using bigger and more detailed datasets, AI models can learn from more examples of tricky sentences and get better at guessing the right meaning.
 
 Another way AI could improve is by using new kinds of tests to see how well it understands Crash Blossoms. Right now, we check if the AI picks the right answer, but in the future, we might ask it to explain why it chose that answer. This would help us know if the AI really understands the different meanings of a sentence, not just guessing. With these new tests, we can keep making the models better and better at handling the funny and confusing parts of language like Crash Blossoms.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[2]: Jurafsky, D., & Martin, J. H. (2022). ["Speech and Language Processing (3rd Edition draft)."](https://web.stanford.edu/~jurafsky/slp3/) Prentice Hall.
+
+[3]: MacCartney, B., & Manning, C. D. (2009). ["An Extended Model of Natural Logic."](https://aclanthology.org/W09-3714/) Proceedings of the ACL-IJCNLP 2009 Conference.
+
+[4]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[5]: Manning, C., Schütze, H. (1999). ["Foundations of Statistical Natural Language Processing."](https://nlp.stanford.edu/fsnlp/) MIT Press.

@@ -160,3 +160,17 @@ Compared to other methods like Random Forests or Support Vector Machines (SVMs),
 One way to improve the accuracy of Multinomial Regression models is by using regularization techniques like Lasso or Ridge regression. These methods add a penalty to the coefficients to prevent them from getting too big, which can help the model perform better on new data. For example, Lasso regression can also help with feature selection by shrinking some coefficients to zero, making the model simpler and easier to understand. Another technique is to use ensemble methods, like boosting or bagging, which combine multiple Multinomial Regression models to make better predictions. These methods can capture more complex patterns in the data and often lead to more accurate results.
 
 Another advanced technique is to apply feature engineering, where you create new predictor variables from your existing data. This can help the model capture more information and improve its accuracy. For example, you might combine two related variables into a new one or create interaction terms between variables. You can also use dimensionality reduction methods like Principal Component Analysis (PCA) to create new features that are not correlated with each other, which can help with multicollinearity issues. By carefully selecting and engineering your features, you can make your Multinomial Regression model more effective and accurate.
+
+## References & Further Reading
+
+[1]: Agresti, A. (2013). ["Categorical Data Analysis"](https://link.springer.com/article/10.1007/s00362-015-0733-8). Wiley.
+
+[2]: Long, J. Scott. (1997). ["Regression Models for Categorical and Limited Dependent Variables"](https://archive.org/details/regressionmodels0000long_j0n5). SAGE Publications.
+
+[3]: Hosmer, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). ["Applied Logistic Regression"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387). Wiley.
+
+[4]: Peduzzi, P., Concato, J., Kemper, E., Holford, T. R., & Feinstein, A. R. (1996). ["A simulation study of the number of events per variable in logistic regression analysis."](https://pubmed.ncbi.nlm.nih.gov/8970487/) Journal of Clinical Epidemiology, 49(12), 1373-1379.
+
+[5]: McFadden, D. (1973). ["Conditional logit analysis of qualitative choice behavior."](https://escholarship.org/uc/item/61s3q2xr) In P. Zarembka (Ed.), Frontiers in Econometrics. Academic Press.
+
+[6]: LeCessie, S., & Van Houwelingen, J. C. (1992). ["Ridge estimators in logistic regression."](https://academic.oup.com/jrsssc/article/41/1/191/6990520) Journal of the Royal Statistical Society: Series C (Applied Statistics), 41(1), 191-201.

@@ -79,3 +79,21 @@ UNITER is trained on a lot of pairs of pictures and sentences, which helps it le
 Mirror-BERT is a way to help computers understand different languages better by using something called cross-lingual word embeddings. It works by taking sentences in two different languages and turning them into numbers that the computer can understand. These numbers, or embeddings, are made so that words with similar meanings in different languages have similar numbers. For example, the English word "dog" and the Spanish word "perro" would have close numbers because they mean the same thing. By doing this, Mirror-BERT can help computers translate sentences or understand what people are saying in different languages.
 
 Mirror-BERT uses a special kind of computer program called a neural network to learn these cross-lingual embeddings. It looks at a lot of sentences in different languages and tries to match them up so that the numbers for similar sentences are close together. This helps the computer see that "The dog is playing" in English and "El perro está jugando" in Spanish are saying the same thing. By using these cross-lingual embeddings, Mirror-BERT can make it easier for computers to work with many languages at the same time, which is really helpful for things like translating text or understanding what people are saying in different parts of the world.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv:1301.3781.
+
+[2]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1532-1543.
+
+[3]: Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). ["Enriching Word Vectors with Subword Information."](https://aclanthology.org/Q17-1010/) Transactions of the Association for Computational Linguistics, 5, 135-146.
+
+[4]: Peters, M. E., Neumann, M., Iyyer, M., Gardner, M., Clark, C., Lee, K., & Zettlemoyer, L. (2018). ["Deep Contextualized Word Representations."](https://arxiv.org/abs/1802.05365) arXiv:1802.05365.
+
+[5]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv:1810.04805.
+
+[6]: Conneau, A., Kiela, D., Schwenk, H., Barrault, L., & Bordes, A. (2018). ["Supervised Learning of Universal Sentence Representations from Natural Language Inference Data."](https://aclanthology.org/D17-1070/) arXiv:1705.02364.
+
+[7]: Dhingra, B., Liu, Z., Yang, Y., Cohen, W., & Salakhutdinov, R. (2018). ["Gated-Attention Readers for Text Comprehension."](https://users.cs.duke.edu/~bdhingra/papers/ga_reader.pdf) arXiv:1606.01549.
+
+[8]: Nickel, M., & Kiela, D. (2017). ["Poincaré Embeddings for Learning Hierarchical Representations."](https://arxiv.org/abs/1705.08039) arXiv:1705.08039.

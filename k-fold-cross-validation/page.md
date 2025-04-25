@@ -100,3 +100,15 @@ On the other hand, when K is large, like K=10 or even K equal to the number of d
 You might choose a different cross-validation technique over K-Fold when your data has a specific structure or order that needs to be respected. For example, if you're working with time series data, where the order of the data matters, K-Fold Cross Validation might mix up the data in a way that doesn't make sense. In this case, you'd use time series cross-validation, which splits the data in a way that respects the time order. This helps to make sure your model's performance is measured in a way that's relevant to how it will be used in the real world.
 
 Another scenario where you might choose a different technique is when your data is imbalanced, meaning one category of data is much more common than others. K-Fold Cross Validation might not keep the same mix of categories in each fold, which can lead to biased results. In this case, you'd use stratified K-Fold Cross Validation, which makes sure each fold has the same mix of categories as the whole dataset. This helps to give a more accurate picture of how well your model will work on new data.
+
+## References & Further Reading
+
+[1]: Kohavi, R. (1995). ["A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection."](https://dl.acm.org/doi/10.5555/1643031.1643047) In Proceedings of the 14th International Joint Conference on Artificial Intelligence - Volume 2 (IJCAI'95).
+
+[2]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: with Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.
+
+[3]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[4]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow."](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ) O’Reilly Media.
+
+[5]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

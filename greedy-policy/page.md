@@ -109,3 +109,15 @@ However, this Greedy approach can have drawbacks. If the company only focuses on
 To evaluate the performance of a Greedy Policy in machine learning applications, you look at how well it does compared to other ways of making decisions. Imagine you're playing a game and you always pick the move that gives you the most points right now. You'd want to see if this strategy helps you win more often or get more points than if you tried different moves or planned ahead. In machine learning terms, you might compare the total reward or the average reward per step that the Greedy Policy gets to what other policies like Epsilon-Greedy or Q-Learning achieve. This helps you understand if focusing on immediate rewards is good enough or if you need to think about the long-term effects of your choices.
 
 Another way to evaluate a Greedy Policy is by looking at how it performs over time. If you're using a Greedy Policy in a changing environment, like a game where the rules or rewards can change, you want to see if it can adapt or if it gets stuck doing the same thing even when it's no longer the best choice. You might run the policy through many rounds of the game and track how the rewards change. If the Greedy Policy starts off well but then stops improving or even gets worse as the game changes, it might not be the best choice. This kind of evaluation helps you decide if you need to add some exploration or long-term planning to make your policy better.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (2nd ed.). MIT Press.
+
+[2]: Watkins, C. J. C. H., & Dayan, P. (1992). ["Q-learning"](https://link.springer.com/article/10.1007/BF00992698) in Machine Learning, 8(3-4), 279-292.
+
+[3]: Kaelbling, L. P., Littman, M. L., & Moore, A. W. (1996). ["Reinforcement Learning: A Survey"](https://arxiv.org/abs/cs/9605103) in Journal of Artificial Intelligence Research, 4, 237-285.
+
+[4]: Szepesvári, C. (2010). ["Algorithms for Reinforcement Learning"](https://www.researchgate.net/publication/220696313_Algorithms_for_Reinforcement_Learning). Synthesis Lectures on Artificial Intelligence and Machine Learning, 4(1), 1-103. 
+
+[5]: Sutton, R. S. (1988). ["Learning to Predict by the Methods of Temporal Differences"](https://link.springer.com/article/10.1007/BF00115009)80015-8) in Machine Learning, 3(1), 9-44.

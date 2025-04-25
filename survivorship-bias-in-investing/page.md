@@ -1,6 +1,7 @@
 ---
-title: "Survivorship Bias in Investing"
-description: "Survivorship bias in investing and algo trading can skew performance analyses by ignoring failed entities skewing results and potentially leading to flawed strategies."
+title: Understanding Survivorship Bias in Investment Decisions
+description: Survivorship bias can skew how you view investment success by hiding
+  failures from view and leading to riskier choices Discover more inside
 ---
 
 

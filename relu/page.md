@@ -105,3 +105,17 @@ print(relu_output.numpy())
 ```
 
 This code will give you the ReLU of your input data. Just like in TensorFlow, the ReLU function in PyTorch is written as $$ f(x) = \max(0, x) $$. This simple function helps your neural network learn better and handle deeper layers more effectively.
+
+## References & Further Reading
+
+[1]: Glorot, X., Bordes, A., & Bengio, Y. (2011). ["Deep Sparse Rectifier Neural Networks."](https://proceedings.mlr.press/v15/glorot11a) In Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics. 
+
+[2]: Maas, A. L., Hannun, A. Y., & Ng, A. Y. (2013). ["Rectifier Nonlinearities Improve Neural Network Acoustic Models."](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf) In Proceedings of the 30th International Conference on Machine Learning.
+
+[3]: Ramachandran, P., Zoph, B., & Le, Q. V. (2017). ["Searching for Activation Functions."](https://arxiv.org/abs/1710.05941) arXiv preprint arXiv:1710.05941.
+
+[4]: ["Deep Learning"](https://en.wikipedia.org/wiki/Deep_learning) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+
+[5]: Xu, B., Wang, N., Chen, T., & Li, M. (2015). ["Empirical Evaluation of Rectified Activations in Convolutional Network."](https://arxiv.org/abs/1505.00853) arXiv preprint arXiv:1505.00853.
+
+[6]: He, K., Zhang, X., Ren, S., & Sun, J. (2015). ["Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification."](https://arxiv.org/abs/1502.01852) In Proceedings of the IEEE International Conference on Computer Vision.

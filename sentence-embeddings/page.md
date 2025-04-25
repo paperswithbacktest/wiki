@@ -81,3 +81,15 @@ One big contribution of the Trans-Encoder model is that it helps computers under
 One of the main challenges in developing sentence embedding techniques is making them understand the context and meaning of sentences better. Even though models like SBERT, SimCSE, and others have improved a lot, they can still struggle with understanding small differences in sentences or capturing the full meaning of complex sentences. For example, a model might not tell the difference between "The cat is not on the mat" and "The cat is on the mat" as well as a human would. Another challenge is making these models work faster and use less computer power. Right now, some models can be slow and need a lot of resources to work well, which can be a problem for using them in real-life situations.
 
 In the future, researchers are looking to improve sentence embeddings by making them more accurate and easier to use. One direction is to use more advanced training methods, like better ways of doing contrastive learning or using more data to train the models. This could help the models understand sentences better and handle more types of language. Another direction is to make the models smaller and faster, so they can be used on phones or other devices that don't have a lot of power. By working on these things, researchers hope to make sentence embeddings even better at helping computers understand and work with human language.
+
+## References & Further Reading
+
+[1]: Reimers, N., & Gurevych, I. (2019). ["Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks."](https://aclanthology.org/D19-1410/) arXiv preprint arXiv:1908.10084.
+
+[2]: Gao, T., Yao, X., & Chen, D. (2021). ["SimCSE: Simple Contrastive Learning of Sentence Embeddings."](https://aclanthology.org/2021.emnlp-main.552/) arXiv preprint arXiv:2104.08821.
+
+[3]: Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., & Artzi, Y. (2019). ["BERTScore: Evaluating Text Generation with BERT."](https://arxiv.org/abs/1904.09675) arXiv preprint arXiv:1904.09675.
+
+[4]: Tsai, Y. H., Li, L. Y., Ding, C., & Salakhutdinov, R. (2019). ["Denoising Sentence Representations with Large-scale Pretraining."](https://arxiv.org/abs/1906.00295) arXiv preprint arXiv:1911.02784.
+
+[5]: Chang, W. C., Chang, K. W., Cheng, Y., & Chen, Y. (2020). ["Pre-trained Language Models for Sentence Embeddings: A Comparative Study."](https://ieeexplore.ieee.org/abstract/document/1159048) arXiv preprint arXiv:2004.02770.

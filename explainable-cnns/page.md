@@ -81,3 +81,15 @@ PolyCAM, on the other hand, uses polynomial functions to combine the feature map
 In the future, we can expect new methods that make Convolutional Neural Networks (CNNs) even easier to understand. These new methods might look at all the layers of the CNN, not just the last one like XGrad-CAM does. They could use different ways to show how the CNN makes its decisions, like using more detailed heatmaps or even showing the process step-by-step. Researchers might also work on making these explanations faster and easier to use, so people in fields like medicine or self-driving cars can understand and trust the CNNs better. This could lead to CNNs that not only work well but also explain themselves in a way that everyone can understand.
 
 Another area where we might see improvements is in making these explanations more accurate and useful for different types of tasks. For example, new methods might be better at handling images with lots of different things in them, or at showing how the CNN thinks about different parts of an image at the same time. These future developments could also focus on making the explanations more interactive, so users can ask questions and get more detailed answers about why the CNN made a certain decision. By making CNNs more explainable, we can use them in more places and make sure they are safe and reliable for important jobs.
+
+## References & Further Reading
+
+[1]: Selvaraju, R. R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., & Batra, D. (2017). ["Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization."](https://ieeexplore.ieee.org/document/8237336) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[2]: Zhang, Q., & Zhu, S. C. (2018). ["Visual interpretability for deep learning: a survey."](https://arxiv.org/abs/1802.00614) International Journal of Computer Vision.
+
+[3]: Guo, Y., Liu, Y., Oerlemans, A., Lao, S., Wu, S., & Lew, M. S. (2016). ["Deep learning for visual understanding: A review."](https://www.sciencedirect.com/science/article/abs/pii/S0925231215017634) Neurocomputing.
+
+[4]: Montavon, G., Binder, A., Lapuschkin, S., Samek, W., & Müller, K. R. (2019). ["Layer-Wise Relevance Propagation: An Overview."](https://link.springer.com/content/pdf/10.1007/978-3-030-28954-6_10) Explainable AI: Interpreting, Explaining and Visualizing Deep Learning, Lecture Notes in Computer Science.
+
+[5]: Sundararajan, M., Taly, A., & Yan, Q. (2017). ["Axiomatic Attribution for Deep Networks."](https://arxiv.org/abs/1703.01365) Proceedings of the 34th International Conference on Machine Learning.

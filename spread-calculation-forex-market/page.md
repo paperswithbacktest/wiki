@@ -1,6 +1,7 @@
 ---
-title: "Spread Calculation in the Forex Market"
-description: "Discover how forex spreads impact trading strategies, particularly in algorithmic trading. Learn why understanding the spread, the difference between bid and ask prices, is crucial for optimizing trade executions and minimizing costs. Explore how these fluctuations in spread size influence decision-making and potential profits in the dynamic forex market."
+title: Understanding Forex Spreads and Their Impact on Trading Costs
+description: Forex spreads shape trading costs and liquidity by defining the bid ask
+  gap so traders can time entries and exits effectively. Discover more inside.
 ---
 
 

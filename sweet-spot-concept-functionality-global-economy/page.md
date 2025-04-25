@@ -1,6 +1,6 @@
 ---
 title: "Sweet Spot: Concept, Functionality, and Impact on Global Economy"
-description: "Explore the "sweet spot" in global finance and understand how algorithmic trading seeks economic balance maximizing market efficiency while minimizing risks."
+description: "Explore the sweet spot in global finance and understand how algorithmic trading seeks economic balance maximizing market efficiency while minimizing risks."
 ---
 
 

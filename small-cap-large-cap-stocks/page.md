@@ -1,6 +1,7 @@
 ---
-title: "Small-Cap and Large-Cap Stocks"
-description: "Explore the world of small-cap and large-cap stocks in algo trading and discover their unique roles in investment strategies for today’s investors."
+title: Comparing Small-Cap and Large-Cap Stocks for Balanced Portfolios
+description: Small-Cap and Large-Cap stocks analysis shows how to balance growth potential
+  and stability in your portfolio while managing risk Discover more inside
 ---
 
 

@@ -79,3 +79,17 @@ These improvements also make it easier for more people to get involved in AI res
 Using TPU Nodes can be very cost-effective for certain machine learning tasks, especially those that involve a lot of data and complex models. TPUs are designed to do the math used in neural networks very quickly, which means they can train models faster than regular computers or GPUs. This speed can save a lot of time, which is important for big projects where every hour counts. However, TPUs are usually rented through cloud services like Google Cloud Platform, so you have to pay for the time you use them. If you're working on a project that needs a lot of computing power for a short time, TPUs might be a good choice because they can finish the job quickly and save you money in the long run.
 
 On the other hand, GPUs are more general-purpose and can be used for a wider range of tasks, which might make them more cost-effective for some projects. GPUs are often cheaper to buy and set up than renting TPUs, especially if you need to use them for a long time. However, GPUs might not be as fast as TPUs for certain machine learning tasks, so they could take longer to train your models. This means you have to think about whether the lower cost of GPUs is worth the extra time they might need. In the end, the best choice depends on your specific project and how much time and money you have to spend.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., Patterson, D., Agrawal, G., Bajwa, R., ... & Woo, Y. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://arxiv.org/abs/1704.04760) 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA).
+
+[2]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-scale Machine Learning."](https://arxiv.org/abs/1603.04467) Proceedings of the 12th USENIX Conference on Operating Systems Design and Implementation.
+
+[3]: Gupta, U., Talkar, A., Boroumand, A., Lee, J. K., Dave, A., Lee, V., ... & Wenisch, T. F. (2021). ["The Architectural Implications of Facebook’s DNN-based Personalized Recommendation."](https://pubmed.ncbi.nlm.nih.gov/38613592/) IEEE MICRO.
+
+[4]: Zaharia, M., Chen, A. E., Davidson, A. A., Ghodsi, A., Hong, M., Konwinski, A., ... & Stoica, I. (2010). ["Resilient Distributed Datasets: A Fault-tolerant Abstraction for In-memory Cluster Computing."](https://people.eecs.berkeley.edu/~matei/papers/2018/ieee_mlflow.pdf) Proceedings of the 9th USENIX Symposium on Networked Systems Design and Implementation.
+
+[5]: ["High Performance Datacenter and Cloud Computing"](https://cloud.google.com/blog/products/storage-data-transfer/competing-with-supercomputers-hpc-in-the-cloud-becomes-reality) by Bogdan Ionescu and Olivier Bonaventure.
+
+[6]: Rajpurkar, P., Irvin, J., Ball, R. L., Zhu, K., Yang, B., Mehta, H., ... & Ng, A. Y. (2018). ["Deep Learning for Chest Radiograph Diagnosis: A Retrospective Comparison of the CheXNeXt Algorithm to Practicing Radiologists."](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002686) PLOS Medicine.

@@ -136,3 +136,15 @@ However, Leaf has some limitations when it comes to distributed computing. One l
 Leaf offers several advanced features for expert users, including the ability to create custom model architectures. You can modify the decision tree or ensemble methods to fit your specific needs. For example, you might want to change how the tree splits the data or how many trees are used in a Random Forest. Leaf lets you do this by giving you control over the tree-building process. You can also use Leaf to create new types of models by combining different decision trees in unique ways, allowing you to experiment and find the best model for your data.
 
 Another important feature for expert users is hyperparameter tuning. This means adjusting the settings of your model to make it work better. Leaf provides tools to help you do this easily. You can try different settings and see how they affect your model's performance. For example, you might change the maximum depth of a decision tree or the number of trees in a Random Forest to see if it improves your predictions. Leaf makes it simple to test these changes and find the best settings for your model.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests"](https://link.springer.com/article/10.1023/A:1010933404324). Machine Learning, 45(1), 5–32.
+
+[2]: Friedman, J. H. (2001). ["Greedy Function Approximation: A Gradient Boosting Machine."](https://www.jstor.org/stable/2699986) The Annals of Statistics, 29(5), 1189-1232.
+
+[3]: Quinlan, J. R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81-106.
+
+[4]: Pedregosa, F. et al. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.

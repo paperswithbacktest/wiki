@@ -79,3 +79,17 @@ Another way to optimize performance is to think about your model and data. Make 
 The future of Pax looks bright with many exciting developments on the horizon. One of the main areas of focus is making Pax even easier to use. Researchers and engineers want to make it simpler for people to set up and run their experiments, so they can try out new ideas faster. They are also working on making Pax work better with other tools and platforms. This means you might see Pax being used more with things like cloud services, so you can use even more computing power to train your big models.
 
 Another important direction for Pax is improving how it handles very big and complex models. Researchers are looking at ways to make training these models even faster and more efficient. They are also thinking about how to make Pax work well with new types of machine learning models that are being developed. This could mean using Pax for new tasks and solving new problems in areas like understanding language or recognizing images. By keeping up with these new developments, Pax can stay at the forefront of machine learning research and help people build even better models.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems, 30.
+
+[2]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) In 12th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 16).
+
+[3]: Dean, J., Corrado, G., Monga, R., Chen, K., Devin, M., Le, Q. V., ... & Ng, A. Y. (2012). ["Large Scale Distributed Deep Networks."](https://dl.acm.org/doi/10.5555/2999134.2999271) Advances in Neural Information Processing Systems, 25.
+
+[4]: Barham, P., Dragovic, B., Fraser, K., Hand, S., Harris, T., Ho, A., ... & Warfield, A. (2003). ["Xen and the Art of Virtualization."](https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf) In ACM SIGOPS Operating Systems Review (Vol. 37, No. 5, pp. 164-177).
+
+[5]: Zaharia, M., Chowdhury, M., Franklin, M. J., Shenker, S., & Stoica, I. (2010). ["Spark: Cluster Computing with Working Sets."](https://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf) HotCloud, 10(10-10), 95.
+
+[6]: Chandramouli, B., Goldstein, J., Duan, S., Barga, R., Fiorino, D., Harper, R., ... & Huth, A. (2012). ["Trill: A High-Performance Incremental Query Processor for Diverse Analytics."](https://www.semanticscholar.org/paper/Scalable-Progressive-Analytics-on-Big-Data-in-the-Chandramouli-Goldstein/8c2b3407ee562315710847c6e603527aa91f8946) Proceedings of the VLDB Endowment, 8(4), 401-412.

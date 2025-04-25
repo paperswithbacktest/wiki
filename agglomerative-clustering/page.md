@@ -241,3 +241,15 @@ Choosing the right distance metric depends on what kind of groups you want to fi
 One way to improve the performance of Agglomerative Clustering is to use a technique called "pre-clustering." This means you start by grouping similar points together into smaller groups before you even begin the main clustering process. This can help speed things up because you're working with fewer groups from the start. For example, you might use a quick method like K-means to make these smaller groups, and then use Agglomerative Clustering on these groups. This can be especially helpful when you have a lot of data points, because it can make the clustering process much faster and use less memory.
 
 Another advanced technique is to use a different distance metric that's better suited to your data. The choice of distance metric can really change how the groups are formed. For example, if you use the single linkage method, the distance between two groups $$A$$ and $$B$$ is given by $$\text{distance}(A, B) = \min\{\text{distance}(a, b) \mid a \in A, b \in B\}$$. This method can create long, stringy groups because it focuses on the closest points. But if you use the complete linkage method, the distance is the largest distance between any two points in the groups, which tends to make more compact, round groups. By trying out different distance metrics, you can find the one that works best for your data and gives you the most meaningful groups.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[2]: Kaufman, L., & Rousseeuw, P. J. (2009). ["Finding Groups in Data: An Introduction to Cluster Analysis."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316801) Wiley.
+
+[3]: Jain, A. K., & Dubes, R. C. (1988). ["Algorithms for Clustering Data."](https://dl.acm.org/doi/10.5555/42779) Prentice-Hall.
+
+[4]: Müller, A. C., & Guido, S. (2016). ["Introduction to Machine Learning with Python: A Guide for Data Scientists."](https://books.google.com/books/about/Introduction_to_Machine_Learning_with_Py.html?id=1-4lDQAAQBAJ) O'Reilly Media.
+
+[5]: Everitt, B., Landau, S., Leese, M., & Stahl, D. (2011). ["Cluster Analysis."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470977811) Wiley.

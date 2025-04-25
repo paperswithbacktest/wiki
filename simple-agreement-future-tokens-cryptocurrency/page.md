@@ -1,6 +1,7 @@
 ---
-title: "Simple Agreement for Future Tokens in Cryptocurrency"
-description: "Explore how Future Tokens and the SAFT framework are revolutionizing cryptocurrency investment. Dive into algorithmic trading insights for strategic digital asset growth."
+title: Understanding SAFT Agreements for Crypto Project Funding
+description: SAFT provides a legal investment contract for early crypto funding with
+  clear token terms and investor protections for issuers Discover more inside
 ---
 
 

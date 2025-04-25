@@ -81,3 +81,15 @@ Another important use is in surveillance and security. Cameras used for surveill
 In the future, we can expect video super-resolution to get even better and more useful. One big change might be that these models will use even smarter ways to understand how things move in videos. This could make the videos look smoother and more natural when they are made clearer. Also, as computers get more powerful, video super-resolution models might be able to work faster and handle more data. This means they could make videos look better in real-time, even on devices like phones and tablets. Researchers might also find new ways to train these models with less data, making them easier to use for more people.
 
 Another exciting development could be using video super-resolution in new areas. For example, it might be used more in virtual reality and augmented reality to make the images and videos in these technologies look better. Also, as more videos are shared online, video super-resolution could become a standard tool for improving the quality of videos on social media and other platforms. Overall, the future of video super-resolution looks bright, with lots of potential to make our videos clearer and more enjoyable to watch.
+
+## References & Further Reading
+
+[1]: Wang, X., Chan, K. C., Yu, K., Dong, C., Change Loy, C., & Lin, S. (2019). ["EDVR: Video Restoration with Enhanced Deformable Convolutional Networks."](https://arxiv.org/abs/1905.02716) IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW).
+
+[2]: Chan, T., Zhou, X., Xu, L., & Jia, J. (2021). ["BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond."](https://www.sciencedirect.com/science/article/pii/S0304383525002848) IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Nah, S., Baik, S., Hong, S., Moon, G., Son, S., Timofte, R., & Lee, K. M. (2019). ["NTIRE 2019 Challenge on Video Deblurring and Super-Resolution: Dataset and Study."](https://ieeexplore.ieee.org/document/9025509) IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW).
+
+[4]: Xiang, F., Bao, W., Zhang, H., Wu, J., Liu, Z., & Yang, J. (2020). ["ICONVSR: Fast Real-world Video Super-Resolution Using Fractal Residual Network."](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202413660) IEEE Winter Conference on Applications of Computer Vision (WACV).
+
+[5]: Caballero, J., Ledig, C., Aitken, A., Acosta, A., Totz, J., Bishop, R., & C. Kautz, J. (2017). ["Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation."](https://arxiv.org/abs/1611.05250) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

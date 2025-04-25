@@ -81,3 +81,17 @@ Another way to measure prompt effectiveness is by using "human evaluation." This
 The latest research trends in prompt-based learning are focusing a lot on making prompts even better. One big trend is "prompt tuning," where researchers are trying to find the best way to change prompts so that models work better. They use soft prompts, which are numbers that the model can understand, instead of regular words. This helps the model learn faster and give more accurate answers. For example, if you want the model to write a story, you might use a soft prompt to tell it to focus on certain themes or styles. By tweaking these numbers, researchers can guide the model to give you the kind of story you want.
 
 Another trend is "prompt ensembling," where you use a bunch of different prompts together to get a better result. Imagine you're asking the model to translate a sentence. Instead of using just one prompt, you might use several prompts that ask for different things, like grammar, vocabulary, and style. The model then combines all these prompts to give you a translation that's more accurate and complete. Researchers are also looking into how to measure the effectiveness of prompts better, using things like accuracy, BLEU scores, and human evaluation. By using these advanced techniques, they hope to make models perform better and give answers that are more helpful and on target.
+
+## References & Further Reading
+
+[1]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[2]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2019). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) arXiv preprint arXiv:1910.10683.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[4]: Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., & Neubig, G. (2021). ["Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing."](https://arxiv.org/abs/2107.13586) arXiv preprint arXiv:2107.13586.
+
+[5]: Gao, T., Fisch, A., & Chen, D. (2021). ["Making Pre-trained Language Models Better Few-shot Learners."](https://aclanthology.org/2021.acl-long.295/) arXiv preprint arXiv:2012.15723.
+
+[6]: Li, X. L., & Liang, P. (2021). ["Prefix-Tuning: Optimizing Continuous Prompts for Generation."](https://arxiv.org/abs/2101.00190) arXiv preprint arXiv:2101.00190.

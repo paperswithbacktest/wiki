@@ -84,3 +84,17 @@ Another important way to optimize region proposal methods for real-time use is b
 The latest advancements in region proposal techniques have significantly improved the speed and accuracy of object detection. One of the key developments is the use of more advanced neural networks, like the Transformer architecture, which can better understand the context of an image. These networks help generate more accurate region proposals by learning from a large number of examples. Another advancement is the use of techniques like anchor-free methods, which do not rely on predefined anchor boxes. Instead, they directly predict the locations of objects, making the process more efficient and reducing the need for complex post-processing.
 
 These advancements have a big impact on object detection. For example, methods like the CenterNet use a single network to both propose regions and detect objects, which makes the whole process faster. This is important for real-time applications, like self-driving cars or security cameras, where quick and accurate detection is crucial. Additionally, these new techniques often require less computational power, which means they can run on smaller devices like smartphones. This makes object detection more accessible and useful in everyday life.
+
+## References & Further Reading
+
+[1]: Girshick, R. (2015). ["Fast R-CNN."](https://ieeexplore.ieee.org/document/7410526) arXiv preprint arXiv:1504.08083.
+
+[2]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) arXiv preprint arXiv:1506.01497.
+
+[3]: Uijlings, J. R., van de Sande, K. E., Gevers, T., & Smeulders, A. W. (2013). ["Selective Search for Object Recognition."](https://link.springer.com/article/10.1007/s11263-013-0620-5) International Journal of Computer Vision, 104(2), 154-171.
+
+[4]: Pinheiro, P. O., Collobert, R., & Dollar, P. (2015). ["Learning to Segment Object Candidates."](https://arxiv.org/abs/1506.06204) arXiv preprint arXiv:1506.06204.
+
+[5]: Zitnick, C. L., & Dollar, P. (2014). ["Edge Boxes: Locating Object Proposals from Edges."](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_26) European Conference on Computer Vision. Springer, Cham.
+
+[6]: Law, H., & Deng, J. (2018). ["CornerNet: Detecting Objects as Paired Keypoints."](https://openaccess.thecvf.com/content_ECCV_2018/papers/Hei_Law_CornerNet_Detecting_Objects_ECCV_2018_paper.pdf) arXiv preprint arXiv:1808.01244.

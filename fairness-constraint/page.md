@@ -81,3 +81,17 @@ Another important development is the study of fairness in different contexts, li
 Organizations can balance the trade-offs between fairness, accuracy, and other performance metrics by carefully adjusting the fairness constraints they use in their machine learning models. One way to do this is by using a parameter in the model's loss function that controls how much the model focuses on being fair. For example, if the model's loss function includes a fairness penalty, organizations can change the value of this penalty to find the right balance. This can be written as $$L = L_{original} + \lambda \cdot L_{fairness}$$, where $$L_{original}$$ is the original loss function, $$L_{fairness}$$ is the fairness penalty, and $$\lambda$$ is the parameter that can be adjusted. By tweaking $$\lambda$$, organizations can see how much accuracy they have to give up to make the model fairer and decide what trade-off works best for their needs.
 
 Another way to balance these trade-offs is by testing different fairness constraints and measuring their impact on the model's performance. Organizations can try using different fairness rules, like demographic parity, which means the model should give the same percentage of positive outcomes to different groups, written as $$P(\hat{Y} = 1 | A = a) = P(\hat{Y} = 1 | A = b)$$, where $$\hat{Y}$$ is the model's prediction and $$A$$ is the group the person belongs to. By comparing how these different rules affect accuracy and other metrics, organizations can choose the best approach. It's also important to involve people from different groups in the decision-making process to make sure the model's fairness aligns with what people actually think is fair. This helps ensure that the model not only performs well but also treats everyone fairly.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) A free online book providing a comprehensive introduction to fairness in machine learning.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys (CSUR).
+
+[3]: Kleinberg, J., Ludwig, J., Mullainathan, S., & Sunstein, C. R. (2019). ["Discrimination in the Age of Algorithms."](https://academic.oup.com/jla/article/doi/10.1093/jla/laz001/5476086) Journal of Legal Analysis, 10(1), 113-174.
+
+[4]: Binns, R. (2018). ["Fairness in Machine Learning: Lessons from Political Philosophy."](https://proceedings.mlr.press/v81/binns18a.html) Conference on Fairness, Accountability and Transparency (FAT*).
+
+[5]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29.
+
+[6]: Chouldechova, A., & Roth, A. (2018). ["The Frontiers of Fairness in Machine Learning."](https://arxiv.org/abs/1810.08810) Annual Review of Statistics and Its Application, 5, 75-99.

@@ -1,6 +1,7 @@
 ---
-title: "Stroud Pound Local Currency"
-description: "Discover the Stroud Pound's role in boosting local economies through community currency. Explore its impact, challenges, and the potential of algorithmic trading integration."
+title: Stroud Pound Local Currency Strengthens Community Economy
+description: Stroud Pound keeps money in Stroud by enabling residents and local businesses
+  to trade within the community for greater resilience Discover more inside
 ---
 
 

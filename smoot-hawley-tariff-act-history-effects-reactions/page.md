@@ -1,6 +1,7 @@
 ---
-title: "Smoot-Hawley Tariff Act: History, Effects, and Reactions"
-description: "Explore the history and impact of the Smoot-Hawley Tariff Act of 1930 on global trade and its lessons for today's algorithmic trading strategies."
+title: Impact of the Smoot-Hawley Tariff Act on the Great Depression
+description: Smoot-Hawley Tariff Act raised import taxes in 1930 and triggered global
+  retaliation that deepened the Great Depression trade slump Discover more inside.
 ---
 
 

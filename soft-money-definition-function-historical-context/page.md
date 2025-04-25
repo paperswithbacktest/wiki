@@ -1,6 +1,7 @@
 ---
-title: "Soft Money: Definition, Function, and Historical Context"
-description: "Explore the complexities of soft money in political campaigns, its historical context, and its intersection with algorithmic trading in shaping campaign finance."
+title: Understanding Soft Money In Political Campaign Financing
+description: Soft money in political campaigns funds party building and voter outreach
+  activities while navigating evolving regulations Discover more inside
 ---
 
 

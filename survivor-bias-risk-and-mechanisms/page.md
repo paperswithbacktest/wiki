@@ -1,6 +1,7 @@
 ---
-title: "Survivor Bias: Risk and Mechanisms"
-description: "Learn about the impact of survivorship bias and other statistical biases in algorithmic trading. Understand how these biases affect risk assessment and strategy development, leading to potentially skewed investment decisions. Discover strategies to mitigate these biases, ensuring more accurate and reliable trading models for better financial outcomes."
+title: Survivor Bias Explained For Better Data Driven Decisions
+description: Survivor bias clouds investment analysis by ignoring failures and skewing
+  results. Include all relevant data to make sound decisions Discover more inside
 ---
 
 

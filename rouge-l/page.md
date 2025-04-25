@@ -127,3 +127,15 @@ Another technique is to use fine-tuning with a large dataset of high-quality sum
 Rouge-L and BERTScore are both used to check how good a computer's summary or translation is, but they work in different ways. Rouge-L looks at the longest part of the computer's text that matches the original text in the same order. This part is called the longest common subsequence (LCS). The formula for Rouge-L is $$Rouge-L = \frac{LCS(X,Y)}{m}$$ where $$X$$ is the computer's text, $$Y$$ is the original text, and $$m$$ is how long the original text is. Rouge-L is good at seeing if the computer's text keeps the main points in the right order, but it doesn't care about synonyms or different ways of saying the same thing.
 
 BERTScore, on the other hand, uses a model called BERT to understand the meaning of words and sentences. Instead of looking for exact matches like Rouge-L, BERTScore compares the meanings of the computer's text and the original text. This means it can handle synonyms and different ways of saying the same thing better than Rouge-L. BERTScore gives a score based on how similar the meanings are, which can be more helpful for tasks where understanding the meaning is more important than keeping the exact words in the right order. So, while Rouge-L is good for checking the structure and order of text, BERTScore is better at understanding the overall meaning and quality of the text.
+
+## References & Further Reading
+
+[1]: Lin, C.-Y. (2004). ["Rouge: A Package for Automatic Evaluation of Summaries"](https://aclanthology.org/W04-1013/) in the Proceedings of the Workshop on Text Summarization Branches Out.
+
+[2]: Owczarzak, K., & Dang, H.T. (2011). ["Overview of the TAC 2011 Text Summarization Track: Guided Task and AESOP Task"](https://tac.nist.gov/publications/2011/presentations/Summarization2011_overview.presentation.pdf) in the Proceedings of the Text Analysis Conference.
+
+[3]: Papineni, K., Roukos, S., Ward, T., & Zhu, W.-J. (2002). ["BLEU: a Method for Automatic Evaluation of Machine Translation"](https://aclanthology.org/P02-1040/) in the Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics (ACL).
+
+[4]: Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., & Artzi, Y. (2020). ["BERTScore: Evaluating Text Generation with BERT"](https://arxiv.org/abs/1904.09675) in the Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+
+[5]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval"](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) by Cambridge University Press.

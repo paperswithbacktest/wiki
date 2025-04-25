@@ -79,3 +79,15 @@ Another way to check for demographic parity is by using the ratio of positive ou
 To ensure demographic parity in complex machine learning systems, advanced techniques like adversarial training are often used. In adversarial training, we add a second model, called an adversary, that tries to figure out the group a person belongs to based on the main model's predictions. The main model is then trained to make predictions that the adversary can't use to tell groups apart. This helps the main model treat everyone the same, no matter their race, gender, or other characteristics. For example, if we're looking at loan approvals, the main model will try to approve loans in a way that the adversary can't tell if the person is a man or a woman. This can be expressed as trying to minimize the adversary's ability to predict the group $$A$$ from the model's predictions $$\hat{Y}$$.
 
 Another advanced technique is called fairness constraints, where we change how the model learns from the data to make it fairer from the start. This involves adding special rules to the model's training process that make sure the model follows demographic parity. For instance, we might add a rule that says the model should approve loans at the same rate for men and women, or for different ethnic groups. This can be shown as $$P(\hat{Y} = 1 | A = a) = P(\hat{Y} = 1)$$, where $$\hat{Y}$$ is the model's prediction, and $$A$$ represents different groups. By using these fairness constraints, we can help the model learn in a way that treats everyone fairly right from the beginning, without needing to adjust the predictions later.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) fairmlbook.org.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys (CSUR).
+
+[3]: Feldman, M., Friedler, S. A., Moeller, J., Scheidegger, C., & Venkatasubramanian, S. (2015). ["Certifying and removing disparate impact."](https://dl.acm.org/doi/10.1145/2783258.2783311) Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[4]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29.
+
+[5]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) arXiv preprint arXiv:1609.05807.

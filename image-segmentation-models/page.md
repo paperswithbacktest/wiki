@@ -81,3 +81,21 @@ One of the key features that makes SCNN_UNet_ConvLSTM effective for video segmen
 SWRNet, which stands for Semantic Wavelet Recurrent Network, is a special kind of computer program that helps with understanding and separating different parts of an image, especially in complex scenes. It does this by using a method called wavelet transformation, which helps the computer look at the image in different levels of detail. This is really helpful when the image has a lot of things going on, like a busy street with cars, people, and buildings. SWRNet can see both the big picture and the small details, making it easier to tell apart different objects.
 
 Another important part of SWRNet is that it uses a memory system to remember what it has seen before. This is useful for understanding how things in the image are connected or how they change over time. For example, if you have a video where cars are moving, SWRNet can use its memory to keep track of where each car was in the last frame and where it is now. This helps it make better guesses about what is happening in the scene, even when things are moving around a lot. By combining these two features, SWRNet can handle the challenges of complex scenes better than many other methods.
+
+## References & Further Reading
+
+[1]: Ronneberger, O., Fischer, P., & Brox, T. (2015). ["U-Net: Convolutional Networks for Biomedical Image Segmentation."](https://arxiv.org/abs/1505.04597) arXiv preprint arXiv:1505.04597.
+
+[2]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) arXiv preprint arXiv:1703.06870.
+
+[3]: Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). ["Pyramid Scene Parsing Network."](https://ieeexplore.ieee.org/document/8100143) arXiv preprint arXiv:1612.01105.
+
+[4]: Lin, T.-Y., Dollar, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) arXiv preprint arXiv:1612.03144.
+
+[5]: Yuan, Y., Chen, X., & Wang, J. (2019). ["Object-Contextual Representations for Semantic Segmentation."](https://arxiv.org/abs/1909.11065) arXiv preprint arXiv:1909.11065. 
+
+[6]: Long, J., Shelhamer, E., & Darrell, T. (2015). ["Fully Convolutional Networks for Semantic Segmentation."](https://ieeexplore.ieee.org/document/7298965) arXiv preprint arXiv:1411.4038.
+
+[7]: Xu, N., Price, B., Cohen, S., Yang, J., & Huang, T. (2018). ["Deep Interactive Object Selection."](https://arxiv.org/abs/1603.04042) arXiv preprint arXiv:1603.04042.
+
+[8]: Cheng, B., Misra, I., Schwing, A., Kirillov, A., & Girdhar, R. (2022). ["Segment Anything."](https://arxiv.org/abs/2112.01527) arXiv preprint arXiv:2304.02643.

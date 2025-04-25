@@ -81,3 +81,15 @@ Another area of focus is on the design of the models themselves. Researchers are
 Future advancements in AI technology could greatly reduce the occurrence of hallucinations. As researchers continue to improve the quality of training data, AI models will learn from more accurate and comprehensive information. This means the models will be less likely to make up answers because they'll have a better understanding of the real world. Also, new methods like fact-checking with other AI models and confidence calibration will become more advanced. These techniques will help catch and correct any made-up information before it reaches users, making AI more reliable.
 
 In addition to better data and checking methods, future AI models might be designed to understand context better. This means they'll be able to give more accurate answers because they'll know more about the situation they're answering about. Researchers are also working on ways to make AI learn from its mistakes, so over time, the models can get better at avoiding hallucinations. By combining all these improvements, future AI technology could greatly reduce the problem of hallucinations, making AI systems more trustworthy and useful for everyone.
+
+## References & Further Reading
+
+[1]: Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., ... & Fung, P. (2023). [Survey of Hallucination in Natural Language Generation.](https://arxiv.org/abs/2202.03629) Transactions of the Association for Computational Linguistics, 11, 709-728.
+
+[2]: Maynez, J., Narayan, S., Bohnet, B., & McDonald, R. (2020). ["On Faithfulness and Factuality in Abstractive Summarization."](https://aclanthology.org/2020.acl-main.173/) Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: Findings.
+
+[3]: Dziri, N., Milton, R. D., Yu, H., & Zaiane, O. R. (2021). ["A Neural QA Model for Geographical Facts in Complex Reasoning."](https://arxiv.org/abs/2204.07931) Proceedings of the 27th International Conference on Computational Linguistics.
+
+[4]: Dou, Z.-Y., Cui, L., Williams, T., & Ni, L. M. (2022). ["Improving Faithfulness in Abstractive Summarization with Contrast Candidate Generation and Selection."](https://www.sciencedirect.com/science/article/pii/S0013468620303078) arXiv preprint arXiv:2203.08436.
+
+[5]: Marcus, G., & Davis, E. (2019). ["Rebooting AI: Building Artificial Intelligence We Can Trust."](https://dl.acm.org/doi/10.5555/3364958) Pantheon Books.

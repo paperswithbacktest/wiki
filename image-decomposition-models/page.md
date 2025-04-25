@@ -109,3 +109,17 @@ In the field of remote sensing, Image Decomposition Models can be used to analyz
 In the future, we can expect Image Decomposition Models to become even better at cleaning up and enhancing images. One big improvement might be in the way these models learn from images. Right now, models like BIDeN use neural networks to separate an image into its clear part and noisy part, which can be shown as $$I = C + N$$, where $I$ is the original image, $C$ is the clear part, and $N$ is the noise. In the future, these models might use even more advanced learning techniques that can handle more types of noise and artifacts, making them useful for even more kinds of images. This could mean clearer photos for photographers, better medical images for doctors, and more accurate satellite images for scientists.
 
 Another area where Image Decomposition Models might improve is in their speed and efficiency. Right now, training these models can take a lot of time and computer power. But in the future, new algorithms and better computers might make it faster and easier to train these models. This would mean that more people could use them, not just those with access to powerful computers. Also, the models might become more flexible, able to work on different devices like smartphones or tablets. This would make it easier for people to clean up and enhance their photos on the go, without needing special equipment or software.
+
+## References & Further Reading
+
+[1]: Hyvärinen, A., & Oja, E. (2000). ["Independent component analysis: Algorithms and applications."](https://www.sciencedirect.com/science/article/pii/S0893608000000265) Neural Networks, 13(4-5), 411-430.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Mallat, S. (1999). ["A Wavelet Tour of Signal Processing."](https://www.sciencedirect.com/book/9780123743701/a-wavelet-tour-of-signal-processing) Academic Press.
+
+[5]: Vincent, P., Larochelle, H., Bengio, Y., & Manzagol, P. A. (2008). ["Extracting and Composing Robust Features with Denoising Autoencoders."](https://dl.acm.org/doi/10.1145/1390156.1390294) Proceedings of the 25th International Conference on Machine Learning.
+
+[6]: Oppenheim, A. V., Schafer, R. W., & Buck, J. R. (1999). ["Discrete-Time Signal Processing."](https://elibrary.pearson.de/book/99.150005/9781292038155) Prentice Hall.

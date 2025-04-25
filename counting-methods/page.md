@@ -81,3 +81,17 @@ Another important way to improve counting methods in large datasets is by reduci
 The latest advancements in counting methods have significantly impacted machine learning by improving the accuracy and efficiency of these techniques. One notable advancement is the development of [deep learning](/wiki/deep-learning)-based counting methods. These methods use neural networks to automatically learn and count objects in images or videos. For example, convolutional neural networks (CNNs) have been used to count objects like cars in traffic or cells in medical images. These deep learning approaches can handle complex scenes and varying object sizes better than traditional counting methods, leading to more accurate counts and better predictions in applications like traffic management and medical diagnostics.
 
 Another advancement is the use of transfer learning in counting methods. Transfer learning allows models to be trained on one task and then fine-tuned for another, which can save time and computational resources. For instance, a model trained to count objects in general images can be fine-tuned to count specific types of objects in a new dataset. This has made it easier to apply counting methods to new domains without starting from scratch. These advancements have broadened the scope of machine learning applications, making counting methods more versatile and effective in real-world scenarios.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: Duda, R. O., Hart, P. E., & Stork, D. G. (2000). ["Pattern Classification."](https://www.scirp.org/reference/referencespapers?referenceid=3173943) John Wiley & Sons.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Cover, T. M., & Hart, P. E. (1967). ["Nearest neighbor pattern classification."](https://ieeexplore.ieee.org/document/1053964) IEEE Transactions on Information Theory, 13(1), 21-27.
+
+[5]: Everingham, M., Gool, L. V., Williams, C. K. I., Winn, J., & Zisserman, A. (2010). ["The Pascal Visual Object Classes (VOC) Challenge."](https://link.springer.com/article/10.1007/s11263-009-0275-4) International Journal of Computer Vision, 88, 303-338.
+
+[6]: Tsung-Yi Lin, Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollar, P., & Zitnick, C. L. (2014). ["Microsoft COCO: Common Objects in Context."](https://arxiv.org/abs/1405.0312) arXiv preprint arXiv:1405.0312.

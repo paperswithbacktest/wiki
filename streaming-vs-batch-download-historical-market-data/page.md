@@ -1,6 +1,7 @@
 ---
-title: "Streaming vs Batch Download Historical Market Data"
-description: Explore the differences between streaming and batch downloads for acquiring historical market data in algorithmic trading. Understand how these methods impact trading strategies, costs, and data management. This article guides traders in optimizing data acquisition strategies by evaluating the advantages and disadvantages of both methods for their specific needs.
+title: Comparing Streaming and Batch Historical Market Data Solutions
+description: Historical market data comparisons highlight streaming and batch downloading
+  pros and cons for faster insights or complete analysis Discover more inside
 ---
 
 

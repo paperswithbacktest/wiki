@@ -1,6 +1,7 @@
 ---
-title: "Strategies to Prevent Emotional Investing"
-description: "Learn how to avoid emotional investing with algorithmic trading Discover behavioral finance strategies to enhance decision-making and minimize biases."
+title: Strategies to Avoid Emotional Investing and Stay Disciplined
+description: Emotional investing leads to poor decisions as feelings win over facts
+  Discover how goal setting and diversification keep you on track Discover more inside
 ---
 
 

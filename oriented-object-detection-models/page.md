@@ -79,3 +79,17 @@ After coding the model, you train it on your prepared dataset. This involves fee
 Future directions in oriented object detection research are likely to focus on making models more accurate and faster. One big area of improvement could be in handling objects that are really close together or partly hidden. Right now, models can struggle with these situations, so researchers might work on new ways to make models better at telling objects apart even when they're overlapping. Another thing researchers might look into is using less data to train models. If models can learn well with fewer images, it would be easier and cheaper to use them in real life. Also, making models smaller and faster could help them work on devices like phones or drones, where there isn't a lot of computer power.
 
 Potential improvements could also come from using new kinds of data, like 3D images or videos. Right now, most models look at regular 2D pictures, but adding depth or movement could help models understand objects better. This could be especially useful for things like self-driving cars, where knowing the exact shape and angle of objects in 3D space is important. Researchers might also explore new ways to use [artificial intelligence](/wiki/ai-artificial-intelligence), like combining oriented object detection with other tasks like tracking objects over time or understanding what's happening in a scene. By working on these areas, researchers can make oriented object detection even more useful and powerful in the future.
+
+## References & Further Reading
+
+[1]: Xia, G.-S., Bai, X., Ding, J., Zhu, Z., & Belongie, S. (2018). ["DOTA: A Large-Scale Dataset for Object Detection in Aerial Images."](https://ieeexplore.ieee.org/document/8578516) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Liu, Z., Yuan, L., Weng, L., & Yang, Y. (2017). ["A High Resolution Optical Satellite Image Dataset for Ship Recognition and Some New Baselines."](https://pdfs.semanticscholar.org/e6a3/2b4df848fd74b43486c5232ebd362eb90416.pdf) arXiv:1609.04830.
+
+[3]: Ding, J., Xue, N., Long, Y., Xia, G.-S., & Lu, Q. (2019). ["Learning RoI Transformer for Oriented Object Detection in Aerial Images."](https://ieeexplore.ieee.org/document/8953881) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Ma, Q., Shao, Z., & Wang, H. (2020). ["Arbitrary-Oriented Object Detection via Anchor-Free Mechanism."](https://www.tandfonline.com/doi/full/10.1080/22797254.2024.2431006) Pattern Analysis and Applications, 23, 1325-1335.
+
+[5]: Zhou, X., Wang, D., & Krähenbühl, P. (2019). ["Objects as Points."](https://arxiv.org/abs/1904.07850) arXiv:1904.07850.
+
+[6]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(6), 1137-1149.

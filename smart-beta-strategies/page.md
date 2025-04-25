@@ -1,6 +1,7 @@
 ---
-title: "Smart beta strategies"
-description: "Explore the benefits and intricacies of smart beta strategies in algo trading from capturing market inefficiencies to cost-efficiency and rapid execution."
+title: Smart Beta Strategies For Optimizing Investment Portfolios
+description: Smart beta strategies use factor based rules to boost returns and manage
+  risk in your portfolio with practical insights Discover more inside
 ---
 
 

@@ -177,3 +177,25 @@ Another advancement is the integration of advanced search algorithms like Monte 
 Experts can contribute to the field of card game models in machine learning by developing new algorithms and techniques that improve the models' performance. They can work on refining reinforcement learning methods, like using more advanced neural network architectures to better understand game dynamics. For example, they might explore deep reinforcement learning to process complex game states and make more accurate predictions about future moves. Experts can also experiment with integrating search algorithms like Monte Carlo Tree Search (MCTS) with neural networks, which has shown great success in games like Poker and Bridge. By doing this, they help the models learn faster and make better decisions during gameplay, using the reward function $$R(s, a)$$ to guide their choices based on the current game state $$s$$ and the action $$a$$ taken by the model.
 
 Another way experts can contribute is by sharing their findings and collaborating with others in the field. They can publish research papers, participate in conferences, and contribute to open-source projects to spread knowledge and foster innovation. For instance, they might develop and share new code libraries or tools that others can use to build and test their own card game models. By working together, experts can push the boundaries of what's possible in card game models, making them more competitive and versatile. This collaborative effort helps the entire field move forward, leading to better models that can play a wider variety of card games and adapt to new situations more effectively.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[2]: Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., ... & Hassabis, D. (2017). ["Mastering the game of Go without human knowledge."](https://www.nature.com/articles/nature24270) Nature, 550(7676), 354-359.
+
+[3]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[4]: Brown, N., & Sandholm, T. (2017). ["Libratus: The Superhuman AI for No-Limit Poker."](https://www.science.org/doi/10.1126/science.aao1733) In Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-18), 5226-5233.
+
+[5]: ["Introduction to Machine Learning in Python: A Guide for Data Scientists"](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413) by Andreas C. Müller and Sarah Guido.
+
+[6]: Tesauro, G. (1995). ["Temporal difference learning and TD-Gammon."](https://dl.acm.org/doi/10.1145/203330.203343) Communications of the ACM, 38(3), 58-68.
+
+[7]: ["Deep Learning"](https://en.wikipedia.org/wiki/Deep_learning) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+
+[8]: ["Playing Atari with Deep Reinforcement Learning"](https://arxiv.org/abs/1312.5602) by Mnih et al. (NIPS 2013).
+
+[9]: ["Artificial Intelligence: A Modern Approach"](https://en.wikipedia.org/wiki/Artificial_Intelligence:_A_Modern_Approach) by Stuart Russell and Peter Norvig.
+
+[10]: ["Reinforcement Learning: State-of-the-Art"](https://link.springer.com/book/10.1007/978-3-642-27645-3) edited by Marco Wiering and Martijn van Otterlo.

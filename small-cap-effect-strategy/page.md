@@ -1,6 +1,7 @@
 ---
-title: "Small-Cap Effect Strategy Explained"
-description: Explore the dynamics of the small-cap effect as it applies to algorithmic trading in this comprehensive guide. Learn how small-cap stocks, known for their high growth potential and volatility, present unique opportunities and challenges for traders using algorithms. Understand the strategies employed to leverage the pricing inefficiencies of small-caps and the significant risks of volatility and liquidity constraints. Discover how algorithmic systems can be optimized for trading small-cap stocks to enhance returns while managing potential downsides. Stay ahead in the rapidly evolving world of algo trading by mastering the small-cap effect.
+title: Understanding the Small-Cap Effect in Investment Strategies
+description: Small-cap effect shows how small companies can outperform larger peers
+  while balancing risk through diversified funds and models Discover more inside
 ---
 
 

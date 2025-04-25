@@ -1,6 +1,7 @@
 ---
-title: "Sudanese Dinar: Overview and Historical Context"
-description: "Dive into the historical significance and economic impact of the Sudanese Dinar and explore the role of algorithmic trading in understanding currency dynamics."
+title: "Evolution and Impact of the Sudanese Dinar on Sudan\u2019s Economy"
+description: Sudanese Dinar aimed to curb inflation and reshape Sudans economy but
+  ultimately lost value amid political turmoil and overprinting Discover more.
 ---
 
 

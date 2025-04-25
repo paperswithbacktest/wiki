@@ -81,3 +81,15 @@ However, AutoML doesn't take away the need for data scientists. They are still i
 In the future, we can expect AutoML to become even easier to use and more powerful. One big change might be that AutoML systems will get better at understanding and working with different types of data. Right now, AutoML can be tricky to use with very complex data or special problems. But in the future, these systems might be able to handle these challenges better, making it easier for more people to use machine learning. They might also use less computer power and time, so even small businesses can use them without spending a lot of money.
 
 Another thing that might happen is that AutoML will become more transparent. Right now, it can be hard to understand why an AutoML system chose a certain model or setting. In the future, these systems might explain their choices better, which would help people trust them more. This could also make it easier for data scientists to work with AutoML, because they would understand what the system is doing and be able to guide it better. Overall, these changes could make AutoML even more helpful for businesses and researchers, letting them solve problems and make discoveries faster and easier.
+
+## References & Further Reading
+
+[1]: Hutter, F., Kotthoff, L., & Vanschoren, J. (Eds.). (2019). ["Automated Machine Learning: Methods, Systems, Challenges."](https://link.springer.com/book/10.1007/978-3-030-05318-5) Springer.
+
+[2]: Thornton, C., Hutter, F., Hoos, H. H., & Leyton-Brown, K. (2013). ["Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms."](https://arxiv.org/abs/1208.3719) In Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Feurer, M., Klein, A., Eggensperger, K., Springenberg, J., Blum, M., & Hutter, F. (2015). ["Efficient and Robust Automated Machine Learning."](https://dl.acm.org/doi/10.5555/2969442.2969547) Advances in Neural Information Processing Systems 28.
+
+[4]: Quanming, Y., Zhao, P., & Zhang, Z. (2018). ["Taking human out of learning applications: A survey on automated machine learning."](https://www.researchgate.net/publication/328651973_Taking_Human_out_of_Learning_Applications_A_Survey_on_Automated_Machine_Learning) ACM Transactions on Intelligent Systems and Technology.
+
+[5]: Lee, J., & Huen, J. (2020). ["AutoML: a survey of the state-of-the-art."](https://www.sciencedirect.com/science/article/pii/S0950705120307516) Artificial Intelligence Review.

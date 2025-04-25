@@ -83,3 +83,15 @@ Another important part of data preprocessing is making sure the data is balanced
 ROC curves and AUC are tools that help you see how well a model is doing at balancing False Positives and True Positives. An ROC curve is a graph that shows how the model's True Positive Rate (TPR) changes as you change the False Positive Rate (FPR). The TPR is how often the model correctly says something is true, and the FPR is how often it wrongly says something is true. You can see this balance by plotting the TPR against the FPR at different decision thresholds. The formula for TPR is $$ \text{TPR} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}} $$, and the formula for FPR is $$ \text{FPR} = \frac{\text{False Positives}}{\text{False Positives} + \text{True Negatives}} $$. If the ROC curve is close to the top-left corner of the graph, it means the model is good at keeping False Positives low while still catching the True Positives.
 
 The Area Under the Curve (AUC) is a number that tells you how well the model is doing overall. It's the area under the ROC curve, and it ranges from 0 to 1. A higher AUC means the model is better at telling the difference between true and false cases. If the AUC is close to 1, the model is doing a great job. If it's close to 0.5, the model is doing no better than guessing. By looking at the ROC curve and the AUC, you can see how well your model is doing at avoiding False Positives and decide if you need to make changes to improve it.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861-874.
+
+[2]: Dietterich, T. G. (2000). ["Ensemble methods in machine learning."](https://link.springer.com/chapter/10.1007/3-540-45014-9_1) In Multiple classifier systems (pp. 1-15). Springer, Berlin, Heidelberg.
+
+[3]: Han, J., Kamber, M., & Pei, J. (2011). ["Data Mining: Concepts and Techniques."](https://www.sciencedirect.com/book/9780123814791/data-mining-concepts-and-techniques) Elsevier.
+
+[4]: Breiman, L. (2001). ["Random forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[5]: Saito, T., & Rehmsmeier, M. (2015). ["The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PloS one, 10(3), e0118432.

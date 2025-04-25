@@ -1,6 +1,7 @@
 ---
-title: "Spillover Effect and Economic Impact"
-description: "Explore the mechanics of algorithmic trading and its influence on global markets through spillover effects, impacting liquidity, volatility, and economic trends."
+title: Understanding Spillover Effects In Economics And Policy
+description: Spillover effects in economics illustrate how business actions impact
+  communities and markets from local growth to global trade Discover more inside.
 ---
 
 

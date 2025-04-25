@@ -87,3 +87,17 @@ To do this, you start with a model that has been trained on a big dataset for a 
 In the future, we can expect one-shot prompting to get even better at learning from just one example. Scientists are working on making the models smarter by improving how they turn pictures and words into numbers. This means the models will be able to understand things like different types of dogs or rare languages even better, even if they've only seen one example. They might use new ways to compare these numbers, like the Euclidean distance $$ \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} $$, to see if things are similar. This will help the models handle variability and noise in the data, making them more reliable and useful in real life.
 
 Another big development will be combining one-shot prompting with other smart techniques, like transfer learning. This means the models will start with knowledge from other tasks and then learn the new task quickly from just one example. For example, a model that knows a lot about animals can use that knowledge to learn about birds from just one picture. By doing this, the models will be able to learn new things faster and with less data. This will make one-shot prompting even more powerful and useful in fields like medicine, where you might not have a lot of data but still need accurate results.
+
+## References & Further Reading
+
+[1]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[2]: Snell, J., Swersky, K., & Zemel, R. (2017). ["Prototypical Networks for Few-shot Learning."](https://arxiv.org/abs/1703.05175) Advances in Neural Information Processing Systems 30.
+
+[3]: Koch, G., Zemel, R., & Salakhutdinov, R. (2015). ["Siamese Neural Networks for One-shot Image Recognition."](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) ICML Deep Learning Workshop.
+
+[4]: Vinyals, O., Blundell, C., Lillicrap, T., Wierstra, D., & Kavukcuoglu, K. (2016). ["Matching Networks for One Shot Learning."](https://arxiv.org/abs/1606.04080) Advances in Neural Information Processing Systems 29.
+
+[5]: Ravi, S., & Larochelle, H. (2016). ["Optimization as a Model for Few-Shot Learning."](https://openreview.net/pdf?id=rJY0-Kcll) International Conference on Learning Representations.
+
+[6]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://ieeexplore.ieee.org/abstract/document/6795963) Neural Computation, 9(8), 1735-1780.

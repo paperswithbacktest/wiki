@@ -1,6 +1,7 @@
 ---
-title: "Stock Loan Fee (Borrow Fee)"
-description: "Explore how borrow fees in securities lending impact algorithmic trading strategies in financial markets and learn how to manage costs effectively."
+title: Understanding Stock Loan Fees in Securities Lending
+description: Stock loan fee impacts short selling profits as values change with borrowing
+  demand and supply in securities lending markets Discover more inside
 ---
 
 

@@ -81,3 +81,21 @@ Lambda interacts with other hyperparameters like the learning rate and the numbe
 One current research trend in machine learning is exploring adaptive Lambda values. Instead of using a fixed Lambda for the whole training process, researchers are working on methods that change Lambda as the model learns. This can help the model start with less regularization to capture important patterns and then increase regularization to avoid overfitting. For example, some researchers use techniques like learning rate schedules to adjust Lambda over time. This approach can lead to better performance because it allows the model to balance complexity and generalization more effectively throughout the training process.
 
 Another trend is using Lambda in combination with other regularization techniques. Researchers are looking at how Lambda can work with methods like dropout, early stopping, and [data augmentation](/wiki/data-augmentation) to improve model performance. For instance, combining L2 regularization ($$ \lambda \sum_{j=1}^{n} \theta_j^2 $$) with dropout can help control overfitting in neural networks. By tuning Lambda alongside these other techniques, researchers aim to create more robust models that perform well on new data. This multi-faceted approach to regularization is becoming more common as machine learning models become more complex and data-driven.
+
+## References & Further Reading
+
+[1]: Ng, A. Y. (2004). ["Feature Selection, L1 vs. L2 Regularization, and Rotational Invariance."](https://dl.acm.org/doi/10.1145/1015330.1015435) Proceedings of the 21st International Conference on Machine Learning.
+
+[2]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://webdoc.agsci.colostate.edu/koontz/arec-econ535/papers/Tibshirani%20(JRSS-B%201996).pdf) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[3]: Zou, H., & Hastie, T. (2005). ["Regularization and Variable Selection via the Elastic Net."](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482) Journal of the Royal Statistical Society: Series B (Statistical Methodology), 67(2), 301-320.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[6]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: with Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.
+
+[7]: Friedman, J., Hastie, T., Höfling, H., & Tibshirani, R. (2007). ["Pathwise Coordinate Optimization."](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-1/issue-2/Pathwise-coordinate-optimization/10.1214/07-AOAS131.full) Annals of Applied Statistics. 
+
+[8]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.

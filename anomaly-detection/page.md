@@ -85,3 +85,25 @@ Another advanced technique is using Generative Adversarial Networks (GANs) for a
 Integrating anomaly detection into real-time systems means the system can find unusual things as they happen. This is really helpful in areas like fraud detection, where you want to stop a bad transaction right away. To do this, you need to make sure your anomaly detection model can work quickly and handle a lot of data coming in all the time. For example, if you're using a simple method like the Z-score, where you calculate $$ Z = \frac{(X - \mu)}{\sigma} $$ to find anomalies, you need to update the mean and standard deviation as new data comes in. This way, the system can keep checking for unusual things without slowing down.
 
 There are some important things to think about when setting up real-time anomaly detection. First, you need to make sure the system can handle a lot of data without getting overwhelmed. This might mean using special tools or hardware that can process data quickly. Second, you need to be careful about false alarms. If the system flags too many normal things as anomalies, it can be annoying and might make people ignore real problems. To fix this, you might need to adjust the model or use more complex methods like machine learning to make the system more accurate. Finally, you need to think about how the system will react when it finds an anomaly. For example, in a fraud detection system, you might want to stop the transaction and alert someone to check it out. Making sure the system can do this quickly and correctly is key to making real-time anomaly detection work well.
+
+## References & Further Reading
+
+[1]: Chandola, V., Banerjee, A., & Kumar, V. (2009). ["Anomaly Detection: A Survey"](https://dl.acm.org/doi/10.1145/1541880.1541882). ACM Computing Surveys, 41(3), 1-58.
+
+[2]: Aggarwal, C. C. (2017). ["Outlier Analysis"](https://link.springer.com/book/10.1007/978-3-319-47578-3) (2nd ed.). Springer.
+
+[3]: Ahmed, M., Mahmood, A. N., & Hu, J. (2016). ["A Survey of Network Anomaly Detection Techniques"](https://www.sciencedirect.com/science/article/pii/S1084804515002891). Journal of Network and Computer Applications, 60, 19-31.
+
+[4]: Hawkins, D. M. (1980). ["Identification of Outliers"](https://archive.org/details/identificationof00hawk). Chapman and Hall.
+
+[5]: Zimek, A., Schubert, E., & Kriegel, H.-P. (2012). ["A Survey on Unsupervised Outlier Detection in High-Dimensional Numerical Data"](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161). Statistical Analysis and Data Mining: The ASA Data Science Journal, 5(5), 363-387.
+
+[6]: Breunig, M. M., Kriegel, H.-P., Ng, R. T., & Sander, J. (2000). ["LOF: Identifying Density-Based Local Outliers"](https://dl.acm.org/doi/10.1145/335191.335388). In Proceedings of the 2000 ACM SIGMOD International Conference on Management of Data, 93-104.
+
+[7]: Pang, G., Shen, C., Cao, L., & Hengel, A. V. D. (2019). ["Deep Learning for Anomaly Detection: A Review"](https://arxiv.org/abs/2007.02500). arXiv preprint arXiv:2007.02500.
+
+[8]: Hodge, V. J., & Austin, J. (2004). ["A Survey of Outlier Detection Methodologies"](https://link.springer.com/article/10.1023/B:AIRE.0000045502.10941.a9). Artificial Intelligence Review, 22(2), 85-126.
+
+[9]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[10]: Ruff, L., Kauffmann, J.R., Vandermeulen, R.A., Vandermeulen, R.A., Görnitz, N., Deecke, L., Siddiqui, S.A., Müller, E., & Kloft, M. (2019). ["A Unifying Review of Deep and Shallow Anomaly Detection"](https://arxiv.org/abs/2009.11732). arXiv preprint arXiv:2009.00919.

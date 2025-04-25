@@ -81,3 +81,21 @@ To make sure the model keeps working well, you need to keep it updated with new 
 One of the latest advancements in predictive machine learning is the use of [deep learning](/wiki/deep-learning) techniques, which are a type of [neural network](/wiki/neural-network) that can learn from very large amounts of data. Deep learning models, like convolutional neural networks (CNNs) and recurrent neural networks (RNNs), are good at finding complex patterns in data, like images or sequences. For example, they can be used to predict what customers might buy next based on their past purchases or to predict if a picture shows a certain object. These models are powerful because they can learn from raw data without needing a lot of feature engineering, which makes them easier to use for some problems.
 
 Another advancement is in the area of automated machine learning (AutoML). AutoML tools help people build predictive models without needing to know a lot about machine learning. They do this by automatically choosing the best algorithm and tuning its settings. For example, if you want to predict sales, an AutoML tool can try different models and pick the one that works best. This makes it easier for businesses to use predictive machine learning, even if they don't have experts on their team. By automating parts of the process, AutoML helps make predictive machine learning faster and more accessible.
+
+## References & Further Reading
+
+[1]: Jordan, M. I., & Mitchell, T. M. (2015). ["Machine learning: Trends, perspectives, and prospects."](https://pubmed.ncbi.nlm.nih.gov/26185243/) Science, 349(6245), 255-260.
+
+[2]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[3]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[4]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Witten, I. H., Frank, E., Hall, M. A., & Pal, C. J. (2016). ["Data Mining: Practical Machine Learning Tools and Techniques."](https://www.sciencedirect.com/book/9780123748560/data-mining-practical-machine-learning-tools-and-techniques) Elsevier.
+
+[7]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[8]: Russell, S. J., & Norvig, P. (2010). ["Artificial Intelligence: A Modern Approach."](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) Prentice Hall.

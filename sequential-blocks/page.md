@@ -117,3 +117,19 @@ Another advancement is the integration of attention mechanisms into the CBHG mod
 Sequential Blocks are simpler and easier to understand than Transformers. They work well for many tasks, like recognizing images or understanding short sentences. But they can struggle with very long sequences or complex data because they process information in a straightforward, step-by-step way. This means they might miss important details that come later in the data. For example, if you're trying to understand a long speech, a Sequential Block might not remember what was said at the beginning by the time it gets to the end.
 
 Transformers, on the other hand, are much better at handling long sequences and complex data. They use something called attention mechanisms, which let them look at all parts of the data at once and focus on what's most important. This makes them really good at tasks like translating languages or summarizing long texts. But Transformers can be harder to set up and need more computing power. So, while they might be more efficient and perform better for certain tasks, they're also more complex and might not be the best choice for every situation.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444. DOI: 10.1038/nature14539
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[4]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[5]: Rahman, A. (2019). ["TensorFlow 2.0 Computer Vision Cookbook."](https://ieeexplore.ieee.org/document/10163225) Packt Publishing.
+
+[6]: Srivastava, R. K., Greff, K., & Schmidhuber, J. (2015). ["Highway Networks."](https://arxiv.org/abs/1505.00387) arXiv preprint arXiv:1505.00387.
+
+[7]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.

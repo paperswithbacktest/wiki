@@ -81,3 +81,17 @@ One way to handle this challenge is to use fairness-aware algorithms, which try 
 Advanced machine learning models, like [deep learning](/wiki/deep-learning), can handle disparate impact differently from traditional models because they are more complex and can find very detailed patterns in the data. If the data has biases, these models might learn those biases and make unfair decisions. For example, a deep learning model used for hiring might pick up on small differences in how resumes from different groups look, even if those differences don't matter for the job. This can lead to the model treating people unfairly, even if the developers didn't mean for that to happen. Traditional models, like decision trees, are simpler and easier to understand, which can make it easier to spot and fix biases.
 
 To deal with disparate impact, developers can use special techniques with deep learning models. They might use fairness-aware algorithms that try to treat everyone fairly. These algorithms can change how the model learns from the data or adjust the model's decisions to make them more equal for different groups. For instance, if a deep learning model tends to approve loans for men more often than for women, a fairness-aware algorithm might adjust the approval rates to make them more equal across genders. By using these techniques, developers can help make sure their deep learning models do not unfairly impact certain groups of people, even though these models are more complex and harder to control than traditional ones.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) fairmlbook.org.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys, 54(6), Article 115.
+
+[3]: Corbett-Davies, S., & Goel, S. (2018). ["The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning."](https://arxiv.org/abs/1808.00023) arXiv:1808.00023.
+
+[4]: Binns, R. (2018). ["Fairness in Machine Learning: Lessons from Political Philosophy."](https://proceedings.mlr.press/v81/binns18a.html) Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT*).
+
+[5]: Chouldechova, A., & Roth, A. (2020). ["A Snapshot of the Frontiers of Fairness in Machine Learning."](https://dl.acm.org/doi/10.1145/3376898) Communications of the ACM, 63(5), 82-89.
+
+[6]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) arXiv:1609.05807.

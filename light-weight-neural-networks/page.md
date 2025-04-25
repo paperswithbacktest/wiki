@@ -83,3 +83,23 @@ The key difference between FBNet and MobileNet is how they achieve their light-w
 MobileViTv2 and MobileViTv3 are advanced models that make AI work better on small devices like phones and tablets. They do this by mixing special parts called vision transformers with regular parts called convolutional layers. Vision transformers are good at understanding big pictures, while convolutional layers are fast and use less power. By putting these together in a smart way, MobileViTv2 and MobileViTv3 can recognize things in pictures quickly and accurately without using too much battery. They also use something called "multi-scale feature fusion," which means they look at the picture in different ways to get more information. This helps them do a better job at tasks like finding objects or understanding what's happening in a scene.
 
 Another way MobileViTv2 and MobileViTv3 enhance performance on edge devices is by making their parts smaller and more efficient. They use special building blocks that are designed to use fewer calculations while still doing a good job. This means they can run on devices that don't have a lot of power. For example, MobileViTv2 and MobileViTv3 use smaller versions of the vision transformer blocks, which are easier to run on phones. They also use techniques like "cheap operations" to add more details without using a lot of power. By doing this, MobileViTv2 and MobileViTv3 make it easier to use AI on everyday devices, helping more people use advanced technology without needing big, expensive computers.
+
+## References & Further Reading
+
+[1]: Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L.-C. (2018). ["MobileNetV2: Inverted Residuals and Linear Bottlenecks."](https://arxiv.org/abs/1801.04381) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Iandola, F. N., Han, S., Moskewicz, M. W., Ashraf, K., Dally, W. J., & Keutzer, K. (2016). ["SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size."](https://arxiv.org/abs/1602.07360) arXiv preprint.
+
+[3]: Howard, A. G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W., Weyand, T., & Adam, H. (2017). ["MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications."](https://arxiv.org/abs/1704.04861) arXiv preprint.
+
+[4]: Howard, A., Sandler, M., Chu, G., Chen, L.-C., Chen, B., Tan, M., Wang, W., Zhu, Y., Pang, R., Vasudevan, V., & Le, Q. V. (2019). ["Searching for MobileNetV3."](https://arxiv.org/abs/1905.02244) arXiv preprint.
+
+[5]: Zhang, X., Zhou, X., Lin, M., & Sun, J. (2018). ["ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices."](https://ieeexplore.ieee.org/document/8578814) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Han, K., Wang, Y., Zhang, Q., Zhang, W., Xu, C., & Tao, D. (2020). ["GhostNet: More Features from Cheap Operations."](https://ieeexplore.ieee.org/document/9157333) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Mehta, S., & Rastegari, M. (2021). ["MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer."](https://arxiv.org/abs/2110.02178) arXiv preprint.
+
+[8]: Tan, M., Chen, B., Pang, R., Vasudevan, V., & Le, Q. V. (2019). ["MnasNet: Platform-Aware Neural Architecture Search for Mobile."](https://arxiv.org/abs/1807.11626) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[9]: Wu, B., Dai, X., Zhang, P., Wang, Y., Sun, F., Wu, Y., & Tian, Y. (2019). ["FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search."](https://arxiv.org/abs/1812.03443) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).

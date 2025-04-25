@@ -81,3 +81,19 @@ The way semi-supervised learning uses labels is by starting with the labeled dat
 Label propagation in graph-based learning is a cool way to guess labels for data that doesn't have them yet. Imagine you have a bunch of pictures of animals, and some are labeled as "cat" or "dog," but others aren't. You can think of these pictures as connected in a big web, where similar pictures are close to each other. In label propagation, you start with the labeled pictures and let the labels "spread" to the unlabeled ones based on how connected they are. The idea is that if a picture is close to a bunch of "cat" pictures, it's probably a cat too. This method can help you label a lot of data without having to do it all by hand.
 
 There are a few smart ways to do label propagation in graphs. One popular method is called "Label Propagation Algorithm" (LPA). In LPA, you start by giving each node (which is like a picture in our example) a label. Then, you keep updating the labels of the nodes based on what their neighbors are labeled. Over time, the labels spread out and become more stable. Another method is "Label Spreading," which is similar but uses a different way to update the labels, making sure the process is smoother and less likely to get stuck. Both methods help you use the labeled data you have to figure out the labels for the rest, making your machine learning model better at guessing what things are.
+
+## References & Further Reading
+
+[1]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[2]: Chapelle, O., Scholkopf, B., & Zien, A. (2006). ["Semi-Supervised Learning."](https://ieeexplore.ieee.org/abstract/document/4787647) MIT Press.
+
+[3]: Zhu, X. (2005). ["Semi-supervised learning literature survey."](https://www.minds.wisconsin.edu/handle/1793/60444) Computer Sciences Technical Report 1530, University of Wisconsin-Madison.
+
+[4]: Weiss, G. M. (2004). ["Mining with Rarity: A Unifying Framework."](https://dl.acm.org/doi/10.1145/1007730.1007734) SIGKDD Explorations.
+
+[5]: Van Engelen, J. E., & Hoos, H. H. (2020). ["A survey on semi-supervised learning."](https://link.springer.com/article/10.1007/s10994-019-05855-6) Machine Learning, 109(2), 373-440.
+
+[6]: Wang, S., & Manning, C. (2014). ["Fast dropout training."](https://nlp.stanford.edu/pubs/sidaw13fast.pdf) Journal of Machine Learning Research, 15, 1181-1206.
+
+[7]: Settles, B. (2009). ["Active learning literature survey."](https://burrsettles.com/pub/settles.activelearning.pdf) Computer Sciences Technical Report 1648, University of Wisconsin-Madison.

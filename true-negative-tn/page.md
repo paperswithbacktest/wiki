@@ -79,3 +79,15 @@ Another technique is ensemble methods, like boosting or bagging. These methods c
 In multi-class classification, where a model has to choose between more than two classes, True Negatives can be a bit trickier to understand. In this setup, a True Negative happens when the model correctly says that an example doesn't belong to a certain class. For example, if you're classifying animals into cats, dogs, and birds, and the model says a picture is not a cat and it's really not a cat, that's a True Negative for the "cat" class. But, because there are multiple classes, you might have True Negatives for each class. So, if the picture is actually a dog, it's a True Negative for both the "cat" and "bird" classes.
 
 To measure how well the model does at getting True Negatives in multi-class problems, we can use something called specificity for each class. Specificity tells us how good the model is at saying "no" when it should for a specific class. The formula for specificity in a multi-class setting is the same as in binary classification, but you calculate it for each class. For example, for the "cat" class, specificity would be $$ \text{Specificity}_{\text{cat}} = \frac{\text{True Negatives}_{\text{cat}}}{\text{True Negatives}_{\text{cat}} + \text{False Positives}_{\text{cat}}} $$. By looking at the specificity for each class, we can see how well the model does at correctly saying "no" to each class, which helps us understand its overall performance in multi-class classification.
+
+## References & Further Reading
+
+[1]: Saito, T., & Rehmsmeier, M. (2015). ["The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) Knowledge and Information Systems, 42(3), 627-644.
+
+[2]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Fawcett, T. (2006). ["An Introduction to ROC Analysis."](https://www.researchgate.net/publication/222511520_Introduction_to_ROC_analysis) Pattern Recognition Letters, 27(8), 861-874.
+
+[4]: Provost, F., & Fawcett, T. (2013). ["Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking."](https://www.researchgate.net/publication/256438799_Data_Science_for_Business) O'Reilly Media.
+
+[5]: Hand, D. J., & Anagnostopoulos, C. (2014). ["A Handbook of Statistical Analyses using SAS."](https://www.ehu.eus/ccwintco/uploads/9/93/A_Handbook_of_Statistical_Analyses_Using_R_Second_Edition.pdf) Chapman and Hall/CRC.

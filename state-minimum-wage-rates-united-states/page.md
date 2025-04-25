@@ -1,6 +1,7 @@
 ---
-title: "State Minimum Wage Rates in the United States"
-description: "Explore the intersection of state wage laws and algorithmic trading in the US Learn how shifts in minimum wage policies can create trading opportunities and risks"
+title: Understanding State Minimum Wage Policies and Their Impact
+description: State Minimum Wage differences influence worker pay and business costs.
+  Explore how rate variations impact employment and trends. Discover more inside.
 ---
 
 

@@ -79,3 +79,15 @@ In practice, temperature scaling works by adjusting the softmax function used in
 One of the latest advancements in distillation techniques is the use of self-distillation. In self-distillation, a model learns from itself instead of a separate teacher model. This means the model can improve its own performance by using its predictions as a guide. Self-distillation is helpful because it doesn't need a big, complicated teacher model, making it easier to use and more efficient. Researchers have found that by letting the model learn from its own softened predictions, it can become better at its job without needing extra resources.
 
 Another advancement is the use of multi-teacher distillation. Instead of using just one teacher model, this method uses several teacher models to teach the student. Each teacher might be good at different parts of the task, so by learning from all of them, the student can get a more complete understanding. This can lead to better performance and more robust models. For example, if $$ T_1, T_2, \ldots, T_n $$ are the teacher models, the student model can learn from the combined knowledge of all these teachers, making it stronger and more versatile.
+
+## References & Further Reading
+
+[1]: Hinton, G., Vinyals, O., & Dean, J. (2015). ["Distilling the Knowledge in a Neural Network."](https://arxiv.org/abs/1503.02531) arXiv preprint arXiv:1503.02531.
+
+[2]: Ba, J., & Caruana, R. (2014). ["Do Deep Nets Really Need to be Deep?"](https://arxiv.org/abs/1312.6184) Advances in Neural Information Processing Systems 27.
+
+[3]: Buciluǎ, C., Caruana, R., & Niculescu-Mizil, A. (2006). ["Model Compression."](https://dl.acm.org/doi/10.1145/1150402.1150464) Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[4]: Gou, J., Yu, B., Maybank, S.J., & Tao, D. (2021). ["Knowledge Distillation: A Survey."](https://arxiv.org/abs/2006.05525) International Journal on Artificial Intelligence Tools.
+
+[5]: Furlanello, T., Lipton, Z.C., Tschannen, M., Itti, L., & Anandkumar, A. (2018). ["Born-Again Neural Networks."](https://arxiv.org/abs/1805.04770) International Conference on Machine Learning.

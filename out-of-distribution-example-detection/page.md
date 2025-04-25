@@ -81,3 +81,15 @@ Another way to add OOD detection is by using simpler methods like MSP or ODIN. T
 Current research in OOD example detection is focusing on making methods better at telling the difference between what a model knows and what it doesn't know. Scientists are looking into new ways to measure how different a new example is from the training data. For example, they're working on improving the Mahalanobis distance, which is used in methods like DIME. The formula for Mahalanobis distance is $$D(\mathbf{x}) = \sqrt{(\mathbf{x} - \boldsymbol{\mu})^T \boldsymbol{\Sigma}^{-1} (\mathbf{x} - \boldsymbol{\mu})}$$. They're also trying to use more of the model's inner workings, like its layers and how confident it is, to spot OOD examples more accurately. Another big focus is on making OOD detection work well with less extra data, because getting lots of OOD examples can be hard.
 
 Future challenges in OOD example detection include making these methods work faster and use less computer power. In real-life situations like self-driving cars or medical diagnosis, speed is really important. Adding OOD detection can slow things down, so researchers need to find ways to do it quickly without losing accuracy. Another challenge is making OOD detection work well in all sorts of different situations. Right now, a method might work well on one type of data but not on another. Scientists want to make OOD detection methods that can handle many different kinds of data and still spot new and different examples correctly. This means they need to keep testing and improving these methods to make them more reliable and useful in the real world.
+
+## References & Further Reading
+
+[1]: Hendrycks, D., & Gimpel, K. (2017). ["A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks."](https://arxiv.org/abs/1610.02136) arXiv preprint arXiv:1610.02136.
+
+[2]: Lee, K., Lee, H., Lee, K., & Shin, J. (2018). ["A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks."](https://arxiv.org/abs/1807.03888) Advances in Neural Information Processing Systems 31.
+
+[3]: Liang, S., Li, Y., & Srikant, R. (2018). ["Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks."](https://arxiv.org/abs/1706.02690) arXiv preprint arXiv:1706.02690.
+
+[4]: DeVries, T., & Taylor, G. W. (2018). ["Learning Confidence for Out-of-Distribution Detection in Neural Networks."](https://arxiv.org/abs/1802.04865) arXiv preprint arXiv:1802.04865.
+
+[5]: Ren, J., Liu, P., Fertig, E., Snoek, J., Poplin, R., DePristo, M., Dillon, J., & Lakshminarayanan, B. (2019). ["Likelihood Ratios for Out-of-Distribution Detection."](https://arxiv.org/abs/1906.02845) Advances in Neural Information Processing Systems 32.

@@ -1,6 +1,7 @@
 ---
-title: "Structural Pivot: Concept and Function"
-description: "Explore the dynamic interplay between structural pivots and algorithmic trading to enhance business adaptability and ensure competitive edges in shifting markets."
+title: Understanding Structural Pivots in Business and Architecture
+description: Structural pivot insights on business model shifts and architectural
+  hinge design with materials choices and engineering principles Discover more inside.
 ---
 
 

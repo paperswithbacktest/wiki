@@ -81,3 +81,17 @@ Another ethical issue is privacy. Action machine learning often needs a lot of d
 A great example of action machine learning impacting a business is how Google used it to improve its data center cooling systems. Data centers are big buildings full of computers that need to stay cool to work properly. Google used action machine learning to help control the cooling systems. They set up an agent that tried different ways to cool the data center and learned from the results. If the agent found a way to cool the center using less energy, it got a reward. Over time, the agent learned the best ways to keep the data center cool while saving a lot of energy. This saved Google a lot of money and helped the environment by using less power.
 
 Another case study is how action machine learning helped Amazon improve its warehouse operations. Amazon uses robots to move things around in its warehouses. These robots need to find the best way to pick up and move items quickly. Amazon used action machine learning to teach the robots. The robots tried different paths and ways of moving items, and they learned from the results. If a robot found a faster way to move an item, it got a reward. Over time, the robots learned the best ways to work, making the warehouse operations faster and more efficient. This helped Amazon deliver items to customers more quickly and saved them money on operations.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) (2nd ed.). MIT Press.
+
+[2]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[3]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2016). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.
+
+[4]: Silver, D., Huang, A., Maddison, C. J., Guez, A., Sifre, L., van den Driessche, G., ... & Hassabis, D. (2016). ["Mastering the game of Go with deep neural networks and tree search."](https://www.nature.com/articles/nature16961) Nature, 529(7587), 484-489.
+
+[5]: Talor, A., & Stone, P. (2009). ["Transfer learning for reinforcement learning domains: A survey."](https://jmlr.csail.mit.edu/papers/volume10/taylor09a/taylor09a.pdf) Journal of Machine Learning Research, 10, 1633-1685.
+
+[6]: Schulman, J., Wolski, F., Dhariwal, P., Radford, A., & Klimov, O. (2017). ["Proximal policy optimization algorithms."](https://arxiv.org/abs/1707.06347) arXiv preprint arXiv:1707.06347.

@@ -83,3 +83,15 @@ There are different types of ensemble methods, like bagging and boosting. Baggin
 To evaluate how well a model can generalize to new data, we can use advanced metrics like the Area Under the Receiver Operating Characteristic Curve (AUC-ROC) and the Area Under the Precision-Recall Curve (AUC-PR). The AUC-ROC measures how well a model can distinguish between positive and negative classes across different thresholds. A higher AUC-ROC value means the model is better at telling the difference between the classes, which is a good sign of good generalization. The AUC-PR is useful when the classes are imbalanced, meaning one class has a lot more examples than the other. It focuses on the model's ability to find all the positive examples while keeping the number of false positives low. Both of these metrics give us a more complete picture of how well the model will work on new data.
 
 Another useful metric is the Mean Absolute Error (MAE) or the Root Mean Squared Error (RMSE) for regression problems. These metrics measure how far off the model's predictions are from the actual values. The MAE is the average of the absolute differences between predictions and actual values, while the RMSE is the square root of the average of the squared differences. Both give us a sense of how well the model generalizes, but RMSE puts more weight on larger errors. For example, the formulas for these metrics are $$ \text{MAE} = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i| $$ and $$ \text{RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2} $$, where $y_i$ is the actual value, $\hat{y}_i$ is the predicted value, and $n$ is the number of samples. By using these advanced metrics, we can better understand and improve a model's ability to generalize to new, unseen data.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Ng, A. Y. (2004). ["Feature selection, L1 vs. L2 regularization, and rotational invariance."](https://dl.acm.org/doi/10.1145/1015330.1015435) Proceedings of the twenty-first International Conference on Machine Learning.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

@@ -92,3 +92,23 @@ In this matrix, 'A' stands for apples, 'O' for oranges, and 'B' for bananas. Eac
 In recent years, one big trend in multi-class classification has been the use of [deep learning](/wiki/deep-learning) methods, especially neural networks. Researchers are finding that these models can handle a lot of classes really well, especially when you have a lot of data. They use special layers called "softmax" layers at the end of the network to turn the model's guesses into probabilities for each class. The formula for the softmax function is $$ \text{softmax}(z_i) = \frac{e^{z_i}}{\sum_{j=1}^K e^{z_j}} $$, where $z_i$ is the model's output for class $i$ and $K$ is the total number of classes. This helps the model figure out which class is most likely for each example. Another trend is using "transfer learning," where you take a model that's already good at one task and use it to help with multi-class classification. This can save time and make your model better, especially when you don't have a lot of data for all the classes.
 
 Another important trend is working on ways to handle imbalanced datasets in multi-class classification. Researchers are coming up with new methods like "focal loss" to make sure the model pays more attention to the less common classes. The formula for focal loss is $$ FL(p_t) = -\alpha_t (1-p_t)^\gamma \log(p_t) $$, where $p_t$ is the model's estimated probability for the correct class, $\alpha_t$ is a weighting [factor](/wiki/factor-investing), and $\gamma$ is a focusing parameter. This helps the model learn better about the classes it might miss otherwise. Also, there's a lot of work on "ensemble methods," where you use several models together to make better predictions. For example, you might use a "random forest" which is a bunch of decision trees working together. These methods can make your model more accurate and help it deal with tricky problems where some classes are hard to tell apart.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Cover, T. M., & Thomas, J. A. (2006). ["Elements of Information Theory."](https://onlinelibrary.wiley.com/doi/book/10.1002/047174882X) Wiley-Interscience.
+
+[6]: Vapnik, V. N. (1998). ["Statistical Learning Theory."](https://link.springer.com/book/10.1007/978-1-4757-3264-1) Wiley.
+
+[7]: Dietterich, T. G., & Bakiri, G. (1995). ["Solving Multiclass Learning Problems via Error-Correcting Output Codes."](https://www.jair.org/index.php/jair/article/view/10127) Journal of Artificial Intelligence Research, 2, 263-286.
+
+[8]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[9]: Kohavi, R. (1995). ["A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection."](https://dl.acm.org/doi/10.5555/1643031.1643047) In Proceedings of the 14th International Joint Conference on Artificial Intelligence (Vol. 2, pp. 1137-1143).

@@ -79,3 +79,15 @@ These methods also help us avoid overfitting, which is when a model learns too m
 Current research trends in tensor rank for machine learning focus a lot on making models work better with big data. Scientists are trying to find new ways to use tensor decomposition to understand data better and make models simpler. One big trend is using low-rank tensor methods to improve how we process images, videos, and other complex data. Researchers are also looking into how these methods can help with recommendation systems, where understanding patterns in user behavior is key. Another exciting area is using tensor rank to make neural networks smaller and faster, which is important for putting machine learning on devices like phones and cars.
 
 Future directions in this field are all about making these methods even better and easier to use. Researchers are working on new algorithms that can find the rank of tensors more accurately and quickly, even for very high-dimensional data. There's also a lot of interest in how tensor rank can help with other types of data, like text and sound. By understanding the rank of tensors, we might be able to build models that learn from data in new ways, making them more powerful and useful. The goal is to keep making machine learning more efficient and effective, so it can handle the huge amounts of data we have today and in the future.
+
+## References & Further Reading
+
+[1]: Kolda, T. G., & Bader, B. W. (2009). ["Tensor Decompositions and Applications."](http://www.kolda.net/publication/TensorReview.pdf) SIAM Review, 51(3), 455-500.
+
+[2]: Sidiropoulos, N. D., De Lathauwer, L., Fu, X., Huang, K., Papalexakis, E. E., & Faloutsos, C. (2017). ["Tensor Decomposition for Signal Processing and Machine Learning."](https://ieeexplore.ieee.org/document/7891546) IEEE Transactions on Signal Processing, 65(13), 3551-3582.
+
+[3]: Cichocki, A., Mamun, K., & Rahman, M. A. (2015). ["Tensor Networks for Dimensionality Reduction and Large-scale Optimization: Part 1 Low-Rank Tensor Decompositions."](https://ieeexplore.ieee.org/document/8187112) Foundations and Trends® in Machine Learning, 9(4-5), 249-429.
+
+[4]: Zhang, Z., & Qi, J. (2018). ["Tensor Completion via Truncated Nuclear Norm Regularization."](https://www.sciencedirect.com/science/article/pii/S1047320320300419) SIAM Journal on Scientific Computing, 40(4), A2122-A2150.
+
+[5]: Martinetz, T., & Strickert, M. (2004). ["Unsupervised Neural Network Models for Tensor Data Processing."](https://www.sciencedirect.com/science/article/pii/S0893608004001510) Proceedings of the 4th International ICSC Symposium on Soft Computing and Intelligent Systems for Industry.

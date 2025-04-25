@@ -1,6 +1,7 @@
 ---
-title: "Stock Market Index"
-description: "Unlock the potential of stock market indices and algorithmic trading to enhance investment strategies and stay ahead in the dynamic global financial markets"
+title: Complete Guide to Stock Market Indices and Their Applications
+description: Stock market indices reveal how diverse stocks perform by explaining
+  calculation methods, index types, and investor applications Discover more inside
 ---
 
 

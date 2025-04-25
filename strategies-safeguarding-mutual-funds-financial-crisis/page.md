@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Safeguarding Mutual Funds During a Financial Crisis"
-description: "Discover strategies for protecting mutual funds during financial crises using algo trading to mitigate risks and seize growth prospects in volatile markets."
+title: Protecting Mutual Fund Investments During Financial Crises
+description: Mutual funds use diversification asset allocation and rebalancing to
+  manage risk and protect portfolios in a financial crisis Discover more inside
 ---
 
 

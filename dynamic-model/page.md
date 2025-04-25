@@ -83,3 +83,23 @@ Another technique is using [reinforcement learning](/wiki/reinforcement-learning
 Recent advancements in dynamic modeling within machine learning have focused on improving the adaptability and accuracy of these models. One significant development is the use of [deep learning](/wiki/deep-learning) techniques, like recurrent neural networks (RNNs) and long short-term memory (LSTM) networks, which are particularly good at handling sequences of data. These models can remember long-term patterns and are widely used for tasks like predicting stock prices or weather forecasts. For example, an LSTM network might use a formula like $$ y_t = f(y_{t-1}, x_t, \theta) $$ to update its state and make better predictions as new data comes in. This helps the model learn from the past and adapt to new situations more effectively.
 
 Another advancement is the integration of reinforcement learning into dynamic models. This technique allows the model to learn from its mistakes and improve over time, much like how a person learns from experience. For instance, a model predicting traffic patterns might use reinforcement learning to adjust its predictions based on real-time data. This approach can make dynamic models more robust and better at handling unexpected changes in the data. These advancements are making dynamic models more powerful and useful in real-world applications where data is constantly changing.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) Second Edition. MIT Press.
+
+[3]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) Neural Computation, 9(8), 1735-1780.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[5]: Box, G. E. P., Jenkins, G. M., & Reinsel, G. C. (2008). ["Time Series Analysis: Forecasting and Control."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118619193) Wiley. 
+
+[6]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747. 
+
+[7]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press. 
+
+[8]: Ba, J. L., & Caruana, R. (2014). ["Do Deep Nets Really Need to be Deep?"](https://arxiv.org/abs/1312.6184) Advances in Neural Information Processing Systems 27. 
+
+[9]: Kalman, R. E. (1960). ["A New Approach to Linear Filtering and Prediction Problems."](https://www.cs.unc.edu/~welch/kalman/media/pdf/Kalman1960.pdf) Journal of Basic Engineering, 82, 35-45.

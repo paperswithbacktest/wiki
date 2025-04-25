@@ -1,6 +1,7 @@
 ---
-title: "Sunk Cost Dilemma: Explanation and Illustration"
-description: "Discover how the sunk cost dilemma impacts algorithmic trading and explore strategies to overcome this bias for more rational and profitable trading decisions."
+title: Understanding the Sunk Cost Dilemma for Better Decisions
+description: Sunk cost dilemma awareness helps you stop unproductive commitments and
+  refocus on high-value opportunities now to maximize results Discover more inside
 ---
 
 

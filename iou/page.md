@@ -81,3 +81,19 @@ Another pitfall is not understanding how small changes can affect IOU. If the co
 In state-of-the-art object detection frameworks, IOU, or Intersection over Union, is a key metric used to evaluate how well the model detects objects. The formula for IOU is $$ \text{IOU} = \frac{\text{Area of Intersection}}{\text{Area of Union}} $$. Modern frameworks like YOLO (You Only Look Once) and Faster R-CNN use IOU during both training and evaluation to fine-tune their predictions. During training, IOU can be part of the loss function, helping the model learn to make its bounding boxes more accurate. For example, if a model predicts a box around a car, IOU helps measure how well that box matches the real car's position and size, guiding the model to improve its guesses.
 
 These frameworks also use IOU to filter and refine detections during the inference stage. Techniques like non-maximum suppression (NMS) rely on IOU to remove overlapping detections, keeping only the most accurate ones. For instance, if a model detects multiple boxes around the same object, NMS will use IOU to decide which box is the best fit and discard the others. This helps in achieving higher precision and recall, making the overall detection performance better. By incorporating IOU in such ways, state-of-the-art object detection frameworks can significantly enhance their ability to accurately identify and locate objects in images.
+
+## References & Further Reading
+
+[1]: Everingham, M., Eslami, S. M. A., Van Gool, L., Williams, C. K. I., Winn, J., & Zisserman, A. (2015). ["The Pascal Visual Object Classes Challenge: A Retrospective."](https://link.springer.com/article/10.1007/s11263-014-0733-5) International Journal of Computer Vision, 111(1), 98-136.
+
+[2]: Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). ["You Only Look Once: Unified, Real-Time Object Detection."](https://ieeexplore.ieee.org/document/7780460) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Ren, S., He, K., Girshick, R., & Sun, J. (2015). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) Advances in Neural Information Processing Systems (NeurIPS).
+
+[4]: He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). ["Mask R-CNN."](https://ieeexplore.ieee.org/document/8237584) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[5]: Jaccard, P. (1912). ["The distribution of the flora in the alpine zone."](https://nph.onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-8137.1912.tb05611.x) New Phytologist, 11(2), 37-50. (Original source for the Jaccard index, related to IOU).
+
+[6]: Huang, J., Rathod, V., Sun, C., Zhu, M., Korattikara, A., Fathi, A., ... & Murphy, K. (2017). ["Speed/accuracy trade-offs for modern convolutional object detectors."](https://arxiv.org/abs/1611.10012) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Girshick, R. (2015). ["Fast R-CNN."](https://arxiv.org/abs/1504.08083) Proceedings of the IEEE International Conference on Computer Vision (ICCV).

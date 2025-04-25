@@ -1,6 +1,7 @@
 ---
-title: "Starbucks Index: Overview, Mechanism, and Criticisms"
-description: "Explore how the Starbucks Index provides a unique economic perspective on currency valuation through latte price comparisons, aiding insights in algo trading."
+title: Understanding the Starbucks Index as a Cost of Living Indicator
+description: Starbucks Index uses global tall latte prices to illustrate cost of living
+  variations across countries in clear language Discover more inside
 ---
 
 

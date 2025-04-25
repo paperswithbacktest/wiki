@@ -79,3 +79,17 @@ Another advanced technique is Dueling DQN. This splits the neural network into t
 To evaluate how well a DQN model is doing, you can look at a few important things. One key metric is the total reward the agent gets over time. This shows how good the agent is at making choices that lead to more rewards. You can also look at how the average reward changes as the agent keeps learning. If the average reward goes up, it means the DQN is getting better at figuring out the best actions. Another useful metric is the number of steps or episodes it takes for the agent to finish a task. If this number goes down, it means the DQN is learning to do the task faster.
 
 Another way to check the DQN's performance is by comparing it to other methods or to a random agent. If the DQN does better than a random agent or other methods, it shows that it's learning well. You can also use something called the Q-value error to see how accurate the DQN's guesses are. This is the difference between the Q-values the DQN predicts and the true Q-values. If this error gets smaller over time, it means the DQN is getting better at guessing how good each action is. By looking at these metrics, you can get a good idea of how well the DQN is working and where it might need to improve.
+
+## References & Further Reading
+
+[1]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[2]: Van Hasselt, H., Guez, A., & Silver, D. (2016). ["Deep reinforcement learning with double Q-learning."](https://arxiv.org/abs/1509.06461) In Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (pp. 2094-2100).
+
+[3]: Schaul, T., Quan, J., Antonoglou, I., & Silver, D. (2016). ["Prioritized experience replay."](https://arxiv.org/abs/1511.05952) In International Conference on Learning Representations.
+
+[4]: Wang, Z., Schaul, T., Hessel, M., Hasselt, H. V., Lanctot, M., & Freitas, N. (2016). ["Dueling Network Architectures for Deep Reinforcement Learning."](https://arxiv.org/abs/1511.06581) In Proceedings of the 33rd International Conference on Machine Learning (Vol. 48, pp. 1995-2003).
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://ieeexplore.ieee.org/document/712192) Second Edition. MIT Press.
+
+[6]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.

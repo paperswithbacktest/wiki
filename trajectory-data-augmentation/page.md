@@ -81,3 +81,19 @@ Another ethical consideration is fairness. When you create new paths, you need t
 In the future, we might see more advanced ways to create realistic trajectory data using techniques like GANs and VAEs. These methods could become even better at making new paths that look just like the real ones. For example, imagine using a formula like $$ v(t) = \frac{ds(t)}{dt} $$ to calculate speed in a simulation. As these simulations get more detailed, they could help us study how things move in ways we haven't thought of yet. This could be really helpful for things like self-driving cars or tracking animals in the wild, making our models much better at predicting where things will go next.
 
 Another big change might be how we handle privacy and fairness when using augmented data. As we get better at creating new paths, we'll need to make sure we're not sharing personal information. We might use special techniques to blur or change the data so no one can be identified. Also, we'll need to make sure the new data includes all kinds of people and movements, not just a few. By doing this, we can make sure our models work well for everyone and don't leave anyone out. This will be important as we use these models more and more in our daily lives.
+
+## References & Further Reading
+
+[1]: Ziebart, B.D., Maas, A.L., Bagnell, J.A., & Dey, A.K. (2008). ["Maximum Entropy Inverse Reinforcement Learning."](https://cdn.aaai.org/AAAI/2008/AAAI08-227.pdf) In Proceedings of the 23rd AAAI Conference on Artificial Intelligence.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G.E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems.
+
+[3]: Koch, G., Zemel, R., & Salakhutdinov, R. (2015). ["Siamese Neural Networks for One-shot Image Recognition."](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) In ICML Deep Learning Workshop.
+
+[4]: Esteban, C., Hyland, S.L., & Rätsch, G. (2017). ["Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs."](https://arxiv.org/abs/1706.02633) arXiv preprint arXiv:1706.02633.
+
+[5]: Goodfellow, I.J., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Courville, A. (2014). ["Generative Adversarial Networks."](https://arxiv.org/abs/1406.2661) arXiv preprint arXiv:1406.2661.
+
+[6]: Kingma, D.P., & Welling, M. (2013). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[7]: Shorten, C., & Khoshgoftaar, T.M. (2019). ["A survey on Image Data Augmentation for Deep Learning."](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0) Journal of Big Data, 6(1), 1-48.

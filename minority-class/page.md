@@ -88,3 +88,17 @@ model.fit(X_train, y_train, class_weight=class_weights)
 ```
 
 This tells the model to care 10 times more about the minority class (class 1) than the majority class (class 0). By using these advanced techniques, you can help your deep learning model perform better on the minority class, which is often the most important one.
+
+## References & Further Reading
+
+[1]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321–357.
+
+[2]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[3]: Sun, Y., Wong, A. K. C., & Kamel, M. S. (2009). ["Classification of Imbalanced Data: A Review."](https://www.researchgate.net/publication/263913891_Classification_of_imbalanced_data_a_review) International Journal on Data Mining and Knowledge Discovery, 20(4), 427–454.
+
+[4]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263–1284.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Buda, M., Maki, A., & Mazurowski, M. (2018). ["A systematic study of the class imbalance problem in convolutional neural networks."](https://arxiv.org/abs/1710.05381) IEEE Transactions on Neural Networks and Learning Systems, 29(8), 3549–3556.

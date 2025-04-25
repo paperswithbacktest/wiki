@@ -79,3 +79,15 @@ Another way to measure the impact is by asking people about their experiences wi
 Researchers are working on new ways to understand and fight automation bias in machine learning. One advanced technique is called "explainable AI" (XAI). This technique helps make the decisions of machine learning models easier to understand. When people can see why a machine made a certain choice, they are more likely to check it carefully. For example, if a model gives a diagnosis in a hospital, XAI can show which symptoms or data led to that diagnosis. This helps doctors decide if the machine's suggestion makes sense or if they need to look at other options. By making the machine's decisions clear, XAI can reduce the chances of people trusting the machine too much without thinking.
 
 Another technique being researched is "human-in-the-loop" systems. These systems keep people involved in the decision-making process, even when machines are doing most of the work. For example, a machine learning model might suggest a decision, but it will also ask a person to review and approve it. This way, people don't just follow the machine's suggestions without thinking. They use their own knowledge to check if the machine's decision is right. By combining human oversight with machine learning, these systems can help catch any mistakes the machine might make and make sure the final decisions are fair and safe.
+
+## References & Further Reading
+
+[1]: Mosier, K. L., & Skitka, L. J. (1996). Human decision makers and automated decision aids: Made for each other?. In R. Parasuraman & M. Mouloua (Eds.), Automation and human performance: Theory and applications. Lawrence Erlbaum Associates.
+
+[2]: Parasuraman, R., & Riley, V. (1997). ["Humans and Automation: Use, Misuse, Disuse, Abuse."](https://psycnet.apa.org/record/1997-05566-005) Human Factors, 39(2), 230–253.
+
+[3]: Cummings, M. L. (2014). ["The role of humans in autonomous systems."](https://www.semanticscholar.org/paper/The-Human-Role-in-Autonomous-Weapon-Design-and-Cummings/37d95ee07e9f56fe96b2f2cf98d372dbf0e69c5e/figure/1) The Bridge, 44(3), 5-12.
+
+[4]: Bussone, A., Stumpf, S., & O’Sullivan, D. (2015). ["The role of explanations on trust and reliance in clinical decision support systems."](https://ieeexplore.ieee.org/document/7349687) In: Berkovsky, S., & Freyne, J. (Eds.) Health Informatics: Building a Healthcare Future Through Trusted Knowledge (pp. 204-212). Springer, Cham.
+
+[5]: Sarter, N. B., & Woods, D. D. (1994). ["Pilot interaction with cockpit automation: Operational experiences with the flight management system."](https://www.researchgate.net/profile/David-Woods-19/publication/23586654_Pilot_Interaction_With_Cockpit_Automation_Operational_Experiences_With_the_Flight_Management_System/links/02e7e529c96fb02c5a000000/Pilot-Interaction-With-Cockpit-Automation-Operational-Experiences-With-the-Flight-Management-System.pdf) The International Journal of Aviation Psychology, 4(4), 369-385.

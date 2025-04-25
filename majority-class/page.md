@@ -83,3 +83,19 @@ Random Forest also has a special way to handle imbalanced data by giving more we
 When dealing with a majority class in a dataset, using advanced metrics can help you see how well your model is really doing. Accuracy can be misleading because if a model always guesses the majority class, it might seem to do well but won't be useful for the other classes. Instead, you should use metrics like precision, recall, and the F1-score. Precision tells you how many of the positive predictions were actually correct. Recall tells you how many of the actual positive cases were caught by the model. The F1-score is a balance between precision and recall, and it's good for imbalanced datasets because it considers both false positives and false negatives.
 
 Another important metric is the Area Under the Receiver Operating Characteristic Curve (AUC-ROC). This metric shows how well the model can tell the difference between the classes across all possible thresholds. A higher AUC-ROC means the model is better at distinguishing between the classes. For imbalanced datasets, you might also want to use the Area Under the Precision-Recall Curve (AUC-PR). This metric focuses more on the minority class and can be more useful when the classes are very uneven. By using these metrics, you can get a better idea of how well your model is doing, even when there's a majority class.
+
+## References & Further Reading
+
+[1]: Han, H., Wang, W.-Y., & Mao, B.-H. (2005). ["Borderline-SMOTE: A New Over-Sampling Method in Imbalanced Data Sets Learning."](https://link.springer.com/chapter/10.1007/11538059_91) In D.-S. Huang, X.-P. Zhang, & G.-B. Huang (Eds.), Advances in Intelligent Computing. 
+
+[2]: Johnson, J. M., & Khoshgoftaar, T. M. (2019). ["Survey on deep learning with class imbalance."](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0192-5) PLOS ONE, 14(11), e0220270. 
+
+[3]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321–357. 
+
+[4]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[5]: Fernández, A., García, S., Galar, M., Prati, R. C., & Krawczyk, B. (2018). ["Learning from Imbalanced Data Sets."](https://link.springer.com/book/10.1007/978-3-319-98074-4) Springer.
+
+[6]: Buda, M., Maki, A., & Mazurowski, M.A. (2018). ["A systematic study of the class imbalance problem in convolutional neural networks."](https://arxiv.org/abs/1710.05381) PLOS ONE, 13(7), e0200270.
+
+[7]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.

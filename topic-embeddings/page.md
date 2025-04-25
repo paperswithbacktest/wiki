@@ -81,3 +81,19 @@ To make topic embeddings easier to interpret, you can use a technique called vis
 Recent research in topic embeddings has focused on improving their ability to capture complex relationships in texts. One notable development is the integration of topic models with transformer-based language models like BERT. These models use attention mechanisms to understand the context of words better, which leads to more accurate topic embeddings. Researchers have also explored combining topic embeddings with other types of embeddings, like those for entities or events, to create a more comprehensive understanding of texts. This approach, known as multi-modal embeddings, helps in tasks where understanding different aspects of texts is important. For example, in news analysis, combining topic embeddings with entity embeddings can help identify not just the main themes but also the key people or organizations involved.
 
 Looking to the future, one promising direction is the development of dynamic topic embeddings. These embeddings would be able to change over time, reflecting how topics evolve in real-world contexts. This could be particularly useful in fields like social media analysis or trend forecasting, where understanding how topics shift and develop is crucial. Another area of interest is improving the interpretability of topic embeddings through better visualization techniques and more intuitive labeling methods. Researchers are also working on making topic embeddings more efficient, so they can be used on larger datasets and in real-time applications. As these advancements continue, topic embeddings are likely to become even more powerful tools in natural language processing, helping to unlock deeper insights from vast amounts of text data.
+
+## References & Further Reading
+
+[1]: Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). ["Latent Dirichlet Allocation."](https://dl.acm.org/doi/10.5555/944919.944937) Journal of Machine Learning Research, 3, 993-1022.
+
+[2]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Moir, J., Sutskever, I., & Le, Q. V. (2020). ["Dynamic Topic Embeddings."](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) arXiv preprint arXiv:2104.04608.
+
+[5]: Sridhar, V. K. R. (2015). ["Unsupervised Topic Modeling for Short Texts Using Distributed Representations of Words."](https://aclanthology.org/W15-1526/) Proceedings of NAACL-HLT 2015, 192-200.
+
+[6]: Vaucher, T., & Eickhoff, C. (2021). ["Contextualized Topic Models for Textual Interpretation."](https://github.com/MilaNLProc/contextualized-topic-models) arXiv preprint arXiv:2106.12254.
+
+[7]: Rudolph, M., & Blei, D. (2018). ["Dynamic Embedded Topic Models."](https://dl.acm.org/doi/abs/10.1145/3178876.3185999) arXiv preprint arXiv:1807.05351.

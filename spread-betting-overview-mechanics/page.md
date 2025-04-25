@@ -1,6 +1,7 @@
 ---
-title: "Spread Betting: Overview and Mechanics"
-description: "Explore the dynamics of spread betting and algorithmic trading to enhance your trading strategies with flexibility, leverage, and precise automation for improved profitability."
+title: Comprehensive Guide To Spread Betting Fundamentals And Strategies
+description: Spread betting unlocks dynamic wagering by explaining spreads, stakes
+  and profit loss calculations plus risk management and leverage Discover more inside
 ---
 
 

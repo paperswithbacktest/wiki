@@ -81,3 +81,15 @@ On the other hand, the Exploding Gradient Problem is when the gradients get too 
 Researchers are always looking for new ways to solve the Vanishing Gradient Problem in [deep learning](/wiki/deep-learning). One approach is to use better initialization methods. For example, some scientists are working on new ways to set the starting weights in a network to help keep the gradients from getting too small or too big. Another idea is to use something called adaptive learning rates, which change how fast the network learns based on what's happening during training. This can help the network learn more smoothly and avoid problems like vanishing gradients.
 
 Another area of research involves creating new types of neural network architectures. Some researchers are working on networks that have special connections, like the skip connections in ResNet, to help the gradients flow better through the layers. Others are looking at different ways to organize the layers in a network, like using hierarchical structures that can learn better over many layers. By trying out these new ideas, scientists hope to make deep learning models that can learn more effectively and avoid the Vanishing Gradient Problem.
+
+## References & Further Reading
+
+[1]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) Neural Computation, 9(8), 1735-1780.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Ioffe, S., & Szegedy, C. (2015). ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) In Proceedings of the 32nd International Conference on Machine Learning (ICML).
+
+[4]: Glorot, X., & Bengio, Y. (2010). ["Understanding the difficulty of training deep feedforward neural networks."](https://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf) In Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (AISTATS).
+
+[5]: Bengio, Y., Simard, P., & Frasconi, P. (1994). ["Learning Long-Term Dependencies with Gradient Descent is Difficult."](https://ieeexplore.ieee.org/document/279181) IEEE Transactions on Neural Networks, 5(2), 157-166.

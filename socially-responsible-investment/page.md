@@ -1,6 +1,7 @@
 ---
-title: "Socially Responsible Investment"
-description: "Explore Socially Responsible Investment and its integration with algorithmic trading to align financial goals with ethical values while leveraging technology for informed decisions."
+title: Understanding Socially Responsible Investment for Social Impact
+description: Socially responsible investment helps investors balance returns with
+  positive social and environmental impact using ESG criteria Discover more inside
 ---
 
 

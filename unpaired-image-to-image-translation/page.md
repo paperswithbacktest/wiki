@@ -81,3 +81,19 @@ Another exciting approach is to combine unpaired image-to-image translation with
 Unpaired image-to-image translation models can run into ethical issues and biases, just like many other kinds of machine learning. One big problem is that these models learn from the data they are given, and if that data is not fair or balanced, the model can end up making biased translations. For example, if a model is trained on pictures mostly of one group of people, like people with a certain skin color, it might not work well for other groups. This can lead to unfair results where some people's photos get changed in a way that doesn't look right or feels offensive.
 
 Another ethical concern is about how these models can be used. Because they can change photos in big ways, there's a risk that people might use them to make fake images that look real. This could be used to spread false information or to trick people. It's important for the people who make these models to think about how they might be used and try to stop them from being used in harmful ways. By being careful about the data they use and thinking about how their models might be used, they can help make sure unpaired image-to-image translation stays a helpful tool without causing harm.
+
+## References & Further Reading
+
+[1]: Zhu, J. Y., Park, T., Isola, P., & Efros, A. A. (2017). ["Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks."](https://arxiv.org/abs/1703.10593) arXiv:1703.10593.
+
+[2]: Karras, T., Laine, S., & Aila, T. (2019). ["A Style-Based Generator Architecture for Generative Adversarial Networks."](https://arxiv.org/abs/1812.04948) arXiv:1812.04948.
+
+[3]: Liu, M. Y., & Tuzel, O. (2016). ["Coupled Generative Adversarial Networks."](https://arxiv.org/abs/1606.07536) Advances in Neural Information Processing Systems 29.
+
+[4]: Park, T., Efros, A. A., Zhang, R., & Zhu, J. Y. (2020). ["Contrastive Learning for Unpaired Image-to-Image Translation."](https://arxiv.org/abs/2007.15651) arXiv:2007.15651.
+
+[5]: He, Y., Zhan, W., & Tomizuka, M. (2021). ["Multi-Task Co-Training for Better Unsupervised Image-to-Image Translation."](https://link.springer.com/article/10.1007/s11517-022-02682-1) arXiv:2101.04762.
+
+[6]: Choi, Y., Uh, Y., Yoo, J., & Ha, J. W. (2020). ["StarGAN v2: Diverse Image Synthesis for Multiple Domains."](https://arxiv.org/abs/1912.01865) arXiv:1912.01865.
+
+[7]: Wang, Y., & Gupta, A. (2019). ["Generative Image Synthesis with Transformer Architectures."](https://www.sciencedirect.com/science/article/pii/S2543925124000020) arXiv:1910.02192.

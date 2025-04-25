@@ -94,3 +94,19 @@ Data normalization is like making sure all the data the model sees is on the sam
 One advanced technique to analyze and optimize the loss curve in [deep learning](/wiki/deep-learning) models is using learning rate scheduling. This means changing the learning rate during training to help the model learn better. At the start, you might use a high learning rate to make the loss go down quickly. But as the model learns more, you can lower the learning rate to make the loss go down more smoothly and help the model find the best way to learn. A common way to do this is with a technique called "learning rate decay," where the learning rate gets smaller over time. The formula for learning rate decay can be $$ \eta_t = \eta_0 \cdot \frac{1}{1 + \frac{t}{s}} $$, where $$ \eta_t $$ is the learning rate at time $$ t $$, $$ \eta_0 $$ is the initial learning rate, and $$ s $$ is a decay step. By using learning rate scheduling, you can make the loss curve go down faster and smoother, helping your model learn better.
 
 Another technique is using early stopping to prevent overfitting. Overfitting happens when the model learns the training data too well and doesn't work as well on new data. With early stopping, you watch the loss on a separate set of test data while the model trains. If the test loss starts going up, even if the training loss is still going down, you stop training. This helps the model stop learning before it starts to overfit. You can also use techniques like gradient clipping to keep the model from taking too big of steps. Gradient clipping means if the gradient gets too big, you make it smaller. This can help make the loss curve go down more smoothly. By using these advanced techniques, you can help your model learn better and make the loss curve look the way you want it to.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python). Manning Publications.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://link.springer.com/book/9780387310732). Springer.
+
+[5]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.
+
+[6]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv:1412.6980.
+
+[7]: Zeiler, M. D. (2012). ["ADADELTA: An Adaptive Learning Rate Method."](https://arxiv.org/abs/1212.5701) arXiv:1212.5701.

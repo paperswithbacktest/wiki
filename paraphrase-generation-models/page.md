@@ -79,3 +79,17 @@ One important part of fine-tuning is checking how well the model is doing. You c
 The latest research trends in paraphrase generation are focusing on making models better at understanding the meaning of sentences and creating more natural paraphrases. One big trend is using more advanced models like BART and T5, which can learn from a lot of different kinds of text. These models are good at keeping the meaning the same while changing the words. Researchers are also working on new ways to check how good the paraphrases are. They use things like semantic similarity, which can be calculated using a formula like $$ \text{similarity} = \cos(\theta) = \frac{A \cdot B}{\|A\| \|B\|} $$, to see how close the new sentence is to the original one. Another trend is using more and better data to train the models. This helps them learn from more examples and create better paraphrases.
 
 In the future, paraphrase generation models might get even better at understanding and creating natural sentences. Researchers are looking into ways to make these models work well in different languages and for different kinds of text, like social media posts or scientific papers. They are also trying to make the models faster and easier to use. Another future direction is using paraphrase generation for more tasks, like helping people learn new languages or making text easier to understand for everyone. By keeping up with these trends and working on new ideas, researchers hope to make paraphrase generation a powerful tool that can be used in many ways.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[3]: Lewis, M., Liu, Y., Goyal, N., Ghazvininejad, M., Mohamed, A., Levy, O., Stoyanov, V., & Zettlemoyer, L. (2020). ["BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension."](https://aclanthology.org/2020.acl-main.703/) Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+
+[4]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.
+
+[5]: Dolan, W. B., & Brockett, C. (2005). ["Automatically Constructing a Corpus of Sentential Paraphrases."](https://aclanthology.org/I05-5002/) Proceedings of the Third International Workshop on Paraphrasing.
+
+[6]: Wang, L., & Ittycheriah, A. (2015). ["FAQ-based question answering via multi-task learning."](https://arxiv.org/abs/1507.02628) Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing.

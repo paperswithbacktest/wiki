@@ -110,3 +110,27 @@ print(f"Sparsemax training time: {sparsemax_time} seconds")
 ```
 
 By considering both the model's performance on test data and its computational efficiency, you can make an informed decision about which output function is most effective for your specific machine learning model.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Trémeau, A., Schettini, R., & Tominaga, S. (Eds.). (2013). ["Computational Color Imaging."](https://www.semanticscholar.org/paper/Computational-Color-Imaging-Tr%C3%A9meau-Schettini/d93e33eff4278dabb3185a667729f6647b6a56ed) Springer.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[5]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://www.researchgate.net/publication/13853244_Long_Short-term_Memory) Neural Computation, 9(8), 1735-1780.
+
+[6]: Kingma, D. P., & Ba, J. (2014). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[7]: Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). ["A Neural Probabilistic Language Model."](https://jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) Journal of Machine Learning Research, 3, 1137-1155.
+
+[8]: Glorot, X., & Bengio, Y. (2010). ["Understanding the difficulty of training deep feedforward neural networks."](https://www.researchgate.net/publication/215616968_Understanding_the_difficulty_of_training_deep_feedforward_neural_networks) In Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (AISTATS), 249-256.
+
+[9]: Jaderberg, M., Simonyan, K., & Zisserman, A. (2015). ["Spatial Transformer Networks."](https://arxiv.org/abs/1506.02025) arXiv preprint arXiv:1506.02025.
+
+[10]: Olah, C. (2015). ["Understanding LSTM Networks."](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+[11]: Papandreou, G., Zhu, T., Chen, L. C., Gidaris, S., Tompson, J., & Murphy, K. (2018). ["PersonLab: Person Pose Estimation and Instance Segmentation with a Bottom-Up, Part-Based, Geometric Embedding Model."](https://arxiv.org/abs/1803.08225) arXiv preprint arXiv:1803.08225.

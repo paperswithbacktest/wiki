@@ -1,6 +1,7 @@
 ---
-title: "Stock Dividend Distribution Timing and Process"
-description: "Explore the strategic advantages of investing in stock dividend distributions, where regular payouts enhance your portfolio by capitalizing on company profits. Learn about key dates in dividend transactions and how algorithmic trading optimizes investment approaches through predictive models. This guide provides insights into understanding dividend payment processes, types of dividends, their impact on stock prices, and strategies to leverage these for financial growth. Whether you are a novice or seasoned investor, mastering these concepts is essential for informed decision-making in dividend investments."
+title: Comprehensive Guide to Stock Dividend Mechanics and Impact
+description: Stock dividend explained with clear steps on distribution, record dates,
+  tax implications and financial impacts for investors. Discover more inside.
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "Statistical Arbitrage Techniques"
-description: "Explore the dynamic world of statistical arbitrage a high-frequency trading strategy using quantitative models to exploit temporary market inefficiencies effectively."
+title: Statistical Arbitrage Explained Professional Trading Strategy Guide
+description: Statistical arbitrage explores data-driven trading techniques to profit
+  from price differences using models like mean reversion and machine learning Discover
+  more inside
 ---
 
 

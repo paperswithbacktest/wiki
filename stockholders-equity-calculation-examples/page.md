@@ -1,6 +1,7 @@
 ---
-title: "Stockholders' Equity: Calculation and Examples"
-description: "Explore the essentials of stockholders' equity with insights into calculations, examples, and the impact of algorithmic trading on equity metrics."
+title: Understanding Stockholders' Equity Key Concepts and Calculations
+description: Stockholders Equity reveals a companys net worth after debts and breaks
+  down components calculations ratios and impacts for investors Discover more inside
 ---
 
 

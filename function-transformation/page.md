@@ -81,3 +81,17 @@ After the log transformation, the model's performance improved from an R-squared
 In the future, we might see more advanced tools that can automatically choose the best function transformation for a dataset. These tools could use machine learning to try different transformations like $$ y = \log(x) $$ or $$ y = \frac{x - \text{min}(x)}{\text{max}(x) - \text{min}(x)} $$ and pick the one that helps the model learn the best. This would make it easier for people to use machine learning without having to know a lot about which transformations to use. It could save a lot of time and make the models more accurate.
 
 Another thing we might see is new types of transformations that can handle more complex data. Right now, we use things like log and scaling, but in the future, there might be new formulas that can change the data in even better ways. These new transformations could help models understand data that is very hard to work with now. By making the data easier for the model to learn from, these new transformations could make machine learning even more powerful and useful.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[2]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.
+
+[3]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[4]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[5]: Molnar, C. (2020). ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable."](https://christophm.github.io/interpretable-ml-book/) 
+
+[6]: Raschka, S., & Mirjalili, V. (2019). ["Python Machine Learning."](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1789955750) Packt Publishing.

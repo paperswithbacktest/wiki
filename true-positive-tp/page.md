@@ -81,3 +81,15 @@ Another way to optimize True Positives in imbalanced datasets is by changing the
 When you're trying to make a complex model better at finding the right things, you can use a technique called "ensemble methods." This means you use more than one model together to make better guesses. One popular way to do this is with "boosting," where you train models one after the other, and each new model tries to fix the mistakes of the last one. This can help catch more of the positive cases that the first models missed. Another way is "bagging," where you train lots of models on different parts of your data and then let them vote on what the answer should be. This can help make sure you don't miss any positive cases because you're looking at the data from different angles.
 
 You can also use "[deep learning](/wiki/deep-learning)" to improve True Positive rates. Deep learning models, like neural networks, are good at finding patterns in data that are hard to see. By making the model bigger or changing how it works, you can make it better at finding the positive cases. For example, you can use "transfer learning," where you start with a model that's already good at something similar and then teach it to do your specific task. This can help the model find more True Positives because it's starting with a good base of knowledge. Another trick is to use "[data augmentation](/wiki/data-augmentation)," where you make more data by changing the data you already have. This can help the model see more examples of positive cases, so it gets better at finding them.
+
+## References & Further Reading
+
+[1]: Fawcett, T. (2006). ["An Introduction to ROC Analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8).
+
+[2]: Powers, D. M. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1).
+
+[3]: Saito, T., & Rehmsmeier, M. (2015). ["The Precision-Recall Plot is More Informative than the ROC Plot When Evaluating Binary Classifiers on Imbalanced Datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PLoS ONE, 10(3).
+
+[4]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[5]: Drummond, C., & Holte, R. C. (2006). ["Cost Curves: An Improved Method for Visualizing Classifier Performance."](https://link.springer.com/article/10.1007/s10994-006-8199-5) Machine Learning, 65(1).

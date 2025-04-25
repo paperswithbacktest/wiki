@@ -81,3 +81,15 @@ After training, evaluate the model's performance using a confusion matrix for ea
 One advanced technique to enhance Predictive Rate Parity in complex models is adversarial training. In this method, an additional model, called the adversary, tries to predict the group membership of the data points based on the main model's predictions. The main model is then trained to make predictions in a way that makes it hard for the adversary to succeed. This encourages the main model to be fair across groups. For example, if the main model is predicting loan repayment, the adversary might try to guess if a prediction comes from a man or a woman. By making it difficult for the adversary to do this, the main model learns to predict outcomes equally well for both groups, ensuring $$A_{men} = A_{women}$$.
 
 Another advanced algorithm is fairness-aware boosting. This method modifies traditional boosting algorithms, like gradient boosting, to include fairness constraints. During each iteration of the boosting process, the algorithm not only tries to improve overall prediction accuracy but also works to minimize the difference in accuracy between groups. This can be done by adding a penalty term to the loss function that increases when the model's accuracy differs across groups. For instance, if the model's accuracy for Group A, $$A_A$$, is higher than for Group B, $$A_B$$, the penalty term will push the model to adjust its predictions to balance the accuracies. This approach helps complex models achieve Predictive Rate Parity while maintaining high overall performance.
+
+## References & Further Reading
+
+[1]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29.
+
+[2]: Corbett-Davies, S., & Goel, S. (2018). ["The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning."](https://arxiv.org/abs/1808.00023) arXiv preprint arXiv:1808.00023.
+
+[3]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) arXiv preprint arXiv:1609.05807.
+
+[4]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) fairmlbook.org.
+
+[5]: Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2018). ["Prediction-Based Decisions and Fairness: A Catalogue of Choices, Assumptions, and Definitions."](https://arxiv.org/abs/1811.07867) arXiv preprint arXiv:1811.07867.

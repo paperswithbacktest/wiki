@@ -81,3 +81,19 @@ Hydra is another way to improve Knowledge Distillation by using multiple teacher
 Knowledge Distillation can be really helpful in business-to-business (B2B) transfer learning, where one company wants to use a model that another company has already trained. Imagine a big company with a lot of data and computer power has a smart model. A smaller company wants to use this model but doesn't have the same resources. With Knowledge Distillation, the big company's model can act as the teacher, and the smaller company's model can be the student. The student learns from the teacher's guesses and the actual data, which helps it do almost as well as the teacher but with less power needed. This way, the smaller company can use a smart model without needing big computers.
 
 In practice, the smaller company's student model would get trained using the big company's data and the teacher model's guesses. This means the student model can pick up on the patterns and details that the teacher knows, even if it's smaller. This is great for B2B because it lets smaller companies use advanced models without having to build them from scratch. They can save time and money, and still get good results. So, Knowledge Distillation makes it easier for businesses to share and use smart models, making everyone's work more efficient.
+
+## References & Further Reading
+
+[1]: Hinton, G., Vinyals, O., & Dean, J. (2015). ["Distilling the Knowledge in a Neural Network."](https://www.scirp.org/reference/referencespapers?referenceid=3680947) arXiv preprint arXiv:1503.02531.
+
+[2]: Gou, J., Yu, B., Maybank, S. J., & Tao, D. (2021). ["Knowledge Distillation: A Survey."](https://arxiv.org/abs/2006.05525) Neurocomputing, 448, 138-153.
+
+[3]: Buciluǎ, C., Caruana, R., & Niculescu-Mizil, A. (2006). ["Model Compression."](https://dl.acm.org/doi/10.1145/1150402.1150464) In Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 535-541).
+
+[4]: Romero, A., Ballas, N., Kahou, S. E., et al. (2014). ["FitNets: Hints for Thin Deep Nets."](https://arxiv.org/abs/1412.6550) arXiv preprint arXiv:1412.6550.
+
+[5]: Ba, J., & Caruana, R. (2014). ["Do Deep Nets Really Need to be Deep?"](https://arxiv.org/abs/1312.6184) Advances in Neural Information Processing Systems 27.
+
+[6]: Zhang, X., Zheng, Y., & Cui, H. (2020). ["Your Classifier is Secretly an Energy-based Model and You Should Treat it Like One."](https://arxiv.org/abs/1912.03263) arXiv preprint arXiv:2005.08386.
+
+[7]: Li, H., Kadav, A., Durdanovic, I., et al. (2016). ["Pruning Filters for Efficient ConvNets."](https://arxiv.org/abs/1608.08710) arXiv preprint arXiv:1608.08710.

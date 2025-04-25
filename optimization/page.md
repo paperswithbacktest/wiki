@@ -83,3 +83,17 @@ To implement gradient clipping, you set a maximum value for the gradients. If a 
 Ensemble methods like Stochastic Weight Averaging (SWA) help make neural networks better by combining different versions of the model's settings. SWA does this by averaging the settings from different points during training. This averaging can make the model more stable and better at handling new data it hasn't seen before. Instead of just using the last settings after training, SWA keeps track of many different settings and mixes them together. This helps the model find a good middle ground that works well overall.
 
 SWA works by saving the model's settings at different times during training and then averaging them at the end. The formula for SWA is $$ \theta_{\text{SWA}} = \frac{1}{N} \sum_{i=1}^{N} \theta_i $$, where $$ \theta_{\text{SWA}} $$ is the final averaged settings, $$ N $$ is the number of times you saved the settings, and $$ \theta_i $$ are the settings at each save point. By using this average, SWA can make the model more general and less likely to overfit to the training data. This means the model can work better on new data, which is really important for making sure the model is useful in real life.
+
+## References & Further Reading
+
+[1]: Ruder, S. (2016). ["An overview of gradient descent optimization algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
+
+[2]: Kingma, D. P., & Ba, J. (2014). ["Adam: A method for stochastic optimization."](https://arxiv.org/abs/1412.6980) arXiv preprint arXiv:1412.6980.
+
+[3]: Duchi, J., Hazan, E., & Singer, Y. (2011). ["Adaptive subgradient methods for online learning and stochastic optimization."](https://dl.acm.org/doi/10.5555/1953048.2021068) Journal of Machine Learning Research, 12, 2121-2159.
+
+[4]: Tieleman, T., & Hinton, G. (2012). ["Lecture 6.5-RMSProp: Divide the gradient by a running average of its recent magnitude."](https://scholar.google.com/citations?user=YGGcq5EAAAAJ&hl=en) COURSERA: Neural Networks for Machine Learning.
+
+[5]: Loshchilov, I., & Hutter, F. (2017). ["Decoupled weight decay regularization."](https://arxiv.org/abs/1711.05101) arXiv preprint arXiv:1711.05101.
+
+[6]: Foret, P., Kleiner, A., Mobahi, H., & Neyshabur, B. (2020). ["Sharpness-aware minimization for efficiently improving generalization."](https://arxiv.org/abs/2010.01412) arXiv preprint arXiv:2010.01412.

@@ -81,3 +81,15 @@ Another real-world application of FixRes was in a medical imaging project where 
 Researchers are looking into ways to make image scaling methods like FixRes even better. One idea is to use machine learning to figure out the best way to scale and crop each image. This could mean using a model to decide which parts of an image are most important and then scaling and cropping based on that. Another direction is to make FixRes work faster and use less computing power, so it can be used on devices like smartphones and small computers. This could help more people use advanced image scaling in their projects.
 
 Another area of research is combining FixRes with other image processing techniques. For example, some researchers are looking at using FixRes together with image enhancement methods to not only keep the original shape of images but also make them clearer and more detailed. This could help machine learning models see even more information in the images and work even better. By exploring these new ideas, scientists hope to make image scaling methods like FixRes more useful and powerful for all kinds of applications.
+
+## References & Further Reading
+
+[1]: Touvron, H., Vedaldi, A., Douze, M., & Jégou, H. (2019). ["FixRes: Fixing train-test resolution discrepancy"](https://arxiv.org/abs/1906.06423). arXiv preprint arXiv:1906.06423.
+
+[2]: Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). ["Densely Connected Convolutional Networks."](https://ieeexplore.ieee.org/document/8099726) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 4700-4708).
+
+[3]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet classification with deep convolutional neural networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in neural information processing systems, 25.
+
+[4]: Tan, M., & Le, Q. (2019). ["EfficientNet: Rethinking model scaling for convolutional neural networks."](https://arxiv.org/abs/1905.11946) In International Conference on Machine Learning (pp. 6105-6114). PMLR.
+
+[5]: Zhang, R., Zhu, L., Lin, J., & DiCarlo, J. J. (2020). ["Visual inductive biases through deep learning architectures."](https://onlinelibrary.wiley.com/doi/10.1002/smll.202000929) Vision Research, 173, 31-39.

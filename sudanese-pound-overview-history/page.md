@@ -1,6 +1,7 @@
 ---
-title: "Sudanese Pound: Overview and History"
-description: "Explore the complex history and current role of the Sudanese Pound which is crucial in Sudan's economic landscape amidst algorithmic trading impacts."
+title: Comprehensive Guide To Sudanese Pound History And Value
+description: Sudanese Pound dynamics reveal how economic reforms political shifts
+  and currency design updates have shaped value and exchange rates Discover more inside
 ---
 
 

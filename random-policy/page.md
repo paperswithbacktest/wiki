@@ -101,3 +101,17 @@ In this code, the `random_policy` function takes a state and a list of actions, 
 One way to enhance the effectiveness of a Random Policy is to use it as part of a more sophisticated policy like Epsilon-Greedy. In Epsilon-Greedy, you mostly choose the best action you know, but sometimes you pick a random action to keep exploring. This helps balance exploring new moves and using what you've learned. For example, if you're playing a game and you know moving forward is usually good, Epsilon-Greedy might make you move forward most of the time, but sometimes it will make you turn left or right just to see what happens. By mixing in some randomness, you can discover new strategies that might be better than what you already know.
 
 Another technique is to use a Random Policy with a decaying probability. This means you start with a lot of randomness but slowly use it less over time. Imagine you're learning to play a new game. At first, you might use a Random Policy a lot to see what all the moves do. But as you learn more, you can reduce how often you choose randomly and start using smarter moves more often. This can be done by setting a parameter, like epsilon, that starts high and slowly gets smaller. For example, you could start with $$ \epsilon = 1 $$ and decrease it over time, so you go from choosing actions completely randomly to choosing them more wisely based on what you've learned.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press, 2nd Edition.
+
+[2]: Szepesvári, C. (2010). ["Algorithms for Reinforcement Learning."](https://www.researchgate.net/publication/220696313_Algorithms_for_Reinforcement_Learning) Synthesis Lectures on Artificial Intelligence and Machine Learning.
+
+[3]: Kaelbling, L. P., Littman, M. L., & Moore, A. W. (1996). ["Reinforcement learning: A survey."](https://arxiv.org/abs/cs/9605103) Journal of Artificial Intelligence Research, 4, 237-285.
+
+[4]: Bellman, R. (1957). ["A Markovian Decision Process."](https://www.jstor.org/stable/24900506) Journal of Mathematical Mechanics, 6(5), 679-684.
+
+[5]: Watkins, C. J. C. H., & Dayan, P. (1992). ["Q-learning."](https://link.springer.com/article/10.1007/BF00992698) Machine Learning, 8(3-4), 279-292.
+
+[6]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.

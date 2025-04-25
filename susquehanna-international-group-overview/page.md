@@ -1,6 +1,7 @@
 ---
-title: "Susquehanna International Group Overview"
-description: "Explore Susquehanna International Group's pioneering role in algorithmic trading featuring game theory algorithms and global influence in the financial markets."
+title: Susquehanna International Group Business Overview and Strategy
+description: Susquehanna International Group leverages advanced technology, quantitative
+  trading and venture capital for global financial growth Discover more inside
 ---
 
 

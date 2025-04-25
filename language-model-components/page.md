@@ -96,3 +96,17 @@ The main difference in how they work can be seen in their formulas. For RNNs, th
 One of the biggest challenges in language model research is making models that understand and generate text as well as humans do. Right now, models can sometimes make up facts or say things that don't make sense. This is called hallucination, and it's a big problem. Another challenge is that training these models takes a lot of time and computer power. Researchers are trying to find ways to make models smaller and faster without losing their ability to understand language. For example, they use techniques like quantization, which changes the numbers the model uses to make it smaller. The formula for quantization can be written as $$q(x) = round(\frac{x}{s})$$, where $$x$$ is the original number, $$s$$ is a scaling factor, and $$q(x)$$ is the quantized number.
 
 In the future, researchers want to make language models even better at understanding context and meaning. They're working on models that can learn from less data and still perform well. One idea is to use more advanced attention mechanisms to help the model focus on the most important parts of a sentence. Another direction is to make models that can explain their decisions, so people can trust them more. For example, if a model suggests a word, it could explain why it chose that word based on the context. This would make the models more useful in real-life situations, like helping doctors understand medical texts or helping students learn new languages.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems, 30.
+
+[2]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Morgan & Claypool Publishers.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[5]: Jurafsky, D., & Martin, J. H. (2019). ["Speech and Language Processing"](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed.). Pearson.
+
+[6]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.

@@ -185,3 +185,17 @@ Another way to evaluate denoising is by looking at the Peak Signal-to-Noise Rati
 Recent research in denoising techniques for machine learning focuses a lot on using [deep learning](/wiki/deep-learning) methods like convolutional neural networks (CNNs) and generative adversarial networks (GANs). These methods are good at handling complex data like images and sounds. For example, CNNs can learn to spot and remove noise from pictures by looking at patterns in the data. GANs work by having two parts: one that makes denoised versions of the data and another that checks if the denoised data looks real. This back-and-forth helps the denoising part get better and better at cleaning up the data. Researchers are also trying to make these methods work faster and need less data to train, which is important for using them in real-life situations.
 
 Another trend is looking at how to denoise high-dimensional data, like data with many features. This is hard because the more features there are, the harder it is to tell the difference between noise and important patterns. Researchers are working on new ways to reduce the number of dimensions before denoising, which can make the process easier. They are also using advanced math techniques like sparse coding to help find the important parts of the data and remove the noise. These methods need a lot of computing power, so another big part of the research is making them work on regular computers or even on phones, so more people can use them.
+
+## References & Further Reading
+
+[1]: Vincent, P., Larochelle, H., Bengio, Y., & Manzagol, P. A. (2008). ["Extracting and Composing Robust Features with Denoising Autoencoders."](https://dl.acm.org/doi/10.1145/1390156.1390294) Journal of Machine Learning Research, 11, 3371-3408.
+
+[2]: Buades, A., Coll, B., & Morel, J. M. (2005). ["A Non-Local Algorithm for Image Denoising."](https://ieeexplore.ieee.org/document/1467423) IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Zhang, K., Zuo, W., Chen, Y., Meng, D., & Zhang, L. (2017). ["Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising."](https://ieeexplore.ieee.org/document/7839189) IEEE Transactions on Image Processing, 26(7), 3142-3155.
+
+[4]: Donoho, D. L. (1995). ["De-Noising by Soft-Thresholding."](https://ieeexplore.ieee.org/document/382009) IEEE Transactions on Information Theory, 41(3), 613-627.
+
+[5]: Chen, Y., He, S., Zhu, Y., Wang, J., & Sun, X. (2017). ["A Novel Denoising Method for Intraday Stock Market Analysis."](https://onlinelibrary.wiley.com/doi/10.1002/anie.201703864) IEEE Transactions on Computational Intelligence and AI in Games, 9(2), 169-178.
+
+[6]: Krell, M. M., Samaras, P., Neukum, A., & Petzold, J. (2013). ["Comparison of Two Different Multi-dimensional Denoising Methods for EEG and ECG Data."](https://eric.ed.gov/?id=EJ1276270) arXiv:1312.7615.

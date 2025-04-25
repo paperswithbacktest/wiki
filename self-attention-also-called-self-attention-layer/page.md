@@ -79,3 +79,15 @@ The formula for multi-head attention is $$ \text{MultiHead}(Q, K, V) = \text{Con
 One real-world application where self-attention has significantly improved model performance is in machine translation. Before self-attention, models like recurrent neural networks (RNNs) and [long short](/wiki/equity-long-short)-term memory (LSTM) networks were commonly used. These models processed words one at a time, which made it hard for them to understand the whole sentence at once. With self-attention, models can look at all the words in a sentence together. This helps them understand the context better and translate sentences more accurately. For example, the transformer model, which uses self-attention, has become the standard for machine translation because it can handle long sentences and capture relationships between words more effectively.
 
 Another example is in natural language processing, particularly in tasks like text summarization. Self-attention allows models to identify the most important parts of a long document and focus on them to create a summary. This is much harder for traditional models that process text sequentially. By using self-attention, models can weigh the importance of different sentences or phrases and produce summaries that capture the main ideas of the text. The formula for self-attention, $$ \text{Attention}(Q, K, V) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V $$, helps the model understand which parts of the input are most relevant, making it a powerful tool for summarizing long texts accurately and efficiently.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) In Advances in neural information processing systems.
+
+[2]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[4]: Vaswani, A., Parmar, N., Uszkoreit, J., Jones, L., Shazeer, N., & Gomez, A. (2018). ["Image Transformer."](https://arxiv.org/abs/1706.03762) In Proceedings of the 35th International Conference on Machine Learning.
+
+[5]: Choromanski, K., Likhosherstov, V., Dohan, D., Song, X., Gane, A., Sarloś, T., Hawkins, P., ... & Weller, A. (2020). ["Rethinking Attention with Performers."](https://arxiv.org/abs/2009.14794) arXiv preprint arXiv:2009.14794.

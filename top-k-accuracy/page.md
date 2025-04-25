@@ -91,3 +91,19 @@ This function calculates the Top-K Accuracy by checking how many times the corre
 To optimize models based on Top-K Accuracy, one advanced technique is to use a loss function that focuses on improving the model's ability to rank the correct answer higher among its top predictions. For example, you can use a loss function like the "ListMLE" (Listwise Maximum Likelihood Estimation) loss, which tries to make the model's top K predictions as close to the correct order as possible. This can help the model push the right answer closer to the top of its guesses, which is what Top-K Accuracy measures. The formula for Top-K Accuracy is $$ \text{Top-K Accuracy} = \frac{\text{Number of correct predictions in top K}}{\text{Total number of predictions}} $$. By using a loss function that focuses on ranking, you can make the model better at getting the right answer into its top K guesses.
 
 Another technique is to use techniques like "knowledge distillation," where a smaller, simpler model learns from a bigger, more complex model. The smaller model can be trained to mimic the bigger model's top K predictions, which can help improve its Top-K Accuracy. You can do this by training the smaller model to match the bigger model's output probabilities for the top K guesses. This way, the smaller model can learn to be good at finding the right answer among its top guesses, even if it's not as good at getting the exact top prediction right. By using these advanced techniques, you can make your model better at what Top-K Accuracy measures, which is getting the right answer into a small set of top guesses.
+
+## References & Further Reading
+
+[1]: Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., ... & Fei-Fei, L. (2015). ["ImageNet Large Scale Visual Recognition Challenge."](https://arxiv.org/abs/1409.0575) International Journal of Computer Vision, 115(3), 211-252.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[4]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770-778.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Simonyan, K., & Zisserman, A. (2015). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv preprint arXiv:1409.1556.
+
+[7]: Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). ["ImageNet: A Large-Scale Hierarchical Image Database."](https://ieeexplore.ieee.org/document/5206848) 2009 IEEE Conference on Computer Vision and Pattern Recognition, 248-255.

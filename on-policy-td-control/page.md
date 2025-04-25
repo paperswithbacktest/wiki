@@ -111,3 +111,15 @@ Another way to boost performance is by using techniques like function approximat
 Recent research in On-Policy TD Control has focused on improving the efficiency and stability of learning algorithms like Sarsa and Sarsa Lambda. One notable development is the exploration of adaptive learning rates. Instead of using a fixed learning rate $$ \alpha $$, researchers have proposed methods that adjust $$ \alpha $$ based on the agent's performance. This can help the agent learn faster in the beginning and then fine-tune its knowledge more precisely as it gets closer to the optimal policy. Another exciting area is the use of advanced function approximation techniques, such as deep neural networks, to handle high-dimensional state and action spaces. These techniques allow the agent to learn complex policies in environments that were previously too challenging.
 
 These developments could have a big impact on future applications. For example, in robotics, adaptive learning rates and better function approximation could lead to robots that can learn to navigate and perform tasks in real-world environments more quickly and reliably. In the field of game AI, these improvements could result in more sophisticated and adaptive opponents, enhancing the gaming experience. Overall, the ongoing research in On-Policy TD Control is paving the way for more efficient and effective learning algorithms, which could revolutionize how autonomous systems learn and operate in complex, real-world settings.
+
+## References & Further Reading
+
+[1]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press. This book provides in-depth coverage of reinforcement learning algorithms, including on-policy methods like SARSA and TD Lambda.
+
+[2]: Watkins, C. J., & Dayan, P. (1992). [Q-Learning](https://link.springer.com/article/10.1007/BF00992698), Journal of Machine Learning Research, 8, 279-292. This paper introduces Q-learning, which provides a contrast to on-policy methods like SARSA.
+
+[3]: Van Seijen, H., & Sutton, R. S. (2014). ["True Online TD(λ)"](http://proceedings.mlr.press/v32/seijen14.pdf) In Proceedings of the 31st International Conference on Machine Learning (ICML). This paper presents the True Online TD Lambda algorithm, a variant of the TD Lambda method.
+
+[4]: Szepesvári, C. (2010). [Algorithms for Reinforcement Learning](https://www.researchgate.net/publication/220696313_Algorithms_for_Reinforcement_Learning). Synthesis Lectures on Artificial Intelligence and Machine Learning. This book provides a comprehensive overview of the key algorithms and presents both on-policy and off-policy learning paradigms.
+
+[5]: Riedmiller, M. (2005). ["Neural Fitted Q Iteration – First Experiences with a Data Efficient Neural Reinforcement Learning Method."](https://dl.acm.org/doi/10.1007/11564096_32) In: Machine Learning: ECML 2005. Provides exploration into neural-based approaches to reinforce learning, relating to advanced function approximation.

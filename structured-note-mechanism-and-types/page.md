@@ -1,6 +1,7 @@
 ---
-title: "Structured Note: Definition, Mechanism, and Types"
-description: "Explore structured notes in algo trading to understand their definition, benefits, and challenges. Learn how they blend bonds with derivatives for tailored strategies."
+title: Understanding Structured Notes for Balanced Investment Strategies
+description: Structured notes combine bond safety with market linked returns while
+  allowing customization to suit risk profiles. Discover more inside today
 ---
 
 

@@ -80,3 +80,15 @@ Layers also help companies work with different types of data, like images, text,
 Layers can be customized to fit specific machine learning needs by changing the way each layer processes data. Imagine you're trying to solve a big puzzle. Instead of looking at all the pieces at once, you sort them into groups. Each group, or layer, focuses on a specific part of the puzzle. In machine learning, you can adjust the layers to work better with your data. For example, if you're working with images, you might use more layers to recognize different shapes and patterns. If you're working with text, you might use layers that are good at understanding words and sentences. By changing the number of layers, the type of layers, and how they connect, you can make the model work better for your specific needs.
 
 For example, in a neural network, the first layer might look at the raw data, like pixels in an image. It then passes this information to the next layer, which might start recognizing simple shapes. As the data moves through more layers, the model can identify more complex patterns, like objects in the image. If $$x_1, x_2, ..., x_n$$ are the inputs to a neuron, and $$w_1, w_2, ..., w_n$$ are the corresponding weights, the neuron computes the sum $$z = w_1x_1 + w_2x_2 + ... + w_nx_n$$. Then, an activation function like the sigmoid function, $$ \sigma(z) = \frac{1}{1 + e^{-z}} $$, is applied to $$z$$ to produce the output. This process is repeated across all neurons in a layer, and the outputs become the inputs for the next layer. By adjusting these steps, you can make the model more accurate and better suited to your specific machine learning task.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[5]: Nielsen, M. A. (2015). ["Neural Networks and Deep Learning."](http://neuralnetworksanddeeplearning.com/) Determination Press.

@@ -81,3 +81,17 @@ Another advanced method is to use anomaly detection algorithms. These algorithms
 When you're trying to choose the right way to handle imbalanced data in a project, you need to think about what you want the model to do and how bad the imbalance is. For example, if you're trying to predict rare diseases where missing a case can be really bad, you might want to use methods like oversampling or cost-sensitive learning. These methods help the model focus more on the rare cases. If the imbalance isn't too bad, simpler methods like using class weights or undersampling might be enough. You also need to think about how much data you have and how much time you can spend on trying different methods.
 
 After you pick a few methods that might work, you should test them out. You can try different methods like SMOTE, Random Forest with class weights, or even ensemble methods like boosting. See which one helps your model predict both the common and rare cases the best. You can use measures like precision, recall, and the F1-score to check how well your model is doing. Sometimes, you might need to try a few different methods and see which one works best for your specific project. By testing and comparing, you can find the best way to handle the imbalanced data and make your model as good as it can be.
+
+## References & Further Reading
+
+[1]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[2]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.
+
+[3]: Japkowicz, N., & Stephen, S. (2002). ["The class imbalance problem: A systematic study."](https://dl.acm.org/doi/10.5555/1293951.1293954) Intelligent Data Analysis, 6(5), 429-449.
+
+[4]: Weiss, G. M. (2004). ["Mining with rarity: a unifying framework."](https://dl.acm.org/doi/10.1145/1007730.1007734) ACM SIGKDD Explorations Newsletter, 6(1), 7-19.
+
+[5]: Fernández, A., Garcia, S., Galar, M., Prati, R. C., Krawczyk, B., & Herrera, F. (2018). ["Learning from Imbalanced Data Sets."](https://link.springer.com/book/10.1007/978-3-319-98074-4) Springer.
+
+[6]: Burez, J., & Van den Poel, D. (2009). ["Handling class imbalance in customer churn prediction."](https://www.sciencedirect.com/science/article/pii/S0957417408002121) Expert Systems with Applications, 36(3), 4626-4636.

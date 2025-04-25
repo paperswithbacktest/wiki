@@ -81,3 +81,15 @@ However, choosing the right number of negative samples is important. If you use 
 In recent research, one advanced technique that has been explored is called "adaptive negative sampling." This method adjusts the selection of negative samples based on how well the model is doing. For example, if the model is struggling with certain types of examples, adaptive negative sampling might choose more negative samples that are similar to those difficult examples. This helps the model focus on its weaknesses and improve more quickly. Researchers have found that this technique can lead to better performance because it makes the training process more targeted and efficient.
 
 Another variation is "noise-contrastive estimation" (NCE), which is related to negative sampling but used in a slightly different way. NCE tries to distinguish between real data and noise by using a binary classifier. Instead of just focusing on negative examples, NCE uses both positive and negative examples to train the model to tell the difference between them. This can be particularly useful in tasks like language modeling, where the model needs to understand the context of words. By using NCE, researchers have been able to train models more effectively, especially when dealing with large datasets.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv:1301.3781.
+
+[2]: Goldberg, Y., & Levy, O. (2014). ["word2vec Explained: Deriving Mikolov et al.'s Negative-Sampling Word-Embedding Method."](https://arxiv.org/abs/1402.3722) Proceedings of the 2014 CoNLL.
+
+[3]: Mnih, A., & Kavukcuoglu, K. (2013). ["Learning Word Embeddings Efficiently with Noise-Contrastive Estimation."](https://proceedings.neurips.cc/paper/2013/file/db2b4182156b2f1f817860ac9f409ad7-Paper.pdf) Proceedings of the 26th International Conference on Machine Learning.
+
+[4]: Ruder, S. (2017). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv:1609.04747.
+
+[5]: Grover, A., & Leskovec, J. (2016). ["node2vec: Scalable Feature Learning for Networks."](https://arxiv.org/abs/1607.00653) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

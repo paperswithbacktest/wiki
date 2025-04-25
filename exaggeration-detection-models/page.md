@@ -81,3 +81,15 @@ Another way exaggeration detection models help is with tasks like text classific
 Future research in exaggeration detection will focus on making models better at understanding the context of texts. Right now, models can spot exaggerations by looking for certain words or phrases, but they don't always understand the situation around those words. Researchers want to make models that can tell if a text is exaggerated based on who wrote it, what the text is about, and even the culture of the person writing. This could mean using more advanced techniques like [deep learning](/wiki/deep-learning) to teach models about different contexts. By doing this, models can be more accurate and useful in real situations, like understanding social media posts or customer reviews.
 
 Another direction for future research is to make models that can learn from less data. Right now, models need a lot of examples to learn what exaggeration looks like. But it's hard to find and label all those examples. Researchers are working on ways to make models learn from fewer examples, maybe by using transfer learning or other smart techniques. This could make it easier and faster to train good exaggeration detection models. By improving these areas, researchers hope to make exaggeration detection a more reliable and widely used part of natural language processing.
+
+## References & Further Reading
+
+[1]: Conneau, A., Rinott, R., Lample, G., Williams, A., Bowman, S. R., Schwenk, H., & Stoyanov, V. (2018). ["XNLI: Evaluating Cross-lingual Sentence Representations."](https://arxiv.org/abs/1809.05053) arXiv preprint arXiv:1809.05053.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[3]: Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). ["Enriching Word Vectors with Subword Information."](https://aclanthology.org/Q17-1010/) Transactions of the Association for Computational Linguistics, 5, 135-146.
+
+[4]: Barzilay, R., & Lapata, M. (2005). ["Modeling Local Coherence: An Entity-based Approach."](https://aclanthology.org/P05-1018/) In Proceedings of the 43rd Annual Meeting of the Association for Computational Linguistics (pp. 141-148).
+
+[5]: Mihalcea, R., & Strapparava, C. (2009). ["The Lie Detector: Explorations in the Automatic Recognition of Deceptive Language."](https://aclanthology.org/P09-2078/) Proceedings of the ACL-IJCNLP 2009 Conference Short Papers.

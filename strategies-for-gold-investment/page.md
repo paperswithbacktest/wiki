@@ -1,6 +1,7 @@
 ---
-title: "Strategies for Gold Investment"
-description: "Explore diverse gold investment strategies tailored for varying risk appetites with a focus on algorithmic trading to optimize returns amid market volatility."
+title: Essential Guide To Investing In Gold For Portfolio Protection
+description: Investing in gold protects your portfolio from inflation and market swings
+  with physical holdings ETFs and mining stocks Discover more inside
 ---
 
 

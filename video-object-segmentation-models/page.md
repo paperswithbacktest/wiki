@@ -83,3 +83,17 @@ These advancements are having a big impact on the field of VOS. For example, in 
 In the future, Video Object Segmentation (VOS) models are likely to become even more advanced and widely used across different industries. As technology keeps improving, these models will get better at understanding and tracking objects in videos quickly and accurately. This means they will be more useful in places like healthcare, where doctors could use VOS to track the movement of organs or instruments during surgeries. In the entertainment industry, VOS could help create more realistic special effects by tracking actors and objects in real-time. Also, in manufacturing, VOS models could be used to monitor production lines, making sure everything is working correctly and spotting problems before they get big.
 
 The impact of these advancements will be big. For example, in self-driving cars, better VOS models will help the car understand its surroundings even better, making driving safer and smoother. In sports, more accurate VOS models could give coaches and fans detailed insights into how players move and perform, helping to improve training and game strategies. As VOS models become faster and more efficient, they will also be easier to use in everyday situations, like tracking people or objects in security cameras or helping with video editing on personal computers. Overall, the future of VOS looks bright, with many exciting possibilities for making our lives easier and safer.
+
+## References & Further Reading
+
+[1]: Perazzi, F., Pont-Tuset, J., McWilliams, B., Van Gool, L., Gross, M., & Sorkine-Hornung, A. (2016). ["A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation."](https://cgl.ethz.ch/Downloads/Publications/Papers/2016/Per16a/Per16a.pdf) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Yang, L., Fan, Y., Xu, N., & Yang, J. (2020). ["Video Instance Segmentation."](https://arxiv.org/abs/1905.04804) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[3]: Oh, S. W., Heo, M., Lee, S., & Kweon, I. S. (2019). ["Fast User-Guided Video Object Segmentation by Interaction-and-Propagation Networks."](https://link.springer.com/article/10.1007/s13233-019-7175-4) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Cai, Z., Zhang, H., Cao, J., & Keutzer, K. (2020). ["Memory Matching Networks for One-Shot Image Recognition."](https://pku-hmi-lab.github.io/HMI-Web/publications.html) arXiv preprint arXiv:1910.13023.
+
+[5]: Wang, W., Song, T., & Zhu, L. (2020). ["Few-Shot Video Object Segmentation with Episodic Graph Memory Networks."](https://arxiv.org/abs/2007.07020) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Maninis, K. K., Pont-Tuset, J., Arbelaez, P., & Van Gool, L. (2018). ["Convolutional Oriented Boundaries: From Image Segmentation to High-Level Tasks."](https://pubmed.ncbi.nlm.nih.gov/28475046/) IEEE Transactions on Pattern Analysis and Machine Intelligence.

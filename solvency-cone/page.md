@@ -1,6 +1,7 @@
 ---
-title: "Solvency Cone"
-description: "Explore risk management and algorithmic trading with solvency cones a framework assessing transaction costs to refine strategies and optimize returns."
+title: Risk Management With Solvency Cones in Algorithmic Trading
+description: Solvency cones enable traders to model transaction costs and optimize
+  algorithmic trading strategies with effective risk management. Discover more inside.
 ---
 
 The financial world is rife with complexities, and managing these is crucial for success. In this article, we examine the intersection of risk management, finance, and algorithmic trading through the lens of the solvency cone.

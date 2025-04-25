@@ -1,6 +1,7 @@
 ---
-title: "Super NOW Account"
-description: "Explore Super NOW accounts and algorithmic trading to boost your financial strategies. Learn about interest-bearing accounts and fast-paced trading efficiency today."
+title: Unlock Higher Yield and Flexibility with Super NOW Accounts
+description: Super NOW account blends savings interest with check writing and overdraft
+  protection ensuring better returns and easy access to funds Discover more inside
 ---
 
 

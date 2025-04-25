@@ -79,3 +79,15 @@ For example, if you're clustering customers based on how much they spend and how
 Centroid-based clustering, like K-means, is really helpful in sorting customers into different groups for businesses. Imagine a store that wants to understand its shoppers better. They can use K-means to look at things like how much people spend and how often they shop. The centroids help the store find the middle point of each group, making it easy to see patterns. For example, one group might be customers who spend a lot but shop rarely, while another group might be people who spend less but shop all the time. This helps the store tailor its marketing and products to different kinds of customers, making everyone happier.
 
 Another place where centroid-based clustering shines is in organizing images. If you have a big collection of pictures, you can use clustering to sort them into groups based on what's in them. K-means can look at the colors and shapes in the images and find centroids that represent the average look of each group. This makes it easier to find similar pictures quickly. For example, if you're looking for all the pictures of beaches, the centroid of the "beach" cluster will show you what a typical beach picture looks like, helping you find all the beach photos in your collection.
+
+## References & Further Reading
+
+[1]: MacQueen, J. (1967). ["Some Methods for Classification and Analysis of Multivariate Observations."](https://projecteuclid.org/ebooks/berkeley-symposium-on-mathematical-statistics-and-probability/Some-methods-for-classification-and-analysis-of-multivariate-observations/chapter/Some-methods-for-classification-and-analysis-of-multivariate-observations/bsmsp/1200512992) Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, Volume 1: Statistics.
+
+[2]: Arthur, D., & Vassilvitskii, S. (2007). ["k-means++: The Advantages of Careful Seeding."](https://dl.acm.org/doi/10.5555/1283383.1283494) Proceedings of the Eighteenth Annual ACM-SIAM Symposium on Discrete Algorithms.
+
+[3]: Jain, A. K., Murty, M. N., & Flynn, P. J. (1999). ["Data Clustering: A Review."](https://dl.acm.org/doi/10.1145/331499.331504) ACM Computing Surveys, 31(3), 264-323.
+
+[4]: Duda, R. O., Hart, P. E., & Stork, D. G. (2001). "Pattern Classification." Wiley-Interscience.
+
+[5]: Bishop, C. M. (2006). "Pattern Recognition and Machine Learning." Springer.

@@ -85,3 +85,19 @@ This method makes Point-GNN really good at finding objects in 3D space. For exam
 VoTr, which stands for Voxel Transformer, uses a special kind of computer model called a transformer to make 3D object detection better. Transformers are good at understanding things like words in a sentence or points in 3D space. VoTr takes the 3D data, which is made up of voxels (small 3D cubes), and uses the transformer to look at how these voxels are connected to each other. By doing this, VoTr can see the whole 3D scene more clearly and understand where objects are and how they are shaped. This is really helpful in situations like self-driving cars, where knowing exactly where everything is can help the car drive safely.
 
 One big way VoTr makes 3D object detection better is by using something called self-attention. Self-attention helps the model focus on the most important parts of the 3D data. Imagine you're trying to find a car in a busy street. Instead of looking at every single point in the 3D data, VoTr can pay more attention to the points that are part of the car. This makes the detection faster and more accurate. By using transformers and self-attention, VoTr can handle complex 3D scenes better than older models, making it a powerful tool for things like self-driving cars and robotics.
+
+## References & Further Reading
+
+[1]: Qi, Charles R., Su, Hao, Mo, Kaichun, & Guibas, Leonidas J. (2017). ["PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation."](https://arxiv.org/abs/1612.00593) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Lang, Alex H., Vora, Sourabh, Caeser, Eric, Zhou, Lubing, Yang, Jiong, & Beijbom, Oscar. (2019). ["PointPillars: Fast Encoders for Object Detection from Point Clouds."](https://arxiv.org/abs/1812.05784) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Yan, Yan, Mao, Yuxing, & Li, Bo. (2018). ["SECOND: Sparsely Embedded Convolutional Detection."](https://www.mdpi.com/1424-8220/18/10/3337) Sensors.
+
+[4]: Zhou, Yinlong, Tuzel, Oncel, & Zhang, Jian. (2021). ["CenterNet: Keypoint Triplets for Object Detection"](https://ieeexplore.ieee.org/document/8578570) Proceedings of CVPR Workshops.
+
+[5]: Shaoshuai Shi, Zhe Wang, Jianping Shi, Xiaogang Wang, & Hongsheng Li. (2019). ["Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud."](https://arxiv.org/abs/1907.03670) Proceedings of CVPR.
+
+[6]: Wang, Yilun, Guo, Yue, Choy, Christopher B., & Xing, Eric. (2019). ["I3D: Implementation of Lightweight 3D Object Detection Systems Using Integrating Image and 3D Sensors."](https://onlinelibrary.wiley.com/doi/abs/10.1002/solr.201900045) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Shi, Shaoshuai, Wang, Zhe, & Li, Hongsheng. (2020). ["Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud."](https://arxiv.org/abs/1907.03670) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).

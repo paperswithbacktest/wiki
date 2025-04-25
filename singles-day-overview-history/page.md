@@ -1,6 +1,7 @@
 ---
-title: "Singles' Day: Overview and History"
-description: "Discover the transformation of Singles' Day from a celebration of singlehood in China to the world's largest shopping festival enhanced by algorithmic trading technologies."
+title: Singles' Day Origins Evolution And Global Retail Impact
+description: Singles Day started as a celebration for single friends and evolved into
+  a global retail event driving consumer spending growth. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Storj and Its Use Cases"
-description: "Storj offers decentralized data storage using blockchain technology, enhancing security and privacy compared to traditional cloud systems while enabling cryptocurrency trading."
+title: Storj Decentralized Cloud Storage for Reliable and Private Data
+description: Storj decentralized cloud storage encrypts and shards your files across
+  global nodes for enhanced security and affordability Discover more inside.
 ---
 
 

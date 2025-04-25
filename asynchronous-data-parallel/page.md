@@ -79,3 +79,19 @@ In addition to these algorithmic improvements, there is a growing interest in ha
 To measure how well Asynchronous Data Parallel works in speeding up training, you can look at how long it takes to train a model compared to training it on just one processor. For example, if it usually takes 10 hours to train a model on one processor, you would see if using Asynchronous Data Parallel with multiple processors can finish the job faster. You can also check the throughput, which is how many examples the system can process per second. If Asynchronous Data Parallel lets the system handle more examples per second than before, that's a sign it's working well. Another way to measure speed is by looking at the time it takes for each processor to finish its part of the work and update the model. If the processors are updating the model more often without waiting for each other, that means the training is going faster.
 
 When it comes to model accuracy, you need to see if the model is learning well even though the processors are updating it at different times. You can do this by comparing the model's performance on a test set after training with Asynchronous Data Parallel to its performance when trained with other methods. If the accuracy is similar or better, that's a good sign. You might also want to look at how stable the training is. If the model's accuracy keeps going up and down a lot during training, that could mean the asynchronous updates are causing problems. To get a full picture, you can use metrics like the loss function, which tells you how well the model is doing at predicting the right answers. If the loss goes down smoothly over time, that's a good sign that Asynchronous Data Parallel is helping the model learn effectively.
+
+## References & Further Reading
+
+[1]: Dean, J., Corrado, G., Monga, R., Chen, K., Devin, M., Le, Q. V., ... & Ng, A. Y. (2012). ["Large Scale Distributed Deep Networks."](https://dl.acm.org/doi/10.5555/2999134.2999271) Advances in Neural Information Processing Systems.
+
+[2]: Chilimbi, T. M., Suzue, Y., Apacible, J., & Kalyanaraman, K. (2014). ["Project Adam: Building an efficient and scalable deep learning training system."](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf) USENIX Symposium on Operating Systems Design and Implementation.
+
+[3]: Recht, B., Re, C., Wright, S., & Niu, F. (2011). ["Hogwild: A lock-free approach to parallelizing stochastic gradient descent."](https://arxiv.org/abs/1106.5730) Advances in Neural Information Processing Systems.
+
+[4]: Zhang, S., Choromanska, A., & LeCun, Y. (2015). ["Deep learning with Elastic Averaging SGD."](https://arxiv.org/abs/1412.6651) Advances in Neural Information Processing Systems.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Goyal, P., Dollár, P., Girshick, R., Noordhuis, P., Wesolowski, L., Kyrola, A., ... & He, K. (2017). ["Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour."](https://arxiv.org/abs/1706.02677) arXiv preprint arXiv:1706.02677.
+
+[7]: Sergeev, A., & Del Balso, M. (2018). ["Horovod: fast and easy distributed deep learning in TensorFlow."](https://arxiv.org/abs/1802.05799) arXiv preprint arXiv:1802.05799.

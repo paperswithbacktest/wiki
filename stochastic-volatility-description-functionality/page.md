@@ -1,6 +1,7 @@
 ---
-title: "Stochastic Volatility: Description and Functionality"
-description: "Explore the role of stochastic volatility in quantitative finance and algorithmic trading Discover key models like Heston GARCH and SABR and their applications"
+title: Understanding Stochastic Volatility Models in Finance
+description: Stochastic volatility models offer realistic insights into changing market
+  risks by capturing volatility shifts and clustering Discover more inside
 ---
 
 

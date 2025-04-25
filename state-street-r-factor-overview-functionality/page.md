@@ -1,6 +1,7 @@
 ---
-title: "State Street R-Factor: Overview and Functionality"
-description: "Explore State Street's R-Factor system designed to assess and influence algorithmic trading with ESG criteria enhancing responsible investing strategies."
+title: State Street R-Factor ESG Scoring Explained for Investors
+description: State Street R-Factor gives investors a clear ESG score to compare companies
+  on ESG criteria and make value aligned choices Discover more inside
 ---
 
 

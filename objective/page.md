@@ -81,3 +81,15 @@ Another way the choice of objective affects ethics is by making the model more t
 In the future, objective machine learning is expected to focus more on fairness and transparency. As more people use machine learning models in important decisions like hiring or loan approvals, there will be a bigger push to make sure these models are fair to everyone. This means setting clear goals for fairness and using measures like demographic parity to check if the model treats all groups the same way. By doing this, we can build models that people can trust because they know the models are trying to be fair.
 
 Another trend will be the use of explainable AI to make models more transparent. People want to know why a model made a certain decision, especially when it affects their lives. By setting objectives that focus on explaining the model's decisions, we can make sure people understand how the model works. This helps build trust and makes sure the model is not only accurate but also ethical. As these trends grow, objective machine learning will become even more important in making sure our models are fair and clear for everyone.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning: Limitations and Opportunities."](https://fairmlbook.org/) fairmlbook.org.
+
+[2]: Chouldechova, A., & Roth, A. (2020). ["A Snapshot of the Frontiers of Fairness in Machine Learning."](https://dl.acm.org/doi/10.1145/3376898) arXiv preprint arXiv:1811.08879.
+
+[3]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness Through Awareness."](https://arxiv.org/abs/1104.3913) Proceedings of the 3rd Innovations in Theoretical Computer Science Conference.
+
+[4]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) arXiv preprint arXiv:1609.05807.
+
+[5]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://dl.acm.org/doi/abs/10.1145/3457607) ACM Computing Surveys, 54(6), 1-35.

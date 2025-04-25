@@ -107,3 +107,17 @@ Another challenge is that IoU can be hard to work with when the boxes don't over
 IoU can face challenges in scenarios with overlapping objects or complex scenes. When objects in a picture are close together or overlapping, it's harder for the computer to draw accurate boxes around each one. If the computer's box around one object overlaps with another object, the IoU might not show how well it did on each individual object. This can make it tricky to evaluate the computer's performance accurately because the IoU score might be lower even if the computer's guesses are close to the real thing.
 
 To handle these complex situations, people sometimes use other techniques alongside IoU. For example, they might use a method called "non-maximum suppression" to clean up the computer's guesses. This means if the computer draws several boxes around the same object, we keep the best one and throw away the others. This can help improve the IoU by making sure we only have the most accurate boxes. Another approach is to use more advanced neural network architectures that are better at handling complex scenes, which can lead to better IoU scores overall.
+
+## References & Further Reading
+
+[1]: Padilla, R., Netto, S. L., & da Silva, E. A. B. (2020). ["A survey on performance metrics for object-detection algorithms."](https://ieeexplore.ieee.org/document/9145130) In 2020 International Conference on Systems, Signals and Image Processing (IWSSIP).
+
+[2]: Everingham, M., Van Gool, L., Williams, C. K. I., Winn, J., & Zisserman, A. (2010). ["The Pascal Visual Object Classes (VOC) Challenge."](https://link.springer.com/article/10.1007/s11263-009-0275-4) International Journal of Computer Vision.
+
+[3]: Huang, J., et al. (2017). ["Speed/accuracy trade-offs for modern convolutional object detectors."](https://arxiv.org/abs/1611.10012) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 
+
+[4]: Rezatofighi, H., et al. (2019). ["Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression."](https://ieeexplore.ieee.org/document/8953982) In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). 
+
+[5]: Lin, T. Y., et al. (2014). ["Microsoft COCO: Common Objects in Context."](https://arxiv.org/abs/1405.0312) In European Conference on Computer Vision (ECCV).
+
+[6]: Redmon, J., & Farhadi, A. (2018). ["YOLOv3: An Incremental Improvement."](https://arxiv.org/abs/1804.02767) arXiv preprint arXiv:1804.02767.

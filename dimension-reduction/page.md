@@ -87,3 +87,15 @@ Lastly, high-dimensional data can also be noisy, which means it might have a lot
 UMAP (Uniform Manifold Approximation and Projection) and t-SNE (t-Distributed Stochastic Neighbor Embedding) are both used to reduce the dimensions of data, but they handle local and global structures differently. t-SNE is really good at keeping similar data points close together in the new, lower-dimensional space. This means it's great for showing local patterns, like clusters of data. For example, if you have data about different types of flowers, t-SNE can help you see groups of similar flowers clearly. However, t-SNE can sometimes miss the bigger picture, or the global structure of the data, because it focuses so much on the local details. To use t-SNE, you can use a library like scikit-learn in Python with code like ```from sklearn.manifold import TSNE; tsne = TSNE(n_components=2); X_tsne = tsne.fit_transform(X)```.
 
 On the other hand, UMAP is designed to balance both local and global structures. It tries to keep similar points close together like t-SNE, but it also works to preserve the overall shape of the data. This makes UMAP useful when you want to understand both the small details and the big picture. For instance, if you're looking at data about different cities, UMAP can help you see both the neighborhoods within cities and how the cities relate to each other across the country. To use UMAP, you can use a library like umap-learn in Python with code like ```import umap; reducer = umap.UMAP(n_components=2); X_umap = reducer.fit_transform(X)```. So, while t-SNE is better for seeing local patterns, UMAP is often a better choice when you need to understand both local and global structures in your data.
+
+## References & Further Reading
+
+[1]: Jolliffe, I. T. (2002). ["Principal Component Analysis"](https://link.springer.com/book/10.1007/b98835). Springer.
+
+[2]: van der Maaten, L., & Hinton, G. (2008). ["Visualizing Data using t-SNE"](https://jmlr.org/papers/v9/vandermaaten08a.html). Journal of Machine Learning Research, 9(Nov), 2579-2605.
+
+[3]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python"](https://dl.acm.org/doi/10.5555/1953048.2078195). Journal of Machine Learning Research, 12(Oct), 2825-2830.
+
+[4]: McInnes, L., Healy, J., & Melville, J. (2018). ["UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction"](https://arxiv.org/abs/1802.03426). arXiv preprint arXiv:1802.03426.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.

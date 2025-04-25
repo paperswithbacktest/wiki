@@ -119,3 +119,17 @@ Another area of progress is in the development of reversible neural networks. Th
 Future developments in bijective transformations could greatly impact machine learning by making models more efficient and powerful. Imagine you have a puzzle, and bijective transformations help you rearrange the pieces without losing any information. If researchers keep improving these transformations, they could make neural networks better at handling complex data. This means models like normalizing flows might become even better at tasks like generating new data or understanding patterns in existing data. By making these transformations more flexible and easier to use, machine learning could become more accurate and useful in areas like healthcare, where understanding every detail is important.
 
 Another way bijective transformations might influence machine learning is by making it easier to train large models. Think of it like building a big house; you need a lot of materials and space. Reversible neural networks, which use bijective transformations, can help reduce the memory needed to train these big models. If future research makes these networks even more efficient, it could open up new possibilities for using machine learning in fields that need to process a lot of data, like climate science or finance. This could lead to faster and more powerful AI systems that can help solve some of the world's biggest challenges.
+
+## References & Further Reading
+
+[1]: Dinh, L., Krueger, D., & Bengio, Y. (2015). ["NICE: Non-linear Independent Components Estimation."](https://arxiv.org/abs/1410.8516) arXiv preprint arXiv:1410.8516.
+
+[2]: Kingma, D. P., & Dhariwal, P. (2018). ["Glow: Generative Flow with Invertible 1x1 Convolutions."](https://arxiv.org/abs/1807.03039)  Advances in Neural Information Processing Systems 31.
+
+[3]: Papamakarios, G., Nalisnick, E., Rezende, D. J., Mohamed, S., & Lakshminarayanan, B. (2019). ["Normalizing Flows for Probabilistic Modeling and Inference."](https://arxiv.org/abs/1912.02762) arXiv preprint arXiv:1912.02762.
+
+[4]: Rezende, D. J., & Mohamed, S. (2015). ["Variational Inference with Normalizing Flows."](https://arxiv.org/abs/1505.05770) International Conference on Machine Learning.
+
+[5]: Behrmann, J., Grathwohl, W., Chen, R. T. Q., Duvenaud, D., & Jacobsen, J. H. (2019). ["Invertible Residual Networks."](https://arxiv.org/abs/1811.00995)  In Proceedings of the 36th International Conference on Machine Learning.
+
+[6]: Arjovsky, M., & Bottou, L. (2017). ["Towards Principled Methods for Training Generative Adversarial Networks."](https://arxiv.org/abs/1701.04862) arXiv preprint arXiv:1701.04862.

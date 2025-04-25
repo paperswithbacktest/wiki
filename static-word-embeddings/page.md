@@ -1,7 +1,7 @@
 ---
-title: Static Word Embeddings Principles Models and Applications
-description: Static Word Embeddings convert words into numeric vectors that capture
-  meaning and enhance NLP models from Word2Vec to fastText Discover more inside
+title: Understanding Static Word Embeddings For Improved NLP Performance
+description: Static word embeddings enable efficient NLP by mapping words to fixed
+  semantic vectors that improve text analysis speed and accuracy Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -117,3 +117,17 @@ The reason Mirror-BERT is important is that it tries to get the best of both wor
 Evaluating the quality of static word embeddings involves checking how well they capture the relationships between words. One common way to do this is by using the word analogy task. In this task, you test if the embeddings can solve simple word puzzles like "man is to woman as king is to queen." If the embeddings are good, the vector math $$ \text{vector(man)} - \text{vector(woman)} + \text{vector(king)} \approx \text{vector(queen)} $$ should work well. Another way to evaluate embeddings is by looking at how similar the vectors are for words that mean the same thing. If "dog" and "puppy" have vectors that are close together, that's a good sign.
 
 Another important metric for evaluating static word embeddings is the performance on downstream tasks. This means using the embeddings in real natural language processing jobs like text classification or sentiment analysis. If the embeddings help these tasks work better, they are probably good embeddings. For example, you might use the embeddings to train a model to tell if a review is positive or negative. If the model does well, the embeddings are likely capturing useful information about the words. These evaluation methods help researchers and developers choose the best embeddings for their needs.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[2]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+[3]: Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). ["Enriching Word Vectors with Subword Information."](https://arxiv.org/abs/1607.04606) Transactions of the Association for Computational Linguistics, 5, 135-146.
+
+[4]: Nickel, M., & Kiela, D. (2017). ["Poincaré Embeddings for Learning Hierarchical Representations."](https://arxiv.org/abs/1705.08039) Advances in Neural Information Processing Systems 30.
+
+[5]: Moody, C. (2016). ["mixing-dirichlet-lda2vec-tmvector."](https://multithreaded.stitchfix.com/blog/2016/07/08/mixing-dirichlet-multinomials-lda2vec/) Retrieved from Stitch Fix Tech Blog.
+
+[6]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.

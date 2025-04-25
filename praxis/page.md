@@ -85,3 +85,23 @@ Another limitation is the need for a lot of data. Machine learning models, espec
 Praxis in machine learning focuses on practical application, and it integrates well with advanced techniques like deep learning by using real-world data and iterative refinement. Deep learning models, like neural networks, need a lot of data to learn well. In Praxis, you start by collecting and cleaning this data, making sure it's ready for the model. Then, you train the deep learning model on this data, adjusting its settings to get the best results. After training, you test the model to see how well it performs on new data. If it's not good enough, you go back and try different settings or even collect more data. This cycle of testing and refining is what makes Praxis so effective when working with deep learning.
 
 Using Praxis with deep learning also means you can keep improving your model over time. For example, if you're using a deep learning model to recognize images, you can keep adding new images to your dataset and retraining the model. This helps the model stay accurate even as new types of images come in. You can also use techniques like transfer learning, where you start with a model that's already been trained on a lot of data and fine-tune it for your specific problem. By constantly testing and tweaking the model based on real-world results, Praxis ensures that your deep learning model stays effective and useful.
+
+## References & Further Reading
+
+[1]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems). O'Reilly Media.
+
+[2]: Chollet, F. (2018). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python). Manning Publications.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[6]: Mitchell, T. M. (1997). ["Machine Learning"](https://www.cs.cmu.edu/~tom/mlbook.html). McGraw-Hill Education.
+
+[7]: Russell, S., & Norvig, P. (2010). ["Artificial Intelligence: A Modern Approach"](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf). Pearson.
+
+[8]: Domingos, P. (2015). ["The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World"](https://archive.org/details/masteralgorithmh0000domi_a3k6). Basic Books.
+
+[9]: Alpaydin, E. (2020). ["Introduction to Machine Learning"](https://mitpress.mit.edu/9780262043793/introduction-to-machine-learning/). MIT Press.

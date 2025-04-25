@@ -81,3 +81,15 @@ In multi-task learning, parameter sharing helps the model find common patterns a
 Recent trends in parameter sharing within [machine learning](/wiki/machine-learning) have focused on enhancing the efficiency and adaptability of models. One significant development is the rise of transformer-based architectures, like BERT and its variants, which extensively use parameter sharing across different layers and attention heads. These models share weights to learn contextual relationships in text, allowing them to perform well on a wide range of natural language processing tasks. Researchers are exploring ways to further optimize these models by fine-tuning shared parameters for specific tasks, which can lead to better performance without significantly increasing the model's complexity. For example, techniques like adapter modules allow for task-specific fine-tuning while keeping the majority of the model's parameters shared.
 
 Another trend is the application of parameter sharing in federated learning, where models are trained across multiple decentralized devices or servers holding local data samples. In this setting, parameter sharing helps in reducing communication overhead and improving privacy. By sharing parameters, models can learn from diverse data sources without needing to exchange raw data, which is crucial for privacy-sensitive applications. Recent research has also looked into dynamic parameter sharing, where the extent of sharing can change during training based on the model's performance or the nature of the task. This approach can help models adapt more effectively to new data or tasks, enhancing their generalization capabilities.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). ["Gradient-based learning applied to document recognition."](https://ieeexplore.ieee.org/document/726791) Proceedings of the IEEE, 86(11), 2278-2324.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[5]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., Hesse, C., Chen, M., Sigler, E., Litwin, M., Gray, S., Chess, B., Clark, J., Berner, C., McCandlish, S., Radford, A., Sutskever, I., & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.

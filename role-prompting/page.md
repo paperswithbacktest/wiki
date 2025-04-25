@@ -81,3 +81,15 @@ Another useful metric is user satisfaction, which measures how happy people are 
 In one case study, a company used role prompting to improve their customer service chatbot. They wanted the chatbot to act like a friendly and helpful customer service agent. By using role prompting, they told the chatbot to answer questions as if it were a real person working in customer service. This made a big difference. Customers found the chatbot's responses much more helpful and polite. They felt like they were talking to a real person, which made them happier with the service. The company saw a 20% increase in customer satisfaction scores after they started using role prompting.
 
 Another case study involved a language learning app that used role prompting to help users practice speaking. The app prompted its AI model to act like a native speaker of the language being learned. When users practiced speaking, the model responded as if it were a native speaker, using natural language and correcting mistakes in a friendly way. This made the learning experience more realistic and engaging for users. As a result, users spent more time practicing and their language skills improved faster. The app saw a 15% increase in user engagement and a noticeable improvement in language proficiency among its users.
+
+## References & Further Reading
+
+[1]: Keskar, N. S., McCann, B., Varshney, L. R., Xiong, C., & Socher, R. (2019). ["Ctrl: A Conditional Transformer Language Model for Controllable Generation."](https://arxiv.org/abs/1909.05858) arXiv preprint arXiv:1909.05858.
+
+[2]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) Advances in neural information processing systems.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI Blog.
+
+[4]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All you Need."](https://arxiv.org/abs/1706.03762) Advances in neural information processing systems.
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.

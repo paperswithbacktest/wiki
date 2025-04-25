@@ -1,7 +1,7 @@
 ---
-title: Stochastic Optimization Techniques for Machine Learning Models
-description: Stochastic Optimization uses random samples to accelerate training and
-  improve convergence in large scale machine learning Discover more inside
+title: Stochastic Optimization Techniques to Accelerate Model Training
+description: Stochastic Optimization speeds model training and improves convergence
+  using algorithms like SGD Adam RMSProp and advanced variants Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -81,3 +81,21 @@ PowerSGD, on the other hand, uses a different approach to reduce the amount of d
 AdaFisher and QHAdam are new ways to make machine learning models learn better and faster. AdaFisher is a special version of the Adam optimizer that uses something called the Fisher information matrix to adjust how it updates the model. This matrix helps understand how much each part of the model affects the final result, so AdaFisher can make smarter updates. The formula for AdaFisher is $$ \theta_{t+1} = \theta_t - \eta \frac{m_t}{\sqrt{v_t + \epsilon}} \odot \frac{1}{\sqrt{F_t + \epsilon}} $$, where $$ F_t $$ is the Fisher information matrix. By using this, AdaFisher can help models learn more quickly and accurately, which could make future models better at handling complex data.
 
 QHAdam, on the other hand, combines ideas from two other optimizers, QHM and Adam. QHM, or Quasi-Hyperbolic Momentum, is a way to make the model's updates smoother and faster. QHAdam uses this idea along with Adam's adaptive learning rates to create an optimizer that can handle a wide range of problems. The update rule for QHAdam is $$ v_t = \beta v_{t-1} + (1 - \beta) g_t $$ and $$ m_t = \alpha m_{t-1} + (1 - \alpha) g_t $$, and then $$ \theta_{t+1} = \theta_t - \eta \frac{m_t}{\sqrt{v_t + \epsilon}} $$. This combination could lead to more stable and efficient training of future machine learning models, making them more useful in real-world applications.
+
+## References & Further Reading
+
+[1]: Bottou, L. (2010). ["Large-Scale Machine Learning with Stochastic Gradient Descent."](http://leon.bottou.org/publications/pdf/compstat-2010.pdf) Proceedings of the 19th International Conference on Computational Statistics (COMPSTAT), Paris, France.
+
+[2]: Kingma, D. P., & Ba, J. (2015). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) International Conference on Learning Representations (ICLR).
+
+[3]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv:1609.04747.
+
+[4]: Reddi, S. J., Kale, S., & Kumar, S. (2018). ["On the Convergence of Adam and Beyond."](https://arxiv.org/abs/1904.09237) International Conference on Learning Representations (ICLR).
+
+[5]: Loshchilov, I., & Hutter, F. (2017). ["Fixing Weight Decay Regularization in Adam."](https://arxiv.org/abs/1711.05101) arXiv:1711.05101.
+
+[6]: Zhang, J., & Mitliagkas, I. (2017). ["YellowFin and the Art of Momentum Tuning."](https://arxiv.org/abs/1706.03471) Proceedings of the 34th International Conference on Machine Learning (ICML).
+
+[7]: Izmailov, P., Podoprikhin, D., Garipov, T., Vetrov, D. P., & Wilson, A. G. (2018). ["Averaging Weights Leads to Wider Optima and Better Generalization."](https://arxiv.org/abs/1803.05407) arXiv:1803.05407.
+
+[8]: Qianli Ma, Xiangning Chen, and Cho-Jui Hsieh. (2019). ["QHAdam: Quasi-Hyperbolic Momentum and Adam for deep learning."](https://arxiv.org/abs/1810.06801) arXiv:1810.06801.

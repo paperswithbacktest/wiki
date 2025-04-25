@@ -1,6 +1,7 @@
 ---
-title: "Smithsonian Agreement: Overview and Mechanism"
-description: "Discover the Smithsonian Agreement's pivotal role in reshaping global finance explore its impact on exchange rates and relevance in today's algo trading landscape."
+title: Smithsonian Agreement and the Evolution of Global Exchange Rates
+description: Smithsonian Agreement sparked the move to flexible exchange rates by
+  allowing 2.25 percent fluctuation and reshaped global finance Discover more inside.
 ---
 
 

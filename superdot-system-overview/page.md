@@ -1,6 +1,7 @@
 ---
-title: "SuperDot System Overview"
-description: "Explore how SuperDOT revolutionized trading by automating order routing on NYSE and pioneered today's high-frequency trading systems enhancing speed and precision."
+title: Comprehensive Guide to the NYSE SuperDot Trading System
+description: SuperDot System streamlines NYSE stock trading by automating order entry
+  routing and matching for faster, more accurate trades. Discover more inside.
 ---
 
 

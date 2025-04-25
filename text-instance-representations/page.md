@@ -1,6 +1,6 @@
 ---
 title: "Text Instance Representations (Machine Learning)"
-description: "Explore various text instance representation techniques in machine learning including "bag of words" and word embeddings for processing and understanding language."
+description: "Explore various text instance representation techniques in machine learning including bag of words and word embeddings for processing and understanding language."
 ---
 
 ![Image](images/1.jpeg)
@@ -80,3 +80,15 @@ Another way to optimize performance is by combining Fourier Contour Embedding wi
 Future developments in text instance representations like Fourier Contour Embedding are likely to focus on improving how well these methods can capture the visual details of text. Researchers might work on making the Fourier transform more efficient so that it can be used in real-time applications, like recognizing handwriting on smartphones. They could also explore new ways to combine Fourier Contour Embedding with other methods, like word embeddings, to create a more complete picture of text that includes both how it looks and what it means. This could help computers understand text better in tasks where both the visual and semantic aspects are important.
 
 Another area of research could be looking at how Fourier Contour Embedding can be used for different types of text, like different languages or fonts. For example, researchers might study how to adjust the method to work well with the unique shapes of characters in languages like Chinese or Arabic. They could also explore how to make the method more flexible so that it can handle a wide range of text styles and handwriting variations. By doing this, Fourier Contour Embedding could become a more powerful tool for understanding and working with text in many different contexts.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[2]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1532–1543.
+
+[3]: Jurafsky, D., & Martin, J. H. (2023). ["Speech and Language Processing (3rd ed. draft)."](https://web.stanford.edu/~jurafsky/slp3/) Stanford University. 
+
+[4]: Manning, C., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[5]: Ramos, J. (2003). ["Using TF-IDF to Determine Word Relevance in Document Queries."](https://www.researchgate.net/publication/228818851_Using_TF-IDF_to_determine_word_relevance_in_document_queries) Proceedings of the First Instructional Conference on Machine Learning.

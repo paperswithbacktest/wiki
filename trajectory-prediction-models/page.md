@@ -81,3 +81,19 @@ These attention mechanisms also help the model handle new situations better. Whe
 In the future, trajectory prediction models will likely become even better at understanding how people move in crowded places. One big change we might see is the use of more advanced AI techniques, like transformer models. These models are good at looking at long sequences of data, which means they can track how someone has moved over a long time and use that to predict where they will go next. Imagine watching a soccer player run across the field for several minutes; a transformer model could use all that information to guess where the player will be in the next few seconds. This could make predictions more accurate, especially in busy places like train stations or shopping centers where people's paths can be very complicated.
 
 Another development we can expect is better ways to handle new situations. Right now, models can struggle when they see something they haven't been trained on before. In the future, models might use something called "online learning," where they can learn from new data as it comes in. This means if a model is used in a new place, like a busy city street instead of a quiet park, it can quickly adjust and start making good predictions. This would make trajectory prediction models more useful in real-life scenarios where things are always changing.
+
+## References & Further Reading
+
+[1]: Alahi, A., Goel, K., Ramanathan, V., Robicquet, A., Fei-Fei, L., & Savarese, S. (2016). ["Social LSTM: Human Trajectory Prediction in Crowded Spaces."](https://ieeexplore.ieee.org/document/7780479) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Vemula, A., Muelling, K., & Oh, J. (2018). ["Social Attention: Modeling Attention in Human Crowds."](https://arxiv.org/abs/1710.04689) Proceedings of the 32nd AAAI Conference on Artificial Intelligence.
+
+[3]: Kosaraju, V., Sadeghian, A., Martín-Martín, R., Reid, T., Rezatofighi, H., & Savarese, S. (2019). ["Social-BiGAT: Multimodal Trajectory Forecasting using Bicycle-GAN and Graph Attention Networks."](https://arxiv.org/abs/1907.03395) Advances in Neural Information Processing Systems 32.
+
+[4]: Amirian, J., Pool, M., Hornauer, S., & Jensen, R. (2019). ["Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories with GANs."](https://arxiv.org/abs/1904.09507) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops.
+
+[5]: Gupta, A., Johnson, J., Fei-Fei, L., Savarese, S., & Alahi, A. (2018). ["Social GAN: Socially Acceptable Trajectories with Generative Adversarial Networks."](https://arxiv.org/abs/1803.10892) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[6]: Kirsten, D., & Kohler, S. (2022). ["Learning Trajectory-Aware Graph Topologies for Effective Large Group Navigation"](https://www.researchgate.net/profile/Kirsten-Koehler) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops.
+
+[7]: Zhang, P., Ouyang, H., Pu, S., & Xue, X. (2019). ["SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction."](https://ieeexplore.ieee.org/document/8954402) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).

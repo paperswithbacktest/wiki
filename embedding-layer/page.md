@@ -81,3 +81,17 @@ Another technique is to use adaptive learning rates. This means the model change
 To evaluate the effectiveness of an embedding layer in a model, you can look at how well the model performs on its main task, like understanding text or making predictions. If the model does better when using the embedding layer compared to not using it, that's a good sign that the embeddings are helping. For example, if you're using the embeddings for a text classification task, you might see that the model's accuracy, like $$85\%$$, is higher with the embeddings than without them. This shows that the embeddings are capturing useful information about the words or categories.
 
 Another way to evaluate the embeddings is by looking at how well they capture the relationships between words or categories. You can do this by checking if similar words have embeddings that are close to each other in the vector space. For example, if the embeddings for "dog" and "puppy" are close together, like $$[0.1, -0.2, 0.5, ...]$$ and $$[0.15, -0.18, 0.48, ...]$$, it means the embeddings are doing a good job of showing that these words are related. You can use tools like cosine similarity to measure how close the embeddings are to each other. If the embeddings are good at showing these relationships, it's a sign that they are effective.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[2]: Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). ["A Neural Probabilistic Language Model."](https://dl.acm.org/doi/10.5555/944919.944966) Journal of Machine Learning Research, 3, 1137-1155.
+
+[3]: Pennington, J., Socher, R., & Manning, C. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1532-1543.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[5]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python) by Francois Chollet, Manning Publications.
+
+[6]: Goldberg, Y. (2016). ["A Primer on Neural Network Models for Natural Language Processing."](https://arxiv.org/abs/1510.00726) Journal of Artificial Intelligence Research, 57, 345-420.

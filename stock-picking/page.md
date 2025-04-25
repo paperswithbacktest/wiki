@@ -1,6 +1,7 @@
 ---
-title: "Stock Picking"
-description: Delve into the world of Stock Picking, an essential technique in quantitative trading for maximizing returns through meticulous analysis of stock fundamentals and prices. Learn about the stages of stock picking, its differences with passive management, and resources to help you become a successful quant trader.
+title: Effective Stock Picking Strategies To Build A Strong Portfolio
+description: Stock Picking provides actionable insights to evaluate companies, manage
+  risk, and diversify portfolios for long term growth Discover more inside.
 ---
 
 

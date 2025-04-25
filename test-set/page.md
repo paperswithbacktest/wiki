@@ -83,3 +83,15 @@ Another technique is using stratified sampling when splitting the data. This mea
 When we have a test set with class imbalance, it means that some groups or classes in the data are much bigger than others. This can make it hard to see if our model is doing a good job with the smaller groups. To fix this, we can use something called stratified sampling. This means we make sure that the test set has the same mix of different classes as the whole dataset. For example, if 10% of the whole data is from one class, we want 10% of the test set to be from that class too. By doing this, we can trust that the model's performance on the test set will be a good sign of how it will work in the real world.
 
 Another way to handle class imbalance in the test set is by using different evaluation metrics that are better at dealing with imbalanced data. Instead of just looking at accuracy, we can use metrics like precision, recall, and the F1 score. These metrics help us see how well the model is doing with the smaller classes. For example, the F1 score is calculated as $$F1 = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} + \text{recall}}$$. By using these metrics, we can get a better idea of how the model is handling all the different classes, not just the big ones.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Dietterich, T. G. (1998). ["Approximate Statistical Tests for Comparing Supervised Classification Learning Algorithms"](https://pubmed.ncbi.nlm.nih.gov/9744903/). Neural Computation, 10(7), 1895-1923.
+
+[4]: Kohavi, R. (1995). ["A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection"](https://dl.acm.org/doi/10.5555/1643031.1643047). Proceedings of the 14th International Joint Conference on Artificial Intelligence (IJCAI).
+
+[5]: Provost, F., & Fawcett, T. (2013). [Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking](https://www.researchgate.net/publication/256438799_Data_Science_for_Business). O'Reilly Media.

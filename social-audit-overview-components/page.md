@@ -1,6 +1,7 @@
 ---
-title: "Social Audit Overview and Components"
-description: "Explore the role of social audits in promoting corporate accountability and ethical practices, especially within algorithmic trading, enhancing stakeholder trust and sustainability."
+title: Implementing Effective Social Audits For Corporate Responsibility
+description: Social audit assesses worker treatment, environmental impact and community
+  engagement to guide improvements that build trust Discover more inside
 ---
 
 

@@ -107,3 +107,15 @@ To implement upweighting in an ensemble, you would need to adjust the sample wei
 One advanced technique for dynamically adjusting upweighting during model training is called adaptive weighting. This technique involves changing the weights of samples based on how well the model is doing as it trains. For example, if the model keeps getting certain samples wrong, their weights can be increased to make the model focus more on them. This can help the model learn better from the tricky data without overfitting. Mathematically, this can be shown as $$ \text{Loss} = \sum_{i=1}^n w_i \cdot \text{loss}_i $$ where $w_i$ is the weight of the $i$-th sample and can change during training based on the model's performance.
 
 Another technique is called curriculum learning, which involves starting with easier samples and gradually introducing harder ones. In this approach, you can upweight the harder samples as they are introduced to help the model learn from them. This can be done by setting the weights of the harder samples higher as the training progresses. By doing this, the model can learn the basics first and then focus on the more challenging data, leading to better overall performance. Both of these techniques help the model learn more effectively by dynamically adjusting the importance of different samples during training.
+
+## References & Further Reading
+
+[1]: Elkan, C. (2001). ["The Foundations of Cost-Sensitive Learning."](https://cseweb.ucsd.edu/~elkan/rescale.pdf) Proceedings of the 17th International Joint Conference on Artificial Intelligence.
+
+[2]: He, H., & Garcia, E. A. (2009). ["Learning from Imbalanced Data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[3]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: Synthetic Minority Over-sampling Technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.
+
+[4]: Buda, M., Maki, A., & Mazurowski, M. A. (2018). ["A Systematic Study of the Class Imbalance Problem in Convolutional Neural Networks."](https://www.sciencedirect.com/science/article/pii/S0893608018302107) Neural Networks, 106, 249-259.
+
+[5]: Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2016). ["Understanding Deep Learning Requires Rethinking Generalization."](https://arxiv.org/abs/1611.03530) arXiv preprint arXiv:1611.03530.

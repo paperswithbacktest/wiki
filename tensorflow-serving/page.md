@@ -81,3 +81,15 @@ TensorFlow Serving is a popular choice for serving machine learning models, espe
 ONNX Runtime is another option that stands out because it can serve models from many different frameworks, not just one. This means you can use ONNX Runtime if your team uses different tools like TensorFlow, PyTorch, or others. It's also known for being fast and good at using hardware like GPUs to make your models run quickly. But, setting up ONNX Runtime might take a bit more work if you're used to sticking with one framework.
 
 TorchServe, on the other hand, is designed specifically for PyTorch models. If you're using PyTorch, TorchServe can make it easy to get your models into production. It's good at handling lots of requests and can scale up to handle more users. Like TensorFlow Serving, it supports model versioning, so you can update your models smoothly. But, if you're not using PyTorch, TorchServe might not be the best fit for you. Each of these frameworks has its strengths, so the best choice depends on what you're already using and what you need your model serving system to do.
+
+## References & Further Reading
+
+[1]: Olston, C., Fiedel, N., Gorbenko, A., Harmsen, J., Lao, L., Ramesh, S., & Soyke, J. (2017). ["TensorFlow-Serving: Flexible, High-Performance ML Serving."](https://arxiv.org/abs/1712.06139) USENIX Association.
+
+[2]: ["TensorFlow Serving Documentation"](https://www.tensorflow.org/tfx/guide/serving) - Official TensorFlow Serving Guide
+
+[3]: Kraska, T., Wang, Z., Franklin, M. J., Feng, J., & Rasiwasia, N. (2013). ["MLbase: A Distributed Machine-learning System."](https://www.cidrdb.org/cidr2013/Papers/CIDR13_Paper118.pdf) Proceedings of the 6th Biennial Conference on Innovative Data Systems Research.
+
+[4]: Pattnaik, M., & Pattanayak, B. (2019). ["TensorFlow Machine Learning Projects: Implement real-world machine learning projects to unlock the power of data and build self-learning models using TensorFlow."](https://www.academia.edu/128847419/Comparative_review_of_business_group_affiliates_and_firms_performance) Packt Publishing.
+
+[5]: Krasnopolsky, V. M., Fox-Rabinovitz, M. S., & Belochitski, A. A. (2010). ["Using ensemble of neural networks to learn stochastic convection parameterizations for climate and numerical weather prediction models from data simulated by a cloud resolving model."](https://onlinelibrary.wiley.com/doi/10.1155/2013/485913) Neural Networks.

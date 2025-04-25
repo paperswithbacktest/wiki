@@ -79,3 +79,17 @@ Another limitation is that Fourier-related transforms can be slow for big sets o
 To implement a custom Fourier-related transform in a machine learning pipeline, you first need to understand what kind of data you're working with and what specific features you want to extract. Let's say you're working with images and want to use a custom transform to highlight certain frequencies. You could start by defining your transform using a mathematical formula, like the Fourier Transform $$F(\omega) = \int_{-\infty}^{\infty} f(t)e^{-i\omega t} dt$$ or the Discrete Cosine Transform (DCT) $$Y_k = \sum_{n=0}^{N-1} x_n \cos \left[ \frac{\pi}{N} \left( n + \frac{1}{2} \right) k \right]$$. Then, you would write a function in your programming language of choice to apply this transform to your data. For example, in Python, you might use libraries like NumPy or SciPy to perform these calculations efficiently.
 
 Once you have your custom transform function, you can integrate it into your machine learning pipeline. This usually involves preprocessing your data with the transform before feeding it into your model. For instance, if you're using a neural network for image classification, you could apply your custom Fourier-related transform to the images before passing them through the network. This can help the model focus on the important features you've highlighted with your transform. To do this, you might write a preprocessing step in your code that applies the transform and then feeds the transformed data into the model for training and prediction. This way, you can leverage the power of Fourier-related transforms to enhance the performance of your machine learning models.
+
+## References & Further Reading
+
+[1]: Cooley, J. W., & Tukey, J. W. (1965). ["An Algorithm for the Machine Calculation of Complex Fourier Series."](https://www.ams.org/journals/mcom/1965-19-090/S0025-5718-1965-0178586-1/S0025-5718-1965-0178586-1.pdf) Mathematics of Computation, 19(90), 297-301.
+
+[2]: Oppenheim, A. V., Schafer, R. W., & Buck, J. R. (1999). ["Discrete-Time Signal Processing."](https://elibrary.pearson.de/book/99.150005/9781292038155) Prentice Hall.
+
+[3]: Bracewell, R. N. (2000). ["The Fourier Transform and Its Applications."](https://archive.org/details/TheFourierTransformAndItsApplicationsBracewell) McGraw-Hill.
+
+[4]: Strang, G., & Nguyen, T. (1996). ["Wavelets and Filter Banks."](https://archive.org/details/waveletsfilterba00stra) Wellesley-Cambridge Press.
+
+[5]: Mallat, S. (1999). ["A Wavelet Tour of Signal Processing."](https://www.sciencedirect.com/book/9780123743701/a-wavelet-tour-of-signal-processing) Academic Press.
+
+[6]: Plonka, G., & Maass, P. (1996). ["Discrete Fourier Transforms with Nonuniform Sampling—Theory and Practice."](https://link.springer.com/book/10.1007/978-1-4615-1229-5) SIAM Journal on Mathematical Analysis, 27(5), 1318-1331.

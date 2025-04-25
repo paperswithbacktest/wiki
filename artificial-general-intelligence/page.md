@@ -83,3 +83,19 @@ One leading theory for AGI development is the idea of building a cognitive archi
 Another model is the concept of neurosymbolic AI. This combines the strengths of neural networks, which are good at learning from data, with symbolic AI, which is good at reasoning and logic. The idea is to create AI that can both learn from examples and think logically about what it has learned. By putting these two methods together, scientists hope to build AI that can understand the world in a more complete way. This could help AGI understand and solve complex problems that need both learning and reasoning, like understanding language or making plans.
 
 A third approach is the use of hierarchical reinforcement learning. This method teaches AI to break down complex tasks into smaller, simpler steps. Imagine learning to cook a big meal. You might first learn how to chop vegetables, then how to cook them, and finally how to put everything together. In hierarchical reinforcement learning, the AI learns these smaller steps and then figures out how to combine them to do bigger tasks. This could help AGI learn to handle a wide range of tasks by building up from simple skills to more complex ones.
+
+## References & Further Reading
+
+[1]: Russell, S. J., & Norvig, P. (2009). ["Artificial Intelligence: A Modern Approach."](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) Prentice Hall.
+
+[2]: Silver, D., Schrittwieser, J., Simonyan, K., Antonoglou, I., Huang, A., Guez, A., ... & Hassabis, D. (2017). ["Mastering the game of Go without human knowledge."](https://www.nature.com/articles/nature24270) Nature, 550(7676), 354-359.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., & Riedmiller, M. (2013). ["Playing Atari with Deep Reinforcement Learning."](https://arxiv.org/abs/1312.5602) arXiv preprint arXiv:1312.5602.
+
+[5]: Marcus, G. (2020). ["The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence."](https://arxiv.org/abs/2002.06177) arXiv preprint arXiv:2002.06177.
+
+[6]: Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). ["Building machines that learn and think like people."](https://arxiv.org/abs/1604.00289) Behavioral and Brain Sciences, 40, e253.
+
+[7]: Bostrom, N. (2014). ["Superintelligence: Paths, Dangers, Strategies."](https://psycnet.apa.org/record/2014-48585-000) Oxford University Press.

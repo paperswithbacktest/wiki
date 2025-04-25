@@ -1,6 +1,7 @@
 ---
-title: "Sunshine Trade"
-description: "Explore sunshine trades an emerging strategy in financial markets prioritizing transparency by publicly disclosing transactions to reduce market speculation and lower costs."
+title: Sunshine Trade Impact on Global Crop Exports and Economies
+description: Sunshine Trade drives equatorial economies by exporting bananas coffee
+  and cocoa year round and fosters global market connections Discover more inside.
 ---
 
 

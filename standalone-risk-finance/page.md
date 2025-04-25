@@ -1,6 +1,7 @@
 ---
-title: "Standalone Risk in Finance"
-description: "Explore the distinctions between standalone risk and financial risk in algorithmic trading and gain essential insights for effective risk management in finance."
+title: Understanding Standalone Risk to Evaluate Investment Volatility
+description: Standalone risk reveals the volatility of a single investment by measuring
+  factors like market sensitivity and company health Discover more inside
 ---
 
 

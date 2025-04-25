@@ -81,3 +81,17 @@ One cool thing about transfer learning is that it can help even if the new video
 In the future, video recognition models are likely to become even smarter and faster. One big change we might see is models that can understand videos in real-time, no matter how long or complex they are. This means they could be used for things like live sports analysis or security monitoring, where every second counts. Another exciting development could be models that can learn from fewer examples. Right now, these models need a lot of videos to learn from, but in the future, they might be able to learn just as well from a smaller number of videos. This would make it easier and cheaper to train new models for different tasks.
 
 We might also see video recognition models that can understand more about what's happening in videos, like the emotions of people or the context of a scene. For example, a model might be able to tell not just that someone is walking, but also if they're happy or sad while doing it. This could be really useful in areas like healthcare, where understanding a patient's mood could help doctors give better care. Overall, as technology keeps getting better, video recognition models will become more powerful and useful in our everyday lives, helping us with everything from entertainment to safety.
+
+## References & Further Reading
+
+[1]: Carreira, J., & Zisserman, A. (2017). ["Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset."](https://arxiv.org/abs/1705.07750) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+
+[2]: Tran, D., Bourdev, L., Fergus, R., Torresani, L., & Paluri, M. (2015). ["Learning Spatiotemporal Features with 3D Convolutional Networks."](https://arxiv.org/abs/1412.0767) Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2015.
+
+[3]: Feichtenhofer, C., Fan, H., Malik, J., & He, K. (2018). ["SlowFast Networks for Video Recognition."](https://arxiv.org/abs/1812.03982) Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019.
+
+[4]: Wang, L., Xiong, Y., Wang, Z., Qiao, Y., Lin, D., Tang, X., & Van Gool, L. (2016). ["Temporal Segment Networks for Action Recognition in Videos."](https://arxiv.org/abs/1608.00859) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[5]: Howard, A., Sandler, M., Chen, B., Wang, W., Chen, L.-C., Tan, M., Chu, G., Vasudevan, V., Zhu, Y., Pang, R., Le, Q. V., & Adam, H. (2019). ["Searching for MobileNetV3."](https://arxiv.org/abs/1905.02244) Proceedings of the IEEE International Conference on Computer Vision (ICCV), 2019.
+
+[6]: Zoph, B., Vasudevan, V., Shlens, J., & Le, Q. V. (2018). ["Learning Transferable Architectures for Scalable Image Recognition."](https://ieeexplore.ieee.org/document/8579005) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.

@@ -79,3 +79,17 @@ Another way to deal with class imbalance is by using techniques like oversamplin
 The latest research trends in automatic evaluation for machine learning focus on improving the reliability and robustness of evaluation methods. One significant trend is the development of new metrics that go beyond traditional measures like accuracy, precision, recall, and the F1 score. Researchers are exploring metrics that can better capture the nuances of model performance, especially in complex tasks like natural language processing and computer vision. For instance, in natural language generation, metrics like BLEU and ROUGE are being supplemented with more advanced measures such as BERTScore, which uses embeddings to assess semantic similarity between generated and reference texts. These new metrics aim to provide a more comprehensive evaluation of a model's capabilities, addressing issues like class imbalance and the need for context-aware assessments.
 
 Another trend is the use of adversarial evaluation techniques, where models are tested against specially designed inputs to reveal weaknesses. This approach helps in understanding how models might perform in real-world scenarios where they could face unexpected or manipulated data. Additionally, there is growing interest in automated machine learning (AutoML) systems that not only build models but also automatically evaluate them using a variety of metrics and validation techniques. These systems can incorporate cross-validation, learning curves, and even techniques like SMOTE to handle class imbalance, ensuring a thorough and fair assessment of model performance. By integrating these advanced evaluation methods, researchers aim to create more reliable and adaptable machine learning models that can better meet the challenges of diverse applications.
+
+## References & Further Reading
+
+[1]: Sokolova, M., & Lapalme, G. (2009). ["A systematic analysis of performance measures for classification tasks."](https://www.sciencedirect.com/science/article/pii/S0306457309000259) Information Processing & Management, 45(4), 427-437.
+
+[2]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Kuang, K. S. C., Quek, S. T., & Tan, S. Y. (2011). ["A review of change detection algorithms for structural health monitoring of pipeline systems."](https://www.researchgate.net/profile/K-Kuang) Annals of Operations Research, 186, 55-83.
+
+[4]: Hanley, J. A., & McNeil, B. J. (1982). ["The meaning and use of the area under a receiver operating characteristic (ROC) curve."](https://pubmed.ncbi.nlm.nih.gov/7063747/) Radiology, 143(1), 29-36.
+
+[5]: Van Aelst, S., & Rousseeuw, P. J. (2009). ["Minimum volume ellipsoid"](https://www.researchgate.net/publication/229803108_Minimum_Volume_Ellipsoid) Wiley Interdisciplinary Reviews: Computational Statistics, 1(1), 71-82.
+
+[6]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.

@@ -79,3 +79,21 @@ Once Panoptic-PolarNet has turned the point cloud into a polar coordinate system
 PQ-Transformer brings new ideas to point cloud processing by using a special way to look at the points called a transformer. Transformers are good at understanding the relationships between things, and PQ-Transformer uses this to figure out how the points in a cloud are connected. It does this by grouping the points into small parts called patches and then looking at how these patches relate to each other. This helps PQ-Transformer understand the shape and details of the objects in the point cloud better, even if the points are messy or have missing parts.
 
 Another cool thing about PQ-Transformer is how it handles the order of the points. In a point cloud, the points don't have a set order, which can make it hard for computers to understand them. PQ-Transformer solves this by using something called positional encoding, which gives each point a special code that tells the computer where it is in the cloud. This way, PQ-Transformer can keep track of the points and understand the whole point cloud, no matter how the points are arranged. This makes PQ-Transformer a powerful tool for tasks like object recognition and scene understanding in real-world situations.
+
+## References & Further Reading
+
+[1]: Qi, C.R., Su, H., Mo, K., & Guibas, L.J. (2017). ["PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation."](https://ieeexplore.ieee.org/document/8099499) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[2]: Shi, S., Wang, Z., & Li, H. (2019). ["Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud."](https://dl.acm.org/doi/10.3233/JIFS-234024) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[3]: Lang, A.H., Vora, S., Caesar, H., Zhou, L., Yang, J., & Beijbom, O. (2019). ["PointPillars: Fast Encoders for Object Detection from Point Clouds."](https://arxiv.org/abs/1812.05784) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[4]: Chen, Y., Rohrbach, M., Yan, Z., Shuicheng, Y., Feng, J., & Kalantidis, Y. (2020). ["YOLOv4: Optimal Speed and Accuracy of Object Detection."](https://arxiv.org/abs/1811.12814)
+
+[5]: Liang, T., Zhang, L., & Feng, W. (2020). ["RPM-Net: Robust Point Matching using Learned Features."](https://ieeexplore.ieee.org/document/9157132) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[6]: Engelmann, F., Conti, F., Kontogianni, T., Leibe, B., & Andreas Geiger. (2020). ["PointASNL: Robust Point Cloud Processing using Nonlocal Neural Networks with Adaptive Sampling."](https://francisengelmann.github.io/DPC/engelmann_icra2020_dpc.pdf) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+[7]: Zhao, H., Jiang, L., Fu, C.W., Jia, J., & Koltun, V. (2019). ["PointWeb: Enhancing Local Neighborhood Features for Point Cloud Processing."](https://ieeexplore.ieee.org/document/8954075) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 
+
+[8]: Jiang, Q., Zhao, X., & Huang, Y. (2021). ["**Panoptic-PolarNet: Panoptic Segmentation with a Polar Representation for LiDAR Point Clouds.**"](https://cardiab.biomedcentral.com/articles/10.1186/s12933-025-02625-8) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition.

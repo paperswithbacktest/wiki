@@ -81,3 +81,15 @@ Neural network models, like those using recurrent neural networks (RNNs) or tran
 Recent research in the use of N-Grams in machine learning has focused on improving their efficiency and effectiveness in handling large datasets. One interesting development is the integration of N-Grams with more advanced models like neural networks. For example, researchers have used N-Grams as features in [deep learning](/wiki/deep-learning) models to help with tasks like sentiment analysis and text classification. By combining the simplicity of N-Grams with the power of neural networks, these models can capture both local patterns and broader context in text. This hybrid approach has shown promising results in improving the accuracy of language understanding tasks.
 
 Another area of research is the application of N-Grams in multilingual settings. Researchers have been exploring how N-Grams can help in language translation and cross-lingual text classification. By using N-Grams to identify common phrases across different languages, models can better understand and translate text. This is particularly useful in low-resource languages where training data is scarce. The use of N-Grams in these scenarios helps in creating more robust and adaptable language models that can work across different linguistic environments.
+
+## References & Further Reading
+
+[1]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://www.cambridge.org/highereducation/books/introduction-to-information-retrieval/669D108D20F556C5C30957D63B5AB65C) Cambridge University Press.
+
+[2]: Jurafsky, D., & Martin, J. H. (2009). ["Speech and Language Processing"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition). Prentice Hall.
+
+[3]: Katz, S. M. (1987). ["Estimation of probabilities from sparse data for the language model component of a speech recognizer."](https://ieeexplore.ieee.org/document/1165125) In IEEE Transactions on Acoustics, Speech, and Signal Processing.
+
+[4]: Chen, S. F., & Goodman, J. (1998). ["An Empirical Study of Smoothing Techniques for Language Modeling."](https://www.sciencedirect.com/science/article/pii/S0885230899901286) In ACL.
+
+[5]: [N-grams in Google Research](https://research.google/blog/all-our-n-gram-are-belong-to-you/) by Google Research, highlighting applications and developments in machine learning.

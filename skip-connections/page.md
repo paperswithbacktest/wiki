@@ -1,7 +1,7 @@
 ---
-title: Understanding Skip Connections in Deep Neural Networks
-description: Skip connections improve gradient flow and stabilize training in deep
-  neural networks to boost learning and reduce vanishing gradients Discover more inside
+title: Skip Connections Explained for Deep Neural Network Training
+description: Skip connections improve gradient flow and preserve information in deep
+  neural networks enabling stable training across many layers Discover more inside.
 ---
 
 ![Image](images/1.jpeg)
@@ -125,3 +125,15 @@ Another technique is using learned skip connections. Instead of just adding the 
 Recent research in skip connections has focused on making them more adaptive and flexible. One interesting development is the use of dynamic skip connections, where the network can decide during training which connections to use. This can make the network more efficient because it only uses the connections that help it learn better. For example, a study showed that using a gating mechanism, which is a small network that decides whether to use a skip connection or not, can improve the performance of the network. By doing this, the network can focus on the most important paths for the data to flow through, making it learn faster and perform better.
 
 Another area of research is about learning how much of the input to add through skip connections. Instead of just adding the input to the output, the network can learn a weight for the skip connection. For example, if a layer applies a function $$F(x)$$ to the input $$x$$, the output with a learned skip connection would be $$F(x) + \alpha \cdot x$$, where $$\alpha$$ is a learned weight. This allows the network to fine-tune how much it uses the skip connections, making them more effective. By learning these weights, the network can better handle different types of data and tasks, improving its overall performance.
+
+## References & Further Reading
+
+[1]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Huang, G., Liu, Z., Van Der Maaten, L., & Weinberger, K. Q. (2017). ["Densely Connected Convolutional Networks."](https://ieeexplore.ieee.org/document/8099726) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Ronneberger, O., Fischer, P., & Brox, T. (2015). ["U-Net: Convolutional Networks for Biomedical Image Segmentation."](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI).
+
+[4]: Zagoruyko, S., & Komodakis, N. (2016). ["Wide Residual Networks."](https://arxiv.org/abs/1605.07146) British Machine Vision Conference (BMVC).
+
+[5]: Srivastava, R. K., Greff, K., & Schmidhuber, J. (2015). ["Highway Networks."](https://arxiv.org/abs/1505.00387) arXiv preprint arXiv:1505.00387.

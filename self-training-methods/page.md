@@ -81,3 +81,17 @@ Another way self-training can be combined with other methods is by using techniq
 Self-training methods are used in many real-world situations where there isn't a lot of labeled data to start with. For example, in the field of natural language processing, self-training can help improve models that understand and translate languages. If you want to make a model that can translate from English to Spanish, you might not have a lot of sentences that are already translated. Self-training can help by using the model's own guesses to learn from more sentences, making it better at translating over time. This is really useful because getting more translated sentences can be hard and expensive.
 
 Another area where self-training is helpful is in image recognition. Imagine you want to build a model that can tell the difference between pictures of cats and dogs. You might only have a few pictures that are already labeled, but you have a lot more pictures without labels. Self-training can use the model's guesses on these unlabeled pictures to improve itself. If the model is very sure that a picture is a cat, it can add that guess to the training set and learn from it. This way, the model can get better at recognizing cats and dogs even if you don't have a lot of labeled pictures to start with.
+
+## References & Further Reading
+
+[1]: Yarowsky, D. (1995). ["Unsupervised Word Sense Disambiguation Rivaling Supervised Methods."](https://aclanthology.org/P95-1026/) Proceedings of the 33rd Annual Meeting on Association for Computational Linguistics.
+
+[2]: Nigam, K., McCallum, A. K., Thrun, S., & Mitchell, T. (2000). ["Text Classification from Labeled and Unlabeled Documents using EM."](https://link.springer.com/article/10.1023/A:1007692713085) Machine Learning, 39(2-3), 103-134.
+
+[3]: Chapelle, O., Scholkopf, B., & Zien, A. (2006). ["Semi-Supervised Learning."](https://ieeexplore.ieee.org/abstract/document/4787647) MIT Press.
+
+[4]: Zhu, X., & Goldberg, A. B. (2009). ["Introduction to Semi-Supervised Learning."](https://link.springer.com/book/10.1007/978-3-031-01548-9) Morgan & Claypool Publishers.
+
+[5]: Blum, A., & Mitchell, T. (1998). ["Combining labeled and unlabeled data with co-training."](https://dl.acm.org/doi/10.1145/279943.279962) Proceedings of the 11th Annual Conference on Computational Learning Theory.
+
+[6]: Ruder, S. (2019). ["Neural Transfer Learning for Natural Language Processing."](https://researchrepository.universityofgalway.ie/bitstream/handle/10379/15463/neural_transfer_learning_for_nlp.pdf) Doctoral dissertation. National University of Ireland, Galway.

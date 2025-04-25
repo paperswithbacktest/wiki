@@ -1,6 +1,7 @@
 ---
-title: "Stock Market Indicators for Overbought and Oversold Conditions"
-description: "Discover essential stock market indicators like RSI and Stochastics for identifying overbought and oversold conditions, crucial for effective algo trading strategies."
+title: Key Overbought and Oversold Stock Market Indicators
+description: Stock market indicators help investors identify overbought and oversold
+  conditions using RSI stochastics Bollinger Bands and CCI Discover more inside.
 ---
 
 

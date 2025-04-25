@@ -1,6 +1,7 @@
 ---
-title: "Skycoin: Overview, Related Projects, and Concerns"
-description: "Explore Skycoin's unique blockchain projects and algorithmic trading insights in this article Focused on decentralization and investment efficiency."
+title: 'Skycoin Ecosystem: Fast Private Internet with Obelisk Consensus'
+description: Skycoin accelerates internet speed and boosts privacy with the Skywire
+  network and Obelisk consensus for secure low energy transfers. Discover more inside.
 ---
 
 

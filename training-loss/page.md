@@ -98,3 +98,17 @@ def mixup_data(x, y, alpha=1.0):
     mixed_y = lam * y + (1 - lam) * y[index]
     return mixed_x, mixed_y, lam
 ``` By using these advanced techniques, researchers are finding new ways to manage training loss and improve model performance.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press. 
+
+[2]: Bishop, C. M. (2006). [Pattern Recognition and Machine Learning](https://link.springer.com/book/9780387310732). Springer.
+
+[3]: Bottou, L. (2010). [Large-Scale Machine Learning with Stochastic Gradient Descent](https://link.springer.com/chapter/10.1007/978-3-7908-2604-3_16). Proceedings of COMPSTAT 2010, Springer, pp. 177-186.
+
+[4]: Ruder, S. (2016). [An Overview of Gradient Descent Optimization Algorithms](https://arxiv.org/abs/1609.04747). arXiv:1609.04747.
+
+[5]: Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2016). [Understanding deep learning requires rethinking generalization](https://arxiv.org/abs/1611.03530). arXiv:1611.03530.
+
+[6]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://dl.acm.org/doi/abs/10.5555/2627435.2670313). Journal of Machine Learning Research, 15(56):1929−1958.

@@ -79,3 +79,17 @@ Equal Opportunity, on the other hand, focuses only on making sure the true posit
 To optimize for Equalized Odds in machine learning models, one advanced technique is to use post-processing methods. Post-processing involves adjusting the model's predictions after it has been trained to ensure that the true positive rate (TPR) and false positive rate (FPR) are the same across different groups. For example, if a model is predicting loan approvals, you might adjust the threshold for what counts as a "yes" prediction to balance out the rates for different groups. This can be done by using algorithms like the "Equalized Odds Postprocessing" method in the AIF360 library in Python, which modifies the model's outputs to meet the Equalized Odds criteria. The goal is to achieve $$P(\hat{Y}=1|Y=1,A=a) = P(\hat{Y}=1|Y=1,A=b)$$ for TPR and $$P(\hat{Y}=1|Y=0,A=a) = P(\hat{Y}=1|Y=0,A=b)$$ for FPR, where $$A$$ is the group, $$Y$$ is the real outcome, and $$\hat{Y}$$ is the model's prediction.
 
 Another advanced technique is in-processing, where you change how the model learns from the data to incorporate fairness directly into the training process. This can involve adding a fairness constraint to the model's objective function, so it tries to be both accurate and fair at the same time. For instance, you might use algorithms like Adversarial Debiasing, which uses an adversarial network to reduce bias during training. This method tries to make the model's predictions independent of sensitive attributes like race or gender, which helps in achieving Equalized Odds. By carefully choosing and applying these advanced techniques, you can build a model that treats everyone fairly and gives everyone a fair shot at opportunities.
+
+## References & Further Reading
+
+[1]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29.
+
+[2]: Chouldechova, A. (2017). ["Fair prediction with disparate impact: A study of bias in recidivism prediction instruments."](https://pubmed.ncbi.nlm.nih.gov/28632438/) Journal of Machine Learning Research, 81(2017), 153-166.
+
+[3]: Pleiss, G., Raghavan, M., Wu, F., Kleinberg, J., & Weinberger, K. Q. (2017). ["On Fairness and Calibration."](https://arxiv.org/abs/1709.02012) Proceedings of the 31st International Conference on Neural Information Processing Systems.
+
+[4]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) fairmlbook.org.
+
+[5]: Žliobaitė, I. (2017). ["Measuring discrimination in algorithmic decision making."](https://link.springer.com/article/10.1007/s10618-017-0506-1) Data Mining and Knowledge Discovery, 31(4), 1060-1089.
+
+[6]: Verma, S., & Rubin, J. (2018). ["Fairness Definitions Explained."](https://dl.acm.org/doi/10.1145/3194770.3194776) arXiv preprint arXiv:1810.00844.

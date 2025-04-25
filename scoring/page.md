@@ -83,3 +83,17 @@ Another technique is to use hyperparameter tuning. Hyperparameters are settings 
 When dealing with class imbalance in machine learning, accuracy can be misleading because it might seem high if the model always predicts the majority class. For example, if you're trying to predict rare events like fraud, a model that always says "no fraud" could still have high accuracy but be useless. In these cases, you need to use different metrics that focus on the minority class. Precision tells you how many of the times your model said "yes" were actually right, which is important if false positives are a big problem. Recall tells you how many of the actual "yes" cases your model caught, which is crucial if you don't want to miss any important cases. The F1 score combines these two with the formula $$ F1 = 2 \times \frac{\text{precision} \times \text{recall}}{\text{precision} + \text{recall}} $$. It gives you a balanced view of how well the model is doing at predicting both positive and negative cases.
 
 To handle class imbalance better, you can also use techniques like resampling. This means either oversampling the minority class by creating more copies of those examples or undersampling the majority class by removing some of those examples. Another approach is to use different weights for the classes during training, where the minority class gets more importance. You can also use specialized algorithms like SMOTE (Synthetic Minority Over-sampling Technique), which creates synthetic examples of the minority class to balance the dataset. By using these methods and focusing on metrics like precision, recall, and F1 score, you can get a more accurate picture of how well your model is doing with imbalanced data.
+
+## References & Further Reading
+
+[1]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[2]: Sokolova, M., & Lapalme, G. (2009). ["A systematic analysis of performance measures for classification tasks."](https://www.sciencedirect.com/science/article/pii/S0306457309000259) Information Processing & Management, 45(4), 427-437.
+
+[3]: Hanley, J. A., & McNeil, B. J. (1982). ["The Meaning and Use of the Area under a Receiver Operating Characteristic (ROC) Curve."](https://pubmed.ncbi.nlm.nih.gov/7063747/) Radiology, 143(1), 29-36.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[6]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

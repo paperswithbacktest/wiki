@@ -81,3 +81,17 @@ In R, the tidyverse collection of packages is commonly used for feature engineer
 To evaluate the effectiveness of your feature engineering efforts, you need to see if the new features you've created help your model make better predictions. One way to do this is by comparing the performance of your model before and after you add the new features. You can use metrics like accuracy, precision, recall, or the mean squared error to see if the model's predictions have gotten better. For example, if you're predicting house prices, you might check if adding a new feature for the average size of each bedroom makes the model's predictions closer to the actual prices. If the model's performance improves, it means your feature engineering was effective.
 
 Another way to evaluate your feature engineering is by looking at how important each new feature is to the model's predictions. You can use techniques like feature importance scores or permutation importance to see which features have the biggest impact on the model's performance. For instance, if you've added a new feature for the age of a house's roof and it turns out to be one of the most important features for predicting the house's price, then you know your feature engineering was successful. By checking these things, you can figure out if your new features are helping the model understand the data better and make more accurate predictions.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ). O'Reilly Media.
+
+[3]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling"](https://link.springer.com/book/10.1007/978-1-4614-6849-3). Springer.
+
+[4]: ["Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists"](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241) by Alice Zheng, Amanda Casari
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[6]: [Kaggle's Guide to Feature Engineering](https://www.kaggle.com/code/prashant111/a-reference-guide-to-feature-engineering-methods)

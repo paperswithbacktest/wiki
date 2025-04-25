@@ -135,3 +135,15 @@ def sort_list(numbers):
 ```
 
 This improvement in understanding and generating responses has made Prompt-Based Learning more effective for complex tasks, like coding or solving math problems. For instance, if you give the model a prompt to solve a math problem like "Solve the equation: $$\frac{3}{4} + \frac{1}{2} = ?$$" it can now more accurately respond with "The answer is $$\frac{5}{4}$$ or 1.25." These advancements are pushing the boundaries of what Prompt-Based Learning can do, making it a powerful tool in many fields.
+
+## References & Further Reading
+
+[1]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[2]: Schick, T., & Schütze, H. (2021). ["Exploiting Cloze Questions for Few-Shot Text Classification and Natural Language Inference."](https://aclanthology.org/2021.eacl-main.20/) In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI Blog.
+
+[4]: Liu, P., Yuan, W., Fu, J., Jiang, Z., Hayashi, H., & Neubig, G. (2021). ["Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing."](https://arxiv.org/abs/2107.13586) arXiv preprint arXiv:2107.13586.
+
+[5]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research, 21(140), 1-67.

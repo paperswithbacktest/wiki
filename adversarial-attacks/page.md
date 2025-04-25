@@ -81,3 +81,15 @@ Another way to defend models is by using special methods to clean up the input b
 Recent advancements in adversarial attack techniques have pushed the boundaries of how machine learning models can be tricked. One new method is called RandSol, which uses a special photo effect called solarization to create adversarial examples. Solarization changes parts of a picture into their opposite colors, making it look strange but still recognizable to humans. RandSol applies this effect randomly to different parts of the picture, making it hard for models to predict and defend against these changes. Another new technique is Spectral DeTuning, which messes with the colors and patterns in a picture to confuse the model. These methods show that attackers are finding new ways to fool models, even when they're trained to spot and ignore tiny changes.
 
 These advancements have big implications for future machine learning security. As attackers find new ways to trick models, it becomes more important for researchers to keep finding ways to make models stronger. This means using methods like adversarial training, where models are shown lots of tricky examples during their learning time, and special methods like DSiRe to clean up inputs before they reach the model. By staying one step ahead of attackers, researchers can help keep important systems like self-driving cars and security systems safe and working well. The ongoing battle between new attack methods and new defense strategies will shape how we use and trust machine learning in the future.
+
+## References & Further Reading
+
+[1]: Szegedy, C., Zaremba, W., Sutskever, I., Bruna, J., Erhan, D., Goodfellow, I., & Fergus, R. (2013). ["Intriguing properties of neural networks."](https://arxiv.org/abs/1312.6199) arXiv preprint arXiv:1312.6199.
+
+[2]: Goodfellow, I. J., Shlens, J., & Szegedy, C. (2014). ["Explaining and Harnessing Adversarial Examples."](https://arxiv.org/abs/1412.6572) arXiv preprint arXiv:1412.6572.
+
+[3]: Madry, A., Makelov, A., Schmidt, L., Tsipras, D., & Vladu, A. (2017). ["Towards Deep Learning Models Resistant to Adversarial Attacks."](https://arxiv.org/abs/1706.06083) arXiv preprint arXiv:1706.06083.
+
+[4]: Carlini, N., & Wagner, D. (2017). ["Towards Evaluating the Robustness of Neural Networks."](https://ieeexplore.ieee.org/document/7958570) 2017 IEEE Symposium on Security and Privacy (SP).
+
+[5]: Yuan, X., He, P., Zhu, Q., & Li, X. (2019). ["Adversarial Examples: Attacks and Defenses for Deep Learning."](https://arxiv.org/abs/1712.07107) ACM Computing Surveys (CSUR).

@@ -85,3 +85,17 @@ However, deep learning models can also struggle with factuality if the data they
 In the future, we can expect machine learning to get better at being factual by using new ways to check and improve data quality. Scientists are working on methods to automatically clean and fix data, which will help models learn from more accurate information. They are also developing ways to make sure data includes all kinds of people and situations, so models don't miss important patterns. By doing this, models can make predictions that match the real world more closely, making them more factual.
 
 Another big change coming is the use of better ways to keep models up to date. As the world changes, models need to change too. New techniques like online learning, where models learn from new data as it comes in, will help keep predictions accurate over time. Also, more advanced ways to check how well a model is doing, like using different kinds of data to test it, will help make sure it stays factual even as it gets used by more people. These improvements will make machine learning more reliable and trustworthy for important decisions.
+
+## References & Further Reading
+
+[1]: Ribeiro, M. T., Singh, S., & Guestrin, C. (2016). ["Why Should I Trust You?": Explaining the Predictions of Any Classifier.](https://dl.acm.org/doi/10.1145/2939672.2939778) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[2]: Bolukbasi, T., Chang, K. W., Zou, J. Y., Saligrama, V., & Kalai, A. (2016). ["Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings."](https://arxiv.org/abs/1607.06520) Advances in Neural Information Processing Systems 29.
+
+[3]: Binns, R. (2018). ["Fairness in Machine Learning: Lessons from Political Philosophy."](https://proceedings.mlr.press/v81/binns18a.html) Proceedings of the 2018 Conference on Fairness, Accountability, and Transparency.
+
+[4]: Recht, B., Roelofs, R., Schmidt, L., & Shankar, V. (2019). ["Do ImageNet Classifiers Generalize to ImageNet?"](https://arxiv.org/abs/1902.10811) arXiv preprint arXiv:1902.10811.
+
+[5]: Chouldechova, A., & Roth, A. (2020). ["A Snapshot of the Frontiers of Fairness in Machine Learning."](https://dl.acm.org/doi/10.1145/3376898) Communications of the ACM, 63(5), 82–89.
+
+[6]: Varshney, K. R. (2016). ["Engineering Safety in Machine Learning."](https://arxiv.org/abs/1601.04126) Proceedings of the 2016 IEEE International Symposium on Ethics in Engineering, Science and Technology.

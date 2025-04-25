@@ -1,6 +1,7 @@
 ---
-title: "Sri Lankan Rupee: Overview and Historical Context"
-description: "Explore the historical significance of the Sri Lankan Rupee and its impact on today's forex market with algorithmic trading insights and market dynamics."
+title: Sri Lankan Rupee History Value and Role in the Global Economy
+description: Sri Lankan Rupee has evolved through reforms conflicts and crises shaping
+  its value stability and global trade significance Discover more inside
 ---
 
 

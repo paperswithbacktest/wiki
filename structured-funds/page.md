@@ -1,6 +1,7 @@
 ---
-title: "Structured Funds"
-description: "Discover innovative investment strategies with structured funds and algorithmic trading, designed to optimize returns and manage risks in today's financial markets."
+title: Understanding Structured Funds And Their Investment Benefits
+description: Structured funds blend stocks bonds and derivatives to fulfill targeted
+  goals protect capital or enhance returns while balancing risk Discover more inside.
 ---
 
 

@@ -83,3 +83,15 @@ Both Bagging and Boosting can be used to make your models more accurate and reli
 Researchers have studied how sampling with replacement helps in machine learning, especially in methods like bootstrapping and ensemble learning. One important study looked at how bootstrapping can help estimate the performance of a model. They found that by using sampling with replacement to create many different samples, they could see how much a model's predictions might change with different data. This helped them understand if the model was reliable or if it might give very different answers with new data. The study showed that sampling with replacement can make models more stable and give a better idea of how they will work in real life.
 
 Another study focused on how sampling with replacement improves ensemble methods like Random Forests. They found that by creating different samples of data for each tree in the forest, the trees learn different things and can make better predictions together. The research showed that this method reduces the chance of overfitting, where a model is too good at predicting the data it's trained on but not good with new data. They also found that sampling with replacement can help deal with imbalanced datasets by creating more examples of the less common category, making the model fairer and more accurate for all types of data.
+
+## References & Further Reading
+
+[1]: Efron, B., & Tibshirani, R. J. (1993). ["An Introduction to the Bootstrap."](https://www.semanticscholar.org/paper/An-Introduction-to-the-Bootstrap-Efron-Tibshirani/85a8a97f614b2b6823e035bcc9abcb0f3d27be4d) Chapman & Hall/CRC.
+
+[2]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[3]: Friedman, J., Hastie, T., & Tibshirani, R. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Thomas, M. C., & Hettmansperger, T. P. (2001). ["Bootstrapping the Test for Symmetry about an Unknown Median."](https://www.taylorfrancis.com/books/mono/10.1201/b10451/robust-nonparametric-statistical-methods-thomas-hettmansperger-joseph-mckean) Communications in Statistics - Simulation and Computation.

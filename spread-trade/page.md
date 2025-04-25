@@ -1,6 +1,7 @@
 ---
-title: "Spread trade"
-description: "Explore spread trading in algorithmic trading, a strategy using Python for precise, automated trades exploiting price differences between correlated assets."
+title: Comprehensive Guide to Spread Trading and Algorithmic Models
+description: Spread Trading profits from price differences between related assets
+  while managing risk with Python analytics and live examples Discover more inside.
 ---
 
 

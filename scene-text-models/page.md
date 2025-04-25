@@ -85,3 +85,23 @@ Another limitation is that these models can be slow, especially when they have t
 In the future, scene text recognition could get even better with new ways of using deep learning. Researchers might find new types of neural networks that can read text faster and more accurately. They could also work on making models that are better at understanding different languages and writing styles. For example, they might train models on more languages to help them read text from around the world. Another big area is making models that can work well even when the text is very small or partly hidden. This could help the models be more useful in real-life situations, like reading signs in crowded places.
 
 Another important direction for research is to make scene text models work better with other computer vision tasks. For example, they could be combined with object detection to not just read text but also understand what the text is about. This could help computers understand pictures better and be more helpful to people. Researchers might also look at ways to make these models faster, so they can be used in things like self-driving cars or real-time translation apps. By working on these areas, scene text recognition could become a key part of many technologies, making our lives easier and more connected.
+
+## References & Further Reading
+
+[1]: Baek, J., Lee, B., Han, D., Yun, S., & Lee, H. (2019). ["Character Region Awareness for Text Detection."](https://arxiv.org/abs/1904.01941) Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).
+
+[2]: Shi, B., Wang, X., Lyu, P., Yao, C., & Bai, X. (2018). ["ASTER: An Attentional Scene Text Recognizer with Flexible Rectification."](https://ieeexplore.ieee.org/document/8395027) Proceedings of the European Conference on Computer Vision (ECCV).
+
+[3]: Wang, J., Chen, Y., Pan, X., & Shang, X. (2020). ["PGNet: Real-time Arbitrarily-Shaped Text Spotting with Point Gathering Network."](https://www.researchgate.net/publication/350834216_PGNet_Real-time_Arbitrarily-Shaped_Text_Spotting_with_Point_Gathering_Network) arXiv preprint arXiv:2008.11863.
+
+[4]: Liao, M., Shi, B., & Bai, X. (2020). ["TextBoxes++: A Single-Shot Oriented Scene Text Detector."](https://ieeexplore.ieee.org/abstract/document/8334248) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Liu, Y., Chen, T., Shen, C., Jin, L., & Wang, Y. (2020). ["ABCNet: Real-time Scene Text Spotting with Adaptive Bezier-Curve Network."](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_ABCNet_Real-Time_Scene_Text_Spotting_With_Adaptive_Bezier-Curve_Network_CVPR_2020_paper.pdf) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Karatzas, D., et al. (2015). ["ICDAR 2015 Competition on Robust Reading."](https://ieeexplore.ieee.org/abstract/document/7333942) 2015 13th International Conference on Document Analysis and Recognition (ICDAR).
+
+[7]: Veit, A., Matera, T., Neumann, L., Matas, J., & Belongie, S. (2016). ["COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images."](https://arxiv.org/abs/1601.07140) Proceedings of the European Conference on Computer Vision (ECCV).
+
+[8]: Bissacco, A., Cummins, M., Netzer, Y., & Neven, H. (2013). ["PhotoOCR: Reading Text in Uncontrolled Conditions."](https://ieeexplore.ieee.org/document/6751207) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[9]: Wang, K., Babenko, B., & Belongie, S. (2011). ["End-to-End Scene Text Recognition."](https://ieeexplore.ieee.org/document/6126402) Proceedings of the IEEE International Conference on Computer Vision (ICCV).

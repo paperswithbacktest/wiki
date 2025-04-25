@@ -81,3 +81,15 @@ For example, if you want to see if a sentence is positive or negative, the convo
 Recent advancements in convolutional operations for [deep learning](/wiki/deep-learning) have focused on improving efficiency and performance. One notable development is the introduction of depthwise separable convolutions, which split the standard convolution into two separate steps: a depthwise convolution that applies a single filter to each input channel, followed by a pointwise convolution that combines the outputs using 1x1 convolutions. This approach significantly reduces the number of parameters and computations needed, making it more efficient for mobile and embedded devices. Researchers have also explored dynamic convolutions, where the filter weights change based on the input, allowing the network to adapt more flexibly to different data. The formula for depthwise separable convolutions can be represented as $$O = \text{Pointwise}(\text{Depthwise}(I, K_d), K_p)$$, where $$I$$ is the input, $$K_d$$ is the depthwise kernel, and $$K_p$$ is the pointwise kernel.
 
 Another exciting area of research is the use of attention mechanisms in convolutional neural networks (CNNs). Attention allows the network to focus on the most relevant parts of the input, improving its ability to understand complex patterns. For instance, the Squeeze-and-Excitation (SE) block enhances the representational power of CNNs by recalibrating channel-wise feature responses adaptively. This technique has been shown to boost performance across various tasks, including image classification and object detection. Additionally, researchers are working on integrating convolutional operations with transformer architectures, traditionally used in natural language processing, to leverage the strengths of both approaches. This hybrid model can capture both local and global dependencies in data, leading to more robust and versatile networks.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press. (See Chapter 9 on Convolutional Networks).
+
+[2]: LeCun, Y., & Bengio, Y. (1995). ["Convolutional Networks for Images, Speech, and Time Series,"](https://www.researchgate.net/publication/216792820_Convolutional_Networks_for_Images_Speech_and_Time-Series) The Handbook of Brain Theory and Neural Networks.
+
+[3]: O'Shea, K., & Nash, R. (2015). ["An Introduction to Convolutional Neural Networks,"](https://arxiv.org/abs/1511.08458) arXiv preprint arXiv:1511.08458.
+
+[4]: Dilsizian, S. E., Siegel, E. L., & White, R. D. (2018). ["Artificial Intelligence in Medicine."](https://pubmed.ncbi.nlm.nih.gov/24338557/) Academic Press. (Focus on Convolutional Neural Networks for Medical Images).
+
+[5]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks,"](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems.

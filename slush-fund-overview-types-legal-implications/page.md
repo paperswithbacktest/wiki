@@ -1,6 +1,7 @@
 ---
-title: "Slush Fund: Overview, Types, and Legal Implications"
-description: "Explore the complexities of fund types and their ties to algo trading Understand mutual hedge private equity and slush funds and their legal implications"
+title: Understanding Slush Fund Operations and Corruption Prevention
+description: Slush fund secrecy fuels corruption and legal risk. See how slush funds
+  form operate get exposed and prevent misuse with strategies Discover more inside
 ---
 
 

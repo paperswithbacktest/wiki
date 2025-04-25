@@ -171,3 +171,17 @@ print("p-value:", p_value)
 ```
 
 If the p-value is small (usually less than 0.05), it suggests your data might not be normally distributed. By combining visual checks and statistical tests, you can better understand if your data meets the model's assumptions, helping you choose the right model or transform your data to fit better.
+
+## References & Further Reading
+
+[1]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). MIT Press.
+
+[2]: McKinney, W. (2017). ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"](https://books.google.com/books/about/Python_for_Data_Analysis.html?id=BCc3DwAAQBAJ). O'Reilly Media.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer.
+
+[5]: Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). ["Bayesian Data Analysis"](https://www.taylorfrancis.com/books/mono/10.1201/b16018/bayesian-data-analysis-david-dunson-donald-rubin-john-carlin-andrew-gelman-hal-stern-aki-vehtari). Chapman and Hall/CRC.
+
+[6]: Silverman, B. W. (1986). ["Density Estimation for Statistics and Data Analysis"](https://ned.ipac.caltech.edu/level5/March02/Silverman/paper.pdf). Chapman and Hall/CRC.

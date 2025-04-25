@@ -85,3 +85,23 @@ A third advanced technique is using "StyleGAN," which is a special kind of GAN t
 One recent development in generative training is the use of diffusion models. These models work by adding noise to data and then learning how to remove it step by step. This is different from older methods like GANs, which use a competition between two models to create new data. Diffusion models can make very high-quality images and are easier to train because they don't need the tricky balance that GANs do. They're becoming popular for tasks like image generation and even text-to-image creation. Researchers are excited about diffusion models because they can produce results that look very realistic and can be controlled in many ways.
 
 Another trend to watch out for is the integration of generative models with other AI technologies. For example, combining generative training with [reinforcement learning](/wiki/reinforcement-learning) can make models that not only create new data but also learn how to do tasks better over time. This could be really useful in areas like robotics, where a robot could learn to perform new actions by watching and then practicing. Also, the use of generative models in natural language processing is growing. Models like $$ \text{GPT-3} $$ can write text that sounds like a human, and future models might be even better at understanding and creating language. As these technologies keep improving, we can expect to see more creative and helpful uses of generative training in our daily lives.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Kingma, D. P., & Welling, M. (2014). ["Auto-Encoding Variational Bayes."](https://arxiv.org/abs/1312.6114) arXiv preprint arXiv:1312.6114.
+
+[3]: Karras, T., Aila, T., Laine, S., & Lehtinen, J. (2017). ["Progressive Growing of GANs for Improved Quality, Stability, and Variation."](https://arxiv.org/abs/1710.10196) arXiv preprint arXiv:1710.10196.
+
+[4]: Abadi, M. et al. (2016). ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems."](https://arxiv.org/abs/1603.04467) arXiv preprint arXiv:1603.04467.
+
+[5]: Mirza, M., & Osindero, S. (2014). ["Conditional Generative Adversarial Nets."](https://arxiv.org/abs/1411.1784) arXiv preprint arXiv:1411.1784.
+
+[6]: Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). ["Zero-Shot Text-to-Image Generation."](https://arxiv.org/abs/2102.12092) arXiv preprint arXiv:2102.12092.
+
+[7]: Bengio, Y. (2017). ["Deep Learning of Representations: Looking Forward."](https://arxiv.org/abs/1305.0445) In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management.
+
+[8]: Ho, J., Jain, A., & Abbeel, P. (2020). ["Denoising Diffusion Probabilistic Models."](https://arxiv.org/abs/2006.11239) arXiv preprint arXiv:2006.11239. 
+
+[9]: Mescheder, L., Geiger, A., & Nowozin, S. (2018). ["Which Training Methods for GANs do actually Converge?"](https://arxiv.org/abs/1801.04406) arXiv preprint arXiv:1801.04406.

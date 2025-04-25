@@ -81,3 +81,19 @@ The way attention works in PSANet is by creating a map that shows which parts of
 Transformer-based models like SETR and UCTransNet approach semantic segmentation differently from traditional CNN-based models by using a mechanism called attention. Attention helps these models focus on different parts of the image at the same time. It's like looking at the whole picture and deciding which parts are more important. This is different from CNNs, which look at the image in small pieces and build up their understanding step by step. Transformers can see the big picture and the small details all at once, which makes them good at understanding complex scenes. For example, SETR uses a transformer to look at the image in different ways and then labels each pixel based on what it sees.
 
 UCTransNet also uses transformers but adds something called a U-shaped structure, similar to U-Net. This structure helps the model keep important details as it processes the image. The U-shape lets the model shrink the image down to find big features and then grow it back up to label each pixel. This is different from traditional CNNs, which might lose some details as they go. By combining transformers with this U-shaped structure, UCTransNet can make very accurate segmentations, even for small objects. Overall, transformer-based models like SETR and UCTransNet bring a new way of looking at images, focusing on both the big picture and the small details, which can make semantic segmentation more effective.
+
+## References & Further Reading
+
+[1]: Long, J., Shelhamer, E., & Darrell, T. (2015). ["Fully Convolutional Networks for Semantic Segmentation."](https://ieeexplore.ieee.org/document/7298965) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Ronneberger, O., Fischer, P., & Brox, T. (2015). ["U-Net: Convolutional Networks for Biomedical Image Segmentation."](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) arXiv:1505.04597.
+
+[3]: Chen, L.-C., Papandreou, G., Kokkinos, I., Murphy, K., & Yuille, A. L. (2018). ["DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs."](https://ieeexplore.ieee.org/document/7913730) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[4]: Zhao, H., Shi, J., Qi, X., Wang, X., & Jia, J. (2017). ["Pyramid Scene Parsing Network."](https://ieeexplore.ieee.org/document/8100143) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv:1706.03762.
+
+[6]: Xie, E., Wang, W., Yu, Z., Anandkumar, A., Alvarez, J. M., & Luo, P. (2021). ["SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers."](https://arxiv.org/abs/2105.15203) arXiv:2105.15203.
+
+[7]: Paszke, A., Chaurasia, A., Kim, S., & Culurciello, E. (2016). ["ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation."](https://arxiv.org/abs/1606.02147) arXiv:1606.02147.

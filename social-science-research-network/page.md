@@ -1,6 +1,7 @@
 ---
-title: "Social Science Research Network"
-description: Discover valuable insights into the intersection of social science research and algorithmic trading through SSRN. This platform provides access to research that elucidates the complexities of algorithmic trading, enhancing both academic discourse and real-world trading practices. Explore the role of machine learning and AI in transforming trading systems and stay informed of the latest developments, challenges, and innovations within this compelling domain.
+title: SSRN Platform Guide for Social Science Research Sharing
+description: SSRN lets researchers share and access social science and economics papers
+  globally to get rapid feedback and track downloads. Discover more inside.
 ---
 
 

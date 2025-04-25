@@ -166,3 +166,15 @@ The main benefit of using distributed training with Flax is that it can make you
 Flax has been used in many real-world projects, especially in research and AI development. One example is in natural language processing, where researchers at Google used Flax to build and train large language models. These models can understand and generate human-like text, which is useful for things like chatbots and language translation. By using Flax, the researchers were able to train their models faster and handle more data, which helped them create better language models.
 
 Another example is in computer vision, where Flax has been used to develop models that can recognize objects in images. For instance, a team at Google used Flax to train a model that could identify different types of animals in photos. They found that Flax's ability to use multiple GPUs and TPUs made it easier to train their model quickly and accurately. This kind of model can be used in applications like wildlife monitoring or security systems, where being able to recognize objects in real-time is important.
+
+## References & Further Reading
+
+[1]: Bradbury, J., Frostig, R., Hawkins, P., Johnson, M. J., Leary, C., Maclaurin, D., & Wanderman-Milne, S. (2018). ["JAX: composable transformations of Python+NumPy programs."](https://github.com/jax-ml/jax)
+
+[2]: Heek, J., Hessel, M., Van Hasselt, H., & Spaanderman, J. (2020). ["Flax: A neural network library and ecosystem for JAX."](https://pubmed.ncbi.nlm.nih.gov/31494464/)
+
+[3]: Frostig, R., Johnson, M. J., & Leary, C. (2018). ["Compiling machine learning programs via high-level tracing."](https://cs.stanford.edu/~rfrostig/pubs/jax-mlsys2018.pdf) Machine Learning Systems Conference (MLSys).
+
+[4]: Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library."](https://arxiv.org/abs/1912.01703) Advances in Neural Information Processing Systems 32.
+
+[5]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Isard, M. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1605.08695) 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16).

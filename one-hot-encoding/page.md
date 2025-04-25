@@ -81,3 +81,15 @@ Another way to optimize One-Hot Encoding for large datasets is to use sparse mat
 One advanced technique that can be combined with One-Hot Encoding to improve model accuracy is feature hashing. Feature hashing, also known as the hashing trick, turns categories into numbers using a hash function. This can help reduce the number of columns you need, making your data smaller and easier to work with. For example, if you have a lot of different categories, feature hashing can turn them into a fixed number of columns. This way, you can still use the information from One-Hot Encoding but without making your data too big. This can lead to faster and more accurate machine learning models.
 
 Another technique is to use One-Hot Encoding with embeddings. Embeddings are a way to turn categories into numbers that show how similar or different they are. For example, if you have categories like different types of animals, embeddings can show that a cat and a dog are more similar to each other than a cat and a fish. You can use One-Hot Encoding to start with, and then use a [neural network](/wiki/neural-network) to turn the One-Hot encoded data into embeddings. This can help your machine learning model understand the relationships between categories better, which can make your predictions more accurate.
+
+## References & Further Reading
+
+[1]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems"](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ). O'Reilly Media.
+
+[2]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[3]: ["Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists"](https://www.amazon.com/Feature-Engineering-Machine-Learning-Principles/dp/1491953241) by Alice Zheng and Amanda Casari
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[5]: ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython"](https://books.google.com/books/about/Python_for_Data_Analysis.html?id=BCc3DwAAQBAJ) by Wes McKinney

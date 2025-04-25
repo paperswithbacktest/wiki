@@ -81,3 +81,25 @@ Different backbone architectures like ConvNeXt, Deep Sets, TNT, FFF, RDNet, and 
 In terms of efficiency, each architecture has its own way of saving time and resources. ConvNeXt is efficient because it uses fewer, but larger, layers and simpler operations, which makes it faster to train and use. Deep Sets can be efficient for set-based data because they don't need to worry about the order of items, which can save computational resources. TNT might be less efficient than some other architectures because it uses two levels of transformers, but it can still be worth it for the improved performance it offers. FFF can be efficient because it combines features in a smart way, reducing the need for extra layers. RDNet's use of residual learning and dense connections can make it more efficient by allowing it to learn faster and with fewer mistakes. PoAPL's pyramid structure can be efficient because it allows the network to process images at different scales without needing to look at the whole image at once. 
 
 When it comes to application suitability, each architecture is best for different tasks. ConvNeXt is great for general image processing tasks because of its simplicity and efficiency. Deep Sets are perfect for tasks where you need to understand a group of items, like predicting the behavior of a group of people. TNT is well-suited for complex image recognition tasks where understanding both the details and the overall structure is important. FFF is good for tasks that need to combine different types of features, like scene understanding. RDNet is ideal for tasks that need to handle a lot of information at once, like image enhancement or super-resolution. PoAPL is suitable for tasks that benefit from looking at images at different scales, like object detection in varied environments. Each architecture's unique approach makes it better for certain types of tasks, so choosing the right one depends on what you need to do.
+
+## References & Further Reading
+
+[1]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) arXiv:1512.03385.
+
+[2]: Simonyan, K., & Zisserman, A. (2015). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv:1409.1556.
+
+[3]: Liu, Z., Lin, Y., Cao, Y., Hu, H., Wei, Y., Zhang, Z., Lin, S., & Guo, B. (2022). ["ConvNeXt: VGG-inspired Vision Transformers."](https://ieeexplore.ieee.org/document/9710580) arXiv:2201.03545.
+
+[4]: Zaheer, M., Kottur, S., Ravanbakhsh, S., Poczos, B., Salakhutdinov, R., & Smola, A. (2017). ["Deep Sets."](https://arxiv.org/abs/1703.06114) arXiv:1703.06114.
+
+[5]: Han, K., Xiao, A., Wu, E., Guo, J., Xu, C., & Wang, Y. (2021). ["Transformer in Transformer."](https://arxiv.org/abs/2103.00112) arXiv:2103.00112.
+
+[6]: Huang, G., Liu, S., Van Der Maaten, L., & Weinberger, K. Q. (2017). ["Densely Connected Convolutional Networks."](https://ieeexplore.ieee.org/document/8099726) arXiv:1608.06993.
+
+[7]: Wang, Z., & Bovik, A. C. (2002). ["A Universal Image Quality Index."](https://ieeexplore.ieee.org/document/995823) IEEE Signal Processing Letters, 9(3), 81-84.
+
+[8]: Mallat, S. (1989). ["A theory for multiresolution signal decomposition: The wavelet representation."](https://ieeexplore.ieee.org/document/192463) IEEE Transactions on Pattern Analysis and Machine Intelligence, 11(7), 674-693.
+
+[9]: Tan, M., & Le, Q. V. (2019). ["EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks."](https://arxiv.org/abs/1905.11946) arXiv:1905.11946.
+
+[10]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) arXiv:1706.03762.

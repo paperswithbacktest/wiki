@@ -79,3 +79,15 @@ Another important thing to consider is the amount of data you have. If you have 
 One advanced method for dynamically adjusting model capacity during training is called progressive neural architecture search (NAS). This technique starts with a simple model and gradually adds more layers and parameters as training goes on. It's like building a Lego tower, where you add more pieces to make it taller and more complex. By doing this, the model can learn more and more about the data without overfitting too early. Progressive NAS helps find the right balance between model complexity and performance, making it easier to train a model that works well on new data.
 
 Another method is called pruning and growing. Pruning means removing parts of the model that aren't helping much, like cutting away dead branches from a tree. This can reduce the model's capacity and help prevent overfitting. Growing, on the other hand, means adding new parts to the model to increase its capacity, like adding new branches to a tree to make it grow bigger. By using pruning and growing together, you can adjust the model's capacity during training to fit the data better. This helps the model learn the important patterns without getting too complicated or too simple.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[5]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.

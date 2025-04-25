@@ -1,6 +1,7 @@
 ---
-title: "Sustainability Accounting Standards Board"
-description: "Explore the integration of SASB standards and algorithmic trading to enhance sustainable finance by aligning ESG factors with trading strategies for informed investments."
+title: Integrating SASB Standards Into Algorithmic Trading Models
+description: SASB standards guide companies to integrate ESG metrics into algorithmic
+  trading models for better risk management and performance Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Sum of Squares: Calculation and Types"
-description: "Explore the fundamental concepts of squares and their applications in algorithmic trading to enhance market strategies by understanding data variability and risk assessment."
+title: Understanding the Sum of Squares in Statistics and Finance
+description: Sum of squares quantifies data variability and drives variance, standard
+  deviation and model fit insights for statistics and finance Discover more inside.
 ---
 
 

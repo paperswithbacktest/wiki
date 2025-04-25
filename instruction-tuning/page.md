@@ -79,3 +79,15 @@ Another important advancement is the development of better evaluation methods. R
 One case study where instruction tuning made a big difference is in the field of customer service chatbots. A company wanted to improve its chatbot to handle customer questions better. They used instruction tuning to show the chatbot lots of examples of customer questions and the right answers. After instruction tuning, the chatbot was much better at understanding and answering customer questions accurately. It could even handle tricky questions that it used to struggle with. This made customers happier because they got quick and correct answers to their questions.
 
 Another example is in the area of educational tools. Researchers wanted to create a model that could help students with math problems. They used instruction tuning to train the model on math questions and their step-by-step solutions. After instruction tuning, the model was able to not only solve math problems but also explain the steps in a way that was easy for students to understand. This helped students learn better because they could see how to solve problems and get help when they were stuck. The model became a valuable tool in the classroom, making math education more effective.
+
+## References & Further Reading
+
+[1]: Sanh, V., Webson, A., Raffel, C., Bach, S. H., Sutawika, L., Alyafeai, Z., ... & Wolf, T. (2021). ["Multitask Prompted Training Enables Zero-Shot Task Generalization."](https://arxiv.org/abs/2110.08207) arXiv preprint arXiv:2110.08207.
+
+[2]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research, 21(140), 1-67.
+
+[3]: Wei, J., Wang, X., Schuurmans, D., Bosma, M., Ichter, B., Xia, F., ... & Le, Q. V. (2022). ["Chain of Thought Prompting Elicits Reasoning in Large Language Models."](https://arxiv.org/abs/2201.11903) arXiv preprint arXiv:2201.11903.
+
+[4]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[5]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems, 30, 5998-6008.

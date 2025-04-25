@@ -79,3 +79,19 @@ In a random forest, Gini Impurity helps to make sure that each tree is doing its
 One advanced technique to improve decision tree models that use Gini Impurity is pruning. Pruning helps to cut back the tree to make it simpler and prevent overfitting. Overfitting happens when the tree learns the training data too well, including any mistakes or odd patterns, and then doesn't work as well on new data. By using Gini Impurity to guide the pruning process, you can remove branches that don't help much with separating the data. This means the tree becomes smaller and more general, which can make it better at predicting new data.
 
 Another technique is using ensemble methods like boosting or bagging. In boosting, you build many decision trees one after the other, each one trying to fix the mistakes of the last one. Gini Impurity helps each tree find the best splits to improve the overall model. In bagging, you build many trees on different parts of the data and then combine their predictions. This can make the model more stable and accurate because it uses Gini Impurity to make each tree as good as possible, and then combines them to get a better overall result. By using these methods, you can create a more powerful model that uses Gini Impurity effectively.
+
+## References & Further Reading
+
+[1]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[2]: Quinlan, J.R. (1993). ["C4.5: Programs for Machine Learning."](https://link.springer.com/article/10.1007/BF00993309) Morgan Kaufmann Publishers.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) 2nd Edition. Springer.
+
+[4]: Louppe, G. (2014). ["Understanding Random Forests: From Theory to Practice."](https://arxiv.org/abs/1407.7502) Springer.
+
+[5]: Rokach, L., & Maimon, O. (2008). ["Data Mining with Decision Trees: Theory and Applications."](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining%20with%20Decision%20Trees_%20Theory%20and%20Applications%20%5bRokach%20%26%20Maimon%202008-04-01%5d.pdf) World Scientific Publishing Company.
+
+[6]: Mitchell, T.M. (1997). ["Machine Learning."](https://www.cs.cmu.edu/~tom/mlbook.html) McGraw-Hill Education.
+
+[7]: Quinlan, J.R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81-106.

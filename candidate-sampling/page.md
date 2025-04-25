@@ -135,3 +135,19 @@ Another technique is using adaptive sampling, where the model learns to adjust t
 Recent research in candidate sampling has focused on improving the efficiency and effectiveness of deep learning models. One notable innovation is the development of dynamic sampling techniques, where the sampling strategy adjusts based on the model's current performance. For example, researchers have proposed methods where the model itself learns to select the most useful negative samples during training. This approach, known as adaptive sampling, can significantly improve the model's learning speed and accuracy by focusing on the most relevant data points. A study published in the Journal of Machine Learning Research demonstrated that adaptive sampling can reduce training time by up to 30% while maintaining or even improving model performance.
 
 Another interesting development is the use of [reinforcement learning](/wiki/reinforcement-learning) to optimize candidate sampling. In this method, a separate reinforcement learning agent learns to choose the best negative samples for the main model. This can be particularly useful in scenarios where the data distribution changes over time, as the agent can adapt its strategy to new patterns. A recent paper from the Conference on Neural Information Processing Systems showed that using reinforcement learning for candidate sampling can lead to better results in natural language processing tasks, such as next-word prediction. By continually refining the sampling strategy, the model can achieve higher accuracy and better generalization to new data.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Sutskever, I., Chen, K., Corrado, G., & Dean, J. (2013). ["Distributed Representations of Words and Phrases and their Compositionality."](https://arxiv.org/abs/1310.4546) Advances in Neural Information Processing Systems 26.
+
+[2]: Jean, S., Cho, K., Memisevic, R., & Bengio, Y. (2015). ["On Using Very Large Target Vocabulary for Neural Machine Translation."](https://aclanthology.org/P15-1001/) Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics.
+
+[3]: Jozefowicz, R., Vinyals, O., Schuster, M., Shazeer, N., & Wu, Y. (2016). ["Exploring the Limits of Language Modeling."](https://arxiv.org/abs/1602.02410) arXiv preprint arXiv:1602.02410.
+
+[4]: Bengio, Y., Ducharme, R., Vincent, P., & Jauvin, C. (2003). ["A Neural Probabilistic Language Model."](https://jmlr.org/papers/volume3/bengio03a/bengio03a.pdf) Journal of Machine Learning Research, 3, 1137-1155.
+
+[5]: Bengio, S., Weston, J., & Grangier, D. (2010). ["Label Embedding Trees for Large Multi-Class Tasks."](https://dl.acm.org/doi/10.5555/2997189.2997208) Advances in Neural Information Processing Systems 23.
+
+[6]: Covington, P., Adams, J., & Sargin, E. (2016). ["Deep neural networks for youtube recommendations."](https://dl.acm.org/doi/10.1145/2959100.2959190) Proceedings of the 10th ACM Conference on Recommender Systems.
+
+[7]: Mnih, A., & Teh, Y. W. (2012). ["A fast and simple algorithm for training neural probabilistic language models."](https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf) arXiv preprint arXiv:1206.6426.

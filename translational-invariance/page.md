@@ -83,3 +83,19 @@ Lastly, some researchers use techniques like group equivariant networks. These n
 Recent research has been exploring new ways to make machine learning models better at recognizing objects no matter where they are in an image. One interesting approach is called "equivariant neural networks." These networks are designed to handle not just translations but also other transformations like rotations and scaling. By building the network to be equivariant to these transformations, it can learn to recognize objects more effectively, even if they move or change shape. For example, if $$ f(x) $$ is an image and $$ T $$ is a transformation, an equivariant network will give a predictable change in output for $$ T(f(x)) $$. This helps the model understand the object's features in a way that's not affected by where it is in the image.
 
 Another development is the use of advanced data augmentation techniques. Researchers are using more complex methods to move objects around in training images, like using generative models to create new images with the same object in different positions. This helps the model see the object in many different spots during training, improving its ability to recognize it no matter where it is. For example, you could use a generative adversarial network (GAN) to create new images of a cat in different parts of the image. By training on these varied images, the model learns to focus on the cat's features, not its position. This makes the model more robust and better at generalizing to new images.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436–444.
+
+[2]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.
+
+[3]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[4]: Cohen, T. S. & Welling, M. (2016). ["Group Equivariant Convolutional Networks."](https://arxiv.org/abs/1602.07576) Proceedings of the 33rd International Conference on Machine Learning. 
+
+[5]: Simonyan, K. & Zisserman, A. (2015). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv:1409.1556.
+
+[6]: Jaderberg, M., Simonyan, K., Zisserman, A., & Kavukcuoglu, K. (2015). ["Spatial Transformer Networks."](https://arxiv.org/abs/1506.02025) Advances in Neural Information Processing Systems 28. 
+
+[7]: Zhao, Y., & Hsieh, C. (2019). ["What Makes Instance Discrimination Good for Transfer Learning?"](https://arxiv.org/abs/2006.06606) arXiv:2006.06606.

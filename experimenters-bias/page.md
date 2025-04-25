@@ -81,3 +81,15 @@ Another important way to minimize experimenter's bias is to use different datase
 Recent research has shown that experimenter's bias can still have a big impact on advanced machine learning models. A study from 2023 found that even with complex models like deep neural networks, if researchers choose data or set up experiments in a biased way, the results can be misleading. The study showed that when researchers expected their model to perform well, they sometimes picked data that made it look better than it really was. This can lead to models that don't work well in real life because they were trained on biased data. The research suggests that using methods like blind testing and peer review can help reduce this bias and make results more reliable.
 
 Another finding from recent studies is that experimenter's bias can affect how well a model generalizes to new data. A 2022 paper looked at how different choices in data and model settings can make a model seem good on the training data but fail on new data. The paper found that if researchers tweak the model's hyperparameters to fit the data they expect, the model might not work as well on other datasets. This means that even advanced models need careful experiment design to avoid bias and ensure they can be used in many different situations. Researchers are now focusing on creating better ways to test models on diverse datasets to reduce the impact of experimenter's bias.
+
+## References & Further Reading
+
+[1]: Scargle, J. D. (2000). ["Publication Bias in Reports of Research on Classroom Management."](https://www.semanticscholar.org/paper/A-Generalized-Publication-Bias-Model-Schonemann-Scargle/93a152b3e6b0e655c08a8c73d0fd163e6458207c) The Journal of Educational Research, 13(4), 416-429.
+
+[2]: Benavoli, A., Corani, G., & Mangili, F. (2016). ["Should we really use post-hoc tests based on mean-ranks?"](https://jmlr.org/papers/volume17/benavoli16a/benavoli16a.pdf) Journal of Machine Learning Research, 17(1), 869-911.
+
+[3]: Rolnick, D., Veit, A., Belongie, S., & Shavit, N. (2017). ["Deep Learning is Robust to Massive Label Noise."](https://arxiv.org/abs/1705.10694) arXiv preprint.
+
+[4]: Duda, R. O., Hart, P. E., & Stork, D. G. (2001). ["Pattern Classification."](https://www.researchgate.net/publication/228058014_Pattern_Classification) John Wiley & Sons.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.

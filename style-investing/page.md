@@ -1,6 +1,7 @@
 ---
-title: "Style investing"
-description: "Explore style investing and algorithmic trading to enhance investment strategies with systematic, bias-free decision-making across asset classes for better returns."
+title: Comprehensive Guide to Style Investing Strategies and Metrics
+description: Style investing guides portfolio choices with value growth and blend
+  approaches using key metrics and ETFs to balance risk and return Discover more inside
 ---
 
 

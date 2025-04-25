@@ -81,3 +81,21 @@ Another way machine learning helps is by using large language models like GPT-3.
 In the future, we can expect machine learning models to get even better at understanding what text means. One big trend will be the use of even larger and more powerful language models. These models will be trained on more data from the internet, which will help them understand a wider variety of languages and contexts. They will be able to handle more complex tasks, like understanding long documents or answering questions about them. This will make them more useful in areas like customer service, where they can understand and respond to customer queries more accurately.
 
 Another trend will be the focus on making these models more transparent and explainable. Right now, it can be hard to understand how these models come up with their answers. In the future, researchers will work on ways to make it easier to see how the models think. This will help build trust in the models and make sure they are used responsibly. For example, if a model is used in a hospital to help doctors understand patient records, it will be important for the doctors to know how the model came to its conclusions. By making these models more transparent, we can use them more confidently in important areas like healthcare and law.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2020). ["Speech and Language Processing"](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed.). Draft chapters available online.
+
+[2]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) arXiv preprint arXiv:1810.04805.
+
+[3]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[4]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Synthesis Lectures on Human Language Technologies.
+
+[5]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in neural information processing systems.
+
+[6]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press.
+
+[7]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP).
+
+[8]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.

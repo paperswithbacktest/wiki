@@ -83,3 +83,17 @@ Another technique is the use of experience replay, which involves storing past e
 Recent research in efficient planning with Prioritized Sweeping has focused on integrating it with [deep learning](/wiki/deep-learning) techniques. One promising direction is the use of deep Q-networks (DQNs) to improve the scalability of Prioritized Sweeping. By using neural networks to approximate the value function, researchers have been able to handle larger and more complex state spaces. For example, a study published in the Journal of Machine Learning Research showed that combining Prioritized Sweeping with DQNs can significantly speed up learning in environments with continuous state spaces. This approach helps the algorithm prioritize updates more effectively, leading to faster convergence to optimal policies.
 
 Future directions in this field include exploring ways to make Prioritized Sweeping more adaptive to changing environments. Researchers are working on algorithms that can dynamically adjust the priority thresholds based on the observed changes in the environment. This could make the planning process more robust and efficient in real-world scenarios where conditions are constantly changing. Another area of interest is the integration of Prioritized Sweeping with multi-agent systems, where multiple [agents](/wiki/agents) need to learn and plan simultaneously. By prioritizing updates across different agents, the overall system can achieve better coordination and faster learning, opening up new possibilities for applications in robotics and autonomous systems.
+
+## References & Further Reading
+
+[1]: Moore, A. W., & Atkeson, C. G. (1993). ["Prioritized sweeping: Reinforcement learning with less data and less time."](https://link.springer.com/article/10.1007/BF00993104) Artificial Intelligence, 95(1), 295-303.
+
+[2]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) MIT Press.
+
+[3]: Kaelbling, L. P., Littman, M. L., & Moore, A. W. (1996). ["Reinforcement Learning: A Survey."](https://arxiv.org/abs/cs/9605103) Journal of Artificial Intelligence Research, 4, 237-285.
+
+[4]: Van Seijen, H., & Sutton, R. S. (2013). ["Planning by Prioritized Sweeping with Small Backups."](https://arxiv.org/abs/1301.2343) In Proceedings of the Twenty-Seventh AAAI Conference on Artificial Intelligence.
+
+[5]: Tesauro, G. (1995). ["Temporal difference learning and TD-Gammon."](https://dl.acm.org/doi/10.1145/203330.203343) Communications of the ACM, 38(3), 58–68.
+
+[6]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.

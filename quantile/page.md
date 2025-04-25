@@ -83,3 +83,15 @@ Another advanced technique is to use regularization to stop your model from over
 Researchers are working on new ways to use quantile regression in machine learning. They are trying to make quantile regression work better with big datasets. One idea is to use something called "quantile random forests," which mix quantile regression with random forests. Random forests are a type of machine learning that uses many decision trees to make predictions. By adding quantile regression, these forests can predict not just the average but also different parts of the data, like the 25th or 75th percentile. This can help make better predictions in areas like finance, where knowing how things might go in the best and worst cases is important. Researchers are also looking at how to make quantile regression faster and easier to use on big datasets. They are trying out new ways to split the data and use computers to handle more information at once.
 
 Another area of research is about using quantile regression in [deep learning](/wiki/deep-learning). Deep learning is a kind of machine learning that uses neural networks, which are like layers of connected math formulas that learn from data. Researchers are working on something called "quantile neural networks," which can predict different parts of the data distribution. This can be useful in healthcare, where doctors might want to know how a treatment works for the sickest and healthiest patients. They are also trying to make these models more accurate by using new ways to train them, like using the formula $$ \rho_\tau(y - \hat{y}) = \begin{cases} \tau (y - \hat{y}) & \text{if } y \geq \hat{y} \\ (1 - \tau) (\hat{y} - y) & \text{if } y < \hat{y} \end{cases} $$ to measure how well the model predicts at different points. This research is helping to make machine learning more useful for understanding and predicting things in the real world.
+
+## References & Further Reading
+
+[1]: Koenker, R., & Bassett, G. (1978). ["Regression Quantiles."](https://gib.people.uic.edu/RQ.pdf) Econometrica, 46(1), 33-50.
+
+[2]: Koenker, R. (2005). ["Quantile Regression."](https://assets.cambridge.org/97805218/45731/frontmatter/9780521845731_frontmatter.pdf) Cambridge University Press.
+
+[3]: Meinshausen, N. (2006). ["Quantile Regression Forests."](https://jmlr.csail.mit.edu/papers/volume7/meinshausen06a/meinshausen06a.pdf) Journal of Machine Learning Research, 7, 983-999.
+
+[4]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso."](https://academic.oup.com/jrsssb/article/58/1/267/7027929) Journal of the Royal Statistical Society: Series B (Methodological), 58(1), 267-288.
+
+[5]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.

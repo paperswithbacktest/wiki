@@ -1,6 +1,7 @@
 ---
-title: "Summit Securities Group"
-description: "Summit Securities Group excels in algorithmic trading utilizing advanced technology and data to drive market interactions fostering speed precision and innovation in finance."
+title: Summit Securities Group Company Profile And Services
+description: Summit Securities Group combines investment management financial advice
+  and compliance support to help clients achieve goals Discover more inside.
 ---
 
 

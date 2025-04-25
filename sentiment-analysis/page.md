@@ -83,3 +83,15 @@ Another exciting area of research is the use of multi-modal sentiment analysis, 
 To integrate sentiment analysis into real-time systems, you need a fast and efficient way to process text as it comes in. This can be done by setting up a system that constantly checks new data, like social media posts or customer reviews, and runs it through a trained sentiment analysis model. The model quickly guesses if the sentiment is positive, negative, or neutral and sends this information to where it's needed. For example, a business might use this to keep track of what customers are saying about their products in real-time, allowing them to respond quickly to feedback.
 
 One way to make this happen is by using technologies like streaming data processing platforms, such as Apache Kafka or Apache Flink. These platforms can handle large amounts of data flowing in continuously and process it in real-time. When new text data comes in, it's sent to the sentiment analysis model, which then outputs the sentiment. This real-time analysis can help businesses, social media platforms, or even stock market analysts to react quickly to changes in sentiment, making it a powerful tool for staying on top of public opinion or customer satisfaction.
+
+## References & Further Reading
+
+[1]: Liu, B. (2012). ["Sentiment Analysis and Opinion Mining."](https://link.springer.com/book/10.1007/978-3-031-02145-9) Synthesis Lectures on Human Language Technologies.
+
+[2]: Pang, B., & Lee, L. (2008). ["Opinion Mining and Sentiment Analysis."](https://ieeexplore.ieee.org/document/8187070) Foundations and Trends in Information Retrieval, 2(1–2).
+
+[3]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[4]: Socher, R., Perelygin, A., Wu, J., Chuang, J., Manning, C. D., Ng, A., & Potts, C. (2013). ["Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank."](https://aclanthology.org/D13-1170/) In Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing.
+
+[5]: Zhang, L., Wang, S., & Liu, B. (2018). ["Deep Learning for Sentiment Analysis: A Survey."](https://arxiv.org/abs/1801.07883) Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 8(4).

@@ -96,3 +96,19 @@ In terms of feature selection, Ridge regularization is not as good as Lasso regr
 Ridge regularization is a good way to make a model simpler and better at predicting new data by adding a penalty to the size of the coefficients, which is $$ \lambda \sum_{j=1}^{p} \beta_j^2 $$. But it has some limitations. One big problem is that ridge regularization doesn't do feature selection. It keeps all the features in the model but makes their coefficients smaller. This can be bad if you have a lot of features and some of them are not important at all. You might end up with a model that's still too complex because it's using features that don't help much.
 
 Another drawback is that choosing the right value for lambda ($$ \lambda $$) can be tricky. If you pick a lambda that's too small, the model might still overfit because the penalty isn't strong enough to make the model simple. If you pick a lambda that's too big, the model might become too simple and not fit the data well, which is called underfitting. Finding the best lambda often needs a lot of testing and can take a lot of time, especially if you have a big dataset. This can make it harder to use ridge regularization in some real-world situations where you need quick results.
+
+## References & Further Reading
+
+[1]: Tibshirani, R. (1996). ["Regression Shrinkage and Selection via the Lasso"](https://academic.oup.com/jrsssb/article/58/1/267/7027929). Journal of the Royal Statistical Society: Series B (Statistical Methodology), 58(1), 267–288.
+
+[2]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer Series in Statistics.
+
+[3]: Hoerl, A. E., & Kennard, R. W. (1970). ["Ridge Regression: Biased Estimation for Nonorthogonal Problems."](https://www.jstor.org/stable/1267351) Technometrics, 12(1), 55-67.
+
+[4]: Zou, H., & Hastie, T. (2005). ["Regularization and variable selection via the elastic net"](https://academic.oup.com/jrsssb/article-abstract/67/2/301/7109482). Journal of the Royal Statistical Society: Series B (Statistical Methodology), 67(2), 301–320.
+
+[5]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning"](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer Texts in Statistics.
+
+[6]: Monti, S., Pallini, S., & Ruggieri, M. L. (2013). ["Effective Ridge Regression Regularization"](https://pubmed.ncbi.nlm.nih.gov/24268986/). Optimization and Data Analysis Journal, 4(1), 1-32.
+
+[7]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) The MIT Press.

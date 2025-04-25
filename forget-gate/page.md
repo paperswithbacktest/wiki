@@ -79,3 +79,17 @@ Another way to boost the performance of Forget Gates is by using advanced optimi
 Future advancements in the use of Forget Gates in [machine learning](/wiki/machine-learning) might focus on making them even smarter and more adaptable. Researchers could develop new ways for Forget Gates to learn from data more effectively, perhaps by using formulas like $$ f_t = \sigma(W_f \cdot [h_{t-1}, x_t] + b_f + \alpha \cdot \text{task-specific term}) $$ where $$ \alpha $$ is a parameter that helps the gate adjust based on the task. This could make the network better at remembering important information over long periods, which is useful for understanding long stories, videos, or other complex data.
 
 Another exciting possibility is that Forget Gates might become more efficient at handling bigger and more complicated datasets. Scientists might find ways to make the training process faster and more accurate, perhaps by using new optimization techniques or by combining Forget Gates with other types of neural networks. This could lead to machines that can understand and predict things in ways that are closer to how humans do, making them even more helpful in our daily lives.
+
+## References & Further Reading
+
+[1]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[2]: Greff, K., Srivastava, R. K., Koutník, J., Steunebrink, B. R., & Schmidhuber, J. (2017). ["LSTM: A Search Space Odyssey."](https://ieeexplore.ieee.org/document/7508408) IEEE Transactions on Neural Networks and Learning Systems, 28(10), 2222-2232.
+
+[3]: Olah, C. (2015). ["Understanding LSTM Networks."](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) Colah's Blog.
+
+[4]: Graves, A. (2013). ["Generating Sequences With Recurrent Neural Networks."](https://arxiv.org/abs/1308.0850) arXiv:1308.0850.
+
+[5]: Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). ["Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation."](https://arxiv.org/abs/1406.1078) arXiv:1406.1078.
+
+[6]: Gers, F. A., Schmidhuber, J., & Cummins, F. (2000). ["Learning to Forget: Continual Prediction with LSTM."](https://pubmed.ncbi.nlm.nih.gov/11032042/) Neural Computation, 12(10), 2451-2471.

@@ -79,3 +79,15 @@ Another advancement is in how the AI learns from feedback. New algorithms are be
 In the future, RLHF could become even better at understanding what people want. Scientists are working on making the AI learn faster and more accurately from human feedback. They are trying to make reward models that can handle all kinds of feedback, even if it is hard to understand or changes over time. This could make the AI better at tasks like having good conversations or playing games in a fun way. By using more and better feedback, the AI could learn to make choices that are more in line with what people need and want.
 
 Another exciting possibility is using RLHF in more areas, like helping with tasks in the real world. For example, AI could be used to help with things like driving cars or doing chores around the house. By getting feedback from people on what is safe and helpful, the AI could learn to do these tasks better. This could make life easier and more enjoyable for people. As RLHF keeps improving, it could help AI become more useful in many different parts of our lives.
+
+## References & Further Reading
+
+[1]: Christiano, P., Leike, J., Brown, T., Martic, M., Legg, S., & Amodei, D. (2017). ["Deep reinforcement learning from human preferences."](https://arxiv.org/abs/1706.03741) arXiv preprint arXiv:1706.03741.
+
+[2]: Arulkumaran, K., Deisenroth, M. P., Brundage, M., & Bharath, A. A. (2017). ["Deep reinforcement learning: A brief survey."](https://arxiv.org/abs/1708.05866) IEEE Signal Processing Magazine, 34(6), 26-38.
+
+[3]: Ziebart, B. D., Maas, A. L., Bagnell, J. A., & Dey, A. K. (2008). ["Maximum entropy inverse reinforcement learning."](https://dl.acm.org/doi/abs/10.5555/1620270.1620297) AAAI.
+
+[4]: Russell, S., & Norvig, P. (2009). ["Artificial Intelligence: A Modern Approach."](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) Prentice Hall.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://ieeexplore.ieee.org/document/712192) MIT Press.

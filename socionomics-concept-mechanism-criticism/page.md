@@ -1,6 +1,7 @@
 ---
-title: "Socionomics: Concept, Mechanism, and Criticism"
-description: "Explore the role of social mood in financial markets through socionomics unveiling its impact on economic trends and its integration with algorithmic trading."
+title: Socionomics Explained How Social Mood Drives Economic Trends
+description: Socionomics examines how social mood shapes economic and cultural trends
+  through mood wave analysis and real-time data insights. Discover more inside.
 ---
 
 

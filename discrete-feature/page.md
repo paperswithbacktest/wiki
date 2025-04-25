@@ -79,3 +79,19 @@ Another way to check the importance of discrete features is by using the chi-squ
 Recent research in machine learning has been focusing on improving how we handle discrete features, especially when there are a lot of them. One trend is the development of new encoding methods that work better with high-cardinality data. For example, researchers are looking into techniques like target encoding and hashing to turn a lot of categories into numbers without making the dataset too big. These methods try to keep the important information about each category while making it easier for the model to learn. Another trend is using more advanced feature selection methods to pick out the most useful discrete features. Techniques like mutual information and the chi-square test are being improved to work better with big datasets and complex models.
 
 Another area of research is how to make machine learning models work better with both discrete and continuous features together. Some studies are looking at ways to combine these different types of features in a way that helps the model learn more effectively. For example, researchers are exploring new [neural network](/wiki/neural-network) architectures that can handle both types of data at the same time. They're also working on methods to automatically figure out if a feature should be treated as discrete or continuous, which can help make models more accurate and easier to use. These trends show that the field is moving towards more flexible and powerful ways to use discrete features in machine learning.
+
+## References & Further Reading
+
+[1]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825–2830.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[3]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) O'Reilly Media.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[5]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[6]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[7]: Chen, T., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

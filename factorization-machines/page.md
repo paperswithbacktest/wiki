@@ -106,3 +106,15 @@ Another limitation is that Factorization Machines might not work as well if the 
 Optimizing the performance of Factorization Machines for large-scale datasets involves several strategies. One approach is to use parallel computing, which means using many computers at the same time to handle the data. This can speed up the training process a lot because the model needs to figure out how all the different pieces of information, or features, interact with each other. Another strategy is to use a technique called mini-batch learning. Instead of looking at all the data at once, the model looks at small chunks of it, which can make training faster and use less memory. Also, using a more powerful computer with a lot of memory and fast processors can help a lot when dealing with big datasets.
 
 Another way to improve performance is by using smart ways to store and access the data. For example, using a format like CSV or a special database designed for machine learning can make it easier for the model to read the data quickly. It's also important to choose the right settings for the model, like the number of latent factors. If you use too many, the model might take longer to train and could even start to overfit, which means it learns the training data too well and doesn't work as well on new data. The formula for a Factorization Machine is $$ \hat{y} = w_0 + \sum_{i=1}^n w_i x_i + \sum_{i=1}^n \sum_{j=i+1}^n \langle \mathbf{v}_i, \mathbf{v}_j \rangle x_i x_j $$, which shows how the model combines the simple part (the first two terms) with the more complex part that captures interactions between features (the last term). By carefully adjusting these settings, you can make the model work better with large datasets.
+
+## References & Further Reading
+
+[1]: Rendle, S. (2010). ["Factorization Machines"](https://ieeexplore.ieee.org/document/5694074). In 2010 IEEE International Conference on Data Mining.
+
+[2]: Zhang, W., Du, T., & Wang, J. (2016). ["Field-aware Factorization Machines for CTR Prediction."](https://dl.acm.org/doi/10.1145/2959100.2959134) In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[3]: Juan, Y., Zhuang, Y., Chin, W.-S., & Lin, C.-J. (2016). ["Field-aware Factorization Machines in a Real-world Online Advertising System."](https://dl.acm.org/doi/10.1145/2959100.2959134) In Proceedings of the 26th International Conference on World Wide Web Companion.
+
+[4]: Guo, H., Tang, R., Ye, Y., Li, Z., & He, X. (2017). ["DeepFM: A Factorization-Machine based Neural Network for CTR Prediction."](https://arxiv.org/abs/1703.04247) arXiv preprint arXiv:1703.04247.
+
+[5]: Rendle, S., Freudenthaler, C., & Schmidt-Thieme, L. (2011). ["Factorizing Personalized Markov Chains for Next-Basket Recommendation."](https://dl.acm.org/doi/10.1145/1772690.1772773) In Proceedings of the 15th ACM International Conference on Information and Knowledge Management.

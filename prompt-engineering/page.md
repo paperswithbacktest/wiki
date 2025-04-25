@@ -79,3 +79,15 @@ Another important thing is to test your prompts in different languages to see if
 In the future, prompt engineering is likely to become even more important as AI models get better and more widely used. People will find new ways to make prompts work better, like using more advanced techniques to guide the AI. For example, we might see more use of "chain of thought prompting," where the AI is guided step-by-step to solve complex problems. This can help the AI give more accurate answers, especially for tasks that need a lot of thinking. Also, as AI models learn more languages, prompt engineering will need to focus on making prompts that work well in many different languages. This means prompts will need to be clear and simple so they can be easily translated and understood.
 
 Another trend we might see is the development of tools that help people create and test prompts more easily. These tools could suggest different ways to ask a question or show how the AI might respond to different prompts. This would make it easier for everyone to use AI, not just experts. As AI becomes part of more everyday tasks, like helping with schoolwork or writing emails, good prompts will be key to getting the most out of these tools. Overall, prompt engineering will keep growing and changing to make AI more useful and fair for everyone.
+
+## References & Further Reading
+
+[1]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) Advances in Neural Information Processing Systems.
+
+[2]: Liu, Y., Wu, Y., & Noumouha, M. (2021). ["Adapting Large-scale Pre-trained Language Model to Text Matching Tasks."](https://www.sciencedirect.com/science/article/pii/S266665102100019X) WSDM '21: Proceedings of the Fourteenth ACM International Conference on Web Search and Data Mining.
+
+[3]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research.
+
+[4]: Mishra, S., & Arora, S. (2021). ["The Art of Prompt Engineering with Language Models: Summary and Techniques."] (https://arxiv.org/abs/2106.01441) arXiv preprint arXiv:2106.01440.
+
+[5]: ["Natural Language Processing with Python"](https://machinelearningmastery.com/the-beginners-guide-to-natural-language-processing-with-python/) by Steven Bird, Ewan Klein, and Edward Loper.

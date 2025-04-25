@@ -130,3 +130,23 @@ result = torch.einsum('ij,ij->ij', A, B)
 When using Einsum for large-scale machine learning models, one important optimization is to use it to reduce memory usage. For example, if you have a very big tensor and you need to do a lot of operations on it, you can use Einsum to do these operations in smaller steps. This means you don't need to keep the whole big tensor in memory at once. Instead, you can break it into smaller pieces and work on them one at a time. This can make your code run faster and use less memory, which is important when working with big models.
 
 Another technique is to use Einsum to make your code run faster by doing operations in a smart way. For instance, if you need to do a lot of matrix multiplications and then sum the results, Einsum can do this in one go instead of doing each step separately. This can save time because it reduces the number of steps your computer needs to do. For example, if you have three tensors A, B, and C, and you want to multiply them together and then sum over some dimensions, you can write it as $$A_{ijk} B_{klm} C_{mno} = D_{ino}$$ in Einsum. This way, Einsum can handle the whole operation efficiently, making your code run faster.
+
+## References & Further Reading
+
+[1]: Pascanu, R., Mikolov, T., & Bengio, Y. (2013). ["On the difficulty of training recurrent neural networks."](https://arxiv.org/abs/1211.5063) In International Conference on Machine Learning (ICML).
+
+[2]: Einstein, A. (1916). ["The Foundation of the General Theory of Relativity."](https://archive.org/download/the-foundation-of-the-general-theory-of-relativity/The%20Foundation%20of%20the%20General%20Theory%20of%20Relativity.pdf) Annalen der Physik.
+
+[3]: Jones, E., Oliphant, E., & Peterson, P. (2015). ["SciPy: Open Source Scientific Tools for Python"](https://www.researchgate.net/publication/213877848_SciPy_Open_Source_Scientific_Tools_for_Python).
+
+[4]: Oliphant, T. E. (2006). ["A guide to NumPy"](https://archive.org/details/NumPyBook).
+
+[5]: Van Der Walt, S., Colbert, C. S., & Varoquaux, G. (2011). ["The NumPy Array: A Structure for Efficient Numerical Computation."](https://ieeexplore.ieee.org/document/5725236) Computing in Science & Engineering, 13(2):22-30.
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is all you need."](https://arxiv.org/abs/1706.03762) In Advances in Neural Information Processing Systems (NIPS).
+
+[7]: Zhang, A., Lipton, Z. C., Li, M., & Smola, A. J. (2021). ["Dive into Deep Learning"](https://arxiv.org/abs/2106.11342).
+
+[8]: Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., & Sutskever, I. (2021). ["Zero-Shot Text-to-Image Generation"](https://arxiv.org/abs/2102.12092) In International Conference on Machine Learning (ICML).
+
+[9]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://www.deeplearningbook.org/). MIT Press.

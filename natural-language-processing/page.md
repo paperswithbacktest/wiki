@@ -81,3 +81,23 @@ Another exciting advancement is the development of models that can learn from le
 Transformer models like BERT and GPT have changed the way computers understand and make human language. Before these models, computers used older methods like RNNs and LSTMs. These older methods were good but had trouble with long sentences and understanding the whole meaning of a text. Transformer models are different because they use a special trick called "attention." Attention helps the model focus on important parts of the text at the same time. This makes it easier for the model to understand how words relate to each other, no matter where they are in the sentence. Because of this, transformer models are better at tasks like translating languages, answering questions, and even writing new sentences that sound like they were written by a human.
 
 Another big impact of transformer models is that they can learn from less data. This is important because not all languages have a lot of text to train on. Techniques like few-shot learning and transfer learning let these models use what they've learned from one language or task to do well in another. This means we can build better NLP systems for languages that don't have as much data. Also, these models are getting more efficient, so they can run faster and use less energy. This makes it easier to use them on devices like smartphones, making powerful language tools available to more people.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2008). ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition) (2nd Edition). Pearson Prentice Hall.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All you Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) Proceedings of NAACL-HLT 2019.
+
+[4]: Russell, S. J., & Norvig, P. (2010). ["Artificial Intelligence: A Modern Approach."](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) Prentice Hall.
+
+[5]: Goldberg, Y. (2017). ["Neural Network Methods for Natural Language Processing."](https://link.springer.com/book/10.1007/978-3-031-02165-7) Synthesis Lectures on Human Language Technologies, Morgan & Claypool Publishers.
+
+[6]: Mikolov, T., Sutskever, I., Chen, K., Corrado, G. S., & Dean, J. (2013). ["Distributed Representations of Words and Phrases and their Compositionality."](https://arxiv.org/abs/1310.4546) Advances in Neural Information Processing Systems, 26.
+
+[7]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[8]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://www.cambridge.org/highereducation/books/introduction-to-information-retrieval/669D108D20F556C5C30957D63B5AB65C) Cambridge University Press.
+
+[9]: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). ["Sequence to Sequence Learning with Neural Networks."](https://arxiv.org/abs/1409.3215) Advances in Neural Information Processing Systems 27.

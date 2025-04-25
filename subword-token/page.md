@@ -1,7 +1,7 @@
 ---
-title: Understanding Subword Tokenization in Natural Language Processing
-description: Subword tokenization breaks words into smaller units to handle new and
-  rare terms efficiently in NLP models like BERT and GPT Discover more inside
+title: Understanding Subword Tokenization in Machine Learning Developers
+description: Subword tokenization improves NLP by breaking words into familiar parts
+  for better handling of rare terms and efficiency Discover more inside.
 ---
 
 ![Image](images/1.webp)
@@ -79,3 +79,19 @@ Another technique is using unsupervised learning to find the best way to split w
 Subword tokenization can be adapted for languages with different morphological structures by using language-specific algorithms. For example, some languages like Finnish or Turkish have many word endings that change the meaning of words. In these cases, the tokenization method needs to be good at splitting words into parts that show these endings clearly. This can be done by using algorithms that look at how often certain word parts appear together and then decide the best way to split words. By doing this, the model can understand the different forms of words better and work well with these languages.
 
 Another way to adapt subword tokenization is by using unsupervised learning. This means the model looks at a lot of text in the new language and figures out the best way to break words into subwords without any help. For example, if the model sees that words often end with certain endings in a language, it can learn to split words in a way that keeps these endings as separate tokens. This helps the model handle new words better by using parts it already knows. By letting the model learn how to split words on its own, it can work well even with languages that have very different ways of forming words.
+
+## References & Further Reading
+
+[1]: Sennrich, R., Haddow, B., & Birch, A. (2016). ["Neural Machine Translation of Rare Words with Subword Units."](https://arxiv.org/abs/1508.07909) arXiv preprint arXiv:1508.07909.
+
+[2]: Schuster, M., & Nakajima, K. (2012). ["Japanese and Korean Voice Search."](https://ieeexplore.ieee.org/document/6289079) Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[5]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) OpenAI.
+
+[6]: Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., ... & Dean, J. (2016). ["Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation."](https://arxiv.org/abs/1609.08144) arXiv preprint arXiv:1609.08144.
+
+[7]: Kudo, T. (2018). ["SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing."](https://arxiv.org/abs/1808.06226) arXiv preprint arXiv:1808.06226.

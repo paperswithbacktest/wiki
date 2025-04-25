@@ -81,3 +81,17 @@ Handling dynamic shapes can make your models more flexible and able to work with
 The shape of tensors can have a big impact on how well and how fast your machine learning model works. When you choose the right shape for your tensors, you can make your model run faster and use less memory. For example, if you reshape a tensor to fit better with the operations in your model, like making it match the input shape of a convolutional layer, you can speed up the calculations. In TensorFlow, you might use ``` tf.reshape(tensor, new_shape) ``` to do this, and in PyTorch, you can use ``` tensor.reshape(new_shape) ```. By carefully [picking](/wiki/asset-class-picking) the right shapes, you can make your model more efficient and save time and resources.
 
 Another way tensor shapes affect model performance is through operations like broadcasting. When you use broadcasting, you can do operations on tensors with different shapes without having to change them first. This can make your code simpler and your model run faster. For instance, if you want to add a constant value to every element in a big tensor, you don't need to create a new tensor with the same shape. You can just use broadcasting to add the constant to all elements at once. In both TensorFlow and PyTorch, broadcasting happens automatically when you use operations like ``` tf.add() ``` or ``` tensor + scalar ```. By understanding and using these techniques, you can make your models work better and more efficiently.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). [Deep Learning](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) In Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI 16).
+
+[3]: Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., ... & Chintala, S. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library."](https://arxiv.org/abs/1912.01703) Advances in Neural Information Processing Systems 32.
+
+[4]: Oliphant, T. E. (2006). [Guide to NumPy](http://web.mit.edu/dvp/Public/numpybook.pdf). USA: Trelgol Publishing.
+
+[5]: Liang, M., & Hu, X. (2015). ["Recurrent Convolutional Neural Network for Object Recognition."](https://ieeexplore.ieee.org/document/7298958) In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3367-3375). 
+
+[6]: Chollet, F. (2018). [Deep Learning with Python](https://archive.org/download/deep-learning-collection-pdf/Deep%20Learning%20with%20Python%20-%20Fran%C3%A7ois%20Chollet%20-%20Manning%20%282018%29.pdf). Manning Publications.

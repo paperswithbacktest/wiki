@@ -1,6 +1,7 @@
 ---
-title: "State Administration of Foreign Exchange of China"
-description: "Explore China's financial growth via the State Administration of Foreign Exchange and algorithmic trading Learn about global impacts and regulatory insights here"
+title: China State Administration of Foreign Exchange SAFE Explained
+description: State Administration of Foreign Exchange SAFE manages Chinese currency
+  reserves and capital flow rules to stabilize markets. Discover more inside.
 ---
 
 

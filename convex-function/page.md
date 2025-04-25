@@ -129,3 +129,19 @@ This code shows how to set up a linear regression model with L2 regularization, 
 Convex functions have some special properties that make them really useful in machine learning. One important property is that the set of points where a convex function reaches its minimum value, called the "argmin" set, is always convex. This means that if you find two points where the function is at its lowest, any point in between those two points will also be at the lowest value. This property makes optimization easier because you know that once you find a low point, you can be sure it's the lowest point overall. For example, in linear regression, the mean squared error (MSE) function $$ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 $$ is convex, so when you use algorithms like gradient descent to minimize it, you're guaranteed to find the best set of parameters for your model.
 
 Another key property of convex functions is that they are closed under certain operations. This means that if you take two convex functions and add them together, the result is also a convex function. Similarly, if you take a convex function and multiply it by a positive scalar, the result is still convex. This property is helpful in machine learning because it lets you combine different loss functions or add regularization terms without worrying about losing the convexity that makes optimization easier. For instance, adding an L2 regularization term to the MSE loss function, like $$ \text{L2 Regularized Loss} = \text{MSE} + \lambda \sum_{j=1}^{p} \theta_j^2 $$, keeps the function convex, which helps in finding the best model parameters more reliably.
+
+## References & Further Reading
+
+[1]: Boyd, S., & Vandenberghe, L. (2004). ["Convex Optimization."](https://web.stanford.edu/~boyd/cvxbook/) Cambridge University Press.
+
+[2]: Nesterov, Y. (2004). ["Introductory Lectures on Convex Optimization: A Basic Course."](https://link.springer.com/book/10.1007/978-1-4419-8853-9) Springer Science & Business Media.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) The MIT Press.
+
+[5]: Rasmussen, C. E., & Williams, C. K. I. (2006). ["Gaussian Processes for Machine Learning."](https://direct.mit.edu/books/monograph/2320/Gaussian-Processes-for-Machine-Learning) MIT Press. 
+
+[6]: Recht, B., Fazel, M., & Parrilo, P. A. (2010). ["Guaranteed Minimum-Rank Solutions of Linear Matrix Equations via Nuclear Norm Minimization."](https://arxiv.org/abs/0706.4138) SIAM Review.
+
+[7]: Boyd, S., Parikh, N., Chu, E., Peleato, B., & Eckstein, J. (2011). ["Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers."](https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf) Foundations and Trends in Machine Learning.

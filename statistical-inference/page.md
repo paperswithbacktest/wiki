@@ -1,7 +1,7 @@
 ---
-title: Statistical Inference In Machine Learning For Robust Predictions
-description: Statistical inference in machine learning strengthens predictions using
-  point estimates confidence intervals and Bayesian updating Discover more inside
+title: Statistical Inference Techniques for Machine Learning Models
+description: Statistical inference in machine learning guides model predictions by
+  quantifying uncertainty and improving decision making Discover more inside
 ---
 
 ![Image](images/1.jpeg)
@@ -79,3 +79,19 @@ One cool application of Bayesian inference in machine learning is in spam filter
 When you do many statistical tests at once in machine learning, you might find things that seem important but are really just random chance. This is called a false discovery. To avoid this, you can use something called multiple testing corrections. One popular way is the Bonferroni correction. It makes the threshold for calling something important stricter by dividing the usual threshold (like 0.05 for a 95% confidence level) by the number of tests you're doing. So if you're doing 10 tests, you'd use a threshold of 0.05 divided by 10, which is 0.005. This makes it harder for random results to seem important, but it also makes it harder to find things that really are important.
 
 Another method for handling multiple testing is the False Discovery Rate (FDR) approach. This method lets you control the expected proportion of false discoveries among all the discoveries you make. Instead of making each test super strict like the Bonferroni correction, the FDR method balances finding true discoveries with avoiding false ones. It uses a formula to adjust the p-values of your tests, and you can set a level, like 5%, to say how many false discoveries you're okay with. This way, you can still find important patterns in your data without being overwhelmed by random noise.
+
+## References & Further Reading
+
+[1]: Wasserman, L. (2004). ["All of Statistics: A Concise Course in Statistical Inference."](https://link.springer.com/book/10.1007/978-0-387-21736-9) Springer.
+
+[2]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[4]: Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). ["Bayesian Data Analysis."](https://www.taylorfrancis.com/books/mono/10.1201/b16018/bayesian-data-analysis-david-dunson-donald-rubin-john-carlin-andrew-gelman-hal-stern-aki-vehtari) CRC Press.
+
+[5]: Silver, N. (2012). ["The Signal and the Noise: Why So Many Predictions Fail--but Some Don't."](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) Penguin Press.
+
+[6]: Montgomery, D. C., & Runger, G. C. (2010). ["Applied Statistics and Probability for Engineers."](https://archive.org/details/appliedstatistic0000mont) Wiley.
+
+[7]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning with Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.

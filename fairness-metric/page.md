@@ -81,3 +81,16 @@ Another area of research is about making fairness metrics easier to use in real-
 Balancing the trade-offs between model performance and fairness can be tricky for organizations. When they use fairness metrics to make their machine learning models more fair, they might find that the model's overall accuracy goes down a bit. For example, if a company wants to make sure that their loan approval model treats men and women the same, they might need to approve loans for some people who are less likely to repay them. This can hurt the model's performance, but it's important for treating everyone fairly. Organizations need to think about how much fairness they want and how much they are willing to give up in terms of performance.
 
 To find the right balance, organizations can use different techniques. One way is to try out different versions of the model and see how each one does on both fairness and performance. They can use fairness metrics like demographic parity or equal opportunity to check how fair the model is, and then compare that to the model's overall accuracy. If the model is too unfair, they can adjust it to be more fair, even if it means the performance goes down a little. On the other hand, if the model's performance is too low, they might need to find other ways to make it more accurate without hurting fairness too much. By carefully checking and adjusting the model, organizations can find a good balance that works for everyone.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) fairmlbook.org.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) Knowledge and Information Systems, 63(9), 2493-2532.
+
+[3]: Chouldechova, A. (2017). ["Fair Prediction with Disparate Impact: A Study in Bias and Fairness in Machine Learning."](https://pubmed.ncbi.nlm.nih.gov/28632438/) Big Data, 5(2), 153-163.
+
+[4]: Corbett-Davies, S., & Goel, S. (2018). ["The Measure and Mismeasure of Fairness: A Critical Review of Fair Machine Learning."](https://arxiv.org/abs/1808.00023) Communications of the ACM, 61(6), 39-49.
+
+[5]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2017). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) ITCS '17: 395-402.
+

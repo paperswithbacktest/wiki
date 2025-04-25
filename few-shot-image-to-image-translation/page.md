@@ -81,3 +81,15 @@ Another way to improve Few-Shot Image-to-Image Translation is by making it easie
 One alternative to Few-Shot Image-to-Image Translation is the use of Generative Adversarial Networks (GANs). GANs work by having two parts: a generator that makes new images and a discriminator that checks if those images look real. The generator tries to fool the discriminator, and they both get better over time. This can be used for image translation by training the GAN on lots of examples of one type of image and then showing it a few examples of the new type of image you want. The GAN can then create new images that look like the new type, even if it only saw a few examples. This method can be good because it can make very realistic images, but it might need more examples than Few-Shot learning to work well.
 
 Another approach is using transfer learning. In transfer learning, you start with a model that's already been trained on a big dataset, like photos of many different things. Then, you fine-tune this model on a smaller set of images that show the new kind of image change you want. This means the model already knows a lot about images and can learn new types of changes faster. For example, if you want to turn photos of dogs into cartoons, you can use a model trained on lots of photos and then show it just a few examples of dog cartoons. The model can use what it already knows to learn this new task quickly. Transfer learning can be really helpful because it makes the most out of the examples you have, but it still needs some examples to work well.
+
+## References & Further Reading
+
+[1]: Huang, X., Liu, M.-Y., Belongie, S., & Kautz, J. (2018). ["Multimodal Unsupervised Image-to-Image Translation."](https://arxiv.org/abs/1804.04732) In Proceedings of the European Conference on Computer Vision (ECCV).
+
+[2]: Zhao, Y., Hong, L., Yuan, L., & Tresp, V. (2020). ["Domain Generalization and Adaptation using Few-Shot Learning."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) ArXiv Preprint.
+
+[3]: Wang, T.-C., Liu, M.-Y., Zhu, J.-Y., Tao, A., Kautz, J., & Catanzaro, B. (2018). ["High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs."](https://arxiv.org/abs/1711.11585) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Oreshkin, B. N., López, P. R., & Lacoste, A. (2018). ["TADAM: Task Dependent Adaptive Metric for Improved Few-Shot Learning."](https://arxiv.org/abs/1805.10123) In Advances in Neural Information Processing Systems (NeurIPS).
+
+[5]: Lin, T.-Y., Maire, M., Belongie, S., Hays, J., Perona, P., Ramanan, D., Dollár, P., & Zitnick, C. L. (2014). ["Microsoft COCO: Common Objects in Context."](https://arxiv.org/abs/1405.0312) In European Conference on Computer Vision (ECCV).

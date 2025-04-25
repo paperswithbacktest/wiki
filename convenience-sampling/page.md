@@ -89,3 +89,15 @@ These techniques can help make your machine learning models better, even when yo
 Machine learning practitioners can ethically justify the use of convenience sampling by being transparent about its limitations and taking steps to address them. When they explain that they used convenience sampling because it was quick and easy, they should also mention that it might not represent everyone. This honesty helps others understand the results better and know when the findings might not apply. For example, if a model is trained on data from one website, the practitioners should say that the model might work well for that website's visitors but not for others. By being clear about these limitations, they can still use convenience sampling in a way that is fair and helpful.
 
 Another way to justify convenience sampling ethically is by using it as a starting point and then improving the data over time. Practitioners can start with a convenience sample to test their ideas and get quick results. Then, they can collect more varied data to make their model better. For example, if they start with data from young people, they can later add data from older people to balance it out. By showing that they are working to improve their data and make their model more accurate for everyone, they can use convenience sampling responsibly. This approach helps build trust and shows a commitment to fairness and accuracy in their work.
+
+## References & Further Reading
+
+[1]: Etikan, I., Musa, S. A., & Alkassim, R. S. (2016). ["Comparison of Convenience Sampling and Purposive Sampling."](https://www.researchgate.net/profile/Ilker-Etikan/publication/304339244_Comparison_of_Convenience_Sampling_and_Purposive_Sampling/links/589d919692851c599c9badc8/Comparison-of-Convenience-Sampling-and-Purposive-Sampling.pdf) American Journal of Theoretical and Applied Statistics, 5(1), 1-4.
+
+[2]: Smith, S. R. (2008). ["Convenience Sampling."](https://www.researchgate.net/publication/366390016_Convenience_Sampling) In P. J. Lavrakas (Ed.), Encyclopedia of Survey Research Methods.
+
+[3]: Malhotra, N. K. & Birks, D. F. (2007). ["Marketing Research: An Applied Approach."](https://books.google.com/books/about/Marketing_Research.html?id=03y1QAAACAAJ) Pearson Education.
+
+[4]: Biau, G., & Scornet, E. (2016). ["A Random Forest Guided Tour."](https://link.springer.com/article/10.1007/s11749-016-0481-7) Test, 25(2), 197-227.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.

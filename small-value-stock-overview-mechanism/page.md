@@ -1,6 +1,7 @@
 ---
-title: "Small-Value Stock: Overview and Mechanism"
-description: "Explore the dynamics of small-value stocks and the role of algorithmic trading in financial markets Discover strategies to capture growth opportunities and manage risks"
+title: Understanding Small-Value Stocks for Strategic Portfolio Growth
+description: Small-value stocks offer high growth potential by targeting undervalued
+  small companies through research and risk management Discover more inside
 ---
 
 

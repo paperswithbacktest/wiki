@@ -1,6 +1,7 @@
 ---
-title: "Stock Types"
-description: "Discover the essentials of investment categories stock types and algorithmic trading to make informed decisions and optimize your portfolio for financial success."
+title: Understanding Types of Stocks for Smart Investment Strategies
+description: Types of stocks from common to ESG explained to help you understand each
+  category benefits risks and fit for your portfolio Discover more inside.
 ---
 
 

@@ -81,3 +81,19 @@ However, even though Fully Connected Layers can help with understanding, they ca
 Researchers are always trying to make Fully Connected Layers work better and faster. One big trend is using techniques like pruning to make these layers smaller. Pruning removes weights that are close to zero because they don't help much with the output. This makes the network smaller and faster without losing much accuracy. Another trend is using batch normalization, which helps the network learn faster by normalizing the inputs to each layer. This means the network can handle different scales of input data better. These techniques help make Fully Connected Layers more efficient and useful in many kinds of neural networks.
 
 Another important area of research is making Fully Connected Layers easier to understand. Researchers are working on ways to see which features the network thinks are important. For example, they use methods like feature importance and visualization to show which inputs the Fully Connected Layer is paying attention to. This helps people understand how the network makes its decisions. Also, researchers are looking at how to combine Fully Connected Layers with other types of layers, like Convolutional Layers or Recurrent Layers, to make the network even better at understanding and using different kinds of data.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.
+
+[4]: Nair, V., & Hinton, G. E. (2010). ["Rectified Linear Units Improve Restricted Boltzmann Machines."](https://dl.acm.org/doi/10.5555/3104322.3104425) Proceedings of the 27th International Conference on Machine Learning (ICML-10).
+
+[5]: Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). ["Dropout: A Simple Way to Prevent Neural Networks from Overfitting."](https://dl.acm.org/doi/abs/10.5555/2627435.2670313) Journal of Machine Learning Research, 15(56), 1929-1958.
+
+[6]: Ioffe, S., & Szegedy, C. (2015). ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) Proceedings of the 32nd International Conference on Machine Learning (ICML-15).
+
+[7]: Han, S., Pool, J., Tran, J., & Dally, W. (2015). ["Learning both Weights and Connections for Efficient Neural Network."](https://arxiv.org/abs/1506.02626) Advances in Neural Information Processing Systems 28.

@@ -1,6 +1,7 @@
 ---
-title: "Split Payroll: Definition and Mechanisms"
-description: "Explore the essential mechanisms and benefits of split payroll systems for international workforces. Understand compliance, tax implications, and currency stability."
+title: Implementing Split Payroll for Multi-State and Global Compliance
+description: Split payroll issues separate paychecks per work location to ensure accurate
+  tax withholding and clear earnings records for employees Discover more inside
 ---
 
 

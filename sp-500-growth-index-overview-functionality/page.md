@@ -1,6 +1,7 @@
 ---
-title: "S&P 500 Growth Index: Overview and Functionality"
-description: "Explore the S&P 500 Growth Index and the role of algorithmic trading in today's market. Discover how these tools aid in optimizing investment strategies."
+title: Evaluating The S&P 500 Growth Index For Portfolio Diversification
+description: S&P 500 Growth Index tracks top growth stocks across sectors and explains
+  criteria targeting performance risk and portfolio impact. Discover more inside.
 ---
 
 

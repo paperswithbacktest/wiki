@@ -1,7 +1,7 @@
 ---
-title: Size Invariance in Machine Learning Models Explained
-description: Size invariance lets models detect objects at any scale with CNN filters
-  pooling and data augmentation for robust real world results. Discover more inside.
+title: Understanding Size Invariance in Machine Learning Models
+description: Size invariance enables ML models to recognize objects at varying scales
+  for reliable image recognition in autonomous driving Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -83,3 +83,21 @@ Another technique is the use of scale-invariant feature transform (SIFT) and sim
 To evaluate how well a model can recognize objects no matter their size, you can use a test set with images of objects at different scales. For example, you might have pictures of dogs that are close-up and look big, and other pictures where the dogs are far away and look small. You then see how well the model can identify these dogs in all the pictures. If the model is good at recognizing the dogs no matter how big or small they appear, it means it has good size invariance. You can measure this by looking at the model's accuracy, precision, and recall on these test images.
 
 Another way to check the model's size invariance is by using metrics like mean Average Precision (mAP). This metric looks at how well the model can find and correctly label objects at different sizes in the images. If the mAP score is high for images with objects at various scales, it shows that the model is doing a good job at size invariance. You can also use confusion matrices to see if the model is making more mistakes with objects of certain sizes, which can help you understand where the model needs to improve.
+
+## References & Further Reading
+
+[1]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[2]: Simonyan, K., & Zisserman, A. (2015). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) arXiv:1409.1556.
+
+[3]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Girshick, R. (2015). ["Fast R-CNN."](https://arxiv.org/abs/1504.08083) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[6]: Lin, T.-Y., Dollár, P., Girshick, R., He, K., Hariharan, B., & Belongie, S. (2017). ["Feature Pyramid Networks for Object Detection."](https://ieeexplore.ieee.org/document/8099589) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Lowe, D. G. (2004). ["Distinctive Image Features from Scale-Invariant Keypoints."](https://www.cs.ubc.ca/~lowe/papers/ijcv04.pdf) International Journal of Computer Vision.
+
+[8]: Shorten, C., & Khoshgoftaar, T. M. (2019). ["A survey on Image Data Augmentation for Deep Learning."](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0197-0) Journal of Big Data.

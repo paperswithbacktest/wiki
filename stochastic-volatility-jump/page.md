@@ -1,6 +1,7 @@
 ---
-title: "Stochastic volatility jump"
-description: "Explore stochastic volatility jumps in algo trading understand the intricacies of market dynamics and enhance financial strategies with advanced modeling techniques."
+title: Stochastic Volatility Jump Models For Financial Risk Management
+description: Stochastic volatility jump models show how random swings and sudden jumps
+  affect asset pricing and risk management for investors. Discover more inside.
 ---
 
 

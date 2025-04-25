@@ -1,6 +1,7 @@
 ---
-title: "Special Assessment Bonds: Overview and Functionality"
-description: "Explore how special assessment bonds and algorithmic trading are transforming municipal finance enhancing efficiency in funding public infrastructure and utilities."
+title: Special Assessment Bonds For Community Infrastructure Projects
+description: Special Assessment Bonds use targeted property tax assessments to fund
+  roads water systems and parks in local communities Discover more inside
 ---
 
 

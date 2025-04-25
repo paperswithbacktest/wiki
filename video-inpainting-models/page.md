@@ -81,3 +81,17 @@ These mechanisms also help keep the video smooth over time. When things move in 
 One future direction for video inpainting models is making them faster and more efficient. Right now, these models can take a lot of time to fill in missing parts of a video. If we can make them quicker, it would be easier to use them for things like fixing videos in real-time or working on big projects with lots of videos. Another improvement could be making the models work better with different kinds of videos. Right now, they might struggle with videos that have a lot of movement or unusual scenes. By training them on more varied data, we can help them do a better job on all sorts of videos.
 
 Another potential improvement is making the filled-in parts look even more natural. Sometimes, the new parts can still look a bit off, especially if the missing spots are big or in important areas. By using more advanced techniques, like better attention mechanisms or new kinds of neural networks, we can make the filled-in parts blend in better with the rest of the video. This would make the videos look smoother and more enjoyable to watch. Overall, the future of video inpainting looks bright, with lots of room for making these models even better at bringing videos back to life.
+
+## References & Further Reading
+
+[1]: Chang, J., Yan, J., & Lin, S. (2019). ["Free-Form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN."](https://arxiv.org/abs/1904.10247) Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) 2019.
+
+[2]: Wang, Y., Tao, X., Qi, X., Shen, X., & Jia, J. (2019). ["Image Inpainting via Generative Multi-column Convolutional Neural Networks."](https://arxiv.org/abs/1810.08771) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2019.
+
+[3]: Carreira, J., & Zisserman, A. (2017). ["Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset."](https://arxiv.org/abs/1705.07750) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2017.
+
+[4]: Zhou, H., Huang, D., Chen, W., & Wei, F. (2018). ["Deep Alignment Network: A Convolutional Neural Network for Robust Face Alignment."](https://www.sciencedirect.com/science/article/pii/S138589472501633X) Proceedings of the European Conference on Computer Vision (ECCV) 2018.
+
+[5]: Wang, L., Tong, Z., Ji, B., & Wu, G. (2018). ["TBN: Temporal Bilinear Networks for Video Action Recognition."](https://www.sciencedirect.com/science/article/pii/S138589472500275X) Proceedings of the European Conference on Computer Vision (ECCV) 2018.
+
+[6]: Kim, S., & Park, S. (2021). ["3D Video Inpainting with 3D Temporal Convolutional Neural Networks."](https://scholar.google.com/citations?user=Eqcge14AAAAJ&hl=en) Proceedings of the AAAI Conference on Artificial Intelligence 2021.

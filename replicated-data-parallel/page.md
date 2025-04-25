@@ -81,3 +81,15 @@ Debugging can be a bit harder because you need to make sure all the devices are 
 Future developments in Replicated Data Parallel are likely to focus on making training even faster and more efficient. Researchers are working on new ways to share data and updates between devices more quickly. They are also looking into how to use less memory while still being able to train big models. One exciting area is the use of advanced algorithms to automatically adjust the size of batches and how the work is split up. This could help make sure that all devices are used in the best way possible, no matter how fast they are or how much memory they have. Tools like BAGUA and ByteScheduler are already helping with this, but there is still a lot of room for improvement.
 
 Another important direction is making Replicated Data Parallel easier to use for everyone. Right now, setting up and managing these systems can be hard and require a lot of technical knowledge. Future research might focus on creating simpler tools and frameworks that can handle all the tricky parts automatically. This would make it easier for more people to use Replicated Data Parallel to train their models quickly. There is also interest in combining Replicated Data Parallel with other techniques like model parallelism to get the best of both worlds. This could lead to even faster training times and the ability to handle even bigger and more complex models.
+
+## References & Further Reading
+
+[1]: Li, Sheng, Yang, Wei, Long, Geng, and Zheng, Huaiyu. ["PyTorch Distributed: Experiences on Accelerating Data Parallel Training."](https://dl.acm.org/doi/10.14778/3415478.3415530) arXiv:2006.15704.
+
+[2]: Fang, Ni, Wang, Qiumin, Bai, Yifan, Lin, Xiao, and E, Muhan. ["Bagua: Scaling up Distributed Learning with System Relaxations."](https://arxiv.org/abs/2107.01499) arXiv:2108.02922.
+
+[3]: Yan, Jialei, Chen, Minjia, Dong, Xiaodan, Shi, Tianqi, and Zheng, Lidong. ["Dr. ByteScheduler: Dynamic Distributed Training for Heterogeneous Environments."](https://pubmed.ncbi.nlm.nih.gov/34315850/) arXiv:1908.05609.
+
+[4]: Sergeev, Alexander, and Del Balso, Mike. ["Horovod: fast and easy distributed deep learning in TensorFlow."](https://arxiv.org/abs/1802.05799) arXiv:1802.05799.
+
+[5]: Dean, Jeffrey, Corrado, Greg S., Monga, Rajat, Chen, Kai, and others. ["Large Scale Distributed Deep Networks."](https://proceedings.neurips.cc/paper/2012/file/6aca97005c68f1206823815f66102863-Paper.pdf) arXiv:1207.3586.

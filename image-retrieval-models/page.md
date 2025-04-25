@@ -83,3 +83,17 @@ Another way deep learning helps is by making the search faster and more efficien
 In the future, image retrieval is expected to become even smarter and faster thanks to new technologies. One big trend is the use of more advanced deep learning methods. These methods will help computers understand images in a more human-like way, picking out details and patterns that are hard to see. For example, they might get better at recognizing things like emotions in faces or the style of artwork. This will make searching for images more accurate and helpful, especially in fields like medicine, where finding similar cases can be crucial for diagnosis.
 
 Another trend is the integration of image retrieval with other types of data, like text and voice. Imagine being able to search for images using not just pictures, but also words or even speaking to your computer. This would make finding what you need much easier and more natural. Also, as more devices become connected, like smartphones and smart homes, image retrieval will be used in new ways. For instance, you might be able to find a lost item by showing a picture of it to your smart home system, which then searches through all its cameras to find a match. These advancements will make image retrieval a bigger part of our everyday lives.
+
+## References & Further Reading
+
+[1]: Babenko, A., Slesarev, A., Chigorin, A., & Lempitsky, V. (2014). ["Neural Codes for Image Retrieval."](https://arxiv.org/abs/1404.1777) IEEE Transactions on Pattern Analysis and Machine Intelligence, 36(3), 583-596.
+
+[2]: Hui, X., Yang, L., Xu, Q., Yan, W. Q. (2020). ["Advanced Deep-learning Techniques for Image Retrieval: A Review."](https://onlinelibrary.wiley.com/doi/10.1002/ange.202420413) Artificial Intelligence Review, 54, 2569-2600.
+
+[3]: Tolias, G., Avrithis, Y., & Chum, O. (2015). ["Image Search with Selective Match Kernels: Aggregation Across Single and Multiple Images."](https://link.springer.com/article/10.1007/s11263-015-0810-4) Proceedings of the IEEE International Conference on Computer Vision.
+
+[4]: Sandler, M., Howard, A., Zhu, M., Zhmoginov, A., & Chen, L. C. (2018). ["MobileNetV2: Inverted Residuals and Linear Bottlenecks."](https://ieeexplore.ieee.org/abstract/document/8578572) CVPR.
+
+[5]: Philbin, J., Chum, O., Isard, M., Sivic, J., & Zisserman, A. (2007). ["Object Retrieval with Large Vocabularies and Fast Spatial Matching."](https://ieeexplore.ieee.org/document/4270197) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[6]: Audebert, N., Saux, B. L., & Lefèvre, S. (2019). ["Deep Learning for Classification of Hyperspectral Data: A Review."](https://ieeexplore.ieee.org/abstract/document/8738045) Remote Sensing, 11(5), 519.

@@ -83,3 +83,19 @@ Another technique is using transfer learning. This means taking a model that was
 Transformer models are a type of sequence model that have changed the way we handle sequences of data, like words in a sentence. Instead of processing the sequence one step at a time like RNNs or LSTMs, transformers look at the whole sequence all at once. They do this using something called attention mechanisms, which help the model focus on the most important parts of the input. For example, when translating a sentence, the transformer can pay more attention to certain words that are key to understanding the meaning. This makes transformers very good at tasks like language translation, where understanding the context of specific words can make a big difference in the accuracy of the translation.
 
 Transformers are significant because they are faster and often more accurate than older sequence models. They can handle long sequences better because they don't have the problem of vanishing gradients that RNNs and LSTMs can have. This means they can remember and use information from the beginning of a long sequence when processing the end. Transformers have led to big improvements in many areas, like natural language processing, where models like BERT and GPT, which are based on transformers, have set new standards for performance. By being able to process and understand sequences more effectively, transformers have opened up new possibilities for what we can do with [machine learning](/wiki/machine-learning).
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. This book provides comprehensive coverage on sequence models, RNNs, and LSTMs.
+
+[2]: Hochreiter, S., & Schmidhuber, J. (1997). [“Long Short-Term Memory.”](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780. An introduction to the LSTM architecture, which addresses the vanishing gradient problem.
+
+[3]: Cho, K., van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). ["Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation."](https://arxiv.org/abs/1406.1078) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1724-1734. This paper introduces the GRU, a simpler alternative to LSTMs.
+
+[4]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems, 30. This paper introduces the transformer model, which revolutionized sequence modeling with attention mechanisms.
+
+[5]: Graves, A. (2012). ["Supervised Sequence Labelling with Recurrent Neural Networks."](https://link.springer.com/book/10.1007/978-3-642-24797-2) Studies in Computational Intelligence, vol 385. Springer. This book discusses RNNs and LSTMs in depth, with a focus on sequence labelling tasks.
+
+[6]: Bahdanau, D., Cho, K., & Bengio, Y. (2015). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) International Conference on Learning Representations (ICLR). This paper introduces the attention mechanism in the context of neural machine translation.
+
+[7]: Mikolov, T., Karafiát, M., Burget, L., Cernocký, J., & Khudanpur, S. (2010). ["Recurrent neural network based language model."](https://www.isca-archive.org/interspeech_2010/mikolov10_interspeech.html) In INTERSPEECH, 1045–1048. This paper describes the application of recurrent neural networks to language modeling.

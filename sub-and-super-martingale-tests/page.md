@@ -1,6 +1,7 @@
 ---
-title: "Sub- and super-martingale tests"
-description: Explore the crucial role of sub- and super-martingale tests in enhancing algorithmic trading strategies. Learn how these probability theory concepts aid in understanding market trends optimizing trading decisions and managing risk effectively. Dive into the world of martingales and their variants to gain a competitive edge in dynamic financial markets by leveraging statistical models to predict trends and model asset prices.
+title: Sub-martingales And Super-martingales In Probability And Finance
+description: Sub-martingales And Super-martingales reveal risk trends in finance and
+  beyond by assessing probability models and outcomes Discover more inside
 ---
 
 

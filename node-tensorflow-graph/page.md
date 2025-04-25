@@ -127,3 +127,15 @@ a = tf.constant(2.0)
 b = tf.constant(3.0)
 c = special_multiply(a, b)
 ``` In this code, `special_multiply` is a custom node that multiplies two numbers and also tells TensorFlow how to find the gradient. When you use this node in your model, TensorFlow can adjust its values to make the model's predictions better. By making custom nodes like this, you can build models that do special tasks that the built-in nodes can't do.
+
+## References & Further Reading
+
+[1]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A system for large-scale machine learning."](https://arxiv.org/abs/1603.04467) In OSDI (Vol. 16, pp. 265-283).
+
+[2]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning.
+
+[3]: Olah, C. (2015). ["Understanding LSTM Networks."](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) Colah's Blog.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press. 
+
+[5]: ["TensorBoard: Visualizing Learning"](https://www.tensorflow.org/tensorboard) TensorFlow Documentation.

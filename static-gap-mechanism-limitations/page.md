@@ -1,6 +1,7 @@
 ---
-title: "Static Gap: Mechanism and Limitations"
-description: "Explore the static gap mechanism in algorithmic trading, its impact on interest rate exposure, and its limitations. Learn strategies to complement static gap analysis for better trading efficiency."
+title: Understanding Static Gap in Engineering and Algorithmic Trading
+description: Static gap in engineering and finance explores key applications comprehensive
+  design components limitations advanced techniques Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Strong Form Efficiency in Economics"
-description: "Explore the role of strong form efficiency in economic theory and algorithmic trading revealing how asset prices absorb all information impacting investment decisions."
+title: Understanding Strong Form Market Efficiency in Financial Markets
+description: Strong Form Market Efficiency shows how all public and private data shape
+  stock prices and challenges insider advantages Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Sum-of-the-Parts Valuation: Meaning, Formula, and Example"
-description: "Explore the importance of Sum-of-the-Parts (SOTP) valuation in analyzing conglomerates and algorithmic trading. Learn its methodology and real-world impact."
+title: Sum-of-the-Parts Valuation for Multi-Segment Company Analysis
+description: Sum-of-the-Parts Valuation breaks conglomerates into parts to reveal
+  intrinsic value of each segment and uncover undervalued assets. Discover more inside.
 ---
 
 

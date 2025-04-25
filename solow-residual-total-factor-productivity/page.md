@@ -1,6 +1,7 @@
 ---
-title: "Solow Residual and Total Factor Productivity"
-description: "Explore the synergy between Solow Residual Total Factor Productivity and algorithmic trading to enhance trading strategies using macroeconomic fundamentals."
+title: Measuring Total Factor Productivity with the Solow Residual
+description: Solow Residual reveals how technology and efficiency drive economic growth
+  beyond labor and capital with productivity insights Discover more inside.
 ---
 
 

@@ -79,3 +79,17 @@ In another example, heuristic search can be used in [reinforcement learning](/wi
 One of the main challenges in the development of heuristic search algorithms is finding the right balance between exploration and exploitation. Exploration means trying out new solutions to see if they are better, while exploitation means focusing on the best solutions found so far. If an algorithm explores too much, it might waste time on bad solutions. If it exploits too much, it might miss out on even better solutions. Another challenge is that heuristic searches can get stuck in local optima, which are solutions that seem good but are not the best overall. This is a big problem in complex spaces where the best solution is hard to find. Researchers are working on new ways to escape these local optima, like adding more randomness or using different search strategies.
 
 In the future, heuristic search algorithms will likely become even more important as problems get bigger and more complex. One direction is to combine different types of heuristic searches to make them even better. For example, using both a Genetic Algorithm and a Particle Swarm Optimization together, like in the HFPSO algorithm, can help solve problems faster and more reliably. Another future direction is to use machine learning to improve heuristic searches. Machine learning can help by learning which heuristics work best for different problems, making the search more efficient. As computers get faster and more powerful, heuristic search algorithms will keep getting better at solving tough problems in fields like robotics, game playing, and optimization.
+
+## References & Further Reading
+
+[1]: Hart, P. E., Nilsson, N. J., & Raphael, B. (1968). ["A Formal Basis for the Heuristic Determination of Minimum Cost Paths."](https://ieeexplore.ieee.org/document/4082128) IEEE Transactions on Systems Science and Cybernetics, 4(2), 100-107.
+
+[2]: Goldberg, D. E. (1989). ["Genetic Algorithms in Search, Optimization, and Machine Learning."](https://archive.org/details/geneticalgorithm0000gold) Addison-Wesley Longman Publishing Co., Inc.
+
+[3]: Browne, C., Powley, E., Whitehouse, D., Lucas, S. M., Cowling, P. I., Rohlfshagen, P., Tavener, S., Perez, D., Samothrakis, S., & Colton, S. (2012). ["A Survey of Monte Carlo Tree Search Methods."](https://ieeexplore.ieee.org/abstract/document/6145622) IEEE Transactions on Computational Intelligence and AI in Games, 4(1).
+
+[4]: Yang, X.-S. (2010). ["Nature-Inspired Metaheuristic Algorithms,"](https://www.researchgate.net/publication/235979455_Nature-Inspired_Metaheuristic_Algorithms) Luniver Press.
+
+[5]: Koenig, S., & Likhachev, M. (2002). ["D* Lite."](https://dl.acm.org/doi/10.5555/777092.777167) In Proceedings of the 18th National Conference on Artificial Intelligence (AAAI).
+
+[6]: Rashedi, E., Nezamabadi-Pour, H., & Saryazdi, S. (2009). ["GSA: A Gravitational Search Algorithm."](https://www.sciencedirect.com/science/article/pii/S0020025509001200) Information Sciences, 179(13), 2232-2248.

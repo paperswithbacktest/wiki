@@ -79,3 +79,15 @@ Another metric, BLEU (Bilingual Evaluation Understudy), is often used to check h
 In the future, we might see Rouge-S being used in more languages and types of writing. Right now, it works best with English and simple texts, but researchers are working on ways to make it work better with other languages and more complex writing styles. This could help people use Rouge-S to check summaries in different situations, like news articles in different languages or scientific papers. Also, we might see new ways to combine Rouge-S with other measures of summary quality. By using Rouge-S along with other metrics like Rouge-1 and Rouge-2, we can get a better overall picture of how good a summary is. This could help make machine learning models for summarizing text even better.
 
 Another future development could be using machine learning to fine-tune Rouge-S. For example, researchers might use machine learning to find the best skip distance or the best way to combine Rouge-S with other measures. The formula for Rouge-S is $$ \text{Rouge-S} = \frac{\sum_{\text{skip-bigram} \in S} \text{Count}_{\text{match}}(\text{skip-bigram})}{\sum_{\text{skip-bigram} \in S} \text{Count}(\text{skip-bigram})} $$, where $$S$$ is the set of skip-bigrams in the generated summary, $$\text{Count}_{\text{match}}(\text{skip-bigram})$$ is how many times a skip-bigram from the generated summary appears in the reference summary, and $$\text{Count}(\text{skip-bigram})$$ is how many times a skip-bigram appears in the generated summary. By tweaking these elements, we can make Rouge-S work better for specific projects. This could lead to more accurate and useful ways to check the quality of summaries, helping to improve how we use machine learning for text summarization.
+
+## References & Further Reading
+
+[1]: Lin, C.-Y. (2004). "[ROUGE: A Package for Automatic Evaluation of Summaries](https://aclanthology.org/W04-1013/)." In Text Summarization Branches Out: Proceedings of the ACL-04 Workshop.
+
+[2]: Lin, C.-Y., & Hovy, E. (2003). "[Automatic Evaluation of Summaries Using N-gram Co-occurrence Statistics](https://aclanthology.org/N03-1020/)." In Proceedings of the 2003 Conference of the North American Chapter of the Association for Computational Linguistics on Human Language Technology.
+
+[3]: Papineni, K., Roukos, S., Ward, T., & Zhu, W.-J. (2002). "[BLEU: a Method for Automatic Evaluation of Machine Translation](https://aclanthology.org/P02-1040/)." In Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics.
+
+[4]: Banerjee, S., & Lavie, A. (2005). "[METEOR: An Automatic Metric for MT Evaluation with Improved Correlation with Human Judgments](https://aclanthology.org/W05-0909/)." In Proceedings of the ACL Workshop on Intrinsic and Extrinsic Evaluation Measures for Machine Translation and/or Summarization.
+
+[5]: Mani, I. (2001). "[Automatic Summarization](https://books.google.com/books/about/Automatic_Summarization.html?id=CSHxUOfb5bwC)." Springer US.

@@ -85,3 +85,17 @@ In modern applications, one advanced technique used with Genetic Algorithms is c
 Another variation is "Niching," which helps the Genetic Algorithm find multiple good solutions instead of just one. Niching works by encouraging the population to split into different groups, or "niches," each focusing on a different part of the solution space. This is useful when there might be several good answers to a problem. For example, if you're designing a car, there might be different designs that balance speed, fuel efficiency, and safety in different ways. By using niching, the Genetic Algorithm can explore these different designs and find multiple good solutions. The fitness function might look like $$ \text{fitness} = w_1 \times \text{speed} + w_2 \times \text{fuel efficiency} + w_3 \times \text{safety} $$, but niching would help find different sets of weights that lead to good cars.
 
 A third advanced technique is "Co-evolution," where different parts of a solution evolve together. In co-evolution, you might have two or more populations that interact with each other. For instance, if you're designing a game, you could have one population for the game's AI and another for the game's levels. As the AI evolves to become better at playing the game, the levels evolve to become more challenging. This back-and-forth helps both populations improve over time. By using co-evolution, you can find solutions that work well together, making the overall solution better than what you might find with a single population.
+
+## References & Further Reading
+
+[1]: Holland, J. H. (1992). ["Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence"](https://ieeexplore.ieee.org/book/6267401). MIT Press.
+
+[2]: Goldberg, D. E. (1989). ["Genetic Algorithms in Search, Optimization, and Machine Learning"](https://archive.org/details/geneticalgorithm0000gold) Addison-Wesley Longman Publishing.
+
+[3]: Mitchell, M. (1998). ["An Introduction to Genetic Algorithms"](https://direct.mit.edu/books/monograph/4675/An-Introduction-to-Genetic-Algorithms). MIT Press.
+
+[4]: Eiben, A. E., & Smith, J. E. (2003). ["Introduction to Evolutionary Computing"](https://www.researchgate.net/publication/216300585_Introduction_To_Evolutionary_Computing). Springer.
+
+[5]: Back, T. (1996). ["Evolutionary Algorithms in Theory and Practice"](https://academic.oup.com/book/40791) Oxford University Press.
+
+[6]: Haupt, R. L., & Haupt, S. E. (2004). ["Practical Genetic Algorithms"](https://onlinelibrary.wiley.com/doi/book/10.1002/0471671746) Wiley.

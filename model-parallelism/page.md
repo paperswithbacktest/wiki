@@ -83,3 +83,17 @@ However, model parallelism can also make things more complicated. The different 
 Recent research in model parallelism has focused on making it easier to train very big models. One important development is the use of pipeline parallelism, which splits a model into smaller parts and sets them up like an assembly line. This way, different parts of the model can work on different pieces of data at the same time, making training faster. Researchers have also been working on better ways to split models and manage how different devices talk to each other. For example, the DeepSpeed library, built on top of PyTorch, has introduced features like ZeRO (Zero Redundancy Optimizer), which helps reduce memory use and improve training speed for large models.
 
 Another area of research is in optimizing the communication between devices. When using model parallelism, the different parts of the model need to share information, and this can slow things down if not done right. New techniques, like those used in the Megatron-LM library, focus on reducing the amount of data that needs to be sent between devices. This helps make training faster and more efficient. Researchers are also looking at how to use model parallelism with other techniques, like data parallelism, to get the best of both worlds. This combined approach can help train even bigger models more effectively.
+
+## References & Further Reading
+
+[1]: Ben-Nun, T., & Hoefler, T. (2019). ["Demystifying Parallel and Distributed Deep Learning: An In-Depth Concurrency Analysis."](https://arxiv.org/abs/1802.09941) ACM Computing Surveys (CSUR).
+
+[2]: Dean, J., et al. (2012). ["Large Scale Distributed Deep Networks."](https://proceedings.neurips.cc/paper/2012/file/6aca97005c68f1206823815f66102863-Paper.pdf) Advances in Neural Information Processing Systems 25.
+
+[3]: Shoeybi, M., Patwary, M., Puri, R., LeGresley, P., Casper, J., & Catanzaro, B. (2019). ["Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism."](https://arxiv.org/abs/1909.08053) arXiv preprint arXiv:1909.08053.
+
+[4]: Rasley, J., Rajbhandari, S., Ruwase, O., & He, Y. (2020). ["Deepspeed: System Optimizations Enable Training Deep Learning Models with Over 100 Billion Parameters."](https://arxiv.org/abs/1910.02054) Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining.
+
+[5]: Huang, Y., Gu, J., Liu, B., Heinrich, T., & Yu, X. (2019). ["GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism."](https://europepmc.org/article/MED/31402315) Advances in Neural Information Processing Systems 32.
+
+[6]: ["Parallel and Distributed Deep Learning: A Survey"](https://arxiv.org/abs/1802.09941) by Cristian Perez, Benjamin Kheng Siang Gan, Wei Wang, David Kahtan Matthew Ong, Gautham Hatwar, & Choon S. Tham.

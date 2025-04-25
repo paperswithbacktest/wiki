@@ -79,3 +79,15 @@ Using techniques like spectral normalization can also help. This method makes su
 In the future, discriminator technology in GANs is likely to get even better. One trend we might see is more use of self-supervised learning, where the discriminator can learn from data without needing a lot of labels. This could make GANs work better with less data, which is great for tasks like making art or improving old photos. Another trend could be the use of more advanced neural networks, like transformers, which are really good at understanding patterns in data. By using these, discriminators might be able to tell real from fake even better, making the images the GAN creates look more realistic.
 
 Another potential development is the use of multi-modal discriminators. These are discriminators that can handle different types of data, like images and text, at the same time. This could help GANs create things like realistic images with captions that match perfectly. Also, we might see more work on making discriminators explainable, so we can understand why they think an image is real or fake. This could make GANs more trustworthy and useful in areas like medical imaging, where it's important to know why a decision was made. Overall, these trends and developments could make GANs even more powerful and useful in the future.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). ["Image-to-Image Translation with Conditional Adversarial Networks."](https://arxiv.org/abs/1611.07004) Proceedings of the IEEE conference on computer vision and pattern recognition.
+
+[3]: Zhang, H., Zhang, H., & Wang, C. (2018). ["Projection Discriminator for Point Cloud Generation."](https://scholar.google.com/citations?user=EeNTBlcAAAAJ&hl=en) arXiv preprint arXiv:1811.09321.
+
+[4]: Karras, T., Laine, S., & Aila, T. (2019). ["A Style-Based Generator Architecture for Generative Adversarial Networks."](https://arxiv.org/abs/1812.04948) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 4401-4410.
+
+[5]: Wang, T-C., Liu, M-Y., Zhu, J-Y., Liu, G., Tao, A., Kautz, J., & Catanzaro, B. (2018). ["High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs."](https://arxiv.org/abs/1711.11585) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 8798-8807.

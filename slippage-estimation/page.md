@@ -1,6 +1,7 @@
 ---
-title: "slippage estimation"
-description: "Understand the importance of estimating slippage in algorithmic trading as it affects profitability Discover factors like market liquidity and how to mitigate slippage"
+title: Mastering Slippage Estimation in Stock Trading Strategies
+description: Slippage estimation helps traders predict price shifts and use the right
+  order types to control execution costs and manage risk Discover more inside
 ---
 
 

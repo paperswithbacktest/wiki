@@ -1,6 +1,7 @@
 ---
-title: "Strategy risk"
-description: Explore the intricacies of strategy risk in algorithmic trading, highlighting potential pitfalls and effective ways to mitigate them. Understand how these sophisticated trading strategies, while offering significant advantages like increased liquidity and efficient trade execution, also present risks such as losses from inefficiencies or flaws in trading models. This article investigates into common sources of strategy risk, including overfitting and market changes, and offers insights on robust backtesting and adaptable algorithms to enhance trading success and resilience in dynamic markets.
+title: Understanding Strategy Risk For Effective Business Planning
+description: Strategy risk can derail company plans when market or operational shifts
+  occur. Identify key risk types and tools to protect business Discover more inside
 ---
 
 

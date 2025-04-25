@@ -79,3 +79,19 @@ Another method is progressive resizing, which is often used in image processing 
 In a neural network, the size of tensors in different layers can affect each other because the output of one layer becomes the input for the next layer. For example, if you start with an input tensor of size $$32 \times 32 \times 3$$ for an image, the first layer might process this and produce a tensor of size $$16 \times 16 \times 16$$. This new tensor then goes into the next layer, which might change its size again, like to $$8 \times 8 \times 32$$. Each layer's tensor size can impact how well the next layer can learn and process the data. If the tensors get too small, the network might lose important details, and if they get too big, it might become hard to train because of memory limits.
 
 The interaction between tensor sizes in different layers also depends on the type of layers used. For instance, convolutional layers often reduce the spatial dimensions (like height and width) but increase the number of channels. This means that if you start with a tensor of size $$224 \times 224 \times 3$$, after a few convolutional layers, you might end up with a tensor like $$28 \times 28 \times 64$$. On the other hand, fully connected layers usually flatten the tensor into a 1D shape, which can change how the data is represented and processed. Balancing the sizes across layers is crucial to make sure the network can learn effectively without running into memory issues or losing important information.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[2]: Chollet, F. (2018). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[4]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://arxiv.org/abs/1512.03385) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Kingma, D. P., & Ba, J. (2015). ["Adam: A Method for Stochastic Optimization."](https://arxiv.org/abs/1412.6980) International Conference on Learning Representations (ICLR).
+
+[6]: Paszke, A., Gross, S., Massa, F., Lerer, A., Bradbury, J., Chanan, G., Killeen, T., Lin, Z., Gimelshein, N., Antiga, L., Desmaison, A., Kopf, A., Yang, E., DeVito, Z., Raffel, C., Dietrich, D., B., Hirzel, Evans, J., ... & Chintala, S. (2019). ["PyTorch: An Imperative Style, High-Performance Deep Learning Library."](https://arxiv.org/abs/1912.01703) Advances in Neural Information Processing Systems 32.
+
+[7]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., Devin, M., Ghemawat, S., Irving, G., Isard, M., Kudlur, M., Levenberg, J., Monga, R., Moore, S., Murray, D. G., Steiner, B., Tucker, P., Vasudevan, V., Warden, P., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) Proceedings of the 12th USENIX Symposium on Operating Systems Design and Implementation (OSDI).

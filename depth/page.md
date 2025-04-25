@@ -83,3 +83,21 @@ One way to look at this more closely is to use a technique called cross-validati
 One of the latest advancements in optimizing the depth of neural networks is the development of techniques like neural architecture search (NAS). NAS uses algorithms to automatically find the best network architecture, including the right depth, for a given task. This means the network can be tailored to perform well without a human having to guess how many layers are needed. For example, NAS can test many different versions of a network, each with a different number of layers, and pick the one that works best on a validation set. This helps in finding a balance between having enough depth to understand the data well and not so much that the network overfits.
 
 Another advancement is the use of techniques like residual connections, which were introduced in architectures like ResNet. Residual connections, or skip connections, help deep networks train more easily by allowing the data to skip over some layers. This makes it easier for the network to learn and for the error signals to travel back through the layers without getting too weak. By using residual connections, researchers can build much deeper networks that still generalize well to new data. This has led to big improvements in tasks like image recognition, where deeper networks can now be trained without the problems of vanishing gradients that used to make training deep networks hard.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2017). ["Understanding deep learning requires rethinking generalization."](https://arxiv.org/abs/1611.03530) arXiv:1611.03530.
+
+[5]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Communications of the ACM, 60(6), 84-90.
+
+[6]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) In Advances in Neural Information Processing Systems (NeurIPS).
+
+[7]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.
+
+[8]: Zoph, B., & Le, Q. V. (2016). ["Neural Architecture Search with Reinforcement Learning."](https://arxiv.org/abs/1611.01578) arXiv:1611.01578.

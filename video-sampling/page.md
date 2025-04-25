@@ -106,3 +106,19 @@ Another advancement is the use of [deep learning](/wiki/deep-learning) to guide 
 Video sampling works well with other [data augmentation](/wiki/data-augmentation) techniques to make machine learning models better. For example, after you pick frames from a video, you can use techniques like flipping, rotating, or changing the brightness of those frames to create more training data. This helps the model see the same action or event in different ways, making it more flexible and able to recognize things even if they look a bit different. By combining video sampling with these other methods, you can make sure the model gets a good variety of examples to learn from, which can improve its accuracy and performance.
 
 Another way video sampling integrates with data augmentation is through techniques like temporal jittering and frame interpolation. Temporal jittering adds small random changes to when frames are picked, and this can be combined with other methods like frame interpolation, where new frames are created between existing ones. This helps the model learn about the timing and flow of actions in the video. By using these techniques together, the model can learn to handle different speeds and timing of events, making it more reliable in real-world situations where things don't always happen at the same time.
+
+## References & Further Reading
+
+[1]: Yeung, S., Russakovsky, O., Jin, N., Andriluka, M., Mori, G., & Fei-Fei, L. (2018). ["Every Moment Counts: Dense Detailed Labeling of Actions in Complex Videos."](https://link.springer.com/article/10.1007/s11263-017-1013-y) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Karpathy, A., Toderici, G., Shetty, S., Leung, T., Sukthankar, R., & Fei-Fei, L. (2014). ["Large-Scale Video Classification with Convolutional Neural Networks."](https://ieeexplore.ieee.org/document/6909619) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[3]: Simonyan, K., & Zisserman, A. (2014). ["Two-Stream Convolutional Networks for Action Recognition in Videos."](https://dl.acm.org/doi/10.5555/2968826.2968890) Advances in Neural Information Processing Systems (NIPS).
+
+[4]: Wang, X., Farhadi, A., & Gupta, A. (2016). ["Actions ˜ Transformations."](https://arxiv.org/abs/1512.00795) Advances in Neural Information Processing Systems (NIPS).
+
+[5]: Girdhar, R., Ramanan, D., Gupta, A., Sivic, J., & Russell, B. C. (2017). ["ActionVLAD: Learning Spatio-Temporal Aggregation for Action Classification."](https://arxiv.org/abs/1704.02895) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Wu, C., Feichtenhofer, C., Fan, H., He, K., Krahenbuhl, P., & Girshick, R. (2020). ["Long-Term Feature Banks for Detailed Video Understanding."](https://arxiv.org/abs/1812.05038) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Liu, C., Wu, Y., Luo, D., Tang, M., Wang, F., Jiang, B., & Liu, W. (2021). ["Strong Baselines for Temporal Sampling in Video Understanding."](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202424526) Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV).

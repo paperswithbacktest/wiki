@@ -81,3 +81,15 @@ Another exciting area of research is the development of fairness-aware learning 
 Regulatory frameworks are starting to focus on making sure machine learning models treat each person fairly. Imagine you and your friend both apply for a loan, and you both have the same job and income. The law says the computer system should give you both a similar chance of getting the loan, no matter your race or gender. This idea is called individual fairness. In places like the European Union, laws like the General Data Protection Regulation (GDPR) talk about fairness in how personal data is used. They say that decisions made by computers should be fair and not harm people. This means companies have to check their models to make sure they're not treating similar people differently.
 
 In the United States, laws like the Equal Credit Opportunity Act (ECOA) and the Fair Housing Act (FHA) also try to make sure that computer systems are fair. These laws say that when banks or landlords use computer models to make decisions, they should treat everyone the same way if they're similar in important ways. For example, if two people have the same credit history, they should get the same chance of getting a loan. To follow these laws, companies might use a method called Lipschitz fairness. This means if two people's features $$x_1$$ and $$x_2$$ are close, their outcomes $$|f(x_1) - f(x_2)|$$ should also be close. By checking their models this way, companies can make sure they're being fair to each person.
+
+## References & Further Reading
+
+[1]: Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). ["Fairness Through Awareness."](https://arxiv.org/abs/1104.3913) Proceedings of the 3rd Innovations in Theoretical Computer Science Conference.
+
+[2]: Zemel, R., Wu, Y., Swersky, K., Pitassi, T., & Dwork, C. (2013). ["Learning Fair Representations."](https://dl.acm.org/doi/10.5555/3042817.3042973) Proceedings of the 30th International Conference on Machine Learning (ICML).
+
+[3]: Hardt, M., Price, E., & Srebro, N. (2016). ["Equality of Opportunity in Supervised Learning."](https://arxiv.org/abs/1610.02413) Advances in Neural Information Processing Systems 29.
+
+[4]: Kusner, M. J., Loftus, J., Russell, C., & Silva, R. (2017). ["Counterfactual Fairness."](https://arxiv.org/abs/1703.06856) Advances in Neural Information Processing Systems 30.
+
+[5]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) Fairness and Machine Learning.

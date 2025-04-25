@@ -79,3 +79,15 @@ Another method is to use techniques like knowledge distillation. This involves t
 To evaluate the effectiveness of ternarization in a specific application, you need to look at how well the ternarized model performs compared to the original full-precision model. This involves measuring the accuracy of the model on a test dataset. If the ternarized model can still make good predictions, even if they are a bit less accurate than the original model, then ternarization might be a good choice. You should also consider how much faster the ternarized model runs and how much less memory it uses. If the speed and memory savings are big enough to make up for any small drop in accuracy, then ternarization can be very effective for your application.
 
 Another important thing to check is how well the ternarized model works in the real world. This means testing it on the actual devices or systems where it will be used, like phones or small computers. You want to see if the model can still do its job well, even with the simpler weights. If the model runs quickly and uses less power on these devices, and if it can still make accurate enough predictions, then ternarization is a good solution. It's all about finding the right balance between making the model efficient and keeping it accurate enough for what you need it to do.
+
+## References & Further Reading
+
+[1]: Courbariaux, M., Hubara, I., Soudry, D., El-Yaniv, R., & Bengio, Y. (2016). ["Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1."](https://arxiv.org/abs/1602.02830) arxiv preprint arXiv:1602.02830.
+
+[2]: Li, F., Zhang, B., & Liu, B. (2016). ["Ternary Weight Networks."](https://arxiv.org/abs/1605.04711) arxiv preprint arXiv:1605.04711.
+
+[3]: Rastegari, M., Ordonez, V., Redmon, J., & Farhadi, A. (2016). ["XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks."](https://arxiv.org/abs/1603.05279) arxiv preprint arXiv:1603.05279.
+
+[4]: Zhu, C., Han, S., Mao, H., & Dally, W. J. (2016). ["Trained Ternary Quantization."](https://www.scirp.org/reference/referencespapers?referenceid=2993907) arxiv preprint arXiv:1612.01064.
+
+[5]: Hubara, I., Courbariaux, M., Soudry, D., El-Yaniv, R., & Bengio, Y. (2017). ["Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations."](https://arxiv.org/abs/1609.07061) Journal of Machine Learning Research, 18(187), 1-30.

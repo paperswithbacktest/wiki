@@ -81,3 +81,15 @@ Another potential development is the integration of machine learning accelerator
 One real-world application where machine learning accelerator chips have made a big difference is in Google's use of TPUs for training large language models. Google's TPUs are special chips made just for machine learning, and they have been used to train models like BERT and other big language models much faster than before. Before TPUs, training these models could take weeks or even months on regular chips. With TPUs, Google was able to cut this time down to days or even hours. This meant they could experiment with different models more quickly and get better results faster. The impact of TPUs has been so big that Google now uses them in their data centers and offers them through their cloud services, helping many other companies and researchers speed up their machine learning work.
 
 Another example is NVIDIA's GPUs being used by DeepMind for their AlphaGo project. AlphaGo is a computer program that plays the game Go, and it uses a lot of machine learning to get better at the game. Training AlphaGo on regular chips would have taken a very long time, but using NVIDIA's GPUs made the process much faster. The GPUs were able to handle the complex calculations needed for AlphaGo's neural networks, allowing DeepMind to train the model quickly and beat the world's best Go players. This showed how important machine learning accelerator chips can be for big projects that need a lot of computing power. It also helped show that these chips could be used for many different kinds of machine learning tasks, not just the ones they were originally made for.
+
+## References & Further Reading
+
+[1]: Jouppi, N. P., Young, C., Patil, N., Patterson, D., Agrawal, G., Bajwa, R., ... & Yoon, D. (2017). ["In-Datacenter Performance Analysis of a Tensor Processing Unit."](https://arxiv.org/abs/1704.04760) In Proceedings of the 44th Annual International Symposium on Computer Architecture (ISCA).
+
+[2]: Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L. M., Reddi, V. J., ... & Yoon, D. (2021). ["Carbon Emissions and Large Neural Network Training."](https://arxiv.org/abs/2104.10350) In Proceedings of the 2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA).
+
+[3]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521(7553), 436-444.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: NVIDIA. (2020). ["NVIDIA A100 Tensor Core GPU Architecture."](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf) NVIDIA Whitepaper.

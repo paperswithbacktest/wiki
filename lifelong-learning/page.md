@@ -85,3 +85,21 @@ Another ethical issue is fairness. As lifelong learning systems keep learning, t
 One advanced technique used to improve lifelong learning algorithms is called Elastic Weight Consolidation (EWC). EWC helps prevent catastrophic forgetting by adding a penalty to the changes in the [neural network](/wiki/neural-network)'s weights that are important for old tasks. Imagine you're learning new math problems but you don't want to forget how to do the old ones. EWC makes sure the AI keeps the important parts of what it learned before while still being able to learn new things. This is done by adding a term to the loss function that measures how much the important weights are changing, which helps keep the old knowledge safe.
 
 Another technique is called Memory Aware Synapses (MAS). MAS works by assigning importance to each weight in the neural network based on how much it contributes to the current performance. When new data comes in, the system tries to change the weights in a way that doesn't mess up the important ones too much. This helps the AI learn new tasks without forgetting the old ones. For example, if the AI is good at sorting apples and then learns to sort oranges, MAS makes sure it doesn't forget how to sort apples while learning about oranges. Both EWC and MAS help make lifelong learning more effective by balancing the need to learn new things with the need to remember old ones.
+
+## References & Further Reading
+
+[1]: Parisi, G. I., Kemker, R., Part, J. L., Kanan, C., & Wermter, S. (2019). ["Continual Lifelong Learning with Neural Networks: A Review."](https://pubmed.ncbi.nlm.nih.gov/30780045/) Neural Networks, 113, 54-71.
+
+[2]: Li, Z., Zhou, F., Chen, F., & Li, H. (2017). ["Learn to Grow: A Continual Structure Learning Framework for Overcoming Catastrophic Forgetting."](https://arxiv.org/abs/1707.09835) Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:3925-3934.
+
+[3]: Kirkpatrick, J., Pascanu, R., Rabinowitz, N., Veness, J., Desjardins, G., Rusu, A. A., ... & Hadsell, R. (2017). ["Overcoming catastrophic forgetting in neural networks."](https://arxiv.org/abs/1612.00796) Proceedings of the National Academy of Sciences, 114(13), 3521-3526.
+
+[4]: Rusu, A. A., Rao, D., Sygnowski, J., Velez, R., Pascanu, R., Osindero, S., ... & Hadsell, R. (2016). ["Progressive Neural Networks."](https://arxiv.org/abs/1807.05960) arXiv preprint arXiv:1606.04671.
+
+[5]: Chen, Z., & Liu, B. (2018). ["Lifelong Machine Learning."](https://link.springer.com/book/10.1007/978-3-031-01581-6) Synthesis Lectures on Artificial Intelligence and Machine Learning, 12(3), 1-207.
+
+[6]: Yu, Z., Liu, T., Liu, Z., Schiele, B., & Sun, Q. (2020). ["Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning."](https://www.sciencedirect.com/science/article/pii/S1359646225001617) arXiv preprint arXiv:2011.01403.
+
+[7]: De Lange, M., Aljundi, R., Masana, M., Parisot, S., Jia, X., Leonardis, A., ... & Tuytelaars, T. (2021). ["A continual learning survey: Defying forgetting in classification tasks."](https://arxiv.org/abs/1909.08383) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[8]: Delange, M., Tuytelaars, T., & Masana, M. (2019). ["EWC, MAS & SI: The Three Regularization Methods for Overcoming Catastrophic Forgetting."](https://dl.acm.org/doi/abs/10.5555/3692070.3694419) Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI-19).

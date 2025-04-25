@@ -1,6 +1,7 @@
 ---
-title: "Socially Responsible Investing for Environmental Sustainability"
-description: "Explore socially responsible investing and learn how algorithmic trading integrates sustainability into investment decisions aligning profits with ethical values."
+title: Socially Responsible Investing For Environmental Sustainability
+description: Socially responsible investing builds a greener portfolio by backing
+  companies that reduce emissions and champion clean energy Discover more inside
 ---
 
 

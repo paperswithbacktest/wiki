@@ -87,3 +87,15 @@ Another important thing to look at is how the model's performance compares to a 
 One advanced technique in transfer learning is called multi-task learning. Imagine you're teaching a computer to do several things at once, like recognizing different types of animals and also identifying the sounds they make. By training the model on these related tasks together, it can learn to do each task better. This is because the model can share what it learns across the tasks, making it smarter overall. For example, if you're teaching it to recognize birds and their songs, the model can use what it knows about bird shapes to help it understand their songs better. This can lead to better performance on both tasks than if you trained them separately.
 
 Another technique is called domain adaptation. Sometimes, the data you have for your new task is different from the data the pre-trained model was trained on. For example, if the pre-trained model learned from pictures taken in daylight, but your new task involves pictures taken at night, the model might struggle. Domain adaptation helps the model adjust to this new type of data. You can do this by showing the model examples from both the old and new domains, helping it learn how to switch between them. This way, the model can still use what it already knows but also learn how to handle the new situation, leading to better performance on your new task.
+
+## References & Further Reading
+
+[1]: Pan, S. J., & Yang, Q. (2010). ["A Survey on Transfer Learning."](https://ieeexplore.ieee.org/abstract/document/5288526) IEEE Transactions on Knowledge and Data Engineering, 22(10), 1345-1359.
+
+[2]: Weiss, K., Khoshgoftaar, T. M., & Wang, D. (2016). ["A Survey of Transfer Learning."](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-016-0043-6) Journal of Big Data, 3(9).
+
+[3]: Bengio, Y. (2012). ["Deep Learning of Representations for Unsupervised and Transfer Learning."](https://dl.acm.org/doi/10.5555/3045796.3045800) Proceedings from the Unsupervised and Transfer Learning Workshop at the 29th International Conference on Machine Learning, 17-36.
+
+[4]: ["Deep Learning for Computer Vision"](https://www.geeksforgeeks.org/deep-learning-for-computer-vision/) by Rajalingappaa Shanmugamani 
+
+[5]: ["Deep Learning with Python"](https://www.amazon.com/Learning-Python-Second-Fran%C3%A7ois-Chollet/dp/1617296864) by Francois Chollet

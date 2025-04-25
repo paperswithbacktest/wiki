@@ -1,6 +1,7 @@
 ---
-title: "Sustainable Investing Trends in 2021"
-description: "Explore the rise of sustainable investing in 2021 and its intersection with algorithmic trading. Discover ESG trends and the impact on financial strategies."
+title: Sustainable Investing Trends and Insights for 2021
+description: Sustainable investing focuses on companies that balance financial returns
+  with environmental and social impact Discover how to start smart and make a difference
 ---
 
 

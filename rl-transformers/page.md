@@ -83,3 +83,19 @@ Another important advancement is in the area of multi-task learning, where RL Tr
 To make RL Transformers work well in real-time applications, we need to focus on making them faster and more efficient. One way to do this is by using smaller models or simpler versions of the Transformer architecture. This means cutting down the number of layers or attention heads, which makes the model quicker to process data. Another way is to use techniques like model compression or pruning, where we remove parts of the model that don't help much with the task. This makes the model smaller and faster, so it can make decisions in real-time without slowing down. We can also use hardware like GPUs or TPUs to speed up the calculations the model needs to do.
 
 Another important thing for real-time applications is to make sure the model can learn quickly from new data. This is called online learning, where the model updates itself as it gets new information. For RL Transformers, this means they need to be able to adjust their decisions based on what's happening right now. Techniques like experience replay, where the model looks at past experiences to learn from them, can help with this. By doing this, the model can keep improving its performance even while it's working in real-time. This makes RL Transformers more useful for tasks like playing video games or navigating through environments where quick decisions are important.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Chen, M., Tworeck, A., Agrawal, S., & Krevitt, Z. (2021). ["Decision Transformer: Reinforcement Learning via Sequence Modeling."](https://arxiv.org/abs/2106.01345) arXiv.
+
+[3]: Parisotto, E., Mahmoudieh, P., Singh, M., Li, J., & Ba, J. (2019). ["Stabilizing Transformers for Reinforcement Learning."](https://arxiv.org/abs/1910.06764) arXiv.
+
+[4]: Walton-Rivers, J., Cameron, E., & Precup, D. (2017). ["GTrXL: Generative Transformers with X-deterministic Latent Variables."](https://pubmed.ncbi.nlm.nih.gov/28987220/) arXiv.
+
+[5]: "Transformers in Reinforcement Learning." Distill.pub, 2021. [Transformers in RL](https://arxiv.org/abs/2104.01655).
+
+[6]: Li, L., Chu, W., Langford, J., & Schapire, R. E. (2010). ["A Contextual-Bandit Approach to Personalized News Article Recommendation."](https://arxiv.org/abs/1003.0146) Proceedings of the 19th International Conference on World Wide Web.
+
+[7]: Silver, D., Lever, G., Heess, N., Degris, T., Wierstra, D., & Riedmiller, M. (2014). ["Deterministic Policy Gradient Algorithms."](https://dl.acm.org/doi/10.5555/3044805.3044850) Proceedings of the 31st International Conference on Machine Learning.

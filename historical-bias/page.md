@@ -81,3 +81,17 @@ Another important area of research is the development of fairness metrics and to
 To measure and evaluate the effectiveness of bias mitigation strategies, we can use fairness metrics. These are special numbers that tell us if a machine learning model is treating everyone fairly. For example, one common metric is "demographic parity," which checks if the model's predictions are the same for different groups of people. Another metric is "equalized odds," which looks at whether the model's predictions are equally accurate for different groups. By using these metrics, we can see if our strategies are working to make the model fairer.
 
 Another way to evaluate bias mitigation strategies is by doing experiments. We can train two versions of a model: one with the bias mitigation strategy and one without it. Then, we compare how well each version does in terms of fairness and accuracy. If the model with the bias mitigation strategy is fairer and still accurate, we know the strategy is working. We can also use tools that explain the model's decisions to see if they are fair. By looking at the model's predictions in detail, we can find and fix any unfair patterns. This helps us make sure our machine learning models are treating everyone the same way.
+
+## References & Further Reading
+
+[1]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) fairmlbook.org.
+
+[2]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys, 54(6), 1-35.
+
+[3]: Bolukbasi, T., Chang, K., Zou, J., Saligrama, V., & Kalai, A. (2016). ["Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings."](https://arxiv.org/abs/1607.06520) Advances in Neural Information Processing Systems 29.
+
+[4]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) Proceedings of the 1st Conference on Fairness, Accountability and Transparency.
+
+[5]: Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). ["Inherent Trade-Offs in the Fair Determination of Risk Scores."](https://arxiv.org/abs/1609.05807) arXiv preprint arXiv:1609.05807.
+
+[6]: Chouldechova, A. (2017). ["Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments."](https://arxiv.org/abs/1703.00056) Big Data and Society.

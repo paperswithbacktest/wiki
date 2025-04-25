@@ -1,6 +1,7 @@
 ---
-title: "Statistical arbitrage trading"
-description: Explore statistical arbitrage trading, an algorithmic strategy that leverages quantitative models to exploit pricing inefficiencies across markets. Discover how traders use mean reversion and advanced algorithms to identify and act on profit opportunities with relatively low risk. From pure arbitrage to pair trading, learn about various strategies that maximize profit while adapting to dynamic market conditions. Delve into the role of technology and automation in enhancing the efficiency of statistical arbitrage within the fast-paced realm of algorithmic trading and the evolving scope in financial markets.
+title: Statistical Arbitrage Trading Fundamentals and Techniques
+description: Statistical arbitrage trading uses data driven models to spot price gaps
+  manage risk and optimize returns across assets Discover more inside
 ---
 
 

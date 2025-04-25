@@ -81,3 +81,15 @@ Another big advancement that might happen is making GPT models more ethical and 
 GPT models can understand and create text in many different languages because they are trained on a lot of text from around the world. When someone uses GPT to translate text or talk to people in different languages, it tries to make the text sound natural and correct. It does this by learning how words fit together in different languages and understanding the context of the text. But, GPT can sometimes make mistakes, especially with languages it hasn't seen as much. It might not always get the right words or understand the grammar perfectly, but it keeps getting better as it learns more.
 
 Understanding cultural nuances is harder for GPT because these can be very specific and different from one place to another. GPT tries to learn about these nuances from the text it sees, but it can sometimes miss important details or get them wrong. For example, it might not understand a joke or a saying that is common in one culture but not in another. As GPT models get trained on more and more diverse text, they are getting better at understanding these cultural differences, but there is still a lot to learn.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) arXiv preprint arXiv:1706.03762.
+
+[2]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., & others. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[4]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[5]: Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., Bernstein, M. S., Bohg, J., Bosselut, A., Brunskill, E., & others. (2021). ["On the Opportunities and Risks of Foundation Models."](https://arxiv.org/abs/2108.07258) arXiv preprint arXiv:2108.07258.

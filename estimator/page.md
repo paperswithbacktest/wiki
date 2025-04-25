@@ -109,3 +109,21 @@ Another technique is "regularization." Regularization adds a penalty to the esti
 Recent research in machine learning has brought new ways to make estimators work better. One big change is the use of [deep learning](/wiki/deep-learning), which uses neural networks with many layers to learn from data. These neural networks can be thought of as very complex estimators that can learn to recognize patterns in data that simpler models might miss. For example, in image recognition, deep learning models can learn to identify objects in pictures by looking at the pixels. This has made estimators more powerful and able to handle more complex problems. Another important development is the use of transfer learning, where an estimator trained on one task can be used to help with another task. This can make estimators more robust because they can use what they've learned from one problem to help solve another.
 
 Another area of research that impacts estimators is the development of more advanced ensemble methods. These methods combine the predictions of many different estimators to make a final prediction that is more accurate and reliable. For example, techniques like gradient boosting and random forests have become very popular because they can reduce both bias and variance in the estimator's predictions. Gradient boosting, for instance, trains estimators one after another, with each new estimator focusing on the examples that the previous ones got wrong. This can help the estimator learn the tricky parts of the data better. These ensemble methods have made estimators more robust and better at generalizing to new data, which is crucial for real-world applications.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[2]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: With Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.
+
+[3]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[4]: Friedman, J., Hastie, T., & Tibshirani, R. (2001). ["The Elements of Statistical Learning."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[5]: Kuhn, M., & Johnson, K. (2013). ["Applied Predictive Modeling."](https://link.springer.com/book/10.1007/978-1-4614-6849-3) Springer.
+
+[6]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[7]: Bergstra, J., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research, 13, 281-305.
+
+[8]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.

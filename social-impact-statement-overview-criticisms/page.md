@@ -1,6 +1,7 @@
 ---
-title: "Social Impact Statement: Overview and Criticisms"
-description: "Discover how CSR and social impact statements intersect with algorithmic trading highlighting both the positive impacts and ethical challenges in modern finance."
+title: Understanding Social Impact Statements for Community Projects
+description: Social Impact Statements help leaders assess community and environmental
+  effects then plan actions to enhance benefits and reduce harm Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Soft Stop Order: Functionality and Examples"
-description: "Explore the dynamic world of soft stop orders in algo trading, offering flexibility and enhancing risk management for informed decision-making in volatile markets."
+title: Understanding Soft Stop Orders for Trading Risk Management
+description: Soft stop orders help traders manage risk and protect gains by converting
+  to market orders when price hits your threshold. Discover more inside.
 ---
 
 

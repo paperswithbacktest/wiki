@@ -81,3 +81,17 @@ Another technique is to use cost-complexity pruning, which balances the tree's c
 In a single decision tree, each node is used to make one split based on one feature. The tree grows by choosing the best split at each node to separate the data into different groups. This process continues until the tree reaches a certain depth or the data is split into small enough groups. The goal is to create a tree that can accurately predict outcomes for new data by following the paths from the root node to the leaf nodes.
 
 In contrast, ensemble methods like Random Forests use many decision trees, and each tree might use nodes differently. In a Random Forest, each tree is built on a random subset of the data and a random subset of the features. This means that the nodes in different trees might ask different questions and make different splits. By combining the predictions from all these trees, Random Forests can make more accurate predictions than a single tree. This randomness helps to find different splits that might be missed by a single tree, making the overall model better at handling complex datasets.
+
+## References & Further Reading
+
+[1]: Quinlan, J. R. (1986). ["Induction of Decision Trees."](https://link.springer.com/article/10.1007/BF00116251) Machine Learning, 1(1), 81-106.
+
+[2]: Breiman, L., Friedman, J., Stone, C. J., & Olshen, R. A. (1984). ["Classification and Regression Trees."](https://www.taylorfrancis.com/books/mono/10.1201/9781315139470/classification-regression-trees-leo-breiman-jerome-friedman-olshen-charles-stone) CRC Press.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Breiman, L. (2001). ["Random Forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine Learning, 45(1), 5-32.
+
+[5]: Quinlan, J. R. (1993). ["C4.5: Programs for Machine Learning."](https://link.springer.com/article/10.1007/BF00993309) Morgan Kaufmann Publishers.
+
+[6]: Rokach, L., & Maimon, O. (2005). ["Decision Trees."](https://link.springer.com/chapter/10.1007/0-387-25465-X_9) In Data Mining and Knowledge Discovery Handbook, Springer.

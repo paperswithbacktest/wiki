@@ -1,6 +1,7 @@
 ---
-title: "Susquehanna International Group"
-description: "Explore Susquehanna International Group a leader in algorithmic trading that leverages advanced technology for optimized operations in global financial markets."
+title: Susquehanna International Group Finance And Trading Strategies
+description: Susquehanna International Group leverages advanced math and technology
+  to optimize trading and investments across global markets Discover more inside.
 ---
 
 

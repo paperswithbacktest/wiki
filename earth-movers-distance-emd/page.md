@@ -83,3 +83,15 @@ Another advanced technique is to use "hierarchical clustering" to break down the
 Earth Mover's Distance (EMD) can be used in [deep learning](/wiki/deep-learning) models to make them work better, especially in tasks like image generation and comparison. Imagine you have a deep learning model that makes fake images, like in a generative adversarial network (GAN). EMD helps the model by figuring out how much you need to change a fake image to make it look like a real one. This is like moving dirt from one pile to another, where the least amount of work needed to move the dirt is the EMD. By using EMD, the model can learn to make better fake images that look more like real ones. For example, in a Wasserstein GAN (WGAN), the formula for the loss function is $$ \min_G \max_D \mathbb{E}_{x \sim P_r}[D(x)] - \mathbb{E}_{\tilde{x} \sim P_g}[D(\tilde{x})] $$, where $P_r$ is the real data distribution, $P_g$ is the generated data distribution, $D$ is the discriminator, and $G$ is the generator. Using EMD helps the GAN learn more smoothly and avoid problems like mode collapse, where the generator only makes a few types of images.
 
 Another way EMD can help deep learning models is in tasks like image retrieval and clustering. Imagine you have a bunch of images and you want to find the one that looks most like a given picture. EMD can help by figuring out how similar an image is to the ones in a database. When you search for an image, the model uses EMD to find images that require the least amount of "work" to match your query image. This means the retrieved images are the ones that look the most like the image you're searching for. In clustering, EMD helps by measuring how different the clusters are from the ideal groups. By using EMD, you can see how well the clustering algorithm did its job. If the EMD is small, it means the clusters are close to the ideal groups, and the algorithm worked well.
+
+## References & Further Reading
+
+[1]: Rubner, Y., Tomasi, C., & Guibas, L. J. (2000). ["The Earth Mover's Distance as a Metric for Image Retrieval."](https://link.springer.com/article/10.1023/A:1026543900054) International Journal of Computer Vision, 40(2), 99-121.
+
+[2]: Villani, C. (2008). ["Optimal Transport: Old and New."](https://link.springer.com/book/10.1007/978-3-540-71050-9) Springer.
+
+[3]: Arjovsky, M., Chintala, S., & Bottou, L. (2017). ["Wasserstein GAN."](https://arxiv.org/abs/1701.07875) arXiv:1701.07875 [stat.ML].
+
+[4]: Cuturi, M. (2013). ["Sinkhorn Distances: Lightspeed Computation of Optimal Transport."](https://dl.acm.org/doi/10.5555/2999792.2999868) Advances in Neural Information Processing Systems 26 (NIPS 2013).
+
+[5]: Santambrogio, F. (2015). ["Optimal Transport for Applied Mathematicians."](https://link.springer.com/book/10.1007/978-3-319-20828-2) Springer.

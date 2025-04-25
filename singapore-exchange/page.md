@@ -1,6 +1,7 @@
 ---
-title: "Singapore Exchange"
-description: "Explore the advanced algorithmic trading systems at the Singapore Exchange SGX offering cutting-edge solutions for global investors in Asia's financial markets."
+title: Understanding The Singapore Exchange And Its Global Role
+description: Singapore Exchange explains how to trade stocks bonds ETFs and derivatives
+  on SGX ensuring market integrity with advanced technology Discover more inside
 ---
 
 

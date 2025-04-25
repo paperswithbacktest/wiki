@@ -1,6 +1,7 @@
 ---
-title: "Sweep-To-Fill Order"
-description: "Explore the role of sweep-to-fill orders in algorithmic trading to improve execution efficiency and minimize market impact in a fragmented liquidity landscape."
+title: Understanding Sweep-To-Fill Orders for Efficient Large Trades
+description: Sweep-To-Fill Orders let traders execute large trades quickly across
+  exchanges while reducing impact and improving average price Discover more inside
 ---
 
 

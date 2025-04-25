@@ -106,3 +106,15 @@ But, not all loss functions work the same way with Full Softmax. For example, if
 One way to make Full Softmax work better is by using a technique called "numerical stability." Full Softmax can run into problems with very big or very small numbers because it uses the exponential function $e^{x_i}$. To fix this, you can subtract the biggest score from all the scores before doing the exponential part. This keeps the numbers manageable and helps the computer do the calculations more accurately. The formula for this trick is $$ \text{Softmax}(x_i) = \frac{e^{x_i - \text{max}(x)}}{\sum_{j=1}^K e^{x_j - \text{max}(x)}} $$, where $\text{max}(x)$ is the biggest score in the set. This small change can make a big difference in how well Full Softmax works.
 
 Another advanced technique is to use "adaptive learning rates" in the training process. When you train a model with Full Softmax, you can use methods like Adam or RMSprop to change the learning rate as the model learns. These methods help the model learn faster and more smoothly by adjusting how big the steps are that the model takes to improve. This can lead to better performance because the model can find the best weights more efficiently. By combining these techniques, you can make Full Softmax even more effective in your machine learning models.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z). MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[3]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.manning.com/books/deep-learning-with-python). Manning Publications.
+
+[4]: Nielsen, M. A. (2015). ["Neural Networks and Deep Learning"](http://neuralnetworksanddeeplearning.com/). Determination Press.
+
+[5]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction"](https://ieeexplore.ieee.org/document/712192). MIT Press.

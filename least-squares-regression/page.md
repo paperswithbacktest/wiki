@@ -83,3 +83,17 @@ The implications of multicollinearity for model interpretation are significant. 
 One advanced technique to improve the performance of Least Squares Regression models in complex datasets is to use polynomial regression. Instead of fitting a straight line, polynomial regression fits a curve that can better capture non-linear relationships in the data. The model becomes $$y = b_0 + b_1x + b_2x^2 + ... + b_nx^n$$, where $b_0, b_1, b_2, ..., b_n$ are the coefficients that the Least Squares method calculates to minimize the errors. This approach allows the model to fit more complex patterns in the data, making it more accurate for datasets where the relationship between the variables isn't a simple straight line.
 
 Another technique is to use regularization methods like Ridge or Lasso regression. These methods add a penalty to the coefficients to prevent the model from becoming too complex and overfitting the data. Ridge regression adds a penalty to the sum of the squares of the coefficients, making the cost function $$J(m, b) = \sum{(y_i - (mx_i + b))^2} + \lambda\sum{m^2}$$, where $\lambda$ controls the strength of the penalty. Lasso regression, on the other hand, adds a penalty to the sum of the absolute values of the coefficients, making the cost function $$J(m, b) = \sum{(y_i - (mx_i + b))^2} + \lambda\sum{|m|}$$. Both methods help the model generalize better to new data by keeping the model simpler and more interpretable.
+
+## References & Further Reading
+
+[1]: Weisberg, S. (2005). ["Applied Linear Regression (3rd Edition)"](https://onlinelibrary.wiley.com/doi/book/10.1002/0471704091). Wiley Series in Probability and Statistics.
+
+[2]: Draper, N. R., & Smith, H. (1998). ["Applied Regression Analysis (3rd Edition)"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118625590). Wiley-Interscience.
+
+[3]: Seber, G. A. F., & Lee, A. J. (2003). ["Linear Regression Analysis (2nd Edition)"](https://onlinelibrary.wiley.com/doi/book/10.1002/9780471722199). Wiley Series in Probability and Statistics.
+
+[4]: Montgomery, D. C., Peck, E. A., & Vining, G. G. (2012). ["Introduction to Linear Regression Analysis (5th Edition)"](https://archive.org/download/econometrics_books/Intro.%20to%20Linear%20Regression%20Analysis%20-%20D.%20C.%20Montgomery%2C%20E.%20A.%20Peck.pdf). Wiley.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd Edition)"](https://link.springer.com/book/10.1007/978-0-387-84858-7). Springer Series in Statistics.
+
+[6]: Kutner, M. H., Nachtsheim, C. J., Neter, J., & Li, W. (2004). ["Applied Linear Statistical Models (5th Edition)"](https://archive.org/details/appliedlinearsta0000kutn_5edi). McGraw-Hill/Irwin.

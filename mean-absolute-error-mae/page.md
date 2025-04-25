@@ -113,3 +113,15 @@ However, there are some things to keep in mind when using MAE for time series fo
 When explaining Mean Absolute Error (MAE) to people who aren't experts in machine learning, it's helpful to keep things simple. You can say that MAE shows how far off, on average, your predictions are from the real numbers. It's like guessing how many cookies are in a jar. If you guess 10 but there are really 12, your error is 2 cookies. If you do this for every guess and then find the average of all those errors, that's what MAE tells you. It's a way to see if your model is good at predicting things, and it's easy to understand because it uses the same units as your data. So, if you're predicting house prices in dollars, the MAE will also be in dollars.
 
 To make it even clearer, you could give a real-life example. Imagine you're predicting how many people will come to a party. If your model says 50 people will show up but 55 actually come, the error is 5 people. If you do this for every party and find the average error, that's your MAE. You can tell stakeholders that a lower MAE means your model is better at guessing. If the MAE is small, like 2 people, it means your predictions are usually pretty close to the real number. If it's big, like 10 people, your predictions might be off by a lot more. This way, even people who don't know much about machine learning can understand how well your model is doing.
+
+## References & Further Reading
+
+[1]: Willmott, C. J., & Matsuura, K. (2005). ["Advantages of the Mean Absolute Error (MAE) over the Root Mean Square Error (RMSE) in assessing average model performance."](https://www.int-res.com/articles/cr2005/30/c030p079.pdf) Climate Research, 30(1), 79-82.
+
+[2]: Hyndman, R. J., & Koehler, A. B. (2006). ["Another look at measures of forecast accuracy."](https://www.sciencedirect.com/science/article/pii/S0169207006000239) International Journal of Forecasting, 22(4), 679-688.
+
+[3]: ["An Introduction to Statistical Learning: with Applications in R"](https://link.springer.com/book/10.1007/978-1-0716-1418-1) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
+
+[4]: ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) by Aurélien Géron.
+
+[5]: Chai, T., & Draxler, R. R. (2014). ["Root mean square error (RMSE) or mean absolute error (MAE)?"](https://gmd.copernicus.org/articles/7/1247/2014/) Geoscientific Model Development, 7(3), 1247-1249.

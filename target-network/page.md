@@ -79,3 +79,15 @@ Another technique is to use prioritized experience replay. This means that inste
 To evaluate the use of Target Networks in different environments, you can look at how well the main network learns over time. Imagine you're trying to teach a robot to play a game. Without a Target Network, the robot might struggle because the game keeps changing quickly. But with a Target Network, the robot gets a more stable target to aim for. You can see if the robot gets better at playing the game by checking its score or how many steps it takes to finish. If the robot improves faster and more smoothly with a Target Network, it shows that the Target Network is helping.
 
 Another way to evaluate Target Networks is by comparing them to other methods, like using soft updates. Soft updates blend the weights of the main network and the Target Network slowly, like turning a dimmer switch. The formula for soft updates is $$ \theta_{\text{target}} = \tau \theta_{\text{main}} + (1 - \tau) \theta_{\text{target}} $$. In code, you might see it done like this: ```target_network.load_state_dict({name: tau * main_network.state_dict()[name] + (1 - tau) * target_network.state_dict()[name] for name in main_network.state_dict()})```. By testing both hard and soft updates in different environments, you can see which one works better. If soft updates lead to more stable and faster learning, it might be a better choice for that environment.
+
+## References & Further Reading
+
+[1]: Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Hassabis, D. (2015). ["Human-level control through deep reinforcement learning."](https://www.nature.com/articles/nature14236) Nature, 518(7540), 529-533.
+
+[2]: Lillicrap, T. P., Hunt, J. J., Pritzel, A., Heess, N., Erez, T., Tassa, Y., ... & Wierstra, D. (2015). ["Continuous control with deep reinforcement learning."](https://arxiv.org/abs/1509.02971) arXiv preprint arXiv:1509.02971.
+
+[3]: van Hasselt, H., Guez, A., & Silver, D. (2015). ["Deep reinforcement learning with double Q-learning."](https://arxiv.org/abs/1509.06461) arXiv preprint arXiv:1509.06461.
+
+[4]: Sutton, R. S., & Barto, A. G. (2018). ["Reinforcement Learning: An Introduction."](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) Second Edition, MIT Press.
+
+[5]: Silver, D., Lever, G., Heess, N., Degris, T., Wierstra, D., & Riedmiller, M. (2014). ["Deterministic policy gradient algorithms."](https://dl.acm.org/doi/10.5555/3044805.3044850) In Proceedings of the 31st International Conference on Machine Learning (ICML-14) (pp. 387-395).

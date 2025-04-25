@@ -83,3 +83,17 @@ To check if these assumptions are met, you can use a few different methods. For 
 Logistic regression can be extended to handle multiclass classification problems using two main methods: one-vs-rest (OvR) and multinomial logistic regression. In the one-vs-rest approach, you create a separate logistic regression model for each class. For example, if you're classifying types of fruits into apples, bananas, and oranges, you would train three models: one to predict if a fruit is an apple, one to predict if it's a banana, and one to predict if it's an orange. Each model treats its class as the positive outcome and all other classes as the negative outcome. To classify a new fruit, you run it through all three models and pick the class with the highest probability. The formula for the probability in each OvR model is $$P(Y=k) = \frac{1}{1 + e^{-(\beta_{k0} + \beta_{k1}x_1 + \beta_{k2}x_2 + ... + \beta_{kn}x_n)}}$$ where $$k$$ is the class being predicted.
 
 Multinomial logistic regression, on the other hand, extends logistic regression to directly handle multiple classes. Instead of creating separate models, you have one model with multiple sets of coefficients, one set for each class. The model calculates the probability of each class using the softmax function, which ensures that the probabilities for all classes add up to 1. The formula for the probability of class $$k$$ in multinomial logistic regression is $$P(Y=k) = \frac{e^{(\beta_{k0} + \beta_{k1}x_1 + \beta_{k2}x_2 + ... + \beta_{kn}x_n)}}{\sum_{j=1}^K e^{(\beta_{j0} + \beta_{j1}x_1 + \beta_{j2}x_2 + ... + \beta_{jn}x_n)}}$$ where $$K$$ is the total number of classes. To classify a new example, you choose the class with the highest probability. Both methods can effectively handle multiclass problems, but multinomial logistic regression is often preferred because it directly models the relationships between all classes.
+
+## References & Further Reading
+
+[1]: Hosmer, D. W., Lemeshow, S., & Sturdivant, R. X. (2013). ["Applied Logistic Regression"](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118548387) (3rd ed.). Wiley.
+
+[2]: Kleinbaum, D. G., & Klein, M. (2010). ["Logistic Regression: A Self-Learning Text"](https://link.springer.com/book/10.1007/978-1-4419-1742-3) (3rd ed.). Springer.
+
+[3]: Cramer, J. S. (2002). ["The Origins of Logistic Regression"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=360300). University of Amsterdam.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction"](https://link.springer.com/book/10.1007/978-0-387-84858-7) (2nd ed.). Springer.
+
+[5]: Peng, C.-Y. J., Lee, K. L., & Ingersoll, G. M. (2002). ["An Introduction to Logistic Regression Analysis and Reporting."](https://psycnet.apa.org/record/2002-18473-001) The Journal of Educational Research and Policy Studies, 7(2), 1–14.
+
+[6]: Ng, A. Y. (2004). ["Feature selection, L1 vs. L2 regularization, and rotational invariance"](https://dl.acm.org/doi/10.1145/1015330.1015435). Proceedings of the twenty-first international conference on Machine learning (ICML '04).

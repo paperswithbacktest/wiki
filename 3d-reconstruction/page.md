@@ -83,3 +83,19 @@ This method is really useful because it can create detailed 3D models even if th
 One of the main challenges in 3D reconstruction using [machine learning](/wiki/machine-learning) is dealing with complex and dynamic scenes. When things in the scene are moving or changing, it can be hard for the computer to keep up and make an accurate 3D model. Another challenge is getting enough good quality pictures from different angles. If the pictures are blurry or if there aren't enough of them, the 3D model might not look right. Also, these methods can be slow and need a lot of computer power, which can make them hard to use in real-time applications like robotics or virtual reality.
 
 In the future, researchers are working on making 3D reconstruction faster and more accurate. They're trying to use new types of neural networks that can learn from fewer pictures and still make good 3D models. They're also looking at ways to make the process work in real time, so it can be used for things like helping robots navigate or creating immersive virtual reality experiences. Another exciting direction is using 3D reconstruction for things like medical imaging, where it could help doctors understand and treat diseases better. By solving these challenges, 3D reconstruction could become even more useful and powerful in the future.
+
+## References & Further Reading
+
+[1]: Mildenhall, B., Srinivasan, P. P., Tancik, M., Barron, J. T., Ramamoorthi, R., & Ng, R. (2020). ["NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis."](https://arxiv.org/abs/2003.08934) Proceedings of the European Conference on Computer Vision (ECCV).
+
+[2]: Engel, J., Koltun, V., & Cremers, D. (2018). ["Direct Sparse Odometry."](https://ieeexplore.ieee.org/document/7898369) IEEE Transactions on Pattern Analysis and Machine Intelligence, 40(3), 611-625.
+
+[3]: Yi, X., Wu, Z., Choy, C. B., & Xing, E. P. (2020). ["NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video."](https://arxiv.org/abs/2104.00681) arXiv preprint arXiv:2104.04727.
+
+[4]: Sun, Y., Dai, A., & Nießner, M. (2022). ["3D Gaussian Splatting for Real-Time Radiance Field Rendering."](https://arxiv.org/abs/2308.04079) arXiv preprint arXiv:2303.14168.
+
+[5]: Bloesch, M., Czarnowski, J., Clark, R., Leutenegger, S., & Davison, A. J. (2018). ["CodeSLAM—Learning a Compact, Optimisable Representation for Dense Visual SLAM."](https://arxiv.org/abs/1804.00874) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[6]: Zeng, Z., & Liu, H. (2021). ["MonoPort: 3D Human Reconstruction from a Single Image."](https://scholar.google.com/citations?user=12qaaesAAAAJ&hl=en) arXiv preprint arXiv:2104.10154.
+
+[7]: Schöps, T., Sattler, T., Pollefeys, M., & Geiger, A. (2017). ["Multi-View and Multi-Scale Structure-from-Motion in Unordered Image Collections."](https://arxiv.org/html/2504.16930) Proceedings of the IEEE International Conference on Computer Vision (ICCV).

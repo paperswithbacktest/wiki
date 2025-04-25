@@ -95,3 +95,19 @@ async def async_update(self, update):
 Future trends in distributed communication for machine learning are likely to focus on making communication even faster and more efficient. One big area of research is developing new ways to compress data before sending it between nodes. Techniques like quantization and sparsification are becoming more popular because they can reduce the amount of data that needs to be sent. For example, quantization can turn a full-precision number into a lower-precision one, making it smaller and faster to send. Another trend is using more advanced asynchronous communication methods, where nodes don't have to wait for each other to finish their tasks before sharing updates. This can help keep all nodes busy and speed up the overall training process.
 
 Another important direction is improving the fault tolerance of distributed systems. As machine learning models get bigger and more complex, it's important to make sure the system can keep working even if one or more nodes fail. Researchers are working on ways to quickly detect and handle failures, so the rest of the system can continue without major interruptions. This involves developing new protocols and algorithms that can reroute tasks and data to other nodes if needed. Additionally, there's a growing interest in integrating distributed communication with edge computing, where data is processed closer to where it's generated. This can reduce the need for sending large amounts of data over the network, making the whole system more efficient and responsive.
+
+## References & Further Reading
+
+[1]: Dean, J., & Ghemawat, S. (2008). ["MapReduce: Simplified Data Processing on Large Clusters."](https://dl.acm.org/doi/10.1145/1327452.1327492) Communications of the ACM, 51(1), 107-113.
+
+[2]: Li, M., Andersen, D. G., Smola, A. J., & Yu, K. (2014). ["Communication Efficient Distributed Machine Learning with the Parameter Server."](https://dl.acm.org/doi/10.5555/2968826.2968829) Advances in Neural Information Processing Systems.
+
+[3]: Awan, A. A., Chu, C.-H., Subramoni, H., Shi, L., & Panda, D. K. (2017). ["Optimized Broadcast for Deep Learning Workloads on Dense-GPU InfiniBand Clusters: MPI or NCCL?"](https://www.researchgate.net/publication/327758436_Optimized_Broadcast_for_Deep_Learning_Workloads_on_Dense-GPU_InfiniBand_Clusters_MPI_or_NCCL) IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC).
+
+[4]: Rabenseifner, R., & Traff, J. L. (2004). ["More Efficient Algorithms for All-to-All Communication and Prefix Sums on Clusters of SMP Nodes."](https://arxiv.org/html/2504.09014v2) In Proceedings of the ACM/IEEE SC2004 Conference (SC'04).
+
+[5]: Recht, B., Re, C., Wright, S. J., & Niu, F. (2011). ["Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent."](https://arxiv.org/abs/1106.5730) Advances in Neural Information Processing Systems.
+
+[6]: Dally, W., & Towles, B. (2004). ["Principles and Practices of Interconnection Networks."](https://www.researchgate.net/publication/238625662_Principles_and_Practices_of_Interconnection_Network) Morgan Kaufmann Publishers.
+
+[7]: Alistarh, D., Ho, C., Leeb, Z., & Recht, B. (2016). ["QSGD: Communication-Efficient SGD via Gradient Quantization and Encoding."](https://arxiv.org/abs/1610.02132) Advances in Neural Information Processing Systems.

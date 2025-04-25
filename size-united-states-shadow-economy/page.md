@@ -1,6 +1,7 @@
 ---
-title: "Size Of The United States Shadow Economy"
-description: "Explore the influence of the U.S. shadow economy with insights into its size, effects on the formal market, and the role of algorithmic trading within it."
+title: Understanding the US Shadow Economy Size and Impact
+description: Shadow economy in the US drains tax revenue and hinders public services
+  while offering vital informal income options for workers Discover more inside.
 ---
 
 

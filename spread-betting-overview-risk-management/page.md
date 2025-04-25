@@ -1,6 +1,7 @@
 ---
-title: "Spread Betting: Overview and Risk Management"
-description: "Discover the interplay between spread betting and algorithmic trading with a focus on risk management. Learn strategies to safeguard investments while exploring profit opportunities."
+title: Effective Risk Management Strategies in Spread Betting
+description: Spread betting risk management uses stop loss orders hedging and technical
+  analysis to protect capital and improve trading decisions Discover more inside.
 ---
 
 

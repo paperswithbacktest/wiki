@@ -83,3 +83,15 @@ Global pooling is useful because it helps the computer focus on the most importa
 In [machine learning](/wiki/machine-learning), people are always looking for new ways to make pooling better. One big trend is trying to make pooling smarter so it can keep more important details while still making the picture smaller. Researchers are working on things like "adaptive pooling," where you can decide how big you want the picture to be after pooling. This helps keep more of the important stuff in the picture. Another trend is "spatial pyramid pooling," which looks at the picture in different sizes at the same time. This can help the computer understand both the big picture and the small details better. There's also interest in "fractional pooling," which uses windows of different sizes that can change each time, making the computer learn more about the picture without missing important parts.
 
 Looking ahead, the future of pooling in machine learning might involve even more advanced techniques. One idea is to use "learnable pooling," where the computer can decide for itself how to do the pooling based on what it's learned from the data. This could make the computer even better at understanding pictures. Another direction could be combining different types of pooling, like mixing max pooling and average pooling in new ways to get the best of both worlds. Researchers are also exploring how to use pooling in new kinds of data, like videos and 3D images, where traditional pooling might not work as well. As these new methods are developed, they could make machine learning models faster, more accurate, and able to handle more types of data.
+
+## References & Further Reading
+
+[1]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning"](https://www.nature.com/articles/nature14539). Nature, 521(7553), 436-444.
+
+[2]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks"](https://dl.acm.org/doi/10.1145/3065386). Advances in Neural Information Processing Systems.
+
+[3]: Zeiler, M. D., & Fergus, R. (2014). ["Visualizing and Understanding Convolutional Networks"](https://arxiv.org/abs/1311.2901). In European Conference on Computer Vision (pp. 818-833). Springer, Cham.
+
+[4]: Lin, M., Chen, Q., & Yan, S. (2013). ["Network In Network"](https://arxiv.org/abs/1312.4400). arXiv preprint arXiv:1312.4400.
+
+[5]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition"](https://ieeexplore.ieee.org/document/7780459). In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).

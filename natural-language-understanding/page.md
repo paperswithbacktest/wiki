@@ -81,3 +81,15 @@ Another exciting area of research is in making NLU systems more interactive and 
 NLU can be integrated with other AI technologies like computer vision and machine learning to make systems smarter and more helpful. For example, combining NLU with computer vision allows a system to understand not just what people say, but also what they see or do. If someone says, "Can you find my red shirt?" the system can use NLU to understand the request and computer vision to look for a red shirt in a video or image. This makes the system better at understanding the full context of what's happening, which can lead to more accurate and useful responses.
 
 Another way NLU can be enhanced is by using machine learning techniques like [reinforcement learning](/wiki/reinforcement-learning). This helps the system learn from its interactions with users over time. For example, if the system often gets a certain request wrong, it can learn from those mistakes and get better at understanding similar requests in the future. By combining NLU with these other AI technologies, the system can become more accurate, more helpful, and better at understanding the complex ways people communicate.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2019). ["Speech and Language Processing"](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed.). Prentice Hall.
+
+[2]: Russell, S. J., & Norvig, P. (2020). ["Artificial Intelligence: A Modern Approach"](https://api.pageplace.de/preview/DT0400.9781292401171_A41586057/preview-9781292401171_A41586057.pdf) (4th ed.). Pearson.
+
+[3]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) In Advances in Neural Information Processing Systems (NeurIPS).
+
+[4]: Young, T., Hazarika, D., Poria, S., & Cambria, E. (2018). ["Recent Trends in Deep Learning Based Natural Language Processing."](https://ieeexplore.ieee.org/abstract/document/8416973) IEEE Computational Intelligence Magazine, 13(3), 55-75.
+
+[5]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics.

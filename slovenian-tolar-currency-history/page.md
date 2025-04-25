@@ -1,6 +1,7 @@
 ---
-title: "Slovenian Tolar: Currency History"
-description: "Explore the history of the Slovenian Tolar and its impact on Slovenia's economy, along with the rise of algorithmic trading in modern financial markets."
+title: Slovenian Tolar Currency History And Economic Impact
+description: Slovenian Tolar secured economic stability in Slovenia from independence
+  through Euro adoption while revealing design evolution Discover more inside
 ---
 
 

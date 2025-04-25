@@ -98,3 +98,19 @@ Additionally, there has been significant work on addressing bias in autorater sy
 Optimizing Autorater Evaluation for large-scale machine learning deployments involves making sure the system can handle a lot of data and still give accurate ratings. One way to do this is by using distributed computing, where the work of rating and evaluating is spread out across many computers. This can help speed up the process and make sure the system can keep up with a lot of ratings coming in at once. Another way is to use efficient algorithms and data structures that can handle big data quickly. For example, you might use techniques like sampling to only look at a part of the data instead of all of it, which can make the evaluation faster without losing too much accuracy.
 
 Another important part of optimizing Autorater Evaluation for large-scale deployments is using metrics that can be calculated quickly and still give a good idea of how well the model is doing. The Pearson correlation coefficient $$ r = \frac{\sum (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum (X_i - \bar{X})^2 \sum (Y_i - \bar{Y})^2}} $$ is a good metric for this because it can be calculated efficiently even with a lot of data. You can also use techniques like online learning, where the model keeps updating itself as new data comes in. This helps the model stay accurate over time without needing to stop and retrain from scratch, which can be slow and hard to do on a large scale. By using these methods, you can make sure your Autorater Evaluation system works well even when it's handling a lot of data.
+
+## References & Further Reading
+
+[1]: Fleiss, J. L., Levin, B., & Paik, M. C. (2013). ["Statistical Methods for Rates and Proportions."](https://onlinelibrary.wiley.com/doi/book/10.1002/0471445428) John Wiley & Sons.
+
+[2]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Geisser, S. (1993). ["Predictive Inference: An Introduction."](https://www.taylorfrancis.com/books/mono/10.1201/9780203742310/predictive-inference-seymour-geisser) CRC Press.
+
+[4]: Kelleher, J. D., Namee, B. M., & D'Arcy, A. (2015). ["Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies."](https://mitpress.mit.edu/9780262029445/fundamentals-of-machine-learning-for-predictive-data-analytics/) MIT Press.
+
+[5]: Hsu, C. W., Chang, C. C., & Lin, C. J. (2003). ["A Practical Guide to Support Vector Classification."](https://www.ee.columbia.edu/~sfchang/course/spr/papers/svm-practical-guide.pdf) Department of Computer Science, National Taiwan University.
+
+[6]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.
+
+[7]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://link.springer.com/book/9780387310732) Springer.

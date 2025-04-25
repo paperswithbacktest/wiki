@@ -101,3 +101,17 @@ Another way to change Hinge Loss for more than two groups is to use something ca
 To optimize Hinge Loss in [deep learning](/wiki/deep-learning) models, one advanced technique is to use gradient descent with adaptive learning rates, like Adam or RMSprop. These methods help the model learn faster and more smoothly by adjusting the learning rate for each parameter based on how much it's changing. This can be especially helpful with Hinge Loss because it encourages the model to create a clear margin between classes. By using these adaptive methods, the model can find the best decision boundary more quickly and effectively. The formula for Hinge Loss is $$L = \max(0, 1 - y_i \cdot y)$$, where $$y_i$$ is the true label and $$y$$ is the prediction. If the prediction is correct and confident, the loss is zero, but if it's wrong or not confident enough, the loss goes up, pushing the model to improve.
 
 Another technique is to use regularization methods like L1 or L2 regularization to prevent overfitting. These methods add a penalty to the loss function to keep the model's weights from getting too big. For Hinge Loss, this can help balance the need for a wide margin with the need to avoid overfitting to the training data. By adding a regularization term to the loss function, like $$L = \max(0, 1 - y_i \cdot y) + \lambda \|w\|^2$$ for L2 regularization, the model can learn a more general decision boundary that works well on new data. This combination of Hinge Loss and regularization can make the model more robust and better at classifying different groups.
+
+## References & Further Reading
+
+[1]: Boser, B. E., Guyon, I. M., & Vapnik, V. N. (1992). ["A training algorithm for optimal margin classifiers."](https://dl.acm.org/doi/10.1145/130385.130401) Proceedings of the Fifth Annual Workshop on Computational Learning Theory.
+
+[2]: Cortes, C., & Vapnik, V. (1995). ["Support-vector networks."](https://link.springer.com/article/10.1007/BF00994018) Machine Learning, 20(3), 273–297.
+
+[3]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[4]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[5]: Schölkopf, B., & Smola, A. J. (2001). ["Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond."](https://direct.mit.edu/books/monograph/1821/Learning-with-KernelsSupport-Vector-Machines) MIT Press.
+
+[6]: Bottou, L., & Lin, C. J. (2007). ["Support Vector Machine Solvers."](https://ieeexplore.ieee.org/document/6279971) In Large Scale Kernel Machines, MIT Press.

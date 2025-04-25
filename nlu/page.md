@@ -83,3 +83,17 @@ Another important advancement is in the area of few-shot learning, where NLU sys
 To start building your own NLU model, you'll need to gather a lot of data that shows how people talk and write. This data is used to train the model so it can learn to understand language. You can find this data from places like [books](/wiki/algo-trading-books), websites, or even social media. Once you have your data, you'll need to clean it up and organize it so the computer can use it easily. This means getting rid of any mistakes or things that don't make sense. After that, you can start training your model using machine learning algorithms. Popular choices include models like BERT or other transformer models, which are good at understanding the meaning of words in context.
 
 Once your model is trained, you'll need to test it to see how well it understands language. You can do this by giving it new sentences or questions and seeing if it gets the right answers. If it doesn't do well, you might need to go back and train it some more with different data or adjust the algorithms you're using. There are also tools and libraries, like TensorFlow or PyTorch, that can help you build and test your NLU model. These tools make it easier to work with the data and the algorithms. By following these steps and keeping an eye on how your model is doing, you can build an NLU system that gets better at understanding human language over time.
+
+## References & Further Reading
+
+[1]: Jurafsky, D., & Martin, J. H. (2019). ["Speech and Language Processing"](https://web.stanford.edu/~jurafsky/slp3/) (3rd ed.). Prentice Hall. A comprehensive textbook covering fundamental concepts in NLU and NLP.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems. A seminal paper introducing the Transformer model, crucial in modern NLU.
+
+[3]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) NAACL-HLT 2019. This paper presents BERT, a breakthrough in deep learning for NLU tasks.
+
+[4]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://nlp.stanford.edu/IR-book/information-retrieval-book.html) Cambridge University Press. An essential reference on information retrieval techniques intertwined with language understanding.
+
+[5]: Goldberg, Y. (2016). ["A Primer on Neural Network Models for Natural Language Processing."](https://arxiv.org/abs/1510.00726) Journal of Artificial Intelligence Research, 57, 345-420. An insightful overview of neural models applied to NLU and NLP.
+
+[6]: ["Foundations of Statistical Natural Language Processing"](https://mitpress.mit.edu/9780262133609/foundations-of-statistical-natural-language-processing/) by Christopher D. Manning and Hinrich Schütze. An essential read providing a foundation for understanding probabilistic and statistical approaches in language processing.

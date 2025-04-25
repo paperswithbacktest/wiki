@@ -79,3 +79,15 @@ Another case study involved a medical diagnosis system for detecting a rare dise
 Future developments in [machine learning](/wiki/machine-learning) are looking at ways to make the Fraction of Successes more useful, especially when data is not balanced. One area of research is about finding new ways to adjust the Fraction of Successes so it can tell us more about how well a model is doing, even if one type of outcome is much more common. For example, researchers are working on methods to give different weights to different types of mistakes, so the Fraction of Successes can show us if a model is good at finding the less common outcomes. This could help in areas like medical diagnosis, where it's important to find the few cases of a rare disease, even if it means the Fraction of Successes is lower.
 
 Another area of research is about combining the Fraction of Successes with other metrics to get a better picture of how well a model is doing. Researchers are looking at ways to use the Fraction of Successes along with metrics like precision, recall, and the F1 score to understand different aspects of a model's performance. By doing this, they hope to create new ways to see how well a model is working in different situations. For example, if a model is trying to predict if an email is spam, using the Fraction of Successes with other metrics could help show not just how often the model is right, but also how it's doing with different types of mistakes.
+
+## References & Further Reading
+
+[1]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[2]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[3]: Sokolova, M., & Lapalme, G. (2009). ["A systematic analysis of performance measures for classification tasks."](https://www.sciencedirect.com/science/article/pii/S0306457309000259) Information Processing & Management, 45(4), 427-437.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning,"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[5]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.researchgate.net/publication/222511520_Introduction_to_ROC_analysis) Pattern Recognition Letters, 27(8), 861-874.

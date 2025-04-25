@@ -81,3 +81,21 @@ Another important step is to preprocess the webpage data more efficiently. This 
 Future trends in webpage object detection using machine learning are likely to focus on making detection faster and more accurate. One big trend is the use of more advanced [deep learning](/wiki/deep-learning) models, like those based on transformers, which can understand the context of a webpage better. These models can look at the whole page and figure out how different objects relate to each other, which can help them detect objects more accurately. Another trend is the use of federated learning, where many devices work together to train a model without sharing their data. This can help gather more data from different types of webpages and devices, making the model better at detecting objects no matter where they appear.
 
 Another research direction is improving the models to work well on different devices and screen sizes. This means making sure the detection works just as well on a phone as it does on a computer. Researchers are also looking into using more real-time data to train models, so they can keep up with changes on webpages quickly. This could involve using techniques like online learning, where the model keeps learning and improving as it sees new webpages. By focusing on these areas, future webpage object detection systems will be faster, more accurate, and easier to use on any device.
+
+## References & Further Reading
+
+[1]: Redmon, J., Divvala, S., Girshick, R., & Farhadi, A. (2016). ["You Only Look Once: Unified, Real-Time Object Detection."](https://ieeexplore.ieee.org/document/7780460) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[2]: Ren, S., He, K., Girshick, R., & Sun, J. (2016). ["Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks."](https://ieeexplore.ieee.org/document/7485869) IEEE Transactions on Pattern Analysis and Machine Intelligence.
+
+[3]: Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016). ["SSD: Single Shot MultiBox Detector."](https://arxiv.org/abs/1512.02325) Proceedings of the European Conference on Computer Vision.
+
+[4]: Dalal, N., & Triggs, B. (2005). ["Histograms of Oriented Gradients for Human Detection."](https://ieeexplore.ieee.org/abstract/document/1467360) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[6]: Chollet, F. (2017). ["Xception: Deep Learning with Depthwise Separable Convolutions."](https://ieeexplore.ieee.org/document/8099678) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[7]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[8]: Simonyan, K., & Zisserman, A. (2015). ["Very Deep Convolutional Networks for Large-Scale Image Recognition."](https://arxiv.org/abs/1409.1556) International Conference on Learning Representations.

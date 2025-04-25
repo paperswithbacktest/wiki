@@ -85,3 +85,15 @@ AutoML tools often come with pre-built models and settings that they know work w
 Experts can use advanced strategies like Bayesian optimization to fine-tune hyperparameters for optimal model performance. Bayesian optimization is a smart way to find the best settings for a machine learning model. It uses past results to make better guesses about which settings to try next. This method is like learning from experience to make smarter choices. For example, if you're using a neural network, Bayesian optimization might help you find the best learning rate and batch size more quickly than trying every possible combination. It does this by using a surrogate model, often a Gaussian process, to guess how good a setting might be before trying it. Then, it uses an acquisition function to balance exploring new areas of the setting space with exploiting the areas that seem promising. By using these steps, Bayesian optimization can find the best settings for your model more quickly than other methods.
 
 Another advanced strategy is to use ensemble methods for hyperparameter tuning. This involves training multiple models with different hyperparameters and then combining their predictions to get the best results. For example, you might train several decision trees with different maximum depths and minimum samples per leaf, and then use a method like bagging or boosting to combine their predictions. This can help you find the best settings for your model because it takes advantage of the strengths of different hyperparameter combinations. By trying different settings and combining the results, you can fine-tune your model to get the best performance possible.
+
+## References & Further Reading
+
+[1]: Bergstra, J., & Bengio, Y. (2012). ["Random Search for Hyper-Parameter Optimization."](https://dl.acm.org/doi/10.5555/2188385.2188395) Journal of Machine Learning Research, 13, 281-305.
+
+[2]: Snoek, J., Larochelle, H., & Adams, R. P. (2012). ["Practical Bayesian Optimization of Machine Learning Algorithms."](https://arxiv.org/abs/1206.2944) Advances in Neural Information Processing Systems 25.
+
+[3]: Hutter, F., Hoos, H. H., & Leyton-Brown, K. (2011). ["Sequential Model-Based Optimization for General Algorithm Configuration."](https://link.springer.com/chapter/10.1007/978-3-642-25566-3_40) In: *Lecture Notes in Computer Science*, vol 6683. Springer.
+
+[4]: Feurer, M., & Hutter, F. (2019). ["Hyperparameter Optimization."](https://link.springer.com/chapter/10.1007/978-3-030-05318-5_1) In: *Automated Machine Learning*. Springer, Cham.
+
+[5]: Provost, F., & Fawcett, T. (2013). ["Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking."](https://www.researchgate.net/publication/256438799_Data_Science_for_Business) O'Reilly Media.

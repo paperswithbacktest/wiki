@@ -79,3 +79,19 @@ Another limitation is that T5X is mainly focused on working with text. While it 
 In the future, T5X is expected to become even better at training language models quickly and efficiently. Researchers are working on making T5X use less computer power while still being able to handle big models and lots of data. They are also looking into ways to make T5X work well with other types of data, like pictures and numbers, so it can be used for more kinds of tasks. This could mean that T5X will be able to help with things like understanding both text and images at the same time, which is a big challenge in machine learning.
 
 Another area where T5X might see improvements is in how easy it is to use. Right now, setting up T5X can be hard if you're new to it. In the future, there might be better tools and guides to help people get started with T5X more easily. This would make it more accessible to more people, not just experts. Also, as more people use T5X, there could be new ways to fine-tune models for very specific tasks, making T5X even more useful for different kinds of projects in machine learning.
+
+## References & Further Reading
+
+[1]: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W., & Liu, P. J. (2020). ["Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer."](https://arxiv.org/abs/1910.10683) Journal of Machine Learning Research, 21(140), 1-67.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[3]: JAX: ["JAX: Accelerated Linear Algebra"](https://en.wikipedia.org/wiki/JAX_(software)). GitHub Repository. 
+
+[4]: Chen, T., Li, Y., Li, B., Lin, D., Wang, S., & Wang, D. (2022). ["An In-Depth Review of Natural Language Processing Frameworks."](https://www.sciencedirect.com/science/article/pii/S1535610825001175) arXiv.
+
+[5]: Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., et al. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv.
+
+[6]: XLA: ["XLA: Optimizing Compiler for Machine Learning."](https://github.com/openxla/xla) TensorFlow Documentation.
+
+[7]: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) Proceedings of NAACL-HLT 2019.

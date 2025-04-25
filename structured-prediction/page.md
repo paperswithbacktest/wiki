@@ -1,7 +1,7 @@
 ---
-title: Structured Prediction in Machine Learning Models and Applications
-description: Structured prediction applies advanced models like CRFs LTLS and deep
-  fusion networks to label sequences images and bioinformatics Discover more inside.
+title: Structured Prediction Techniques in Machine Learning
+description: Structured prediction transforms ML by accurately modeling interdependent
+  outputs in NLP computer vision and bioinformatics Discover more inside.
 ---
 
 ![Image](images/1.png)
@@ -79,3 +79,19 @@ One way to think about the computational complexity is to look at how long it ta
 In the future, we can expect structured prediction to become even better at handling complex data. One big change might be the use of more advanced deep learning models. These models can learn to understand the relationships between different parts of the data better than current methods. For example, new types of neural networks might be developed that are specifically good at tasks like predicting sentences or labeling images. This could make structured prediction models more accurate and able to handle even more complicated outputs.
 
 Another future development might be in making structured prediction models easier to use and train. Right now, these models can be hard to set up because they need to handle complex outputs. But in the future, we might see new tools and methods that make it simpler to train these models. This could mean that more people will be able to use structured prediction for different tasks, like understanding language or analyzing images. Overall, the field of structured prediction is likely to keep growing and improving, making it easier and more powerful for everyone to use.
+
+## References & Further Reading
+
+[1]: Sutton, C., & McCallum, A. (2012). ["An Introduction to Conditional Random Fields."](https://arxiv.org/abs/1011.4088) arXiv:1011.4088.
+
+[2]: Lafferty, J., McCallum, A., & Pereira, F. C. N. (2001). ["Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data."](https://dl.acm.org/doi/10.5555/645530.655813) ICML 2001.
+
+[3]: Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., & Kuksa, P. (2011). ["Natural Language Processing (Almost) from Scratch."](https://arxiv.org/abs/1103.0398) Journal of Machine Learning Research, 12, 2493-2537.
+
+[4]: LeCun, Y., Bengio, Y., & Hinton, G. (2015). ["Deep Learning."](https://www.nature.com/articles/nature14539) Nature, 521, 436-444.
+
+[5]: Zhou, Z.-H. (2012). ["Ensemble Methods: Foundations and Algorithms."](https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou) Chapman & Hall/CRC.
+
+[6]: Chen, J., & Manning, C. (2014). ["A Fast and Accurate Dependency Parser using Neural Networks."](https://aclanthology.org/D14-1082/) EMNLP 2014.
+
+[7]: Hochreiter, S., & Schmidhuber, J. (1997). ["Long Short-Term Memory."](https://dl.acm.org/doi/10.1162/neco.1997.9.8.1735) Neural Computation, 9(8), 1735-1780.

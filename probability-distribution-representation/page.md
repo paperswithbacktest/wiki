@@ -105,3 +105,15 @@ Another issue is that many deep learning models, like neural networks, don't nat
 Different ways of showing probability distributions can change how well machine learning models work. If you use a simple distribution like the normal distribution, which looks like a bell curve, it can make your model easier to understand and faster to train. The formula for the normal distribution is $$ f(x) = \frac{1}{\sqrt{2\pi\sigma^2}} e^{-\frac{(x-\mu)^2}{2\sigma^2}} $$, where $\mu$ is the mean and $\sigma$ is the standard deviation. When the data fits this distribution well, the model can make good predictions quickly. But if the real data is more complicated and doesn't fit the normal distribution, using it might make the model's predictions less accurate.
 
 On the other hand, using more complex distributions can help models handle tricky data better. For example, if you use a mixture of different distributions, like a Gaussian Mixture Model, you can capture patterns in the data that a single distribution might miss. This can make your model's predictions more accurate, but it also makes the model harder to train and can take more time. So, choosing the right way to represent probability distributions is important. It's a balance between making the model simple enough to work well and complex enough to capture the real patterns in the data.
+
+## References & Further Reading
+
+[1]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) The MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Wasserman, L. (2004). ["All of Statistics: A Concise Course in Statistical Inference."](https://link.springer.com/book/10.1007/978-0-387-21736-9) Springer.
+
+[4]: Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). ["Bayesian Data Analysis, Third Edition."](https://www.taylorfrancis.com/books/mono/10.1201/b16018/bayesian-data-analysis-david-dunson-donald-rubin-john-carlin-andrew-gelman-hal-stern-aki-vehtari) CRC Press.
+
+[5]: Rasmussen, C. E., & Williams, C. K. I. (2006). ["Gaussian Processes for Machine Learning."](https://direct.mit.edu/books/monograph/2320/Gaussian-Processes-for-Machine-Learning) The MIT Press.

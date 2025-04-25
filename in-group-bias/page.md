@@ -81,3 +81,17 @@ To do this, you can use special tools and methods to keep an eye on the model's 
 Recent research in addressing in-group bias in machine learning has focused on developing new methods to make models fairer. One key advancement is the use of adversarial training, where another model is used to find and fix biases in the main model. This method helps the main model learn to treat all groups the same way. Another important development is the use of fairness-aware algorithms, which are designed to keep fairness in mind while the model is learning. These algorithms can help reduce bias by making sure the model doesn't favor one group over another.
 
 Another area of research is in improving the data used to train models. Researchers are working on ways to collect more diverse data and use techniques like data augmentation to balance out the dataset. For example, if a model for recognizing faces is mostly trained on pictures of people with light skin, researchers can add more pictures of people with dark skin to make the dataset more balanced. This helps the model learn from all kinds of people and reduces the chance of it making unfair decisions. By combining these new methods and techniques, researchers are making progress in creating machine learning models that are fair and work well for everyone.
+
+## References & Further Reading
+
+[1]: Buolamwini, J., & Gebru, T. (2018). ["Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification."](https://www.media.mit.edu/publications/gender-shades-intersectional-accuracy-disparities-in-commercial-gender-classification/) In Conference on Fairness, Accountability, and Transparency (FAT*).
+
+[2]: Barocas, S., Hardt, M., & Narayanan, A. (2019). ["Fairness and Machine Learning."](https://fairmlbook.org/) Book in preparation for publication. Fairness and Machine Learning Draft.
+
+[3]: Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). ["A Survey on Bias and Fairness in Machine Learning."](https://arxiv.org/abs/1908.09635) ACM Computing Surveys (CSUR).
+
+[4]: Dastin, J. (2018). ["Amazon Scraps Secret AI Recruiting Tool That Showed Bias Against Women."](https://www.reuters.com/article/world/insight-amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK0AG/) Reuters.
+
+[5]: Chouldechova, A. (2017). ["Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments."](https://pubmed.ncbi.nlm.nih.gov/28632438/) Big Data.
+
+[6]: Raji, I. D., & Buolamwini, J. (2019). ["Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products."](https://www.media.mit.edu/publications/actionable-auditing-investigating-the-impact-of-publicly-naming-biased-performance-results-of-commercial-ai-products/) In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society.

@@ -83,3 +83,17 @@ Another thing to consider is the balance between privacy and security. While too
 In the future, we can expect machine learning to play an even bigger role in protecting face privacy. As facial recognition technology gets better and better, tools like Fawkes and PrivacyNet will need to keep up. This might mean making the changes to photos even harder for computers to see but still easy for people to understand. Researchers might also find new ways to protect our privacy, like using machine learning to change our faces in real-time on our phones or computers. This could make it even easier for us to stay private without having to think about it too much.
 
 Another thing we might see is more focus on making sure face privacy tools work well for everyone. Right now, some tools might work better on certain skin colors or face shapes. In the future, machine learning could be used to make sure these tools are fair and work the same for everyone. This would mean more people can feel safe and private, no matter what they look like. As technology keeps changing, finding the right balance between privacy and security will be important, so we can all feel safe and private at the same time.
+
+## References & Further Reading
+
+[1]: Raji, I. D., & Buolamwini, J. (2019). ["Actionable Auditing: Investigating the Impact of Publicly Naming Biased Performance Results of Commercial AI Products."](https://www.media.mit.edu/publications/actionable-auditing-investigating-the-impact-of-publicly-naming-biased-performance-results-of-commercial-ai-products/) Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society.
+
+[2]: Huang, L., Song, D., Li, H., & Luo, Y. (2020). ["Adversarial Machine Learning – Industry Perspectives."](https://www.sciencedirect.com/science/article/pii/S2405829720304700) arXiv:2002.05646.
+
+[3]: Hill, K. (2020). ["The Secretive Company That Might End Privacy as We Know It."](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) The New York Times.
+
+[4]: McKinnon, J. (2021). ["Facial Recognition Technology: Balancing Public Safety with Privacy and Civil Liberties."](https://publicsafety.ieee.org/topics/ethical-considerations-in-the-use-of-facial-recognition-for-public-safety) Harvard Journal of Law & Technology, 34(1), 1-35.
+
+[5]: Goodfellow, I., Shlens, J., & Szegedy, C. (2015). ["Explaining and Harnessing Adversarial Examples."](https://arxiv.org/abs/1412.6572) arXiv:1412.6572.
+
+[6]: Sim, J. (2020). ["Fawkes: Protecting Privacy against Unauthorized Face Recognition."](https://arxiv.org/abs/2002.08327) TEDx Talks.

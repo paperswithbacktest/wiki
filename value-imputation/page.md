@@ -83,3 +83,21 @@ Choosing the right machine learning algorithm depends on the type of data and th
 Handling missing data in time series can be tricky because the data points are connected over time. One advanced technique is called forward fill or backward fill. Forward fill means you take the last known value and use it for the missing ones until you get to the next known value. Backward fill is the opposite; you use the next known value to fill in the missing ones going backward. These methods work well when the missing data is short and the values don't change much over time. For example, if you're missing temperature readings for a few hours, using the last known temperature might be a good guess.
 
 Another advanced technique is using interpolation. Interpolation means you guess the missing values based on the values before and after the missing ones. A common way to do this is linear interpolation, where you draw a straight line between the known points and use that line to find the missing values. For example, if you know the temperature was 20 degrees at 1 PM and 22 degrees at 3 PM, you might guess the temperature at 2 PM was 21 degrees. More advanced interpolation methods like spline interpolation can be used if the data changes in more complicated ways. These methods can be more accurate but also more complex to set up.
+
+## References & Further Reading
+
+[1]: Little, R.J.A., & Rubin, D.B. (2002). ["Statistical Analysis with Missing Data."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119482260) Wiley-Interscience.
+
+[2]: Van Buuren, S. (2018). ["Flexible Imputation of Missing Data."](https://www.taylorfrancis.com/books/edit/10.1201/9780429492259/flexible-imputation-missing-data-second-edition-stef-van-buuren) CRC Press.
+
+[3]: Rubin, D.B. (1987). ["Multiple Imputation for Nonresponse in Surveys."](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316696) Wiley-Interscience.
+
+[4]: Schafer, J.L. (1997). ["Analysis of Incomplete Multivariate Data."](https://archive.org/details/analysisofincomp0000scha) Chapman & Hall/CRC.
+
+[5]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer Series in Statistics.
+
+[6]: ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) An open source machine learning library that provides simple and efficient tools for data mining and data analysis.
+
+[7]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825–2830.
+
+[8]: Josse, J., & Husson, F. (2016). ["missMDA: A Package for Handling Missing Values in Multivariate Data Analysis."](https://www.jstatsoft.org/article/view/v070i01) Journal of Statistical Software, 70(1), 1-31.

@@ -1,6 +1,7 @@
 ---
-title: "Skills Sought by Hedge Funds in Candidates"
-description: "Discover the key skills top hedge funds seek in candidates for algorithmic trading roles including quantitative expertise and personal traits essential for success."
+title: Essential Skills and Knowledge for Hedge Fund Careers
+description: Hedge fund roles demand solid finance fundamentals programming skills
+  paired with strong risk management and soft skills to excel Discover more inside.
 ---
 
 

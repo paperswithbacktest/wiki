@@ -85,3 +85,21 @@ Another exciting advancement is the use of neural style transfer, which can chan
 To start experimenting with image manipulation models, you first need to set up a development environment on your computer. This involves installing software that can run and test the models. You'll need Python, which is a popular programming language for machine learning, and some libraries like TensorFlow or PyTorch, which help you build and train neural networks. You can download Python from the official website and install libraries using a package manager like pip. For example, you can install TensorFlow by typing ```pip install [tensorflow](/wiki/tensorflow)``` in your command line. Once you have these tools set up, you can start writing code to manipulate images.
 
 After setting up your environment, you can begin working with image manipulation models. Start by finding or creating a dataset of images to use for training and testing. You can use online resources like Kaggle or create your own by taking photos. Then, you can write a simple script to load these images and apply basic manipulations like resizing or changing brightness. As you get more comfortable, you can move on to more advanced techniques like using GANs to generate new images. There are many tutorials and online courses that can guide you through this process, helping you understand how to use and tweak these models to achieve the results you want.
+
+## References & Further Reading
+
+[1]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems 27.
+
+[2]: He, K., Zhang, X., Ren, S., & Sun, J. (2016). ["Deep Residual Learning for Image Recognition."](https://ieeexplore.ieee.org/document/7780459) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[3]: Zhang, H., Goodfellow, I., Metaxas, D., & Odena, A. (2019). ["Self-Attention Generative Adversarial Networks."](https://arxiv.org/abs/1805.08318) Proceedings of the 36th International Conference on Machine Learning.
+
+[4]: Odena, A., Olah, C., & Shlens, J. (2017). ["Conditional Image Synthesis With Auxiliary Classifier GANs."](https://dl.acm.org/doi/10.5555/3305890.3305954) Proceedings of the 34th International Conference on Machine Learning.
+
+[5]: Gatys, L. A., Ecker, A. S., & Bethge, M. (2016). ["Image Style Transfer Using Convolutional Neural Networks."](https://ieeexplore.ieee.org/document/7780634) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[6]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ["ImageNet Classification with Deep Convolutional Neural Networks."](https://dl.acm.org/doi/10.1145/3065386) Advances in Neural Information Processing Systems 25.
+
+[7]: Chollet, F. (2017). ["Deep Learning with Python"](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[8]: Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S., Ma, S., ... & Fei-Fei, L. (2015). ["ImageNet Large Scale Visual Recognition Challenge."](https://arxiv.org/abs/1409.0575) International Journal of Computer Vision.

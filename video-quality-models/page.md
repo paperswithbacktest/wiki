@@ -87,3 +87,15 @@ Another advanced technique is using multiple metrics together to get a full pict
 Video Quality Models can be integrated into real-time video streaming applications to make sure the videos look good while they are being watched. These models work by quickly checking the quality of the video as it streams. They look at things like how clear the picture is, if the colors look right, and if the video moves smoothly. By doing this check in real-time, the model can tell the streaming service if the video needs to be fixed or if it's good enough to keep streaming. This helps make sure that viewers have a good watching experience without any annoying problems.
 
 To make this work, the Video Quality Model needs to be fast and accurate. It uses special math formulas to calculate a score that tells how good the video is. For example, a common formula used in some models is the Peak Signal-to-Noise Ratio (PSNR), which is calculated as $$ \text{PSNR} = 10 \cdot \log_{10} \left( \frac{\text{MAX}_I^2}{\text{MSE}} \right) $$. Here, MAX_I is the biggest possible pixel value in the image, and MSE is the Mean Squared Error between the original and the changed video. The model can be set up to run on the server that sends out the video or on the device that the viewer is using. By using these models, streaming services can keep their videos looking great, even as they are being watched live.
+
+## References & Further Reading
+
+[1]: Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). ["Image quality assessment: From error visibility to structural similarity."](https://ieeexplore.ieee.org/document/1284395) IEEE Transactions on Image Processing, 13(4), 600-612.
+
+[2]: Seshadrinathan, K., & Bovik, A. C. (2010). ["Temporal variation of video quality in packetized video networks."](http://live.ece.utexas.edu/publications/2010/seshadrinathan_spie_jan10.pdf) Proceedings of the Second International Workshop on Quality of Multimedia Experience, 2010, 139-144.
+
+[3]: Netflix Technology Blog. (2016). ["Toward a practical perceptual video quality metric."](https://netflixtechblog.com/toward-a-practical-perceptual-video-quality-metric-653f208b9652)
+
+[4]: Wu, H. R., & Rao, K. R. (2005). ["Digital Video Image Quality and Perceptual Coding."](https://www.taylorfrancis.com/books/edit/10.1201/9781420027822/digital-video-image-quality-perceptual-coding-makoto-miyahara-mark-fairchild-stefan-winkler-zhou-wang-jorge-caviedes-ryoichi-kawada-jeffrey-lubin-damian-marcellinus-tan-hamid-sheikh-marc-gazalet-damian-tan-wu-rao-ethan-montag-weisi-lin-franco-oberti-tao-chen-philip-corriveau-hwang-francois-xavier-coudoux-albert-pica-zhenghua-yu-michael-yuen-jian-zhang-alan-conrad-bovik-michael-isnardi) CRC Press.
+
+[5]: Mittal, A., Moorthy, A. K., & Bovik, A. C. (2012). ["No-reference image quality assessment in the spatial domain."](https://ieeexplore.ieee.org/document/6272356) IEEE Transactions on Image Processing, 21(12), 4695-4708.

@@ -1,6 +1,7 @@
 ---
-title: "S&P Global Broad Market Index Overview"
-description: "Explore how algorithmic trading enhances investment strategies with the S&P Global Broad Market Index a vital benchmark for global stock performance insights."
+title: Comprehensive Guide to the S&P Global Broad Market Index
+description: S&P Global Broad Market Index provides a clear global equity overview
+  with diverse sector insights and investment strategies Discover more inside
 ---
 
 

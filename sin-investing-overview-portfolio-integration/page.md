@@ -1,6 +1,7 @@
 ---
-title: "Sin Investing: Overview and Portfolio Integration"
-description: "Discover how sin investing can coexist with ethical portfolios using algorithmic trading Learn to balance high returns with personal values in finance"
+title: Guide to Sin Investing Risks, Benefits, and Strategies
+description: Sin investing reveals how controversial stocks in alcohol tobacco gambling
+  and weapons can boost returns and diversify your portfolio Discover more inside.
 ---
 
 

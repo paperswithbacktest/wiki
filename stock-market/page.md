@@ -1,6 +1,7 @@
 ---
-title: "Stock Market"
-description: "Explore the essentials of stocks and algorithmic trading Dive into investment strategies and discover how technology is reshaping the financial markets"
+title: Comprehensive Stock Market Guide for Beginner Investors
+description: Stock market fundamentals explained from how stocks trade to advanced
+  strategies so you can invest confidently and manage risks Discover more inside
 ---
 
 

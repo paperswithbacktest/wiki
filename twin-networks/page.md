@@ -79,3 +79,15 @@ Another modification is the use of attention mechanisms within the Twin Network 
 Future research in Twin Networks could focus on improving their ability to handle more complex data. For example, researchers might look into ways to make Twin Networks better at understanding and comparing things like videos or 3D models. This could involve new ways of turning these inputs into feature vectors that the network can compare. Another area of research could be on making Twin Networks more efficient, so they can work faster and use less computing power. This might mean finding better ways to train them, like using new kinds of loss functions or different ways of setting up the network.
 
 Another direction for research could be in making Twin Networks more adaptable to new tasks with less data. Right now, Twin Networks need a lot of examples to learn well. But if researchers can find ways to make them learn from fewer examples, like using techniques from few-shot learning or transfer learning, it would make them much more useful in real-world situations. This could involve tweaking the contrastive loss $$L = (1 - y) \cdot d^2 + y \cdot \max(0, m - d)^2$$ or the triplet loss $$L = \max(d(\text{anchor}, \text{positive}) - d(\text{anchor}, \text{negative}) + \alpha, 0)$$ to work better with less data. By focusing on these areas, researchers can make Twin Networks even more powerful and versatile for a wide range of applications.
+
+## References & Further Reading
+
+[1]: Bromley, J., Guyon, I., LeCun, Y., Sackinger, E., & Shah, R. (1994). ["Signature Verification Using a Siamese Time Delay Neural Network."](https://dl.acm.org/doi/10.5555/2987189.2987282) International Journal of Pattern Recognition and Artificial Intelligence.
+
+[2]: Koch, G., Zemel, R., & Salakhutdinov, R. (2015). ["Siamese Neural Networks for One-shot Image Recognition."](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) In ICML Deep Learning Workshop.
+
+[3]: Hadsell, R., Chopra, S., & LeCun, Y. (2006). ["Dimensionality Reduction by Learning an Invariant Mapping."](https://ieeexplore.ieee.org/abstract/document/1640964) In Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Baldi, P., & Chauvin, Y. (1993). ["Neural Networks for Fingerprint Recognition."](https://direct.mit.edu/neco/article/5/3/402/5704/Neural-Networks-for-Fingerprint-Recognition) In Neural Networks: Tricks of the Trade.
+
+[5]: LeCun, Y., & Bengio, Y. (1995). ["Convolutional Networks for Images, Speech, and Time-Series."](https://www.researchgate.net/publication/216792820_Convolutional_Networks_for_Images_Speech_and_Time-Series) In The Handbook of Brain Theory and Neural Networks.

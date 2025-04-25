@@ -1,6 +1,7 @@
 ---
-title: "Swap Spread: Applications and Example"
-description: "Discover the role of swap spreads in bond markets and algo trading Gain insights into credit risks and market liquidity for optimized investment strategies"
+title: Swap Spreads Explained with Applications in Financial Markets
+description: Swap spread shows extra yield investors demand over government bonds
+  letting you assess market risk and outlook with clear insights Discover more inside
 ---
 
 

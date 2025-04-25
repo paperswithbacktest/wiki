@@ -83,3 +83,15 @@ Another example is in technology companies, like when they want to improve their
 One of the main challenges in differential privacy research is finding the right balance between privacy and accuracy. When you add noise to protect privacy, it can make the data less useful for machine learning models. Researchers are working on new ways to add noise that keeps more of the data's usefulness while still protecting privacy. Another challenge is making differential privacy easier to use. Right now, it can be hard for people who aren't experts to understand and use differential privacy correctly. Researchers are trying to create tools and methods that make it simpler for everyone to use differential privacy in their work.
 
 In the future, differential privacy research might focus on improving the techniques for adding noise. For example, researchers might look into better ways to use the privacy budget, which is measured by a number called epsilon ($$ \epsilon $$). They might also explore new methods for adding noise that work better with different types of data and machine learning models. Another direction could be developing better ways to measure how much privacy is protected and how accurate the results are. This could help people make better decisions about how much noise to add and how to balance privacy and accuracy in their specific situations.
+
+## References & Further Reading
+
+[1]: Dwork, C., & Roth, A. (2014). ["The Algorithmic Foundations of Differential Privacy."](https://dl.acm.org/doi/10.1561/0400000042) Foundations and Trends in Theoretical Computer Science, 9(3–4), 211–407.
+
+[2]: Abadi, M., Chu, A., Goodfellow, I., McMahan, H. B., Mironov, I., Talwar, K., & Zhang, L. (2016). ["Deep Learning with Differential Privacy."](https://arxiv.org/abs/1607.00133) In Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security.
+
+[3]: McSherry, F. D., & Talwar, K. (2007). ["Mechanism Design via Differential Privacy."](https://ieeexplore.ieee.org/document/4389483) In Proceedings of the 48th Annual IEEE Symposium on Foundations of Computer Science (FOCS).
+
+[4]: Erlingsson, Ú., Pihur, V., & Korolova, A. (2014). ["RAPPOR: Randomized Aggregatable Privacy-Preserving Ordinal Response."](https://arxiv.org/abs/1407.6981) In Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications Security.
+
+[5]: Mironov, I. (2012). ["On Significance of the Least Significant Bits for Differential Privacy."](https://dl.acm.org/doi/10.1145/2382196.2382264) In Proceedings of the 2012 ACM Conference on Computer and Communications Security.

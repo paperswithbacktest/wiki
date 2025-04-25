@@ -1,6 +1,7 @@
 ---
-title: "Soft Dollars in Finance"
-description: "Explore the intersection of soft dollars and algorithmic trading in finance Learn how these strategies shape modern investment landscapes and optimize returns"
+title: Soft Dollars in Finance A Comprehensive Investment Guide
+description: Soft dollars enable firms to fund research and data from client commissions
+  for smarter investing with transparency and compliance Discover more inside
 ---
 
 

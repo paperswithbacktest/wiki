@@ -83,3 +83,17 @@ Another limitation is that Lit is still a relatively new tool, so it might not h
 In the future, the machine learning community expects Lit to become even more user-friendly and powerful. One big enhancement could be better support for different types of data and models. For example, Lit might add more tools to handle things like audio or video data, making it easier to build models for tasks like speech recognition or video classification. Another expected development is improved integration with other popular machine learning tools and frameworks. This would make it easier to use Lit alongside other tools you might already be using, like scikit-learn or PyTorch, allowing you to switch between them smoothly.
 
 Another area where Lit could see improvements is in its ability to help users understand and explain their models. The community hopes that Lit will add more advanced visualization and interpretation tools. These tools could help you see not just which parts of the input your model focuses on, but also why it makes certain decisions. This would be really helpful for making sure your model is fair and unbiased, and for explaining its predictions to others. As Lit continues to grow, these enhancements could make it an even more valuable tool for both beginners and experts in machine learning.
+
+## References & Further Reading
+
+[1]: Abadi, M., Barham, P., Chen, J., & others (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1605.08695) In 12th {USENIX} Symposium on Operating Systems Design and Implementation ({OSDI} 16) (pp. 265-283).
+
+[2]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.manning.com/books/deep-learning-with-python) Manning Publications.
+
+[3]: Olah, C. (2015). ["Understanding LSTM Networks."](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) Colah's Blog.
+
+[4]: Vaswani, A., Shazeer, N., Parmar, N., & others (2017). ["Attention Is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems 30.
+
+[5]: McKinney, W. (2010). ["Data Structures for Statistical Computing in Python."](https://www.researchgate.net/publication/265001241_Data_Structures_for_Statistical_Computing_in_Python) In Proceedings of the 9th Python in Science Conference.
+
+[6]: Zhou, V. (2021). ["Bert: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) arXiv preprint arXiv:1810.04805.

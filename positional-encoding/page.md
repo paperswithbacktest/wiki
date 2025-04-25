@@ -81,3 +81,17 @@ Another alternative approach is the use of rotary positional encodings, which co
 Future research on positional encoding might focus on making it work better with very long sequences. Right now, the original method using sine and cosine functions, where the formula is $$PE_{(pos, 2i)} = \sin\left(\frac{pos}{10000^{2i/d_{\text{model}}}}\right)$$ for even dimensions and $$PE_{(pos, 2i+1)} = \cos\left(\frac{pos}{10000^{2i/d_{\text{model}}}}\right)$$ for odd dimensions, can struggle with long texts. Researchers might come up with new ways to capture the relationships between words that are far apart. They could also try mixing fixed and learned encodings, letting the model start with a basic encoding and then learn to adjust it during training. This could help the model understand long sequences better and perform well on tasks like summarizing long documents.
 
 Another area for improvement could be making positional encoding more flexible and adaptable to different tasks. Right now, choosing between fixed and learned encodings can be tricky, and neither method might be perfect for every situation. Future research might develop new methods that can automatically adjust to the specific needs of different tasks. For example, they could use relative positional encoding, which looks at how far apart words are from each other, or rotary positional encodings, which combine fixed and learned methods by embedding positional information into the attention mechanism. These new approaches could help transformer models work better on a wider range of tasks and handle different types of data more effectively.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://aclanthology.org/N19-1423/) Proceedings of NAACL-HLT.
+
+[3]: Shaw, P., Uszkoreit, J., & Vaswani, A. (2018). ["Self-Attention with Relative Position Representations."](https://arxiv.org/abs/1803.02155) Proceedings of NAACL-HLT 2018.
+
+[4]: Press, O., & Wolf, L. (2016). ["Using the Output Embedding to Improve Language Models."](https://arxiv.org/abs/1608.05859) Proceedings of the 15th Conference of the European Chapter of the Association for Computational Linguistics.
+
+[5]: Gehring, J., Auli, M., Grangier, D., Yarats, D., & Dauphin, Y. N. (2017). ["Convolutional Sequence to Sequence Learning."](https://arxiv.org/abs/1705.03122) Proceedings of the 34th International Conference on Machine Learning.
+
+[6]: Tay, Y., Dehghani, M., Bahri, D., & Metzler, D. (2020). ["Efficient Transformers: A Survey."](https://arxiv.org/abs/2009.06732) ACM Computing Surveys.

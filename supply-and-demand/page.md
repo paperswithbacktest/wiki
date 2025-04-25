@@ -1,6 +1,7 @@
 ---
-title: "Supply and Demand"
-description: "Explore price theory, market equilibrium, and algorithmic trading to understand their roles in economics and modern financial markets, enhancing trading efficiency."
+title: Supply and Demand Fundamentals for Market Equilibrium
+description: Supply and Demand shape market prices by balancing availability and desire
+  while shifts in curves modify equilibrium and value. Discover more inside
 ---
 
 

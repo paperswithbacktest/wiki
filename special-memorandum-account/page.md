@@ -1,6 +1,7 @@
 ---
-title: "Special Memorandum Account"
-description: "Explore key aspects of algorithmic trading integrate finance technology and data to enhance trading strategies and improve market efficiency with algo trading"
+title: Maximizing Buying Power With a Special Memorandum Account
+description: Special Memorandum Account boosts buying power by leveraging gains and
+  tracking excess equity under margin rules while managing risk. Discover more inside.
 ---
 
 

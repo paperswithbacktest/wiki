@@ -1,6 +1,7 @@
 ---
-title: "Standard Deviation in Finance"
-description: Understand the vital role of standard deviation in financial analysis and algorithmic trading. This essential statistical measure indicates market volatility, helping traders assess risk and forecast price movements. Learn how Python and its libraries like NumPy and Pandas can compute standard deviation, aiding in developing strategies using tools like Bollinger Bands for more informed trading decisions.
+title: Understanding Standard Deviation in Financial Analysis and Risk
+description: Standard deviation reveals investment risks by quantifying return volatility
+  and guiding portfolio diversification and option pricing Discover more inside.
 ---
 
 

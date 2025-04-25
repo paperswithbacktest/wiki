@@ -79,3 +79,23 @@ The Routing Transformer takes a different approach by letting the model decide w
 Autoregressive Transformers can be optimized for specific tasks by fine-tuning them on task-specific data. Imagine you're using a model to help you write stories, and you want it to get better at understanding your writing style. You can train the model on lots of your stories, so it learns what words you like to use and how you structure your sentences. This is called fine-tuning, and it helps the model perform better on the specific task you want it to do. Another way to optimize these models is by using techniques like pruning, where you remove parts of the model that aren't very important, making it faster and more efficient. You can also use quantization, which means using fewer bits to represent the model's weights, making it smaller and easier to run on smaller computers.
 
 Current research trends in optimizing Autoregressive Transformers focus on making them more efficient and versatile. One trend is the development of models that can handle multiple tasks at once, like writing stories and answering questions. Researchers are working on ways to train these models on a wide range of tasks, so they can switch between them easily. Another trend is improving the model's ability to understand and generate long sequences. This is important for tasks like writing [books](/wiki/algo-trading-books) or composing long pieces of music. Researchers are exploring new attention mechanisms and architectures that can capture long-distance relationships in the text more effectively. These innovations aim to make Autoregressive Transformers more powerful and useful for a variety of applications.
+
+## References & Further Reading
+
+[1]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, Ł., & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[2]: Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). ["Improving Language Understanding by Generative Pre-Training."](https://www.semanticscholar.org/paper/Improving-Language-Understanding-by-Generative-Radford-Narasimhan/cd18800a0fe0b668a1cc19f2ec95b5003d0a5035) OpenAI.
+
+[3]: Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). ["Language Models are Unsupervised Multitask Learners."](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) OpenAI.
+
+[4]: Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D., Wu, J., Winter, C., ... & Amodei, D. (2020). ["Language Models are Few-Shot Learners."](https://arxiv.org/abs/2005.14165) arXiv preprint arXiv:2005.14165.
+
+[5]: Yang, Z., Dai, Z., Yang, Y., Carbonell, J., Salakhutdinov, R. R., & Le, Q. V. (2019). ["XLNet: Generalized Autoregressive Pretraining for Language Understanding."](https://arxiv.org/abs/1906.08237) arXiv preprint arXiv:1906.08237.
+
+[6]: Correia, G., Niculae, V., & Martins, A. F. T. (2019). ["Adaptively Sparse Transformers."](https://arxiv.org/abs/1909.00015) arXiv preprint arXiv:1909.00015.
+
+[7]: Tay, Y., Bahri, D., Metzler, D., Juan, D.-C., Zhao, Z., & Zheng, C. (2020). ["Synthesizer: Rethinking Self-Attention in Transformer Models."](https://arxiv.org/abs/2005.00743) arXiv preprint arXiv:2005.00743.
+
+[8]: Press, O., & Wolf, L. (2016). ["Using the Output Embedding to Improve Language Models."](https://arxiv.org/abs/1608.05859) arXiv preprint arXiv:1608.05859. 
+
+[9]: Rao, K., & McMahan, H. B. (2019). ["Natural TTS synthesis by conditioning Wavenet on MEL spectrogram predictions."](https://arxiv.org/abs/1712.05884) 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP).

@@ -89,3 +89,15 @@ Another advanced technique is using cross-validation to make sure your model wor
 DataFrames are very helpful when you want to use them with machine learning libraries like scikit-learn or TensorFlow. For example, with scikit-learn, you can easily split your DataFrame into training and testing sets. You do this by using `from sklearn.model_selection import train_test_split` and then `X_train, X_test, y_train, y_test = train_test_split(df.drop('target', axis=1), df['target'], test_size=0.2)`. This code takes your DataFrame and splits it so you can train your model on some of the data and test it on the rest. After splitting, you can use the data to fit your model, like a Random Forest or a Linear Regression model, and then make predictions. You can also use DataFrames to calculate how well your model is doing by using metrics like accuracy or F1 score.
 
 When working with TensorFlow, DataFrames can be used to prepare your data before feeding it into the model. You can convert your DataFrame to a TensorFlow dataset using `tf.data.Dataset.from_tensor_slices((df.drop('target', axis=1).values, df['target'].values))`. This makes it easy to use your data in TensorFlow's pipeline for training and evaluation. DataFrames also help you preprocess your data, like normalizing or scaling your features, which is important for neural networks. For example, you can use `df['feature'] = (df['feature'] - df['feature'].mean()) / df['feature'].std()` to standardize a column. By using DataFrames to organize and preprocess your data, you can make sure your machine learning models work better and are easier to build.
+
+## References & Further Reading
+
+[1]: Reback, J., McKinney, W., jbrockmendel, Van den Bossche, J., Augspurger, T., Cloud, P., ... & Hawkins, S. (2022). ["pandas: powerful Python data analysis toolkit."](https://www.semanticscholar.org/paper/pandas-dev-pandas%3A-Pandas-1.1.2-Reback-McKinney/f805ad0154937f6f7df6349b8f64ed6212ee9a16) Pandas Documentation.
+
+[2]: Wickham, H., & Grolemund, G. (2016). ["R for Data Science: Import, Tidy, Transform, Visualize, and Model Data."](https://r4ds.hadley.nz/) O'Reilly Media.
+
+[3]: Wes McKinney (2017). ["Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython."](https://wesmckinney.com/book/) O'Reilly Media.
+
+[4]: Lantz, B. (2019). ["Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition."](https://books.google.com/books/about/Machine_Learning_with_R.html?id=iNuSDwAAQBAJ) Packt Publishing.
+
+[5]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646) O'Reilly Media.

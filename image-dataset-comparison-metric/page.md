@@ -81,3 +81,19 @@ Another way to check the robustness of a metric is to see how it handles changes
 In specialized domains like medical imaging, advanced techniques for comparing image datasets often involve using deep learning models that are trained specifically for medical images. These models can learn to focus on important features like tumors, organs, or blood vessels, which are crucial for doctors to see. For example, a deep learning model might be trained to compare MRI scans of the brain to see if there are any changes in the size or shape of a tumor over time. By using a neural network, we can create a custom metric that gives a score based on how the model sees the images. This can be more useful than traditional metrics like Mean Squared Error (MSE) or Peak Signal-to-Noise Ratio (PSNR) because it can understand the images in a way that's closer to how doctors do. The formula for this could be something like $$ \text{Similarity}(x, y) = 1 - \frac{\|\text{feature_vector}(x) - \text{feature_vector}(y)\|}{\max(\|\text{feature_vector}(x)\|, \|\text{feature_vector}(y)\|)} $$, where $\text{feature_vector}(x)$ and $\text{feature_vector}(y)$ are the feature vectors of images $x$ and $y$.
 
 Another advanced technique is to use registration methods, which align images to make them easier to compare. In medical imaging, this is important because images might be taken at different times or from different angles. By aligning the images, we can see if there are any changes in the patient's condition more clearly. For example, if we are comparing two CT scans of the lungs, we can use registration to make sure the images are lined up correctly before we compare them. This helps us see if there are any new growths or changes in the lung tissue. These advanced techniques help doctors make better decisions by giving them more accurate and detailed information about the images they are looking at.
+
+## References & Further Reading
+
+[1]: Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). ["Image quality assessment: from error visibility to structural similarity."](https://ieeexplore.ieee.org/document/1284395) IEEE Transactions on Image Processing, 13(4), 600-612.
+
+[2]: Hore, A., & Ziou, D. (2010). ["Image quality metrics: PSNR vs. SSIM."](https://ieeexplore.ieee.org/document/5596999) 2010 20th International Conference on Pattern Recognition. 
+
+[3]: Bovik, A. C. (2013). ["The Essential Guide to Image Processing."](https://www.sciencedirect.com/book/9780123744579/the-essential-guide-to-image-processing) Academic Press.
+
+[4]: Gonzalez, R. C., & Woods, R. E. (2007). ["Digital Image Processing."](https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/013168728X) Prentice Hall.
+
+[5]: Zhang, L., Zhang, L., Mou, X., & Zhang, D. (2011). ["FSIM: A feature similarity index for image quality assessment."](https://ieeexplore.ieee.org/document/5705575) IEEE Transactions on Image Processing, 20(8), 2378-2386.
+
+[6]: Huynh-Thu, Q., & Ghanbari, M. (2008). ["Scope of validity of PSNR in image/video quality assessment."](https://digital-library.theiet.org/doi/10.1049/el%3A20080522) Electronics Letters, 44(13), 800-801.
+
+[7]: Mittal, A., Moorthy, A. K., & Bovik, A. C. (2012). ["No-reference image quality assessment in the spatial domain."](https://ieeexplore.ieee.org/document/6272356) IEEE Transactions on Image Processing, 21(12), 4695-4708.

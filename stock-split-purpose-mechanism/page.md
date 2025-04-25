@@ -1,6 +1,7 @@
 ---
-title: "Stock Split: Definition, Purpose, and Mechanism"
-description: "Explore the strategic role of stock splits in finance as companies increase share numbers and decrease prices to maintain market capitalization. Discover how stock splits enhance marketability by appealing to broader investor bases and stimulating liquidity. This article investigates into the impacts on shareholders, corporate financials, and algorithmic trading. Gain insights into leveraging these financial moves for informed investment strategies while anticipating market reactions and understanding the psychological and practical implications of stock splits."
+title: Comprehensive Guide to Stock Splits and Investor Impact
+description: Stock Splits boost share affordability and liquidity by lowering per-share
+  price without altering value boosting investor access Discover more inside.
 ---
 
 

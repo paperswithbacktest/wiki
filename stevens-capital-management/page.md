@@ -1,6 +1,8 @@
 ---
-title: "Stevens Capital Management"
-description: "Stevens Capital Management is a leader in algorithmic trading using advanced quantitative models and AI to revolutionize and enhance trading efficiency globally."
+title: Stevens Capital Management Comprehensive Investment Services
+description: Stevens Capital Management builds personalized investment strategies
+  and monitors portfolios to grow assets securely and achieve goals Discover more
+  inside
 ---
 
 

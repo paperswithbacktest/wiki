@@ -1,6 +1,7 @@
 ---
-title: "Stock Market Close and After-Hours Trading"
-description: "Explore the intricacies of after-hours trading and algorithmic strategies that optimize post-market decisions. Learn how technology shapes trading beyond closing hours."
+title: Understanding After Hours Stock Trading and Market Risks
+description: After Hours Trading lets investors buy and sell stocks beyond regular
+  hours with increased volatility and lower liquidity Discover more inside
 ---
 
 

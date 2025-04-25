@@ -1,6 +1,7 @@
 ---
-title: "Significance of the Dow Jones Industrial Average"
-description: "Explore the impact of algorithmic trading on the Dow Jones. Understand how algo trading influences stock market dynamics and investment strategies."
+title: Comprehensive Guide to the Dow Jones Industrial Average Index
+description: Dow Jones Industrial Average tracks 30 major US companies to gauge market
+  health and explains its calculation and composition Discover more inside.
 ---
 
 

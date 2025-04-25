@@ -111,3 +111,15 @@ def recall_at_k(relevant_items, predicted_items, k):
     relevant_in_top_k = set(relevant_items) & set(predicted_items[:k])
     return len(relevant_in_top_k) / len(relevant_items)
 ```
+
+## References & Further Reading
+
+[1]: Manning, C. D., Raghavan, P., & Schütze, H. (2008). ["Introduction to Information Retrieval."](https://www.cambridge.org/highereducation/books/introduction-to-information-retrieval/669D108D20F556C5C30957D63B5AB65C) Cambridge University Press.
+
+[2]: Koren, Y., Bell, R., & Volinsky, C. (2009). ["Matrix Factorization Techniques for Recommender Systems."](https://ieeexplore.ieee.org/abstract/document/5197422) IEEE Computer, 42(8): 30-37.
+
+[3]: Ricci, F., Rokach, L., & Shapira, B. (2015). ["Recommender Systems Handbook."](https://link.springer.com/book/10.1007/978-1-0716-2197-4) Springer.
+
+[4]: Hu, Y., Koren, Y., & Volinsky, C. (2008). ["Collaborative Filtering for Implicit Feedback Datasets."](http://yifanhu.net/PUB/cf.pdf) In Proceedings of the 2008 Eighth IEEE International Conference on Data Mining (pp. 263-272).
+
+[5]: He, X., Liao, L., Zhang, H., Nie, L., Hu, X., & Chua, T. S. (2017). ["Neural Collaborative Filtering."](https://arxiv.org/abs/1708.05031) In Proceedings of the 26th International Conference on World Wide Web (pp. 173-182).

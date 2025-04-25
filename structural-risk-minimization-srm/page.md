@@ -1,7 +1,7 @@
 ---
-title: Structural Risk Minimization For Optimal Model Generalization
-description: Structural Risk Minimization balances fit and complexity with VC dimension
-  penalties to boost generalization on unseen data Discover more inside
+title: Structural Risk Minimization In Machine Learning Models
+description: Structural Risk Minimization balances model fit and complexity to enhance
+  generalization through a VC dimension penalty Discover more inside
 ---
 
 ![Image](images/1.png)
@@ -122,3 +122,15 @@ Another challenge is that SRM requires organizing models into a structure where 
 Structural Risk Minimization (SRM) works well with other machine learning techniques like regularization and cross-validation. Regularization is a way to prevent overfitting by adding a penalty to the model's complexity, similar to what SRM does. In SRM, the penalty is based on the VC dimension, which measures how complex a model can be. Regularization often uses a different way to measure complexity, like the size of the model's parameters. By using both SRM and regularization together, you can find a model that fits the training data well but isn't too complex. The formula for SRM's total risk is $$ R_{\text{total}} = R_{\text{empirical}} + \lambda \cdot \text{VC dimension} $$, where $$ R_{\text{empirical}} $$ is how well the model fits the training data, $$ \lambda $$ is a parameter that controls how much we care about the complexity, and VC dimension is the complexity of the model. Regularization adds a similar penalty to the empirical risk, helping to find a good balance.
 
 Cross-validation is another technique that works well with SRM. Cross-validation is a way to test how well a model works on new data by splitting the training data into different parts and using some parts to train the model and other parts to test it. This helps to make sure the model will work well on new data, which is what SRM aims to do. By using cross-validation, you can see how different models perform on different parts of the data, and then use SRM to pick the model that has the best balance between fitting the training data and not being too complex. This way, SRM and cross-validation together help you find a model that generalizes well to new data, avoiding the problem of overfitting.
+
+## References & Further Reading
+
+[1]: Vapnik, V. (1998). ["Statistical Learning Theory."](https://link.springer.com/book/10.1007/978-1-4757-3264-1) Wiley-Interscience.
+
+[2]: Cortes, C., & Vapnik, V. (1995). ["Support-Vector Networks."](https://link.springer.com/article/10.1007/BF00994018) Machine Learning, 20(3), 273–297.
+
+[3]: Schölkopf, B., & Smola, A. J. (2002). ["Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond."](https://direct.mit.edu/books/monograph/1821/Learning-with-KernelsSupport-Vector-Machines) MIT Press.
+
+[4]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[5]: Burges, C. J. C. (1998). ["A Tutorial on Support Vector Machines for Pattern Recognition."](https://link.springer.com/article/10.1023/A:1009715923555) Data Mining and Knowledge Discovery, 2, 121–167.

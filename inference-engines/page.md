@@ -83,3 +83,19 @@ Using edge computing also helps save bandwidth and protect privacy. When data st
 In the future, inference engines are expected to become even more efficient and powerful. One big trend is the increased use of edge computing, where the engine processes data right on the device instead of sending it to a distant server. This makes the engine faster and more reliable, especially in places with poor internet. Another trend is the development of more advanced quantization and compression techniques. These will make models even smaller and faster, so they can run smoothly on devices like phones and smart cameras. Researchers are also working on new ways to make models more accurate without making them bigger, which will help inference engines give better results.
 
 Another important trend is the rise of specialized hardware like neural processing units (NPUs) and tensor processing units (TPUs). These chips are designed to run machine learning models quickly and efficiently, which will make inference engines work better on all kinds of devices. There's also a growing focus on privacy and security, with more inference engines being designed to process data without sending it over the internet. This is important for things like health apps and smart home devices, where keeping data private is crucial. Overall, these trends will make inference engines faster, more accurate, and more secure, helping them work better in more places and situations.
+
+## References & Further Reading
+
+[1]: Wu, B., & Leng, C. (2016). ["Quantized Convolutional Neural Networks for Mobile Devices."](https://arxiv.org/abs/1512.06473) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+
+[2]: Han, S., Mao, H., & Dally, W. J. (2016). ["Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization, and Huffman Coding."](https://arxiv.org/abs/1510.00149) arXiv preprint arXiv:1510.00149.
+
+[3]: Lane, N. D., Bhattacharya, S., Mathur, A., Boran, A., & Forlivesi, C. (2016). ["Squeezing Deep Learning into Mobile and Embedded Devices."](https://ieeexplore.ieee.org/document/7994570) IEEE Pervasive Computing.
+
+[4]: Ragan-Kelley, J., Barnes, C., Adams, A., Paris, S., Amano, T., & Durand, F. (2013). ["Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines."](https://dl.acm.org/doi/abs/10.1145/2499370.2462176) ACM SIGPLAN Notices.
+
+[5]: Cheng, Y., Wang, D., Zhou, P., & Zhang, T. (2018). ["Model Compression and Acceleration for Deep Neural Networks: The Principles, Progress, and Challenges."](https://arxiv.org/abs/1710.09282) IEEE Signal Processing Magazine.
+
+[6]: ["Mobile Deep Learning: A Deep Learning SDK of TensorFlow Lite"](https://codezup.com/deploy-deep-learning-models-on-mobile-with-tensorflow-lite-guide/), TensorFlow Lite Documentation.
+
+[7]: He, Y., Zhang, X., & Sun, J. (2017). ["Channel Pruning for Accelerating Very Deep Neural Networks."](https://arxiv.org/abs/1707.06168) Proceedings of the IEEE International Conference on Computer Vision.

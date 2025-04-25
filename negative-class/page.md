@@ -79,3 +79,21 @@ To handle this, models in multi-class classification use different ways to tell 
 One of the current research trends in machine learning is improving how models handle the negative class, especially in imbalanced datasets. Researchers are working on new ways to make sure models don't miss examples from the negative class. One popular method is called focal loss, which helps the model focus more on hard-to-classify examples. Focal loss adjusts the weights of the loss function so that the model pays more attention to the examples it often gets wrong, which can be important for the negative class. Another trend is using generative models like GANs (Generative Adversarial Networks) to create more examples of the minority class, helping the model learn better from fewer examples.
 
 Another area of focus is developing better evaluation metrics that give a clearer picture of how well the model is doing with the negative class. Traditional metrics like accuracy can be misleading when the classes are imbalanced, so researchers are looking at metrics like the Area Under the Precision-Recall Curve (AUPRC). The AUPRC is good because it focuses on the model's performance on the positive class while still considering the negative class. The formula for AUPRC is calculated by integrating the precision and recall at different thresholds, and it can be expressed as $$ \text{AUPRC} = \int_{0}^{1} \text{precision}(\text{recall}) \, d\text{recall} $$. By using these advanced metrics, researchers can better understand and improve the model's performance on the negative class, leading to more reliable models in real-world applications.
+
+## References & Further Reading
+
+[1]: Japkowicz, N., & Stephen, S. (2002). ["The class imbalance problem: A systematic study."](https://dl.acm.org/doi/10.5555/1293951.1293954) Intelligent Data Analysis, 6(5), 429-449.
+
+[2]: Chawla, N. V., Bowyer, K. W., Hall, L. O., & Kegelmeyer, W. P. (2002). ["SMOTE: synthetic minority over-sampling technique."](https://arxiv.org/abs/1106.1813) Journal of Artificial Intelligence Research, 16, 321-357.
+
+[3]: He, H., & Garcia, E. A. (2009). ["Learning from imbalanced data."](https://ieeexplore.ieee.org/document/5128907) IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+
+[4]: Sun, Y., Wong, A. K., & Wang, Y. (2009). ["Parameter inference of Bayesian classifiers based on noisy data sets."](https://www.researchgate.net/profile/Andrew-Wong-43/publication/263913891_Classification_of_imbalanced_data_a_review/links/550e28780cf212874167e2af/Classification-of-imbalanced-data-a-review.pdf) IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 39(5), 1246-1266.
+
+[5]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning"](https://link.springer.com/article/10.1007/s10710-017-9314-z) (Section 5.7 on binary classification). MIT Press. 
+
+[6]: Powers, D. M. W. (2011). ["Evaluation: From Precision, Recall and F-Measure to ROC, Informedness, Markedness & Correlation."](https://arxiv.org/abs/2010.16061) Journal of Machine Learning Technologies, 2(1), 37-63.
+
+[7]: Fawcett, T. (2006). ["An introduction to ROC analysis."](https://www.sciencedirect.com/science/article/pii/S016786550500303X) Pattern Recognition Letters, 27(8), 861-874.
+
+[8]: Saito, T., & Rehmsmeier, M. (2015). ["The precision-recall plot is more informative than the ROC plot when evaluating binary classifiers on imbalanced datasets."](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0118432) PLOS ONE, 10(3), e0118432.

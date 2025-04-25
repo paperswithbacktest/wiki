@@ -1,6 +1,7 @@
 ---
-title: "Single Monthly Mortality: Overview and Mechanism"
-description: "Understand Single Monthly Mortality to assess prepayment risk in mortgage-backed securities. Gain insights into SMM's role in investment strategies and algorithmic trading."
+title: Understanding Single Monthly Mortality in Mortgage-Backed Securities
+description: Single Monthly Mortality shows how quickly loans in mortgage-backed securities
+  are paid or defaulted enabling investors to predict cash flow Discover more
 ---
 
 

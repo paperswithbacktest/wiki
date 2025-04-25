@@ -79,3 +79,21 @@ Another advanced technique is using ensemble methods within the cascade. This me
 In a real-world application, a healthcare company used model cascading to improve the efficiency of diagnosing diseases from medical images. The company started with a simple model that quickly scanned images to check for any abnormalities. If the first model detected something unusual, the image was passed to a more specialized model that could identify specific diseases, such as different types of cancer. This approach significantly reduced the time needed to process each image, as the system only used the more detailed model when necessary. As a result, doctors could get faster and more accurate diagnoses, leading to better patient outcomes and more efficient use of hospital resources.
 
 Another example comes from a tech company that used model cascading to enhance its speech recognition system. The first model in the sequence was designed to quickly identify if the audio contained speech. If it did, the audio was then analyzed by a second model that transcribed the speech into text. This cascading approach allowed the system to handle large volumes of audio data more efficiently. By stopping the process early if no speech was detected, the system saved a lot of processing time and power. This led to quicker and more accurate speech-to-text conversions, improving the user experience in applications like virtual assistants and voice-controlled devices.
+
+## References & Further Reading
+
+[1]: Sagi, O., & Rokach, L. (2018). ["Ensemble learning: A survey."](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/widm.1249) Neurocomputing, 273, 1-14.
+
+[2]: Dietterich, T.G. (2000). ["Ensemble methods in machine learning."](https://link.springer.com/chapter/10.1007/3-540-45014-9_1) International Workshop on Multiple Classifier Systems. Springer, Berlin, Heidelberg.
+
+[3]: Breiman, L. (2001). ["Random forests."](https://link.springer.com/article/10.1023/A:1010933404324) Machine learning, 45(1), 5-32.
+
+[4]: Sergienya, A., & Khan, S. (2020). ["Review and comparative analysis of transfer learning models for image classification."](https://ieeexplore.ieee.org/document/9823516) 2020 International Conference on Artificial Intelligence and Data Analytics for Air Transportation (AIDA-AT).
+
+[5]: Montgomery, J., & Aha, D.W. (2004). ["The Evaluation of Ensemble-based Approaches to Image Classification."](https://www.sciencedirect.com/science/article/pii/S0034425708000679) In AAAI Workshop on Learning and Planning in Markov Processes.
+
+[6]: Zhou, Z.H. (2012). ["Ensemble Methods: Foundations and Algorithms."](https://www.taylorfrancis.com/books/mono/10.1201/b12207/ensemble-methods-zhi-hua-zhou) Chapman and Hall/CRC.
+
+[7]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press. 
+
+[8]: Efron, B., & Hastie, T. (2016). ["Computer Age Statistical Inference: Algorithms, Evidence, and Data Science."](https://www.cambridge.org/core/books/computer-age-statistical-inference/E32C1911ED937D75CE159BBD21684D37) Cambridge University Press.

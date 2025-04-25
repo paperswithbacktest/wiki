@@ -169,3 +169,17 @@ When using TF.Layers for transfer learning, it's important to decide which parts
 for layer in base_model.layers:
     layer.trainable = False
 ```. By doing this, you can make your model work well on your new task without starting from scratch.
+
+## References & Further Reading
+
+[1]: Abadi, M., Barham, P., Chen, J., Chen, Z., Davis, A., Dean, J., ... & Zheng, X. (2016). ["TensorFlow: A System for Large-Scale Machine Learning."](https://arxiv.org/abs/1603.04467) In OSDI (Vol. 16, pp. 265-283).
+
+[2]: Chollet, F. (2017). ["Deep Learning with Python."](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438) Manning Publications.
+
+[3]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://www.deeplearningbook.org/) MIT Press.
+
+[4]: Geron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.academia.edu/43840124/Hands_On_Machine_Learning_with_Scikit_Learn_Keras_and_TensorFlow_SECOND_EDITION_Concepts_Tools_and_Techniques_to_Build_Intelligent_Systems) O'Reilly Media.
+
+[5]: Olah, C. (2015). ["Understanding Convolutional Neural Networks for NLP."](https://dennybritz.com/posts/wildml/understanding-convolutional-neural-networks-for-nlp/) Colah's Blog.
+
+[6]: Zhou, Z. H. (2021). ["Machine Learning."](https://link.springer.com/book/10.1007/978-981-15-1967-3) Springer.

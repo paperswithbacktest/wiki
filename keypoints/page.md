@@ -81,3 +81,19 @@ Another advanced use of keypoints is in healthcare. Doctors can use keypoint det
 To make keypoint detection better in busy scenes, you can use deep learning. Deep learning helps computers learn from lots of pictures, so they can find keypoints even when things are hard to see. For example, if a picture has many people moving around, deep learning can help the computer focus on the right keypoints for each person. Another way to improve accuracy is by using more data to train the computer. The more pictures the computer sees, the better it gets at finding keypoints in different situations. Also, using special tricks like [data augmentation](/wiki/data-augmentation), where you change the pictures a bit to make more examples, can help the computer learn to handle different lighting or angles.
 
 Another important thing to do is to use better algorithms that can handle complex scenes. Algorithms like OpenPose are good at finding keypoints on people, even if they are partly hidden or moving fast. These algorithms use something called convolutional neural networks (CNNs) to look at the whole picture and find keypoints accurately. By combining these advanced algorithms with lots of training data and smart tricks, computers can get much better at finding keypoints in busy scenes. This makes it easier for them to understand what's going on in pictures or videos, even when things are complicated.
+
+## References & Further Reading
+
+[1]: Lowe, D. G. (1999). ["Object recognition from local scale-invariant features."](https://ieeexplore.ieee.org/document/790410) Proceedings of the International Conference on Computer Vision, 2, 1150-1157.  
+
+[2]: Bay, H., Tuytelaars, T., & Van Gool, L. (2006). ["SURF: Speeded Up Robust Features."](https://www.sciencedirect.com/science/article/pii/S1077314207001555) European Conference on Computer Vision.
+
+[3]: Rublee, E., Rabaud, V., Konolige, K., & Bradski, G. (2011). ["ORB: An efficient alternative to SIFT or SURF."](https://ieeexplore.ieee.org/document/6126544) 2011 IEEE International Conference on Computer Vision.
+
+[4]: Cao, Z., Simon, T., Wei, S. E., & Sheikh, Y. (2017). ["Realtime multi-person 2D pose estimation using part affinity fields."](https://ieeexplore.ieee.org/document/8765346) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.  
+
+[5]: Toshev, A., & Szegedy, C. (2014). ["DeepPose: Human pose estimation via deep neural networks."](https://ieeexplore.ieee.org/document/6909610) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.  
+
+[6]: Yi, F., Lei, J., Ke, G., & Fan, L. (2021). ["Keypoint Detection for Human Activity Recognition by Using Deep Neural Networks."](https://dl.acm.org/doi/abs/10.1145/3731596) IEEE Access.  
+
+[7]: Fischler, M. A., & Bolles, R. C. (1981). ["Random Sample Consensus: A Paradigm for Model Fitting with Applications to Image Analysis and Automated Cartography."](https://dl.acm.org/doi/10.1145/358669.358692) Communications of the ACM.

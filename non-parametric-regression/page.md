@@ -109,3 +109,25 @@ However, non-parametric regression methods also have some limitations. They ofte
 To evaluate the performance of different non-parametric regression models, you can use several methods. One common way is to split your data into a training set and a test set. You use the training set to build your model, and then you use the test set to see how well the model predicts new data. A good way to measure how well the model is doing is to look at the mean squared error (MSE), which is the average of the squared differences between the predicted values and the actual values. The formula for MSE is $$ \text{MSE} = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 $$, where $$ y_i $$ is the actual value, $$ \hat{y}_i $$ is the predicted value, and $$ n $$ is the number of observations. A smaller MSE means the model is doing a better job at predicting the data.
 
 Another way to evaluate non-parametric regression models is to use cross-validation. This method involves dividing your data into several parts, or folds. You then train the model on all but one of these folds and test it on the remaining fold. You repeat this process, using each fold as the test set once, and then average the results. This helps you see how well the model performs across different parts of the data. You can also look at other metrics like the mean absolute error (MAE) or the coefficient of determination (R-squared) to get a fuller picture of how well your model is doing. By comparing these metrics across different models, you can choose the one that best fits your data and your needs.
+
+## References & Further Reading
+
+[1]: Rasmussen, C. E., & Williams, C. K. I. (2006). ["Gaussian Processes for Machine Learning."](https://www.scirp.org/reference/referencespapers?referenceid=1792317) MIT Press.
+
+[2]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning."](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf) Springer.
+
+[3]: Hastie, T., Tibshirani, R., & Friedman, J. (2009). ["The Elements of Statistical Learning: Data Mining, Inference, and Prediction."](https://link.springer.com/book/10.1007/978-0-387-84858-7) Springer.
+
+[4]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective."](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) MIT Press.
+
+[5]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning: With Applications in R."](https://link.springer.com/book/10.1007/978-1-0716-1418-1) Springer.
+
+[6]: Vapnik, V. N. (1998). ["Statistical Learning Theory."](https://link.springer.com/book/10.1007/978-1-4757-3264-1) Wiley.
+
+[7]: Schölkopf, B., & Smola, A. J. (2002). ["Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond."](https://direct.mit.edu/books/monograph/1821/Learning-with-KernelsSupport-Vector-Machines) MIT Press.
+
+[8]: Friedman, J. H., & Silverman, B. W. (1989). ["Flexible Parsimonious Smoothing and Additive Modeling."](https://sites.stat.washington.edu/courses/stat527/s14/readings/FriedmanSilverman1989.pdf) Technometrics, 31(1), 3-21.
+
+[9]: Altman, N. S. (1992). ["An Introduction to Kernel and Nearest-Neighbor Nonparametric Regression."](https://www.tandfonline.com/doi/abs/10.1080/00031305.1992.10475879) The American Statistician, 46(3), 175-185.
+
+[10]: Hastie, T., & Tibshirani, R. (1986). ["Generalized Additive Models."](https://www.jstor.org/stable/2245459) Statistical Science, 1(3), 297-310.

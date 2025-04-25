@@ -83,3 +83,17 @@ Multilingual models take this a step further by learning to translate between ma
 Machine translation can have ethical issues and biases that come from the data it uses to learn. If the data has mistakes or is not fair, the translations can be wrong or biased too. For example, if the data has more examples of men in certain jobs, the machine might always translate job titles to be male. This can make the translations unfair and not represent everyone equally. Also, machine translation might not work as well for languages that don't have a lot of data, which can leave out people who speak those languages.
 
 Another ethical problem is privacy. When people use machine translation, they might share personal or sensitive information. If the system doesn't keep this information safe, it can be a big problem. Also, machine translation can sometimes change the meaning of what someone says, especially if the text has special meanings or cultural references. This can lead to misunderstandings or even harm if the translation is used in important situations like legal or medical settings. It's important for people who make these systems to think about these issues and try to make them fair and safe for everyone.
+
+## References & Further Reading
+
+[1]: Koehn, P. (2009). ["Statistical Machine Translation."](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5) Cambridge University Press.
+
+[2]: Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). ["Attention is All You Need."](https://arxiv.org/abs/1706.03762) Advances in Neural Information Processing Systems.
+
+[3]: Bahdanau, D., Cho, K., & Bengio, Y. (2015). ["Neural Machine Translation by Jointly Learning to Align and Translate."](https://arxiv.org/abs/1409.0473) International Conference on Learning Representations.
+
+[4]: Sutskever, I., Vinyals, O., & Le, Q. V. (2014). ["Sequence to Sequence Learning with Neural Networks."](https://arxiv.org/abs/1409.3215) Advances in Neural Information Processing Systems.
+
+[5]: Wu, Y., Schuster, M., Chen, Z., Le, Q. V., Norouzi, M., Macherey, W., ... & Dean, J. (2016). ["Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation."](https://arxiv.org/abs/1609.08144) arXiv preprint arXiv:1609.08144.
+
+[6]: Toral, A., & Sánchez-Cartagena, V. M. (2017). ["A Multifaceted Evaluation of Neural versus Phrase-Based Machine Translation for 9 Language Directions."](https://aclanthology.org/E17-1100/) European Chapter of the Association for Computational Linguistics.

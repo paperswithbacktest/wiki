@@ -85,3 +85,17 @@ Another case study involved predicting customer churn for a telecom company. The
 One advanced technique for optimizing the use of derived labels in complex models is through the use of ensemble methods. Ensemble methods combine multiple models to improve prediction accuracy. For example, you can create different derived labels and train separate models on each of these labels. Then, you can use techniques like bagging or boosting to combine the predictions from these models. This approach helps capture different aspects of the data and can lead to more robust and accurate predictions. By using derived labels in this way, you can tailor the model to better understand complex relationships in the data, making it more effective for your specific goals.
 
 Another technique is to use dimensionality reduction methods like Principal Component Analysis (PCA) or t-SNE (t-Distributed Stochastic Neighbor Embedding) to optimize derived labels. These methods can help you identify the most important features in your data and create derived labels that focus on these key aspects. For instance, after applying PCA, you might find that certain combinations of original variables are particularly important for your prediction task. You can then create derived labels based on these combinations, which can simplify the data and improve model performance. By using these advanced techniques, you can make your derived labels more effective and enhance the overall performance of your machine learning models.
+
+## References & Further Reading
+
+[1]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://books.google.com/books/about/Hands_On_Machine_Learning_with_Scikit_Le.html?id=HHetDwAAQBAJ). O'Reilly Media.
+
+[3]: Murphy, K. P. (2012). ["Machine Learning: A Probabilistic Perspective"](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf). The MIT Press.
+
+[4]: ["Feature Engineering and Selection: A Practical Approach for Predictive Models"](http://www.feat.engineering/) by Max Kuhn and Kjell Johnson
+
+[5]: ["Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking"](https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323) by Foster Provost and Tom Fawcett
+
+[6]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). ["An Introduction to Statistical Learning"](https://link.springer.com/book/10.1007/978-1-0716-1418-1). Springer.

@@ -81,3 +81,15 @@ Another important way to evaluate word embeddings is through analogy tasks. Thes
 Word embeddings are really helpful for sentiment analysis, which is about figuring out if people like or dislike something based on what they write. Imagine you're looking at reviews for a new phone. With word embeddings, you can turn words like "good," "bad," "love," and "hate" into numbers that a computer can understand. These numbers show how the words relate to each other. For example, if "good" and "great" often appear together, their vectors will be similar. By using these vectors, a computer can add up the feelings in a review and decide if it's positive or negative. This makes sentiment analysis more accurate and helps businesses understand what customers think about their products.
 
 Word embeddings also make machine translation better. When translating from one language to another, it's important to understand the meaning of words and how they relate to each other. For instance, if you're translating from English to Spanish, knowing that "king" is to "man" as "queen" is to "woman" can help the computer figure out the right word to use. This relationship can be shown with word vectors, like $$ \text{king} - \text{man} + \text{woman} \approx \text{queen} $$. By using word embeddings, the translation software can better understand the context and nuances of language, leading to more accurate translations. This makes it easier for people to communicate across different languages.
+
+## References & Further Reading
+
+[1]: Mikolov, T., Chen, K., Corrado, G., & Dean, J. (2013). ["Efficient Estimation of Word Representations in Vector Space."](https://arxiv.org/abs/1301.3781) arXiv preprint arXiv:1301.3781.
+
+[2]: Pennington, J., Socher, R., & Manning, C. D. (2014). ["GloVe: Global Vectors for Word Representation."](https://aclanthology.org/D14-1162/) Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP).
+
+[3]: Bojanowski, P., Grave, E., Joulin, A., & Mikolov, T. (2017). ["Enriching Word Vectors with Subword Information."](https://aclanthology.org/Q17-1010/) Transactions of the Association for Computational Linguistics, 5, 135-146.
+
+[4]: Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). ["BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding."](https://arxiv.org/abs/1810.04805) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+[5]: Goldberg, Y., & Levy, O. (2014). ["word2vec Explained: deriving Mikolov et al.'s negative-sampling word-embedding method."](https://arxiv.org/abs/1402.3722) arXiv preprint arXiv:1402.3722.

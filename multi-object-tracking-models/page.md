@@ -85,3 +85,19 @@ LMOT, or Long-term MOT, focuses more on handling long-term dependencies. It reme
 TraDeS, or Tracking and Detection in a Single Shot, improves tracking by combining detection and tracking into one step. This makes it faster and more accurate because it doesn't have to switch between different tasks. TraDeS uses a special method called "center-based tracking" to follow objects. Instead of looking at the whole shape of an object, it just focuses on the center point. This helps TraDeS keep track of objects even when they turn or change how they look. By doing everything at once, TraDeS can handle tricky situations better and make fewer mistakes.
 
 CTracker, JLA, GSR-Baseline, and CRTracker each use different advanced techniques to enhance tracking performance. CTracker uses a method called "correlation-based tracking" to follow objects. It looks at how similar an object looks from one frame to the next, which helps it keep track of objects even if they move around a lot. JLA, or Joint Learning for Association, improves tracking by learning how to match detections to tracks better. It uses a special algorithm to make smart guesses about which detection belongs to which object, even when things get complicated. GSR-Baseline, or Graph-based Similarity Reasoning, uses a graph to connect detections and tracks over time. This helps it understand the relationships between objects and follow them more accurately. CRTracker, or Cascade Regression Tracker, uses a step-by-step approach to refine its tracking. It starts with a rough guess and then makes it more and more accurate, which helps it handle difficult situations like occlusions and changes in appearance.
+
+## References & Further Reading
+
+[1]: Bewley, A., Ge, Z., Ott, L., Ramos, F., & Upcroft, B. (2016). ["Simple online and real-time tracking."](https://arxiv.org/abs/1602.00763) 2016 IEEE International Conference on Image Processing (ICIP).
+
+[2]: Bochinski, E., Senst, T., & Sikora, T. (2017). ["High-Speed Tracking-by-Detection Without Using Image Information."](https://ieeexplore.ieee.org/abstract/document/8078516) International Workshop on Traffic and Street Surveillance for Safety and Security at CVPR.
+
+[3]: Wojke, N., Bewley, A., & Paulus, D. (2017). ["Simple online and realtime tracking with a deep association metric."](https://ieeexplore.ieee.org/document/8296962) 2017 IEEE International Conference on Image Processing (ICIP).
+
+[4]: Zhang, Y., Wang, C., Wang, X., Zeng, W., & Liu, W. (2021). ["FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking."](https://arxiv.org/abs/2004.01888) International Journal of Computer Vision.
+
+[5]: Bergmann, P., Meinhardt, T., & Leal-Taixé, L. (2019). ["Tracking without bells and whistles."](https://arxiv.org/abs/1903.05625) Proceedings of the IEEE International Conference on Computer Vision.
+
+[6]: Zhou, X., Wang, D., & Krähenbühl, P. (2020). ["Tracking Objects as Points."](https://arxiv.org/abs/2004.01177) Proceedings of the European Conference on Computer Vision.
+
+[7]: Chu, P., & Ling, H. (2019). ["FAMNet: Joint learning of feature, affinity and multi-dimensional assignment for online multi-object tracking."](https://alzres.biomedcentral.com/counter/pdf/10.1186/s13195-025-01717-7.pdf) Proceedings of the IEEE International Conference on Computer Vision.

@@ -112,3 +112,21 @@ print(counts)
 ```
 
 This code creates a simple quantum circuit and runs it on a simulator. As quantum technology improves, more tools and libraries will become available, making it easier to experiment with quantum methods in machine learning.
+
+## References & Further Reading
+
+[1]: Biamonte, J., Wittek, P., Pancotti, N., Rebentrost, P., Wiebe, N., & Lloyd, S. (2017). ["Quantum machine learning."](https://arxiv.org/abs/1611.09347) Nature, 549(7671), 195-202.
+
+[2]: Schuld, M., & Petruccione, F. (2018). ["Supervised Learning with Quantum Computers"](https://link.springer.com/book/10.1007/978-3-319-96424-9). Springer.
+
+[3]: Ciliberto, C., Herbster, M., Ialongo, A. D., Pontil, M., Rocchetto, A., Severini, S., & Wossnig, L. (2018). ["Quantum machine learning: a classical perspective."](https://arxiv.org/abs/1707.08561) Proceedings of the Royal Society A, 474(2209), 20170551.
+
+[4]: Arunachalam, S., & de Wolf, R. (2017). ["A Survey of Quantum Learning Theory,"](https://arxiv.org/abs/1701.06806) arXiv:1701.06806.
+
+[5]: Rebentrost, P., Mohseni, M., & Lloyd, S. (2014). ["Quantum support vector machine for big data classification"](https://arxiv.org/abs/1307.0471). Physical Review Letters, 113(13), 130503.
+
+[6]: Dunjko, V., & Briegel, H. J. (2018). ["Machine learning & artificial intelligence in the quantum domain: a review of recent progress"](https://pubmed.ncbi.nlm.nih.gov/29504942/). Reports on Progress in Physics, 81(7), 074001.
+
+[7]: Harrow, A. W., Hassidim, A., & Lloyd, S. (2009). ["Quantum algorithm for linear systems of equations."](https://link.aps.org/doi/10.1103/PhysRevLett.103.150502) Physical Review Letters, 103(15), 150502.
+
+[8]: McClean, J. R., Romero, J., Babbush, R., & Aspuru-Guzik, A. (2016). ["The theory of variational hybrid quantum-classical algorithms"](https://arxiv.org/abs/1509.04279). NPJ Quantum Information, 2(1), 1-11.

@@ -1,6 +1,8 @@
 ---
-title: "Swap Network Overview and Functionality"
-description: "Discover how swap networks and algorithmic trading revolutionize risk management in the financial market enhancing efficiency, strategic positioning, and liquidity control."
+title: Secure Atomic Cryptocurrency Swaps on Swap Network
+description: Swap Network simplifies cryptocurrency trading with atomic swaps for
+  secure and direct exchanges across diverse tokens active voice and low fees Discover
+  more inside.
 ---
 
 

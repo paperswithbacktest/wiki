@@ -1,6 +1,7 @@
 ---
-title: "Supply Shock and Its Causes"
-description: "Explore the intricate relationship between supply shocks and algorithmic trading in modern financial markets. Understand how unexpected events impact product supply and price volatility while assessing the role of automated trading systems in stabilizing or exacerbating market conditions. Gain insights into navigating economic disruptions for sustained resilience and informed decision-making."
+title: Understanding Supply Shocks And Their Economic Impacts
+description: Supply shocks shift supply and demand curves driving price inflation
+  unemployment growth fluctuations Explore risk management tactics Discover more inside
 ---
 
 

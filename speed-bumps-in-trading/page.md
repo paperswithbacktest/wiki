@@ -1,6 +1,7 @@
 ---
-title: "Speed Bumps in Trading"
-description: "Explore how speed bumps in algorithmic trading create fairer markets by mitigating high-frequency trading advantages and promoting stability and liquidity."
+title: Speed Bumps Promote Fairness and Stability in Financial Trading
+description: Speed bumps in trading introduce brief delays to curb high frequency
+  advantages and create a fairer market for smaller investors Discover more inside
 ---
 
 

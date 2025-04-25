@@ -81,3 +81,19 @@ Another challenge is that even though ViP-DeepLab is good at understanding image
 In the future, we can expect models like ViP-DeepLab to get even better at guessing how far away things are in pictures. One big improvement could be making them need less training data. Right now, these models need a lot of pictures to learn from, but new ways of teaching them might let them learn well with fewer images. Another exciting development could be making them work better in all kinds of scenes, not just the ones they were trained on. This would make them more useful in places like self-driving cars, where the scenes can change a lot.
 
 Also, we might see these models become more accurate and faster. New ideas in how the models look at pictures and learn from them could help them make better guesses about depth. For example, using even smarter ways to look at images, like combining vision permutation with other methods, could make the depth maps more precise. And as computers get faster, these models might be able to work in real-time, making them useful for things like virtual reality where quick responses are important.
+
+## References & Further Reading
+
+[1]: Eigen, D., Puhrsch, C., & Fergus, R. (2014). ["Depth Map Prediction from a Single Image using a Multi-Scale Deep Network."](https://arxiv.org/abs/1406.2283) Advances in Neural Information Processing Systems 27.
+
+[2]: Laina, I., Rupprecht, C., Belagiannis, V., Tombari, F., & Navab, N. (2016). ["Deeper Depth Prediction with Fully Convolutional Residual Networks."](https://arxiv.org/abs/1606.00373) 2016 Fourth International Conference on 3D Vision (3DV).
+
+[3]: Godard, C., Mac Aodha, O., Firman, M., & Brostow, G.J. (2019). ["Digging into Self-Supervised Monocular Depth Estimation."](https://arxiv.org/abs/1806.01260) Proceedings of the IEEE International Conference on Computer Vision (ICCV).
+
+[4]: Ranftl, R., Bochkovskiy, A., & Koltun, V. (2021). ["Vision Transformers for Dense Prediction."](https://arxiv.org/abs/2103.13413) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[5]: Geiger, A., Lenz, P., Stiller, C., & Urtasun, R. (2013). ["Vision meets Robotics: The KITTI Dataset."](https://journals.sagepub.com/doi/full/10.1177/0278364913491297) The International Journal of Robotics Research.
+
+[6]: Silberman, N., Hoiem, D., Kohli, P., & Fergus, R. (2012). ["Indoor Segmentation and Support Inference from RGBD Images."](https://link.springer.com/chapter/10.1007/978-3-642-33715-4_54) Advances in Neural Information Processing Systems 25.
+
+[7]: Dosovitskiy, A., Beyer, L., Kolesnikov, A., Weissenborn, D., Zhai, X., Unterthiner, T., ... & Houlsby, N. (2020). ["An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale."](https://arxiv.org/abs/2010.11929) arXiv:2010.11929.

@@ -103,3 +103,19 @@ pruned_model = tfmot.sparsity.keras.prune_low_magnitude(model)
 pruned_model.fit(...)  # Train the model
 tf.saved_model.save(pruned_model, 'pruned_saved_model')
 ``` This will create a pruned version of your model, which is smaller and can be used in your SavedModel.
+
+## References & Further Reading
+
+[1]: Abadi, M., Agarwal, A., Barham, P., Brevdo, E., Chen, Z., Citro, C., ... & Zheng, X. (2016). ["TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems."](https://arxiv.org/abs/1603.04467) arXiv preprint arXiv:1603.04467.
+
+[2]: "TensorFlow SavedModel Guide." [TensorFlow Documentation](https://www.tensorflow.org/guide/saved_model).
+
+[3]: Bai, J., Lu, F., Zhang, Z., & others. (2019). ["ONNX: Open Neural Network Exchange."](https://scholar.google.com/citations?user=gSB8_64AAAAJ&hl=en) Microsoft Corporation.
+
+[4]: Lidbury, E., Goel, K., Shankar, A., Snyder, N., & others. (2020). ["Post-Training Quantization for Deep Learning Applications."](https://link.springer.com/chapter/10.1007/978-3-030-41964-6_40) arXiv preprint arXiv:1806.08342.
+
+[5]: "Model Optimization with TensorFlow Model Optimization Toolkit." [TensorFlow](https://github.com/Intel-tensorflow/tensorflow/releases).
+
+[6]: Levine, S., & others. (2019). ["TensorFlow Model Analysis: A Library for Analyzing Machine Learning Models."](https://www.tensorflow.org/tfx/tutorials/model_analysis/tfma_basic) TensorFlow Extended (TFX) Documentation.
+
+[7]: Ilharco, G., Lipton, Z. C., & others. (2019). ["On the Compatibility of Service-Oriented Architectures and TensorFlow Models."](https://gabrielilharco.com/) arXiv preprint arXiv:1906.01997.

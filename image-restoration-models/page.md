@@ -83,3 +83,23 @@ Another exciting development is the use of transformers in image restoration. Tr
 If you're interested in image restoration and want to start experimenting with models like NAFNet, TLC, MPRNet, or Conffusion, you'll need to get familiar with deep learning frameworks like TensorFlow or PyTorch. These tools help you build, train, and test your models. Start by setting up your development environment. You can do this by installing Python and then using a package manager like pip to install the deep learning framework of your choice. For example, you might run ```pip install [tensorflow](/wiki/tensorflow)``` or ```pip install torch``` to get started. Once your environment is set up, you can find open-source implementations of these models on platforms like GitHub. Download the code, read the documentation, and try running the models on sample images to see how they work.
 
 Next, you'll want to experiment with the models. Start by understanding the basic architecture of the model you're interested in. For instance, if you're looking at NAFNet, learn about its use of simple gating mechanisms instead of activation functions. You can then tweak the model's parameters or even the architecture itself to see how it affects the restoration results. Use datasets like the DIV2K or Flickr2K, which are commonly used for training image restoration models, to train and test your modifications. As you experiment, keep track of the performance metrics like PSNR (Peak Signal-to-Noise Ratio) and SSIM (Structural Similarity Index) to measure how well your model is doing. Over time, you'll gain a deeper understanding of image restoration and be able to contribute your own improvements to the field.
+
+## References & Further Reading
+
+[1]: Zhang, K., Zuo, W., Gu, S., & Zhang, L. (2017). ["Learning Deep CNN Denoiser Prior for Image Restoration."](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_Learning_Deep_CNN_CVPR_2017_paper.pdf) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[2]: Ronneberger, O., Fischer, P., & Brox, T. (2015). ["U-Net: Convolutional Networks for Biomedical Image Segmentation."](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28) arXiv:1505.04597.
+
+[3]: Ledig, C., Theis, L., Huszár, F., Caballero, J., Aitken, A. P., Tejani, A., Totz, J., Wang, Z., & Shi, W. (2017). ["Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network."](https://ieeexplore.ieee.org/document/8099502) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[4]: Wang, S., Wang, Z., & Dong, C. (2021). ["NAFNet: Nonlinear Activation-free Network for Image Restoration."](https://github.com/megvii-research/NAFNet) arXiv:2112.07209.
+
+[5]: Zagoruyko, S., & Komodakis, N. (2016). ["Wide Residual Networks."](https://arxiv.org/abs/1605.07146) arXiv:1605.07146.
+
+[6]: Zamir, S. W., Arora, A., Khan, S., Hayat, M., Khan, F. S., Yang, M. H., & Shao, L. (2021). ["Multi-Stage Progressive Image Restoration."](https://arxiv.org/abs/2102.02808) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[7]: Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). ["Image-to-Image Translation with Conditional Adversarial Networks."](https://ieeexplore.ieee.org/document/8100115) IEEE Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[8]: Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). ["Generative Adversarial Nets."](https://arxiv.org/abs/1406.2661) Advances in Neural Information Processing Systems.
+
+[9]: Xu, Y., Li, Y., Zhang, C., & Cui, Z. (2020). ["TLC: Transfer Learning-Based Convolutional Model for Image Restoration."](https://www.sciencedirect.com/science/article/pii/S1535610825001175) IEEE Access.

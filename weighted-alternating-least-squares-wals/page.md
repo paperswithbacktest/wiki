@@ -81,3 +81,15 @@ Another way to use WALS with other methods is in a system called ensemble learni
 Current research in WALS is focusing on making it work better with even bigger and messier data. One trend is to use WALS with [deep learning](/wiki/deep-learning) to improve recommendation systems. For example, researchers are trying to combine WALS with neural networks to capture more complex patterns in user behavior. This can help make recommendations more accurate by considering not just what users have done in the past, but also how they might change over time. Another trend is to make WALS faster and more scalable. This involves using new techniques like parallel processing and distributed computing to handle huge amounts of data more efficiently. By doing this, WALS can be used in more real-world applications where data is constantly growing and changing.
 
 Looking to the future, WALS might be used in even more areas of machine learning. One direction is to use WALS for tasks beyond recommendation systems, like in natural language processing or image recognition. For example, WALS could help break down large matrices of text or image data into smaller parts, making it easier to find patterns and make predictions. Another future direction is to make WALS more adaptable to different types of data. This means finding ways to automatically set the weights and the number of factors based on the data itself, so WALS can work well with any kind of dataset without a lot of manual tuning. By doing this, WALS could become a more flexible and powerful tool in machine learning.
+
+## References & Further Reading
+
+[1]: Hu, Y., Koren, Y., & Volinsky, C. (2008). ["Collaborative Filtering for Implicit Feedback Datasets."](http://yifanhu.net/PUB/cf.pdf) IEEE International Conference on Data Mining.
+
+[2]: Zhou, Y., Wilkinson, D., Schreiber, R., & Pan, R. (2008). ["Large-Scale Parallel Collaborative Filtering for the Netflix Prize."](https://www.researchgate.net/profile/Robert-Schreiber-6/publication/220788980_Large-Scale_Parallel_Collaborative_Filtering_for_the_Netflix_Prize/links/00b7d5213e07f3dbcc000000/Large-Scale-Parallel-Collaborative-Filtering-for-the-Netflix-Prize.pdf) Proceedings of the 4th international conference on Algorithmic Aspects in Information and Management.
+
+[3]: Takács, G., Pilászy, I., Németh, B., & Tikk, D. (2009). ["Scalable Collaborative Filtering Approaches for Large Recommender Systems."](https://jmlr.csail.mit.edu/papers/volume10/takacs09a/takacs09a.pdf) Journal of Machine Learning Research, 10:623-656.
+
+[4]: ["Matrix Factorization Techniques for Recommender Systems"](https://ieeexplore.ieee.org/abstract/document/5197422) by Yehuda Koren, Robert Bell, and Chris Volinsky. 
+
+[5]: Gemulla, R., Nijkamp, E., Haas, P. J., & Sismanis, Y. (2011). ["Large-Scale Matrix Factorization with Distributed Stochastic Gradient Descent."](https://dl.acm.org/doi/10.1145/2020408.2020426) Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.

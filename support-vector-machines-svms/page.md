@@ -1,6 +1,7 @@
 ---
-title: "Support vector machines (SVMs)"
-description: Explore the role of Support Vector Machines (SVMs) in algorithmic trading and discover why they are a powerful tool for classification tasks in financial markets. Learn how SVMs excel in handling small, structured datasets by constructing hyperplanes as decision boundaries, making them ideal for binary classification common in trading. Understand the mathematical foundations and practical implementation of SVMs, including kernel selection and parameter tuning. This comprehensive guide provides insights into maximizing margin for improved model performance and addresses the challenges of real-world data with the soft margin approach.
+title: Support Vector Machines for Classification and Regression
+description: Support Vector Machines classify data by maximizing margin and kernels
+  for complex patterns while tuning C to prevent overfitting Discover more inside
 ---
 
 

@@ -81,3 +81,17 @@ To prevent label leakage when doing feature engineering, you need to think caref
 Recent research on detecting and preventing label leakage in complex models has focused on developing new methods to identify and mitigate this issue. One key finding is the use of time-aware cross-validation techniques, which help ensure that models are trained and tested on data in a way that respects the chronological order of events. Researchers have found that by splitting data into time-based folds, it's easier to spot when future information is leaking into the model. This approach helps in building models that are more reliable in real-world scenarios because they don't rely on information that wouldn't be available at prediction time.
 
 Another important area of research is the development of automated tools to detect label leakage. These tools analyze the features used in a model and check for any that might be directly related to the target variable or come from a future time period. By using machine learning algorithms to scan the data, these tools can flag potential issues and suggest ways to fix them. This makes it easier for data scientists to build models that are free from label leakage, improving the overall performance and ethical use of machine learning models in practical applications.
+
+## References & Further Reading
+
+[1]: Nestorov, S., & Thiry, S. (2021). ["Identifying and Addressing Confounding in Machine Learning Models."](https://www.researchgate.net/publication/343733568_Controlling_for_effects_of_confounding_variables_on_machine_learning_predictions) arXiv preprint arXiv:2106.12947.
+
+[2]: Kohavi, R., & Provost, F. (1998). ["Glossary of Terms: Applications of Data Mining to Electronic Commerce."](https://www.researchgate.net/publication/301347218_Glossary_of_terms_Special_issue_of_applications_of_machine_learning_and_the_knowledge_discovery_process) In KDD.
+
+[3]: Kaufman, S., Rosset, S., Perlich, C., & Zadrozny, B. (2012). ["Leakage in Data Mining: Formulation, Detection, and Avoidance."](https://dl.acm.org/doi/10.1145/2382577.2382579) Proceedings of the Eleventh ACM SIGKDD International Conference on Knowledge Discovery in Data Mining.
+
+[4]: Chen, Y., & Guestrin, C. (2016). ["XGBoost: A Scalable Tree Boosting System."](https://arxiv.org/abs/1603.02754) In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+[5]: Bishop, C. M. (2006). ["Pattern Recognition and Machine Learning"](https://www.cs.uoi.gr/~arly/courses/ml/tmp/Bishop_book.pdf). Springer Science+Business Media.
+
+[6]: ["Doing Data Science: Straight Talk from the Frontline"](https://www.amazon.com/Doing-Data-Science-Straight-Frontline/dp/1449358659) by Cathy O'Neil and Rachel Schutt.

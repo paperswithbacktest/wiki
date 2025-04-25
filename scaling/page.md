@@ -187,3 +187,17 @@ print("Standardized data:", data_standardized)
 When dealing with large datasets in machine learning, it's important to scale the data in a way that doesn't take too long or use too much memory. One good way to do this is to use a method called "online scaling" or "incremental scaling." This means you scale the data as it comes in, instead of waiting for all the data to be ready. For example, you can use the `StandardScaler` from scikit-learn in Python, which can be set to work in an incremental way. This helps because it lets you start scaling right away, even if you're still getting more data. You can use the formula $$X_{\text{std}} = \frac{X - \mu}{\sigma}$$ to standardize your data, where $$\mu$$ is the average and $$\sigma$$ is the spread, but you calculate these values as new data comes in.
 
 Another best practice is to use tools that are made for handling big data, like Apache Spark. These tools can help you scale your data across many computers at the same time, which can make the process much faster. For example, you can use the `StandardScaler` from Spark's MLlib library to standardize your data. This is helpful because it can handle very large datasets without using too much memory on any one computer. By using these tools and methods, you can make sure your machine learning model works well, even with a lot of data.
+
+## References & Further Reading
+
+[1]: Müller, A. C., & Guido, S. (2016). ["Introduction to Machine Learning with Python: A Guide for Data Scientists."](https://books.google.com/books/about/Introduction_to_Machine_Learning_with_Py.html?id=1-4lDQAAQBAJ) O'Reilly Media, Inc.
+
+[2]: Géron, A. (2019). ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems."](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975) O'Reilly Media, Inc.
+
+[3]: Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). ["Scikit-learn: Machine Learning in Python."](https://dl.acm.org/doi/10.5555/1953048.2078195) Journal of Machine Learning Research, 12, 2825-2830.
+
+[4]: Goodfellow, I., Bengio, Y., & Courville, A. (2016). ["Deep Learning."](https://link.springer.com/article/10.1007/s10710-017-9314-z) MIT Press.
+
+[5]: Ioffe, S., & Szegedy, C. (2015). ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift."](https://arxiv.org/abs/1502.03167) arXiv preprint arXiv:1502.03167.
+
+[6]: Ruder, S. (2016). ["An Overview of Gradient Descent Optimization Algorithms."](https://arxiv.org/abs/1609.04747) arXiv preprint arXiv:1609.04747.
