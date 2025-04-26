@@ -1,6 +1,7 @@
 ---
-title: "Voting Rights of Shorted Shares"
-description: "Explore the complex interaction of voting rights and shorted shares in algorithmic trading Learn how these elements influence market dynamics and investor decisions"
+title: Understanding Voting Rights for Shorted Shares in Corporations
+description: Shorted shares voting rights stay with legal owners when stocks are lent
+  Explore how regulations ensure shareholder voice Discover more inside.
 ---
 
 

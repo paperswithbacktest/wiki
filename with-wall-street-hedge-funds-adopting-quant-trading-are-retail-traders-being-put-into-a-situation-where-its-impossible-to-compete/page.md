@@ -1,6 +1,7 @@
 ---
-title: "With Wall Street hedge funds adopting quant trading, are retail traders being put into a situation where it’s impossible to compete?"
-description: "Explore the challenges and opportunities faced by retail traders in today's competitive financial markets as hedge funds adopt quantitative trading. Learn how access to data, computational power, research & development, economies of scale, and regulation impact retail traders, and discover strategies for success. Dive into curated resources for systematic trading, including strategies with code, libraries, datasets, and educational materials."
+title: Leveling the Playing Field in Quant Trading for Retail Traders
+description: Quant trading insights help retail traders adopt hedge fund strategies
+  with low-cost tools to make smarter moves in fast markets Discover more inside
 ---
 
 

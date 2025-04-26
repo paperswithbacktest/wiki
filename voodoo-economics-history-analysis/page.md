@@ -1,6 +1,7 @@
 ---
-title: "Voodoo Economics: History and Analysis"
-description: "Explore the intricate relationships between Voodoo Economics fiscal policy and algorithmic trading in shaping global financial markets and economic stability."
+title: Understanding Voodoo Economics and the Reaganomics Legacy
+description: Voodoo Economics reshaped US fiscal policy through tax cuts and deregulation
+  driving growth but raising debt and inequality Discover more inside
 ---
 
 

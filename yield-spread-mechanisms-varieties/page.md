@@ -1,6 +1,7 @@
 ---
-title: "Yield Spread: Mechanisms and Varieties"
-description: "Explore the mechanisms and varieties of yield spreads in algorithmic trading, essential for understanding debt instruments' risk and reward profiles. This comprehensive guide highlights the role of yield, financial, and bond spreads as indicators of market sentiment and economic health. Gain insights into zero-volatility, credit, high-yield bond, and option-adjusted spreads, and discover how algorithmic trading leverages these metrics for efficient trade execution and arbitrage opportunities. Includes practical examples to enhance your grasp of market assessments and economic trends."
+title: Understanding Yield Spread Dynamics for Informed Investing
+description: Yield spread analysis reveals how rate differences signal risk sentiment
+  and guide smarter investment and economic forecasting Discover more inside.
 ---
 
 

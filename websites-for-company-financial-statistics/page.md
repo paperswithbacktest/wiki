@@ -1,6 +1,7 @@
 ---
-title: "Websites for Company Financial Statistics"
-description: "Explore how company financial statistics and financial data drive informed investment strategies and decision-making in algo trading and corporate finance."
+title: Guide to Accessing Company Financial Statistics Online
+description: Company financial statistics show revenue assets liabilities and ratios
+  online so users can make informed business decisions Discover more inside.
 ---
 
 

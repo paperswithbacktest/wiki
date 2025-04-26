@@ -1,6 +1,7 @@
 ---
-title: "Volume Price Trend Trading Indicator"
-description: "Unlock trading potential with the Volume Price Trend Indicator which combines volume and price data to forecast trends and predict market reversals."
+title: Understanding the Volume Price Trend Indicator for Traders
+description: Volume Price Trend indicator shows how price moves and volume reveal
+  trend strength for smarter entry and exit decisions Discover more inside.
 ---
 
 

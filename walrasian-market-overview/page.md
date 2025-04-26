@@ -1,6 +1,7 @@
 ---
-title: "Walrasian Market Overview"
-description: "Explore the Walrasian Equilibrium and its significance in modern financial markets with a focus on its mathematical foundations and applications in algorithmic trading."
+title: Walrasian Market Principles and General Equilibrium Theory
+description: Walrasian market explains how an auctioneer adjusts prices to balance
+  supply and demand and achieve general equilibrium. Discover more inside.
 ---
 
 

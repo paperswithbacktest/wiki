@@ -1,7 +1,7 @@
 ---
-title: Understanding Video Instance Segmentation with VisTR Transformer
-description: Video instance segmentation delivers precise object detection and tracking
-  across frames for autonomous driving and sports analytics Discover more inside
+title: Video Instance Segmentation Using VisTR Transformer Architecture
+description: Video Instance Segmentation tracks and segments objects across frames
+  using VisTR Transformer architecture for robust video analysis Discover more
 ---
 
 ![Image](images/1.png)

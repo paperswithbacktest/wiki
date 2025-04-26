@@ -1,6 +1,7 @@
 ---
-title: "Yieldstreet: An Overview for 2024"
-description: "Discover how Yieldstreet is revolutionizing investments in 2024 by integrating advanced algorithmic trading technologies to offer diverse alternative investment options."
+title: Yieldstreet Alternative Investments Platform Overview
+description: Yieldstreet offers access to real estate art legal settlement investments
+  with transparent updates and low minimums Discover more inside today
 ---
 
 

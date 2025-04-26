@@ -1,6 +1,7 @@
 ---
-title: "Yahoo Finance API: Comprehensive Guide for Algo Trading"
-description: Discover the comprehensive guide to using Yahoo Finance API for algo trading, its functionalities, reasons to adopt it, potential drawbacks, pricing structure, and practical tutorials on how to use popular platforms like RapidAPI, yfinance, and Yahoo_fin.
+title: Comprehensive Guide To Yahoo Finance API Usage And Alternatives
+description: Yahoo Finance API provides direct access to real time stock quotes historical
+  data company fundamentals and explores key alternatives Discover more inside.
 ---
 
 

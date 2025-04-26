@@ -1,6 +1,7 @@
 ---
-title: "Y: Meaning, Function, and Examples"
-description: "Discover the pivotal role of the 'Y' function in trading from its symbol significance in ADRs to its application in algorithmic trading strategies using yfinance."
+title: Algorithmic Trading With Python And yfinance Explained
+description: Algorithmic trading with Python and yfinance lets you automate data retrieval
+  analysis and signal generation for informed decisions Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "VWAP Cross: Concept, Analysis, and Calculation"
-description: "Explore the VWAP Cross strategy in algo trading, learn its significance as a trading benchmark, discover how it generates signals, and optimize trade decisions."
+title: Understanding VWAP Cross Signals for Better Trading Decisions
+description: VWAP Cross identifies when price moves above or below the volume weighted
+  average to pinpoint optimal trade entries and exits Discover more inside
 ---
 
 

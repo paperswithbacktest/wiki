@@ -1,6 +1,7 @@
 ---
-title: "Wrong Way Risk Overview"
-description: "Explore the complexities of wrong way risk in algorithmic trading and its impact on financial vulnerability Understand how to mitigate these risks effectively"
+title: Understanding and Mitigating Wrong Way Risk in Finance
+description: Wrong Way Risk occurs when exposure increases as asset values fall. Explore
+  mitigation strategies to protect financial institutions. Discover more inside
 ---
 
 

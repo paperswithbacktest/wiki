@@ -1,6 +1,7 @@
 ---
-title: "Yield to Maturity and Its Mechanics"
-description: "Explore the vital role of Yield to Maturity in bond investments and algorithmic trading to boost trading strategies and optimize financial outcomes."
+title: Understanding Yield to Maturity and Its Importance for Bonds
+description: Yield to Maturity shows investors how to calculate the total return for
+  bonds by using price coupons and maturity value Discover more inside
 ---
 
 

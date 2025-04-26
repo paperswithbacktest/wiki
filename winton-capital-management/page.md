@@ -1,6 +1,7 @@
 ---
-title: "Winton Capital Management"
-description: "Explore Winton Capital Management's innovative approach to algorithmic trading leveraging data analysis and technology to revolutionize investment strategies."
+title: Winton Capital Management Quantitative Investment Strategies
+description: Winton Capital Management uses quantitative analysis and advanced technology
+  to optimize portfolios and manage risk for investors Discover more inside.
 ---
 
 

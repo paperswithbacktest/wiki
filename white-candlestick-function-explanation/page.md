@@ -1,6 +1,7 @@
 ---
-title: "White Candlestick: Function and Explanation"
-description: "Explore the significance of white candlesticks in algorithmic trading as they signal bullish trends indicating increased buyer confidence and potential price rises."
+title: White Candlestick Trading Guide for Confident Market Analysis
+description: White candlestick charts help traders spot bullish trends and interpret
+  body size wicks and volume to guide buy sell decisions Discover more inside
 ---
 
 

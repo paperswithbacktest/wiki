@@ -1,7 +1,7 @@
 ---
-title: Video Data Augmentation Techniques for Machine Learning
-description: Video data augmentation enhances training by generating diverse transformed
-  clips to boost model robustness under varied conditions. Discover more inside.
+title: Video Data Augmentation Techniques for Robust Model Training
+description: Video data augmentation enriches training data with flips rotations crops
+  and color tweaks to strengthen model robustness Discover more inside.
 ---
 
 ![Image](images/1.png)

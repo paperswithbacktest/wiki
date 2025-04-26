@@ -1,7 +1,8 @@
 ---
-title: Understanding Neural Network Weights and Optimization
-description: Neural network weights boost model accuracy by adjusting input importance
-  through initialization optimization and normalization Discover more inside
+title: Understanding Neural Network Weights Weight Initialization and Training
+description: Neural network weights define how input features impact predictions and
+  evolve through training with techniques like gradient descent and Xavier initialization
+  Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

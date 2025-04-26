@@ -1,6 +1,7 @@
 ---
-title: "Volume-Weighted Average Price (VWAP)"
-description: "Discover the power of VWAP in trading Learn how this essential metric influences market strategy enhances execution quality and aids large-volume trades"
+title: Volume Weighted Average Price VWAP Guide For Effective Trading
+description: VWAP helps traders benchmark execution against average market price and
+  volume in real time to improve trade timing and efficiency Discover more inside
 ---
 
 

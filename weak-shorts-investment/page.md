@@ -1,6 +1,7 @@
 ---
-title: "Weak Shorts in Investment"
-description: "Explore the Weak Shorts Investment Strategy and learn how algorithmic trading identifies and capitalizes on market inefficiencies for potential profits."
+title: Understanding Weak Shorts And Their Market Volatility Effects
+description: Weak shorts behaviors reveal how hesitant short sellers prompt rapid
+  price jumps and market swings when they cover positions early Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Coupon"
-description: "Explore how Weighted Average Coupon impacts trading strategies in mortgage-backed securities and the role of algorithmic trading in optimizing these transactions."
+title: Weighted Average Coupon in Mortgage Securities Explained
+description: Weighted Average Coupon reveals mortgage pool interest rates, helping
+  investors forecast yields and manage prepayment risk. Discover more inside
 ---
 
 

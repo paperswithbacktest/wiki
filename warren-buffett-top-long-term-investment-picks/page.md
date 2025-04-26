@@ -1,6 +1,7 @@
 ---
-title: "Warren Buffett's Top Long-Term Investment Picks"
-description: "Discover Warren Buffett's top long-term investment picks blending traditional value investing with modern algorithmic trading for enduring financial success."
+title: Warren Buffett Long-Term Investment Strategy Fundamentals
+description: Warren Buffett investment strategy emphasizes buying strong businesses
+  at fair prices and holding them for growth over years Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "World Bank Blockchain Bonds"
-description: "Explore the groundbreaking integration of blockchain in bond issuance, led by the World Bank. Discover how blockchain enhances transparency and efficiency in finance."
+title: World Bank Blockchain Bonds Improve Transparency And Efficiency
+description: World Bank blockchain bonds streamline bond issuance with secure transparent
+  ledgers cutting costs and broadening investor access Discover more inside.
 ---
 
 

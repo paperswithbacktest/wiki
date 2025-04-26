@@ -1,6 +1,7 @@
 ---
-title: "What fields are quant trading related to?"
-description: "Discover the multidisciplinary nature of quantitative trading and its connections to mathematics, statistics, computing, finance, econometrics, data science, machine learning, financial engineering, and physics. Successful quants often have expertise in several of these fields. Explore resources for trading strategies, libraries, datasets, and become a quant trader."
+title: Essential Guide to Quantitative Trading Strategies and Tools
+description: Quantitative trading uses math models and data analysis to remove emotions
+  and optimize decisions across stocks futures and options Discover more inside.
 ---
 
 

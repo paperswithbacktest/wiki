@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average of Outstanding Shares"
-description: "Explore the significance of calculating the weighted average of outstanding shares in financial analysis and algorithmic trading to enhance decision-making and strategy."
+title: Understanding Weighted Average Outstanding Shares for EPS
+description: Weighted average of outstanding shares ensures accurate EPS by accounting
+  for share changes and events ensuring reliable reporting Discover more inside
 ---
 
 

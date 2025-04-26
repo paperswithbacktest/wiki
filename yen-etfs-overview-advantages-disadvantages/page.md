@@ -1,6 +1,8 @@
 ---
-title: "Yen ETFs: Overview, Advantages, and Disadvantages"
-description: "Explore the pros and cons of investing in Yen ETFs and discover how algorithmic trading enhances strategic decisions for currency exposure and risk management."
+title: Yen ETF Investment Guide for Diversifying Your Portfolio
+description: Yen ETF provides easy access to Japanese currency investments, while
+  helping you manage risk and diversify assets with expert insights Discover more
+  inside
 ---
 
 

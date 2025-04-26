@@ -1,6 +1,7 @@
 ---
-title: "Yield Pickup: Explanation and Mechanism"
-description: "Discover how the yield pickup strategy enhances bond portfolio returns by replacing lower-yield bonds with higher ones using algorithmic trading for efficiency."
+title: Understanding Yield Pickup Strategies for Bond Investments
+description: Yield pickup explains how switching bonds boosts returns by comparing
+  yields costs and fees to guide smarter investments Discover more inside
 ---
 
 

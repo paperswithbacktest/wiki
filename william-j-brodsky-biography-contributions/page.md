@@ -1,6 +1,8 @@
 ---
-title: "William J. Brodsky: Biography and Contributions"
-description: "Explore William J. Brodsky's influential career in finance and options trading, highlighting his roles in transforming financial markets and driving algorithmic trading advancements."
+title: William J. Brodsky Leadership in Options Trading Exchange
+description: William J. Brodsky transformed options trading through strategic growth
+  and strict regulation at CBOE and the Options Clearing Corporation Discover more
+  inside.
 ---
 
 

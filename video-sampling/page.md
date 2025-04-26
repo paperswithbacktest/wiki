@@ -1,7 +1,7 @@
 ---
-title: Video Sampling Techniques for Efficient Machine Learning
-description: Video sampling cuts data volume and boosts model accuracy by selecting
-  key frames and adding temporal jitter for robust learning. Discover more inside.
+title: Video Sampling Techniques for Effective Machine Learning Training
+description: Video sampling optimizes model training by selecting key frames and applying
+  temporal jittering to boost accuracy and efficiency Discover more inside.
 ---
 
 ![Image](images/1.png)

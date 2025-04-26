@@ -1,6 +1,7 @@
 ---
-title: "Yields in Finance: Formulas, Types, and Interpretation"
-description: "Discover the key financial formulas and yield types essential for investors, explore the impact of algorithmic trading, and enhance your investment strategies."
+title: Comprehensive Guide to Yield in Finance Key Types and Metrics
+description: Yield in finance measures income from investments and helps compare bonds
+  stocks and yields using key metrics for smarter decisions Discover more inside.
 ---
 
 

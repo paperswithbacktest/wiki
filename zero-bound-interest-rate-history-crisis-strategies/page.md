@@ -1,6 +1,7 @@
 ---
-title: "Zero-Bound Interest Rate: History and Crisis Strategies"
-description: "Discover the impact of zero-bound interest rates on monetary policy and explore innovative strategies like quantitative easing and algorithmic trading adaptations."
+title: Understanding Zero-Bound Interest Rate Policies and Effects
+description: Zero-Bound Interest Rate policies push central banks toward quantitative
+  easing and forward guidance to stimulate borrowing and growth Discover more inside
 ---
 
 

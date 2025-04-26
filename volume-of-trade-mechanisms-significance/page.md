@@ -1,6 +1,7 @@
 ---
-title: "Volume of Trade: Mechanisms and Significance"
-description: "Explore the key aspects of trade volume and its role in financial markets, including its impact on liquidity, investor interest, and modern algorithmic trading methods."
+title: Understanding the Volume of Trade and Its Market Impact
+description: Volume of trade reveals market activity and helps investors spot key
+  trends measure liquidity and make informed decisions efficiently Discover more inside
 ---
 
 

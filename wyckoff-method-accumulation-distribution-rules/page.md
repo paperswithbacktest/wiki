@@ -1,6 +1,7 @@
 ---
-title: "Wyckoff Method: Accumulation and Distribution Rules"
-description: "Explore the Wyckoff Method for insights into accumulation and distribution phases. Enhance your trading strategy by understanding market cycles and price trends."
+title: Wyckoff Method Explained for Smarter Trading Decisions
+description: Wyckoff Method reveals how smart money drives accumulation and distribution
+  so you can spot market phases and optimize your trades Discover more inside.
 ---
 
 

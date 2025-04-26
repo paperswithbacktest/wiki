@@ -1,6 +1,7 @@
 ---
-title: "Volume-weighted average price"
-description: Discover how Volume-weighted Average Price (VWAP) serves as a crucial metric in algorithmic trading. This comprehensive guide explores VWAP's role as a financial benchmark that evaluates average trading prices adjusted for volume, offering insights into trade performance and market sentiment. Learn how VWAP assists traders and algorithms in executing large orders efficiently while minimizing market impact and optimizing execution strategies. Ideal for institutional investors and trading professionals seeking to enhance their understanding of VWAP's applications in real-time and predictive trading models.
+title: Understanding Volume-Weighted Average Price VWAP for Trading
+description: Volume weighted average price VWAP helps traders benchmark intraday trades
+  by combining price and volume to spot fair execution prices Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Viability of Real Estate Investment Trusts"
-description: "Explore the synergy of Real Estate Investment Trusts and algorithmic trading to optimize portfolios with data-driven strategies for income and diversification."
+title: Comprehensive Guide to Investing in Real Estate Investment Trusts
+description: Real estate investment trusts provide steady dividends and diversification
+  Explore types risk factors and performance metrics Discover more inside
 ---
 
 

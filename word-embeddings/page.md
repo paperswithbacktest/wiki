@@ -1,7 +1,7 @@
 ---
-title: Comprehensive Guide To Word Embeddings In Machine Learning
-description: Word embeddings transform text into vectors capturing semantic relationships,
-  powering tasks from translation to image understanding Discover more inside
+title: Comprehensive Guide to Word Embeddings in Machine Learning
+description: Word embeddings transform text into numerical vectors that reveal semantic
+  relationships and improve machine learning performance Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,6 +1,8 @@
 ---
-title: "World Economic Outlook with Examples"
-description: "Explore the intricate global economic outlook and the impact of factors like trade dynamics and algorithmic trading. Discover challenges and opportunities ahead."
+title: IMF World Economic Outlook Comprehensive Analysis and Forecast
+description: World Economic Outlook provides biannual analysis and forecasts of global
+  growth risks and policy guidance for governments businesses and investors Discover
+  more inside
 ---
 
 

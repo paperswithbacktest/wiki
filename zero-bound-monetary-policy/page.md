@@ -1,6 +1,7 @@
 ---
-title: "Zero Bound in Monetary Policy"
-description: "Explore the influence of zero-bound monetary policy on algorithmic trading as central banks navigate economic downturns with unconventional tools like quantitative easing."
+title: Understanding the Zero Bound in Monetary Policy Strategies
+description: Zero bound constraints force central banks to use quantitative easing
+  and forward guidance to stimulate spending and investment Discover more inside.
 ---
 
 

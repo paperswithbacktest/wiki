@@ -1,6 +1,7 @@
 ---
-title: "Volatility Ratio: Concepts and Calculation"
-description: "Explore the significance of the volatility ratio in algorithmic trading and investment strategies Learn how to calculate and leverage it for optimizing trading outcomes"
+title: Understanding the Volatility Ratio for Informed Trading
+description: Volatility Ratio lets traders measure price swings against averages using
+  historical ATR and true range for smarter strategies Discover more inside.
 ---
 
 

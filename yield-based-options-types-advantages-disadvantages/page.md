@@ -1,6 +1,7 @@
 ---
-title: "Yield-Based Options: Types, Advantages, and Disadvantages"
-description: "Explore the advantages and disadvantages of yield-based options in algo trading. Learn how these financial derivatives can help hedge against interest rate fluctuations."
+title: Understanding Yield-Based Options for Income Risk Management
+description: Yield-based options help investors manage income risk by leveraging dividend
+  and interest changes for strategic gains and protection Discover more inside
 ---
 
 

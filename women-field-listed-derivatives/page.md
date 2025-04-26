@@ -1,6 +1,7 @@
 ---
-title: "Women in the Field of Listed Derivatives"
-description: "Explore how women are transforming the financial sector in listed derivatives and algorithmic trading paving the way for gender equality and innovation."
+title: Empowering Women in Listed Derivatives for Industry Impact
+description: Listed derivatives provide women with career paths as traders and executives
+  while showcasing strategies to overcome challenges Discover more inside
 ---
 
 

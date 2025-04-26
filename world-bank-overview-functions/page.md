@@ -1,6 +1,7 @@
 ---
-title: "World Bank: Overview and Functions"
-description: "Explore the role of the World Bank in global development and the impact of algorithmic trading on international finance highlighting dynamic insights."
+title: Comprehensive Guide to World Bank Structure and Impact
+description: World Bank provides loans grants and advice to reduce poverty and drive
+  sustainable development in infrastructure and education Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Zakat: Rules and Principles in Islam"
-description: "Explore the integration of Zakat, one of Islam's Five Pillars, with modern financial practices like algorithmic trading. This page investigates into how automated trading systems and Islamic economic principles can harmonize, offering a seamless way for Muslim investors to fulfill their religious obligations while engaging in global financial markets. Discover insights into Zakat's role in social justice and economic equity, and how it can be aligned with cutting-edge financial technology."
+title: Understanding Zakat Calculation Eligibility and Distribution
+description: Zakat outlines eligibility calculation and distribution across wealth
+  types for Muslim charity to support those in need Discover more inside
 ---
 
 

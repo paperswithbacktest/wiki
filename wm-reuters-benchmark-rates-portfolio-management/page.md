@@ -1,6 +1,8 @@
 ---
-title: "WM/Reuters Benchmark Rates in Portfolio Management"
-description: "Discover how WM/Reuters benchmark rates revolutionize algorithmic trading by providing essential benchmarks for portfolio managers in the forex market."
+title: WM/Reuters Benchmark Rates Explained for Portfolio Management
+description: WM/Reuters Benchmark Rates help portfolio managers convert and value
+  foreign investments accurately using daily reliable exchange rates Discover more
+  inside
 ---
 
 

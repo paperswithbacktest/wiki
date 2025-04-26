@@ -1,7 +1,7 @@
 ---
-title: Essential Guide To Video Object Segmentation In Machine Learning
-description: Video object segmentation powers real-time tracking in scenes by leveraging
-  memory modules and efficient architectures Discover more inside.
+title: Video Object Segmentation Guide for Machine Learning
+description: Video Object Segmentation equips ML models to track objects with memory-driven
+  consistency across frames for real-time video analysis Discover more inside.
 ---
 
 ![Image](images/1.png)

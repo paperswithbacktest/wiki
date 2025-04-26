@@ -1,6 +1,7 @@
 ---
-title: "Volatility and Measures of Risk-Adjusted Return"
-description: Explore the dynamic world of financial markets with our in-depth analysis of volatility and risk-adjusted returns in algorithmic trading. Understand how volatility serves as a key indicator of market uncertainty and discover how Python can be leveraged for accurate volatility predictions and strategic trading decisions. Dive into the concepts of historical and implied volatility, and learn how traders use these metrics to forecast market movements. Enhance your trading strategies by mastering key risk-adjusted return ratios like Sharpe, Sortino, and Treynor, all with the powerful computational capabilities of Python at your fingertips.
+title: Understanding Volatility and Risk-Adjusted Return Metrics
+description: Volatility measures and risk-adjusted metrics like Sharpe ratio and GARCH
+  empower better portfolio management with Python Discover more inside.
 ---
 
 

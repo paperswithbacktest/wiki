@@ -1,6 +1,7 @@
 ---
-title: "Weak Dollar and Strong Dollar"
-description: "Explore the impact of strong and weak US dollar dynamics in global finance and the role of algorithmic trading in exchange rate fluctuation."
+title: Understanding Strong and Weak Dollar Effects on the Economy
+description: Strong dollar and weak dollar sway import costs exports and inflation
+  across the economy understand policy impacts and currency risks discover more inside
 ---
 
 

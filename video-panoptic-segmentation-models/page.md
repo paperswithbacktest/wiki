@@ -1,7 +1,8 @@
 ---
-title: Enhancing Video Panoptic Segmentation for Real-Time Applications
-description: Video panoptic segmentation enables machines to label and track every
-  pixel across frames for self-driving cars and surveillance Discover more inside
+title: Understanding Video Panoptic Segmentation Models and Applications
+description: Video panoptic segmentation enhances machine vision by labeling and tracking
+  objects across frames for safer autonomous driving and smarter surveillance Discover
+  more inside.
 ---
 
 ![Image](images/1.jpeg)

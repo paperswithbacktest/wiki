@@ -1,6 +1,7 @@
 ---
-title: "Zero Interest-Rate Policy: Mechanism and Objectives"
-description: "Explore how Zero Interest Rate Policy influences algorithmic trading strategies amid economic changes Discover how AI impacts trading models in this context"
+title: Understanding Zero Interest-Rate Policy and Its Economic Impact
+description: Zero Interest-Rate Policy shows how central banks cut borrowing costs
+  to zero to boost spending and manage saver and inflation risks Discover more inside
 ---
 
 

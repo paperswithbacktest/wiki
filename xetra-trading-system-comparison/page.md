@@ -1,6 +1,7 @@
 ---
-title: "Xetra Trading System Comparison"
-description: "Explore the benefits of combining Xetra's electronic trading platform with algorithmic strategies to enhance trading efficiency and performance in financial markets."
+title: Comprehensive Guide to the Xetra Trading System for Investors
+description: Xetra trading system delivers fast reliable electronic trading with real-time
+  transparency and global access for stocks bonds and ETFs Discover more inside
 ---
 
 

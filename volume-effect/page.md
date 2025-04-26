@@ -1,6 +1,7 @@
 ---
-title: "Volume Effect"
-description: Discover the importance and role of volume in algo trading, a fundamental yet often overlooked indicator. Learn how high volume can indicate market strength and predict momentum shifts. Explore strategies for using volume to enhance trading signals and confirm trend reversals or breakouts.
+title: Understanding the Volume Effect in Materials Science Applications
+description: Volume Effect in materials science reveals how sample size impacts material
+  strength toughness and heat response across scales Discover more inside
 ---
 
 

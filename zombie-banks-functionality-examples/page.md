@@ -1,6 +1,7 @@
 ---
-title: "Zombie Banks: Definition, Functionality, and Examples"
-description: "Explore the concept of zombie banks and their impact on the financial system through insolvency and external aid Understand how they affect market stability and growth"
+title: Understanding Zombie Banks Impact On Global Financial Stability
+description: Zombie banks pose persistent economic risks by draining resources and
+  restricting lending, slowing growth and challenging regulators Discover more inside
 ---
 
 

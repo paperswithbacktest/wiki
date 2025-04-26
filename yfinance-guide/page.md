@@ -1,6 +1,7 @@
 ---
-title: "YFinance Guide"
-description: Discover how yfinance serves as a vital resource for algorithmic trading by providing easy access to comprehensive financial data from Yahoo Finance. This guide highlights its features, such as historical and real-time market data retrieval, corporate actions, and fundamental insights, which are crucial for optimizing trading strategies. Whether you're new to trading or a seasoned professional, learn how to incorporate yfinance effectively into your trading systems to make well-informed decisions.
+title: Comprehensive Guide to YFinance Python Library for Financial Data
+description: YFinance library streamlines retrieving real time and historical stock
+  data and company financials in Python with simple commands Discover more inside
 ---
 
 

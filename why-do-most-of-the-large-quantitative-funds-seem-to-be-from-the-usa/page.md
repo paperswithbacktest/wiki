@@ -1,6 +1,7 @@
 ---
-title: "Why do most of the large quantitative funds seem to be from the USA?"
-description: "Discover why the majority of large quantitative funds are based in the USA. Learn about the historical, educational, regulatory, and technological factors that have contributed to this trend, as well as the continued evolution of the global quantitative trading landscape."
+title: US Quantitative Funds Driving Global Financial Innovation
+description: US Quantitative Funds leverage regulatory support, advanced data analytics
+  and top talent to drive innovation in global markets Discover more inside.
 ---
 
 

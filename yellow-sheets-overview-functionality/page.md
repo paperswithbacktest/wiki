@@ -1,6 +1,7 @@
 ---
-title: "Yellow Sheets: Overview and Functionality"
-description: "Explore how Yellow Sheets and algorithmic trading are transforming financial markets by enhancing transparency and automating trade execution for investors."
+title: Understanding Yellow Sheets and Algorithmic Trading Mechanics
+description: Yellow Sheets provide daily bond pricing and volume while algorithmic
+  trading automates orders to enhance investment decisions Discover more inside
 ---
 
 

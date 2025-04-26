@@ -1,7 +1,7 @@
 ---
-title: Understanding Weighted Sum in Machine Learning Models
-description: Weighted Sum explains how machine learning models weigh inputs by multiplying
-  each factor by its weight to improve predictions. Discover more inside
+title: Understanding Weighted Sum Importance in Machine Learning
+description: Weighted Sum shapes model predictions by assigning importance to inputs
+  and refining weights through data driven learning Discover more inside
 ---
 
 ![Image](images/1.png)

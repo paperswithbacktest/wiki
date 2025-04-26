@@ -1,6 +1,7 @@
 ---
-title: "Weak Currency: Explanation and Implications"
-description: "Explore how weak currencies impact global markets including trade balances and investment strategies Learn implications for algorithmic trading and economic policy adjustments"
+title: Economic Impacts of a Weak Currency and Policy Responses
+description: Weak currency can boost export competitiveness while raising import costs
+  and inflation Learn how central banks balance risks Discover more inside
 ---
 
 

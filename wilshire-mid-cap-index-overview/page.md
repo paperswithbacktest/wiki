@@ -1,6 +1,7 @@
 ---
-title: "Wilshire Mid-Cap Index Overview"
-description: "Explore the Wilshire Mid-Cap Index a key benchmark for mid-sized companies between $2B-$10B emphasizing growth and stability optimal for algorithmic trading."
+title: Understanding the Wilshire Mid-Cap Index for Investors
+description: Wilshire Mid-Cap Index tracks US mid-sized companies to help investors
+  gauge performance and compare to large and small caps Discover more inside
 ---
 
 

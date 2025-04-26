@@ -1,6 +1,7 @@
 ---
-title: "Yield Equivalence"
-description: "Unlock the synergistic potential of yield finance equivalence and algorithmic trading to optimize investment strategies balancing tax benefits and market efficiency."
+title: Understanding Yield Equivalence for Investment Comparison
+description: Yield equivalence helps investors compare diverse interest payment schedules
+  and rates to choose optimal investments with confidence. Discover more inside.
 ---
 
 

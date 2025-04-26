@@ -1,6 +1,7 @@
 ---
-title: "Venture Capital Trusts: Overview and Types"
-description: "Explore Venture Capital Trusts in the UK including their benefits structure and the role of algorithmic trading to optimize investments in high-growth SMEs."
+title: Comprehensive Guide to Venture Capital Trust Investments
+description: Venture Capital Trust offers investors tax relief and growth potential
+  by funding small companies with tax-free dividends. Discover more inside
 ---
 
 

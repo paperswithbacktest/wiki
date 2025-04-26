@@ -1,6 +1,7 @@
 ---
-title: "XTX Markets"
-description: XTX Markets is a prominent algorithmic trading firm based in London, known for its advanced market-making and liquidity services. Founded in 2015 by Alexander Gerko, it has become a key player in financial markets by using sophisticated algorithms and machine learning. XTX operates globally, offering liquidity across equities, forex, commodities, and fixed income. It quickly rose to be a top foreign exchange market provider and has expanded its reach to the U.S. and Singapore. With a focus on technological innovation and social responsibility, XTX is a leader in the financial industry.
+title: XTX Markets Comprehensive Overview Of Global Trading Technology
+description: XTX Markets uses advanced algorithms to deliver fast fair global trading
+  in stocks currencies and derivatives worldwide Discover more inside
 ---
 
 

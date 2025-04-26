@@ -1,6 +1,8 @@
 ---
-title: "W-Shaped Economic Recovery"
-description: "Explore the complexities of a W-shaped economic recovery and its impact on algorithmic trading Learn how to adapt strategies amid volatile market shifts"
+title: Understanding W-Shaped Economic Recovery Patterns and Impacts
+description: W-shaped economic recovery explains the double dip pattern in GDP and
+  job data and outlines causes policy responses business strategies Discover more
+  inside
 ---
 
 

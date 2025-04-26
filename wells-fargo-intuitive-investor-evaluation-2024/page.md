@@ -1,6 +1,7 @@
 ---
-title: "Wells Fargo Intuitive Investor Evaluation 2024"
-description: "Discover the benefits of Wells Fargo Intuitive Investor a robo-advisor platform combining algorithmic trading with professional financial guidance for efficient investing"
+title: Comprehensive Guide to Wells Fargo Intuitive Investor Platform
+description: Wells Fargo Intuitive Investor uses robo advisor to create portfolios
+  matched to your goals and risk tolerance with low fees Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Yahoo Finance API Guide"
-description: Explore the Yahoo Finance API guide to enhance your algorithmic trading strategies with comprehensive financial data. Discover how to access detailed stock quotes, historical prices, exchange rates, and real-time updates to make informed trading decisions. Learn about the benefits and practical applications of integrating this API into your trading framework for accurate market predictions and improved execution. Uncover insights into backtesting strategies, real-time monitoring, and portfolio analysis to diversify your trading activities and achieve competitive advantages in the financial markets.
+title: Comprehensive Guide to Using the Yahoo Finance API Efficiently
+description: Yahoo Finance API lets you fetch real-time stock prices company details
+  and historical data with ease using yfinance library Discover more inside.
 ---
 
 

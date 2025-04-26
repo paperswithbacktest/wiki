@@ -1,6 +1,7 @@
 ---
-title: "Viability of Fracking at $50 per Barrel"
-description: "Explore the complex interplay of oil prices, fracking, and algorithmic trading to assess the economic viability of fracking at $50 per barrel in the energy market."
+title: Fracking Economic Viability at Fifty Dollars Per Barrel
+description: Fracking viability at 50 per barrel hinges on drilling and compliance
+  costs along with tech advances affecting break even Discover more inside
 ---
 
 

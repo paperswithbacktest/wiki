@@ -1,6 +1,8 @@
 ---
-title: "Why is order flow analysis crucial to algorithmic trading?"
-description: "Discover the importance of order flow analysis in algorithmic trading. Learn how this technique helps identify trends, manage liquidity, optimize execution, and adapt to market changes. Despite its benefits, real-time analysis of large data volumes requires expertise and a robust infrastructure."
+title: Integrating Order Flow Analysis into Algorithmic Trading
+description: Order flow analysis reveals real-time buy and sell patterns to boost
+  algorithmic trading performance with actionable metrics and tools Discover more
+  inside
 ---
 
 

@@ -1,6 +1,8 @@
 ---
-title: "What is Quantamental?"
-description: Discover the innovative world of quantamental trading where sophisticated algorithms meet qualitative insights for unparalleled decision-making power. By integrating quantitative and fundamental analyses this hybrid strategy enhances the effectiveness of algorithmic trading offering an adaptable and comprehensive approach to market dynamics and investment potential. Quantamental strategies leverage the precision of data-driven models combined with the contextual depth of traditional analysis to provide robust investment frameworks that optimize returns while effectively managing risks. As such, they are transforming the landscape of modern finance by bridging the gap between numerical rigor and insightful judgment.
+title: Quantamental Investing Explained Combining Data and Fundamental Insights
+description: Quantamental investing combines quantitative data analysis with fundamental
+  company research to improve decision making and uncover hidden opportunities Discover
+  more inside.
 ---
 
 

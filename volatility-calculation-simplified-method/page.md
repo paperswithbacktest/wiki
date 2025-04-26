@@ -1,6 +1,7 @@
 ---
-title: "Volatility Calculation: Simplified Method"
-description: "Explore simplified volatility calculations for algorithmic trading Learn how understanding financial volatility enhances strategy and risk management in trading"
+title: Understanding Volatility In Financial Markets And Its Calculation
+description: Volatility in financial markets shows price swings to help investors
+  assess risk and select suitable models and strategies Discover more inside
 ---
 
 

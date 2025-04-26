@@ -1,6 +1,7 @@
 ---
-title: "Yield Tilt Index Fund"
-description: "Explore how yield tilt index funds and algorithmic trading can enhance investment strategies by focusing on high-yield securities and data-driven decisions."
+title: Yield Tilt Index Funds for Enhanced Dividend Income
+description: Yield Tilt Index Fund strategies focus on high dividend stocks to boost
+  income while maintaining market exposure and balance growth Discover more inside
 ---
 
 

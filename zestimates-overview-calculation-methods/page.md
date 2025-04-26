@@ -1,6 +1,7 @@
 ---
-title: "Zestimates: Overview and Calculation Methods"
-description: "Explore how Zillow's Zestimates leverage advanced algorithms for property valuations and the impact of technology on real estate, including algorithmic trading insights."
+title: "Understanding Zillow\u2019s Zestimate Home Valuations and Accuracy"
+description: Zestimate provides a data driven home value estimate using location size
+  and recent sales to guide your real estate decisions Discover more inside
 ---
 
 

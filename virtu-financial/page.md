@@ -1,6 +1,7 @@
 ---
-title: "Virtu Financial"
-description: "Discover Virtu Financial's pioneering role in algorithmic trading focusing on innovative technology strategies market efficiency and enhanced liquidity solutions."
+title: Virtu Financial Company Profile and Trading Operations
+description: Virtu Financial leverages advanced technology to deliver fast trading
+  of financial products for institutional investors worldwide Discover more inside
 ---
 
 

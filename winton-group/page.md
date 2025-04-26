@@ -1,6 +1,7 @@
 ---
-title: "Winton Group"
-description: Explore Winton Group's influential role in algorithmic trading within the financial industry. Founded in 1997 by David Harding, this leading British investment firm manages $10 billion in assets as of 2023. Known for its innovative use of advanced algorithms and commitment to research, Winton stands out by effectively leveraging big data for informed trading decisions. Through global offices and a strong focus on quantitative analysis, Winton exemplifies the fusion of technology and finance, continually refining its strategies to maintain a competitive edge in the ever-evolving market landscape.
+title: Winton Group Quantitative Investment Strategies and Insights
+description: Winton Group uses quantitative analysis and proprietary algorithms to
+  uncover market patterns and guide investment decisions. Discover more inside.
 ---
 
 

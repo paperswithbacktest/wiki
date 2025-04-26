@@ -1,6 +1,7 @@
 ---
-title: "Wall Street Cheat Sheet: Market Psychology for Trading"
-description: Unravel the emotional journey of traders and investors through the Wall Street Cheat Sheet - a visual representation of market psychology for Algo Trading. From disbelief to optimism, grasp recurring patterns of human behavior during bull and bear markets, making informed decisions with greater acuity.
+title: Using Market Psychology to Make Smarter Trading Decisions
+description: Market psychology helps traders recognize emotional biases and make disciplined
+  trading decisions that boost performance Discover more inside.
 ---
 
 

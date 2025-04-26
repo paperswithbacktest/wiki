@@ -1,6 +1,7 @@
 ---
-title: "Zero-Volatility Spread Formula and Calculation"
-description: "This page explores the Zero-Volatility Spread (z-spread), a vital tool for bond pricing and algorithmic trading. It highlights the z-spread's ability to incorporate the entire Treasury yield curve, providing deeper insights into bond valuation than traditional methods. By offering a comprehensive measure of risk and reward, the z-spread improves decision-making for bond investors, analysts, and traders. The article examines the influence of the z-spread on bond pricing and its critical role in the evolving landscape of algorithmic trading."
+title: Using The Zero-Volatility Spread For Precise Bond Valuation
+description: Zero-Volatility Spread analysis shows how much extra yield you earn for
+  bond risk across all cash flows and optimize your valuations. Discover more inside.
 ---
 
 

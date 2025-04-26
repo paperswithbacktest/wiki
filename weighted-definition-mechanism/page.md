@@ -1,6 +1,7 @@
 ---
-title: "Weighted: Definition and Mechanism"
-description: "Discover how weighted mechanisms in algorithmic trading optimize decisions by prioritizing key market indicators and datasets, enhancing strategy precision."
+title: Comprehensive Guide to Weighted Methods and Their Applications
+description: Weighted methods assign importance to data points and factors to boost
+  accuracy across statistics finance and machine learning Discover more inside.
 ---
 
 

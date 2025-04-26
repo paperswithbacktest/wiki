@@ -1,6 +1,7 @@
 ---
-title: "Why are so many people doing quantitative trading now?"
-description: "Discover why quantitative trading is on the rise with advanced technology, data availability, academic research, and dissatisfaction with traditional methods. Learn about the benefits and risks of this data-driven approach to finance. Dive deeper into quantitative strategies through our curated resources."
+title: Quantitative Trading Models Tools and Strategies for Success
+description: Quantitative Trading uses mathematical models and advanced technology
+  to remove emotions from trades, boost speed and consistency Discover more inside.
 ---
 
 

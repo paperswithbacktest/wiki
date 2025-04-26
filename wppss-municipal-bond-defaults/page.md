@@ -1,6 +1,7 @@
 ---
-title: "WPPSS and Municipal Bond Defaults"
-description: "Explore the impact of the WPPSS default on municipal finance history and algorithmic trading's role in enhancing risk assessment in municipal bond markets."
+title: WPPSS Municipal Bond Default Lessons and Market Impact
+description: WPPSS municipal bond default reshaped investor due diligence by driving
+  stricter project reviews market oversight and transparency Discover more inside.
 ---
 
 

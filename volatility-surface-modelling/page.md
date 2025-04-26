@@ -1,6 +1,7 @@
 ---
-title: "Volatility Surface Modelling"
-description: "Explore the crucial role of volatility surface modeling in algorithmic trading Understand its applications in options pricing risk management and trading strategies"
+title: Understanding Volatility Surfaces for Options Pricing
+description: Volatility surface shows how implied volatility shifts across strikes
+  and expirations to enhance option pricing and risk management Discover more inside
 ---
 
 

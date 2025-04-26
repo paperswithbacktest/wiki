@@ -1,6 +1,7 @@
 ---
-title: "Wiener process"
-description: "Explore the Wiener process in algorithmic trading, detailing its stochastic properties, role in financial modeling, and applications in risk management."
+title: Understanding the Wiener Process for Modeling Brownian Motion
+description: Wiener process modeling offers insights into Brownian motion across fields
+  with clear explanations of core properties and uses Discover more inside
 ---
 
 

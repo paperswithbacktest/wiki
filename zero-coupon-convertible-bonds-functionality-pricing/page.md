@@ -1,6 +1,8 @@
 ---
-title: "Zero-Coupon Convertible Bonds: Functionality and Pricing"
-description: "Explore zero-coupon convertible bonds and their pricing in algorithmic trading. Uncover their hybrid nature, complexities, and investment opportunities."
+title: Zero Coupon Convertible Bond Basics and Key Investment Insights
+description: Zero coupon convertible bond features and benefits explained in active
+  voice highlighting profit potential from discounts and stock conversion Discover
+  more inside.
 ---
 
 

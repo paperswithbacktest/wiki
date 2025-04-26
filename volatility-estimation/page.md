@@ -1,6 +1,7 @@
 ---
-title: "Volatility Estimation"
-description: "Explore volatility estimation in algorithmic trading and uncover methods that optimize trading strategies by assessing price fluctuations and managing risk effectively."
+title: Volatility Estimation Techniques for Informed Investments
+description: Volatility estimation provides investors with clear risk metrics using
+  historical and implied data to guide portfolios. Discover more inside.
 ---
 
 

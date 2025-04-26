@@ -1,6 +1,7 @@
 ---
-title: "Wash Sale: Mechanism and Purpose"
-description: "This page investigates into the wash sale rules vital for optimizing tax strategies in both traditional and algorithmic trading. Discover how these IRS regulations prevent tax deduction on losses from repurchased securities within a 30-day window and their effects on investment strategies. Learn how algorithmic trading further complicates compliance and explore methods to integrate wash sale awareness into trading algorithms. Enhance your understanding through real-world examples and strategic insights for effective tax planning and trading decisions."
+title: Understanding The IRS Wash Sale Rule For Tax Compliance
+description: Wash Sale Rule adds losses to your new stock cost basis when repurchasing
+  within 30 days Monitor trades to ensure tax compliance. Discover more inside.
 ---
 
 

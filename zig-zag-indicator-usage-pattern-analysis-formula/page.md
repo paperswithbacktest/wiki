@@ -1,6 +1,7 @@
 ---
-title: "Zig Zag Indicator: Usage, Pattern Analysis, and Formula"
-description: "Discover how the Zig Zag indicator can enhance your trading strategies by filtering noise and highlighting key trends for effective market analysis."
+title: Understanding The Zig Zag Indicator For Trend Analysis
+description: Zig Zag indicator filters market noise to reveal price swings and identify
+  trends reversals and support and resistance levels Discover more inside
 ---
 
 

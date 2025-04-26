@@ -1,6 +1,7 @@
 ---
-title: "Wash Trading: Mechanism and Examples"
-description: "Explore the deceptive practice of wash trading in financial markets including its mechanisms impact on market integrity and strategies to detect and prevent it."
+title: Understanding Wash Trading Market Manipulation and Detection
+description: Wash trading distorts market volume and misleads investors by creating
+  artificial trade activity. Discover proven detection methods and tools inside.
 ---
 
 

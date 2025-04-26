@@ -1,6 +1,7 @@
 ---
-title: "Wells Notice: Definition and Mechanism"
-description: "Explore the Wells Notice mechanism in algorithmic trading. Understand SEC oversight, compliance strategies, and response tactics to safeguard operations."
+title: Understanding the Wells Notice Process for SEC Enforcement
+description: Wells Notice from the SEC informs companies of possible enforcement action
+  and explains the 30 day response process for fair review Discover more inside
 ---
 
 

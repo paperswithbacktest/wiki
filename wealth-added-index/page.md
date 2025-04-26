@@ -1,6 +1,7 @@
 ---
-title: "Wealth Added Index"
-description: "Discover the Wealth Added Index for a comprehensive understanding of economic profitability This metric evaluates investment performance by considering cost of equity"
+title: Evaluating Company Value With The Wealth Added Index
+description: Wealth Added Index measures shareholder value by deducting capital costs
+  from profits to reveal real performance for investors Discover more inside.
 ---
 
 

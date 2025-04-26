@@ -1,6 +1,7 @@
 ---
-title: "Zayo Group Holdings"
-description: "Explore Zayo Group Holdings known for high-speed fiber-optic services catering to diverse business needs and enhancing algorithmic trading with low-latency networks."
+title: Zayo Group Holdings Corporate Overview and Strategic Growth
+description: Zayo Group Holdings powers businesses with fiber optic networks and customized
+  connectivity solutions across the US and Europe Discover more inside.
 ---
 
 

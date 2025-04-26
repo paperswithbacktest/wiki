@@ -1,7 +1,7 @@
 ---
-title: Comprehensive Guide to Visual Question Answering VQA Models
-description: Visual Question Answering applies computer vision and NLP to interpret
-  images and questions and offers insights into VQA models Discover more inside.
+title: Understanding Visual Question Answering Models and Techniques
+description: Visual Question Answering guides you through VQA components models and
+  metrics while exploring advanced techniques and challenges Discover more inside.
 ---
 
 ![Image](images/1.jpeg)

@@ -1,7 +1,7 @@
 ---
-title: Video Model Blocks Explained For Effective Video Analysis
-description: Video Model Blocks break down complex video data into parts that improve
-  action recognition and temporal and spatial analysis. Discover more inside.
+title: Understanding Video Model Blocks For Advanced Video Analysis
+description: Video Model Blocks break down complex spatial and temporal video data
+  for accurate action recognition and real-time processing Discover more inside
 ---
 
 ![Image](images/1.png)

@@ -1,6 +1,7 @@
 ---
-title: "West African CFA Franc: XOF History and Usage"
-description: "Explore the rich history and significant role of the West African CFA franc (XOF) in economic stability and integration across eight WAEMU countries."
+title: West African CFA Franc XOF Stability And Economic Impact
+description: West African CFA Franc ties eight nations to the Euro for stable prices
+  and trade. Uncover its history debates and future outlook. Discover more inside
 ---
 
 

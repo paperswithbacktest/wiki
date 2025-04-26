@@ -1,7 +1,7 @@
 ---
-title: Machine Learning Video Recognition Models and Applications
-description: Video recognition in machine learning uses advanced models to enable
-  action and event detection across frames for real time insights Discover more inside
+title: Exploring Video Recognition Models in Machine Learning
+description: Video recognition models break down frames to detect objects and actions
+  over time and optimize performance for live use Discover more inside
 ---
 
 ![Image](images/1.webp)

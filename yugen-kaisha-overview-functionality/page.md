@@ -1,6 +1,8 @@
 ---
-title: "Yugen Kaisha: Overview and Functionality"
-description: "Explore the evolution of Yugen Kaisha YK a limited liability company in Japan from 1940 to 2006 and its impact on SMEs and algorithmic trading practices"
+title: Yugen Kaisha Structure Requirements And Liability Explained
+description: Yugen Kaisha formation requires a shareholder director and 3 million
+  yen capital offering limited liability and traditional governance Discover more
+  inside
 ---
 
 

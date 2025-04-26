@@ -1,6 +1,7 @@
 ---
-title: "What's the best backtesting tool you can recommend?"
-description: "Discover the top backtesting tools for various markets and programming expertise. Learn about MetaTrader, QuantConnect, Backtrader, NinjaTrader, and Zipline, including their markets, benefits, and recommended use cases. Beginners and experts alike will find a tool to suit their needs."
+title: Selecting Backtesting Tools for Traders and Investors
+description: Backtesting tools help traders test strategies with accurate historical
+  data, uncover key features for beginners and experts Discover more inside.
 ---
 
 

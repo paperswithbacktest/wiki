@@ -1,6 +1,7 @@
 ---
-title: "What are the best alternatives to the Sharpe Ratio?"
-description: "Discover the limitations of the Sharpe Ratio and explore seven alternative risk-adjusted performance measures, including Sortino Ratio, Information Ratio, Treynor Ratio, Omega Ratio, Kestner Ratio, Profit Ratio, and Underwater Drawdown. Enhance your investment analysis with this comprehensive guide."
+title: Comparing the Sharpe Ratio with Alternative Performance Metrics
+description: Sharpe Ratio alternatives compare risk-adjusted performance across Sortino
+  Treynor and Omega Ratio for deeper investment risk insight Discover more inside
 ---
 
 

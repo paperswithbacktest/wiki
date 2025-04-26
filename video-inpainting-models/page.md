@@ -1,7 +1,7 @@
 ---
-title: Video Inpainting with FuseFormer Transformer Architecture
-description: Video inpainting often faces consistency and speed challenges FuseFormer
-  uses transformers and attention to deliver seamless results Discover more inside
+title: Enhancing Video Inpainting with FuseFormer Architecture
+description: Video inpainting can struggle with motion gaps FuseFormer uses transformers
+  and temporal attention to restore seamless frames Discover more inside
 ---
 
 ![Image](images/1.jpeg)

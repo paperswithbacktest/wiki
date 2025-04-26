@@ -1,6 +1,7 @@
 ---
-title: "What is the secret of the success of XTX markets?"
-description: "Discover the secrets behind XTX Markets' success in electronic trading and liquidity provision. From advanced technology and data analysis to innovation, diversification, and transparency, explore the key elements that have contributed to their dominant market position."
+title: XTX Markets Algorithmic Trading And Liquidity Provision Services
+description: XTX Markets uses advanced algorithmic trading and real time liquidity
+  provision to optimize trade execution and manage risk. Discover more inside.
 ---
 
 

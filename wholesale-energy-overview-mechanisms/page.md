@@ -1,6 +1,7 @@
 ---
-title: "Wholesale Energy: Overview and Mechanisms"
-description: "Explore the transformative role of algorithmic trading in the wholesale energy market where tech advances and regulatory shifts drive efficiency and precision."
+title: Understanding the Wholesale Energy Market and Its Participants
+description: Wholesale energy market guide shows how producers suppliers and regulators
+  trade electricity and gas to balance supply and pricing Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Wage Earner's Plan: Overview and Functionality"
-description: "Discover the synergy between Chapter 13 bankruptcy, known as the Wage Earner's Plan, and algorithmic trading for financial reorganization and growth."
+title: Understanding Wage Earner's Plan Under Chapter 13 Bankruptcy
+description: Wage Earner's Plan gives debt holders a 3 to 5 year repayment plan to
+  protect assets and rebuild finances while avoiding asset sales Discover more inside.
 ---
 
 

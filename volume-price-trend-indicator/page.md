@@ -1,6 +1,7 @@
 ---
-title: "Volume Price Trend Indicator"
-description: "Explore the Volume Price Trend indicator's role in algorithmic trading and how it integrates price and volume data to inform market trend analysis."
+title: Understanding the Volume Price Trend Indicator for Traders
+description: Volume Price Trend Indicator reveals money flow and trend strength by
+  combining price and volume to guide trading decisions Discover more inside.
 ---
 
 

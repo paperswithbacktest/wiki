@@ -1,6 +1,7 @@
 ---
-title: "Volcker Rule: Overview, Purpose, and Criticism"
-description: "Explore the Volcker Rule's impact on banking and algorithmic trading uncovering its role in financial reform and its implications on market stability."
+title: Understanding The Volcker Rule And Its Impact On Banking
+description: Volcker Rule curbs risky trading and limits hedge fund investments to
+  strengthen banking stability and reduce financial risk Discover more inside
 ---
 
 

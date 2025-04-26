@@ -1,6 +1,7 @@
 ---
-title: "Volatility of Dividend-Paying Stocks"
-description: "Discover how dividend stocks and algorithmic trading can provide stability and opportunity amidst market volatility Tips for navigating financial uncertainties"
+title: Understanding Volatility in Dividend-Paying Stocks
+description: Volatility of dividend-paying stocks shapes risk and yields for steady
+  income investors Explore ways to measure and manage it Discover more inside.
 ---
 
 

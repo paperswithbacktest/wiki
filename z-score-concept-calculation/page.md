@@ -1,6 +1,7 @@
 ---
-title: "Z-Score: Concept and Calculation"
-description: "Explore the importance of Z-scores in algorithmic trading as a statistical tool for evaluating price deviations and potential trading opportunities."
+title: Mastering Z-Score Calculations for Statistics and Trading
+description: Z-score analysis shows how far values deviate from the mean to identify
+  outliers compare datasets and drive smarter decisions Discover more inside
 ---
 
 

@@ -1,7 +1,7 @@
 ---
-title: Balancing Neural Network Width for Optimal Model Performance
-description: Neural network width determines how many neurons each layer has and affects
-  training time, overfitting risk, and overall performance Discover more inside
+title: Balancing Width And Depth For Optimal Neural Network Performance
+description: Neural network width influences training time and model generalization
+  by finding the right balance of neurons for better performance Discover more inside
 ---
 
 ![Image](images/1.jpeg)

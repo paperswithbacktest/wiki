@@ -1,6 +1,7 @@
 ---
-title: "Wage Expense for Hourly Employees"
-description: "Explore the crucial dynamics of wage expenses for hourly employees in algorithmic trading and discover innovative compensation strategies to retain top talent."
+title: Effective Wage Expense Management for Hourly Employees
+description: Wage expense management lets businesses track hours rates overtime and
+  compliance to control labor costs and improve budgeting Discover more inside
 ---
 
 

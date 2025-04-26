@@ -1,6 +1,7 @@
 ---
-title: "Wash Sale Rules and Penalties"
-description: "Discover the complexities of wash sale rules in algorithmic trading Understand how tax regulations and penalties affect your trading strategies and investment outcomes"
+title: Understanding Wash Sale Rules For Accurate Tax Planning
+description: Wash sale rules help investors avoid disallowed losses by adjusting cost
+  basis and timing trades for tax compliance and planning Discover more inside.
 ---
 
 

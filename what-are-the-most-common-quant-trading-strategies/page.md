@@ -1,6 +1,7 @@
 ---
-title: "What are the most common quant trading strategies?"
-description: "Discover the most common quantitative trading strategies, including Statistical Arbitrage, Pair Trading, High-Frequency Trading, Trend Following, Market Making, Factor Investing, Machine Learning and AI Trading, Risk Parity, and Global Macro Quant. Learn how these strategies work and their effectiveness in navigating financial markets. Explore resources for further study and data sets to become a quant trader."
+title: Quantitative Trading Strategies and Techniques Explained
+description: Quantitative trading explores strategies from statistical arbitrage to
+  machine learning models optimizing portfolios, risk management Discover more inside
 ---
 
 

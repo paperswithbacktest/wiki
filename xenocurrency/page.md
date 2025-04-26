@@ -1,6 +1,7 @@
 ---
-title: "Xenocurrency"
-description: "Explore the pivotal role of xenocurrency and algorithmic trading in global finance Discover how tech reshapes foreign exchange markets for optimal trading strategies"
+title: Understanding Xenocurrency And Its Role In Global Finance
+description: Xenocurrency provides a stable and widely accepted medium for global
+  trade outlining its benefits risks and economic impact Discover more inside.
 ---
 
 

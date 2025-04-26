@@ -1,7 +1,7 @@
 ---
-title: Data Whitening in Machine Learning Contexts
-description: Whitening in machine learning transforms features to be uncorrelated
-  with equal variance improving model training efficiency Discover more inside.
+title: Understanding Whitening in Machine Learning Preprocessing
+description: Whitening in machine learning improves algorithm performance by decorrelating
+  features and standardizing variances across data sets. Discover more inside.
 ---
 
 ![Image](images/1.png)

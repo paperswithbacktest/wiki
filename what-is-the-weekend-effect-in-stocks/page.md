@@ -1,6 +1,7 @@
 ---
-title: "What is the Weekend Effect in Stocks?"
-description: Explore the weekend effect in stocks, a market anomaly where Monday returns are often lower than Fridays. This article investigates into weekend trading strategies using algorithmic methods to exploit this pattern. By leveraging backtesting, traders can refine these strategies, benefiting from systematic and emotion-free trading beyond usual market hours. Discover how understanding the weekend effect can enhance trading approaches amid evolving market conditions.
+title: Understanding the Weekend Effect in Stock Market Returns
+description: Weekend effect in stocks shows returns rising on Fridays and falling
+  on Mondays Use this insight to refine trading strategies Discover more inside
 ---
 
 

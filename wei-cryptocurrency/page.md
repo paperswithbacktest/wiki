@@ -1,6 +1,7 @@
 ---
-title: "Wei in Cryptocurrency"
-description: "Explore Ethereum Wei and its role in algorithmic trading Discover how this smallest Ether unit enhances precision and efficiency in crypto transactions and strategies"
+title: Understanding Wei as the Smallest Unit of Ethereum
+description: Wei is the smallest Ethereum unit enabling precise transactions, efficient
+  gas calculations and secure smart contract payments Discover more inside
 ---
 
 

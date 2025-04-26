@@ -1,6 +1,7 @@
 ---
-title: "Worthless Securities"
-description: "Explore key concepts of algorithmic trading and worthless securities in investments Learn about risks strategies and the dynamic nature of financial assets"
+title: Understanding Worthless Securities and How to Protect Investments
+description: Worthless securities can drain your portfolio but spotting warning signs
+  and using tax relief limits losses and safeguards investments Discover more inside
 ---
 
 

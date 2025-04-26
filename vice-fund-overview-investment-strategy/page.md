@@ -1,6 +1,7 @@
 ---
-title: "Vice Fund: Overview and Investment Strategy"
-description: "Explore Vice Fund investment strategy focusing on sectors like alcohol and tobacco with algorithmic trading insights examining market dynamics and ethical investing nuances."
+title: Understanding Vice Funds Benefits Risks and Strategies
+description: Vice Funds deliver steady returns in downturns by focusing on tobacco
+  alcohol and gaming sectors while navigating regulatory risks Discover more inside
 ---
 
 

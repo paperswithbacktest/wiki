@@ -1,6 +1,7 @@
 ---
-title: "Weighted Moving Averages"
-description: "Explore the intricacies of weighted moving averages in algo trading Discover their role in technical analysis and how they enhance trading strategies"
+title: Understanding Weighted Moving Averages in Financial Analysis
+description: Weighted moving average highlights recent data to reveal clearer market
+  trends and guide investment decisions with active calculations Discover more inside.
 ---
 
 

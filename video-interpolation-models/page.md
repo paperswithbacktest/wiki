@@ -1,7 +1,7 @@
 ---
-title: Understanding Video Interpolation in Machine Learning Models
-description: Video interpolation boosts low fps footage by generating smooth frames
-  with deep learning models like FLAVR for smoother motion Discover more inside
+title: Understanding Video Interpolation and FLAVR Deep Learning Models
+description: Video interpolation creates smooth intermediate frames with deep learning
+  models like FLAVR to refine motion and enhance video quality Discover more inside
 ---
 
 ![Image](images/1.png)

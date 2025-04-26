@@ -1,6 +1,7 @@
 ---
-title: "Zombie ETF"
-description: "Explore the phenomenon of Zombie ETFs, their market implications, and the impact of algorithmic trading on their outcomes for informed investment decisions."
+title: 'Zombie ETFs Explained: How to Spot and Manage Inactive Funds'
+description: Zombie ETFs can drain your returns with low assets and high fees Learn
+  how to identify risks manage or revive these funds effectively Discover more inside
 ---
 
 

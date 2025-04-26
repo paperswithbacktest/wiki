@@ -1,6 +1,7 @@
 ---
-title: "Weighted Alpha: Significance and Calculation"
-description: "Weighted alpha provides critical insight into securities' performance by emphasizing recent price movements making it invaluable for algorithmic traders seeking short-term gains."
+title: Understanding Weighted Alpha in Investment Risk Analysis
+description: Weighted Alpha reveals how to measure stock performance against risk
+  expectations and guides smarter comparisons across investments. Discover more inside.
 ---
 
 

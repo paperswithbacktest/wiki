@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Credit Rating"
-description: "Understand how Weighted Average Credit Rating and algorithmic trading strategies optimize investment returns by assessing bond fund credit risk efficiently."
+title: Understanding Weighted Average Credit Rating for Portfolios
+description: Weighted average credit rating improves risk assessment by weighting
+  recent scores for more accurate lending and portfolio decisions Discover more inside.
 ---
 
 

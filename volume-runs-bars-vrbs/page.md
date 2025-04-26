@@ -1,6 +1,7 @@
 ---
-title: "Volume runs bars (VRBs)"
-description: Discover the benefits of Volume Run Bars (VRBs) in algorithmic trading as they offer a superior alternative to traditional time bars. By capturing data based on actual trading volume rather than fixed intervals, VRBs provide a more accurate representation of market activity. This innovative approach mitigates issues like oversampling and undersampling, reduces noise, and enhances decision-making by aligning data sampling with true market dynamics, offering improved outcomes for modern traders.
+title: Understanding Volume Runs Bars VRBs For Smarter Trading
+description: Volume Runs Bars offer a dynamic view of market activity by creating
+  bars based on trading volume to reveal trends and manage risk Discover more inside
 ---
 
 

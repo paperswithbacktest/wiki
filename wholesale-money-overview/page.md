@@ -1,6 +1,7 @@
 ---
-title: "Wholesale Money Overview"
-description: "Explore the crucial role of wholesale money, banking, and algorithmic trading in modern finance. Understand their impact on financial stability and global markets."
+title: Essential Guide to Wholesale Money Market Instruments and Risks
+description: Wholesale money market insights cover major instruments interest rates
+  and liquidity risks to support stable banking operations Discover more inside
 ---
 
 

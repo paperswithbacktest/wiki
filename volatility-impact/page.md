@@ -1,6 +1,7 @@
 ---
-title: "Volatility impact"
-description: "Explore the role of volatility in algorithmic trading and how it affects trading strategies risk management and performance optimization in dynamic markets."
+title: Market Volatility Explained Measuring and Managing Risk
+description: Volatility in financial markets reveals price swings and helps investors
+  measure risk with VIX ATR and smart portfolio tactics Discover more inside
 ---
 
 

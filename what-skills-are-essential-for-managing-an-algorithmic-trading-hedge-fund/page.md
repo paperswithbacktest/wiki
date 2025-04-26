@@ -1,6 +1,7 @@
 ---
-title: "What skills are essential for managing an algorithmic trading hedge fund?"
-description: "Discover the essential skills required to manage an algorithmic trading hedge fund, including quantitative knowledge, programming, data analysis, risk management, market knowledge, managerial skills, compliance and regulation, decision-making skills, professional ethics, and adaptability. Balance technical expertise with strategic vision and effective risk management to succeed in this dynamic field."
+title: Essential Guide to Algorithmic Trading and Hedge Fund Management
+description: Algorithmic trading hedge fund managers master financial concepts risk
+  controls and strategy testing to optimize performance Discover more inside
 ---
 
 

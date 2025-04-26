@@ -1,6 +1,7 @@
 ---
-title: "Wealth Effect in Economics"
-description: "Explore the intricate relationship between consumer behavior, the wealth effect, and algorithmic trading in the economic landscape. Learn how changes in asset values influence consumer spending and confidence, while algorithmic trading reshapes market dynamics. Discover the impact of these elements on economic stability and growth crucial for policymakers and investors navigating today's market trends."
+title: Understanding the Wealth Effect in Consumer Spending Behavior
+description: Wealth effect reveals how asset value changes and shapes consumer confidence
+  spending patterns to drive wider economic cycles. Discover more inside
 ---
 
 

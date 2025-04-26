@@ -1,6 +1,7 @@
 ---
-title: "What Classes Should You Take to Become a Quantitative Analyst?"
-description: Discover the essential courses you should take to become a successful quantitative analyst in algorithmic trading. Learn the key concepts of mathematical modeling, statistical analysis, and programming skills that are crucial for developing, testing, and implementing trading algorithms. Explore comprehensive educational programs that equip you with the knowledge to navigate modern financial markets and optimize trading strategies.
+title: Essential Courses and Skills for Aspiring Quantitative Analysts
+description: Quantitative analyst career guide outlines key math programming and finance
+  courses to build predictive models and risk strategies Discover more inside
 ---
 
 

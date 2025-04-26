@@ -1,6 +1,7 @@
 ---
-title: "Walter L. Lukken Biography"
-description: "Discover Walter L. Lukken's pivotal role in shaping financial regulation and algorithmic trading frameworks, driving innovation while ensuring market stability."
+title: Walter L. Lukken Career and Contributions in Futures Markets
+description: Walter L. Lukken leveraged his financial expertise to shape fair trading
+  rules and leads the Futures Industry Association Discover more inside.
 ---
 
 

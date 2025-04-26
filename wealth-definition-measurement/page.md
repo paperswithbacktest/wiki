@@ -1,6 +1,7 @@
 ---
-title: "Wealth: Definition and Measurement"
-description: "Explore the essential aspects of wealth measurement, economic analysis, and algorithmic trading in this comprehensive guide. Understand the intricacies of financial assessment, including asset valuation, debt evaluation, and key economic indicators like GDP and inflation rates. Learn how algorithmic trading leverages data to optimize market strategies, ensuring informed decision-making and financial success in today's complex economic landscape."
+title: Comprehensive Guide to Wealth Measurement and Economic Metrics
+description: Wealth measurement streamlines tracking net worth assets liabilities
+  and economic indicators to inform financial decisions Discover more inside
 ---
 
 

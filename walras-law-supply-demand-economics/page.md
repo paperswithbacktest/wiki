@@ -1,6 +1,7 @@
 ---
-title: "Walras's Law and Its Role in Supply and Demand Economics"
-description: "Explore Walras's Law its implications in supply and demand economics and its relevance in algorithmic trading where market equilibrium drives trading efficiency."
+title: Understanding Walras's Law and Its Role in Market Equilibrium
+description: Walras's Law shows how total demand equals supply across interconnected
+  markets to maintain equilibrium and inform policy decisions Discover more inside
 ---
 
 

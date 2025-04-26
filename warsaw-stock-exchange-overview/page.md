@@ -1,6 +1,7 @@
 ---
-title: "Warsaw Stock Exchange Overview"
-description: "Discover the Warsaw Stock Exchange's role in Poland's finance market and its shift towards algorithmic trading, enhancing speed and precision for investors."
+title: Comprehensive Guide to Investing on the Warsaw Stock Exchange
+description: Warsaw Stock Exchange guides investors from opening a brokerage account
+  to tracking key indices and meeting listing requirements Discover more inside.
 ---
 
 

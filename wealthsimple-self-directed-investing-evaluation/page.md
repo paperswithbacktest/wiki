@@ -1,6 +1,7 @@
 ---
-title: "Wealthsimple Self-Directed Investing Evaluation"
-description: "Explore Wealthsimple's self-directed investing platform focusing on commission-free trading and innovative features, ideal for beginner to seasoned investors in Canada."
+title: Wealthsimple Self-Directed Investing Overview and Benefits
+description: Wealthsimple Self-Directed Investing offers free ETF trades, $4.99 stock
+  trades, no account fees, and tools to manage your portfolio Discover more inside.
 ---
 
 

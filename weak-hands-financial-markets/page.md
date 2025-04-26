@@ -1,6 +1,7 @@
 ---
-title: "Weak Hands in Financial Markets"
-description: "Explore the concept of 'weak hands' in financial markets and discover how algorithmic trading helps investors overcome emotional biases to make disciplined decisions."
+title: Understanding Weak Hands Impact on Market Volatility
+description: Weak hands drive market volatility and affect investment strategies Apply
+  tactics to build conviction and curb emotional trading Discover more
 ---
 
 

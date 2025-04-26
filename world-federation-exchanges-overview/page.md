@@ -1,6 +1,7 @@
 ---
-title: "World Federation of Exchanges Overview"
-description: "Explore the role of the World Federation of Exchanges in algorithmic trading the impact of AI and the evolution of global stock markets on economic growth."
+title: World Federation of Exchanges Overview and Global Market Standards
+description: World Federation of Exchanges sets global trading rules and fosters collaboration
+  to ensure fair efficient markets worldwide Discover more inside
 ---
 
 

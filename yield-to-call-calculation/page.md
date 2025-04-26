@@ -1,6 +1,7 @@
 ---
-title: "Yield to Call and Calculation"
-description: "Master bond calculations and explore the role of the yield to call metric in optimizing investment strategies using algorithmic trading for enhanced returns."
+title: Understanding Yield to Call for Callable Bond Investors
+description: Yield to Call helps investors calculate returns on callable bonds using
+  current price and call date details in active voice. Discover more inside.
 ---
 
 

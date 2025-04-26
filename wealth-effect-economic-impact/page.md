@@ -1,6 +1,7 @@
 ---
-title: "Wealth Effect and Economic Impact"
-description: "Explore the intricate relationship between wealth effects in financial markets and algorithmic trading's impact on economic behavior and market dynamics."
+title: Understanding the Wealth Effect on Consumer Spending and Economy
+description: Wealth effect influences consumer spending when asset values rise leading
+  to economic growth or contraction based on market swings Discover more inside
 ---
 
 

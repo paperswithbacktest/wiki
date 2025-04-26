@@ -1,6 +1,7 @@
 ---
-title: "World Gold Council: Overview and Function"
-description: "Explore the pivotal role of the World Gold Council in the gold industry and the transformative impact of algorithmic trading on market efficiency and liquidity."
+title: World Gold Council Overview of Roles, Initiatives and Impact
+description: World Gold Council drives growth in mining research advice responsible
+  sourcing and gold investment vehicles with market insights Discover more inside
 ---
 
 

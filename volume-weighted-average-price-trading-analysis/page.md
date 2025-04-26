@@ -1,6 +1,7 @@
 ---
-title: "Volume Weighted Average Price in Trading and Analysis"
-description: "Enhance your trading strategies with the Volume Weighted Average Price VWAP a key tool that provides insights into price trends using both price and volume data."
+title: Volume Weighted Average Price Explained as a Trading Benchmark
+description: Volume Weighted Average Price shows trade cost benchmarks by weighting
+  price by volume and helps traders time buys and sells. Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Zero-Beta Portfolio"
-description: "Zero-beta portfolios offer stable returns by eliminating market risk with algorithmic trading optimizing their composition to maintain neutrality for investors."
+title: Zero-Beta Portfolio Strategies for Minimizing Market Risk
+description: Zero-Beta Portfolio strategy helps you avoid market swings by balancing
+  positive and negative beta assets to stabilize returns. Discover more inside.
 ---
 
 

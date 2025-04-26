@@ -1,6 +1,7 @@
 ---
-title: "Zero-shot Learning"
-description: Discover how Zero-shot Learning, a form of artificial intelligence, is revolutionizing algo trading by enabling rapid adaptation, cost-efficiency, and expanded market opportunities. Learn about its benefits and challenges in this comprehensive guide. Explore related resources for systematic trading, datasets, and strategies.
+title: Understanding Zero-Shot Learning and Its Key Mechanisms
+description: Zero-Shot Learning enables computers to recognize new categories without
+  examples by leveraging semantic embeddings and attributes Discover more inside
 ---
 
 

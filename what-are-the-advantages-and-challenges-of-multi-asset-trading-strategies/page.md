@@ -1,6 +1,7 @@
 ---
-title: "What are the advantages and challenges of multi-asset trading strategies?"
-description: "Discover the advantages and challenges of multi-asset trading strategies, including diversification, return potential, adaptability, hedging, complexity, costs, data requirements, unforeseen correlations, and risk management. Dive deeper with recommended resources for traders."
+title: Multi-Asset Trading Strategies to Diversify Investment Portfolios
+description: Multi-asset trading combines stocks bonds commodities and currencies
+  on one platform enabling diversification and risk management Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Wrap Fee: Overview, Mechanism, Advantages, and Disadvantages"
-description: "Discover the intricacies of wrap fee programs and algorithmic trading Explore their mechanisms benefits and drawbacks to optimize modern investing strategies"
+title: Simplifying Investment Management with Wrap Fee Programs
+description: Wrap fee programs combine trading costs advice and planning into one
+  transparent fee that makes investment management simple Discover more inside
 ---
 
 

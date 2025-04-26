@@ -1,6 +1,7 @@
 ---
-title: "Wilcoxon Test in Statistics: Types and Calculation"
-description: "Discover the importance of the Wilcoxon test in algo trading for analyzing non-normally distributed data and refining trading strategies effectively."
+title: Wilcoxon Test Essentials for Nonparametric Data Analysis
+description: Wilcoxon test helps you compare two data sets without assuming normal
+  distribution and handles outliers with rank based methods Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "VWAP/TWAP strategies"
-description: "Explore VWAP and TWAP in algo trading for efficient order execution, minimizing market impact, and optimizing large trades in diverse trading scenarios."
+title: Understanding VWAP and TWAP Algorithmic Trading Strategies
+description: VWAP and TWAP strategies explain how to calculate average price using
+  volume or time to optimize execution and measure performance Discover more inside
 ---
 
 

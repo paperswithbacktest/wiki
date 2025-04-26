@@ -1,6 +1,7 @@
 ---
-title: "Wash: Definition, Function, and Legal Considerations"
-description: "Explore the intricacies of algorithmic trading with insights on functionality, efficiency, and legal factors. Learn about functionality wash and its market impact."
+title: Understanding Wash Trading in Financial Markets and Its Impact
+description: Wash trading misleads by creating false activity and skewing prices while
+  regulators use advanced analytics to detect offenders Discover more inside
 ---
 
 

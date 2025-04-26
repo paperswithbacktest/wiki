@@ -1,6 +1,7 @@
 ---
-title: "Visible Supply and Its Function"
-description: "Explore how visible supply metrics and economic indicators shape algorithmic trading strategies This article investigates into market analysis and its impact on trading success"
+title: Visible Supply Fundamentals for Market Analysis and Trading
+description: Visible supply tracks real time product availability across stores warehouses
+  and transit so businesses optimize inventory and pricing Discover more inside
 ---
 
 

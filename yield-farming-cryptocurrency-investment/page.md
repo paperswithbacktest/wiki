@@ -1,6 +1,7 @@
 ---
-title: "Yield Farming in Cryptocurrency Investment"
-description: "Explore the dynamic world of cryptocurrency investment through yield farming and algorithmic trading Uncover strategies to enhance returns while managing risks"
+title: Understanding Cryptocurrency Yield Farming Strategies and Risks
+description: Yield farming lets you stake crypto on DeFi platforms to earn tokens
+  and fees while managing volatility and security risks Discover more inside
 ---
 
 

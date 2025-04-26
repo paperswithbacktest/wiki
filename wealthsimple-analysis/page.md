@@ -1,6 +1,7 @@
 ---
-title: "Wealthsimple Analysis"
-description: "Discover how Wealthsimple leverages algorithmic trading and robo-advisory services to make investing more accessible and efficient for users."
+title: Wealthsimple Review And Guide To Affordable Automated Investing
+description: Wealthsimple automates your investments with low fees and expert strategies
+  to help your money grow confidently Discover more inside
 ---
 
 

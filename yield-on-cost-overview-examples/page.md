@@ -1,6 +1,7 @@
 ---
-title: "Yield on Cost: Overview and Examples"
-description: "Explore the essentials of Yield on Cost and algorithmic trading. Understand how these metrics optimize investment strategies and enhance portfolio performance."
+title: Understanding Yield on Cost for Long Term Dividend Investors
+description: Yield on Cost tracks how your dividend income compares to your original
+  purchase cost letting you gauge income growth over time Discover more inside.
 ---
 
 

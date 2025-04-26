@@ -1,7 +1,7 @@
 ---
 title: Understanding Wasserstein Loss for Stable GAN Training
-description: Wasserstein Loss provides a smooth measure of distribution difference
-  to stabilize GAN training and improve generated data quality Discover more inside
+description: Wasserstein Loss enhances GAN training stability by providing a smooth
+  convergence path and efficient distribution matching. Discover more inside.
 ---
 
 ![Image](images/1.png)

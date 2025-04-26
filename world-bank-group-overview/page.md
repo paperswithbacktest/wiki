@@ -1,6 +1,7 @@
 ---
-title: "World Bank Group Overview"
-description: "Explore the synergy between the World Bank Group's mission to reduce poverty and the capabilities of algorithmic trading which enhances market efficiency."
+title: World Bank Group Institutions Funding and Financial Operations
+description: World Bank Group provides financial and technical support to reduce poverty
+  and enhance development through five institutions Discover more inside
 ---
 
 

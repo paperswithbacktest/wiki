@@ -1,6 +1,7 @@
 ---
-title: "XR Trading"
-description: "Explore XR Trading's pioneering use of algorithmic trading for swift and accurate market decisions Discover how their innovative strategies shape modern finance"
+title: Immersive XR Trading Platforms Enhancing Crypto Market Engagement
+description: XR Trading immerses users in virtual reality to visualize digital currency
+  markets, simplify decisions and build trading confidence Discover more inside.
 ---
 
 

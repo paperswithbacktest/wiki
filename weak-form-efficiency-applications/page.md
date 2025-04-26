@@ -1,6 +1,7 @@
 ---
-title: "Weak Form Efficiency and Its Applications"
-description: "Explore weak form market efficiency and its impact on trading strategies including algorithmic trading challenging technical analysis and focusing on real-time data."
+title: Understanding Weak Form Efficiency in Financial Markets
+description: Weak form efficiency shows that past price data cannot help investors
+  beat market averages favoring broad index strategies. Discover more inside
 ---
 
 

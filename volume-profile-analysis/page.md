@@ -1,6 +1,7 @@
 ---
-title: "Volume profile analysis"
-description: "Explore Volume Profile Analysis in algorithmic trading to understand market behavior, identify support and resistance levels, and make strategic decisions."
+title: Mastering Volume Profile Analysis For Better Trading Decisions
+description: Volume Profile Analysis reveals high volume zones defining support and
+  resistance to improve trade timing and risk control Discover more
 ---
 
 

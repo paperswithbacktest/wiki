@@ -1,7 +1,7 @@
 ---
-title: Vision Transformer Architectures and Key Innovations Explained
-description: Vision Transformer leverages self attention for global image understanding
-  and enables efficient scalable variants like Swin and DeiT Discover more inside
+title: Comprehensive Guide to Vision Transformers and Key Variants
+description: Vision Transformers improve image recognition with scalable self attention
+  and modern variants like Swin DeiT and MobileViT Discover more inside.
 ---
 
 ![Image](images/1.png)

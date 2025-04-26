@@ -1,6 +1,7 @@
 ---
-title: "Zillow Stock Split Analysis"
-description: "Explore the dynamics of Zillow's stock split, its impact on the real estate market, and the role of algorithmic trading in shaping investment strategies."
+title: Zillow Stock Split Impact on Affordability and Growth
+description: Zillow stock split lowers per share price to attract more investors and
+  maintain total investment value while signaling future growth Discover more inside.
 ---
 
 

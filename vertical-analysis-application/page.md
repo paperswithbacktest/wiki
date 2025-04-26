@@ -1,6 +1,7 @@
 ---
-title: "Vertical Analysis and Its Application"
-description: "Discover the application of vertical analysis in algo trading to gain insights into financial strategies and enhance decision-making in modern markets."
+title: Vertical Analysis Techniques for Financial Statement Insight
+description: Vertical analysis shows each item as a percentage of sales or assets
+  to compare companies and spot cost trends over time Discover more inside.
 ---
 
 

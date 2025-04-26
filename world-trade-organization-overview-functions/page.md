@@ -1,6 +1,7 @@
 ---
-title: "World Trade Organization: Overview and Functions"
-description: "Explore how the World Trade Organization influences global trade dynamics and how algorithmic trading reshapes international markets. Stay informed on key economic trends."
+title: World Trade Organization Core Objectives and Functions
+description: World Trade Organization sets trade rules resolves disputes and monitors
+  compliance to ensure fair commerce and support growth Discover more inside
 ---
 
 

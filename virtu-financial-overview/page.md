@@ -1,6 +1,7 @@
 ---
-title: "Virtu Financial Overview"
-description: "Explore Virtu Financial's role in algorithmic trading and market making with insights into its technological innovations and regulatory challenges."
+title: Virtu Financial Company Profile and Business Model Overview
+description: Virtu Financial leverages cutting edge technology to execute rapid trades
+  across global markets while ensuring secure compliance Discover more inside.
 ---
 
 

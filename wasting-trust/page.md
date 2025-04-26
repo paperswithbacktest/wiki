@@ -1,6 +1,7 @@
 ---
-title: "Wasting Trust"
-description: "Explore the challenges and opportunities in algorithmic trading including trust ethical standards legal frameworks and financial implications in today's markets"
+title: Rebuilding Trust in Personal and Professional Relationships
+description: Trust in personal and professional relationships depends on honest communication
+  consistent actions and clear accountability Discover more inside
 ---
 
 

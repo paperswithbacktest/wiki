@@ -1,6 +1,7 @@
 ---
-title: "Volatility Ratio: Calculation and Signals"
-description: "Discover how the volatility ratio can optimize algorithmic trading by analyzing price patterns and market dynamics for better risk management and strategy enhancement."
+title: Understanding Volatility Ratio for Improved Trading Decisions
+description: Volatility Ratio helps traders assess price movement by comparing price
+  ranges to average price for informed entry exit decisions Discover more inside
 ---
 
 

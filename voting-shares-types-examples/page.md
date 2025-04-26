@@ -1,6 +1,8 @@
 ---
-title: "Voting Shares and Types with Examples"
-description: "Explore the crucial role of voting shares in corporate governance and decision-making within today's financial markets. Understand how different share types, including common, preferred, and super-voting shares, impact shareholder influence and corporate control. Examine the interplay between algorithmic trading and share types, highlighting its significance in managing portfolios with varied voting rights. Gain insights into these dynamics to navigate the complexities of market conditions and investor relations effectively."
+title: Voting Shares and Their Role in Corporate Governance
+description: Voting shares empower investors with governance rights outline share
+  class differences and dual-class structures for corporate control Discover more
+  inside
 ---
 
 

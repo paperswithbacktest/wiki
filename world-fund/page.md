@@ -1,6 +1,7 @@
 ---
-title: "World Fund"
-description: "Explore the dynamic world of global finance with insights into international investment, world funds, and algorithmic trading for optimal economic growth."
+title: Key Goals And Impact Of The World Fund On The Global Environment
+description: World Fund drives global donations into clean energy wildlife protection
+  and reforestation with clear impact and accountability Discover more inside.
 ---
 
 

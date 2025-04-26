@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Remaining Term"
-description: "Explore the significance of Weighted Average Remaining Term in algorithmic trading to optimize strategies by assessing portfolio maturity profiles and interest rate risks."
+title: Understanding Weighted Average Remaining Term in Portfolios
+description: Weighted Average Remaining Term helps investors gauge when loan portfolios
+  will pay off and manage risk with precision. Discover more inside.
 ---
 
 

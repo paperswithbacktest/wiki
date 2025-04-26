@@ -1,6 +1,7 @@
 ---
-title: "Where Have All the Stat Arb Profits Gone?"
-description: Explore the evolution and current challenges of statistical arbitrage in algorithmic trading. Once a highly lucrative strategy in the financial markets, the profits from statistical arbitrage have declined due to increased market efficiency and competition. This article investigates into the reasons behind shrinking margins, the role of technology, and offers insights on adapting strategies for continued success in this rapidly changing landscape. Whether leveraging pairs trading or market-neutral approaches, understanding how to navigate these transformations is crucial for sustained profitability.
+title: Declining Profits in Statistical Arbitrage Trading
+description: Statistical arbitrage profits have eroded as market efficiency and high
+  frequency trading compress spreads and intensify competition Discover more inside
 ---
 
 Statistical arbitrage, commonly referred to as stat arb, represents a sophisticated and systematic approach to exploiting financial market inefficiencies through algorithmic trading. Emerging in the late 20th century, this strategy gained prominence due to its ability to capitalize on short-term discrepancies in asset prices across various instruments. Stat arb involves using quantitative models to identify and trade on these discrepancies, aiming for a market-neutral stance. This methodology relies heavily on computational power, mathematical models, and historical data analysis to predict and execute trades with high precision.

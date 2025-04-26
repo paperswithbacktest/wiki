@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Loan Age"
-description: "Discover how Weighted Average Loan Age (WALA) is vital in assessing mortgage-backed securities and how it aids investors in understanding prepayment risks."
+title: Understanding Weighted Average Loan Age in Mortgage Analysis
+description: Weighted average loan age tracks portfolio risk by weighing larger loans
+  and loan seasoning to guide smarter investment choices Discover more inside
 ---
 
 

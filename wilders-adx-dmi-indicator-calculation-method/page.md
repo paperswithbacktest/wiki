@@ -1,6 +1,7 @@
 ---
-title: "Wilder's ADX and DMI Indicator: Calculation Method"
-description: "Discover the essentials of Wilder's ADX and DMI system and their role in assessing trend strength and direction for effective algorithmic trading strategies."
+title: Complete Wilder's ADX and DMI Indicator Guide for Traders
+description: Wilders ADX and DMI Indicator helps traders measure trend strength and
+  direction with clear calculation steps and strategies Discover more inside
 ---
 
 

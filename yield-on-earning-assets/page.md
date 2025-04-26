@@ -1,6 +1,7 @@
 ---
-title: "Yield on Earning Assets"
-description: "Explore the synergy between yield financial metrics, earning assets, and algorithmic trading to enhance investment returns through data-driven strategies in finance."
+title: Understanding Yield on Earning Assets for Bank Profitability
+description: Yield on Earning Assets measures income efficiency of bank assets and
+  guides strategies to boost profitability while managing risk. Discover more inside.
 ---
 
 

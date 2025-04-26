@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Cost of Capital"
-description: "Explore the significance of the Weighted Average Cost of Capital (WACC) in corporate finance and algorithmic trading. Discover how WACC acts as a vital benchmark for investment decisions and capital structure management. Learn how integrating WACC in trading algorithms enhances decision-making by evaluating the cost of capital for optimized investment opportunities."
+title: Understanding the Weighted Average Cost of Capital
+description: "Weighted Average Cost of Capital calculates a company\u2019s blended\
+  \ debt and equity cost to guide smarter investment choices. Discover more inside."
 ---
 
 

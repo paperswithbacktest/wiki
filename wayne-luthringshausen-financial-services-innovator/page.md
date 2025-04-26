@@ -1,6 +1,7 @@
 ---
-title: "Wayne Luthringshausen - Financial Services Innovator"
-description: "Discover the legacy of Wayne Luthringshausen, a pioneer in financial services who revolutionized options trading and algorithmic trading practices."
+title: Wayne Luthringshausen Environmental Conservation Leadership
+description: Wayne Luthringshausen leads sustainable forest conservation with proven
+  strategies through community engagement and resource planning Discover more inside.
 ---
 
 

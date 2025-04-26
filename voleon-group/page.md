@@ -1,6 +1,7 @@
 ---
-title: "Voleon Group"
-description: "Discover how Voleon Group leads the field in algorithmic trading through advanced machine learning and data-driven strategies for optimized market performance."
+title: The Voleon Group Quantitative Investing Using Machine Learning
+description: Voleon Group leverages machine learning to analyze investment data and
+  identify patterns driving smarter financial decisions Discover more inside.
 ---
 
 

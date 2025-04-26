@@ -1,6 +1,7 @@
 ---
-title: "Women in Cryptocurrency: A Support Guide"
-description: "Supporting women in crypto algorithmic trading fosters diversity while bridging gaps in the fintech sector This guide offers insights to help women thrive"
+title: Empowering Women in Cryptocurrency Investing and Governance
+description: Women in Cryptocurrency gain control of their finances with clear guidance
+  on investing security strategies and support from networks Discover more inside
 ---
 
 

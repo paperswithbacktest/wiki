@@ -1,6 +1,7 @@
 ---
-title: "Volatility and the VIX Index"
-description: "Explore the role of the VIX Index in algo trading Discover how understanding market volatility through the VIX can optimize trading strategies and risk management"
+title: Understanding the VIX Volatility Index for Market Analysis
+description: VIX Volatility Index helps investors gauge sentiment and manage risk
+  using options strategies and market trend analysis Discover more inside
 ---
 
 

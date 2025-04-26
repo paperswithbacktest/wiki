@@ -1,6 +1,7 @@
 ---
-title: "World Federation of Stock Exchanges"
-description: "Explore the World Federation of Stock Exchanges' pivotal role in enhancing global market efficiency and transparency through advancements in algorithmic trading."
+title: World Federation of Stock Exchanges Ensuring Fair Global Markets
+description: World Federation of Stock Exchanges helps markets uphold fair trading
+  with standards and best practices for transparency Discover more inside.
 ---
 
 

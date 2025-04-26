@@ -1,6 +1,7 @@
 ---
-title: "Vortex Indicator Trading Strategies"
-description: "Explore the Vortex Indicator's role in algo trading discover strategies for identifying market trends and enhance efficiency by automating trading signals."
+title: Mastering the Vortex Indicator For Trend Analysis Success
+description: Vortex Indicator helps traders identify trend direction and reversals
+  with clear crossovers and real time momentum insights. Discover more inside.
 ---
 
 

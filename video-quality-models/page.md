@@ -1,7 +1,7 @@
 ---
-title: Understanding Video Quality Models in Machine Learning
-description: Video Quality Model predicts clarity and color accuracy using machine
-  learning to optimize streaming to improve viewer enjoyment Discover more inside
+title: Video Quality Models in Machine Learning Explained Clearly
+description: Video Quality Model tools measure and predict video clarity motion smoothness
+  and distortions using metrics like PSNR SSIM and VMAF Discover more inside
 ---
 
 ![Image](images/1.png)

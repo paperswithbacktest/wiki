@@ -1,6 +1,7 @@
 ---
-title: "Volatility Effect"
-description: Explore the Volatility Effect, a market anomaly that offers high risk-adjusted returns in low-volatility stocks, and its importance in algorithmic trading. Learn why this counter-intuitive phenomenon occurs and how traders can exploit it for superior performance across various markets and assets. Dive into related research papers, libraries, strategies, and datasets to enhance your quantitative trading skills.
+title: Understanding the Volatility Effect in Financial Markets
+description: Volatility effect shows why high-risk stocks can yield stronger long-term
+  returns and how investors measure and manage market swings Discover more inside
 ---
 
 

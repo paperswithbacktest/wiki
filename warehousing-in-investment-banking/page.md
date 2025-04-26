@@ -1,6 +1,7 @@
 ---
-title: "Warehousing in Investment Banking"
-description: "Discover how warehousing in investment banking and algorithmic trading are transforming asset management and trade execution with cutting-edge technology."
+title: Understanding Warehousing Practices in Investment Banking
+description: Warehousing in investment banking holds loans and securities until optimal
+  market timing to manage risk maintain liquidity Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Verition Fund Management"
-description: "Discover Verition Fund Management's unique blend of algorithmic trading and traditional strategies for superior fund management and performance."
+title: Verition Fund Management Data-Driven Investment Strategies
+description: Verition Fund Management leverages technology and data analysis to deliver
+  risk managed investment strategies with reliable returns Discover more inside.
 ---
 
 

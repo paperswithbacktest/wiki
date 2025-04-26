@@ -1,6 +1,7 @@
 ---
-title: "Wealthfront Evaluation 2024"
-description: "Discover how Wealthfront, a pioneer in robo-advisory services, leverages algorithmic trading to optimize investment strategies for diverse investors. This 2024 evaluation investigates into Wealthfront's features and benefits, including tax-loss harvesting and personalized portfolio management, offering insights into its effectiveness in today's financial landscape."
+title: Wealthfront Robo Advisor Services Explained for Investors
+description: Wealthfront simplifies investing with automated portfolio management
+  tax-loss harvesting and high-yield cash accounts Discover more inside.
 ---
 
 

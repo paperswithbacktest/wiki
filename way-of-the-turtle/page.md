@@ -1,6 +1,7 @@
 ---
-title: "Way of the turtle"
-description: Discover the profound impact of "The Turtle Experiment" on modern trading through this pivotal chapter in trading history. Learn how a group of novices, with no prior experience, turned into successful traders by following systematic, rule-based approaches. Gain insights into key lessons like the importance of discipline, risk management, and trend following. Understand why this experiment continues to inspire generations of traders.
+title: Mastering the Way of the Turtle Trend Following Trading System
+description: Way of the Turtle trading principles deliver a disciplined trend following
+  approach and risk management tips for all levels Discover more inside.
 ---
 
 

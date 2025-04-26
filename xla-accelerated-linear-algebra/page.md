@@ -1,7 +1,7 @@
 ---
-title: Optimizing Machine Learning Models With XLA Compiler
-description: XLA for machine learning boosts model speed and efficiency by compiling
-  and optimizing math operations across CPUs GPUs and TPUs. Discover more inside.
+title: XLA Accelerated Linear Algebra for Machine Learning Performance
+description: XLA compiles linear algebra operations into efficient machine learning
+  code for faster training and reduced energy use across hardware Discover more inside
 ---
 
 ![Image](images/1.png)

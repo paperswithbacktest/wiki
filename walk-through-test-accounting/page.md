@@ -1,6 +1,7 @@
 ---
-title: "Walk-Through Test in Accounting"
-description: "Explore how algorithmic trading transforms financial markets, enhancing efficiency and reducing costs, while posing unique accounting and auditing challenges."
+title: Guide to Walk-Through Tests for Accurate Financial Reporting
+description: Walk-through test lets auditors track transactions end to end to verify
+  accuracy uncover process gaps and strengthen internal controls Discover more inside
 ---
 
 

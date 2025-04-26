@@ -1,6 +1,7 @@
 ---
-title: "Yield to Worst: Explanation and Calculation"
-description: "Understand Yield to Worst in algo trading Learn to calculate this key bond metric optimize trades with precision and manage risks for better returns"
+title: Understanding Yield to Worst for Smarter Bond Investments
+description: Yield to Worst shows the lowest bond return under early redemption to
+  help investors manage risk and compare bonds effectively Discover more inside.
 ---
 
 

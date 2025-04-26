@@ -1,6 +1,7 @@
 ---
-title: "Vortex Indicator in Technical Analysis"
-description: "Explore the versatile Vortex Indicator in algo trading to enhance stock market strategies by identifying trend reversals and confirming current trends."
+title: Understanding the Vortex Indicator for Trend Identification
+description: Vortex Indicator identifies trend starts by measuring price direction
+  and strength through VI+ and VI- lines for trades Discover more inside
 ---
 
 

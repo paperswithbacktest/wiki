@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Market Capitalization: Overview and Alternatives"
-description: "Explore the role of Weighted Average Market Capitalization in algorithmic trading learn about its impact on index funds and portfolio management strategies."
+title: Understanding Weighted Average Market Capitalization in Finance
+description: Weighted average market capitalization helps investors understand index
+  performance and allocate assets with examples and insights. Discover more inside.
 ---
 
 

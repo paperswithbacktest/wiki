@@ -1,6 +1,7 @@
 ---
-title: "Wholesale Price Index and Its Calculation"
-description: "Explore the significance of the Wholesale Price Index in gauging economic health and its role in enhancing algorithmic trading strategies with informed insights."
+title: Wholesale Price Index Importance and Calculation in Economics
+description: Wholesale Price Index tracks price shifts for raw materials at the production
+  level to forecast inflation and guide policy decisions Discover more inside.
 ---
 
 

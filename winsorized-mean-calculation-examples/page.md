@@ -1,6 +1,7 @@
 ---
-title: "Winsorized Mean: Calculation and Examples"
-description: "Discover how the winsorized mean can enhance algorithmic trading by mitigating data outliers to provide a stable measure of central tendency for robust analysis."
+title: Practical Guide To Winsorized Mean In Data Analysis
+description: Winsorized mean adjusts extreme values to reveal typical data averages
+  in finance medical research for better decision making Discover more inside
 ---
 
 

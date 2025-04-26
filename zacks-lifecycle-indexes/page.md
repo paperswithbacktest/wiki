@@ -1,6 +1,7 @@
 ---
-title: "Zacks Lifecycle Indexes"
-description: "Explore investment strategies with Zacks Lifecycle Indexes, including lifecycle funds, index investing, and algorithmic trading, for optimum wealth management."
+title: Zacks Lifecycle Indexes Retirement Strategy for Every Life Stage
+description: Zacks Lifecycle Indexes adjust stock and bond allocations over time to
+  match investors age and retirement goals Discover more inside
 ---
 
 

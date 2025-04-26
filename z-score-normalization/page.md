@@ -1,7 +1,7 @@
 ---
-title: Z-Score Normalization Guide for Machine Learning Preprocessing
-description: Z-Score Normalization standardizes features to zero mean and unit variance
-  for faster convergence and balanced model training Discover more inside
+title: Understanding Z-Score Normalization In Machine Learning
+description: Z-Score Normalization transforms features to zero mean and unit variance
+  for faster model convergence and equal feature contribution Discover more inside.
 ---
 
 ![Image](images/1.png)

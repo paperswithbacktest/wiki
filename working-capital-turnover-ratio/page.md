@@ -1,6 +1,7 @@
 ---
-title: "Working Capital Turnover Ratio"
-description: "Explore the intersection of financial ratios and algo trading with a focus on the Working Capital Turnover Ratio. Enhance trading strategies and optimize investments."
+title: Working Capital Turnover Ratio Explained for Financial Efficiency
+description: Working Capital Turnover Ratio measures how effectively your business
+  uses short term funds to boost sales and maintain liquidity. Discover more inside.
 ---
 
 

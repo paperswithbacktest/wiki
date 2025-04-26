@@ -1,6 +1,7 @@
 ---
-title: "Wide-Ranging Days: Definition and Function"
-description: "Explore the importance of wide-ranging days in algorithmic trading strategies to optimize performance by understanding market volatility and identifying potential opportunities."
+title: Understanding Wide-Ranging Days in Stock Market Volatility
+description: Wide-Ranging Days help traders identify major intraday price swings and
+  adjust strategies for volatility and risk management Discover more inside.
 ---
 
 

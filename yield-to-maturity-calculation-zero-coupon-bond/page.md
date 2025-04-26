@@ -1,6 +1,7 @@
 ---
-title: "Yield to Maturity Calculation of a Zero-Coupon Bond"
-description: "Discover the intricacies of yield to maturity calculations for zero-coupon bonds and their strategic application in algorithmic trading for optimized returns."
+title: Understanding Zero-Coupon Bond Yield to Maturity Calculations
+description: Zero-coupon bond yield to maturity reveals your annual return from buying
+  at a discount Use our simple formula to calculate YTM Discover more inside
 ---
 
 

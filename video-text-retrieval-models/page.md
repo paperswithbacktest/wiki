@@ -1,7 +1,7 @@
 ---
-title: Video-Text Retrieval Models in Machine Learning Explained
-description: Video-Text Retrieval models convert text queries and video content into
-  embeddings to deliver accurate matching at scale Discover more inside
+title: Understanding Video-Text Retrieval Models in Machine Learning
+description: Video-Text Retrieval enables precise matching of videos to text queries
+  using embeddings and similarity measures in active voice Discover more inside.
 ---
 
 ![Image](images/1.png)

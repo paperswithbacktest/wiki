@@ -1,6 +1,7 @@
 ---
-title: "Yield to Maturity and Coupon Rate Comparison"
-description: "Explore yield to maturity YTM vs coupon rates in bonds with insights on algorithmic trading strategies to optimize investment returns in financial markets."
+title: Understanding Yield to Maturity and Coupon Rates for Bonds
+description: Yield to Maturity calculates bond total return by combining coupon payments
+  and market price to help investors compare bonds Discover more inside.
 ---
 
 

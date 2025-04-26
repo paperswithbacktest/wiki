@@ -1,6 +1,7 @@
 ---
-title: "Voting Trust Certificate"
-description: "Explore the synergy of voting trust certificates algorithmic trading and corporate governance in finance enhancing decision-making and market strategies."
+title: Understanding Voting Trust Certificates for Corporate Control
+description: Voting Trust Certificate ownership grants shares while delegating decision
+  rights to a trustee to maintain stability during changes Discover more inside
 ---
 
 

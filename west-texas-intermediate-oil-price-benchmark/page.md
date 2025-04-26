@@ -1,6 +1,7 @@
 ---
-title: "West Texas Intermediate as an Oil Price Benchmark"
-description: "Discover how West Texas Intermediate crude oil serves as a vital benchmark in the oil market and the transformative impact of algorithmic trading strategies."
+title: West Texas Intermediate WTI Crude Oil Pricing Benchmark
+description: West Texas Intermediate crude oil benchmark guides pricing by tracking
+  light sweet US production and global market forces Discover more inside
 ---
 
 

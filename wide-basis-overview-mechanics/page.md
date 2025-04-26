@@ -1,6 +1,7 @@
 ---
-title: "Wide Basis: Overview and Mechanics"
-description: "Explore the evolution and mechanics of algorithmic trading and understand essential concepts like wide basis in futures trading for informed market decisions."
+title: Understanding Wide Basis in Commodity and Futures Trading
+description: Wide Basis analysis reveals practical price gaps between cash and futures
+  that shape trading strategies and risk management Discover more inside.
 ---
 
 

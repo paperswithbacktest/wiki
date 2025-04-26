@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Rating Factor (WARF)"
-description: "Explore how the Weighted Average Rating Factor (WARF) serves as a vital credit risk metric in algorithmic trading enhancing portfolio evaluation and risk management."
+title: Understanding Weighted Average Rating Factor WARF For Portfolios
+description: Weighted Average Rating Factor measures portfolio credit risk by combining
+  asset ratings and weights into one metric Discover more.
 ---
 
 

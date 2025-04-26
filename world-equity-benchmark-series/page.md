@@ -1,6 +1,7 @@
 ---
-title: "World Equity Benchmark Series"
-description: "Explore the World Equity Benchmark Series WEBS and its evolution into iShares MSCI ETFs. Discover how algorithmic trading enhances global investment strategies."
+title: Understanding World Equity Benchmark Series for Global Investing
+description: World Equity Benchmark Series lets you diversify with ETFs that track
+  country markets as stocks for investing and risk control Discover more inside
 ---
 
 

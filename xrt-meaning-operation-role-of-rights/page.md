@@ -1,6 +1,7 @@
 ---
-title: "XRT: Meaning, Operation, and Role of Rights"
-description: "Explore the dual nature of XRT in trading: as an ex-rights indicator and the SPDR S&P Retail ETF. Understand its impact and role in algorithmic strategies."
+title: Ex-Rights Trading Explained Benefits Risks and Pricing
+description: Ex-Rights trading offers a clear guide to stock price adjustments after
+  rights offerings with key formulas and insights Discover more inside.
 ---
 
 

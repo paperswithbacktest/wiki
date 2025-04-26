@@ -1,6 +1,7 @@
 ---
-title: "Yield to Average Life"
-description: "Explore the role of Yield-to-Average Life in bond investments and algorithmic trading to optimize bond selection and enhance portfolio returns effectively."
+title: Understanding Yield to Average Life for Accurate Bond Returns
+description: Yield to Average Life helps investors calculate bond returns based on
+  principal repayment timing offering clearer risk insights Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Cost of Capital Analysis"
-description: "Unlock insights into financial strategies with our comprehensive guide on Weighted Average Cost of Capital and its pivotal role in corporate finance and algo trading."
+title: Understanding Weighted Average Cost of Capital for Businesses
+description: Weighted Average Cost of Capital reveals how to calculate financing costs
+  and evaluate project returns to improve investment outcomes Discover more inside
 ---
 
 

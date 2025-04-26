@@ -1,7 +1,7 @@
 ---
-title: Working Memory Models in Machine Learning Explained
-description: Working Memory models power AI systems to store and retrieve information
-  for translation question answering and time series tasks Discover more inside
+title: Understanding Working Memory Models In Machine Learning
+description: Working memory models in machine learning enable dynamic storage and
+  retrieval for language tasks using attention mechanisms. Discover more inside.
 ---
 
 ![Image](images/1.png)

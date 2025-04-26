@@ -1,6 +1,7 @@
 ---
-title: "Zeta Model: Overview and Significance"
-description: "Explore the significance of the Zeta Model in predicting bankruptcy and its role in algorithmic trading. Learn how it enhances financial risk assessments."
+title: Understanding The Zeta Model For Bankruptcy Risk Analysis
+description: Zeta Model lets investors and banks evaluate bankruptcy risk with key
+  ratios and scoring formulas for smarter funding decisions Discover more inside
 ---
 
 

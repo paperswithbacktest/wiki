@@ -1,6 +1,7 @@
 ---
-title: "When Issued Securities"
-description: "Discover the intricate world of when-issued securities and algorithmic trading Learn how these elements shape capital markets and enhance financial strategies"
+title: Trading When Issued Securities Before Official Release
+description: When Issued securities let investors trade new stocks and bonds before
+  official release, unlocking early market pricing and liquidity Discover more inside.
 ---
 
 

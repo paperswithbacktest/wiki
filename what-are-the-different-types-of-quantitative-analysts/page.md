@@ -1,6 +1,7 @@
 ---
-title: "What Are the Different Types of Quantitative Analysts?"
-description: Discover the dynamic role of quantitative analysts or quants in algorithmic trading as they revolutionize financial markets. Combining expertise in mathematics finance and computer science quants create sophisticated models to automate trading decisions. Their work transforms vast datasets into actionable insights continuously refining algorithms for optimal market performance. This article explores their essential skills and responsibilities showcasing the profound impact quants have on modern trading ecosystems and future trading technologies.
+title: Comprehensive Guide to Quantitative Analyst Roles and Skills
+description: Quantitative analyst roles demand math programming and finance expertise
+  to build predictive models for risk management and trading Discover more inside.
 ---
 
 

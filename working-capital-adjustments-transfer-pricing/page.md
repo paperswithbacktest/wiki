@@ -1,6 +1,7 @@
 ---
-title: "Working Capital Adjustments in Transfer Pricing"
-description: "Discover the intricate relationship between working capital adjustments and transfer pricing in algorithmic trading Learn how these financial concepts interlink"
+title: Optimizing Working Capital Adjustments in Transfer Pricing
+description: Working capital adjustments in transfer pricing ensure fair cash flow
+  across subsidiaries and support strategic decision making Discover more inside.
 ---
 
 

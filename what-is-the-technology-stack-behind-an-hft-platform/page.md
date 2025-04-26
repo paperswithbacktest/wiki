@@ -1,6 +1,7 @@
 ---
-title: "What is the technology stack behind an HFT platform?"
-description: "Discover the technology stack powering High-Frequency Trading (HFT) platforms. From colocated servers and ultra-fast networks to programming languages, databases, communication protocols, APIs, and monitoring tools - learn how these technologies optimize for speed and reduce latency."
+title: High-Frequency Trading Infrastructure and Key Techniques
+description: High-Frequency Trading platforms use algorithms low-latency data feeds
+  and risk controls to execute rapid trades efficiently Discover more inside
 ---
 
 

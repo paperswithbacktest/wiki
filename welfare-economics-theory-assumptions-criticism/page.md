@@ -1,6 +1,7 @@
 ---
-title: "Welfare Economics: Theory, Assumptions, and Criticism"
-description: "Explore how welfare economics evaluates resource allocation to maximize social welfare while examining its relevance to algorithmic trading and economic policy."
+title: Welfare Economics Core Concepts Theories and Policy Insights
+description: Welfare economics explores how resource use impacts societal well being
+  through Pareto efficiency and welfare measures to inform policy Discover more inside
 ---
 
 

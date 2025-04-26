@@ -1,6 +1,7 @@
 ---
-title: "Zero-Investment Portfolio"
-description: "Explore zero-investment portfolios and algorithmic trading strategies to optimize returns without initial cash outlay Delve into innovative financial techniques"
+title: Understanding Zero-Investment Portfolios And Their Strategies
+description: Zero-investment portfolio uses short sale proceeds to fund long positions
+  letting investors pursue arbitrage and hedge risk Discover more inside
 ---
 
 

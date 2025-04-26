@@ -1,6 +1,7 @@
 ---
-title: "Volatility Assessment Using Average True Range"
-description: "Explore the use of Average True Range in algorithmic trading to assess market volatility and enhance decision-making with dynamic risk management strategies."
+title: Understanding Average True Range For Volatility Assessment
+description: Average True Range offers traders a clear measure of asset volatility
+  and guides stop-loss and risk decisions with confidence Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "What is a strategy backtest?"
-description: "Discover the concept of a strategy backtest and its importance in assessing a trading strategy's viability using historical data. Learn the steps involved in conducting a backtest, including strategy definition, data acquisition, simulation, evaluation, analysis, and potential risks. Explore resources for further study and datasets to get started in quantitative trading."
+title: Professional Strategy Backtest Techniques for Trading Success
+description: Strategy backtest validates trading plans with historical market data
+  to identify strengths risks and refine entry exit rules Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "The First ETF Ever Created: Oldest Exchange-Traded Fund"
-description: Discover the origins of exchange-traded funds (ETFs) and their groundbreaking integration with algorithmic trading that revolutionized the investment landscape. Explore how early ETFs like SPY leveraged algorithmic strategies to enhance market efficiency liquidity and investor access. This deep dive into the evolution of ETFs and algorithmic trading uncovers the technological advancements and strategic implementations that have shaped modern financial markets offering investors reduced costs improved execution and diversified asset exposure.
+title: Evolution and Impact of the First Exchange-Traded Fund
+description: First ETF launched in 1990 offered a low-fee path to broad exposure while
+  trading like a stock and paved the way for modern ETFs Discover more inside.
 ---
 
 

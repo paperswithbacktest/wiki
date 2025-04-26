@@ -1,6 +1,7 @@
 ---
-title: "Volume Rate of Change in Trend Confirmation"
-description: "Explore the power of Volume Rate of Change as a technical tool for trend confirmation in algorithmic trading. Learn how V-ROC aids in market analysis."
+title: Volume Rate of Change Explained for Trend Confirmation
+description: Volume rate of change reveals trading interest shifts to confirm market
+  trends and spot potential reversals with confidence Discover more inside
 ---
 
 

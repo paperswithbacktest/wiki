@@ -1,6 +1,7 @@
 ---
-title: "Volterra Technologies"
-description: "Volterra Technologies pioneers algorithmic trading, enhancing market speed and accuracy with innovative solutions, driving financial efficiency and precision."
+title: Volterra Technologies Company Profile And Platform Overview
+description: Volterra Technologies simplifies network and cloud computing for businesses
+  with an integrated platform to boost efficiency Discover more inside
 ---
 
 

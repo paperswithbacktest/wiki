@@ -1,6 +1,7 @@
 ---
-title: "Wealth Effect and Marginal Propensity to Consume"
-description: "Explore the relationship between Marginal Propensity to Consume wealth effect and algo trading to understand modern economic dynamics and market influences."
+title: Connecting the Wealth Effect and Marginal Propensity to Consume
+description: Wealth effect links asset value changes to consumer spending and MPC
+  insights that shape economic growth trends for policymakers Discover more inside.
 ---
 
 

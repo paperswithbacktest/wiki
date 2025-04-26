@@ -1,6 +1,7 @@
 ---
-title: "XTB Online Trading Platform Review 2024"
-description: "Discover the comprehensive review of XTB's online trading platform for 2024, focusing on algorithmic trading capabilities. Explore XTB's advanced tools, user-friendly interface, and its extensive range of tradable assets, including stocks, forex, commodities, and cryptocurrencies. Learn how XTB supports algorithmic trading strategies with its proprietary platform, xStation, known for its intuitive design and robust functionalities. Gain insights into XTB's performance, competitive costs, and educational resources, helping traders of all levels make informed decisions in the dynamic world of online trading."
+title: XTB Trading Platform Guide For Beginners And Professionals
+description: XTB trading platform provides intuitive tools, charts and expert analysis
+  for seamless trading from demo to live accounts Discover more inside
 ---
 
 

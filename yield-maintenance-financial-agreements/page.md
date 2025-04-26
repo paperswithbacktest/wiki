@@ -1,6 +1,7 @@
 ---
-title: "Yield Maintenance in Financial Agreements"
-description: "Explore the interplay of yield maintenance, prepayment penalties, and algorithmic trading in financial agreements. Learn how yield maintenance protects lenders from early repayment losses, ensuring expected yields in long-term loans. Understand the role of prepayment penalties in safeguarding lenders’ interests, and discover how algo trading influences these financial strategies in today’s dynamic markets."
+title: Understanding Yield Maintenance in Commercial Real Estate Loans
+description: Yield maintenance protects lenders from early interest loss by using
+  present value of future interest payments as penalties. Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Wahed Invest: The Islamic Robo-Advisor"
-description: "Experience seamless, Sharia-compliant investing with Wahed Invest's robo-advisor offering ethical, automated portfolio management tailored to your financial goals."
+title: Shariah Compliant Investing With Wahed Invest Robo Advisor
+description: Wahed Invest offers easy halal investing with robo advisor selecting
+  Shariah compliant portfolios and rebalancing assets ethically Discover more inside
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Volume in Measurement"
-description: "Explore the intricate role of trading volume in algorithmic trading, a field at the intersection of mathematical prowess and computational efficiency. This guide investigates into how volume, a key indicator of market activity and liquidity, is vital in crafting robust trading strategies. By analyzing trade volume alongside price changes, traders can discern trends, confirm market strength, and make informed decisions. Understand the mathematical models at play, including statistics and linear regression, that drive algorithmic trading, enhancing prediction accuracy and optimizing trades in fast-paced financial markets."
+title: Volume Measurement Concepts and Algorithmic Trading Strategies
+description: Volume explains how to measure space in liquids and gases and introduces
+  VWAP and TWAP algorithms for optimized trade execution Discover more inside
 ---
 
 

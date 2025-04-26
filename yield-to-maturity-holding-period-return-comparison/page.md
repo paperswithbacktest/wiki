@@ -1,6 +1,7 @@
 ---
-title: "Yield to Maturity and Holding Period Return Comparison"
-description: "Explore the key differences and benefits of Yield to Maturity and Holding Period Return in algorithmic trading to maximize investment efficiency and returns."
+title: Comparing Yield to Maturity and Holding Period Return Metrics
+description: Yield to Maturity and Holding Period Return provide investors with clear
+  formulas to compare bond yields and total returns effectively Discover more inside
 ---
 
 

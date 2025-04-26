@@ -1,6 +1,7 @@
 ---
-title: "World Trade Organization: Purpose and Functions"
-description: "Explore the essential functions and purposes of the World Trade Organization in global trade, its impact on algorithmic trading, and its role in shaping economic policies."
+title: Comprehensive Guide To The World Trade Organization
+description: World Trade Organization enables fair global trade through binding agreements
+  dispute resolution and support for developing economies Discover more inside.
 ---
 
 

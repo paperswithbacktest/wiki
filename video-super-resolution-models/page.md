@@ -1,7 +1,8 @@
 ---
-title: Understanding Video Super-Resolution with BasicVSR Technology
-description: Video super-resolution uses BasicVSR to enhance low-quality footage with
-  bidirectional frame analysis for sharper, smoother results Discover more inside
+title: Understanding Video Super-Resolution and BasicVSR Technology
+description: Video super-resolution enhances low quality footage by using algorithms
+  to boost resolution and clarity for improved viewing and analysis Discover more
+  inside
 ---
 
 ![Image](images/1.png)

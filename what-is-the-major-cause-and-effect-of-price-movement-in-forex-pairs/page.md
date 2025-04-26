@@ -1,6 +1,7 @@
 ---
-title: "What is the major cause and effect of price movement in Forex pairs?"
-description: "Discover the major causes and effects of price movements in Forex pairs, including economic news, central bank decisions, market sentiment, geopolitical events, trade imbalances, and their implications for trading opportunities, import/export costs, foreign investment, tourism, and inflation. Learn how to navigate this complex and dynamic market."
+title: Understanding Forex Pair Price Movements and Key Influences
+description: Forex pair price movements depend on economic indicators interest rates
+  and geopolitical events. This guide breaks down key drivers Discover more inside
 ---
 
 

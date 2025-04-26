@@ -1,7 +1,7 @@
 ---
-title: Comprehensive Guide to Wide Models in Machine Learning
-description: Wide Models in machine learning leverage extensive feature sets and crosses
-  to capture specific patterns for accurate recommendations Discover more inside
+title: Wide Models in Machine Learning Concepts and Applications
+description: Wide Models leverage extensive feature interactions to capture specific
+  patterns and improve recommendation and prediction accuracy Discover more inside.
 ---
 
 ![Image](images/1.png)

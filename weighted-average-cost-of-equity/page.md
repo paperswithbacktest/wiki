@@ -1,6 +1,7 @@
 ---
-title: "Weighted Average Cost of Equity"
-description: "Explore the connection between Weighted Average Cost of Equity and algorithmic trading to enhance financial strategies and informed investment decisions."
+title: Understanding The Weighted Average Cost Of Equity WACE
+description: Weighted Average Cost of Equity WACE shows equity expense by weighing
+  common and preferred stock costs by capital structure Discover more inside
 ---
 
 

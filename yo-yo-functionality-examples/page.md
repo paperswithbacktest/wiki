@@ -1,6 +1,7 @@
 ---
-title: "Yo-Yo: Functionality and Examples"
-description: "Explore the metaphorical use of the classic yo-yo toy in finance by understanding its mechanics and see how algorithmic trading thrives in volatile markets."
+title: Comprehensive Yo-Yo Guide From Basics to Advanced Tricks
+description: Yo-yo guide covers essential parts basics tricks maintenance design physics
+  and competitive insights in a clear professional style Discover more inside
 ---
 
 

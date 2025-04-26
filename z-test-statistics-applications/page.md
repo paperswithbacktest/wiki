@@ -1,6 +1,7 @@
 ---
-title: "Z-Test in Statistics and Applications"
-description: "Explore how Z-Tests enhance algorithmic trading by identifying anomalies and validating hypotheses essential for superior market strategy optimization."
+title: Z-Test Fundamentals And Applications In Statistics And Trading
+description: Z-Test applies statistical analysis to check sample means against known
+  population values and support data driven trading insights Discover more inside
 ---
 
 

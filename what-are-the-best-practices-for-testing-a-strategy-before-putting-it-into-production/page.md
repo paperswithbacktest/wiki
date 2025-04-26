@@ -1,6 +1,7 @@
 ---
-title: "What are the best practices for testing a strategy before putting it into production?"
-description: "Before deploying an algorithmic trading strategy, it is essential to rigorously test its reliability, robustness, and performance. This page outlines best practices for testing a strategy, including backtesting with quality data and avoiding overfitting, out-of-sample validation, forward testing, robustness tests (Monte Carlo and disruption), stress testing, and performance evaluation. Additionally, consider peer review to ensure accuracy and success."
+title: Strategy Testing Techniques for Effective Business Planning
+description: Strategy testing uses simulations historical data and KPIs in a test
+  environment to refine plans reduce risks and improve outcomes Discover more inside.
 ---
 
 

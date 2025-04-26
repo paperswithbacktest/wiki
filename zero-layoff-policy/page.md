@@ -1,6 +1,7 @@
 ---
-title: "Zero Layoff Policy"
-description: "Explore the benefits and challenges of zero layoff policies in algorithmic trading Discover innovative strategies to ensure job security and boost employee morale"
+title: Zero Layoff Policy Building Workforce Security and Loyalty
+description: Zero Layoff Policy strengthens workforce loyalty and security by offering
+  strategic cost controls and development initiatives Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Volcker Rule: Overview and Functionality"
-description: "The Volcker Rule reshapes banking by restricting proprietary trading and high-risk investments to enhance stability reduce systemic risk and protect consumers."
+title: Understanding the Volcker Rule and Its Impact on Banking
+description: Volcker Rule ensures banks avoid risky trading to strengthen financial
+  stability and protect customer funds with compliance oversight. Discover more inside
 ---
 
 

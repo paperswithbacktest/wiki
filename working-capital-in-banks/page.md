@@ -1,6 +1,7 @@
 ---
-title: "Working Capital in Banks"
-description: "Explore how working capital, banks, and algorithmic trading intertwine to shape financial strategies, enhancing efficiency and competitive advantage."
+title: Working Capital Management for Bank Liquidity and Profitability
+description: Working Capital empowers banks to maintain liquidity lend funds and optimize
+  cash flow via accurate forecasts to boost profitability Discover more inside
 ---
 
 

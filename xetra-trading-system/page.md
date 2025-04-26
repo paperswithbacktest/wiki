@@ -1,6 +1,7 @@
 ---
-title: "Xetra Trading System"
-description: "Xetra Trading System by Deutsche Boerse AG is a leading electronic trading platform leveraging T7 technology for international equities and ETPs."
+title: Understanding the Xetra Trading System for Global Markets
+description: Xetra trading system delivers fast, transparent trading for stocks ETFs
+  and bonds on Deutsche Boerse with clear fee details explained Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "World’s Fastest Cloud Ticker Plant"
-description: Discover the world's fastest cloud ticker plant for algorithmic trading, offering unprecedented speed and precision without the traditional infrastructure costs. Databento's innovative solution leverages cutting-edge cloud technology to deliver real-time data processing, helping traders optimize their strategies and maintain a competitive edge in high-frequency trading. Experience seamless integration, cost efficiency, and enhanced scalability in a rapidly evolving financial landscape.
+title: Maximizing Cloud Ticker Plant Speed and Scalability
+description: Cloud Ticker Plant systems process real-time market data with low latency
+  high throughput and scalability for faster trading decisions Discover more inside
 ---
 
 

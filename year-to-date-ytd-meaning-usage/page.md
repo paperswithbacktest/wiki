@@ -1,6 +1,7 @@
 ---
-title: "Year to Date (YTD): Meaning and Usage"
-description: "Discover how Year to Date analysis enhances algorithmic trading strategies by providing insights into financial trends and optimizing trade decisions based on current performance."
+title: Understanding Year to Date YTD Metrics in Financial Analysis
+description: Year to Date metrics reveal performance from the year start through today
+  so you can track progress and make data driven decisions Discover more inside
 ---
 
 

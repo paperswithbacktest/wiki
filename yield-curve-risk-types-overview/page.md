@@ -1,6 +1,7 @@
 ---
-title: "Yield Curve Risk: Types and Overview"
-description: "Explore the dynamics of yield curve risk within algorithmic trading, and learn how integrating yield curve analysis enhances risk management and strategic investment."
+title: Understanding Yield Curve Risk and Its Impact on Bonds
+description: Yield curve risk can erode bond returns as rate shifts alter values.
+  Explore strategies to manage yield curve risk effectively Discover more inside.
 ---
 
 

@@ -1,6 +1,7 @@
 ---
-title: "Y-Share: Overview and Functionality"
-description: "Explore the synergy between Y-Shares and algo trading where institutional investors leverage low-cost Y-Shares with high-speed transactions for optimized returns."
+title: Complete Guide to Y-Shares Benefits and Risks for Investors
+description: Y-Shares enable investors to earn higher dividends without voting rights
+  so you secure steady income while founders retain control Discover more inside
 ---
 
 

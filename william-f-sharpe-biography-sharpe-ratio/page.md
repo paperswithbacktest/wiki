@@ -1,6 +1,7 @@
 ---
-title: "William F. Sharpe: Biography and the Sharpe Ratio"
-description: "Explore William F. Sharpe's biography and groundbreaking contributions to finance, including the CAPM and Sharpe Ratio, crucial for algorithmic trading success."
+title: "William F. Sharpe\u2019s Capital Asset Pricing Model and Sharpe Ratio"
+description: Sharpe Ratio reveals how to measure returns against risk and optimize
+  portfolios with the Capital Asset Pricing Model Discover more inside today.
 ---
 
 
