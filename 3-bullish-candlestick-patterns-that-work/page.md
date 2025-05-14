@@ -16,7 +16,6 @@ Recognizing the importance of these patterns, we will explore their application 
 
 Furthermore, this article will offer insights into backtesting results and the historical efficacy of these patterns. Backtesting serves as a validation tool for the effectiveness of candlestick patterns in algorithmic strategies, providing the essential feedback needed to refine algorithms for better accuracy and profitability in live trading environments.
 
-## Table of Contents
 
 ## Understanding Bullish Candlestick Patterns
 
