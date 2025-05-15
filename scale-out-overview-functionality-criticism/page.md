@@ -1,7 +1,6 @@
 ---
-title: Scaling Distributed Systems for Algorithmic Trading Platforms
-description: Scaling distributed systems enables algorithmic trading platforms to
-  process market data at low latency with enhanced reliability Discover more inside.
+title: "Scale Out: Overview, Functionality, and Criticism (Algo Trading)"
+description: "Explore how scaling in distributed systems, especially horizontal scaling, enhances algorithmic trading by improving efficiency and reliability with robust infrastructure."
 ---
 
 Scaling in distributed systems has emerged as a critical paradigm, especially within the sphere of algorithmic trading, an area requiring high efficiency and rapid data processing. Distributed systems, consisting of multiple independent components that communicate with each other to achieve a common objective, have become foundational in modern financial markets. These systems provide the infrastructure necessary for executing a multitude of trading operations concurrently, thus enabling high-frequency trading and real-time market analysis.

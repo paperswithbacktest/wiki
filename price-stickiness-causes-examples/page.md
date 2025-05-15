@@ -1,7 +1,6 @@
 ---
-title: Understanding Price Stickiness and Its Impact on Markets
-description: Price stickiness explains why market prices adjust slowly to economic
-  shifts and reveals implications for policymakers and traders Discover more inside.
+title: "Price Stickiness: Causes and Examples (Algo Trading)"
+description: "Explore the concept of price stickiness and its implications in economic theory and algorithmic trading Discover how resistance to price changes affects markets."
 ---
 
 Price stickiness is a critical concept within economic theory that sheds light on the complexities of market dynamics. At its core, price stickiness describes the tendency of market prices to remain unchanged or adjust slowly despite shifts in economic conditions. This phenomenon can be observed in various markets where prices do not immediately reflect changes in supply and demand, interest rates, or other economic variables.

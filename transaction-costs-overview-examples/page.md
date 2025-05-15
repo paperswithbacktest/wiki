@@ -1,7 +1,6 @@
 ---
-title: Managing Transaction And Economic Costs In Algorithmic Trading
-description: Algorithmic trading requires managing transaction and economic costs
-  to improve net returns with order execution and cost analysis Discover more inside
+title: "Transaction Costs: Overview and Examples (Algo Trading)"
+description: "Explore the impact of transaction costs in algorithmic trading and learn strategies to optimize profits by managing expenses like brokerage fees and slippage."
 ---
 
 The financial markets have undergone a profound transformation with the emergence of algorithmic trading, a method where transactions are executed by computers at exceptional speeds and with high efficiency. This paradigm shift signifies a transition from traditional trading methods to a more technologically driven approach where success is often measured by the ability to respond rapidly to market changes. Within this new landscape, understanding the role of transaction costs and economic costs is essential for traders and investors aiming to maximize their returns.

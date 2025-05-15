@@ -1,7 +1,6 @@
 ---
-title: Stochastic Calculus Applications in Financial Modeling
-description: Stochastic Calculus empowers financial professionals to model market
-  randomness and price complex derivatives with precision Discover more inside
+title: "Stochastic calculus in finance"
+description: Discover the fundamental role of Stochastic Calculus in finance, including its impact on pricing derivatives and managing financial risks through models like Black-Scholes. Understand Brownian motion, Stochastic Differential Equations (SDEs), and their applications in financial modeling. Explore resources for further study.
 ---
 
 Stochastic calculus is a branch of mathematics that operates on stochastic processes, providing the tools necessary for modeling systems that evolve over time with inherent randomness. In finance, stochastic calculus is crucial for the development of models used to price derivatives and manage financial risks, particularly in the continuous-time framework.

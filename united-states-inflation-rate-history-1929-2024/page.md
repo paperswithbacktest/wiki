@@ -1,87 +1,21 @@
 ---
-title: Understanding US Inflation Trends From 1929 To 2024
-description: Inflation history reveals patterns and drivers of US price changes since
-  1929 with expert analysis of causes and forecasts. Discover more inside.
+title: "United States Inflation Rate History: 1929–2024 (Algo Trading)"
+description: "Explore the historical United States inflation rate from 1929 to 2024 to understand its influence on economic decision-making. Discover how inflation impacts monetary policy, investment strategies, and algorithmic trading. This comprehensive analysis highlights key inflationary periods such as the Great Depression, stagflation of the 1970s, and recent post-COVID-19 trends. Gain insights into the critical role inflation plays in shaping economic policies and market dynamics, assisting investors and policymakers in future forecasting and achieving stable economic growth."
 ---
 
+Understanding historical U.S. inflation rates is critical for informed economic decision-making. Inflation, the rate at which the general level of prices for goods and services rises, eroding purchasing power, is a key factor that influences economic policies and individual financial strategies. For economists and policymakers, inflation data is fundamental. It helps to assess the economic environment, guide monetary policy, and develop fiscal strategies aimed at achieving stable growth and employment.
 
-![Image](images/1.webp)
+Investors rely heavily on inflation metrics to shape portfolio strategies and predict market trends. For instance, periods of high inflation may lead to increased interest rates affecting bond yields and influencing stock market valuations. Historical inflation trends provide insights into future expectations, allowing investors to hedge against potential risks associated with inflation variability.
+
+![Image](images/1.jpeg)
+
+Algorithmic trading, a modern innovation in financial markets, utilizes inflation data to enhance trading strategies. This automated trading employs complex algorithms that analyze substantial quantities of economic data, including inflation statistics, to forecast market shifts and identify profitable trading opportunities. By incorporating economic indicators like inflation, these systems can improve prediction accuracy and optimize asset allocation.
+
+Inflation metrics serve as crucial tools for a comprehensive understanding of past economic dynamics and for forecasting future economic trajectories. The capacity to decipher and respond to inflation trends is indispensable for maintaining economic stability and advancing financial growth in an increasingly data-driven world.
 
 ## Table of Contents
 
-## What is inflation and why is it important to understand its history?
-
-Inflation is when the prices of things we buy, like food and toys, go up over time. It means that the money we have can buy less than it used to. For example, if a candy bar cost $1 last year and now it costs $1.10, that's inflation. It happens because the amount of money in the economy grows faster than the amount of stuff we can buy with it.
-
-Understanding the history of inflation is important because it helps us see patterns and learn from the past. If we know what caused inflation to go up or down in the past, we can make better choices today. For example, if a country had very high inflation before because it printed too much money, we can be careful not to do that again. This knowledge helps governments and people plan for the future and manage their money better.
-
-## How is the inflation rate calculated in the United States?
-
-The inflation rate in the United States is calculated using the Consumer Price Index, or CPI. The CPI measures the average change over time in the prices paid by urban consumers for a market basket of consumer goods and services, such as food, transportation, and medical care. To calculate the CPI, the U.S. Bureau of Labor Statistics collects price data from thousands of businesses and households across the country. They then compare these prices to a base period to see how much prices have changed.
-
-To find the inflation rate, you take the CPI for the current period and subtract the CPI from the previous period. Then, you divide that number by the CPI from the previous period and multiply by 100 to get a percentage. For example, if the CPI was 250 last year and it's 260 this year, the inflation rate would be calculated as follows: (260 - 250) / 250 * 100 = 4%. This means the inflation rate for the year is 4%. This simple calculation helps everyone understand how much more expensive things have become over time.
-
-## What was the average inflation rate in the United States from 1929 to 2024?
-
-The average inflation rate in the United States from 1929 to 2024 was about 3.1% per year. This number comes from looking at the Consumer Price Index (CPI) over all those years. The CPI measures how much prices for things like food, clothes, and other stuff go up. By taking the CPI for each year and figuring out the average increase, we get this 3.1% number. It's important to remember that inflation rates can go up and down a lot from year to year, so this average gives us a general idea of what happened over the whole time.
-
-During this period, the United States went through many big changes and events that affected inflation. For example, there was the Great Depression in the 1930s when prices actually went down, which is called deflation. Then, after World War II, there were times of high inflation in the 1970s and 1980s. More recently, inflation has been pretty stable but started to go up again around 2021. Understanding the average inflation rate helps us see how the cost of living has changed over almost a century and can help us plan for the future.
-
-## What were the highest and lowest annual inflation rates during this period, and when did they occur?
-
-The highest annual inflation rate in the United States from 1929 to 2024 was about 18.2% in 1918. This happened right after World War I when the economy was trying to adjust after the war. Prices for many things went up a lot because the government had been spending a lot of money during the war, and now there was more money chasing fewer goods. This high inflation rate made everything more expensive very quickly, and it was tough for people to keep up with the rising costs.
-
-The lowest annual inflation rate during this time was actually a deflation rate of about -10.3% in 1932. This happened during the Great Depression, which was a very hard time for the economy. Many people lost their jobs, and there was not much money being spent. Because of this, prices actually went down, which is what we call deflation. Deflation can be tough too because people might wait to buy things hoping prices will keep falling, which can make the economy even worse.
-
-## How did the Great Depression impact inflation rates in the 1930s?
-
-The Great Depression had a big impact on inflation rates in the 1930s. During this time, the United States went through a very tough economic period where many people lost their jobs and businesses closed down. Because people didn't have much money to spend, the demand for goods and services dropped a lot. This led to prices falling instead of going up, which is called deflation. The lowest deflation rate during the Great Depression was about -10.3% in 1932. This meant that things were getting cheaper, but it also made the economic situation worse because people waited to buy things, hoping prices would keep falling.
-
-As the Great Depression continued, the government tried different ways to help the economy recover. In 1933, President Franklin D. Roosevelt started the New Deal, which included programs to create jobs and help people. These efforts slowly started to bring prices back up, but it took a long time for the economy to fully recover. By the end of the 1930s, inflation rates were still low, but they were no longer in deflation. Understanding how the Great Depression affected inflation helps us see how important it is for the government to manage the economy carefully during tough times.
-
-## What effect did World War II have on inflation rates in the United States?
-
-World War II had a big effect on inflation rates in the United States. During the war, the government spent a lot of money on things like weapons, ships, and soldiers. This spending put more money into the economy, but because so many resources were being used for the war, there weren't as many goods for people to buy. This caused prices to go up, and inflation rates started to climb. By the end of the war in 1945, the inflation rate was about 2.3%, which was higher than in the years before the war.
-
-After World War II ended, the U.S. had to adjust to peacetime. The government stopped spending as much on the war, but there was still a lot of money in people's pockets from the war-time economy. This extra money, along with the need to rebuild and produce more consumer goods, kept pushing prices up. In the years right after the war, inflation rates stayed high, reaching about 14.4% in 1946 and 8.8% in 1947. It took some time for the economy to stabilize and for inflation to come back down to more normal levels.
-
-## How did the oil crises of the 1970s influence inflation rates?
-
-The oil crises of the 1970s had a big impact on inflation rates in the United States. In 1973, some countries that produced oil decided to stop selling it to the U.S. because they were upset about the country's support for Israel during a war. This caused the price of oil to go way up, and because oil is used to make and transport so many things, the prices of lots of other stuff went up too. This led to higher inflation rates, with the rate reaching about 11% in 1974.
-
-Another oil crisis happened in 1979 when there was a revolution in Iran, which also made oil prices go up a lot. This second crisis made inflation even worse because prices were already high from the first crisis. In 1980, the inflation rate hit a peak of about 13.5%. The high cost of oil made everything more expensive, and people had to pay more for gas, heating their homes, and buying things that needed oil to be made or moved. These oil crises showed how important oil is to the economy and how big changes in its price can cause big changes in inflation.
-
-## What were the key factors contributing to the high inflation rates during the late 1970s and early 1980s?
-
-The high inflation rates during the late 1970s and early 1980s were mainly caused by the oil crises that happened in 1973 and 1979. In 1973, some countries that produced oil stopped selling it to the U.S. because they were upset about the country's support for Israel during a war. This made the price of oil go way up, and because oil is used to make and move so many things, the prices of lots of other stuff went up too. This led to higher inflation rates, with the rate reaching about 11% in 1974. Then, in 1979, there was another oil crisis because of a revolution in Iran, which made oil prices go up even more. This second crisis made inflation even worse because prices were already high from the first crisis. In 1980, the inflation rate hit a peak of about 13.5%.
-
-Another big [factor](/wiki/factor-investing) that contributed to the high inflation rates during this time was the way the government handled the economy. The government was spending a lot of money, which put more money into people's pockets. At the same time, the Federal Reserve, which controls the money supply, was not raising interest rates enough to keep inflation in check. This meant there was too much money chasing too few goods, which pushed prices up even more. The combination of high oil prices and loose government spending policies created a situation where inflation kept going up, making it hard for people to keep up with the rising costs of living.
-
-## How have monetary policies, such as those implemented by the Federal Reserve, affected inflation rates over the decades?
-
-The Federal Reserve, which is like the boss of money in the United States, has a big job when it comes to controlling inflation. Over the years, they've used something called monetary policy to try and keep inflation at a good level. One way they do this is by changing interest rates. When they think inflation is getting too high, they might raise interest rates to make borrowing money more expensive. This can slow down spending and help bring prices down. On the other hand, if they think inflation is too low, they might lower interest rates to make borrowing cheaper, which can encourage people to spend more and help the economy grow.
-
-During different times, the Federal Reserve's actions have had different effects on inflation. In the 1970s and early 1980s, when inflation was very high because of the oil crises, the Federal Reserve, led by Paul Volcker, decided to raise interest rates a lot. This made borrowing very expensive and slowed down the economy, but it also helped bring inflation down. In more recent years, like after the 2008 financial crisis and during the COVID-19 pandemic, the Federal Reserve kept interest rates low and even used other tools like buying bonds to help the economy. These actions helped keep inflation in check for a while, but as the economy recovered, inflation started to rise again, showing how tricky it can be to balance everything just right.
-
-## What role did technological advancements and globalization play in moderating inflation rates from the 1990s onwards?
-
-From the 1990s onwards, technological advancements helped keep inflation rates lower. New technologies like the internet and computers made it easier for businesses to work more efficiently. This meant they could produce more stuff without needing to raise prices as much. For example, online shopping let people compare prices easily, which made companies keep their prices competitive. Also, new tech helped make things like phones and computers cheaper over time, which helped keep overall prices from going up too fast.
-
-Globalization also played a big part in keeping inflation down. It meant that countries could trade with each other more easily, and companies could move their factories to places where it was cheaper to make things. This brought down the cost of making stuff, which helped keep prices lower for people buying things. For example, a lot of products we use every day, like clothes and electronics, are made in countries where labor is less expensive. This global trade helped keep inflation rates more stable and lower than they might have been without it.
-
-## How did the 2008 financial crisis and subsequent economic policies impact inflation rates?
-
-The 2008 financial crisis caused a big drop in inflation rates because it made the economy slow down a lot. People were losing jobs and not spending as much money, so there wasn't as much demand for things. This made prices go up slower than usual, and in some places, prices even went down a little bit. To help the economy recover, the government and the Federal Reserve started doing things like spending more money and lowering interest rates. These actions helped keep inflation from falling too much, but it took a while for the economy to get back on track.
-
-After the crisis, the Federal Reserve kept interest rates really low for a long time to help the economy grow again. They also started buying a lot of bonds, which is another way to put more money into the economy. These policies helped bring inflation back up to more normal levels, but it was a slow process. By keeping inflation stable and low, the Federal Reserve tried to make sure the economy was recovering without prices going up too fast. This careful balancing act showed how important it is to manage inflation to help the economy heal after a big shock like the 2008 financial crisis.
-
-## What are the current trends in inflation rates as of 2024, and what are the forecasts for the near future?
-
-As of 2024, inflation rates in the United States have been going up. After staying pretty low for a while, prices started to rise faster in 2021 and have kept going up since then. By 2024, the inflation rate is around 3.5%, which is higher than the Federal Reserve's target of 2%. This increase in inflation is because of things like supply chain problems, higher wages, and more demand for goods and services as the economy keeps recovering from the COVID-19 pandemic. People are feeling the pinch because everything from groceries to rent is costing more.
-
-Looking into the near future, experts think inflation might start to slow down a bit. They expect it to go down to around 2.5% by the end of 2025. This is because the Federal Reserve is trying to control inflation by raising interest rates a little bit. Also, supply chains are getting better, and some of the big jumps in prices are starting to level off. But, it's hard to predict exactly what will happen because things like global events and changes in the economy can always affect inflation. So, while things might get a bit easier, people should still be ready for some ups and downs in prices.
-
-## What is the understanding of inflation and economic data?
+## Understanding Inflation and Economic Data
 
 Inflation is the rate at which the general level of prices for goods and services rises, eroding purchasing power. It is commonly measured using indices such as the Consumer Price Index (CPI) and the Personal Consumption Expenditures (PCE). The CPI tracks changes in the price level of a basket of consumer goods and services purchased by households, representing a practical gauge of inflation experienced by consumers. The formula for CPI is:
 
@@ -97,7 +31,39 @@ In recent decades, especially the 1990s and 2000s, the U.S. enjoyed relatively l
 
 Inflation serves as a critical indicator of economic health. Moderate inflation is often associated with a growing economy, as it encourages spending and investment. However, high inflation diminishes purchasing power and can lead to uncertainty, while deflation can trigger reduced consumer spending as individuals delay purchases in anticipation of lower future prices. Consequently, inflation data informs policymakers in devising strategies to maintain economic stability. Understanding inflation through historical trends and indexes like CPI and PCE is essential for making informed economic decisions and anticipating future economic conditions.
 
-## What is the Role of Monetary Policy?
+## Historical Inflation Rates: 1929-2024
+
+Inflation, as measured by annual percentage changes in the Consumer Price Index (CPI) and other indices, has significantly influenced the U.S. economy from 1929 to 2024. This period encapsulates various economic challenges and transformations, providing valuable insights into the complex dynamics of inflation.
+
+During the Great Depression (1929-1939), the U.S. experienced deflation rather than inflation. The CPI dropped by approximately 10% from 1929 to 1933, reflecting a severe decline in economic activity and consumer spending. Deflation exacerbated the economic crisis as it increased the real value of debt, leading to further reductions in investment and consumption.
+
+Following the Great Depression, the post-World War II era (1945-1960) marked a period of economic expansion and moderate inflation. The GI Bill and increased consumer demand contributed to economic growth during this time. However, inflation rates were manageable, largely due to effective fiscal and monetary policies. The CPI increased at an average annual rate of about 2% to 3%.
+
+The 1970s marked a departure from previous stability with a notable surge in inflation. This period, often referred to as the Great Inflation, saw inflation rates rise dramatically, peaking at around 13.5% in 1980. Factors such as oil price shocks, accommodating monetary policies, and increased wage demands fueled this inflationary spiral. The economic implications were severe, leading to stagflation, characterized by high inflation rates combined with stagnant economic growth and high unemployment.
+
+In contrast, the subsequent decades saw efforts to control inflation through stringent monetary policies. The Volcker Disinflation of the early 1980s, marked by high-interest rates, effectively curbed inflation but at the cost of a deep recession. However, it laid the groundwork for the low and stable inflation rates experienced throughout the 1990s and early 2000s. During this time, inflation averaged around 3% annually, contributing to economic prosperity and stability.
+
+Recent trends from the post-COVID-19 period highlight renewed inflationary pressures. The pandemic brought unprecedented economic disruptions, prompting monetary and fiscal interventions on a global scale. In 2021 and 2022, inflation rates surged to levels not seen since the early 1980s. The CPI recorded annual increases of over 5%, driven by supply chain disruptions, increased consumer demand, and expansive fiscal policies. By 2024, efforts to normalize monetary policy have aimed at containing inflation, though uncertainties remain regarding the global economic recovery.
+
+Understanding these historical inflation trends is crucial for grasping their implications on economic decision-making and future forecasting. The varied experiences across decades underscore the multifaceted nature of inflation and its profound impact on the economy.
+
+## Business Cycles and Inflation
+
+Inflation and business cycles are interconnected components of economic analysis, each influencing and reflecting the dynamics of the other. The business cycle comprises various phases, including expansion, peak, contraction, and trough, each influencing inflationary trends differently.
+
+During the expansion phase, the economy experiences growth in terms of increased production, employment, and consumer spending. In this period, demand-pull inflation often occurs when the demand for goods and services outpaces supply, causing prices to rise. Businesses, driven by increased demand, may expand production, which further fuels employment and income levels. This cycle can lead to moderate inflation, which is typically welcomed as a sign of economic vigor.
+
+The peak phase is characterized by the economy operating at maximum output. It marks the culmination of the expansion phase, where the resources are fully employed, and economic output is at its zenith. Inflationary pressure can continue to build due to persistent high demand and limited supply, sometimes necessitating intervention by monetary authorities to prevent overheating. Historically, peaks have been associated with rising interest rates as central banks attempt to temper inflation and forestall a possible downturn.
+
+As the cycle progresses into contraction, economic activity begins to decline. Reduced consumer spending and investment lead to a slowdown in production and rising unemployment. Demand-pull inflation pressures often ease during this phase. However, cost-push inflation, driven by factors like increased production costs or supply chain disruptions, may still occur. Historically, periods of contraction—such as those witnessed during the Great Depression or the financial crisis of 2008—have been associated with deflationary tendencies where price levels fall.
+
+In the trough phase, the economy reaches the lowest point of the cycle. Inflation is typically subdued during this phase due to depressed demand. The period is marked by low levels of investment and consumption, which puts downward pressure on prices. Once the factors causing the economic downturn dissipate, the economy begins to recover, leading to the next expansion phase.
+
+Historically, business cycles have significantly influenced inflation patterns. For instance, the post-World War II expansion led to heightened inflation due to rising demand and industrial activity. Conversely, the stagflation of the 1970s, where stagnant economic growth occurred alongside high inflation, underlined that inflation could persist in contractionary phases under specific circumstances, such as oil price shocks.
+
+Understanding the relationship between business cycles and inflation is crucial for policymakers and economists. It aids in designing appropriate monetary and fiscal policies to manage inflation, ensuring economic stability and growth.
+
+## The Role of Monetary Policy
 
 The Federal Reserve plays a crucial role in managing inflation in the United States through the implementation of monetary policy. The primary objective is to maintain price stability, usually defined by an annual inflation target rate of around 2%. This target is essential for fostering optimal economic conditions, promoting sustainable growth, and maximizing employment.
 
@@ -126,6 +92,70 @@ In addition to adjusting interest rates, open market operations (OMOs) are anoth
 Although [interest rate](/wiki/interest-rate-trading-strategies) adjustments and OMOs are the primary mechanisms used, other tools such as the discount rate and reserve requirements are also part of the Federal Reserve's arsenal. The discount rate refers to the interest rate applied to short-term loans taken by financial institutions from the Federal Reserve's discount window, while reserve requirements determine the minimum reserves each bank must hold. Altering these can further influence lending and monetary conditions as needed to achieve inflation targets.
 
 In summary, through a careful combination of these tools, the Federal Reserve aims to manage inflation effectively, ensuring economic stability and confidence across various markets. Maintaining inflation within the target range not only stabilizes prices but also supports ongoing economic prosperity.
+
+## Algorithmic Trading and Inflation Data
+
+Algorithmic trading, also known as algo-trading, is a method of executing trades using pre-defined instructions. These instructions are often based on variables such as timing, price, and [volume](/wiki/volume-trading-strategy), which are derived from quantitative models. Among the economic data leveraged in these algorithms, inflation rates are pivotal due to their influence on economic indicators and financial markets.
+
+Economic data, particularly inflation rates, play a significant role in the decision-making process for traders using algorithmic strategies. Inflation data can affect interest rates, bond yields, and stock prices, which are elements crucial for determining market trends. By integrating inflation data, trading algorithms can adapt to economic shifts, enabling traders to make informed decisions swiftly and accurately.
+
+One practical example of incorporating inflation data is using time series analysis to predict future inflation trends and their potential impacts on asset prices. Python code can be implemented for such analysis, employing libraries such as `pandas` for data manipulation and `statsmodels` for statistical analysis:
+
+```python
+import pandas as pd
+import statsmodels.api as sm
+
+# Load inflation data
+inflation_data = pd.read_csv('inflation_data.csv')
+
+# Fit an ARIMA model to predict future inflation
+model = sm.tsa.ARIMA(inflation_data['CPI'], order=(1, 1, 1))
+fit_model = model.fit(disp=0)
+
+# Forecast future inflation rates
+forecasted_inflation = fit_model.forecast(steps=12)[0]
+print(forecasted_inflation)
+```
+
+In this way, inflation trends can be forecasted and integrated into trading algorithms to enhance their responsiveness and accuracy, mitigating risks associated with inflationary pressures.
+
+Additionally, adaptive strategies can be developed where algorithms dynamically adjust their parameters based on real-time changes in inflation data, ensuring optimal performance under varying economic conditions. This adaptability not only increases returns but also helps in risk management, allowing traders to preemptively address potential price volatility impacted by inflation changes.
+
+Overall, the integration of inflation data into [algorithmic trading](/wiki/algorithmic-trading) systems offers substantial advantages by improving prediction accuracy and refining trading strategies, ultimately leading to more informed and profitable trading decisions.
+
+## Conclusion
+
+Understanding historical inflation rates is crucial for grasping their profound impact on economic decision-making. Historical data provides insights into how inflation, as a key economic indicator, has influenced fiscal policies, monetary strategies, and investment decisions over time. Inflation affects every facet of the economy, from consumer purchasing power to government budgeting and corporate pricing strategies. By studying past inflation rates, economists and policymakers can identify patterns and causal relationships that inform projections and policy adjustments.
+
+Monitoring inflation is indispensable for maintaining economic stability. Historical analysis allows the recognition of economic signals that precede inflationary pressures or deflationary trends, enabling preemptive actions to mitigate potential adverse effects. Consistent inflation monitoring helps central banks, like the Federal Reserve, adjust monetary policies to align with economic conditions. For instance, when inflation exceeds targets, interest rates may be increased to cool an overheated economy, whereas lower rates can stimulate spending during periods of low inflation or deflation.
+
+In financial markets, inflation monitoring is vital for investors and algorithmic trading systems. Inflation data influences asset valuations, interest rate expectations, and ultimately, trading strategies. Algorithmic traders, who utilize economic data including inflation rates, rely on historical trends to calibrate models for better prediction and investment decisions.
+
+In conclusion, understanding historical inflation rates provides a foundational perspective for interpreting current and future economic dynamics. Inflation remains a critical metric for ensuring economic resilience and informed financial strategies, underscoring the importance of its monitoring in economic policy and investment decision-making processes.
+
+## References
+
+1. U.S. Bureau of Labor Statistics. (n.d.). Consumer Price Index (CPI) Database. Retrieved from [https://www.bls.gov/cpi/](https://www.bls.gov/cpi/)
+
+2. Federal Reserve. (n.d.). Monetary Policy and Economic Research. Retrieved from [https://www.federalreserve.gov/monetarypolicy.htm](https://www.federalreserve.gov/monetarypolicy.htm)
+
+3. U.S. Bureau of Economic Analysis. (n.d.). Personal Consumption Expenditures Price Index. Retrieved from [https://www.bea.gov/data/personal-consumption-expenditures-price-index](https://www.bea.gov/data/personal-consumption-expenditures-price-index)
+
+4. Federal Reserve Bank of St. Louis. (n.d.). FRED Economic Data. Retrieved from [https://fred.stlouisfed.org/](https://fred.stlouisfed.org/)
+
+5. Romer, C. D. (1992). "What Ended the Great Depression?". The Journal of Economic History. [https://doi.org/10.1017/S002205070001189X](https://doi.org/10.1017/S002205070001189X)
+
+6. Shiller, R. J. (1990). "The Great Depression as a Watershed: International Capital Mobility over the Long Run". In European Economic Review. [https://doi.org/10.1016/0014-2921(90)90158-Z](https://doi.org/10.1016/0014-2921(90)90158-Z)
+
+7. Greenspan, A. (1997). "The Age of Turbulence: Adventures in a New World". Penguin Press.
+
+8. Historical Statistics of the United States, Millennial Edition Online. (n.d.). Retrieved from [http://hsus.cambridge.org/HSUSWeb/toc/showTable.do](http://hsus.cambridge.org/HSUSWeb/toc/showTable.do)
+
+9. Mishkin, F. S. (2007). "Monetary Policy Strategy". The MIT Press. [https://mitpress.mit.edu/9780262134828/monetary-policy-strategy/](https://mitpress.mit.edu/9780262134828/monetary-policy-strategy/)
+
+10. Siegel, J. (1994). "Stocks for the Long Run". McGraw-Hill.
+
+11. Taylor, J. B. (1993). "Discretion versus Policy Rules in Practice". Carnegie-Rochester Conference Series on Public Policy. [https://doi.org/10.1016/0167-2231(93)90009-L](https://doi.org/10.1016/0167-2231(93)90009-L)
 
 ## References & Further Reading
 

@@ -1,7 +1,6 @@
 ---
-title: Revisiting the Kuznets Curve in Modern Economic Analysis
-description: Kuznets Curve analysis reveals how economic growth drives inequality
-  and environmental impact amid globalization and algo trading Discover more inside.
+title: "Simon Kuznets and the Kuznets Curve (Algo Trading)"
+description: "Explore the Kuznets Curve's insights on economic growth and income inequality by Simon Kuznets. Discover its implications for modern algorithmic trading."
 ---
 
 The Kuznets Curve holds a central place in economic theory, capturing significant attention for its insights into the relationship between economic growth and income inequality. Introduced by Simon Kuznets, a pioneering economist renowned for his contributions to understanding the dynamics of income distribution, this curve suggests a relationship where income inequality initially increases and subsequently decreases as a country's economy develops. This concept emerged from Kuznets' empirical observations, which were part of his broader research on the patterns and structures of economic growth. His contributions to economics earned him the Nobel Prize in Economic Sciences in 1971.
