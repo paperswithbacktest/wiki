@@ -1,7 +1,6 @@
 ---
-title: Algorithmic Trading Evolution, Strategies And Future Trends
-description: Algorithmic trading automates order execution with data-driven rules
-  for faster, emotionless decisions reshaping modern finance Discover more inside.
+title: "Algorithmic Trading: A Comprehensive Guide"
+description: "A comprehensive guide to Algorithmic Trading: Leveraging computer programs for efficient and profitable financial transactions. Algo trading uses predefined rules derived from historical data to automate buying and selling of financial instruments, accounting for 70% of U.S equity trades as of 2019. Our platform, Papers With Backtest, offers a vast database of algorithmic strategies across different asset classes: Equities, Cryptocurrencies, Commodities, Currencies, Bonds, and Options."
 ---
 
 

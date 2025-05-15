@@ -1,7 +1,6 @@
 ---
-title: Investor Behavior And The Clientele Effect In Financial Markets
-description: Clientele effect and investor behavior shape market dynamics through
-  dividend policies, risk profiles, and algorithmic trading. Discover more inside
+title: "Clientele Effect Theory and Examples (Algo Trading)"
+description: "Explore how investor behavior and the clientele effect shape financial markets influencing algorithmic trading strategies through segmentation and market dynamics."
 ---
 
 Investor behavior and the clientele effect play a pivotal role in shaping financial markets. Investor behavior encompasses the patterns and strategies employed by various investors, who can be broadly categorized into retail and institutional types. Retail investors typically include individual investors who may have diverse investment goals and risk appetites. In contrast, institutional investors such as pension funds, mutual funds, and insurance companies often possess significant capital and employ sophisticated investment strategies.

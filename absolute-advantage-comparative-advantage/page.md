@@ -1,89 +1,61 @@
 ---
-title: Absolute And Comparative Advantage In International Trade
-description: Comparative advantage and absolute advantage explain how countries optimize
-  production and resource use to improve trade efficiency Discover more inside.
+title: "Absolute Advantage and Comparative Advantage (Algo Trading)"
+description: "Discover how comparative and absolute advantage concepts enhance algorithmic trading strategies by optimizing trade opportunities and market efficiencies."
 ---
 
+The concepts of comparative advantage and absolute advantage are cornerstones of economic theory. These principles, introduced by Adam Smith and further developed by David Ricardo, have been instrumental in explaining the motivations for international trade. Absolute advantage refers to the ability of an individual, firm, or country to produce more of a good or service with the same amount of resources, thereby demonstrating greater productivity or efficiency. On the other hand, comparative advantage emphasizes the relative efficiency in producing goods, suggesting that even if one nation does not have an absolute advantage, it can benefit from trade by specializing in goods that it can produce at a lower opportunity cost compared to others.
 
-![Image](images/1.png)
+The theories of comparative and absolute advantage not only lay the groundwork for why and how nations trade but also provide a framework for understanding the benefits of specialization. In a globalized economy, where nations vary in resource endowments and technological capabilities, these concepts help explain the patterns of trade and allocation of resources across borders. 
+
+![Image](images/1.jpeg)
+
+With the advent of algorithmic trading, the relevance of these economic theories has grown significantly. Algorithmic trading involves using sophisticated mathematical models and software to execute trades at speeds and frequencies that are beyond the capabilities of human traders. By leveraging insights from comparative and absolute advantage, traders and economists can design algorithms that optimize trading strategies, capitalize on market inefficiencies, and realize lucrative opportunities in real-time.
+
+This article will explore how the foundational ideas of comparative and absolute advantage are integrated into algorithmic trading. By understanding these economic theories, traders can program algorithms to identify and exploit advantageous trade opportunities, thereby enhancing the efficiency of global markets.
 
 ## Table of Contents
 
-## What is the basic definition of absolute advantage?
+## Understanding Absolute Advantage
 
-Absolute advantage is a concept in economics that describes when one country can produce a good or service more efficiently than another country. This means they can use fewer resources, like time, labor, or materials, to make the same amount of the product. For example, if Country A can produce 10 cars using fewer resources than Country B, Country A has an absolute advantage in car production.
+Absolute advantage is a concept in economic theory that pertains to the capability of a country or entity to produce more of a specific good using fewer resources compared to another country or entity. This advantage emphasizes efficiency in production, offering a straightforward measurement of productive capability. It is particularly observable in industries such as technology and manufacturing, where innovation and process improvements facilitate higher output with reduced input.
 
-This idea is important because it helps countries decide what goods they should produce and trade. If a country has an absolute advantage in making a certain product, it makes sense for them to focus on producing that product and then trade with other countries for goods they are less efficient at making. This can lead to more efficient global production and can benefit all countries involved through trade.
+To illustrate, consider two countries, Country A and Country B, both producing cars and wheat. If Country A can produce 10 cars using the same amount of resources that Country B would use to produce 7 cars, then Country A holds an absolute advantage in car production. This notion extends beyond simple output, reflecting technological advancements and resource management strategies that enhance production efficiency.
 
-## What is the basic definition of comparative advantage?
+The significance of absolute advantage in global trade arises from its relationship with resource distribution and productivity levels. When countries focus on goods for which they have an absolute advantage, they can maximize output and economic gains, driving international competitiveness and economic growth.
 
-Comparative advantage is a concept in economics that explains why countries should trade with each other even if one country is better at making everything. It's about being more efficient in producing one thing compared to another. A country has a comparative advantage in producing a good if it can produce that good at a lower opportunity cost than another country. Opportunity cost is what you give up to produce something else. For example, if Country A can produce both cars and computers, but it's better at making computers, it should focus on computers and trade with Country B for cars, even if Country B is not as good at making cars.
+Despite its importance, absolute advantage alone may not determine trade patterns as profoundly as other factors, such as comparative advantage, due to the role of opportunity cost. Opportunity cost refers to the benefits forgone when choosing one option over another and is central to understanding comparative advantage. Nevertheless, the existence of absolute advantage remains a vital component of economic analysis and strategy, laying the foundation for nations to harness their resources effectively and engage in mutually beneficial trade.
 
-This idea helps countries decide what to produce and trade. If a country focuses on what it's comparatively better at, it can produce more overall and trade for the things it's not as good at. This makes the whole world more efficient because countries are specializing in what they do best. In the end, everyone can have more goods and services than if each country tried to make everything on its own.
+## Exploring Comparative Advantage
 
-## How does absolute advantage differ from comparative advantage?
+Comparative advantage is a key concept in economics which emphasizes the relative efficiency of producing goods, grounded in the notion of opportunity cost. It explains how nations or entities can benefit from trade by focusing on the production of goods for which they have the lowest opportunity cost, even if they do not hold an absolute advantage. This theory, first articulated by David Ricardo in the early 19th century, plays a significant role in global trade patterns and specialization strategies.
 
-Absolute advantage and comparative advantage are two important ideas in economics that help countries decide what to make and trade. Absolute advantage is when one country can make a product using fewer resources than another country. For example, if Country A can make 10 cars with less time and materials than Country B, Country A has an absolute advantage in making cars. This means Country A is simply better at making cars than Country B.
+Opportunity cost is the cost of forgoing the next best alternative when making a decision. In terms of comparative advantage, it means evaluating which goods or services a country can produce at a lower relative opportunity cost compared to others. For example, if Country A can produce either 10 units of wine or 5 units of cloth in a day, while Country B can produce 6 units of wine or 4 units of cloth, we calculate the opportunity costs to determine their comparative advantages. The opportunity cost for Country A to produce wine is 0.5 units of cloth per unit of wine (5 cloths / 10 wines), while for Country B it is 0.67 units of cloth per unit of wine (4 cloths / 6 wines). Therefore, Country A has a comparative advantage in producing wine, and Country B has a comparative advantage in producing cloth, assuming that the nations trade based on these efficiencies.
 
-Comparative advantage is different because it's about what a country gives up to make something else. It's not just about being the best at making something, but about being better at making one thing compared to another. A country has a comparative advantage in a product if it can make that product at a lower opportunity cost than another country. For example, if Country A can make both cars and computers, but it's much better at making computers, it should focus on computers and trade with Country B for cars, even if Country B isn't as good at making cars. This way, both countries can benefit from trade by focusing on what they do best.
+The comparative advantage principle suggests that countries should allocate resources and specialize in producing goods where they have the lowest opportunity cost, thereby optimizing both production and trade benefits. Python can simulate how these calculations are made:
 
-In short, absolute advantage looks at who can make something more efficiently, while comparative advantage looks at what a country should make based on what it gives up. Both ideas help countries decide what to produce and trade, but they focus on different aspects of efficiency and opportunity cost.
+```python
+def comparative_advantage(country_a, country_b):
+    # (production of wine, production of cloth)
+    wine_a, cloth_a = country_a
+    wine_b, cloth_b = country_b
 
-## Can you provide a simple example of absolute advantage in trade?
+    opportunity_cost_a = cloth_a / wine_a
+    opportunity_cost_b = cloth_b / wine_b
 
-Imagine there are two countries, Country A and Country B. Country A can make 100 shirts using the same amount of resources that Country B uses to make only 50 shirts. This means Country A has an absolute advantage in making shirts because it can make more shirts with the same resources.
+    if opportunity_cost_a < opportunity_cost_b:
+        return "Country A has a comparative advantage in producing wine"
+    else:
+        return "Country B has a comparative advantage in producing wine"
 
-Because of this advantage, Country A should focus on making shirts. It can make a lot of shirts and then trade some of them with Country B for other things that Country B is better at making. This way, both countries can benefit from trade. Country A gets more of what it needs from Country B, and Country B gets more shirts than it could make on its own.
+country_a = (10, 5)  # Country A can produce 10 units of wine or 5 units of cloth
+country_b = (6, 4)   # Country B can produce 6 units of wine or 4 units of cloth
 
-## Can you provide a simple example of comparative advantage in trade?
+print(comparative_advantage(country_a, country_b))
+```
 
-Imagine there are two countries, Country A and Country B. Country A can make 10 computers or 5 cars with the same amount of resources. Country B can make 2 computers or 4 cars with the same amount of resources. Even though Country A is better at making both computers and cars, it has a comparative advantage in making computers because it gives up fewer cars to make them. Country B has a comparative advantage in making cars because it gives up fewer computers to make them.
+Increased specialization and trade guided by comparative advantage enhance global market efficiency by ensuring optimal resource allocation. It enables countries to focus on industries where they are relatively more efficient, leading to an increase in overall economic prosperity. This theoretical framework remains central to understanding why international trade can be beneficial even among nations that do not necessarily have an absolute efficiency in producing goods. As such, comparative advantage is crucial in shaping national economic policies and determining the international trade dynamics where countries seek to maximize their production capabilities by leveraging their unique relative efficiencies.
 
-Country A should focus on making computers because it's better at making computers compared to cars. Country B should focus on making cars because it's better at making cars compared to computers. They can then trade with each other. Country A can trade some of its computers to Country B in exchange for cars. This way, both countries can have more computers and cars than if they tried to make everything themselves. By focusing on what they do best and trading, both countries benefit.
-
-## How do countries determine which goods to specialize in based on these concepts?
-
-Countries use the ideas of absolute and comparative advantage to decide what goods to make and trade. Absolute advantage is when a country can make a product using fewer resources than another country. If a country is really good at making something, like Country A being able to make more shirts than Country B with the same resources, it should focus on making that product. This way, the country can make a lot of that product and trade it with other countries for things it's not as good at making.
-
-Comparative advantage is a bit different. It's about what a country gives up to make something else. Even if a country is good at making many things, it should focus on what it's best at compared to other things. For example, if Country A can make both computers and cars but is much better at making computers, it should make computers and trade with Country B for cars, even if Country B isn't as good at making cars. By focusing on what they do best and trading, both countries can have more of everything than if they tried to make everything themselves.
-
-## What are the limitations of using absolute advantage in international trade?
-
-Using absolute advantage to decide what to make and trade can be helpful, but it has some problems. One big problem is that it only looks at who can make something using fewer resources. It doesn't think about what a country gives up to make that thing. For example, if a country is good at making both cars and computers, but it's much better at making computers, it might still focus on cars if it only looks at absolute advantage. This can make the country miss out on better trade deals.
-
-Another problem is that absolute advantage doesn't always show the full picture of trade. Sometimes, a country might not be the best at making anything, but it can still benefit from trade by focusing on what it's less bad at. If a country only looks at absolute advantage, it might think it has nothing to trade and miss out on chances to grow its economy. So, while absolute advantage is a good start, it's not enough to make the best trade decisions.
-
-## How does comparative advantage lead to gains from trade?
-
-Comparative advantage helps countries make more of what they're good at and trade for things they're not as good at. Imagine Country A is really good at making computers but not so great at making cars. Country B is the opposite - it's better at making cars than computers. If both countries focus on what they do best, Country A can make a lot of computers and Country B can make a lot of cars. Then, they can trade with each other. Country A can give some of its computers to Country B in exchange for cars. This way, both countries end up with more computers and cars than if they tried to make everything themselves.
-
-By focusing on what they do best and trading, both countries can have more stuff. This is because they're using their resources in the best way possible. When countries trade based on comparative advantage, they're not just making more of what they're good at; they're also making the whole world more efficient. Everyone can have more goods and services, which makes life better for people in both countries. So, comparative advantage is a big reason why trade can help everyone.
-
-## What role do opportunity costs play in comparative advantage?
-
-Opportunity costs are really important when we talk about comparative advantage. They help us figure out what a country should make and trade. Opportunity cost is what you give up to do something else. For example, if Country A can make either 10 computers or 5 cars with the same resources, the opportunity cost of making 10 computers is 5 cars. If Country B can make either 2 computers or 4 cars with the same resources, the opportunity cost of making 2 computers is 4 cars. By looking at these opportunity costs, we can see that Country A gives up fewer cars to make computers than Country B does. So, Country A has a lower opportunity cost for making computers and should focus on that.
-
-When countries use opportunity costs to decide what to make, they can make more of what they're good at and trade for the rest. This makes the whole world more efficient. In our example, Country A should make computers and trade them with Country B for cars. Country B should make cars and trade them with Country A for computers. By doing this, both countries end up with more computers and cars than if they tried to make everything themselves. So, understanding opportunity costs helps countries use their resources in the best way and makes trade better for everyone.
-
-## How have economists like David Ricardo contributed to the theory of comparative advantage?
-
-David Ricardo was a famous economist who came up with the idea of comparative advantage in the early 1800s. He explained it in his book called "On the Principles of Political Economy and Taxation." Before Ricardo, people thought that countries should only trade if they were better at making something than other countries. But Ricardo showed that even if one country is better at making everything, it still makes sense to trade. He used a simple example with two countries, England and Portugal, making wine and cloth. He showed that if each country focused on what it was better at compared to the other thing it could make, both countries could have more wine and cloth by trading.
-
-Ricardo's idea changed how people thought about trade. He made it clear that it's not just about being the best at something, but about what you give up to make it. This idea of opportunity cost is a big part of comparative advantage. When countries focus on what they're good at compared to other things they could make, they can make more of that thing and trade for the rest. This makes the whole world more efficient and helps everyone have more stuff. Ricardo's work is still important today because it helps countries decide what to make and trade to make life better for their people.
-
-## Can absolute and comparative advantage coexist in the same economy? How?
-
-Yes, absolute and comparative advantage can both be part of the same economy. Imagine two countries, Country A and Country B. Country A can make 100 shirts or 50 computers with the same resources, while Country B can make 50 shirts or 25 computers with the same resources. Country A has an absolute advantage in making both shirts and computers because it can make more of each with the same resources. But when we look at what each country gives up to make these things, we see something different. Country A gives up 2 shirts to make 1 computer, while Country B gives up 2 shirts to make 1 computer too. So, both countries have the same opportunity cost for making computers, but Country A still has an absolute advantage in making both.
-
-Even though Country A has an absolute advantage in making both shirts and computers, it should focus on what it's better at compared to the other thing it can make. In this case, Country A should make computers because it's better at making computers compared to shirts. Country B should make shirts because it's better at making shirts compared to computers. By focusing on what they do best compared to other things, both countries can make more of what they're good at and trade for the rest. This way, they can both have more shirts and computers than if they tried to make everything themselves. So, even though absolute advantage and comparative advantage are different ideas, they can work together to help countries decide what to make and trade.
-
-## How do modern trade theories expand on the concepts of absolute and comparative advantage?
-
-Modern trade theories build on the ideas of absolute and comparative advantage by looking at more things that affect trade. They think about things like how much it costs to move goods from one place to another, how technology changes what countries can make, and how big companies can affect trade. These theories also look at how countries can work together to make things, like when parts of a car are made in different countries and then put together. This is called global value chains. By thinking about all these things, modern trade theories help us understand why countries trade the way they do and how they can do it better.
-
-Another way modern trade theories expand on absolute and comparative advantage is by looking at how people and companies make choices. They think about how people might want different things in different countries, and how companies might decide to make things in certain places because of things like taxes or rules. These theories also look at how countries can help each other grow by sharing knowledge and technology. By looking at all these different parts of trade, modern theories give us a fuller picture of how trade works and how it can help everyone have a better life.
-
-## What is the relationship between Economic Theory and Trade Dynamics?
+## Economic Theory and Trade Dynamics
 
 Economic theory suggests that the principles of absolute and comparative advantage are foundational in driving international trade and specialization. Absolute advantage describes a situation where a country or economic entity can produce a certain good more efficiently, using fewer resources than its counterparts. When a nation possesses an absolute advantage, it can lead to increased productivity and potential trade surplus in that specific sector. However, trade dynamics are not solely dictated by absolute efficiencies, but also by comparative advantage. This theory, introduced by David Ricardo, posits that even if a nation does not have the best absolute efficiencies, it can still benefit from trade by specializing in goods where it has the lowest opportunity cost.
 
@@ -117,6 +89,117 @@ else:
 ```
 
 Such computational techniques underscore the relevance of economic theories in today’s sophisticated trading environments, where algorithms leverage global trade data to optimize resource allocation and enhance market efficiencies.
+
+## Algorithmic Trading and Economic Theories
+
+Algorithmic trading leverages economic theories to optimize trade execution and maximize market opportunities. Both comparative and absolute advantages are pivotal in crafting algorithms that efficiently navigate the complexities of financial markets. By understanding these economic principles, traders and programmers can design systems that identify and act on advantageous trading opportunities.
+
+Comparative advantage, which involves producing goods at a lower opportunity cost, translates into algorithms that assess various financial instruments to determine where investments yield the highest relative returns. These algorithms analyze markets to detect scenarios where a certain asset's trade-off relative to others presents profit opportunities. This analysis factors in not only the asset's inherent qualities but also broader market trends and price dynamics.
+
+Similarly, absolute advantage, which is the ability to produce more or better products with the same resources, drives algorithmic strategies that seek outright efficiency. An algorithm might capitalize on a particular market's inefficiencies, ensuring that trades are executed faster and at better prices than competitors.
+
+Algorithmic trading strategies are often structured to incorporate both comparative and absolute advantages through advanced data analysis and [machine learning](/wiki/machine-learning) algorithms. These strategies can parse vast datasets to uncover patterns and predict future price movements. Python, the preferred language for many trading algorithms, can efficiently process this data and automate complex trading strategies. For instance, an algorithm might be structured to predict price movements using a simple linear regression model:
+
+```python
+import numpy as np
+from sklearn.linear_model import LinearRegression
+
+# Example: predicting price based on past data
+X = np.array([[1], [2], [3], [4], [5]])  # time periods
+y = np.array([10, 12, 17, 20, 24])  # asset prices
+
+model = LinearRegression().fit(X, y)
+predicted_price = model.predict([[6]])
+
+print("Predicted price for the next period:", predicted_price)
+```
+
+This code illustrates how traders can model price tendencies, relying on past data to anticipate future value changes and execute trades optimally. It reflects how algorithmic trading utilizes economic theories to both identify and exploit market inefficiencies, achieving economic benefits through strategic execution.
+
+In summary, algorithms rooted in the principles of comparative and absolute advantage guide the trading platforms towards increased market efficiency. By continuously adapting to economic conditions, these technologies not only enhance decision-making but also contribute to more agile and responsive market dynamics.
+
+## Impact on Global Trade and Market Efficiency
+
+The integration of algorithmic trading with the concepts of comparative and absolute advantages has a profound influence on global trade and market efficiency. By leveraging these economic theories, algorithmic trading platforms are able to optimize resource allocation, effectively reshaping global trade patterns.
+
+Algorithms are designed to identify and exploit differences in market efficiencies, which are often guided by the principles of absolute and comparative advantage. Absolute advantage pertains to a country's ability to produce goods more efficiently than others, while comparative advantage focuses on producing goods at a lower opportunity cost. When applied to algorithmic trading, these concepts enable algorithms to make data-driven decisions about when and where to allocate resources to maximize returns.
+
+One of the key impacts of algorithmic trading is the enhancement of market efficiency. Algorithms reduce the time and costs associated with trading, leading to increased [liquidity](/wiki/liquidity-risk-premium) across markets. Liquidity refers to the ease with which assets can be bought or sold in the market without causing significant price changes. Higher liquidity often results in narrower bid-ask spreads, making markets more efficient. The formula for the bid-ask spread, $\text{Spread} = \text{Ask Price} - \text{Bid Price}$, can be minimized as algorithms quickly adjust to new information and execute trades at optimal prices.
+
+Additionally, algorithmic trading can reduce transaction costs. By executing trades rapidly and efficiently, algorithms lower the indirect costs of trading, such as market impact costs, and improve the precision of trade execution. This efficiency is further amplified through the use of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)), which allows for the execution of a large number of orders at extremely high speeds.
+
+Algorithmic trading also supports the globalization of financial markets. With the ability to process vast amounts of global market data, algorithms gauge the comparative and absolute advantages of different markets, enabling cross-border trading strategies that capitalize on global disparities in production capabilities and resource distribution.
+
+Python code used in algorithmic trading often encapsulates these strategies. For instance, the use of libraries such as `numpy`, `pandas`, and `scikit-learn` allows for the implementation of complex algorithms that can handle the multivariate data involved in evaluating comparative advantages:
+
+```python
+import numpy as np
+import pandas as pd
+from sklearn.linear_model import LinearRegression
+
+# Sample data for global market analysis
+data = pd.DataFrame({
+    'country_A': [140, 180, 210],
+    'country_B': [120, 130, 125],
+    'opportunity_cost': [0.8, 0.9, 0.85]
+})
+
+# Linear regression to model the relationship
+X = data[['country_A', 'opportunity_cost']]
+y = data['country_B']
+
+model = LinearRegression().fit(X, y)
+predicted_advantage = model.predict(np.array([[200, 0.88]]))
+
+print(f"Predicted comparative advantage for country_B: {predicted_advantage[0]}")
+```
+
+In summary, the application of algorithmic trading aligned with the economic principles of comparative and absolute advantage enhances global market efficiency by optimizing resource allocation, increasing liquidity, and reducing transaction costs. These improvements not only facilitate smoother trading operations but also support more interconnected and responsive global markets.
+
+## Conclusion
+
+Comparative and absolute advantages continue to be foundational concepts for understanding the dynamics of global economic interactions. They are central to the decision-making processes of countries and businesses regarding the production and trade of goods and services. These economic principles underpin the rationale for specialization and trade, facilitating the optimization of resources on a global scale.
+
+In the context of algorithmic trading, these theories merge with technology to create sophisticated strategies aimed at enhancing market efficiencies. Algorithms leverage the insights derived from comparative and absolute advantages to analyze market data and execute trades at opportune moments, thereby capitalizing on inefficiencies and trade opportunities. This integration leads to more liquid markets and often results in reduced transaction costs, as algorithms efficiently navigate and allocate resources within the financial markets.
+
+Looking forward, it is imperative for traders and economists to continuously integrate these classic economic theories with modern analytical tools and technologies. By doing so, they can optimize economic benefits and adapt to the evolving landscape of global markets. The future of global trade and finance will likely be driven by the synergy between enduring economic theories and cutting-edge technological advancements, providing a robust framework for enhancing market functionality and economic growth.
+
+## FAQs
+
+How do absolute and comparative advantages differ?
+
+Absolute and comparative advantages are both concepts within economic theory that help explain the dynamics of trade. Absolute advantage relates to the capability of an entity, such as a country, to produce more of a good or service with fewer resources than another entity. It essentially points to efficiency in production. For instance, if Country A can produce 10 units of a good using 5 resources, whereas Country B can only produce 8 units using the same resources, then Country A has an absolute advantage.
+
+On the other hand, comparative advantage considers the opportunity cost of production. Even if a country does not have an absolute advantage, it can still have a comparative advantage by specializing in goods that it can produce at a lower opportunity cost compared to others. For example, using opportunity cost matrices, if Country A can produce either 10 units of cloth or 20 units of wheat and Country B can produce either 15 units of cloth or 30 units of wheat, Country A should specialize in cloth and Country B in wheat, optimizing trade benefits between them.
+
+Why is comparative advantage considered more significant in modern economics?
+
+Comparative advantage is deemed more significant because it provides a basis for mutually beneficial trade even when one country is less efficient in all goods. This principle, based on opportunity costs, facilitates specialization and trade efficiency. In modern economics, it underscores the benefits of trade liberalization and globalization, supporting the argument that countries can achieve better economic outcomes not by producing all goods independently (even if they have absolute advantages in multiple sectors) but by specializing according to their comparative advantages.
+
+How do these economic theories impact algorithmic trading strategies?
+
+Algorithmic trading utilizes the principles of absolute and comparative advantages by designing strategies that detect and exploit market efficiencies and opportunities. Algorithms analyze vast datasets for trading signals that indicate when a particular security, currency, or commodity might be under or overvalued, relative to others. Applying comparative advantage, these algorithms might be programmed to assess opportunity costs and resource differentials in trading, optimizing decisions based on real-time data.
+
+For example, a Python script for an algorithmic trading model might utilize linear regression or other statistical methods to determine the expected returns of different trading assets:
+
+```python
+import numpy as np
+from sklearn.linear_model import LinearRegression
+
+# Example datasets: historical trading data for two assets
+X = np.array([[1, 3], [2, 6], [3, 9], [4, 12], [5, 15]])
+y = np.array([5, 9, 13, 17, 21])
+
+# Creating a linear regression model
+model = LinearRegression()
+model.fit(X, y)
+
+# Predictive trading decision based on comparative advantage
+predicted_returns = model.predict(np.array([[6, 18]]))
+print("Predicted Returns:", predicted_returns)
+```
+
+This ability to quickly identify and act on market differences enhances liquidity and efficiency in markets, embodying the essence of economic theories in technological frameworks.
 
 ## References & Further Reading
 

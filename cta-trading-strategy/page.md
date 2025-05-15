@@ -1,89 +1,100 @@
 ---
-title: Understanding CTA Trading Strategies For Diversified Portfolios
-description: CTA trading strategy applies systematic rules to diversify across commodities
-  stocks bonds and currencies and manage risk Discover more inside
+title: "CTA Trading Strategy (Algo Trading)"
+description: Discover how Commodity Trading Advisors (CTAs) utilize advanced algorithmic strategies to navigate futures, options, and swaps markets. Learn about their systematic and discretionary approaches to trading, the role of trend-following and momentum-based strategies, and how these methods offer diversification and robust risk management. Gain insights into the key principles driving CTA performance and how they maintain a competitive edge in global markets while considering the potential risks involved. Whether you're a seasoned trader or new to algorithmic trading, understanding CTA strategies is crucial for optimizing trading decisions.
 ---
 
+In algorithmic trading, Commodity Trading Advisors (CTAs) play a pivotal role, deploying advanced strategies to manage substantial amounts of capital. CTAs utilize systematic trading algorithms to navigate the complexities of futures, commodity options, and swaps markets. Their ability to process vast amounts of data and identify profitable opportunities makes them indispensable in the modern financial landscape.
 
-![Image](images/1.jpeg)
+CTAs implement a variety of strategies designed to harness the potential of diverse market environments. These strategies range from trend-following techniques to sophisticated quantitative models, allowing CTAs to adapt to changing market conditions. Each strategy is a product of continuous testing and refinement, aiming to enhance the performance and minimize the risks associated with trading activities.
+
+![Image](images/1.gif)
+
+Understanding CTA strategies is crucial for traders and investors who seek to gain a competitive edge in algorithmic trading. These strategies can offer significant benefits, such as diversification and robust risk management. However, they also entail inherent risks, including market volatility and potential algorithmic errors. As such, the optimization of CTA strategies is essential, requiring ongoing research, backtesting, and calibration to ensure they remain effective and relevant.
+
+Whether you are a seasoned trader or a novice, gaining insights into CTA strategies offers a valuable understanding of algorithmic trading dynamics. By leveraging these strategies, traders can better navigate the complexities of global markets and strive toward achieving sustainable returns.
 
 ## Table of Contents
 
-## What is a CTA trading strategy?
+## What is a CTA in Algorithmic Trading?
 
-A CTA trading strategy, or Commodity Trading Advisor strategy, is a type of investment approach where professional money managers, known as CTAs, make decisions about buying and selling various financial instruments. These instruments can include commodities, stocks, bonds, and currencies. CTAs use different methods to analyze markets, such as looking at trends and using computer programs to help them decide when to trade. Their main goal is to make profits for their clients by taking advantage of price movements in the markets.
+A Commodity Trading Advisor (CTA) is a legal entity or individual that provides strategic advice and executes trading on behalf of clients in the commodity markets. Operating primarily under the regulatory oversight of the Commodity Futures Trading Commission (CFTC) and the National Futures Association (NFA) in the United States, CTAs are responsible for managing futures and options trading. These financial professionals utilize sophisticated algorithms and systematic approaches designed to navigate the complexities of these markets efficiently.
 
-CTAs often use a systematic approach, which means they follow a set of rules to make their trading decisions. This can help remove emotions from trading, which can sometimes lead to better results. For example, a CTA might use a trend-following strategy, where they buy assets that are going up in price and sell assets that are going down. This strategy tries to ride the momentum of the market. CTAs are popular because they can offer diversification to an investment portfolio, as their strategies can be different from traditional stock and bond investments.
+CTAs typically focus on a range of primary market segments, including energies (such as oil and gas), metals (such as gold and silver), interest rates, equity indices, and foreign exchange. By engaging in these diverse asset classes, CTAs aim to achieve a balanced portfolio that minimizes risk while maximizing returns. This capability to provide diversified exposure across multiple global markets is a central value proposition of CTAs. 
 
-## How does a CTA trading strategy differ from other trading strategies?
+CTAs employ advanced algorithmic models that leverage historical and real-time market data to formulate trading strategies. These algorithms identify profitable trading opportunities based on predefined risk parameters and market conditions, allowing for automated trading decisions that are free from human emotional bias. This systematic approach not only enhances the efficiency of trade executions but also helps in managing large sums of capital across various markets.
 
-A CTA trading strategy is different from other trading strategies because it is managed by professional money managers called Commodity Trading Advisors. These CTAs often use a systematic approach, which means they follow strict rules and computer programs to decide when to buy or sell. This is different from many other trading strategies where decisions might be based more on the trader's own feelings or guesses about the market. For example, a CTA might use a trend-following strategy, where they buy assets that are going up in price and sell assets that are going down, trying to ride the market's momentum.
+Overall, CTAs offer clients a well-rounded approach to commodity market trading, supported by regulatory structure and advanced technological proficiency. Such an approach is valuable to investors seeking to diversify their portfolios with structured management strategies that exemplify rigorous risk control.
 
-Another way [CTA](/wiki/cta-strategy) strategies differ is that they can trade a wide range of financial instruments, like commodities, stocks, bonds, and currencies. This is broader than many other strategies that might focus only on one type of asset. Because of this, CTA strategies can help spread out risk in an investment portfolio, which is something many investors like. This diversification can make CTA strategies a good choice for people looking to balance their investments and possibly reduce the ups and downs of their overall returns.
+## Systematic vs. Discretionary CTA Strategies
 
-## What are the key components of a CTA trading strategy?
+In [algorithmic trading](/wiki/algorithmic-trading), Commodity Trading Advisors (CTAs) employ two primary types of strategies: systematic and discretionary. Each plays a vital role in executing trades and managing investments across various futures and commodity markets.
 
-A CTA trading strategy has a few main parts that help it work well. One big part is using a systematic approach. This means the CTA follows a set of rules to decide when to buy or sell. They often use computer programs to help them make these choices. This way, they can take emotions out of trading, which can help them make better decisions. Another important part is using different ways to look at the market. For example, many CTAs use trend-following, where they buy things that are going up in price and sell things that are going down. This helps them catch the big moves in the market.
+**Systematic CTA Strategies**
 
-Another key part of a CTA trading strategy is trading a lot of different things. CTAs can trade commodities, stocks, bonds, and currencies. This is different from many other strategies that might only focus on one type of thing. By trading many different things, CTAs can spread out the risk. This is good because it can help protect the money they are managing. Also, CTAs often use something called leverage, which means they can control a lot of money with a little bit of their own. This can make their profits bigger, but it can also make their losses bigger if things go wrong.
+Systematic [CTA](/wiki/cta-strategy) strategies rely heavily on algorithm-driven models that employ quantitative analysis and technical indicators to automate trading decisions. These strategies reduce emotional bias by creating a rigorous, rule-based framework for executing trades. A fundamental component of systematic strategies includes the use of algorithms to evaluate historical market data, identify patterns, and generate trading signals. Common techniques involve moving average crossovers, Bollinger Bands, and other technical indicators that quantify market trends and price movements.
 
-## Who typically uses CTA trading strategies?
+For example, a simple moving average (SMA) crossover strategy might look like this in Python:
 
-People who typically use CTA trading strategies are often investors looking to add something different to their investment mix. These investors might be individuals or big groups like pension funds or endowments. They like CTA strategies because they can help spread out risk. This is because CTAs trade a lot of different things like commodities, stocks, bonds, and currencies. By doing this, they can help balance out the ups and downs of other investments in a portfolio.
+```python
+import pandas as pd
 
-Another group that uses CTA strategies are those who want a more hands-off approach to their investments. Since CTAs use a systematic approach and follow set rules, investors don't have to worry about making trading decisions themselves. This can be good for people who don't have the time or knowledge to trade on their own. Also, some investors are drawn to CTA strategies because they can sometimes make money even when the stock market is going down, which can be a big plus.
+# Assuming df is a pandas DataFrame with 'Close' as one of the columns
+df['SMA_short'] = df['Close'].rolling(window=20).mean()
+df['SMA_long'] = df['Close'].rolling(window=50).mean()
 
-## What are the benefits of using a CTA trading strategy?
+# Buying when short SMA crosses above the long SMA
+df['Signal'] = 0
+df.loc[df['SMA_short'] > df['SMA_long'], 'Signal'] = 1
+```
 
-Using a CTA trading strategy can help spread out risk in your investments. CTAs trade many different things like commodities, stocks, bonds, and currencies. This means they are not just focused on one type of investment. By doing this, they can help balance out the ups and downs of other parts of your investment portfolio. This is good because it can protect your money if one part of the market is not doing well.
+By minimizing human intervention, systematic strategies provide consistency and scalability, making them particularly suited for large, diversified portfolios. However, these strategies can be rigid, as they rely solely on historical data and predefined rules. They might struggle in volatile or rapidly changing market conditions where human judgment could be advantageous.
 
-Another benefit is that CTA strategies can make money even when the stock market is going down. This is because CTAs often use trend-following methods, where they buy things that are going up and sell things that are going down. This can help you make profits no matter which way the market is moving. Also, since CTAs use a systematic approach and follow set rules, you don't have to worry about making trading decisions yourself. This can be a big help if you don't have the time or knowledge to trade on your own.
+**Discretionary CTA Strategies**
 
-## What are the risks associated with CTA trading strategies?
+Discretionary strategies, contrasting with systematic ones, allow for human intervention in the trading process. These strategies benefit from the trader's expertise, intuition, and insights into market conditions, offering flexibility and adaptability. Traders can interpret qualitative information such as economic news, geopolitical events, and behavioral finance cues, which are typically out of reach for purely systematic approaches.
 
-Using a CTA trading strategy can be risky because it often involves using leverage. Leverage means using a little bit of money to control a lot more money. This can make your profits bigger, but it can also make your losses bigger if things go wrong. If the market moves against what the CTA expected, the losses can be a lot more than what was invested.
+The discretionary approach can be particularly useful in scenarios where markets are reacting to unprecedented events, as experienced traders can adjust their strategies based on perceived opportunities or risks. However, this method is subject to the practitioner's biases and emotional influences, which can sometimes lead to inconsistent decision-making.
 
-Another risk is that CTA strategies can have periods where they don't make money. Even though they use a systematic approach and follow set rules, the market can be unpredictable. Sometimes, the trends that CTAs follow might not work out, and they might lose money for a while. This can be hard for investors who need to see steady returns.
+**Choice Between Systematic and Discretionary Strategies**
 
-Also, because CTAs trade many different things, there's a risk that they might not understand all the markets they are trading in as well as they should. This can lead to mistakes and losses. It's important for investors to know that while CTA strategies can help spread out risk, they are not a sure thing and can still lose money.
+The decision to employ systematic or discretionary strategies often depends on the CTAs' objectives, risk tolerance, and market conditions. Systematic strategies might be preferable for those seeking a methodical and less emotional approach, while discretionary strategies could appeal to those who value flexibility and human insight.
 
-## How can someone start implementing a CTA trading strategy?
+Understanding the strengths and weaknesses of each strategy type is critical for CTAs looking to optimize their performance. A well-rounded CTA might integrate both approaches, leveraging the systematic models' consistency alongside the discretionary strategies' adaptability to achieve a robust and diversified trading operation.
 
-To start using a CTA trading strategy, you first need to find a good Commodity Trading Advisor. These are the professionals who manage the strategy. You can search for CTAs online, look at lists from financial groups, or ask for advice from other investors. Once you find some CTAs you like, check their past performance and how much they charge. It's important to pick a CTA that matches your goals and how much risk you're okay with.
+## Trend Following and Momentum-Based CTA Strategies
 
-After choosing a CTA, you'll need to open an account with them. This usually means filling out some forms and putting money into the account. The CTA will then start trading based on their strategy. They'll use computer programs and follow set rules to decide when to buy and sell different things like commodities, stocks, bonds, and currencies. Make sure to keep an eye on how your investment is doing and talk to your CTA if you have any questions or if you want to change anything about your investment.
+Trend following strategies are a fundamental component of Commodity Trading Advisors (CTAs) approaches, focusing on capturing profits from prolonged directional market movements. This strategy involves entering trades in the same direction as the existing market trend, either through long positions—anticipating upward movements—or short positions for downward trends. The key to [trend following](/wiki/trend-following) is identifying trends early on and holding positions as long as the trend persists.
 
-## What types of markets are best suited for CTA trading strategies?
+Momentum-based strategies, by contrast, target short-term price fluctuations to exploit temporary market inefficiencies. These strategies seek to gain from assets that are exhibiting continued movement in a specific direction, often over shorter time frames compared to trend following.
 
-CTA trading strategies work well in markets that have clear trends. This means markets where prices are going up or down in a steady way. CTAs often use trend-following methods, so they do better when they can see and follow these trends. Markets like commodities, currencies, and futures are good for CTA strategies because they often have these clear trends. For example, the price of oil might go up over time because of demand, or the value of a currency might go down because of changes in a country's economy.
+Both trend following and [momentum](/wiki/momentum)-based strategies rely heavily on technical indicators to inform decision-making regarding entry and [exit](/wiki/exit-strategy) points. Common indicators include moving averages, which help determine the direction of the trend; momentum oscillators, which measure the speed and change of price movements; and specific price patterns that may signal upcoming shifts or continuations in market trends.
 
-CTA strategies can also be good in markets that are not too tied to the stock market. This is because CTAs trade many different things, and they want to spread out the risk. So, if the stock market goes down, the other markets they trade in might not go down at the same time. This helps balance out the ups and downs in an investment portfolio. Markets like bonds, commodities, and currencies can be less connected to stocks, making them a good fit for CTA strategies.
+For example, a simple moving average crossover system—where a short-term moving average crosses above a long-term moving average—may be used in trend following to generate buy signals. In Python, this could be implemented as follows:
 
-## How do CTA trading strategies adapt to different market conditions?
+```python
+import pandas as pd
 
-CTA trading strategies are good at changing with the market because they use a systematic approach. This means they follow set rules and use computer programs to decide when to buy or sell. If the market is going up, CTAs can follow the trend and buy things that are going up in price. If the market is going down, they can sell things that are going down. This way, they can make money no matter which way the market is moving. They also look at many different markets like commodities, stocks, bonds, and currencies. This helps them spread out the risk and find the best opportunities no matter what is happening in one part of the market.
+def moving_average_crossover(data, short_window=40, long_window=100):
+    data['Short_MA'] = data['Close'].rolling(window=short_window, min_periods=1).mean()
+    data['Long_MA'] = data['Close'].rolling(window=long_window, min_periods=1).mean()
 
-Another way CTA strategies adapt is by using different methods to look at the market. For example, some CTAs might use trend-following, while others might use other ways to predict where prices are going. This mix of methods helps them be ready for different market conditions. If one method is not working well, they can switch to another one. Also, because they trade many different things, they can move their money around to where the best chances are. This flexibility helps them keep making money even when the market changes a lot.
+    data['Signal'] = 0
+    data['Signal'][short_window:] = \
+        np.where(data['Short_MA'][short_window:] > data['Long_MA'][short_window:], 1, 0)
 
-## What advanced techniques can enhance a CTA trading strategy?
+    data['Position'] = data['Signal'].diff()
+    return data
 
-One advanced technique to make a CTA trading strategy better is using [machine learning](/wiki/machine-learning). This means using computers to learn from past market data and find patterns that might be hard for people to see. By doing this, CTAs can make smarter choices about when to buy or sell. Machine learning can also help CTAs change their strategies quickly when the market changes. This can help them stay ahead and make more money.
+# Example usage
+price_data = pd.DataFrame({'Close': [/* list of closing prices */]})
+signals = moving_average_crossover(price_data)
+```
 
-Another technique is using more data from different places. CTAs usually look at things like price and [volume](/wiki/volume-trading-strategy), but they can also use data from news, social media, and other sources to get a better picture of what's happening in the market. This can help them predict where prices are going next. By using all this extra information, CTAs can make their trading decisions more accurate and find new ways to make money.
+The success of both trend following and momentum strategies largely depends on generating accurate signals and employing robust risk management techniques. Signal generation is critical to identifying profitable entry and exit points, while effective risk management helps to protect against adverse market movements and maintain the overall health of the trading portfolio. Techniques such as position sizing, stop-loss orders, and portfolio diversification are commonly employed to manage risk effectively.
 
-## How can performance of a CTA trading strategy be measured and evaluated?
+Ultimately, the efficacy of trend following and momentum strategies in CTA operations is a balance between leveraging past price behavior to predict future movements and managing potential risks through strategic forethought and technology.
 
-To measure and evaluate the performance of a CTA trading strategy, you can look at a few key things. One important thing is the return on investment, which tells you how much money the strategy made compared to how much was put in. Another thing to check is the risk-adjusted return, like the Sharpe Ratio. This tells you how much return you got for the risk you took. If the Sharpe Ratio is high, it means the strategy did well for the amount of risk it took. You can also look at the drawdown, which is the biggest drop in value the strategy had. A smaller drawdown means the strategy was less risky.
-
-Another way to evaluate a CTA trading strategy is by comparing it to other things. You can see how it did compared to the stock market or other trading strategies. This helps you understand if the CTA strategy was better or worse than other ways to invest your money. It's also good to look at how consistent the strategy was over time. If it made money steadily, that's a good sign. But if it had big ups and downs, that might mean it's riskier. By looking at all these things, you can get a full picture of how well the CTA trading strategy is doing.
-
-## What are the latest trends and developments in CTA trading strategies?
-
-One big trend in CTA trading strategies is using more computer programs and machine learning. These tools help CTAs find patterns in the market that are hard for people to see. By using machine learning, CTAs can make smarter choices about when to buy or sell. This can help them make more money and change their strategies quickly when the market changes. More and more CTAs are using these advanced tools to stay ahead in the market.
-
-Another trend is that CTAs are looking at more kinds of data. They used to just look at price and how many people were trading, but now they also use data from news, social media, and other places. This extra information helps them understand what's happening in the market better and predict where prices might go next. By using all this data, CTAs can make their trading decisions more accurate and find new ways to make money.
-
-## How do CTAs manage diversification and correlation in their trading strategies?
+## Diversification and Correlation in CTA Strategies
 
 Diversification is a fundamental principle of Commodity Trading Advisor (CTA) strategies, designed to mitigate risk by employing investments across a spectrum of uncorrelated markets. CTAs aim to manage risk and enhance returns by constructing diversified portfolios that integrate a multitude of asset classes, including equities, bonds, commodities, and currencies. By doing so, CTAs can lessen the exposure to market-specific risks and increase the overall portfolio stability.
 
@@ -122,6 +133,47 @@ print(correlation_matrix)
 
 The output correlation matrix provides a clear view of the relationships between different asset classes, guiding the allocation decisions within CTA strategies. By employing such analytical tools, CTAs can ensure that their diversification efforts are both effective and informed by quantitative insights.
 
+## Risks and Limitations of CTA Strategies
+
+Commodity Trading Advisors (CTAs) are esteemed for their sophisticated trading strategies, yet they encounter several intrinsic risks and limitations in their operations. Key among these challenges is the volatility inherent in financial markets, which can lead to erratic price movements that affect trading outcomes. Market volatility can cause significant deviations from expected asset prices, increasing the likelihood of adverse trading results.
+
+Data inaccuracies present another layer of risk. Accurate data collection and analysis are crucial for algorithmic trading, where decisions are often made based on historical and real-time data. Any inaccuracies or data lags can potentially distort algorithmic decisions, leading to suboptimal trading actions.
+
+Algorithmic errors, although often rare, can have severe implications. These errors might stem from bugs in the trading algorithms or unforeseen market scenarios that the algorithms are not programmed to handle. To illustrate, let’s consider an algorithm intended to execute trades based on a moving average crossover strategy. If a coding error causes the algorithm to miscalculate the moving averages, the strategy might execute trades at incorrect times, resulting in losses. An example of a simple moving average crossover strategy in Python might look like this:
+
+```python
+import pandas as pd
+
+def moving_average_strategy(data, short_window=40, long_window=100):
+    signals = pd.DataFrame(index=data.index)
+    signals['price'] = data['price']
+    signals['short_mavg'] = data['price'].rolling(window=short_window, min_periods=1).mean()
+    signals['long_mavg'] = data['price'].rolling(window=long_window, min_periods=1).mean()
+    signals['signal'] = 0.0
+    signals['signal'][short_window:] = np.where(
+        signals['short_mavg'][short_window:] > signals['long_mavg'][short_window:], 1.0, 0.0)
+    signals['positions'] = signals['signal'].diff()
+    return signals
+```
+
+Sudden market shocks and [liquidity](/wiki/liquidity-risk-premium) constraints also pose challenges. Market shocks, such as geopolitical events or economic announcements, can lead to unexpected price spikes or crashes. During these periods, the liquidity may thin out, meaning there might not be enough counterparties to absorb trades at the desired price, leading to slippage and increased transaction costs.
+
+Despite these risks, CTAs often employ robust risk management frameworks to mitigate potential losses. Adaptive strategies, such as dynamic position sizing and hedging, are frequently used to adjust exposure based on current market conditions. Risk management measures may include setting stop-loss orders and diversifying strategies across different asset classes to reduce the impact of any single adverse event.
+
+From a financial perspective, traders must consider the cost implications of CTA strategies. Management fees, which are typically a percentage of assets under management, along with performance-based incentive fees, can impact net returns. These costs necessitate a thorough analysis to ensure that the pursued strategies genuinely contribute to overall profitability and are not merely eroded by fees.
+
+Continuous research and [backtesting](/wiki/backtesting) are crucial in refining CTA strategies. By testing strategies against historical data, traders can identify potential flaws and make adjustments before live deployment. Moreover, regular strategy reviews help maintain a competitive edge, ensuring that CTAs adapt to evolving market conditions and technological advancements in algorithmic trading.
+
+## Conclusion
+
+Commodity Trading Advisors (CTAs) employ algorithmic trading strategies that represent a sophisticated method for managing large-scale futures and options trading. These strategies are integral to navigating the complexities and dynamic nature of global markets. By utilizing both systematic and discretionary approaches, CTAs can effectively address various market conditions. Systematic strategies rely on quantitative models and technical analysis, reducing emotional bias, while discretionary strategies introduce the flexibility needed to react to unforeseen market changes, allowing CTAs to balance automated precision with human insight.
+
+A key component of a successful CTA strategy is the emphasis on diversification and correlation management. By constructing investment portfolios that include a wide range of asset classes and instruments, such as equity, bond, commodity, and currency futures, CTAs can effectively manage risk. Diversification reduces the reliance on any single market or asset, while correlation management involves assessing the relationships between various assets to ensure that the portfolio maintains stability, even in volatile market conditions.
+
+Despite the strengths of CTA strategies, their successful implementation demands careful consideration of several factors. Risks such as market volatility, algorithmic errors, and data inaccuracies must be proactively managed. Additionally, the costs associated with management and performance fees can impact overall returns, necessitating a thorough analysis of cost structures. Continuous research, backtesting, and optimization are essential to refine strategies and maintain competitiveness in the market.
+
+For traders seeking to enhance their algorithmic trading approaches, understanding CTA strategies is invaluable. These strategies provide insights into constructing resilient portfolios capable of achieving sustainable returns. With a robust framework in place that accounts for risk, cost, and performance optimization, traders can navigate the complexities of global markets with greater confidence and precision.
+
 ## References & Further Reading
 
 [1]: Carver, R. (2019). ["Systematic Trading: A unique new method for designing trading and investing systems."](https://www.amazon.com/Systematic-Trading-designing-trading-investing/dp/0857194453) Harriman House.
@@ -133,31 +185,3 @@ The output correlation matrix provides a clear view of the relationships between
 [4]: Pardo, R. (2008). ["The Evaluation and Optimization of Trading Strategies."](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119196969) Wiley Finance.
 
 [5]: Schwager, J. (2017). ["Hedge Fund Market Wizards."](https://books.google.com/books/about/Hedge_Fund_Market_Wizards.html?id=eAR5mPSK9voC) Wiley.
-
-[6]: [Comparing CTA Strategies CME Group](https://www.cmegroup.com/education/courses/managed-futures/comparing-cta-strategies.html)
-
-[7]: [CTA Trading Strategy QuantifiedStrategies.com](https://www.quantifiedstrategies.com/cta-trading-strategy/)
-
-[8]: [Introduction to CTAs EurekaHedge](https://www.eurekahedge.com/Research/News/1388/Introduction-to-CTAs-and-their-Role-in-Portfolio-Allocations)
-
-[9]: [A Guide to Trend Following Strategies SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4438260)
-
-[10]: [A Century of Evidence on Trend-Following Investing AQR](https://www.aqr.com/Insights/Research/Journal-Article/A-Century-of-Evidence-on-Trend-Following-Investing)
-
-[11]: [AQR Trend-Following Strategies Return Bloomberg](https://www.bloomberg.com/news/articles/2022-10-06/aqr-trend-following-strategies-return-as-much-as-70-in-big-year)
-
-[12]: [Position sizing methods for a trend following CTA Semantic Scholar](https://www.semanticscholar.org/paper/Position-sizing-methods-for-a-trend-following-CTA-Sandberg-%C3%96hman/2b95598e0a78ff4c50e52f620192cd229cd980b4)
-
-[13]: [Exploration of CTA Momentum Strategies Using ETFs QuantPedia](https://quantpedia.com/exploration-of-cta-momentum-strategies-using-etfs/)
-
-[14]: [CTA Strategies and Algo Trading PapersWithBacktest](https://wiki.paperswithbacktest.com/glossary/cta-strategies)
-
-[15]: [Revisiting Trend-Following CTAs HedgeNordic](https://hedgenordic.com/2020/06/revisiting-trend-following-ctas/)
-
-[16]: [Trend-Following Primer Graham Capital Management](https://www.grahamcapital.com/blog/trend-following-primer/)
-
-[17]: [What is a CTA? Strategic Investment Solutions RJOasis](https://www.rjoasis.com/what-is-a-cta/)
-
-[18]: [Commodity Trading Advisor (CTA) Definition Investopedia](https://www.investopedia.com/terms/c/cta.asp)
-
-[19]: [CTA Trading Strategy – The Only System You Need To Use TradingStrategyGuides](https://tradingstrategyguides.com/cta-trading-strategy/)

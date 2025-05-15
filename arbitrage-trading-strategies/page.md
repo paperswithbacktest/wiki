@@ -1,7 +1,6 @@
 ---
-title: Guide to Arbitrage Trading Strategies in Global Markets
-description: Arbitrage trading leverages price gaps across currency equity and crypto
-  markets to deliver risk free profit opportunities Discover more inside.
+title: "Arbitrage trading strategies"
+description: Learn about arbitrage trading, a profitable strategy that involves buying and selling the same asset in different markets to exploit price discrepancies. Explore various types of arbitrage including risk, statistical, and currency arbitrage. Dive into detailed strategies like triangular currency arbitrage and merger arbitrage, with essential resources provided for further study.
 ---
 
 

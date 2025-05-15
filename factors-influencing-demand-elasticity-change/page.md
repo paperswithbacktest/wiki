@@ -1,87 +1,19 @@
 ---
-title: Understanding Demand Elasticity for Effective Pricing Strategies
-description: Demand Elasticity shows how price changes shape consumer behavior and
-  helps businesses optimize pricing strategies with data insights Discover more inside
+title: "Factors Influencing Demand Elasticity Change (Algo Trading)"
+description: "Explore how demand elasticity affects algo trading with insights into price fluctuations, consumer behavior, and strategies for traders to enhance profitability."
 ---
 
+The modern financial landscape is undergoing a significant transformation, largely driven by the advent and integration of algorithmic trading. This cutting-edge approach leverages complex algorithms and automated systems to execute trades with remarkable efficiency and speed, reshaping how transactions are conducted across global markets. As technology continues to advance, algorithmic trading remains at the forefront, offering sophisticated tools that can analyze vast amounts of data in real-time, uncovering patterns and trends that were previously inaccessible.
 
-![Image](images/1.webp)
+Understanding economic factors is crucial in this rapidly evolving sector, with demand elasticity being a key component. Demand elasticity measures how sensitive the quantity demanded of a good is to changes in other economic variables, such as price. Specifically, the price elasticity of demand (PED) provides insights into how quantity demanded responds to price fluctuations, a metric vital for traders seeking to optimize their strategies. By understanding how elastic or inelastic demand is, traders can predict consumer behavior, adjust pricing strategies, and enhance profitability.
+
+![Image](images/1.png)
+
+This article explores how economic factors, particularly demand elasticity, interact with market changes and algorithmic trading. We aim to illustrate the interconnected nature of these elements, showing how they influence each other and offering insights into how traders can leverage this knowledge for strategic advantage. By integrating elasticity measures into trading algorithms, market participants can improve their predictive accuracy, adapt swiftly to market shifts, and enhance trade execution. Embracing these concepts not only optimizes trading strategies but also provides a competitive edge in an ever-changing financial environment.
 
 ## Table of Contents
 
-## What is demand elasticity?
-
-Demand elasticity is a way to measure how much people change their buying habits when the price of something changes. It helps businesses and economists understand if a product's price change will make people buy more or less of it. If a small change in price causes a big change in how much people buy, we say the demand is elastic. If the price change doesn't affect how much people buy very much, then the demand is inelastic.
-
-For example, if the price of a luxury item like a fancy watch goes up a little bit and people stop buying it, the demand for that watch is elastic. But if the price of a necessary item like medicine goes up and people still buy the same amount because they need it, the demand for that medicine is inelastic. Understanding demand elasticity helps businesses set prices in a way that can increase their profits and helps governments make policies that affect the economy.
-
-## How is demand elasticity measured?
-
-Demand elasticity is measured using a formula that looks at how much the quantity demanded changes when the price changes. The formula is called the price elasticity of demand, and it's calculated by dividing the percentage change in quantity demanded by the percentage change in price. If the result is more than 1, it means demand is elastic because a small price change causes a big change in how much people buy. If the result is less than 1, demand is inelastic because price changes don't affect how much people buy very much. If the result is exactly 1, demand is called unit elastic, meaning the change in quantity demanded matches the change in price.
-
-To use the formula, you first need to know the original price and quantity, and then the new price and quantity after a change. For example, if the price of a product goes from $10 to $12 and the quantity people buy goes from 100 units to 80 units, you can calculate the percentage changes. The percentage change in quantity is (80-100)/100 = -20%, and the percentage change in price is (12-10)/10 = 20%. Using the formula, the elasticity would be -20%/20% = -1, indicating unit elastic demand. The negative sign just shows that price and quantity move in opposite directions, which is normal for demand.
-
-## What are the basic factors that influence demand elasticity?
-
-Demand elasticity can be influenced by a few important factors. One big [factor](/wiki/factor-investing) is whether the product is something people need or just want. If it's a need, like medicine or basic food, people will keep buying it even if the price goes up, so the demand is inelastic. But if it's something people can live without, like a luxury item, they might stop buying it if the price goes up, making the demand elastic. Another factor is how many similar products are available. If there are lots of similar options, like different brands of soda, people can easily switch to another one if the price of their usual choice goes up, which makes demand more elastic.
-
-Another thing that affects demand elasticity is the portion of a person's income that they spend on the product. If the product takes up a big part of someone's budget, like a car, a small price change can make a big difference in whether they can afford it, leading to elastic demand. But if it's something that costs very little compared to their income, like a pack of gum, they might not even notice a small price increase, so the demand would be inelastic. Time also plays a role; in the short term, people might not be able to change their habits quickly, making demand inelastic, but over time, as they find alternatives or adjust their budgets, demand can become more elastic.
-
-## Can you explain the concept of price elasticity of demand?
-
-Price elasticity of demand is a way to see how much people change what they buy when the price of something goes up or down. It's like a measure of how sensitive people are to price changes. If you change the price of a product and people start buying a lot more or a lot less of it, then we say the demand for that product is elastic. But if changing the price doesn't really change how much people buy, then the demand is inelastic. This helps businesses decide if they should raise or lower prices to make more money.
-
-To figure out the price elasticity of demand, you use a simple formula. You take the percentage change in how much people buy and divide it by the percentage change in the price. If the number you get is more than 1, that means demand is elastic because a small price change makes a big difference in how much people buy. If it's less than 1, demand is inelastic because price changes don't affect how much people buy very much. If it's exactly 1, it's called unit elastic, meaning the change in how much people buy matches the change in price.
-
-## How does the availability of substitutes affect demand elasticity?
-
-The availability of substitutes plays a big role in how elastic demand is. If there are lots of other products that people can choose instead of the one you're selling, then demand for your product will be more elastic. That's because if you raise the price, people can easily switch to a different product that does the same thing but costs less. For example, if you sell a certain brand of soda and there are many other brands of soda out there, people can just buy a different brand if yours gets too expensive.
-
-On the other hand, if there aren't many substitutes available, demand will be more inelastic. This means that even if you raise the price, people will still buy your product because they don't have many other options. For instance, if you sell a life-saving medicine and there's no other medicine like it, people will keep buying it no matter how much the price goes up because they need it. So, the more substitutes there are, the more elastic demand will be, and the fewer substitutes, the more inelastic demand will be.
-
-## What role does the necessity of a product play in its demand elasticity?
-
-The necessity of a product really affects how much people will keep buying it even if the price changes. If a product is something people need, like medicine or basic food, they will probably keep buying it even if the price goes up. This means the demand for these necessary items is inelastic. People can't easily stop buying things they need, so a price increase won't change how much they buy very much.
-
-On the other hand, if a product is something people want but don't need, like a fancy watch or a new video game, they might stop buying it if the price goes up. These kinds of products have elastic demand because people can choose not to buy them if they get too expensive. So, the more a product is seen as a necessity, the less likely people are to change how much they buy when the price changes.
-
-## How does the proportion of income spent on a good influence its demand elasticity?
-
-The amount of money people spend on a product compared to their total income can really affect how much they will change their buying habits if the price changes. If a product takes up a big part of someone's budget, like a car or a house, even a small change in price can make a big difference. People might decide not to buy it if it gets too expensive, which means the demand for these big-ticket items is usually elastic. They have to think hard about whether they can afford it, and a small price increase might push it out of their budget.
-
-On the other hand, if a product costs very little compared to someone's income, like a pack of gum or a candy bar, people might not even notice if the price goes up a bit. They can still afford it easily, so they will probably keep buying it even if it gets a little more expensive. This means the demand for these small, inexpensive items is usually inelastic. People don't have to worry much about the price because it's such a tiny part of their overall spending.
-
-## What is the impact of time on demand elasticity?
-
-Time can really change how people react to price changes. In the short term, people might not be able to change their buying habits quickly. For example, if the price of gas goes up, people still need to drive to work or school, so they keep buying it even if it's more expensive. This makes demand inelastic in the short term because people don't have many other options right away.
-
-But over time, people can find ways to adjust. They might start carpooling, using public transport, or buying a more fuel-efficient car. As they find these alternatives, they might buy less gas even if the price stays the same or goes up a little. This means that over time, demand can become more elastic because people have more time to change what they do and find other ways to meet their needs.
-
-## How do consumer expectations about future prices affect demand elasticity?
-
-Consumer expectations about future prices can really change how much they buy now. If people think the price of something will go up soon, they might buy more of it right away. For example, if people hear that the price of a new phone will increase next month, they might rush to buy it now, making the demand more elastic because a small change in expected future price can cause a big change in current buying.
-
-On the other hand, if people think the price will go down in the future, they might wait to buy it. If everyone thinks a laptop will be cheaper next month, they might hold off on buying it now, which can make demand more elastic too. People's reactions to expected price changes can make demand more sensitive to price changes, whether those changes are happening now or in the future.
-
-## What advanced economic models are used to analyze changes in demand elasticity?
-
-Economists use advanced models like the Almost Ideal Demand System (AIDS) and the Linear Approximate Almost Ideal Demand System (LA/AIDS) to study how demand elasticity changes. These models look at how people spend their money on different things and how their choices change when prices or incomes change. They use a lot of math to figure out how sensitive people are to price changes for different products. By using these models, economists can predict how people will react to price changes and help businesses and governments make better decisions.
-
-Another model that's used is the Constant Elasticity of Substitution (CES) model. This model helps economists understand how people switch between different products when prices change. It's especially useful when looking at how much people will change their buying habits if one product gets more expensive and another stays the same. These advanced models help give a more detailed picture of demand elasticity, showing how different factors like income, prices, and consumer preferences all play a part in how much people buy.
-
-## How do macroeconomic factors like inflation and employment rates influence demand elasticity?
-
-Macroeconomic factors like inflation and employment rates can really change how people react to price changes. Inflation means that the general level of prices is going up. When inflation is high, people might feel like they need to buy things now before prices go up even more. This can make demand more elastic because people are more sensitive to price changes. They might buy more of something if they think the price will go up soon, or they might buy less if they think they can't afford it anymore because their money doesn't go as far.
-
-Employment rates also play a big role. When a lot of people have jobs and are [earning](/wiki/earning-announcement) money, they might not worry as much about small price changes. This can make demand more inelastic because people can still afford to buy what they need or want, even if prices go up a bit. But if unemployment is high and people are worried about money, even a small price increase can make them stop buying things. This makes demand more elastic because people are more careful with their money and more likely to change what they buy when prices change.
-
-## Can you discuss case studies where demand elasticity has significantly changed due to external factors?
-
-One example where demand elasticity changed because of external factors is during the 2008 financial crisis. When the economy got bad, people lost their jobs and had less money to spend. This made the demand for luxury items like big TVs and fancy cars more elastic. Before the crisis, people might have kept buying these things even if the price went up a little. But during the crisis, even a small price increase made people stop buying them because they were more worried about saving money. Companies like car makers had to lower their prices a lot to keep selling their products.
-
-Another case study is the change in demand elasticity for gasoline after the 1970s oil crisis. Before the crisis, people didn't think much about the price of gas because it was always pretty cheap. But when the price of oil went up a lot, people started looking for ways to use less gas. Over time, they bought more fuel-efficient cars and used public transportation more. This made the demand for gas more elastic because people were more likely to change how much they bought when the price changed. The oil crisis showed that even something as necessary as gas could have more elastic demand if people had time to adjust and find other options.
-
-## What is Understanding Economic Elasticity?
+## Understanding Economic Elasticity
 
 Economic elasticity quantifies how sensitive an economic variable is to a change in another variable, providing insights into market behavior. This concept is paramount in determining how supply and demand respond to varying economic conditions, such as price changes, which directly impacts market dynamics.
 
@@ -105,7 +37,134 @@ Understanding these elasticity metrics is crucial for traders. Elasticity helps 
 
 Furthermore, those involved in [algorithmic trading](/wiki/algorithmic-trading) can incorporate elasticity measures into their algorithms to predict market behavior more accurately. By understanding and applying economic elasticity, traders can make informed decisions, optimize trade execution, and manage risks effectively in ever-changing market conditions.
 
-## What is the conclusion?
+## Factors Influencing Demand Elasticity
+
+Demand elasticity is a crucial concept in economics, reflecting how sensitive the quantity demanded of a good is to changes in various factors. Several key elements influence this elasticity, each playing a significant role in determining the demand behavior of different products and services.
+
+One of the primary factors affecting demand elasticity is the nature of the good, categorized into necessities and luxuries. Necessity goods, such as food and basic healthcare, typically exhibit inelastic demand. This means that changes in their prices lead to relatively small changes in the quantity demanded. Consumers continue to purchase these goods regardless of price fluctuations because they are essential for daily life. In contrast, luxury goods tend to have more elastic demand. These goods, like high-end electronics or designer clothing, rely heavily on consumers' discretionary spending. As prices increase, many consumers might reconsider their purchases, leading to a more pronounced change in the quantity demanded.
+
+Price changes themselves also have a direct impact on demand elasticity. The law of demand states that, all else being equal, there is an inverse relationship between price and quantity demanded. However, the degree to which this relationship holds varies depending on the elasticity of demand for the particular good. A steep demand curve indicates inelastic demand, while a flatter curve suggests elastic demand.
+
+Consumer income is another significant determinant of demand elasticity. With an increase in income, consumers are likely to buy more of both normal and luxury goods, increasing their demand elasticity. Conversely, a decrease in consumer income typically results in reduced demand for goods perceived as non-essential, thereby increasing the elasticity for these goods as consumers become more sensitive to price changes.
+
+The availability of substitutes profoundly affects demand elasticity as well. If numerous substitutes are available for a particular good, consumers can easily switch to alternative products when the price of the initial good rises, resulting in more elastic demand. Conversely, if substitutes are scarce or nonexistent, demand tends to be inelastic, as consumers have little choice but to continue purchasing the original product despite price increases.
+
+Economic downturns introduce another layer of complexity in evaluating demand elasticity. During such periods, consumers often cut back on non-essential spending, which can shift demand elasticity notably. While necessity goods might see little change in demand elasticity during economic downturns, luxury and non-essential goods often experience heightened elasticity as discretionary spending tightens.
+
+In essence, understanding the factors affecting demand elasticity involves analyzing the nuanced interplay between the nature of goods, price changes, consumer income, and the availability of substitutes. These elements together shape consumer behavior and market dynamics, providing valuable insights for optimizing economic policies and business strategies.
+
+## Market Changes and Their Impact on Elasticity
+
+Market changes, including shifts in economic policies, technological advancements, and geopolitical events, play a crucial role in influencing demand elasticity. Economic policies, such as changes in interest rates or taxation, can affect consumer purchasing power and thus alter demand for various goods. For instance, a reduction in interest rates generally increases disposable income, leading to higher demand for luxury items, which typically exhibit elastic demand. Conversely, taxation increases can reduce disposable income, affecting the demand for both luxury and necessity goods differently based on their respective elasticities.
+
+Technological advancements also significantly impact demand elasticity. The development and adoption of new technologies can lead to the introduction of substitutes or improvements in existing products, modifying consumer preferences. For example, the rise of smartphones has dramatically diminished the demand for traditional mobile phones, highlighting a shift in elasticity due to the availability of superior substitutes.
+
+Geopolitical events can cause rapid shifts in markets, often resulting in volatile changes in demand elasticity. For instance, political instability may lead to uncertainty in markets, reducing consumer confidence and altering spending behaviors. Similarly, international trade agreements or tariffs can affect the availability and cost of goods, subsequently influencing elasticity. For example, the imposition of tariffs on imported goods typically reduces demand elasticity by limiting consumer choices and increasing prices.
+
+Algorithmic trading systems must be particularly attuned to these market changes to sustain effective trading strategies. The responsiveness of algorithmic models to such changes can be critical in maintaining profitability. Algorithms can be designed to incorporate real-time data from economic policies, technological developments, and geopolitical events, allowing for dynamic adaptation and optimization of trading decisions. This ensures that traders can anticipate and react to market shifts that affect elasticity, improving trade execution and outcomes.
+
+By integrating elasticity measures into algorithmic trading, models can adjust to reflect the new economic realities imposed by market changes. This integration involves the continuous monitoring of indicators that signal shifts in consumer behavior and demand patterns, thereby allowing the trading algorithms to predict market movements accurately and allocate assets efficiently to leverage expected changes.
+
+## Algorithmic Trading in the Context of Elasticity
+
+Algorithmic trading has revolutionized the financial markets by employing advanced technologies to execute trades with speed and precision. This form of trading often leverages economic elasticity principles to optimize returns. Understanding elasticity measures is crucial for predicting how markets will respond to various price changes, thereby enhancing algorithmic trading strategies.
+
+Economic elasticity, particularly price elasticity of demand (PED) and price elasticity of supply (PES), are vital metrics in this context. Algorithms that incorporate these measures can anticipate fluctuations by analyzing past market behaviors and predicting future trends. This predictive edge enables traders to time the market effectively, executing trades when conditions align with their profitability objectives.
+
+To integrate elasticity into algorithmic trading, it is essential to use data-driven models that can process large datasets and identify patterns. For example, a Python-centric approach could involve libraries like NumPy and pandas to handle data and [machine learning](/wiki/machine-learning) libraries like scikit-learn to build predictive models. A simple example in Python might be using elasticity coefficients to adjust a trading model:
+
+```python
+import numpy as np
+
+# Example: Calculate expected price change impact
+def price_change_effect(quantity_elasticity, initial_price, price_change):
+    return quantity_elasticity * (price_change / initial_price)
+
+# Assume values for demonstration
+quantity_elasticity = 1.5
+initial_price = 100
+price_change = 5
+
+# Calculate effect
+effect = price_change_effect(quantity_elasticity, initial_price, price_change)
+print(f"Expected change in quantity demanded: {effect}")
+```
+
+Algorithmic trading systems can dynamically adapt by continuously refining their models with updated data. This adaptability ensures that they remain relevant despite the fast-paced changes in market conditions. Advanced models use machine learning algorithms capable of learning from live data streams, making real-time adjustments to optimize execution. Such systems can identify transient opportunities created by elasticities and capitalize on them before they vanish.
+
+In summary, by incorporating elasticity measures into trading algorithms, traders enhance their ability to predict market responses to price shifts. This strategic integration helps optimize trade execution, ensuring that trades occur at the most opportune times to maximize profitability. These capabilities underscore the significant role of elasticity in shaping the future of algorithmic trading.
+
+## Practical Applications and Benefits
+
+Leveraging the concept of economic elasticity in trading provides traders with significant advantages in asset allocation and risk management. By understanding and applying both price elasticity of demand (PED) and price elasticity of supply (PES), traders can enhance their decision-making processes, resulting in more efficient and effective trading strategies.
+
+Understanding elasticity enables traders to set more precise stop-loss and profit-taking levels. For example, by gauging how sensitive the demand for a specific asset is to price changes, traders can anticipate potential market movements and set their stop-loss orders at levels that accommodate expected price fluctuations. This approach minimizes potential losses by exiting trades before significant adverse movements occur. Conversely, by identifying moments when demand elasticity suggests favorable price movements, traders can optimize their profit-taking levels, maximizing gains when the market aligns with their predictions.
+
+One practical example of utilizing elasticity involves adjusting trading strategies based on anticipated demand shifts for goods with known elasticities. For instance, if a trader recognizes that a luxury good is highly elastic, meaning its demand significantly changes with price variations, they can anticipate a potential decline in demand during economic downturns. In this scenario, traders might reduce their investment in stocks of companies heavily reliant on luxury goods, reallocating resources to more stable, necessary goods with inelastic demand. This strategic pivot helps traders safeguard their portfolios against market [volatility](/wiki/volatility-trading-strategies).
+
+A practical application of these concepts can be demonstrated through Python programming to simulate potential market scenarios. By utilizing libraries like NumPy and Pandas, traders can analyze historical data to assess elasticity patterns and adjust their strategies accordingly. The following Python snippet illustrates a simplified approach to predict asset price movements based on observed elasticity:
+
+```python
+import numpy as np
+import pandas as pd
+
+# Sample data: price and demand
+data = pd.DataFrame({
+    'price': [10, 12, 15, 20, 25],
+    'demand': [500, 450, 300, 200, 150]
+})
+
+# Calculating price elasticity of demand
+data['elasticity'] = data['demand'].pct_change() / data['price'].pct_change()
+
+# Predicting the effect of a price change
+price_change = 0.05  # 5% price increase
+predicted_demand_change = data['elasticity'].mean() * price_change
+predicted_demand = data['demand'].iloc[-1] * (1 + predicted_demand_change)
+
+print(f"Predicted change in demand: {predicted_demand_change:.2f}")
+print(f"Predicted demand at new price: {predicted_demand:.0f}")
+```
+
+This script calculates the average elasticity of demand from historical data and predicts how a future price change might influence demand. By integrating such predictive tools, traders can enhance their market insights and make informed trading decisions that account for elasticities in the market, leading to improved asset management and profitability.
+
+## Challenges and Considerations
+
+Calculating and applying elasticity in trading models is a complex endeavor necessitating an abundance of data and advanced analytical tools. The accuracy and reliability of elasticity measures are contingent upon the quality and timeliness of the underlying economic data. Comprehensive datasets are required to capture the multifaceted nature of market conditions and consumer behavior, which are influenced by various external factors such as economic cycles, policy changes, and technological developments.
+
+A significant challenge for traders is the continuous update of models to reflect dynamic market conditions and evolving elasticities. Elasticities are not static; they shift according to changes in the economy and consumer preferences. As such, trading models must be consistently recalibrated to ensure that predictions and strategies remain valid. This often involves sophisticated statistical techniques and machine learning algorithms capable of processing and interpreting vast datasets. Such analytical methods may include regression analysis to estimate elasticity coefficients or time-series analysis to detect shifts over time.
+
+Python code exemplifying how regression could be applied to estimate demand elasticity is:
+
+```python
+import pandas as pd
+import statsmodels.api as sm
+
+# Sample data
+data = {'Price': [10, 12, 15, 18, 20],
+        'Quantity': [100, 90, 80, 60, 50]}
+df = pd.DataFrame(data)
+
+# Adding an intercept for OLS regression
+X = sm.add_constant(df['Price'])
+Y = df['Quantity']
+
+# Fitting the OLS model
+model = sm.OLS(Y, X).fit()
+print(model.summary())
+
+# Calculating elasticity at mean values
+price_elasticity = model.params['Price'] * (df['Price'].mean() / df['Quantity'].mean())
+print(f"Estimated Price Elasticity: {price_elasticity}")
+```
+
+Traders also confront the challenge of keeping their models adept at managing market anomalies and unexpected events. This requires continuous learning, where models are not only updated with new data but also refined with advanced algorithms that adapt to novel situations. Model refinement involves incorporating feedback from past predictions and actual outcomes to improve forecast accuracy. It can be approached through machine learning techniques, where models "learn" from new data patterns and adjust their parameters accordingly.
+
+Moreover, apparent elasticity may diverge from true elasticity due to externalities or market imperfections. Hence, traders must exercise caution when interpreting elasticity measures, considering potential biases or errors in estimation. It is crucial to approach elasticity calculations with a nuanced understanding of economic theory and statistical assumptions to avoid misjudgments that could lead to suboptimal trading decisions.
+
+The necessity for continuous learning and system refinement is further underscored by the rapid pace of technological advancements in trading. As new tools and platforms emerge, integrating these innovations into existing models can enhance analytical capabilities, offering traders a strategic edge in navigating complex market dynamics effectively.
+
+## Conclusion
 
 Economic factors and demand elasticity are critical in comprehending the dynamics of market behavior and optimizing trading strategies. Understanding the elasticity of demand—quantifying how the quantity demanded of a good reacts to price changes—is essential for traders to anticipate market movements and adjust strategies accordingly. Price elasticity is expressed by the formula:
 
@@ -116,7 +175,7 @@ $$
 
 Algorithmic trading significantly benefits from incorporating elasticity measures, as such metrics provide insights into market sensitivity and potential price fluctuations. Algorithms that leverage elasticity concepts can more accurately forecast market responses to economic variables, such as changes in supply, consumer income, or substitute availability. This predictive capability allows traders to execute trades at optimal times, thereby enhancing their competitive edge and profitability.
 
-The ongoing advancements in technology and analytics continually refine traders' abilities to apply these economic concepts effectively. Modern analytical tools and [machine learning](/wiki/machine-learning) algorithms enable the processing of vast datasets to identify patterns and correlations related to demand elasticity. Python, with libraries like NumPy and pandas, facilitates the analysis of large-scale data to implement elasticity calculations and strategize accordingly. For instance, a simple calculation of elasticity in Python can be demonstrated as follows:
+The ongoing advancements in technology and analytics continually refine traders' abilities to apply these economic concepts effectively. Modern analytical tools and machine learning algorithms enable the processing of vast datasets to identify patterns and correlations related to demand elasticity. Python, with libraries like NumPy and pandas, facilitates the analysis of large-scale data to implement elasticity calculations and strategize accordingly. For instance, a simple calculation of elasticity in Python can be demonstrated as follows:
 
 ```python
 def calculate_ped(percentage_change_in_quantity, percentage_change_in_price):

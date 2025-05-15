@@ -1,7 +1,6 @@
 ---
-title: Mastering Options Day Trading Strategies for Consistent Profit
-description: Options day trading demands robust strategies to manage risks, leverage
-  Greeks, and optimize strike selections for consistent returns Discover more inside
+title: "Day Trading Options (Algo Trading)"
+description: "Learn about day trading options in the context of algo trading. Discover how options offer unique opportunities for significant returns through leverage and the risks involved. Understand the basics of options, including calls, puts, and the role of Greeks like Delta, Theta, Vega, and Gamma. Unveil the importance of volatility in option pricing and its two types: Implied Volatility and Historical Volatility."
 ---
 
 

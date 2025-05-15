@@ -1,6 +1,6 @@
 ---
-title: Aaron Silberstein Career Journey in Mathematics and Quant Trading
-description: Aaron Silberstein Career Journey in Mathematics and Quant Trading
+title: "Aaron Silberstein"
+description: "Explore Aaron Silberstein's journey from a math enthusiast in Romania to a renowned academic and quantitative researcher in Chicago. Discover more about his achievements and contributions."
 ---
 
 

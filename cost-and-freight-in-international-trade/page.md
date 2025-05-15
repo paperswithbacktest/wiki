@@ -1,7 +1,6 @@
 ---
-title: Understanding Cost and Freight CFR in International Trade
-description: Cost and Freight CFR defines seller transport costs and buyer risk transfer
-  to improve logistics clarity and risk management Discover more inside.
+title: "Cost and Freight in International Trade (Algo Trading)"
+description: "Explore the essentials of Cost and Freight (CFR) in international trade and its impact on algorithmic trading Learn how CFR agreements streamline global commerce"
 ---
 
 International trade utilizes a variety of terms and contractual agreements that help determine the responsibilities and financial obligations tied to the transportation of goods across borders. Among these, Cost and Freight (CFR) is a significant term in the context of foreign trade. This term is chiefly used to provide guidance for both buyers and sellers involved in transactions via sea and inland waterways, clearly demarcating roles and obligations.

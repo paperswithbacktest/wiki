@@ -1,91 +1,49 @@
 ---
-title: Comprehensive Guide To Crude Oil Uses Pricing And Investment
-description: Crude Oil explained from basics to advanced topics including uses pricing
-  trading investment strategies and market risks Discover more inside.
+title: "Crude Oil and Its Importance to Investors (Algo Trading)"
+description: "Explore crude oil investment opportunities through algorithmic trading strategies enhancing precision and efficiency in trading to maximize potential returns."
 ---
 
+Investing in crude oil utilizing algorithmic trading strategies opens numerous opportunities for both traders and investors by leveraging advanced technological tools to enhance precision and efficiency in trading activities. Algorithmic trading, a method where computer algorithms execute trading orders based on predefined criteria, has transformed the landscape of commodity trading, offering a robust framework to navigate the complexities of the oil market.
+
+The fundamental aspect of algorithmic trading in crude oil lies in its ability to process vast amounts of data at unprecedented speed. This capability enables traders to execute strategies with greater accuracy, providing them with a competitive advantage in the fast-paced and volatile oil markets. By automating trades based on current and historical market data, algorithms can quickly identify trade opportunities that are otherwise difficult to spot manually. Furthermore, these algorithms remove emotional biases, executing trades based on objective, data-driven analysis.
 
 ![Image](images/1.png)
 
+The integration of algorithmic trading strategies in crude oil investment allows for the crafting of sophisticated trading models that can adapt to market dynamics. These models can efficiently handle various variables, such as fluctuating supply and demand, geopolitical tensions, and economic indicators that traditionally influence crude oil prices. Through advanced algorithms, traders can forecast price movements, optimize timing for trade execution, and implement robust risk management practices.
+
+This article explores the potential of investing in crude oil through algorithmic trading by examining the essential elements of crude oil investing and understanding the transformative role of algorithms in commodity markets. By integrating these technological advancements, traders are better positioned to develop effective strategies that maximize potential returns while minimizing associated risks. As we delve into the interplay between crude oil markets and algorithmic innovations, we uncover the substantial impact these tools have on enhancing investment strategies in this critical sector.
+
 ## Table of Contents
 
-## What is crude oil and where does it come from?
+## Understanding Crude Oil Investments
 
-Crude oil is a thick, dark liquid that comes from deep underground. It is a type of fossil fuel, which means it was made from the remains of tiny plants and animals that lived millions of years ago. These remains got buried under layers of sand and mud, and over a very long time, heat and pressure turned them into oil.
+Crude oil is one of the most actively traded commodities on a global scale due to its integral role in the energy sector. The demand for crude oil stems largely from its use as a primary source of energy and feedstock for various products, including gasoline, diesel, and petrochemicals. As a cornerstone of modern industrial society, crude oil is central to transportation, manufacturing, and heating, influencing its widespread trading activity.
 
-People find crude oil by drilling into the earth, often in places like the ocean floor or deserts. Once they find it, they pump it out and send it to refineries. At the refineries, they turn the crude oil into different products like gasoline, diesel, and jet fuel. These products are used to power cars, trucks, and airplanes, and they are important for our everyday lives.
+Investors seeking exposure to crude oil markets have several instruments at their disposal, which provide different levels of engagement and risk. These include:
 
-## How is crude oil used in everyday life?
+1. **Spot Contracts**: These involve the immediate purchase or sale of crude oil at the current market price. Spot contracts are typically used by companies requiring a physical supply of crude oil for operational needs. They can also be used by traders aiming to capitalize on short-term price movements. However, spot trading often involves significant logistical considerations, including storage and transportation.
 
-Crude oil is very important in our daily lives because it is used to make many things we use every day. One of the main uses of crude oil is to make gasoline. Gasoline is what makes cars, trucks, and motorcycles run. Without gasoline, it would be hard for people to drive to work, school, or to visit friends and family. Also, crude oil is used to make diesel fuel, which powers big trucks and buses, and jet fuel, which makes airplanes fly.
+2. **Futures Contracts**: Futures are standardized contracts to buy or sell a specific quantity of crude oil at a predetermined price on a specified future date. These contracts are traded on exchanges like the New York Mercantile Exchange (NYMEX). Futures enable investors to hedge against price volatility by locking in prices, providing a degree of predictability in costs and revenues. They are also popular with speculators aiming to profit from changes in oil prices by leveraging market forecasts.
 
-Besides transportation, [crude oil](/wiki/crude-oil) is used to make many products we use at home. For example, it is used to make plastics, which are in things like toys, bottles, and food containers. Crude oil is also used to make things like medicines, cleaning products, and even the asphalt on roads. So, when you use a plastic bottle or drive on a road, you are using something that came from crude oil.
+3. **Exchange-Traded Funds (ETFs)**: ETFs offer a more accessible route for investors to gain exposure to crude oil without dealing with the complexities of futures contracts or physical storage. These funds track different aspects of the oil market, including stocks of oil-producing companies, oil futures, or combinations thereof, providing portfolio diversification and flexibility in investment strategies.
 
-In addition to these, crude oil helps keep our homes warm. It is used to make heating oil, which many people use to heat their houses during cold winters. So, crude oil is not just for cars and plastics; it plays a big role in keeping us comfortable and helping us with many daily tasks.
+Investing in [crude oil](/wiki/crude-oil) offers unique opportunities and challenges. One of the primary advantages is its function as a hedge against inflation. As a tangible asset and a critical input in various economic activities, the price of crude oil tends to rise with inflation, helping to preserve purchasing power. Moreover, crude oil investments can diversify a portfolio, reducing overall risk by counterbalancing asset classes that may perform differently under varying economic conditions.
 
-## What are the different types of crude oil and how do they differ?
+Additionally, the volatile nature of crude oil markets presents opportunities for speculative gains. Price fluctuations driven by geopolitical events, changes in supply and demand, and macroeconomic indicators can yield significant trading profits for adept investors. However, it also necessitates a deep understanding of market dynamics and prudence in strategy formulation.
 
-There are different types of crude oil, and they are usually grouped into two main categories: light crude oil and heavy crude oil. Light crude oil is easier to pump out of the ground and easier to refine into products like gasoline. It flows more easily and has a lower density. Heavy crude oil, on the other hand, is thicker and harder to pump and refine. It has a higher density and often needs to be heated or mixed with lighter oils to move through pipelines.
+## The Dynamics of the Crude Oil Market
 
-Another way to classify crude oil is by its sweetness or sourness. Sweet crude oil has less sulfur, which makes it easier and cheaper to refine. Sour crude oil has more sulfur, which can make refining more difficult and expensive because it can damage equipment and create more pollution. The type of crude oil that is found in a place can affect how much it costs to get it out of the ground and turn it into useful products.
+Crude oil markets are characterized by a complex interplay of several factors that influence pricing dynamics. One of the primary determinants of crude oil prices is the balance between global supply and demand. On the supply side, production levels from major oil-producing countries and regions such as those within the Organization of the Petroleum Exporting Countries (OPEC), Russia, and the United States are crucial. OPEC's decisions on production quotas can significantly affect global supply levels. For instance, an agreement among OPEC nations to cut production tends to reduce supply and consequently elevate prices. Conversely, a decision to increase output usually leads to downward pressure on prices.
 
-## How does the price of crude oil affect the economy?
+The demand for crude oil is closely tied to global economic conditions. Economic growth in major countries drives industrial activity and energy consumption, which in turn increases the demand for oil. Key economic indicators such as GDP growth rates, industrial production figures, and consumer spending patterns provide insights into future demand trends. 
 
-The price of crude oil can have a big impact on the economy. When the price of oil goes up, it costs more for people and businesses to buy gasoline and other products made from oil. This means people might have less money to spend on other things, like clothes or going out to eat. Businesses that use a lot of oil, like airlines and trucking companies, might have to raise their prices, which can make things more expensive for everyone. This can slow down the economy because people and businesses have less money to spend.
+Geopolitical events also play a critical role in shaping crude oil markets. Tensions in oil-rich regions, such as the Middle East, can lead to supply disruptions, thereby affecting prices. Political stability, sanctions, and international conflicts can alter the production capabilities or decision-making processes of oil-producing nations, leading to fluctuations in supply. Additionally, new policies or regulatory changes related to energy production and environmental measures can impact market dynamics.
 
-On the other hand, when the price of oil goes down, it can be good for the economy. People and businesses can spend less on gasoline and other oil products, which means they have more money to spend on other things. This can help the economy grow because people are buying more. However, countries that make a lot of money from selling oil, like some countries in the Middle East, might have a harder time if the price of oil goes down too much. It's a balance that can affect the whole world.
+Investors and traders in crude oil markets must consider these dynamic factors when formulating their investment strategies. An understanding of OPEC's policy decisions, an analysis of economic indicators, and awareness of geopolitical developments are essential for making informed trading decisions. Market participants often employ statistical models and algorithms to forecast supply-demand shifts and anticipate how these factors might influence future pricing. 
 
-## What are the major factors that influence crude oil prices?
+By integrating these elements into a cohesive strategy, investors can better navigate the volatile and often unpredictable nature of the crude oil market. Understanding these dynamics is integral to successful crude oil investments and can significantly enhance the ability to capitalize on market opportunities.
 
-The price of crude oil can change because of many things. One big thing that affects the price is how much oil people want to use. If more people want to use oil, like when the economy is doing well and more people are driving, the price can go up. Another thing that can change the price is how much oil is available. If there is a lot of oil, the price might go down. But if there is not enough oil, maybe because of problems in countries that make a lot of oil, the price can go up.
-
-Another factor that influences oil prices is what is happening in the world. If there is a war or a big storm in a place that makes a lot of oil, it can be hard to get the oil out, and the price can go up. Also, the value of money can affect oil prices. If the money in a country gets weaker, it can make oil more expensive in that country. Finally, decisions made by big groups like OPEC, which is a group of countries that make oil, can change the price. If they decide to make more or less oil, it can make the price go up or down.
-
-## How can investors gain exposure to crude oil markets?
-
-Investors can gain exposure to crude oil markets by buying shares in oil companies. These companies explore for, produce, and sell oil. When the price of oil goes up, these companies often make more money, which can make their stock prices go up too. Another way to invest in oil is by buying oil futures. Futures are agreements to buy or sell oil at a certain price in the future. This can be a good way to make money if you think the price of oil will go up, but it can also be risky because the price can go down too.
-
-Another option for investors is to buy exchange-traded funds (ETFs) that focus on oil. These funds hold a mix of oil company stocks and sometimes oil futures. They can be a good way to spread out the risk because they invest in many different things related to oil. Some investors also choose to invest in oil through mutual funds, which are managed by professionals who decide which oil-related investments to buy and sell. This can be a good choice if you don't want to pick the investments yourself.
-
-## What are the risks associated with investing in crude oil?
-
-Investing in crude oil can be risky because the price of oil can change a lot. Sometimes the price goes up a lot, which can be good for investors. But other times, the price can go down a lot, which can make investors lose money. Things like wars, big storms, or decisions by groups like OPEC can make the price of oil change suddenly. This makes it hard to know what will happen next, and that can be scary for investors.
-
-Another risk is that oil companies can have problems. They might not find as much oil as they thought, or it might cost more to get the oil out of the ground than they expected. If an oil company has a big problem, like a spill or an accident, it can lose a lot of money and its stock price can go down. Also, if people start using less oil because they are driving less or using electric cars, oil companies might not make as much money, and that can hurt investors too.
-
-Investing in oil futures and ETFs can also be risky. Futures are agreements to buy or sell oil at a certain price in the future, and if the price of oil goes down, investors can lose a lot of money. ETFs can be safer because they spread the risk over many different investments, but they can still go down if the whole oil market does badly. So, it's important for investors to think about these risks before putting their money into crude oil.
-
-## How do geopolitical events impact crude oil supply and prices?
-
-Geopolitical events can really shake up the world of crude oil. When there's trouble in countries that make a lot of oil, like wars or big protests, it can be hard to get the oil out. This can make the supply of oil go down, and when there's less oil, the price usually goes up. For example, if there's a war in a big oil-producing country, they might not be able to send as much oil to other countries. This can make the price of oil go up all over the world.
-
-Also, decisions made by groups like OPEC can affect oil prices. OPEC is a group of countries that make a lot of oil, and they sometimes decide to make more or less oil. If they decide to make less oil, the supply goes down and the price can go up. On the other hand, if they decide to make more oil, the supply goes up and the price can go down. So, what happens in the world, like fights between countries or big decisions by groups like OPEC, can really change how much oil we have and how much it costs.
-
-## What role do oil futures and options play in the crude oil market?
-
-Oil futures and options are important tools in the crude oil market. They help people who need oil, like airlines and big companies, to plan for the future. With oil futures, they can agree to buy oil at a certain price later on. This can protect them if the price of oil goes up a lot. For example, if an airline buys oil futures and the price of oil goes up, they can still get the oil at the lower price they agreed on. But if the price goes down, they might have to buy the oil at a higher price than they need to.
-
-Options are a bit different. They give the buyer the right, but not the obligation, to buy or sell oil at a certain price in the future. This can be useful if someone wants to protect against big changes in oil prices but also wants the chance to take advantage of good prices. For example, if someone buys an option to buy oil and the price goes up, they can use the option to get the oil at the lower price. But if the price goes down, they can just let the option go and buy the oil at the lower market price. Both futures and options help make the oil market more stable and help people plan better.
-
-## How can technical analysis be used to predict crude oil price movements?
-
-Technical analysis is a way to look at past prices of crude oil to try to guess what might happen next. People who use technical analysis look at charts and graphs to see patterns in how the price of oil has moved before. They believe that if they can find these patterns, they might be able to predict if the price will go up or down in the future. For example, they might see that the price of oil often goes up after it hits a certain low point, so they might think it will go up again if it hits that low point again.
-
-One common tool in technical analysis is something called moving averages. A moving average is the average price of oil over a certain time, like the last 50 days or the last 200 days. If the short-term moving average (like 50 days) goes above the long-term moving average (like 200 days), it might mean that the price of oil is going to keep going up. On the other hand, if the short-term moving average goes below the long-term moving average, it might mean that the price is going to go down. By looking at these and other patterns, people using technical analysis try to make smart guesses about what the price of oil will do next.
-
-## What are the environmental concerns related to crude oil extraction and use?
-
-Crude oil extraction and use can harm the environment in many ways. One big problem is oil spills. When oil spills happen, like from a broken pipeline or a ship accident, the oil can get into the water and hurt animals and plants. It can make it hard for birds to fly and for fish to breathe. Cleaning up oil spills is very hard and can take a long time. Another problem is that drilling for oil can damage the land and water where people live. It can make the air dirty and cause noise that bothers people and animals.
-
-Burning oil to make energy also causes problems. When we burn oil in cars, trucks, and power plants, it puts out gases like carbon dioxide. These gases can make the Earth warmer, which is called climate change. Climate change can cause more storms, make the sea level go up, and change where and how plants and animals can live. It can also make it harder for people to grow food and can cause more health problems. So, while oil is very useful, it's important to think about how it affects the environment and try to find ways to use less of it or use it more safely.
-
-## How do global energy policies and shifts towards renewable energy affect the future of crude oil investments?
-
-Global energy policies and the move towards renewable energy can change the future of crude oil investments. Many countries are making rules to use less oil and more clean energy like wind and solar power. This is because they want to fight climate change and make the air cleaner. If more countries make these rules, it might mean that people will use less oil in the future. This could make the price of oil go down and make it harder for oil companies to make money. Investors might then decide to put their money into other things, like renewable energy companies, instead of oil.
-
-But, the change to renewable energy will take time. Oil is still very important for many things like cars, airplanes, and making plastics. So, even with new rules, oil will still be needed for a while. This means that oil investments can still make money in the short term. However, investors need to think about the long term too. If more and more people start using electric cars and other clean energy, the demand for oil might go down a lot. So, investors need to be careful and think about how the world is changing when they decide where to put their money.
-
-## What is Algorithmic Trading in Crude Oil Markets?
+## Algorithmic Trading in Crude Oil Markets
 
 Algorithmic trading utilizes computer algorithms to automate trading strategies within the crude oil markets, enhancing both consistency and speed. By leveraging sophisticated computational models and market data analysis, these algorithms are adept at identifying trading opportunities that may not be immediately apparent through traditional methods. The complex and volatile nature of the crude oil market, influenced by factors such as geopolitical events, supply constraints, and demand fluctuations, often creates scenarios where rapid decision-making is crucial. Algorithmic trading systems can respond to these market dynamics in milliseconds, executing trades based on pre-defined criteria that human traders might not process in time.
 
@@ -125,7 +83,7 @@ print(data[['Close', 'SMA50', 'SMA200', 'Signal', 'Position']].dropna())
 
 This script downloads crude oil futures data, calculates 50-day and 200-day simple moving averages, and generates trading signals when the shorter moving average crosses the longer one, indicating potential buy or sell points. While simplistic, this example illustrates how algorithmic trading strategies can be coded and executed with speed and precision, thus enhancing trading efficiency in volatile markets like crude oil.
 
-## How can one develop effective trading strategies?
+## Developing Effective Trading Strategies
 
 Developing effective trading strategies in crude oil markets requires a robust understanding of technical analysis tools and the application of algorithmic trading models. A comprehensive approach can be achieved by integrating indicators such as Moving Averages, Fibonacci retracements, and the Relative Strength Index (RSI) to identify potential trading opportunities.
 
@@ -175,6 +133,73 @@ cerebro.run()
 For optimal results, traders should blend market indicators with algorithmic models and robust risk management techniques. Implementing stop-loss orders can mitigate potential losses, while diversification across multiple commodities might reduce overall risk exposure. The integration of these components ensures a comprehensive strategy, maximizing potential returns while managing risk effectively.
 
 By strategically combining these tools and methodologies, investors can develop trading strategies that not only capitalize on market trends but also withstand the inherent [volatility](/wiki/volatility-trading-strategies) of the crude oil market.
+
+## Case Study: Algorithmic Trading in Action
+
+A real-life case study of algorithmic trading in crude oil markets highlights the substantial advantages this technology can offer to investors. In this example, a trading firm employed a sophisticated algorithmic system to navigate the volatile oil market, demonstrating both consistency in gains and minimized risks.
+
+The algorithm leveraged historical and real-time market data to predict price movements effectively. By employing [machine learning](/wiki/machine-learning) models, the algorithm could discern patterns and trends that were not immediately apparent to human traders. This predictive capability allowed the algorithm to execute trades at optimal times, capitalizing on favorable price movements while avoiding adverse conditions. For instance, by analyzing past price movements, trading volumes, and other relevant factors, the algorithm might predict a price increase and execute a buy order before the actual rise occurs.
+
+One of the key components of the algorithmic system was its strict adherence to a predefined rule set. This was crucial in maintaining high success rates, even in a market as unpredictable as crude oil. The rule set might include conditions such as entering a trade only when certain technical indicators align or closing a position if the market moves against the trade by a specific margin. By enforcing such rules, the system minimized the influence of human emotion, which can often lead to irrational decision-making.
+
+The strict rules and the speed of execution afforded by the algorithmic system allowed both human traders and algorithms to maximize accuracy and efficiency. For example, while a human trader might take several minutes to analyze and execute a trade, an algorithm can do so in milliseconds. This speed advantage is particularly beneficial in a volatile market where prices can change rapidly.
+
+Overall, this case study illustrates that by integrating advanced algorithms with traditional trading strategies, firms can achieve a competitive edge in the crude oil market. Algorithmic trading not only enhances prediction accuracy and execution timing but also enforces discipline through its rule-based approach, contributing to a high success rate in trading activities. Through such technological advancements, traders are better equipped to handle the complexities and volatilities of modern financial markets.
+
+## Risks and Considerations
+
+Crude oil trading, while offering substantial opportunities, is inherently fraught with risks that traders must meticulously manage. Market volatility is a constant feature, often spurred by fluctuating supply and demand dynamics, economic conditions, and unforeseen geopolitical events. For instance, political instability in oil-producing regions can cause abrupt price shifts, challenging traders to adapt swiftly.
+
+Regulatory changes also pose significant risks, as government policies or changes in international trade agreements can affect market sentiment and operational legality. Traders must stay informed about regulatory developments to ensure compliance and adapt their strategies accordingly.
+
+Incorporating algorithmic trading introduces both advantages and additional risks. While algorithms can execute trades with speed and precision, reducing emotional biases, they are susceptible to operational risks. Technological failures, such as software bugs, network issues, or inadequate data feeds, can disrupt trading activities and result in financial losses. Therefore, robust IT infrastructure and regular system checks are essential to minimize such risks.
+
+Effective risk management is vital for mitigating these challenges in crude oil trading. Implementing stop-loss orders, which automatically liquidate a position once a predetermined price level is reached, can help limit potential losses during volatile market conditions. Diversification, either by spreading investments across different commodities, sectors, or geographies, can reduce exposure to any single market event or trend, thereby stabilizing investment portfolios.
+
+Moreover, traders and firms should employ comprehensive risk management frameworks that include scenario analysis and stress testing to evaluate how their strategies might perform under various market conditions. This proactive approach, combined with continuous monitoring and adjustment of strategies, enhances resilience against the multifaceted risks present in crude oil trading.
+
+## The Future of Crude Oil Algo Trading
+
+Advancements in technology have been pivotal in transforming the landscape of algorithmic trading, especially within the crude oil markets. As technological capabilities expand, so does the potential for developing more sophisticated and accessible trading strategies. These advancements promise to refine the precision and efficiency with which traders operate, thereby enhancing the overall performance of trading systems.
+
+Machine learning and [artificial intelligence](/wiki/ai-artificial-intelligence) represent cutting-edge trends with the potential to revolutionize oil trading strategies. These technologies enable the analysis of complex datasets and the identification of hidden patterns within market behaviors. Machine learning algorithms can model non-linear relationships and provide predictive analytics, which can be leveraged for better decision-making. For instance, neural networks and [deep learning](/wiki/deep-learning) models offer high predictive accuracy by learning from vast amounts of market data, adapting to new information, and improving their performance over time.
+
+Python, a popular choice for algorithmic traders, provides a robust platform for implementing machine learning models. Libraries such as TensorFlow and scikit-learn facilitate the development of algorithms that can process historical price data, identify trends, and forecast future price movements. For example, a basic machine learning model in Python to predict crude oil prices might look like this:
+
+```python
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+
+# Sample market data
+X = np.array([[1], [2], [3], [4], [5]])  # Features: Time or other indicators
+y = np.array([10, 12, 15, 18, 22])       # Target: Crude oil prices
+
+# Splitting data into training and testing sets
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Creating a Linear Regression model
+model = LinearRegression()
+model.fit(X_train, y_train)
+
+# Making predictions
+predictions = model.predict(X_test)
+print("Predicted Prices:", predictions)
+```
+
+Aside from predictive accuracy, the integration of AI and machine learning into trading systems also supports risk management by alerting traders to potential market anomalies or shifts. This capability is crucial, given the inherent volatility of crude oil markets.
+
+As algorithms evolve, they will likely assume an increasingly prominent role in shaping the future of commodities trading. Enhanced data analytics, decreased latency times, and improved algorithms' accuracy will contribute to more informed trading decisions. The accessibility of these technologies and their integration into trading platforms will democratize trading opportunities, allowing broader participation in the market.
+
+Overall, the future of crude oil algorithmic trading is poised for continued growth and innovation, driven by relentless technological advancements and an ever-increasing understanding of data science and artificial intelligence. As these technologies mature, their deployment in crude oil markets will become indispensable for traders seeking to maximize their strategic advantage.
+
+## Conclusion
+
+Investing in crude oil through algorithmic trading provides investors with a robust mechanism to manage the complexity inherent in commodity markets. The integration of algorithmic trading harnesses technology's power to automate and refine trading strategies, offering precision and speed that manual trading often cannot match. As traders gain a deeper understanding of market dynamics, such as global supply and demand fluctuations, geopolitical influences, and economic indicators, they can leverage algorithmic tools to make more informed and timely decisions. 
+
+Algorithmic trading enhances the ability to implement sophisticated strategies that are adaptable to changing market conditions. For instance, by employing machine learning models, traders can optimize strategies based on historical data, improving predictive accuracy for future price movements. This adaptability is crucial for maintaining a competitive edge in the volatile oil market. Furthermore, the use of technologies like high-frequency trading algorithms can capitalize on minute price discrepancies, further enhancing potential profit margins.
+
+As the oil industry continues its evolution, driven by factors such as technological innovation, geopolitical shifts, and regulatory changes, algorithmic trading is poised to remain an integral component of successful investment strategies. Traders who effectively integrate these advanced systems into their operations can navigate the market's volatility more proficiently, potentially transforming risks into opportunities. As algorithms evolve and become more sophisticated, their role in shaping future trading dynamics will grow, underscoring their lasting value in commodity markets such as crude oil.
 
 ## References & Further Reading
 

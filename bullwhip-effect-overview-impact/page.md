@@ -1,7 +1,6 @@
 ---
-title: Enhancing Supply Chain Management With Algorithmic Trading
-description: Supply Chain Management gains accuracy and efficiency with algorithmic
-  trading to improve demand forecasts and curb variability. Discover more inside
+title: "Bullwhip Effect: Overview and Impact (Algo Trading)"
+description: "Explore the bullwhip effect in supply chains and discover how algorithmic trading can mitigate demand distortion boosting efficiency and resilience."
 ---
 
 Supply chain management represents a cornerstone of today's global economy, facilitating the seamless movement of goods and services across borders and through various stages of production and distribution. It encompasses a series of complex processes, from sourcing materials to manufacturing and delivering products to consumers. Among the most pressing challenges within this field are demand forecasting, the bullwhip effect, and supply chain variability, each of which can significantly impact business efficiency and profitability.

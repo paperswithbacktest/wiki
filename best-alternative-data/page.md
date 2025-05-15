@@ -1,7 +1,6 @@
 ---
-title: Harnessing Alternative Data for Algorithmic Trading Strategies
-description: Alternative data offers real-time insights from satellite imagery and
-  consumer behavior to boost algorithmic trading decisions Discover more inside
+title: "Best Alternative Data for Algo Trading in 2024"
+description: Discover the power of alternative data in algorithmic trading. From satellite imagery to corporate data, explore various types of alternative data and their impact on informed investment decisions. Unveil insights into consumer behavior, economic trends, and market movements.
 ---
 
 
