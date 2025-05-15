@@ -1,7 +1,6 @@
 ---
-title: Global Depositary Receipts And Algorithmic Trading Convergence
-description: Global Depositary Receipts create access to international investors while
-  algorithmic trading streamlines executions and arbitrage Discover more inside.
+title: "Global Depositary Receipt (Algo Trading)"
+description: "Explore the synergy between Global Depositary Receipts and algorithmic trading as they reshape global finance enhancing access to international markets and investors."
 ---
 
 Global Depositary Receipts (GDRs) are crucial instruments for companies aiming to access international capital markets. By facilitating the trading of shares of foreign companies on local stock exchanges, GDRs present a strategic opportunity for companies to diversify their investor base and raise capital beyond their domestic boundaries. They enable businesses to attract investment from international investors who might otherwise face significant hurdles in acquiring shares of foreign companies. This cross-border financial instrument not only broadens investment avenues for global investors but also supports companies in their growth and expansion endeavors.

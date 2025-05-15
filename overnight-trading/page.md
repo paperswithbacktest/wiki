@@ -1,7 +1,6 @@
 ---
-title: Overnight Trading Strategies And Risks For Global Markets
-description: Overnight trading lets investors leverage global market shifts outside
-  standard hours using ECNs and proven risk management techniques Discover more inside
+title: "Overnight Trading (Algo Trading)"
+description: Learn about overnight trading, a type of securities buying and selling activity conducted between the closure of one market session and the opening of the next. Understand its unique dynamics, including decreased liquidity, increased volatility, time zone considerations, and global events impact. Explore strategies, risk management techniques, backtesting, and the psychological aspects of overnight trading.
 ---
 
 

@@ -1,7 +1,6 @@
 ---
-title: Comprehensive Guide to Hedge Fund Trading Strategies
-description: Hedge Fund Trading Strategies explain core methods from long short equity
-  to market neutral and global macro plus risk management tips Discover more inside
+title: "Hedge fund trading strategies"
+description: Discover core hedge fund trading strategies, including Long/Short Equity, Market Neutral, and Convertible Arbitrage. Learn how these sophisticated approaches aim to generate high returns by leveraging various methods and financial instruments. Understand each strategy's unique approach, risk profile, and market dependency.
 ---
 
 

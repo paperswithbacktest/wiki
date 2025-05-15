@@ -1,7 +1,6 @@
 ---
-title: Understanding Momentum Investing Strategies in Financial Markets
-description: Momentum investing leverages price and earnings trends to identify persistent
-  market opportunities to optimize portfolio performance. Discover more inside.
+title: "Momentum Factor (Algo Trading)"
+description: Discover the concept of Momentum in Algo Trading and its significance in financial markets. Momentum refers to the tendency of securities, be it stocks or other assets, to continue performing well (or poorly) for a sustained period. This phenomenon has roots in Newtonian physics and has been validated through empirical research, challenging the Efficient Market Hypothesis. Understand price momentum, earnings momentum, and their relation to investor psychology and behavioral finance. Learn how to measure momentum using various statistical methods and tools like RSI and MACD. Explore the theoretical underpinnings of momentum and recent academic findings.
 ---
 
 

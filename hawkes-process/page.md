@@ -1,7 +1,6 @@
 ---
-title: Hawkes Process for Modeling Self-Exciting Time Clusters
-description: Hawkes process models how one event triggers others, capturing self-exciting
-  clusters across earthquakes, trading and social media. Discover more inside.
+title: "Hawkes process (Algo Trading)"
+description: Explore the intricacies of the Hawkes process, a self-exciting stochastic model pivotal in algorithmic trading for capturing clustered financial market events. Developed originally for earthquake analysis, it has become crucial in predicting market dynamics by considering how past trades influence future occurrences. Understanding the mathematical foundation and applications in high-frequency trading empowers traders to identify patterns, anticipate market fluctuations, and optimize strategies. Dive into the Hawkes process's significance in modern trading tactics and its potential impact on financial market analysis.
 ---
 
 

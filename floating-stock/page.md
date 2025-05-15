@@ -1,87 +1,25 @@
 ---
-title: Understanding Floating Stock Liquidity and Volatility
-description: Floating stock shows how many shares investors can trade and shapes market
-  liquidity and volatility so you can assess risk effectively Discover more inside
+title: "Floating Stock (Algo Trading)"
+description: "Explore the dynamics of floating stock and its impact on stock liquidity and trading volatility with insights into algorithmic trading strategies for investors."
 ---
 
+The stock market serves as a pivotal pillar in the global economy, facilitating capital formation, enabling economic growth, and providing investors with avenues to build wealth. As an organized platform for buying, selling, and issuing shares of publicly-traded companies, the stock market plays a critical role in the financial system, influencing economic stability and performance globally.
+
+Key concepts in stock trading include floating stock, trading, and algorithmic trading, each crucial for investors to understand. Floating stock refers to the number of shares available for public trading out of the total shares issued by a company. This figure excludes closely-held shares by insiders such as company executives or significant stakeholders. In essence, floating stock determines a company’s stock liquidity, with higher floating stock generally leading to increased liquidity. 
 
 ![Image](images/1.jpeg)
 
+Trading, the act of buying and selling financial instruments, is a fundamental mechanism that injects vitality, liquidity, and dynamism into the stock market. Trading occurs on various platforms and can involve stocks, bonds, currencies, and derivatives, each with its strategies and complexities. 
+
+Algorithmic trading, or algo trading, employs computer algorithms to execute trades based on pre-defined criteria, such as timing, price, or quantity. These sophisticated algorithms can process vast amounts of market data rapidly, executing trades with speed and precision unattainable by human traders. Algorithmic trading has grown exponentially, accounting for a substantial volume of trades in modern financial markets due to its efficiency and ability to eliminate human emotional biases.
+
+Understanding these core elements is vital for both novice and experienced investors. Grasping the dynamics of floating stock can help investors assess stock volatility and liquidity, aiding in more informed investment decisions. Familiarity with algorithmic trading can enable investors to leverage technological advancements for enhanced trading strategies.
+
+This article investigates into the interplay between floating stock and algorithmic trading strategies. It explores the nuances of floating stock, demystifies the intricacies of algorithmic trading, and analyzes how these elements interact to influence trading strategies and market behavior. The intention is to equip investors with an informed perspective, enabling them to navigate and thrive in the ever-evolving landscape of stock market trading.
+
 ## Table of Contents
 
-## What is floating stock?
-
-Floating stock, or free float, is the number of shares of a company's stock that are available for the public to buy and sell. This does not include shares that are held by company insiders, such as executives and major shareholders, or shares that are locked up and not available for trading. The floating stock is important because it can affect the stock's liquidity and volatility. A stock with a large float tends to be more liquid and less volatile, as there are more shares available for trading.
-
-The size of the floating stock can influence how easily investors can buy and sell shares. If a company has a small float, it means there are fewer shares available for trading, which can lead to larger price swings when there is significant buying or selling pressure. On the other hand, a larger float means more shares are available, making it easier for investors to trade without causing big price changes. Understanding the floating stock helps investors gauge the potential risks and opportunities associated with a particular stock.
-
-## How is floating stock different from outstanding shares?
-
-Floating stock and outstanding shares are related but different. Outstanding shares are all the shares a company has issued. This includes every share that exists, whether they are held by the public, company insiders, or locked up and not available for trading.
-
-Floating stock, on the other hand, is a part of the outstanding shares. It only includes the shares that are available for the public to buy and sell on the market. This means floating stock does not count shares owned by company insiders or shares that are restricted from trading. Knowing the difference helps investors understand how many shares they can actually trade and how this might affect the stock's price movements.
-
-## Why is floating stock important for investors?
-
-Floating stock is important for investors because it shows how many shares they can actually buy and sell. When a company has a lot of floating stock, it means there are many shares available for trading. This makes it easier for investors to buy or sell shares without causing big changes in the stock price. On the other hand, if a company has a small amount of floating stock, there are fewer shares to trade. This can make the stock price move more when people want to buy or sell.
-
-Understanding the floating stock helps investors know how risky a stock might be. A stock with a small float can be more volatile, meaning its price can go up and down a lot. This can be good if the price goes up, but it can also be bad if the price goes down quickly. By looking at the floating stock, investors can make better choices about which stocks to buy or sell and how much they might change in value.
-
-## How can one calculate the float of a company?
-
-To calculate the float of a company, you start with the total number of outstanding shares. These are all the shares the company has issued. Then, you subtract the shares that are not available for public trading. This includes shares owned by company insiders like executives and major shareholders, as well as any shares that are locked up and can't be traded yet. The number you get after subtracting these shares is the float.
-
-For example, if a company has 10 million outstanding shares and 2 million of those are held by insiders or are restricted, the float would be 8 million shares. This number is important because it tells investors how many shares they can actually buy and sell on the market. A larger float usually means the stock is easier to trade and might be less likely to have big price swings.
-
-## What factors can affect the size of a company's float?
-
-The size of a company's float can change because of different things happening in the company. For example, if the company issues new shares to the public, this can increase the float. When more shares are available for people to buy and sell, the float gets bigger. Also, if the company buys back its own shares, this can make the float smaller because there are fewer shares left for trading.
-
-Another thing that can change the float is when insiders, like company executives, buy or sell their shares. If insiders sell their shares to the public, the float goes up because more shares are now available for trading. On the other hand, if insiders buy more shares and hold onto them, the float can go down. Also, if a company has shares that were locked up and can't be traded at first but then become available, this can increase the float too.
-
-## How does a low float impact a stock's volatility?
-
-A low float means there are fewer shares of a company's stock available for the public to buy and sell. When there are not many shares to trade, even small amounts of buying or selling can cause big changes in the stock's price. This makes the stock more volatile, which means its price can go up and down a lot more than a stock with a bigger float.
-
-Because of this, stocks with a low float can be riskier to invest in. If a lot of people suddenly want to buy the stock, the price can shoot up quickly. But if many people want to sell at the same time, the price can drop just as fast. This can be exciting for some investors who like to take risks, but it can also be scary because it's harder to predict what the stock will do next.
-
-## What role does floating stock play in stock market liquidity?
-
-Floating stock is very important for how easy it is to buy and sell a stock. When a company has a lot of floating stock, it means there are many shares that people can trade. This makes it easier for investors to buy or sell shares without waiting too long or causing big changes in the stock's price. Think of it like having a big bucket of water; it's easier to take some out or add some in without making the level change much.
-
-On the other hand, if a company has a small amount of floating stock, it's like having a small bucket of water. There are fewer shares to trade, so when someone wants to buy or sell, it can make the stock's price move a lot more. This can make the stock harder to trade and more likely to have big price swings. So, the size of the floating stock can tell investors a lot about how easy or hard it might be to trade that stock.
-
-## Can the float of a company change over time? If so, how?
-
-Yes, the float of a company can change over time. This happens because of different things the company does. For example, if the company decides to issue new shares and sell them to the public, the float gets bigger. More shares are now available for people to buy and sell. Also, if the company buys back its own shares, the float gets smaller because there are fewer shares left for trading.
-
-Another way the float can change is through the actions of company insiders, like executives and major shareholders. If insiders sell their shares to the public, the float goes up because more shares are now available for trading. But if insiders buy more shares and keep them, the float can go down. Also, if a company has shares that were locked up and not able to be traded at first but then become available, this can increase the float too.
-
-## How do companies manage their float, and what strategies do they use?
-
-Companies manage their float by doing things that change how many shares are available for people to buy and sell. One way they do this is by issuing new shares to the public. When they do this, the float gets bigger because more shares are now out there for trading. Companies might issue new shares to raise money for growing their business or paying off debts. Another way companies manage their float is by buying back their own shares. When they buy back shares, the float gets smaller because there are fewer shares left for the public to trade. This can happen when a company thinks its stock is a good deal and wants to invest in itself.
-
-Sometimes, companies use special strategies to manage their float. For example, they might lock up some shares so they can't be traded right away. This can happen with shares given to employees or insiders, which might become part of the float later when the lock-up period ends. Companies also keep an eye on what their insiders are doing. If insiders sell their shares to the public, the float goes up. But if insiders buy more shares and hold onto them, the float can go down. By managing the float carefully, companies can try to control how easy or hard it is for people to trade their stock and how much the stock price might move.
-
-## What are the implications of a stock split on a company's float?
-
-A stock split is when a company decides to split each of its shares into more shares. For example, in a 2-for-1 split, each share becomes two shares. When a company does a stock split, the total number of outstanding shares goes up. But, the float also goes up because the same percentage of shares that were available for trading before the split are still available after the split. So, if a company had 1 million shares in its float before a 2-for-1 split, after the split, the float would be 2 million shares.
-
-The main thing to remember is that even though the number of shares in the float goes up, the percentage of the total shares that are part of the float stays the same. This means that a stock split does not change how much of the company's stock is available for people to buy and sell compared to the total number of shares. It just makes the stock cheaper per share, which can make it easier for more people to buy the stock. But, it doesn't change the basic idea of how many shares are out there for trading.
-
-## How do institutional investors influence the float of a stock?
-
-Institutional investors, like big banks or investment funds, can change the float of a stock by buying or selling a lot of shares. When these big investors buy shares, they might take some of those shares out of the float if they hold onto them. This makes the float smaller because there are fewer shares left for other people to trade. On the other hand, if institutional investors sell their shares to the public, this can make the float bigger because more shares are now available for trading.
-
-The actions of institutional investors can also affect how easy or hard it is to buy and sell a stock. If a big investor decides to buy a lot of shares all at once, it can use up a lot of the available shares in the float. This can make it harder for other people to buy the stock because there are fewer shares to go around. And if these big investors decide to sell a lot of shares, it can make the stock's price go down quickly because there are more shares for people to buy. So, what institutional investors do can really change how the stock market works for a particular company's stock.
-
-## What advanced metrics or analyses can be used to assess the impact of float on stock performance?
-
-One way to look at how the float affects a stock's performance is by using something called the "Float Turnover Ratio." This ratio tells us how many times the float gets traded in a certain period, like a month or a year. A high float turnover ratio means the stock is being traded a lot, which can mean it's popular with investors. This can make the stock's price move more because more people are buying and selling it. On the other hand, a low float turnover ratio might mean the stock is not as popular, and its price might not change as much.
-
-Another way to analyze the float's impact is by looking at the "Float Adjusted Market Cap." This is different from the regular market cap, which is just the total value of all the company's shares. The float adjusted market cap only counts the value of the shares that are part of the float. This can give investors a better idea of how much of the company they can actually buy and sell. By comparing the float adjusted market cap with the regular market cap, investors can see how much of the company is controlled by insiders or locked up, which can affect how the stock behaves in the market.
-
-## What is Understanding Floating Stock?
+## Understanding Floating Stock
 
 Floating stock refers to the number of shares of a company that are available for trading by the general public. Unlike the total shares outstanding, which encompass all shares a company has issued, floating stock excludes shares that are held by insiders, including company officers and directors, as well as shares that are restricted from trading. Thus, floating stock is calculated by subtracting closely held shares from the total shares outstanding.
 
@@ -100,6 +38,131 @@ Institutional investors, such as mutual funds and pension funds, wield considera
 Floating stock is a critical consideration in investment decision-making. For investors, understanding the float helps assess a stock’s liquidity and potential volatility. A stock with low float might attract investors looking for significant price movements but may also discourage those seeking stable investments. On the other hand, stocks with high float are generally more attractive to conservative investors due to their stable nature.
 
 Being aware of floating stock levels can also inform tactical trading strategy adjustments. Traders might exploit low float stocks for short-term gains, while long-term investors may prefer high float stocks as a safer harbor during market volatility.
+
+## Basics of Algo Trading
+
+Algorithmic trading, often referred to as algo trading, has revolutionized financial markets by employing computer programs to execute trades at speeds and frequencies that far surpass human abilities. This approach allows traders to leverage computational power to optimize trading decisions, aiming for improved returns and risk management.
+
+The rise of algo trading can be traced back to the late 20th century when financial markets began integrating technology to handle increasingly complex trading environments. Initially, algorithms were simple and focused on executing large trades with minimal market impact. Over time, with advancements in technology and increasing market sophistication, [algorithmic trading](/wiki/algorithmic-trading) expanded to include a variety of strategies and execution techniques.
+
+### Key Components of Algo Trading
+
+1. **Trading Signals**: Trading signals are the triggers that initiate a trade, generated based on predefined criteria, such as technical indicators (e.g., moving averages) or market conditions (e.g., volume surge). These signals are often derived from historical data analysis and statistical models, aiming to predict future price movements. For example, a common signal might involve a moving average crossover, where a short-term moving average crosses above a long-term moving average, indicating a buy opportunity.
+
+2. **Algorithms**: At the core of algo trading are the algorithms that decide how trades will be executed once a signal is generated. These algorithms strategically manage the timing, price, and quantity of orders. They can take many forms, ranging from simple rule-based systems to complex, machine learning-driven models. A simple trading algorithm might follow this pseudocode logic:
+   ```python
+   def trading_strategy(prices):
+       short_mavg = calculate_moving_average(prices, window=5)
+       long_mavg = calculate_moving_average(prices, window=20)
+       if short_mavg > long_mavg:
+           return "Buy"
+       elif short_mavg < long_mavg:
+           return "Sell"
+       else:
+           return "Hold"
+   ```
+
+3. **Execution Strategies**: Execution strategies determine how the trade is carried out in the market. Popular execution strategies include time-weighted average price (TWAP), volume-weighted average price (VWAP), and implementation shortfall. These strategies aim to execute trades efficiently, minimizing costs and market impact.
+
+### Benefits of Algo Trading
+
+The benefits of algorithmic trading are multifaceted:
+
+- **Speed**: Algorithms can react to market conditions in fractions of a second, executing orders faster than any human trader could. This advantage is crucial in volatile markets where price dynamics change rapidly.
+
+- **Efficiency**: By automating the trading process, algo trading minimizes manual errors and reduces operational costs associated with human traders.
+
+- **Elimination of Human Emotion**: Trading decisions driven by algorithms are free from human emotions such as fear and greed, which often lead to irrational trading behavior.
+
+### Evolution of Algo Trading
+
+The evolution of algo trading has been marked by several key developments:
+
+- **1970s and 1980s**: The introduction of electronic exchanges laid the groundwork for algo trading. Simple strategies focused on execution efficiency.
+
+- **1990s and 2000s**: The proliferation of internet technology and advanced computing enabled more complex strategies involving statistical arbitrage and high-frequency trading.
+
+- **2010s to present**: Advances in artificial intelligence and machine learning have further transformed algo trading, allowing for the creation of sophisticated predictive models and adaptive algorithms.
+
+### Technologies Driving Algo Trading
+
+Technologies underpinning modern algo trading include:
+
+- **Artificial Intelligence (AI)**: AI enables the development of smart algorithms that can learn from data and adapt their strategies over time. Machine learning models can uncover intricate patterns in large datasets, providing a competitive edge in predictive accuracy.
+
+- **Machine Learning**: Techniques such as neural networks, reinforcement learning, and decision trees are extensively employed to refine trading strategies, optimize execution, and enhance risk management.
+
+Python, as the preferred language in financial technology, facilitates the implementation of [machine learning](/wiki/machine-learning) algorithms and offers a plethora of libraries, such as NumPy, pandas, and scikit-learn, which streamline the development of trading models.
+
+Algorithmic trading continues to grow in significance, reshaping market dynamics and offering both opportunities and challenges to traders worldwide. Understanding these basics provides a foundation for navigating the complexities of modern financial markets.
+
+## The Relationship Between Floating Stock and Algo Trading
+
+Algorithmic trading, an automated process leveraging computer algorithms to make trading decisions, increasingly considers floating stock as a pivotal [factor](/wiki/factor-investing) in its strategies. Floating stock refers to the shares of a company available for trading by the general public and does not include closely held shares by insiders, executives, or controlling investors. Its significance arises from its impact on liquidity and volatility, two critical elements in forming algorithmic trading strategies.
+
+**Impact of Floating Stock Levels on Trading Algorithms**
+
+Floating stock can profoundly influence the behavior of trading algorithms. In environments with low floating stock, shares available for trading are limited, potentially leading to higher volatility. Prices may shift dramatically with relatively minor trading volumes. This scenario requires trading algorithms to adjust their strategies accordingly, often incorporating volatility predictions and risk mitigation mechanisms to handle sudden price fluctuations effectively.
+
+Conversely, high floating stock typically implies greater liquidity, leading to more stable price movements. Algorithms might favor such conditions due to the reduced risk of significant price slippage and the ability to execute large-[volume](/wiki/volume-trading-strategy) trades without markedly affecting stock prices. Consequently, many trading algorithms are designed to incorporate liquidity measures and may adjust their trading frequency and volume based on the current floating stock levels.
+
+**Case Studies in Algorithmic Trade Decisions**
+
+Several historical instances demonstrate the role of floating stock in shaping algorithmic trading decisions. For instance, during company share buybacks, the floating stock may reduce significantly as stocks are repurchased, affecting liquidity and volatility. Trading algorithms programmed to monitor such corporate actions often adjust their parameters, either reducing trading volumes or implementing hedging strategies to protect against heightened volatility.
+
+As an example, consider a hypothetical scenario where a technology firm announces a significant share buyback. Trading algorithms, noticing the anticipated reduction in floating stock, would reassess their trading strategies—potentially reducing the frequency of trades or employing stop-loss orders to minimize losses from potential price fluctuations. Such dynamic adjustments underscore the ongoing import of floating stock in algorithmic trading frameworks.
+
+**Risk Management in Algo Trading**
+
+Risk management is integral to algorithmic trading, particularly concerning floating stock levels. Algorithms employ various risk management approaches, such as setting thresholds for acceptable levels of volatility and liquidity. Changes in floating stock levels might prompt algorithms to recalibrate these thresholds, ensuring that trading actions fall within predefined risk limits. For instance, machine learning algorithms can adaptively learn from market data, identifying patterns associated with changes in floating stock and incorporating these insights into ongoing risk assessments.
+
+**Triggers for Algorithmic Trading Decisions**
+
+Algorithmic trading systems often include triggers based on changes in floating stock. These triggers are rooted in various factors, including corporate actions (e.g., secondary offerings) and market movements (e.g., substantial institutional sell-offs). Algorithms might employ event-driven strategies, where such changes act as signals prompting specific trading actions, such as increasing micro-[arbitrage](/wiki/arbitrage) activities when new shares enter the market, thereby elevating floating stock levels.
+
+In conclusion, the relationship between floating stock and algorithmic trading is intricate and dynamic. Algo traders account for varying levels of floating stock to devise optimized strategies that enhance efficiency and regulate risk exposure. As trading algorithms become more sophisticated and adaptive, their reliance on accurately modeling and responding to floating stock dynamics will likely continue to play a significant role in their strategic operations.
+
+## Benefits and Challenges of Algo Trading in the Stock Market
+
+Algorithmic trading, often referred to as algo trading, has fundamentally transformed the landscape of financial markets. Its adoption brings several benefits alongside certain challenges that market participants need to navigate carefully. 
+
+One of the primary advantages of algo trading is cost reduction. By automating trading processes, firms and individual traders can significantly decrease the transaction costs associated with manual trading. Automation eliminates the need for extensive workforce involvement in executing trades, leading to operational efficiency and reduced overhead. Algo trading can execute orders at optimal speeds, minimizing transaction time and impacts on the market prices, further contributing to cost-effectiveness.
+
+Additionally, algo trading absorbs and processes vast datasets, leading to improved market stability and liquidity. Algorithms can react to market conditions faster than human traders, providing a stabilizing influence during volatile periods. By facilitating continuous trading, these algorithms enhance market liquidity, ensuring that there's always a buyer or seller, which helps in reducing bid-ask spreads.
+
+However, the advantages of algo trading are accompanied by challenges. Technological failures pose significant risks. The 2010 Flash Crash exemplifies how technical glitches in trading algorithms can lead to rapid, dramatic market movements and losses. Market participants must ensure robust technological infrastructure and implement fail-safes to mitigate these risks. Additionally, market volatility can greatly impact the effectiveness of algorithms, which are typically designed under historical assumptions that might not hold in unpredictable conditions.
+
+Regulatory considerations are another critical aspect affecting algo trading. Regulatory bodies are increasingly scrutinizing algorithmic trading to prevent manipulative practices and ensure fair trading conditions. For example, the European Union's Markets in Financial Instruments Directive (MiFID II) mandates enhanced transparency and risk control measures for algo traders. Such regulations require trading firms to maintain high compliance costs and rigorous oversight mechanisms.
+
+The ethical implications of algorithmic trading also warrant discussion. Algorithms capable of high-frequency trading ([HFT](/wiki/high-frequency-trading-strategies)) can create unfair advantages for those who can afford the necessary technology. This situation raises concerns about market fairness and equal access, potentially disadvantaging smaller market participants.
+
+Looking forward, the future outlook of algo trading appears promising with advancing technology. Developments in [artificial intelligence](/wiki/ai-artificial-intelligence) (AI) and machine learning are likely to further enhance the capabilities of trading algorithms by enabling them to learn and adapt to market conditions dynamically. Future algo trading strategies might incorporate sophisticated models that can predict market trends with greater accuracy and automate decision-making with minimal human intervention.
+
+In conclusion, while algorithmic trading offers numerous benefits like cost reduction, enhanced liquidity, and increased market stability, it also presents challenges such as technological failures and regulatory hurdles. Ethical considerations and future advancements in technology will continue to shape the trajectory of algo trading in the stock market. Traders and firms must remain vigilant and informed to harness the benefits of algo trading while mitigating its inherent risks.
+
+## Implementing Algo Trading for Individual Investors
+
+To start implementing algorithmic trading within one's investment strategy, individuals need to first gain a foundational understanding of what algo trading entails. This involves learning about its core components such as strategy development, [backtesting](/wiki/backtesting), risk management, and execution. Various platforms and tools cater to retail traders, providing them with the necessary infrastructure to execute algorithmic strategies.
+
+Popular platforms available to retail algo traders include platforms like MetaTrader, which offers a wide range of automated trading capabilities and supports custom strategy development. QuantConnect and Quantopian are also notable mentions, providing cloud-based platforms for developing and backtesting algorithms using historical data. [Interactive Brokers](/wiki/interactive-brokers-api) provides API support, allowing traders to develop customized trading algorithms using programming languages like Python, Java, and C++.
+
+Aspiring algorithmic traders should leverage educational resources and training opportunities to deepen their knowledge. Many online courses, such as those offered by Coursera, Udemy, and edX, cover algorithmic trading, with modules on Python programming, financial markets, and quantitative finance. Books like "Algo Trading - Winning Strategies and Their Rationale" by Ernie Chan and "Algorithmic Trading" by Jeffrey Bacidore also provide valuable insights into building and understanding trading algorithms.
+
+Practical tips for testing and refining algo trading strategies include backtesting and paper trading. Backtesting involves testing a strategy using historical data to assess its potential performance. It is important to use a sound backtesting framework that accounts for transaction costs, slippage, and market impact. Python libraries like Backtrader and Quantlib can facilitate the backtesting process. Paper trading, or simulated trading, helps in refining strategies in a live market environment without risking actual capital.
+
+Continuous monitoring and adjustment of algorithms are crucial given market dynamics and evolving conditions. Traders should regularly evaluate their algorithmic strategies to ensure consistent alignment with the investor's risk tolerance and market conditions. Employing analytics and performance metrics can aid in identifying areas for improvement. Adaptation to new data inputs and technological advancements will enhance strategy robustness.
+
+In conclusion, individual investors can harness algorithmic trading by leveraging available platforms, engaging with educational resources, and employing rigorous testing methods. Continuous vigilance in monitoring and refining strategies is essential to remain competitive in the fast-paced stock market.
+
+## Conclusion
+
+The article discussed critical aspects of the stock market, particularly the roles of floating stock and algorithmic trading in shaping investment strategies. Understanding floating stock, which refers to the shares available for public trading, is essential as it influences a stock's volatility and liquidity. Likewise, grasping the basics of algorithmic trading, with its emphasis on speed, efficiency, and data-driven decision-making, is increasingly important due to the rapid computerization of financial markets.
+
+Investors, both novice and experienced, are encouraged to integrate knowledge of floating stock and algorithmic trading into their strategies. Recognizing how floating stock levels impact algorithmic trading decisions can aid in better risk management and more informed investment choices. As technology continues to evolve, the stock market will likely see further integration of advanced techniques such as AI and machine learning, providing both opportunities and challenges.
+
+The future of stock market trading will likely be defined by technological advancements and regulatory adjustments. As such, staying informed about market trends, regulatory changes, and technological innovations is crucial for investors aiming to harness the benefits of algorithmic trading while mitigating associated risks.
+
+Staying educated and adaptable will empower investors to navigate the complex dynamics of the stock market effectively, leveraging the interplay of floating stock and algorithmic trading to optimize their portfolios and achieve desired financial goals.
 
 ## References & Further Reading
 

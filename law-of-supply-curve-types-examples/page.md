@@ -1,7 +1,6 @@
 ---
-title: Understanding Supply in Economics and Algorithmic Trading
-description: Supply in Economics shapes market dynamics by exploring types of supply
-  law and curves and guides algorithmic trading strategies. Discover more inside.
+title: "Law of Supply: Curve, Types, and Examples (Algo Trading)"
+description: "Explore the law of supply including types and examples in algorithmic trading Learn how supply curves and market dynamics impact economic strategies"
 ---
 
 Supply is a cornerstone of economic theory, embodying the various quantities of a good or service that producers are willing and able to offer at different price levels over a specific period. Its significance in economics cannot be overstated, as it directly influences market dynamics, pricing strategies, and economic equilibrium. The comprehensive understanding of supply is critical to navigating and interpreting the complexities of market behavior.

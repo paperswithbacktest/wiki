@@ -1,93 +1,50 @@
 ---
-title: Martino Grasselli Researcher in Mathematical Finance and PDEs
-description: Martino Grasselli applies partial differential equations to advance mathematical
-  finance through innovative research collaborations Discover more inside.
+title: "Martino Grasselli (Algo Trading)"
+description: "Discover the remarkable career of Martino Grasselli a leader in quantitative finance and algorithmic trading combining academic excellence with industry innovation."
 ---
-
 
 
 
 ## Table of Contents
 
-## Who is Martino Grasselli?
+## Biography of Martino Grasselli
 
-Martino Grasselli is a mathematician from Italy. He works at the University of Milan, where he teaches and does research in applied mathematics. His main interests are in the areas of partial differential equations and mathematical finance. This means he studies how certain types of equations can be used to solve problems in finance.
+Martino Grasselli is a renowned figure in the fields of quantitative and mathematical finance, with a particular expertise in algorithmic trading. He is recognized for his significant contributions to stochastic processes, derivatives, and various models used in financial mathematics. Grasselli currently holds prestigious academic and research positions, serving as the Scientific Director of the Institut des Crypto-Actifs at the Pôle Universitaire Léonard de Vinci Research Center in Paris La Défense. Concurrently, he is a full professor at the Mathematics Department of the University of Padua, Italy.
 
-In his work, Martino has written many papers and books. He often works with other mathematicians from around the world. His research has helped people understand more about how to use math in finance and other fields. Martino is also involved in organizing conferences and workshops, where he shares his knowledge with others.
+### Early Life and Education
 
-## What is Martino Grasselli's profession?
+Born and raised in Veneto, Italy, Martino Grasselli displayed an early interest in mathematics, which led him to the University of Padua, where he graduated with a degree in Mathematics in 1994. His academic prowess allowed him to pursue further studies, obtaining a Doctorate in Applied Mathematics from the University of Trieste in 1999. He expanded his expertise in quantitative finance by earning a Ph.D. at the prestigious University of Paris I: Panthéon-Sorbonne in 2001, supported by a fellowship from CREST – a preeminent institution for research and higher education.
 
-Martino Grasselli is a mathematician. He teaches and does research at the University of Milan in Italy. His job involves working with numbers and equations to solve problems.
+### Academic and Professional Career
 
-He focuses on a type of math called partial differential equations. He also uses math to help with problems in finance. This means he studies how money and investments work using math.
+Grasselli began his academic career as an Assistant Professor at the University of Verona from 1999 to 2005. He also enriched his international exposure through several visiting professorships at leading universities, including the University of Évry in France (2003), the University of Technology Sydney, and the Dauphine University in Paris.
 
-Martino writes papers and [books](/wiki/algo-trading-books) about his work. He also works with other mathematicians from different countries. He helps organize events where people can learn more about math and finance.
+In December 2005, Grasselli joined the University of Padua as a full professor in Quantitative Finance, a position he holds to this day. His teaching contributions span doctoral courses in Padua and Verona, and master's programs like MBA sessions at Cattolica Assicurazioni Private Banking in Verona and ESILV in Paris La Défense. His practical expertise is also evident through quantitative seminars at Bloomberg in New York, NATIXIS in Paris, and Prometeia in Bologna.
 
-## Where was Martino Grasselli born?
+Grasselli is also instrumental in executive education, having contributed to programs at Foundation CUOA in Altavilla, AIPB, and Intesa Private Banking in Milan.
 
-Martino Grasselli was born in Italy. Italy is a country in Europe known for its history, art, and food.
+### Research and Publications
 
-He grew up in Italy and later became a mathematician. He now works at the University of Milan, teaching and doing research in math and finance.
+Martino Grasselli's research interests cover a wide range of topics, including stochastic [volatility](/wiki/volatility-trading-strategies), derivatives valuation, illiquid assets pricing, model calibration, portfolio management, [interest rate](/wiki/interest-rate-trading-strategies) models, and quantitative models for demographic and mortality risk management. He has an extensive publication record, with over 40 research papers in top peer-reviewed international journals.
 
-## What are some notable works of Martino Grasselli?
+Important scientific contributions include co-authoring "Solvable Affine Term Structure Models" (2008), and "Hedging (Co)Variance Risk with Variance Swaps" (2011), among others. His work with L. Wagalath, "VIX vs VXX: a joint analytical approach" (2020), typifies his focus on market volatility and derivative instruments.
 
-Martino Grasselli has written many important papers and books. One of his notable works is a book called "Mathematical Finance: Theory, Modeling, Implementation". This book helps people understand how math can be used to study money and investments. It is used by students and professionals who want to learn more about finance using math.
+### Honors and Awards
 
-Another important work by Martino is a research paper about partial differential equations. These are types of math problems that are used in many areas, including finance. His paper helps other mathematicians understand how to solve these equations better. This work has been very helpful for people studying math and finance.
+Grasselli’s work has been recognized with several prestigious awards. In 2010, he received the Best Paper on Derivatives award from the Bruti-Liberati Foundation. He was also a recipient of the EUROPLACE Research Project Prize in 2006, awarded in collaboration with esteemed colleagues D. Gabay and D. Herlemont.
 
-Martino also works with other mathematicians on different projects. One of these projects is about how to use math to predict stock prices. This research is important for people who work in the stock market. By working together, Martino and his colleagues have made big steps in understanding how math can help with finance.
+### Industry Contributions
 
-## What awards has Martino Grasselli received?
+Beyond academia, Grasselli co-founded Aequo Solutions Srl, a spin-off of the University of Padua, where he served as President. Aequo Solutions focuses on innovative financial technologies, reflecting Grasselli’s pioneering interests in financial cybersecurity and decentralized finance.
 
-Martino Grasselli has received several awards for his work in mathematics. One of the awards he got is the "Giorgio Szego Prize". This prize is given to mathematicians who do excellent work in applied mathematics. Martino won this award because of his research in partial differential equations and mathematical finance.
+### Editorial and Advisory Roles
 
-Another award Martino received is the "Young Researcher Award" from the Italian Mathematical Union. This award is for young mathematicians who show great promise in their field. Martino got this award early in his career, showing that his work was already making a big impact.
+Martino Grasselli contributes to the academic community as an Associate Editor of the journal "Frontiers of Mathematical Finance" and "Data Science for Economics and Finance." His roles ensure he remains at the forefront of emerging trends and innovations in quantitative finance and related fields.
 
-These awards show that Martino's work is respected and valued by other mathematicians. They recognize his contributions to understanding how math can be used in finance and other areas.
+### Language Proficiency
 
-## What is Martino Grasselli's educational background?
+Grasselli's fluency in multiple languages, including Italian (native), French, and English, enhances his capability to engage with an international audience in both educational and professional settings.
 
-Martino Grasselli went to school in Italy. He studied math and got his first degree, called a Bachelor's degree, from the University of Padua. This is where he learned the basics of math and started to understand how it could be used in different ways.
+### Conclusion
 
-After his Bachelor's degree, Martino decided to learn more. He went to the University of Milan and got a Master's degree in mathematics. He then stayed at the University of Milan and worked on his Ph.D. His Ph.D. focused on partial differential equations, which are a special kind of math problem. This is where he began to study how math could be used in finance.
-
-With his Ph.D. completed, Martino became a professor at the University of Milan. He now teaches students and does research in math and finance. His education helped him become a successful mathematician and teacher.
-
-## How has Martino Grasselli influenced his field?
-
-Martino Grasselli has made a big impact on math and finance. He has written books and papers that help people understand how to use math to study money and investments. One of his books, "Mathematical Finance: Theory, Modeling, Implementation," is used by students and professionals to learn about finance using math. His research on partial differential equations has also helped other mathematicians solve these types of math problems better. This work is important because it can be used in many areas, not just finance.
-
-Martino also works with other mathematicians from around the world. Together, they study how to use math to predict stock prices. This research is very helpful for people who work in the stock market. By working together, Martino and his colleagues have made big steps in understanding how math can help with finance. Martino's work has been recognized with awards like the Giorgio Szego Prize and the Young Researcher Award from the Italian Mathematical Union. These awards show that his work is respected and valued by other mathematicians.
-
-## What are the main themes in Martino Grasselli's work?
-
-Martino Grasselli's work mainly focuses on using math to solve problems in finance. He studies a type of math called partial differential equations. These equations help him understand how things change over time and space. Martino uses these equations to look at how money and investments work. He writes books and papers to share his findings with others. One of his books, "Mathematical Finance: Theory, Modeling, Implementation," helps people learn how to use math in finance.
-
-Another big part of Martino's work is working with other mathematicians. He does research with people from different countries to predict stock prices and other financial matters. This teamwork has helped make big steps in understanding how math can help with finance. Martino's work has been recognized with awards like the Giorgio Szego Prize and the Young Researcher Award. These awards show that his work is important and respected in the field of mathematics and finance.
-
-## Can you describe Martino Grasselli's artistic style or approach?
-
-Martino Grasselli is a mathematician, not an artist, so he doesn't have an artistic style or approach in the traditional sense. Instead, his work focuses on using math to solve problems in finance. He studies a type of math called partial differential equations, which help him understand how things change over time and space. Martino uses these equations to look at how money and investments work. He writes books and papers to share his findings with others, helping people learn how to use math in finance.
-
-Martino also works with other mathematicians from different countries. Together, they do research to predict stock prices and other financial matters. This teamwork has helped make big steps in understanding how math can help with finance. Martino's work has been recognized with awards like the Giorgio Szego Prize and the Young Researcher Award. These awards show that his work is important and respected in the field of mathematics and finance.
-
-## What collaborations has Martino Grasselli been involved in?
-
-Martino Grasselli works with other mathematicians from around the world. They study how math can help predict stock prices and other financial matters. This teamwork is important because it helps make big steps in understanding finance better. By working together, they can share ideas and find new ways to use math in finance.
-
-One of Martino's collaborations is with a group of researchers who focus on partial differential equations. These equations are a type of math problem that can be used in many areas, not just finance. Martino and his colleagues work on solving these equations better, which helps other mathematicians and scientists in their work.
-
-Martino also collaborates with people to write books and papers. One of his books, "Mathematical Finance: Theory, Modeling, Implementation," was written with other experts. This book helps people learn how to use math in finance. These collaborations show that Martino's work is valued and respected by others in his field.
-
-## How has Martino Grasselli's work evolved over time?
-
-Martino Grasselli started his career by studying math at the University of Padua and then the University of Milan. He got a Bachelor's degree, a Master's degree, and a Ph.D. in mathematics. His early work focused on a type of math called partial differential equations. These equations help understand how things change over time and space. Martino used these equations to start looking at problems in finance. As he began his career, he wrote papers and worked with other mathematicians to learn more about how math can help with money and investments.
-
-Over time, Martino's work grew and changed. He wrote books like "Mathematical Finance: Theory, Modeling, Implementation," which helps people learn how to use math in finance. He also started working with more mathematicians from different countries. Together, they studied how to predict stock prices and other financial matters. This teamwork helped make big steps in understanding how math can help with finance. Martino's work became more recognized, and he received awards like the Giorgio Szego Prize and the Young Researcher Award. These awards show that his work is important and respected in the field of mathematics and finance.
-
-## What are critics saying about Martino Grasselli's latest projects?
-
-Critics have been talking about Martino Grasselli's latest projects. They say his work on using math to predict stock prices is very important. People in finance are using his ideas to make better decisions about money and investments. Critics also say that Martino's teamwork with other mathematicians is helping to solve big problems in finance. They think his work is making a real difference in the field.
-
-Martino's recent papers and books are also getting attention. Critics say his book "Mathematical Finance: Theory, Modeling, Implementation" is a great tool for students and professionals. They like how he explains complex ideas in a way that is easy to understand. Critics also say that his research on partial differential equations is helping other mathematicians solve these types of math problems better. Overall, critics think Martino's latest projects are important and useful for both math and finance.
-
+Martino Grasselli’s career embodies the fusion of theoretical prowess and practical application in financial mathematics. His work not only advances academic discourse but also impacts the evolving landscape of financial technologies. His influence is felt both in the classroom and the broader financial industry, where his insights continue to shape the future of [algorithmic trading](/wiki/algorithmic-trading) and quantitative finance.
