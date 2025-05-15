@@ -238,12 +238,24 @@ In summary, **bullish candlestick patterns** can “work” in algorithmic tradi
 
 ## References & Further Reading
 
-[1]: Bergstra, J., Bardenet, R., Bengio, Y., & Kégl, B. (2011). ["Algorithms for Hyper-Parameter Optimization."](https://papers.nips.cc/paper/4443-algorithms-for-hyper-parameter-optimization) Advances in Neural Information Processing Systems 24.
+[1]: The Robust Trader. ["Do Candlesticks have any predictive value? – Do they work?"](https://therobusttrader.com/do-candlesticks-have-any-predictive-value/)  
 
-[2]: ["Advances in Financial Machine Learning"](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089) by Marcos Lopez de Prado
+[2]: Investopedia. ["Using Bullish Candlestick Patterns to Buy Stocks."](https://www.investopedia.com/articles/active-trading/062315/using-bullish-candlestick-patterns-buy-stocks.asp)  
 
-[3]: ["Evidence-Based Technical Analysis: Applying the Scientific Method and Statistical Inference to Trading Signals"](https://www.amazon.com/Evidence-Based-Technical-Analysis-Scientific-Statistical/dp/0470008741) by David Aronson
+[3]: Investopedia. ["Bullish Engulfing Pattern: Definition, Example, and What It Means."](https://www.investopedia.com/terms/b/bullishengulfingpattern.asp)  
 
-[4]: ["Machine Learning for Algorithmic Trading"](https://github.com/PacktPublishing/Machine-Learning-for-Algorithmic-Trading-Second-Edition) by Stefan Jansen
+[4]: BabyPips. ["Bullish Engulfing Pattern Definition | Forexpedia™."](https://www.babypips.com/forexpedia/bullish-engulfing)  
 
-[5]: ["Quantitative Trading: How to Build Your Own Algorithmic Trading Business"](https://books.google.com/books/about/Quantitative_Trading.html?id=j70yEAAAQBAJ) by Ernest P. Chan
+[5]: TraderLion. ["What Is A Bullish Engulfing Pattern?"](https://traderlion.com/technical-analysis/bullish-engulfing-pattern/)  
+
+[6]: Quantified Strategies. ["Bullish Engulfing Candlestick Pattern: Backtest Analysis."](https://www.quantifiedstrategies.com/bullish-engulfing-candlestick-pattern/)  
+
+[7]: Investopedia. ["Hammer Candlestick: What It Is and How Investors Use It."](https://www.investopedia.com/terms/h/hammer.asp)  
+
+[8]: Quantified Strategies. ["Hammer Candlestick Pattern: Backtest."](https://www.quantifiedstrategies.com/hammer-candlestick-pattern/)  
+
+[9]: Quantified Strategies. ["Morning Star Candlestick Pattern: Backtest Results."](https://www.quantifiedstrategies.com/morning-star-candlestick-pattern/)  
+
+[10]: Investopedia. ["Morning Stars: How to Trade the Morning Star Candlestick Pattern."](https://www.investopedia.com/terms/m/morningstar.asp)  
+
+[11]: Strike.money. ["Morning Star Candlestick: Definition, Structure, Trading, Benefits."](https://www.strike.money/technical-analysis/morning-star)  
