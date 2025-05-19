@@ -1,6 +1,8 @@
 ---
-title: "Kepos Capital (Algo Trading)"
-description: "Explore algorithmic trading with Kepos Capital, a leader since 2010. Discover how cutting-edge strategies drive efficiency, liquidity, and risk management."
+category: quant_concept
+description: Explore algorithmic trading with Kepos Capital, a leader since 2010.
+  Discover how cutting-edge strategies drive efficiency, liquidity, and risk management.
+title: Kepos Capital (Algo Trading)
 ---
 
 Algorithmic trading, a technological advancement that automates financial trading processes through the use of computer algorithms, is becoming increasingly vital in the financial market. It operates on pre-defined criteria and algorithms to execute trading orders at high speeds and frequencies which are impossible for human traders alone. The growing adoption of algorithmic trading is driven by its capability to enhance market efficiency, provide liquidity, and ensure stringent risk management.

@@ -37,7 +37,7 @@ Yahoo Finance is a popular go-to for free historical data on equities (stocks, E
 
 **Cons:** The recent move to paywall CSV downloads is a drawback for non-programmers. Intraday data is very limited in depth (not suitable for serious intraday strategy backtests). Data quality, while decent for free, can occasionally have errors or missing days, and as noted, dividend/split adjustments might require verification. Also, Yahoo’s data is delayed (not for live trading use) – fine for historical backtests, but keep in mind if you ever pull near-real-time quotes, they lag.
 
-In summary, Yahoo Finance is great for free daily historical data on stocks and ETFs, making it useful for backtesting longer-term strategies. Just be prepared to use a library or pay for Premium if you need to download a lot of data regularly. And double-check data accuracy (especially around corporate actions) or use another source to confirm critical values.
+In summary, Yahoo Finance is great for free daily historical data on stocks and ETFs, making it useful for [backtesting](/wiki/backtesting) longer-term strategies. Just be prepared to use a library or pay for Premium if you need to download a lot of data regularly. And double-check data accuracy (especially around corporate actions) or use another source to confirm critical values.
 
 ## Alpha Vantage – Free API for Stocks, Forex, and Crypto
 
@@ -77,7 +77,7 @@ In summary, Alpaca’s Market Data API is an excellent free resource for retail 
 
 ## Binance API – Free Cryptocurrency Market Data
 
-For cryptocurrency traders, exchange APIs are often the best source of historical data. [Binance](https://www.binance.com/en/binance-api), being one of the largest crypto exchanges globally, offers an extensive and free historical data via its API. Retail traders interested in backtesting crypto strategies (on Bitcoin, Ethereum, altcoins, etc.) can leverage Binance’s data for accurate price history.
+For [cryptocurrency](/wiki/cryptocurrency) traders, exchange APIs are often the best source of historical data. [Binance](https://www.binance.com/en/binance-api), being one of the largest crypto exchanges globally, offers an extensive and free historical data via its API. Retail traders interested in backtesting crypto strategies (on Bitcoin, Ethereum, altcoins, etc.) can leverage Binance’s data for accurate price history.
 
 **Data Access & Formats:** Binance provides a public REST API (as well as WebSocket streams for live data). The REST API includes endpoints for historical klines (candlesticks), trades, and other market data. Data is returned in JSON. The candlestick endpoint allows you to specify symbol, interval (e.g. 1min, 5min, 1h, 1d), and date range, and will return OHLCV data. By default it returns up to 500 or 1000 data points per call, but you can loop calls to get the full history. Binance’s API is free to use; for higher rate limits you might need an API key (which is free to create on their exchange). There are also third-party solutions like Binance Data Collection that aggregate Binance’s data into downloadable files ￼, or sites like CryptoDataDownload that provide Binance historical data in CSV format for convenience.
 
@@ -139,7 +139,7 @@ Beyond pricing data, Tiingo has a news API that provides curated news articles a
 - **For crypto:** Tiingo’s crypto feed includes intraday (minute) bars and daily prices for all supported coins. Since they aggregate multiple exchanges, their data might represent a composite price.
 - **For forex:** They provide intraday and daily data, likely minute bars and daily rates.
 
-In terms of history length: Stocks have 30+ years (even 50 in some cases) daily ￼, intraday for at least a few years where available. Crypto depends on when the coin started trading, but Tiingo had data since around 2013 for Bitcoin, etc., and since inception for others. FX data goes back years as well.
+In terms of history length: Stocks have 30+ years (even 50 in some cases) daily ￼, intraday for at least a few years where available. Crypto depends on when the coin started trading, but Tiingo had data since around 2013 for Bitcoin, etc., and since inception for others. [FX](/wiki/fx-anomaly) data goes back years as well.
 
 **Cost & Plans:** Tiingo operates on a freemium model:
 
@@ -195,7 +195,7 @@ In summary, Polygon.io is an excellent choice for retail traders who need instit
 
 ## Interactive Brokers API – Multi-Asset Data for Account Holders
 
-Many retail traders use [Interactive Brokers (IB)](https://www.interactivebrokers.co.uk/fr/trading/ib-api.php) for trading due to its global market access and low commissions. IB isn’t primarily a data vendor, but if you have an IB account (even a free paper trading account), you can use their API to retrieve historical data on a wide range of assets. This can be a cost-effective way to get data for backtesting, especially for asset classes like futures or international stocks where dedicated data sources can be pricey.
+Many retail traders use [[Interactive Brokers](/wiki/interactive-brokers-api) (IB)](https://www.interactivebrokers.co.uk/fr/trading/ib-api.php) for trading due to its global market access and low commissions. IB isn’t primarily a data vendor, but if you have an IB account (even a free paper trading account), you can use their API to retrieve historical data on a wide range of assets. This can be a cost-effective way to get data for backtesting, especially for asset classes like futures or international stocks where dedicated data sources can be pricey.
 
 **Data Access & Formats:** Interactive Brokers offers several APIs (Python, Java, C++, etc.) to connect to their Trader Workstation (TWS) or IB Gateway. Through these APIs, you can request historical data for a given instrument. The data is returned in a structured format (typically as plain text lines that your API client parses into objects; not exactly JSON/CSV, but you can convert it). There’s also an interface called IBKR Quant (essentially their Python for analysis initiative) which provides easier access for Python users. IB’s API is a bit more involved to use than a simple REST call – you run their software and your program talks to it.
 
@@ -220,7 +220,7 @@ In summary, Interactive Brokers is a solid “hidden” data source for those wh
 
 ## Bloomberg Terminal – Institutional-Grade Data (All Asset Classes)
 
-No discussion of market data would be complete without mentioning the [Bloomberg Terminal](https://www.bloomberg.com/professional/products/bloomberg-terminal/), which is the gold standard for financial data – albeit one far beyond the budget of typical retail traders. Bloomberg provides everything: equities, bonds, forex, commodities, derivatives, macro data, news, and more, with decades of history and up-to-the-second updates. It’s what professionals at banks and hedge funds use for both research and trading. While not aimed at retail, it’s useful to understand what Bloomberg offers (and why most individuals seek cheaper alternatives).
+No discussion of market data would be complete without mentioning the [Bloomberg Terminal](https://www.bloomberg.com/professional/products/bloomberg-terminal/), which is the gold standard for financial data – albeit one far beyond the budget of typical retail traders. Bloomberg provides everything: equities, bonds, [forex](/wiki/forex-system), commodities, derivatives, macro data, news, and more, with decades of history and up-to-the-second updates. It’s what professionals at banks and hedge funds use for both research and trading. While not aimed at retail, it’s useful to understand what Bloomberg offers (and why most individuals seek cheaper alternatives).
 
 **Data Access & Formats:** The Bloomberg Terminal is a proprietary software platform. Subscribers get one (or more) terminal login that runs on a PC (or via Bloomberg’s web/mobile app). Through this interface, you can query historical data (with Bloomberg’s specialized functions) and export to Excel, etc. Bloomberg also has an API (BPIPE) and an Excel add-in that allows programmatic retrieval of data into custom applications. Data can be pulled as time series, or you can use their Python API to get data into Pandas dataframes, for instance. The format is typically whatever you request (the API returns data objects, Excel returns cells, etc.). It’s not as straightforward as a REST API, but it’s extremely powerful.
 
@@ -298,7 +298,7 @@ By carefully matching your needs with a provider’s offerings, you can minimize
 
 ## Conclusion
 
-Historical market data is the backbone of any backtesting and quantitative trading endeavor. Today’s retail traders are fortunate to have access to a rich ecosystem of data sources – from completely free APIs and exchange data, to affordable premium services, all the way to institutional-grade terminals. Equities, forex, crypto, and futures each have their go-to data providers, and we’ve covered many of the best options in each category.
+Historical market data is the backbone of any backtesting and [quantitative trading](/wiki/quantitative-trading) endeavor. Today’s retail traders are fortunate to have access to a rich ecosystem of data sources – from completely free APIs and exchange data, to affordable premium services, all the way to institutional-grade terminals. Equities, forex, crypto, and futures each have their go-to data providers, and we’ve covered many of the best options in each category.
 
 For most individual traders, a combination of free and low-cost sources can cover all needs. For example, you might use Yahoo Finance or Alpha Vantage for long-term stock data, Alpaca or Polygon for intraday stock quotes, Binance for crypto ticks, and Nasdaq Data Link for that odd dataset like continuous futures or macro indicators. As your strategy development progresses, you can invest in better data (Tiingo or Polygon premium tiers, etc.) to refine your edge. Each step of the way, weigh the cost against the value added to your strategy – often, better data can improve a strategy, but diminishing returns do set in.
 
